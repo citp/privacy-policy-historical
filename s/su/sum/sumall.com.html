@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sumall.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504090832id_/https%3A//sumall.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sumall.com privacy policy that was archived on 2012-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121107065313id_/https%3A//sumall.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -9,71 +9,420 @@
         <meta name="description" content="SumAll takes customer privacy very seriously. Learn more about our privacy policy here.">
         <meta name="author" content="SumAll">
         <meta name="google" value="notranslate">
-        <meta name="viewport" content="width=1100">
+        <meta name="viewport" content="width=1200">
         <link rel="shortcut icon" href="/favicon.ico">
+        <meta property="og:title" content="SumAll">
+        <meta property="og:site_name" content="SumAll">
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="https://sumall.com/public/external/img/identity/sumall_seal_100x100.png">
+        <meta property="og:url" content="https://sumall.com/">
+        <meta property="og:description" content="SumAll is a business reporting tool used by thousands of online merchants like you.">
+        <!-- 1140px Grid styles for IE -->
+        <!--[if lte IE 9]><link rel="stylesheet" href="/public/external/css/ie.css" type="text/css" media="screen" /><![endif]-->
+        <link rel="stylesheet" href="/public/external/css/1140.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="/public/stylesheets/ui.css">
         <link rel="stylesheet" href="/public/external/css/website.css">
-        <script src="/public/javascripts/common/modernizr-2.0.6.custom.min.js"></script>
-    </head>
+        <link rel="stylesheet" href="/public/external/css/website-override.css">
+        <link rel="stylesheet" href="/public/external/css/chosen.css">
+
+
+
+        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="/public/javascripts/common/modernizr-2.6.2.custom.min.js"></script>
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body class="clearfix">
         <div class="outer_wrapper">
             <div class="inner_wrapper clearfix">
 
-<div class="main_nav unselectable">
-    <ul>
-        <li class="identity">
-            <a href="https://sumall.com/"><img src="/public/external/img/sumall_logo.png" alt="SumAll"></a>
-        </li>
-                <li id="loginButton" class="log_in_btn">
-            <a href="/" tabindex="1">Log In</a>
-        </li>
-            <!--no break between nav list items, otherwise it will create a 2 pixel gap between them-->
-        <li>
-            <a href="https://sumall.com/tour">Tour</a>
-        </li><li>
-            <a href="https://sumall.com/about">About</a>
-        </li><li>
-            <a href="https://sumall.com/pricing">Pricing</a>
-        </li><li>
-            <a href="https://sumall.com/support">Support</a>
-        </li>
-    </ul>
-</div>
-<div id="internalLogin" class="login_content hidden clearfix unselectable">
-    <div class="login_background">
-        <form method="POST" action="/jsdisabled" id="loginForm" novalidate="">
-            <input type="hidden" name="authenticityToken" value="33566c8f3dcd6d258d0d4776759b8a925d827549">
-            <fieldset>
-                <div class="email_pw_field_embedded">
-                    <div class="field">
-                        <input type="email" name="email" title="&nbsp; Email" spellcheck="false" autofocus="">
-                    </div>
-                    <div class="field last_field pw_field">
-                        <input type="password" name="password" title="&nbsp; Password">
-                    </div>
-                    <div class="login_submit">
-                        <button type="submit"><span class="handbook_light">¬</span></button>
-                    </div>
-                </div>
-            </fieldset>
-            <fieldset>
-                <div class="remember_me_embedded">
-                    <label><input type="checkbox" name="rememberme" value="true" style="width:auto;">&nbsp; Keep me signed in</label>
-                </div>
-            </fieldset>
-            <p class="form_error" id="loginError"></p> 
-            <p class="verify_notice" id="verifyNotice"></p>
-        </form>
+
+
+
+<div id="accountSignup" class="secureSignup hidden clearfix">
+
+    <div class="sign_up_support">
+        <p>Help &nbsp; <a href="mailto:support@sumall.com">support@sumall.com</a> &nbsp; <button class="toggle_telephone_number">+1 917 719 0255</button></p>
     </div>
-    <div class="internal_announcement">
-        <p>SumAll's now a mobile app</p>
-        <a href="https://play.google.com/store/apps/details?id=com.sumall.android"><img src="/public/external/img/partners/droid_small_icon.png" alt="Droid"></a>
-        <a href="http://itunes.apple.com/us/app/sumall/id511328203?mt=8&amp;ls=1"><img src="/public/external/img/partners/apple_small_icon.png" alt="Apple"></a>
+
+    <div class="load_seal"><p class="sumall_icon">@</p></div>
+    
+    <form method="POST" action="/signup/register" class="secure_signup_form" novalidate="">
+        <input type="hidden" name="authenticityToken" value="b87e91c8d3fb2705d5e35b9943e794a81f8d902d">
+
+
+        <fieldset>
+            <div class="signup_first_last_name">
+                <input type="text" value="" id="firstName" name="firstName" title="&nbsp;First name" autofocus="autofocus">
+                <div class="vertical_line"></div>
+                <input type="text" value="" id="lastName" name="lastName" title="&nbsp;Last name">
+            </div>
+            <p class="form_error firstNameError">Please fix</p>
+            <p class="form_error lastNameError">Please fix</p>
+
+            <div class="signup_creds">
+                <input type="email" value="" id="email" name="email" title="&nbsp;Email">
+                <hr>
+                <input type="password" value="" id="password" name="password" title="&nbsp;Password">
+            </div>
+            <p class="form_error emailError">Please fix</p>
+            <p class="form_error passwordError">Please fix</p>
+
+            <div>
+                
+
+
+<select name="timezone" size="1" class="chzn-select" data-placeholder="Select time zone">
+    
+                <option value=""></option>
+                
+    
+        <option value="US/Hawaii">(GMT-10:00) Hawaii</option>
+    
+        <option value="US/Alaska">(GMT-09:00) Alaska</option>
+    
+        <option value="US/Pacific">(GMT-08:00) Pacific Time (US &amp; Canada)</option>
+    
+        <option value="US/Arizona">(GMT-07:00) Arizona</option>
+    
+        <option value="US/Mountain">(GMT-07:00) Mountain Time (US &amp; Canada)</option>
+    
+        <option value="US/Central">(GMT-06:00) Central Time (US &amp; Canada)</option>
+    
+        <option value="US/Eastern">(GMT-05:00) Eastern Time (US &amp; Canada)</option>
+    
+        <option value="US/East-Indiana">(GMT-05:00) Indiana (East)</option>
+    
+        <option value="Etc/GMT-11">(GMT-11:00) International Date Line West</option>
+    
+        <option value="Pacific/Midway">(GMT-11:00) Midway Island</option>
+    
+        <option value="Pacific/Samoa">(GMT-11:00) Samoa</option>
+    
+        <option value="America/Tijuana">(GMT-08:00) Tijuana</option>
+    
+        <option value="America/Chihuahua">(GMT-07:00) Chihuahua</option>
+    
+        <option value="America/Mazatlan">(GMT-07:00) Mazatlan</option>
+    
+        <option value="Central America">(GMT-06:00) Central America</option>
+    
+        <option value="America/Mexico_City">(GMT-06:00) Mexico City</option>
+    
+        <option value="America/Monterrey">(GMT-06:00) Monterrey</option>
+    
+        <option value="Canada/Saskatchewan">(GMT-06:00) Saskatchewan</option>
+    
+        <option value="America/Bogota">(GMT-05:00) Bogota</option>
+    
+        <option value="America/Lima">(GMT-05:00) Lima</option>
+    
+        <option value="America/Caracas">(GMT-04:30) Caracas</option>
+    
+        <option value="Canada/Atlantic">(GMT-04:00) Atlantic Time (Canada)</option>
+    
+        <option value="America/La_Paz">(GMT-04:00) La Paz</option>
+    
+        <option value="America/Santiago">(GMT-04:00) Santiago</option>
+    
+        <option value="Canada/Newfoundland">(GMT-03:30) Newfoundland</option>
+    
+        <option value="America/Buenos_Aires">(GMT-03:00) Buenos Aires</option>
+    
+        <option value="Etc/GMT+3">(GMT-03:00) Greenland</option>
+    
+        <option value="Etc/GMT+2">(GMT-02:00) Mid-Atlantic</option>
+    
+        <option value="Atlantic/Azores">(GMT-01:00) Azores</option>
+    
+        <option value="Atlantic/Cape_Verde">(GMT-01:00) Cape Verde Is.</option>
+    
+        <option value="Africa/Casablanca">(GMT+00:00) Casablanca</option>
+    
+        <option value="Europe/Dublin">(GMT+00:00) Dublin</option>
+    
+        <option value="Europe/Lisbon">(GMT+00:00) Lisbon</option>
+    
+        <option value="Europe/London">(GMT+00:00) London</option>
+    
+        <option value="UTC">(GMT+00:00) UTC</option>
+    
+        <option value="Europe/Amsterdam">(GMT+01:00) Amsterdam</option>
+    
+        <option value="Europe/Belgrade">(GMT+01:00) Belgrade</option>
+    
+        <option value="Europe/Berlin">(GMT+01:00) Berlin</option>
+    
+        <option value="Europe/Bratislava">(GMT+01:00) Bratislava</option>
+    
+        <option value="Europe/Brussels">(GMT+01:00) Brussels</option>
+    
+        <option value="Europe/Budapest">(GMT+01:00) Budapest</option>
+    
+        <option value="Europe/Copenhagen">(GMT+01:00) Copenhagen</option>
+    
+        <option value="Europe/Ljubljana">(GMT+01:00) Ljubljana</option>
+    
+        <option value="Europe/Madrid">(GMT+01:00) Madrid</option>
+    
+        <option value="Europe/Paris">(GMT+01:00) Paris</option>
+    
+        <option value="Europe/Prague">(GMT+01:00) Prague</option>
+    
+        <option value="Europe/Rome">(GMT+01:00) Rome</option>
+    
+        <option value="Europe/Sarajevo">(GMT+01:00) Sarajevo</option>
+    
+        <option value="Europe/Skopje">(GMT+01:00) Skopje</option>
+    
+        <option value="Europe/Stockholm">(GMT+01:00) Stockholm</option>
+    
+        <option value="Europe/Vienna">(GMT+01:00) Vienna</option>
+    
+        <option value="Europe/Warsaw">(GMT+01:00) Warsaw</option>
+    
+        <option value="Europe/Zagreb">(GMT+01:00) Zagreb</option>
+    
+        <option value="Europe/Athens">(GMT+02:00) Athens</option>
+    
+        <option value="Europe/Bucharest">(GMT+02:00) Bucharest</option>
+    
+        <option value="Africa/Cairo">(GMT+02:00) Cairo</option>
+    
+        <option value="Africa/Harare">(GMT+02:00) Harare</option>
+    
+        <option value="Europe/Helsinki">(GMT+02:00) Helsinki</option>
+    
+        <option value="Europe/Istanbul">(GMT+02:00) Istanbul</option>
+    
+        <option value="Asia/Jerusalem">(GMT+02:00) Jerusalem</option>
+    
+        <option value="Europe/Kiev">(GMT+02:00) Kiev</option>
+    
+        <option value="Europe/Minsk">(GMT+02:00) Minsk</option>
+    
+        <option value="Europe/Riga">(GMT+02:00) Riga</option>
+    
+        <option value="Europe/Sofia">(GMT+02:00) Sofia</option>
+    
+        <option value="Europe/Tallinn">(GMT+02:00) Tallinn</option>
+    
+        <option value="Europe/Vilnius">(GMT+02:00) Vilnius</option>
+    
+        <option value="Europe/Moscow">(GMT+03:00) Moscow</option>
+    
+        <option value="Europe/Volgograd">(GMT+03:00) Volgograd</option>
+    
+        <option value="Asia/Baghdad">(GMT+03:00) Baghdad</option>
+    
+        <option value="Asia/Kuwait">(GMT+03:00) Kuwait</option>
+    
+        <option value="Africa/Nairobi">(GMT+03:00) Nairobi</option>
+    
+        <option value="Asia/Riyadh">(GMT+03:00) Riyadh</option>
+    
+        <option value="Asia/Tehran">(GMT+03:30) Tehran</option>
+    
+        <option value="Asia/Baku">(GMT+04:00) Baku</option>
+    
+        <option value="Asia/Muscat">(GMT+04:00) Muscat</option>
+    
+        <option value="Asia/Tbilisi">(GMT+04:00) Tbilisi</option>
+    
+        <option value="Asia/Yerevan">(GMT+04:00) Yerevan</option>
+    
+        <option value="Asia/Kabul">(GMT+04:30) Kabul</option>
+    
+        <option value="Asia/Karachi">(GMT+05:00) Karachi</option>
+    
+        <option value="Asia/Tashkent">(GMT+05:00) Tashkent</option>
+    
+        <option value="Asia/Kolkata">(GMT+05:30) Kolkata</option>
+    
+        <option value="Asia/Kathmandu">(GMT+05:45) Kathmandu</option>
+    
+        <option value="Asia/Almaty">(GMT+06:00) Almaty</option>
+    
+        <option value="Asia/Dhaka">(GMT+06:00) Dhaka</option>
+    
+        <option value="Asia/Rangoon">(GMT+06:30) Rangoon</option>
+    
+        <option value="Asia/Bangkok">(GMT+07:00) Bangkok</option>
+    
+        <option value="Asia/Jakarta">(GMT+07:00) Jakarta</option>
+    
+        <option value="Asia/Chongqing">(GMT+08:00) Chongqing</option>
+    
+        <option value="Asia/Hong_Kong">(GMT+08:00) Hong Kong</option>
+    
+        <option value="Asia/Kuala_Lumpur">(GMT+08:00) Kuala Lumpur</option>
+    
+        <option value="Australia/Perth">(GMT+08:00) Perth</option>
+    
+        <option value="Asia/Singapore">(GMT+08:00) Singapore</option>
+    
+        <option value="Asia/Taipei">(GMT+08:00) Taipei</option>
+    
+        <option value="Asia/Ulaanbaatar">(GMT+08:00) Ulaan Bataar</option>
+    
+        <option value="Asia/Urumqi">(GMT+08:00) Urumqi</option>
+    
+        <option value="Asia/Seoul">(GMT+09:00) Seoul</option>
+    
+        <option value="Asia/Tokyo">(GMT+09:00) Tokyo</option>
+    
+        <option value="Australia/Adelaide">(GMT+09:30) Adelaide</option>
+    
+        <option value="Australia/Darwin">(GMT+09:30) Darwin</option>
+    
+        <option value="Australia/Brisbane">(GMT+10:00) Brisbane</option>
+    
+        <option value="Pacific/Guam">(GMT+10:00) Guam</option>
+    
+        <option value="Australia/Hobart">(GMT+10:00) Hobart</option>
+    
+        <option value="Australia/Melbourne">(GMT+10:00) Melbourne</option>
+    
+        <option value="Pacific/Port_Moresby">(GMT+10:00) Port Moresby</option>
+    
+        <option value="Australia/Sydney">(GMT+10:00) Sydney</option>
+    
+        <option value="Asia/Kamchatka">(GMT+11:00) Kamchatka</option>
+    
+        <option value="Pacific/Auckland">(GMT+12:00) Auckland</option>
+    
+        <option value="Pacific/Fiji">(GMT+12:00) Fiji</option>
+    
+</select>
+                <p class="form_error timezoneError">Please fix</p>
+            </div>
+
+            <div class="legal_checkbox unselectable">
+                <label><input type="checkbox" value="true" id="agreement" name="agreement"> I agree to the <a href="/terms" target="_blank">Terms of Service</a> and <a href="/privacy" target="_blank">Privacy Policy</a>.</label>
+                <p class="form_error agreementError">Agreement required for account creation</p>
+            </div>
+            
+            
+            <input type="hidden" name="channel" value="ORGANIC">
+            <input type="hidden" name="referrer" id="referrer">
+            <input type="hidden" name="landingPage" id="landingPage">
+            
+
+            <button type="submit" class="signUpButton primary_button">Begin Experience</button>
+        </fieldset>
+            
+    </form>
+
+    <div class="success_verification_msg">
+        <div class="sequential_appearance">
+            <h1>Congrats <span class="firstname"></span></h1>
+            <p class="verify_one">We've sent you an email <span class="sumall_icon">h</span></p>
+            <button class="verify_three primary_button">Start Now</button>
+        </div>
     </div>
-    <div class="form_help">
-        <ul class="prox_light">
-            <li><a href="https://sumall.com/password/forgot">Forgot Password ?</a></li>
-            <li><a href="https://sumall.com/signup">Create a new account</a></li>
+
+    <div class="trust_seals_container">
+        <ul>
+            <li><a href="https://privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" target="_blank"><img src="/public/external/img/trust_seals/truste.png" alt="TrustE"></a></li>
+            <li><a href="https://seal.digicert.com/seals/popup/?tag=aeEK9lUm&amp;url=sumall.com" target="_blank"><img src="/public/external/img/trust_seals/digicert.png" alt="DigiCert"></a></li>
+            <li><a href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com" target="_blank"><img src="/public/external/img/trust_seals/mcafee.png" alt="McAfee"></a></li>
         </ul>
+    </div>
+
+    <div class="telephone_number">
+       <a href="callto:1-917-719-0255">Dial +1 917 719 0255</a><p class="sumall_icon telephone_closer_trigger">*</p>
+    </div>
+</div>
+
+<!-- nav bar -->
+<div class="container prime_nav">
+    <div class="row">
+        <div class="twocol logotype sumall_icon">
+            <a href="https://sumall.com/"><em>SumAll</em><!-- <span class="beta_label">Beta</span> --></a>
+        </div>
+
+        <div class="tencol">
+            <ul>
+                <li class="page_link"><a href="https://sumall.com/tour">Tour</a></li>
+                <li class="page_link"><a href="https://sumall.com/testimonials">Testimonials</a></li>
+                <li class="page_link"><a href="https://sumall.com/about">About</a></li>
+                <li class="page_link"><a href="https://sumall.com/pricing">Pricing</a></li>
+                <li class="passport_button">
+                    
+                    <a href="/" tabindex="1" id="loginButton">Log In</a>
+                </li>
+            </ul>
+        </div>
+
+
+    </div>
+</div>
+
+<div class="container login">
+    <div class="row">
+        <div class="login_content hidden clearfix twelvecol last unselectable">
+            <div class="login_background">
+                <form method="POST" action="/jsdisabled" id="loginForm" novalidate="">
+                    <input type="hidden" name="authenticityToken" value="b87e91c8d3fb2705d5e35b9943e794a81f8d902d">
+
+                    <fieldset>
+                        <div class="email_pw_field_embedded">
+                            <div class="field">
+                                <input type="email" name="email" title="&nbsp; Email" spellcheck="false" autofocus="">
+                            </div>
+                            <div class="field last_field pw_field">
+                                <input type="password" name="password" title="&nbsp; Password">
+                            </div>
+                            <div class="login_submit">
+                                <button type="submit"><span class="sumall_icon">=</span></button>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <div class="remember_me_embedded">
+                            <label><input type="checkbox" name="rememberme" value="true" style="width:auto;">&nbsp; Keep me signed in</label>
+                        </div>
+                    </fieldset>
+                    <p class="form_error loginError"></p> 
+                    <p class="verify_notice verifyNotice"></p>
+                </form>
+            </div>
+            <!-- <div class="internal_announcement">
+                <p>SumAll's now a mobile app</p>
+                <a href="https://play.google.com/store/apps/details?id=com.sumall.android"><img src="/public/external/img/partners/droid_small_icon.png" alt="Droid" /></a>
+                <a href="http://itunes.apple.com/us/app/sumall/id511328203?mt=8&ls=1"><img src="/public/external/img/partners/apple_small_icon.png" alt="Apple" /></a>
+            </div> -->
+            <div class="form_help">
+                <ul class="prox_light">
+                    <li><a href="https://sumall.com/password/forgot">Forgot Password ?</a></li>
+                    <li><a href="https://sumall.com/signup">Create a new account</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container signup_nav">
+    <div class="row">
+        <div class="twelvecol">
+
+            <div class="sumall_icon"><a href="https://sumall.com/">$</a></div>
+            <div class="secureSignupTrigger">
+                <ul class="slot">
+                    <li>Get Started Now </li>
+                    <li>Pick up the Tool </li>
+                    <li>Join The Thousands </li>
+                    <li>Might Get Addictive </li>
+                    <li>Takeoff with SumAll </li>
+                    <li>Join While Free </li>
+                    <li>Begin Data Adventure </li>
+                    <li>Make Mom Proud </li>
+                    <li>Give it a Shot </li>
+                    <li>Command Your Data </li>
+                    <li>Get Data Clarity </li>
+                    <li>Put Data to Work </li>
+                </ul>
+            </div>
+
+        </div>
     </div>
 </div>
 
@@ -84,196 +433,189 @@
 </noscript>
 
 
-        <header class="support_banner">
-        
-            <div class="inner_header">
-                <h1>Your <span class="prox_semibold">privacy</span> is our policy.</h1>
+
+
+
+
+<div class="container legal">
+    <div class="row">
+
+        <h1>Privacy policy</h1>
+
+        <div class="sixcol">
+            <p>At SumAll Inc. we’re all about transparency, so we could not be more excited for you to read our privacy policy that provides you a window into how we collect, use and share your information.
+            </p>
+            
+            <p>
+            SumAll Inc. (“SumAll”) is committed to protecting your privacy and the privacy of your customers. We have prepared this Privacy Policy to describe to you our practices regarding the collection and use of data from users of our website, located at <a href="https://sumall.com/">sumall.com</a> (“Site”), and related Services (as defined in the Terms of Use). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you simply browse the Site you are referred to in this Privacy Policy as a “Visitor.” If you have registered with the Site and receive Services you are referred to in this Privacy Policy as a “Subscriber.” Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <a href="/terms">sumall.com/terms</a>. 
+            </p>
+            <div class="seals"> 
+                <div id="360a49f4-639f-4762-8413-d667036babe7" class="truste_seal"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/SumAll/asc?rid=360a49f4-639f-4762-8413-d667036babe7"></script><a href="//privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" id="image1" src="//privacy-policy.truste.com/privacy-seal/SumAll/seal?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" alt="TRUSTe online privacy certification"></a></div>
+            
+                <div id="DigiCertClickID_aeEK9lUm" class="digi_seal"><script type="text/javascript">var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_aeEK9lUm", "3", "m", "white", "aeEK9lUm"]);(function(){var cid=document.createElement("script");cid.type="text/javascript";cid.async=true;cid.src=("https:" === document.location.protocol ? "https://" : "http://")+"seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());</script><script type="text/javascript" async="" src="https://seal.digicert.com/seals/cascade/seal.min.js"></script></div>
+            
+                <div class="mcafee_seal"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/sumall.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a></div>
             </div>
+            <p>
+            SumAll has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or software APIs. The TRUSTe program covers only information that is collected through this Web site, <a href="https://sumall.com/">sumall.com</a>. 
+            <br>
+            <br>
+            TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@sumall.com">support@sumall.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.
+            <br>
+            <br>
+            Generally, SumAll collects the following types of information:
+            </p>
+            <ul>
+                <li>Visitor Data &amp; Anonymous Visitor Data: When we refer to “Visitor Data” we mean data that allows someone to identify or contact a Visitor, including, for example, their name, address, telephone number, e-mail address, as well as any other non-public information about them that is associated with or linked to any of the foregoing data. When we refer to “Anonymous Visitor Data” we mean data that is not used, or intended to be used, to identify a particular Visitor.</li>
+                
+                <li>Subscriber Data &amp; Anonymous Subscriber Data: When we refer to “Subscriber Data” we mean data that allows someone to identify or contact a Subscriber, including, for example, their name, address, telephone number, e-mail address, as well as any other non-public information about them that is associated with or linked to any of the foregoing data. When we refer to “Anonymous Subscriber Data” we mean data that is not used, or intended to be used, to identify a particular Subscriber.</li>
+                
+                <li>Commerce Data &amp; Anonymous Commerce Data: When we refer to “Commerce Data” we mean data that relates to the financial performance of a Subscriber company, including figures related to their company’s sales, revenue, costs, vendors, customers, inventory and discounts, as well as transaction information that may include personally identifiable information of a Subscriber company’s customers. When we refer to “Anonymous Commerce Data” we mean data that is not used, or intended to be used, to identify a particular Subscriber or customer of Subscriber.</li>
+            </ul>
+            <p>
+            Visitor Data, Subscriber Data and Commerce Data may be referred to herein collectively as “Personal Data.” Anonymous Visitor Data, Anonymous Subscriber Data and Anonymous Commerce Data may be referred to herein collectively as “Anonymous Data.”</p>
             
-        </header> <!--end header-->
-        
-        <div class="content clearfix">
-        
-            <div role="main">
+            <h2>1. User Consent</h2> 
+            <p>By using our Site or Services you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of data in accordance with this Privacy Policy.</p>
             
-                <div class="inner_main">
-                    
-                    <div class="legalCopy">
-                        <p>At SumAll Inc. we’re all about transparency, so we could not be more excited for you to read our privacy policy that provides you a window into how we collect, use and share your information.
-                        </p>
-                        
-                        <p>
-                        SumAll Inc. (“SumAll”) is committed to protecting your privacy and the privacy of your customers. We have prepared this Privacy Policy to describe to you our practices regarding the collection and use of data from users of our website, located at <a href="https://sumall.com/">www.sumall.com</a> (“Site”), and related Services (as defined in the Terms of Use). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you simply browse the Site you are referred to in this Privacy Policy as a “Visitor.” If you have registered with the Site and receive Services you are referred to in this Privacy Policy as a “Subscriber.” Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at <a href="/terms">sumall.com/terms</a>. 
-                        </p>
-                        <div class="seals"> 
-                            <div id="360a49f4-639f-4762-8413-d667036babe7" class="truste_seal"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/SumAll/asc?rid=360a49f4-639f-4762-8413-d667036babe7"></script><a href="//privacy.truste.com/privacy-seal/SumAll/validation?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" id="image1" src="//privacy-policy.truste.com/privacy-seal/SumAll/seal?rid=580b56ff-d783-4d0c-bc09-fff6d43e2a7c" alt="TRUSTe online privacy certification"></a></div>
-                        
-                            <div id="DigiCertClickID_aeEK9lUm" class="digi_seal"><script type="text/javascript">var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_aeEK9lUm", "3", "m", "white", "aeEK9lUm"]);(function(){var cid=document.createElement("script");cid.type="text/javascript";cid.async=true;cid.src=("https:" === document.location.protocol ? "https://" : "http://")+"seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());</script><script type="text/javascript" async="" src="https://seal.digicert.com/seals/cascade/seal.min.js"></script></div>
-                        
-                            <div class="mcafee_seal"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=sumall.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/sumall.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a></div>
-                        </div>
-                        <p>
-                        SumAll has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or software APIs. The TRUSTe program covers only information that is collected through this Web site, <a href="https://sumall.com/">www.sumall.com</a>. 
-                        <br>
-                        <br>
-                        TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:support@sumall.com">support@sumall.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.
-                        <br>
-                        <br>
-                        Generally, SumAll collects the following types of information:
-                        </p>
-                        <ul>
-                            <li>Visitor Data &amp; Anonymous Visitor Data: When we refer to “Visitor Data” we mean data that allows someone to identify or contact a Visitor, including, for example, their name, address, telephone number, e-mail address, as well as any other non-public information about them that is associated with or linked to any of the foregoing data. When we refer to “Anonymous Visitor Data” we mean data that is not used, or intended to be used, to identify a particular Visitor.</li>
-                            
-                            <li>Subscriber Data &amp; Anonymous Subscriber Data: When we refer to “Subscriber Data” we mean data that allows someone to identify or contact a Subscriber, including, for example, their name, address, telephone number, e-mail address, as well as any other non-public information about them that is associated with or linked to any of the foregoing data. When we refer to “Anonymous Subscriber Data” we mean data that is not used, or intended to be used, to identify a particular Subscriber.</li>
-                            
-                            <li>Commerce Data &amp; Anonymous Commerce Data: When we refer to “Commerce Data” we mean data that relates to the financial performance of a Subscriber company, including figures related to their company’s sales, revenue, costs, vendors, customers, inventory and discounts, as well as transaction information that may include personally identifiable information of a Subscriber company’s customers. When we refer to “Anonymous Commerce Data” we mean data that is not used, or intended to be used, to identify a particular Subscriber or customer of Subscriber.</li>
-                        </ul>
-                        <p>
-                        Visitor Data, Subscriber Data and Commerce Data may be referred to herein collectively as “Personal Data.” Anonymous Visitor Data, Anonymous Subscriber Data and Anonymous Commerce Data may be referred to herein collectively as “Anonymous Data.”</p>
-                        
-                        <h2>1. User Consent</h2> 
-                        <p>By using our Site or Services you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of data in accordance with this Privacy Policy.</p>
-                        
-                        <h2>2. A Note to Users Outside of the United States</h2>
-                        <p>Your Visitor Data, Subscriber Data or Commerce Data, as applicable, may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal data may be less stringent than the laws in your country.</p>
-                        
-                        <h2>3. Visitor Data &amp; Anonymous Visitor Data</h2>
-                        <p>We collect Personal Visitor, Subscriber and Commerce Data as described below:</p>
-                        
-                        <p><span class="push_txt">I. Personal Data Provided to Us</span></p>
-                        
-                        <p>When you provide us feedback or contact us via e-mail we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply. We may collect your first and last name, e-mail address, professional title, company name, and password when you create an Account. We may collect Personal Data on the Site when we make clear that we are collecting it and you voluntarily provide it, for example, when you add additional services to your account. We also collect other types of data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us regarding support for the Services. We retain information on your behalf, such as files and messages that you store using your Account.</p>
-                        
-                        <p><span class="push_txt">II. Collection of Commerce Data</span></p>
-                        
-                        <p>We may collect Commerce Data directly from you through the Site. We may also receive Commerce Data about you, your company or your customers from our partners, including our e-commerce platform partners such as Shopify and Big Commerce that may provide services to your company. This information may include various financial data relating to your company’s e-commerce website. This information may be shared with us manually or automatically through the establishment of an application programming interface (API) with our partner. We may add this information to the Commerce Data we have already collected from you via our Site in order to improve the Services we provide.</p>
-                        
-                        <p><span class="push_txt">III. Data Collected Through Technology</span></p>
-                        
-                        <ul>
-                            <li>To make our Site more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.</li>
-                            <li>We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions, however, please note that certain aspects of the Site or Services may not be available if the Persistent Cookies are removed.</li>
-                            <li>We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on the Site. We may permit these service providers to use cookies and other technologies to perform these services for us. The use of cookies by third parties is not covered by our PP. We do not have access or control over these cookies.</li>
-                        </ul>
-                        
-                        <p>In general, Personal Data is used either to respond to requests that you make or to aid us in serving you better. We use such Personal Data in the following ways:</p>
-                        
-                        <ul>
-                            <li>to facilitate the creation of and secure your Account on our network;</li>
-                            <li>identify you as a user in our system;</li>
-                            <li>provide improved administration of our Site and Services;</li>
-                            <li>provide the Services you request;</li>
-                            <li>improve the quality of experience when you interact with our Site and Services;</li>
-                            <li>send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;</li>
-                            <li>send you administrative e-mail notifications such as security or support and maintenance advisories;</li>
-                            <li>respond to your inquiries related to employment opportunities or other requests;</li>
-                            <li>to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback; and</li>
-                            <li>to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes.</li>
-                        </ul>
-                        
-                        <p><span class="push_txt">IV. Use of Commerce Data</span></p>
-                        
-                        <p>Unless we have a separate authorization from the data subject, we will not use the Commerce Data we collect for any reason other than to provide the Services the Subscriber requests and improve the quality of experience when the Subscriber interacts with our Site or Services. For illustration purposes only, we may use the name of a customer of Subscriber to help the Subscriber analyze that particular customer’s spending habits as part of our Services, but we will never contact that customer directly for marketing purposes.</p>
-                       
-                        <h2>4. Anonymous User Data</h2> 
-                        <p>We may create Anonymous Data records from Visitor, Subscriber and Commerce Data by subjecting it to de-identification through the removal of all personally identifying data (including, but not limited to, names, addresses, phone numbers and email addresses) and through the use of generally accepted statistical de-identification techniques.
-                        <br><br>
-                        SumAll may use Anonymous Data, for illustration purposes only, to generate benchmarks and indices as part of our Service, to issue a press release as to the total revenue amount of our U.S. customers, to produce analysis of shopping cart abandonment rates, or to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. SumAll reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties at its sole discretion.
-                        </p>
-                        
-                        <h2>5. Advertising</h2> 
-                        <p>We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by <a href="http://preferences.truste.com/2.0/">clicking here</a>. Please note this does not prevent you from being served non-targeted advertising. You will continue to receive generic ads.
-                        </p>
-                        
-                        <h2>6. Access and Control of Your Personal Data</h2> 
-                        
-                        <p><span class="push_txt">Choice</span></p>
-                        
-                        <p>We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly at <a href="mailto:support@sumall.com">support@sumall.com</a>. Even if you opt-out of receiving marketing related email messages, we will continue to send you service related communications, including notices related to your Account or any updates to our Terms of Use or Privacy Policy.
-                        </p>
-                        
-                        <p><span class="push_txt">Changes to Personal Data</span></p>
-                        
-                        <p>You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at <a href="mailto:support@sumall.com">support@sumall.com</a>. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-                        </p>
-                        
-                        <h2>7. Disclosure of Personal Data</h2> 
-                        
-                        <p>We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy. We do not sell your personal information to third parties.
-                        <br><br>
-                        In order to perform Services, we may contract with third party service providers, including service providers who may process payments on our behalf or provide technical support. These third parties may have access to user data required to perform their functions. All such parties are required to enter into a written agreement with us that they will not use the user data for any purpose other than to provide the services requested by SumAll.
-                        </p>
-                        
-                        <p><span class="push_txt">Affiliates and Acquisitions</span></p>
-                        
-                        <p>We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”) for market research or other purposes, in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets (including in connection with a bankruptcy proceeding), that company will possess the Personal Data collected by us and will assume the rights and obligations regarding the Personal Data as described in this Privacy Policy.
-                        </p>
-                        
-                        <p><span class="push_txt">Other Disclosures</span></p>
-                        
-                        <p>Regardless of any choices you make regarding your Personal Data (as described below), SumAll may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on SumAll; (c) to protect or defend the rights or property of SumAll or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use.
-                        </p>
-                        
-                        <h2>8. Security of Your Personal Data</h2> 
-                        
-                        <p>SumAll is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. When you enter information in our form fields, we encrypt the transmission of that information using secure socket layer technology (SSL).
-                        <br><br>
-                        No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while SumAll uses reasonable efforts to protect your Personal Data, SumAll cannot guarantee its absolute security. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people.
-                        </p>
-                        
-                        <h2>9. Additional Information</h2> 
-                        
-                        <p><span class="push_txt">3rd Party Websites</span></p>
-                        
-                        <p>When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
-                        </p>
-                        
-                        <p><span class="push_txt">Blog/Forum</span></p>
-                        
-                        <p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support@sumall.com">support@sumall.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-                        </p>
-                        
-                        <p><span class="push_txt">Testimonials</span></p>
-                        
-                        <p>With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at <a href="mailto:support@sumall.com">support@sumall.com</a>.
-                        </p>
-                        
-                        <p><span class="push_txt">Social Media Buttons/Widgets</span></p>
-                        
-                        <p>Our Web site includes Social Media Features, such as the Facebook Like button and Google +1 button. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-                        </p>
-                        
-                        <h2>10. Changes to This Privacy Policy</h2> 
-                        
-                        <p>This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service or as otherwise provided in the revised policy. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. 
-                        <br><br>
-                        In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-                        </p>                        
-                        
-                        
-                        <h2>11. Contact Information</h2>
-                        <p>SumAll welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at <a href="mailto:support@sumall.com">support@sumall.com</a> or contact us at the following address or phone number:
-                        <br>
-                        <br>
-                        <span class="push_txt">SumAll</span><br>
-                        Attn: Matt Law<br>
-                        247 Centre Street, 6th Floor<br>
-                        New York, NY 10013<br>
-                        +1 917 719 0255
-                        </p>
-                        
-                        <h3>We appreciate your diligence.</h3>
-                        
-                    </div>
-                    
-                </div> <!--end inner main-->
-            </div> <!--end role main-->
-        
-        </div> <!--end content-->
+            <h2>2. A Note to Users Outside of the United States</h2>
+            <p>Your Visitor Data, Subscriber Data or Commerce Data, as applicable, may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal data may be less stringent than the laws in your country.</p>
+            
+            <h2>3. Visitor Data &amp; Anonymous Visitor Data</h2>
+            <p>We collect Personal Visitor, Subscriber and Commerce Data as described below:</p>
+            
+            <p><span class="push_txt">I. Personal Data Provided to Us</span></p>
+            
+            <p>When you provide us feedback or contact us via e-mail we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply. We may collect your first and last name, e-mail address, professional title, company name, and password when you create an Account. We may collect Personal Data on the Site when we make clear that we are collecting it and you voluntarily provide it, for example, when you add additional services to your account. We also collect other types of data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us regarding support for the Services. We retain information on your behalf, such as files and messages that you store using your Account.</p>
+            
+            <p><span class="push_txt">II. Collection of Commerce Data</span></p>
+            
+            <p>We may collect Commerce Data directly from you through the Site. We may also receive Commerce Data about you, your company or your customers from our partners, including our e-commerce platform partners such as Shopify and Big Commerce that may provide services to your company. This information may include various financial data relating to your company’s e-commerce website. This information may be shared with us manually or automatically through the establishment of an application programming interface (API) with our partner. We may add this information to the Commerce Data we have already collected from you via our Site in order to improve the Services we provide.</p>
+            
+            <p><span class="push_txt">III. Data Collected Through Technology</span></p>
+            
+            <ul>
+                <li>To make our Site more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.</li>
+                <li>We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions, however, please note that certain aspects of the Site or Services may not be available if the Persistent Cookies are removed.</li>
+                <li>We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on the Site. We may permit these service providers to use cookies and other technologies to perform these services for us. The use of cookies by third parties is not covered by our PP. We do not have access or control over these cookies.</li>
+            </ul>
+            
+            <p>In general, Personal Data is used either to respond to requests that you make or to aid us in serving you better. We use such Personal Data in the following ways:</p>
+            
+            <ul>
+                <li>to facilitate the creation of and secure your Account on our network;</li>
+                <li>identify you as a user in our system;</li>
+                <li>provide improved administration of our Site and Services;</li>
+                <li>provide the Services you request;</li>
+                <li>improve the quality of experience when you interact with our Site and Services;</li>
+                <li>send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;</li>
+                <li>send you administrative e-mail notifications such as security or support and maintenance advisories;</li>
+                <li>respond to your inquiries related to employment opportunities or other requests;</li>
+                <li>to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback; and</li>
+                <li>to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes.</li>
+            </ul>
+            
+            <p><span class="push_txt">IV. Use of Commerce Data</span></p>
+            
+            <p>Unless we have a separate authorization from the data subject, we will not use the Commerce Data we collect for any reason other than to provide the Services the Subscriber requests and improve the quality of experience when the Subscriber interacts with our Site or Services. For illustration purposes only, we may use the name of a customer of Subscriber to help the Subscriber analyze that particular customer’s spending habits as part of our Services, but we will never contact that customer directly for marketing purposes.</p>
+           
+            <h2>4. Anonymous User Data</h2> 
+            <p>We may create Anonymous Data records from Visitor, Subscriber and Commerce Data by subjecting it to de-identification through the removal of all personally identifying data (including, but not limited to, names, addresses, phone numbers and email addresses) and through the use of generally accepted statistical de-identification techniques.
+            <br><br>
+            SumAll may use Anonymous Data, for illustration purposes only, to generate benchmarks and indices as part of our Service, to issue a press release as to the total revenue amount of our U.S. customers, to produce analysis of shopping cart abandonment rates, or to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. SumAll reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties at its sole discretion.
+            </p>
+            
+            <h2>5. Advertising</h2> 
+            <p>We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by <a href="http://preferences.truste.com/2.0/">clicking here</a>. Please note this does not prevent you from being served non-targeted advertising. You will continue to receive generic ads.
+            </p>
+            
+            <h2>6. Access and Control of Your Personal Data</h2> 
+            
+            <p><span class="push_txt">Choice</span></p>
+            
+            <p>We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly at <a href="mailto:support@sumall.com">support@sumall.com</a>. Even if you opt-out of receiving marketing related email messages, we will continue to send you service related communications, including notices related to your Account or any updates to our Terms of Use or Privacy Policy.
+            </p>
+            
+            <p><span class="push_txt">Changes to Personal Data</span></p>
+            
+            <p>You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at <a href="mailto:support@sumall.com">support@sumall.com</a>. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+            </p>
+            
+            <h2>7. Disclosure of Personal Data</h2> 
+            
+            <p>We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy. We do not sell your personal information to third parties.
+            <br><br>
+            In order to perform Services, we may contract with third party service providers, including service providers who may process payments on our behalf or provide technical support. These third parties may have access to user data required to perform their functions. All such parties are required to enter into a written agreement with us that they will not use the user data for any purpose other than to provide the services requested by SumAll.
+            </p>
+            
+            <p><span class="push_txt">Affiliates and Acquisitions</span></p>
+            
+            <p>We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”) for market research or other purposes, in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets (including in connection with a bankruptcy proceeding), that company will possess the Personal Data collected by us and will assume the rights and obligations regarding the Personal Data as described in this Privacy Policy.
+            </p>
+            
+            <p><span class="push_txt">Other Disclosures</span></p>
+            
+            <p>Regardless of any choices you make regarding your Personal Data (as described below), SumAll may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on SumAll; (c) to protect or defend the rights or property of SumAll or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use.
+            </p>
+            
+            <h2>8. Security of Your Personal Data</h2> 
+            
+            <p>SumAll is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. When you enter information in our form fields, we encrypt the transmission of that information using secure socket layer technology (SSL).
+            <br><br>
+            No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while SumAll uses reasonable efforts to protect your Personal Data, SumAll cannot guarantee its absolute security. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people.
+            </p>
+            
+            <h2>9. Additional Information</h2> 
+            
+            <p><span class="push_txt">3rd Party Websites</span></p>
+            
+            <p>When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+            </p>
+            
+            <p><span class="push_txt">Blog/Forum</span></p>
+            
+            <p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support@sumall.com">support@sumall.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+            </p>
+            
+            <p><span class="push_txt">Testimonials</span></p>
+            
+            <p>With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at <a href="mailto:support@sumall.com">support@sumall.com</a>.
+            </p>
+            
+            <p><span class="push_txt">Social Media Buttons/Widgets</span></p>
+            
+            <p>Our Web site includes Social Media Features, such as the Facebook Like button and Google +1 button. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+            </p>
+            
+            <h2>10. Changes to This Privacy Policy</h2> 
+            
+            <p>This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service or as otherwise provided in the revised policy. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. 
+            <br><br>
+            In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+            </p>                        
+            
+            
+            <h2>11. Contact Information</h2>
+            <p>SumAll welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at <a href="mailto:support@sumall.com">support@sumall.com</a> or contact us at the following address or phone number:
+            <br>
+            <br>
+            <span class="push_txt">SumAll</span><br>
+            Attn: Matt Law<br>
+            247 Centre Street, 6th Floor<br>
+            New York, NY 10013<br>
+            +1 917 719 0255
+            </p>
+            
+            <h3>We appreciate your diligence.</h3>
+            
+        </div> <!-- sixcol  -->
+    </div> <!-- end row  -->
+</div> <!--end container-->
+
 
 <script type="text/javascript">
 
-var i18nMessages = {"label.username":"Username","button.add":"Add","validation.min":"Cannot be lower than %2$d","field.error.matching.password":"Your new password cannot match your existing password","error.authenticityToken":"Your request could not be processed.  Please refresh the page and try again.","info.login.emailVerification.newUser":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eCongratulations\u003c/span\u003e, sign in for a better view of your business.\u003c/h1\u003e","field.error.password.current.wrong":"Your current password is incorrect","input.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","field.email":"email","validation.match":"Must match %2$s","validation.phone":"Not a valid phone","label.email":"Email","validation.after":"Must be after %2$s","account.nonexsistent.user":"Account does not exist","account.logout":"You are now logged out","since.days":"%s day%s ago","title.accountSettings":"Account Settings","account.reset.password.failed":"There was a problem with the email address entered, please try again.","account.create.failed":"An error occurred creating your account","magento.invalidCreds":"The API credentials are invalid. Please review the steps below.","success.emailVerification.resent":"We\u0027ve sent you an email with instructions on how to confirm your email address.","error.emailUnsubscribed":"You have already been unsubscribed from \u0026{%s} emails.","field.error.username.characters":"Can only contain letters, numbers, _, -, and .","validation.future":"Must be in the future","field.error.exists":"Already exists","form.invalidInput":"Please enter a valid \u0026{%s}","field.error.allRequired":"All fields are required","user.note.shopify.uninstall":"It appears you may have uninstalled our app.","label.newStreamName":"New Stream Name","account.invalid.credentials":"Wrong email and password combination","since.months":"%s month%s ago","error.emailToken":"Your unsubscribe request could not be processed.  Please verify the URL you have entered and try again.","stream.added":"%s stream successfully added\"","user.note.shopify.uninstall.link":"Please reinstall SumAll","label.newPassword":"New Password","field.error.disallowed":"Disallowed \u0026{%s}","validation.max":"Cannot be greater than %2$d","field.updated":"\u0026{%s} was updated successfully","field.timezone":"timezone","error.login.emailVerification":"You must confirm your email address before you can login.\u003cbr/\u003ePlease check your inbox or click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e to have instructions resent.","api.data.unsupported":"Unsupported \u0026{%s} parameter given","validation.equals":"Must be equal to \u0026{%2$s}","validation.url":"Not a valid URL","info.login.welcomeback":"\u003ch1\u003eWelcome back.\u003c/h1\u003e","success.admin.createUser":"New user \u0027%s\u0027 has been created.","account.confirmation.email.failed":"An error occurred sending confirmation email","field.error.mismatched.passwords":"The passwords entered do not match","error.api.ssl.required":"SSL required for API access","account.temporary.password":"You must change your temporary password by entering a new password in the form below","since.hours":"%s hour%s ago","validation.past":"Must be in the past","field.password":"password","error.emailVerification.alreadyConfirmed":"This email address has already been confirmed.","validation.before":"Must be before %2$s","field.preferences":"preferences","info.login.emailVerification":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eThanks\u003c/span\u003e, your email has been confirmed.\u003c/h1\u003e","account.signup":"Thanks! We\u0027ll let you know when we have something for you to play with.","button.resetPassword":"Reset Password","success.changePassword":"Your password has been changed.  Please login \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","field.apikeys":"api keys","field.error.length":"Must be between %1$s and %2$s characters","account.invalid.platform":"Unsupported platform","error.existingAccount":"This store has already been registered with SumAll, please login to update your apiKey.","button.change":"Change","button.login":"Login","button.changePassword":"Change Password","since.seconds":"%s second%s ago","field.error.too.long":"%1$s must be shorter than %2$s characters","success.signup.platformRequest":"Thank you. We\u0027ll contact you as soon as possible.","validation.maxSize":"Maximum size is %2$d","validation.email":"Invalid email address","success.contactUs":"Thanks! We\u0027ll contact you as soon as possible.","info.login.shopify.reinstalled":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eYeehaw\u003c/span\u003e, your shop has been re-connected to \u003cimg src\u003d\"/public/external/img/sumall_white.png\" alt\u003d\"SumAll\" class\u003d\"verified_banner_logo\" /\u003e.\u003c/h1\u003e","field.updated.plural":"\u0026{%s} were updated successfully","since.years":"%s year%s ago","account.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","title.notFound":"Not Found","field.username":"username","validation.ipv6":"Not a valid IP v6 address","validation.required":"Required","validation.ipv4":"Not a valid IP address","error.notOwner":"Your SumAll account is not associated with this store, please login with a different account.","field.error.shopify.url":"Invalid Shopify Store URL","validation.invalid":"Incorrect value","since.format":"MMM d, yyyy","field.error.blank":"Cannot be blank","button.signup":"Signup","account.expiredResetPasswordToken":"Your reset password link expires after 6 hours.  Please try resetting your password again.","field.changed":"Your \u0026{%s} was changed successfully","label.timezone":"Time Zone","field.error.too.short":"%1$s must be longer than %2$s characters","validation.minSize":"Minimum size is %2$d","field.error.signup.platform":"Please provide a platform","form.error":"Please correct the errors below","success.resetPassword":"We\u0027ve sent you an email with instructions on how to reset your password.","validation.range":"Not in the range %2$d through %3$d","account.created":"Your account is created. Please check your email to confirm your registration.","account.welcome":"Welcome %s!","api.data.invalid":"Invalid \u0026{%s} parameter given","field.error.passwordChange.blank":"Please enter your current and new password","field.status":"status","validation.object":"Validation failed","validation.isTrue":"Must be checked","error.emailVerification.invalidToken":"To confirm your email address, you must follow the link found in the email we sent. To have this email resent, click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e. ","error.emailNotFound":"We could not find an account for that email address.","field.unsubscribed":"You have been unsubscribed.","label.password":"Password","bigcommerce.step2.error":"An error occurred during signup. Please start over \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","validation.notFound":"Object not found for id %2$s","since.minutes":"%s minute%s ago","field.error.store.url.exists":"This store has already been registered.","title.applicationError":"Application Exception","account.confirmation.sent":"Please check your email for the confirmation code","title.forbidden":"Forbidden","api.data.required":"\u0026{%s} is required","account.not.confirmed":"This account is not confirmed yet","field.roles":"roles","account.already.confirmed":"This account is already confirmed","account.invalid.user":"Your account is inactive. Please contact support if this is a mistake.","success.admin.createApiKey":"A new API key has been created (%s)","account.new.password":"An email has been sent with instructions for resetting your password.","bigcommerce.invalidCreds":"The API credentials are invalid. Please review the steps below."};
+var i18nMessages = {"label.username":"Username","braintree.account.exists":"This Braintree account has already been registered with SumAll.","field.error.authorize.invalidCreds":"The provided credentials are invalid.","button.add":"Add","validation.min":"Cannot be lower than %2$d","field.error.ga.invalidAcct":"This Google account is not linked with Google Analytics.","field.error.matching.password":"Your new password cannot match your existing password","error.authenticityToken":"Your request could not be processed.  Please refresh the page and try again.","info.login.emailVerification.newUser":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eCongratulations\u003c/span\u003e, sign in for a better view of your business.\u003c/h1\u003e","field.error.password.current.wrong":"Your current password is incorrect","input.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","field.email":"email","validation.match":"Must match %2$s","validation.phone":"Not a valid phone","label.email":"Email","validation.after":"Must be after %2$s","account.nonexsistent.user":"Account does not exist","account.logout":"You are now logged out","since.days":"%s day%s ago","title.accountSettings":"Account Settings","account.reset.password.failed":"There was a problem with the email address entered, please try again.","account.create.failed":"An error occurred creating your account","magento.invalidCreds":"The API credentials are invalid. Please review the steps below.","success.emailVerification.resent":"We\u0027ve sent you an email with instructions on how to confirm your email address.","error.emailUnsubscribed":"You have already been unsubscribed from \u0026{%s} emails.","api.goals.periodTooShort":"Goal time period must be at least 7 days","field.error.username.characters":"Can only contain letters, numbers, _, -, and .","validation.future":"Must be in the future","field.error.exists":"Already exists","form.invalidInput":"Please enter a valid \u0026{%s}","field.error.allRequired":"All fields are required","validation.unique":"Must be unique","label.newStreamName":"New Stream Name","api.goals.exists":"An active goal already exists for this data set","api.goals.thresholdInvalid":"Goal threshold invalid","account.invalid.credentials":"Wrong email and password combination","since.months":"%s month%s ago","error.emailToken":"Your unsubscribe request could not be processed.  Please verify the URL you have entered and try again.","stream.added":"%s stream successfully added\"","label.newPassword":"New Password","field.error.disallowed":"Disallowed \u0026{%s}","validation.max":"Cannot be greater than %2$d","field.updated":"\u0026{%s} was updated successfully","field.timezone":"timezone","amazon.account.exists":"This Amazon account has already been registered with SumAll.","error.login.emailVerification":"You must confirm your email address before you can login.\u003cbr/\u003ePlease check your inbox or click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e to have instructions resent.","api.data.unsupported":"Unsupported \u0026{%s} parameter given","validation.equals":"Must be equal to \u0026{%2$s}","validation.url":"Not a valid URL","info.login.welcomeback":"\u003ch1\u003eWelcome back.\u003c/h1\u003e","success.admin.createUser":"New user \u0027%s\u0027 has been created.","account.confirmation.email.failed":"An error occurred sending confirmation email","field.error.mismatched.passwords":"The passwords entered do not match","error.api.ssl.required":"SSL required for API access","account.temporary.password":"You must change your temporary password by entering a new password in the form below","since.hours":"%s hour%s ago","validation.past":"Must be in the past","field.password":"password","error.emailVerification.alreadyConfirmed":"This email address has already been confirmed.","validation.before":"Must be before %2$s","field.preferences":"preferences","info.login.emailVerification":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eThanks\u003c/span\u003e, your email has been confirmed.\u003c/h1\u003e","account.signup":"Thanks! We\u0027ll let you know when we have something for you to play with.","amazon.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","button.resetPassword":"Reset Password","success.changePassword":"Your password has been changed.  Please login \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","field.apikeys":"api keys","field.betaFeatures":"Beta Features","field.error.length":"Must be between %1$s and %2$s characters","account.invalid.platform":"Unsupported platform","field.error.ga.profile.exists":"This Google Analytics profile is already connected.","error.existingAccount":"This store has already been registered with SumAll, please login to update your apiKey.","button.change":"Change","button.login":"Login","button.changePassword":"Change Password","since.seconds":"%s second%s ago","field.error.too.long":"%1$s must be shorter than %2$s characters","api.goals.periodTooLong":"Goals have a maximum interval of one year and one day.","success.signup.platformRequest":"Thanks! We\u0027ll notify you once this platform is available on SumAll.","validation.maxSize":"Maximum size is %2$d","validation.email":"Invalid email address","success.contactUs":"Thanks! We\u0027ll contact you as soon as possible.","info.login.shopify.reinstalled":"\u003ch1\u003e\u003cspan class\u003d\"prox_semibold\"\u003eYeehaw\u003c/span\u003e, your shop has been re-connected to \u003cimg src\u003d\"/public/external/img/sumall_white.png\" alt\u003d\"SumAll\" class\u003d\"verified_banner_logo\" /\u003e.\u003c/h1\u003e","field.updated.plural":"\u0026{%s} were updated successfully","since.years":"%s year%s ago","account.invalidResetPasswordToken":"To reset your password you must follow the link found in the reset password email.  If multiple reset password requests have been made, please use the link in the most recent email.","title.notFound":"Not Found","braintree.invalidCreds":"The provided credentials are invalid.  Please review the steps below.","field.username":"username","validation.ipv6":"Not a valid IP v6 address","field.error.authorize.invalidPermissions":"To complete the connection, enable your Transaction Details API. See step 3 below.","validation.required":"Required","validation.ipv4":"Not a valid IP address","error.notOwner":"Your SumAll account is not associated with this store, please login with a different account.","api.goals.periodInPast":"Goals must end in the future","field.error.shopify.url":"Invalid Shopify Store URL","validation.invalid":"Incorrect value","since.format":"MMM d, yyyy","field.error.blank":"Cannot be blank","button.signup":"Signup","account.expiredResetPasswordToken":"Your reset password link expires after 6 hours.  Please try resetting your password again.","field.changed":"Your \u0026{%s} was changed successfully","label.timezone":"Time Zone","field.error.too.short":"%1$s must be at least %2$s characters","field.error.fb.page.required":"Please select a Facebook Page.","validation.minSize":"Minimum size is %2$d","field.error.signup.platform":"Please provide a platform","form.error":"Please correct the errors below","success.resetPassword":"We\u0027ve sent you an email with instructions on how to reset your password.","field.error.authorize.exists":"This Authorize Account is already connected.","validation.range":"Not in the range %2$d through %3$d","account.created":"Your account is created. Please check your email to confirm your registration.","account.welcome":"Welcome %s!","api.goals.missinginput":"Missing some required data","api.data.invalid":"Invalid \u0026{%s} parameter given","field.error.passwordChange.blank":"Please enter your current and new password","field.status":"status","validation.object":"Validation failed","validation.isTrue":"Must be checked","error.emailVerification.invalidToken":"To confirm your email address, you must follow the link found in the email we sent. To have this email resent, click \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e. ","field.error.fb.page.exists":"This Facebook Page is already connected.","error.emailNotFound":"We could not find an account for that email address.","field.unsubscribed":"You have been unsubscribed.","label.password":"Password","bigcommerce.step2.error":"An error occurred during signup. Please start over \u003ca href\u003d\"%s\"\u003ehere\u003c/a\u003e.","account.accessDenied":"Access Denied","validation.notFound":"Object not found for id %2$s","since.minutes":"%s minute%s ago","field.error.store.url.exists":"This store has already been registered.","title.applicationError":"Application Exception","field.error.ga.profile.required":"A profile is required.","account.confirmation.sent":"Please check your email for the confirmation code","title.forbidden":"Forbidden","api.data.required":"\u0026{%s} is required","success.admin.removeBetaFeature":"Access to Beta Feature \u0027%s\u0027 has been removed from all users.","title.notAuthorized":"Not Authorized","account.not.confirmed":"This account is not confirmed yet","field.roles":"roles","account.already.confirmed":"This account is already confirmed","account.invalid.user":"Your account is inactive. Please contact support if this is a mistake.","success.admin.createApiKey":"A new API key has been created (%s)","account.new.password":"An email has been sent with instructions for resetting your password.","bigcommerce.invalidCreds":"The API credentials are invalid. Please review the steps below."};
 
 /**
  * Fixme : only parse single char formatters eg. %s
@@ -306,128 +648,512 @@ var i18n = function(code) {
     return message;
 };
 
-</script>
- 
+</script> 
+
             </div>
         </div>
         
-
-<footer class="clearfix">
-    
-    <div class="inner_footer">
-        <ul class="footer_social">
-            <li><a href="http://twitter.com/sumall"><img src="/public/external/img/social/twitter.png" alt="Twitter"></a></li>
-            <li><a href="http://facebook.com/sumalls"><img src="/public/external/img/social/facebook.png" alt="Facebook"></a></li>
-            <li><a href="https://plus.google.com/116572052971830673368"><img src="/public/external/img/social/google_plus.png" alt="Google Plus"></a></li>
-        </ul>
-        <ul class="footer_nav">
-            <li><a href="http://blog.sumall.com">Blog</a></li>
-            <li><a href="/contact">Contact</a></li>
-            <li><a href="/privacy">Privacy</a></li>
-            <li><a href="/terms">Terms</a></li>
-        </ul>
-        <a href="https://sumall.com/"><img class="footer_logo" src="/public/external/img/sumall_logo_footer.png" alt="SumAll"></a>
+<div class="container anchor">
+    <div class="row">
+        <div class="twocol">
+            <ul>
+                <li class="list_lead">Powered by</li>
+                <li>12,505 Users</li>
+                <li>42 Currencies</li>
+                <li>7,811,230,720 Visits</li>
+            </ul>
+        </div>
+        <div class="twocol">
+            <ul>
+                <li class="list_lead">Company</li>
+                <li><a href="http://blog.sumall.com">Blog</a></li>
+                <li><a href="http://twitter.com/sumall">Twitter</a></li>
+                <li><a href="http://facebook.com/sumalls">Facebook</a></li>
+                <li><a href="/press">Press</a></li>
+            </ul>
+        </div>
+        <div class="twocol">
+            <ul>
+                <li class="list_lead">Help</li>
+                <li>+1 917 719 0255</li>
+                <li><a href="mailto:support@sumall.com">Support@sumall.com</a></li>
+                <li><a href="https://sumall.com/support">Support</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </div>
+        <div class="twocol">
+            <ul>
+                <li class="list_lead">Security</li>
+                <li><a href="/privacy">Privacy Policy</a></li>
+                <li><a href="/terms">Terms of service</a></li>
+            </ul>
+        </div>
+        <div class="onecol"></div>
+        <div class="threecol last stamp">
+            <a href="http://nytm.org/made-in-nyc/">N</a>
+            <a href="https://sumall.com/">@</a>
+        </div>
     </div>
+</div>
 
-</footer>
+
         <script>
             Modernizr.load([
                 {
-                    load     : "//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+                    load     : "//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
                     callback : function() {
-                        if (!window.jQuery) { yepnope("/public/javascripts/common/jquery-1.7.1.min.js"); }
+                        if (!window.jQuery) { yepnope("/public/javascripts/common/jquery-1.8.2.min.js"); }
                     }
                 },
                 {
                     load: [
-                        "/public/javascripts/sumall.js",
-
-                        "/public/javascripts/sumall-analytics.js",
-                        "/public/javascripts/common/jquery-ui-1.8.16.custom.min.js",
+                        "/public/javascripts/common/jquery-ui-1.9.0.custom.min.js",
+                        "/public/javascripts/common/mustache-0.7.0.js",
+                        "/public/javascripts/common/ICanHaz-0.10.min.js",
                         "/public/javascripts/external/jquery.formLabels1.0.js",
                         "/public/javascripts/external/jquery.tipTip.minified.js",
-                        
+                        "/public/javascripts/external/waypoints.min.js"
+                    ]
+                },
+                {
+                    load: [
+                        "/public/javascripts/sumall.js",
+                        "/public/javascripts/events/events.js",
+                        "/public/javascripts/events/events.keybind.js",
+
+                        "/public/javascripts/sumall-analytics.js",
+                        "/public/javascripts/sumall-ui.js",
+                        "/public/javascripts/sumall-util.js",
+                        "/public/javascripts/templates/templates.js",
+
+    "/public/javascripts/common/chosen.jquery.min.js",
+    "/public/javascripts/external/jquery.jSlots.min.js",
+
 
                     ],
                     complete: function() {
-                        window.sa_analytics = new SumAll.analytics.Manager();
-                        sa_analytics.init("", 
-                                           false );
-                        
-$('input[type=password]').bind('focus',function(){
-    $('.remember_me_embedded label, .remember_me label').animate({backgroundColor:'#d4d4d4'}, 60).animate({backgroundColor:'#ededed'}, 1500).animate({borderColor:'#e3e3e3'}, 500);
-    $('input[type=password]').unbind('focus');
+
+                        window.sumall = {};
+
+                        sumall.eventmanager = new SumAll.events.Manager({
+                        });
+                        sumall.eventmanager.init();
+
+                        sumall.templatemanager = new SumAll.templates.Manager({
+
+
+                            templateUrl:"https://sumall.com/api/templates/ui%2Csupport%2Ckeybind%2Cexternal"
+
+                        });
+                        sumall.templatemanager.init();
+
+                        sumall.keybinds = new SumAll.events.keybind.Manager({
+                        });
+                        sumall.keybinds.init();
+
+                        sumall.analytics = new SumAll.analytics.Manager();
+
+                        var isSystemUser =  false ;
+                        sumall.analytics.init("", "", isSystemUser);
+                        sumall.analytics.externalReadyInit();
+
+
+
+
+// globally used constants
+var easing = "easeInOutExpo";
+var mainNav = $(".prime_nav");
+
+// call cta shuffle function
+shuffleCTATimer();
+
+// activate shuffle plugin
+$(".signup_nav .slot").jSlots({
+    number: 1,
+    spinner : ".signup_nav",
+    spinEvent : "beginSpin",
+    easing : easing,
+    time : 450
 });
 
-// Add handler for show login button
-SumAll.initFormLabels = false;
-$('#loginButton').click(function (e) {
-    e.preventDefault();
-    if ($(window).scrollTop() != 0) {
-        $('body,html').animate({scrollTop: 0}, 150);
-        $('#internalLogin').delay(400);
+// set shuffle to occur every 8 seconds
+function shuffleCTATimer(){
+    shuffleCTA = setInterval(function(){
+        $(".signup_nav").trigger("beginSpin"); 
+    }, 8000);
+};
+
+// if the user loads the page by refresh while below 400, signup nav appears
+if ($(window).scrollTop() >= 400) {
+    $(".signup_nav").fadeIn(300, "easeInOutExpo");
+}
+
+// if the user scrolls past 400, signup nav appears
+var minDistance = 400;
+$(window).scroll(function() {
+    var scrollTop = $(document).scrollTop();
+    if (scrollTop > minDistance) {
+        $(".signup_nav").fadeIn(300, easing);
+    } else {
+        $(".signup_nav").fadeOut(50, easing);
     }
-    $('#internalLogin').slideToggle(250, function() {
-        $('input[type=email]').focus();
-        $('.internal_announcement').delay(800).animate({opacity: 1}, 800);
-        if (!SumAll.initFormLabels) { 
-            $.fn.formLabels();
-            SumAll.initFormLabels = true;
+});
+
+// independent account signup related
+var accountSignup = $("#accountSignup");
+
+var activateRegistration = function() {
+    if (!accountSignup) return;
+
+    // set up animation of account signup area
+    accountSignup.slideToggle(250, function() {
+
+        // fade out the first four list items, leave login in case user already has account
+        mainNav.find("ul li").slice(0,4).fadeOut(150, easing, function(){
+
+            // reposition nav list in shorter nav bar
+            mainNav.find("ul").animate({"top":"16px"}, 150, easing);
+
+            // reposition identity in shorter nav bar
+            mainNav.find(".logotype a").animate({"top":"8px"}, 150, easing);
+        });
+
+        // if already a user, route to login page
+        mainNav.find("#loginButton").attr("href", "/login").unbind("click");
+
+        // shorten nav real estate
+        mainNav.animate({height:"60px"}, 150, easing);
+
+        // change page title
+        document.title = "Create Your SumAll Account";
+        
+        // remove activated class from nav item
+        mainNav.find("li").removeClass("activated");
+
+        // adjust padding value previously set
+        $(".inner_wrapper").css("padding-bottom","5px");
+
+        // remove irrelevant page content
+        $("header, .container, footer, .content").not(".container.prime_nav").fadeOut(50);
+
+        // show registration 
+        showRegistration();
+    });
+}
+
+var showRegistration = function() {
+    if (!accountSignup) return;
+
+    // Animate form in
+    accountSignup.find(".secure_signup_form").css("display","block").delay(450).animate({opacity:"1", top:"-=15px"}, 100, easing);
+
+    // Delay appearance of trust seal gradient
+    accountSignup.find(".trust_seals_container").fadeIn(400);
+
+    // Add drop shadow for emphasis, fade in trust seals
+    setTimeout(function(){
+        accountSignup.find("input[name=firstName]").focus();
+        accountSignup.find(".trust_seals_container ul li, .sign_up_support").delay(500).fadeIn(200);
+        accountSignup.find(".load_seal").fadeOut(400);
+    }, 1400);
+
+    // Pre-calculate the default timezone
+    var offset = new Date().getGMTOffset();
+    accountSignup.find("option").each(function(i,d) {
+        var sel = accountSignup.find("select[name=timezone]");
+        if (sel.val() == "") {
+            if ($(d).text() && $(d).text().indexOf(offset) > -1) {
+                sel.val($(d).val());
+            }
         }
     });
+
+    // Activate Chosen dropdown plugin for timezone selection
+    accountSignup.find(".chzn-select").chosen();
+    accountSignup.find(".chzn-select-deselect").chosen({allow_single_deselect:true});
+
+    // Activate Placeholder plugin
+    $.fn.formLabels();
+}
+
+function updateSubmitButton() {
+    if (!accountSignup) return;
+    if ( accountSignup.find(".legal_checkbox input[type=checkbox]").is(":checked") ) {
+        accountSignup.find(".signUpButton").css({"background":"#89D864"});
+    } else { 
+        accountSignup.find(".signUpButton").css({"background":"#b5d8a4"});
+    }
+}
+
+// If account signup form exists, set up 
+if (accountSignup) {
+
+    // initialize button handlers for all CTA classed buttons
+    $(".secureSignupTrigger").click(function (e) {
+        e.preventDefault();
+        if ($(window).scrollTop() != 0) {
+            $("body,html").animate({scrollTop: 0}, 150);
+            accountSignup.delay(400);
+        }
+        activateRegistration();
+    });
+
+    // set signup wrapper to height of viewport minus nav bar height
+    function fixAccountSignupHeight() {
+        accountSignup.css("height", $(window).height()-64 + "px");
+    }
+    fixAccountSignupHeight();
+
+    // resize signup wrapper if viewport is resized
+    window.onresize = function() { fixAccountSignupHeight(); }
+
+    // if legal agreement is made, enable create account button and style changes
+    accountSignup.find(".legal_checkbox input[type=checkbox]").bind("click",function(){
+        updateSubmitButton();
+    });
+
+    // if button is pressed, show feedback and check for errors
+    accountSignup.find(".signUpButton").bind("click", function() {
+        var defaultSignupMessage = "Begin Experience";
+        function handleAccountSignupSuccess(d) {
+            if (!d || !d.result) {
+                SumAll.error("Invalid response from server in handleAccountSignupSuccess");
+            }
+            if (d.result === "VALIDATION_ERROR") {
+                accountSignup.find(".form_error").fadeOut();
+                var msgs = d.validationMsgs;
+                $.each(msgs, function(index, value) {
+                    accountSignup.find("." + index + "Error").html(value);
+                    accountSignup.find("." + index + "Error").slideFadeToggle(150);
+                });
+                accountSignup.find(".signUpButton").html(defaultSignupMessage);
+            } else if (d.result === "SUCCESS") {
+                accountSignup.find(".success_verification_msg span.firstname").text(d.body.firstName);
+                accountSignup.find(".success_verification_msg button.verify_three").bind("click", function(e) {
+                    e.preventDefault();
+                    // fly away
+                    setTimeout(function() {
+                        accountSignup.find(".success_verification_msg").animate({"opacity":0}, 50, function() {
+                            $("body").fadeOut(400, function() {
+                                window.location = d.body.url;
+                            });
+                        });
+                    }, 500);
+                });
+                setTimeout(function() {
+                    accountSignup.find(".secure_signup_form").animate({opacity:"0"}, 400, function() {
+                        accountSignup.find(".signUpButton").html("Account Created");
+                        accountSignup.find(".success_verification_msg").fadeIn(350);
+                        accountSignup.find(".success_verification_msg p.verify_one").css("display","block").delay(500).animate({opacity:"1"}, 100);
+                        accountSignup.find(".success_verification_msg button.verify_three").css("display","block").delay(1000).animate({opacity:"1"}, 100);
+                        accountSignup.find(".trust_seals_container, .sign_up_support").fadeOut(200);
+                    });
+                }, 1500);
+            }
+        }
+        function handleAccountSignupTimeout(d) {
+            accountSignup.find(".signUpButton").html(defaultSignupMessage);
+            SumAll.error("Error in handleAccountSignupTimeout", d);
+        }
+        function handleAccountSignupError(d) {
+            accountSignup.find(".signUpButton").html(defaultSignupMessage);
+            SumAll.error("Error in handleAccountSignupError", d);
+        }
+
+        // Get referrer and landing page URL
+        var referrerOriginal = document.referrer.replace(location.protocol+"//","");
+        var referrer = referrerOriginal.replace(location.search,"");
+        $("#referrer").val(referrer);
+        $("#landingPage").val(location.href.replace(location.search,""));
+
+        accountSignup.find(".signUpButton").html(defaultSignupMessage + " <span class='sumall_icon'>o</span>");
+        $.ajax({
+            "type": "POST",
+            "dataType": "json",
+            "url": "https://sumall.com/signup/register",
+            "data": accountSignup.find("form.secure_signup_form").serialize(),
+            "success": handleAccountSignupSuccess,
+            "timeout": handleAccountSignupTimeout,
+            "error": handleAccountSignupError
+        });
+        return false;
+    });
+
+    // Finally, disable submit button
+    updateSubmitButton();
+}
+
+// Login related
+var setupLoginForm = function(internalLogin) {
+    if (internalLogin) {
+
+        // On password focus, animate "keep me signed in" checkbox                  
+        internalLogin.find("input[type=password]").bind("focus",function(){
+            internalLogin.find(".remember_me_embedded label, .remember_me label").animate({backgroundColor:"#d4d4d4"}, 60).animate({backgroundColor:"#ededed"}, 1500).animate({borderColor:"#e3e3e3"}, 500);
+            internalLogin.find("input[type=password]").unbind("focus");
+        });
+
+        // Bind submit handler for login form
+        var loginForm = internalLogin.find("form");
+        if (loginForm) {
+            loginForm.preventDoubleSubmit();
+            loginForm.submit(function(event) {
+                // convenience function
+                function getUserEmail() {
+                    return loginForm.find("[name=email]").val()
+                }
+                // prevent default submit
+                event.preventDefault(); 
+                // clear errors before submitting
+                internalLogin.find(".loginError").fadeOut(150);
+                // login via ajax
+                $.ajax({
+                    type: "POST",
+                    url: "https://sumall.com/login",
+                    data: loginForm.serialize(),
+                    dataType: "json",
+                    success: function(response) {
+                        if (response.result === "SUCCESS") {
+                            sumall.analytics.track(SumAll.analytics.Events.LOGIN_SUCCESS, { userEmail : getUserEmail() });
+                            window.location = response.body.url;
+                        } else if (response.result === "UNVERIFIED") {
+                            internalLogin.find(".internal_announcement, .announcement").fadeOut(200);
+                            internalLogin.find(".verifyNotice").html(response.msg);
+                            internalLogin.find(".verifyNotice").slideFadeToggle(200);
+                            loginForm.resetDoubleSubmit();
+                            sumall.analytics.track(SumAll.analytics.Events.LOGIN_ERROR_UNVERIFIED, { userEmail : getUserEmail() });
+                        } else if (response.result === "ERROR") {
+                            internalLogin.find(".internal_announcement, .announcement").fadeOut(200);
+                            internalLogin.find(".loginError").html(response.msg);
+                            internalLogin.find(".loginError").slideFadeToggle(200);
+                            loginForm.resetDoubleSubmit();
+                            sumall.analytics.track(SumAll.analytics.Events.LOGIN_ERROR, { userEmail : getUserEmail() });
+                        }
+                    },
+                    error: function(jqXHR) {
+                        loginForm.resetDoubleSubmit();
+                        internalLogin.find(".internal_announcement, .announcement").animate({opacity: 0}, 200);
+                        internalLogin.find(".loginError").html("Your request could not be completed.  Please refresh the page and try again.");
+                        internalLogin.find(".loginError").slideFadeToggle(200);
+                        sumall.analytics.track(SumAll.analytics.Events.LOGIN_ERROR, { userEmail : getUserEmail() });
+                    }
+                });
+                // prevent form submission for older browsers
+                return false;
+            });
+        }
+    }
+}
+
+var headerLogin = $(".login_content");
+if (headerLogin) {
+    // take care of form in header
+    setupLoginForm(headerLogin); 
+
+    // Add handler for show login button
+    SumAll.initFormLabels = false;
+    mainNav.find("#loginButton").bind("click", function (e) {
+        e.preventDefault();
+        
+        // temporarily disable iOS form field auto zoom
+        var tempMetaViewport = $("head meta[name='viewport']") || $("head").prepend('<meta name="viewport" content="user-scalable=no" />');
+        var tempMetaViewportContent = tempMetaViewport.attr("content");
+        tempMetaViewport.attr("content", "user-scalable=no");
+        
+        mainNav.addClass("add_nav_shadow");
+        if ($(window).scrollTop() != 0) {
+            $("body,html").animate({scrollTop: 0}, 150);
+            headerLogin.delay(400);
+        }
+        
+        headerLogin.stop(true, true).slideToggle(400, "easeOutExpo", function() {
+            headerLogin.find("input[type=email]").focus();
+            headerLogin.find(".internal_announcement").delay(800).animate({opacity: 1}, 800);
+            
+            // re-enable iOS zoom ability
+            tempMetaViewport.attr("content", tempMetaViewportContent);
+            
+            if (!SumAll.initFormLabels) { 
+                $.fn.formLabels();
+                SumAll.initFormLabels = true;
+            }
+        });
+    });
+}
+
+// Take care of form in login.html
+setupLoginForm($(".external_login .login_content"));
+
+// Make telephone appear bigger for better usability
+$(".toggle_telephone_number").bind("click", function(){
+    $(".telephone_number").fadeIn(300);
 });
 
-// Bind submit handler for login form
-var form = $("#loginForm");
-form.preventDoubleSubmit();
-$("#loginForm").submit(function(event) {
-    // prevent default submit
-    event.preventDefault(); 
-    // clear errors before submitting
-    $("#loginError").fadeOut(150);
-    // login via ajax
-    $.ajax({
-        type: "POST",
-        url: "https://sumall.com/login",
-        data: form.serialize(),
-        dataType: "json",
-        success: function(response) {
-            if (response.result === 'SUCCESS') {
-                sa_analytics.track(SumAll.analytics.Events.LOGIN_SUCCESS, { userEmail : $("#loginForm [name=email]").val()});
-                window.location = response.body.url;
-            } else if (response.result === 'UNVERIFIED') {
-                $('.internal_announcement, .announcement').animate({opacity: 0}, 200);
-                $('#verifyNotice').html(response.msg);
-                $('#verifyNotice').slideFadeToggle(200);
-                form.resetDoubleSubmit();
-                sa_analytics.track(SumAll.analytics.Events.LOGIN_ERROR_UNVERIFIED, { userEmail : $("#loginForm [name=email]").val()});
-            } else if (response.result === 'ERROR') {
-                $('.internal_announcement, .announcement').animate({opacity: 0}, 200);
-                $('#loginError').html(response.msg);
-                $('#loginError').slideFadeToggle(200);
-                form.resetDoubleSubmit();
-                sa_analytics.track(SumAll.analytics.Events.LOGIN_ERROR, { userEmail : $("#loginForm [name=email]").val()});
-            }
-        },
-        error: function(jqXHR) {
-            form.resetDoubleSubmit();
-            $('.internal_announcement, .announcement').animate({opacity: 0}, 200);
-            $('#loginError').html("Your request could not be completed.  Please refresh the page and try again.");
-            $('#loginError').slideFadeToggle(200);
-            sa_analytics.track(SumAll.analytics.Events.LOGIN_ERROR, { userEmail : $("#loginForm [name=email]").val()});
-        }
-    });    
+$(".telephone_closer_trigger").bind("click", function(){
+    $(".telephone_number").fadeOut(300);
 });
+
+
+
+    $(".legal").animate({ opacity: 1, bottom: "+=45" }, 300);
 
                     }
                 }
             ]);
         </script>
+
+
         <script>
-            window._gaq = [["_setAccount","UA-23089585-1"],["_setDomainName", "sumall.com"],["_trackPageview"]];
+            window._gaq = [["_setAccount","UA-23089585-1"],["_setDomainName", "sumall.com"],["_setSiteSpeedSampleRate", 100],["_trackPageview"]];
             Modernizr.load({
                 load: ("https:" == location.protocol ? "//ssl" : "//www") + ".google-analytics.com/ga.js"
             });
         </script>
+
+
+
+        
+        <!-- AdRoll retargeting script -->
+        <script type="text/javascript">
+            adroll_adv_id = "7YI5NU6QSFGBNGDMOOMTD7";
+            adroll_pix_id = "KAL6SADH2FDSHF3ZFJG2Q2";
+            (function () {
+            var oldonload = window.onload;
+            window.onload = function(){
+                __adroll_loaded=true;
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if(oldonload){oldonload()}};
+            }());
+        </script>
+
+        <!-- Quantcast Tag -->
+        <script type="text/javascript">
+            var _qevents = _qevents || [];
+
+            (function() {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+            })();
+
+            _qevents.push({
+            qacct:"p-NFWgcsPxf208B"
+            });
+        </script>
+
+        <noscript>
+            <div style="display:none;">
+            <img src="//pixel.quantserve.com/pixel/p-NFWgcsPxf208B.gif" border="0" height="1" width="1" alt="Quantcast"/>
+            </div>
+        </noscript>
     
 </body></html>
