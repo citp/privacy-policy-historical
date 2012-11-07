@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenkai.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508040955id_/http%3A//www.kenkai.com/privicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenkai.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107012943id_/http%3A//www.kenkai.com/privicy.htm) for the most accurate reproduction.*
 
 # Kenkai SEO, web desigb, website redesign, search engine optimsation
 
