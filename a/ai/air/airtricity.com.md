@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611045950id_/http%3A//www.airtricity.com/ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107180408id_/http%3A//www.airtricity.com/ie/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Greener and Cheaper Energy from Airtricity
 
-Airtricity is the trading name of Airtricity Energy Supply (Northern Ireland) Limited and Airtricity Limited, members of the Scottish and Southern Energy Group (referred to in this privacy statement as the ‘Scottish and Southern Energy Group’ or ‘we’ or “us”).
+Airtricity is the trading name of Airtricity Energy Supply (Northern Ireland) Limited and Airtricity Limited, members of the SSE Group (referred to in this privacy statement as the ‘SSE Group’ or ‘we’ or “us”).
 
 We are committed to protecting and respecting your privacy. This statement (together with our [terms of use](http://www.airtricity.com/ie/terms-of-use/) and any other documents referred to therein) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
@@ -10,7 +10,7 @@ By submitting any information, you consent to the use of that information as set
 
 We will comply with the UK's Data Protection Act 1998 and the Republic of Ireland’s Data Protection Act 1988 and 2003 (as applicable) and any other locally applicable data protection legislation.
 
-For data protection purposes, the data controller for the Scottish and Southern Energy Group is Scottish & Southern Energy plc (SC117119) having its registered address at Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ
+For data protection purposes, the data controller for the SSE Group is SSE Group plc (SC117119) having its registered address at Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ
 
 ## Information we may collect from you
 
@@ -24,20 +24,13 @@ We may collect and process the following data about you:
 
 
 
-## IP addresses and cookies
+## Our use of cookies and other information gathering technologies
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service. They enable us:
+We may create and access cookies on your PC. Cookies are small text files stored in your web browser, which can identify you when you visit our website.
 
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our website according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our website. 
-
-
-
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website.
+For more information see our [cookie page](http://www.airtricity.com/ie/cookies/).
 
 ## Where we store your personal data
 
@@ -66,13 +59,13 @@ If you do not want us to use your data in this way, or to pass your details on t
 
 ## Disclosure of your information
 
-Scottish and Southern Energy Group may disclose your personal information to any part of our group.
+SSE Group may disclose your personal information to any part of our group.
 
 We may disclose your personal information to third parties:
 
   * In the event of any proposal to obtain or transfer any business or assets, in which case we may disclose your personal data to the prospective third parties to such transaction(s) and any relevant advisors.
   * If any or all our assets are obtained from or transferred to a third party, where personal data held about customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply our [terms of use](http://www.airtricity.com/ie/terms-of-use/) or our [terms and conditions of supply](http://www.airtricity.com/ie/home/products/supply-of-electricity-and-or-gas/) and other agreements; or to protect the rights, property, or safety of any part of the Scottish and Southern Energy Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply our [terms of use](http://www.airtricity.com/ie/terms-of-use/) or our [terms and conditions of supply](http://www.airtricity.com/ie/home/products/supply-of-electricity-and-or-gas/) and other agreements; or to protect the rights, property, or safety of any part of the SSE Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
   * In accordance with any of our terms and conditions of supply as amended from time to time [insert link to terms and conditions of supply]. 
 
 
@@ -85,7 +78,7 @@ Our website may, from time to time, contain links to and from the websites of ou
 
 ## Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request must be in writing, contain sufficient information to establish the identity of the Data subject and location of the information requested and a fee may be charged to meet our costs in providing you with details of the information we hold about you. This fee is currently £10 in the UK and €6.35 in Ireland. All requests should be sent to the Data Protection Officer at Scottish and Southern Energy plc. Please contact us directly for more information if you wish to make such a request.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request must be in writing, contain sufficient information to establish the identity of the Data subject and location of the information requested and a fee may be charged to meet our costs in providing you with details of the information we hold about you. This fee is currently £10 in the UK and €6.35 in Ireland. All requests should be sent to the Data Protection Officer at SSE Group plc. Please contact us directly for more information if you wish to make such a request.
 
 Changes to our privacy policy or your Information
 
