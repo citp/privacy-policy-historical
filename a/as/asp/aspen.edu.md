@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the aspen.edu privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618212646id_/http%3A//www.aspen.edu/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspen.edu privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107133418id_/http%3A//www.aspen.edu/Privacy-Policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Aspen University
 
-## last revised: july 28, 2011
+## Last Revised: July 28, 2011
 
-## 1\. general.
+## 1\. General.
 
 Aspen University Inc. respects and is committed to protecting the privacy of every individual who uses the website: www.aspen.edu (the "Website"). This Privacy Policy governs the manner in which we collect, use, maintain and disclose information collected from the users of the Website. This Privacy Policy applies to the Website and all services offered by us through the Website (the “Services”).Throughout this Private Policy, Aspen University Inc. shall be referred to as "Company," "we" or "us". The Website user will be referred to as "You", "User(s)" or "Student(s)".
 
-## 2\. children's privacy
+## 2\. Children's Privacy
 
 This Website is not directed to children under the age of 13 and we do not knowingly collect personal information on this Website from children under the age of 13. If we become aware that we have inadvertently received personal information from a visitor under the age of 13, we will delete the information from our records.
 
-## 3\. information collected from you
+## 3\. Information Collected From You
 
 To qualify to receive access to the Website and/or Services, subject to the requirements set forth in our Terms of Service we gather personal information from you in order to begin your application to Aspen University. This information may include, but is not necessarily limited to, your first and last name, e-mail address, postal mailing address, mobile telephone number and other demographic information, as well as credit/debit card information for payment and/or age verification purposes (collectively, "Personally Identifiable Information" or "PII". IT IS IMPORTANT THAT YOU SUPPLY US WITH VALID, COMPLETE, CURRENT AND ACCURATE PERSONAL IDENTIFIABLE INFORMATION; SUCH PII WILL BE USED TO SUPPLY THE SERVICES TO YOU AND TO COLLECT PAYMENT FOR SUCH SERVICES (WHERE APPLICABLE). By submitting your PII, you authorize us to confirm the accuracy of the information you submitted against government-issued identification. We may also collect information related to your online activities to more accurately target and measure our advertising inventory, including, without limitation, the places you visit at the Website, content accessed and associated marketing metrics (such as e-mails opened and responded to) (collectively, your "Marketing Profile").
 
-## 4\. links to third-party websites
+## 4\. Links To Third-Party Websites
 
 In addition, you may find links to other websites from our Website. Please be aware that the Company is not responsible for the privacy practices of any third parties and/or websites. We strongly encourage you to be aware of when you leave our Website and/or supply your Personally Identifiable Information to any third party, and to read the privacy policies of each and every third party and/or website before using such third party website(s) and/or before supplying any PII to them. This Privacy Policy applies solely to information collected by this Website.
 
-## 5\. how we use and share the information we collect
+## 5\. How We Use And Share The Information We Collect
 
 You understand and agree that the Company may use and share your PII with third parties as needed to supply the Service(s) to you. For example, we may notify you in regards to your account or transactions with us. 
 
@@ -34,7 +34,7 @@ In addition, you agree that by enrolling in Aspen University such act constitute
 
 You may receive an e-mail confirming your inquiry, application or enrollment to/in Aspen University. The Company reserves the right to collect and retain data relating to e-mail marketing sent to, and opened by, individuals on our marketing list(s). 
 
-## 6\. privacy complaints
+## 6\. Privacy Complaints
 
 If you believe that we have not complied with this Privacy Policy, please contact us at: [privacy@aspen.edu](mailto:privacy@aspen.edu)
 
@@ -46,33 +46,33 @@ Direct Marketing Association: Attn: Privacy Promise
 615 L St. NW, Suite 1100  
 Washington, DC 20036
 
-## 7\. how to access or modify your information
+## 7\. How To Access Or Modify Your Information
 
 We strive to keep all Personally Identifiable Information current, accurate and complete. You are always fully in control of the PII that we maintain to service you. You can change your PII at any time and as often as necessary. You can also request that any Personally Identifiable Information be deleted. Certain Personally Identifiable Information may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation, or as otherwise described above in the "Use of Your Personally Identifiable Information Obtained By Company" section.
 
 You may access and modify your Personally Identifiable Information by contacting us at: [privacy@aspen.edu](mailto:privacy@aspen.edu)
 
-## 8\. opt-out 
+## 8\. Opt-Out
 
 You may opt-out of our collection, use and disclosure of your Personally Identifiable Information at any time, subject to contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt-out of certain uses of your Personally Identifiable Information, we may no longer be able to provide certain Services. You may not be permitted to opt-out to certain necessary collection, uses and disclosures, for example, but not limited to, educational announcements, maintaining reasonable academic, business and transaction records and disclosures to government entities as required for us to comply with applicable laws. Click here to opt-out.
 
 You can choose to no longer receive marketing communications from us and you may express your choice where indicated on the applicable email or other communication or click here to opt out. Please note, however, that such a request will only remove you from our list and the list of any third parties performing services on our behalf. We are not responsible for the use any other party may make of your Personally Identifiable Information once it has been transferred in accordance with this Privacy Policy and you will need to contact such entity to have your Personally Identifiable Information removed from their database.
 
-## 9\. special notification for california residents
+## 9\. Special Notification For California Residents
 
 Individuals who reside in California and have provided their Personally Identifiable Information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following emailing address: CAPRIVACY@aspen.edu.
 
 This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified above.
 
-## 10\. group aggregate data
+## 10\. Group Aggregate Data
 
 The Company reserves the right to collect, use, transfer and/or sell aggregate or group data about the users of our Website and Services for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of the Company's users as a group, without disclosing Personally Identifiable Information. By submitting your Personally Identifiable Information to us, and/or using, the Website and/or Service(s), you agree to allow the Company to transfer and/or sell such aggregate data to third parties.
 
-## 11\. log files
+## 11\. Log Files
 
 Like most website servers, we use log files. Log files include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Log file information is not linked to Personally Identifiable Information.
 
-## 12\. use of cookies
+## 12\. Use Of Cookies
 
 A cookie is a text file stored on a user's hard drive containing information about the respective user. Cookies can provide great convenience for users at many websites and is required to use the Company Website and Service(s). For instance, by associating a cookie with your computer which is identified and processed by our servers, you need not log in more than once at the Website, thereby saving time and convenience while using our servers. In particular, we may use persistent and/or session cookies at the Website. Persistent cookies do not automatically expire, but persist to permit the Company to register future visits at the Website with your profile in our servers. In addition, cookies associated with the Company may be read, aggregated and used with cookies associated with other affiliate Internet properties.
 
@@ -80,21 +80,21 @@ In addition, we and/or third parties that advertise at the Website and through o
 
 You can set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For further information on cookies please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/).
 
-## 13\. our security measures
+## 13\. Our Security Measures
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Although we take reasonable technological precautions to protect your Personally Identifiable Information, no data transmission over the Internet can be guaranteed to be 100% secure.
 
 When a user submits sensitive personal and payment information via the Website, the information is protected both online and off-line. When our registration, download or purchase process prompts a user to enter sensitive information (such as a credit card or social security number), the information is encrypted and is protected with industry-standard encryption - SSL technology. While we use SSL encryption to protect sensitive information online, we also use commercially reasonable measures to protect user information off-line. Access to user information is restricted in our offices and areas where such information is stored. Only employees and authorized individuals who need access to the information to perform a specific job are granted access to Personally Identifiable Information. If you have any questions about the security at our Website, please contact us at security@aspen.edu
 
-## 14\. changes to this privacy policy
+## 14\. Changes To This Privacy Policy
 
 We reserve the right, at our sole discretion and at any time, to change, modify, add or remove portions of this Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for changes. Your continued use of the Company Website and/or Service(s) following the posting of changes to this Privacy Policy constitutes your acceptance of such changes. If you do not agree to the terms of this Privacy Policy, you may not use and/or access the Website and/or Service(s).
 
-## 15\. your acceptance of this privacy policy
+## 15\. Your Acceptance Of This Privacy Policy
 
 By using this Website and/or Service(s), you agree to all of the terms and conditions of the Company Privacy Policy, as well as all other policies contained on the Website and relating to the Services.
 
-## 16\. questions? contact us
+## 16\. Questions? Contact Us
 
 If you have any questions about our privacy practices or your dealings with the service, please do not hesitate to contact us at:
 
