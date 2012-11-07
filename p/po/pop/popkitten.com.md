@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popkitten.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513083054id_/http%3A//www.popkitten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popkitten.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107124005id_/http%3A//www.popkitten.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pop Kitten
 
