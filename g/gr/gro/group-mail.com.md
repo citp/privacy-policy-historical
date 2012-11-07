@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508172323id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107041459id_/http%3A//group-mail.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal - GroupMail Website
 
@@ -23,6 +23,44 @@
 8\. Infacta Ltd. reserves the right to change all aspects of all Infacta owned properties (site content, software, prices etc.) at any time.
 
 9\. These terms and conditions of use shall be construed and interpreted in accordance with Irish Law. The Courts of Ireland shall have exclusive jurisdiction in relation to any claim, dispute or other matter arising there from.
+
+##### Spoofing Fraud
+
+##### 
+
+A User may not use any Infacta Product or Service to send email or SMS messages or to transmit any electronic communications using a name, email address, SenderID or phone number of someone other than the User for purposes of deception or fraud. Any attempt to impersonate someone else by altering an email address or header, SMS SenderID or phone number, source IP address information or any other identifying information is prohibited. Any attempt to fraudulently conceal, forge or otherwise falsify a User’s identity in conjunction with the use of any Infacta Product or Service is prohibited.
+
+Forging or misrepresenting email or SMS message headers or identities, whether in whole or in part, to mask the originator of the message, is prohibited.
+
+##### Illegal Activity
+
+##### 
+
+Users agree to use Infacta’s email and SMS messaging Products andServices only for lawful purposes. Use of any Infacta Product or Service for transmission, distribution, retrieval or storage of any information, data or other material in violation of any applicable law or regulation (including, where applicable, any tariff or treaty) is prohibited. This includes, without limitation, the use or transmission of any data or material protected by copyright, trademark, trade secret, patent or other intellectual property right without proper authorization and the transmission of any material that constitutes an illegal threat, violates control laws or is obscene, defamatory or otherwise unlawful.
+
+##### Distribution of Internet Viruses, Worms, Trojan Horses or Other Destructive Activities
+
+##### 
+
+Using any Infacta Product or Service to send or distribute Internet Viruses, Worms, Trojan Horses or any other malicious or destructive elements is prohibited. Activities that disrupt the use of or interfere with the ability of others to effectively use Infacta Products or Services or any connected network, system, service or equipment are likewise prohibited.
+
+##### Other Prohibited Activities
+
+##### 
+
+The following activities are also prohibited:
+
+  * Intentionally using any Infacta Product or Service to send or transmit files containing corrupted data.
+  * Using any Infacta Product or Service for Harassment, whether through language, frequency or size of messages.
+  * Furnishing false or incorrect data on orders, contracts, applications or other materials to Infacta, including fraudulent use of credit card numbers or telephone numbers.
+  * Using any Infacta Product or Service to engage in activities that are determined to be illegal, such as the distribution of pyramid or ponzi schemes, is prohibited.
+  * Using any Infacta Product or Service or any associated or connected networks to advertise, transmit, store, send, distribute or otherwise make available child pornography or other illegal obscene speech or material is prohibited.
+  * Using any Infacta Product or Service as a means to send, distribute or transmit defamatory, harassing, abusive, threatening or hateful language is prohibited.
+  * Using any Infacta Product or Service to promote scams, frauds or to engage in any misrepresentation.
+
+
+
+* * *
 
 If you have any questions regarding our Terms and Conditions please contact us – [support@group-mail.com](mailto:support@group-mail.com)
 
