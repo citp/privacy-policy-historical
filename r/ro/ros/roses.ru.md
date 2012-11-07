@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605040150id_/http%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107013415id_/http%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
 
 # FAQ related to security and privacy.
 
