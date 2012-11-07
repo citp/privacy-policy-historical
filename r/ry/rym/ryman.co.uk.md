@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202154id_/http%3A//www.ryman.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107115318id_/http%3A//www.ryman.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ You will also see that the Ryman address in the browser has changed and the http
 Back to top
 
   
-**Privacy Promise**
+ **Privacy Promise**
 
 We take your personal privacy very seriously and are committed to ensuring that your details are kept confidential and are only used in providing you with exceptional customer service. 
 
@@ -37,7 +37,7 @@ For full details on our Privacy Policy, please see the section incorporated into
 Back to top
 
   
-**Credit card fraud prevention**
+ **Credit card fraud prevention**
 
 Ryman have recently introduced additional security in the way that your credit card is processed. 
 
@@ -49,34 +49,19 @@ Please note: This is not your Ryman.co.uk login password. If you do not know or 
 
 Find out more here: 
 
-[ ](http://www.mastercard.com/us/personal/en/cardholderservices/securecode/index.html "Mastercard Securecard") MasterCard SecureCode website 
+[ ](http://www.mastercard.com/us/personal/en/cardholderservices/securecode/index.html "Mastercard Securecard")MasterCard SecureCode website 
 
-[ ](http://www.visaeurope.com/merchant/handlingvisapayments/cardnotpresent/verifiedbyvisa.jsp "Visa Wesbite") Verified by Visa website 
+[ ](http://www.visaeurope.com/merchant/handlingvisapayments/cardnotpresent/verifiedbyvisa.jsp "Visa Wesbite")Verified by Visa website 
 
 Back to top
 
   
-**Phishing emails or calls – do not share your personal information**
+ **Phishing emails or calls – do not share your personal information**
 
 Phishing is the process of tricking someone into passing over personal or sensitive information. This can be done in an email format or through a phone call from someone pretending to be from an official and legitimate source. 
 
 Do not share your personal information with anyone claiming to be from Ryman. If we need to take an alternative payment method or other personal information from you, we will ask you to call us back on our main customer services number. 
 
 If you think someone is attempting to deceive you into passing over your details, please let us know immediately. 
-
-Back to top
-
-  
-**Use of Cookies**
-
-Cookies are tiny files of alphanumeric characters that are stored on your computer via your web browser to enable our systems to recognise you when you visit the Ryman website. 
-
-Cookies enable Ryman to store your shopping basket details when you leave the website and to provide certain personalised features to you. 
-
-If you have cookies disabled, then you will not be able to access some of the features on the Ryman website and you will not be able to purchase. 
-
-Important: There is a common misconception that Cookies are harmful to your computer or contain personal information. This is not true: 
-
-If you decide to turn off cookies then you will not be able to access some of the features on the Ryman website and you will not be able to purchase. 
 
 Back to top
