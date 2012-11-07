@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509125937id_/http%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107115906id_/http%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy for Franchise Help
 
