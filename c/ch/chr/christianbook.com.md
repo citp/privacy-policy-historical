@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianbook.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103004505id_/http%3A//www.christianbook.com/Christian/Books/cms_content%3Fpage%3D144543) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianbook.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108003959id_/http%3A//www.christianbook.com/Christian/Books/cms_content%3Fpage%3D144543) for the most accurate reproduction.*
 
 # Privacy Policy - Christianbook.com
 
@@ -64,7 +64,7 @@ If you are under the age of eighteen (18) years, you may use this web site and p
 
 Our site includes links to other websites which are not our subsidiary or affiliated companies. These websites are not owned or operated by us and we are not responsible for their actions or activities. We encourage you to review the privacy and security policies of these websites and advertisers. We do not provide personally identifiable information to these advertisers or third party websites. 
 
-Third party vendors, including Google, may show ads for Christianbook.com on websites across the internet. Some of these ads may be served based on information collected from the Christianbook.com website though the use of cookies. The Network Advertising Initiative (“NAI”) is a cooperative of online marketing and analytics companies which provides information regarding Internet advertising and marketing companies. The NAI website provides an opt-out tool which allows consumers to opt-out of the advertising delivered by NAI member companies. The NAI opt-out tool is located at <http://www.networkadvertising.org/managing/opt_out.asp>.
+Third party vendors, including Google, may show ads for Christianbook.com on websites across the internet. Some of these ads may be served based on information collected from the Christianbook.com website through the use of cookies. The Network Advertising Initiative (“NAI”) is a cooperative of online marketing and analytics companies which provides information regarding Internet advertising and marketing companies. The NAI website provides an opt-out tool which allows consumers to opt-out of the advertising delivered by NAI member companies. The NAI opt-out tool is located at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Conditions of use**
 
