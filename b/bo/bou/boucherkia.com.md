@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318215453id_/http%3A//www.boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107190922id_/http%3A//boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
 
-# Kia Racine, WI New & Used Auto Dealer: Frank Boucher Kia
+# New & Used Kia Dealer | Frank Boucher Kia of Racine | Serving Milwaukee, WI
 
 Frank Boucher Kia of Racine Racine, WI is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Frank Boucher Kia of Racine Racine, WI Web site and governs data collection and usage. By using the Frank Boucher Kia of Racine Racine, WI website, you consent to the data practices described in this statement. 
 
