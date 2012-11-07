@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014232930id_/http%3A//www.rtsguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107074111id_/http%3A//www.rtsguru.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policies at RTSguru.com
+# RTSguru.com - RTS Game Reviews, News, Opinion & Previews for Real Time Strategy Games
 
 RTSGuru.com is committed to protecting your privacy. This statement of privacy defines and governs how we gather and use data at this Web site.
 
