@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eloquii.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528070616id_/http%3A//www.eloquii.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloquii.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108004311id_/http%3A//www.eloquii.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# eloquii Privacy Policy
+# Privacy Policy | eloquii by THE LIMITED
 
 This Privacy Policy applies only to the information collected online by eloquii.com, its parent and affiliates.
 
@@ -10,7 +10,7 @@ Welcome! This Privacy Policy is intended to explain what types of information we
 
 1\. General Browsing:
 
-eloquii.com gathers navigational information about where visitors go on our Website and information about the technical efficiencies of our Website and services (i.e., time to connect to our Website, time to download pages, etc.). This information allows us to see which areas of our Website are most visited and helps us better understand our visitors' experiences at eloquii.com. With the navigational information, we can improve the quality of our Website by recognizing and delivering more of the features, areas and services our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our Website.
+eloquii.com gathers navigational information about where visitors go on our website and information about the technical efficiencies of our website and services (i.e., time to connect to our website, time to download pages, etc.). This information allows us to see which areas of our website are most visited and helps us better understand our visitors' experiences at eloquii.com. With the navigational information, we can improve the quality of our website by recognizing and delivering more of the features, areas and services our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our website.
 
 2\. Collection of Personal Information:
 
@@ -37,14 +37,14 @@ eloquii.com uses the information you provide to:
   * deliver information through the various communication channels you have provided to us about our products or website, including adding you to our email list or to our customer phone and mail marketing list when you register for an account or make a purchase
   * send information about events, surveys, promotions and possibly contests to you,
   * tailor your experience on our website to your interests,
-  * develop our products, services, and Website, and
+  * develop our products, services, and website, and
   * respond to your inquiries.
 
 
 
 eloquii.com is a brand of The Limited, so The Limited will have access to your information and may use it to deliver information about products of The Limited to you through the various channels that you provide on eloquii.com.
 
-If you have set up an Account at this site, you may save personal information in that Account, such as name and shipping information, and we will access this saved information to make your shopping quicker and easier. We require you to create and/or access your Account to use various services on the Website, such as accessing your order history and creating a wish list. Because you must create or access your Account prior to using these services, it is possible that we could associate you with the information you provide through these services.
+If you have set up an Account at this site, you may save personal information in that Account, such as name and shipping information, and we will access this saved information to make your shopping quicker and easier. We require you to create and/or access your Account to use various services on the website, such as accessing your order history and creating a wish list. Because you must create or access your Account prior to using these services, it is possible that we could associate you with the information you provide through these services.
 
 We will use the information you provide in a career profile, including in your resume, to assist in your goal of becoming an associate with eloquii by The Limited and, if hired, we will use the information submitted for employment and business-related purposes.
 
@@ -56,7 +56,7 @@ Back to Top
 
 ### What information does eloquii.com share with third parties?
 
-We may use third party vendors to assist us with this Website and our e-commerce business. Some examples of the assistance that may be provided by third party service providers are: monitoring and analyzing site activity, hosting the Website, assisting us with our Social Media Pages, processing orders, running promotions and events and surveys, maintaining our database, providing store locator services, processing employment applications, and administering and monitoring emails. It is possible that some of these service providers will be located outside of the United States.
+We may use third party vendors to assist us with this website and our e-commerce business. Some examples of the assistance that may be provided by third party service providers are: monitoring and analyzing site activity, hosting the website, assisting us with our Social Media Pages, processing orders, running promotions and events and surveys, maintaining our database, providing store locator services, processing employment applications, and administering and monitoring emails. It is possible that some of these service providers will be located outside of the United States.
 
 We may make names and addresses collected online available to other companies not affiliated with eloquii.com. If you do not wish to have your name and address shared with other companies (other than third parties who provide services to eloquii.com) please call us at 1-855-356-7844.
 
@@ -68,27 +68,27 @@ When you send an email from eloquii.com to a friend, we will send your selected 
 
 There is a possibility that eloquii by The Limited or The Limited could merge with, acquire, or be acquired by another business entity. If such an action occurs, some or all of the personal information collected about you could be shared with this entity, and may also be retained by eloquii by The Limited.
 
-You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Website, the site or the public.
+You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our website, the site or the public.
 
 Back to Top
 
 ### Visitors from outside the U.S.
 
-If you are visiting eloquii.com from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you provide to eloquii.com will be maintained in Web servers and/or internal systems located within the U.S. With respect to personal information you provide to eloquii on its Social Media Pages, once received from the social media sites, it is maintained and processed by us on servers and internal systems located in the United States.
+If you are visiting eloquii.com from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you provide to eloquii.com will be maintained in web servers and/or internal systems located within the U.S. With respect to personal information you provide to eloquii on its Social Media Pages, once received from the social media sites, it is maintained and processed by us on servers and internal systems located in the United States.
 
 Back to Top
 
 ### Cookies
 
-eloquii.com uses a browser feature known as a cookie. A cookie is a small data file that is stored by your Web browser on your computer. Cookies are typically stored on your computer's hard drive and are used by eloquii.com to help track clicks and pass information as you go through the pages within our Website. We may also use cookies to tell us whether eloquii.com has been previously visited by you or someone using your computer, what products you may have viewed or added to your shopping cart, and to assist in the administration of your use of features and programs on our site.
+eloquii.com uses a browser feature known as a cookie. A cookie is a small data file that is stored by your web browser on your computer. Cookies are typically stored on your computer's hard drive and are used by eloquii.com to help track clicks and pass information as you go through the pages within our website. We may also use cookies to tell us whether eloquii.com has been previously visited by you or someone using your computer, what products you may have viewed or added to your shopping cart, and to assist in the administration of your use of features and programs on our site.
 
 We may use cookies and a technology known as clear gifs which are typically stored in emails to help us confirm your receipt of, and response to, our emails and to provide you a more personalized experience. Some of the cookies we use may be "Flash" cookies or Adobe® cookies. You can control Flash cookies (these are similar to traditional cookies, but reside in Adobe Flash Player rather than your browser and thus will not be affected by any browser setting changes you make) by going to <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html> and following the instructions on that page.
 
-We may elect to use third party advertising companies to serve our advertisements and allow them to collect non-personally identifiable information by placing cookies when you choose to visit and when you visit eloquii.com. These companies may use information (not including your name, address, email address, or telephone number) about your choice to visit and your visits to our site and other Websites to provide advertisements about eloquii by The Limited's products and services on this and other websites. These companies may also provide information to us which we would use to gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes.
+We may elect to use third party advertising companies to serve our advertisements and allow them to collect non-personally identifiable information by placing cookies when you choose to visit and when you visit eloquii.com. These companies may use information (not including your name, address, email address, or telephone number) about your choice to visit and your visits to our site and other websites to provide advertisements about eloquii by The Limited's products and services on this and other websites. These companies may also provide information to us which we would use to gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes.
 
-Advertisements displayed to you on our websites and elsewhere on the Web may be customized to your interests and preferences, based on information learned about you as you use our websites and the Web in general. Sometimes, these ads may contain small graphics with "tags" in them. These tags tell us how many people respond to our ads. They do not identify you personally. If you do not want to receive these advertisements, please visit <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out.
+Advertisements displayed to you on our websites and elsewhere on the web may be customized to your interests and preferences, based on information learned about you as you use our websites and the web in general. Sometimes, these ads may contain small graphics with "tags" in them. These tags tell us how many people respond to our ads. They do not identify you personally. If you do not want to receive these advertisements, please visit <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out.
 
-We will use a program that will place cookies on your computer to collect information on our behalf. The information that will be collected through these cookies will educate us on such things as search engine referral, IP address, how you navigate around our site, traffic driven by banner ads, responses to email, unique visitor identification, and product browsing. We will use this information and analysis to assist us in better understanding the interests of visitors to eloquii.com and to better serve those interests, including providing emails aimed at interests you expressed on our site. Through the use of privacy settings on your browser it is possible (depending on the browser version) to block cookies. Some parts of the Website may not operate correctly if you disable cookies, and you may not be able to take advantage of some of the Website's features.
+We will use a program that will place cookies on your computer to collect information on our behalf. The information that will be collected through these cookies will educate us on such things as search engine referral, IP address, how you navigate around our site, traffic driven by banner ads, responses to email, unique visitor identification, and product browsing. We will use this information and analysis to assist us in better understanding the interests of visitors to eloquii.com and to better serve those interests, including providing emails aimed at interests you expressed on our site. Through the use of privacy settings on your browser it is possible (depending on the browser version) to block cookies. Some parts of the website may not operate correctly if you disable cookies, and you may not be able to take advantage of some of the website's features.
 
 Back to Top
 
@@ -98,13 +98,13 @@ We prefer to keep your personal information accurate and up-to-date. To do this,
 
 Back to Top
 
-### Privacy of children on our web site
+### Privacy of children on our website
 
 To ensure compliance with federal law, eloquii.com does not knowingly collect or maintain information provided by children under the age of 13.
 
 Back to Top
 
-### Links to other web sites and services
+### Links to other websites and services
 
 For your convenience, our web site may contain links to other web sites. eloquii.com is not responsible for the privacy practices, advertising, products or the content of such web sites. Links that appear on eloquii.com should not necessarily be deemed to imply that eloquii.com endorses or has any affiliation with the linked web sites. We encourage you to review the separate privacy policies of each site you visit.
 
@@ -118,9 +118,9 @@ Back to Top
 
 ### Security statement
 
-eloquii.com has imposed confidentiality obligations on its service providers who will have access to the personal information collected on this site. In addition, we have implemented administrative, technical and physical measures to address the confidentiality of personal information collected on this Website.
+eloquii.com has imposed confidentiality obligations on its service providers who will have access to the personal information collected on this site. In addition, we have implemented administrative, technical and physical measures to address the confidentiality of personal information collected on this website.
 
-While we implement the above security measures for this Website, you should be aware that 100% security is not always possible.
+While we implement the above security measures for this website, you should be aware that 100% security is not always possible.
 
 Back to Top
 
@@ -128,8 +128,8 @@ Back to Top
 
 If you have additional questions or would like more information on this topic, please feel free to contact us at:  
 Limited Stores Client Relations  
-PO Box 182651 Columbus, OH  
-43218-2651  
+PO Box 182651  
+Columbus, OH 43218-2651  
 [privacypolicy@eloquii.com](mailto:privacypolicy@eloquii.com)
 
 Back to Top
