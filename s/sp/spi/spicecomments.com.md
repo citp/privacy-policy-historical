@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spicecomments.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507165340id_/http%3A//www.spicecomments.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicecomments.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107162526id_/http%3A//spicecomments.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpiceComments.com
 
-Your privacy is important to us. To protect your privacy better, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+|  |  Your privacy is important to us. To protect your privacy better, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 Cookie and Tracking Technology
 
@@ -14,26 +14,12 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Terms and Conditions
 
-The **spicecomments.com** reserves the right to remove or replace any files. Images, graphics and photos from this site are for your personal use only and can not be used on any commercial site. To change the linking codes of the images from **spicecomments.com** is prohibited without prior permission.
+Our team reserve the right to remove or replace any files on the website. The images are legally created either from open source on the Internet or custom designed by us.
 
-The **spicecomments.com** doesn't publish the following types of files:
-
-\- Non-image files  
-\- Pornographic or nudity files  
-\- Files intending to promote anything for commercial profit
-
-Legal Terms
-
-All images are legally created either from open source on the Internet or custom designed by us. The content of the images, graphics and photos may not be modified.
+Spicecomments.com provides no warranty of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our [contact us](https://web.archive.org/contact_us/) page.
 
 Copyright Infringement
 
-Some images we have on the site are images sent by our users, photographers, artists and contributors, if you find a photo of yourself or image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/contact_us/) and give us a detailed explanation and we will be more than happy to take your image off.
+The images are only for your personal use, may not be modified and are the copyright of their respective owners. If you find a file that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/contact_us/).
 
-We do our best to avoid copyrighted material.
-
-Users of this site agree to be bound by the following Terms and Conditions
-
-The images are the copyright of their respective owners. You must own the copyright or have permission from the copyright holder for any images you send to our website.
-
-Any images found to break our terms and conditions will be removed without no warning. The **spicecomments.com** provides no warranty of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our [contact us](https://web.archive.org/contact_us/) page.
+|  | 
