@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512065526id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107120114id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
 
 # Free Transgender Personals - TG Dating Service
 
@@ -21,7 +21,7 @@ Cookie files written to your computer are used for record keeping purposes on so
 
 **3\. What We Collect From You**
 
-| a. | We collect "personal information" from you. We do this in order to operate the Site and to occasionally display advertisements about products or services that may be of interest to you. Personal Information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. We also collect "financial information" such as your credit card numbers or passwords. Further, we collect certain "demographic information," that is information that is neither personal information nor financial information; this may include, but is not limited to, zip code, gender, username, and age/birth date.  
+a. | We collect "personal information" from you. We do this in order to operate the Site and to occasionally display advertisements about products or services that may be of interest to you. Personal Information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. We also collect "financial information" such as your credit card numbers or passwords. Further, we collect certain "demographic information," that is information that is neither personal information nor financial information; this may include, but is not limited to, zip code, gender, username, and age/birth date.  
 ---|---  
 b. | We do NOT knowingly collect personal information from children under the age of 18, as we require that all users represent to us that they are at least 18 years old.   
   
