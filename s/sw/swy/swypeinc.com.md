@@ -1,61 +1,54 @@
-> *The following text is extracted and transformed from the swypeinc.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515090727id_/http%3A//www.swype.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swypeinc.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107012141id_/http%3A//swypeinc.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Swype | Privacy Policy
 
-**Swype, Inc. ("Swype", "we" or "us") collects certain data points in association with the Swype software, the Swype website, and any communications with Swype. The information we collect is used to improve the quality of our software, website, and services.** **Swype Software data collection**
+The [Nuance Privacy Policy](http://www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm) describes how we treat personal information when you use Nuance's products and services, including information provided when you use Nuance Products. In addition, the following describes our privacy practices that are specific to the Beta version of Swype.
 
-The Swype text input solution software that is downloaded or pre-installed on mobile handsets may collect, retrieve and/or store any information as needed for the following explicit uses: 
+## The Swype Beta Privacy Policy
 
-  * Activation Information 
-    * **What is this:** This is a set of information from the device that enables Swype to know that a new unique instance of Swype is being activated. 
-    * **How do we do this:** Swype collects very basic device information such as make, model, cellular ESN, etc to uniquely identify the device. We do not collect any personally identifiable information off of the device. Swype does not share any of the activation information with third parties except when required by law. 
-    * **Cellular ESN:** Differentiating between a software reinstallation and a new, unique hardware installation requires a reliable, unique hardware identifier. The ESN is the only reliable unique hardware identifier that survives a device reset. Other hardware identifiers (MAC address, serial number) either do not survive a complete device reset, or are easily modified. 
-  * Quality Measurement 
-    * **What is this:** Swype measures the quality of the Swype client to make sure that it performs to our best standards. To do this Swype collects & transmits measurement data to identify errors and areas of improvements. 
-    * **How do we do this:** Swype may collect the following measurement data: Speed of text entry, how often words are added/removed from the Personal Dictionary (Note: We do not collect the actual words added/removed, just how often words are added and removed), and language selection. None of the measurements we collect are personally identifiable, and any measurements we collect are done efficiently to minimize transmitted data. 
+### Personal Information
+
+  * For activation purposes, to know that a new unique instance of the Swype beta is being activated, we collect basic device information, such as cellular ESN, to uniquely identify the device. The identifier does not provide us with the ability to identify you.
+  * The Swype beta processes and stores Input Data, to enhance and improve the prediction capabilities of the product. The Input Data may contain Personal Information. Input Data means the text you type, write or trace into the Swype beta. 
+    * The Swype beta will examine, process and locally store your user contacts, and the Input Data in the User Dictionary. User Dictionary means the word lists stored locally on your device.
+  * If you choose to use the Dictation feature, the Swype beta processes, stores, and maintains your Speech Data, which may contain Personal Information, within Nuance's computing environment.
+  * If you so choose, the Swype beta will examine, process and locally store certain types of content related to applications integrated with the Swype beta to enhance and improve the prediction capabilities of the product. 
+    * The Swype beta examines and locally stores on your device new words found in your Application Content in the User Dictionary. Application Content is information generated or derived from applications integrated with the Swype beta. For example, the Swype beta is integrated with SMS, Facebook, Twitter and Gmail, and the Application Content comprises the names of your Facebook friends, Gmail screen names and the timeline of your public Twitter feed.
 
 
 
-**Swype Website Information Gathering and Usage**
+**Other Information**
 
-When you register for an account with Swype we ask for information such as your email address. 
+  * If you so choose, the Swype beta collects and stores the following Usage data within Nuance's computing environment: language selection, location information, the Swype beta application settings and device keyboard details, keys tapped, traced, or input by any other means, shifting and deletion events, words chosen, speed of text entry, and how often words are added/removed from the Personal Dictionary. This data is used anonymously and is not associated with you. Any measurements we collect are done efficiently to minimize transmitted data, and are only transferred when a Wi-Fi connection is active.
 
-Swype uses collected information for the following general purposes: products and Swype Beta Services provision, identification and authentication, Services improvement, contact, and research. 
 
-**Swype Website Cookies**
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a web site's computers and stored on your computer's hard drive. 
+### Uses
 
-Cookies are required to participate in various Swype programs, including Swype Beta programs. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Swype account after a certain period of time has elapsed to protect you against others inadvertently accessing your account. 
+  * Nuance maintains and processes your Swype beta content to provide the Swype beta service to you and to improve this and other Nuance products and services.
+  * Nuance or third parties acting under the direction of Nuance, pursuant to confidentiality agreements, use the Speech Data to develop, tune, enhance, and improve Nuance services and products. Nuance will not use the contents of any Speech Data provided to us through your use of Nuance Products for any purpose except as set forth above.
+  * Nuance's computers process the speech information in your Swype beta dictation request for various purposes, including formatting and displaying the information to you, and other purposes relating to offering you the Swype beta.
 
-**Swype Website Data Storage**
 
-Swype uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Swype website. 
 
-**Security**
+### Information sharing and onward transfer
 
-We take precautions to ensure the security of your personal information. However, we cannot guarantee that hackers or unauthorized personnel may gain access to your personal information despite our efforts. While we encrypt all transmitted data, you should note that in using Swype’s website and web services, your information will travel through third party infrastructures which are not under our control. 
+  * We do not share your Personal Information with any third parties except in the limited circumstances described in the [Nuance Privacy Policy](http://www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm) and herein, such as when we believe we are required to do so by law.
 
-We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users. You should never transmit personal or identifying information to other users. 
 
-**Children**
 
-Swype Beta registration is not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using Swype’s services, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' permission to use the Swype’s services. 
+### Your choices
 
-**Illegal Activities**
+  * You may clear the contents of your Swype User Dictionary, which will remove the word lists contained in the dictionary. Deletion of the User Dictionary content may cause a decline in the performance of the Swype beta. It will also reset your voice profile which may cause a decline in the accuracy of speech recognition. If you wish to clear your Swype User Dictionary, choose "Reset Swype's dictionary" in "Preferences" within Swype settings.
+  * You may reset your voice profile by selecting "Reset Swype's dictionary" in "Preferences" within Swype settings. Resetting your Swype User Dictionary will both reset your voice profile, and remove your word lists contained in your User Dictionary. Resetting your User Dictionary may cause a decline in the accuracy of the speech recognition and in the performance of the Swype beta.
+  * You may choose not to have the Swype beta import your Application Content. If you do not wish to have the Swype beta do this, turn off the Personalization options in “Connect Settings” within Swype Settings.
+  * You may choose not to have the Swype beta examine your Usage data. If you do not wish to have the Swype beta do this, turn off “Contribute Usage Data” in “Connect Settings” within Swype Settings.
+  * You may also turn off or alter the location settings in your device. Turning off the location settings may impact some aspects of the Swype beta offering.
 
-Swype reserves the right to share information gathered to the extent necessary or helpful in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
-**Affiliates**
 
-We reserve the right to provide information gathered to any company controlled by or under common control with Swype for any purpose permitted by this Privacy Policy.
+### More information
 
-**Changes**
-
-Swype may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your primary Swype account or by placing a prominent notice on our site or blog.
-
-**Questions**
-
-Any questions about this Privacy Policy should be addressed by mail at:
-
-Swype Inc. 71 Columbia StreetSuite 200 Seattle, WA 98104
+Facebook, Gmail, and Twitter are registered trademarks or trademarks of Facebook, Google Inc. and Twitter, Inc. respectively.  
+Please see [Nuance's Privacy Policy](http://www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm) for additional information  
+Updated: June 2012
