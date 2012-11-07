@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatscheaper.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625153940id_/http%3A//www.whatscheaper.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatscheaper.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107033844id_/http%3A//www.whatscheaper.com/privacypolicy.php%3Fuid%3D5068d6f65f807) for the most accurate reproduction.*
 
 # Whatscheaper.com - Privacy Policy
 
