@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholelottamama.net privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626123745id_/http%3A//wholelottamama.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholelottamama.net privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107031343id_/http%3A//wholelottamama.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Whole Lotta Mama Privacy Policy | Raising My Children Beyond the Chore Chart with the Help of Jesus
 
 **What information do we collect?**
 
