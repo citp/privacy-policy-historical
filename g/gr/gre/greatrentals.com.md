@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatrentals.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512181927id_/http%3A//www.greatrentals.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatrentals.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107162514id_/http%3A//www.greatrentals.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
 
 # HomeAway Vacation Rentals: Privacy Policies
 
