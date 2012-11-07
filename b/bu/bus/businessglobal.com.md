@@ -1,48 +1,49 @@
-> *The following text is extracted and transformed from the businessglobal.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226144851id_/http%3A//www.businessglobal.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessglobal.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107232650id_/http%3A//www.businessglobal.com/privacy-policy) for the most accurate reproduction.*
 
-# Virtual trade shows &amp; trade fair exhibitions online at BusinessGlobal.com
+# Privacy Policy Overview
 
-**Privacy Statement.**
+This Privacy Policy covers the IMC Business Global Plc treatment of personal information that is recorded when you submit your business for inclusion in our database.
 
-BusinessGlobal Inc., values the privacy of our users, members, sponsors, and others that organize, participate in and contribute to virtual exhibitions hosted on BusinessGlobal’s proprietary platform. This privacy policy details BusinessGlobal’s privacy practices with regards to personally identifiable information. Effective Date: October 1, 2010. If you feel that BusinessGlobal is not abiding by this privacy policy, you should contact the Privacy Officer at [privacy@businessglobal.com](mailto:privacy@businessglobal.com)   
-**  
-****Collection of personal information**
+Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the IMC Business Global Plc network of web sites, nor does it extend to people that IMC Business Global Plc does not employ or manage.
 
-BusinessGlobal collects and uses personal information to understand your needs and interests and to serve you better. The types of personal information you provide to us on these pages may include name, address, ZIP code, telephone number, email address. 
+##  Information Collection and Use
 
-In addition to the information you provide, BusinessGlobal may also collect information during your visit to a BusinessGlobal exhibition through cookies and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at our website. They may also collect information about your Internet Protocol (IP) address, clickstream behaviour (i.e. the pages you view, the links you click, and other actions you take in connection with BusinessGlobal websites) and product information.
+IMC Business Global Plc offers three types of site listings - Silver, Gold and Platinum. Unlike many directories that charge for site listings and collect personal information as well, IMC Business Global Plc Silver listings are free and the information we collect is primarily to provide a customized experience as you use our Services, and generally this information is not shared with third parties. However, we may disclose personal information collected, if we have received your permission beforehand or in very special circumstances, such as when we believe that the law requires such disclosure or other special cases described below.
 
-**How we use your information**
+For our Standard Free Listings, membership is required under a valid verified email address. Upon the creation of a new member account, you will be subscribed to IMC Business Global Plc monthly newsletter and updates.
 
-The information BusinessGlobal collects to understand your needs and interests help BusinessGlobal deliver a consistent and personalized experience. For example, BusinessGlobal may use your information to:
+Your use of IMC Business Global Plc's services constitutes a business relationship wherein we provide a promotion service for your web site(s). In exchange, IMC Business Global Plc reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters, to inform you of additions to the IMC Business Global Plc Network of web sites, or to send important announcements.
 
-  * communicate with you about products and services;
-  * provide service and support;
-  * update you on new services and exhibitions;
-  * provide personalized promotional offers;
-  * select content to be communicated to you;
-  * contact you for market research regarding BusinessGlobal products or services.
+You may remove yourself from any or all of our notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings.
 
+##  Registration
 
+Members are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email e.t.c.. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). IMC Business Global Plc does not rent or sell email addresses nor any other personal data, unless specifically stated otherwise or in special circumstances.
 
-**How we share your information** BusinessGlobal will NOT sell, rent or lease your personal information to others.
+However, in instances where IMC Business Global Plc and a partner jointly promote the Services, IMC Business Global Plc may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, the partner may not use personal information for any other purpose.
 
- **Security  
-**  
-We use security measures, such as firewalls and Security Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information. Information we collect about our users is stored on secured servers. If you have any questions about the security of the Service, please send an e-mail to [privacy@businessglobal.com](mailto:privacy@businessglobal.com)   
-**  
-Correction/Updating Personally Identifiable Information  
-**  
-If your personally identifiable information changes, or if you no longer desire BusinessGlobal services, we will endeavour to provide a way to correct, update or remove the data you provided to us. This can usually be done at the member information page or by sending an e-mail to [privacy@businessglobal.com](mailto:privacy@businessglobal.com)   
-**  
-Your Consent; Notification of Changes  
-**  
-By using the Service, you consent to BusinessGlobal collection and use of the information described in this privacy policy. If we decide to change this privacy policy, we will post those changes via our homepage so our users are aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an e-mail. Please check this policy from time to time to make sure that you are aware of our latest privacy policy.
+IMC Business Global Plc may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
- **Changes and Updates to this Privacy Policy** We may occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” section below. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will use reasonable efforts to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the information we collect. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates.  
- **  
-Contacting BusinessGlobal  
-**  
-If you have any questions, comments, or concerns about this Privacy Policy, please contact us at [privacy@businessglobal.com](mailto:privacy@businessglobal.com). We will attempt to respond to your inquiry within 30 days of its receipt.
+##  Cookies
 
- **Effective Date/Last Updated: October 1 st, 2010**
+A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. IMC Business Global Plc may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Member, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information.
+
+Advertisers and partners may also use their own cookies. We do not control the use of these cookies and expressly disclaim responsibility for information collected through them.
+
+##  Security
+
+Your personal information is stored in a protected directory. Access is restricted to IMC Business Global Plc staff.
+
+IMC Business Global Plc does not store any credit card information, as all transactions are processed by PayPal or sold through 2Checkout.com or other third party approved Credit Card processor.
+
+##  Special Cases
+
+It is IMC Business Global Plc policy not to use or share personal information about Visitors or Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, IMC Business Global Plc may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; or to protect IMC Business Global Plc and our Members.
+
+##  Change of Ownership
+
+In the event of a change in ownership, or a direct merger or acquisition of IMC Business Global Plc with another entity or multiple entities, all (or select aspects) of IMC Business Global Plc's customer information (including email addresses) may be transferred to a separate entity or entities. All IMC Business Global Plc subscribers and registered users will be notified within five business days of any change in ownership, merger or acquisition of IMC Business Global Plc's assets by a third party. Subscribers and users may choose to access and modify any of their registration and subscription information at that time.
+
+##  Changes to this Privacy Policy
+
+IMC Business Global Plc may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change.
