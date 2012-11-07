@@ -1,17 +1,55 @@
-<!--The following is the downloaded HTML source of the mixamo.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509230049id_/http%3A//www.mixamo.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mixamo.com privacy policy that was archived on 2012-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121107121355id_/http%3A//www.mixamo.com/home/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="splash"><head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html><head>
+
+  <script src="http://assets3.mixamo.com/javascripts/i18n.js?1348694371" type="text/javascript"></script>
+  <script src="http://assets3.mixamo.com/javascripts/translations.js?1351636125" type="text/javascript"></script>
+  <script type="text/javascript" language="Javascript">
+    I18n.defaultLocale = "en";
+    I18n.locale = "en";
+  </script>
+
+  <script type="text/javascript" language="JavaScript">
+    var MixamoTimeTracker = {};
+    MixamoTimeTracker.javascript_start_time = (new Date()).getTime();
+    MixamoTimeTracker.buckets = [125, 250, 500, 1000, 2000, 4000, 8000 , 16000];
+    MixamoTimeTracker.record_time = function( category ) {
+      var milliseconds = (new Date()).getTime() - MixamoTimeTracker.javascript_start_time;
+      Mixamo.console.info( "TIME TRACKER - " + category + ": " + milliseconds + "ms" );
+      var i;
+      var bucketString;
+      var bucket_ = MixamoTimeTracker.buckets;
+      for(i = 0; i < bucket_.length; i++) {
+        if ( milliseconds < bucket_[i]) {
+          if (i == 0) {
+            bucketString = "0-" + (bucket_[0]);
+            break;
+          } else {
+            bucketString = bucket_[i - 1] + "-" + (bucket_[i] - 1);
+            break;
+          }
+        }
+      }
+      if (!bucketString) {
+        bucketString = bucket_[i - 1] + "+";
+      }
+
+      Mixamo.GoogleAnalytics.trackEvent( "Time_" + category ,  bucketString , "" , milliseconds );
+    };
+  </script>
+  
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
-  <link rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="shortcut icon" href="/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
   <title>
     Mixamo: Privacy
   </title>
+  
+  
     <script type="text/javascript">
 //<![CDATA[
-AUTH_TOKEN = "zo/uNSiqEiAP2gIBbq55wzTcqVrByG/8yilY7jZN6B0=";
+AUTH_TOKEN = "clAQAb/mrVaLornqzBJZTdoOOMXL8D4BvLfMs5C1aVw=";
 //]]>
 </script>
 
@@ -23,20 +61,29 @@ AUTH_TOKEN = "zo/uNSiqEiAP2gIBbq55wzTcqVrByG/8yilY7jZN6B0=";
 
 
 
-<script src="http://assets1.mixamo.com/assets/headers.js?1335905682" type="text/javascript"></script>
+<script src="http://assets1.mixamo.com/assets/headers.js?1348700135" type="text/javascript"></script>
 <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="http://assets2.mixamo.com/assets/headers-datauri.css?1335903303" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets2.mixamo.com/assets/headers-datauri.css?1348700137" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="http://assets2.mixamo.com/assets/headers.css?1335903303" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://assets2.mixamo.com/assets/headers.css?1348700137" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 <script type="text/javascript">
 //<![CDATA[
 
+Mixamo.websocket_proxy = "server6.mixamo.com:80";
+
+Mixamo.set_proxy_enabled = function(val) {
+  setCookie('proxy_enabled', val, 30);
+}
+
+Mixamo.get_proxy_enabled = function() {
+  return getCookie('proxy_enabled') || false;
+}
 
 Mixamo.enable_log_collection = function() {
-	return true;
+	return false;
 }
 	
 Mixamo.preview_url = function( code )
@@ -49,11 +96,11 @@ Mixamo.go_to_cart_url = function( id )
 	return "/cart";
 }
 
-Mixamo.can_use_advanced_motion_packs = true;
+Mixamo.can_use_advanced_motion_packs = false;
 
 function show_flash_notice( str ) {
 	if($("#flash-notice").length == 0 ) {
-		$("div#layout-middle-window").prepend('<div id="flash-notice-container" align="center"><table id="flash-notice"><tr><td><div class="containing-box"><img align="left" alt="Alert" src="http://assets2.mixamo.com/images/icons/alert.gif?1335898687" /> <div id="flash-text">$$$</div><div class="clear"></div></div></td></tr></table></div>'.replace( "$$$" , str ) );
+		$("div#layout-middle-window").prepend('<div id="flash-notice-container" align="center"><table id="flash-notice"><tr><td><div class="containing-box"><img align="left" alt="Alert" src="http://assets2.mixamo.com/images/icons/alert.gif?1338403476" /> <span style="padding-left: 5px; max-width: 800px; float: left;">$$$</span></div></td></tr></table></div>'.replace( "$$$" , str ) );
 	} else {
 		$("#flash-text").html(str);
 	}
@@ -73,7 +120,7 @@ function destroy_flash_notice( ) {
 
 Mixamo.GoogleAnalytics = {
 	google_analytics_url: function(url) {
-		return( url + (( url.indexOf("?") >= 0 ) ? "&" : "?") + '__ab__=|09gf9p|c4ab3w|g4cvha|41ibrf|dfvexk|je5tm7|egm05l|xo1zjf|a89par|lah07o|w0j6yy|fwm0jp|');
+		return( url + (( url.indexOf("?") >= 0 ) ? "&" : "?") + '__ab__=|jnyx2h|lah07o|');
 	},
     
 	trackPageview: function(url) {
@@ -93,40 +140,37 @@ Mixamo.GoogleAnalytics = {
     }
 }
 
-<!-- Viewer filename is controlled by AB -->
-
 Mixamo.Unity_Viewer_Path = "/unity-viewer/MixamoViewer.unity3d";
-
-
 
 <!-- Store Rails generated asset ids for use in later, not dynamically generated Javascript -->
 Mixamo.Unity_Asset_Versions = {}
-Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoViewer.unity3d"] = '1335898472'
-Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoViewer-PrefetchTweaks.unity3d"] = '1335898472'
-Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoWallboardViewer.unity3d"] = '1335898472'
+Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoViewer.unity3d"] = '1349216483'
+Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoWallboardViewer.unity3d"] = '1338403476'
 if(Mixamo.Unity_Asset_Versions[Mixamo.Unity_Viewer_Path] == undefined)
-    alert("Mixamo messed up.  Please contact Mixamo. (Unity_Asset_Versions blank for viewer)");
-
-<!-- unused? -ewebb 20120126 -->
-Mixamo.Unity_Version = '1335898472';
+    alert('This is a Mixamo error.  Please contact Mixamo. (Unity_Asset_Versions blank for viewer)');
 
 
-Mixamo.AbFacade = {"pricing_baseline_multiplier":1.0,"grace_activation_period_minutes":1440,"subscription_offers":[9,10,11,14],"prepay_offers":[13,14,16,17,18,21,20],"pricing_levels":{},"skeleton_reminder_email_hours":72.0,"autorig_followup_delay_hours":24,"unity_verifier_version":"editor","alt_change_character_location":"clip_editor","landingpage_override":"","user_referral_promotions":[56],"autorigging_offer":0,"autorigging_offer_high":19,"autorigging_offer_low":18,"custom_character_offer":2,"viewer_filename":"MixamoViewer.unity3d","cms_override_0":{"dragon_animation":"dragon_animation"},"cms_override_1":{"cat_animation":"cat_animation"},"cms_override_2":{},"cms_override_3":{"unity-lerpz":"unity"},"cms_override_4":{"animal_animation_and_rigging":"animal_motions_rd"},"cms_override_5":{},"cms_override_6":{},"cms_override_7":{},"cms_override_8":{},"cms_override_9":{},"cms_override_10":{},"cms_override_11":{},"cms_override_12":{},"cms_override_13":{},"cms_override_14":{},"cms_override_15":{},"cms_override_16":{},"cms_override_17":{},"cms_override_18":{"home/main":"home2"},"cms_override_19":{"home/main-loggedin":"home2"}};
+Mixamo.AbFacade = {"pricing_baseline_multiplier":1.0,"grace_activation_period_minutes":1440,"subscription_offers":[21,22,23,26],"prepay_offers":[42,43,44,45,46,48,47],"pricing_levels":{},"skeleton_reminder_email_hours":24,"autorig_followup_delay_hours":24,"unity_verifier_version":"editor","alt_change_character_location":"none","landingpage_override":"","user_referral_promotions":[],"autorigging_offer":0,"autorigging_offer_high":0,"autorigging_offer_low":0,"custom_character_offer":0,"credits_only":true,"cms_override_0":{},"cms_override_1":{},"cms_override_2":{},"cms_override_3":{},"cms_override_4":{},"cms_override_5":{},"cms_override_6":{},"cms_override_7":{},"cms_override_8":{},"cms_override_9":{},"cms_override_10":{},"cms_override_11":{},"cms_override_12":{},"cms_override_13":{},"cms_override_14":{},"cms_override_15":{},"cms_override_16":{},"cms_override_17":{},"cms_override_18":{},"cms_override_19":{}};
 
 <!-- manually inserted -->
 
 Mixamo.AbFacade.custom_character_offer_price = 10.0;
-Mixamo.AbFacade.custom_character_offer_price_credits = 1;
+
 Mixamo.AbFacade.custom_character_offer_name = "Custom - $10";
 
+Mixamo.Pricing = { CostPerMixamoCreditInLocalCurrency: 1.0 };
+
 Mixamo.viewCharacterSpecialMotionId = 386;
+
+Mixamo.Viewer = { HideHud: false };
 
 
 //]]>
 </script>
-  
-  
 
+  
+  
+   
   
 	<style type="text/css">
 		div.privacy-policy {
@@ -139,11 +183,49 @@ Mixamo.viewCharacterSpecialMotionId = 386;
 		
 	</style>
 
+  
+  <script type="text/javascript">
+//<![CDATA[
+
+    $(document).ready( function() {
+      Mixamo.Menubar.load("div.tab-sublinkable");
+      
+        setCookie( "tz" , calculate_time_zone() );
+      
+
+      
+        
+
+        
+          Mixamo.ApplicationSidebar.load(true);
+        
+
+        
+
+        
+      
+
+    });
+
+  
+//]]>
+</script>
+
+  <!-- GET SATISFACTION FEEDBACK WIDGET -->
+  
+  <!-- END OF WIDGET -->
+
+  <link href="https://plus.google.com/113542483545687723107" rel="publisher"> <!-- google plus -->
+
 </head>
+
 
 <body>
 
-		
+  
+
+
+  
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -152,16 +234,379 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try{
 var pageTracker = _gat._getTracker("UA-7470907-1");
 
-pageTracker._trackPageview( '/home/privacy?__ab__=|09gf9p|c4ab3w|g4cvha|41ibrf|dfvexk|je5tm7|egm05l|xo1zjf|a89par|lah07o|w0j6yy|fwm0jp|' );
+pageTracker._trackPageview( '/home/privacy?__ab__=|jnyx2h|lah07o|' );
 } catch(err) {}</script>
 
-		<div id="splash-logo">
-			<img alt="mixamo" src="http://assets2.mixamo.com/images/logo-medium.png?1335898687">
-			<div class="tagline" style="font-size: 16px;">animation in seconds</div>
-		</div>
-		<div id="splash-root">
-			<div class="splash-window-top"><div></div></div>
-			<div class="splash-window-middle">
+
+  <div style="height: 100%;width: 100%;">
+    <div id="layout-root">
+      <div id="application-sidebar" style="left: 965px;visibility:hidden;">
+
+  <div class="app-sidebar-top"></div>
+
+  <div class="app-sidebar-middle">
+
+    <div class="contents">
+      <div class="header">
+        What you can do on Mixamo
+      </div>
+    
+      
+        <div id="sidebar-task-signup" class="todo">
+          <div class="checbox-icon"></div>
+          <p>
+            <a href="http://www.mixamo.com/signup">Create Free Account</a>
+            </p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Create a free account in seconds to check out our 3D animation editing interface.');return false;"></div>
+          <p></p>
+        </div>
+      
+        <div id="sidebar-task-explore" class="todo todoDisabled">
+          <div class="checbox-icon"></div>
+          <p>
+            <a href="http://www.mixamo.com/motions">Explore Motions Collection</a>
+            </p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Search and discover motions of all types on this page. Use filters and tags to find groups of motions, or simply use the search box.');return false;"></div>
+          <p></p>
+        </div>
+      
+        <div id="sidebar-task-customize" class="todo todoDisabled">
+          <div class="checbox-icon"></div>
+          <p>
+            Customize Motions in Real-time
+            </p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Use Mixamo\'s simple customization sliders to change the motion in real-time.  These \&quot;director-level\&quot; controls make it easy to customize Mixamo motions into 1,000,000+ unique animations.');return false;"></div>
+          <p></p>
+        </div>
+      
+        <div id="sidebar-task-skeleton" class="todo todoDisabled">
+          <div class="checbox-icon"></div>
+          <p>
+            <a href="http://www.mixamo.com/skeletons/new">Upload a Character</a>
+            </p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Mixamo will automatically retarget any motions onto your character after you upload your character.  Mixamo seamlessly supports many character types, such as 3ds Max Biped System.  For custom characters, Mixamo provides an easy mapping wizard.');return false;"></div>
+          <p></p>
+        </div>
+      
+        <div id="sidebar-task-custom_character" class="todo todoDisabled">
+          <div class="checbox-icon"></div>
+          <p>
+            <a href="http://www.mixamo.com/editor/new_character">Create a Character</a>
+            </p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Create a fully-rigged character using Mixamo\'s new Character Creation feature. Pick your character\'s sex and outfit and then use intuitive sliders to customize body shape and colors.');return false;"></div>
+          <p></p>
+        </div>
+      
+        <div id="sidebar-task-download" class="todo todoDisabled">
+          <div class="checbox-icon"></div>
+          <p>
+            Download a Motion
+            </p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Download a motion into your character scene or pipeline to verify how easy it is to use the Mixamo service. You can test this out immediately by downloading the free demo motion!  It is also on download where you can use Mixamo\'s keyframe reduction feature and specify which formats you prefer.');return false;"></div>
+          <p></p>
+        </div>
+      
+    
+    </div>
+
+    <div class="percentComplete">
+      0% Complete
+    </div>
+
+    <div class="showHide" onclick="return Mixamo.ApplicationSidebar.toggle();"></div>
+
+    <div class="clear"></div>
+
+  </div>
+
+  <div class="app-sidebar-bottom"></div>
+
+</div>
+
+
+      <div id="layout-header">
+  
+    <div class="right-bar" align="center">
+      
+        
+          <div style="margin-bottom: 3px;">
+            
+
+            <form action="http://www.mixamo.com/sessions/login" class="new_user_session" id="new_user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="clAQAb/mrVaLornqzBJZTdoOOMXL8D4BvLfMs5C1aVw="></div>
+
+  
+
+  <span id="micro-login">
+    <input name="user_session[remember_me]" type="hidden" value="0"><input id="user_session_remember_me" name="user_session[remember_me]" type="checkbox" value="1">
+    Remember Me
+
+    <a href="http://www.mixamo.com/users/new_password">Forgot your password?</a>
+    <br>
+    Login:
+      <span class="login-box">
+        <input id="user_session_login" name="user_session[login]" onblur="if( this.value == '') { this.value = 'Username'; $(this).css( 'color' , '#9e9e9e' );} " onclick="if( this.value == 'Username') { this.value = ''; $(this).css( 'color' , '#000000' ); }" size="15" style="color: #9e9e9e;" type="text" value="Username">
+      </span>
+      <span class="pwd-box">
+        <input id="user_session_password" name="user_session[password]" size="15" style="display: none;width: 120px; " type="password">
+        <input id="pwdPlaceHolder" name="pwdPlaceHolder" onfocus="$(this).hide();$('input#user_session_password').show().focus();" size="15" style="width: 120px; color: #9E9E9E" type="text" value="Password">
+      </span>
+      <input class="fixed-generic-button-75" name="commit" type="submit" value="Login">
+    </span>
+</form>
+
+          </div>
+          <div class="divider" align="center"></div>
+        
+
+      
+
+      <div id="available_credits">
+        
+      </div>
+
+    </div>
+  
+  
+  <div class="logo">
+  <a href="http://www.mixamo.com/"><img alt="mixamo" src="http://assets3.mixamo.com/images/logo.png?1338403476"></a>
+  <div class="tagline">animation in seconds</div>
+</div>
+
+  <br>
+  <div class="tabbed-menu" style="width: 972px;">
+  
+  <div class="tab tab-start" style="width: 26px;"></div>
+  
+  
+  
+  
+    <div class="tab">
+
+          
+
+      
+
+      <div class="tab tab-left" style="width: 10px;"></div>
+
+      <div class="tab tab-middle" style="width: 70px;">
+        <span class="tab-headingtext">
+          <a href="http://www.mixamo.com/">home</a>
+          
+        </span>
+
+        
+
+      </div>
+
+      <div class="tab tab-right" style="width: 10px;"></div>
+
+    </div>
+  
+    <div class="tab">
+
+          
+
+      
+
+      <div class="tab tab-left" style="width: 10px;"></div>
+
+      <div class="tab tab-middle" style="width: 103px;">
+        <span class="tab-headingtext">
+          <a href="http://www.mixamo.com/characters/new">characters</a>
+          
+        </span>
+
+        
+
+      </div>
+
+      <div class="tab tab-right" style="width: 10px;"></div>
+
+    </div>
+  
+    <div class="tab">
+
+          
+
+      
+
+      <div class="tab tab-left" style="width: 10px;"></div>
+
+      <div class="tab tab-middle" style="width: 79px;">
+        <span class="tab-headingtext">
+          <a href="http://www.mixamo.com/motions">motions</a>
+          
+        </span>
+
+        
+
+      </div>
+
+      <div class="tab tab-right" style="width: 10px;"></div>
+
+    </div>
+  
+    <div class="tab">
+
+          
+
+      
+
+      <div class="tab tab-left" style="width: 10px;"></div>
+
+      <div class="tab tab-middle tab-greyed-out" style="width: 63px;">
+        <span class="tab-headingtext">
+          <a href="http://www.mixamo.com/editor/new/723">editor</a>
+          
+        </span>
+
+        
+
+      </div>
+
+      <div class="tab tab-right" style="width: 10px;"></div>
+
+    </div>
+  
+    <div class="tab tab-sublinkable">
+
+          
+
+      
+
+      <div class="tab tab-left" style="width: 10px;"></div>
+
+      <div class="tab tab-middle" style="width: 65px;">
+        <span class="tab-headingtext">
+          <a href="http://www.mixamo.com/home/help">help</a>
+          
+            <em class="sublink_arrow mixamo_menubar_selector"></em>
+          
+        </span>
+
+        
+          <div class="sublink_nav_menu mixamo_menubar_menu" style="visibility: hidden;">
+            <ul>
+                            <li class="first">
+                <a href="http://www.mixamo.com/c/help">General</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/faq">FAQ</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/tutorials">Tutorials</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/workflows">Workflows</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/resources">CG Resource Finder</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/articles/main">Articles</a>
+              </li>
+              
+              <li class="last"></li>
+            </ul>
+          </div>
+        
+
+      </div>
+
+      <div class="tab tab-right" style="width: 10px;"></div>
+
+    </div>
+  
+    <div class="tab tab-sublinkable">
+
+          
+
+      
+
+      <div class="tab tab-left" style="width: 10px;"></div>
+
+      <div class="tab tab-middle" style="width: 100px;">
+        <span class="tab-headingtext">
+          <a href="http://www.mixamo.com/c/services">services</a>
+          
+            <em class="sublink_arrow mixamo_menubar_selector"></em>
+          
+        </span>
+
+        
+          <div class="sublink_nav_menu mixamo_menubar_menu" style="visibility: hidden;">
+            <ul>
+                            <li class="first">
+                <a href="http://www.mixamo.com/c/services">Online Services</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/mocap">Motion Capture Studio</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/savings">Savings/ROI</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/customers">Our Customers</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/showcase">Showcase</a>
+              </li>
+                            <li class="middle">
+                <a href="http://www.mixamo.com/c/purchasing-options">Buy Mixamo Credits</a>
+              </li>
+              
+              <li class="last"></li>
+            </ul>
+          </div>
+        
+
+      </div>
+
+      <div class="tab tab-right" style="width: 10px;"></div>
+
+    </div>
+  
+
+  <div class="tab tab-empty" style="width: 6px;"></div>
+  
+  <div class="tab tab-search-left" style="width: 45px;"></div>
+
+  <div class="tab search" style="width: 204px;">
+    <div style="padding-top: 5px;">
+      <!--<form action="http://www.mixamo.com/search/query" id="search-box-submit-form" method="get" onsubmit="return (this.q.value!='Search Motions' &amp;&amp; this.q.value != '')">
+  <div class="search-box-container">
+    <input class="searchbox" id="q" name="q" onblur="if( this.value == '') { this.value = 'Search Motions'; $(this).css( 'color' , '#9e9e9e' );}" onfocus="if( this.value == 'Search Motions') { this.value = ''; $(this).css( 'color' , '#000000' );}" size="20" style="color: #9e9e9e;" type="text" value="Search Motions" />
+    <input id="search-box-type" name="search_type" type="hidden" value="motions" />
+	<input class="searchsubmitbtn" name="commit" onclick="Mixamo.console.info( 'goovers' );$('.search-box-type-list').toggle();return false;" type="submit" value="Search" />
+	<div class="search-box-type-list" style="visibility: hidden;">
+		<div class="option" onclick="$('#search-box-type').val('motion');$('#search-box-submit-form').submit();">Motion</div>
+		<div class="option" onclick="$('#search-box-type').val('site');$('#search-box-submit-form').submit();">Site</div>
+	</div>
+  </div>
+</form>-->
+
+
+
+<form action="http://www.mixamo.com/search/query" id="search-box-submit-form" method="get">
+  <div class="search-box-container" id="search-box-container">
+    <input class="searchbox" id="q" name="q" onblur="if( this.value == '') { this.value = 'Search Motions'; $(this).css( 'color' , '#9e9e9e' );}" onfocus="if( this.value == 'Search Motions') { this.value = ''; $(this).css( 'color' , '#000000' );}" size="20" style="color: #9e9e9e;" type="text" value="Search Motions">
+    <input id="search-box-type" name="search_type" type="hidden" value="motion">
+    <input class="searchsubmitbtn mixamo_menubar_selector" id="search-box-selector-button" name="commit" type="submit" value="Search">
+  </div>
+</form>
+    </div>
+  </div>
+
+  <div class="tab tab-end" style="width: 35px;"></div>
+
+  <div class="clear"></div>
+
+</div>
+
+  
+</div>
+
+      <div id="layout-contents">
+  <div class="generic-window-top-large"></div>
+  <div class="generic-window-middle-large" id="layout-middle-window">
+    
+
+    <div class="layout-inner-contents">
+      
 
 <h1>Privacy Policy</h1>
 
@@ -173,57 +618,365 @@ pageTracker._trackPageview( '/home/privacy?__ab__=|09gf9p|c4ab3w|g4cvha|41ibrf|d
     
 	   
       
-    <p align="center"><b> </b></p>
-<p><b> </b></p>
-<p style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: center; background-position: initial initial; ">&nbsp;</p>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: center; "><b><span style="font-size:13.5pt;color:black">Mixamo Privacy Policy</span></b></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">Mixamo, Inc. respects your right to privacy and we believe any information you provide to use should be protected from disclosure to third parties. This Privacy Policy statement describes how information we collect on the Mixamo.com web site is used and shared with third parties. By using the Mixamo web site or providing any personally identifiable information through the Mixamo web site, you agree to the practices described in this policy. This policy applies to anonymous data and personal information collected at the Mixamo web site. This policy also applies to personally identifiable customer information collected in connection with the sale, use, and support of the Mixamo services available on the Mixamo web site (“Services”). If you do not consent to this Privacy Policy, do not use the Mixamo web site or download any materials from it.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">1.&nbsp;What Types of Information We Collect.</span></b></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:#333333">Personally Identifiable Information</span></b><span style="color:#333333">. Mixamo collects personally identifiable information through our web site. This information is used in e-commerce transactions and to provide customer service and support. Our web site collects personally identifiable information at several points, including processes associated with password registration, license acceptance, feedback, purchasing services, account creation and e-mail opt-in. Visitors may voluntarily provide (and we will collect) information including: name, email address, billing information, and purchase information.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:#333333">Cookies</span></b><span style="color:#333333">. Mixamo’s web site uses cookies. We use cookies in order to better understand our web site visitors’ needs. A cookie is a small text file (which includes a unique identifier) that our server places on your computer’s hard drive. Cookies enable us to track use patterns, repeat visitors, and deliver customized content to web site users.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">Log Files.</span></b>&nbsp;<span style="color:black">Like most standard web site servers we also use log files. Log files include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility that uses log files to analyze user movement.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">If you do not want Mixamo to use your information as described in this Section 1, please follow the procedure in Section 3 (Changing Your Information; Opt Out Procedures) below.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">In order to protect the privacy interests of younger Internet users, we do not actively market our web sites or Services to children under 13. We do not knowingly collect information from children under 13 for marketing purposes. We encourage children of any age to visit our web site or to use our Services only with parental supervision.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">2. What We Do With The Information We Collect.</span></b></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">We use information we collect to understand how our customers are using our web site and Services in order to improve them.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">Data Analysis</span></b><span style="color:black">. We may perform statistical analyses of aggregate visitor behavior. This allows us to measure relative visitor interest in the various pages of our web site and to improve the design of our web site. Such aggregated information is not linked to personally identifiable information.&nbsp;</span><span style="color:#333333">Anonymous, aggregated data is analyzed to understand how customers use our Services and to assist in the design of future Services.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:#333333">Personally Identifiable Information</span></b><span style="color:#333333">. Personal information is used to fulfill purchase transactions, provide customer support, and for marketing purposes such as email announcements of new services or offers. We provide an option for you to choose not to receive marketing communications in Section 3 (Changing Your Information; Opt Out Procedures) below.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:#333333">Disclosure of Personally Identifiable Information</span></b><span style="color:#333333">. Except as otherwise stated in this Privacy Policy, Mixamo does not sell, trade, or rent your personally identifiable information collected on our web site. Mixamo uses third parties (including contractors and service providers) to help with certain aspects of providing the Services to you, which may require disclosure of your personal information to them. For example, Mixamo may use a third party to communicate with you (via telephone, email, or letter) about our Services, to send information to you, to process and collect payment via your credit card (if applicable), and to perform services that we outsource. Mixamo requires these contractors and third parties to use your personal information only as necessary to perform these services.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:#333333">Links</span></b><span style="color:#333333">. We offer links to third party web sites. Please note that those other web sites may privacy practices different from ours and the collection and use of your personal information if you follow those links will be governed by the privacy policies on those other sites.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:#333333">Posting</span></b><span style="color:#333333">. Our web site may offer a space for postings and submissions. You agree that any information you post in these spaces will be publicly available, non-confidential, and non-proprietary to you.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">3.&nbsp;Changing Your Information; Opt Out Procedure.</span></b></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:#333333">Changing Your Information</span></b><span style="color:#333333">. If you wish to correct or delete of any of your personal information stored by us or change the way we use your information, please contact support at<a target="_blank" href="mailto:support@mixamo.com">support@mixamo.com</a>. We will use commercially reasonable efforts to fulfill your request in a timely manner, but not more than 30 days. Even if Mixamo deletes such personal information from its 'live' database, it may still be stored on other databases (including those kept for archival purposes).</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">Opting-out</span></b><span style="color:black">. Users who no longer wish to receive communications from Mixamo may opt-out of receiving these communications by replying with "unsubscribe" in the subject line of the e-mail. You may also opt-out of these communications by sending an e-mail to<a target="_blank" href="mailto:support@mixamo.com">support@mixamo.com</a>&nbsp;specifying that you no longer want to receive communications from Mixamo.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">We reserve the right to use your contact information if we consider it necessary to send you crucial information about the Services you have purchased from us.&nbsp;</span><span style="color:black">Though we make every effort to preserve user privacy, we may need to disclose personally identifiable information when required by law, or if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our web site. In addition, Mixamo may disclose personally identifiable information if we believe in good faith that such action is necessary to protect the personal safety of users, our web site, or the public. We may also disclose personally identifiable information in the event of a merger, consolidation, or sale of all or substantially all of Mixamo's assets.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">4. Security.</span></b></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">Mixamo uses industry-standard methods of securing its electronic databases of personal information. Except as provided elsewhere in this privacy policy, Mixamo limits access to personal information in electronic databases to those persons in Mixamo's organization who have a business need for such access. You should know however that no company, including Mixamo, can fully eliminate security risks associated with personal information. Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your personal information will not be disclosed to third parties other than those mentioned above. For example, third parties may unlawfully intercept or access transmissions or private communications.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">5.&nbsp;Updates to this Privacy Policy.</span></b></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">We may amend this Privacy Policy at any time by posting the amended version on our web site.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><b><span style="color:black">6. Contact&nbsp;Us.</span></b></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; ">&nbsp;</div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">If you have any questions regarding this Privacy Policy, please contact&nbsp;<a target="_blank" href="mailto:support@mixamo.com">support@mixamo.com</a>.</span></div>
-<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: left; background-position: initial initial; "><span style="color:#333333">Last updated May 8<sup>th</sup>, 2009</span></div>
-<div style="text-align: left; ">&nbsp;</div>
-<p>&nbsp;</p>
+    <p align="center">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: center; background-position: initial initial; ">
+	&nbsp;</p>
+<div style="background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: white; text-align: center; ">
+	<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>18 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>18 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:DontGrowAutofit/>
+   <w:DontAutofitConstrainedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="276">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--StartFragment-->
+	<p align="center" class="MsoNormal" style="background-color: white; background-position: initial initial; background-repeat: initial initial; ">
+		<a name="_GoBack"></a><b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">Mixamo Privacy Policy<o:p></o:p></span></b></p>
+	<p align="center" class="MsoNormal" style="background-color: white; background-position: initial initial; background-repeat: initial initial; ">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;</span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Mixamo, Inc. respects your right to privacy and we believe any information you provide to us should be protected from unauthorized disclosure to third parties. This Privacy Policy statement describes how information we collect on the Mixamo.com web site is used and shared with third parties. By using the Mixamo web site or providing any personally identifiable information through the Mixamo web site, you agree to the practices described in this policy. This policy applies to anonymous data and personal information collected at the Mixamo web site. This policy also applies to personally identifiable customer information collected in connection with the sale, use, and support of the Mixamo services available on the Mixamo web site (“Services”). If you do not consent to this Privacy Policy, do not use or download any materials from the Mixamo web site.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">1.&nbsp;What Types of Information We Collect.</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt"><o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Personally Identifiable Information</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">. We collect personally identifiable information through our web site. This information is used in e-commerce transactions and to provide customer service and support. Our web site collects personally identifiable information at several points, including processes associated with password registration, license acceptance, feedback, purchasing services, account creation and e-mail opt-in (“Personally Identifiable Information”). Visitors may voluntarily provide (and we will collect) information including: name, email address, billing information, and purchase information.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Cookies</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">. Mixamo’s web site uses cookies. We use cookies in order to better understand our web site visitors’ needs. A cookie is a small text file (which includes a unique identifier) that our server places on your computer’s hard drive. Cookies enable us to track use patterns, repeat visitors, and deliver customized content to web site users.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Log Files.</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">&nbsp;Like most standard web site servers we also use log files. Log files include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use (“Engagement Data”). IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility that uses log files to analyze user movement.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">If you do not want us to use your information as described in this Section 1, please follow the procedure in Section 3 (Changing Your Information; Opt Out Procedures) below.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;</span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">In order to protect the privacy interests of younger Internet users, we do not actively market our web sites or Services to children under 13. We do not knowingly collect information from children under 13 for marketing purposes. We encourage children of any age to visit our web site or to use our Services only with parental supervision.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">2. What We Do With The Information We Collect.</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt"><o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;</span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">We use information we collect to understand how our customers are using our web site and Services in order to improve them.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Data Analysis</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">. We may perform statistical analyses of aggregate visitor behavior. This allows us to measure relative visitor interest in the various pages of our web site and to improve the design of our web site. Such aggregated information is not linked to personally identifiable information.&nbsp;Anonymous, aggregated data is analyzed to understand how customers use our Services and to assist in the design of future Services.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;</span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Personally Identifiable Information</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">. Personal information is used to fulfill purchase transactions, provide customer support, and for marketing purposes such as email announcements of new services or offers. We provide an option for you to choose not to receive marketing communications in Section 3 (Changing Your Information; Opt Out Procedures) below.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Disclosure of Personally Identifiable Information</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">. Except as otherwise stated in this Privacy Policy, we do not sell, trade, or rent your personally identifiable information collected on our web site. We use third parties (including contractors and service providers) to help with certain aspects of providing the Services to you, which may require disclosure of your personal information to them. For example, we may use a third party to communicate with you (via telephone, email, or letter) about our Services, to send information to you, to process and collect payment via your credit card (if applicable), and to perform services that we outsource. We require these contractors and third parties to use your personal information only as necessary to perform these services.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Links</span></b><span style="font-size:12.0pt;font-family:
+&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">. We offer links to third party web sites. Please note that those other web sites may have privacy practices that are different from ours and the collection and use of your personal information if you follow those links will be governed by the privacy policies on those other sites.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Posting</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">. Our web site may offer a space for postings and submissions. You agree that any information you post in these spaces will be publicly available, non-confidential, and non-proprietary to you.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;</span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">Information Shared with Autodesk</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">. If you have accessed our website through a product or service of Autodesk, Inc. (“<u>Autodesk</u>”), such as Autodesk 3ds Max Design software, we are required to share your Personally Identifiable Information and Engagement Data with Autodesk. We understand that Autodesk will use such data in accordance with its own privacy policy, which is available at: </span><a href="http://www.autodesk.com/privacy"><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">www.autodesk.com/privacy</span></a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">. <o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;</span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">Information Shared with Stanford University</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">. If you have downloaded the free application on the Mixamo web site that is jointly marked as a Mixamo and Stanford University product, we are required to share all end-user data with respect to such application with Stanford, including the usage patterns, user feedback, and other derivative data based on such original usage data.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;</span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">3.&nbsp;Changing Your Information; Opt Out Procedure.</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt"><o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Changing Your Information</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">. </span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#333333">If you </span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">wish to correct or delete any of your personal information stored by us or change the way we use your information, please contact support at </span><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">support@mixamo.com</span></u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">. We will use commercially reasonable efforts to fulfill your request in a timely manner, but not more than 30 days. Even if we delete such personal information from its 'live' database, it may still be stored on other databases (including those kept for archival purposes).<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Opting-out</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt">. Users who no longer wish to receive communications from us may opt-out of receiving these communications by replying with "unsubscribe" in the subject line of the e-mail. You may also opt-out of these communications by sending an e-mail to </span><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">support@mixamo.com</span></u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">&nbsp;specifying that you no longer want to receive communications from us.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">We reserve the right to use your contact information if we consider it necessary to send you crucial information about the Services you have purchased from us.&nbsp;Though we make every effort to preserve user privacy, we may need to disclose personally identifiable information when required by law, or if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us. In addition, we may disclose personally identifiable information if we believe in good faith that such action is necessary to protect the personal safety of users, our web site, or the public. We may also disclose personally identifiable information in the event of a merger, consolidation, or sale of all or substantially all of our assets.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">4. Security.</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt"><o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">We use industry-standard methods of securing our electronic databases of personal information. Except as provided elsewhere in this privacy policy, we limit access to personal information in electronic databases to those persons in our organization who have a business need for such access. You should know however that no company, including us, can fully eliminate security risks associated with personal information. Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your personal information will not be disclosed to third parties other than those mentioned above. For example, third parties may unlawfully intercept or access transmissions or private communications.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">5.&nbsp;Updates to this Privacy Policy.</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt"><o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">We may amend this Privacy Policy at any time by posting the amended version on our web site.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">6. Contact&nbsp;Us.</span></b><span style="font-size:
+12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:SimSun;mso-bidi-font-family:
+&quot;Times New Roman&quot;;mso-font-kerning:0pt"><o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">&nbsp;<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">If you have any questions regarding this Privacy Policy, please contact&nbsp;</span><u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">support@mixamo.com</span></u><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:
+SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:0pt">.<o:p></o:p></span></p>
+	<p align="left" class="MsoNormal" style="text-align:left;mso-pagination:widow-orphan;
+background:white">
+		<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+mso-fareast-font-family:SimSun;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-font-kerning:0pt">Last updated August 17, 2012<o:p></o:p></span></p>
+	<!--EndFragment--></div>
+
   
     
     
@@ -232,24 +985,148 @@ pageTracker._trackPageview( '/home/privacy?__ab__=|09gf9p|c4ab3w|g4cvha|41ibrf|d
 
 
 </div>
-</div>
-			<div class="splash-window-bottom"><div></div></div>
-		</div>
-		<div id="splash-footer" align="center">
-			<span class="first">© 2009 Mixamo ™</span>
-				<a href="http://www.mixamo.com/privacy">Privacy</a>
-				<a href="http://www.mixamo.com/home/legal">Terms and Conditions</a>
-		    
-	    </div>
-	<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","561df921b4",34441,"dVcNQ0paCVhRFh8KDVtdTEdKXBNVVx0=",0,107,new Date().getTime(),"","","","",""])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js"></script></body></html>
+    </div>
+
+  </div>
+  <div class="generic-window-bottom-large" style="position:relative;"></div>
+</div>
+
+
+  
+
+  
+
+
+<div class="browser_cms_segment" id="browser_cms_application_bottom">
+    
+        
+      
+    <p>
+	<style type="text/css">
+
+div#full_width{
+	width: 900px;
+}
+
+div#facebook_like{
+	height:20px;
+	width: 900px;
+	margin-bottom: 5px;
+	padding-left: 10px;
+}
+
+div#site_copyright{
+	float: right; 
+	color: #ffffff; 
+	padding-top: 9px;
+}
+
+
+img#social_icons{
+	padding: 2px 7px;
+}
+
+div#social_icons_container{
+    background: url("/images/icons/social/icons_background.png") no-repeat scroll 0 0 transparent;
+	float:left;
+    height: 58px;
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-top: 9px;
+    width: 292px;
+}
+
+</style></p>
+<div id="full_width">
+	<div id="social_icons_container">
+		<a href="http://twitter.com/mixamo"><img alt="mixamo twitter" id="social_icons" src="/images/icons/social/twitter_icon.png"></a><a href="http://www.facebook.com/pages/Mixamo/125936996180"><img alt="mixamo facebook" id="social_icons" src="/images/icons/social/facebook_icon.png"></a><a href="http://www.youtube.com/user/mixamo3danimation"><img alt="mixamo youtube" id="social_icons" src="/images/icons/social/youtube_icon.png"></a><a href="http://blog.mixamo.com/"><img alt="mixamo blog" id="social_icons" src="/images/icons/social/blog_icon.png"></a><a href="http://blog.mixamo.com/feed/"><img alt="mixamo rss feed" id="social_icons" src="/images/icons/social/rss_feed_icon.png"></a><a href="https://plus.google.com/113542483545687723107?prsrc=3"><img alt="google plus" id="social_icons" src="/images/icons/social/google_plus.png"></a></div>
+	<div id="site_copyright">
+		© 2009-2012 Mixamo ™</div>
+	<br>
+
+</div>
+<div id="layout-footer" style="width: 1000px; margin-right: -40px; padding-top: 15px;">
+	<ul class="horizontal">
+		<li>
+			<a style="font-weight: bold;">ABOUT US</a><br>
+			<a href="http://www.mixamo.com/c/company">Company</a><br>
+			<a href="http://www.mixamo.com/home/contact">Contact Us</a><br>
+			<a href="http://www.mixamo.com/c/customers">Customers</a><br>
+			<a href="http://www.mixamo.com/c/jobs">Jobs</a><br>
+			<a href="http://www.mixamo.com/c/media-coverage">Media Coverage</a><br>
+			<a href="http://www.mixamo.com/c/partners">Partners</a><br>
+			<a href="http://www.mixamo.com/c/press">Press Releases</a><br>
+			<a href="http://www.mixamo.com/home/privacy">Privacy</a><br>
+			<a href="http://www.mixamo.com/home/legal">Terms of Service</a></li>
+		<li>
+			<a style="font-weight: bold;">ANIMATE</a><br>
+			<a href="http://www.mixamo.com/skeletons/new">Apply to your character</a><br>
+			<a href="http://www.mixamo.com/fuse">Create a character</a><br>
+			<a href="http://www.mixamo.com/motions/request">Request animation</a><br>
+			<a href="http://www.mixamo.com/motions">Search animation</a></li>
+		<li>
+			<a style="font-weight: bold;">CONNECT</a><br>
+			<a href="http://blog.mixamo.com/" target="_blank">Blog</a><br>
+			<a href="http://community.mixamo.com/mixamo" target="_blank">Community</a><br>
+			<a href="http://www.facebook.com/pages/Mixamo/125936996180?ref=search&amp;sid=567521326.2068506716..1" target="_blank">Facebook</a><br>
+			<a href="http://www.twitter.com/mixamo" target="_blank">Twitter</a><br>
+			<a href="http://www.youtube.com/user/Mixamo3DAnimation" target="_blank">YouTube</a></li>
+		<li>
+			<a style="font-weight: bold;">CUSTOM SERVICES</a><br>
+			<a href="http://www.mixamo.com/mocap">Motion capture studio</a></li>
+		<li>
+			<a style="font-weight: bold;">FEATURED CUSTOMERS</a><br>
+			<a href="http://www.mixamo.com/c/gamersfirst">GamersFirst</a><br>
+			<a href="http://www.mixamo.com/c/trigger">Trigger</a><br>
+			<a href="http://www.mixamo.com/c/touchko">Touch KO</a><br>
+			<a href="http://www.mixamo.com/c/buddypoke">Buddy Poke</a><br>
+			<a href="http://www.mixamo.com/c/ndreams">NDreams</a><br>
+			<a href="http://www.mixamo.com/c/jumpcore">JumpCore</a></li>
+		<li>
+			<a style="font-weight: bold;">HELP</a><br>
+			<a href="http://www.mixamo.com/c/tutorials">Tutorials</a><br>
+			<a href="http://community.mixamo.com/mixamo">Post a question</a><br>
+			<a href="http://www.mixamo.com/c/faq">FAQ</a></li>
+		<li>
+			<a style="font-weight: bold;">WE SUPPORT</a><br>
+			<a href="http://www.mixamo.com/c/workflows">Autodesk 3ds Max</a><br>
+			<a href="http://www.mixamo.com/c/help/workflows_maya">Autodesk Maya</a><br>
+			<a href="http://www.mixamo.com/c/blender">Blender</a><br>
+			<a href="http://www.mixamo.com/c/help/workflows_cinema4d">Cinema4D</a><br>
+			<a href="http://www.mixamo.com/c/automatic-rigging-for-modo-unity3d">Luxology modo</a><br>
+			<a>MotionBuilder</a><br>
+			<a href="http://www.mixamo.com/c/unity">Unity</a><br>
+			<a href="http://www.mixamo.com/c/help/workflows_udk">Unreal Engine(UDK)</a><br>
+			<a href="http://www.mixamo.com/c/workflows">and more…</a></li>
+	</ul>
+</div>
+<div class="clear">
+	&nbsp;</div>
+<!--tracking--><script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5862.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5862.js"></script><!--end tracking-->
+  
+    
+    
+	   
+</div>
+
+
+
+      <div class="divider" align="center"></div>
+    </div>
+
+
+    
+  <!--
+    User Login: 
+    Ab Facade: {"pricing_baseline_multiplier"=>1.0, "grace_activation_period_minutes"=>1440, "subscription_offers"=>[21, 22, 23, 26], "prepay_offers"=>[42, 43, 44, 45, 46, 48, 47], "pricing_levels"=>{}, "skeleton_reminder_email_hours"=>24, "autorig_followup_delay_hours"=>24, "unity_verifier_version"=>"editor", "alt_change_character_location"=>"none", "landingpage_override"=>"", "user_referral_promotions"=>[], "autorigging_offer"=>0, "autorigging_offer_high"=>0, "autorigging_offer_low"=>0, "custom_character_offer"=>0, "credits_only"=>true, "cms_override_0"=>{}, "cms_override_1"=>{}, "cms_override_2"=>{}, "cms_override_3"=>{}, "cms_override_4"=>{}, "cms_override_5"=>{}, "cms_override_6"=>{}, "cms_override_7"=>{}, "cms_override_8"=>{}, "cms_override_9"=>{}, "cms_override_10"=>{}, "cms_override_11"=>{}, "cms_override_12"=>{}, "cms_override_13"=>{}, "cms_override_14"=>{}, "cms_override_15"=>{}, "cms_override_16"=>{}, "cms_override_17"=>{}, "cms_override_18"=>{}, "cms_override_19"=>{}}
+  -->
+
+
+
+
+
+  </div>
+
+
+</body></html>
