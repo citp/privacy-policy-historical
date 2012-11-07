@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509004528id_/http%3A//goo.gl/3Hr8t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107123946id_/http%3A//goo.gl/3Hr8t) for the most accurate reproduction.*
 
 # Ogbongeblog: Privacy|Make Money tips | Blogger Tips | Internet Marketing tips
 
 ## Archive
 
-[ ](http://www.blogger.com/rearrange?blogID=4589801858088630122&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=main "Edit")
+[ ](https://www.blogger.com/rearrange?blogID=4589801858088630122&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=main "Edit")
 
 ###  Privacy 
 
