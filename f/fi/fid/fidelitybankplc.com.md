@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fidelitybankplc.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505233802id_/http%3A//fidelitybankplc.com/pages.asp%3Fparentid%3D269%26id%3D269) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelitybankplc.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107120242id_/http%3A//www.fidelitybankplc.com/pages.asp%3Fid%3D361%26parentid%3D361) for the most accurate reproduction.*
 
-# We are Fidelity - We keep our word
+# Welcome to Fidelity Bank PLC
 
 **Fidelity Bank Privacy Principles  
 ** Fidelity Bank is committed to safeguarding the privacy of your information. By “your information” we mean any information about you, which you or third parties provide to us.  
@@ -39,10 +39,5 @@ You are not required to provide any personal information on the public areas of 
 
 If you are a Fidelity Bank customer or already have a relationship with us you will have been advised by various methods as to how we collect and use your information.
 
-For information about “cookies” and how they are used on Fidelity Bank websites, please read our Cookie Policy.
+For information about “cookies” and how they are used on Fidelity Bank websites, please read our Cookie Policy.  
 
-If you have any questions about Privacy at Fidelity Bank please contact the Fidelity Bank Web Team at:
-
-| 
-
-Service Excellence: +2341 2713487, 2700534, 2700530-3, service.excellence@fidelitybankplc.com Bureau d' Change: 01-2701939, 01-4829443
