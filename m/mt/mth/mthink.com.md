@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mthink.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615200241id_/http%3A//mthink.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mthink.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107221126id_/http%3A//mthink.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mThink.com
 
-[](http://mthink.com/print/info/privacy-policy "Display a printer-friendly version of this page.")[](http://mthink.com/printmail/info/privacy-policy "Send this page by e-mail.")
+[](http://mthink.com/utilities/print/info/privacy-policy "Display a printer-friendly version of this page.")[](http://mthink.com/utilities/printmail/info/privacy-policy "Send this page by e-mail.")
 
 Thank you for visiting mThink.com, and it's partner Websites. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. [_Click h_ _e_ _re_](https://web.archive.org/web/thought-leadership) for a list of the mThink sites governed by this Privacy Notice.
 
