@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308183549id_/http%3A//www.nycourts.gov/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107095759id_/http%3A//www.nycourts.gov/privacy/index.shtml) for the most accurate reproduction.*
 
 # Internet Web Site Privacy Policy
 
