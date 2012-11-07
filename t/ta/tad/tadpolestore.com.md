@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tadpolestore.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509044917id_/http%3A//www.tadpolestore.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpolestore.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107034213id_/http%3A//www.tadpolestore.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
 
-# Privacy Policy & Disclaimer
+# Privacy Policy & Discliamer - Tadpole Store - India's Only Exclusive Online Shopping Destination for Authentic Designer Products
 
 Privacy Policy
 
