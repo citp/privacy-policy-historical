@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510135827id_/http%3A//www.startengine.com/%3Fpage_id%3D864) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107134105id_/http%3A//www.startengine.com/%3Fpage_id%3D864) for the most accurate reproduction.*
 
 # Privacy Policy | Los Angeles Startup Accelerator – Start Engine
 
