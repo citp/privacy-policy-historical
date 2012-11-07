@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairextensionscenter.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520073535id_/http%3A//www.hairextensionscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairextensionscenter.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107035344id_/http%3A//www.hairextensionscenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : HairExtensionsCenter.com::Clip In Extensions | Hair Extensions | Pre-bonded Hair Extension
 
