@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aryanict.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512195527id_/http%3A//www.aryanict.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aryanict.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107192437id_/http%3A//www.aryanict.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - ARYAN ICT Solutions
 
@@ -8,7 +8,7 @@ Our privacy policy is displayed below. This Privacy Policy governs the manner in
 
 ### Effective January 1, 2011
 
-The use of services from AryanIct [hereafter referred to as "Aryanict.com"] constitutes agreement to these terms. You may view our [Terms of Service here](https://web.archive.org/web/20120512195527id_/http%3A//www.aryanict.com/terms.shtml).
+The use of services from AryanIct [hereafter referred to as "Aryanict.com"] constitutes agreement to these terms. You may view our [Terms of Service here](https://web.archive.org/web/20121107192437id_/http%3A//www.aryanict.com/terms.shtml).
 
 ### Introduction
 
@@ -44,7 +44,7 @@ We may from time to time provide information of a general nature to third partie
 
 ### Correcting/Updating Personal Information
 
-If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at [ http://secure.aryanict.com/](http://secure.aryanict.com/). Otherwise, please contact us at [sales@aryanict.com](mailto:sales@aryanict.com)
+If a customer's personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at [ http://www.aryanict.com/hub/](http://www.aryanict.com/hub/). Otherwise, please contact us at [sales@aryanict.com](mailto:sales@aryanict.com)
 
 **Opt Out & Modifications** By default, customers do receive any voluntary system updates, such as the newsletters, invoices, and mailings. Any customer who voluntarily receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary.
 
@@ -64,4 +64,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 ### Contacting Us
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [ privacy@aryanict.com](mailto:privacy@aryanict.com). You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at [privacy@aryanict.com](mailto:privacy@aryanict.com).
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [ support@aryanict.com](mailto:support@aryanict.com). You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at [support@aryanict.com](mailto:support@aryanict.com).
