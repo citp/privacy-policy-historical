@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barneys.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529104548id_/http%3A//www.barneys.com/Privacy-Policy/PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barneys.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107015359id_/http%3A//www.barneys.com/Privacy-Policy/PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ Registering with Barneys.com will make your online shopping faster and easier. W
 
 ## E-mails
 
-We may send promotional e-mails to you only if you have asked to receive them. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving them. You may also [click here to unsubscribe.](https://www.barneys.com/Unsubscribe/UNSUBSCRIBE,default,pg.html)
+We may send promotional e-mails to you only if you have asked to receive them. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving them. You may also [click here to unsubscribe.](http://www.barneys.com/Unsubscribe/UNSUBSCRIBE,default,pg.html)
