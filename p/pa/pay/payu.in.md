@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payu.in privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601091537id_/https%3A//www.payu.in/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payu.in privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107110219id_/https%3A//www.payu.in/privacyPolicy) for the most accurate reproduction.*
 
 # PayU
 
