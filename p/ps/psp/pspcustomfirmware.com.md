@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112926id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107014105id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSP Custom Firmware - PSP CFW - PS Vita CFW
 
