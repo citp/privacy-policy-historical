@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508230601id_/http%3A//www.columnpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108002805id_/http%3A//www.columnpk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Pakistan News in Urdu | Breaking News | Urdu Columns | Jobs in Pakistan | Exam Results | SMS
+# Privacy Policy | Columnpk.Com | Latest Pakistan News in Urdu, Breaking News, Urdu Columns, Health, Technology, Videos, Cricket, New Car Prices & Reviews
 
 Posted by 10 March, 2009 
 
@@ -28,6 +28,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Like Us on Facebook & get Daily Latest Columns, News, Jobs in Your Facebook Feed
+Daily Urdu Columns, News, from Famous Pakistani Urdu Newspapers. Jobs, Admissions, Scholarships, SMS, Past Papers, Wallpapers and Much More.
 
-Latest Urdu Newspaper Columns, articles, editorials from Jang, Express, Nawaiwaqt, Daily Nai Baat and Latest English and Urdu News about Pakistan, USA, UK, Europe, Middle East, we are providing education news, exam results, jobs, admissions and scholarships in Pakistan, business, Islamic, health and technology news in urdu, Women's stuff, Urdu recipies, fashion designs and beauty tips.
+Categories : [About Us](http://www.columnpk.com/category/about-us/ "View all posts in About Us") Tags : 
