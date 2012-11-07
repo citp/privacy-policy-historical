@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509075155id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107041500id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gomez PEER Zone
 
@@ -37,17 +37,15 @@ Please note that we do not knowingly solicit information from children and we do
 
 **Information sharing and disclosure:** Compuware values your business and strives to protect your privacy. Compuware will not sell or provide your information to list brokers or similar mass marketing entities. However, we may provide information about you to our business partners in order to better serve your interests and/or to vendors with whom Compuware has contracted in support of targeted promotions. In those instances, Compuware’s master “opt-out” suppression file will be provided to such vendors to prevent unwanted Compuware material from delivery. 
 
-### 
+Top
 
-### Top
+**The use of cookies**
 
-The use of cookies
+A "cookie" is a small file that your web browser places on your computer's hard drive to store important data. A cookie cannot be executed as code or deliver viruses. Cookies save you time by enabling your browser to keep track of information such as passwords and account information. In most cases, the cookies that we use will expire after 365 days. In some instances, such as the online job application, the cookies expire as soon as you close your browser. 
 
-  * A "cookie" is a small file that your web browser places on your computer's hard drive to store important data. A cookie cannot be executed as code or deliver viruses. Cookies save you time by enabling your browser to keep track of information such as passwords and account information. In most cases, the cookies that we use will expire after 365 days. In some instances, such as the online job application, the cookies expire as soon as you close your browser. 
-  * Third party vendors, including Google, show our ads on sites on the internet. They use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. 
-  * **Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
+Third party vendors, including Google, show our ads on sites on the internet. They use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. 
 
-
+**Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
 
 Top
 
@@ -55,7 +53,7 @@ Top
 
 We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please visit [www.compuware.com/unsubscribe](http://www.compuware.com/unsubscribe) or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
 
-### Links to non-Compuware web sites
+Links to non-Compuware web sites
 
 Compuware may provide links to Internet sites maintained by others. Compuware does not review all of such third-party web sites linked to the site and is not responsible for the contents of, or any products or services offered, in such third-party sites. 
 
