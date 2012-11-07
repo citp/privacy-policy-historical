@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the threadbombing.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501203015id_/http%3A//www.threadbombing.com/index.php%3Ftemplate%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadbombing.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107131957id_/http%3A//www.threadbombing.com/index.php%3Ftemplate%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Threadbombing
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at threadbombing@gmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at threadbombing@gmail.com.
 
 At www.threadbombing.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.threadbombing.com and how it is used. 
 
