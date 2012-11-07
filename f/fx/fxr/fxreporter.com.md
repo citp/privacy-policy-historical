@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fxreporter.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509161522id_/http%3A//www.fxreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxreporter.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107160842id_/http%3A//www.fxreporter.com/privacy-policy) for the most accurate reproduction.*
 
-# Forex Trading News - Forex Trading - Forex Trading Reviews - Forex Brokers - FX Reporter
-
-## Privacy Policy
+# Privacy Policy - Fxreporter
 
 Our company does not share or divulge personal information about our users to a third partys, without the users’ previous approval.
 
