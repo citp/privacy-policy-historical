@@ -1,83 +1,63 @@
-> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513211113id_/http%3A//www.timbuk2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107120308id_/http%3A//www.timbuk2.com/privacy) for the most accurate reproduction.*
 
 # Timbuk2 Bags - Our Privacy Policy
 
-_This page was last updated on April 28, 2010._
+## Our Privacy Policy
 
 Timbuk2.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Timbuk2.com, you are accepting the practices described in this Privacy Policy.
 
-#### What personal information about customers does Timbuk2.com gather?
-
+What personal information about customers does Timbuk2.com gather?  
 The information we learn from customers helps us personalize and continually improve your shopping experience at Timbuk2.com. Here are the types of information we gather.
 
-#### Information you give us
-
+Information you give us  
 We receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and communicating with you.
 
-#### Automatic information
-
+Automatic information  
 We receive and store certain types of information whenever you interact with us. For example, like many websites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Timbuk2.com. A number of companies offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience at Timbuk2.com if we cannot recognize you, we want you to be aware that these tools exist.
 
-#### E-mail communications
-
+E-mail communications  
 To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Timbuk2.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.
 
-#### Information from other sources
-
+Information from other sources  
 We might receive information about you from other sources and add it to our account information.
 
-#### What about cookies?
-
+What about cookies?  
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Timbuk2.com’s coolest features, and we recommend that you leave them turned on.
 
-#### Remarketing Advertisements
-
+Remarketing Advertisements  
 Third party vendors, including Google, show Timbuk2′s ads on sites on the internet and use cookies to serve our ads based on a user’s prior visits to timbuk2.com. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). Additionally, users can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-#### Does Timbuk2.com share the information it receives?
-
+Does Timbuk2.com share the information it receives?  
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Timbuk2 Designs Inc. controls that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
 
-#### Agents
-
+Agents  
 We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions but may not use it for other purposes.
 
-#### Promotional offers
-
+Promotional offers  
 Sometimes we send offers to selected groups of Timbuk2.com customers on behalf of other businesses. When we do this, we do not give those businesses your name and address.
 
-#### Business transfers
+Business transfers  
+As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Timbuk2 Designs, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
-As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any  
-pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Timbuk2 Designs, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-
-#### Protection of Timbuk2.com and others
-
+Protection of Timbuk2.com and others  
 We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Timbuk2.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
 
-#### With your consent
-
+With your consent  
 Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-#### How Secure Is Information About Me?
+How Secure Is Information About Me?  
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only five digits of your credit card number when printing an order confirmation. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your account and to your computer. Be sure to sign off when finished using a shared computer.
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  
-We reveal only five digits of your credit card number when printing an order confirmation. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your account and to your computer. Be sure to sign off when finished using a shared computer.
+What Choices Do I Have?  
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of Timbuk2.com features. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use important features if you do not use cookies. In addition, the Federal Trade Commission provides useful information about online privacy on its own website,  
+[**Site Seeing on the Internet**](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm): <http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm>
 
-#### What Choices Do I Have?
-
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of Timbuk2.com features.  
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use important features if you do not use cookies.  
-In addition, the Federal Trade Commission provides useful information about online privacy on its own website,  
-[**Site Seeing on the Internet**](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm):<http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm>
-
-#### Children
-
+Children  
 Timbuk2.com does not sell products for purchase by children. We sell children’s products for purchase by adults. If you are under 18, you may use Timbuk2.com only with the involvement of a parent or guardian.
 
-#### Conditions of Use, Notices, and Revisions
+Conditions of Use, Notices, and Revisions  
+If you choose to visit Timbuk2.com, your visit and any dispute over privacy is subject to this Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Timbuk2.com, please send us a thorough description to [customerservice@timbuk2.com](mailto:customerservice@timbuk2.com), and we will try to resolve it.
 
-If you choose to visit Timbuk2.com, your visit and any dispute over privacy is subject to this Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Timbuk2.com, please send us a thorough description to [customerservice@timbuk2.com](mailto:customerservice@timbuk2.com), and we will try to resolve it.  
 Our business changes constantly, and our Privacy Policy and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
