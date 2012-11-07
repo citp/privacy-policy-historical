@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsarse.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509075830id_/http%3A//newsthump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsarse.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107041734id_/http%3A//newsthump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ At NewsThump we are dedicated to safeguarding and preserving your privacy when v
 
 This Privacy Policy, together with our terms of use, explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site. We do update this Policy from time to time so please do return and review this Policy regularly.
 
- **Information We Collect  
+**Information We Collect  
 **
 
 In operating our website we may collect and process the following data about you:
@@ -15,7 +15,7 @@ i. Details of your visits to our website and the resources that you access, incl
 ii. Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase.  
 iii. Information provided to us when you communicate with us for any reason.
 
- **Use of Cookies**
+**Use of Cookies**
 
 We may on occasion gather information regarding your computer whilst you are on our website. This enables us to improve our services and to provide statistical information regarding the use of our website to our advertisers where appropriate.
 
@@ -27,7 +27,7 @@ All computers have the ability to decline cookies. This can be done by activatin
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
- **Use of Your Information  
+**Use of Your Information  
 **
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
@@ -45,7 +45,7 @@ If you do not want us to use your data for our or third parties you will have th
 
 Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors.
 
- **Storing Your Personal Data  
+**Storing Your Personal Data  
 **
 
 We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing.
@@ -56,7 +56,7 @@ Data that is provided to us is stored on our secure servers. Details relating to
 
 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
- **Disclosing Your Information**
+**Disclosing Your Information**
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
 
@@ -65,12 +65,12 @@ i. Where we sell any or all of our business and/or our assets to a third party.
 ii. Where we are legally required to disclose your information.  
 iii. To assist fraud protection and minimise credit risk.
 
- **Third Party Links  
+**Third Party Links  
 **
 
 You might find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
- **Contacting Us  
+**Contacting Us  
 **
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact using the form below:
