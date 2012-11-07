@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yogaandhealthstore.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123025814id_/http%3A//yogaandhealthstore.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaandhealthstore.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107130117id_/http%3A//www.yogaandhealthstore.com/index.php%3Fukey%3Dauxpage_privacy) for the most accurate reproduction.*
 
-# Privacy Policy ― © YogaandHealthStore.com 2011. All rights reserved
+# Privacy Policy ― © YogaandHealthStore.com 2012. All rights reserved
 
 YogaandHealthStore.com is committed to respect the privacy rights of visitors. If you have any questions, please call toll-free 888 581 7565 or email us at [custservices@yogaandhealthstore.com](mailto:custservices@yogaandhealthstore.com)
 
