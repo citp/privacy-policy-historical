@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydiet.org privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617185826id_/http%3A//www.everydiet.org/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydiet.org privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107173847id_/http%3A//everydiet.org/help/privacy.htm) for the most accurate reproduction.*
 
 # About EveryDiet.org
 
