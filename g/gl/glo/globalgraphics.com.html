@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalgraphics.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603164506id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgraphics.com privacy policy that was archived on 2012-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121107163751id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -39,7 +39,7 @@ h1 {
 </style>
 
 <!-- include javascript here -->
-<!-- add 'print this page' link to some page, where javascript is enabled -->
+<!--ex--><!-- add 'print this page' link to some page, where javascript is enabled -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script charset="utf-8" type="text/javascript" src="/js/print.js"></script>
 
 <!-- include jQuery -->
@@ -51,6 +51,14 @@ h1 {
 <!-- add hoverIntent plugin -->
 <!-- see http://cherne.net/brian/resources/jquery.hoverIntent.html -->
 <script charset="utf-8" src="/js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+
+<!-- add cookies plugin -->
+<!-- see https://github.com/carhartl/jquery-cookie -->
+<script charset="utf-8" src="/js/jquery.cookie.js" type="text/javascript"></script>
+
+<!-- supports wufoo form amongst other things -->
+<!-- http://www.jacklmoore.com/colorbox -->
+<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
 
 <script charset="utf-8" type="text/javascript">
 $(document).ready(function() {
@@ -72,8 +80,12 @@ $(document).ready(function() {
 	
 	$("li.mega").hoverIntent(megaConfig);
 	
+	$(".youtube").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+	
 });
 </script>
+
+
 
 <script type="text/javascript">document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https" : "http") + "://a.mouseflow.com/projects/ea80095b-9ea2-40ac-92ae-d539dadb2d4d.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://a.mouseflow.com/projects/ea80095b-9ea2-40ac-92ae-d539dadb2d4d.js" type="text/javascript"></script>
 
@@ -95,13 +107,12 @@ $(document).ready(function() {
 </script>
 
 
-
 </head>
 
 <body>
 
 <!-- include noscript here -->
-<noscript><!-- loads :hover CSS -->
+<!--ex--><noscript><!-- loads :hover CSS -->
 <link href="/css/menu_no_js.css" rel="stylesheet" type="text/css" />
 <!-- make sure we style the panes so that they are displayed -->  
 <style type="text/css">
@@ -111,10 +122,106 @@ $(document).ready(function() {
 </style>
 </noscript>
 
+<style type="text/css">
+#RegCCO {
+	text-align: left;
+	font-size: 10px; /*$font-size-small*/
+	font-family: Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular,sans-serif; /*$font-family-default*/
+	bottom: 0;
+	position: fixed;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  width: 100%;
+	z-index: 999999999;
+}
+
+
+#innerRegCCO {
+	color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	background-color: #666666;
+	width: 960px;
+	padding: 5px 12px;
+	margin: auto;
+	margin-bottom: 5px;
+	/* This works in IE 8 & 9 too */
+	/* ... but also 5, 6, 7 */
+	filter: alpha(opacity=90);
+	
+	/* Older than Firefox 0.9 */
+	-moz-opacity:0.9;
+	
+	/* Safari 1.x (pre WebKit!) */
+	-khtml-opacity: 0.9;
+    
+	/* Modern!
+	/* Firefox 0.9+, Safari 2?, Chrome any?
+	/* Opera 9+, IE 9+ */
+	opacity: 0.9;
+}
+
+#RegCCO input {
+    background-color: #666666;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    float: right;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+#RegCCO input:hover {
+    background-color: #333333;
+    cursor: pointer;
+}
+
+#RegCCO p {
+    margin: 0;
+}
+
+#RegCCO a, #RegCCO a:visited {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+</style>
+
+<style>#RegCCO {display: normal;}</style>
+
+<div id="RegCCO">
+	<div id="innerRegCCO">
+	  <form action="/privacy/" method="POST" id="cookie"><input type="submit" value="I'm fine with this [X]" name="cookieconsent"></form>
+	  <p>The Global Graphics web site uses cookies and some may have been set already. <a href="/cookies/" target="_blank">Read about managing our cookies</a>.</p>
+	  <p>Please click the button to accept our cookies. If you continue to use the site, we'll assume you're happy to accept the cookies anyway.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+  /* attach a submit handler to the form */
+  $("#cookie").submit(function(event) {
+
+    /* stop form from submitting normally */
+    event.preventDefault();
+    
+    /* log consent event - has to be call to server */
+    
+    
+    /* set cookie to EXPLICIT */
+    /* should be easy to identify, and uniquely identify the consent (logged) give */
+    /* perhaps a hash of IP, time/date */
+    
+		$.cookie('cookieconsent', 'explicit', { expires: 365, path: '/', domain: 'globalgraphics.com' });
+		
+		$("#innerRegCCO").fadeOut(700);
+		
+		//alert($.cookie('cookieconsent'));
+  });
+</script>
+
 
 <div id="nonfooter">
   <!-- include header here -->
-  <div id="header">
+  <!--ex--><div id="header">
 	<div id="headerInner">
 		<div id="logo">
 			<div id="name">Global Graphics Software</div>
@@ -139,8 +246,9 @@ $(document).ready(function() {
 	  document.getElementById('cse-search-cof').value='FORID:10;NB:1';
 	  </script>
 	  <!-- include menu here -->
+	  <!--#include file="/menu.php" -->
 	  <ul id="menu">
-  <li id="navHome" class="mega"><a href="/">Home</a></li><!-- Hide whitespace 
+  <li id="navHome" class="mega"><a class="linked" href="/">Home</a></li><!-- Hide whitespace 
   --><li id="navTech" class="mega">
   	<a href="#">Technology</a>
 	  <div class="rollMe">
@@ -226,7 +334,7 @@ $(document).ready(function() {
 						<p>A configurable interpreter, designed to run on a wide variety of different 
 						platforms and operating systems.</p>
 						<ul>
-						  <li><a href="/products/jaws-postscript-interpreter/">PostScript Interpreter</a></li>
+						  <li><a href="/products/jaws-pdf-and-postscript-rip-sdk/">PDF and PostScript RIP SDK</a></li>
 						</ul>
 					</div>
 			  </div>
@@ -310,7 +418,7 @@ $(document).ready(function() {
 		</div>
   </li><!-- Hide whitespace
 		--><li id="navContact" class="mega">
-		<a href="/contact/">Contact us</a>
+		<a class="linked" href="/contact/">Contact us</a>
 	  <div class="rollMe">
 			<div class="navFauxColumn fauxContactUs">
 			  <div class="navColumn contactUs1">
@@ -337,11 +445,8 @@ $(document).ready(function() {
 	  </div>
   </li>
 </ul>
-
-	  <!--?php require('menu.php'); ?-->
 	</div>
 </div>
-
 	<div id="content">
 		<ul id="breadcrumbs">
 		  <li><a href="/">Home</a></li>
@@ -404,25 +509,29 @@ $(document).ready(function() {
   <!-- end of #content -->
 </div>
 <!-- include foot here -->
-	<div id="footer">
+<!--ex-->	<div id="footer">
 		<div id="footerInner">
 			<img id="footer-logo" src="/images/footer-logo.png" alt="">
 			<div id="footer-links">
 				<ul>
 					<li><a href="/gdoc/">gDoc website</a></li>
-					<li><a href="/support/">Support</a></li>
 					<li><a href="/investors/">Investors</a></li>
 					<li><a href="/investors/press-releases/">Press releases</a></li>
 					<li><a href="/terms/">Terms</a></li>
 					<li><a href="/privacy/">Privacy</a></li>
+					<li><a href="/cookies/">Cookies</a></li>
 					<li><a href="/sitemap/">Sitemap</a></li>
 				</ul>
 				<span id="footer-copyright">© 2012 Global Graphics Software Ltd. All rights reserved.</span>
 			</div>
 		</div>
 	</div>
-
-
+	
+<script type="text/javascript" src="//gateway3.whoson.com/include.js?domain=www.globalgraphics.com"></script>
+<script type="text/javascript">
+sWOResponse='';
+if(typeof sWOTrackPage=='function')sWOTrackPage();
+</script>
 
 
 </body></html>
