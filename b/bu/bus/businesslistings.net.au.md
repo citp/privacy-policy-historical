@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslistings.net.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508023047id_/http%3A//www.businesslistings.net.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslistings.net.au privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107125255id_/http%3A//businesslistings.net.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - BusinessListings.net.au - Add you business for free
 
