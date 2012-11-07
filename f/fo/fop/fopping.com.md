@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fopping.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620195859id_/http%3A//www.fopping.com/content.aspx%3Fpgid%3D50498) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fopping.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107120036id_/http%3A//www.fopping.com/content.aspx%3Fpgid%3D117009) for the most accurate reproduction.*
 
-# Fopping.com Privacy Policy
+# Privacy Policy
 
 We are committed to protect your privacy. We will only use the information that we collect about you lawfully.
 
