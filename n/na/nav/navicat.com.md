@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002301id_/http%3A//www.navicat.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107231254id_/http%3A//navicat.com/en/privacy.html) for the most accurate reproduction.*
 
-# Navicat - Privacy statement - The Most Popular SQL Server management, MySQL Query editor, SQLite GUI Tool, SQL Azure, Oracle Manager administrator & PostreSQL editor for Windows, Mac OS X & Linux - Download Now!
+# Navicat - Privacy statement - Navicat is the World's Best MySQL, SQL Server, SQLite, SQL Azure, Oracle & PostgreSQL database administration tool - Download Now!
 
 Privacy Statement
 
@@ -30,7 +30,7 @@ At this Site, there may be links to companies with whom we have a relationship. 
 Please remember that any information you submit in a chat group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
   
-If you have any questions about any of these practices, please feel free to [contact us](http://navicat.com/en/company/company_overview.html#contact-info "Contact Us").
+If you have any questions about any of these practices, please feel free to [contact us](http://www.navicat.com/en/company/company_overview.html#contact-info "Contact Us").
 
   
 GUI for MySQL, access to mysql, import data mssql to mysql, download mysql tool for free, import sql, Navicat for Windows, Mac OS X and Linux, MySQL admin, MySQL client and MySQL administrator
