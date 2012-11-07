@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ultrasignup.com privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507210518id_/http%3A//ultrasignup.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ultrasignup.com privacy policy that was archived on 2012-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121107025056id_/http%3A//ultrasignup.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <script type="text/javascript">
@@ -50,17 +50,18 @@
             font-size:17px; 
             color:Red;
         }
+        .vcenter{ margin-top:-3px; }
+        .vcenterli{ vertical-align:top;}
     </style>
-<link href="App_Themes/ultra_clean/autocomplete.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/borderbox.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/cart.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/ultra_old.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/UltraMenu.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/UltraTable.css" type="text/css" rel="stylesheet"><title>
+<link href="App_Themes/ultra_clean/autocomplete.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/borderbox.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/cart.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/ultra.css" type="text/css" rel="stylesheet"><link href="App_Themes/ultra_clean/UltraTable.css" type="text/css" rel="stylesheet"><title>
 
 </title></head>
 <body>
-
-
     <div id="header-gradiant-bar"></div>
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWBgIBDxYCHgdWaXNpYmxlaGQCAw9kFgICAw8WAh4EaHJlZgVJL21lbWJlcnMvbG9naW4uYXNweD9SZXR1cm5Vcmw9aHR0cCUzYSUyZiUyZnVsdHJhc2lnbnVwLmNvbSUyZnByaXZhY3kuYXNweGQCCw8WAh4EVGV4dAUEMjAxMmRkS2dPMvdIsws6oy5ShMaK8GP5AuI=">
 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKtmryhBwLQ5NSRDwLQ5JyRD+UpBlQJMU4JhW46M0xpMc8yjsiB">
         <div class="centered_content">
             <table>
             <colgroup>
@@ -71,12 +72,20 @@
             <td rowspan="2" style="vertical-align:top"><a href="/default.aspx"><img src="/images/UltraSignup_Logo.gif" alt="Ultra Signup" style="border:none;"></a></td>
             <td align="right" valign="top">
                 <div id="top_links">
-        
                     
-                    <ul id="ctl00_hlinks_loggedout">
-                        <li><a href="/shopping_cart.aspx" id="ctl00_A1">Shopping Cart</a></li>
-                        <li>|</li>
-                        <li><a href="/members/login.aspx?ReturnUrl=http%3a%2f%2fultrasignup.com%2fprivacy.aspx" id="ctl00_hlink_login">Sign In</a></li>
+                    <ul id="ctl00_hlinks_loggedout" style="line-height:15px;">
+                        <li class="vcenterli"><a href="/shopping_cart.aspx" id="ctl00_A1">Shopping Cart</a></li>
+                        <li class="vcenterli">|</li>
+                        <li class="vcenterli"><a href="/members/login.aspx?ReturnUrl=http%3a%2f%2fultrasignup.com%2fprivacy.aspx" id="ctl00_hlink_login">Sign In</a></li>
+                        <li class="vcenterli">|</li>
+                        <li>
+                            <a id="ctl00_lbFacebookLogin" href="javascript:__doPostBack('ctl00$lbFacebookLogin','')"><img alt="Login with facebook" src="/images/facebook_login.gif" class="vcenter"></a>
+                        </li>
+                        <li class="vcenterli">
+                            <a id="ctl00_lbFacebookLogin2" href="javascript:__doPostBack('ctl00$lbFacebookLogin2','')">Login with facebook</a>
+                        </li>
+
+
                     </ul>
                 </div>
                 <span class="rdioText">Events</span><input type="radio" name="leftcol" id="srch_event" value="1" checked="checked" onclick="createCookie('us_searchtype',document.getElementById('srch_event').value,10)">
@@ -103,7 +112,7 @@
             </tr>
             </tbody></table>
         </div>
-        <div class="centered_content" style="padding:10px 10px 10px 10px;border:solid 1px #DFE136;width:980px;">
+        <div class="centered_content" style="padding:10px 10px 10px 10px;border:solid 1px #D3D3D3;width:980px; margin-top:5px;">
             
 
 <div id="privacy">
@@ -277,9 +286,11 @@ var srchbox = document.getElementById('searchText');srchbox.focus();//]]>
 	            this.setValue = function(id) {
 	            if (id.toString().length > 0) {
     	                document.body.style.cursor = 'wait';
-	                    var namearray = id.toString().split("|");
-	                    window.location = "/results_participant.aspx?fname=" + encodeURI(namearray[0]) + "&lname=" + encodeURI(namearray[1]) + "&age=0";
-	                } 
+    	                var namearray = id.toString().split("|");
+	                    window.location = "/results_participant.aspx?fname=" + namearray[0] + "&lname=" +  namearray[1];
+	                
+                    
+                    } 
 	            }
 	        } else {
 	            this.setValue = function(id) {
@@ -319,7 +330,7 @@ var srchbox = document.getElementById('searchText');srchbox.focus();//]]>
 	        srchtype = document.getElementById("srch_person");
 	        srchtype.checked = true;
 	    }
-	</script><ol id="_list_1" style="position:absolute;left:-8000;top:-8000px" class="autocomplete_list"></ol><ol id="_list_2" style="position:absolute;left:-8000;top:-8000px" class="autocomplete_list"></ol><div id="autocomplete_x1" style="position: absolute; top: -800px; left: -800px; overflow: scroll; width: 40px;"><div style="width:80px;height:80px" class="autocomplete_icon"></div></div><div id="_image_0" class="autocomplete_icon" style="padding: 0px; margin: 0px; height: 12px; width: 12px; position: absolute; left: 1150px; top: 61px; font-size: 0px; background-position: 0px 0px;"></div> 
+	</script><ol id="_list_1" style="position:absolute;left:-8000;top:-8000px" class="autocomplete_list"></ol><ol id="_list_2" style="position:absolute;left:-8000;top:-8000px" class="autocomplete_list"></ol><div id="autocomplete_x1" style="position: absolute; top: -800px; left: -800px; overflow: scroll; width: 40px;"><div style="width:80px;height:80px" class="autocomplete_icon"></div></div><div id="_image_0" class="autocomplete_icon" style="padding: 0px; margin: 0px; height: 12px; width: 12px; position: absolute; left: 1150px; top: 62px; font-size: 0px; background-position: 0px 0px;"></div> 
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
