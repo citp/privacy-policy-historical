@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509090901id_/http%3A//www.hudforeclosed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107132733id_/http%3A//www.hudforeclosed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HUDforeclosed.com
 
@@ -42,14 +42,12 @@ We use other companies, agents or contractors to perform services on our behalf.
 HUDforeclosed.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law or if we reasonably believe disclosure is necessary to establish or exercise legal rights. In the event that HUDforeclosed.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
 
 **Contact**  
-If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please [**Disclosure of Personal Information**  
-We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to process credit card transactions, collect debts and analyze and enhance data. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.](https://web.archive.org/contact-form.do?adid=H1055S&affil=privacy_page%3Econtact%20us%3C/a%3E.%20Our%20address%20is%203835%20R%20East%20Thousand%20Oaks,%20Blvd%20#431,%20Westlake%20Village,%20CA%2091362%20%20%20%20Attention:%20General%20Counsel.%3C/p%3E%3Cp%20class=)
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please [contact us](https://www.hudforeclosed.com/contact-us.html?adid=H1055S&affil=privacy_page). Our address is 3835 R East Thousand Oaks, Blvd #431, Westlake Village, CA 91362 Attention: General Counsel.
 
-[
+**Disclosure of Personal Information**  
+We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to process credit card transactions, collect debts and analyze and enhance data. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
 
 HUDforeclosed.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law or if we reasonably believe disclosure is necessary to establish or exercise legal rights. In the event that HUDforeclosed.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
 
-](https://web.archive.org/contact-form.do?adid=H1055S&affil=privacy_page%3Econtact%20us%3C/a%3E.%20Our%20address%20is%203835%20R%20East%20Thousand%20Oaks,%20Blvd%20#431,%20Westlake%20Village,%20CA%2091362%20%20%20%20Attention:%20General%20Counsel.%3C/p%3E%3Cp%20class=)
-
-[**Contact**  
-If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please ](https://web.archive.org/contact-form.do?adid=H1055S&affil=privacy_page%3Econtact%20us%3C/a%3E.%20Our%20address%20is%203835%20R%20East%20Thousand%20Oaks,%20Blvd%20#431,%20Westlake%20Village,%20CA%2091362%20%20%20%20Attention:%20General%20Counsel.%3C/p%3E%3Cp%20class=)[contact us](https://web.archive.org/contact-form.do). Our address is 3835 R East Thousand Oaks, Blvd #431, Westlake Village, CA 91362 Attention: General Counsel.
+**Contact**  
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please [contact us](https://www.hudforeclosed.com/contact-us.html?adid=H1055S&affil=privacy_page). Our address is 3835 R East Thousand Oaks, Blvd #431, Westlake Village, CA 91362 Attention: General Counsel.
