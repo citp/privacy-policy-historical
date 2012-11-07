@@ -1,20 +1,30 @@
-<!--The following is the downloaded HTML source of the groceryrun.com.au privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505084521id_/http%3A//www.groceryrun.com.au/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groceryrun.com.au privacy policy that was archived on 2012-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121107182247id_/http%3A//www.groceryrun.com.au/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>GroceryRun.com.au - Just like supermarkets, only cheaper! | Privacy Policy</title>
+<title>Groceries online | Online Grocery Store | GroceryRun.com.au | Privacy Policy</title>
 <base href="https://www.groceryrun.com.au/">
 <link href="css/css.php" rel="stylesheet" type="text/css">
 
 <!--[if IE]>
         <link rel="stylesheet" type="text/css" href="css/ie6-and-up.css" />
 <![endif]-->
-</head>
+ <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<script type="text/javascript" src="https://cdn.optimizely.com/js/37461661.js"></script></head>
 
 <body id="body1">
-
+<!-- #1: BEGIN SUPERTAG TOP CODE v2.0.19 -->
+<script type="text/javascript">
+var superT_dcd=new Date();
+document.write("\x3Cscr"+"ipt type=\"text/javascript\" src=\"//catchoftheday.com.au/js/supertag/supertag.js?_dc="+Math.ceil(superT_dcd.getUTCMinutes()/5,0)*5+superT_dcd.getUTCHours().toString()+superT_dcd.getUTCDate()+superT_dcd.getUTCMonth()+superT_dcd.getUTCFullYear()+"\"\x3E\x3C/scr"+"ipt\x3E");
+</script><script type="text/javascript" src="//catchoftheday.com.au/js/supertag/supertag.js?_dc=60163102020"></script>
+<!-- Do NOT remove the following <script>...</script> tag: SuperTag requires
+the following as a separate <script> block -->
+<script type="text/javascript">
+if(typeof superT!="undefined"){if(typeof superT.t=="function"){superT.t();}}
+</script>
+<!-- #1: END SUPERTAG TOP CODE -->
 <!-- Wrap all the rest for PermaCart to stay on top on all browsers -->
 <div class="all_wrapper">
 
@@ -27,151 +37,22 @@
 
 <!-- Start Side Column -->
 <div class="side_column">
-
-
    <!-- Start Logo and Time Left -->
    <div class="logo_container">
-
       <div class="absolute_container">
          <div class="logo_base">
-
-
          </div>
-      </div>	
-
+      </div>
       <div class="absolute_container">
          <div class="logo"><a href="/index.php">GroceryRun Home</a></div>
       </div>
-
-
       <div class="absolute_container">
-         <div class="timeLeft" id="countdown"><p class="tl">17:14</p></div>      </div>
-
+         <div class="timeLeft" id="countdown"></div>      </div>
    </div>
    <!-- End Logo and Time Left -->
 
    <!-- Start Side Boxes -->
    <div class="sideBoxes">
-
-      <script type="text/javascript">
-/***********************************************
-* Universal Countdown script-Dynamic Drive (http://www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for this script and 100s more.
-***********************************************/
-
-function cdLocalTime(container, servermode, offsetMinutes, targetdate, debugmode) {
-  if (!document.getElementById || !document.getElementById(container)) return
-  this.container=document.getElementById(container)
-  var servertimestring=(servermode=="server-php")? 'May 05, 2012 18:45:21' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : 'May 05, 2012 18:45:21'
-  this.localtime=this.serverdate=new Date(servertimestring)
-  this.targetdate=new Date(targetdate)
-  this.debugmode=(typeof debugmode!="undefined")? 1 : 0
-  this.timesup=false
-  this.localtime.setTime(this.serverdate.getTime()+offsetMinutes*60*1000) //add user offset to server time
-  this.updateTime()
-}
-
-cdLocalTime.prototype.updateTime=function(){
-  var thisobj=this
-  this.localtime.setSeconds(this.localtime.getSeconds()+1)
-  setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
-}
-
-cdLocalTime.prototype.displaycountdown=function(baseunit, functionref){
-  this.baseunit=baseunit
-  this.formatresults=functionref
-  this.showresults()
-}
-
-cdLocalTime.prototype.showresults=function(){
-  var thisobj=this
-  var debugstring=(this.debugmode)? "<p style=\"background-color: #FCD6D6; color: black; padding: 5px\"><big>Debug Mode on!</big><br /><b>Current Local time:</b> "+this.localtime.toLocaleString()+"<br />Verify this is the correct current local time, in other words, time zone of count down date.<br /><br /><b>Target Time:</b> "+this.targetdate.toLocaleString()+"<br />Verify this is the date/time you wish to count down to (should be a future date).</p>" : ""
-
-  var timediff=(this.targetdate-this.localtime)/1000 //difference btw target date and current date, in seconds
-  if (timediff<0){ //if time is up
-    this.timesup=true
-    this.container.innerHTML=debugstring+this.formatresults()
-    return
-  }
-  var oneMinute=60 //minute unit in seconds
-  var oneHour=60*60 //hour unit in seconds
-  var oneDay=60*60*24 //day unit in seconds
-  var dayfield=0
-  var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
-  var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
-  var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
-  if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
-    hourfield=dayfield*24+hourfield
-    dayfield="n/a"
-  }
-  else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
-    minutefield=dayfield*24*60+hourfield*60+minutefield
-    dayfield=hourfield="n/a"
-  }
-  else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
-    var secondfield=timediff
-    dayfield=hourfield=minutefield="n/a"
-  }
-  if (hourfield<10){
-    hourfield="0"+hourfield
-  }
-  if (minutefield<10){
-    minutefield="0"+minutefield
-  }
-  if (secondfield<10){
-    secondfield="0"+secondfield
-  }
-  this.container.innerHTML=debugstring+this.formatresults(dayfield, hourfield, minutefield, secondfield)
-  setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
-}
-
-/////CUSTOM FORMAT OUTPUT FUNCTIONS BELOW//////////////////////////////
-
-//Create your own custom format function to pass into cdLocalTime.displaycountdown()
-//Use arguments[0] to access "Days" left
-//Use arguments[1] to access "Hours" left
-//Use arguments[2] to access "Minutes" left
-//Use arguments[3] to access "Seconds" left
-
-//The values of these arguments may change depending on the "baseunit" parameter of cdLocalTime.displaycountdown()
-//For example, if "baseunit" is set to "hours", arguments[0] becomes meaningless and contains "n/a"
-//For example, if "baseunit" is set to "minutes", arguments[0] and arguments[1] become meaningless etc
-
-//1) Display countdown using plain text
-function formatresults(){
-  if (this.timesup==false){//if target date/time not yet met
-    var displaystring=arguments[1]+" hours "+arguments[2]+" minutes "+arguments[3]+" seconds"
-  }
-  else { //else if target date/time met
-  var displaystring="Time out!"
-  }
-  return displaystring
-}
-
-//2) Display countdown with a stylish LCD look, and display an alert on target date/time
-function formatresults2(){
-  if (this.timesup==false){ //if target date/time not yet met
-    var displaystring='<p class="tl">'+arguments[1]+":"+arguments[2]+'</p>'
-  }
-  else { //else if target date/time met
-  var displaystring="" //Don't display any text
-  //alert("Launch time is now midday !") //Instead, perform a custom alert
-  }
-  return displaystring
-}
-</script>
-
-<script type="text/javascript">
-//cdLocalTime("ID_of_DIV_container", "server_mode", LocaltimeoffsetMinutes, "target_date", "opt_debug_mode")
-//cdLocalTime.displaycountdown("base_unit", formatfunction_reference)
-
-//Note: "launchdate" should be an arbitrary but unique variable for each instance of a countdown on your page:
-
-var launchdate=new cdLocalTime("countdown", "server-php", 0, "May 06, 2012 12:00:00")
-launchdate.displaycountdown("days", formatresults2)
-</script>
-
          <!--Start Sign In Box -->
    <div class="whiteBox_header"><h3>Sign In</h3></div>
    <div class="genericBox">
@@ -180,9 +61,9 @@ launchdate.displaycountdown("days", formatresults2)
       <p><a href="https://www.groceryrun.com.au/login.php" class="strong">Not a member? Join Now!</a></p>
 
       <div class="box_split_left top10 btm10">
-         <input name="email_add" id="email_add" type="text" class="input_regular" value="E-mail or Username" onfocus="if(this.value=='E-mail or Username') this.value = '';" onblur="if(this.value=='') this.value='E-mail or Username';">
+         <input name="email_add" id="email_add" type="text" class="input_regular" value="E-mail or Username" autocomplete="off" onfocus="if(this.value=='E-mail or Username') this.value = '';" onblur="if(this.value=='') this.value='E-mail or Username';">
          <div class="breathe5"><input type="submit" style="visibility: hidden;"></div>
-         <input name="pass" id="pass" type="password" class="input_regular" value="pswd" onfocus="if(this.value=='pswd') this.value = '';" onblur="if(this.value=='') this.value='pswd';">
+         <input name="pass" id="pass" type="password" class="input_regular" value="pswd" autocomplete="off" onfocus="if(this.value=='pswd') this.value = '';" onblur="if(this.value=='') this.value='pswd';">
       </div>
 
       <div class="box_split_right">
@@ -215,30 +96,19 @@ launchdate.displaycountdown("days", formatresults2)
 <div class="sep">&nbsp;</div>
 
 <div class="social_buttons">
-   <span><iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fgroceryrunau&amp;layout=button_count&amp;show_faces=true&amp;width=107&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:107px; height:21px;" allowtransparency="true"></iframe></span> <span><a href="http://twitter.com/groceryrun" target="_blank"><img src="images/assets/twitter_btn.gif" alt="twitter"></a></span>
+   <span><iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fgroceryrunau&amp;layout=button_count&amp;show_faces=true&amp;width=85&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe></span> <span><a href="http://twitter.com/groceryrun" target="_blank"><img src="images/assets/twitter.gif" alt="twitter"></a></span>
+  <span>  <a href="https://itunes.apple.com/au/app/groceryrun.com.au/id565849855?ls=1&amp;mt=8" target="_blank"><img src="images/assets/appstore.gif" alt="iphone app" width="76" height="27" border="0"></a></span>
 </div>
 
 </div>
 <!-- End Subscribe Box -->
-<!-- Start Banners --><div class="side_column_banner"><a href="https://vinomofo.com/signup" target="_blank"><img src="https://cdn.ultraserve.net.au/cotd_gr/images/banners/GR_VM_sidebox---050512-Soul-Growers-Equilibrium.jpg" alt="Wine"></a></div><div class="side_column_banner"><a href="http://www.catchoftheday.com.au/" target="_blank"><img src="https://cdn.ultraserve.net.au/cotd_gr/images/banners/GR_banner_2.jpg" alt="Catchoftheday.com.au"></a></div><div class="side_column_banner"><a href="http://www.scoopon.com.au/travel" target="_blank"><img src="https://cdn.ultraserve.net.au/cotd_gr/images/banners/jupiters-1.jpg" alt="Scoopon Wed May 2"></a></div><div class="side_column_banner"><a href="http://on.fb.me/IxHTvG" target="_blank"><img src="https://cdn.ultraserve.net.au/cotd_gr/images/banners/LIKE-US.jpg" alt="GroceryRun Sidebox"></a></div><div class="side_column_banner"><img src="https://cdn.ultraserve.net.au/cotd_gr/images/banners/Wella.jpg" alt="Grocery Run Coming Up" width="250"></div><!-- End Banners -->   </div>
+<!-- Start Banners --><div class="side_column_banner"><a href="http://bit.ly/TKPeHA" target="_blank"><img src="images/banners/We_Got_An_App_1.jpg" alt="GroceryRun Sidebox"></a></div><div class="side_column_banner"><a href="https://vinomofo.com/competition/guess/new?utm_source=gr&amp;utm_campaign=mini" target="_blank"><img src="images/banners/GR_VM_sidebox-071112-Default.jpg" alt="Wine 2"></a></div><div class="side_column_banner"><a href="http://www.catchoftheday.com.au" target="_blank"><img src="images/banners/personaliseyourchristmas_grocery.jpg" alt="Catchoftheday.com.au"></a></div><div class="side_column_banner"><a href="http://www.catchoftheday.com.au/mumgo.php" target="_blank"><img src="images/banners/GR_Kitchen (1).gif" alt="Mumgo"></a></div><div class="side_column_banner"><a href="http://www.scoopon.com.au/national?utm_source=grun&amp;utm_medium=banner&amp;utm_campaign=newsnational" target="_blank"><img src="images/banners/GR_scoopon_sidebox_blue.jpg" alt="Scoopon National 3"></a></div><div class="side_column_banner"><a href="http://www.eatnow.com.au?utm_campaign=AwareLogoFt&amp;utm_medium=referral&amp;utm_source=GrRn&amp;utm_content=GrRn-ft" target="_blank"><img src="images/banners/Eat_Now_Sidebox.jpg" alt="Eatnow"></a></div><!-- End Banners -->   </div>
    <!-- End Side Boxes -->
 
 
 </div>
 
 <!-- End Side Column -->
-<script type="text/javascript">
-   var _gaq = _gaq || [];
-   _gaq.push(['_setAccount', 'UA-25666626-1']);
-   _gaq.push(['_setDomainName', '.groceryrun.com.au']);
-   _gaq.push(['_trackPageview']);
-
-   (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-   })();
-</script>
 
     <!-- Start Main Column -->
     <div class="main_column">
@@ -266,30 +136,64 @@ launchdate.displaycountdown("days", formatresults2)
 
 		<div class="stdArticle smText">
 
-			  <p>At GroceryRun.com.au we appreciate that you value your privacy and wish to have your personal information kept secure. Our privacy policy describes generally how we manage your personal information and protect your privacy. We shall also ensure that we comply with our obligations under the Privacy Act 1988 (Cth).</p>
-
-			  <p>At GroceryRun.com.au we only collect personal information that is necessary for us to conduct our business as an online provider of goods. The personal information we collect will include information you give us when you place an order for the purchase of a good we supply. We may also collect personal information about individuals who are not customers of our business, but whose personal information is given to us by those individuals or other people in the course of a transaction. This personal information will include your name, address and contact details, and may include other personal information about individuals we collect in the course of a transaction.</p>
-
-			  <p>We may also collect some information from you when you use our website <a href="/">www.groceryrun.com.au</a>. Your use of the information and services available through our website will determine the type of information that we collect about you.</p>
-
-			  <p>The only personal information that we collect about you when you use our website is what you tell us about yourself, for example, when you complete an online form when placing an order, or information you provide to us when you send us an email. Please note, we will record your email address if you send us an email.</p>
-
-			  <h3 class="top20 btm20">Using and Disclosing Your Personal Information</h3>
-
-			  <p>We respect your privacy. Any personal information that we collect about you will be used and disclosed by us so that we can provide you with the services that you have requested, or otherwise to enable us to carry out our business as suppliers of goods.</p>
-
-			  <p>Please be assured we will not disclose information about you unless the disclosure is required or authorised by law, you have consented to our disclosing the information about you, or for another purpose (related to the primary purpose of collecting that information) that you would reasonably expect.</p>
-
-			  <p>We may also use your personal information to provide you with information about other services offered by us. However, the only information that you must provide is your name and payment details (where applicable). If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request.</p>
-
-			  <p>Under the Privacy Act 1988 (Cth) you have a right to request access to your personal information held by us. You may do this by sending us an email using our Customer Service Centre or by writing to us at:</p>
-
-        Office of the Chief Information Officer<br>
-        CatchOfTheDay.com.au Pty Ltd<br>
-			  64-70 Cochranes Road<br>
-			  Moorabbin, Victoria 3189
-
-
+<h1>1. General Statement</h1> <p> <strong>1.1</strong> CatchOfTheDay.com.au Pty Ltd t/a GroceryRun.com.au (<strong>GroceryRun.com.au</strong>) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our
+approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the
+National Privacy Principles in the <em>Privacy Act 1988</em> (Cth).</p> <p><strong>1.2</strong> Personal information is defined in the <em>Privacy Act 1988</em> (Cth) and means information or an opinion about an individual whose
+identity is apparent or can be reasonably ascertained from that information or opinion. </p>
+<p> <strong>1.3</strong> Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third
+  party websites. We recommend that you review the privacy policy of each website you visit.</p>
+<h1>2. Collection of Personal Information</h1> <p><strong>2.1</strong> GroceryRun.com.au only collects personal information for the
+purposes of conducting our business as an online retailer of goods and services. The personal information we collect from you will include information you give us when you: </p>
+<p><strong>(a)</strong> register or subscribe to our
+  Website; </p>
+<p> <strong>(b)</strong> complete a transaction with us; and </p>
+<p> <strong>(c)</strong> contact us. </p>
+<p> <strong>2.2</strong> The personal information that we collect on individuals may include, but is not limited to: </p>
+<p> <strong>(a)</strong> your name; </p>
+<p> <strong>(b)</strong> your contact details; </p>
+<p> <strong>(c)</strong> your payment details; and </p>
+<p> <strong>(d)</strong> other personal information that we collect in the course of a transaction. </p>
+<p> <strong>2.3</strong> We may collect personal information from
+  individuals who are not customers of our business but whose personal information is given to us by those individuals via our Website or in the course of a transaction. </p>
+<p> <strong>2.4</strong> Where reasonably practicable, we
+  attempt to collect information directly from individuals. When we collect information, we will generally explain to the individual why we are collecting it, who we give it to and how we will use or disclose it or,
+  alternatively, those matters will be obvious from the circumstances. </p>
+<p> <strong>2.5</strong> If we collect information about an individual from someone else, we will take reasonable steps to ensure that the individual is made
+  aware of the matters listed in clause 2.4. </p>
+<p> <strong>2.6</strong> We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way. </p>
+<p> <strong>2.7</strong> When you visit our Website, for the
+  purpose of managing our Website and improving our business, we may also collect the following information: </p>
+<p> <strong>(a)</strong> your computer's operating system; </p>
+<p> <strong>(b)</strong> your computer's browser type and capabilities; </p>
+<p> <strong>(c)</strong> your computer's Internet Protocol (IP) address and geolocation; </p>
+<p> <strong>(d)</strong> web pages visited, including how you were referred to each web page; and </p>
+<p> <strong>(e)</strong> web page usage statistics, including the time
+  spent on each web page. </p>
+<p><strong>2.8</strong> We will not identify users or their browsing activities, except where required by law or in accordance with our <strong> </strong><a href="terms.php" target="_blank">Terms and Conditions of Use and Sale</a>. </p>
+<h1>3. Using and Disclosing Your Personal Information</h1> <p><strong>3.1</strong> We will generally use or disclose your personal information only for the
+primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect us to use or disclose the personal information for that secondary purpose. We may otherwise use and
+disclose your personal information if you have given us consent for the use or disclosure or it is required or authorised by law. </p>
+<p> <strong>3.2</strong> Generally, we use and disclose your personal information for the purpose of
+  providing you with the goods or services that you have requested, or otherwise to enable us to carry out our business as an online retailer of goods and services. </p>
+<p> <strong>3.3</strong> If those purposes for which we have
+  collected the information involve providing personal information about an individual to any third party, we will take appropriate and reasonable steps to ensure any personal information is protected. </p>
+<p> <strong>3.4</strong> We
+  will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use and you are given the opportunity to opt out of receiving
+  any further direct marketing communications. Our electronic marketing activities will comply with the requirements of the <em>Spam Act 2003</em> (Cth). </p>
+<p><strong>3.5</strong> We may share your information with other members of
+  the CatchOfTheDay.com.au Group, including members that are located outside of Australia. Our Group is comprised of CatchOfTheDay.com.au Pty Ltd, Scoopon Pty Ltd, Wine Cru Pty Ltd and their Related Bodies Corporate, as defined in the <em>Corporations Act 2001 </em>(Cth). </p>
+<p> <strong>3.6</strong> We may also provide your information to third parties that provide services to us, including third parties that provide our payment gateway, marketing, logistics and technology support services.
+  This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia, we will do so in accordance with National Privacy
+  Principle 9. </p>
+<h1>4. Security of Your Personal Information</h1> <p> We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other
+misuse. When no longer required, personal information is destroyed in a secure manner or deleted.</p> <h1>5. Access to Your Personal Information</h1> <p> <strong>5.1</strong> Under the <em>Privacy Act 1988</em> (Cth), you have certain
+rights to access the personal information we collect and hold about you. </p> <p> <strong>5.2</strong> Generally, we will allow an individual access to the personal information we hold about them within a reasonable time after it is
+requested. When requesting such access please identify the precise type/s of information requested. <br>
+You may make a request by sending us an email using our <a href="https://helpcentre.groceryrun.com.au" target="_blank">Help Centre</a> or by writing to us at: <br> 
+Office of the Chief Information Officer<br> 
+CatchOfTheDay.com.au Pty Ltd t/a GroceryRun.com.au<br> 64-70 Cochranes Road<br> Moorabbin, Victoria 3189<br> Australia </p>
+<p> <strong>5.3</strong> Additional information regarding privacy may be obtained from the <a href="http://www.oaic.gov.au" target="_blank">Office of the Australian Information Commissioner</a>.</p> <p> Privacy Policy last updated on 1
+June 2012.</p>
 		 </div>
 
 
@@ -312,61 +216,93 @@ launchdate.displaycountdown("days", formatresults2)
 
 <!-- Start Footer -->
 <div class="footer_wrapper">
-	<div class="footer">
-		<div class="footerMenu">
-                    <a href="/index.php">Today’s Run</a> |  
-                    <a href="/blog.php">Blog</a> | 
-                    <a href="/about_us.php">About Us</a> | 
-                    <a href="/careers.php">Careers</a> |  
-                    <a href="https://helpcentre.groceryrun.com.au">Customer Service</a> |  
-                    <a href="/suppliers.php">Suppliers</a> | 
-                    <a href="/press.php">Press</a> | 
-                    <a href="/terms.php">Terms &amp; Conditions</a> | 
-                    <a href="/privacy.php">Privacy</a>
-		</div>
-		<div class="footerCopy">Copyright © 2011 CatchOfTheDay.com.au Pty Ltd t/a GroceryRun.com.au H05. All Rights Reserved.</div>
-		<div class="clearboth">&nbsp;</div>
-	</div>
+    <div class="footer">
+        <div class="footerMenu" style="text-align: center;">
+            <a href="/index.php">Today’s Run</a> |
+            <a href="/blog.php">Blog</a> |
+            <a href="/about_us.php">About Us</a> |
+            <a href="/careers.php">Careers</a> |
+            <a href="https://helpcentre.groceryrun.com.au">Customer Service</a> |
+            <a href="/suppliers.php">Suppliers</a> |
+            <a href="/press.php">Press</a> |
+            <a href="/terms.php">Terms &amp; Conditions</a> |
+            <a href="/privacy.php">Privacy</a>
+        </div>
+        <div class="clearboth">&nbsp;</div>
+        <div style=" padding: 10px 14px 10px 14px; color:#CCC;font-weight: normal; ">
+            <p>
+                <strong>WARNING :</strong>
+                Under the Liquor Control Reform Act 1998 it is an offence to supply alcohol to a person under the age of
+                18 years (Penalty exceeds $7,000). For a person under the age of 18 years to purchase or receive liquor
+                (Penalty exceeds $500). CatchOfTheDay.com.au Pty Ltd Liquor Licence No. 36117384.
+            </p>
+        </div>
+        <div style="text-align: center;color:#CCC;font-weight: normal;">Copyright © 2011 CatchOfTheDay.com.au Pty Ltd t/a GroceryRun.com.au. All Rights
+            Reserved. H09</div>
+
+    </div>
 </div>
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/js.php"></script>
+
 <script type="text/javascript">
-     Cufon.replace('h1'); // Works without a selector engine
-     Cufon.replace('h2');
-     Cufon.replace('h3');
+
+    //comment to support special characters get browser support font  GR-274 support for spacial characters
+
+    //   Cufon.replace('h1'); // Works without a selector engine
+    //   Cufon.replace('h2');
+    //    Cufon.replace('h3');
+
 </script>
- <!-- PNG transparency in IE6 -->
-      <!--[if IE 6]>
+<!-- PNG transparency in IE6 -->
+<!--[if IE 6]>
       <script src="js/belatedpng.js"></script>
       <script src="js/fixpng.js"></script>
 <![endif]-->
-      
+
 <script type="text/javascript">
-   var theCart = new ClassCart(6);
-   theCart.initialize();
-   $(function(){
-      $('#checkoutCartBtn').click(function(){
-          if ($('#cart-item-count b').html() == 0) {
-              alert('Your Cart is Empty.');
-          } else {
-              location.href='http://www.groceryrun.com.au/shopping_cart.php?action=ajaxsc'; 
-              event.stopPropagation();
-          }
-      });
-   });
+    var theCart = new ClassCart(6);
+    theCart.initialize();
+    $(function () {
+        $('#checkoutCartBtn').click(function () {
+            if ($('#cart-item-count b').html() == 0) {
+                alert('Your Cart is Empty.');
+            } else {
+                location.href = 'http://www.groceryrun.com.au/shopping_cart.php?action=ajaxsc';
+                event.stopPropagation();
+            }
+        });
+    });
 </script>
+<script type="text/javascript">
+    $(function(){
+        var launchdate = new cdLocalTime("countdown", "November 08, 2012 05:22:48", 0, "November 08, 2012 12:00:00");
+        launchdate.displaycountdown("days", formatresults2); 
+    });
+       
+</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","271676496a","498049","ZlNUbUJVWkFWVkwMDl8ZY0tZG0RAXkNZBhgfRl5J",0,25,new Date().getTime()]);</script>
+
+
 <!-- End Footer -->
 
 </div><!-- End all wrapper -->
+<!-- #2: BEGIN SUPERTAG BOTTOM CODE v2.0.19 -->
+<script type="text/javascript">
+if(typeof superT!="undefined"){if(typeof superT.b=="function"){superT.b();}}
+</script>
+<!-- Do NOT remove the following <script>...</script> tag: SuperTag
+requires the following as a separate <script> block -->
+<script type="text/javascript">
+if(typeof superT!="undefined"){if(typeof superT.b2=="function"){superT.b2();}}
+</script>
+<!-- #2: END SUPERTAG BOTTOM CODE -->
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/31/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","271676496a",498049,"ZlNUbUJVWkFWVkwMDl8ZY0tZG0RAXkNZBhgfRl5J",0,24,new Date().getTime()]);</script>
 
 
 
-
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/31/eum/rum-staging.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
