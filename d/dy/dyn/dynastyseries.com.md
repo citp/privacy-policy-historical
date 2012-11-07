@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509155057id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107130125id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
 
-# DynastySeries.com » Privacy Policy
+# Privacy Policy | Pictures and Videos on DynastySeries.com
 
 This is the web site of JKF Media. We can be reached via e-mail at jfoster@jkfmedia.com.
 
