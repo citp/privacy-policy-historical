@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrymakingmagazines.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509010601id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrymakingmagazines.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107131206id_/http%3A//www.kalmbach.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy
 
@@ -24,8 +24,7 @@ Kalmbach Publishing Co. is the publisher of the following magazines and websites
 [Art Jewelry](http://www.artjewelrymag.com/)   
 [Astronomy](http://www.astronomy.com/)   
 [Bead&Button](http://www.beadandbutton.com/)   
-[BeadStyle](http://www.beadstylemag.com/)   
-[BirdWatching](http://www.birdwatchingdaily.com/)   
+[BeadStyle](http://www.beadstylemag.com/)  
 [Cabin Life](http://www.cabinlife.com/)   
 [Classic Toy Trains](http://www.classictoytrains.com/)   
 [Classic Trains](http://www.classictrainsmag.com/)   
@@ -36,7 +35,6 @@ Kalmbach Publishing Co. is the publisher of the following magazines and websites
 [Model Retailer](http://www.modelretailer.com/)   
 [Scale Auto](http://www.scaleautomag.com/)   
 [Trains](http://www.trainsmag.com/)   
-[The Writer](http://www.writermag.com/)   
 [Bead & Button Show](http://www.beadandbuttonshow.com/)  
 [Bead&Button Show Online Registration ](http://www.beadandbuttonshowstore.com/)  
 [BeadShopFinder.com](http://www.beadshopfinder.com/)  
