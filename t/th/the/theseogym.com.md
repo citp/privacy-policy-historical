@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theseogym.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527203536id_/http%3A//www.theseogym.com/page/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theseogym.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107125030id_/http%3A//www.theseogym.com/page/2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Article Directory
 
