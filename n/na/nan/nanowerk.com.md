@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505001808id_/http%3A//www.nanowerk.com/n_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108033333id_/http%3A//www.nanowerk.com/n_privacy_statement.php) for the most accurate reproduction.*
 
 # Nanowerk Nanotechnology Portal - Pricacy Statement
 
