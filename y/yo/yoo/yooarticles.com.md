@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yooarticles.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511021956id_/http%3A//www.yooarticles.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yooarticles.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108131612id_/http%3A//www.yooarticles.net/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - yooarticles.com
 
