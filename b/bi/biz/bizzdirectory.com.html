@@ -1,136 +1,294 @@
-<!--The following is the downloaded HTML source of the bizzdirectory.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622045139id_/http%3A//bizzdirectory.com/privacy_policy_and_terms.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizzdirectory.com privacy policy that was archived on 2012-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108065809id_/http%3A//bizzdirectory.com/privacy_policy_and_terms.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>BizzDirectory - Privacy Policy and Terms </title>
+<title>Bizz Directory - Business Web Directory&nbsp;- Privacy Policy and Terms  </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/templates/BizzDir/style/main.css">
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/templates/Twitter4.1/style/main.css">
 <meta name="keywords" content="privacy policy,rimpe,directory,websites,links">
 <meta name="description" content="We respect the privacy of all visitors to our website. We are committed to protecting the privacy of the users of its website and services. We want you to use and enjoy the website without having to reveal more information than necessary.">
 <meta name="author" content="BizzDirectory">
 <meta name="copyright" content="Copyright (c) 2009 by BizzDirectory. All rights reserved!">
-<meta name="robots" content="index,follow">
+<meta name="robots" content="all,index,follow">
 <meta name="generator" content="PHP Link Directory 4.1.0">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-11455959-20']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!--[if IE 7]>
-<link rel="stylesheet" href="/templates/BizzDir/style/ie7.css" type="text/css" media="all" />
-<![endif]-->
-<!--[if IE 6]>
-<link rel="stylesheet" href="/templates/BizzDir/style/ie6.css" type="text/css" media="all" />
-<![endif]-->
-<script type="text/javascript">
-var valid_obj = new Object();
-</script>
+        var valid_obj = new Object();
+    </script>
 </head>
-<body><script type="text/javascript">
+<body>
+<script type="text/javascript">
 
-function ajaxFunction(){
-var xmlHttp
-try{
-xmlHttp=new XMLHttpRequest()}
-catch(e){
-try{
-xmlHttp=new ActiveXObject("Msxml2.XMLHTTP")}
-catch(e){
-try{
-xmlHttp=new ActiveXObject("Microsoft.XMLHTTP")}
-catch(e){
-alert("Your browser does not support AJAX!")
-return false}}}
-xmlHttp.onreadystatechange=function(){
-if(xmlHttp.readyState==4){}}
-var url="http://www.bizzdirectory.com/update_session.php"
-xmlHttp.open("POST",url,false)
-xmlHttp.setRequestHeader(
-'Content-Type',
-'application/x-www-form-urlencoded; charset=UTF-8'
-)
-xmlHttp.send('url='+window.location)}
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.bizzdirectory.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
 </script>
 <script type="text/javascript">
-jQuery(function($){
-$(document).ready(function(){
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
 
-jQuery.validator.messages.required="This field is required."
-jQuery.validator.messages.remote="Please fix this field."
-jQuery.validator.messages.email="Invalid email address format."
-jQuery.validator.messages.url="Invalid URL."
-jQuery.validator.messages.date="Invalid date format."
-jQuery.validator.messages.dateISO="Please enter a valid date (ISO)."
-jQuery.validator.messages.dateDE="Bitte geben Sie ein gültiges Datum ein."
-jQuery.validator.messages.number="Required numeric field."
-jQuery.validator.messages.numberDE="Bitte geben Sie eine Nummer ein."
-jQuery.validator.messages.digits="Required integer field."
-jQuery.validator.messages.creditcard="Please enter a valid credit card number."
-jQuery.validator.messages.equalTo="Please enter the same value again."
-jQuery.validator.messages.accept="Please enter a value with a valid extension."
-jQuery.validator.messages.maxlength=$.format("Please enter no more than {0} characters.")
-jQuery.validator.messages.minlength=$.format("Please enter at least {0} characters.")
-jQuery.validator.messages.rangelength=$.format("This field must have minimum {0} characters and maximum {1} characters..")
-jQuery.validator.messages.range=$.format("Please enter a value between {0} and {1}.")
-jQuery.validator.messages.max=$.format("Please enter a value less than or equal to {0}.")
-jQuery.validator.messages.min=$.format("Please enter a value greater than or equal to {0}.")
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
 
-function fireEvent(obj,evt){
-var fireOnThis=obj
-if(document.createEvent){
-var evObj=document.createEvent('MouseEvents')
-evObj.initEvent(evt,true,false)
-fireOnThis.dispatchEvent(evObj)
-}else if(document.createEventObject){
-fireOnThis.fireEvent('on'+evt)}}
-valid_obj.search_form={
-debug: false,
-onKeyUp: true,
-onfocusout: false,
-errorElement: "span",
-errorClass: "errForm",
-submitHandler: function(form){
-if($("#search_form").valid()){
-form.submit()}
-},
-"rules": {search: {"required":true}}, "messages": {}}
-$("#search_form").validate(valid_obj.search_form)
-var selects=$("#search_form").find("select")
-var crt
-$.each(selects,function(){
-crt=this.id
-if(typeof(valid_obj.search_form.rules[crt])!=='undefined'){
-$("#"+crt).change(function(){
-$(this).valid()
-})}
-})
-})
-})
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
 </script>
-<div id="headerwrapper">
-<div id="header">
-<a class="logo" href="/"><img src="/templates/BizzDir/images/logo.png" alt="BizzDirectory" width="176" height="43"></a>
-<div id="searchmenu">
-<div class="center">
-<div id="search">
-<form action="/index.php" method="get" style="float:left;margin:0;padding:0" id="search_form">
-<div id="inputleft"></div>
-<input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search" class="inputsearch">
-<div id="inputright"></div>
-<button type="submit"></button>
+<div class="header_bg">
+<div class="header_top">
+<div class="header_top_res">
+<p>
+<a href="/profile.php?mode=register" title="Register new user" class="btn-slide">Register</a>
+|
+<a href="/login.php" class="btn-slide">Login</a>&nbsp;
+</p>
+</div>
+</div>
+<div class="backgr">
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div style="padding:auto;">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Twitter4.1/images/logo.png" border="0" alt="logo"></a>
+</div>
+<div id="search" style="padding:0;">
+<form class="headerSearch" action="/index.php" method="get" id="search_form">
+
+<button type="submit" class="searchBtnCenter"></button>
+<input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search">
 </form>
-<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
-</div><div id="menu"><ul><li><div class="split"></div></li><li><a href="/submit.php">Submit Link</a></li><li><div class="split"></div></li><li><a href="/latest-links.html">Latest Links</a></li><li><div class="split"></div></li><li><a href="/top-hits.html" title="Browse most popular links"><span>Top Hits</span></a></li><li><div class="split"></div></li><li><a href="/contact.php">Contact</a></li></ul></div></div></div></div></div><div id="contentwrapper"><div id="content"><div id="contentTop"></div><div class="clear"></div><div id="contentMiddle"><div id="main"><ul id="main_container" style="list-style-type:none;padding:0;margin:0;"><li></li></ul><div class="path"><a href="/" id="firstPath">Business Directory</a><span>Privacy Policy and Terms</span></div>
-<div class="pageContent"><h2>Privacy Policy and Terms</h2><p>We respect the privacy of all visitors to our
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hMenu">
+<ul id="nav">
+<li class="li_left">
+<a href="/submit.php" title="Submit your link to the directory">Submit Link</a>
+</li>
+<li class="li_left">
+<a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a>
+</li>
+<li class="li_left">
+<a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a>
+</li>
+<li class="li_left">
+<a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a>
+</li>
+<li class="li_left">
+<a href="/index.php?list=top" title="Browse most popular links">Top Hits</a>
+</li>
+<li class="li_left">
+<a href="/contact.php" title="Contact directory owner">Contact</a>
+</li>
+<li class="li_left">
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="path"><a href="/" style="font-weight: bold;">Business Directory</a> <img src="/templates/Twitter4.1/images/pathArrow.gif" alt=" - "> Privacy Policy and Terms</div><div class="center1"><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><h2>Privacy Policy and Terms</h2><p>We respect the privacy of all visitors to our
 website. We are committed to protecting the privacy of the users of its
 website and services. We want you to use and enjoy the website without 
 having to reveal more information than necessary. </p><p>You can access,
@@ -168,99 +326,20 @@ Google, by using the DART cookie to your users, your site and other
 sites on the Internet to deliver ads based on their visits Users 
 visiting the Google ad and content network privacy policy may prevent 
 the use of the DART cookie. This web site, users are deemed to have 
-accepted the above-mentioned conditions.</p><p><em>Last updated: 18 March 2011</em></p></div>
-<div style="clear:both"><br></div></div><div id="sideright">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Bizz News</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear:both;"></div>
-<div class="sidecateg">
-<ul class="boxStats">
-<li><strong>We accept bulk submissions;</strong></li>
-<li>- 30% discount for 19 and more,</li>
-<li>- 40% discount for 39 and more,</li>
-<li>- 50% discount for 59 and more web sites.</li>
-<li><em><small>Posted on March 15, 2012.</small></em></li>
+accepted the above-mentioned conditions.</p><p><em>Last updated: 18 March 2011</em></p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
 </ul>
-</div>
-<ul id="sortable_right" style="list-style-type:none;padding:0;margin:0;">
-<li id="6">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Latest Links</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">	    	    <ul class="boxPopCats">
-<li><a href="/detail/sia-acs-accreditation-1022.html" title="hakkında daha fazla bilgi: SIA ACS Accreditation">SIA ACS Accreditation</a></li>
-<li><a href="/detail/dizinomi-868.html" title="hakkında daha fazla bilgi: Dizinomi">Dizinomi</a></li>
-<li><a href="/detail/cosmetic-surgery-863.html" title="hakkında daha fazla bilgi: Cosmetic Surgery">Cosmetic Surgery</a></li>
-<li><a href="/detail/botox-844.html" title="hakkında daha fazla bilgi: Botox">Botox</a></li>
-<li><a href="/detail/senior-living-chicago-821.html" title="hakkında daha fazla bilgi: Senior Living Chicago">Senior Living Chicago</a></li>
-</ul>
-</div>	    	    </li>
-<li id="10">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Popular Links</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">	    	    <ul class="boxPopCats">
-<li><a href="/detail/how-to-cook-seasonal-food-796.html" title="Read more about: How to cook Seasonal Food">How to cook Seasonal Food </a></li>
-<li><a href="/detail/uk-breaks--warner-leisure-797.html" title="Read more about: UK breaks - Warner Leisure">UK breaks - Warner Leisure </a></li>
-<li><a href="/detail/injury-claims-789.html" title="Read more about: Injury Claims">Injury Claims</a></li>
-<li><a href="/detail/affordable-books-from-the-book-people-795.html" title="Read more about: Affordable books from the Book People">Affordable books from the B...</a></li>
-<li><a href="/detail/womens-brogues-783.html" title="Read more about: Women's Brogues">Women's Brogues</a></li>
-</ul>
-</div>	    	    </li>
-<li id="7">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Pages</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">	    	    <ul class="boxPopCats">
-<li><a href="/how_to_add_your_website.html" title="How To Add Your Website">How To Add Your Website</a></li>
-<li><a href="/privacy_policy_and_terms.html" title="Privacy Policy and Terms">Privacy Policy and Terms</a></li>
-</ul>
-</div>	    	    </li>
-<li id="8">
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Statistics</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear: both;"></div>
-<div class="sidecateg">	    	    <ul class="boxStats">
-<li><strong>Active Links:</strong> 58</li>	<li><strong>Pending Links:</strong> 11</li>	<li><strong>Todays Links:</strong> 1</li>	      <li><strong>Total Categories:</strong> 95</li>	<li><strong>Sub Categories:</strong> 0</li></ul>
-</div>	    	    </li>
-</ul>
-<div class="title">
-<div class="titleLeft"></div>
-<div class="titleBgside">
-<div class="titleIcon1">Friends</div>
-</div>
-<div class="titleRight"></div>
-</div>
-<div style="clear:both;"></div>
-<div class="sidecateg">
-<ul>
-<li><a href="http://www.rimpe.net" title="Rimpe Web Directory" rel="external">Rimpe Web Directory</a></li>
-<li><a href="http://www.globelink.net" title="Globelink Directory" rel="external">Globelink Directory</a></li>
-</ul>
-</div>
-</div><div class="clear"></div></div></div></div><div id="footerwrapper"><div id="footer"><div id="footercontent">© 2009 - 2012 BizzDirectory.Com. Powered by <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a>.</div></div></div></body></html>
+</div><div style="clear: both; height: 30px;"></div></div><div class="footer"><div style="width: 990px; margin: 0 auto; text-align: left;"><p style="text-align:center"><a href="http://www.phplinkdirectory.com" title="Directory Script by PHP Link Directory">Directory Script by PHP Link Directory</a></p></div></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11455959-20']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body></html>
