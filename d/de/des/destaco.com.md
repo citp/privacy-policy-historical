@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508115803id_/http%3A//www.destaco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destaco.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108165841id_/http%3A//www.destaco.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy : DE-STA-CO
+# Privacy | DE-STA-CO
 
 Information Collection and Use \- DE-STA-CO is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. DE-STA-CO collects information from our users at several different points on our website. Before we collect any information we will invite our customers to opt-in to give us permission to collect data.
 
