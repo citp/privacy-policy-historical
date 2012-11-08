@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306072740id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108023358id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy at School Outfitters
 
@@ -19,7 +19,7 @@ School Outfitters is a leading retailer of school furniture and equipment, with 
 
 We might also collect and store any other information you choose to provide.
 
-**You may change your information at any time** by clicking the [View Account](https://web.archive.org/web/20120306072740id_/https%3A//www.schooloutfitters.com/catalog/account.php) link at the top of our site, signing in and clicking "Edit Account." We'll also be happy to change this information for you or remove you from our records if you call Customer Service at 866-619-1776. Or write us at Customer Service, School Outfitters, 3736 Regent Avenue, Cincinnati, OH 45212-3724. 
+**You may change your information at any time** by clicking the [View Account](https://web.archive.org/web/20121108023358id_/https%3A//www.schooloutfitters.com/catalog/account.php) link at the top of our site, signing in and clicking "Edit Account." We'll also be happy to change this information for you or remove you from our records if you call Customer Service at 866-619-1776. Or write us at Customer Service, School Outfitters, 3736 Regent Avenue, Cincinnati, OH 45212-3724. 
 
 **Automatically collected information** \- To help make shopping at School Outfitters easier, our site automatically collects data about how you use it (which pages you visit, how long you stay, what you buy, etc.). Like many other shopping sites, we gather this information using "cookies." 
 
