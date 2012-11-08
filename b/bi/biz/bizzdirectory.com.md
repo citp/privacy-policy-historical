@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bizzdirectory.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622045139id_/http%3A//bizzdirectory.com/privacy_policy_and_terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizzdirectory.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108065809id_/http%3A//bizzdirectory.com/privacy_policy_and_terms.html) for the most accurate reproduction.*
 
-# BizzDirectory - Privacy Policy and Terms
+# Bizz Directory - Business Web Directory - Privacy Policy and Terms
+
+## Privacy Policy and Terms
 
 We respect the privacy of all visitors to our website. We are committed to protecting the privacy of the users of its website and services. We want you to use and enjoy the website without having to reveal more information than necessary. 
 
