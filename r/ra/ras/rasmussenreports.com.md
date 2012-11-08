@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rasmussenreports.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031359id_/http%3A//www.rasmussenreports.com/public_content/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasmussenreports.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108042413id_/http%3A//www.rasmussenreports.com/public_content/about_us/privacy) for the most accurate reproduction.*
 
 # Privacy - Rasmussen Reports™
 
