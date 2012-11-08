@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mundia.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009015432id_/http%3A//www.mundia.com/ca/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundia.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108171919id_/http%3A//www.mundia.com/ca/PrivacyPolicy) for the most accurate reproduction.*
 
 # Mundia Privacy Policy
 
