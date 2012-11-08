@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626000119id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1%3FICID%3DFT-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artvan.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108163104id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1%3FICID%3DFT-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - Art Van Furniture - Michigan's Furniture Leader
 
