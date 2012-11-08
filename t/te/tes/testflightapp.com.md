@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512152340id_/https%3A//testflightapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108112508id_/https%3A//testflightapp.com/privacy) for the most accurate reproduction.*
 
 # TestFlight » iOS beta testing on the fly
 
@@ -86,9 +86,17 @@ This Website is not directed to children under 18 years of age. We do not knowin
 
 If you have any questions about this Privacy Policy, please contact us at privacy@testflightapp.com. 
 
+**TestFlight App Inc.**  
+1540 2nd Street, 3rd Floor  
+Santa Monica CA 90401  
+USA
+
+Tel: (323) 977-8378  
+support@testflightapp.com 
 
 
 
-Updated: March 4, 2012
+
+Updated: March 18, 2012
 
 This Privacy Policy may be changed at any time, with or without notice to you. Please check this Privacy Policy periodically for any amendments or changes 
