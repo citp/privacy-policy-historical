@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the studyladder.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617171129id_/http%3A//www.studyladder.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyladder.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108224822id_/http%3A//www.studyladder.com/about/privacy) for the most accurate reproduction.*
 
 # Studyladder, online english literacy & mathematics. Kids activity games, worksheets and lesson plans.
 
-Privacy Policy
-
-## Privacy Policy
+## Studyladder Privacy Policy
 
 At Studyladder we recognize the need to respect and protect any information gathered from the Studyladder website. We are committed to keeping safe and secure any personal information obtained from users. The information is transmitted and stored securely.
 
@@ -20,11 +18,17 @@ Why we collect information:
 
 At Studyladder we will not give, rent or lease any personal or identifying information that you have provided to us to any individual, organization or company.
 
-**Choice**
+  
+
+
+### Choice
 
 Users have a choice of whether or not to provide personal information to Studyladder. However, keep in mind that in order to give users access to restricted areas of the website some personal information (e.g., name, position, school name) is required.
 
-**Children**
+  
+
+
+### Children
 
 At Studyladder we are well aware of the importance of providing a safe and secure Internet environment for children and we are committed to taking all precautions to protect our Studyladder users. 
 
@@ -32,25 +36,36 @@ Studyladder does not collect personal information directly from children. Upon r
 
 **Studyladder does not share with any third parties information about a student's or a school's results or progress.**
 
-**Cookies**
+  
+
+
+### Cookies
 
 A cookie is a small text file placed on a web browser. Studyladder uses cookies only for the purposes of managing users' membership and enabling services provided by Studyladder website.
 
-**Securing usernames and passwords**
+  
+
+
+### Securing usernames and passwords
 
 Ultimately, users are responsible for the security of the usernames and passwords issued to them. It is recommended that usernames and passwords be kept safe and secure in a private place. 
 
 Studyladder is not responsible for any sites linking in or out of Studyladder website or any site referred to users by Studyladder. Studyladder recommends that users read the privacy policy of other websites before associating with them.
 
-**Changes to the privacy policy**
+  
+
+
+### Changes to the privacy policy 
 
 Studyladder may change this policy from time to time. Therefore, users are encouraged to check the policy periodically in order to keep abreast of any changes. Changes will be listed here. 
 
-**Exemptions**
+  
+
+
+### Exemptions
 
 The only exemption to Studyladder's privacy policy is if we are required by law or a court order to provide information. If you require more information about this policy please contact [Studyladder.](https://web.archive.org/about/contact-us)
 
 Date Terms Issued, 2nd May 2010
 
-  
-
+**Note.** It appears your web browser does not have javascript or cookies turned on – this website requires both in order to operate correctly. _Please enable javascript and cookies in your web browser before continuing._ [Help on fixing this is available by clicking here](https://web.archive.org/help/flash). 
