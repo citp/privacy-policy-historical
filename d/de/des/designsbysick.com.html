@@ -1,0 +1,638 @@
+<!--The following is the downloaded HTML source of the designsbysick.com privacy policy that was archived on 2012-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108014112id_/http%3A//www.designsbysick.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<title>Designsbysick.com Embroidery Library</title>
+
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/defaultv2.css">  <!-- my styles -->
+<link rel="shortcut icon" href="/favicon.ico">
+<link href="/css/smartmenu.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/js/smartmenu.js"></script>
+<script type="text/javascript" src="/lazyload.js"></script>
+<link href="/accmenu/modern_accordion.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/accmenu/modern_accordion-min.js"></script>
+
+<script>
+var acc1;
+var acc2;
+function ready()
+	{
+	if ($("#navigation").length > 0)
+		jQuery("#navigation").Smartmenu({animationDuration: 350});
+	if ($("#smartsuggest").length > 0)
+		$('#smartsuggest').smartSuggest({	  src: '/smartsearch/search_multiple.php'});
+	if ($("#ecomments").length > 0)
+		doecomments();
+	if ($("#accordion1").length > 0)
+		{
+		acc1 = new ModernAccordion('accordion1');
+		document.getElementById('accordion1').style.visibility= 'hidden';
+		}
+	if ($("#accordion2").length > 0)
+		acc2 = new ModernAccordion('accordion2');
+
+	setInterval("displaytime()", 1000);
+	}
+
+jQuery(window).ready(function()
+	{
+	ready();
+	});
+
+function GetCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+var currenttime = 'November 07, 2012 20:41:57'
+
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+var serverdate=new Date(currenttime)
+
+function padlength(what)
+	{
+	var output=(what.toString().length==1)? "0"+what : what
+	return output
+	}
+
+function displaytime()
+	{
+	serverdate.setSeconds(serverdate.getSeconds()+1)
+	var datestring=montharray[serverdate.getMonth()]+" "+padlength(serverdate.getDate())+", "+serverdate.getFullYear()
+	var timestring=padlength(serverdate.getHours())+":"+padlength(serverdate.getMinutes())+":"+padlength(serverdate.getSeconds())
+	document.getElementById("servertime").innerHTML=datestring+" "+timestring
+	}
+
+
+</script>
+</head>
+<body topmargin="0" leftmargin="10" rightmargin="10" bottommargin="0">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<center>
+<div id="navigation" class="smartmenu" style="margin-top:0;">
+	<ul>
+		<li>
+			<a href="/">Home</a>
+			<ul>
+				<li>
+				<a href="/">Home Page</a>
+				</li>
+				<li>
+				<a href="/indexsummary.php">Summary Page</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="#">Search</a>
+			<ul>
+				<li>
+				<a href="/searchcat.php">Search design sets by category</a>
+				</li>
+				<li>
+				<a href="/searchcatsingles.php">Search single designs by category</a>
+				</li>
+				<li>
+				<a href="/search">Search design sets by keyword</a>
+				</li>
+				<li>
+				<a href="http://www.designsbysick.com/searchresultsgoogle.php">Search entire site</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="/votingresults">Free</a>
+			<ul>
+				<li>
+				<a href="/votingresults">Daily Free Design</a>
+				</li>
+				<li>
+					<a href="/hourlydesign">Hourly Free Design</a>
+				</li>
+				<li>
+					<a href="/hourlyhunt">Hourly Free Hunt</a>
+				</li>
+				<li>
+					<a href="http://apps.facebook.com/freedesignaday/" target="facebook">Daily FaceBook Free Design</a>
+				</li>
+				<li>
+					<a href="/points">Points</a>
+				</li>
+				<li>
+					 <a href="/pointsforlottery.php">Daily Lottery</a>
+				</li>
+				<li>
+				  <a href="http://groups.yahoo.com/groups/sickdesigns" target="freefont">Free Font</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="/top100alltime.php">Top Lists</a>
+			<ul>
+				<li>
+					<a href="/top100alltime.php">Top 100 Sellers of All Time</a>
+				</li>
+				<li>
+					<a href="/top100year.php">Top 100 Sellers (past year)</a>
+				</li>
+				<li>
+					<a href="/top100-6months.php">Top 100 Sellers (6 months)</a>
+				</li>
+				<li>
+					<a href="/top100">Top 100 Sellers (2 months)</a>
+				</li>
+				<li>
+					<a href="/top100onemonth.php">Top 100 Sellers (1 month)</a>
+				</li>
+				<li>
+					<a href="/topsetstwoweeks.php">Top 20 Sellers (2 weeks)</a>
+				</li>
+				<li>
+					<a href="/topsetsoneweek.php">Top 20 Sellers (1 week)</a>
+				</li>
+				<li>
+					<a href="/topsets">Top 20 Sellers (72 hours)</a>
+				</li>
+				<li>
+					<a href="/pastcustomers.php">Last Customers</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="/products/page1">Designs</a>
+			<ul>
+				<li>
+					<a href="/products/page1">Newest Designs</a>
+				</li>
+				<li>
+					<a href="/search">Search Designs</a>
+				</li>
+				<li>
+					<a href="/members">Memberships</a>
+				</li>
+				<li>
+					<a href="/ordercd">All Designs on CD</a>
+				</li>
+				<li>
+					<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=4&amp;campid=5336045616&amp;toolid=10001&amp;customid=designsbysickstorelink&amp;mpre=http%3A%2F%2Fstores.ebay.com%2Fdesignsbysick" target="store">Buy Designs on Ebay</a>
+				</li>
+				<li>
+					<a href="/giftcert.php">Gift Certificates</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="/points.php">Points</a>
+			<ul>
+				<li>
+					<a href="/points.php">Points Info</a>
+				</li>
+				<li>
+					 <a href="/showpoints.php">Your Points Earned</a>
+				</li>
+				<li>
+					 <a href="/showpointpurchases.php">Your Points Purchases</a>
+				</li>
+				<li>
+					 <a href="/pointsforlottery.php">Daily Lottery</a>
+				</li>
+				<li>
+					 <a href="/awardpoints.php">TrialPay Codes</a>
+				</li>
+				<li>
+					 <a href="/forums">Forums Login/Logout</a><br>
+				</li>
+				<li>
+					 <a href="/pointeveryone.php">Top 100 Earners All Time</a>
+				</li>
+				<li>
+					 <a href="/pointstopthisyear.php">Top 100 Earners 365 Days</a>
+				</li>
+				<li>
+					 <a href="/pointstopthismonth.php">Top 100 Earners 30 Days</a>
+				</li>
+
+			</ul>
+		</li>
+		<li>
+			<a href="/backings.php">Supplies</a>
+			<ul>
+				<li>
+					<a href="/solarthreads.php">Solar Threads</a>
+				</li>
+				<li>
+					<a href="/threads50colors.php">50 Spool Thread Kit</a>
+				</li>
+				<li>
+					<a href="/threads61colors.php">61 Brother Color Thread Kit</a>
+				</li>
+				<li>
+					<a href="/grabbagofthread.php">Grab Bag of 10 Spools</a>
+				</li>
+				<li>
+					<a href="/backings.php">Backings</a>
+				</li>
+				<li>
+					<a href="/wonderthreadguide.php">Wonder Thread Guide</a>
+				</li>
+				<li>
+					<a href="/adorableyou">Adorable You!</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="/articles">Articles</a>
+			<ul>
+				<li>
+					<a href="/newsletter.php">Sign Up To Our Weekly Newsletter</a>
+				</li>
+				<li>
+					<a href="/articles/category/articles-published-in-our-newsletter/">Newsletter Articles</a>
+				</li>
+				<li>
+					<a href="/articles/category/embroidery-tips/">Newsletter Tips</a>
+				</li>
+				<li>
+					<a href="/articles/category/projects/">Customer Projects</a>
+				</li>
+				<li>
+					<a href="/articles/?cat=4&amp;submit=view">Set Instructions</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="http://www.embroideryforum.com/forums/forum.php">Socialize</a>
+			<ul>
+				<li>
+					<a href="http://www.embroideryforum.com/forums/forum.php">Forums</a>
+				</li>
+				<li>
+					<a href="/chat/chat.php">Hunt/Free Design Chat</a>
+				</li>
+				<li>
+					<a href="http://groups.yahoo.com/group/SiCKDesigns/messages" target="Yahoo">Yahoo Group</a>
+				</li>
+				<li>
+					<a href="http://www.stitchchat.com" target="stitchchat">Stitch Chat</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="/helpdesk">Support</a>
+			<ul>
+				<li>
+					<a href="/helpdesk">Enter Support Ticket</a>
+				</li>
+				<li>
+					<a href="/contact">Contact Us</a>
+				</li>
+				<li>
+					<a href="/privacy.php">Privacy Policy</a>
+				</li>
+				<li>
+					<a href="/bio">Staff</a>
+				</li>
+				<li>
+					<a href="#&quot;">Support #:<br>(817) 993-1230</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div>
+<p>
+</p><div id="sickborder" style="width:1000px">
+	<div id="titleleft">
+		<a href="/"><img border="no" src="/designsbysick300wide1.gif" alt="Designsbysick.com Embroidery Machine Designs"></a><br>
+	</div>
+	<div id="titlemiddle">
+		<script language="javascript" src="/whosonlinejs.php"></script><br>
+		You are
+		<script>
+		var suser=unescape(GetCookie("loginusername"));
+		suser=suser.replace(/\+/g," ");
+		if (suser!="")
+			document.write(' logged in as '+suser+'<br><font size=-1><a href="/vblogout.php">Log out</a>');
+		else
+			{
+			document.write('not logged in<br><a href="/vblogin.php">Log In</a> or ');
+			document.write('<a href="http://www.embroideryforum.com/forums/register.php">Sign Up</a>');
+			}
+		</script>not logged in<br><a href="/vblogin.php">Log In</a> or <a href="http://www.embroideryforum.com/forums/register.php">Sign Up</a>
+		<br>
+		<!--
+		Purchase Points will go to:
+		<script>
+			var suser=unescape(GetCookie("pointsreferrer"));
+			if (suser!="")
+				document.write(suser.replace(/\+/g," "));
+			else
+				document.write("no one");
+		</script>
+		-->
+		
+	</div>
+	<div id="titleright">
+		<font size="+1">
+		<b>23,424</b> unique designs online<br>1,649 design sets/packs<br>
+		</font>
+		<font size="-1">Get a <a href="/members">membership</a> and download them all!
+		</font>
+		<br><br>
+		<font size="1">Current Server Time: <span id="servertime"></span></font>
+	</div>
+	<div id="clear"></div>
+</div>
+
+<!--
+<div id="sickborder" style="width:1000px">
+<font color=red size=+1><b>EMBROIDERY DESIGNS FOR LIFE</b></font><br>
+Life time <a href="/members">memberships</a> with free <a href="/ordercd">CD set</a>!<br>
+A <b>$180.00 value for $99.99!</b><br>
+Use coupon code: <b>DESIGNSFORLIFE</b><br>
+</div>
+-->
+
+<style>
+#oldbrowser {
+color: black;
+background-color: yellow;
+width:900px;
+border: 1px solid
+margin-bottom: 20px;
+padding:10px,10px,10px,10px;
+}
+</style>
+
+<script>
+/*
+	if (GetCookie('browser')!='')
+		{
+		document.write('<div id="oldbrowser">Your web browser is version ');
+		bver=GetCookie("bver");
+		document.write(bver);
+		document.write('.  You should upgrade to ');
+		blink=GetCookie("blink");
+		browser=GetCookie("browser");
+		browser=browser.replace(/\+/g, ' ')
+		document.write(' <a href="');
+		document.write(blink+'">'+browser+'</a>');
+		document.write(' for compability and security updates.</div><p>');
+		}
+*/
+</script>
+<div style="width:1000px;padding=1;margins:1;margin:1">
+	<div id="main" style="width:728;padding=1;margins:1;margin:1">
+
+<table width="100%">
+<tbody><tr><td>
+
+<strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, place an order or subscribe to our newsletter. <br><br>Any data we request that is not required will be specified as voluntary or optional. <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.  You may, however, visit our site anonymously.<br><br>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>• To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>• To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>• To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>• To process transactions<br>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. <br><br>• To send periodic emails<br><br>The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.<br><br>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br><br>• To administer a contest, promotion, survey or other site feature<br><br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.  <br><br>These security measures include: password protected directories and databases to safeguard your information, PCI Scanning to actively protect our servers from hackers and other vulnerabilities or No storage of credit card or bank information on our servers. <br> <br>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.<br><br>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.<br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><strong>CAN-SPAM Compliance</strong> <br><br>We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.<br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our privacy policy.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. <br><br>This policy was last modified on <strong>November 5th, 2012</strong><br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>www.designsbysick.com<br>897 Line 13 N<br>Hawkestone, Ontario L0L 1T0<br>Canada<br>(705) 326-4031<br><br><strong>Privacy Policy Customer Pledge</strong><br><br>
+        We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:<br>Federal Trade Commision Fair<br>California Online Privacy Protection Act<br>Childrens Online Privacy Protection Act<br>Privacy Alliance<br>Controlling the Assault of Non-Solicited Pornography and Marketing Act<br>
+        <br><br>
+        If at anytime you have a cause that needs to be disputed please fill out the <a href="http://secure.trust-guard.com/disputesystem/" target="_blank">Trust Guard Dispute Resolution form</a>.
+        <br><br>
+        Respectfully,
+        <br><br>
+        Shawn Knight President<br>http://www.designsbysick.com</td>
+</tr></tbody></table>
+</div> <!-- end main div -->
+<div id="sidebar" style="width:24%">
+
+<div id="sickborder">
+Sign up to our <a href="/newsletter.php"><font color="red" size="+1"><b>Newsletter</b></font></a> for sale announcements, insider discounts, articles and tips every week!
+</div>
+
+<!--
+<div id="sickborder">
+<font color=red size=+1>$180.00 Value for $99.99!</font><br>
+Download every design for life with a <b>life time</b> <a href="/members">membership</a> and get a free <a href="/ordercd">CD set</a> as well!</font><br>
+Use coupon code: <b>DESIGNSFORLIFE</b><br>when <a href="/members">signing up</a><br>
+</div>
+-->
+
+
+<div id="sickborder">
+<font color="red" size="+1"><b>Christmas Set Sale!</b></font><br>
+152 <a href="/searchcat.php?searchtype=events&amp;searchterm=Christmas">Christmas design sets</a> are on sale $2.00 each!
+</div>
+
+
+<!--
+<div id="sickborder">
+<font color=red size=+1><b>Embroidery Supplies on Sale!</b></font><br>
+<b>Save 25% on all embroidery supplies store wide</b><p>
+on <a href="http://www.embroiderypassion.com">EmbroideryPassion.com</a> for USA and international orders<p>
+on <a href="http://www.embroiderysupply.ca">EmbroiderySupply.ca</a> for Canadian Orders<p>
+</div>
+
+
+<div id="sickborder">
+<font color=red size=+1><b>Ebay Auctions</b></font><BR>
+<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=4&campid=5336045616&toolid=10001&customid=designsbysickstorelink&mpre=http%3A%2F%2Fstores.ebay.com%2Fdesignsbysick"
+target="ebay">See our ebay store</a>, sets starting at 99 cents each!
+</div>
+-->
+<!--
+
+
+<div id="sickborder">
+<font color=red size=+1><b>Happy New Year Sale</b></font><br>
+All design sets are a dollar!<p>
+<b>Save 50% on all 6 month, one year and two year <a href="/members">memberships</a>!</b><br>Download all the designs!<br> Use coupon code:<br><b>2012</b><p>
+
+</div>
+
+
+<div id="sickborder">
+<font color=red size=+1><b>The Great Winter Thread Sale!</b></font><p>
+<b>All threads are half price!</b><p>
+50% off <a href="http://www.embroiderypassion.com/servlet/the-Solar-Active-Thread/Categories" target="thread">individual Solar Active Thread spools!</a><p>
+50% off <a href="http://www.embroiderypassion.com/servlet/the-Embroidery-Thread-Kits-fdsh-Boxes/Categories" target="thread">boxes of threads!</a><p>
+50% off <a href="http://www.embroiderypassion.com/servlet/the-50-Color-Kit-dsh-Individual-Spools/Categories" target="thread">individual spools from the 50 thread kits!</a><p>
+50% off <a href="http://www.embroiderypassion.com/servlet/the-61-Color-Kit-dsh-Individual-Spools/Categories" target="thread">individual spools from the 61 brother thread kits!</a><p>
+Very limited time offer, act quick!
+</div>
+
+
+-->
+
+<script language="JavaScript">
+var ad=new Array()
+ad[0] = "If you are buying your <a href=\"/backings.php\">stabilizers</a> from someone else you are probably paying too much.";
+ad[1] = "Does your thread have a mind of its own?  You need a <a href=\"/wonderthreadguide.php\">Wonder Thread Guide</a>.";
+ad[2] = "Thread that changes <a href=\"/solarthreads.php\">color</a>?";
+ad[3] = "Embroidery Thread.  <a href=\"/threads61colors.php\">61 Brother Colored Threads</a> a buck a spool!";
+ad[4] = "22,666 designs on <a href=\"/ordercd\">4 CD's</a>!";
+var Q = ad.length;
+var whichad=Math.round(Math.random()*(Q-1));
+function showad(){document.write(ad[whichad]);}
+</script>
+<p>
+<!--
+<div id="sickborder">
+<font color=red size=+1><b>New CD!</b></font><br>
+New update CD released.  Get over year of DesignsBySiCK on CD <a href="/orderupdatecd.php">193 design sets for $25.00</a>!<br>
+</div>
+-->
+<!--
+<font color=red><b>CYBER WEEKEND SALE</b></font><br>
+
+<font size=1>
+All sale prices until Tuesday Morning!<p>
+<p><a href="/products/">All Design Sets</a><br>$1.00 each!
+<p><a href="/ordercd">20,666 designs on 4 CD's</a><br> 50% off!
+<p><a href="/orderupdatecd.php">193 Design Sets on CD</a><br>$15.00!
+<p><a href="/members">6 month, 1 and 2 year memberships</a><br>50% off listed prices!<br><b>Use coupon code CYBER</b>
+<p><a href="/backings.php">All Stabilizers</a><br>25% off all listed prices!
+<p><a href="/solarthreads.php">All Solar Activated Threads</a><br>25% off all listed prices!
+<p><a href="/threads50colors.php">50 Spools of Threads</a><br>25% off listed price!
+<p><a href="/threads61colors.php">61 Spools of Threads</a><br>25% off listed price!
+<p><a href="/grabbagofthread.php">Grab Bags of Threads</a><br>25% off listed price!
+<p><a href="/wtgbigspool">Wonder Thread Guide Big Spool Kit</a><br>25% off listed price!
+<p><a href="/wonderthreadguide.php">Wonder Thread Guide Small Spool Kit</a><br>25% off listed price!
+<p><a href="/mythreadbox.php">MyThreadBox Thread Conversion Software</a><br>25% off listed price!
+<p><a href="/mycreativestuff.php">MyCreativeStuff Quilting/Crafting/Hobbies Database</a><br>25% off listed price!
+</font>
+-->
+<!--
+<font color=red size=+1><b>70 Cent Embroidery Threads</b></font><br>
+<a href="/threads50colors.php">50 Embroidery Spool</a> kits on sale for 70 cents a spool, automatically discounted when you add to your cart.
+Read the article <a href="/articles/503570/">50/35/70</a> and the reviews found <a href="/threads50colors.php">here</a><br>
+-->
+<!--
+<b>Wash Away Fibrous for Free Standing Lace</b> back in stock<br>
+<b>Tear Away 1.5 Oz White</b> back in stock<br>
+Both can be found in <a href="/backings.php">backings</a>
+<hr>
+-->
+</p><div id="sickborder">
+<script language="JavaScript">showad();</script>Thread that changes <a href="/solarthreads.php">color</a>?
+</div>
+
+<div id="sickborder">
+<a href="/products/page12">Dollar</a> page this half hour is page 12.
+</div>
+
+<div id="sickborder">
+<center>Like us on <a href="http://www.facebook.com/designsbysick">facebook</a>!<br>
+<div class="fb-like" data-href="http://facebook.com/designsbysick" data-send="false" data-layout="button_count" data-width="220" data-show-faces="false" data-font="tahoma"></div>
+<br><img src="/facebooklikelogo.png">
+<p>
+Follow Us on Pinterest!<br>
+<a href="http://pinterest.com/designsbysick/"><img src="http://passets-cdn.pinterest.com/images/pinterest-button.png" width="78" height="26" alt="Follow Me on Pinterest"></a>
+</p><p>
+<a href="https://twitter.com/designsbysick" class="twitter-follow-button" data-show-count="true">Follow Us On Twitter!</a><br>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</p></center>
+</div>
+
+<div id="sickborder">
+Design Sets and Singles Cart:<p>
+</p><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="orders@designsbysick.com">
+<input type="image" src="/paypalviewcart.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="hidden" name="display" value="1">
+<input type="hidden" name="page_style" value="PayPal">
+</form>
+</div>
+<div id="sickborder">
+Download <b>our</b> <a href="http://designsbysick.ourtoolbar.com/" target="toolbar">toolbar</a><p>
+</p></div>
+
+<div id="sickborder">
+<font size="-1">
+Any hour can be <b>happy hour</b>, check back every hour to see if it's <b>happy hour</b>, 50% off a set during <b>happy hour</b>!<br>
+</font>
+</div>
+
+<center>Advertisements<p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7872320937013072";
+/* 160x600 right column below page fold */
+google_ad_slot = "5422039178";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p></center>
+<p>
+
+<!--
+<div id="sickborder">
+		<b class="titleLink" style="font-size: 9pt;">
+		<a href="http://www.anrdoezrs.net/click-4225594-10366180?cm_mmc=CJ-_-3187446-_-4225594-_-Fabric.com%20Coupon%20Corner" target="_top">				Fabric.com</a></b><br>
+		<font style="font-family: Verdana,Arial,Helvetica,Sans Serif; font-size: 9pt; color: rgb(0, 0, 0);">
+		Coupon Corner
+		<p>
+		<b class="titleLink" style="font-size: 9pt;">
+		<a href="http://www.kqzyfj.com/click-4225594-10283465?url=http%3A%2F%2Fwww.fabric.com%2Fclearance-fabric.aspx&cm_mmc=CJ-_-3187446-_-4225594-_-120x90.gif" target="_top">Fabric.com</a></b><br>
+		<font style="font-family: Verdana,Arial,Helvetica,Sans Serif; font-size: 9pt; color: rgb(0, 0, 0);">
+		Clearance center.
+		</font>
+</div>
+-->
+</p></div> <!-- end sidebar div -->
+
+<div id="clear"></div>
+<div id="sickborder" style="width:95%">
+		<center>
+		<font size="2" color="black">
+		Website and Embroidery Designs Copyright (C) Shawn Knight Systems Inc.<br>
+		Permission granted to use machine embroidery designs for your own commercial and personal embroidery.<br>
+		Permission denied to resell or give away machine embroidery designs in electronic format.<br>
+		</font>
+		</center>
+</div>
+<center>
+<!--
+<font size=1>
+<a href="/privacy_policy.php">Privacy Policy</a> |
+<a href="/terms_of_service.php">Terms of Service</a> |
+<a href="/disclaimer.php">Disclaimer</a>
+</font>
+-->
+</center>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-187777-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-f2ql0TjeSG5HI";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-f2ql0TjeSG5HI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-f2ql0TjeSG5HI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+</div></center>
+
+
+</body></html>
