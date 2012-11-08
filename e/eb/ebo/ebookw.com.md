@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookw.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512073521id_/http%3A//www.ebookw.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookw.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108181912id_/http%3A//www.ebookw.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Ebooks magazines Review and Download - Share For All
 
