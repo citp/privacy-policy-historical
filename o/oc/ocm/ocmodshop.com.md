@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ocmodshop.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509224514id_/http%3A//www.ocmodshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocmodshop.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108170330id_/http%3A//www.ocmodshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — OCModShop.com
+# Privacy Policy — OCmodshop.com
 
 We at OCModShop.com do not collect any information from you but the companies that advertise on our web site may. We are not responsible for any information they may or may not collect. This web site is only intended for entertainment purposes and it takes no responsibility for the material on this web site. You use the content at your own risk and we are not liable to you or any third parties for any damage caused by your use of this web site or its material. OCModShop does not endorse any other web site that might be linked to. All the content is the property of OCModShop Publishing and is copyrighted. All rights are reserved.
 
