@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncorpmetway.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630035806id_/http%3A//www.suncorp.com.au/corporate/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncorpmetway.com.au privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108115328id_/http%3A//www.suncorp.com.au/corporate/legal/privacy-policy) for the most accurate reproduction.*
 
 # Suncorp - Privacy and Security | Suncorp
 
