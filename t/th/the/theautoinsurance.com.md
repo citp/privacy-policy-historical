@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theautoinsurance.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502142118id_/http%3A//theautoinsurance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theautoinsurance.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108195617id_/http%3A//www.theautoinsurance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
