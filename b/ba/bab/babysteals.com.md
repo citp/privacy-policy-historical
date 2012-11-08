@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630172732id_/http%3A//babysteals.stealnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysteals.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109000558id_/http%3A//babysteals.stealnetwork.com/privacy.php) for the most accurate reproduction.*
 
-# BabySteals.com® ~ Deal of the day on brand name baby clothes, maternity products, baby shower gift ideas and baby presents for new moms.
+# BabySteals.com® | Daily Deals at 9am & 9pm MT for Mom and Baby
 
-This privacy notice discloses the privacy practices for www.babysteals.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for babysteals.stealnetwork.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
   2. What choices are available to you regarding the use of your data. 
@@ -51,5 +51,3 @@ Wherever we collect sensitive information (such as credit card data), that infor
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (801)-326-4270 or [service@stealnetwork.com](mailto:service@stealnetwork.com). 
-
-The "Steal of the Day" is all that's up for grabs. All photos, logos, words and ideas are intellectual property actively protected under trademark and copyright. 
