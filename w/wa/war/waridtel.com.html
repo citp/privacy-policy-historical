@@ -1,324 +1,1120 @@
-<!--The following is the downloaded HTML source of the waridtel.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501114121id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the waridtel.com privacy policy that was archived on 2012-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108234823id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Warid Telecom :: Privacy Policy</title>
-<link href="./images/css.css" rel="stylesheet" type="text/css"></head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Warid Telecom ::  Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+    <link rel="stylesheet" href="./css/new-style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="./css-dropdown/menu.css">
+    <link rel="stylesheet" type="text/css" href="./tab-css/nasted-tab-css.css" media="screen">
+    <script src="./Scripts/swfobject_modified.js" type="text/javascript"></script>
+    <script type="text/javascript" src="./dropdown-js/jquery.js"></script>
+<script type="text/javascript" src="./dropdown-js/menu.js"></script>
+<script type="text/javascript" src="./tab-js/ddaccordion.js"></script>
+<script type="text/javascript">
 
-<body>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="consumer-bg">
-  <tbody><tr>
-    <td height="649" valign="top"><div align="center">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td align="center"><table width="900" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td height="135" valign="top"><table width="950" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td width="192" height="71" align="center" valign="top" bgcolor="#FFFFFF" class="nav-bg"><table width="100%" border="0">
-<tbody><tr>
-                      <td height="159" align="center"><a href="http://www.waridtel.com"><img src="./images/warid-logo2.jpg" alt="Warid Telecom" border="0"></a></td>
-                    </tr>
-					<tr>
-			
-			<td>
-			<script type="text/javascript"> 
-function make_blank()
-{
-document.search1.txtSearch.value ="";
-}
+
+ddaccordion.init({ //top level headers initialization
+	headerclass: "expandable", //Shared CSS class name of headers group that are expandable
+	contentclass: "categoryitems", //Shared CSS class name of contents group
+	revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click", "clickgo", or "mouseover"
+	mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
+	defaultexpanded: [1], //index of content(s) open by default [index1, index2, etc]. [] denotes no content
+	onemustopen: true, //Specify whether at least one header should be open always (so never all headers closed)
+	animatedefault: false, //Should contents open by default be animated into view?
+	persiststate: true, //persist state of opened contents within browser session?
+	toggleclass: ["", "openheader"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	togglehtml: ["prefix", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	animatespeed: "fast", //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
+	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
+		//do nothing
+	},
+	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+		//do nothing
+	}
+})
+
+ddaccordion.init({ //2nd level headers initialization
+	headerclass: "subexpandable", //Shared CSS class name of sub headers group that are expandable
+	contentclass: "subcategoryitems", //Shared CSS class name of sub contents group
+	revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click" or "mouseover
+	mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
+	defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content
+	onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
+	animatedefault: false, //Should contents open by default be animated into view?
+	persiststate: true, //persist state of opened contents within browser session?
+	toggleclass: ["opensubheader", "closedsubheader"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	togglehtml: ["none", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	animatespeed: "fast", //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
+	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
+		//do nothing
+	},
+	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+		//do nothing
+	}
+})
+
+
 </script>
 
-		<form name="search1" action="./consumer/search.php" method="post">
-  <div align="center"><input name="txtSearch" type="text" size="21" value="Search" class="login-text" onclick="make_blank();"> <input type="submit" name="Submit" value="Go" class="login-text">
-  <label> <br>
- 
-  </label>
-  </div>
-</form>&nbsp;<br>
-			</td></tr>	
-					</tbody></table>
-<script language="javascript">
-	function menuTree(id,symbol,con) {
-		var e = document.getElementById(id);
-		if(con==1) {
-			e.style.display = 'block';
+<!--[if lte IE 7]>
+<script type="text/javascript">
+document.getElementById("floats").lastChild.style.width="19.5%";
+</script>
+<![endif]-->
+</head>
+
+<body class="blue_inner">
+	<div id="main">
+    	<div id="wrapper">
+        <!-- Wrapper Start-->
+                <!--Header Start-->
+                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<div id="header-main">
+                	<div id="logo">
+                		                		<a href="./"><img src="./images/logo.png"></a>
+                                        </div>
+                    <div id="social-search-container-inner">
+                    
+                    <div id="social-links-inner">
+                    <div class="slogo"><a href="https://www.facebook.com/OfficialWarid" target="_blank"><img src="./images/fb_logo.png" border="0"></a></div>
+                	<div class="slogo"><a href="https://twitter.com/officialwarid" target="_blank"><img src="./images/twitter_logo.png" border="0"></a></div>
+                    <!--<div class="slogo"><a href="#"><img src="./images/linkdln_logo.png" border="0"/></a></div>-->
+                    <div class="slogo"><a href="http://www.youtube.com/officialwarid" target="_blank"><img src="./images/youtube_logo.png" border="0"></a></div>
+                    <div id="fb_count">
+                    	                    	<iframe src="//www.facebook.com/plugins/like.php?href=http://www.waridtel.com/privacy_policy.php&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=278187648920849" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+                    	<!--<a href="#"><img src="./images/fb_count.png" border="0" /></a>-->
+                    </div>
+                    <div id="members_inner_bg">
+                    <div id="members_inner_container">
+                    <a href="http://members.waridtel.com/"><img src="./images/member_button.png" border="0"></a>
+                    <!-- Maximum Name Limit 13 Character -->
+                    </div>
+                    </div>
+                    <div id="search_area_inner">
+                    	<form name="search1" action="./search/search.php" method="post">
+                        <div id="search_input"><div class="input"><input name="txtSearch" type="text" placeholder="Search Here"></div>
+                        <div id="search-button"><input type="image" src="./images/search_button.png" border="0"></div>
+                        </div>                        
+                        </form>
+                        </div>
+                    </div>
+                    </div>
+                    </div>                <!--Header End-->            
+                <!--Contant Start-->
+<div id="contant-demo-inner">
+                <div id="search-inner">
+                <div id="menu-container-inner">
+                <div class="menu-main-inner"><a href="./">Home</a></div>
+                <div class="menu-main-inner"><a href="./about/">About Warid</a></div>
+                <div class="menu-main-inner"><a href="./coverage/">Coverage</a></div>
+                <div class="menu-main-inner"><a href="./cs">Customer Services</a></div>
+                <div class="menu-main-inner"><a href="./about/media">Media Center</a></div>                
+                <div class="menu-main-inner"><a href="http://careers.waridtel.com/">Careers</a></div>
+                <div class="menu-main-inner" style="background:none;"><a href="./about/media/contactus.php">Contact Us</a></div>
+                </div>
+                </div>
+      <div id="rounded-top-bottom_demo"><img src="./images/rounded_top.png" border="0"></div>
+                    </div>  <div id="contant-main">
+                	
+                    <div id="contant-area">
+                    <!--[if lte IE 9]>
+<link href='./css-dropdown/menu-ie9.css' rel='stylesheet' />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="./css-dropdown/prepaid-menu.css">
+    <div class="menu-main-blue">
+    	<div class="menu-inner-cont">
+        <!--Menue Below-->
+            <div id="site_bar"> 
+                <ul class="navB"> 
+                    <li id="wpost" class="goBlur first"> 
+                        <a href="./postpaid/index.php" id="fly16_fly" class="m flydown">WARID POSTPAID</a><br> 
+                        <div id="fly16" class="flybox">
+                            <div id="warid-postpaid" class="topflyinc">
+                            	<div class="droop-down-contpost">
+                                	<div class="droop-top-port-wpost">
+                                    	<div class="droop-top-left">
+                                                                                	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1352311765Wed112012.png" alt="International Call Offer" title="International Call Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/local_rate_international_call_offer.php" title="International Call Offer">International Call Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1342787463Fri072012.gif" alt="International Roaming Offer" title="International Roaming Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir_offer.php" title="International Roaming Offer">International Roaming Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878292Thu052012.png" alt="POSTPAID TARIFF" title="POSTPAID TARIFF" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/tariff.php" title="POSTPAID TARIFF">POSTPAID TARIFF</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878274Thu052012.png" alt="My5" title="My5" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/my5.php" title="My5">My5</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878431Thu052012.png" alt="Unlimited Edge" title="Unlimited Edge" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/unlimited_edge.php" title="Unlimited Edge">Unlimited Edge</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878506Thu052012.png" alt="Postpaid Weekend / LNO" title="Postpaid Weekend / LNO" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/postpaid-plus.php" title="Postpaid Weekend / LNO">Postpaid Weekend / LNO</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1342786139Fri072012.gif" alt="BlackBerry" title="BlackBerry" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/blackberry/index.php" title="BlackBerry">BlackBerry</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878135Thu052012.png" alt="International Dialing" title="International Dialing" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/international_dialing.php" title="International Dialing">International Dialing</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878024Thu052012.png" alt="Corporate Briefcase" title="Corporate Briefcase" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate.php" title="Corporate Briefcase">Corporate Briefcase</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878454Thu052012.png" alt="Warid Mobile Email" title="Warid Mobile Email" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/wme/index.php" title="Warid Mobile Email">Warid Mobile Email</a></div>
+                                            </div>            	
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337877960Thu052012.png" alt="Bill Payment" title="Bill Payment" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/billpayment.php" title="Bill Payment">Bill Payment</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878193Thu052012.png" alt="IR Tariffs" title="IR Tariffs" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/ir_tariffs.php" title="IR Tariffs">IR Tariffs</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878151Thu052012.png" alt="International Dialing Info" title="International Dialing Info" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/IDD-info-service.php" title="International Dialing Info">International Dialing Info</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878397Thu052012.png" alt="Tax Exemption Certificate" title="Tax Exemption Certificate" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/tax_exemption_certificate.php" title="Tax Exemption Certificate">Tax Exemption Certificate</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878388Thu052012.png" alt="SMS Roaming" title="SMS Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/sms_roaming.php" title="SMS Roaming">SMS Roaming</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878300Thu052012.png" alt="Roam Info" title="Roam Info" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/roam_info.php" title="Roam Info">Roam Info</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878182Thu052012.png" alt="IR Incoming SMS Free" title="IR Incoming SMS Free" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/international_sms.php" title="IR Incoming SMS Free">IR Incoming SMS Free</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878347Thu052012.png" alt="Roam with Warid" title="Roam with Warid" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/warid_roamers.php" title="Roam with Warid">Roam with Warid</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337877651Thu052012.png" alt="About International Roaming" title="About International Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/about.php" title="About International Roaming">About International Roaming</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878172Thu052012.png" alt="IR Coverage Map" title="IR Coverage Map" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/ir_map.php" title="IR Coverage Map">IR Coverage Map</a></div>
+                                            </div>            	
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878085Thu052012.png" alt="In-Flight Roaming" title="In-Flight Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/in-flight.php" title="In-Flight Roaming">In-Flight Roaming</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878205Thu052012.png" alt="Maritime Roaming" title="Maritime Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/ir/maritime_roaming.php" title="Maritime Roaming">Maritime Roaming</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878053Thu052012.png" alt="Corporate Member Area" title="Corporate Member Area" border="0"></div>
+                                                <div class="lk-lp-link"><a href="http://members.waridtel.com/cgi-bin/warid/dev1/warid/homepage" title="Corporate Member Area">Corporate Member Area</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337877984Thu052012.png" alt="Business Solutions" title="Business Solutions" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate/business-solutions.php" title="Business Solutions">Business Solutions</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878013Thu052012.png" alt="Corporate RBT" title="Corporate RBT" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate/corporate-rbt.php" title="Corporate RBT">Corporate RBT</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878283Thu052012.png" alt="My Virtual Office" title="My Virtual Office" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate/my-virtual-office.php" title="My Virtual Office">My Virtual Office</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878074Thu052012.png" alt="Enterprise SMS Packages" title="Enterprise SMS Packages" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate/enterprise_sms.php" title="Enterprise SMS Packages">Enterprise SMS Packages</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878065Thu052012.png" alt="Enterprise GPRS Packages" title="Enterprise GPRS Packages" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate/enterprise_gprs.php" title="Enterprise GPRS Packages">Enterprise GPRS Packages</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337877995Thu052012.png" alt="Close User Group" title="Close User Group" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate/close_user.php" title="Close User Group">Close User Group</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878442Thu052012.png" alt="Warid Access Card" title="Warid Access Card" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./postpaid/corporate/warid_access_card.php" title="Warid Access Card">Warid Access Card</a></div>
+                                            </div>            	
+                                                    </div>
+                                    </div>
+                                    <div class="droop-bottom-port-wppost">
+                                    	<div class="dp-rdmore-link"><a href="./postpaid/index.php" title="MORE">MORE</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </li> 
+                    <li id="wpre" class="goBlur" style="margin-left: -8px;"> 
+                        <a href="./prepaid/index.php" id="fly104_fly" class="m flydown">WARID PREPAID</a><br> 
+                        <div id="fly104" class="flybox">
+                            <div id="warid-prepaid" class="topflyinc" style="margin-left:-10px;">
+                            	<div class="droop-down-cont">
+                                	<div class="droop-top-port-wpre">
+                                    	<div class="droop-top-left">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1352311061Wed112012.png" alt="International Call Offer" title="International Call Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/local_rate_international_call_offer.php" title="International Call Offer">International Call Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1350764613Sat102012.png" alt="SIM Jagao Offer" title="SIM Jagao Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/sim_jagao.php" title="SIM Jagao Offer">SIM Jagao Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1347484581Wed092012.gif" alt="Shandaar New SIM Offer" title="Shandaar New SIM Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/shaandar_offer.php" title="Shandaar New SIM Offer">Shandaar New SIM Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340713191Tue062012.png" alt="SMS Bundles" title="SMS Bundles" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/sms_bundle.php" title="SMS Bundles">SMS Bundles</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340571121Sun062012.png" alt="Power Pack" title="Power Pack" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/power_pack.php" title="Power Pack">Power Pack</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878916Thu052012.png" alt="PREPAID TARIFF" title="PREPAID TARIFF" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/tariff.php" title="PREPAID TARIFF">PREPAID TARIFF</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1350085282Fri102012.jpg" alt="Apna Sheher" title="Apna Sheher" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/apna_sheher.php" title="Apna Sheher">Apna Sheher</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340570819Sun062012.png" alt="Ghanta Offer" title="Ghanta Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/ghanta_offer.php" title="Ghanta Offer">Ghanta Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878791Thu052012.png" alt="Karachi Offer" title="Karachi Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/karachi-offer.php" title="Karachi Offer">Karachi Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878545Thu052012.png" alt="10 Paisa Offer" title="10 Paisa Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/1000_free_minutes.php" title="10 Paisa Offer">10 Paisa Offer</a></div>
+                                            </div>            	
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878591Thu052012.png" alt="Double Dhamal Offer" title="Double Dhamal Offer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/double-dhamal-offer.php" title="Double Dhamal Offer">Double Dhamal Offer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879066Thu052012.png" alt="Warid Minute Package" title="Warid Minute Package" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/warid-minute-package.php" title="Warid Minute Package">Warid Minute Package</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878621Thu052012.png" alt="Hourly Package" title="Hourly Package" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/hourly_package.php" title="Hourly Package">Hourly Package</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878581Thu052012.png" alt="Crazy Nites" title="Crazy Nites" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/crazy_nites.php" title="Crazy Nites">Crazy Nites</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879052Thu052012.png" alt="Voice Craze" title="Voice Craze" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/voice_craze.php" title="Voice Craze">Voice Craze</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337890109Thu052012.png" alt="IR Tariff Sheet" title="IR Tariff Sheet" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/ir/prepaid_tariffs.php" title="IR Tariff Sheet">IR Tariff Sheet</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878942Thu052012.png" alt="SMS Craze" title="SMS Craze" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/sms_craze.php" title="SMS Craze">SMS Craze</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879025Thu052012.png" alt="Top up Roaming" title="Top up Roaming" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/ir/prepaid-top_up_roaming.php" title="Top up Roaming">Top up Roaming</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878725Thu052012.png" alt="infiNite Craze" title="infiNite Craze" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/infinite_craze.php" title="infiNite Craze">infiNite Craze</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337878952Thu052012.png" alt="Sunday Craze" title="Sunday Craze" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./prepaid/sunday_craze.php" title="Sunday Craze">Sunday Craze</a></div>
+                                            </div>            	
+                                                    </div>
+                                    </div>
+                                    <div class="droop-bottom-port">
+                                    	<div class="dp-rdmore-link"><a href="./prepaid/index.php" title="MORE">MORE</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </li> 
+                    <li id="glow" class="goBlur"> 
+                        <a href="http://glow.net.pk" id="fly102_fly" class="m flydown" target="_blank">GLOW</a><br> 
+                    </li>                     
+                    <li id="pserv" class="goBlur" style="margin-left: 7px;"> 
+                        <a href="./products/index.php" id="fly101_fly" class="m flydown">PRODUCTS &amp; SERVICES</a><br> 
+                        <div id="fly101" class="flybox">
+                            <div id="productservice" class="topflyinc" style="margin-left:-449px;">
+                                <div class="droop-down-contpost">
+                                	<div class="droop-top-port-wpost">
+                                    	<div class="droop-top-left">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1352351058Wed112012.png" alt="Auto Dialer" title="Auto Dialer" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/auto_dialer.php" title="Auto Dialer">Auto Dialer</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1338272009Tue052012.png" alt="Location Based Services" title="Location Based Services" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/lbs/index.php" title="Location Based Services">Location Based Services</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340571187Sun062012.png" alt="Advance Balance" title="Advance Balance" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/advance_balance.php" title="Advance Balance">Advance Balance</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1342436873Mon072012.png" alt="Warid Talky" title="Warid Talky" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid_Talky.php" title="Warid Talky">Warid Talky</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1343812978Wed082012.jpg" alt="Twitter SMS Services" title="Twitter SMS Services" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/twitter_sms_service.php" title="Twitter SMS Services">Twitter SMS Services</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1346246475Wed082012.gif" alt="My Status" title="My Status" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/my_status.php" title="My Status">My Status</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/google-talk-thumb.png" alt="Google Talk" title="Google Talk" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/google_talk.php" title="Google Talk">Google Talk</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1351600118Tue102012.jpg" alt=" Nano SIM" title=" Nano SIM" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/nano_sim.php" title=" Nano SIM"> Nano SIM</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1340795277Wed062012.png" alt="MYAPPSMALL" title="MYAPPSMALL" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/myappsmall/index.php" title="MYAPPSMALL">MYAPPSMALL</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879433Thu052012.png" alt="SMS Crore Ka" title="SMS Crore Ka" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./smscroreka/index.php" title="SMS Crore Ka">SMS Crore Ka</a></div>
+                                            </div>            	
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879594Thu052012.png" alt="Warid Tijarat " title="Warid Tijarat " border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid-tijarat.php" title="Warid Tijarat ">Warid Tijarat </a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879144Thu052012.png" alt="Ilaqai Portal" title="Ilaqai Portal" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/ilaqai-portal.php" title="Ilaqai Portal">Ilaqai Portal</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879531Thu052012.png" alt="Warid Ezee Connection" title="Warid Ezee Connection" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid-ezee-connection.php" title="Warid Ezee Connection">Warid Ezee Connection</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879408Thu052012.png" alt="SMS ChatterBox" title="SMS ChatterBox" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/sms-chatterbox.php" title="SMS ChatterBox">SMS ChatterBox</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879551Thu052012.png" alt="Warid Infotainment Service" title="Warid Infotainment Service" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid-infotainment-service.php" title="Warid Infotainment Service">Warid Infotainment Service</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1342697355Thu072012.png" alt="SMS Bundles" title="SMS Bundles" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid_zoom.php" title="SMS Bundles">SMS Bundles</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879329Thu052012.png" alt="Prepaid GPRS Bucket" title="Prepaid GPRS Bucket" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/prepaid_gprs_bucket.php" title="Prepaid GPRS Bucket">Prepaid GPRS Bucket</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879110Thu052012.png" alt="Caller Tunes" title="Caller Tunes" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/callertunes.php" title="Caller Tunes">Caller Tunes</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879161Thu052012.png" alt="Islamic Services" title="Islamic Services" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/dial_junction/786.php" title="Islamic Services">Islamic Services</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879503Thu052012.png" alt="Warid Call Block 9211" title="Warid Call Block 9211" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/call_block_9211/index.php" title="Warid Call Block 9211">Warid Call Block 9211</a></div>
+                                            </div>            	
+                                                    </div>
+                                        <div class="droop-top-right">
+                                        	                                        	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879229Thu052012.png" alt="Mobile Games" title="Mobile Games" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/games.php" title="Mobile Games">Mobile Games</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879467Thu052012.png" alt="Social Networking " title="Social Networking " border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/facebook_mobile_texts.php" title="Social Networking ">Social Networking </a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879101Thu052012.png" alt="Baba G Kee Predictions" title="Baba G Kee Predictions" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/baba-g-kee-predictions.php" title="Baba G Kee Predictions">Baba G Kee Predictions</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879094Thu052012.png" alt="Ask Warid" title="Ask Warid" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/ask_warid.php" title="Ask Warid">Ask Warid</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879492Thu052012.png" alt="Warid Alerts" title="Warid Alerts" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/alerts/index.php" title="Warid Alerts">Warid Alerts</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879352Thu052012.png" alt="Ring Tones" title="Ring Tones" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid_zone/ring_tones.php" title="Ring Tones">Ring Tones</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879565Thu052012.png" alt="Warid Menu Services" title="Warid Menu Services" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid_menu/index.php" title="Warid Menu Services">Warid Menu Services</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879577Thu052012.png" alt="Warid MicroSIM" title="Warid MicroSIM" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/warid_micro_sim.php" title="Warid MicroSIM">Warid MicroSIM</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879151Thu052012.png" alt="IM Over SMS!" title="IM Over SMS!" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/im_over_sms/index.php" title="IM Over SMS!">IM Over SMS!</a></div>
+                                            </div>            	
+                                                    	<div class="lk-lp-outer">
+                                            	<div class="lk-lp-img"><img src="./uploaded_files/1337879514Thu052012.png" alt="Warid Comedy Corner" title="Warid Comedy Corner" border="0"></div>
+                                                <div class="lk-lp-link"><a href="./products/comedy_corner.php" title="Warid Comedy Corner">Warid Comedy Corner</a></div>
+                                            </div>            	
+                                                    </div>
+                                    </div>
+                                    <div class="droop-bottom-port-wppost">
+                                    	<div class="dp-rdmore-link"><a href="./products/index.php" title="MORE">MORE</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </li> 
+                    <li class="goBlur" id="whatsnew" style="margin-left: 15px;">
+                        <a href="./whatsnew/" id="fly102_fly" class="m flydown">WHAT'S NEW</a><br> 
+                    </li> 
+                    <li id="bnow" class="goBlur" style="margin-left: 6px;">  
+                        <a href="./cs/online-port-in.php" id="fly125_fly" class="m flydown">MNP</a><br> 
+                        <!--<div id="fly125" class="flybox">
+                            <div id="aboutus_inc" class="topflyinc">
+                                <ul id="fly_aboutus">
+                                    <li><a href="about/overview.html">Company Information</a></li>
+                                    <li><a href="about/press/index.htm">Press Room</a></li>
+                                    <li><a href="about/environment.html">Environment</a></li>
+                                    <li><a href="contact.html">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>--> 
+                    </li>
+                </ul><!-- navB --> 
+                    <!-- nav_bar --> 
+                <!-- nav_links --> 
+            </div>
+        <!--Menu End-->
+        </div>
+    </div>
+                    
+                    
+                     <div id="slider"><img src="./images/products/Default.jpg" alt=""></div>
+              </div>
+              <div id="rounded-top-bottom"><img src="./images/rounded_bottom.png" border="0"></div>
+              <div id="news_bg_inner">
+        <div id="news_inner">
+        <marquee direction="left" scrollamount="5">Dear Customers, a maintenance charge of 1.5% will be applicable on every recharge from 25th Jul 2011 along with existing Government taxes.</marquee>
+    </div>
+    <!--<div id="tv_comm"><img src="./images/tv_commercial_icon_inner.png" border="0" /></div>-->
+    <div class="postion">
+	<a class="fancybox" href="./video-player.php" title=""><img style="margin-top:5px;" src="./images/tv_commercial_icon.png" alt="" border="0"></a>
+    <!--<a class="fancybox" href="#inline1" title="Lorem ipsum dolor sit amet">Inline</a>-->
+</div>
+                        </div>              <div id="contant-main-inner">
+              <div id="rounded-top-bottom-inner"><img src="./images/rounded_top_border.png" border="0"></div>
+              <!-- Content Area Start -->
+              <div id="contant-area-inner">
+              <div id="contant-placement-inner">
+              <div id="inner_left">
+				<div class="left-tab-por-con">
+	<!--<div class="tab-tbg"><h2>&nbsp;</h2></div>-->
+    <div class="tab-bottom-cont">
+    	<div class="tab-bottom-line">
+        	<!---->
+            <!--<div class="shadow"><img src="tab-images/shadow-top.png" alt="" title="" border="0" /></div>-->
+            <div class="left-navigation-main">                                                	
+                <div class="arrowlistmenu"><!--Accordian Start-->
+                	<h3 class="menuheader expandable" style="background-image:none; padding:0px 0px 0px 0px; margin:0px 0px 0px -3px; width:199px; height:42px;"><a href="./cs"><img src="./tab-images/customer-tab-top-bg.png" alt="" title="" border="0"></a></h3>
+                    	<div class="outer-line">
+                        	<!---->
+                                                        	<ul class="categoryitems">
+                                	<li>
+                                        <ul class="nodroopul">
+                                            <li class="nodroop">
+        <a href="./cs">Customer Services</a>
+    										</li>
+                                        </ul>
+                                    </li>
+                                										                                        <li>
+                                            <ul class="nodroopul">
+                                            	<li class="nodroop">
+            <a href="./faqs/index.php" title="FAQs">FAQs</a>
+        </li>
+                                            </ul>
+                                        </li>
+                                        										 
+										<!--<li class="subexpandable"><a href="./cs/port-in.php"  title="Port-In" onClick="if('cs/port-in.php' != '#') {window.location.href='./cs/port-in.php'}">Port-In</a></li>-->
+                                        <li>
+                                        <div class="second-level">
+                                		<span class="subexpandable">&nbsp;</span>
+                                		<a href="./cs/port-in.php" title="Port-In" onclick="if('cs/port-in.php' != '#') {window.location.href='./cs/port-in.php'}">Port-In</a>
+									</div> 
+                                    </li>
+                            													<ul class="subcategoryitems">                
+												                        <li>
+                        <div class="third-level">
+                                            	<span class="last-level-arrow"><!--<img src="./tab-images/tab-arrow.png" />--></span>
+                                            	<a href="./cs/online-port-in-faqs.php" title="Online Port-In FAQs" class=" ">Online Port-In FAQs</a>
+											</div>
+                        </li>
+                        <!--<li><a href="./cs/online-port-in-faqs.php">Online Port-In FAQs</a></li>-->
+                                                                        <li>
+                        <div class="third-level">
+                                            	<span class="last-level-arrow"><!--<img src="./tab-images/tab-arrow.png" />--></span>
+                                            	<a href="./cs/online-port-in.php" title="Online Port-In" class=" ">Online Port-In</a>
+											</div>
+                        </li>
+                        <!--<li><a href="./cs/online-port-in.php">Online Port-In</a></li>-->
+                                                													</ul>                
+																						                                        <li>
+                                            <ul class="nodroopul">
+                                            	<li class="nodroop">
+            <a href="./cs/sim_info_668.php" title="Overseas SIM Info System 668">Overseas SIM Info System 668</a>
+        </li>
+                                            </ul>
+                                        </li>
+                                        										                                        <li>
+                                            <ul class="nodroopul">
+                                            	<li class="nodroop">
+            <a href="./cs/customer-service-centers.php" title="Customer Service Centers">Customer Service Centers</a>
+        </li>
+                                            </ul>
+                                        </li>
+                                        										                                        <li>
+                                            <ul class="nodroopul">
+                                            	<li class="nodroop">
+            <a href="./cs/franchises.php" title="Business Centres &amp; Franchises">Business Centres &amp; Franchises</a>
+        </li>
+                                            </ul>
+                                        </li>
+                                        										                                        <li>
+                                            <ul class="nodroopul">
+                                            	<li class="nodroop">
+            <a href="./cs/mnp-faqs.php?p=default&amp;cat=20" title="MNP FAQs">MNP FAQs</a>
+        </li>
+                                            </ul>
+                                        </li>
+                                                                   
+                            </ul>
+                                                        <!---->
+                        </div>  
+                <!--Accordian End--></div>                                                    
+            </div>
+            <!---->
+        </div>
+        <div class="tab-bottom-img"><img src="./tab-images/tab-bottom.png" alt="" title="" border=""></div>
+    </div>
+</div>
+              </div>              <div id="inner_container-750">
+                <table class="pro_and_serv" width="750" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td height="40" align="left" valign="top" class="gray_bg_large">
+                    <table width="730" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="730" height="40" align="left" valign="middle">
+        <span class="red_head_pospaid_center">Privacy Policy</span></td>
+      </tr>
+    </tbody></table>                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top"><p>This website is owned and run by Warid Telecom (Private) Limited  (hereinafter referred to as 'Warid'). Warid is committed to respecting your  privacy and to complying with applicable data protection and privacy laws. You  can visit our web and WAP sites without disclosing any personally identifiable  information about yourself. If you do submit personal information by ordering  products, or services, for example, you can be assured that we will use your  personal information only to support your continuing relationship with Warid.  We have provided this Privacy Policy Statement to help you understand how we  collect, use and protect your information when you visit our web and WAP sites  and when you generally use our products and services. We wish to help you make  informed decisions, so please take a few moments to read the sections below and  learn how we may use your personal information. You should read this notice in  conjunction with the terms &amp; conditions of use for Warid Web and WAP sites and  any separate terms &amp; conditions issued with your airtime or other  product/service contract.<br>
+  &nbsp;</p>
+                      <p><strong>Personal Information Collection</strong></p>
+                      <p> We endeavor to collect and use your personal information only with your  knowledge and consent and typically when you order and subsequently use  products and services, make customer enquiries, register for information or  other services, request product information, submit a job application or when  you respond to communications from us (such as questionnaires or surveys). The  type of personal information we may collect could include, for example, your  name and postal address, date of birth, gender, telephone and fax numbers,  email address, and credit/debit card information; lifestyle and other  information collected on registration or through surveys. If you choose to  provide us with personal information it will be used in support of the intended  purposes stated at the time at which it was collected, and subject to any  preferences indicated by you. <br>
+  &nbsp;</p>
+                      <p><strong>Non-personally identifying information</strong></p>
+                      <p> We may also collect non-personally identifying information about your visit to  our web, WAP and other similar sites based on your browsing (click-stream)  activities. This information may include the pages you browse and products and  services viewed or ordered for example. This helps us to better manage and  develop our sites, to provide you with a more enjoyable, customized service and  experience in the future, and to help us develop and deliver better products  and services tailored to your individual interests and needs. <br>
+  &nbsp;</p>
+                      <p><strong>How will we use your information?</strong></p>
+                      <p> We may use your information for a number of purposes which includes: processing  your orders and managing and administering your account; delivering any  services, products or information requested by you; responding to complaints or  account enquiries; administering debt recoveries; verifying your identity when  required (you may lose your password or security information for example, and  we may then need to ask you for other 'identifiable' information to protect  your data from unauthorized access).</p>
+                      <p> We may also undertake market and product analysis based on your use of our  services and products and contact you with information about new developments,  products, services and special offers by post, telephone and automated means  such as mobile text message (SMS), Email, Fax, Pager, WAP and the world wide  web (subject to any preferences expressed by you). </p>
+                      <p> We may also tell you about the products and services of carefully selected  third parties and allow you to receive advertising and marketing information  from those selected third parties without passing control of your personal  information to the third party. For example we may send you information with  your bill, or you may simply receive an advertisement on your personal web and  WAP page according to any preferences indicated by you and/or according to your  interests. This helps us to make you aware of products and services that we may  have specially negotiated for our own customers and which may be of individual  interest to you.</p>
+                      <p> You acknowledge that by providing data to us, you consent to the processing of  your data in accordance with this Privacy Policy Statement. However, you can  contact us at anytime to have your details removed from lists used by us for  direct marketing purposes, to update your information or to otherwise tell us  how you would like to receive information about our and/or third party products  and services - the choice is yours. To update your marketing preferences please  email [insert email address] and quote your mobile and/or account number in the  body of the email and tell us what you want us to do (i.e. 'opt-out Email',  'opt-out SMS' etc or if you have previously objected to receiving information  by post for example, but would now like to change your mind and receive  information then just say, 'opt-in post' in the subject header of your email). <br>
+  &nbsp;</p>
+                      <p><strong>When will we disclose your information to others?</strong><br>
+                          <br>
+                        We may disclose information about you, your account and your mobile phone to <br>
+  <br>
+                        (i) companies designated as 'Warid Affiliates' or 'Associates of Warid' for the  purposes and subject to the terms of this Privacy Policy Statement; and<br>
+  <br>
+                        (ii) in the event that we undergo re-organization or are sold to a third party,  in which case you agree that any personal information we hold about you may be  transferred to that re-organized entity or third party for the purposes and  subject to the terms of this Privacy Policy Statement. For the purposes of this  Privacy Policy Statement, 'Warid Affiliates' or 'Warid Associates' means any  company or other entity which directly or indirectly controls Warid, or is  directly or indirectly controlled by any entity that controls Warid, or is  directly or indirectly controlled by Warid. <br>
+  <br>
+                        Please note that Warid does not sell or pass your personal information to third  parties (other than as set out in the paragraph above) unless you have given us  permission or unless it is necessary to deliver the products and services  ordered or used by you. For example, we may disclose your data to a credit card  company to validate your credit card details and obtain payment for billing (if  so authorized) or when you buy a phone or other product or service. It may also  be necessary to pass your data to the organization from whom you have ordered  any products or services. <br>
+  <br>
+                        Warid may also be obliged to disclose your personal information to meet any  legal or regulatory requirements or obligations in accordance with applicable  law.<br>
+  &nbsp;</p>
+                      <p><strong>Cookies</strong></p>
+                      <p> We may use cookies to record details such as a user identity and general  registration details on your PC. This helps us recognize you on subsequent  visits so that you don't have to re-enter your registration details each time  you visit us and allows us to carry out those activities mentioned in the above  section "non-personally identifying information". Depending upon the  type of browser you are using, you may be able to configure your browser so  that: (i) you are prompted to accept or reject cookies on an individual basis  or (ii) you may be able to prevent your browser from accepting any cookies at  all. You should refer to the supplier or manufacturer of your web browser for  specific details about cookie security.<br>
+  &nbsp;</p>
+                      <p><strong>Information Security</strong></p>
+                      <p> Warid recognizes that its customers are increasingly concerned about how companies  protect personal information from misuse and abuse and about privacy in  general. Warid is constantly reviewing and enhancing its technical, physical  and managerial procedures and rules to protect your personal data from  unauthorized access, accidental loss and/or destruction. We use industry  standard secure sockets layer (SSL) technology, for example, to encrypt  sensitive information such as your credit card and other financial information. <br>
+                          <br>
+                        Please be aware that communications over the Internet, such as emails/webmails,  are not secure unless they have been encrypted. Your communications may route  through a number of countries before being delivered - this is the nature of  the World Wide Web/Internet. Warid cannot accept responsibility for any unauthorized  access or loss of personal information that is beyond our control. <br>
+  &nbsp;</p>
+                      <p><strong>Privacy Support</strong><br>
+                          <br>
+                        Warid reserves the right to amend or modify this Privacy Policy Statement at  any time and/or in response to changes in applicable data protection and  privacy legislation.. If you have any enquiry about Warid's data protection and  privacy policy or practices, please write to: <a href="mailto:info@waridtel.com">info@waridtel.com</a> <br>
+  &nbsp;</p>
+                      <p><strong>Monitoring and/or recording of your communications</strong></p>
+                    <p> Monitoring or recording of your calls, emails, text messages and other communications  may take place in accordance with the laws of Pakistan, and in particular for  national security purposes or business purposes, such as for quality control  and training, to ensure effective systems operation and in order to prevent or  detect crime.</p></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top">&nbsp;</td>
+                  </tr>
+                </tbody></table>
+</div>
+              </div>
+              </div>
+              <!-- Content Area Close -->
+              <div id="rounded-top-bottom-inner"><img src="./images/rounded_bottom_border.png" border="0"></div>
+              </div>
+              </div>
+                <!--Contant End-->
+                <!--Footer Start-->
+                <div id="footer-main">
+                    <div id="footer-links">                    
+                    	<a href="./">Home</a> | <a href="http://careers.waridtel.com/">Careers</a> | <a href="./fraud.php">Avoid Fraud</a> <!--| <a href="./sitemap.php">Site Map</a>--> | <a href="./about/media">Media Center</a> | <a href="./privacy_policy.php">Privacy Policy</a> | <a href="./about/media/contactus.php">Contact Us</a> </div>
+                    <div id="copyright">
+                    	Copyright 2012, Warid Telecom (Pvt) Limited. All rights reserved
+                    </div>
+                </div>
+<script>
+var ulBox;
+$(document)
+	.ready(
+		function()
+		{
+			if( typeof(console) == 'undefined' )
+			{
+				console = {};
+				console.log = function() {};
+			}
+			var images = new Array();
+			images[images.length] 			= new Image();
+			images[images.length-1].src		= './dropdown-images/warid-postpaid.png';
 			
-			var loadMenu="<A href=javascript:menuTree('"+id+"','"+symbol+"',2) style='text-decoration:none' >-</A>";
-			document.getElementById(symbol).innerHTML=loadMenu;
-		}
-		else if(con==2) {
-			e.style.display = 'none';
+			images[images.length] 			= new Image();
+			images[images.length-1].src		= './dropdown-images/warid-prepaid.png';
+			
+			images[images.length] 			= new Image();
+			images[images.length-1].src		= './dropdown-images/warid-p-services.png';
+			if( $('.menuheader').size() == 1 )
+			{
+				$('.menuheader').trigger('mouseover');
+			}
+			//$('.subcategoryitemsdrop li').hide();
+			
+			$('.subcategoryitems > li .subexpandabledrop')
+				.click(
+					function(e)
+					{	
+						//if( $(this).is('.subcategoryitems ul.subcategoryitemsdrop a.subexpandabledrop')	)
+						
+						if( $(this).is('ul') )
+						{
+							//return;
+						}
+						if( ulBox && ulBox.get(0) == $(this).get(0) )
+						{
+							//console.log(ulBox.get(0));
+							//console.log($(this).get(0));
+							//return;
+						}
+						iSpeed =  1000;
+						ulBox = $(this).parent().next('.subcategoryitemsdrop').eq(0);
+						if( ulBox )
+						{
+							//console.log(ulBox.get(0));
+							//console.log($(this).get(0));
+							//console.log( 'static-box:' + ulBox.is('.static-box') );
+							if( ulBox.is('.static-box') )
+							{
+								//return;
+							}
+							else
+							{							
+								$('.visible-ulBox').stop();
+								$('.visible-ulBox').slideUp(iSpeed).removeClass('visible-ulBox');								
+								ulBox.stop();
+								ulBox.addClass('visible-ulBox');
+								ulBox.hide().find('li').show();
+								ulBox.slideDown(iSpeed);
+								
+							}
+						}
+						else
+						{
+							//$('.visible-ulBox').stop();
+							$('.visible-ulBox').slideUp(iSpeed).removeClass('visible-ulBox');								
+							//ulBox.stop();
+							ulBox.addClass('visible-ulBox');
+							ulBox.hide().find('li').show();
+							ulBox.slideDown(iSpeed);
+						}
+						
+						e.stopPropagation();
+						e.preventDefault();
+						return false;
+					}
+				);
+			/*$('ul.subcategoryitems li:has(.subexpandabledrop)').not('.subcategoryitemsdrop li')
+				.css('background-image','url(./tab-images/sub-link-left-navi.png)')
+				.css('background-repeat','no-repeat');*/
+			//$('.subcategoryitemsdrop li').css('background-image','');
+			$('ul.subcategoryitemsdrop')
+				.each(
+					function()
+					{
+						if( $(this).find('li').size() == 0 )
+						{
+							//$(this).prev().css('background','transparent');
+							$(this).remove();
+						}
+					}
+				);
+			var currLoc = location.href;			
+			var hostName = window.location.hostname;
+			var extraStr = 'pwt2012/';
+			var protcolStr = location.protocol + '//';
+			var LocParts = currLoc.split('/');
+			var targetLoc = LocParts.join('/', LocParts.slice(0,LocParts.length-1));
+			//console.log(targetLoc);
+			targetLoc = targetLoc.replace(hostName,'');
+			//console.log(targetLoc);
+			targetLoc = targetLoc.replace(extraStr,'');
+			//console.log(targetLoc);
+			targetLoc = targetLoc.replace(protcolStr,'');
+			//console.log(targetLoc);
+			targetLoc = targetLoc.substring(1,targetLoc.length);
+			//console.log(targetLoc);
+			$('ul.categoryitems a').removeClass('selected');
+			if( targetLoc.indexOf('.php') > -1 )
+			{	
+				$('ul.categoryitems a')
+					.each(
+						function()
+						{
+							var href = $(this).attr('href');
+							if( href.indexOf(targetLoc) > -1 )
+							{
+								$(this)
+									.addClass('selected')
+									.css('font-weight','bold');
+								//$(this).parents('li').addClass('selected');
+								$(this)
+									.parents('.subcategoryitemsdrop')
+									.prev()
+									.find('a:eq(0)')
+									.addClass('selected');
+								$(this)
+									.parents('.subcategoryitems')
+									.prev()
+									.find('a:eq(0)')
+									.addClass('selected');
+								//console.log($(this).parents('ul.categoryitems').get(0) == $('ul.categoryitems:eq(0)').get(0));
+								if( $(this).parents('ul.categoryitems').get(0) == $('ul.categoryitems:eq(0)').get(0) )
+								{
+									$(this).parents('ul.categoryitems').parent().prev('h3').trigger('mouseover');
+								}
+								else
+								{
+									$(this).parents('ul.categoryitems').prev('h3').trigger('mouseover');
+								}
+								//console.log(persistedheaders);
+		//console.log(config.headerclass);
+		//console.log($('.selected').parents('.' + config.headerclass ).attr('contentindex') != persistedheaders);
+		$('.subcategoryitemsdrop').hide();
+		//persistedheaders = getCookie('subexpandabledrop');
+		$('.selected').parents('.subcategoryitemsdrop' ).show();
+		//subexpandable
 		
-			var loadMenu="<A href=javascript:menuTree('"+id+"','"+symbol+"',1) style='text-decoration:none' >+</A>";
-			document.getElementById(symbol).innerHTML=loadMenu;
+		$('.subcategoryitems').hide();
+		//persistedheaders = getCookie('subexpandabledrop');
+		$('.selected').parents('.subcategoryitems' ).show();
+		$prev = $('.selected').prev().filter(':last');
+		var levels = $(this).parents('ul');
+		if( levels.size() == 3 )
+		{
+			//console.log( levels.get() );
+			var parentUL1 = $(this).parents('.subcategoryitemsdrop').eq(0);
+			parentUL1.prev().find('.subexpandabledrop').addClass('closedsubheaderdrop');
+			
+			var parentUL2 = $(this).parents('.subcategoryitems').eq(0);
+			parentUL2.prev().find('.subexpandable').addClass('closedsubheader');
+			//console.log( parentUL1.get() );
 		}
+		else if( levels.size() == 2 )
+		{
+			//console.log( levels.get() );
+			/*var parentUL1 = $(this).parents('.subcategoryitemsdrop').eq(0);
+			parentUL1.prev().find('.subexpandabledrop').addClass('closedsubheaderdrop');*/
+			
+			var parentUL2 = $(this).parents('.subcategoryitems').eq(0);
+			parentUL2.prev().find('.subexpandable').addClass('closedsubheader');
+			//console.log( parentUL1.get() );
+		}
+		//console.log($prev.get());
+		/*if( $prev.is('.subexpandabledrop') && $prev.get(0) != $(this).prev().get(0) )
+		{
+			$prev.addClass('closedsubheaderdrop');
+		}
+		if( $prev.is('.subexpandable') && $prev.is('.second-level > span') == true )
+		{
+			$prev.addClass('closedsubheader');
+		}*/
+		//$('.selected').prev('');
+		//$('.subcategoryitems').hide();
+		//persistedheaders = getCookie('subexpandabledrop');
+		//$('.selected').parents('.subcategoryitems' ).show();
+		/*
+		if( $('.selected').parents('.subcategoryitemsdrop' ).attr('contentindex') != persistedheaders )
+		{
+			//persistedheaders = null;
+		}
+		*/
+							}						
+						}
+					);
+			}
+			$('.subexpandabledrop.selected').parents('ul:eq(0)').show().addClass('static-box').find('li').show();			
+			if( $('.selected').size() == 0 )
+			{
+			/*$('.selected').parents('ul.categoryitems').parent().prev('h3').trigger('mouseover');
+			$('.selected').parents('ul.categoryitems').prev('h3').trigger('mouseover');*/
+			}
+			
+				var targetHeader = $();
+				$('h3.menuheader:eq(0)').trigger('mouseover');
+				$('h3.menuheader')
+					.each(
+						function()
+						{
+							var href = $(this).find('a').attr('href');
+							href = href.replace('./','');
+							console.log('href: ' + href);
+							console.log('targetLoc: ' + targetLoc);
+							console.log( href.indexOf(targetLoc) );
+							if( targetLoc.indexOf(href) > -1 )
+							{
+								//$(this).addClass('selected');
+								console.log('found!');
+								targetHeader = $(this);
+							}						
+						}
+					);
+				targetHeader.trigger('click');
+			
+			
+			if( $.browser.msie && $.browser.version == 7 )
+				{
+				$('.categoryitems li').each(function(index) {
+					var height = 30;
+					if( $(this).find('ul').size() )
+					{					
+						var size = $(this).find('ul li').size();
+						if( size != 0 )
+						{
+							//height *= size;
+						}
+					}
+					//$(this).css('height', height + 'px');
+					$(this).css('height', 'auto');
+				});
+				$('.subcategoryitems li').each(function(index) {
+					var height = 30;
+					if( $(this).find('ul').size() )
+					{					
+						var size = $(this).find('ul li').size();
+						if( size != 0 )
+						{
+							//height *= size;
+						}
+					}
+					//$(this).css('height', height + 'px');
+					$(this).css('height', 'auto');
+				});
+				$('.subcategoryitemsdrop li').each(function(index) {
+					var height = 30;
+					if( $(this).find('ul').size() )
+					{					
+						var size = $(this).find('ul li').size();
+						if( size != 0 )
+						{
+							//height *= size;
+						}
+					}
+					//$(this).css('height', height + 'px');
+					$(this).css('height', 'auto');
+				});
+				$('.subcategoryitemsdrop').css('height','auto');
+				$('.subexpandabledrop')
+					.unbind('click').click(
+						function()
+						{
+						
+							$next = $(this).parents('.third-level').eq(0).next();
+							//alert($(this).hasClass('closedsubheaderdrop'));
+							//alert($(this).attr('class'));
+							if( $(this).hasClass('opensubheaderdrop') )
+							{
+								//$next = $(this).parents('.third-level').eq(0).next();
+								//alert( $next.html() );
+								//alert( $next.find('li').size() );
+								//clearTimeout( timer );
+								$next.css( 'height', ( $next.find('li').size() * 30 ) + 'px');
+								$prev.css('height','auto');
+								//alert( $next.css( 'height' ) );
+								$lastElem = $(this);
+								$(this).removeClass('opensubheaderdrop');
+								$(this).addClass('closedsubheaderdrop')
+								$next
+									.css( 'height', ( $next.find('li').size() * 30 ) + 'px');
+									$next.find('li:eq(0)').css('height','30px');
+									$next.css('display','block');
+								$prev  = $next; 
+								/*
+								timer = setTimeout( 
+										function() {
+											$next
+												.css( 'height', ( $next.find('li').size() * 30 ) + 'px');
+												$next.find('li:eq(0)').css('height','30px');
+												$next.css('display','block');
+												alert( $next.css( 'height' ) ); 
+												//$lastElem.addClass('closedsubheaderdrop')
+												$prev  = $next; 
+											}, 1000 );
+								*/
+							}
+							else
+							{
+								//clearTimeout( timer );
+								//return;
+								$(this).removeClass('closedsubheaderdrop');
+								$(this).addClass('opensubheaderdrop')
+								//$(this).addClass('opensubheaderdrop')
+								//alert('aaaaaaaa');
+								//alert( $next.html() );
+								//$next.css('0px');
+								$lastElem = $(this);
+								$next
+									.css( 'height', '0px')
+									.css('display','none');
+								$prev  = $next; 
+								/*
+								timer = setTimeout( 
+										function() {
+												$next
+													.css( 'height', '0px');
+												
+												alert( $next.css( 'height' ) + ' 1223' ); 
+												//$lastElem.addClass('opensubheaderdrop')
+												$prev  = $next; 
+											}, 1000 );
+								*/
+							}
+							//subcategoryitemsdrop
+						}
+					);
+				}
+			//$('ul.categoryitems a').filter('href[^=' + targetLoc + ']').addClass('selected');
+			
+			
+		}
+	);
+	function getCookie(Name){ 
+		var re=new RegExp(Name+"=[^;]+", "i") //construct RE to search for target name/value pair
+		if (document.cookie.match(re)) //if cookie found
+			return document.cookie.match(re)[0].split("=")[1] //return its value
+		return null;
 	}
 </script>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="15" align="center" valign="top"><table width="160" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-	    
-		<td id="sYZem" valign="top"></td>
-		<td align="left" class="sidetext-h"><strong><a href="./consumer/cs/index.php" class="ft">Customer Service</a></strong> </td>
-      </tr>
-	
-	<tr>
-		<td colspan="3">
-			
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-							      <tbody><tr>
-        <td></td>
-		<td align="left" class="sidetext">&nbsp;<a href="./faqs/index.php" class="link-f2" style="">FAQs</a></td>
-      </tr>
-	  			 
-            
-        <tr>
-			<!-- done -->
-			<td width="7%" id="sY2">&nbsp;<a href="javascript:menuTree('mM2','sY2',1)" style="text-decoration:none">+</a></td>
-			<td width="93%" colspan="2" align="left" class="sidetext">&nbsp;<a href="./consumer/cs/port-in.php" class="link-f2">Port-In</a></td>
-      </tr>
-	  	<tr>
-		<td colspan="3">
-			<div id="mM2" style="display:none">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-				 				<tbody><tr>
-					
-										<td></td>
-										
-		<td align="left" class="off">&nbsp;&nbsp;<a href="./consumer/cs/online-port-in-faqs.php" class="link3" style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Port-In FAQs</a></td>
-		
-				</tr>
-												<tr>
-					
-										<td></td>
-										
-		<td align="left" class="off">&nbsp;&nbsp;<a href="./consumer/cs/online-port-in.php" class="link3" style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Port-In</a></td>
-		
-				</tr>
-											</tbody></table>
-			</div>
-		</td>
-		
-    </tr>
-	<tr>
-    	
-		<td colspan="3">
-			<div id="mSM22" style="display:none">
-			<table cellpadding="0" width="100%" cellspacing="0" border="0">
-				 			</table>
-			</div>
-		</td>
-		
-    </tr>
-	  			      <tr>
-        <td></td>
-		<td align="left" class="sidetext">&nbsp;<a href="./consumer/cs/sim_info_668.php" class="link-f2" style="">Overseas SIM Information System 668</a></td>
-      </tr>
-	  			      <tr>
-        <td></td>
-		<td align="left" class="sidetext">&nbsp;<a href="./consumer/cs/franchises.php" class="link-f2" style="">Business Centres &amp; Franchises</a></td>
-      </tr>
-	  			      <tr>
-        <td></td>
-		<td align="left" class="sidetext">&nbsp;<a href="./consumer/cs/mobile-customer-service-centers.php" class="link-f2" style="">Mobile Customer Service Centers</a></td>
-      </tr>
-	  			      <tr>
-        <td></td>
-		<td align="left" class="sidetext">&nbsp;<a href="./consumer/cs/mnp-faqs.php?p=default&amp;cat=20" class="link-f2" style="">MNP FAQs</a></td>
-      </tr>
-	  			
-			</tbody></table>
-			
-		</td>
-	</tr>
-    </tbody></table></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td height="15" align="center">&nbsp;</td>
-  </tr>
-</tbody></table></td>
-                  <td width="758" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td height="86" bgcolor="002F6F" class="consumer-header-bg">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td height="86"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr>
-                              <td height="30" align="left"><span class="consumer-login">&nbsp;&nbsp;&nbsp;<a href="./index.php" class="consumer-login">Home</a> | <a href="./about/index.php" class="consumer-login">About Warid </a> | <a href="http://members.waridtel.com" class="consumer-login">Member Area</a></span> </td>
-                            </tr>
-                            <tr>
-                              <td height="33"><table width="755" border="0" cellspacing="0" cellpadding="0">
-                                <tbody><tr>
-                                  <td width="294">&nbsp;</td>
-                                  <td width="150"><table width="154" border="0" cellspacing="0" cellpadding="0">
-                                    <tbody><tr>
-                                      <td width="147" height="21" align="left" class="consumer-top3-bg"><table width="142" border="0" cellspacing="0" cellpadding="0">
-                                          <tbody><tr>
-                                            <td align="center" class="style1"><a href="./consumer/whatsnew.php" class="top3-links">
-                                              
-                                            </a><a href="./consumer/index.php" class="consumer-top3-links"><strong>Consumer</strong></a><strong><a href="./consumer/whatsnew.php" class="top3-links">
-                                            
-                                            </a></strong></td>
-                                          </tr>
-                                      </tbody></table></td>
-                                    </tr>
-                                  </tbody></table></td>
-                                  <td width="151"><table width="154" border="0" cellspacing="0" cellpadding="0">
-                                    <tbody><tr>
-                                      <td width="147" height="21" align="left" class="consumer-top3-bg"><table width="142" border="0" cellspacing="0" cellpadding="0">
-                                          <tbody><tr>
-                                            <td align="center"><span class="style3"><a href="./corporate/index.php" class="top3-links">Corporate</a></span></td>
-                                          </tr>
-                                      </tbody></table></td>
-                                    </tr>
-                                  </tbody></table></td>
-                                  <td width="156"><table width="154" border="0" cellspacing="0" cellpadding="0">
-                                    <tbody><tr>
-                                      <td width="147" height="21" align="left" class="consumer-top3-bg"><table width="128" border="0" cellspacing="0" cellpadding="0">
-                                          <tbody><tr>
-                                            <td align="center"><span class="style1"><a href="./consumer/whatsnew.php" class="top3-links"> What's New</a></span></td>
-                                          </tr>
-                                      </tbody></table></td>
-                                    </tr>
-                                  </tbody></table></td>
-                                </tr>
-                              </tbody></table></td>
-                            </tr>
-                            <tr>
-                              <td align="center"><table width="735" border="0" cellspacing="0" cellpadding="0">
-                                <tbody><tr>
-                                  <td align="right" class="consumer-login">
-								  <a href="./consumer/postpaid/index.php" class="consumer-login">Warid Postpaid</a>  |  <a href="./consumer/zem/index.php" class="consumer-login">Zem Prepaid</a> | <a href="./consumer/product/index.php" class="consumer-login">Products &amp; Services</a>  |  <a href="./consumer/ir/index.php" class="consumer-login">International Roaming</a>   |  <a href="./consumer/coverage.php" class="consumer-login">Coverage</a>  |  <a href="./consumer/cs/index.php" class="login-d">Customer Service</a> </td>
-                                </tr>
-                              </tbody></table></td>
-                            </tr>
-                          </tbody></table></td>
-                        </tr>
-                      </tbody></table></td>
-                    </tr>
-                    <tr>
-                      <td height="555" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                          <td>&nbsp;</td>
-                        </tr>
-                        <tr>
-                          <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="10">
-                            <tbody><tr>
-                              <td>
-                                <p><img src="./images/headings/privacy-policy.gif" width="126" height="20"></p>
-                                <p>This website is owned and run by Warid Telecom (Private) Limited  (hereinafter referred to as 'Warid'). Warid is committed to respecting your  privacy and to complying with applicable data protection and privacy laws. You  can visit our web and WAP sites without disclosing any personally identifiable  information about yourself. If you do submit personal information by ordering  products, or services, for example, you can be assured that we will use your  personal information only to support your continuing relationship with Warid.  We have provided this Privacy Policy Statement to help you understand how we  collect, use and protect your information when you visit our web and WAP sites  and when you generally use our products and services. We wish to help you make  informed decisions, so please take a few moments to read the sections below and  learn how we may use your personal information. You should read this notice in  conjunction with the terms &amp; conditions of use for Warid Web and WAP sites and  any separate terms &amp; conditions issued with your airtime or other  product/service contract.<br>
-                                  &nbsp;</p>
-                                <p><strong>Personal Information Collection</strong></p>
-                                <p>                                  We endeavor to collect and use your personal information only with your  knowledge and consent and typically when you order and subsequently use  products and services, make customer enquiries, register for information or  other services, request product information, submit a job application or when  you respond to communications from us (such as questionnaires or surveys). The  type of personal information we may collect could include, for example, your  name and postal address, date of birth, gender, telephone and fax numbers,  email address, and credit/debit card information; lifestyle and other  information collected on registration or through surveys. If you choose to  provide us with personal information it will be used in support of the intended  purposes stated at the time at which it was collected, and subject to any  preferences indicated by you. <br>
-                                  &nbsp;</p>
-                                <p><strong>Non-personally identifying information</strong></p>
-                                <p>                                              We may also collect non-personally identifying information about your visit to  our web, WAP and other similar sites based on your browsing (click-stream)  activities. This information may include the pages you browse and products and  services viewed or ordered for example. This helps us to better manage and  develop our sites, to provide you with a more enjoyable, customized service and  experience in the future, and to help us develop and deliver better products  and services tailored to your individual interests and needs. <br>
-                                  &nbsp;</p>
-                                <p><strong>How will we use your information?</strong></p>
-                                <p>                                              We may use your information for a number of purposes which includes: processing  your orders and managing and administering your account; delivering any  services, products or information requested by you; responding to complaints or  account enquiries; administering debt recoveries; verifying your identity when  required (you may lose your password or security information for example, and  we may then need to ask you for other 'identifiable' information to protect  your data from unauthorized access).</p>
-                                <p>                                              We may also undertake market and product analysis based on your use of our  services and products and contact you with information about new developments,  products, services and special offers by post, telephone and automated means  such as mobile text message (SMS), Email, Fax, Pager, WAP and the world wide  web (subject to any preferences expressed by you). </p>
-                                <p>                                              We may also tell you about the products and services of carefully selected  third parties and allow you to receive advertising and marketing information  from those selected third parties without passing control of your personal  information to the third party. For example we may send you information with  your bill, or you may simply receive an advertisement on your personal web and  WAP page according to any preferences indicated by you and/or according to your  interests. This helps us to make you aware of products and services that we may  have specially negotiated for our own customers and which may be of individual  interest to you.</p>
-                                <p>                                              You acknowledge that by providing data to us, you consent to the processing of  your data in accordance with this Privacy Policy Statement. However, you can  contact us at anytime to have your details removed from lists used by us for  direct marketing purposes, to update your information or to otherwise tell us  how you would like to receive information about our and/or third party products  and services - the choice is yours. To update your marketing preferences please  email [insert email address] and quote your mobile and/or account number in the  body of the email and tell us what you want us to do (i.e. 'opt-out Email',  'opt-out SMS' etc or if you have previously objected to receiving information  by post for example, but would now like to change your mind and receive  information then just say, 'opt-in post' in the subject header of your email). <br>
-                                  &nbsp;</p>
-                                <p><strong>When will we disclose your information to others?</strong><br>
-                                              <br>
-                                              We may disclose information about you, your account and your mobile phone to <br>
-                                              <br>
-                                              (i) companies designated as 'Warid Affiliates' or 'Associates of Warid' for the  purposes and subject to the terms of this Privacy Policy Statement; and<br>
-                                              <br>
-                                              (ii) in the event that we undergo re-organization or are sold to a third party,  in which case you agree that any personal information we hold about you may be  transferred to that re-organized entity or third party for the purposes and  subject to the terms of this Privacy Policy Statement. For the purposes of this  Privacy Policy Statement, 'Warid Affiliates' or 'Warid Associates' means any  company or other entity which directly or indirectly controls Warid, or is  directly or indirectly controlled by any entity that controls Warid, or is  directly or indirectly controlled by Warid. <br>
-                                              <br>
-                                              Please note that Warid does not sell or pass your personal information to third  parties (other than as set out in the paragraph above) unless you have given us  permission or unless it is necessary to deliver the products and services  ordered or used by you. For example, we may disclose your data to a credit card  company to validate your credit card details and obtain payment for billing (if  so authorized) or when you buy a phone or other product or service. It may also  be necessary to pass your data to the organization from whom you have ordered  any products or services. <br>
-                                              <br>
-                                              Warid may also be obliged to disclose your personal information to meet any  legal or regulatory requirements or obligations in accordance with applicable  law.<br>
-                                            &nbsp;</p>
-                                <p><strong>Cookies</strong></p>
-                                <p>                                              We may use cookies to record details such as a user identity and general  registration details on your PC. This helps us recognize you on subsequent  visits so that you don't have to re-enter your registration details each time  you visit us and allows us to carry out those activities mentioned in the above  section "non-personally identifying information". Depending upon the  type of browser you are using, you may be able to configure your browser so  that: (i) you are prompted to accept or reject cookies on an individual basis  or (ii) you may be able to prevent your browser from accepting any cookies at  all. You should refer to the supplier or manufacturer of your web browser for  specific details about cookie security.<br>
-                                  &nbsp;</p>
-                                <p><strong>Information Security</strong></p>
-                                <p>                                  Warid recognizes that its customers are increasingly concerned about how companies  protect personal information from misuse and abuse and about privacy in  general. Warid is constantly reviewing and enhancing its technical, physical  and managerial procedures and rules to protect your personal data from  unauthorized access, accidental loss and/or destruction. We use industry  standard secure sockets layer (SSL) technology, for example, to encrypt  sensitive information such as your credit card and other financial information. <br>
-                                  <br>
-                                  Please be aware that communications over the Internet, such as emails/webmails,  are not secure unless they have been encrypted. Your communications may route  through a number of countries before being delivered - this is the nature of  the World Wide Web/Internet. Warid cannot accept responsibility for any unauthorized  access or loss of personal information that is beyond our control. <br>
-                                  &nbsp;</p>
-                                <p><strong>Privacy Support</strong><br>
-                                  <br>
-                                  Warid reserves the right to amend or modify this Privacy Policy Statement at  any time and/or in response to changes in applicable data protection and  privacy legislation.. If you have any enquiry about Warid's data protection and  privacy policy or practices, please write to: <a href="mailto:info@waridtel.com">info@waridtel.com</a> <br>
-                                  &nbsp;</p>
-                                <p><strong>Monitoring and/or recording of your communications</strong></p>
-                                <p>                                  Monitoring or recording of your calls, emails, text messages and other communications  may take place in accordance with the laws of Pakistan, and in particular for  national security purposes or business purposes, such as for quality control  and training, to ensure effective systems operation and in order to prevent or  detect crime.</p></td>
-                            </tr>
-                          </tbody></table></td>
-                        </tr>
-                        <tr>
-                          <td align="left" valign="top">&nbsp;</td>
-                        </tr>
-                      </tbody></table></td>
-                    </tr>
-                  </tbody></table></td>
-                </tr>
-              </tbody></table></td>
-            </tr>
-          </tbody></table></td>
-        </tr>
-        
-        <tr>
-          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            
-            <tbody><tr>
-              <td align="center"><style type="text/css">
+<script type="text/javascript">
 <!--
-.style1 {
-	font-size: 10px;
-	color: #999999;
-}
--->
-</style>
-<table width="561" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-              <td width="561" height="10" colspan="2" align="left"><div align="left"><a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a>
-                <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-    </div></td>
-  </tr>
-</tbody></table>
-</td></tr><tr>
-        <td height="2" align="center" bgcolor="#F00A0C"></td>
-      </tr>
-      <tr>
-        <td align="center"><table width="920" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td height="10" colspan="2" align="left"></td>
-            </tr>
-            <tr>
-              <td width="349" height="19" align="left">&nbsp;<a href="./index.php" class="fot"><strong>Pakistan</strong></a> &nbsp;<a href="http://www.waridtel.com.bd" target="_blank" class="fot">Bangladesh</a> &nbsp;<a href="http://waridtel.co.ug" target="_blank" class="fot">Uganda</a> &nbsp;<a href="http://waridtel.cg" target="_blank" class="fot">Congo</a></td>
-              <td width="571" align="right"><span class="footer"><a class="fot" href="./index.php">Home</a>&nbsp;<span class="style1">|</span> <a href="http://careers.waridtel.com/" target="_blank" class="fot">Careers</a>&nbsp;<span class="style1">|</span> <a href="./fraud.php" target="_blank" class="fot">Avoid Fraud</a>&nbsp;<span class="style1">|</span> <a class="fot" href="./about/media/index.php" target="_self">Media Center  </a>&nbsp;<span class="style1">|</span> <a class="fot" href="./sitemap.php" target="_self">Site Map  </a><span class="style1">|</span><a href="./privacy_policy.php" class="fot">Privacy Policy </a><span class="style1">|</span> <a class="fot" href="./contactus.php">Contact Us</a></span></td>
-          </tr>
-            <tr>
-              <td height="19" align="right">&nbsp;</td>
-              <td height="19" align="right" valign="top"><span class="copyright">Copyright © 2012, Warid Telecom (Pvt) Limited All rights reserved</span></td>
-            </tr>
-        </tbody></table></td>
-      </tr>
+swfobject.registerObject("FlashID");
+//-->
+    </script>
 <script type="text/javascript">
+
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+
 <script type="text/javascript">
+
 var pageTracker = _gat._getTracker("UA-4492918-1");
+
 pageTracker._initData();
+
 pageTracker._trackPageview();
+
 </script>
 
-            
-          </tbody></table></td>
-        </tr>
-      </tbody></table>
-    </div></td>
-  </tr>
-</tbody></table>
+<!-- Start of HubSpot Logging Code  -->
 
+<script type="text/javascript" language="javascript">
+
+var hs_portalid=96076; 
+
+var hs_salog_version = "2.00";
+
+var hs_ppa = "waridtel.app9.hubspot.com";
+
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+
+swfobject.registerObject("FlashID");
+
+</script><script src="https://waridtel.app9.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+                <!--Footer End-->
+                
+            </div>
+            <!--Container End-->        
+        <!-- Wrapper End-->
+        </div>
 
 </body></html>
