@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615074058id_/http%3A//www.crikey.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108134556id_/http%3A//www.crikey.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Crikey
 
@@ -22,7 +22,7 @@ Crikey will provide, where possible, access for providers of personal informatio
 
 The Office Manager  
 Private Media Pty Ltd  
-Level 7, 22 William St  
+Level 6, 22 William St  
 Melbourne, VIC, 3000
 
 Reasonable steps will be taken to correct the information so that it is accurate, complete and up to date.
