@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpfulmedical.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629000655id_/http%3A//www.helpfulmedical.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpfulmedical.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108133313id_/http%3A//www.helpfulmedical.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy « Medical News , Health News
 
