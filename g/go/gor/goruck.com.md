@@ -1,50 +1,39 @@
-> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509142837id_/http%3A//www.goruck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108140435id_/https%3A//www.goruck.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GORUCK
+# PRIVACY | GORUCK | Built in the USA
 
-## Privacy
+We guard your privacy and will never sell your private information.
 
-We guard your privacy and will never sell your private information.  
- 
+This is the website of GORUCK LLC. Our postal address is: 
 
-This is the website of GORUCK LLC. Our postal address is:
+  * GORUCK
+  * 600 N Wallace #5
+  * Bozeman MT 59715
 
-  GORUCK  
-600 N Wallace #5  
-Bozeman MT 59715
 
-Via email: [Contact us](https://web.archive.org/contacts/).
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+GORUCK collects personal information about customers as part of the shopping process. This information will be used by GORUCK to enable the customer to have a better shopping experience.
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, information volunteered by the consumer, such as survey information and/or site registrations.
+Personal information is collected from customers at the time of purchase or upon the customer signing up for the newsletter. GORUCK keeps all information as secure as possible and never sells this information to third parties.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site.
+GORUCK collects email addresses from customers and visitors to www.GORUCK.com. This is done in order to give the customer new information on products offered by GORUCK. If at any time a customer wishes to be removed from GORUCK’s email database, the customer can unsubscribe.
 
-With respect to cookies: We do not set any cookies.
+GORUCK.com uses cookies to serve Google ads based on a customer’s past visits to our website. These ads appear on sites across the internet. You can opt out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/) and third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
+Personal information collected by GORUCK is used internally for customer service purposes. We use customers’ information to fulfill orders for products. Additionally, we use this information to continually update the GORUCK shopping experience.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+Personal information will be used for the purpose of communicating with customers. This is to provide the customer with news, offers, promotions and a better shopping experience as a GORUCK customer. As stated, we will not sell customers’ email addresses to third parties.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Any and all payments are made through a secure server.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+You may contact us the following ways:
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+Web: [contact us](https://web.archive.org/Contact)
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Email: [info@GORUCK.com](mailto:info@goruck.com)
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, calling us at the above telephone number.
+In writing:  
+GORUCK, LLC  
+2516 Q St. NW #c102  
+Washington DC 20007  
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
-
-Consumers can access this information by e-mail us at the above address, write to us at the above address, writing to us at the above address.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information.
-
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-With respect to security: and Any payments are through a secure server..
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
