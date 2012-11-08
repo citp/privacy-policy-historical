@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the memorizationtechniques.net privacy policy that was archived on 2012-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120310105816id_/http%3A//www.memorizationtechniques.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorizationtechniques.net privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108182134id_/http%3A//www.memorizationtechniques.net/privacy) for the most accurate reproduction.*
 
-# Privacy | Memorization Techniques
-
-## Privacy
+# Privacy |
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -23,7 +21,6 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding our privacy policy then you may contact us at info@memorizationtechniques.net
+If you have any questions regarding our privacy policy then you may [contact](http://www.memorizationtechniques.net/contact/ "contact") us at info@memorizationtechniques.net
 
-  
-
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.memorizationtechniques.net%2Fprivacy%2F&media=&description=Privacy)
