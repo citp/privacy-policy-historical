@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tridoshawellness.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502221934id_/http%3A//www.tridoshawellness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tridoshawellness.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108044835id_/http%3A//www.tridoshawellness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Natural Fitness and Wellness Solutions
+# Tridosha wellness natural fitness and holistic medicine solutions. Natural Health and Fitness Natural Fitness and Wellness Solutions
 
 **Privacy Policy for** Tridoshawellness.com
 
