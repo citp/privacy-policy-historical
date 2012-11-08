@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505003357id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108081113id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Activity Village Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+
+## Your Consent
+
+**By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.**
 
 ## What Information Do We Collect?
 
@@ -18,11 +22,11 @@ If you register for any of our products, services or newsletters you will provid
 **Email Information**  
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
-### 2\. Web Site Use Information
+### 2\. Website Use Information
 
-Similar to other websites, this website utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+Similar to other websites, this website utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this website, and the websites visited just before and just after this one.
 
-In addition, third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website. 
+**In addition, third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website.**
 
 ### Log Files
 
@@ -38,8 +42,19 @@ We may also use third party advertisements to support this site. Some of our adv
 
 We use third-party advertising companies to serve ads when you visit this website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
+**AOL Cookies**  
+Third party cookies may be placed when serving advertisements on this website including but not limited to those set by AOL. Read [AOL's privacy policy](http://privacy.aol.co.uk/).
+
 **DoubleClick DART cookies**  
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
+
+### Social Networks
+
+These days our visitors like to share content from Activity Village through social networks like Facebook, Twitter and Google+. We therefore have "like" and "add" buttons throughout the site that allow people to easily share to those networks. In some cases when we include these social 'plugins', it gives those sites the flexibility to use cookies. 
+
+### Videos
+
+On some pages in this website we showcase YouTube videos. If you watch one of these videos, YouTube may store cookies in order to track how people are watching videos. 
 
 ## How Do We Use the Information That You Provide to Us? 
 
@@ -57,13 +72,23 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
+**You can read more about cookies and find detailed information for managing your cookies here:  
+** [AboutCookies.org](http://www.aboutcookies.org/default.aspx?page=1%20rel=)
+
+**More information about cookies from the UK government:**  
+[Information Commissioner's Office](http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx)
+
 ## How Do We Use Information We Collect from Cookies?
 
-As you visit and browse this website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+As you visit and browse this website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients. 
+
+We make use of a tool from Google called Google Analytics. The Google Analytics software is described [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, visit [here](http://tools.google.com/dlpage/gaoptout). 
+
+Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
 ## IP Addresses
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the web pages you request) can be sent to you.
 
 ## Sharing and Selling Information
 
@@ -78,10 +103,6 @@ We may disclose information when legally compelled to do so, in other words, whe
 We are not responsible for the practices employed by websites linked to or from our website or the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website.
 
 Please remember that when you use a link to go from our website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
-
-## Your Consent
-
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
 
 ## Newsletter Opt-in and Opt-out
 
