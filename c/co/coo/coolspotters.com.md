@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521085823id_/http%3A//fanzter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108075644id_/http%3A//fanzter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fanzter
 
@@ -36,7 +36,7 @@ We neither rent nor sell your personal information to anyone. We share your info
   * Agents – Fanzter employs other companies and people to perform tasks on our behalf and may need to share your information with them to provide products or services to you. Some examples of this include providing customer service, removing illicit or indecent content, analyzing data, or providing marketing assistance.
   * Promotions – We may send promotional offers to registered users on behalf of other businesses. Although we will not give them your address or phone number, you can cancel the receipt of these offers by emailing us at [legal@fanzter.com](mailto:legal@fanzter.com).
   * Business Transfers – In the case of Fanzter buying or selling assets, personal customer information will be considered a business asset and as such, we retain the right to transfer this information as part of any such transaction.
-  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](https://web.archive.org/web/20120521085823id_/http%3A//fanzter.com/terms) (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
+  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](https://web.archive.org/web/20121108075644id_/http%3A//fanzter.com/terms) (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
 
 
 
