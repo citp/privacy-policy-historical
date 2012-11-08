@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llinks.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615084001id_/http%3A//llinks.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llinks.org privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108045645id_/http%3A//llinks.org/privacy.php) for the most accurate reproduction.*
 
 # Get Free Google +1, Facebook likes, Twitter followers, Youtube views, Website Traffic, Buy Points
 
