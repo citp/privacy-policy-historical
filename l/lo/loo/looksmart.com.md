@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619234353id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108151256id_/http%3A//www.looksmart.com/privacy-policy) for the most accurate reproduction.*
 
 # LookSmart > Bottom Nav > Privacy Policy
 
@@ -6,18 +6,18 @@ LookSmart.com, a service of LookSmart, Ltd., has created this privacy statement 
 
 The following questions are answered below:
 
-   [1\. What information does LookSmart.com collect?](http://www.looksmart.com/privacy-policy#PP1)  
-   [2\. What organization is collecting the information?](http://www.looksmart.com/privacy-policy#PP2)  
-   [3\. What does LookSmart.com do with the data it collects?](http://www.looksmart.com/privacy-policy#PP3)  
-   [4\. With whom does LookSmart.com share data?](http://www.looksmart.com/privacy-policy#PP4)  
-   [5\. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?](http://www.looksmart.com/privacy-policy#PP5)  
-   [6\. How can I update or correct my information?](http://www.looksmart.com/privacy-policy#PP6)  
-   [7\. How can I delete my information?](http://www.looksmart.com/privacy-policy#PP7)  
-   [8\. What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?](http://www.looksmart.com/privacy-policy#PP8)  
-   [9\. What about privacy policies for sites to which LookSmart.com links?](http://www.looksmart.com/privacy-policy#PP9)  
-  [10\. What happens to my information if LookSmart.com merges with or is sold to another company?](http://www.looksmart.com/privacy-policy#PP10)  
-  [11\. Notification of Changes.](http://www.looksmart.com/privacy-policy#PP11)  
-  [12\. Contact Information.](http://www.looksmart.com/privacy-policy#PP12)
+   [1\. What information does LookSmart.com collect?](http://www.looksmart.com/privacy-policy/#PP1)  
+   [2\. What organization is collecting the information?](http://www.looksmart.com/privacy-policy/#PP2)  
+   [3\. What does LookSmart.com do with the data it collects?](http://www.looksmart.com/privacy-policy/#PP3)  
+   [4\. With whom does LookSmart.com share data?](http://www.looksmart.com/privacy-policy/#PP4)  
+   [5\. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?](http://www.looksmart.com/privacy-policy/#PP5)  
+   [6\. How can I update or correct my information?](http://www.looksmart.com/privacy-policy/#PP6)  
+   [7\. How can I delete my information?](http://www.looksmart.com/privacy-policy/#PP7)  
+   [8\. What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?](http://www.looksmart.com/privacy-policy/#PP8)  
+   [9\. What about privacy policies for sites to which LookSmart.com links?](http://www.looksmart.com/privacy-policy/#PP9)  
+  [10\. What happens to my information if LookSmart.com merges with or is sold to another company?](http://www.looksmart.com/privacy-policy/#PP10)  
+  [11\. Notification of Changes.](http://www.looksmart.com/privacy-policy/#PP11)  
+  [12\. Contact Information.](http://www.looksmart.com/privacy-policy/#PP12)
 
 If you have any questions about this privacy statement, the practices of this site or your dealings with this site, please submit them via the form found here: <https://adcenter.looksmart.com/help/contact>.
 
