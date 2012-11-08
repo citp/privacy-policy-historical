@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603115532id_/http%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108105844id_/http%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Roadside America
 
@@ -63,4 +63,4 @@ Customer Care Issues
 P.O. Box 324  
 Novato, CA 94948-0324
 
-Effective Date: October 26, 2011
+Effective Date: October 20, 2012
