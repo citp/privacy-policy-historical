@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the octopustravel.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514133734id_/http%3A//www.octopustravel.com/privacyStmt.form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octopustravel.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108133236id_/http%3A//www.octopustravel.com/privacyStmt.form) for the most accurate reproduction.*
 
-# Privacy statement » Choose from over 140,000 hotels ranging from cheap to luxury including top chains
+# Privacy statement » Octopus Travel - Hotel Deals & Discounts from Luxury to Cheap Hotels
 
 This site is operated by Octopustravel.com Limited whose registered office is at Gullivers House, 27 Goswell Road, London, EC1M 7GT, United Kingdom ("Octopus Travel" or "we"). Octopus Travel is the data controller in respect of the personal information obtained from you in the course of your use of the site and/or making a booking.
 
@@ -20,7 +20,7 @@ f) Billing address.
 
 We use this information in order to reserve the required services, to send you details and confirmation of such services, and, if necessary, to inform you of updates or changes to your travel plans. If we have trouble processing a request this contact information is used to get in touch with you. We would use your telephone number only if we needed to contact you urgently or if you had made a mistake entering your details. The financial information is used for billing purposes and to complete your orders.
 
-We may also use your contact details to inform you of our products and services, including special offers that, we think may be of interest to you. If you do not want us to use your contact information in this way, please let us know in an email to [info@octopustravel.com](mailto:info@octopustravel.com). We do not pass details of your personal information to third parties except as described below.
+We may also use your contact details to inform you of our products and services, including special offers that, we think may be of interest to you. If you do not want us to use your contact information in this way, please let us know in an email to [customercare@octopustravel.com](mailto:customercare@octopustravel.com). We do not pass details of your personal information to third parties except as described below.
 
 We store your information for as long as we need to do so in order to process your order, fulfil our legal obligations or in order to keep you informed of our products. We use your information to create generic information, which we then use for market and commercial analysis. This generic information does not identify you personally.
 
@@ -50,7 +50,37 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 ### Cookies
 
-We use cookies to monitor which parts of the site are most interesting to you - a cookie is a piece of data stored on your hard drive and usage is in no way linked to any personally identifiable information whilst on our site. We allow other companies, called "third-party ad servers" or "ad networks", to serve advertisements on our behalf. We do not provide any personally identifiable customer information to these advertisers or third-party websites, except as described in 'Sharing Information' section above. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt before accepting a cookie but by refusing to accept a cookie you will be unable to book a hotel offered by Octopus Travel.
+We use cookies to monitor which parts of the site are most interesting to you - a cookie is a piece of data stored on your hard drive and usage is in no way linked to any personally identifiable information whilst on our site.
+
+The types of cookies we use are described as follows:
+
+_Session Cookies_
+
+Session cookies are required for the site to function and do not identify you personally.  
+We use session cookies in connection with specific information pertaining to your visit to our site. These cookies will expire when you finish the session. No information is stored once the session has finished.
+
+_Permanent Cookies_
+
+Permanent cookies remain on your computer for a given amount of time after you have left our site depending on the cookie, this could be from minutes to years. Each return visit to the site will restart the length of the time that we store the information.
+
+Permanent cookies may also enable us to recognise you and help us improve your experience of using this site and aid in the sites functionality, for example remembering search criteria, or hotels marked as favourites.  
+These cookies do not contain any of your personal information such as name, address, email or telephone number. Instead, these cookies assign and recognise you by a unique number.
+
+_Third Party_
+
+We allow other companies, called "third-party ad servers" or "ad networks", to serve advertisements on our behalf. We do not provide any personally identifiable customer information to these advertisers or third-party websites, except as described in 'Sharing Information' section above.
+
+This Privacy Statement not cover the use of cookies and other tracking devices by third parties. This will be covered by that third party’s privacy policy usually found on that third party’s company website.
+
+_Opting Out of Cookies /Clearing Cookies / Configuring Your Internet Browser_
+
+You can configure your internet browser so that it can reject both “permanent” and “third party” cookies. Please refer to the internet browser manufacturer’s own website for further information about how to do this.
+
+You can also clear your cookies via the browser setting, this will clear all the cookies you select to be removed.
+
+Please note with all these options, that such action is likely to hinder performance and negatively impact your experience of this site and you will not be able to book hotels and or products or services offered by this site.
+
+If you have any questions about our use of cookies, please email us at our customer care and we will do our best to assist you with your query: [customercare@octopustravel.com](mailto:customercare@octopustravel.com).
 
 ### Links
 
@@ -68,4 +98,4 @@ If we change the substance of this Privacy Statement, such changes will be inclu
 
 ### Contacting us
 
-In using the Octopus Travel site, you consent to the collection and use of your personal information in the ways described above. If you have any questions or comments about this privacy statement, the practices of this site or your dealings with the site please email us at [info@octopustravel.com](mailto:info@octopustravel.com)
+In using the Octopus Travel site, you consent to the collection and use of your personal information in the ways described above. If you have any questions or comments about this privacy statement, the practices of this site or your dealings with the site please email us at [customercare@octopustravel.com](mailto:customercare@octopustravel.com)
