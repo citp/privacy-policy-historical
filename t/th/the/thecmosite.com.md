@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecmosite.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511103640id_/http%3A//legal.us.ubm.com/privacy-notice/%3Fitc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecmosite.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108143536id_/http%3A//legal.us.ubm.com/privacy-notice/%3Fitc%3Dfooter) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
