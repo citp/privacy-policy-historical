@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514081422id_/http%3A//www.brandsynario.com/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108024730id_/http%3A//www.brandsynario.com/Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | brandsynario.com
 
@@ -11,7 +11,7 @@ In order to make your visits to brandsynario.com, we do collect certain informat
 
 If you register on brandsynario.com, sign up for a promotion, make a purchase from brandsynario.com, enter any contests or submit materials to brandsynario.com, You agree to the terms of brandsynario.com.
 
-brandsynario.com is not directed to children under the age of 13. brandsynario.com prohibits registration by children under the age of 13. brandsynario.com will not knowingly collect personally identifiable information from children under 13. If you as a parent, have any concerns about the brandsynario.com site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please [contact us](https://web.archive.org/web/20120514081422id_/http%3A//www.brandsynario.com/contact-us.aspx). 
+brandsynario.com is not directed to children under the age of 13. brandsynario.com prohibits registration by children under the age of 13. brandsynario.com will not knowingly collect personally identifiable information from children under 13. If you as a parent, have any concerns about the brandsynario.com site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please [contact us](https://web.archive.org/web/20121108024730id_/http%3A//www.brandsynario.com/contact-us.aspx). 
 
 Information Collection & Use 
 
