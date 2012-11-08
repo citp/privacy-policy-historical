@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littleburgundyshoes.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608004819id_/http%3A//www.littleburgundyshoes.com/ca-eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleburgundyshoes.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108013039id_/http%3A//www.littleburgundyshoes.com/ca-eng/privacy) for the most accurate reproduction.*
 
 # Shop Little Burgundy Shoes, Boots, Sandals, Handbags & Accessories
 
