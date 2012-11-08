@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instant-registry-fixes.org privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118101152id_/http%3A//www.instant-registry-fixes.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instant-registry-fixes.org privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108015439id_/http%3A//www.instant-registry-fixes.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
