@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508021905id_/http%3A//www.lp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108010349id_/http%3A//www.lp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Libertarian Party
 
