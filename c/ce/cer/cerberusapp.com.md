@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cerberusapp.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210150959id_/https%3A//www.cerberusapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerberusapp.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108190714id_/https%3A//www.cerberusapp.com/privacy.php) for the most accurate reproduction.*
 
 # Cerberus Privacy policy
 
@@ -58,7 +58,7 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 EFFECTIVE DATE, DATE LAST MODIFIED
 
 LSDroid Privacy Policy effective as of April 3, 2011.   
-LSDroid Privacy Policy last modified on June 24, 2011. 
+LSDroid Privacy Policy last modified on March 6, 2012. 
 
 CONTACT INFORMATION
 
