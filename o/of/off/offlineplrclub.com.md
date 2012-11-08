@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offlineplrclub.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624042942id_/http%3A//offlineplrclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlineplrclub.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108140423id_/http%3A//www.offlineplrclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy | offlineplrclub.com
 
