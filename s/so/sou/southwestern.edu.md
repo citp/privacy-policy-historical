@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511013211id_/http%3A//www.southwestern.edu/policy/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108230517id_/http%3A//southwestern.edu/policy/privacypolicy.php) for the most accurate reproduction.*
 
 # Southwestern University: Policy: Privacy
 
@@ -85,7 +85,7 @@ Southwestern University reserves the right to contact Website visitors for legit
 
 ###  Southwestern's Right To Change This Policy 
 
-Southwestern University reserves the right to change this policy at any time. Visitors will not be notified of any changes made to this policy. The version of this policy in effect will be posted on the University's main website, [Web Privacy Policy](https://web.archive.org/web/20120511013211id_/http%3A//www.southwestern.edu/policy/www.southwestern.edu/policy/privacypolicy.php). Changes to the University's Website Privacy Policy are effective upon posting to this Website address. 
+Southwestern University reserves the right to change this policy at any time. Visitors will not be notified of any changes made to this policy. The version of this policy in effect will be posted on the University's main website, [Web Privacy Policy](https://web.archive.org/policy/privacypolicy.php). Changes to the University's Website Privacy Policy are effective upon posting to this Website address. 
 
 ###  How To Contact Southwestern University Regarding This Policy 
 
