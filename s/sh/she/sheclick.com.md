@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheclick.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610045535id_/http%3A//www.sheclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheclick.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108070750id_/http%3A//www.sheclick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SheClick.com
 
@@ -46,11 +46,9 @@ The Websites may have links to other websites. These linked websites are not und
 
 Some of our advertising partners may use cookies and web beacons on SheClick.com. Our advertising partners are,
 
-  1. [ **Google Adsense**](http://www.google.com/adsense)
-  2. [ **BuySellAds**](http://www.buysellads.com/)
-  3. [ **CpxInteractive**](http://www.cpxinteractive.com/)
-  4. [ **Infolinks**](http://www.infolinks.com/)
-  5. [ **MGID**](http://www.mgid.com/)
+  * www.google.com/adsense
+  * www.buysellads.com
+  * www.cpxinteractive.com
 
 
 
