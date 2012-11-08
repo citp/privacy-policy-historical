@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigwords.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183620id_/http%3A//www.bigwords.com/help/index.php%3Fz%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigwords.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108125800id_/http%3A//www.bigwords.com/help/privacy) for the most accurate reproduction.*
 
-# BIGWORDS.com | Buy Textbooks | Sell Textbooks | Cheap Textbooks | Cheapest Textbooks | Compare Textbook Prices | Used College Textbooks | New College Textbooks | Textbook Price Comparison | Textbook Buyback | Textbook Price Bot | New and Used Music | Compare CD Prices | Compare DVD Prices | Compare Video Game Prices | New and Used DVDs | New and Used Video Games
+# BIGWORDS.com | Buy or Rent Cheap Textbooks | Sell Textbooks | Textbook Buyback | Compare New and Used Textbook Prices
 
 Privacy Statement for BIGGER Words, Inc.
 
@@ -12,7 +12,7 @@ Here's that statement in a more lawyer friendly format.
 **BIGWORDS.com Privacy Policy**
 
 **About Us  
-**This is a privacy policy for BIGGER Words, Inc.. Our homepage on the Web is located at [ http://www.bigwords.com/](http://www.bigwords.com/). The full text of our privacy policy is available on the Web at [ http://BIGWORDS.com/help/index.php?z=privacy](http://bigwords.com/help/index.php?z=privacy) Users may go to [ http://BIGWORDS.com/help/index.php?z=privacy](http://bigwords.com/help/index.php?z=privacy) for information on how to opt-in or opt-out of use of their information. 
+**This is a privacy policy for BIGGER Words, Inc.. Our homepage on the Web is located at [ http://www.bigwords.com](http://www.bigwords.com/). The full text of our privacy policy is available on the Web at [ http://www.bigwords.com/help/privacy/](https://web.archive.org/help/privacy/) Users may go to [ http://www.bigwords.com/help/privacy/](https://web.archive.org/help/privacy/) for information on how to opt-in or opt-out of use of their information. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
@@ -133,5 +133,3 @@ The following table explains the meaning of each field in the compact policy.
 `STA` |  State-management data is collected   
   
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-© 2011 BIGGER Words, Inc. All rights reserved. Including the right to party.
