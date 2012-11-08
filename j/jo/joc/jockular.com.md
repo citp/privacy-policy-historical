@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockular.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510034947id_/http%3A//www.jockular.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockular.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108075540id_/http%3A//www.jockular.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy | Jockular
 
