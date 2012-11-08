@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the acog.org privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509132023id_/http%3A//www.acog.org/About_ACOG/Privacy_Statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acog.org privacy policy that was archived on 2012-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108134440id_/http%3A//www.acog.org/About_ACOG/Privacy_Statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	ACOG - Privacy Statement
-</title><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta id="keywords" name="keywords"><meta id="description" name="description"><link rel="stylesheet" type="text/css" href="/ACOGProject/ACOG/frontend/css/reset.css"><link rel="stylesheet" type="text/css" href="/ACOGProject/ACOG/frontend/css/global.css">
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta id="keywords" name="keywords"><meta id="description" name="description"><link rel="stylesheet" type="text/css" href="/ACOGProject/ACOG/frontend/css/reset.css"><link rel="stylesheet" type="text/css" href="/ACOGProject/ACOG/frontend/css/global.css">
     <!--[if IE 8]>
         <link rel="stylesheet" media="screen" type="text/css" href="../ACOGProject/ACOG/frontend/css/ie8.css" />
     <![endif]-->
@@ -14,9 +14,9 @@
         <link rel="stylesheet" media="screen" type="text/css" href="../ACOGProject/ACOG/frontend/css/ie6.css" />
     <![endif]-->
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ACOGProject/ACOG/frontend/js/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-    <script type="text/javascript" src="/ACOGProject/ACOG/frontend/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.19/jquery-ui.min.js"></script>
 
     <script type="text/javascript" src="/ACOGProject/ACOG/frontend/js/jquery.jcarousel.min.js"></script>
 
@@ -29,30 +29,6 @@
     </script>
 
     <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f903b6111596157"></script>
-
-    <script type="text/javascript">
-        if (typeof jQuery != 'undefined') {
-            jQuery(document).ready(function($) {
-                var filetypes = /\.(zip|pdf|doc*|xls*|ppt*|jpg|ashx)$/i;
-                var baseHref = '';
-                if (jQuery('base').attr('href') != undefined)
-                    baseHref = jQuery('base').attr('href');
-                jQuery('a').each(function() {
-                    var href = jQuery(this).attr('href');
-                    if (href && href.match(filetypes)) {
-                        jQuery(this).click(function() {
-                            var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
-                            var filePath = href;
-                            _gaq.push(['_trackEvent', 'Download', extension, filePath]);
-                            if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
-                                setTimeout(function() { location.href = baseHref + href; }, 200);
-                                return false;
-                            }
-                        });
-                    }
-                });
-            });
-        }</script>
 
     <script type="text/javascript" language="JavaScript">
         function keydown(e, s) {
@@ -82,6 +58,41 @@
 
     </script>
 
+    <script type="text/javascript">
+        if (typeof jQuery != 'undefined') {
+
+            jQuery(document).ready(function($) {
+                var filetypes = /\.(zip|pdf|doc*|xls*|ppt*|jpg|ashx)$/i;
+                var baseHref = '';
+                if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+                jQuery('a').each(function() {
+                    var href = jQuery(this).attr('href');
+                    if (href) {
+
+                        if (href.indexOf('?') != '-1') {
+                            href = href.substring(0, href.indexOf('?'));
+                        }
+
+                        if (href.match(filetypes)) {
+                            jQuery(this).click(function() {
+                                var extension = String((/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined);
+                                var filePath = String(href);
+
+                                _gaq.push(['_trackEvent', 'Download', extension, filePath]);
+                                if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                                    setTimeout(function() {
+                                        location.href = baseHref + href;
+                                    }, 200);
+                                    return false;
+                                }
+                            });
+                        }
+                    }
+                });
+            });
+        }
+</script>
+
     <script type="text/javascript" language="JavaScript">
 
         var homeCarouselAutoStart = true;
@@ -100,33 +111,34 @@
 </head>
 <body>
     <form method="post" action="Privacy_Statement" id="mainform">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ5MDQyNjcxM2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEUltYWdlQnV0dG9uU2VhcmNoYKyitiltSCnRwsY/bnd813TtzfA=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwOTIwMzQ2MWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEUltYWdlQnV0dG9uU2VhcmNoc2AciizfW37ty+gOQlJn32aRy00=">
 
 
 <script src="/ScriptResource.axd?d=wNeFB5F3uyDxjd45Nk5gjjJxPIVZq4z7e2ZbCxImzZGDxq3xbrhnfkMgD6cbnmDZ9iJtQO79dxk8MO9DcjTkSSbSXWhlzpjdOPjaya3WreLWWMlr64JxL081GslQkzUubK_J5oN2Op3CtUSW0RjcJ9kQXeQ1&amp;t=ffffffff940d030f" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLjwfawBQL8jpGTBgK4+MX7DaTJdf6bwL+A6oYI7f33QLQur4HQ">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLl1LnoBQL8jpGTBgK4+MX7DSS1c8Qa8iMdyXMboOtgr6R0Zhr9">
+    
     
     
     <div id="pageLeader" class="advertise_leader">
         <div>
+
             <!-- BEGIN RICH-MEDIA Wolters Kluwer CODE -->
 
             <script type="text/javascript" language="JavaScript">
                 rnum = Math.round(Math.random() * 100000);
                 ts = String.fromCharCode(60);
                 if (window.self != window.top) { nf = '' } else { nf = 'NF/' };
-                document.write(ts + 'script src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=468x60A|728x90A/' + rnum + '/' + nf + 'RETURN-CODE/JS/">' + ts + '/script>');
-            </script><script src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=468x60A|728x90A/64994/NF/RETURN-CODE/JS/"></script>
-
+                document.write(ts + 'script src="http://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=728x90A/NZ/' + rnum + '/' + nf + 'RETURN-CODE/JS/">' + ts + '/script>');
+            </script><script src="http://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=728x90A/NZ/33446/NF/RETURN-CODE/JS/"></script>
             <noscript>
-                <a href="http://www.burstnet.com/ads/ad22661a-map.cgi/ns/v=2.3S/sz=468x60A|728x90A/"
-                    target="_top">
-                    <img src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/ns/v=2.3S/sz=468x60A|728x90A/"
-                        border="0" alt="Click Here" /></a>
+                <a href="http://www.burstnet.com/ads/ad22661a-map.cgi/ns/v=2.3S/sz=728x90A/" target="_top"><img src="http://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/ns/v=2.3S/sz=728x90A/" border="0" alt="Click Here" /></a>
             </noscript>
+
             <a href="/About_ACOG/Advertising.aspx"><font size="-2">Advertisement</font></a></div>
-        <!-- END Wolters Kluwer CODE -->
-    </div>
+            <!-- END Wolters Kluwer CODE -->
+
+        </div>
+    
     <div class="page_container">
         <div class="header">
             <div class="logo">
@@ -139,22 +151,22 @@
                 </p>
                 <ul class="social_networks">
                     
-                            <li><a href="http://www.facebook.com/ACOGNational" id="SocailMediaRepeater_SocialMediaHyperLink_0" target="_blank" class=""><img title="Facebook" src="/~/media/Icons/Social%20Media/facebook_icon.jpg" alt="Facebook"></a></li>
+                            <li><a href="http://www.facebook.com/ACOGNational" id="SocailMediaRepeater_SocialMediaHyperLink_0" title="$name" target="_blank" class=""><img title="Facebook" src="/~/media/Icons/Social%20Media/facebook_icon.jpg" alt="Facebook"></a></li>
                         
                             <li><a href="http://twitter.com/#!/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_1" title="Twitter" target="_blank" class=""><img title="Twitter" width="20" height="20" src="/~/media/Icons/Social%20Media/twitter_icon.jpg" alt="Twitter"></a></li>
                         
                             <li><a href="http://www.youtube.com/acognews" id="SocailMediaRepeater_SocialMediaHyperLink_2" title="Youtube" target="_blank" class=""><img title="YouTube" src="/~/media/Icons/Social%20Media/icon_youtube.jpg" alt="YouTube"></a></li>
                         
-                            <li><a href="http://acogpresident.org" id="SocailMediaRepeater_SocialMediaHyperLink_3" target="_blank" class=""><img title="Blogger" src="/~/media/Icons/Social%20Media/icon_blogger.jpg" alt="Blogger"></a></li>
+                            <li><a href="http://acogpresident.org" id="SocailMediaRepeater_SocialMediaHyperLink_3" title="$name" target="_blank" class=""><img title="Blogger" src="/~/media/Icons/Social%20Media/icon_blogger.jpg" alt="Blogger"></a></li>
                         
-                            <li><a href="/RSS" id="SocailMediaRepeater_SocialMediaHyperLink_4" class=""><img title="RSS Feed" src="/~/media/Icons/Social%20Media/rss20x20.gif" alt="RSS Feed"></a></li>
+                            <li><a href="/RSS" id="SocailMediaRepeater_SocialMediaHyperLink_4" title="$name" class=""><img title="RSS Feed" src="/~/media/Icons/Social%20Media/rss20x20.gif" alt="RSS Feed"></a></li>
                         
                 </ul>
             </div>
             <div class="header_utils">
                 <ul>
                     <li>
-                        <a id="HyperLinkForLoginPage" title="Member login" href="https://access.acog.org/eweb/dynamicpage.aspx?site=congress&amp;webcode=LoginRequired&amp;urlReq=http%3a%2f%2fwww.acog.org%2fAbout+ACOG%2fPrivacy+Statement.aspx%3f">Member login</a>
+                        <a id="HyperLinkForLoginPage" title="Member Login" href="https://access.acog.org/eweb/dynamicpage.aspx?site=congress&amp;webcode=LoginRequired&amp;urlReq=http%3a%2f%2fwww.acog.org%2fAbout+ACOG%2fPrivacy+Statement.aspx%3f">Member Login</a>
                         &nbsp;
                         
                     </li>
@@ -334,7 +346,7 @@
 </div>
 <div id="all_content_0_right_railDiv" class="right_rail">
     <div id="all_content_0_right_rail_0_rightRail">
-<div class="rrmodule"><a style="font-weight:normal;" href="/About_ACOG/Advertising.aspx"><font size="-2">Advertisement</font></a><!-- BEGIN RICH-MEDIA Wolters Kluwer CODE --><script type="text/javascript" language="JavaScript">rnum=Math.round(Math.random() * 100000);ts=String.fromCharCode(60);if (window.self != window.top) {nf=''} else {nf='NF/'};document.write(ts+'script src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=120x600A|160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');</script><script src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=120x600A|160x600A/39174/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad22661a-map.cgi/ns/v=2.3S/sz=120x600A|160x600A/" target="_top"><img src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/ns/v=2.3S/sz=120x600A|160x600A/" border="0" alt="Click Here" /></a></noscript><!-- END Wolters Kluwer CODE --></div></div>
+<div class="rrmodule"><a style="font-weight:normal;" href="/About_ACOG/Advertising.aspx"><font size="-2">Advertisement</font></a><!-- BEGIN RICH-MEDIA Wolters Kluwer CODE --><script type="text/javascript" language="JavaScript">rnum=Math.round(Math.random() * 100000);ts=String.fromCharCode(60);if (window.self != window.top) {nf=''} else {nf='NF/'};document.write(ts+'script src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=120x600A|160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');</script><script src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/v=2.3S/sz=120x600A|160x600A/32308/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad22661a-map.cgi/ns/v=2.3S/sz=120x600A|160x600A/" target="_top"><img src="https://www.burstnet.com/cgi-bin/ads/ad22661a.cgi/ns/v=2.3S/sz=120x600A|160x600A/" border="0" alt="Click Here" /></a></noscript><!-- END Wolters Kluwer CODE --></div></div>
 
 </div>
 
@@ -368,8 +380,8 @@
                                 Sitemap</a></li>
                         
                 </ul>
-                <div id="footerText"><p>American Congress of Obstetricians and Gynecologists</p>
-<p>PO Box 70620, Washington, DC 20024-9998</p></div>
+                <div id="footerText"><p>American Congress of Obstetricians and Gynecologists<br>
+409 12th Street SW, Washington, DC&nbsp; 20024-2188 | Mailing Address: PO Box 70620, Washington, DC 20024-9998</p></div>
             </div>
             <div id="copyright" class="copyright"><p>Copyright 2012. All rights reserved. Use of this Web site constitutes acceptance of our <a href="/About_ACOG/Terms_of_Use">Terms of Use</a></p></div>
         </div>
