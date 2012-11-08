@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glow.net.pk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501114121id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glow.net.pk privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108234823id_/http%3A//www.waridtel.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Warid Telecom :: Privacy Policy
 
