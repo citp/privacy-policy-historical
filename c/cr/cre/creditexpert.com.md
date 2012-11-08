@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditexpert.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527114431id_/http%3A//www.creditexpert.com/Message.aspx%3FPageTypeID%3DPrivacy%26SiteVersionID%3D2%26SiteID%3D100003%26sc%3D699999%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108111805id_/http%3A//www.creditexpert.com/Message.aspx%3FPageTypeID%3DPrivacy%26SiteVersionID%3D2%26SiteID%3D100003%26sc%3D699999%26bcd%3D) for the most accurate reproduction.*
 
 # CreditExpert.com - Experian Credit Manager
 
