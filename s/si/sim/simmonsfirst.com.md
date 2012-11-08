@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623091941id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108050732id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We will not disclose information about you to anyone except as disclosed in our 
 
 ** [Click Here to view Simmons First's Notice Of Your Financial Rights](https://web.archive.org/privacy_policy/priv_pol.aspx) **
 
-**[Click Here for Printable **Notice Of Your Financial Privacy Rights**](http://www.simmonsfirst.com/!userfiles/privacy/notice_financial_privacy_rights.pdf) **
+**[Click Here for Printable **Notice Of Your Financial Privacy Rights**  ](https://web.archive.org/%21userfiles/privacy/notice_financial_privacy_rights.pdf)**
 
 **ADDITIONAL WAYS TO MAKE YOUR BANKING WITH SIMMONS FIRST MORE SECURE**
 
