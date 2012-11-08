@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322064656id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108080449id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | akonter
 
@@ -23,7 +23,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-akonter is a social bookmarking, bookmarks, your favorite lets you easily connect and share bookmark, save all your favorite websites, Shopping, news, story 
+akonter is a social bookmarking, bookmarks, your favorite lets you easily connect and share bookmark, save all your favorite websites, Shopping, business, news, story. 
 
 [ ](https://web.archive.org/submit/)
 
