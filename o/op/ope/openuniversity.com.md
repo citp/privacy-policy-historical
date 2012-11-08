@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the openuniversity.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224225656id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openuniversity.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108165224id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
 
 # Website privacy at the OU | About the OU | Open University
 
 This page describes how you can access any personal information the OU may hold, and how we may use cookies to monitor usage patterns across the OU website. You may wish to print this page. 
 
-There are particular circumstances regarding the **OpenLearn** website (the OU's open content initiative) - see [OpenLearn privacy statement.](http://admin-and-governance/policies-and-statements/website-privacy-openlearn)
+There are particular circumstances regarding the **OpenLearn** website (the OU's open content initiative) - see [OpenLearn privacy statement.](http://www8.open.ac.uk/about/main/admin-and-governance/policies-and-statements/website-privacy-openlearn)
 
 ## Access to your personal information
 
@@ -30,6 +30,15 @@ We may use the personal information that you provide when you enquire or registe
 
 
 
+## SocialLearn
+
+SocialLearn is the latest evolution of online learning from The Open University, providing an effectual learning space that gives you control of what and how you learn, and with whom, by harnessing the power of the web and the energy of social networking. There is also a research aspect to SocialLearn and as such the following clauses related to SocialLearn users:
+
+  * The Open University supports the development of SocialLearn. Use of and contributions to SocialLearn are monitored, evaluated and reported for this and associated work. The associated research programme currently deals with the practice of producing a social learning resource and with how people can learn within online social networks.
+  * ﻿We use third-party analytics on SocialLearn. These capture information about the use of SocialLearn. The team operating SocialLearn will use this data to help us monitor and improve SocialLearn.
+
+
+
 ## Freedom of Information Act Publication Scheme
 
 Use the link below to find a guide to the University's publication scheme which consists of nine groups of classes of information. Each class contains descriptions of the information available and the links to it. The site also contains information about the FoI Act and its implementation.
@@ -45,6 +54,8 @@ Some parts of The Open University website store a cookie on your computer to tra
 If you prefer not to receive cookies while browsing our website, you can set your browser to refuse all cookies that are stored on your computer. You do not need to have cookies turned on to use or navigate through many parts of our website.
 
 If you are a registered user of the University and wish to sign in to password protected websites you will need to allow "per-session" cookies. These are only stored on your computer for the duration of your visit and are deleted when you close your browser or sign out of The Open University website.
+
+For more detailed information see [Cookie use on the OU website](http://www8.open.ac.uk/about/main/admin-and-governance/policies-and-statements/cookie-use-the-ou-website)
 
 ## Security
 
