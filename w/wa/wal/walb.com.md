@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walb.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508230058id_/http%3A//www.walb.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walb.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108164009id_/http%3A//www.walb.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WALB.com, Albany News, Weather, Sports
 
