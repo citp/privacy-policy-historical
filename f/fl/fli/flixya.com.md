@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flixya.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626143625id_/http%3A//www.flixya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixya.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108164123id_/http%3A//www.flixya.com/privacy-policy) for the most accurate reproduction.*
 
-# Flixya - Share Videos, Photos, Blogs, Make Money
+# Flixya - Share Videos, Photos, Blogs
 
 As a condition to using the Service, you agree to the terms of the Flixya Privacy Policy as it may be updated from time to time. Flixya understands that privacy is important to you. You do, however, agree that Flixya may monitor, edit or disclose your personal information, including the content of your emails, if required to do so in order to comply with any valid legal process or governmental request (such as a search warrant, subpoena, statute, or court order), or as otherwise provided in these Terms of Use and the Flixya Privacy Policy. Personal information collected by Flixya may be stored and processed in the United States. By using Flixya, you consent to any such transfer of information outside of your country.
 
