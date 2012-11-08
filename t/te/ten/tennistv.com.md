@@ -1,74 +1,121 @@
-> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511205737id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108130939id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TennisTV.com
 
-**PLEASE READ THE FOLLOWING CAREFULLY BEFORE YOU USE THE SITE. If you do not accept the terms of this Privacy Policy, you should exit the Site now.  
-**
+**_PRIVACY POLICY_**
 
-We reserve the right to change the terms of this Privacy Policy from time to time.  
+This Privacy Policy explains how Perform Media Services Limited (" **Perform** ") together with other companies within the Perform Group(which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the " **Perform Group** ") and Tennis Properties Limited (" **TPL** ") use information we collect about you and the choices you can make about the way your information is collected and used. 
 
+Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found at [Terms of Use](http://www.tennistv.com/terms-of-use).
 
-1\. What information do we hold about you and how is it collected?
+By your use of the Website you consent to the terms and conditions of this Privacy Policy.
 
+Additionally, the Website contains links to websites that are not operated by Perform Group or TPL. These third parties may collect data from you and share some of that data with us. Perform Group and TPL are careful when choosing their partners, sponsors, and affiliates, but neither Perform Group nor TPL areresponsible for any misuse of personal information by such third parties.We recommend that you view the Privacy Policy posted on each Website that you use to confirm that the companies' policies are acceptable to you.
+
+**_1\. PERSONALLY IDENTIFIABLE INFORMATION AND HOW IT IS USED_**
+
+When using the Services, we may ask you to provide all or some of the following information: your name, your address, your email address, banking details, your telephone number, and your age (" **Personal Information** "). We may also ask you to provide your thoughts or answer some questions about your favourite events, personalities, and other subjects of interest to sports fans. 
+
+In order to purchase any live events viewable on this Website, participate in any contest or message feature, download any content, take part in any other interactive feature of the Websites, or receive information from Perform Group or TPL, such as newsletters or email regarding upcoming the Services you must register and provide accurate information about yourself to the Websites, as the Services may not work properly without such information.
+
+Perform Group and TPL may use the Personal Information you provide to us to do some or all of the following: 
+
+-provide you with personalised visits to our site;
+
+-recommend goods, services or promotions which may be of interest to you (but only where you have requested us to do so);
+
+-develop our offers and the layout of our site to ensure that our services are as useful and enjoyable as possible;
+
+-contact you in order to conduct market research; and
+
+-send out email alerts you may have signed up for.
+
+Perform Group and TPL will not, however, sell or lease your Personal Information to third parties not associated with Perform Group or TPL, or their respective partners, sponsors, and affiliates.
+
+If you do not wish to receive marketing and promotional communications from us or our partners, sponsors, and affiliates, you can choose to opt-out when providing your Personal Information to us. You can also opt-out by updating your user profile on the Website. 
+
+Please note: If you do decide to opt-out of receiving information, Perform Group and TPL will be unable to keep you informed of any new products, services, or special offers that may interest you and it will have an impact on our ability to inform you of any live events or important information as part of any subscription service you may have.
+
+**_2\. SECURITY_**
+
+We understand that the security of your Personal Information is important to you.When handling Personal Information, security is paramount and we have in place a security policy which ensures that Personal Information is adequately protected.Your Personal Information is password protected, and any Personal Information you provide to us is protected from unauthorised disclosure by reasonable technological measures. Personal Information provided to Perform Group or TPL is not, however, transmitted via SSL encryption technology. We recommend that you do not divulge your password to anyone. 
+
+**_3\. AGGREGATED INFORMATION_**
+
+To evaluate the Websites and ensure that we are providing Content and Services of interest to you, we may collect and store statistical information regarding how you use the Websites, the name of your internet service provider, any websites that referred you to the Websites, and the time and date you view the Websites. We may also use Personal Information to develop demographic information regarding Website users. Such aggregated information will not identify you personally. We may share this aggregated, statistical information with our partners, sponsors, affiliates, and other third parties.
+
+We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to [customerservices@performgroup.com](mailto:customerservices@performgroup.com) letting us know.
+
+**_4\. COOKIES_**
+
+﻿We use cookies in order to ensure the website functions properly and to improve your user experience. Cookies are usually a string of numbers and/or letters that a website transfers to your hard drive. The cookies enable the website to "remember" you, either for the duration of your visit (session cookies) or for repeat visits (persistent cookies). We recommend that you visit the websites [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.cookiecentral.com](http://www.cookiecentral.com/) if you would like in-depth information about cookies.
+
+On this website, we use the following types of cookies:
+
+**Strictly necessary cookies**
+
+| 
+
+These cookies are essential to enable you to navigate around the site securely and to provide you with services you have specifically requested. For instance, they help ensure that payments are processed securely.  
   
-When you register on this Site, some personal information (including your name and email addresses) is collected by us. You may also be asked for your personal information at other times on this Site - in connection with activities such as competitions, chat and voting. In common with many other online services, we may use "cookies" to store and track information about you. A cookie is a small amount of data sent from the server and stored on your PC's hard drive. Most web browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies or ask your browser to show you where a cookie has been set up. Certain services are only activated by the presence of a cookie and, if you choose to refuse cookies, particular features of this Site may not be available to you.
-
+---|---  
   
-2\. What do we do with your personal information?
+**Functionality cookies**
 
+| 
+
+These cookies enhance the functionality of the website by storing your preferences. For instance, they can remember your name and location, if you provide this information.  
   
-We will combine the different types of data to create a membership profile for you. This helps us to provide you with a more personalised service which is tailored to suit your needs. The more  
-information we have, the better the service we can provide.
+**Performance cookies**
 
+| 
+
+These cookies improve the performance of the website. For instance, they help pages load quicker.  
   
-Your personal information may be disclosed by us to the ATP or WTA or other reputable suppliers selected by us from time to time. It will be used for the following purposes:
+**Online behavioural cookies**
 
+| 
+
+These cookies (some of which are also known as tracking cookies) store information about your behaviour online, such as your browsing history. For instance, they help us tailor the advertising we show to you to your interests.  
   
-(i) to update and develop records and for assessment and analysis including market and service/product analysis;
+Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. You are not obliged to accept cookies and you can adjust your browser's setting to prevent it from accepting cookies on your computer - go to www.cookiecentral.com for instructions on how to disable cookies. However, you may not be able to take full advantage of our site or use certain functions if you disable cookies. 
 
-(ii) to assist in the provision of services/products to you; and
+If you register with us or if you continue to use our site, you agree to our use of cookies.
 
-(iii) to facilitate reviews, developments and improvements to the services/products offered to you.
+**_5\. DISCLOSURE FOR LAW ENFORCEMENT PURPOSES_**
 
-  
-3\. What do we do with your financial information?
+Perform Group and TPL reserve the right to access and disclose Personal Information to comply with applicable laws and lawful government requests, to operate their systems properly, or to protect themselves or others. Perform Group or TPL may attempt to obtain the prior consent of the individual before disclosing the Personal Information, but they have no obligation to do so.
 
-  
-We will use your financial information to enable payment authorisation and billing for products and services. When you make a purchase on this Site, your consent is given to provide your financial information and personal information to those third parties necessary to process your transactions with us, such as credit card companies, banks and companies that handle delivery and shipping on our behalf. This includes exchanging information with other companies and organisations for fraud protection and credit risk protection.
+**_6\. PARENTS & GUARDIANS_**
 
-  
-We will not share your financial information with third parties without your consent for any other reason.
+This Website is a general audience Website. We do not knowingly collect and/or share Personal Information from children under the age of thirteen on the Website. However, your child cannot use some of the interactive features of the Website without providing Personal Information. We therefore recommend using the Website with your child if he or she is interested in participating in an interactive feature of the Website.
 
-  
-4\. What are your choices?
+If, in the future, Perform Group or TPL actively collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998
 
-  
-By law, you are entitled to:
+**_7\. ACCESS TO YOUR INFORMATION_**
 
-(i) object to your personal information being used for marketing purposes. We give you the choice to opt-in to our using, or supplying your personal information to TennisTV.com or to other reputable suppliers for these purposes. You can do this during the registration process by simply ticking the box provided.   
-(ii) receive, upon payment of a fee, a copy of any personal information about you which is held by us.  
-(iii) require the rectification, erasure or blocking of any of your personal information which is inaccurate or not up to date held by us.
+Data Protection law gives you various rights including the right to access the Personal Information that is held about you.
 
-  
-If you wish to exercise any of these rights, or if you wish to opt-out of any future processing of your personal information held by us, then please contact [customerservices@performgroup.com](mailto:customerservices@performgroup.com) stating your full name and email address and providing any other relevant information.
+We, as data controller, are required to provide you with copies of all the Personal Information we hold about you, on payment of a nominal administration charge of £10.If you wish to access the Personal Information held by us, you should therefore contact us at [customerservices@performgroup.com](mailto:customerservices@performgroup.com).
 
-  
-5\. When does this Privacy Policy not apply?
+You can also request at any time that the Personal Information we hold about you is updated or corrected.
 
-  
-This Privacy Policy only applies to the collection of data by us and the use of that data by us and those we authorise. It does not cover third party sites to which we provide links, nor does it cover advertisers and content partners within our service who may also collect your personal information. They may have their own privacy policies and/or terms and conditions of use.
+_**8\. YOUR ACCEPTANCE OF THESE TERMS**_
 
-  
-If you choose to place your personal details on any publicly accessible page (for example, on Cover it Live), then this data will not be covered by the Privacy Policy.
+If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose Personal Information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
 
-  
-6\. How do we protect your information?
+If you have any questions or comments about this Privacy Policy please feel free to contact us at [customerservices@performgroup.com](mailto:customerservices@performgroup.com)
 
-  
-TennisTV.com is firmly committed to data security. When you place orders or access your account information, we offer use of a secure server. The secure server software encrypts all information before it is sent to us. We take steps to guard against unauthorised access to customer data. Although we make every effort to create a secure environment for your personal information, we cannot guarantee the safety of any personal information which you transmit to us online.
+**_Registered Office:_**
 
-  
-7\. How do you contact us?
+Perform Media Services Limited
 
-  
-Please visit the contact us page here: <http://www.tennistv.com/page/ContactUs>
+Sussex House
+
+Plane Tree Crescent
+
+Feltham TW13 7HE
+
+Tel: (0)20 3372 0600
+
+Registered No: 03426471
