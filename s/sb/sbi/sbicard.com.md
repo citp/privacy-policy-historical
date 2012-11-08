@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505191543id_/http%3A//www.sbicard.com/header_footer_pages/privacy_policy_0_121329.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109000124id_/http%3A//www.sbicard.com/header_footer_pages/privacy_policy_0_121329.html) for the most accurate reproduction.*
 
 # Privacy Policy|SBI Card | Make life simple
 
