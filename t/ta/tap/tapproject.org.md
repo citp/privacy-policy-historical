@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapproject.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512034405id_/http%3A//www.tapproject.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapproject.org privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108121313id_/http%3A//www.tapproject.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
