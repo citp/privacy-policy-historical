@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627072536id_/http%3A//www.galls.com/staticpage-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108011942id_/http%3A//www.galls.com/cgi/CGBCPAGE%3FPMPAGE%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy and Security - Police Gear - Police Equipment - Police Uniforms - Public Safety Equipment: Galls
 
@@ -21,7 +21,7 @@ Galls collects personal information you give us when you visit our site; contact
 
 We may also collect and record non-personal information regarding the types of products ordered on the site, information on how many visits each page receives and user-specific information on what pages on the site were visited. We may track the page you visited before coming to our site and the page you link to when you leave. And we obtain certain types of technical information when your Web browser accesses Galls.com such as your Internet protocol (IP) address (a unique number that identifies your Internet access), the domain name and host from which you access the Internet and computer and connection information such as browser type and version and operating system. We may utilize and possibly download software tools that measure and collect session information including download errors, visit length to certain pages, page response times and technical interaction information regarding scrolling, clicks and other methods used to browse the site's pages.
 
- _Cookies_  
+_Cookies_  
 
 
 Like many Web sites, we receive and store certain types of information automatically through the use of "cookies." Cookies are files that your Web browser places on your computer's hard drive that enable us to track your experience on our site and therefore customize our site for our customers in order to provide a more enjoyable shopping experience. You may set your browser to reject cookies, but this may limit your ability to take full advantage of some of the features offered on our site.
@@ -45,13 +45,13 @@ The information we collect is used to better serve our customers by making their
 
 Galls does share customer information under the limited conditions described below:
 
- _Agents_
+_Agents_
 
 : Galls shares certain customer information with its third party business agents as described in Section 2. The provision of personally-identifiable information to such third parties is for our own business purposes, such as to process your order or to provide services for us.
 
- _Other_
+_Other_
 
-: Galls, from time to time, shares mailing list information with 3rd parties. If you would prefer us not to include you on these lists, please write to us at: Galls, 2680 Palumbo Drive, PO Box 54308 Lexington, Kentucky 40555-4308, call us at (800) 477-7766 (or e-mail us at [help-desk@galls.com](mailto:help-desk@galls.com) with your full name in the subject line). Please be sure to include your first name, last name, address, city, state, zip code, and phone number to ensure we can process your request. We will process your request promptly, but please note that you may receive additional contacts before your name removal takes effect. We regret any inconvenience this may cause.
+: Galls, from time to time, shares mailing list information with 3rd parties. If you would prefer us not to include you on these lists, please write to us at: Galls, 1340 Russell Cave Road, Lexington, KY 40505, call us at (800) 477-7766 (or e-mail us at [help-desk@galls.com](mailto:help-desk@galls.com) with your full name in the subject line). Please be sure to include your first name, last name, address, city, state, zip code, and phone number to ensure we can process your request. We will process your request promptly, but please note that you may receive additional contacts before your name removal takes effect. We regret any inconvenience this may cause.
 
 Galls occasionally sends e-mail offers to certain customers. If you would prefer to not be included in our e-mail campaigns, see your options in section 5 of this privacy policy below.
 
@@ -60,7 +60,7 @@ Notwithstanding anything else in this policy, we may disclose personal and other
 5\. Customer Options  
 
 
-As discussed above, you can always choose not to be included in mailing lists or in e-mail marketing campaigns. In addition to these requests, if you do not wish to be included in online marketing efforts, wish to have your name removed from a mailing list or wish to correct or update personal information we have for you, e-mail us at [help-desk@galls.com](mailto:help-desk@galls.com) with your full name in the subject line. If you prefer, you can send us a letter at the following address: Galls, 2680 Palumbo Drive, PO Box 54308 Lexington, Kentucky 40555-4308, call us at (800) 477-7766. We will process your request promptly, but please note that you may receive additional contacts before your request takes effect. We regret any inconvenience this may cause.
+As discussed above, you can always choose not to be included in mailing lists or in e-mail marketing campaigns. In addition to these requests, if you do not wish to be included in online marketing efforts, wish to have your name removed from a mailing list or wish to correct or update personal information we have for you, e-mail us at [help-desk@galls.com](mailto:help-desk@galls.com) with your full name in the subject line. If you prefer, you can send us a letter at the following address: Galls, 1340 Russell Cave Road, Lexington, KY 40505, call us at (800) 477-7766. We will process your request promptly, but please note that you may receive additional contacts before your request takes effect. We regret any inconvenience this may cause.
 
 6\. Security Procedures in Place to Protect Information  
 
@@ -93,7 +93,7 @@ _Links_
 
 We may provide links to third party web sites on the Galls site. We are not responsible for the content or information collection practices of those pages. Likewise, Galls cannot be responsible for policies relating to privacy on any of such linked web sites. We strongly advise you to review the policies at any web site you visit.
 
- _Notification of Changes_  
+_Notification of Changes_  
 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, and any other places we deem appropriate. We may notify our customers as appropriate via e-mail and/or by posting a notice on this site for 30 days if at some future time there is a material change to our information usage practices that affect your personally identifiable information, but you should check this privacy policy frequently for changes.
@@ -107,6 +107,5 @@ By Telephone: (800) 477-7766
 
 By Mail:  
 Galls  
-2680 Palumbo Drive  
-PO Box 54308  
-Lexington, KY 40555-4308
+1340 Russell Cave Road  
+Lexington, KY 40505
