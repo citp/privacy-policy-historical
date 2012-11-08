@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the rothira.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510042905id_/http%3A//www.rothira.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rothira.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108014238id_/http%3A//www.rothira.com/privacy-policy) for the most accurate reproduction.*
 
 # RothIRA.com Privacy Policy | RothIRA
 
-_Last Revised: February 22, 2012_
+_Last Revised: October 19, 2012_
 
 This privacy policy (“Policy”) explains how personal information is collected, used and disclosed by Retirement Online LLC (“Retirement Online LLC”, “we” or “us”) with respect to your access and use of Retirement Online LLC’s website about Roth IRAs located at [www.RothIRA.com](http://www.rothira.com/) (the “Site”) and the service which are available via the Site.
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made to this Policy by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time-to-time to make sure that you understand how any personal information you provide to us will be used.
+We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made to this Policy by indicating on this Policy the date it was last updated. We encourage you to review this Policy from time-to-time to make sure that you understand how any personal information you provide to us will be used. 
 
 ### What Is Personal Information?
 
-As used in this Policy, the term "personal information" means information that specifically identifies an individual (such as the name you provide via the Site and your e-mail address) or information about an individual that is directly linked to personal information. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
+As used in this Policy, the term "personal information" means information that specifically identifies an individual (such as the name you provide via the Site and your e-mail address) or information about an individual that is directly linked to personal information. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. 
 
 ### What Information Do We Collect?
 
-_Active Collection_ : We collect information from you in various ways when you visit the Site. For example, we collect information that you voluntarily provide to us, such as when you provide a comment. Such information may include personal information, such as the name you provide and your e-mail address.
+Active Collection: We collect information from you in various ways when you visit the Site. For example, we collect information that you voluntarily provide to us, such as when you provide a comment. Such information may include personal information, such as the name you provide and your e-mail address.
 
-_Passive Collection_ : When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, your browser type, the address of a referring website, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, this information is used in the aggregate only.
+Passive Collection: When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, your browser type, the address of a referring website, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, this information is used in the aggregate only.
 
 We may also automatically collect certain information through the use of "cookies." Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us to improve the Site, and your experience on the Site. If we link cookies to any personally identifiable information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services on the Site.
 
@@ -52,6 +52,8 @@ We will not knowingly share the personal information we collect from you through
   * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of the business assets of Retirement Online LLC.
 
 
+
+ By posting a message, you accept that your message and other personal details about you will be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Mollom's privacy policy](http://mollom.com/web-service-privacy-policy). 
 
 We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to any other users or third parties, and we encourage you to become familiar with third party privacy practices before disclosing information directly to any such third parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
 
