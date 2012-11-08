@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510033126id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiconsumption.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108134618id_/http%3A//hiconsumption.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Hi Consumption
+# Privacy | HiConsumption
 
 ## 1\. INTRODUCTION
 
-1.1. PURPOSE OF POLICY. Freshcom Media LLC, db@ FreshcomMedia.com, FreshLikeDougie.com, ThisBeatGoes.com, HiConsumption.com, Inthralld.com, and WatchMyKicks.com(“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+1.1. PURPOSE OF POLICY. Freshcom Media LLC, db@ FreshcomMedia.com, TheVersed.com, HiConsumption.com, and Inthralld.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2. NOTICE CONCERNING CHILDREN
 
