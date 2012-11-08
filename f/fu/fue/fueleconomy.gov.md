@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fueleconomy.gov privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501133936id_/http%3A//www.fueleconomy.gov/feg/ORNL-disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fueleconomy.gov privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108132932id_/http%3A//www.fueleconomy.gov/feg/ORNL-disclaimer.htm) for the most accurate reproduction.*
 
-# ORNL: Home: Disclaimers
+# Fuel Economy Guide Privacy/Security
 
-[ ](http://www.ornl.gov/)
+[ ](http://www.fueleconomy.gov/)
 
 **DISCLAIMERS **
 
@@ -32,8 +32,6 @@ Photographs of vehicles displayed on this web site were supplied by the manufact
 
 Oak Ridge National Laboratory web users are authorized to access only the documents listed on its menus. Users who attempt to gain unauthorized access to other data are subject to criminal and civil penalties under federal laws (including but not limited to PL 83-703 and 99-474). 
 
-**Privacy Statement**
-
 **Privacy Notice**
 
 We collect no personal information about you without your knowledge when you visit this site, although you may choose to provide this information to us in specific instances. However, we do collect and store certain information automatically:
@@ -53,9 +51,11 @@ You may choose to provide us with personal information, as in an e-mail message 
 
 **Cookies**
 
-The Find and Compare Cars section of fueleconomy.gov uses "session cookies" to temporarily keep track of your preferences and vehicle selections. These session cookies automatically expire in 30 minutes or when you close your browser. We retain no information regarding your preferences or selections; all of the information is discarded and non-retrievable.
+The Find and Compare Cars section of FuelEconomy.gov uses a "session cookie" to temporarily keep track of your preferences and vehicle selections. This session cookie automatically expire in 30 minutes or when you close your browser. We retain no information regarding your preferences or selections; all of the information is discarded and non-retrievable.
 
-"Persistent cookies" which are sometimes used to track user activity over multiple sessions are **not** used on this site.
+Optionally, FuelEconomy.gov provides a persistent cookie to remember personalized settings that effect fuel economy estimates. All persistent cookies used by FuelEconomy.gov are classified as Tier 2 by OMB Memorandum 10-22, Guidance for Online Use of Web Measurement and Customization Technologies. This means that these cookies do not collect users' personal information. 
+
+Although persistent cookies improve user experience, FuelEconomy.gov will function properly without them. Users can remove, disable, or be warned before accepting persistent cookies by enabling their browser settings. Instructions on how to do that are provided at <http://www.usa.gov/optout_instructions.shtml>. 
 
 * * *
 
