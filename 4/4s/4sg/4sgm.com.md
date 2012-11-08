@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4sgm.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510054035id_/http%3A//www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start%3FWorkingTemplate%3Dstatic%252FPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sgm.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108140934id_/http%3A//www.4sgm.com/is-bin/INTERSHOP.enfinity/WFS/4sgm-Storefront-Site/en_US/-/USD/ViewStatic-Start%3FWorkingTemplate%3Dstatic%252FPrivacyPolicy) for the most accurate reproduction.*
 
 # Wholesale PrivacyPolicy
 
