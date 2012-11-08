@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvalifesystem.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608055234id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvalifesystem.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108145721id_/http%3A//www.silvalifesystem.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mindvalley
 
@@ -64,7 +64,7 @@ It is mandatory for our tech team to wear these nerd glasses. This ensures 100% 
 
 [For more on data security, click here »](http://www.mindvalley.com/privacy-policy/#security)
 
-Got more questions? You can get a hold of our customer happiness manager at [support@mindvalley.com](https://web.archive.org/web/20120608055234id_/http%3A//www.mindvalley.com/:mailto:support@mindvalley.com) or [over here for more info »](http://www.mindvalley.com/contact)
+Got more questions? You can get a hold of our customer happiness manager at [support@mindvalley.com](https://web.archive.org/web/20121119120950id_/http://www.mindvalley.com/privacy-policy/:mailto:support@mindvalley.com) or [over here for more info »](http://www.mindvalley.com/contact)
 
 For the full and ever so much fun legalese, just read below :)
 
