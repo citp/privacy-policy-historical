@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enasco.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520034130id_/http%3A//www.enasco.com/page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enasco.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108033154id_/http%3A//www.enasco.com/page/policy) for the most accurate reproduction.*
 
 # NASCO's Privacy Policy Statement
 
