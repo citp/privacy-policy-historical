@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the upc.ie privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615003954id_/http%3A//www.upc.ie/termsandconditions/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upc.ie privacy policy that was archived on 2012-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108133504id_/http%3A//www.upc.ie/termsandconditions/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,17 +8,17 @@
 
 
 
-<meta name="page-id" content="20995356">
-<meta name="channel-id" content="88247">
-<meta name="parent-channel-id" content="87997 - termsandconditions">
+<meta name="page-id" content="21002859">
+<meta name="channel-id" content="93791">
+<meta name="parent-channel-id" content="93728 - termsandconditions">
 <meta name="interest-area" content="0">
 <meta name="page-type" content="0">
       
       
  <link rel="stylesheet" type="text/css" href="/style/pc/upccore/ie/v4/master.css">
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="/style/pc/upccore/ie/v4/quirks-ie9.css" /><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/style/pc/upccore/ie/v4/quirks-ie8.css" /><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/style/pc/upccore/ie/v4/quirks-ie7.css" /><![endif]--> 
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/style/pc/upccore/ie/v4/quirks-ie6.css" /><![endif]--> 
 <link rel="stylesheet" type="text/css" href="/style/pc/upccore/ie/v4/menu.css">
 <link rel="stylesheet" type="text/css" href="/style/pc/upccore/ie/v4/print.css" media="print"> 
 
@@ -32,7 +32,7 @@
       
       	<link rel="canonical" href="http://www.upc.ie/termsandconditions/privacypolicy/">
       
-    <script type="text/javascript" src="https://service.upc.ie/headerlink.php"></script></head>
+    <script type="text/javascript" async="" src="https://web.archive.org/web/20121108132855/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://service.upc.ie/headerlink.php"></script><script type="text/javascript" src="//web.archive.org/web/20121108132855/http://www.upc.ie/javascript/pc/stat/UPC-ie-20/SiteCatalyst.js"></script></head>
     <body>
       
 	
@@ -77,7 +77,7 @@
 	                            
 	                                <li><a target="_top" id="t_menu_tab_2" href="http://www.upc.ie/on_demand_tv/"><span>On Demand TV</span></a></li>
 	                            
-	                                <li><a target="_top" id="t_menu_tab_3" href="http://www.upc.ie/deals/tvbroadbandphone/"><span>Bundles</span></a></li>
+	                                <li><a target="_top" id="t_menu_tab_3" href="http://www.upc.ie/deals/"><span>Bundles</span></a></li>
 	                            
 	                                <li><a target="_top" id="t_menu_tab_4" href="http://www.upc.ie/television/"><span>Television</span></a></li>
 	                            
@@ -85,7 +85,7 @@
 	                            
 	                                <li><a target="_top" id="t_menu_tab_6" href="http://www.upc.ie/phone/"><span>Home Phone</span></a></li>
 	                            
-	                                <li><a target="_top" id="t_menu_tab_7" href="http://www.upc.ie/customer_support/"><span>Help &amp; Support</span></a></li>
+	                                <li><a target="_top" id="t_menu_tab_7" href="http://www.upc.ie/customer_support/"><span>Help</span></a></li>
 	                            
 	                    </ul>
 	                
@@ -112,116 +112,15 @@
         <button type="submit" class="generic_button4" id="zoek_btn"><span>Search</span></button>       
     </form>
 </div>
+
+<div class="mboxDefault"><!----></div> 
+<script type="text/javascript"> mboxCreate('IE_shopping_basket_widget'); </script>
+
 <div class="mboxDefault"><!----></div>
 <script type="text/javascript">
 mboxCreate("IE_ShoppingBasket");
 </script>
 
-
-<!-- basket -->
-
-
-<script type="text/javascript" charset="utf-8">
-    (function () {
-        var labels = {
-                loading: 'Loading',
-                yourBasket: 'Shopping Basket',
-                isEmpty: 'Empty',
-                goToBasket: 'Go to Shopping Basket'
-            },
-            shoppingBasketURL = '/shop/rest/basket/jsonp?jsonp=renderBasket',
-            shoppingBasketLink = '/shop/basket/',
-            basketContainer = document.getElementById('basket_container');
-
-
-	window.renderBasket = updateBasket;
-        basketContainer.innerText = labels.loading + '...';
-        basketContainer.style.display = 'block';
-        
-        injectScript(shoppingBasketURL);
-
-
-        function updateBasket(response) {
-            try {
-                clearBasket();
-                var itemCount = response.simpleOrder.orderItems.length >> 0;
-
-                (itemCount > 0)
-                    ? showItemCount(itemCount)
-                    : showEmpty();
-            } catch (error) {
-                window.console && console.error(error);
-            }
-        }
-
-        function showItemCount(itemCount) {
-            var link = document.createElement('a');
-            
-            link.title = labels.goToBasket;
-            link.target = '_top';
-            link.href = shoppingBasketLink;
-            
-            var strong = document.createElement('strong');
-            
-            strong.appendChild(document.createTextNode(labels.yourBasket));
-            link.appendChild(strong);
-            
-            var span = document.createElement('span');
-            
-            span.appendChild(document.createTextNode(' (' + itemCount + ')'));
-            strong.appendChild(span);
-            
-            basketContainer.appendChild(link);
-        }
-
-        function clearBasket() {
-            var nodes = basketContainer.childNodes;
-
-            for (var i = 0, max = nodes.length; i < max; i++) {
-                basketContainer.removeChild(nodes[i]);
-            }
-        }
-
-        function showEmpty() {
-            var link = document.createElement('a');
-            
-            link.title = labels.goToBasket;
-            link.target = '_top';
-            link.href = shoppingBasketLink;
-            
-            var strong = document.createElement('strong');
-
-            strong.appendChild(document.createTextNode(labels.yourBasket));
-            
-            link.appendChild(strong);
-            link.appendChild(document.createTextNode(' ' + labels.isEmpty));
-            
-            basketContainer.appendChild(link);
-        }
-
-        function formatLink() {
-            var link = basketContainer.childNodes[0];
-
-            if (link && link.href) {
-                link.title = labels.goToBasket;
-                link.target = '_top';
-            }
-        }
-
-        function injectScript(source) {
-            var script = document.createElement('script');
-
-            script.type = 'text/javascript';
-            script.charset = 'utf-8';
-            script.src = source;
-
-            var headElements = document.getElementsByTagName('head');
-
-            if (headElements && headElements[0])
-                headElements[0].appendChild(script);
-        }
-    }());
-</script>
 
 <script type="text/javascript">
 window.setTimeout(
@@ -578,17 +477,22 @@ Please be aware that when you opt-out or request us to stop processing your Pers
 </div>
 <div class="ch_generic_maincontainer">
 <!----></div>
-<div class="ch_generic_footer"><a id="footer-88011" href="http://www.upc.ie/about_us/" target="_top">About us</a> | <a id="footer-87997" href="http://www.upc.ie/termsandconditions/" target="_top">Terms and Conditions</a> | <a id="footer-88142" href="/termsandconditions/privacypolicy/" target="_top">Privacy</a> | <a id="footer-88281" href="/termsandconditions/acceptableusagepolicy/" target="_top">Acceptable Usage Policy</a> | <a id="footer-88150" href="http://support.upc.ie/app/contact" target="_top">Contact us</a> | <a id="footer-88224" href="http://www.upc.ie/sitemap/" target="_top">Sitemap</a> | <a id="footer-88129" href="/about_us/upconsocialmedia/" target="_top">UPC on Social Media</a></div>
+<div class="ch_generic_footer"><a id="footer-93694" href="http://www.upc.ie/about_us/" target="_top">About us</a> | <a id="footer-93728" href="http://www.upc.ie/termsandconditions/" target="_top">Terms and Conditions</a> | <a id="footer-93927" href="/termsandconditions/privacypolicy/" target="_top">Privacy</a> | <a id="footer-94140" href="/termsandconditions/acceptableusagepolicy/" target="_top">Acceptable Usage Policy</a> | <a id="footer-93916" href="http://support.upc.ie/app/contact" target="_top">Contact us</a> | <a id="footer-94174" href="http://www.upc.ie/sitemap/" target="_top">Sitemap</a> | <a id="footer-94091" href="/about_us/upconsocialmedia/" target="_top">UPC on Social Media</a></div>
 
 
 	
 
-      <script type="text/javascript" src="/tracking/88247.js"></script>
+      <script type="text/javascript" src="/tracking/93791.js"></script>
       
           
 	
 	
 		<script type="text/javascript" src="/javascript/pc/upccore/mvt/omniture/mbox.js"></script>
+	
+
+	
+	
+		<script type="text/javascript" src="/javascript/pc/upccore/ie/mtagconfig.js"></script>
 	
 
         
