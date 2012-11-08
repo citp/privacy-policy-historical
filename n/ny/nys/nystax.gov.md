@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509042414id_/http%3A//nystax.gov/help/tech/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108204744id_/http%3A//nystax.gov/help/tech/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
