@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513185427id_/http%3A//www.essentialwholesale.com/s.nl/c.947034/sc.15/category.35942/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialwholesale.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108012726id_/http%3A//www.essentialwholesale.com/s.nl/c.947034/sc.15/category.35942/.f) for the most accurate reproduction.*
 
 # Privacy
 
