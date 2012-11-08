@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the kogan.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504125538id_/http%3A//www.kogan.com.au/website_tc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108140234id_/http%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
 
-# Kogan Privacy Policy
+# Kogan Privacy Policy - Kogan Australia
+
+  * [ **LivePrice™** Prepay & save ](https://web.archive.org/au/shop/?collection=live-price)
+  * [ **Sale** Hot Stock! ](https://web.archive.org/au/shop/?collection=on-sale)
+
+
 
 ### Introduction
 
-Kogan Australia Pty Ltd and its related bodies corporate from time to time (“Kogan”) is committed to protecting your privacy and respects and upholds your rights under the National Privacy Principles contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use and disclosure of personal information by Kogan as set out in this policy.
+Kogan is committed to protecting your privacy and respects and upholds your rights under the National Privacy Principles contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use and disclosure of personal information by Kogan as set out in this policy.
 
 ### Personal information
 
@@ -55,7 +60,7 @@ To opt out of receiving any further communication from Kogan, email [unsubscribe
 
 ### Contact information
 
-If you require further information regarding this policy or have any questions about its enforcement by Kogan, please contact us at [unsubscribe@kogan.com.au](mailto:unsubscribe@kogan.com.au).
+If you require further information regarding this policy or have any questions about its enforcement by Kogan, please contact us at [unsubscribe@kogan.com.au](mailto:unsubscribe@kogan.com.au) or call us on 1300 304 292 or send mail to: Attn: Privacy Officer, Kogan, GPO Box 2579, Melbourne VIC 3001. Our office is located at 71/73 Thistlethwaite Street, South Melbourne 3205.
 
 ### Kogan website
 
@@ -66,3 +71,7 @@ The Kogan website may use "cookies" to help personalise your online experience a
 ### Miscellaneous
 
 Kogan reserves the right to modify this Privacy Policy in whole or in part from time to time without notice and amendments will be effective immediately upon posting of the amended Privacy Policy on the Kogan website.
+
+We're having some problems reaching our server, so some of the features on this page might not be working properly.
+
+This problem has been reported and we hope to have it fixed soon.
