@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510044351id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108134343id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
 
 # Boston.com's Privacy Policy - Boston.com
 
-This policy was last updated on **March 21, 2012**.
+This policy was last updated on **June 20, 2012**.
 
 This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, Globe Reader, and our mobile messaging services and smartphone applications (collectively, the "Services"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Boston Globe" include Boston.com, BostonGlobe.com, The Boston Globe newspaper, and Boston Globe Services.
 
@@ -94,9 +94,9 @@ We reserve the right to change the vendors who provide us with usage data. If su
 
 **Log Files, Web Beacons, and Your Reading History:** We automatically log certain usage information about your use of the Services. This information includes a reading history of the pages you view.
 
-We will use this information in order to provide you with customized Recommendations on the Sites based on your reading history. 
+We use this information in order to provide you with customized Recommendations on the Sites based on your reading history. For more information on the Recommendations feature, please read the [Recommendations FAQ](http://boston.custhelp.com/app/answers/detail/a_id/254). We also use log files in the aggregate to analyze usage of our Web sites and mobile applications. 
 
-We also use log files in the aggregate to analyze usage of our Web sites and mobile applications. If you download and use the Globe Reader software application, the log files will automatically be collected by the application and sent to our servers when your computer syncs up for the latest news. 
+If you download and use the Globe Reader software application, the log files will automatically be collected by the application and sent to our servers when your computer syncs up for the latest news. 
 
 **Location Information:** Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store location information.
 
@@ -113,7 +113,7 @@ Please click [here](http://www.boston.com/help/privacyinformation1/) to see a li
 You have choices about the collection of information by third parties on our websites: 
 
 1.) If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).  
-2.) If you would like to opt-out of having interest-based information collected during your visits to this or other sites, click [click here](http://www.aboutads.info/choices/). 
+2.) If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here](http://www.aboutads.info/choices/). 
 
 Your access to our websites should not be affected if you do not accept cookies served by third parties.
 
