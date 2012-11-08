@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akonter.com privacy policy that was archived on 2012-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120322064656id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akonter.com privacy policy that was archived on 2012-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108080449id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		
@@ -15,11 +15,8 @@
   
 
 	<meta name="Language" content="en-us">
-	<meta name="Robots" content="All">
-		
+	<meta property="og:image" content="http://www.akonter.com/logo.png">
 	<link rel="stylesheet" type="text/css" href="/templates/akonter/css/style.css" media="screen">
-        <style type="text/css">.twitter_logon{background:url(./modules/twitter/templates/images/sign_in.gif) top left no-repeat;width:120px;height:20px;float:right;margin:0 2px 0 5px}.twitter_logon:hover{background-position:0 -40px}.twitter_logon:active {background-position:0 -20px}.twitter_connect{background:url(./modules/twitter/templates/images/twitter_connect.gif) top left no-repeat;width:120px;height:20px;float:right;margin:0 2px 0 5px}.twitter_connect:hover{background-position:0 -40px}.twitter_connect:active {background-position:0 -20px}</style>
-
 
 		<!--[if lt IE 7]>
 	<script type="text/javascript" src="/templates/akonter/js/jquery/jquery.js"></script>
@@ -36,12 +33,10 @@
 	
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.akonter.com/rss.php">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	
+	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
 			                	
 
-
-
-<script type="JavaScript">
+<script>
 function tweet_story(htmlid, linkid)
 {
 //	var emailtodisplay=document.getElementById('tweet-' + htmlid).style.display ? '' : 'none';
@@ -49,7 +44,7 @@ function tweet_story(htmlid, linkid)
 
 	if (xmlhttp) {
 		url = $thisurl + "/modules/twitter/sendtweet.php";
-		mycontent = "htmlid=" + htmlid + ";linkid=" + linkid;
+		mycontent = "htmlid=" + htmlid + "&linkid=" + linkid;
 		target2 = document.getElementById ('tweet-' + htmlid);
 		target2.innerHTML = "<img src='./modules/twitter/templates/images/tweet_sending.gif' width='110' height='20' style='border:0;padding:0;marign:0;' title='Sending Tweet...' alt='Sending Tweet...' />";	
 		
@@ -67,7 +62,7 @@ function tweet_story(htmlid, linkid)
 				if (mnmxmlhttp[htmlid].readyState == 4) {
 					if (mnmxmlhttp[htmlid].responseText.match (errormatch)) {
 						target2 = document.getElementById ('tweet-' + htmlid);
-						target2.innerHTML = '+mnmxmlhttp[htmlid].responseText.substring (6, mnmxmlhttp[htmlid].responseText.length)+';
+						target2.innerHTML = '<font color=red>'+mnmxmlhttp[htmlid].responseText.substring (6, mnmxmlhttp[htmlid].responseText.length)+'</font>';
 					} else {
 						target2 = document.getElementById ('tweet-' + htmlid);
 						target2.innerHTML = mnmxmlhttp[htmlid].responseText;
@@ -78,6 +73,9 @@ function tweet_story(htmlid, linkid)
 	}
 }
 </script>
+
+
+
 
 </head>
 <body dir="ltr">
@@ -97,7 +95,7 @@ function tweet_story(htmlid, linkid)
 			}//
 			</script>
 		
-		
+
 				
 		
 <!-- START HEADER.TPL -->
@@ -106,9 +104,48 @@ function tweet_story(htmlid, linkid)
 		
 			<a href="/register/">Register</a>
 		&nbsp; | &nbsp;
-		<a rel="nofollow" href="/login.php?return=%2Fstatic%2Fprivacy-policy%2F">Login</a>
+		<a rel="nofollow" href="/login.php?return=%2Fstatic%2Fprivacy-policy">Login</a>
     	
-	<a title="Twitter Logon" onclick="window.location.href='/modules/twitter/tweet.php?mode=start'"><div class="twitter_logon"></div></a>
+
+<style type="text/css">
+.icon-twitter {
+background: url(/modules/twitter/templates/images/twitter_icon_white.png);
+width:16px;
+height:16px;
+}
+
+.twitter_logon {
+background: url(/modules/twitter/templates/images/sign_in.gif) top left no-repeat;
+width:150px;
+height:20px;
+float:right;
+margin:0 8px 0 0;
+}
+
+.twitter_logon:hover {
+cursor:pointer;
+}
+.twitter_logon:active  {
+cursor:pointer;
+}
+
+.twitter_connect {
+background: url(/modules/twitter/templates/images/sign_in.gif) top left no-repeat;
+float:right;
+margin:0 8px 0 0;
+}
+.twitter_connect:hover {
+background-position: 0 -40px;
+}
+.twitter_connect:active  {
+background-position: 0 -20px;
+}
+</style>
+
+
+
+	| &nbsp; <a title="Twitter Logon" onclick="window.open(&quot;/modules/twitter/tweet.php?mode=start&quot;,&quot;new&quot;,&quot;width=500, height=300, toolbar=no, location=yes, directories=no, menubar=no, fullscreen=no&quot;); return false;"><div class="twitter_logon"></div></a>
+
 </div>
 
 <div id="logo">
@@ -144,7 +181,12 @@ var some_search='Search..';
 	<li><a href="/submit/">Submit a New Story</a></li>
 	<li><img src="/templates/akonter/images/nav-sep.gif" alt="Submit a New Story"></li>
 		
-			</ul>
+			
+<li><a href="http://www.akonter.com/module.php?module=amazon_shop">Shop</a></li>
+	            
+
+
+</ul>
 
 <!-- END NAVBAR -->
 
@@ -206,7 +248,7 @@ var some_search='Search..';
             	<div class="sectiontitle"><a href="/static/about/">What is akonter</a></div>
             </div>
                         <div id="aboutcontent">
-                akonter is a social bookmarking, bookmarks, your favorite lets you easily connect and share bookmark, save all your favorite websites, Shopping, news, story
+                akonter is a social bookmarking, bookmarks, your favorite lets you easily connect and share bookmark, save all your favorite websites, Shopping, business, news, story.
                             </div>
 <!-- END ABOUT -->	<!-- END ABOUT -->
 <div class="headline">
@@ -218,7 +260,6 @@ var some_search='Search..';
 <img src="/templates/akonter/images/tools.gif.png" alt="Tools"></a>
 <p></p>
 </div>
-
 	
 	<br>
 			
