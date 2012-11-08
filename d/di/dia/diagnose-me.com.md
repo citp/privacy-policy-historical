@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214120440id_/http%3A//www.diagnose-me.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108130550id_/http%3A//www.diagnose-me.com/privacy_policy.html%3Fn%3Db) for the most accurate reproduction.*
 
 # Diagnose-Me - Privacy Policy
 
@@ -88,7 +88,7 @@ Collection and Storage of your Medical Information
 
 * * *
 
-All PHI entered into the Questionnaire is encrypted using 256-bit SSL encryption provided by [Thawte, Inc](http://www.thawte.com/ "Open Thawte, Inc. web site in a new window").  In addition, due to the sensitive nature of medical data, Diagnose-Me.com _stores no data whatsoever_ on web servers that are accessible by the public.  When previously-typed data (such as your name) appears on our web pages, it is being retrieved from one of two sources: 
+Due to the sensitive nature of medical data, Diagnose-Me.com _stores no data whatsoever_ on web servers that are accessible by the public.  When previously-typed data (such as your name) appears on our web pages, it is being retrieved from one of two sources: 
 
   1. Cookies stored on your computer.  These files are _only_ accessible to users of your computer or the web site that created them;
   2. Encrypted hyperlinks sent in emails from Diagnose-Me.com to yourself and decrypted only when these links are followed.
@@ -150,7 +150,7 @@ Removing your Personal Information
 
 * * *
 
-If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20101214120440id_/http%3A//www.diagnose-me.com/contact.html) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
+If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20121108130550id_/http%3A//www.diagnose-me.com/contact.html) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
 
 If you do not receive adequate resolution of a privacy-related problem, you may write to Diagnose-Me.com's Privacy Office at:
 
