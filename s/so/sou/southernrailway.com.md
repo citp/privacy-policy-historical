@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000901id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108225346id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
@@ -10,18 +10,21 @@ Any information you give to us will be stored and used in accordance with our pr
 
 This Website is owned and operated by Southern Railway Limited trading as Southern, which is a wholly owned subsidiary of GOVIA Limited and is a part of the Go-Ahead Group Rail Division.
 
-Southern (company number 6574965) operates from its registered office at:
+Southern Railway Ltd is registered in England No. 06574965.
 
-Go-Ahead House  
-26-28 Addiscombe Road  
-Croydon CR9 5GA.  
-Surrey  
+Registered office:  
+3rd Floor,  
+41-51 Grey Street,  
+Newcastle Upon Tyne,  
+NE1 6EE
 
-GOVIA Limited (company number 3278419) has its registered office at:
+GOVIA Ltd is registered in England No. 03278419.
 
-3rd Floor  
-41-51 Grey Street  
-Newcastle upon Tyne NE1 6EE.
+Registered office:  
+3rd Floor,  
+41-51 Grey Street,  
+Newcastle Upon Tyne,  
+NE1 6EE
 
 * * *
 
