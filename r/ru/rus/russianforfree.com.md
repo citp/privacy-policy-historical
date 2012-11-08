@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianforfree.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531001919id_/http%3A//www.russianforfree.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianforfree.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108172317id_/http%3A//www.russianforfree.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy - Learn Russian for Free
 
