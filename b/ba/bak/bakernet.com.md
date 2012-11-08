@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105815id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108163936id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Baker & McKenzie
 
@@ -10,7 +10,7 @@ This Privacy Statement describes how Baker & McKenzie LLP (“Baker & McKenzie�
 
 In general, you can visit our Web Sites without telling us who you are or revealing any information about yourself. There are times, however, when we ask for personally identifiable information from you, such as your name, company, e-mail address, phone number, and address (“Personal Information”). We request this information in order to correspond with you, to provide you with a subscription to a newsletter or publication, to notify you about events, or otherwise to respond to your requests or provide you with information that we consider may be of interest to you. Where applicable, we will differentiate between personal data fields that are optional and those that are mandatory to obtain the requested information.
 
-If you receive a marketing e-mail from Baker & McKenzie, you will be provided with an automated way to opt out (unsubscribe) from that particular communication or from all marketing e-mails sent by our Firm. Please follow the instructions on the e-mail you received. If you have received unwanted e-mail from our Firm, please forward a copy of that e-mail to [unsubscribe@bakermckenzie.com](javascript:xSendMail\('unsubscribe','bakermckenzie.com'\);).
+If you receive a marketing e-mail from Baker & McKenzie, you will be provided with an automated way to opt out (unsubscribe) from that particular communication or from all marketing e-mails sent by our Firm. Please follow the instructions on the e-mail you received. If you have received unwanted e-mail from our Firm, please forward a copy of that e-mail to [Unsubscribe](javascript:xSendMail\('unsubscribe','bakermckenzie.com'\);).
 
 Please note that if you reply to a Baker & McKenzie address in one of our marketing e-mails or otherwise send a communication to us, your communication will not create a lawyer-client relationship with us. Do not send us any information that you or anyone else considers to be confidential or secret unless we have first agreed to be your lawyers in that matter. Any information you send us before we agree to be your lawyers cannot be protected from disclosure.
 
@@ -47,9 +47,9 @@ Baker & McKenzie reserves the right to change this Privacy Policy from time to t
 For questions or comments about our Privacy Statement, or if you need assistance accessing or updating information we have collected about you, please contact:
 
 Edward J Zulkey   
-130 E. Randolph Street   
-STE 2500   
-Chicago, IL 60601  
-[edward.zulkey@bakermckenzie.com](javascript:xSendMail\('edward.zulkey','bakermckenzie.com'\);)
+300 East Randolph Street, Suite 500   
+Chicago, Illinois 60601  
+United States  
+[Email: Edward Zulkey](javascript:xSendMail\('edward.zulkey','bakermckenzie.com'\);)
 
  Edward J. Zulkey, in the Firm's Global Services group in Chicago, is responsible for the content of this policy.
