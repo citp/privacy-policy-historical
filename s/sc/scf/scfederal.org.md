@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505063301id_/https%3A//www.scfederal.org/Privacy-Notice-5-11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108182950id_/https%3A//www.scfederal.org/Privacy-Notice-5-11) for the most accurate reproduction.*
 
 # South Carolina Federal Credit Union - for all your financial and banking needs
 
-[](https://web.archive.org/Home/Personal-Banking/Checking.aspx)
+[Home](https://web.archive.org/) > Privacy-Notice-5-11
 
-### Privacy Notice
-
- Rev. 5/11
+ Rev. 10/12
 
 FACTS  | WHAT DOES SOUTH CAROLINA FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?   
 ---|---  
@@ -33,10 +31,10 @@ FACTS  | WHAT DOES SOUTH CAROLINA FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INF
 **To limit our sharing** | 
 
   * Call 843-797-8300 **(Charleston)** or 800-845-0432 **(Nationwide)**
-  * Visit us online at scfederal.org 
+  * Visit us online at **scfederal.org**
 
   
-**Please note:** If you are a new member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
+ **Please note:** If you are a new member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
 ---|---  
   
 **Questions?** | Call 843-797-8300 **(Charleston)** or 800-845-0432 **(Nationwide)** or visit us online at scfederal.org  
@@ -77,7 +75,7 @@ State law and individual companies may give you additional rights to limit shari
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * _Our affiliates include financial companies, such as PSCU Financial Services and CO-OP Financial Services_
+  * _Our affiliates include financial companies, such as South Carolina Financial Solutions, LLC, DBA Insurance Solutions_
 
   
 **Nonaffiliates** | 
@@ -91,13 +89,9 @@ Companies not related by common ownership or control. They can be financial and 
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * _Our joint marketing partners include CUNA Mutual Group's MEMBERCONNECT and financial advisors_
+  * _Our joint marketing partners include insurance companies and financial advisors_
 
   
-  
-**Other important information**  
----  
-                                                                              
   
 **Online Banking Enrollment**
 
