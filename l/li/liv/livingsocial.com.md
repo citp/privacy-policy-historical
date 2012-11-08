@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the livingsocial.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622235751id_/http%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsocial.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108084107id_/http%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
 
 # LivingSocial
-
-The LivingSocial privacy policy (the “Privacy Policy”) is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and other information you submit to us through LivingSocial. By accessing or otherwise using the LivingSocial websites, e-mails or other services (collectively “LivingSocial”), you agree to the terms and conditions of this Privacy Policy (which is incorporated into and forms a part of the LivingSocial [Conditions of Use](https://web.archive.org/terms)) and consent to the processing of your information according to the Privacy Policy.
-
-  * Collection of Information
-  * Use and Disclosure of Information
-  * Choices About Your Information
-  * Third Party Advertising and Sites
-  * Security
-  * Children’s Personal Information
-  * Access
-  * Enforcement
-  * Changes to this Privacy Policy
-  * How to Contact Us
-
-
 
 ## Collection of Information
 
@@ -33,7 +18,7 @@ If you choose to sign up to receive information about products or services that 
 
 _Personal Information from Other Sources_
 
-We may receive Personal Information about you from other sources with which you have registered, companies who we have partnered with (collectively, “Partners”) or other third parties. We may associate this information with the other Personal Information we have collected about you.
+We may receive Personal Information about you from other sources with which you have registered or interacted, companies who we have partnered with (collectively, “Partners”) or other third parties. We may associate this information with the other Personal Information we have collected about you.
 
 _E-mail and E-mail Addresses_
 
@@ -41,7 +26,7 @@ If you send an e-mail to us, or fill out our “Feedback” form through LivingS
 
 _Information Collected Via Technology_
 
-As you use LivingSocial, certain information may be passively collected and stored on our or our service providers’ server logs, including your Internet protocol address, browser type and operating system. We also use Cookies and navigational data like Uniform Resource Locators (“URLs”) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on LivingSocial you clicked. An Internet protocol address, or “IP Address,” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience with LivingSocial. Persistent Cookies can be removed by following your Internet browser help file directions. In order to use our services offered through LivingSocial, your web browser must accept Cookies. If you choose to disable Cookies, some aspects of LivingSocial may not work properly, and you may not be able to receive our services. You can manage your cookie preferences via your browser settings (see <http://www.aboutcookies.org/Default.aspx?page=1> for more information)
+As you use LivingSocial, certain information may be passively collected and stored on our or our service providers’ server logs, including your Internet protocol address, browser type and operating system. We also use Cookies and navigational data like Uniform Resource Locators (“URLs”) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on LivingSocial you clicked. An Internet protocol address, or “IP Address,” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience with LivingSocial. Persistent Cookies can be removed by following your Internet browser help file directions. In order to use our services offered through LivingSocial, your web browser must accept Cookies. If you choose to disable Cookies, some aspects of LivingSocial may not work properly, and you may not be able to receive our services. You can manage your cookie preferences via your browser settings (see [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information)
 
 _Mobile & Location Information_
 
@@ -67,7 +52,7 @@ We may provide your Personal Information to third-party service providers or aff
 
 We may share some or all of your Personal Information with LivingSocial affiliated and group companies that are under a common control, so that they may send daily deal e-mails to you, in which case we will require them to honor this Privacy Policy.
 
-We use Google Analytics to better understand how visitors interact with our site. This service provides non-personally identifiable data including but not limited to data on where visitors came from, what actions they took on our site and where visitors went when they left our site. If you would like to learn more about this service, or about choices to opt out from it, please click [here](http://www.google.com/analytics/learn/privacy.html).
+We use Google Analytics to better understand how visitors interact with our site. This service provides non-personally identifiable data including but not limited to data on where visitors came from, what actions they took on our site and where visitors went when they left our site. If you would like to learn more about this service, or about choices to opt out from it, please click [here](https://tools.google.com/dlpage/gaoptout/).
 
 We may also develop non-personal information concerning LivingSocial users, using de-identification processes to help ensure that such information cannot reasonably be re-associated or connected with you as an individual. Generally, we aggregate this information and use it in statistical analysis to help us analyze patterns in the use of LivingSocial. This Privacy Policy does not limit our use or disclosure of de-identified information (i.e., that is not connected with you as a user) in any way, and we reserve the right to use and disclose such information to our partners, advertisers and other third parties in our discretion.
 
@@ -83,11 +68,13 @@ Despite your indicated e-mail marketing preferences, we may send you administrat
 
 If you use Living Social services provided through mobile devices, you may have additional choices, including over whether location services are enabled. Additionally, if you use other social media services in connection with Living Social, the providers of these services may provide you with additional choices concerning the types of data shared with LivingSocial.
 
-## Third-Party Advertising and Sites
+## Third Party Advertising and Sites
 
 We may enable advertisers and ad servers to promote third-party products and/or services by placing advertisements on LivingSocial. These advertisers and ad servers may use Cookies, “Web Beacons” (which are usually small, transparent graphic images) or similar technologies in order to monitor information related to the serving of their advertisements, and may use information gathered over time and across Web sites in order to make the ads you receive more relevant. Clicking on such advertisements will direct you to the website of a third-party and the advertiser.
 
-We also engage in remarketing to market our sites across the web: when a user visits our site, a Cookie is dropped on the user, and advertising networks may deliver targeted advertisements to users with this Cookie. You have choices about third-party advertising: both the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/) allow you to opt out from online behavioral advertising by their participating companies.
+We also engage in remarketing to market our sites, products and services or those of our trusted advertising partners across the web: when a user visits our site, a Cookie is dropped on the user, and advertising networks may deliver targeted advertisements to users with this Cookie. We do not share any of your Personal Information with our remarketing ad networks or advertisers.
+
+You have choices about third-party advertising: both the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/) allow you to opt out from online behavioral advertising by their participating companies.
 
 LivingSocial may contain links to other websites or may make third-party applications available to our users. Please be aware that we are not responsible for the privacy practices or the content of such other websites or applications. We encourage our users to read the privacy statements of each and every website they visit or application they use. This Privacy Policy applies solely to information collected by us through LivingSocial and does not apply to these third-party websites or applications. The ability to access information of third parties from LivingSocial, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third parties, their products, their services, other websites, locations or their content.
 
@@ -97,11 +84,11 @@ We are committed to protecting the security of your Personal Information. We use
 
 ## Children’s Personal Information
 
-LivingSocial does not direct its websites to children under the age of thirteen. We market families-related products or services for purchase by adults. We require registered users of the site to be at least eighteen years old. Protecting the privacy of children is very important. If we obtain actual knowledge that a registered users is under eighteen, we will promptly delete information associated with such account. By using LivingSocial, you are representing that you are at least eighteen years old.
+LivingSocial does not direct its websites to children under the age of thirteen. We market families-related products or services for purchase by adults. We require registered users of the site to be at least eighteen years old. Protecting the privacy of children is very important. If we obtain actual knowledge that a registered user is under eighteen, we will promptly delete information associated with such account. By using LivingSocial, you are representing that you are at least eighteen years old.
 
 ## Access to Personal Information
 
-You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please contact us at [privacy@livingsocial.com](mailto:privacy@livingsocial.com). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information which you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
+You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please contact us at [privacy@livingsocial.com](mailto:privacy@livingsocial.com). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information that you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
 
 ## Enforcement
 
@@ -116,7 +103,3 @@ This Privacy Policy is subject to occasional revision at our discretion, and if 
 If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that LivingSocial has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to LivingSocial, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please e-mail privacy@livingsocial.com.
 
 If you have questions or concerns about our Privacy Policy, please contact us at: privacy@livingsocial.com.
-
-Last updated: May 25, 2012
-
-The Privacy Policy in effect prior to June 22, 2012 can be found [here](https://web.archive.org/privacy_policy_previous).
