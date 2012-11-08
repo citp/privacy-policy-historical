@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623014659id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108045420id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reimageplus.com
 
@@ -15,6 +15,10 @@ To set up a free call with a PC expert, we ask for your name and phone number so
 To list your business on our site we will collect the zip code, state, city and Name of the company. To remove yourself from our list you may contact us at [support@reimage.com](mailto:support@reimage.com) at any time.
 
 To add a new location we will ask for your name and email address and location information of the business you wish to add a location for. We will ask for the name, address, phone number, fax number, email address and website of the business you wish to add.
+
+### Online Registration Form
+
+Our site may contain registration forms that require users to provide us with contact information form such as their names and email address. We use this information to send you news and updates and promotional material about our products or from some of our partners. We do not pass this information to third parties other than the people working with the product or website. Users may opt out of any unwanted emails by the remove option in the emails or by contacting us directly at [support@reimage.com](mailto:support@reimage.com).
 
 ### Subscribing to our blog
 
