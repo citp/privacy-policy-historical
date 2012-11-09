@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111933id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109055701id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
 
 # Myzips.com Privacy Policy
 
   
   
-[Home](http://www.myzips.com/) | [Advertise](http://www.myzips.com/advertise.phtml) | [New Software](http://www.myzips.com/new.phtml?days=7) | [Add Software](http://www.myzips.com/regform.phtml) | Bookmark | [Link Us](http://www.myzips.com/linktous.phtml) | [Blog](http://www.myzips.com/blog/)
+[Home](http://www.myzips.com/) | [Top 10](http://www.myzips.com/top10.phtml) | [Advertise](http://www.myzips.com/advertise.phtml) | [New Software](http://www.myzips.com/new.phtml?days=7) | [Add Software](http://www.myzips.com/regform.phtml) | Bookmark | [Link Us](http://www.myzips.com/linktous.phtml) | [Blog](http://www.myzips.com/blog/)
 
 **Information Collection & Usage**  
 Our site will not share, sell, or otherwise divulge any information gathered on this site with unauthorized parties. 
