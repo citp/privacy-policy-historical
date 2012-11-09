@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630072646id_/http%3A//www.gcruise.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110003245id_/http%3A//www.gcruise.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Gay Hookups | Hot Gays | Meet Local Gay Men | Sex GCruise
 
