@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capstonereport.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041057id_/http%3A//capstonereport.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capstonereport.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109080443id_/http%3A//capstonereport.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Capstone Report | About
 
