@@ -1,91 +1,42 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510111854id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109190013id_/http%3A//bittorrent.ourtoolbar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BitTorrent - Delivering the World's Content
+# Conduit-Powered Application – Privacy Policy
 
-[bittorrent.com](http://www.bittorent.com/) and various software applications and services provided through the bittorrent.com website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
+|  |  | 
 
-### What information does BitTorrent collect and how does BitTorrent use it?
+This privacy policy governs your use of a software application (“Application”) that was created using the Conduit platform (<http://www.conduit.com/>) by one of your favorite brands or web publishers (“Publisher”) directly or indirectly, and explains how Conduit Ltd. and its affiliates (together, “Conduit”, “we” or “us”) treats your information, and protects your privacy, when you use the Application. The Application may include various features and content that are offered and delivered to you by the Publisher or other third parties, such as: news, messages, games, as well as features and content that you may choose to add (“Content”).
 
-  * #### How the BitTorrent Client Works
+The following are the privacy practices of Conduit and our policy for third parties to comply with when they provide you with Content that is included, directly or indirectly in the Application: 
 
-The BitTorrent Client is a software application on your machine that manages downloads. It downloads files quickly by trading pieces with other users who are also downloading (or have downloaded) the same content. Your use of the BitTorrent Client to download files will, in turn, enable other BitTorrent users (or users of other clients that communicate using the BitTorrent protocol, including clients that are unaffiliated with BitTorrent, Inc.) to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.
+  1. **Information Collection and Use** – it is not necessary for you to provide any Personally Identifiable Information to use the Application. “Personally Identifiable Information” is information that identifies an individual including your login credentials to a third party website, name, postal address, and email address.
+    * Usage Data. The Application collects unidentifiable and non-personal data (for example, Application generated User IDs, search queries, and Application usage data, all of which do not include Personally Identifiable Information) to enable quality assurance, improve the quality of the services and provide anonymous reporting for internal and external customers. You may choose not to send Application usage data at any time from the Application Options dialog box.
 
-We do not track which files you transfer with the BitTorrent Client. Merely using the BitTorrent Client does not cause a record of which files you transfer to be kept by BitTorrent or BitTorrent on behalf of any third party.
+Additionally, the Application uses cookies to identify and save various pieces of information about your use of the Application and of certain features of the Application. For instance, when you access the Application download and installation screen(s), we use Cookies to automatically record information that your browser sends to install the Application according to your preferences. These Cookies can be removed or blocked altogether by following the help file directions on your Internet browser. You may always customize the Application according to your preferences by using the Options dialog box of the Application. “Cookies” are small pieces of information that a website places on your device’s browser while you are viewing a website.
 
-  * #### Gathering and Use of Anonymous Information
+    * Search Data. As part of the functionality available on the Application, we may offer you search features provided by us and/or other third parties. Additionally, we may use Cookies in the web search services we provide to you.  These Cookies collect and store information about your search activity when you use our web search services. This information may be shared with third party applications that use search data to function or to offer you more customized information and services. The information collected and stored by these Cookies may include Personally Identifiable Information, depending on your search query.  For instance, if you search your own name Personally Identifiable Information would be included in the search query.  By using the search features provided by us, you are consenting to grant Conduit permission to use Cookies regarding your use of web search. 
+    * Additional Services. Conduit may share the information it receives from the Cookies with other third parties in order to serve you ads and provide you with relevant offers and services. We may combine the web search information with other non-personally identifiable Application information (as further detailed above) and if we do, some of the otherwise non-personally identifiable Application information may become personally identifiable information. 
 
-Each time a visitor comes to one of our websites (including utorrent.com), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
+In addition, an Application also take the form of apps, buttons or gadgets that we created for your enjoyment If these Applications will require any access, collection, use or sharing of your information – both your Personally Identifiable Information and non- Personally Identifiable Information,  we will ask for your permission prior to having access to your information.
 
-In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.
+    * Browsing Data. The Application may also collect and store information about your web browsing locally on your device.  This locally saved information may interact with the Application and send us information about your web browsing so we can suggest services or provide you ads that may be more relevant to you. Only generalized inferences are passed from the Application to our servers.
+    * Corporate Action. In the event Conduit goes through a business transition such as a merger, acquisition by another company, bankruptcy, or sale of all or a portion of our assets, your information may be among the assets transferred.
+  2. **Third Party Content** – the Publisher or you may choose to add Content to the Application. The Content may be in the form of apps, buttons, gadgets and others means that are provided to you by third parties. The use of these third parties’ Content is subject to their privacy policies.
 
-In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users’ answers to such questions.
+In addition, Conduit, as a platform provider, provides the Publisher and other third parties with a large number of tools to enable them to create interesting and unique apps, buttons and gadgets using the Conduit platform.  Some of these tools may give these third parties the ability to access, collect, store and/or share your information – both your Personally Identifiable Information and non- Personally Identifiable Information.  We require these third parties to ask for your consent to access, collect, store or share your information prior to having access to it. If you have any questions about the Third Party Content, please contact these third parties before using and/or activating their apps. 
 
-We also aggregate some data from the BitTorrent Client regarding total traffic flows and content delivery performance as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of BitTorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.
+  3. **Social Networks** \- You may also choose to activate additional features that provide you with the ability to update and use your favorite social networks directly from the Application. During such activation you will be asked to grant Conduit permission to compile certain information from such social network systems. This information may include friends or contacts lists, notes and updates and photos, and may be used by Conduit to customize the Content of your Application, suggest new features and Content that may be relevant to you or provide Conduit with data for statistical purposes. The information you allow Conduit to access is that which is presented to you when you choose to activate these features. If you elect to permit Conduit to access this information, Conduit may be able to see and use this information and such action may change your preexisting privacy settings, however Conduit does not have control over privacy settings in your social network account. Please see your social network provider policies for any questions or concerns. **It is important to note that Conduit does not sell or rent Personal Identifiable Information it compiles to any third parties.** Conduit may provide non-identifiable, general statistical and demographic information to its Publishers from time to time. You may opt not to grant Conduit access to your social network account(s) at any time by changing your social network settings or by not authorizing Conduit access. 
+  4. **Third Party Websites and Offers.** Each Application includes a new search box for your use and enjoyment. In addition, while installing the Application, you may voluntarily opt to change your home page, other search related preferences, add components, receive notifications, offers or enable other features provided to you by the Publisher or other third parties. You can agree or disagree to receive these options. If you disagree, those options will not be activated. Please note that while visiting a website, third parties, including Conduit, can detect whether or not an Application is installed in your browser. 
+  5. **Uninstall** – you can uninstall the Application or Content that is embedded on it at any time. To uninstall Content simply go to the Application Options dialog box, and to uninstall the Application just use the standard uninstall processes that are available as part of your operating system, your Internet browser or similar software uninstall options (for example: add/remove programs in Windows, Add-on removal in Firefox, etc.). 
+  6. **Deactivation** – you can deactivate the Application by using the standard deactivation features available in your Internet browser (for example: by clicking the "View" menu in your browser selecting the name of the Application and then clicking on it). 
+  7. **Control over Preferences** – you have full control over the Application and can modify your preferences at any time (including the Content you have added to the Application), from the Options dialog box of the Application. 
+  8. **Report** – if you have any concerns while using the Application, or if you believe that your privacy right has been violated, please contact us by email at: [Privacy@conduit.com](mailto:Privacy@conduit.com). 
+  9. **Updates** – from time to time we may update this privacy policy. We encourage you to visit and review this policy frequently to stay informed. 
 
-  * #### Gathering and Use of Personally Identifiable Information
+[Last updated: July 22, 2012]
 
-You may visit the bittorrent.com website and use the BitTorrent Client without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account or for which you may input e-mail addresses into a feature of the BitTorrent Client (for example, in order to share with others a link to a file). When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.
-
-Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
-
-
-
-
-### Spyware and Adware
-
-  * #### We oppose spyware and adware.
-
-Spyware is software installed on your computer without your consent or control. It can record and transmit your Internet activity and other personal information or change your computer’s security settings. Adware is spyware that sends you unwanted pop-ups or spam. BitTorrent never uses these unwanted and harmful technologies.
-
+[Contact us about privacy issues](https://web.archive.org/contact/?topic=Privacy+Issues)
 
 
-
-### How does BitTorrent protect customer information?
-
-We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.
-
-### Does BitTorrent use "cookies"?
-
-Cookies are small bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you would not have to log in a password more than once, thereby saving time. We currently save password information in cookies. In addition, advertisements displayed on the BitTorrent websites or in the BitTorrent Client may contain cookies. The companies who serve our advertisements transfer cookies independent of us, and, as such, we do not control the use of such cookies and in many instances have no access to the information collected by them.
-
-Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access many, if not all, of the features of the BitTorrent websites or the BitTorrent Client. However, some parts of the BitTorrent websites or the BitTorrent Client may not function properly if you refuse cookies.
-
-### Does BitTorrent disclose the information it collects from its visitors to outside parties?
-
-BitTorrent does not currently sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or use of the BitTorrent websites or the BitTorrent Client. This information is used to better understand visitors’ use of the features of the BitTorrent websites or the BitTorrent Client, to support related transactions made on or through the BitTorrent websites or the BitTorrent Client, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. However, this data in an aggregate form without any personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled "How do you change the information we have for you?"
-
-Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of our assets or equity securities or upon any other corporate reorganization.
-
-### BitTorrent’s special note to parents.
-
-In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), bittorrent.com is a general audience website, and does not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor BitTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.
-
-### How do you change the information we have for you?
-
-To update or modify the information that we have on file for you, if applicable, simply go to the BitTorrent forums, log in, go to the "Profile" section, then modify your details and settings as necessary.
-
-### Third party links and co-brand relationships.
-
-In an attempt to provide increased value to our visitors, we may choose various third party web sites or services to link to, and frame within, the Sites or Services. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our users. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites. These linked sites are only for your convenience and you therefore access them at your own risk.
-
-### EU Safe Harbor Compliance
-
-BitTorrent adheres to the European Union Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information covered by the Privacy Policy from the European Union.
-
-### Notification of changes.
-
-By visiting the website or using the applications and/or services, you consent to the collection and use of information by us as set forth in this privacy policy. If we decide to change our privacy policy, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-### Questions? Contact us.
-
-If you have any questions about our privacy practices, please do not hesitate to write to us at:
-    
-    
-    Privacy Matters
-    c/o BitTorrent, Inc.
-    303 Second St. Suite S200
-    San Francisco, California 94107
-
-### End User License Agreements and Terms and Conditions.
-
-Please also read any applicable End User License Agreements and/or Terms and Conditions that apply to individual BitTorrent applications and services.
+  
+  
+---|---|---
