@@ -1,31 +1,40 @@
-> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422134326id_/http%3A//mlspin.com/n/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlspin.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109144843id_/http%3A//www.mlspin.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Welcome to MLS PIN - Connecting Real Estate Professionals
 
-|  |   
----  
-|   
----  
-| MLS Property Information Network, Inc. (MLS PIN) respects your privacy and uses its best efforts to protect the privacy of visitors to this web site. The following Internet Privacy Policy (the Policy) contains general and technical details about how MLS PIN treats data collected and received from you.  
----  
-TYPES OF INFORMATION WE COLLECT  
-MLS PIN gathers personal data, which includes, but is not limited to your name, address, email address and phone number when you voluntarily register for MLS PIN services. MLS PIN also gathers the personal data, which includes but is not limited to the name, address, email address and phone number of prospects and other indirect recipients of MLS PIN services, when you voluntarily submit such information.   
-MLS PIN collects personal financial data, which includes but is not limited to your credit card number or bank account number, if you voluntarily choose to pay MLS PIN invoices through MLS PIN’s online account services.   
-MLS PIN collects property listing data, which includes but is not limited to images, if you voluntarily choose to submit property listing data to MLS PIN.  
-SHARING OF PERSONAL DATA, PERSONAL FINANCIAL DATA AND PROPERTY LISTING DATA  
-MLS PIN does NOT share, sell, or otherwise transfer your personal data or the personal data of prospects or other indirect recipients of MLS PIN services to any other third persons or entities. Your financial data, which includes, but is not limited to your credit card number or your bank account number, will NOT be shared, sold or otherwise transferred to any other third persons or entities. Statistical analysis of the property listing data may be made available to the media and other interested parties for public representation. This information will not disclose the details of individual transactions or contain the characteristics of individual properties, their owners, or the agent(s) selling the property.   
-MLS PIN reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.  
+MLS Property Information Network, Inc. (“MLS PIN”) respects and seeks to protect the privacy of all visitors to this web site. The following Internet Privacy Policy (“this Policy”) explains how MLS PIN treats data collected and received both from its customers (that is, its Participants and Subscribers) and from other visitors to this web site. 
+
+TYPES OF INFORMATION MLS PIN COLLECTS  
+MLS PIN collects personal data from a customer when the customer registers for MLS PIN services. Those data include, but are not limited to, the customer’s name, address, email address and telephone number. In addition, MLS PIN collects the personal data of potential purchasers of properties listed on the multiple listing service and of other indirect recipients of MLS PIN services when a customer voluntarily submits those data to it. Those data include, but are not limited to, the name, address, email address and telephone number of such prospects and other indirect recipients of MLS PIN services. 
+
+When a customer files a listing in the MLS PIN multiple listing service, MLS PIN collects property listing data. Those data include, but are not limited to, images of the listed property. 
+
+MLS PIN does not collect personal or other data of any kind from casual visitors to the MLS PIN web site, except such data as a visitor may elect to provide through the web site when reporting either a listing that is erroneously omitted from the multiple listing service or an existing listing that the visitor believes violates MLS PIN’s Rules and Regulations. 
+
+SHARING OF PERSONAL DATA AND PROPERTY LISTING DATA  
+MLS PIN does NOT share a customer’s personal data with, or transfer it to, any third persons or entities, except that MLS PIN may share its customers’ names, contact telephone numbers and email addresses with, or transfer them to, a third party that provides an MLS PIN approved product or service to MLS PIN’s customers. MLS PIN will provide customers’ email addresses to a third party only if the product or service, as approved, cannot function without those email addresses and only if the email addresses are used by the third party solely to assure that function. 
+
+MLS PIN does NOT share with, or transfer to, any third persons or entities the personal data of potential purchasers of properties listed in the multiple listing service or of other indirect recipients of MLS PIN services, nor does it share or transfer the personal data of a casual visitor voluntarily filing a complaint or reporting a listing violation. MLS PIN may make available to the media and other interested parties statistical aggregations or analyses of the property listing data in the MLS PIN database. These aggregations and analyses will not disclose the details of individual property listings or transactions, will not contain the characteristics of individual listed properties and will not include the personal data of the owners, prospective purchasers or any agents involved in the listing or sale of a listed property. 
+
+MLS PIN reserves the right to use or disclose any data or information as needed to satisfy any law, regulation or legal request or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.
+
 PROPERTY LISTING DATA  
-When you submit property listing data to MLS PIN, including but not limited to images, that data becomes part of the MLS PIN listing database compilation. All rights, title, and interest in each copy of every MLS PIN compilation and image created and copyrighted by MLS PIN remains at all times vested in MLS PIN. Copyright and ownership interest in images submitted by MLS PIN subscribers for inclusion in the MLS PIN database remain with the MLS PIN Participant on whose behalf the image was submitted. However, the MLS PIN Participant licenses MLS PIN to reproduce, distribute and transform such images and place an MLS PIN copyright legend on each such image. Ownership of MLS PIN’s database compilation and each MLS PIN subscriber’s "fair use" thereof is governed by the MLS PIN Rules and Regulations.   
+When a customer submits property listing data to MLS PIN, including but not limited to images, those data and images become part of the compilation that is the MLS PIN listing database. All right, title, and interest in and to each and every manifestation of that compilation, and in and to MLS PIN’s copyrights therein, remain at all times vested in MLS PIN. By submitting a property listing to MLS PIN, a customer, through its Participant, represents and warrants that the Participant, without the necessity of any further consent or approval, has been authorized to grant, and does grant, authority to MLS PIN to include both the property listing data and all related images in the MLS PIN database compilation and in any manifestation of that compilation and to use the listing data and images for such other purposes as MLS PIN from time to time shall determine. Ownership of MLS PIN’s database compilation and the limits on its customers’ permitted use of the database compilation are governed by the MLS PIN Rules and Regulations. 
+
 COOKIES  
-”Cookies” are small data files stored on your computer’s hard drive containing information about you and your computer. Some MLS PIN web services may set and access cookies during the use of those web services in order to provide a more customized user experience.  
+“Cookies” are small data files stored on a computer’s hard drive containing information about the computer and its user. Some MLS PIN web services may set and access cookies during the use of those web services in order to provide a more customized user experience. 
+
 LINKS TO OTHER SITES  
-We may offer links to sites that are not operated by MLS PIN. If you visit one of these sites, please be aware that MLS PIN is not responsible for the policies and practices of other companies. You should always review the privacy and other policies of other companies.   
-CHANGES TO OUR PRIVACY POLICY  
-From time to time, it may be necessary for MLS PIN to change this Policy. MLS PIN reserves the right at our discretion to modify this Policy at any time.   
+MLS PIN may offer links to web sites that it does not operate. If a visitor links to one of these sites from the MLS PIN web site, please be aware that MLS PIN is not responsible for the policies and practices of other companies. Before linking to another company’s web site, a visitor to the MLS PIN web site should always review the privacy and other policies of the other company and become familiar with its practices. 
+
+CHANGES TO MLS PIN’S INTERNET PRIVACY POLICY  
+From time to time, it may be necessary for MLS PIN to change this Policy. MLS PIN reserves the right at its discretion to modify this Policy at any time, without prior or other notice. 
+
 ACCESS  
-You are in control of any personal data that you provide to MLS PIN on-line. If at any time, you would like to modify or correct the personal data we have about you, would like to ask a question about our Policy or would like to register a complaint about our Policy, you can let us know by contacting us at the following email or postal address:   
-MLS Property Information Network, Inc.   
+A visitor to this web site has the right to control any personal data that the visitor provides to MLS PIN on-line. If at any time a visitor wishes to modify or correct that personal data, to ask a question about this Policy or to register a complaint about this Policy, the visitor can contact MLS PIN at the following email or postal address: 
+
+MLS Property Information Network, Inc.  
+Attention: Webmaster  
 904 Hartford Turnpike   
 Shrewsbury, MA 01545   
 [**webmaster@mlspin.com**](mailto:webmaster@mlspin.com)
