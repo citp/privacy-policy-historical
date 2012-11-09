@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adminaddict.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510210757id_/http%3A//www.adminaddict.net/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dboardrules) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminaddict.net privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109185918id_/http%3A//www.adminaddict.net/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dboardrules) for the most accurate reproduction.*
 
-# Privacy Policy - Admin Addict
+# Privacy Policy - Admin Addict - The Forum Admin Zone
 
 **Information Collection**
 
@@ -47,11 +47,11 @@ If you have any questions about the security at our website, you can send us an 
 
 If you have any questions about this privacy statement or the practices of this site you can:
 
-[Contact Admin Addict Admin](http://www.adminaddict.net/forum/39-contact-the-staff/)
+   [Contact Admin Addict Admin](http://www.adminaddict.net/forum/39-contact-the-staff/)
 
 Or you can write us at:
 
-Admin Addict  
-c/o Robert Schwarz, Sr.  
-1417 Brentwood PL  
-Joliet, IL U.S.A 60435 
+   Admin Addict  
+   c/o Robert Schwarz, Sr.  
+   1417 Brentwood PL  
+   Joliet, IL U.S.A 60435 
