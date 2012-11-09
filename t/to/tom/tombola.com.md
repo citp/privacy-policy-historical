@@ -1,31 +1,50 @@
-> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513051321id_/http%3A//www.tombola.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109041331id_/http%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.*
 
-# tombola – Privacy Policy
+# Privacy Policy
 
-**Privacy Policy** The Company respects your privacy and we are committed to protecting your personal information. We have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your personal information.
+The Company respects your privacy and we are committed to protecting your personal information. We have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your personal information. 
 
-**Consent to the Privacy Policy** When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis.  
+## Consent to the Privacy Policy
+
+When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis.  
 We guarantee that access to your personal account information is restricted to you by your unique user name and password. All details are stored under the strictest supervision. We want to ensure complete trust from our players and to make playing tombola an enjoyable experience. 
 
-**Security** We have implemented suitable security policies and rules and fully understand the importance of information security and the need to store it securely. We store all personal information within a secure network meaning data, passed back and forth between your computer and our systems is secured using public key cryptography. Your computer exchanges key information with our servers to create a private conversation that only your computer and our servers can understand. Our links with our payment gateway (a leading UK e-commerce payment company) uses the same technology to transmit any payment information securely. They in turn have secure encrypted links between themselves and all of the major banks to allow the payment to be processed. tombola employees do NOT have access to your full credit/debit card details.
+## Security
 
-**Information Collected** The personal information that we collect may include information such as contact information, name, address, age, gender, telephone number, email address, billing information, transaction history, web site usage and feedback about our services and site. We hold this information on servers in Gibraltar. You will be asked to provide this information when you register with the site or services.
+We have implemented suitable security policies and rules and fully understand the importance of information security and the need to store it securely. We store all personal information within a secure network meaning data, passed back and forth between your computer and our systems is secured using public key cryptography. Your computer exchanges key information with our servers to create a private conversation that only your computer and our servers can understand. Our links with our payment gateway (a leading UK e-commerce payment company) uses the same technology to transmit any payment information securely. They in turn have secure encrypted links between themselves and all of the major banks to allow the payment to be processed. tombola employees do NOT have access to your full credit/debit card details. 
 
-**Use of Information** We use the personal information that we collect from you to deliver the service, provide customer support and to undertake necessary security and identity verification checks to process any online transaction as well as meeting certain requirements of the business such as publishing the information on the site of winners and also for marketing purposes. We may from time to time request information from you via surveys etc, these are on a voluntary basis and may also request other information from you such as demographic information. We may also provide you with services relating to the site, process any requests relating to Customer Services, market our services or products, or provide you with updates to our products and site.
+## Information Collected
 
-**Consent to Use Electronic Service Providers** In order to take part in the pay to play games on the site, you are required to send money to and receive money from us. We may use third party payment processors and or financial institutions to process financial transactions. By accepting this Privacy Policy you consent to personal information necessary to process such transactions being shared with such parties. We take steps to ensure that our arrangements with these providers protect your privacy.
+The personal information that we collect may include information such as contact information, name, address, age, gender, telephone number, email address, billing information, transaction history, web site usage and feedback about our services and site. We hold this information on servers in Gibraltar. You will be asked to provide this information when you register with the site or services. 
 
-**Certain Excluded Disclosures** We may disclose your personal information if required to do so by law, or if we believe that such action is in good faith such as to comply with any legal action served on us, the site, or the services, protect our rights or property and to act to protect the personal safety of users of the service. If you have been found to have defrauded or cheated the company or any service including game manipulation or payment fraud, including stolen credit cards, or fraudulent activity (including chargeback or other reversal of a payment) or money laundering we reserve the right to share this information including your identity with other online gaming sites, banks, credit companies and agencies.
+## Use of Information
 
-**Third Party Practices** We cannot ensure the protection of any information or image you provide to a third party online site that links to or from this website, such as affiliates, as they will operate their own privacy policy and operated independently and you should therefore be familiar with their privacy policy as we resume no responsibility or liability what so ever for the practices of the third party.
+We use the personal information that we collect from you to deliver the service, provide customer support and to undertake necessary security and identity verification checks to process any online transaction as well as meeting certain requirements of the business such as publishing the information on the site of winners and also for marketing purposes. We may from time to time request information from you via surveys etc, these are on a voluntary basis and may also request other information from you such as demographic information. We may also provide you with services relating to the site, process any requests relating to Customer Services, market our services or products, or provide you with updates to our products and site. 
 
-**Protection of Children** The services on tombola are not intended for or directed to persons under the age of 18. Any person who provides their information to us through our site represents that they are over 18. We reserve the right to access and verify any information submitted to us by you. If we become aware that a minor has attempted to or has submitted personal information via the site, we will not take steps to remove such information from our records.
+## Consent to Use Electronic Service Providers
 
-**Cookies** Cookies are small text files that are stored on your computer’s hard drive for record keeping purposes. Cookies can help us recognise you each time you visit the site. You are not obliged to accept cookies from us or any other website. You can modify your browser by going into preferences or help on how to stop accepting cookies.
+In order to take part in the pay to play games on the site, you are required to send money to and receive money from us. We may use third party payment processors and or financial institutions to process financial transactions. By accepting this Privacy Policy you consent to personal information necessary to process such transactions being shared with such parties. We take steps to ensure that our arrangements with these providers protect your privacy. 
 
-**Consent to the Privacy Policy** When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis
+## Certain Excluded Disclosures
 
-**DATA PROTECTION ACT REGISTRATION** tombola (International) plc is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at [support@tombola.co.uk](mailto:support@tombola.co.uk). Further information can also be found here: [Gibraltar](http://www.gra.gi/index.php?site=dataprotection) / [UK](http://www.dpr.gov.uk/)
+We may disclose your personal information if required to do so by law, or if we believe that such action is in good faith such as to comply with any legal action served on us, the site, or the services, protect our rights or property and to act to protect the personal safety of users of the service. If you have been found to have defrauded or cheated the company or any service including game manipulation or payment fraud, including stolen credit cards, or fraudulent activity (including chargeback or other reversal of a payment) or money laundering we reserve the right to share this information including your identity with other online gaming sites, banks, credit companies and agencies. 
 
-  
+## Third Party Practices
 
+We cannot ensure the protection of any information or image you provide to a third party online site that links to or from this website, such as affiliates, as they will operate their own privacy policy and operated independently and you should therefore be familiar with their privacy policy as we resume no responsibility or liability what so ever for the practices of the third party. 
+
+## Protection of Children
+
+The services on tombola are not intended for or directed to persons under the age of 18. Any person who provides their information to us through our site represents that they are over 18. We reserve the right to access and verify any information submitted to us by you. If we become aware that a minor has attempted to or has submitted personal information via the site, we will not take steps to remove such information from our records. 
+
+## Cookies
+
+Cookies are small text files that are stored on your computer’s hard drive for record keeping purposes. Cookies can help us recognise you each time you visit the site. You are not obliged to accept cookies from us or any other website. You can modify your browser by going into preferences or help on how to stop accepting cookies. 
+
+## Consent to the Privacy Policy
+
+When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis 
+
+## Data Protection Act Registration
+
+tombola (International) plc is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at [support@tombola.co.uk](mailto:support@tombola.co.uk). Further information can also be found here: [Gibraltar](http://www.gra.gi/index.php?site=dataprotection) / [UK](http://www.dpr.gov.uk/)
