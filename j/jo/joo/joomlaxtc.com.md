@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlaxtc.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511165706id_/http%3A//www.joomlaxtc.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D846) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaxtc.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109110254id_/http%3A//www.joomlaxtc.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D846) for the most accurate reproduction.*
 
 # Privacy Notice
 
