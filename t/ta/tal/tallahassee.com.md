@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511041428id_/http%3A//www.tallahassee.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109215702id_/http%3A//www.tallahassee.com/section/privacy) for the most accurate reproduction.*
 
-# PRIVACY | Tallahassee Democrat | tallahassee.com
+# privacy | Tallahassee Democrat | tallahassee.com
 
 Last Updated: November 9, 2011
 
@@ -97,13 +97,17 @@ Gannett Law Department
 7950 Jones Branch Drive  
 McLean, VA 22107
 
+## Reset your password
+
 Enter your email and we will send you a link to reset your password.
+
+## We hope you have enjoyed your complimentary access.
 
 [](https://web.archive.org/ "Return to Homepage")
 
 Become a subscriber today to enjoy these benefits:
 
-  * 24/7 access to our Web site
+  * Unlimited access to our Web site
   * iPad-optimized edition
   * Mobile site & iPhone app
 
@@ -111,4 +115,32 @@ Become a subscriber today to enjoy these benefits:
 
 [View subscription options](https://web.archive.org/section/subscription-options)
 
+## You now have full access.
+
+## Thank you for subscribing.
+
+  * View articles, videos, galleries and more – 24/7
+  * Access the tablet-optimized site, mobile site and iPhone app
+  * Share your access with any friend or family member
+  * Subscriber exclusive Top 5 daily email newsletter 
+
+You will automatically receive the Top 5 daily email newsletter. If you don't want to receive this newsletter, you can change your newsletter selections in your account preferences.
+
+
+
+
+## You must have browser cookies enabled to view our site.
+
 [](https://web.archive.org/ "Return to Homepage")
+
+## Account issue
+
+We're sorry, this account no longer has full access. You can still look at a limited number of articles per month.
+
+## Flash is required to continue
+
+To continue using your current Web browser, Adobe Flash must be installed or upgraded:
+
+[Download Adobe Flash Player](http://get.adobe.com/flashplayer/)
+
+Or you can download any of the following supported modern browsers:
