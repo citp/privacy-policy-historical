@@ -1,240 +1,809 @@
-<!--The following is the downloaded HTML source of the greenrope.com privacy policy that was archived on 2012-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120418071650id_/http%3A//www.greenrope.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greenrope.com privacy policy that was archived on 2012-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109020114id_/http%3A//new.greenrope.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>GreenRope | Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<meta name="title" content="Business Marketing Software :: GreenRope :: Privacy">
-	<meta name="description" content="Easy to use small business software helps manage email, contacts, events, social networking, webiste creation, and document management.">
-	<meta name="keywords" content="small business software, software for small business, small business collaboration software, small business software solution, small business management software">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+					<script type="text/javascript" src="http://new.greenrope.com/app2/js/jquery/jquery-1.8.2.min.js"></script>
+					<script type="text/javascript" src="http://new.greenrope.com/app2/js/jquery/jquery-ui-1.8.24.custom.min.js"></script>
+					
+<title>Anti-Spam Policy by GreenRope</title>
+<!-- for animated clients box -->
+<script type="text/javascript" src="http://www.teamr.com/js/crawler.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.teamr.com/js/contentslider.css">
+<script type="text/javascript" src="http://www.teamr.com/js/contentslider.js"></script>
+<script type="text/javascript" src="http://new.greenrope.com/scripts/app_scripts.js"></script>
+<script type="text/javascript" src="http://new.greenrope.com/scripts/fansite_scripts.js"></script>
+<script type="text/javascript" src="http://new.greenrope.com/scripts/FusionCharts.js"></script>
+<link rel="stylesheet" type="text/css" href="http://new.greenrope.com/users/myteam4/Media633.css">
+<link rel="stylesheet" type="text/css" href="http://new.greenrope.com/users/myteam4/Media802.css">
+<meta http-equiv="P3P" content="CP=&quot;NOI DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT&quot;, policyref=&quot;/w3c/p3p.xml&quot;"><link rel="P3Pv1" href="/w3c/p3p.xml"><link rel="Shortcut Icon" href="http://new.greenrope.com/favicon.ico"><link rel="icon" href="http://new.greenrope.com/favicon.ico" type="image/x-icon"><link rel="stylesheet" type="text/css" href="http://new.greenrope.com/app2/styles/innerCSS1/innerCSS1.css" media="screen"><link rel="canonical" href="http://new.greenrope.com">
+<meta name="description" content="GreenRope is a reputable web based software company allowing small businesses to effectively manage their internet marketing.  Live support 7 days a week.">
+						<script type="text/javascript" src="http://new.greenrope.com/app2/CLEditor/jquery.cleditor.js"></script>
+						<link rel="stylesheet" type="text/css" href="http://new.greenrope.com/app2/CLEditor/jquery.cleditor.css">
 
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/components.css">
-	<link rel="stylesheet" type="text/css" href="css/sections.css">
-	<!--[if gte IE 7]><link rel="stylesheet" type="text/css" href="/css/ie7.css" media="screen, projection" /><![endif]-->
-	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/ie6.css" media="screen, projection" /><![endif]-->
+						<script type="text/javascript">
+						var GLOBALS = {
+							loading_icon_counter: 0
+						};
+						function loading_icon ( action ) {
+							if ( action == 'show' ) {
+								GLOBALS.loading_icon_counter++;
+								if ( $('#loading_icon').is(':hidden') ) {
+									$('#loading_icon').show();
+								}
+							}
+							else if ( action == 'hide' ) {
+								GLOBALS.loading_icon_counter--;
+								if ( GLOBALS.loading_icon_counter <= 0 ) {
+									$('#loading_icon').hide();
+								}
+							}
+							else if ( action == 'reset' ) {
+								GLOBALS.loading_icon_counter = 0;
+								$('#loading_icon').hide();
+							}
+						}
+						function postDataReturnText(url, data, spanID, callback, cursorHourglass, icon, append )
+						{
+							// Set cursor to hour glass and show loading icons
+							if (typeof(spanID) == 'string') spanID = '#' + spanID;
+							if ( $(spanID).length ) {
+								$(spanID).css('cursor', cursorHourglass);
+							}
+							loading_icon('show');
+							if ( icon == undefined ) icon = 'normal';
+							if ( icon == 'normal' ) {
+								$(spanID).html( '<div class="loading_icon"></div>' );
+							}
+							else if ( icon == 'small' ) {
+								$(spanID).html( '<div class="loading_icon_small"></div>' );
+							}
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="js/jquery-1.2.3.min.js"></script>
-	<script type="text/javascript" src="js/jquery.tools.min.js"></script>
-	<script type="text/javascript" src="js/jquery.qtip-1.0.0-rc3.js"></script>
+							// AJAX call to fetch HTML for div
+							if (append == 'append')
+							{
+							    $.post(
+								url,
+								data,
+								function (response) {
+								    // Show in page
+										$(spanID).css('cursor', 'auto');
+										loading_icon('hide');
+								    $(spanID).append(response);
+								}
+							    );
+							}
+							else
+							{
+							    $.post(
+								url,
+								data,
+								function (response) {
+								    // Show in page
+										$(spanID).css('cursor', 'auto');
+										loading_icon('hide');
+								    $(spanID).html(response);
+								}
+							    );
+							}
+						}
+						
+							function showBlogComments(newsBlogID)
+							{
+								var showDiv = 'comments' + newsBlogID;
+								var postdata = 'action=showBlogComments&a=0322289c7f2060de36f8a70818d3e5a33d369987d02ef55b&NewsBlogID=' + newsBlogID;
 
+								// call ajax function
+								postDataReturnText('/fansite2a.pl', postdata, showDiv, rebuildID, 'wait');
+							}
+							function postBlogComment(newsBlogID,name,email,website,comment,captcha)
+							{
+								var showDiv = 'newCommentWrapper' + newsBlogID;
+								var postdata = 'action=postBlogComment&a=0322289c7f2060de36f8a70818d3e5a33d369987d02ef55b&NewsBlogID=' + newsBlogID + '&Name=' + encodeURIComponent(name) + '&Email=' + encodeURIComponent(email) + '&Website=' + encodeURIComponent(website) + '&Comment=' + encodeURIComponent(comment) + '&Captcha=' + captcha;
 
-	<script type="text/javascript">// perform JavaScript after the document is scriptable.
-		// wait until document is fully scriptable
-		$(document).ready(function() {
-  			// select #flowplanes and make it scrollable. use circular and navigator plugins
-			window.api = $("#flowpanes").scrollable({size: 1, clickable: false, globalNav: true,}).circular().navigator({
-       		// select #flowtabs to be used as navigator
-       		navi: "#flowtabs",
-        	// select A tags inside the navigator to work as items (not direct children)
-        	naviItem: 'a',
-        	// assign "current" class name for the active A tag inside navigator
-       		activeClass: 'active'
-  			}).autoscroll({autoplay: false, autopause: true, api: true, interval: 10000,});
-		});
-	</script>
+								// call ajax function
+								postDataReturnText('/fansite2a.pl', postdata, showDiv, rebuildID, 'wait');
+							}
+							
 
+						$(document).ready(function()
+						{
+							// get client height and width
+							var height = $(window).height() * 0.90;
+							var width = $(window).width() * 0.90;
 
-	<!--TOOLTIP-->
-	<script type="text/javascript">
-	$(document).ready(function()
-	{
-	$('.tooltip_image span[title]').qtip({
-	      position: {
-			corner: {target: 'rightMiddle',tooltip: 'leftMiddle'}
-			},
-		content: {
-	     // text: '<img src="images/mainfeature_testthumb.jpg" alt="Test Thumb" />'
-		},
-	    style: {
-		name: 'cream',
-		padding: '4px 7px',
-			color:'#ffffff',
-			background:'#40484d',
-			textAlign:'center',
-		width:220,
-		border: {
-				color: '#6b757b',
-				width: 1,
-				radius: 3,
-		},
-	    tip: true
-	      }
-	   });
+							$("#eventDetails").dialog({
+								autoOpen: false,
+								bgiframe: true,
+								resizable: false,
+								height: height,
+								width: width,
+								modal: true,
+								zIndex: 9999,
+								overlay: {
+									backgroundColor: '#000',
+									opacity: 0.5
+								},
+								buttons: {
 
-	$('.tooltip_text span[title]').qtip({
-	      position: {
-			corner: {target: 'rightMiddle',tooltip: 'leftMiddle'}
-			},
-		content: {
-			},
-	    style: {
-		name: 'cream',
-		padding: '4px 7px',
-			color:'#ffffff',
-			background:'#40484d',
-			textAlign:'left',
-			fontSize:'11px',
-			lineHeight:'14px',
-		width:175,
-		border: {
-				color: '#6b757b',
-				width: 1,
-				radius: 3,
-		},
-	    tip: true
-	      }
-	   });
+									Close: function() {
+										$('#eventDetails').html(' ');
+										$(this).dialog('close');
+									}
+								},
+								close: function () {
+									$('#eventDetails').html(' ');
+								}
+							});
+						});
+						</script>
+						</head>
 
-	});
+<body><div id="mydialog"></div><div id="mydialogBackground" style="z-index: 9998; display: none; position: fixed; top: 0px; left: 0px; height: 100%; width: 100%; opacity: 0.7; filter:alpha(opacity=70); background-color: #333;"></div><div id="eventDetails"></div><div id="calendarPublicEventLayers"></div><a name="Home"></a><a name="Calendar"></a><a name="EventsList"></a><div id="selectControlPanel" style="display: none;"><form name="selectNav"><select class="navSelect" onchange="showSection(this.value);"><option value="homepageMain">Homepage</option><option value="/features.html">Features</option><option value="./crm.html">CRM</option><option value="./email_marketing.html">Email Marketing</option><option value="./greenrope_crm_and_event_management.html">Event Management</option><option value="./greenrope_crm_and_website_analytics.html">Website Analytics</option><option value="./social_network_marketing.html">Social Network Marketing</option><option value="./greenrope_crm_and_project_management.html">Project Management</option><option value="./sms_txt_marketing.html">SMS Marketing</option><option value="./surveys.html">Surveys</option><option value="./tracking.html">Tracking &amp; Stats</option><option value="./templates.html">Templates</option><option value="./greenrope_advanced_marketing_tools.html">Advanced Marketing Tools</option><option value="./integration.html">Integration</option><option value="./zimbra.html">Zimbra Integration</option><option value="/pricing.html">Pricing</option><option value="./quickstart.html">Quick Start Packages</option><option value="/licensing.html">Licensing</option><option value="/about.html">About Us</option><option value="./whygreenrope.html">Why GreenRope Is Special</option><option value="./press.html">Press Room</option><option value="./testimonials.html">Testimonials</option><option value="./terms.html">Terms of Use</option><option value="./privacy.html">Privacy Policy</option><option value="./antispam.html">Anti-Spam Policy</option><option value="./chambers.html">Chambers of Commerce</option><option value="./founder.html">Letter From Our Founder</option><option value="/support.html">Resources</option><option value="./affiliate.html">Affiliate Program</option><option value="./faq.html">FAQ</option><option value="./email_marketing_tips.html">Email Marketing Tips</option><option value="./GreenRopeForStartups.html">GreenRope for Startups</option><option value="./marketing_resources.html">Marketing Resources</option><option value="./facebook_marketing_tips.html">Top 3 Facebook Marketing Tips</option><option value="./contact.html">Contact Us</option><option value="./Videos.html">Videos</option><option value="./webinars.html">Webinars</option><option value="./video-faq.html">Video FAQ</option><option value="/blog.html">Blog</option></select></form></div>
 
-	function readCookie(name) {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for(var i=0;i < ca.length;i++) {
-			var c = ca[i];
-			while (c.charAt(0)==' ') c = c.substring(1,c.length);
-			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-		}
-		return null;
-	}
-	function checkRememberedEmail()
-	{
-		var rememberedEmail = readCookie('RememberMe');
-		if ((rememberedEmail != null) && (rememberedEmail != ''))
-		{
-			document.captainLoginForm.Email.value = rememberedEmail;
-		}
-	}
-	</script>
-	<!--/END TOOLTIP-->
+<center>
+<div id="main">
 
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20130175-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-</head>
-<body onload="checkRememberedEmail(); var currentDate = new Date(); document.getElementById('thisYear').innerHTML=currentDate.getFullYear();">
-
-<!------ BEGIN HEADER & NAV ------>
-<div id="header">
-	<div class="wrapper">
-		<h1 class="logo"><a href="index.html">GreenRope</a></h1>
-		<ul class="nav">
-			<li class=""><a href="index.html"><span>Home</span></a></li>
-			<li class=""><a href="product_overview.html"><span>Product Overview</span></a></li>
-			<li class="current"><a href="signup.html"><span>Pricing &amp; Sign Up Free</span></a></li>
-			<li class=""><a href="licensing.html"><span>Licensing</span></a></li>
-			<li class=""><a href="faq.html"><span>FAQs</span></a></li>
-			<li class=""><a href="about.html"><span>About Us</span></a></li>
-				</ul>
-		<div class="clearboth"></div>
-	</div>
-</div>
-
-
-
-<!------ BEGIN HEADER & NAV ------>
-<div id="sub_header">
-	<div class="wrapper">
-		<div class="pad">
-			<h1>Privacy Policy</h1>
-
-    <!-- Sign Up Button -->
-    <a class="signup" href="http://app.greenrope.com/app2/create_account.pl" style="margin-right:0px;">Sign Up for GreenRope</a>
+	<div id="headerContent">
+		<div id="MyTeamCaptain">
+			<div class="logo"><a href="/"><img src="http://new.greenrope.com/users/myteam4/Team116.png" border="0"></a></div>
+			<div id="teamName"></div>
 		</div>
+		
+		<!-- BEGIN LivePerson Button Code -->
+		<div id="lpButDivID-1329948577378" style="float: right; margin-top: -30px;"></div>
+		<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/86703120/?cmd=mTagRepstate&amp;site=86703120&amp;buttonID=12&amp;divID=lpButDivID-1329948577378&amp;bt=1&amp;c=1"></script>
+		<!-- END LivePerson Button code -->
+		
+		<div style="clear: both;"></div>
 	</div>
+
+	<div class="control_panel">
+		<span class="login"><a href="http://new.greenrope.com/app2/login.pl">Log In <img src="http://new.greenrope.com/users/myteam4/Media600.png" alt="login" align="absmiddle"></a></span>
+		<div id="controlPanel"><ul id="nav">
+								<li><a href="./" id="homepageMainLink" class="navLink" style="text-decoration: underline;">Home</a></li>
+								<li><span id="eventsListLink"></span></li><li><span id="storeLink"></span></li><li><a href="/features.html" id="Page1Link">Features</a><ul>
+											<li><a href="http://new.greenrope.com/crm.html">CRM</a></li>
+											
+											<li><a href="http://new.greenrope.com/email_marketing.html">Email Marketing</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_crm_and_event_management.html">Event Management</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_crm_and_website_analytics.html">Website Analytics</a></li>
+											
+											<li><a href="http://new.greenrope.com/social_network_marketing.html">Social Network Marketing</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_crm_and_project_management.html">Project Management</a></li>
+											
+											<li><a href="http://new.greenrope.com/sms_txt_marketing.html">SMS Marketing</a></li>
+											
+											<li><a href="http://new.greenrope.com/surveys.html">Surveys</a></li>
+											
+											<li><a href="http://new.greenrope.com/tracking.html">Tracking &amp; Stats</a></li>
+											
+											<li><a href="http://new.greenrope.com/templates.html">Templates</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_advanced_marketing_tools.html">Advanced Marketing Tools</a></li>
+											
+											<li><a href="http://new.greenrope.com/integration.html">Integration</a></li>
+											
+											<li><a href="http://new.greenrope.com/zimbra.html">Zimbra Integration</a></li>
+											</ul></li><li><a href="/pricing.html" id="Page2Link">Pricing</a><ul>
+											<li><a href="http://new.greenrope.com/quickstart.html">Quick Start Packages</a></li>
+											</ul></li><li><a href="/licensing.html" id="Page5Link">Licensing</a></li><li><a href="/about.html" id="Page6Link">About Us</a><ul>
+											<li><a href="http://new.greenrope.com/whygreenrope.html">Why GreenRope Is Special</a></li>
+											
+											<li><a href="http://new.greenrope.com/press.html">Press Room</a></li>
+											
+											<li><a href="http://new.greenrope.com/testimonials.html">Testimonials</a></li>
+											
+											<li><a href="http://new.greenrope.com/terms.html">Terms of Use</a></li>
+											
+											<li><a href="http://new.greenrope.com/privacy.html">Privacy Policy</a></li>
+											
+											<li><a href="http://new.greenrope.com/antispam.html">Anti-Spam Policy</a></li>
+											
+											<li><a href="http://new.greenrope.com/chambers.html">Chambers of Commerce</a></li>
+											
+											<li><a href="http://new.greenrope.com/founder.html">Letter From Our Founder</a></li>
+											</ul></li><li><a href="/support.html" id="Page7Link">Resources</a><ul>
+											<li><a href="http://new.greenrope.com/affiliate.html">Affiliate Program</a></li>
+											
+											<li><a href="http://new.greenrope.com/faq.html">FAQ</a></li>
+											
+											<li><a href="http://new.greenrope.com/email_marketing_tips.html">Email Marketing Tips</a></li>
+											
+											<li><a href="http://new.greenrope.com/GreenRopeForStartups.html">GreenRope for Startups</a></li>
+											
+											<li><a href="http://new.greenrope.com/marketing_resources.html">Marketing Resources</a></li>
+											
+											<li><a href="http://new.greenrope.com/facebook_marketing_tips.html">Top 3 Facebook Marketing Tips</a></li>
+											
+											<li><a href="http://new.greenrope.com/contact.html">Contact Us</a></li>
+											
+											<li><a href="http://new.greenrope.com/Videos.html">Videos</a></li>
+											
+											<li><a href="http://new.greenrope.com/webinars.html">Webinars</a></li>
+											
+											<li><a href="http://new.greenrope.com/video-faq.html">Video FAQ</a></li>
+											</ul></li><li><a href="/blog.html" id="Page8Link">Blog</a></li></ul></div>
+		<div style="clear: both;"></div>
+	</div>
+
+	<div style="width: 950px; margin-left: auto; margin-right: auto;">
+		
+	<div class="secondarybox">
+	
+		<div id="homepageMain">
+			<div id="homepage"><!-- Homepage --></div>
+		</div>
+		<div id="calendarMain">
+			<!-- Schedule -->
+		</div>
+		<div id="Page1" class="customPage">
+			<div id="Page1content" class="customPageContent"><!-- Page1content --></div>
+		</div>
+		<div id="Page2" class="customPage">
+			<div id="Page2content" class="customPageContent"><!-- Page2content --></div>
+		</div>
+		<div id="Page3" class="customPage">
+			<div id="Page3content" class="customPageContent"><!-- Page3content --></div>
+		</div>
+		<div id="Page4" class="customPage">
+			<div id="Page4content" class="customPageContent"><!-- Page4content --></div>
+		</div>
+		<div id="Page5" class="customPage">
+			<div id="Page5content" class="customPageContent"><!-- Page5content --></div>
+		</div>
+		<div id="Page6" class="customPage">
+			<div id="Page6content" class="customPageContent"><!-- Page6content --></div>
+		</div>
+		<div id="Page7" class="customPage">
+			<div id="Page7content" class="customPageContent"><!-- Page7content --></div>
+		</div>
+		<div id="Page8" class="customPage">
+			<div id="Page8content" class="customPageContent"><!-- Page8content --></div>
+		</div>
+		<div id="Page9" class="customPage">
+			<div id="Page9content" class="customPageContent"><!-- Page9content --></div>
+		</div>
+		<div id="Page10" class="customPage">
+			<div id="Page10content" class="customPageContent"><!-- Page10content --></div>
+		</div>
+		<div id="Page11" class="customPage">
+			<div id="Page11content" class="customPageContent"><!-- Page11content --></div>
+		</div>
+		<div id="Page12" class="customPage">
+			<div id="Page12content" class="customPageContent"><!-- Page12content --></div>
+		</div>
+		<div id="Page13" class="customPage">
+			<div id="Page13content" class="customPageContent"><!-- Page13content --></div>
+		</div>
+		<div id="Page14" class="customPage">
+			<div id="Page14content" class="customPageContent"><!-- Page14content --></div>
+		</div>
+		<div id="Page15" class="customPage">
+			<div id="Page15content" class="customPageContent"><h1>
+	Privacy Policy</h1>
+<p>
+	<strong>1. General</strong></p>
+<p>
+	GreenRope® is committed to protecting the privacy of our users. This privacy policy explains when and how personal information is collected, used, disclosed and protected with respect to our web site located at www.GreenRope®.com (the "Site"). By using the Site, you consent to the privacy practices described in this Policy, as modified from time to time by us. Please carefully review this policy so you understand our data privacy practices.</p>
+<p>
+	<strong>2. Personal Information</strong></p>
+<p>
+	Personal information is information that specifically identifies an individual such as a name, address, telephone number, e-mail address, or other account number, and information about that individual's activities when directly linked to that person such as information about his or her use of the Site. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you.</p>
+<p>
+	<strong>3. Personal Information We Collect</strong></p>
+<p>
+	We collect personal information in a number of ways when you visit our web site. For example, we collect personal information when you: (1) register and set up an account; and (2) contact us by e-mail for any reason. When you visit our web site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and the time and date of your visit and purchases. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.</p>
+<p>
+	<strong>4. How We Use Personal Information</strong></p>
+<p>
+	We use personal information to process your requests and provide you with service or to inform you about other products or services we think will be of interest. When we use personal information in our marketing efforts, we provide you with options and do not disclose the information to third parties except as described in this Policy. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services. We also use your personal information to send you informational e-mails, including without limitation newsletters, notifications by account owners, league managers, captains, players and group members, and reminders of event schedules and attendance.</p>
+<p>
+	<strong>5. Emails</strong></p>
+<p>
+	If you send emails through our site, your email will include your email address and any personal message you include. However, these emails are not private communications. You may not use the Site or any software provided through the Site to send spam or content that violates the user agreement.</p>
+<p>
+	<strong>6. Security</strong></p>
+<p>
+	We have put into place reasonable security measures in an effort to protect personal information while it is under our control. All personal information relating to our users is stored in a secure environment separate from our web site. Your account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused.</p>
+<p>
+	<strong>7. Control of Personal Information</strong></p>
+<p>
+	We give you the opportunity to opt-out of receiving communications from us and to view, correct or delete your personal information. We do not sell, rent or share personal information with third parties without your prior consent except in the limited circumstances described in this Policy. We may share personal information with third-party vendors who assist us in performing functions necessary to operate our business. These functions may include, without limitation, website hosting, credit card transaction processing and data entry. We limit the information shared with our third-party vendors to that which we believe is necessary to carry out those functions. In addition, we may disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, property or personal safety of GreenRope®, our users, our employees or the public. Information about our users, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets or acquisition.</p>
+<p>
+	<strong>8. Cookies, IP Addresses and URLs</strong></p>
+<p>
+	Automatically Collected Information: We automatically receive certain types of information whenever you interact with us. For example, when you visit the Site, we automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies." We also collect various types of "clickstream" information which is information about your browsing behavior, such as IP address information, entry and exit points for the Site, search terms, Web site addresses you visit, page views, and impressions. Cookies: Cookies are small text files placed on your hard drive by a web site when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalize your visit. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. We may place or recognize a unique cookie on your browser to enable you to receive customized content or services. Any cookies made available to shopping carts or other tracking information sent to third parties will reflect only de-identified demographic or other data linked to data you have voluntarily submitted to us, will be encrypted, and will not be used to identify you individually. If you decide not to accept our cookies, you will still be able to access those parts of our site available to the general public but you may not be able to login or use the site's features or services and you may have a less satisfactory experience.</p>
+<p>
+	<strong>9. Links to Other Web Sites</strong></p>
+<p>
+	Our web site may contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.</p>
+<p>
+	<strong>10. Policy Changes</strong></p>
+<p>
+	We reserve the right to change this Policy at any time. We may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. If our privacy practices change we will post the policy changes to our web site and notify you by indicating the date the privacy policy was last updated. We encourage you to check back at our web site periodically if you are concerned about how your information is used.</p>
 </div>
-
-
-<div class="wrapper">
-
-                <p><strong>1.  General</strong></p>
-				<p>GreenRope is committed to protecting the privacy of our users. This privacy policy explains when and how personal information is collected, used, disclosed and protected with respect to our web site located at www.GreenRope.com (the "Site"). By using the Site, you consent to the privacy practices described in this Policy, as modified from time to time by us. Please carefully review this policy so you understand our data privacy practices. </p>
-				<br>
-				<p><strong>2.  Personal Information</strong></p>
-				<p>Personal information is information that specifically identifies an individual such as a name, address, telephone number, e-mail address, or other account number, and information about that individual's activities when directly linked to that person such as information about his or her use of the Site. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. </p>
-				<br>
-				<p><strong>3. Personal Information We Collect</strong></p>
-				<p>We collect personal information in a number of ways when you visit our web site. For example, we collect personal information when you: (1) register and set up an account; and (2) contact us by e-mail for any reason. When you visit our web site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and the time and date of your visit and purchases. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.</p>
-				<br>
-				<p><strong>4.  How We Use Personal Information</strong></p>
-				<p>We use personal information to process your requests and provide you with service or to inform you about other products or services we think will be of interest. When we use personal information in our marketing efforts, we provide you with options and do not disclose the information to third parties except as described in this Policy. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services. We also use your personal information to send you informational e-mails, including without limitation newsletters, notifications by account owners, league managers, captains, players and group members, and reminders of event schedules and attendance. </p>
-				<br>
-				<p><strong>5.  Emails</strong></p>
-				<p>If you send emails through our site, your email will include your email address and any personal message you include. However, these emails are not private communications. You may not use the Site or any software provided through the Site to send spam or content that violates the user agreement. </p>
-				<br>
-				<p><strong>6.  Security</strong></p>
-				<p>We have put into place reasonable security measures in an effort to protect personal information while it is under our control. All personal information relating to our users is stored in a secure environment separate from our web site. Your account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused. </p>
-				<br>
-				<p><strong>7.  Control of Personal Information</strong></p>
-				<p>We give you the opportunity to opt-out of receiving communications from us and to view, correct or delete your personal information.  We do not sell, rent or share personal information with third parties without your prior consent except in the limited circumstances described in this Policy. We may share personal information with third-party vendors who assist us in performing functions necessary to operate our business. These functions may include, without limitation, website hosting, credit card transaction processing and data entry. We limit the information shared with our third-party vendors to that which we believe is necessary to carry out those functions. In addition, we may disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to comply with legal process or authorities, respond to any claims, or to protect the rights, property or personal safety of GreenRope, our users, our employees or the public. Information about our users, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets or acquisition. </p>
-				<br>
-				<p><strong>8.  Cookies, IP Addresses and URLs</strong></p>
-				<p>Automatically Collected Information: We automatically receive certain types of information whenever you interact with us. For example, when you visit the Site, we automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies." We also collect various types of "clickstream" information which is information about your browsing behavior, such as IP address information, entry and exit points for the Site, search terms, Web site addresses you visit, page views, and impressions. Cookies: Cookies are small text files placed on your hard drive by a web site when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalize your visit. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. We may place or recognize a unique cookie on your browser to enable you to receive customized content or services. Any cookies made available to shopping carts or other tracking information sent to third parties will reflect only de-identified demographic or other data linked to data you have voluntarily submitted to us, will be encrypted, and will not be used to identify you individually. If you decide not to accept our cookies, you will still be able to access those parts of our site available to the general public but you may not be able to login or use the site's features or services and you may have a less satisfactory experience. </p>
-				<br>
-				<p><strong>9.  Links to Other Web Sites</strong></p>
-				<p>Our web site may contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. </p>
-				<br>
-				<p><strong>10. Policy Changes</strong></p>
-				<p>We reserve the right to change this Policy at any time. We may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. If our privacy practices change we will post the policy changes to our web site and notify you by indicating the date the privacy policy was last updated. We encourage you to check back at our web site periodically if you are concerned about how your information is used. </p>
-
-				<br>
-
-    <div class="clearboth"></div>
-</div><!--/Content-->
-
-
-
-
-
-
-<!------ BEGIN FOOTER ------>
-	<div id="footer">
-		<div class="wrapper">
-			<div class="footer_links">
-				<a href="index.html">home</a> |
-				<a href="product_overview.html">product overview</a> |
-				<a href="signup.html">Pricing &amp; Signup Free</a> |
-				<a href="licensing.html">licensing</a> |
-				<a href="faq.html">faq</a> |
-				<a href="press.html">press</a> |
-				<a href="terms.html">terms</a> |
-				<a href="privacy.html">privacy policy</a> |
-				<a href="antispam.html">anti-spam policy</a> |
-				<a href="about.html">about</a>
-				<br>
-				© copyright 2008 - <span id="thisYear">2020</span>. all rights reserved.
+		</div>
+		<div id="Page16" class="customPage">
+			<div id="Page16content" class="customPageContent"><!-- Page16content --></div>
+		</div>
+		<div id="Page17" class="customPage">
+			<div id="Page17content" class="customPageContent"><!-- Page17content --></div>
+		</div>
+		<div id="Page18" class="customPage">
+			<div id="Page18content" class="customPageContent"><!-- Page18content --></div>
+		</div>
+		<div id="Page19" class="customPage">
+			<div id="Page19content" class="customPageContent"><!-- Page19content --></div>
+		</div>
+		<div id="Page20" class="customPage">
+			<div id="Page20content" class="customPageContent"><!-- Page20content --></div>
+		</div>
+		<div id="Page21" class="customPage">
+			<div id="Page21content" class="customPageContent"><!-- Page21content --></div>
+		</div>
+		<div id="Page22" class="customPage">
+			<div id="Page22content" class="customPageContent"><!-- Page22content --></div>
+		</div>
+		<div id="Page23" class="customPage">
+			<div id="Page23content" class="customPageContent"><!-- Page23content --></div>
+		</div>
+		<div id="Page24" class="customPage">
+			<div id="Page24content" class="customPageContent"><!-- Page24content --></div>
+		</div>
+		<div id="Page25" class="customPage">
+			<div id="Page25content" class="customPageContent"><!-- Page25content --></div>
+		</div>
+		<div id="Page26" class="customPage">
+			<div id="Page26content" class="customPageContent"><!-- Page26content --></div>
+		</div>
+		<div id="Page27" class="customPage">
+			<div id="Page27content" class="customPageContent"><!-- Page27content --></div>
+		</div>
+		<div id="Page28" class="customPage">
+			<div id="Page28content" class="customPageContent"><!-- Page28content --></div>
+		</div>
+		<div id="Page29" class="customPage">
+			<div id="Page29content" class="customPageContent"><!-- Page29content --></div>
+		</div>
+		<div id="Page30" class="customPage">
+			<div id="Page30content" class="customPageContent"><!-- Page30content --></div>
+		</div>
+		<div id="Page31" class="customPage">
+			<div id="Page31content" class="customPageContent"><!-- Page31content --></div>
+		</div>
+		<div id="Page32" class="customPage">
+			<div id="Page32content" class="customPageContent"><!-- Page32content --></div>
+		</div>
+		<div id="Page33" class="customPage">
+			<div id="Page33content" class="customPageContent"><!-- Page33content --></div>
+		</div>
+		<div id="Page34" class="customPage">
+			<div id="Page34content" class="customPageContent"><!-- Page34content --></div>
+		</div>
+		<div id="Page35" class="customPage">
+			<div id="Page35content" class="customPageContent"><!-- Page35content --></div>
+		</div>
+		<div id="Page36" class="customPage">
+			<div id="Page36content" class="customPageContent"><!-- Page36content --></div>
+		</div>
+		<div id="Page37" class="customPage">
+			<div id="Page37content" class="customPageContent"><!-- Page37content --></div>
+		</div>
+		<div id="Page38" class="customPage">
+			<div id="Page38content" class="customPageContent"><!-- Page38content --></div>
+		</div>
+		<div id="Page39" class="customPage">
+			<div id="Page39content" class="customPageContent"><!-- Page39content --></div>
+		</div>
+		<div id="Page40" class="customPage">
+			<div id="Page40content" class="customPageContent"><!-- Page40content --></div>
+		</div>
+		<div id="Page41" class="customPage">
+			<div id="Page41content" class="customPageContent"><!-- Page41content --></div>
+		</div>
+		<div id="Page42" class="customPage">
+			<div id="Page42content" class="customPageContent"><!-- Page42content --></div>
+		</div>
+		<div id="Page43" class="customPage">
+			<div id="Page43content" class="customPageContent"><!-- Page43content --></div>
+		</div>
+		<div id="Page44" class="customPage">
+			<div id="Page44content" class="customPageContent"><!-- Page44content --></div>
+		</div>
+		<div id="Page45" class="customPage">
+			<div id="Page45content" class="customPageContent"><!-- Page45content --></div>
+		</div>
+		<div id="Page46" class="customPage">
+			<div id="Page46content" class="customPageContent"><!-- Page46content --></div>
+		</div>
+		<div id="Page47" class="customPage">
+			<div id="Page47content" class="customPageContent"><!-- Page47content --></div>
+		</div>
+		<div id="Page48" class="customPage">
+			<div id="Page48content" class="customPageContent"><!-- Page48content --></div>
+		</div>
+		<div id="Page49" class="customPage">
+			<div id="Page49content" class="customPageContent"><!-- Page49content --></div>
+		</div>
+		<div id="Page50" class="customPage">
+			<div id="Page50content" class="customPageContent"><!-- Page50content --></div>
+		</div>
+		<div id="Page51" class="customPage">
+			<div id="Page51content" class="customPageContent"><!-- Page51content --></div>
+		</div>
+		<div id="Page52" class="customPage">
+			<div id="Page52content" class="customPageContent"><!-- Page52content --></div>
+		</div>
+		<div id="Page53" class="customPage">
+			<div id="Page53content" class="customPageContent"><!-- Page53content --></div>
+		</div>
+		<div id="Page54" class="customPage">
+			<div id="Page54content" class="customPageContent"><!-- Page54content --></div>
+		</div>
+		<div id="Page55" class="customPage">
+			<div id="Page55content" class="customPageContent"><!-- Page55content --></div>
+		</div>
+		<div id="Page56" class="customPage">
+			<div id="Page56content" class="customPageContent"><!-- Page56content --></div>
+		</div>
+		<div id="Page57" class="customPage">
+			<div id="Page57content" class="customPageContent"><!-- Page57content --></div>
+		</div>
+		<div id="Page58" class="customPage">
+			<div id="Page58content" class="customPageContent"><!-- Page58content --></div>
+		</div>
+		<div id="Page59" class="customPage">
+			<div id="Page59content" class="customPageContent"><!-- Page59content --></div>
+		</div>
+		<div id="Page60" class="customPage">
+			<div id="Page60content" class="customPageContent"><!-- Page60content --></div>
+		</div>
+		<div id="Page61" class="customPage">
+			<div id="Page61content" class="customPageContent"><!-- Page61content --></div>
+		</div>
+		<div id="Page62" class="customPage">
+			<div id="Page62content" class="customPageContent"><!-- Page62content --></div>
+		</div>
+		<div id="Page63" class="customPage">
+			<div id="Page63content" class="customPageContent"><!-- Page63content --></div>
+		</div>
+		<div id="Page64" class="customPage">
+			<div id="Page64content" class="customPageContent"><!-- Page64content --></div>
+		</div>
+		<div id="Page65" class="customPage">
+			<div id="Page65content" class="customPageContent"><!-- Page65content --></div>
+		</div>
+		<div id="Page66" class="customPage">
+			<div id="Page66content" class="customPageContent"><!-- Page66content --></div>
+		</div>
+		<div id="Page67" class="customPage">
+			<div id="Page67content" class="customPageContent"><!-- Page67content --></div>
+		</div>
+		<div id="Page68" class="customPage">
+			<div id="Page68content" class="customPageContent"><!-- Page68content --></div>
+		</div>
+		<div id="Page69" class="customPage">
+			<div id="Page69content" class="customPageContent"><!-- Page69content --></div>
+		</div>
+		<div id="Page70" class="customPage">
+			<div id="Page70content" class="customPageContent"><!-- Page70content --></div>
+		</div>
+		<div id="Page71" class="customPage">
+			<div id="Page71content" class="customPageContent"><!-- Page71content --></div>
+		</div>
+		<div id="Page72" class="customPage">
+			<div id="Page72content" class="customPageContent"><!-- Page72content --></div>
+		</div>
+		<div id="Page73" class="customPage">
+			<div id="Page73content" class="customPageContent"><!-- Page73content --></div>
+		</div>
+		<div id="Page74" class="customPage">
+			<div id="Page74content" class="customPageContent"><!-- Page74content --></div>
+		</div>
+		<div id="Page75" class="customPage">
+			<div id="Page75content" class="customPageContent"><!-- Page75content --></div>
+		</div>
+		<div id="Page76" class="customPage">
+			<div id="Page76content" class="customPageContent"><!-- Page76content --></div>
+		</div>
+		<div id="Page77" class="customPage">
+			<div id="Page77content" class="customPageContent"><!-- Page77content --></div>
+		</div>
+		<div id="Page78" class="customPage">
+			<div id="Page78content" class="customPageContent"><!-- Page78content --></div>
+		</div>
+		<div id="Page79" class="customPage">
+			<div id="Page79content" class="customPageContent"><!-- Page79content --></div>
+		</div>
+		<div id="Page80" class="customPage">
+			<div id="Page80content" class="customPageContent"><!-- Page80content --></div>
+		</div>
+		<div id="Page81" class="customPage">
+			<div id="Page81content" class="customPageContent"><!-- Page81content --></div>
+		</div>
+		<div id="Page82" class="customPage">
+			<div id="Page82content" class="customPageContent"><!-- Page82content --></div>
+		</div>
+		<div id="Page83" class="customPage">
+			<div id="Page83content" class="customPageContent"><!-- Page83content --></div>
+		</div>
+		<div id="Page84" class="customPage">
+			<div id="Page84content" class="customPageContent"><!-- Page84content --></div>
+		</div>
+		<div id="Page85" class="customPage">
+			<div id="Page85content" class="customPageContent"><!-- Page85content --></div>
+		</div>
+		<div id="Page86" class="customPage">
+			<div id="Page86content" class="customPageContent"><!-- Page86content --></div>
+		</div>
+		<div id="Page87" class="customPage">
+			<div id="Page87content" class="customPageContent"><!-- Page87content --></div>
+		</div>
+		<div id="Page88" class="customPage">
+			<div id="Page88content" class="customPageContent"><!-- Page88content --></div>
+		</div>
+		<div id="Page89" class="customPage">
+			<div id="Page89content" class="customPageContent"><!-- Page89content --></div>
+		</div>
+		<div id="Page90" class="customPage">
+			<div id="Page90content" class="customPageContent"><!-- Page90content --></div>
+		</div>
+		<div id="Page91" class="customPage">
+			<div id="Page91content" class="customPageContent"><!-- Page91content --></div>
+		</div>
+		<div id="Page92" class="customPage">
+			<div id="Page92content" class="customPageContent"><!-- Page92content --></div>
+		</div>
+		<div id="Page93" class="customPage">
+			<div id="Page93content" class="customPageContent"><!-- Page93content --></div>
+		</div>
+		<div id="Page94" class="customPage">
+			<div id="Page94content" class="customPageContent"><!-- Page94content --></div>
+		</div>
+		<div id="Page95" class="customPage">
+			<div id="Page95content" class="customPageContent"><!-- Page95content --></div>
+		</div>
+		<div id="Page96" class="customPage">
+			<div id="Page96content" class="customPageContent"><!-- Page96content --></div>
+		</div>
+		<div id="Page97" class="customPage">
+			<div id="Page97content" class="customPageContent"><!-- Page97content --></div>
+		</div>
+		<div id="Page98" class="customPage">
+			<div id="Page98content" class="customPageContent"><!-- Page98content --></div>
+		</div>
+		<div id="Page99" class="customPage">
+			<div id="Page99content" class="customPageContent"><!-- Page99content --></div>
+		</div>
+		<div id="Page100" class="customPage">
+			<div id="Page100content" class="customPageContent"><!-- Page100content --></div>
+		</div>
+		<div id="wiki" class="customPage">
+			<div id="WikiContent" class="customPageContent"><table id="wikiTable" width="100%"><tbody><tr><td valign="top"><ul></ul></td><td valign="top"><iframe id="wikiContent" src="about:blank" frameborder="0" style="width: 100%; min-height: 400px;"></iframe></td></tr></tbody></table></div>
+		</div>
+	
+	</div>
+	
+	<div style="height: 155px; width: 328px; float: right; text-align: center; ">
+		<a href="http://new.greenrope.com/app2/create_account.pl" title="Sign up for a free trial account here."><img src="http://new.greenrope.com/users/myteam4/Media851.png" alt="Free Trail"></a>
+		<p style="font-size: 10px;">Already have an account? <a href="http://new.greenrope.com/app2/login.pl">Click here</a> to login.</p>
+	</div>
+	
+	<div class="video">
+	 <h2>See how GreenRope can help you!</h2><br>
+	 <object width="275" height="225">
+	 <param name="movie" value="http://www.youtube.com/v/r_VQtS0BuWU?hl=en&amp;fs=1">
+	 <param name="allowFullScreen" value="true">
+	 <param name="allowscriptaccess" value="always">
+	 <embed src="http://www.youtube.com/v/r_VQtS0BuWU?hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="225">
+	 </object>
+	</div>
+	
+	<div class="clients">
+		<h2>Some of our clients:</h2><br>
+		<center>
+			<div class="marquee" id="mycrawler2">
+				<img src="http://new.greenrope.com/users/myteam4/Media947.jpg" title="Hard Candy Cases">
+				<img src="http://new.greenrope.com/users/myteam4/Media605.png" title="ChamberZoom">
+				<img src="http://new.greenrope.com/users/myteam4/Media606.jpg" title="CoolerEmail 3.0">
+				<img src="http://new.greenrope.com/users/myteam4/Media772.jpg" title="Ad Partners">
+				<img src="http://new.greenrope.com/users/myteam4/Media773.jpg" title="Art of Photography">
+				<img src="http://new.greenrope.com/users/myteam4/Media774.jpg" title="Barter of San Diego Too!">
+				<img src="http://new.greenrope.com/users/myteam4/Media610.png" title="Organik SEO">
+				<img src="http://new.greenrope.com/users/myteam4/Media611.jpg" title="Sustainable Surplus">
+				<img src="http://new.greenrope.com/users/myteam4/Media612.png" title="Belly Up">
+				<img src="http://new.greenrope.com/users/myteam4/Media775.jpg" title="Casa De Luz">
+				<img src="http://new.greenrope.com/users/myteam4/Media776.jpg" title="Chic CEO">
+				<img src="http://new.greenrope.com/users/myteam4/Media777.jpg" title="Crepes and Corks">
+				<img src="http://new.greenrope.com/users/myteam4/Media778.jpg" title="Ego Soleil">
+				<img src="http://new.greenrope.com/users/myteam4/Media779.jpg" title="Emitations">
+				<img src="http://new.greenrope.com/users/myteam4/Media780.jpg" title="Getley">
+				<img src="http://new.greenrope.com/users/myteam4/Media781.jpg" title="IceOplex">
+				<img src="http://new.greenrope.com/users/myteam4/Media782.jpg" title="iMarketers">
+				<img src="http://new.greenrope.com/users/myteam4/Media783.jpg" title="Iron Starr">
+				<img src="http://new.greenrope.com/users/myteam4/Media784.jpg" title="Bristol IT Mega Meet">
+				<img src="http://new.greenrope.com/users/myteam4/Media785.jpg" title="Keiser University College of Golf">
+				<img src="http://new.greenrope.com/users/myteam4/Media786.jpg" title="LandmarK Events">
+				<img src="http://new.greenrope.com/users/myteam4/Media787.jpg" title="MyTeamCaptain">
+				<img src="http://new.greenrope.com/users/myteam4/Media789.jpg" title="NCH">
+				<img src="http://new.greenrope.com/users/myteam4/Media790.jpg" title="Olive PR Solutions">
+				<img src="http://new.greenrope.com/users/myteam4/Media791.jpg" title="OSHA 4 Less">
+				<img src="http://new.greenrope.com/users/myteam4/Media792.jpg" title="Pacific Magazine">
+				<img src="http://new.greenrope.com/users/myteam4/Media794.jpg" title="Boy Scouts">
+				<img src="http://new.greenrope.com/users/myteam4/Media795.jpg" title="San Diego Regional Chamber of Commerce">
+				<img src="http://new.greenrope.com/users/myteam4/Media796.jpg" title="Teamr">
 			</div>
-			<a href="/"><img src="images/logo_footer.png" class="img_right"></a>
-
-			<div class="clearboth"></div>
-		</div>
+			
+			<script type="text/javascript">
+				marqueeInit({
+					uniqueid: 'mycrawler2',
+					style: {
+						'padding': '0px',
+						'width': '288px',
+						'height': '118px'
+					},
+					inc: .5, //speed - pixel increment for each iteration of this marquee's movement
+					mouse: 'pause', //mouseover behavior ('pause' 'cursor driven' or false)
+					moveatleast: 1,
+					neutral: 150,
+					savedirection: true,
+					random: true
+				});
+			</script>
+		</center>
 	</div>
+	
+	<div class="connect">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td>Connect with us:&nbsp;</td>
+				<td><a href="http://www.facebook.com/GreenRope"><img src="http://new.greenrope.com/users/myteam20770/Media96.png" alt="Facebook"></a> <a href="http://www.linkedin.com/company/greenrope"><img src="http://new.greenrope.com/users/myteam20770/Media111.png" alt="LinkedIn"></a> <a href="https://twitter.com/#!/greenrope"><img src="http://new.greenrope.com/users/myteam20770/Media138.png" alt="Twitter"></a> <a href="https://plus.google.com/100616055733638709364/"><img src="http://app.cooleremail.com/users/myteam20770/Media286.png" alt="Google+"></a> <a href="http://www.pinterest.com/greenrope"><img src="http://app.cooleremail.com/users/myteam20770/Media299.png" alt="Pinterest"></a></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<div id="___plus_0" style="height: 131px; width: 100%; display: inline-block; text-indent: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; background-position: initial initial; background-repeat: initial initial; "><iframe allowtransparency="true" frameborder="0" hspace="0" id="I1_1329853790616" marginheight="0" marginwidth="0" name="I1_1329853790616" scrolling="no" src="https://plusone.google.com/u/0/_/pages/badge?url=https%3A%2F%2Fplus.google.com%2F100616055733638709364&amp;size=badge&amp;width=300&amp;height=131&amp;theme=light&amp;hl=en&amp;jsh=m%3B%2F_%2Fapps-static%2F_%2Fjs%2Fgapi%2F__features__%2Frt%3Dj%2Fver%3DORfABtzIMjY.en.%2Fsv%3D1%2Fam%3D!Dxyecr_OdryIOx012g%2Fd%3D1%2F#id=I1_1329853790616&amp;parent=http%3A%2F%2Fwww.greenrope.com&amp;rpctoken=375321159&amp;_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; position: static; left: 0px; top: 0px; visibility: visible; width: 100%; height: 131px; " tabindex="-1" vspace="0" width="100%" title="+1"></iframe></div>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	
+	<div style="clear: both;"></div>
+	</div>
+	
+	<div class="footer">
+		<div style="margin-top: 15px; margin-left: 15px; position: absolute;">
+			<ul id="nav_2">
+								<li><a href="./" id="homepageMainLink_2" class="navLink_2" style="text-decoration: underline;">Home</a></li>
+								<li><span id="eventsListLink_2"></span></li><li><span id="storeLink_2"></span></li><li><a href="/features.html" id="Page1Link_2">Features</a><ul>
+											<li><a href="http://new.greenrope.com/crm.html">CRM</a></li>
+											
+											<li><a href="http://new.greenrope.com/email_marketing.html">Email Marketing</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_crm_and_event_management.html">Event Management</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_crm_and_website_analytics.html">Website Analytics</a></li>
+											
+											<li><a href="http://new.greenrope.com/social_network_marketing.html">Social Network Marketing</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_crm_and_project_management.html">Project Management</a></li>
+											
+											<li><a href="http://new.greenrope.com/sms_txt_marketing.html">SMS Marketing</a></li>
+											
+											<li><a href="http://new.greenrope.com/surveys.html">Surveys</a></li>
+											
+											<li><a href="http://new.greenrope.com/tracking.html">Tracking &amp; Stats</a></li>
+											
+											<li><a href="http://new.greenrope.com/templates.html">Templates</a></li>
+											
+											<li><a href="http://new.greenrope.com/greenrope_advanced_marketing_tools.html">Advanced Marketing Tools</a></li>
+											
+											<li><a href="http://new.greenrope.com/integration.html">Integration</a></li>
+											
+											<li><a href="http://new.greenrope.com/zimbra.html">Zimbra Integration</a></li>
+											</ul></li><li><a href="/pricing.html" id="Page2Link_2">Pricing</a><ul>
+											<li><a href="http://new.greenrope.com/quickstart.html">Quick Start Packages</a></li>
+											</ul></li><li><a href="/licensing.html" id="Page5Link_2">Licensing</a></li><li><a href="/about.html" id="Page6Link_2">About Us</a><ul>
+											<li><a href="http://new.greenrope.com/whygreenrope.html">Why GreenRope Is Special</a></li>
+											
+											<li><a href="http://new.greenrope.com/press.html">Press Room</a></li>
+											
+											<li><a href="http://new.greenrope.com/testimonials.html">Testimonials</a></li>
+											
+											<li><a href="http://new.greenrope.com/terms.html">Terms of Use</a></li>
+											
+											<li><a href="http://new.greenrope.com/privacy.html">Privacy Policy</a></li>
+											
+											<li><a href="http://new.greenrope.com/antispam.html">Anti-Spam Policy</a></li>
+											
+											<li><a href="http://new.greenrope.com/chambers.html">Chambers of Commerce</a></li>
+											
+											<li><a href="http://new.greenrope.com/founder.html">Letter From Our Founder</a></li>
+											</ul></li><li><a href="/support.html" id="Page7Link_2">Resources</a><ul>
+											<li><a href="http://new.greenrope.com/affiliate.html">Affiliate Program</a></li>
+											
+											<li><a href="http://new.greenrope.com/faq.html">FAQ</a></li>
+											
+											<li><a href="http://new.greenrope.com/email_marketing_tips.html">Email Marketing Tips</a></li>
+											
+											<li><a href="http://new.greenrope.com/GreenRopeForStartups.html">GreenRope for Startups</a></li>
+											
+											<li><a href="http://new.greenrope.com/marketing_resources.html">Marketing Resources</a></li>
+											
+											<li><a href="http://new.greenrope.com/facebook_marketing_tips.html">Top 3 Facebook Marketing Tips</a></li>
+											
+											<li><a href="http://new.greenrope.com/contact.html">Contact Us</a></li>
+											
+											<li><a href="http://new.greenrope.com/Videos.html">Videos</a></li>
+											
+											<li><a href="http://new.greenrope.com/webinars.html">Webinars</a></li>
+											
+											<li><a href="http://new.greenrope.com/video-faq.html">Video FAQ</a></li>
+											</ul></li><li><a href="/blog.html" id="Page8Link_2">Blog</a></li></ul>
+			<div id="seasonsList"></div>
+			
+		</div>
+		<img src="http://new.greenrope.com/users/myteam4/Media601.png" alt="GreenRope.com" align="right" style="margin-top: 10px; margin-right: 15px;">
+	</div>
+	
+</div>
 
+</center>
 
+<!-- Segment Pixel - 3-014-sitewide - DO NOT MODIFY -->
+<img src="http://ib.adnxs.com/seg?add=357100&amp;t=2" width="1" height="1">
+<!-- End of Segment Pixel -->
 
-<!--/Wrapper-->
+<!-- Conversion Pixel - 3-014_New_Prospect_Site_Visit - DO NOT MODIFY -->
+<img src="http://ib.adnxs.com/px?id=48169&amp;seg=421318&amp;t=2" width="1" height="1">
+<!-- End of Conversion Pixel -->
 
-
-
-
-<!------ BEGIN ANALYTICS ------>
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<img src="http://app.greenrope.com/wt.pl?a=4&r=' + window.document.referrer + '" height="1" width="1">')
-//-->
-</script><img src="http://app.greenrope.com/wt.pl?a=4&amp;r=" height="1" width="1">
+<img src="http://new.greenrope.com/images/spacer.png" onload="showSection('Page15');" height="1" width="1">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#navMenu1').hover( function () { $('#subnavMenu1').show(); $('#subnavMenu1').css('display','inline'); }, function () { $('#subnavMenu1').hide(); } ); $('#subnavMenu1').hover( function () { $('#subnavMenu1').show(); $('#subnavMenu1').css('display','inline'); }, function () { $('#subnavMenu1').hide(); } );">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#navMenu2').hover( function () { $('#subnavMenu2').show(); $('#subnavMenu2').css('display','inline'); }, function () { $('#subnavMenu2').hide(); } ); $('#subnavMenu2').hover( function () { $('#subnavMenu2').show(); $('#subnavMenu2').css('display','inline'); }, function () { $('#subnavMenu2').hide(); } );">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/affiliate.html&quot; id=&quot;Page3Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Affiliate Program</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/faq.html&quot; id=&quot;Page4Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>FAQ</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#navMenu5').hover( function () { $('#subnavMenu5').show(); $('#subnavMenu5').css('display','inline'); }, function () { $('#subnavMenu5').hide(); } ); $('#subnavMenu5').hover( function () { $('#subnavMenu5').show(); $('#subnavMenu5').css('display','inline'); }, function () { $('#subnavMenu5').hide(); } );">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#navMenu6').hover( function () { $('#subnavMenu6').show(); $('#subnavMenu6').css('display','inline'); }, function () { $('#subnavMenu6').hide(); } ); $('#subnavMenu6').hover( function () { $('#subnavMenu6').show(); $('#subnavMenu6').css('display','inline'); }, function () { $('#subnavMenu6').hide(); } );">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#navMenu7').hover( function () { $('#subnavMenu7').show(); $('#subnavMenu7').css('display','inline'); }, function () { $('#subnavMenu7').hide(); } ); $('#subnavMenu7').hover( function () { $('#subnavMenu7').show(); $('#subnavMenu7').css('display','inline'); }, function () { $('#subnavMenu7').hide(); } );">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#navMenu8').hover( function () { $('#subnavMenu8').show(); $('#subnavMenu8').css('display','inline'); }, function () { $('#subnavMenu8').hide(); } ); $('#subnavMenu8').hover( function () { $('#subnavMenu8').show(); $('#subnavMenu8').css('display','inline'); }, function () { $('#subnavMenu8').hide(); } );">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/whygreenrope.html&quot; id=&quot;Page11Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Why GreenRope Is Special</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/press.html&quot; id=&quot;Page12Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Press Room</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/testimonials.html&quot; id=&quot;Page13Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Testimonials</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/terms.html&quot; id=&quot;Page14Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Terms of Use</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/privacy.html&quot; id=&quot;Page15Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Privacy Policy</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/antispam.html&quot; id=&quot;Page16Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Anti-Spam Policy</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/crm.html&quot; id=&quot;Page17Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>CRM</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/email_marketing.html&quot; id=&quot;Page18Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Email Marketing</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/greenrope_crm_and_event_management.html&quot; id=&quot;Page19Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Event Management</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/greenrope_crm_and_website_analytics.html&quot; id=&quot;Page20Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Website Analytics</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/social_network_marketing.html&quot; id=&quot;Page21Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Social Network Marketing</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/greenrope_crm_and_project_management.html&quot; id=&quot;Page22Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Project Management</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/email_marketing_tips.html&quot; id=&quot;Page27Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Email Marketing Tips</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/sms_txt_marketing.html&quot; id=&quot;Page28Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>SMS Marketing</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/surveys.html&quot; id=&quot;Page29Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Surveys</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/tracking.html&quot; id=&quot;Page30Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Tracking &amp; Stats</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/templates.html&quot; id=&quot;Page31Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Templates</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/GreenRopeForStartups.html&quot; id=&quot;Page32Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>GreenRope for Startups</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/greenrope_advanced_marketing_tools.html&quot; id=&quot;Page33Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Advanced Marketing Tools</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/integration.html&quot; id=&quot;Page34Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Integration</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/marketing_resources.html&quot; id=&quot;Page36Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Marketing Resources</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/chambers.html&quot; id=&quot;Page37Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Chambers of Commerce</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/facebook_marketing_tips.html&quot; id=&quot;Page39Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Top 3 Facebook Marketing Tips</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/contact.html&quot; id=&quot;Page41Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Contact Us</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/Videos.html&quot; id=&quot;Page42Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Videos</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu1').append('<a href=&quot;http://new.greenrope.com/zimbra.html&quot; id=&quot;Page44Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Zimbra Integration</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu6').append('<a href=&quot;http://new.greenrope.com/founder.html&quot; id=&quot;Page46Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Letter From Our Founder</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/webinars.html&quot; id=&quot;Page47Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Webinars</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu7').append('<a href=&quot;http://new.greenrope.com/video-faq.html&quot; id=&quot;Page49Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Video FAQ</a>');">
+<img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="$('#subnavMenu2').append('<a href=&quot;http://new.greenrope.com/quickstart.html&quot; id=&quot;Page50Link&quot; class=&quot;navLink&quot; style=&quot;text-decoration: none; white-space: nowrap; display: block;&quot;>Quick Start Packages</a>');"><img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/Android/i)) { $('#selectControlPanel').show(); }"><img src="http://new.greenrope.com/images/spacer.png" height="1" width="1" onload="if (self.document.location.hash.substring(1) == 'Calendar') { setTimeout('showSection(\'calendarMain\');',1000); }; if (self.document.location.hash.substring(1) == 'EventsList') { setTimeout('showSection(\'eventsList\');',1000); }">
+							<script language="JavaScript" type="text/javascript">
+							<!--
+							document.write('<img src="http://app.greenrope.com/wt.pl?a=4&r=' + window.document.referrer + '" height="1" width="1">')
+							//-->
+							</script><img src="http://app.greenrope.com/wt.pl?a=4&amp;r=" height="1" width="1">
+							
 
 </body></html>
