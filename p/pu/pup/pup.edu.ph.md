@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525075021id_/http%3A//www.pup.edu.ph/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109141322id_/http%3A//www.pup.edu.ph/help/privacy.aspx) for the most accurate reproduction.*
 
 # PUP : Help and Support Center : Privacy Statement
 
