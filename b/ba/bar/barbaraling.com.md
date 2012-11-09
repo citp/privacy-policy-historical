@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the barbaraling.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511164517id_/http%3A//www.barbaraling.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbaraling.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109225040id_/http%3A//www.barbaraling.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barbara Ling, Your Maverick Virtual Coach
 
-[](http://www.barbaraling.com/about/privacy-policy/?pfstyle=wp)
+[](http://www.printfriendly.com/print/v2?url=http://www.barbaraling.com/about/privacy-policy/)
+
+## Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
