@@ -1,47 +1,57 @@
-> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219140205id_/http%3A//www.bizindia.net/Site/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109012920id_/http%3A//www.bizindia.net/%3Fpage_id%3D375) for the most accurate reproduction.*
 
-# BizIndia Magazine > Home ( DNN 3.3.7 )
+# Bizindia » Privacy Policy
 
-BizIndia Magazine is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the BizIndia Magazine Web site and governs data collection and usage. By using the BizIndia Magazine website, you consent to the data practices described in this statement.
+[](http://www.sorinroyercooper.com/)**BIZ INDIA Privacy Policy Highlights**
 
-Collection of your Personal Information
+Last Updated on August 09, 2010
 
-BizIndia Magazine collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. BizIndia Magazine also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+BIZ INDIA.net wants to make its privacy practices clear and easy to understand. This page provides highlights of the BIZ INDIA.net Privacy Policy. For more information, please review our complete Privacy Policy.
 
-There is also information about your computer hardware and software that is automatically collected by BizIndia Magazine. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by BizIndia Magazine for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the BizIndia Magazine Web site.
+By using BIZ INDIA.net, you are agreeing to our Terms of Service.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through BizIndia Magazine public message boards, this information may be collected and used by others. Note: BizIndia Magazine does not read any of your private online communications.
+Scope
 
-BizIndia Magazine encourages you to review the privacy statements of Web sites you choose to link to from BizIndia Magazine so that you can understand how those Web sites collect, use and share your information. BizIndia Magazine is not responsible for the privacy statements or other content on Web sites outside of the BizIndia Magazine and BizIndia Magazine family of Web sites.
+**BIZ INDIA.net privacy highlights and full Privacy Policy**
 
-Use of your Personal Information
+* BIZINDIA.net
 
-BizIndia Magazine collects and uses your personal information to operate the BizIndia Magazine Web site and deliver the services you have requested. BizIndia Magazine also uses your personally identifiable information to inform you of other products or services available from BizIndia Magazine and its affiliates. BizIndia Magazine may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Information We Gather
 
-BizIndia Magazine does not sell, rent or lease its customer lists to third parties. BizIndia Magazine may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, BizIndia Magazine may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to BizIndia Magazine, and they are required to maintain the confidentiality of your information.
+The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address, and 2) tracking information collected as you navigate through our site.
 
-BizIndia Magazine does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+Use of Information
 
-BizIndia Magazine keeps track of the Web sites and pages our customers visit within BizIndia Magazine, in order to determine what BizIndia Magazine services are the most popular. This data is used to deliver customized content and advertising within BizIndia Magazine to customers whose behavior indicates that they are interested in a particular subject area.
+* If you have registered online on BIZ INDIA.net, BIZINDIA.net will not sell, rent, swap or authorize any third party to use your e-mail address without your permission. This also applies to any information that personally identifies you, except as noted immediately below. We do, however, share information about our audience in aggregate form. For example, we may want to know how long the average reader spends on our website, or which pages or features get the most attention.
 
-BizIndia Magazine Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on BizIndia Magazine or the site; (b) protect and defend the rights or property of BizIndia Magazine; and, (c) act under exigent circumstances to protect the personal safety of users of BizIndia Magazine, or the public.
+* If you are a print subscriber to BIZ INDIA Magazine or a subscriber to BIZ INDIA Magazine Digital Edition and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may inform us.
 
-Use of Cookies
+* BIZ INDIA.net may share personal information with ohers for analysis purposes. BIZ INDIA.net will not share personal information about you as an individual to third parties without your consent.
 
-The BizIndia Magazine Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+* BIZ INDIA.net may perform statistical analyses of subscribers and their subscribing and purchasing patterns for product development purposes and to generally inform advertisers about the nature of our subscriber base.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize BizIndia Magazine pages, or register with BizIndia Magazine site or services, a cookie helps BizIndia Magazine to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same BizIndia Magazine Web site, the information you previously provided can be retrieved, so you can easily use the BizIndia Magazine features that you customized.
+* We may use demographic and preference information to allow advertising on our Web site to be targeted, in aggregate, to the users for whom they are most pertinent.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the BizIndia Magazine services or Web sites you visit.
+* We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management.
 
-Security of your Personal Information
+* Any information you disclose when posting to a message board, along with your message board screen name or ID, becomes public and may be used by BIZ INDIA.net for online and offline promotional or commercial uses in any and all media.
 
-BizIndia Magazine secures your personal information from unauthorized access, use or disclosure. BizIndia Magazine secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Your Privacy Choices
 
-Changes to this Statement
+If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the instructions at the bottom of each e-mail.
 
-BizIndia Magazine will occasionally update this Statement of Privacy to reflect company and customer feedback. BizIndia Magazine encourages you to periodically review this Statement to be informed of how BizIndia Magazine is protecting your information.
+If, at any time, you prefer not to receive traditional mail or telephone solicitations originated by BIZ INDIA Publications and its third party affiliates, you may choose to inform us.
 
-Contact Information
+To view and edit your personal information, please visit the appropriate part of our Website. For example, to update your e-mail address on BIZ INDIA.net, go to the information on how to view and edit your personal information.
 
-BizIndia Magazine welcomes your comments regarding this Statement of Privacy. If you believe that BizIndia Magazine has not adhered to this Statement, please contact BizIndia Magazine at [prasad@pamten.com](mailto:prasad@pamten.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Important Information
+
+We encourage you to read our complete Privacy Policy. The full BIZ INDIA.net Privacy Policy contains links to supplementary information about specific BIZ INDIA.net sites or services. We reserve the right to update our Privacy Policy.
+
+Our Privacy Policy may be amended from time to time. Any such changes will be posted on the Privacy Policy section of BIZINDIA.net. If we make a significant or material change in the way we use your personal information, the change will be posted thirty (30) days prior to taking effect and registered users will be notified via e-mail.
+
+We employ measures designed to protect the security of your personal identifying information.
+
+How To Contact Us
+
+For any questions or comments regarding our information or security practices, you may contact us through the “Contact Us” form. or by mail at our current mailing address.[](https://www.cooper-electric.com/)
