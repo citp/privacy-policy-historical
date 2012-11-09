@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-covers.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611085450id_/http%3A//www.get-covers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-covers.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109045355id_/http%3A//www.get-covers.com/privacy-policy) for the most accurate reproduction.*
 
 # Facebook Covers & Timeline Covers - Facebook Covers & Timeline Covers – Get-Covers.com
 
