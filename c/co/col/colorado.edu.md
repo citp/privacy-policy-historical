@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511123957id_/http%3A//colorado.edu/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109083639id_/http%3A//www.colorado.edu/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | University of Colorado Boulder
 
