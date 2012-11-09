@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentometer.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123180101id_/http%3A//www.rentometer.com/pages/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentometer.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109013454id_/http%3A//www.rentometer.com/pages/privacy_statement) for the most accurate reproduction.*
 
 # Rentometer-Get House and Apartment Rental Comps by Entering an Address
 
