@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129233457id_/http%3A//www.cfo.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109072702id_/http%3A//www3.cfo.com/about/Privacy) for the most accurate reproduction.*
 
-# CFO.com - About Us
+# CFO: Privacy Policy
 
 CFO Publishing is committed to protecting the privacy of its users. CFO.com is part of CFO Publishing.
 
@@ -23,7 +23,7 @@ CFO Publishing (CFO magazine, CFO.com, CFO Conferences, and CFO Research Service
 CFO also rents a portion of its postal mailing address lists to reputable firms.
 
 **Cookies**  
-A cookie is a small file that is placed on a user's hard drive or linked to a user's email address when a user visits CFO.com. This file allows the user to move quickly and easily around our website by keeping a record of the user's previous visits. CFO.com uses cookies strictly for identification purposes. We do not link this information to users' personally identifiable details.
+A cookie is a small file that is placed on a user's hard drive or linked to a user's email address when a user visits CFO.com. This file allows the user to move quickly and easily around our website by keeping a record of the user's previous visits. CFO.com uses cookies for identification purposes.
 
 **Web Beacons**  
 CFO.com uses web beacons to access our cookies within our websites and in connection with CFO.com products, services, and partners.
@@ -35,4 +35,4 @@ CFO.com maintains appropriate measures to ensure that users' personal details ar
 Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis.
 
 **Policy Updates**  
-This privacy policy may change from time to time. All changes to the policy will be posted to the website and are effective as of posting. 
+This privacy policy may change from time to time. All changes to the policy will be posted to the website and are effective as of posting.
