@@ -1,49 +1,40 @@
-> *The following text is extracted and transformed from the rockwestcomposites.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919004230id_/http%3A//www.rockwestcomposites.com/index.php%3Fp_resource%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwestcomposites.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109152604id_/http%3A//www.rockwestcomposites.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Rock West Composites - Privacy Policy
+# Privacy Policy - Rock West Composites
 
-Privacy Policy Statement  
-This is the web site of Rock West Composites.
+**Privacy Notice**
 
-Our postal address is  
-8666 Commerce Ave.  
-San Diego, CA 92121
+This privacy notice discloses the privacy practices for www.Rockwestcomposites.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-We can be reached via e-mail at keith.loss@rockwest-solutions.com or you can reach us by telephone at 858-537-6260
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, .
+**Information Collection, Use, and Sharing**  
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, customize Web page content based on visitors' browser type or other information that the visitor sends.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+**Your Access to and Control Over Information**  
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+**Security**  
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.   
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
-
-Consumers can access this information by e-mail us at the above address.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, transaction information.
-
-Consumers can have this information corrected by sending us e-mail at the above address.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that we are not abiding by this privacy policy, you should [Contact Us](http://www.rockwestcomposites.com/contact-us) immediately.
