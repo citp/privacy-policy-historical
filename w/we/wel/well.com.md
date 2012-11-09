@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603122126id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109182708id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
 
 # The WELL - Privacy Policy
 
-This document is one of the agreements between Salon's community at The WELL and its members. It concerns the legal privacy framework in which you participate in this community, what your rights and responsibilities are and what you can expect from The WELL.
+This document is one of the agreements between The Well Group, Inc. and the WELL's members. It concerns the legal privacy framework in which you participate in this community, what your rights and responsibilities are and what you can expect from The WELL.
 
 **Contents:**
 
@@ -25,7 +25,7 @@ This document is one of the agreements between Salon's community at The WELL and
 
 The WELL respects your right to the privacy of the personal information you provide us. We are a non-anonymous community site. We ask members to make their real names known to each other when logged in to our system and communicating with one another. We seek to provide this non-anonymous social environment while treating your privacy with respect and care.
 
-To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, with the exception of using your real name as described, any personal information you provide to The WELL will be known only to two parties: you and the staffs of The WELL and our parent company, Salon.com. Your name will be available to other members for purposes of community participation. However, we will not disclose the fact of your membership by name to non-members without your permission, except in specific situations such as to law enforcement agencies as specified in this document.
+To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, with the exception of using your real name as described, any personal information you provide to The WELL will be known only to two parties: you and the staffs of The WELL and the parent company, The Well Group, Inc. Your name will be available to other members for purposes of community participation. However, we will not disclose the fact of your membership by name to non-members without your permission, except in specific situations such as to law enforcement agencies as specified in this document.
 
 The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your street and off-WELL e-mail addresses, billing information, click-through and usage activity and any other personal information you may provide at the behest of The WELL. This policy may change from time to time, with announcement and discussion in The WELL forum area known as the Policy Conference (go there by typing: **g policy** ). Please check there periodically.
 
