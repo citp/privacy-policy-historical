@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040059id_/http%3A//www.tafford.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109165244id_/http%3A//www.tafford.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,11 +46,7 @@ This website takes every precaution to protect our users' information. When user
 
 ### Contact Us
 
-If you have any questions about the security at our website, wish to opt-out as described above under the "Personal Information" Section, or if you prefer not to receive catalogs or other communications from Tafford, please contact us at:  
-Tafford Uniforms  
-Attn: Customer Service  
-104 Park Drive  
-Montgomeryville, PA 18936
+If you have any questions about the security at our website, wish to opt-out as described above under the "Personal Information" Section, or if you prefer not to receive catalogs or other communications from Tafford, please contact us at:
 
 CustomerService@tafford.com
 
