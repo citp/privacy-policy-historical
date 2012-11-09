@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606053600id_/https%3A//midatlantic.aaa.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109175236id_/https%3A//midatlantic.aaa.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AAA - AAA Mid-Atlantic
 
