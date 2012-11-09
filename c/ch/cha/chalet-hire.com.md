@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509161922id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109150045id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chalet-Hire.com
 
@@ -57,7 +57,7 @@ In the event that Chalet-Hire.com is sold, or some of its assets transferred to 
 
 Newsletters:
 
-If you sign up as a member on the Site, you may receive our "Owner" newsletter, which is an integral part of the services we provide. Traveller users of the Site may be given the option to receive our "Traveller" newsletter when they register with us. We and the may offer different newsletters from time to time intended to enhance the services we offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
+If you sign up as a member on the Site, you may receive our "Owner" newsletter, which is an integral part of the services we provide. Traveller users of the Site may be given the option to receive our "Traveller" newsletter when they register with us. We may offer different newsletters from time to time intended to enhance the services we offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
 
 Surveys:
 
