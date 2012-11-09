@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510194333id_/http%3A//www.gorkanapr.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2012-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109022308id_/http%3A//www.gorkanapr.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -38,7 +38,7 @@ $().ready(function() {
 
           // modal
           $('#modalWindow').jqm({ajax: '@href', trigger: 'a.modalTrigger', ajaxText: 'Please wait...', toTop: true, cache: false});
-          $('#modalWindow').jqmAddClose('.modalClose'); 
+          $('#modalWindow').jqmAddClose('.modalClose');
           $(".resultsTable tr:even").css("background-color", "#fff");
           $(".resultsTable tr:odd").css("background-color", "#F9F9F9");
 
@@ -152,7 +152,7 @@ function selectItem(li) {
 }
 
 
-// prepare the form when the DOM is ready 
+// prepare the form when the DOM is ready
 $(document).ready(function() {
                   $("#searchQuickString").autocomplete(
                                                        "/windows/quick/search/",
@@ -179,14 +179,12 @@ autoFill:true
 </head>
 <body>
 <div id="MainWrapper">
-
-
 <div id="head">
   <table cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td id="head_search" style="vertical-align: top">
-        <form id="head_searchForm" action="/search/" method="get">
-                  </form>
+        <!--form id="head_searchForm" action="/search/" method="get">
+                  </form-->
       </td>
       <td id="head_login">
                     You are not logged in            <a href="/login" onclick="if ($('#login_box').length>0) {
@@ -206,7 +204,7 @@ autoFill:true
 
                     <ul class="sf-menu">
                                 <li>
-                    <a href="/about/contact">
+                    <a href="http://www.gorkana.com/customer-support/contact-us" target="_blank">
                       <span>Contact Us</span>
                     </a>
                   </li>
@@ -221,7 +219,7 @@ autoFill:true
                     </a>
                   </li>
                                     <li>
-                    <a href="/news/pr/news/nli">
+                    <a href="http://www.gorkana.com/news" target="_blank">
                       <span>PR News</span>
                     </a>
                   </li>
@@ -247,7 +245,7 @@ autoFill:true
 <div style="clear:both"></div>
 
 
-    <div id="login_box" style="display:none;"> 
+    <div id="login_box" style="display:none;">
         <div id="LoginCol" style="margin-top: 0; padding:5px;
 background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
                <form action="/login" method="post">
@@ -257,25 +255,22 @@ background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
                <input type="password" name="login_password" id="login_password" value="" class="itext">
 
                <input type="hidden" name="fSubmitted" id="fSubmittedLogin" value="1">
-                              
+               
                <input type="submit" name="loginBtn" id="loginBtn" value="Login" class="buttonRedSmall">
                </form>
 
 
                </div><!-- / LoginCol -->
                </div>
-                                
-                   <div id="menu">
+               <div class="login-tabs-wrapper">
+
+                                  <div id="menu">
                                                           <ul>
 
 
                                                                                   <li><a href="/index" class="active">home</a>
                                                                                   </li>
-                                                                                          <li class="sp">&nbsp;</li>
-                                                                                                                                                 <li><a href="/news/pr/news/nli">PR news</a>
-                                                                                  </li>
-                                                                                                
-                                                   </ul>
+                                                                                                                                                 </ul>
                                                                                                       </div>
 
                                                    <div id="content">
@@ -317,21 +312,24 @@ background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
     <div class="jqmWindow jqmID1" id="modalWindow"></div>
     <div class="statusWindow" id="statusWindow">
     <div style="text-align: right"><a href="#" onclick="$('#statusWindow').hide(); return false;" class="b">X</a></div>
-                
+          
     </div>
   </div>
+  <!-- end of content -->
+</div>
+<!-- end of login-tabs-wrapper -->
   <div style="clear:both;"></div>
   <div id="botbar">
-    <div id="legal">©2012 gorkana - <a href="/about/contact">contact</a> | <a href="/about/terms">terms</a> | <a href="/about/privacy">privacy policy</a></div>
+      <div id="legal">©2012 gorkana - <a href="http://www.gorkana.com/customer-support/contact-us" target="_blank">contact</a> | <a href="/about/terms">terms</a> | <a href="/about/privacy">privacy policy</a></div>
   </div>
 </div>
 
 <script type="text/javascript">
 $(document).ready(function(){
-    $("#MindTheGap").css("height",$("#MainWrapper").height()+200);
+    //$("#MindTheGap").css("height",$("#MainWrapper").height()+10);
 });
 </script>
-<div id="MindTheGap" style="height: 1223px;">
+<div id="MindTheGap">
 </div>
 
   
@@ -368,7 +366,7 @@ $(document).ready(function(){
     piwikTracker.setCustomData( userData );
     piwikTracker.enableLinkTracking();
     piwikTracker.trackPageView();
-  } catch( err ) { 
+  } catch( err ) {
 //    errMsg='';
 //    for (i in err) {
 //      errMsg+=i+':'+err[i]+'\n';
