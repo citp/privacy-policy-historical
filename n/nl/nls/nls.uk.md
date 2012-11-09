@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516003226id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109191252id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - National Library of Scotland
 
@@ -24,13 +24,7 @@ Occasionally we may send you relevant information about the National Library of 
 
 A 'cookie' is a small data file added to your computer's hard drive.
 
-[Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html "External site link") gathers anonymous information for us about NLS site usage and trends, using a cookie it places on your computer the first time you visit our site. Each time you visit, Google Analytics accesses the cookie to collect information, such as which pages you visited on our website, how long you spent on each page, and which browser you use.
-
-We do not use cookies to collect personal data about you in any way.
-
-You can [opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout?hl=en "External site link") by downloading and installing an add-on to your browser.
-
-You can also restrict or block cookies using your browser settings. For useful information about how to do this, visit [Aboutcookies.org](http://www.aboutcookies.org/ "External site link").
+We use several types of cookies on National Library of Scotland websites, but none of them gathers personal data about you. Some of them are essential for services you have asked for or for the site to work. See our page on [use of cookies](https://web.archive.org/about-us/cookies) to find out more.
 
 ### Contact us
 
