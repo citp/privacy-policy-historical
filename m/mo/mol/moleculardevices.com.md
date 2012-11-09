@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603225943id_/http%3A//www.moleculardevices.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleculardevices.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109083020id_/http%3A//www.moleculardevices.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
