@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketchpad.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616075144id_/http%3A//sketchpad.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchpad.net privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109151545id_/http%3A//www.sketchpad.net/privacy.htm) for the most accurate reproduction.*
 
 # Mike's Sketchpad - Privacy Policy
 
