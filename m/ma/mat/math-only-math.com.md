@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509202728id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109190139id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Information | Use of Cookies and Web Beacons
-
-## Privacy Policy
 
 Welcome to **math-only-math.com**  
 This is our Privacy Policy which everyone should read before you submit your personal information to us. 
@@ -54,17 +52,3 @@ We provide this privacy policy as a statement to you of our commitment to protec
 If you do not agree to **www.math-only-math.com** Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
 Your use of this site indicates acceptance of this privacy policy.
-
-[From Privacy Policy to HOME PAGE](http://www.math-only-math.com/)
-
-  
-**Share this page:  **  
-
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...
