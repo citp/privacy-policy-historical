@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fuzzys.com privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417184242id_/http%3A//fuzzys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzzys.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109142325id_/http%3A//fuzzys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fuzzys Internet Marketing Blog
+# Fuzzys - Stuff to make you laugh | Privacy Policy
+
+[](http://atltracking.com/tracking202/redirect/dl.php?t202id=32822&c1=fuz_down&t202kw=fuz_down)
 
 Users’ privacy is very important to fuzzys.com
 
@@ -27,3 +29,8 @@ Information about Users that is maintained on our systems is protected using ind
 ### Questions
 
 Users may direct questions concerning this Privacy Policy by email to darren@fuzzys.com
+
+[](http://atltracking.com/tracking202/redirect/dl.php?t202id=32822&c1=fuz_down&t202kw=fuz_down)
+
+  
+
