@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the noktadomains.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505092147id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noktadomains.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109051139id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## 
-
-This content requires the Flash Player. [Download Flash Player](https://web.archive.org/web/20120407044203/http://www.adobe.com/go/getflashplayer). Already have Flash Player? [Click here.](https://web.archive.org/web/20120505092147id_/http%3A//www.noktadomains.com/privacy.html?hasFlash=true&)
+## Privacy Policy
 
 All users who log on to the Website are considered in scope of this Privacy Policy wheter or not they engage in any activity. Accordingly;
 
