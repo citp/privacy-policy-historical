@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cinnamonspiceandeverythingnice.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601042641id_/http%3A//www.cinnamonspiceandeverythingnice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinnamonspiceandeverythingnice.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109162453id_/http%3A//www.cinnamonspiceandeverythingnice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cinnamon Spice & Everything Nice
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.cinnamonspiceandeverythingnice.com%2Fprivacy-policy&media=&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.cinnamonspiceandeverythingnice.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 Cinnamon Spice & Everything Nice is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Cinnamon Spice & Everything Nice website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us. You should check this page from time to time to ensure that you are happy with any changes.
 
@@ -51,3 +51,5 @@ If you have any questions about this policy and our practices related to this si
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Cinnamon Spice & Everything Nice and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
 
 _This policy was last updated on May 25, 2012._
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.cinnamonspiceandeverythingnice.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
