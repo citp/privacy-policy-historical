@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bewakoof.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605011037id_/http%3A//bewakoof.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewakoof.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109092921id_/http%3A//www.bewakoof.com/article/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
@@ -131,4 +131,4 @@ Mumbai, 400076
 
 care@bewakoof.com
 
-Bewakoof Lifestyle: Men’s T Shirts | Buy T Shirts Online in India | Funny T-Shirts, Cool T-Shirts, Slogan T-Shirts © 2012
+Bewakoof Lifestyle: Men's T Shirts | Buy T Shirts Online in India | Funny T-Shirts, Cool T-Shirts, Slogan T-Shirts © 2012
