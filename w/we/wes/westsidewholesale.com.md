@@ -1,16 +1,25 @@
-> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510185740id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109143813id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy Statement
+###  Privacy Policy Statement
 
 Westside Wholesale uses the latest security software to ensure the security your personal information. Information will never be sold or given to other parties; customers will only receive emails pertaining to their orders or account information unless they have selected to receive promotional emails. Cookies are only used to save the customer’s shopping cart information and to help improve the shopping experience. Phone calls are only made when there is an issue pertaining to an order; phone numbers will never be used for marketing purposes. Customer credit card information is never saved in our system to ensure security.
 
-**Our postal address is:  
-5670 Rickenbacker Rd  
-Bell, CA, 90201**
+**Our postal address is:**
 
-We can be reached via e-mail at: [](mailto:info@westsidewholesale.com)[info@westsidewholesale.com](mailto:info@westsidewholesale.com?subject=Question%20about%20Privacy%20Policy) or you can reach us by telephone at 877-939-7979.
+  
+East Coast Distribution Center  
+7765 National Turnpike  
+Louisville, KY 40214 suite 140
+
+|    |  **Please send Returned Merchandise to our Las Vegas Distribution Center**  
+West Coast Distribution Center  
+4170 W. Harmon Avenue #5  
+Las Vegas, NV 89103  
+---|---|---  
+  
+We can be reached via e-mail at: [info@westsidewholesale.com](mailto:info@westsidewholesale.com?subject=Question%20about%20Privacy%20Policy) or you can reach us by telephone at 877-939-7979.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
