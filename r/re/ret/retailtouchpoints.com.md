@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510171628id_/http%3A//www.retailtouchpoints.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D756) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109112937id_/http%3A//www.retailtouchpoints.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D756) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,3 +34,5 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 **If you have any questions, please contact us by[ clicking here](http://www.retailtouchpoints.com/index.php?option=com_contact&view=contact&id=1&Itemid=54).**
+
+[blog comments powered by ](http://disqus.com/)
