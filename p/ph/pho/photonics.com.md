@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502090212id_/http%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109035132id_/http%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
 
-# Privacy Policy (photonics.com | Nov 2010 | Photonics.com)
+# Privacy Policy (photonics.com | Jan 2012 | Photonics.com)
 
 Laurin Publishing Co., Inc. is firmly committed to protecting the privacy of those who visit our websites. Because we do gather certain types of information regarding our visitors, we want you to fully understand the terms and conditions surrounding the gathering and use of that information. This Privacy Policy explains what information we collect, how we use it, and how our visitors can correct or change it.
 
@@ -23,7 +23,7 @@ Laurin Publishing collects two types of information about our site visitors: agg
 
 **Registration and Premium Content**
 
-Registration is required to use certain features of our website, including posting comments in our community forum, subscribing to our e-newsletters, and viewing premium content. Premium content includes Photonics Handbook articles, white papers and webinars. When you voluntarily register to see premium content, the personal information that you provide may be made available to the sponsors of that content.
+Registration is required to use certain features of our website, including posting comments in our community forum, subscribing to our e-newsletters, submitting changes to dictionary terms, and viewing premium content. Premium content includes white papers and webinars. When you voluntarily register to see premium content, the personal information that you provide may be made available to the sponsors of that content.
 
 **Contests**
 
@@ -39,9 +39,9 @@ Users of the Laurin Publishing websites may voluntarily e-mail Laurin Publishing
 
 Laurin Publishing uses any information voluntarily provided by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
-As stated above, Laurin Publishing uses information that users voluntarily provide in order to send out free subscriptions to our print publications and periodic electronic newsletters. Laurin Publishing never shares subscription or mailing lists with any third parties, including advertisers or partners. However, from time to time we may forward on to our readers carefully selected and screened mailings from certain advertisers or other companies which we feel may be of interest. If you do not wish to receive such mailings, please e-mail us at [info@photonics.com](mailto:info@photonics.com).
+Laurin Publishing uses information that users voluntarily provide in order to send out free subscriptions to our print publications and periodic electronic newsletters. Laurin Publishing does not share subscriptions or mailing lists with any third parties, including advertisers or partners, with the exception of premium content as stated above. However, from time to time we may forward on to our readers carefully selected and screened mailings from certain advertisers or other companies which we feel may be of interest. If you do not wish to receive such mailings, please e-mail us at [info@photonics.com](mailto:info@photonics.com).
 
-We use tracking information to determine which areas of our sites users like and don't like, based on traffic to those areas. Laurin Publishing does not track what each user read, but rather how well each page performs overall. This helps us to continue to build a better service for you.
+We use tracking information to determine which areas of our sites users like and don't like, based on traffic to those areas. This helps us to continue to build a better service for you.
 
 Laurin Publishing creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. 
 
