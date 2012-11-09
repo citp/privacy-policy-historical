@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officefootballpool.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608185715id_/http%3A//www.officefootballpool.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officefootballpool.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109124952id_/http%3A//www.officefootballpool.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
