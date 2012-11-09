@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krux.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610105728id_/http%3A//www.krux.com/pro/krux_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krux.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109181338id_/http%3A//www.krux.com/pro/krux_privacy) for the most accurate reproduction.*
 
 # our privacy policy, principals, and promise | krux
 
