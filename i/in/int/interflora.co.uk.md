@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514111243id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109015102id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dhelp_privacy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
@@ -48,10 +48,6 @@ In addition to circumstances set out elsewhere in this privacy policy, we may al
 
 Direct Marketing 
 
-We may also use your personal information, or with your consent, or upon being informed by third parties that you have consented to have us do so, permit selected third parties to use your personal information to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by e-mail, SMS, mail, telephone or other means. 
-
-If you are an existing customer, we may contact you from time to time (by e-mail, mail, telephone, SMS or other means) with information about goods and services similar to those which were the subject of a previous sale to you. 
-
 If you are a new or existing customer, and where you permit selected third parties (such as mutual commercial partners who may advertise on our website from time to time) to use your personal information, we (or they) will contact you by e-mail, mail, telephone, SMS or other means. 
 
 Your personal information will be transferred to these commercial partners if you give your consent to this in the process outlined below: 
@@ -82,6 +78,14 @@ We may use third-party advertising companies to serve advertisements on our beha
 
 You have the ability to accept or decline cookies by modifying the settings in your browser (for example, using Internet Explorer select 'internet options' from the 'tools' menu, then click 'security', followed by 'custom level' and select 'disable cookies'). However, you may not be able to use all the interactive features of our site if cookies are disabled. For more information about cookies, including how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
+We are currently developing the ability for you to select which cookies you are happy for us to use during your time on our site and hope to have this available soon. The cookies we use on our site are as follows: 
+
+� | Quantity  
+---|---  
+Cookies essential for placing your order | 21  
+Cookies for analytics | 17  
+Cookies for marketing | 22  
+  
 Your Rights 
 
 We have a legal obligation to ensure that the personal information is kept accurate and up to date. Please assist us to comply with this obligation by informing us of any changes to the personal information. You have the right to request details of the information we hold about you and to delete or rectify any inaccurate information about you by sending us a written request to : 
