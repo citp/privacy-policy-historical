@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the stumpsparty.com privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505005840id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURE) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stumpsparty.com privacy policy that was archived on 2012-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109034531id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURE) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html><html><head>
 		<title>Stumps Site Security</title> 
 		<meta property="fb:page_id" content="98483298902">
 		<meta name="description" content="Stumps Site Security">
@@ -19,7 +19,9 @@
 		<script type="text/javascript" src="/scripts/jquery/jquery.cartform.js"></script>
 		<script type="text/javascript" src="/scripts/wishlist.js?refresh=3"></script>
 		<script type="text/javascript" src="/scripts/igdRta.js"></script>
-		
+		<script type="text/javascript" src="/scripts/$$.js"></script>
+		<script src="/scripts/jquery/jquery.ui.autocomplete.html.js" type="text/javascript"></script> 
+
 		<script type="text/javascript">
 			$(function(){				
 				$("form[name*='frmBuy_']").buyform({expose:{color:'#460000', opacity: 0.5}});
@@ -35,15 +37,112 @@
 			// establish the _gaq here and fire _trackPageview onRequestEnd
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-513142-15']);
+			
+			
+		jQuery(function(){
+			jQuery("#frmsearch input[name='searchCriteria']").autocomplete({
+		            source: function(req, add){
+		                jQuery.getJSON("http://www.StumpsParty.com/ajax/searchsuggest.cfm",
+							{'search':req.term},
+							function(data){
+								if(data){
+									var arr2 = jQuery.map( data.PGS, function( item ) {
+										if(item.rating){
+											var ratingPos = -36 * parseFloat(item.rating);
+											var ratingDiv = '<div class="autocomplete-rating"><div class="igo-rec-balloons" style="background: url(/graphics/stars_small.jpg) no-repeat; height: 18px; width: 83px; margin-right: 15px; background-position: 0 '+ ratingPos +'px; float: left;"></div></div>';
+										}
+										else{
+											var ratingDiv = '';
+										}
+										return {
+											label: '<img src="/images/cat_img/' + item.uid + '.jpg" class="autocomplete-thumb"><div class="autocomplete-title">' + item.title + '</div><div class="autocomplete-priceline"><div class="autocomplete-price">$' + item.price + ' ' + item.uom + '</div>' + ratingDiv + '<div class="autocomplete-clear"></div></div><div class="autocomplete-clear"></div>',
+											value: item.uid
+										}
+									})
+									
+									var arr = jQuery.map( data.KEYWORDS, function( item ) {
+									if(item.keyword)
+										return {
+											label: '<div class="search-autocomplete-keyword">'+item.keyword+'</div>',
+											value: item.keyword
+										}
+									else
+										return {
+											label: item,
+											value: item
+										}
+									})
+									if(arr2.length > 0){
+										arr2.unshift({label:'<div class="divider">Top '+ arr2.length +' Suggestions of '+data.COUNT+' Results</div>',value:'',type:''});
+									}
+									
+									if(arr.length > 0)
+										arr.unshift({label:'<div class="divider">Search Suggestions</div>',value:'',type:''});
+		
+									add(arr.concat(arr2));
+								}
+								else{
+									add(new Array());
+								}
+		            		})
+					},
+					html: true,
+					minLength: 2,
+					select: function( event, ui ) {
+						if(jQuery(ui.item.label).is(".search-autocomplete-keyword")){
+							this.form.action = 'http://www.StumpsParty.com/search.cfm';
+							this.value = ui.item.value;
+							this.form.submit();
+						}
+						else if(ui.item.value == '')
+						{
+							
+						}
+						else{
+							this.form.action = 'http://www.StumpsParty.com/catalog.cfm?pgp='+ui.item.value;
+							this.form.method = 'post';
+							this.form.submit();
+						}
+					},
+					open: function(){
+				        var widget = jQuery(this).autocomplete('widget');
+						jQuery(widget).css('z-index', 500);
+						jQuery(widget).find(".divider").each(function(){
+							var parent = jQuery(this).parent();
+							jQuery(parent).unbind();
+							jQuery(parent).addClass("divider");
+						});
+				        return false;
+				    }
+		
+			}).focus(function(e){
+				jQuery(this).select();
+			});
+		});
+		</script>
+
+		
+		<script type="text/javascript">
+			if (typeof(lpUnit)=='undefined')	var lpUnit='stumps-sales-product';	
+
+		</script>
+		<script src="/scripts/mtagconfig.js" type="text/Javascript"></script>
+		
+		
+		<!-- Begin LP Custom Variables-->
+		<script type="text/javascript">
+		// Variables submission using lpAddVars
+			lpAddVars('page','CartTotal','0.00');
 		</script>
 		
 		<link rel="stylesheet" type="text/css" href="//stumps.recs.igodigital.com/a/stylesheets/stumps.css">
 		<link rel="STYLESHEET" type="text/css" href="/graphics/site/overlay/overlay.css">
-		<link rel="STYLESHEET" type="text/css" href="/css/CSS.css?version=2" media="all">
-		<link rel="stylesheet" type="text/css" href="/css/catalog.css" media="all">
+		<link rel="STYLESHEET" type="text/css" href="/css/CSS.css?d=110812" media="all">
+		<link rel="stylesheet" type="text/css" href="/css/catalog.css?d=110812" media="all">
 		
+		<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1/themes/redmond/jquery-ui.css">
 		<link rel="STYLESHEET" type="text/css" href="/styles/jqui/stumpspartysns/jquery-ui-1.7.3.custom.css?version=1">	
-	</head>
+	<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=1613792"></script></head>
 	<!-- heartbeat 10.7.7.36 -->
 	<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0;">
 	
@@ -52,124 +151,114 @@
 <table cellpadding="0" cellspacing="0" border="0" align="center" width="1000">
 <tbody><tr><td colspan="2">
 	<!--header.cfm--><table border="0" cellpadding="0" cellspacing="0" height="0" align="center"><tbody><tr><td width="1000" height="130" colspan="1" rowspan="1" valign="top">
-<!--all--><div align="center"><table width="1000" border="0" cellspacing="0" cellpadding="0">
+<!--all--><div align="center"><table border="0" cellpadding="0" cellspacing="0" width="1000" height="130" align="center">
 <tbody><tr>
-<td width="320" height="90" rowspan="2"><a href="/index.cfm" title="StumpsParty.com - America's Homecoming Headquarters Since 1926!"><img src="/prom2011/header/Stumps-Logo1.jpg" width="320" height="85" alt="StumpsParty.com - America's Prom and Party Homecoming Headquarters Since 1926" title="StumpsParty.com - America's Prom and Party Homecoming Headquarters Since 1926" border="0"></a></td>
-<td width="440" align="center" class="headerlinks"><a href="/index.cfm" rel="nofollow">Home</a> | <a href="/catalogs/2012-A/STUMPS-2012-A.pdf" rel="nofollow" target="_blank">Online Catalog</a> | <a href="/quote.cfm" rel="nofollow">Get-a-Quote</a> | <a href="/servicepage.cfm?pgp=spindex" rel="nofollow">Customer Service</a></td>
-<td width="240" rowspan="2" align="right" valign="top">
-<table width="240" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="1" bgcolor="#c2a9e6"></td>
-<td width="238">
-<table width="238" border="0" align="center" cellpadding="0" cellspacing="4">
-<tbody><tr>
-<td align="left" valign="middle" class="headerLinks"><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPSHIP">Shipping Info</a><br>
-  <a href="https://secure.stumpsparty.com/order_status.cfm">Order Status</a><br>
-  <a href="http://www.stumpsparty.com/service.cfm?page=contact_return_exchange"> Returns &amp; Exchanges</a></td>
-
-
-  </tr>
-  </tbody></table>
-  </td>
+<td width="1000" height="130" colspan="1" rowspan="1" valign="top">
+<div align="center">
+  <table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+  <td width="320" height="90" rowspan="2"><a href="/index.cfm" title="StumpsParty.com - America's Homecoming Headquarters Since 1926!"><img src="/prom2011/header/Stumps-Logo1.jpg" width="320" height="85" alt="StumpsParty.com - America's Prom and Party Homecoming Headquarters Since 1926" title="StumpsParty.com - America's Prom and Party Homecoming Headquarters Since 1926" border="0"></a></td>
+  <td width="440" align="center" class="headerlinks"><a href="/index.cfm" rel="nofollow">Home</a> | <a href="/catalogs/2012-B/index.html" rel="nofollow" target="_blank">Online Catalog</a> | <a href="/quote.cfm" rel="nofollow">Get-a-Quote</a> | <a href="/servicepage.cfm?pgp=spindex" rel="nofollow">Customer Service</a></td>
+  <td width="240" rowspan="2" align="right" valign="top">
+  <table width="240" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
   <td width="1" bgcolor="#c2a9e6"></td>
-  </tr>
-  <tr>
+  <td width="238">
+  <table width="238" border="0" align="center" cellpadding="0" cellspacing="4">
+  <tbody><tr>
+  <td align="left" valign="middle" class="headerLinks"><a href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPSHIP">Shipping Info</a><br>
+    <a href="https://secure.stumpsparty.com/order_status.cfm">Order Status</a><br>
+    <a href="http://www.stumpsparty.com/service.cfm?page=contact_return_exchange"> Returns &amp; Exchanges</a></td>
+  
+  
+    </tr>
+    </tbody></table>
+    </td>
     <td width="1" bgcolor="#c2a9e6"></td>
-    <td bgcolor="#c2a9e6"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#c2a9e6"></td>
+      <td bgcolor="#c2a9e6"><table width="100%" border="0" cellspacing="4" cellpadding="0">
+          <tbody><tr>
+            <td align="left" class="cartslider"><img src="/prom2010/header/cart.png"> 0 items in your cart</td>
+          </tr>
+        </tbody></table></td>
+      <td width="1" bgcolor="#c2a9e6"></td>
+    </tr>
+    
+    
+    </tbody></table>
+    </td>
+    </tr>
+  
+  
+  <tr>
+    <td width="440"><table width="440" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td align="left" class="cartslider"><img src="/prom2010/header/cart.png"> 0 items in your cart</td>
+          <td width="5"></td>
+          <td width="220" align="center" valign="middle"><table width="210" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+              <tbody><tr height="10">
+                <td width="10" height="10" background="/prom2010/header/grey_box_01.jpg"></td>
+                <td height="10" background="/prom2010/header/grey_box_02.jpg"></td>
+                <td width="10" height="10" background="/prom2010/header/grey_box_03.jpg"></td>
+              </tr>
+              <tr>
+                <td width="10" background="/prom2010/header/grey_box_04.jpg"></td>
+                <td valign="middle" bgcolor="#ffffff" align="center"><table width="100%" cellspacing="1" cellpadding="1" border="0">
+                    <tbody><tr>
+                      <td align="center" class="text_box"><span class="FormHeadline">Get email savings &amp; news</span></td>
+                    </tr>
+                    <tr>
+                      <td align="center"><form style="margin-bottom:0px;" name="email" method="post" action="http://www.stumpsparty.com/service.cfm?page=newsletter">
+                          <input type="text" onfocus="if(this.value=='name@email.com')this.value=' ';" value="name@email.com" name="email" maxlength="50" size="16" class="FormText">
+                          <input type="submit" value="Sign Up" name="Submit" class="FormText">
+                        </form></td>
+                    </tr>
+                  </tbody></table></td>
+                <td width="10" background="/prom2010/header/grey_box_06.jpg"></td>
+              </tr>
+              <tr height="10">
+                <td width="10" height="10" background="/prom2010/header/grey_box_07.jpg"></td>
+                <td height="10" background="/prom2010/header/grey_box_08.jpg"></td>
+                <td width="10" height="10" background="/prom2010/header/grey_box_09.jpg"></td>
+              </tr>
+            </tbody></table></td>
+          <td width="5" align="center" valign="middle"></td>
+          <td align="center" valign="middle"><a rel="nofollow" title="Stumps Party Shop N' Share Wishlist" onclick="wishlist.list();"><img src="/prom2011/header/Wish-List-logo.png" alt="Stumps Party Shop N' Share Wishlist" title="Stumps Party Shop N' Share Wishlist" width="180" height="70" border="0" class="rollover"></a></td>
         </tr>
       </tbody></table></td>
-    <td width="1" bgcolor="#c2a9e6"></td>
   </tr>
-  
-  
+  <tr align="center" valign="middle">
+    <td colspan="3"><table width="1000" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr height="2">
+          <td height="2" colspan="13" bgcolor="#9a3f94"></td>
+        </tr>
+        <tr height="2">
+          <td colspan="13" height="2"></td>
+        </tr>
+        <tr> 
+    <td width="100" height="20"><a href="/catalog.cfm?cat=47337" title="Prom Decorations" alt="Prom Decorations"><img src="/prom2011/header/prom-w_over.png" alt="Prom Decorations" title="Prom Decorations" width="100" height="20" border="0" class="rollover"></a></td>
+
+    <td width="227" height="20"><a href="/catalog.cfm?cat=47339" title="School Spirit Supplies" alt="School Spirit Supplies"><img src="/prom2011/header/school-spirit-w_over.png" alt="School Spirit Supplies" title="School Spirit Supplies" width="227" height="20" border="0" class="rollover"></a></td>
+
+    <td width="100" height="20"><a href="/catalog.cfm?cat=47343" title="Holiday Decorations" alt="Holiday Decorations"><img src="/prom2011/header/holiday-w_over.png" alt="Holiday Decorations" title="Holiday Decorations" width="100" height="20" border="0" class="rollover"></a></td>
+
+    <td width="102" height="20"><a href="/catalog.cfm?cat=47345" title="Parade Supplies" alt="Parade Supplies"><img src="/prom2011/header/parades-w_over.png" alt="Parade Supplies" title="Parade Supplies" width="102" height="20" border="0" class="rollover"></a></td>
+
+    <td width="141" height="20"><a href="/catalog.cfm?cat=47891" alt="Graduation Party Supplies" title="Graduation Party Supplies"><img src="/prom2011/header/grad-w_over.png" alt="Graduation Party Supplies" title="Graduation Party Supplies" width="141" height="20" border="0" class="rollover"></a></td>
+
+    <td width="209" height="20"><a href="/catalog.cfm?cat=47338" title="Homecoming Week Supplies" alt="Homecoming Week Supplies"><img src="/prom2011/header/homecoming-w_over.png" alt="Homecoming Week Supplies" title="Homecoming Week Supplies" border="0" class="rollover" width="209" height="20"></a></td>
+
+    <td width="121" height="20"><a href="/catalog.cfm?cat=47344" title="Wedding and Bridal Shower" alt="Wedding and Bridal Shower"><img src="/prom2011/header/wedding-w_over.png" alt="Wedding and Bridal Shower" title="Wedding and Bridal Shower" width="121" height="20" border="0" class="rollover"></a></td>
+  </tr>        
+  <tr height="2">
+          <td height="2" colspan="13" bgcolor="#9a3f94"></td>
+        </tr>
+      </tbody></table>
+  </td></tr>
   </tbody></table>
-  </td>
-  </tr>
-
-
-<tr>
-  <td width="440"><table width="440" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="5"></td>
-        <td width="220" align="center" valign="middle"><table width="210" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
-            <tbody><tr height="10">
-              <td width="10" height="10" background="/prom2010/header/grey_box_01.jpg"></td>
-              <td height="10" background="/prom2010/header/grey_box_02.jpg"></td>
-              <td width="10" height="10" background="/prom2010/header/grey_box_03.jpg"></td>
-            </tr>
-            <tr>
-              <td width="10" background="/prom2010/header/grey_box_04.jpg"></td>
-              <td valign="middle" bgcolor="#ffffff" align="center"><table width="100%" cellspacing="1" cellpadding="1" border="0">
-                  <tbody><tr>
-                    <td align="center" class="text_box"><span class="FormHeadline">Get email savings &amp; news</span></td>
-                  </tr>
-                  <tr>
-                    <td align="center"><form style="margin-bottom:0px;" name="email" method="post" action="http://www.stumpsparty.com/service.cfm?page=newsletter">
-                        <input type="text" onfocus="if(this.value=='name@email.com')this.value=' ';" value="name@email.com" name="email" maxlength="50" size="16" class="FormText">
-                        <input type="submit" value="Sign Up" name="Submit" class="FormText">
-                      </form></td>
-                  </tr>
-                </tbody></table></td>
-              <td width="10" background="/prom2010/header/grey_box_06.jpg"></td>
-            </tr>
-            <tr height="10">
-              <td width="10" height="10" background="/prom2010/header/grey_box_07.jpg"></td>
-              <td height="10" background="/prom2010/header/grey_box_08.jpg"></td>
-              <td width="10" height="10" background="/prom2010/header/grey_box_09.jpg"></td>
-            </tr>
-          </tbody></table></td>
-        <td width="5" align="center" valign="middle"></td>
-        <td align="center" valign="middle"><a rel="nofollow" title="Stumps Party Shop N' Share Wishlist" onclick="wishlist.list();"><img src="/prom2011/header/Wish-List-logo.png" alt="Stumps Party Shop N' Share Wishlist" title="Stumps Party Shop N' Share Wishlist" width="180" height="70" border="0" class="rollover"></a></td>
-      </tr>
-    </tbody></table></td>
-</tr>
-<tr align="center" valign="middle">
-  <td colspan="3"><table width="1000" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr height="2">
-        <td height="2" colspan="13" bgcolor="#9a3f94"></td>
-      </tr>
-      <tr height="2">
-        <td colspan="13" height="2"></td>
-      </tr>
-      
-  <tr>
-  
-   <td width="86" height="20"><a href="/catalog.cfm?cat=47337" title="Prom Decorations" alt="Prom Decorations">
-	      <img src="/prom2011/header/prom-2012_up.png" width="86" height="20" alt="Prom Decorations" title="Prom Decorations" border="0" class="rollover"></a></td>
-		<td width="14" height="20">
-          <img src="/prom2011/header/divider-2012.png" width="14" height="20"></td>
-		<td width="127" height="20">
-		  <a href="/catalog.cfm?cat=47891" title="Graduation Party Supplies"><img src="/prom2011/header/graduation-2012_up.png" width="127" height="20" alt="Graduation Party Supplies" title="Graduation Party Supplies" border="0" class="rollover"></a></td>
-		<td width="14" height="20">
-          <img src="/prom2011/header/divider-2012.png" width="14" height="20"></td>
-		<td width="213" height="20">
-		  <a href="/catalog.cfm?cat=47339" title="School Spirit Supplies" alt="School Spirit Supplies"><img src="/prom2011/header/school-spirit-supplies-2012_up.png" width="213" height="20" alt="School Spirit Supplies" title="School Spirit Supplies" border="0" class="rollover"></a></td>
-		<td width="14" height="20">
-          <img src="/prom2011/header/divider-2012.png" width="14" height="20"></td>
-		<td width="86" height="20">
-		  <a href="/catalog.cfm?cat=47343" title="Holiday Decorations" alt="Holiday Decorations"><img src="/prom2011/header/holiday-2012_up.png" width="86" height="20" alt="Holiday Decorations" border="0" class="rollover"></a></td>
-		<td width="14" height="20">
-          <img src="/prom2011/header/divider-2012.png" width="14" height="20"></td>
-		<td width="88" height="20">
-			<a href="/catalog.cfm?cat=47345" title="Parade Supplies"><img src="/prom2011/header/parades-2012_up.png" width="88" height="20" alt="Parade Supplies" border="0" title="Parade Supplies" class="rollover"></a></td>
-		<td width="14" height="20">
-          <img src="/prom2011/header/divider-2012.png" width="14" height="20"></td>
-		<td width="94" height="20">
-		  <a href="/catalog.cfm?cat=47344" title="Wedding and Bridal Shower"><img src="/prom2011/header/wedding-2012_up.png" width="94" height="20" alt="Wedding and Bridal Shower" border="0" class="rollover" title="Wedding and Bridal Shower"></a></td>
-		<td width="14" height="20">
-          <img src="/prom2011/header/divider-2012.png" width="14" height="20"></td>
-		<td width="221" height="20">
-			<a href="/catalog.cfm?cat=47338" title="Homecoming Week Supplies"><img src="/prom2011/header/homecoming-2012_up.png" width="221" height="20" alt="Homecoming Week Supplies" title="Homecoming Week Supplies" border="0" class="rollover"></a></td>
-    
-    
-  </tr>
-      
-      <tr height="2">
-        <td height="2" colspan="13" bgcolor="#9a3f94"></td>
-      </tr>
-    </tbody></table></td>
+</div>
+</td>
 </tr>
 </tbody></table></div></td></tr></tbody></table>
 
@@ -177,7 +266,7 @@
 </tr>
 <tr>
 	<td width="240" height="0"></td>
-	<td width="760" valign="top" rowspan="2">
+	<td width="760" valign="top" rowspan="2" align="left">
 	<!--promo.cfm--><table border="0" cellpadding="0" cellspacing="0" height="0" align="center"><tbody><tr><td width="760" height="50" colspan="1" rowspan="1" valign="middle">
 <!--all--><div align="center"><style type="text/css">
 <!--
@@ -309,38 +398,6 @@ body {
 	margin:0px;
 	text-decoration:underline;
 }
-.promo_big {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:12px;
-	font-weight:bold;
-	color: #ffffff;
-	text-decoration:none;
-}
-.promo_big b{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:12px;
-	font-weight:bold;
-	color: #ffff00;
-	text-decoration:none;
-}
-.promo_small {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:11px;
-	color: #FFFFFF;
-}
-.promo_small a{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:11px;
-	color: #FFFFFF;
-	text-decoration:none;
-}
-.promo_small a:hover{
-	font-family:Verdana, Geneva, sans-serif;
-	font-size:11px;
-	color: #FFFFFF;
-	text-decoration:underline;
-}
-
 td.greypod-tl {
 	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_01.jpg) no-repeat top;
 	width: 10px;
@@ -384,25 +441,63 @@ td.greypod-b {
 	background: url(http://www.stumpsparty.com/graphics/oo/productgroup/grey_box_08.jpg) repeat-x bottom;
 	height: 10px;
 }
+
+.promo_big {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	color: #000000;
+	text-decoration:none;
+}
+.promo_big strong{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+	color: #000000;
+	text-decoration:none;
+}
+.promo_small {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color: #222222;
+}
+.promo_small strong{
+	font-weight:bold;
+}
+.promo_small a{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color: #222222;
+	text-decoration:none;
+}
+.promo_small a:hover{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color: #222222;
+	text-decoration:underline;
+}
+
 -->
 </style>
-<table width="743" height="49" border="0" align="center" cellpadding="0" cellspacing="0" background="/prom2010/header/promobg1.jpg" style="background-position:bottom; background-repeat:no-repeat;">
-  <tbody><tr>
-    <td valign="middle" align="center">
-<a style="text-decoration: none;" href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPOFFER"><span class="promo_big"><font color="#fff000">Guaranteed Lowest Prices</font></span> <span class="promo_small">on over 35,000 products</span></a></td>
-    <td width="20" valign="middle" align="center"><span class="promo_big">|</span></td>
-    
-    <td valign="middle" align="left"><table width="200" border="0" align="center" cellpadding="0" cellspacing="1">
-  <tbody><tr align="center" valign="middle">
-  <td><a rel="nofollow" title="Stumps Party Shop N' Share Wishlist" onclick="wishlist.list();"><img src="/prom2011/header/offer-bar-wishlist-star_up.png" alt="Stumps Party Shop N' Share Wishlist" width="45" height="43" border="0" class="rollover"></a></td>
-    <td><a rel="nofollow" target="_blank" href="http://www.facebook.com/StumpsParty" title="Like Us on Facebook"><img src="/prom2011/header/offer-bar-facebook-star_up.png" alt="Like Us on Facebook" width="45" height="43" border="0" class="rollover"></a></td>
-    <td><a rel="nofollow" target="_blank" href="http://twitter.com/Stumpsparty" title="Follow Us on Twitter"><img src="/prom2011/header/offer-bar-twitter-star_up.png" alt="Follow Us on Twitter" width="45" height="43" border="0" class="rollover"></a></td>
-    <td><a rel="nofollow" target="_blank" href="http://www.youtube.com/user/StumpsProm" title="Watch Us on You Tube"><img src="/prom2011/header/offer-bar-you-tube-star_up.png" alt="Watch Us on You Tube" width="45" height="43" border="0" class="rollover"></a></td>
-    <td><a rel="nofollow" target="_blank" href="http://stumpsprom.wordpress.com/feed" title="Subscribe to our RSS feed"><img src="/prom2011/header/offer-bar-rss-star_up.png" alt="Subscribe to our RSS feed" width="45" height="43" border="0" class="rollover"></a></td>
-  </tr>
-</tbody></table></td>
-  </tr>
-</tbody></table></div></td></tr></tbody></table>
+<table width="743" height="49" cellspacing="0" cellpadding="0" border="0" background="/prom2011/header/bg5.png" align="center" style="background-position:bottom; background-repeat:no-repeat;">
+  <tbody>
+    <tr>
+      <td width="527" align="center" valign="middle"><a style="text-decoration: none;" href="http://www.stumpsparty.com/servicepage.cfm?pgp=SPOFFER"><span class="promo_big"><strong>Free Shipping</strong></span> <span class="promo_small">on orders $99+ using code <strong>HA673Q</strong>*</span> </a></td>
+        <td width="216" align="left" valign="middle"><table width="216" border="0" align="right" cellpadding="2" cellspacing="0">
+          <tbody>
+            <tr valign="middle" align="center">
+              <td><a onclick="wishlist.list();" title="Stumps Party Shop N' Share Wishlist" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Stumps Party Shop N' Share Wishlist" src="/prom2011/header/sns_up.png"></a></td>
+              <td><a title="Like Us on Facebook" href="http://www.facebook.com/StumpsParty" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Like Us on Facebook" src="/prom2011/header/Facebook_up.png"></a></td>
+              <td><a title="Follow Us on Twitter" href="http://twitter.com/Stumpsparty" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Follow Us on Twitter" src="/prom2011/header/Twitter_up.png"></a></td>
+              <td><a title="Watch Us on You Tube" href="http://www.youtube.com/user/StumpsProm" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Watch Us on You Tube" src="/prom2011/header/YouTube_up.png"></a></td>
+              <td><a title="+1 us on Google Plus" href="http://plus.google.com/u/0/113920644831581707232/posts" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="+1 us on Google Plus" src="/prom2011/header/Google_up.png"></a></td>
+              <td><a title="Subscribe to our RSS feed" href="http://stumpsprom.wordpress.com/feed" target="_blank" rel="nofollow"><img width="32" height="32" border="0" class="rollover" alt="Subscribe to our RSS feed" src="/prom2011/header/RSS_up.png"></a></td>
+            </tr>
+          </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table></div></td></tr></tbody></table>
 <h3 align="center">Stumps Site Security</h3>
 <blockquote>
 <p>At Stumps Party, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. </p>
@@ -476,71 +571,56 @@ td.greypod-b {
 <tr>
 	<td width="240" valign="top">
 		<!--leftnav.cfm--><table border="0" cellpadding="0" cellspacing="0" height="100%" align="center"><tbody><tr><td width="240" height="500" colspan="1" rowspan="1" valign="top">
-<!--all--><div align="center"><table cellspacing="0" cellpadding="0" border="0">
+<!--all--><div align="left"><table cellspacing="0" cellpadding="0" border="0">
   <tbody>
     <tr>
-      <td width="240" align="center"><table height="0" cellspacing="0" cellpadding="0" border="0" align="center">
-          <tbody>
-            <tr>
-              <td valign="middle" align="center" rowspan="1" colspan="1"><!--all-->
-                
-                <table width="210" cellspacing="0" cellpadding="0" border="0" align="center" id="pod1">
-                  <tbody>
-                    <tr height="10">
-                      <td height="10" class="greypod-tl"></td>
-                      <td height="10" class="greypod-t"></td>
-                      <td height="10" class="greypod-tr"></td>
-                    </tr>
-                    <tr>
-                      <td class="greypod-l"></td>
-                      <td valign="top" height="0" align="center" class="greypod-m"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
-                          <tbody>
-                            <tr>
-                              <td align="left"><span class="FormHeadline">Search</span></td>
-                            </tr>
-                            <tr>
-                              <td align="left"><form style="margin-bottom: 0px;" action="http://www.stumpsparty.com/search.cfm">
-                                  <input type="hidden" value="google" name="searchType" id="searchType">
-                                  <input type="text" class="FormText" maxlength="50" size="22" onfocus="if(this.value=='search keyword')this.value=' ';" value="search keyword" name="searchCriteria">
-                                  <input type="submit" value="Find" name="searchButton" class="FormText">
-                                </form></td>
-                            </tr>
-                            <tr>
-                              <td align="left"><span class="FormHeadline">Quick Buy</span></td>
-                            </tr>
-                            <tr>
-                              <td align="left"><form style="margin-bottom: 0px;" method="post" action="http://www.stumpsparty.com/quickorder.cfm">
-                                  <input type="hidden" value="qoPostSelection" name="oom">
-                                  <input type="text" onfocus="if(this.value=='enter item #')this.value=' ';" value="enter item #" maxlength="12" size="22" name="item_1" class="FormText">
-                                  <input type="submit" value="Order" name="Submit" class="FormText">
-                                </form></td>
-                            </tr>
-                          </tbody>
-                        </table></td>
-                      <td class="greypod-r"></td>
-                    </tr>
-                    <tr height="10">
-                      <td height="10" class="greypod-bl"></td>
-                      <td height="10" class="greypod-b"></td>
-                      <td height="10" class="greypod-br"></td>
-                    </tr>
-                  </tbody>
-                </table></td>
-            </tr>
-          </tbody>
-        </table></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr>
-      <td width="240" height="1" bgcolor="#52347c"></td>
-    </tr>
-    <tr>
-      <td width="240" height="5"></td>
-    </tr>
-    <tr align="center">
-      <td width="240" class="left_nav"><a title="Favor Finder" href="/favorfinder.cfm"><img width="240" height="75" border="0" class="rollover" alt="Favor Finder" src="/prom2011/leftnav/Favor-Finder-2012_up.png"></a></td>
+      <td width="240" align="center">
+
+	<table id="pod1" width="210" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		<td class="greypod-tl"></td>
+		<td class="greypod-t"></td>
+		<td class="greypod-tr"></td>
+	</tr>
+	<tr>
+		<td class="greypod-l"></td>
+		<td align="left" valign="top" class="greypod-m">
+	
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+<td><span class="FormHeadline">Search</span></td>
+</tr>
+<tr>
+<td align="left">
+
+<form action="http://www.StumpsParty.com/search.cfm" style="margin-bottom:0px;" id="frmsearch" method="post">
+<input id="searchType" name="searchType" value="google" type="hidden">
+<input name="searchCriteria" value="search keyword" onfocus="if(this.value=='search keyword')this.value=' ';" size="22" maxlength="50" class="FormText ui-autocomplete-input" type="text" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+<input class="FormText" name="searchButton" value="Find" type="submit">
+</form>
+</td>
+</tr>
+<tr>
+<td><span class="FormHeadline">Quick Buy</span></td>
+</tr>
+<tr>
+<td align="left">
+<form action="http://www.StumpsParty.com/quickorder.cfm" method="post" style="margin-bottom:0px;">
+<input name="oom" value="qoPostSelection" type="hidden">
+<input name="item_1" size="22" maxlength="12" value="enter item #" onfocus="if(this.value=='enter item #')this.value=' ';" class="FormText" type="text"> <input class="FormText" name="Submit" value="Order" type="submit">
+</form>
+</td></tr></tbody></table>
+ 
+	</td>
+		<td class="greypod-r"></td>
+	</tr>	
+	<tr>
+		<td class="greypod-bl"></td>
+		<td class="greypod-b"></td>
+		<td class="greypod-br"></td>
+	</tr>
+</tbody></table>
+	
+</td>
     </tr>
     <tr>
       <td width="240" height="5"></td>
@@ -552,7 +632,7 @@ td.greypod-b {
       <td width="240" height="5"></td>
     </tr>
     <tr>
-      <td height="100" width="240"><a title="Stumps Rewards Program" href="/rewards.cfm"><img width="250" height="100" border="0" alt="Stumps Rewards Program" src="/prom2011/leftnav/Rewards-link-DOUBLE.jpg"></a></td>
+      <td height="100" width="240"><a title="Stumps Rewards Program" href="/rewards.cfm"><img width="250" height="100" border="0" alt="Stumps Rewards Program" src="/prom2011/leftnav/Rewards-link5.jpg"></a></td>
     </tr>
     <tr>
       <td width="240" height="5"></td>
@@ -799,13 +879,14 @@ td.greypod-b {
       <td width="240" height="5"></td>
     </tr>
     <tr>
-      <td width="240"><!--Start PAAC Navigation-->
-        
+      <td width="240"><!--Start PAAC Navigation--> 
+        <!--Begin Proms Across America--> 
+        <!--      
         <table align="center" id="Table_01" width="240" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
+          <tr>
             <td><a href="/promsacross2012/promStories.cfm" title="Proms Across America - Prom Stories"><img title="Proms Across America - Prom Stories" alt="Proms Across America - Prom Stories" width="230" height="115" src="/prom2011/leftnav/PromStories-HP-link-small.jpg" border="0"></a> <a href="/promsacross2012/askToProm.cfm" title="Proms Across America - Ask to Prom"><img title="Ask to Prom" alt="Proms Across America - Ask to Prom" width="230" height="115" src="/prom2011/leftnav/AskToProm-HP-link-small.jpg" border="0"></a></td>
           </tr>
-        </tbody></table>
+        </table>--> 
         
         <!--End Start PAAC Navigation--></td>
     </tr>
@@ -1021,8 +1102,8 @@ td.greypod-b {
   <tbody><tr>
   
   
-   <td width="82" rowspan="2"><img width="82" height="100" alt="" src="/prom2011/footer/Stumps-Cover-2012.jpg"></td>
-              <td><a target="_blank" alt="Online Catalog" title="Online Catalog" href="/catalogs/2012-A/STUMPS-2012-A.pdf"><img width="151" height="43" border="0" class="rollover" alt="Online Catalog" title="Online Catalog" src="/prom2011/leftnav/Online-Catalog-Button-2012_up.png"></a>
+   <td width="82" rowspan="2"><a target="_blank" alt="Online Catalog" title="Online Catalog" href="/catalogs/2012-B/index.html"><img width="82" height="100" alt="" src="/prom2011/footer/Stumps-07-2012.jpg" border="0"></a></td>
+              <td><a target="_blank" alt="Online Catalog" title="Online Catalog" href="/catalogs/2012-B/index.html"><img width="151" height="43" border="0" class="rollover" alt="Online Catalog" title="Online Catalog" src="/prom2011/leftnav/Online-Catalog-Button-2012_up.png"></a>
               <br><a alt="Online Catalog" title="Free Catalog" href="/service.cfm?page=catalog_request"><img width="151" height="43" border="0" class="rollover" alt="Free Catalog" title="Free Catalog" src="/prom2011/leftnav/Free-Catalog-Button-2012_up.png"></a></td>
    
     <td width="7%" align="center" valign="top"><a title="Stumps Party Shop N' Share Wishlist" target="_top" rel="nofollow" onclick="wishlist.list();"><img src="/prom2011/header/offer-bar-wishlist-star_up.png" border="0" title="Stumps Wish List" alt="Stumps Wish List"><br>
@@ -1047,7 +1128,10 @@ td.greypod-b {
 <td width="9%" align="center" valign="top"><a href="/servicepage.cfm?pgp=SPCANADA" rel="nofollow"><img src="/prom2011/footer/canada.jpg" border="0" alt="Canadian Orders" title="Canadian Orders"></a><br><span class="top_nav" style="color:#000000">Canadian Orders<br>Are Welcome</span></td>
 
     <td width="12.5%" align="center" valign="top"><a title="Deal of the Day" href="/dod.cfm"><img width="180" height="70" border="0" class="rollover" title="Deal of the Day" alt="Deal of the Day" src="/prom2011/header/Deal-of-the-Day-2012_up.png"></a></td>
-    <td width="12.5%" align="center" valign="top"><a href="https://www.bbb.org/online/consumer/cks.aspx?ID=104111112205148606" rel="nofollow" target="_blank"><img src="/prom2010/footer/bbb.jpg" border="0"></a></td>
+    <td width="12.5%" align="center" valign="top"><a href="https://www.bbb.org/online/consumer/cks.aspx?ID=104111112205148606" rel="nofollow" target="_blank"><img src="/prom2010/footer/bbb.jpg" border="0"></a><br><br>
+	<!-- START MCAFEESECURE CODE -->
+		<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.stumpsparty.com"><img width="94" height="54" border="0" src="//images.mcafeesecure.com/meter/www.stumpsparty.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+	<!-- END MCAFEESECURE CODE --></td>
     <td width="1%" align="center" valign="top">
         
     </td>    
@@ -1081,6 +1165,15 @@ td.greypod-b {
 	
 	
 	
+	<script type="text/javascript">
+		lpAddVars('page','ErrorName','No Errors');
+		lpAddVars('page','ErrorCounter','0');
+	</script>
+
+	
+	
+	
+	
 
 <script type="text/javascript">
 _gaq.push(['_trackPageview']);
@@ -1096,10 +1189,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	<script type="text/javascript">
 		//iGoDigital RTA Initialization
 		if(_iGoDigital){
+			
+			_iGoDigital.rtaRetailer = 'Stumps';
 			_iGoDigital.rtaCart = '';
 			_iGoDigital.rtaCartAmounts = '';
+			_iGoDigital.rtaCartQuantities = '';
 			_iGoDigital.addLoadEvent(function(){ _iGoDigital.callRTA() });
 		}
 	</script>
 	</div>
-<div class="anoverlay" id="theoverlay" overlay="&quot;https://web.archive.org/web/20100522122156im_/http://www.stumpsparty.com/graphics/site/overlay/whitesmall.png&quot;" style="display: none; background-image: none;"><div class="close"></div><div class="overlaycontent"></div></div><img src="https://web.archive.org/web/20100522122156im_/http://www.stumpsparty.com/graphics/site/overlay/whitesmall.png" style="border: 0px; position: absolute; width: 460px; display: none;"><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-wishlistcanvas" style="display: none; z-index: 1000; outline: 0px; position: relative;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-wishlistcanvas" unselectable="on">Wishlist</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="wishlistcanvas" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div><div><img src="//web.archive.org/web/20110306042045/http://collect.igodigital.com/collect/recordWithImage?u=https%3A//web.archive.org/web/20120505005840id_/http%253A//www.stumpsparty.com/servicepage.cfm%253Fpgp%253DSPSECURE&amp;r=&amp;t=Stumps%20Site%20Security&amp;c=&amp;w=&amp;p=&amp;s=&amp;f=&amp;a=&amp;e=&amp;l=&amp;m=&amp;o=&amp;x=&amp;b=&amp;z=&amp;q=&amp;j=&amp;k=&amp;d="></div></body></html>
+<div class="anoverlay" id="theoverlay" overlay="&quot;https://web.archive.org/web/20100522122156im_/http://www.stumpsparty.com/graphics/site/overlay/whitesmall.png&quot;" style="display: none; background-image: none;"><div class="close"></div><div class="overlaycontent"></div></div><img src="https://web.archive.org/web/20100522122156im_/http://www.stumpsparty.com/graphics/site/overlay/whitesmall.png" style="border: 0px; position: absolute; width: 460px; display: none;"><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-wishlistcanvas" style="display: none; z-index: 1000; outline: 0px; position: relative;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-wishlistcanvas" unselectable="on">Wishlist</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="wishlistcanvas" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul><div><img src="//web.archive.org/web/20110306042045/http://collect.igodigital.com/collect/recordWithImage?u=https%3A//web.archive.org/web/20121109034531id_/http%253A//www.stumpsparty.com/servicepage.cfm%253Fpgp%253DSPSECURE&amp;r=&amp;t=Stumps%20Site%20Security&amp;c=&amp;w=&amp;p=&amp;s=&amp;f=&amp;a=&amp;e=&amp;l=&amp;m=&amp;o=&amp;x=&amp;b=&amp;z=&amp;q=&amp;j=&amp;k=&amp;d="></div></body></html>
