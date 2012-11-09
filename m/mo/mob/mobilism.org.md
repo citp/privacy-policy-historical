@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilism.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510174720id_/http%3A//forum.mobilism.org/ppcw.php%3Fmode%3Dpolicies%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilism.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109161714id_/http%3A//forum.mobilism.org/ppcw.php%3Fmode%3Dpolicies%26type%3Dprivacy) for the most accurate reproduction.*
 
 # Mobilism • Privacy policy
 
