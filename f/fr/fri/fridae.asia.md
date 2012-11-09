@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fridae.asia privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608041130id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridae.asia privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110001820id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
 
-# Fridae | Empowering Gay Asia
+# Fridae | Empowering LGBT Asia
+
+[ ](http://bit.ly/FridaeAppStore)
 
 | 
 
