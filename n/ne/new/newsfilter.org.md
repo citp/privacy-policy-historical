@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511173137id_/http%3A//www.newsfilter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109143834id_/http%3A//newsfilter.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,4 +46,4 @@ These companies may use information (not including your name, address, email add
 
 Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-_...!_
+NewsFilter.org has a huge collection of porn videos and thousands of **_fucked up_** real chicks filming themselves. Access our 10,000 **_free porn_** videos and enjoy the disturbing action.
