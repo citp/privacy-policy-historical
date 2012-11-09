@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ai-class.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504234800id_/https%3A//www.ai-class.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ai-class.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109072125id_/https%3A//www.ai-class.com/privacy) for the most accurate reproduction.*
 
 # Intro to AI - Know Labs Privacy Policy
 
