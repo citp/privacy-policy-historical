@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the bux3.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613211807id_/http%3A//www.bux3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bux3.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109042412id_/http%3A//www.bux3.com/privacy-policy) for the most accurate reproduction.*
 
-# Bux3 - view. click. make money.
+# Make money through 6 sources
 
-## Privacy Policy
+### Privacy Policy
 
-This is the web site of Bux3, Ltd. 
+This is the web site of Bux 3.
 
-We can be reached via contact form. 
+We can be reached via Support form.
 
-**Cookies:** With respect to cookies: We use cookies to store visitors preferences. 
+**Mail: Under no circumstances do we ever ask for your password, account information or anything related to ClixScript via e-mail. We do not send unauthorised emails to our members.**
 
-**Mail:** Under no circumstances do we ever ask for your password, account information or anything related to extreme-ads.net via e-mail. We do not send unauthorised emails to our members. 
+ ** **Information we collect: We store some user data in cookies, under no circumstances is sensitive data (password, username, IP...) stored in your cookies. Your browser has to have cookies enabled for the website to function normally.We accumulate and store all user inputted information as well as your IP address browser information & date and time of the record conception upon registration. We store passwords in a one way encryption so it can't be reversed. We never treat users differently in anyway related to sensitive information.****
 
-**Information we collect:** We accumulate and store all user inputted information as well as your IP address browser information & date and time of the record conception upon registration. We never treat users differently in anyway related to sensitive information. 
+ ** ** **Account security: User information such as your e-mail and AlertPay/PayPal/Liberty Reserve addresses will never be revealed.******
 
-**Account security:** User information such as your e-mail and paypal addresses will never be revealed. 
-
-**3rd party privacy:** For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout the Bux3 website we do not take responsibility 
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+ ** ** ** **3rd party privacy: For the privacy acts of 3rd party links to other sites which include banner, popup and text link adverts as well as general advertising links that may be displayed all throughout the ClixScript website we do not take responsibility, you are viewing advertisements under your own will and risk. ********
