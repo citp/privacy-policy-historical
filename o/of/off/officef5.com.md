@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officef5.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510173836id_/http%3A//my.officef5.com/docs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officef5.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109112954id_/http%3A//my.officef5.com/docs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
