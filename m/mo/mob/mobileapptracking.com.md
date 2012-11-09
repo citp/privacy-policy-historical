@@ -1,107 +1,104 @@
-> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629060234id_/http%3A//www.hasoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109141319id_/http%3A//www.mobileapptracking.com/privacy-policy) for the most accurate reproduction.*
 
-# HasOffers Privacy Policy
+# MobileAppTracking - Privacy Policy
 
-Thank you for visiting the HasOffers website located at www.hasoffers.com (the “Site”). The Site is an Internet property of Adapp, Inc., a Washington State corporation (“Adapp,” “we” or “us”). Adapp is committed to protecting the privacy of our visitors’ personally identifiable information. We provide this privacy policy (“Privacy Policy”) in order to explain our online information practices and the choices you can make about the way your information is used by us. You must agree to this Privacy Policy, in its entirety, including our use of cookies in order to: a) access or use our Site; and/or (b) subscribe to any of the Adapp affiliate network management products and/or services (the “Services”) offered on the Site (each, a “Subscription”). Your acceptance of both this Privacy Policy and our use of cookies on the Site shall be deemed a blanket acceptance of such Privacy Policy and cookie usage for all future attempts to access the Site and/or any Subscription of the Services. If you do not agree to this Privacy Policy in its entirety, you are not authorized to become a subscriber (“Subscriber”) to the Services and/or use the Site in any manner or form whatsoever.
+1\. _INTRODUCTION_. HasOffers, Inc. ("HasOffers", "we", "us"), a Washington corporation, d/b/a MobileAppTracking™ is committed to protecting your privacy and the privacy of your end users ("End Users"). We recognize that privacy is an important issue to you. We design and operate our services with the protection of your privacy in mind. You can visit some of the pages on our Website without giving us any information about yourself. But sometimes we do need you to provide information and sometimes we need to track information on-line to provide services that you request, and this privacy statement explains data collection, tracking and use in those situations. 
 
-## Privacy Policies Used in Connection with Your Subscription.
+This privacy policy ("Privacy Policy") applies to the websites provided by HasOffers and its subsidiaries, and any parent and affiliated companies, and the mobile application tracking advertiser platform (the "Platform") and Services. This Privacy Policy does not apply to websites, applications or services that display or link to different privacy statements. 
 
-Potential affiliates that sign up for the affiliate program that you establish by and through the Services do so from links on your website or via a Uniform Resource Locator (“URL”) supplied to you via the Services (collectively, “Subscription Website”). Such affiliates’ information is stored on the password-protected portal established by and through the Services. Adapp will not access the affiliate information stored on your password-protected portal unless you specifically request that we do so. You are solely responsible for choosing, and uploading to applicable areas of your Subscription Website, a privacy policy to govern your affiliate program, in which conspicuous written notice is given to internet users who access your Subscription Website (“Subscription Users”) that cookies may be used to collect anonymous traffic data, and for which you receive consent prior to placing cookies on the internet device of any such Subscription User. Adapp is in no way responsible for the collection, storage, use and/or distribution of any data that is submitted by and through your Subscription Website. 
+2\. _CONDITIONS OF USE_. Your use of this Website and the Platform is governed by this Privacy Policy. Please read the following information carefully. You must agree to this Privacy Policy, in its entirety, including HasOffers' of cookies in order to: a) access or use the Website; and/or (b) subscribe to and use HasOffers affiliate network management products and the Platform and HasOffers SDK (collectively the "Services") offered on our Website (each, a "Subscription"). Your acceptance of this Privacy Policy, in its entirety, including, without limitation HasOffers's use of cookies on the Website and Platform shall be deemed a blanket acceptance of such Privacy Policy and cookie usage for all future attempts to access the Website and/or any Subscription. If you do not agree to these terms and conditions in their entirety, do not use this Website, the Platform, or any HasOffers services. 
 
-## Personally Identifiable Information.
+Your acceptance of this Privacy Policy, in its entirety, shall inure to your employees, if any. You acknowledge and agree that any employee who accesses your Subscription account, or who visits your Subscription website under the scope of such employee's employment with you (and any third party to whom you give rightful access to your Subscription account) agrees to the terms of this Privacy Policy, including, without limitation, our use of cookies and/or web beacons. 
 
-We collect personally identifiable information on the Site when you attempt to become a Subscriber or otherwise choose to provide personally identifiable information to us. Personally identifiable information is any information that can be used to identify or locate a particular person or entity. This may include, but is not limited to: business entity name and/or your title with the applicable business entity, as well as your personal and/or business entity related e-mail address, mailing address, daytime and/or cellular telephone numbers, fax number, credit card and/or any other information requested on the applicable Subscriber registration form. For purposes of this Privacy Policy, your credit card shall be considered “Sensitive Information.”
+We reserve the right, at our sole discretion, to change, add or remove portions of this Privacy Policy at any time without notice to you by posting such changes to the Website. Such changes will be effective upon posting. The most current version of this Privacy Policy can be reviewed by selecting the "Privacy Policy" hypertext link located at the bottom of our web pages. It is your responsibility as a user of this Website to periodically return to this page to review this Privacy Policy for amendments. The amended terms shall take effect automatically the day they are posted on the Website. Your continued use of this Website following any amendments will constitute agreement to such amendments. 
 
-## Non-Personally Identifiable Information.
+3\. _COLLECTION OF YOUR PERSONAL INFORMATION_. We will ask you when we need personal information about you, including your company, your job title, your personal and/or business entity related e-mail address, mailing address, daytime and/or cellular telephone numbers, fax number, and credit card number. We may keep this information on file and include it with any information you have already given us on previous visits to our Website. 
 
-We may collect certain non-personally identifiable information about you when you visit many of the Site’s pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows ’98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). We use the non-personally identifiable information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Site usage.
+We may also collect certain information about your computer hardware and software. This information may include: your IP address, your Internet Service Provider, browser type, operating system, domain name, access times and referring Website addresses, your email address and your passwords. 
 
-## Cookies and Web Beacons.
+We may also collect information about your mobile devices, including your cell phone or other mobile device number and model, and your cellular carrier. 
 
-To enhance your experience with the Site, we use “cookies.” You cannot use this site or the Services without agreeing to accept the cookies that we use with the Site. For more specific information on the cookies we use, please see Exhibit A, below. Cookies are small packets of data stored on your computer. Cookies are used by your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. We use cookies to understand Site usage and to improve the content and offerings on the Site. You may set your browser to warn you that cookies are in use, or to block the use of cookies. Most browsers are set to accept cookies. If your browser is not set to accept cookies, certain uses of the Site may require you to go to your browser user preferences to enable cookies. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. If you change computers, operating systems or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser. To find out more about cookies, please visit [www.cookiecentral.com](https://web.archive.org/web/20120629060234id_/http://www.hasoffers.com/privacy-policy/www.cookiecentral.com).
+We may also collect information about which pages you visit on our Website. 
 
-We may additionally collect information using Web beacons, which are commonly referred to in the industry as web bugs, pixel tags or Clear GIFs. Web beacons are electronic images that may be used on the Site, in our Services, or in our emails to deliver cookies, count visits and determine if an email has been opened and acted upon. 
+4\. _USE OF YOUR PERSONAL INFORMATION_. We may use your personal information for the following purposes: 
 
-HasOffers also utilizes a third party retargeting campaign that uses cookies to keep track of your interaction with HasOffers. You may opt-out of such retargeting by clicking here <https://www.adroll.com/about/privacy> and following the opt-out procedure.
+To ensure our Website is relevant to your needs and to make the Website easier for you to use. 
 
-## Use of Information.
+To operate the Platform, maintain quality of the service, improve our Website and Services. and provide general statistics regarding use of our Website. 
 
-We use your personally identifiable information: (a) to send you information regarding Adapp and your Subscription to the Services; (b) to track your compliance with the HasOffers Website Terms and Conditions (“Terms and Conditions”); (c) HasOffers Services Agreement (“Services Agreement”); and/or (d) for validation, suppression, content improvement and feedback purposes. You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Services and request for information regarding additional Adapp products and/or services.
+To deliver products and services, including newsletters and email notifications, confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages that you request or purchase, and to process payments that you have agreed to make for those products and services. 
 
-## Information Sharing.
+To help us create and publish content and offer products most relevant to you. 
 
-As a general rule, and other than in connection with the limited exceptions set forth below, Adapp will not sell, share or rent your personally identifiable information to or with others. Notwithstanding the foregoing, Adapp may, from time to time, provide such information to certain third-party administrative vendors for efficiency purposes in providing administrative or program management services in connection with your Subscription to the Services such as billing and delivery. Any third-party vendor so used has agreed to protect the confidentiality of information provided by Adapp.
+To alert you to our products and services, new products, special offers and promotions, updated information and other new or updated services that may be offered by HasOffers and our selected partners. 
 
-Further, Adapp reserves the right to share your personally identifiable information: (a) where required by law, or requested by a court of competent jurisdiction; (b) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Adapp’s business, assets or stock; (c) where you are in violation of this Privacy Policy, the Terms and Conditions and/or Services Agreement; (d) in the case of a dispute; or (e) where Adapp determines, in its sole discretion, that such disclosure is necessary to protect the rights of Adapp and/or a third party, or necessary to protect Adapp from liability of any kind. The aforementioned includes exchanging information with other companies and organizations for fraud protection.
+To allow you access to limited-entry areas of our Website as appropriate. 
 
-## International Transfer of Data.
+5\. _SHARING YOUR PERSONAL INFORMATION_. Except as described in this Privacy Policy, and in the Agreement, HasOffers does not rent, sell, or share personally identifiable information collected on the Website or through the Platform with other people or nonaffiliated companies unless we have your consent, or under the following circumstances: 
 
-In the process of providing the Services to you, we may transfer information that we collect about you and your Subscription Users and any end users, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you or your End Users are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information and permitting the transfer of information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. You consent to the transfer of your information to the United States and the use and disclosure of information about you and your Subscription Users and any end users, including personal information, as described in this Privacy Policy.
+with third party vendors, consultants and other service providers who work for us and need access to your information to do their work (any third-party vendor so used has agreed to protect the confidentiality of information provided by HasOffers); 
 
-## The HasOffers Blog.
+to protect the rights and property of HasOffers, our agents, customers, users, and others including to enforce our agreements, policies and terms of use; 
 
-The HasOffers blog, located at <http://www.hasoffers.com/blog/> is an optional resource for information and opinions related to the performance marketing industry. When you subscribe to the HasOffers blog, we will require you to provide us with your name and email address. By subscribing to the HasOffers blog you are agreeing to accept emails that include a compilation of blog posts and information about the HasOffers product line. You may opt-out of receiving such emails at any time by clicking on the link at the bottom of the emails or by emailing optout@hasoffers.com. The HasOffers blog is primarily designed to help you obtain and share information and opinions related to the performance marketing industry. Any comment that you post will be made public, along with your user name or email if you log-in through one of the provided social networking sites (for information on how these sites use cookies and your personal information please see their corresponding privacy policies); however you may choose to post anonymously. When you leave a comment you agree to the disclosure, transfer, manipulation or deletion of your comment or any part thereof by HasOffers.
+in an emergency to protect the personal safety of HasOffers, its customers, or any person; 
 
-## Data Retention. 
+We may occasionally allow other companies to offer our customers information about their products and services, using postal mail or email, but only when we believe that a significant number of our customers would be interested in receiving such information. 
 
-Subject to any mandatory obligations to delete data, we may choose to retain information in our server logs, our databases and our records indefinitely. 
+If you do not want to receive email offers from us or from third parties, follow the procedure described on our Website, or in the emails, or contact us at [optout@hasoffers.com](mailto:optout@hasoffers.com) and we will cease sending you this information. We may also share aggregated or anonymized information in a form that does not directly identify you or your End Users with any third parties. (Anonymized information is aggregated information in which personally identifiable data has been removed.) 
 
-## Third Party Links.
+We may disclose your personal information if required to do so by law or court order or in the good-faith belief that such action is reasonably necessary. In addition, information about our customers, including personal information, may be disclosed as part of any merger, acquisition, debt financing, or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company. 
 
-The Site may contain links to third-party websites (“Third Party Websites”). Please be aware that Adapp is not responsible for the privacy practices of Third Party Websites. We encourage you to be aware when you leave the Site and to read the privacy policies of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by the Site.
+6\. _ACCESS TO YOUR PERSONAL INFORMATION_. If you wish to correct or delete any personal information we have collected, please log into your account and change the information. You may also remove your information from the viewable web pages by closing your account or you may make a request to us by email or postal mail. We will process your requested changes, where possible and subject to the terms and conditions contained herein, within a reasonable time after receipt of the request, normally not to exceed three business days. 
 
-## Minors.
+7\. _SECURITY OF YOUR PERSONAL INFORMATION_. We are committed to protecting the security of your personal information. We use reasonable efforts including a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. When we transmit sensitive information (such as a credit card number or bank account information) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. However, we cannot guarantee that your personal information will be absolutely protected. For example, your personal information may be affected by actions outside of our control, such as computer "hacking" and physical theft. In these anomalous situations, we will try to rectify the anomaly as soon as we can. 
 
-We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. Adapp will never knowingly collect any personal information about individuals under eighteen (18) years of age. If Adapp obtains actual knowledge that it has collected personal information about an individual under eighteen (18) years of age, that information will be immediately deleted from its database.
+You acknowledge that you provide your personal information to HasOffers with knowledgeable consent and at your own risk. 
 
-## Your Employees. 
+8\. _PROTECTION OF CHILDRENS' PERSONAL INFORMATION_. We do not knowingly collect or solicit personal information from children or knowingly allow children to register on our Website. If you are a child, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child we will delete that information as quickly as possible. If you believe that we might have any information from or about a child, please contact us at [privacy@mobileapptracking.com](mailto:privacy@mobileapptracking.com). 
 
-Your acceptance of the terms of this Privacy Policy, in their entirety, shall inure to your employees, if any. You agree that any employee who accesses your Account, or who visits the Site under the scope of such employee’s employment with you (and any third party to whom you give rightful access to your Account or Site) agrees to the terms of this Privacy Policy, including, without limitation, our use of cookies and/or web beacons. 
+Our Customers may not use the Platform or other HasOffers services in connection with any application labeled or described as a "Kids" or "Children" application and may not use the Platform or and other HasOffers services: a) in connection with any application, advertisement or service directed towards children or b) to collect any personal information of children. 
 
-## Security.
+9\. _COLLECTION AND USE OF END USER ANALYTICS INFORMATION_. The Platform provides information to you about how your End Users use their mobile applications as well as how applications are performing across different mobile devices (but the Platform does not collect personally identifiable information about your End Users). HasOffers obtains this information as a result of data being sent to our servers from our software "agent" if embedded by you in an End User's mobile application. The data collected by the agent includes: agent version, platform, SDK version, timestamp, API key (identifier for application), application version, device identifier, e.g., UDID, Model (non-iOS), manufacture (non-iOS) and OS version of device (non-iOS), session start/stop time, locale (specific location where a given language is spoken), time zone, and network status (WiFi, etc.). The device identifier is hashed to an HasOffers ID. In addition, HasOffers may collect the following data if you select the option for HasOffers to collect and provide such data to HasOffers: anonymous User ID, latitude and longitude (obfuscated by HasOffers for iOS to state/city), events, errors, and page views. Finally, we see the IP address of the user through the HTTP request. HasOffers uses this data to create reports for you to analyze your End Users and to create reports and/or metrics against which you can compare your user base. We may provide you with the option of exporting raw HasOffers data to your servers such as timestamp, platform, event, and user ID. You can also record errors that occur in your applications and receive an export of data containing the error information. 
 
-We endeavor to safeguard and protect our users’ information. When users submit personally identifiable information at the Site, their personally identifiable information is protected both online and offline. When our registration process asks users to submit Sensitive Information (such as bank account information), and when we transmit such Sensitive Information, that Sensitive Information is encrypted and protected with SSL encryption software. While we use SSL encryption to protect Sensitive Information online, we protect all other user information online and offline. The servers that we store personally identifiable information in are kept in a secure physical environment. We have security measures in place to protect the loss, misuse and alteration of personally identifiable information under our control.
+Your End User data collected via analytics is presented to you to analyze your applications. In addition, we provide you with aggregated and anonymous benchmark data that includes your End User data and all other Customers' End User data. 
 
-Please be advised that, although we take every reasonable precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot warrant that your information will be absolutely secure. Any transmission of data at or through our Site is at your own risk. However, access to your personally identifiable information is strictly limited, and not accessible to the public. Only employees, and third party agents, that need the information to perform a specific job are granted access to personally identifiable information. Our employees are dedicated to ensuring the security and privacy of all user information. Employees not adhering to our written firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personally identifiable information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
+10\. _END USER OPT-OUT PROVISION_. Your End Users can opt-out of HasOffers Analytics tracking and personalized ads/recommendations from HasOffers by clicking the link provided in the Privacy agreement posted on the Website or by emailing [privacy@hasoffers.com](mailto:privacy@hasoffers.com)
 
-You acknowledge that you provide your personally identifiable information to Adapp with knowledgeable consent and at your own risk.
+The opt-out is specific to HasOffers activities and does not affect the activities of other ad networks or analytics providers that you use. If an End User opts-out, HasOffers will stop tracking data for that device identifier going forward. The HasOffers Analytics tracking will stop across all applications. HasOffers will stop providing recommendations to the device identifier across all publishers. 
 
-## Deleting and Updating Your Information.
+There may be a short delay of up to several business days while your request is being verified, processed and deployed across our system. Please feel free to contact us at [privacy@hasoffers](mailto:privacy@hasoffers.com) if you have any questions. 
 
-If you would like to delete or update the personally identifiable information that we have collected from you, simply send your request via certified mail to: Adapp, Inc., 2220 Western Avenue, Seattle, WA 98121. You may also send your request via e-mail to: [support@hasoffers.com](mailto:support@hasoffers.com).
+11\. _CUSTOMER USE OF END DATA_. HasOffers is not responsible for any use by you of any data about your End Users that has or has not been obfuscated and provided by HasOffers. End Users should review your policies to understand your use of End User data. You are prohibited herein from using the Platform, Services or Website to independently collect any personally identifiable information about any End User. Further, you must provide a privacy agreement to your End Users in which written notice is given to the End Users that they may opt out of HasOffers Analytics tracking by clicking the link provided in the Privacy Policy posted on the Website or by emailing [privacy@hasoffers.com](mailto:privacy@hasoffers.com). 
 
-We will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+In the event that you are aware, or should be aware of, the potential for users of your Subscription website to access such from any European Union state, you agree to comply with the 2009/136/EC of the European Parliament and of the Council Directive, commonly known as the "EU Cookie Directive", that requires websites to obtain informed consent from internet users before storing information on such internet users' computers or any web-connected devices. Further, you agree to amend your privacy policy as necessary to maintain compliance with any supplemental laws, regulations or directives that may be enacted from time to time by legislative bodies and that may pertain to your use of the Services and your Subscription website. 
 
-## Opting Out of Receiving E-mail.
+12\. _USE OF COOKIES AND WEB BEACONS_. Cookies: To enhance your experience with the Website, we use "cookies." You cannot use this Website or the Services without agreeing to accept the cookies that we use with the Site. For more specific information on the cookies we use, please see Exhibit A, below. Cookies are small packets of data stored on your computer. Cookies are used by your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. We use cookies to understand Website usage and to improve the content and offerings on the Website. When someone visits our Website, we may place a cookie on the customer's machine (if the customer accepts cookies) or may read a cookie already in place if the customer has visited the Website previously. You may set your browser to warn you that cookies are in use, or to block the use of cookies. Most browsers are set to accept cookies. If your browser is not set to accept cookies, certain uses of the Website may require you to go to your browser user preferences to enable cookies. If you choose to not have your browser accept cookies from this Website, you will be able to view the text on the screens. However you may not be able to experience a personalized visit. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you change computers, operating systems or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser. To find out more about cookies, please visit [www.cookiecentral.com](http://www.cookiecentral.com/). 
 
-You may at any time choose to stop receiving emails containing general information regarding HasOffers and/or Adapp by following the instructions at the end of each such email or by contacting us at optout@hasoffers.com. There may be a short delay of up to several business days while your request is being verified, deployed and processed across our servers. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your Subscription to the Services, as well as to respond to any inquiry or request made by you.
+Web beacons: We may collect information using Web beacons. Web beacons are electronic images that may be used on our Website, in our Services, or in our emails. Our use of Web beacons includes to deliver cookies, to count visits and to tell if an email has been opened and acted upon. (A Web beacon is also sometimes called a Web bug or a pixel tag or a clear GIF.) 
 
-## Notification of Changes.
+13\. _USE OF THIRD PARTY LINKS_. The Website may contain links to third-party websites ("Third Party Websites"). Please be aware that HasOffers is not responsible for the privacy practices of Third Party Websites. We encourage you, when you leave our Website, to read the privacy policies of each and every website that you visit that collects personally identifiable information. This Privacy Policy applies solely to information collected by HasOffers. 
 
-Adapp reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Site explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+14\. _DATA RETENTION_. Subject to any mandatory obligations to delete data, we may choose to retain information in our server logs, our databases and our records indefinitely. 
 
-## Safe Harbor.
+15\. _INTERNATIONAL TRANSFER OF DATA_. In the process of providing services to you, we may transfer information that we collect about you or your End Users, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you or your End Users are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information and permitting the transfer of information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. You consent to the transfer of your information to the United States and the use and disclosure of information about you and your End Users, including personal information, as described in this Privacy Policy. 
 
-Just as with all of its visitors from every region of the globe, Adapp recognizes the importance of protecting the privacy of its visitors from the European Economic Area (EEA) and Switzerland. Visitors to Adapp’s websites from the EEA and Switzerland can learn about Adapp’s Safe Harbor Privacy Policy by [clicking here](http://www.hasoffers.com/safe-harbor/). With respect to Personal Data that is transferred from the EEA or Switzerland to the United States, any conflict arising between the Safe Harbor Privacy Policy and this Privacy Policy, the Safe Harbor Privacy Policy shall control, but only to the extent necessary to resolve the conflict.
+16\. _SAFE HARBOR_. Just as with all of its visitors from every region of the globe, HasOffers recognizes the importance of protecting the privacy of its visitors from the European Economic Area (EEA) and Switzerland. Visitors to HasOffers' websites from the EEA and Switzerland can learn about HasOffers' Safe Harbor Privacy Policy by visiting our Safe Harbor Privacy Policy. With respect to Personal Data that is transferred from the EEA or Switzerland to the United States, any conflict arising between the Safe Harbor Privacy Policy and this Privacy Policy, the Safe Harbor Privacy Policy shall control, but only to the extent necessary to resolve the conflict. 
 
-## Contact Us.
+17\. _CONTACT INFORMATION_. If you have any questions, comments or suggestions about this Privacy Policy or the practices relating to this Website, or other questions about privacy, please contact us at [privacy@hasoffers.com](mailto:privacy@hasoffers.com) or by mail at HasOffers, Inc., 2220 Western Avenue, Seattle, WA 98121 
 
-If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [privacy@hasoffers.com](mailto:privacy@hasoffers.com).
+## Exhibit AM   
+More about cookies on mobileapptracking.com
 
-## Exhibit A
+Using mobileapptracking.com requires the use of cookies. If you do not want to accept the cookies for hasoffers.com or from any of our third parties, you won't be able to use our service.
 
-## More about cookies on HasOffers.com
-
-Using hasoffers.com requires the use of cookies. If you have do not want to accept the cookies for hasoffers.com or from any of our third parties, you won’t be able to use our service.
-
-We use a cookie to remember your cookie preferences this has a couple of consequences
+We use a cookie to remember your cookie preferences and this has a couple of consequences
 
   * If you delete all your cookies you will have to update your preferences with us again.
   * If you use a different device, computer profile or browser you will have to tell us your preferences again.
 
 
 
-The cookies used on hasoffers.com are based on the International Chamber of Commerce guide for cookie categories:
+The cookies used on mobileapptracking.com are based on the International Chamber of Commerce guide for cookie categories:
 
   * Strictly necessary
   * Performance
@@ -113,29 +110,29 @@ For more information about cookies see the further reading link below.
 
 ## Strictly Necessary
 
-‘Strictly Necessary’ cookies let you move around the website and login to your secure account. **These cookies don’t gather any information about you that could be used for marketing or remembering where you’ve been on the internet.**
+'Strictly Necessary' cookies let you move around the website and login to your secure account. **These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.**
 
-**We use these Strictly Necessary cookies to…**
+**We use these Strictly Necessary cookies to...**
 
-  * Identify you as being logged in to hasoffers.com
-  * Remember things like information you’ve entered on forms when you navigate to different pages in a single web browser session
+  * Identify you as being logged in to mobileapptracking.com
+  * Remember things like information you've entered on forms when you navigate to different pages in a single web browser session
   * Help you use specific features like testing tracking links
   * Make sure you connect to the right service on our website when we make any changes to the way the website works
 
 
 
-**Cookies we have defined as ‘Strictly Necessary’ cookies will NOT be used to…**
+**Cookies we have defined as 'Strictly Necessary' cookies will NOT be used to...**
 
   * Gather information that could be used to advertise products or services to you
   * Remember your preferences or username beyond your current visit
 
 
 
-**Accepting these cookies is a condition of using the website, so if you prevent these cookies we can’t guarantee your security or predict how our website will perform during your visit.**
+**Accepting these cookies is a condition of using the website, so if you prevent these cookies we can't guarantee your security or predict how our website will perform during your visit.**
 
-**Here is a list of the cookies we have defined as ‘strictly necessary’.**
+**Here is a list of the cookies we have defined as 'strictly necessary'.**
 
-**hasoffers.com cookies**
+**mobileapptracking.com cookies**
 
   * PHPSESSID
 
@@ -150,33 +147,33 @@ Cookie | Host
   
 ## Performance
 
-‘Performance’ cookies collect information about how you use our website e.g. which pages you visit, and if you experience any errors. These cookies don’t collect any information that could identify you – all the information collected is anonymous and is only used to help us improve how our website works, understand what interests our users and measure how effective our advertising is.
+'Performance' cookies collect information about how you use our website e.g. which pages you visit, and if you experience any errors. These cookies don't collect any information that could identify you - all the information collected is anonymous and is only used to help us improve how our website works, understand what interests our users and measure how effective our advertising is. 
 
-**We use performance cookies to…**
+**We use performance cookies to...**
 
   * Provide statistics on how our website is used
-  * See how effective our adverts are (we don’t use this information to target adverts to you when you visit other websites)
-  * Provide feedback to partners that one of our visitors also visited their website. This can include details of any products bought. This lets our partners improve their website, but we don’t allow our partners to reuse this information for further advertising
+  * See how effective our adverts are (we don't use this information to target adverts to you when you visit other websites)
+  * Provide feedback to partners that one of our visitors also visited their website. This can include details of any products bought. This lets our partners improve their website, but we don't allow our partners to reuse this information for further advertising
   * Help us improve the website by measuring any errors that occur
   * Test different designs of our website
 
 
 
-**Cookies we have defined as ‘Performance’ cookies will NOT be used to…**
+**Cookies we have defined as 'Performance' cookies will NOT be used to...**
 
   * Remember your preferences or username beyond your current visit
 
 
 
-In some cases, some of these cookies are managed for us by third parties, but we don’t allow the third party to use the cookies for any purpose other than those listed above.
+In some cases, some of these cookies are managed for us by third parties, but we don't allow the third party to use the cookies for any purpose other than those listed above.
 
-**Using our site indicates that you accept the use of ‘Performance’ cookies.**
+**Using our site indicates that you accept the use of 'Performance' cookies.**
 
 **Accepting these cookies is a condition of using the website, so if you prevent them we cannot guarantee how our site will perform for you.**
 
-**Here is a list of the cookies we have defined as ‘Performance’.**
+**Here is a list of the cookies we have defined as 'Performance'.**
 
-**hasoffers.com cookies**
+**mobileapptracking.com cookies**
 
   * aff_conversions
   * __utma
@@ -199,34 +196,32 @@ Cookie | Host
   
 ## Functionality
 
-‘Functionality’ cookies are used to provide services or to remember settings to improve your visit.
+'Functionality' cookies are used to provide services or to remember settings to improve your visit.
 
-**We use ‘Functionality’ cookies to…**
+**We use 'Functionality' cookies to...**
 
-  * Remember settings you’ve applied such as layout, text size, preferences and colours
-  * Remember if we’ve already asked you if you want to fill in a survey
+  * Remember settings you've applied such as layout, text size, preferences and colours
+  * Remember if we've already asked you if you want to fill in a survey
   * Provide proactive live chat sessions to offer you support or submit a trouble ticket
-  * Show you when you’re logged in to the website
+  * Show you when you're logged in to the website
   * Share information with partners to provide a service on our website. The information shared is only to be used to provide the service, product or function and not for any other purpose
 
 
-
-**Cookies defined as ‘Functionality’ will not be used to…**
-
+  * Cookies defined as 'Functionality' will not be used to...
   * Target you with adverts on other websites
 
 
 
-Some of these cookies are managed for us by third parties – where this is the case we don’t allow the third party to use the cookies for any purpose other than those listed above.
+Some of these cookies are managed for us by third parties - where this is the case we don't allow the third party to use the cookies for any purpose other than those listed above.
 
-**You can control whether or not these cookies are used, but preventing them may mean we can’t offer you some services, and will reduce the support we can offer you.** It’s also possible that preventing these cookie stops us remembering that you didn’t want a specific service.
+**You can control whether or not these cookies are used, but preventing them may mean we can't offer you some services, and will reduce the support we can offer you.** It's also possible that preventing these cookie stops us remembering that you didn't want a specific service.
 
-**Here is a list of the cookies we have defined as ‘Functionality’.**
+**Here is a list of the cookies we have defined as 'Functionality'.**
 
-**hasoffers.com cookies**
+ **mobileapptracking.com cookies**
 
-  * app_user 
-  * swidth 
+  * app_user
+  * swidth
 
 
 
@@ -234,29 +229,22 @@ Some of these cookies are managed for us by third parties – where this is the 
 
 Cookie | Host  
 ---|---  
-edition | .hasoffers.com  
-network_id | .hasoffers.com  
-networkname | .hasoffers.com  
-networkurl | .hasoffers.com  
+edition | .mobileapptracking.com  
+network_id | .mobileapptracking.com  
+networkname | .mobileapptracking.com  
+networkurl | .mobileapptracking.com  
 __lc.serverchat1c | .livechatinc.com  
-redirect | .adroll.com  
   
 ## Further reading
 
-**Information about cookies**
-
-Useful information about cookies can be found at:
-
-[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-**Internet Advertising Bureau**
-
-A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at:
-
-[http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-
-**International Chamber of Commerce United Kingdom**
-
-Information on the ICC (UK) UK cookie guide can be found on the ICC website section:
-
+**Information about cookies**  
+Useful information about cookies can be found at:  
+[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)  
+**Internet Advertising Bureau**  
+A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at:  
+[http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)  
+**International Chamber of Commerce United Kingdom**  
+Information on the ICC (UK) UK cookie guide can be found on the ICC website section:  
 <http://www.international-chamber.co.uk/our-expertise/digitaleconomy>
+
+Copyright © 2012 by HasOffers, Inc., All rights reserved. 
