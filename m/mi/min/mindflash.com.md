@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524124342id_/http%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109050432id_/http%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mindflash
 
@@ -14,7 +14,7 @@ EFFECTIVE DATE: April 7, 2011
 
 2.1. WHAT INFORMATION DOES MINDFLASH COLLECT?  
 In operating the Site and providing the Services, Mindflash may collect certain information, including without limitation the following:  
-(a) PERSONAL INFORMATION. When you sign up for an account at the Site or register for any Services, Mindflash may ask you for personally identifiable information including, but not limited to your name, email address and credit card information (“Personal Information”). Outside the collection of billing information, this privacy policy does not cover the collection and use of personal information within our application. 
+(a) PERSONAL INFORMATION. When you sign up for an account at the Site or register for any Services, Mindflash may ask you for personally identifiable information including, but not limited to your name, email address and credit card information (“Personal Information”). Outside the collection of billing information, this privacy policy does not cover the collection and use of personal information within our application.
 
 From time to time we will provide you the opportunity to participate in email surveys on through site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes, contact phone number and address.
 
@@ -49,10 +49,10 @@ Mindflash has implemented and maintains administrative, technical and physical s
 
 5.1. PUBLIC FORUMS The Site may include interactive forums such as blogs, message boards, discussion forums and chat rooms. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your Personal Information. Mindflash will not be liable for any disclosure of your Personal Information or other information as a result of your use of any such public forums, that you display publicly or that becomes publicly known as a result of your actions. To request removal of your personal information from our blog or community forum, contact us here. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-5.2. THIRD PARTY WEBSITES The Site may contain links to other websites. If you choose to visit any other websites other than the Site, we will not be responsible for the privacy practices or content of those other Websites, and you shall bear all risk of access to such websites. It is solely your responsibility to review the privacy and usage policies at those websites and confirm that you understand and agree with their policies. 
+5.2. THIRD PARTY WEBSITES The Site may contain links to other websites. If you choose to visit any other websites other than the Site, we will not be responsible for the privacy practices or content of those other Websites, and you shall bear all risk of access to such websites. It is solely your responsibility to review the privacy and usage policies at those websites and confirm that you understand and agree with their policies.
 
 6\. CONTACT INFORMATION AND POLICY UPDATES
 
 6.1. CONTACTING US If you have any questions about this Policy, our practices related to this Site please feel contact us at [help@mindflash.com](mailto:help@mindflash.com) or Mindflash.com, 2825 El Camino Real, Suite 200, Palo Alto, CA 94306.
 
-6.2. UPDATES AND CHANGES We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on this Site. We encourage you to periodically review this page for the latest information on our privacy practices. 
+6.2. UPDATES AND CHANGES We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on this Site. We encourage you to periodically review this page for the latest information on our privacy practices.
