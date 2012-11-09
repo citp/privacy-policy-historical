@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514203653id_/http%3A//www.dealscube.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109184824id_/http%3A//www.dealscube.com/privacy.asp) for the most accurate reproduction.*
 
-# Video Games
+# Free Online Marketplace
 
 [ ](http://www.dealscube.com/index.asp)
 
-Buy and Sell Video Games, Books, Electronics, DVDs, Software and Toys...... 
+100% Free Marketplace 
 
 **Privacy Policy**
 
