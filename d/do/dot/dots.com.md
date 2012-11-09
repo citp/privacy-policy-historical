@@ -1,52 +1,162 @@
-> *The following text is extracted and transformed from the dots.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602071127id_/http%3A//www.dots.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dots.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109014708id_/http%3A//www.dots.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Dots : Privacy Policy
+# Privacy and Security: Dots.com
 
-At Dots.com, we believe that the best way to protect our customers on the Internet is to inform them about what we are doing. Consequently, we've tried here to answer a few of your questions and concerns as honestly as we can. This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If we missed a direct concern of yours or if you just want to talk to us, please feel free to call us at 1-877-874-2674 or e-mail us through our comment form. Please take a moment to read our Privacy Policy, and thank you for visiting our Web site. If we change our Privacy Policy, we will post the change on this page or, in the case of children under the age of 13, seek to obtain parental consent. In the event that we make a material change in our privacy practices with respect to children, we will first obtain verifiable parental consent before using any previously collected personal information in the new manner.
+Welcome to the Dots, LLC's ("Dots") website. Because your privacy is very important to us, we want you to understand our practices with regard to collecting and using personal information obtained online and the steps we take to safeguard it. This statement applies to "personally identifiable information" collected online from our customers, which means information that identifies a particular individual, such as the individual's name, postal address, e-mail address, credit card number, and telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information."
 
-At the present time, Dots will be using cookies to manage the session between your browser and our website. "Cookies" are data files or small bits of information that are stored by your browser on your computer's hard drive when you visit our web site. They allow you to have a unique user ID for access to many of our services. Cookies do not alter your hard drive in any way and cannot be used to access any personal information from your computer. They merely allow us to personalize your Dots.com experience by maintaining information about your use of our web site, and helping us recognize you when you visit our web site again. All data gathered will be used for website administration only and will be shared with Dots advertising/promotional agencies and other affiliates for that purpose only.
+ ** _I. Information We Collect_
 
-This feature can generally be turned off by changing your browser so that it will not automatically accept cookies. However, if you change your browser to refuse cookies, you may have re-enter your information (name, e-mail, address, etc . . .) each time you visit our site.
+a. Personally Identifiable Information
 
-The Dots.com site may contain links to other Web sites that are not under our control. These Web sites have their own policies regarding privacy. You should review these policies before visiting their Web sites. Dots.com has no responsibility for linked Web sites and provides these links solely for the convenience and information of our visitors.
-
-At Dots.com, we only collect personally identifiable information about you to the extent that you specifically provide it to us. This includes, for example, the information you provide when you register for a service, respond to a survey, or enter a contest.
-
-At Dots.com, we take reasonable measures to ensure that your personal information is handled in a safe and responsible manner. We use this information you share with us:
-
-  * to provide the products, services or membership benefits you request,
-  * to improve the content of our Site and enhance your shopping experience, and
-  * for marketing and promotional purposes.
+**  
+We may collect Personally Identifiable Information (including name, address, telephone number, e-mail address and, when necessary, credit card information) when you:  
 
 
+* Place an order from our stores or on our Web site
+  
 
-We may share this information with third parties that we believe are reputable in order to offer products and services that may be of interest to you. We may also share this information with outside vendors and other organizations that provide support services to us in relation to customer orders or that help us with our marketing programs.
+* Return an item or make an exchange online
+  
 
-Except as just discussed, Dots.com does not currently sell or trade your personal information to others. We reserve the right to do so in the future with trustworthy third parties, but you can tell us not to by using our comment form.
+* Inquire online about our services
+  
 
-We intend to offer our customers only opportunities that will interest them, and we believe that they will welcome the information they receive as a result of visiting Dots.com. However, if you would prefer not to receive promotional information from us, we will do our best to remove your name from our marketing program lists. Click here to unsubscribe.We will act promptly to honor your request. Please note, however, that such requests may take up to 2 weeks to be effective.
+* Receive a gift package
+  
 
-As stated above, if you do not want to receive promotional materials from other companies, please contact us using our comment form to ask that we not share your personal information with other companies.
+* Create an account at Dots.com
+  
 
-We read every message that comes to us and try to respond within a reasonable amount of time. We keep e-mail addresses on file for documentation purposes and to make sure that we respond appropriately to you. Your Consent By using the Dots.com Site, you consent to our use of customer information as described in this Privacy Policy. As we implement new technology and introduce new services, we will update our Privacy Policy, so we encourage you to review it often.
+* Subscribe to our E-mail Newsletter
+  
 
-We at Dots.com are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly collect, use, and/or disclose personal information from anyone under the age of 13 without prior parental consent.
+* Enter an online contest or sweepstakes
+  
 
-Children under the age of 13 who desire to register for our e-mail updates and sweepstakes are required to have their parent or legal guardian complete and mail in the consent form. We will discard any e-mail registration that is not accompanied by a parental consent form.
+* Participate in a marketing survey, promotion or event online.
+  
 
-Dots.com does not collect or store information in messages that children or others send by e-Dot cards.
 
-Dots.com does not condition a child's participation in any online activity or the collection of more personally identifiable information than necessary for that activity.
+**b. Aggregate Information**  
+Our website collects some non-personal information about you using clickstream technology, so it may not be readily apparent to you that it is being collected. For instance, when you come to our site your IP address is collected.
 
-Upon request, a child's parent or legal guardian can review and have deleted the information that we have collected and ask that we stop collecting it in the future. A parent or legal guardian of a child under the age of 13 has the right to find out what personally identifiable information that we have about the child. A parent or legal guardian may contact us at 1-877-874-2674 during regular business hours.
+An IP address is often associated with the place from which you enter the Internet like your ISP (Internet service provider), your company, or your university. This information is not personally identifiable and we do not combine this type of information with personally identifiable information.
 
-If we change our Privacy Policy with respect to children, we will seek to obtain parental consent before using any previously collected personal information in the new manner.
+**c. Cookies**  
+Dots, directly or through an outside service, may place "cookies" on your computer so we can collect information related to your use of dots.com. This information allows us to refine and improve the site for our customers. Cookies do NOT collect any credit card, user name or password information or any other personally identifiable information.
 
-If you have any questions about our Children's Privacy Policy, you can contact Dots.com at:
+ ** _II. Use of Personal Information We Collect_
 
-Customer Service Dept.  
+a. Personally Identifiable Information
+
+**  
+At Dots, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. In order to do this, we use your personally identifiable information to allow us to:  
+
+
+* Process and track your order
+  
+
+* Provide the services you request
+  
+
+* Contact you about the status of an order
+  
+
+* Send you catalogs or promotional offers we believe will be of interest to you
+  
+
+* Send you the Dots E-mail Newsletter, if you do not ask to be excluded
+  
+
+* Identify your product and service preferences
+  
+
+* Customize our communications to you
+  
+
+* Provide information concerning product recalls or products you have purchased
+  
+
+* Improve our merchandise selection and customer service
+  
+
+* Administer a sweepstakes or similar promotion and identify or publicize the winner(s) in accordance with the rules for that promotion.
+
+Your e-mail address will not be shared with any third parties, except as described below. Instructions for unsubscribing are included in every e-mail.
+
+**b. Aggregate Information**  
+We use the aggregate information that we collect from our customers in a manner that does not personally identify any individual. We use aggregate information to make our sites more interesting and useful to you. We also track the pages or documents accessed within our site. This information is collected for systems administration and for analyzing and improving the value of the material available on our website. This aggregate non-personal information is used to help our advertisers or our site design team to create advertisements our guests might like.
+
+ ** _III. Information We Share with Others_
+
+a. Our Contractors
+
+**  
+We contract with other companies (credit card processors, shippers, sweepstakes promoters, website developers and others) to provide certain services to Dots to fulfill orders, provide sweepstakes, and create or maintain our website. In some instances, these contractors may have access to personally identifiable information, but they are contractually obligated to maintain the confidentiality of the information and to use it only for purposes of carrying out Dots business.
+
+In some instances, you may choose to deal with some of these contractors directly and provide your personal information to them. For example, when you make a purchase from Dots with a credit card, you may choose to use an independent card processor, such as PayPal. In those instances, you should check the privacy policies on their independent websites that will govern the collection and use of personal information that you give to them directly.
+
+  
+
+
+**b. Disclosure Exceptions**
+
+Notwithstanding the above policies, we reserve the right to disclose your personal information to third parties as appropriate or if we are required to do so by law or we believe that such action is necessary:
+
+  * To comply with legal process such as a search warrant, subpoena or court order;
+  
+
+  * To protect the company's rights and property;
+  
+
+  * To investigate reports of fraud or of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
+  
+
+  * To protect against misuse or unauthorized use of our web site; or
+  
+
+  * During emergencies, such as when we believe someone's physical safety is at risk
+
+  
+
+
+ ** _IV. E-mail Use_**
+
+When you provide us your e-mail address, we may send you e-mails necessary to process your order or respond to a request, or to receive our E-mail Newsletter. For example, after you place an order at Dots.com, you will receive an e-mail confirmation and, in most cases, an e-mail with package tracking information. Recipients of our Electronic Gift Certificates will receive an e-mail notifying them of the gift and instructing them how to redeem it. 
+
+It is our intent to send you promotional e-mail (our E-mail Newsletter). Instructions on how to unsubscribe are included in each edition of the newsletter.
+
+ ** _V. Links to Other Sites_**
+
+Occasionally we provide links on our web site to other sites we think you will enjoy. These sites operate independently of Dots and have established their own privacy and security policies. Dots does not have any control over these sites' privacy practices. For the best online experience, we strongly encourage you to review these policies at any site you visit.
+
+ ** _VI. Security_**
+
+It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract only what they need to carry out their responsibilities.
+
+When you make a purchase, request a catalog or create an account on our web site, your transactional information is transmitted in a safe, encrypted format. We maintain the data you provide, along with a record of your purchases, in a secure database.
+
+ ** _VII. Privacy of Children to Our Web Site_**
+
+Our web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+
+ ** _VIII. Policy Changes_**
+
+From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our web site. We encourage you to review our privacy policy periodically.
+
+This policy was last updated on November 5, 2012.
+
+ ** _IX. Comments or Questions?_**
+
+We welcome any and all comments, questions and feedback. For privacy-related issues, or to make a subscription change, cancel catalogs or E-mail newsletters, or otherwise, please contact us at:
+
 Dots, LLC  
 30300 Emerald Valley Parkway  
 Glenwillow, OH 44139  
-877-874-2674  
-e-mail us through our [comment form](https://web.archive.org/web/20120602071127id_/http%3A//www.dots.com/forms/contact_form.aspx)
+1-800-208-8173
+
+Or by e-mailing us through our [Contact Us](http://www.dots.com/custserv/contactus.jsp) page.
+
+ ** _X. Additional Topics of Interest_**
+
+In addition to our Privacy Policy, read our [Terms of Use](http://www.dots.com/custserv/custserv.jsp?pageName=Terms).
