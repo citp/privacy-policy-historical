@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegames13.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511171152id_/http%3A//www.onlinegames13.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegames13.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109014742id_/http%3A//www.onlinegames13.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # ONLINE GAMES FOR FREE
 
@@ -51,7 +51,7 @@ By using this Site, you consent to the processing of data about you by Google in
 
 Flash shared objects:
 
-Most games on this Site are based on Flash technology (Flash Games). Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.
+Most games on this Site are based on Flash technology (Flash Games).[Adventure Games](http://www.adventuregame.cc/) Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.
 
  **Third Party Advertising**
 
