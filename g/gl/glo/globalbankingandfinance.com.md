@@ -1,19 +1,78 @@
-> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506092749id_/http%3A//www.globalbankingandfinance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109101348id_/http%3A//www.globalbankingandfinance.com/Privacy-Cookies.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Cookies - Global Banking And Finance Review
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. 
+**Privacy and Cookie Policy**
 
-We collect only the domain name, but not the e-mail address of visitors to our Web pages, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer. 
+This policy explains how Global Banking and Finance Review collates information from visitors and how you can limit our use of that data.
 
-The information we collect is used for internal review to improve the content of our Web page. If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address or writing to us at the above address. 
+ **Details collected by us**
 
-Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders or enquiries they have placed online. 
+Our web server by design automatically recognizes the domain name of the visitor. We collate and use the information for statistical purposes, improvement of the website to benefit our users.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes. If you are concerned about how your information is used, you should check back at our website periodically. 
+ **How information is gathered by us**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address. 
+ The data is gathered through the following ways:
 
-With respect to cookies: We set cookies for visitors who login to our secure area to enable them to browse the whole site without having to log back into the secure area again in the same session. 
+ **Data Gathering System** - **Indirect** (e.g. using website technology when you use the Global banking and Finance website from a computer/ mobile device);   
+**Data Gathering System - Direct** (when you subscribe or contact us through our website or by sending us an email.)  
+How we use your personal details?
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial, we redirect visitors to a secure server, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you through our site
+The details we gather are reviewed internally to better develop the content and other features of our website.  
+In case of a further policy change, we will keep our readers informed through our website. We urge you to visit our website regularly to check how your details are being used.  
+We monitor and develop our website usage by composing & logging internet addresses.  
+In case you provide your contact number online or through email, we may contact you for any further details regarding your enquiries posted online.  
+In case you have subscribed for one or more of our services, we will use details you provided to update you on those services unless you tell us otherwise. Your information is kept confidential & we will use your details only within the purview of Global banking & Finance Review.
+
+ **What are Cookies?**
+
+Cookies are small text code files which the website (you are visiting) may put on your computer or mobile device when you first visit the site. The cookies aid in recognising the device when you visit the next time. You can find out more about the use of cookies online by searching on various search engines.
+
+ **Reasons why Global Banking & Finance Review uses cookies** :
+
+(1) To recognize you when you visit this website to keep track of your browsing history and to build up a profile of how the website is used..
+
+(2) To enable our website work as efficiently as possible.
+
+(3) For the regulation of services to you and to our advertisers.
+
+If you’d like to disable cookies on this device please follow the instructions below. Please be aware that parts of this site will not function correctly if you disable cookies. If you do not wish to disable cookies and still use the website, then you consent to our use of cookies in accordance to our privacy and cookies policy . If you do not wish to disable cookies and don’t wish our site to use cookies, then please close the window and exit our site.
+
+ **Information on how to disable or enable cookies.**
+
+Most browsers will allow you to disable cookies. For this, go to the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
+
+ **Google Chrome as an example**
+
+Click on the icon on the browser toolbar which is on the extreme right.  
+Choose Settings.   
+Click ‘Show advanced settings’.  
+Go to the ‘Privacy’ section and click the ‘Content Settings’ button.  
+To enable cookies in the “Cookies” section, select ‘Allow local data to be set’, this will enable both first-party and third-party cookies. If you want to enable only the first-party cookies select ‘Block all third-party cookies without exception’,   
+To disable cookies, go to the ‘Cookies’ section, pick ‘Block sites from setting any data’.   
+For more information, you can refer to: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
+For help on other browsers, please check on any search engine how to disable cookies for the concerned browser.
+
+ **Third party cookies**
+
+Third party cookies are responsible for the generation of advertisements on most of the websites.
+
+‘Web beacons’ are such files/ cookies which are generated by certain third parties. These cannot be used to identify an individual. Their main purpose is to create advertisements relevant to your interest. Some of the information garnered from third party cookies will be accumulated with other anonymous information for statistical purposes. The third party companies introducing these cookies have their own, very strict, privacy policies, however we don't have access to these cookies (we may use certain statistical information instituted by these third party cookies and provided to us by third parties, for the purpose of improving the usage of user-specific advertisements on our website). We sometimes hire these third party cookies which may, at times, use your data while providing services on our behalf.
+
+ You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: <http://youronlinechoices.com/>
+
+**Security Policy**
+
+ When we transfer and receive certain types of sensitive information such as financial, we redirect visitors to a secure server, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you through our site
+
+  **Disclosing your information**
+
+We never sell personal information, or pass it to third parties for marketing purposes without your permission.
+
+ **Policy changes**
+
+For any changes to our Policy, you can check the website regularly as we keep updating the information on our website. 
+
+For any further questions, comments or clarifications, Please contact us at [info@gbafmag.com](mailto:info@gbafmag.com)
+
+ **If you liked the above article. Please Share it.**
