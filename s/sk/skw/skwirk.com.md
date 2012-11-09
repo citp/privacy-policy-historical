@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skwirk.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529125652id_/http%3A//www.skwirk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skwirk.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109085110id_/http%3A//skwirk.com/privacy-policy) for the most accurate reproduction.*
 
-# Year 10, NSW | Online Education Home Schooling Skwirk Australia
+# Year 9, NSW | Online Education Home Schooling Skwirk Australia
 
 ## SECTION ONE
 
