@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opas.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630184415id_/http%3A//info.opas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opas.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109135042id_/http%3A//www.opas.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# International Mail Forwarding - US and Japan Locations - Personal Shoppers Available | OPAS
 
 ### Last Updated: October 28, 2011
 
@@ -40,4 +40,4 @@ You may unsubscribe from OPAS marketing communications by clicking on the “uns
 
 ### Contact Information
 
-OPAS welcomes your comments regarding this Statement of Privacy. If you believe that OPAS has not adhered to this Statement, please contact OPAS at service@opas.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. OPAS is located at 6600 NE 78th Ct #A3, Portland OR 97218.  We can be reached by phone at 1-503-262-7036.
+OPAS welcomes your comments regarding this Statement of Privacy. If you believe that OPAS has not adhered to this Statement, please contact OPAS at service@opas.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. OPAS is located at 6600 NE 78th Ct #A3, Portland OR 97218. We can be reached by phone at 1-503-262-7036.
