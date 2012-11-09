@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartasset.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424171953id_/http%3A//smartasset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartasset.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109042649id_/http%3A//www.smartasset.com/page/privacy) for the most accurate reproduction.*
 
-# smartasset.com - financial decisions, made simple
+# Privacy Policy | SmartAsset
 
 **FINANCIAL INSIGHT TECHNOLOGY, INC** (" **Company** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.SmartAsset.com (the " **Site** ") and related services (collectively, " **Services** "). 
 
@@ -71,11 +71,11 @@ A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/
 
 **Financial Insight Technology, Inc  
 Attn: Michael Carvin  
-326 West 27th Street, NYC, NY, 10001  
-914-552-7944**
+5 Tudor City, New York City, NY, 10017  
+(646) 535 9487**
 
 **11\. DISPUTE RESOLUTION.** If you believe that Company has not adhered to this Statement, please contact Company by email at info@smartasset.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. 
 
 **12\. CHANGES TO THIS PRIVACY POLICY.** This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our site. These changes will be effective immediately for new users of our website, Products or related services. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our website, Products, or related services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-**This Privacy Policy was enacted on August 10th, 2011.**
+**This Privacy Policy was enacted on March 12th, 2012.**
