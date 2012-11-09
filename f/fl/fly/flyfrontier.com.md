@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119101723id_/http%3A//www.flyfrontier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109053746id_/http%3A//www.flyfrontier.com/privacy) for the most accurate reproduction.*
 
-# Frontier Airlines | Privacy Policy
+# Privacy Policy
 
 Frontier Airlines respects your privacy, and this privacy policy ( **"Privacy Policy"** ) is designed to assist you in understanding the collection, use, and safeguarding of information you may provide to Frontier Airlines, as well as ways to review and revise the information you provide.
 
-This Privacy Policy applies to customer information submitted via this website (the "Website") as well as customer information submitted to Frontier Airlines through telephone and other traditional communications. In addition, our online terms of use ("[Terms of Use](http://www.frontierairlines.com/terms-of-use)") describe the obligations and restrictions you agree to in exchange for being allowed to use our Website. Together, our Privacy Policy and Terms of Use form a legally binding contract between you and us. 
+This Privacy Policy applies to customer information submitted via this website (the "Website") as well as customer information submitted to Frontier Airlines through telephone and other traditional communications. In addition, our online terms of use ("[Terms of Use](https://web.archive.org/terms-of-use)") describe the obligations and restrictions you agree to in exchange for being allowed to use our Website. Together, our Privacy Policy and Terms of Use form a legally binding contract between you and us. 
 
 **BY ACCESSING, BROWSING, USING THIS WEBSITE OR OTHERWISE SUBMITTING INFORMATION TO FRONTIER AIRLINES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.**
 
