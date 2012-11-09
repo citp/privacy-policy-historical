@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeepartyusa.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510071713id_/http%3A//www.coffeepartyusa.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeepartyusa.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109060553id_/http%3A//www.coffeepartyusa.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coffee Party
 
@@ -8,7 +8,7 @@
 
 Coffee Party has created this privacy policy to explain how we use information that you may provide while visiting our website and to demonstrate our firm commitment to Internet privacy. Coffee Party may modify this policy from time to time so we encourage you to check this page when revisiting this website.
 
-By using this site, you agree to the terms of this Privacy Policy and of the Terms of Use for this site, which can be found here: _[http://www.coffeepartyusa.com/TOS](https://web.archive.org/web/20120510071713id_/http%3A/TOS)_
+By using this site, you agree to the terms of this Privacy Policy and of the Terms of Use for this site, which can be found here: _[http://www.coffeepartyusa.com/TOS](https://web.archive.org/web/20121109060553id_/http%3A/TOS)_
 
 **How We Use Your Information**
 
@@ -73,6 +73,6 @@ If you have any questions about this Privacy Statement, you may contact us by:
 
 
 
-PO Box 2433
+PO Box 866
 
-Champaign, IL 61825
+Corvalis, OR  97339-0866
