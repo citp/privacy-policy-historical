@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightscale.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602002349id_/http%3A//www.rightscale.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightscale.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110003447id_/http%3A//www.rightscale.com/privacy_policy.php) for the most accurate reproduction.*
 
 # RightScale Privacy Policy | Cloud Computing Management Platform by RightScale
 
@@ -6,7 +6,7 @@ We at RightScale, Inc. and the subsidiaries we own or control worldwide (collect
 
 This Policy governs how we collect, protect, store, process, transfer and use the personally identifiable information we collect from and about you. This Policy applies to RightScale's online and offline activities.
 
-RightScale adheres to the U.S.-European Union Safe Harbor Framework privacy principles and is registered with the U.S.-European Union Safe Harbor Program regarding the collection, storage, transfer, use and other processing of personal data transferred from the European Economic Area ("EEA") to the United States.
+RightScale complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. RightScale has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view RightScale’s certification, please visit http://www.export.gov/safeharbor/.
 
 If you have any questions about this Policy, please feel free to contact us by email, [privacy@rightscale.com](mailto:privacy@rightscale.com), or via mail at:
 
@@ -161,7 +161,7 @@ RightScale, Inc.
 402 E. Gutierrez Street  
 Santa Barbara, CA 93101 USA
 
-We participate in the U.S.-EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. If you have any complaints regarding our compliance with the Safe Harbor principles, please contact us at the address above.
+We participate in the U.S.-EU Safe Harbor Privacy Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the United States Department of Commerce. If you have any complaints regarding our compliance with the Safe Harbor principles, please contact us at the address above.
 
 **11\. Changes to this Privacy Policy**
 
@@ -172,6 +172,6 @@ Please note that this Policy may change from time to time. We will post any Poli
 We are committed to privacy and are involved in current industry initiatives to preserve individual privacy rights on the Internet and with respect to Cloud Computing services. Our privacy practices will evolve to meet new requirements, standards, technologies and customer desires and we welcome your opinions and insight on this evolution.
 
 V2.0  
-[October 16, 2009]
+[September 21, 2012]
 
 Archived Privacy Policies: [V1.0](https://web.archive.org/privacy-policy-v1.php)
