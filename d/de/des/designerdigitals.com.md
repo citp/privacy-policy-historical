@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerdigitals.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502194109id_/http%3A//www.designerdigitals.com/digital-scrapbooking/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerdigitals.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110002619id_/http%3A//www.designerdigitals.com/digital-scrapbooking/privacy.html) for the most accurate reproduction.*
 
 # DesignerDigitals Privacy Policy
 
