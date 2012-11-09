@@ -1,17 +1,20 @@
-<!--The following is the downloaded HTML source of the ridewithgps.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520035129id_/http%3A//ridewithgps.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ridewithgps.com privacy policy that was archived on 2012-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109190943id_/http%3A//ridewithgps.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ridewithgps: http://ogp.me/ns/fb/ridewithgps#">
 <meta content="text/html; charset=utf-8" http-equiv="Content-type">
-<meta content=" cycling, biking, elevation, motorcyling, motorcycle, sportbike, motorcycle ride, motorcycle routes, bicycle ride, bicycle routes, cycling routes, cyclist, bike, calculate distance, plan trip, trip planner, map, gpx, gps, mapping, plot, plotting, pedometer, route, cycling training, bicycling training, biking training, bike training, training plans, performance analysis, elevation profiles" name="keywords">
+<meta content=" cycling, biking, elevation profiles, bicycle routes, training plans, performance analysis, elevation profiles" name="keywords">
 <meta content="Privacy information for your account with ridewithgps.com" name="description">
-<meta content="56616244667" property="fb:page_id">
+<meta content="253239687628" property="fb:app_id">
+<meta content="http://ridewithgps.com/privacy" property="og:url">
+<meta content="9F8B57BE1BE93BFEC155A2C2BBC015E4" name="msvalidate.01">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="x0LlLoFI+V8DMBoY/SkrQaYKtycDCuq2TA6GoK/Idio=" name="csrf-token">
+<meta content="camKIMezRUmqlNiIcm8bnnxXAnxYAlH6z6ClKoacVOg=" name="csrf-token">
 <title>Privacy Policy for Ride With GPS</title>
-<link href="/favicon.ico?2000000000" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link href="http://assets3.ridewithgps.com/stylesheets/base_packaged.css?1337365485" media="screen" rel="stylesheet" type="text/css">
+<link href="/favicon.ico?2000000007" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="http://assets1.ridewithgps.com/stylesheets/base_packaged.css?1352396150" media="screen" rel="stylesheet" type="text/css">
 
+<link href="https://fonts.googleapis.com/css?family=Lato:300,900" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
   //<![CDATA[
     if(navigator.userAgent.indexOf('Linux') != -1)
@@ -37,7 +40,7 @@
 <div id="header">
 <div id="logo" onclick="window.location='/'">
 <a href="/changelog">
-v2.8.2
+v2.11.5
 </a>
 </div>
 <div id="login">
@@ -56,7 +59,7 @@ or
 <a class="fb_button" href="https://graph.facebook.com/oauth/authorize?client_id=253239687628&amp;redirect_uri=http%3A%2F%2Fridewithgps.com%2Fcreate_facebook_session&amp;scope=">Click Here!</a>
 </div>
 <div class="rwgps_login_cell left">
-<form action="http://ridewithgps.com/login" method="post" name="login">
+<form action="http://ridewithgps.com/login?redirect_url=http%3A%2F%2Fridewithgps.com%2Fprivacy" method="post" name="login">
 <label for="login[email]">Email:</label>
 <br>
 <input class="noline" id="email" name="login[email]" type="text">
@@ -66,7 +69,7 @@ or
 <input class="noline" id="password" name="login[password]" type="password">
 <div class="spacer"></div>
 <input class="button" type="submit" value="Sign In">
-<a href="javascript:;" id="forgot_password">
+<a class="forgot_password" href="http://ridewithgps.com/forgot_password">
 Forgot?
 </a>
 <div class="keep_logged_in">
@@ -74,6 +77,8 @@ Keep me logged in
 <input id="remember" name="remember" type="checkbox">
 </div>
 </form>
+<div class="spacer"></div>
+<a href="http://ridewithgps.com/choose_account">Sign Up</a>
 </div>
 <div class="clear"></div>
 </div>
@@ -87,6 +92,31 @@ Mapping and performance analysis for cyclists and runners
 <option value="true">metric (m/km)</option>
 <option selected="selected" value="false">imperial (ft/mi)</option>
 </select>
+</div>
+<div id="currentView">
+<a href="javascript:;">
+<img src="/images/icons/view_all.png">
+</a>
+</div>
+<div class="hidden" id="currentViewOpts">
+<a class="change_view all" data-view="all" href="javascript:;">
+<img src="/images/icons/view_all.png">
+</a>
+<a class="change_view right_sidebar" data-view="right_sidebar" href="javascript:;">
+<img src="/images/icons/view_right_sidebar.png">
+</a>
+<a class="change_view left_sidebar" data-view="left_sidebar" href="javascript:;">
+<img src="/images/icons/view_left_sidebar.png">
+</a>
+<a class="change_view no_sidebars" data-view="no_sidebars" href="javascript:;">
+<img src="/images/icons/view_no_sidebars.png">
+</a>
+</div>
+<div class="hidden" id="fs_opts">
+<a class="goFullscreen hidden" href="javascript:;">
+<img src="/images/icons/fullscreen.png?123">
+</a>
+<a class="exitFullscreen hidden" href="javascript:;">Exit fullscreen</a>
 </div>
 <ul class="sf-menu">
 <li><a href="/" class="home">Home</a></li>
@@ -120,8 +150,18 @@ Explore Map
 </a>
 </li>
 <li>
+<a class="search_segments" href="/segments">
+Segments
+</a>
+</li>
+<li>
 <a class="search_users" href="/users">
 Bike Riders
+</a>
+</li>
+<li>
+<a class="search_events" href="/events">
+Events
 </a>
 </li>
 <li>
@@ -132,7 +172,7 @@ Groups
 </ul>
 </li>
 <li class="feedback">
-<a href="/idea_box?height=365&amp;no_close_on_blur=true&amp;width=750" class="thickbox">Feedback</a>
+<a href="/help" class="colorboxhelp">Help/Feedback</a>
 </li>
 </ul>
 </div>
@@ -219,6 +259,12 @@ About Us
 <div class="clear"></div>
 </li>
 <li>
+<a href="/products">
+Store
+</a>
+<div class="clear"></div>
+</li>
+<li>
 <a href="/contact">
 Contact
 </a>
@@ -237,8 +283,8 @@ Blog
 <div class="clear"></div>
 </li>
 <li>
-<a href="/faq">
-Help/FAQ
+<a href="/help">
+Help
 </a>
 <div class="clear"></div>
 </li>
@@ -287,11 +333,12 @@ Support Us
 <div class="o4"></div>
 <div class="o5"></div>
 </div>
-<script src="http://assets1.ridewithgps.com/javascripts/base_packaged.js?1337365474" type="text/javascript"></script>
-<script src="http://assets1.ridewithgps.com/javascripts/translations_packaged.js?1337365474" type="text/javascript"></script>
+<script src="http://assets0.ridewithgps.com/javascripts/base_packaged.js?1352396135" type="text/javascript"></script>
+<script src="http://assets0.ridewithgps.com/javascripts/translations_packaged.js?1352396135" type="text/javascript"></script>
 <script>
   //<![CDATA[
     T.load({"something_went_wrong":"Something went wrong, please try again.  Contact us if the problem persists.","forgot_password_prompt":"Don't worry, it happens to the best of us.  What's your email address?","delete_confirmation":"Are you sure you want to delete this?","remembered_success":"Successfully remembered this item!","success":"Success","add_photos":"Add photos"});
+    rwgps.activeNs = rwgps.ns('');
   //]]>
 </script>
 
