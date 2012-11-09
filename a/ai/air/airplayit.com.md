@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airplayit.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519132152id_/http%3A//www.airplayit.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airplayit.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110004657id_/http%3A//www.airplayit.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Digiarty Software, Inc - Privacy Policy
 
