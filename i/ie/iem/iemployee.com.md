@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iemployee.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512040455id_/http%3A//www.asuresoftware.com/asure-support/contact-info%3Fid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iemployee.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109225358id_/http%3A//www.asuresoftware.com/asure-support/contact-info%3Fid%3D116) for the most accurate reproduction.*
 
 # Privacy
 
