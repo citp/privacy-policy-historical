@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513040237id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbosouthasia.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109080711id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome to HBO South Asia
 
@@ -46,6 +46,6 @@ We have put in place appropriate procedures to safeguard and help prevent unauth
 
 ### How to Contact Us
 
-If you have any questions or concerns about our Privacy Policy Statement you may [Contact Us](https://web.archive.org/web/20120513040237id_/http%3A//www.hbosouthasia.com/contact-us.php).
+If you have any questions or concerns about our Privacy Policy Statement you may [Contact Us](https://web.archive.org/web/20121109080711id_/http%3A//www.hbosouthasia.com/contact-us.php).
 
 HBO Asia reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of our site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes.
