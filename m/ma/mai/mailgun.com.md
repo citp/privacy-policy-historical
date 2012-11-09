@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailgun.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020835id_/https%3A//mailgun.net/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailgun.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109020309id_/http%3A//www.mailgun.com/public/privacy) for the most accurate reproduction.*
 
 # Mailgun: Privacy Policy
 
@@ -16,7 +16,7 @@ We collect two types of information about you: Personally Identifiable Informati
 
 We also use web cookies and reserve the right to use web beacons (“Cookies”). These are small files associated with information that your browser or our servers will save and return as part of the Services for purposes such as saving your login session between visits, remembering your display preferences and tracking your use of the site. While Cookies do not contain Personally Identifiable Information, we may associate the information they contain with Personally Identifiable Information for these and similar purposes. You may opt out of our use of cookies by [configuring your browser to reject them](http://www.usa.gov/optout-instructions.shtml). However, this may cause some features of the Services to work incorrectly.
 
-One kind of information we don’t collect is the content of the emails you send and receive with the Platform (unless you store emails in Mailboxes). We may scan your messages to ensure that they comply with our [Terms of Service](https://mailgun.net/public/terms), but once a message passes through the Platform’s servers we don’t record or archive its content (unless you store emails in Mailgun mailboxes), and we do not mine your messages for contextual advertising. While you should keep in mind that email, by its nature, is not a reliably private means of communication, [we support TLS and SSL](http://documentation.mailgun.net/faqs.html#do-you-support-ssl-tls) to limit these risks.
+One kind of information we don’t collect is the content of the emails you send and receive with the Platform (unless you store emails in Mailboxes). We may scan your messages to ensure that they comply with our [Terms of Service](https://web.archive.org/public/terms), but once a message passes through the Platform’s servers we don’t record or archive its content (unless you store emails in Mailgun mailboxes), and we do not mine your messages for contextual advertising. While you should keep in mind that email, by its nature, is not a reliably private means of communication, [we support TLS and SSL](http://documentation.mailgun.net/faqs.html#do-you-support-ssl-tls) to limit these risks.
 
 ## 2\. How we use your information
 
@@ -68,14 +68,14 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Mailgun commit
     
     Mailgun, Inc.
         Attn: Privacy Officer
-        180 Sansome St
-        San Francisco, CA  9410422
+        575 Sutter St, Ste 204
+        San Francisco, CA  94108
 
 by email:
 
 [support@mailgunhq.com](mailto:support%40mailgunhq.com)
 
-Mailgun has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mailgun, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20120504020835id_/https%3A//mailgun.net/public/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. Please note that the BBB EU SAFE HARBOR can not handle all privacy complaints, but only those related to alleged violations of the Safe Harbor Privacy Principles.
+Mailgun has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mailgun, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20121109020309id_/http%3A//www.mailgun.com/public/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. Please note that the BBB EU SAFE HARBOR can not handle all privacy complaints, but only those related to alleged violations of the Safe Harbor Privacy Principles.
 
 ## 7\. Modification
 
