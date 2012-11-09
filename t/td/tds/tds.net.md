@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tds.net privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528102221id_/http%3A//www.tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tds.net privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109082825id_/http%3A//www.tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
 
 # TDS Privacy Policy Excerpt - TDS Telecom
 
-Effective Date: August 24, 2009
+Effective Date: September 6, 2012
 
-TDS Telecommunications Corporation ("TDS") is dedicated to providing superior customer satisfaction and is committed to protecting customer privacy. We take this responsibility seriously as a key component to earning and maintaining our customers' trust.
+TDS Telecommunications Corporation ("TDS Telecom"), and its Affiliates; One Neck IT Services Corporation, Vital Support Systems, LLC, TEAM Technologies, LLC, and VISI, Inc. (TDS Hosted and Managed Services, LLC or "TDS HMS") are dedicated to providing superior customer satisfaction and are committed to protecting customer privacy. Both TDS Telecom and TDS HMS (together referred to as "TDS" for the purposes of this policy) take this responsibility seriously as a key component to earning and maintaining our customers' trust.
 
 ## Scope
 
-This overview provides highlights of the full [TDS Privacy Statement](https://web.archive.org/about/full-privacy-policy-2009.aspx#scope) ("Privacy Statement"). This Privacy Statement applies to TDS and any Third Party with whom we share or collect Confidential Personal Information. Third Party refers to agents, vendors, suppliers, subcontractors, and independent contractors. Confidential Personal Information is information that relates to you and identifies or can be used to identify you. This information includes your name, billing address, social security number, driver's license number, credit card number, bank account number, email address, and credit information. By subscribing to our services or accessing our Web sites, you agree to our collection and use of your information as described in the [Privacy Statement](https://web.archive.org/about/full-privacy-policy-2009.aspx#scope) as may be amended from time to time.
+This overview provides highlights of the full [TDS Privacy Statement](https://web.archive.org/about/full-privacy-policy-2009.aspx) ("Privacy Statement"). This Privacy Statement applies to TDS and any Third Party with whom we share or collect Confidential Personal Information. Third Party refers to agents, vendors, suppliers, subcontractors, and independent contractors. Confidential Personal Information is information that relates to you and identifies or can be used to identify you. This information includes your name, billing address, social security number, driver's license number, credit card number, bank account number, email address, and credit information. By subscribing to our services or accessing our Web sites, you agree to our collection and use of your information as described in the [Privacy Statement](https://web.archive.org/about/full-privacy-policy-2009.aspx#scope) as may be amended from time to time.
 
 ## Collection of your Confidential Personal Information
 
@@ -40,13 +40,13 @@ TDS does not sell your Confidential Personal Information to Third Parties for an
 
 Customers who wish to review and/or edit their Confidential Personal Information may do so by contacting us at the number provided on their billing statement.
 
-If you or your Authorized User contacts us via phone, you will be asked to provide your name, the Personal Identification Number ("PIN") (if the account is PIN protected), and the billing address zip code before we are able to assist you. You or your Authorized user will be asked to present a valid photo ID when requesting account information while at a business office.
+If you or your Authorized User contacts us via phone, you will be asked to provide your name, the Personal Identification Number ("PIN") (if the account is PIN protected; otherwise you will be asked to provide other information for the purposes of identity verification), and the billing address zip code before we are able to assist you. You or your Authorized user will be asked to present a valid photo ID when requesting account information while at a business office.
 
 [Additional Details](https://web.archive.org/about/full-privacy-policy-2009.aspx#accessing)
 
 ## Communication Preferences
 
-If you do not want TDS to use your Confidential Personal Information to contact you for marketing or solicitation purposes (excluding notices about your existing account), you may make this request to webcontact@tdstelecom.com or to TDS Telecom, 525 Junction Road, Madison, Wisconsin 53717.
+If you do not want TDS to use your Confidential Personal Information to contact you for marketing or solicitation purposes (excluding notices about your existing account), TDS Telecom customers may make this request to webcontact@tdstelecom.com, and TDS HMS customers may make this request to events@visi.com. Both TDS Telecom and TDS HMS customers may also make this request to TDS Telecom, Attn: Legal Dept., 525 Junction Road, Madison, Wisconsin 53717.
 
 [Additional Details](https://web.archive.org/about/full-privacy-policy-2009.aspx#communication)
 
@@ -56,11 +56,13 @@ TDS takes reasonable security safeguards to protect against such risks as loss o
 
 [Additional Details](https://web.archive.org/about/full-privacy-policy-2009.aspx#security)
 
-## Customer Proprietary Network Information ("CPNI")
+## Customer Proprietary Network Information ("CPNI")*
 
 CPNI refers to and includes information that we have about you by virtue of our relationship with you as your service provider. This includes information about your account usage - such as the type and quantity of the services you subscribe to. Use of CPNI is subject to federal laws and regulations with which TDS is required to comply.
 
 When you become a customer of TDS and no later than every two years thereafter, we will send you a notice in the mail explaining your rights concerning Customer Proprietary Network Information ("CPNI Notice").
+
+*Note this section applicable to TDS Telecom customers only
 
 [Additional Details](https://web.archive.org/about/full-privacy-policy-2009.aspx#cpni)
 
@@ -69,7 +71,6 @@ When you become a customer of TDS and no later than every two years thereafter, 
 TDS welcomes your comments regarding this Privacy Statement. If you have questions about this Privacy Statement or believe that we have not adhered to it, please contact us by writing to us at the following address:
 
 TDS Telecom  
+Attn: Legal Dept.  
 525 Junction Road  
 Madison, WI 53717
-
-TDS Telecom® and TDS Metrocom® are the registered trademarks of Telephone and Data Systems, Inc. and licensed to TDS Telecommunications Corporation. USLink® is the registered trademark of TDS Telecommunications Corporation. Other product and company names mentioned on the Site may be trademarks of those respective owners. All materials are provided for noncommercial personal use only. Copyright © 2012, TDS Telecommunications Corporation, All Rights Reserved.
