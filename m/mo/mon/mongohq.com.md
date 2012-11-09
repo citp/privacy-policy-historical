@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506071437id_/http%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109155217id_/http%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
 
-# MongoHQ Privacy Policy - MongoHQ Documentation for Mongo and MongoDB Hosting
+# MongoHQ Privacy Policy - MongoHQ Documentation
 
 Jan 4th, 2012
 
