@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookandlisten.co.za privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508214900id_/http%3A//www.lookandlisten.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookandlisten.co.za privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109015147id_/http%3A//www.lookandlisten.co.za/privacy) for the most accurate reproduction.*
 
 # Look & Listen - Privacy Policy
 
