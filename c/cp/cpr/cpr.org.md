@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507072152id_/http%3A//www.cpr.org/article/legacy-kvod-59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpr.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109135151id_/http%3A//www.cpr.org/article/legacy-kvod-59) for the most accurate reproduction.*
 
 # Colorado Public Radio - Privacy Statement
 
