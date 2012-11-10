@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techhim.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512022814id_/http%3A//www.techhim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techhim.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155901id_/http%3A//www.techhim.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
