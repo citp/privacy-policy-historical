@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golocal247.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109162602id_/http%3A//www.golocal247.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golocal247.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110132103id_/http%3A//www.golocal247.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Golocal247.com
 
