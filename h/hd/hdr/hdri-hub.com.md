@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdri-hub.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511221053id_/http%3A//www.hdri-hub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdri-hub.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110034924id_/http%3A//www.hdri-hub.com/privacy-policy) for the most accurate reproduction.*
 
 # HDRI Hub - Privacy policy
 
