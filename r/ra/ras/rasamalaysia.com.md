@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518165325id_/http%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110233223id_/http%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rasa Malaysia: Easy Asian Recipes
+# Privacy Policy | Rasa Malaysia: Easy Asian Recipes | Easy Asian Recipes at RasaMalaysia.com
 
 Rasa Malaysia is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on this website and how we use that information. By using the Rasa Malaysia website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
 
