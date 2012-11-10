@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childrensalon.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201223832id_/http%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrensalon.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110192157id_/http%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Childrensalon
 
@@ -25,6 +25,16 @@ We do not sell or otherwise pass your details to third parties for marketing pur
 At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. Alternatively you can change your email preferences or opt out of all emails by logging into My Account.
 
 Alternatively, to opt out of any direct mail service or updates, please contact our customer care team on +44 (0) 1892 779110 or by email to [info@childrensalon.com](mailto:info@childrensalon.com).
+
+**Cookie policy**
+
+Childrensalon uses cookies to give you a tailored, personalised shopping experience each time you use our website.
+
+Cookies are small data files that are sent to us by your computer. Allowing us to access these when you visit in the future means that features on our website will be personalised to your preferences, making the use of our website more convenient.
+
+By using our website, it means you consent to the use of our cookies. You can delete and restrict cookies at any time through your browser. Just check the 'Help' menu to learn how to change your cookie preferences.
+
+You can opt-out (and back in again) of the use of 3rd-party cookies on our website by clicking the following link: opt-out 3rd-party cookies.
 
 * * *
 
