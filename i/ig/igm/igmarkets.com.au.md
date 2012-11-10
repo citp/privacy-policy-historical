@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193134id_/http%3A//www.igmarkets.com.au/cfd/privacy-notice.html%3Fct%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.au privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110161018id_/http%3A//www.igmarkets.com.au/cfd/privacy-notice.html) for the most accurate reproduction.*
 
-# IG Markets - Privacy Notice
+# Privacy Policy
 
-Your privacy is important to us. This statement outlines IG Markets' policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
+Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others. It applies to all organisations in the IG group of companies.
 
-It is IG Markets' policy to respect the confidentiality of information and the privacy of individuals. IG Markets is bound by the National Privacy Principles contained in the Commonwealth Privacy Act.
+It is our policy to respect the confidentiality of information and the privacy of individuals. We are bound by the National Privacy Principles contained in the Commonwealth Privacy Act.
 
-IG Markets' Privacy Policy Statement will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment. Any information we hold will be governed by the most current IG Privacy Policy Statement.
+Our Privacy Policy Statement will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment. Any information we hold will be governed by the most current IG Privacy Policy Statement.
 
-### IG Markets' privacy policy is based on openness
+### Our privacy policy is based on openness
 
-We are committed to being open about how we use personal information. Where our documents ask for personal information, we will generally state the purposes for its use and to whom it may be disclosed.
+We are committed to being open about how we use personal information. Where our documents ask for personal information, we will generally state the purposes for its use and to whom it may be disclosed..
 
-### Why does IG Markets collect personal information?
+### Why do we collect personal information?
 
 Our business is to meet our customers' needs for a range of financial services. To do this effectively, we need to collect certain personal information.
 
@@ -34,28 +34,32 @@ Unless you are informed otherwise, the personal information we hold is used for 
 
 Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to:
 
-  * other companies within the IG group (including associated companies in Australia and the United Kingdom) who provide financial and other services 
-  * service providers and specialist advisers who have been contracted to provide us with administrative, financial, insurance, research or other services 
-  * credit reporting or reference agencies 
-  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside Australia or the European Economic Area) 
-  * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law 
+  * other companies within the IG group (including associated companies in Australia and the United Kingdom) who provide financial and other services
+  * service providers and specialist advisers who have been contracted to provide us with administrative, financial, insurance, research or other services
+  * credit reporting or reference agencies
+  * introducing brokers with whom we have a mutual relationship (any of whom may be within or outside Australia or the European Economic Area)
+  * credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law
   * anyone authorised by an individual, as specified by that individual or the contract
 
 
 
-Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers to IG Markets acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the National Privacy Principles and this policy.
+Generally, we require that organisations outside the IG group of companies who handle or obtain personal information as service providers to us acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the National Privacy Principles and this policy.
+
+### Marketing our products and services
+
+We may use your personal information to let you know about products and services or promotions or other opportunities in which you may be interested. If you no longer wish to receive such communications please phone us on +61 (3) 9860 1711, or write to us at: IG Markets, Level 7, 417 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au).
 
 ### Sensitive information is subject to greater restrictions
 
 Some personal information we hold is sensitive. The way we use tax statements and information received from a credit reporting agency about an individual may also be restricted by law.
 
-Sensitive information may be relevant to credit and other applications. It is IG Markets' policy that sensitive information will be used and disclosed only for the purposes for which it was provided, unless the customer agrees otherwise or the use or disclosure of this information is allowed by law.
+Sensitive information may be relevant to credit and other applications. It is our policy that sensitive information will be used and disclosed only for the purposes for which it was provided, unless the customer agrees otherwise or the use or disclosure of this information is allowed by law.
 
 ### Management of personal information
 
-IG Markets trains its employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. IG Markets regards breaches of your privacy very seriously and will impose appropriate penalties, including dismissal.
+We train our employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. We regard breaches of your privacy very seriously and will impose appropriate penalties, including dismissal.
 
-IG Markets has an appointed Privacy Officer to ensure that our management of personal information is in accordance with this statement and the Privacy Act.
+We have an appointed Privacy Officer to ensure that our management of personal information is in accordance with this statement and the Privacy Act.
 
 ### How do we store personal information?
 
@@ -65,11 +69,11 @@ We may need to maintain records for a significant period of time. However, when 
 
 ### How do we keep personal information accurate and up-to-date?
 
-IG Markets endeavours to ensure that the personal information it holds is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone.
+We endeavour to ensure that the personal information it holds is accurate and up-to-date. We realise that this information changes frequently with changes of address and other personal circumstances. We can generally update your customer information over the telephone.
 
 ### You have the right to check what personal information about you is held by us
 
-Under the Commonwealth Privacy Act, you have the right to obtain a copy of any personal information which IG Markets holds about you and to advise IG Markets of any perceived inaccuracy. The Act does set out some exceptions to this.
+Under the Commonwealth Privacy Act, you have the right to obtain a copy of any personal information which we hold about you and to advise us of any perceived inaccuracy. The Act does set out some exceptions to this.
 
 To make a request, you will need to complete an application form verifying your identity and specifying what information you require.
 
@@ -77,7 +81,7 @@ We will acknowledge your request within 14 days and respond promptly to it. We m
 
 ### What if you have a complaint?
 
-If you consider that any action of IG Markets breaches this Privacy Policy Statement or the National Privacy Principles or otherwise doesn't respect your privacy, you can make a complaint. This will be acted upon promptly. To make a complaint, please telephone us on (03) 9860 1711.
+If you consider that any action of ours breaches this Privacy Policy Statement or the National Privacy Principles or otherwise doesn't respect your privacy, you can make a complaint. This will be acted upon promptly. To make a complaint, please telephone us on +61 (3) 9860 1711.
 
 If you are not satisfied with our response to your complaint, you can telephone the Commonwealth Privacy Commissioner's hotline on 1300 363 992.
 
@@ -85,35 +89,32 @@ If you are not satisfied with our response to your complaint, you can telephone 
 
 If you want to:
 
-  * make a general enquiry about IG Markets' privacy policy 
-  * change your personal information 
+  * make a general enquiry about our privacy policy
+  * change your personal information
+  * access your personal information
 
 
 
-obtain an application form for access to your personal information phone IG Markets on (03) 9860 1711 or write to us at: IG Markets, Level 7, 417 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au)
+To obtain an application form for access to your personal information phone us on +61 (3) 9860 1711 or write to us at: IG Markets, Level 7, 417 St Kilda Road, Melbourne VIC 3004, or email: [helpdesk@igmarkets.com.au](mailto:helpdesk@igmarkets.com.au)
 
-Issue 1, April 2002  
-IG Markets Ltd  
-ABN 84 099 019 851
-
-### Privacy: Web supplement
+### Privacy: web supplement
 
 This statement outlines some privacy issues specific to the igmarkets.com.au website.
 
-IG may collect personal information you enter when using our website.
+We may collect personal information you enter when using our website.
 
-### What is a cookie and how does IG Markets use cookies?
+### What is a cookie and how do you use cookies?
 
-We use cookies to give you access to certain pages of the website without having to log in each time you visit. IG Markets may also use independent external service providers to track the traffic and usage on the website.
+We use cookies to give you access to certain pages of the website without having to log in each time you visit. We may also use independent external service providers to track the traffic and usage on the website.
 
-Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on the IG Markets web site, including presenting web pages according to your needs or preferences.
+Cookies are small pieces of text stored on your computer to help us determine the type of browser and settings you are using, where you have been on the website, when you return to the website, where you came from, and to ensure your information is secure. The purpose of this information is to provide you with a more relevant and effective experience on this website, including presenting web pages according to your needs or preferences.
 
 Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of igmarkets.com.au if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
 
 ### Technology improvements
 
-IG Markets is constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy, will be notified in this Supplement at the time of the change.
+We are constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy, will be notified in this Supplement at the time of the change.
 
 ### Links to third party websites
 
-The IG website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by IG Markets' privacy policy and these sites are not subject to IG Markets' privacy standards and procedures. 
+This website may have links to external third party websites that may benefit the user. Please note, however, that third party websites are not covered by our privacy policy and these sites are not subject to our privacy standards and procedures.
