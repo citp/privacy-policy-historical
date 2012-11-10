@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617192630id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110145223id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
 
-# University of Aberdeen Website: Privacy Policy and Disclaimer [The University of Aberdeen]
+# University of Aberdeen Website: Privacy Policy and Disclaimer | The University of Aberdeen
 
 This policy explains what information is gathered from web clients visiting the University of Aberdeen's central web server, and how that information is used. Our website is designed in accordance with the Information Commissioner's Office guidance on the use of cookies and similar technologies1.
 
