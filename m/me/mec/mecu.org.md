@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mecu.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512144850id_/http%3A//www.mecu.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecu.org privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110125546id_/http%3A//www.mecu.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,9 +18,12 @@ What? | The types of personal information we collect and share depend on the ac
   * Account balances and payment history 
   * Credit history and credit scores
 
+
+
+When you are _no longer_ a member of MECU, we continue to share your information as described in this notice.  
   
 ---|---  
-How? | All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons MECU chooses to share; and whether you can limit this sharing.  
+How? | All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons MECU chooses to share, and whether you can limit this sharing.  
 ---|---  
 Reasons we can share your personal information| Does MECU share?| Can you limit this sharing?  
 ---|---|---  
@@ -49,9 +52,9 @@ What we do
 ---  
 **How does MECU protect my personal information?** | 
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards, secured files and buildings, and procedural safeguards. All employees and agents are trained to respect member privacy, and only our employees and agents have regular access to Credit Union computer systems and records storage. We will continue to review our internal security controls to safeguard your personal information as we employ new technology in the future.  
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards, secured files and buildings, procedural safeguards and safe record storage. We will continue to review and modify our security controls in the future to deal with changes in products, services and technology.  
   
-**How does MECU collect my personal information?** | We collect your personal information, for example, when you 
+**How does MECU collect my personal information?** | We collect your personal information, for example, when you **** — ****
 
   * open an account 
   * apply for a loan 
@@ -63,7 +66,7 @@ To protect your personal information from unauthorized access and use, we use se
 
 We also collect your personal information from others, including credit bureaus or other companies.  
   
-**Why can't I limit all sharing?** | Federal law only gives you the right to limit only: 
+**Why can't I limit all sharing?** | Federal law only gives you the right to limit: 
 
   * sharing for affiliates' everyday business purposes — information about your creditworthiness 
   * affiliates from using your information to market to you 
@@ -92,7 +95,7 @@ Definitions
   * Other financial service providers
 
   
-© 2011 Farleigh Wada Witt. All rights reserved. |  May 2011  
+© 2012 Farleigh Wada Witt. All rights reserved. |  May 2012  
 ---|---  
   
   
