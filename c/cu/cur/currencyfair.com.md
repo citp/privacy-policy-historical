@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602064853id_/http%3A//currencyfair.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110172243id_/http%3A//www.currencyfair.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CurrencyFair
 
@@ -21,9 +21,9 @@ Any changes to this Privacy Policy will be posted on the website. Your continued
 
 ## CurrencyFair Benefits
 
-12 Mar 2012
+10 Sep 2012
 
-QuickTrade demo video from Finovate Europe 2012
+Exchanges and transfers in CZK and NOK now...
 
 17 May 2012
 
