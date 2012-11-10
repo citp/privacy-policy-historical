@@ -1,133 +1,153 @@
-> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501155635id_/http%3A//www.harveynichols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110153710id_/http%3A//www.harveynichols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security
 
-****Privacy**** ** **
+**PRIVACY POLICY**
 
-We will treat all your Personal Information as confidential (although We reserve the right to disclose it in the circumstances set out below). We will keep it on a secure server and We will fully comply with all applicable UK Data Protection and consumer legislation from time to time in place.
+Please be assured that we take your privacy very seriously and treat all your personal information as confidential. This policy relates to your use of this website; the data you supply to us (including data gathered in our stores) and our use of that data.
 
-We confirm that any Personal Information which You provide to Us (or which is available on public registers) and any User Information from which We can identify You, is held in accordance with the registration We have with the Data Commissioner's Office. We use Your information only for the following purposes:
+**Collection, Use and Storage of Data**
 
-•   Processing Your orders, including despatch, payment and returns;   
-•   To prevent or detect fraud or abuses of Our Website;   
-•   To enable third parties to carry out technical, logistical or other functions on Our behalf;   
-•   For statistical or survey purposes to personalise and improve this Website and its services to You;   
-•   To serve Website content and advertisements to You;   
-•   To administer this Website;
+**What sort of data do you collect?**
 
-You agree that You do not object to Us contacting You for any of the above purposes whether by telephone, e-mail, fax or in writing. 
+**Personal Information**
 
-You sign up for HNews when You enter Your details and click on the submit button. You consent to receive marketing communications from Us by signing up to Our email newsletter, You consent to receive information from Us about products, promotions or special offers which We feel may be of interest to You. These may be sent by e-mail.
+When you shop on this website, you will be asked to input personal information such as your name, e-mail address, billing address, delivery address, telephone number(s), product selections and a password. Basic personal details, including your name and email address, are also requested when you sign up to receive our email newsletter.
 
-When You place an order through the checkout either as a guest or as a new customer by ticking the sign up box You consent to receive information from Us about products, promotions or special offers which We feel may be of interest to You. These may be sent by post, e-mail or telephone. The sign up box will be ticked by default.
+We may ask you for your date of birth (optional), which will be used to identify you if you wish to make changes to your account or your order by telephone.
 
-If You do not wish to receive direct marketing communications from Harvey Nichols You must un-tick the sign up box.
+We do not store credit or debit card information.
 
-You may unsubscribe directly from Our newsletter via the unsubscribe link provided for You in all e-mails we send or by telephoning our Web Customer Services team on 0845 604 1888. Overseas customers should call +44 160 466 2788.
+**Your Use of Our Website**
 
-You agree that if We are requested by the police or any other regulatory or government authority investigating suspected illegal activities to provide Your Personal Information and /or User Information, We are entitled do so.
+We also collect, and our third party providers may collect, information about where you have come from on the Internet and how you are accessing the site (e.g. the URL you came from before you visited this website and your IP address), your browser type, your geographical location, the pages of our website you viewed during your visit, the advertisements you clicked on, and any search terms that you entered. We may collect this information about all visitors, even those that do not register with us. For more info, see **Cookies** below.
 
-**How do We define 'Data'?**
+**How do you use this data?**
 
-Data is any Personal Information that You provide to Us and which is recorded and used by Us and by which You can be identified.
+  * To process your orders, from delivery to payment and returns. 
+  * To send you marketing communications, where you have requested them.
+  * For analytical purposes, to learn about how shoppers are using our website. This helps us improve and personalise the site and its services to you. 
+  * To prevent or detect fraud and abuses of our website.
 
-**What sort of Data do We collect about You?**
 
-When You shop on this Website, We will ask You to input and we will collect Personal Information from You such as Your name, e-mail address, billing address, delivery address, telephone number(s), product selections, credit/debit or other payment information and a password. Optionally we may ask You for Your Date of Birth which may be used to identify You if You wish to make changes to Your account or Your Order by telephone.
 
-We may also collect, and Our third party providers of advertisements and content may collect, information about where You are on the internet (e.g. the URL You came from, IP address, domain types like .co.uk and .com), Your browser type, the country and telephone area code where Your computer is located, the pages of Our Website that were viewed during Your visit, the advertisements You clicked on, and any search terms that You entered on Our Website. We may collect this information even if You do not register with Us.
+**How do you keep my personal information and payment details secure?**
 
-**Do We pass on Your personal details to third parties?**
+All information about our customers and site visitors is kept on a secure server and we fully comply with all applicable UK data protection and consumer legislation. Any personal information you give us (or is available on public registers) and any information we use to identify you, is held in accordance with our registration with the Information Commissioner's Office.
 
-Your Personal Information may be disclosed to other businesses within the Harvey Nichols Group of companies and to reputable third parties who will help process Your order. We require all such third parties to treat Your personal information as fully confidential and to fully comply with all applicable UK Data Protection and consumer legislation from time to time in place.
+**SSL and Encryption Technology**
 
-With Your prior approval We may also pass Your details to third parties or research agencies who may contact You by post, e-mail or telephone. We may also share aggregate information with selected third parties but We do not disclose individual names or any identifying information without Your permission.
+We have implemented Internet security technology to ensure that it is safe for you to shop with us. We use Internet standard encryption technology to scramble your personal data when you give it to us. This process is known as SSL (secure sockets layer) and we are constantly updating our technology to provide you with the maximum level of security.
 
-**How will We let You know if Our Privacy Policy changes?**
+To check you are in a secure area of our website, you can look at the bottom right of your browser window and you will see a closed padlock or an unbroken key. This indicates that SSL is enabled and your transaction is secure.
 
-Should Our policy change in the future, for example, to comply with new legislation, We will post these changes on the Privacy Policy statements contained on the Website. Please check back frequently on the Website to see any updates or changes to Our Privacy Policy.
+Additionally, we do not hold any of your credit card details anywhere on our website. They are simply passed securely to our E-payments processor for authorisation by your bank.
 
-**What is a cookie and what is it used for?**
+**MasterCard SecureCode and Verified by Visa (3D Secure)**
 
+MasterCard SecureCode and Verified by Visa are new services that let you shop online with added confidence and security and protect you from fraud.
+
+To use MasterCard SecureCode and Verified by Visa all you need to do is register your card once, and create a password. Then, when you make a purchase online, a MasterCard SecureCode or Verified by Visa window will appear. Simply enter the characters requested from your password and click on the submit query button. Your identity is verified and the purchase is secure.
+
+If you are registered for the scheme and have a password already, you will be asked to enter characters from your password after you have entered the card details and clicked on the ‘continue to payment’. Your card provider will then verify the characters you have entered and, if it matches their records, verify your transaction.
+
+If your card provider is registered for the scheme but you personally are not, we will offer you the chance to sign up and create a password during the check out process. This is all handled through MasterCard SecureCode or Verified by Visa themselves. We simply pass your encrypted details on to your card provider securely.
+
+If you would like further information, please contact your Mastercard or Visa Issuer.
+
+**What you can do to stay secure**
+
+There are things you can do to protect your personal information and transactions when shopping online. Here are a few of them:
+
+  * When using a public computer, always log out and close the browser when you have finished. 
+  * Do not share your password with anybody else or write it down anywhere. 
+  * When you create a password, use at least 8 characters and a combination of letters and numbers. Do not use any personal information in your password (such as your name) that can be easily obtained. We also recommended that you change your password often. 
+  * Use different passwords for your different online accounts.
+
+
+
+**Marketing Communications**
+
+You can sign up to receive marketing communications from Harvey Nichols through the online sign up form, when you register for an online account or via the opt-in tick box found during the check out process. Opt-in boxes will be pre-ticked on your behalf but you may always choose to un-tick the box. You can also sign up for marketing communications in store, when making a restaurant booking, when entering competitions or using online services that require registration, such as the Wishlist.
+
+In signing up, you consent to receive information from us about products, promotions or special offers that we feel may be of interest to you. These may be sent by email, mail, telephone, SMS message or take place in store. Promotions may also be sent to you based on your shopping history.
+
+**How to Unsubscribe from Email Communications**
+
+You can unsubscribe from our newsletter via the unsubscribe link provided in all e-mails we send, by replying to any marketing email with the word ‘STOP’ either in the subject line or body of the email or by telephoning our Web Customer Services team on 0845 604 1888. Overseas customers should call +44 160 466 2788 or email compliance@harveynichols.com. 
+
+Please be aware, it may take up to 15 days to stop receiving e-mails and a later opt-in will supercede an earlier opt out.
+
+**Disclosure to Third Parties**
+
+If we are requested by the police or any other regulatory or government authority investigating suspected illegal activities, to provide your personal information and /or user information, we will do so.
+
+Your Personal Information may be disclosed to other businesses within the Harvey Nichols Group of companies and to reputable third parties, who will help process your order. These may include our IT suppliers, courier or shipping companies. 
+
+We may also disclose your information to reputable third companies for the purpose of insight and analysis and to third party companies, where you have opted in for third party promotions. We require all such third parties to treat your personal information as fully confidential and to fully comply with all applicable UK Data Protection and consumer legislation in place.
+
+With your prior approval, we may also pass your details to third parties or research agencies who may contact you by post, e-mail or telephone. We may also share aggregate information with selected third parties but we do not disclose individual names or any identifying information, without your permission.
+
+If you have provided your details as part of a promotion with a third party and have agreed for us to share your data with them, we will do so on your behalf.
+
+**COOKIES**
+
+**What are Cookies and what are they used for?**
+
+Cookies are small pieces of information that are stored by your browser on your computer’s hard drive. Cookies do not contain any recognisable personal information but are used by websites, including this one, to better understand how visitors are accessing and using their site. This information may be used to improve website usability and for marketing purposes. 
+
+**How can I stop Cookies being used?**
+
+Most browsers are automatically set to accept Cookies but usually you can alter the settings of your browser to prevent automatic acceptance. Please be aware that restricting Cookies will have a negative impact on your experience of this and many other websites. However, if you choose not to allow Cookies, you will still be able to use most of the features of our website, including the ability to purchase items. 
+
+For more information on Cookies and how to disable them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+**Cookies Used by Harvey Nichols**
+
+Cookies are used by the Harvey Nichols website and our third party providers. However, we do not collect any personal data through cookies on your computer.
+
+When you visit our website, we collect a series of standard data relating to your visit. This may include such things as, the number of times you visit our website, which pages you visit, which products you look at and your geographical location. We also use Cookies to store the things you add to your shopping bag and remember you when you return to our website. You cannot be personally identified by any information we collect via Cookies.
+
+Please refer to the table below, to see what Cookies we use and why we use them.
+
+**Cookies Used**
+
+| 
+
+**What we use them for**  
   
-Cookies are small pieces of information that are stored by Your browser on Your computer hard drive. They contain no recognisable Personal Information.
+---|---  
+  
+Order Processing Cookies
 
-Our site uses cookies to keep track of how often You visit Our site, the contents of Your shopping cart, previous purchases and to deliver content specific to Your interests. Most browsers are automatically set to accept cookies but usually You can alter the settings of Your browser to prevent automatic acceptance. If You choose not to receive cookies, You may still use most of the features of Our website, including the ability to purchase items. For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+| 
 
-We advise You not to use cookies if Your computer is shared by other people. You can accept all cookies, reject all cookies, or modify Your browser to alert You of any new cookies. Cookies also protect the integrity of registered passwords and limit access to 'paid for' services.
+We use these cookies to provide essential services to our customers, relating to the processing of their order.  
+  
+Site Analytics Cookies
 
-**Security**
+(Google Analytics)
 
-For your security and protection and to prevent fraud, all orders packed by us are monitored and recorded by CCTV to ensure that we don't leave anything out of your order.
+| 
 
-We have implemented internet security technology to ensure that it is safe for You to shop with Us. We use Internet standard encryption technology to scramble Your Personal Data when You transmit it to Us. This process is known as SSL (secure sockets layer) and We are constantly updating Our technology to provide You with the maximum practicable level of security. To check You are in a secure area of Our Web site You can look at the bottom right of Your browser window and You will see a closed padlock or an unbroken key. This indicates that SSL is enabled and Your transaction is secure.
+These cookies are used to better understand how customers are using our site so we can improve and optimise our site, creating the best possible experience for shoppers.  
+  
+Marketing Analytics Cookies
 
-If You double click on the padlock You will be able to verify that We are trusted by Verisign, one of the World's leading security companies. To check the validity of the certificate click on the View button. You should see that the certificate is registered for Harvey Nichols and has not expired. 
+(DC Storm)
 
-Additionally We do not hold any of Your credit card details anywhere on Our Website. They are simply passed securely to Our E-payments processor for authorisation by Your bank.
+| 
 
-**MasterCard SecureCode and Verified by Visa (3D Secure)**
+We use these cookies to find out where our customers are coming to our site from – a web search or straight from one of our emails. With this information we can see how interested people are in our marketing and try to make it more relevant.  
+  
+**How will I know if this Privacy Policy changes?**
 
-MasterCard SecureCode and Verified by Visa are new services that let You shop online with added confidence.
+If our policy changes in the future - to comply with new legislation, for example - we will update this page with the new details. Please check back to keep up -to-date with any changes.
 
-Through a simple checkout process, MasterCard SecureCode and Verified by Visa confirm Your identity when You make purchases at participating online stores. It is convenient, and it works with Your existing MasterCard or Visa card.
-
-Plus, MasterCard SecureCode and Verified by Visa are a snap to use. You register Your card just once, and create Your own password. Then, when You make purchases at participating online stores, a MasterCard SecureCode or Verified by Visa window will appear. Simply enter the characters requested from Your password and click on the submit query button. Your identity is verified and the purchase is secure.
-
-If You are registered for the scheme and have a password already You will be asked to enter characters from this password after You have typed in the card details and clicked on the continue to payment button from the card information page. Your card provider will then verify what You have entered and, if it matches their records, verify Your transaction. Your purchase is secure.
-
-If Your card provider is registered for the scheme but You personally are not, We will offer You the chance to subscribe to it and create a password. This is all handled through MasterCard SecureCode or Verified by Visa themselves. We simply pass Your encrypted details through to Your card provider securely.
-
-Registration in the scheme provides You with a higher level of security when shopping on-line as there is no way for a fraudster to know the personal password You create for Yourself. 
-
-Alternatively, to activate MasterCard SecureCode for Your MasterCard card or Verified by Visa for Your Visa card, or to learn more, contact the card provider that issued Your MasterCard or Visa card.
-
-**Safety and Security Tips**
-
-•    When using a public computer or terminal, always log out and close the browser when You complete an online session.   
-•    Do not tell anyone else Your password. Remember, anybody who knows Your password can access Your account or pass Your password on to someone else.   
-•    Create more complex passwords. When You create a password, use at least 8 characters - a combination of letters and numbers is best. Do not use Your name, email address, or other personal information that can be easily obtained and try to steer clear of words found in a dictionary. It is also recommended that You change Your password frequently.   
-•    Use different passwords for any online accounts You have.   
-•    Do not write Your password down anywhere.
-
-For your security and protection and to prevent fraud, all orders packed by us are monitored and recorded by CCTV to ensure that we don't leave anything out of your order.
-
-We have implemented internet security technology to ensure that it is safe for You to shop with Us. We use Internet standard encryption technology to scramble Your Personal Data when You transmit it to Us. This process is known as SSL (secure sockets layer) and We are constantly updating Our technology to provide You with the maximum practicable level of security. To check You are in a secure area of Our Web site You can look at the bottom right of Your browser window and You will see a closed padlock or an unbroken key. This indicates that SSL is enabled and Your transaction is secure.
-
-If You double click on the padlock You will be able to verify that We are trusted by Verisign, one of the World's leading security companies. To check the validity of the certificate click on the View button. You should see that the certificate is registered for Harvey Nichols and has not expired. 
-
-Additionally We do not hold any of Your credit card details anywhere on Our Website. They are simply passed securely to Our E-payments processor for authorisation by Your bank.
-
-**MasterCard SecureCode and Verified by Visa (3D Secure)**
-
-MasterCard SecureCode and Verified by Visa are new services that let You shop online with added confidence.
-
-Through a simple checkout process, MasterCard SecureCode and Verified by Visa confirm Your identity when You make purchases at participating online stores. It is convenient, and it works with Your existing MasterCard or Visa card.
-
-Plus, MasterCard SecureCode and Verified by Visa are a snap to use. You register Your card just once, and create Your own password. Then, when You make purchases at participating online stores, a MasterCard SecureCode or Verified by Visa window will appear. Simply enter the characters requested from Your password and click on the submit query button. Your identity is verified and the purchase is secure.
-
-If You are registered for the scheme and have a password already You will be asked to enter characters from this password after You have typed in the card details and clicked on the continue to payment button from the card information page. Your card provider will then verify what You have entered and, if it matches their records, verify Your transaction. Your purchase is secure.
-
-If Your card provider is registered for the scheme but You personally are not, We will offer You the chance to subscribe to it and create a password. This is all handled through MasterCard SecureCode or Verified by Visa themselves. We simply pass Your encrypted details through to Your card provider securely.
-
-Registration in the scheme provides You with a higher level of security when shopping on-line as there is no way for a fraudster to know the personal password You create for Yourself. 
-
-Alternatively, to activate MasterCard SecureCode for Your MasterCard card or Verified by Visa for Your Visa card, or to learn more, contact the card provider that issued Your MasterCard or Visa card.
-
-**Safety and Security Tips**
-
-•    When using a public computer or terminal, always log out and close the browser when You complete an online session.   
-•    Do not tell anyone else Your password. Remember, anybody who knows Your password can access Your account or pass Your password on to someone else.   
-•    Create more complex passwords. When You create a password, use at least 8 characters - a combination of letters and numbers is best. Do not use Your name, email address, or other personal information that can be easily obtained and try to steer clear of words found in a dictionary. It is also recommended that You change Your password frequently.   
-•    Use different passwords for any online accounts You have.   
-•    Do not write Your password down anywhere.
-
-**Information**
-
-**The data controller of your data is** HARVEY NICHOLS & CO LTD
-
-109-125 KNIGHTSBRIDGE LONDON SW1X 7RJ
-
+**Information**  
+**The data controller of your data is  
+** HARVEY NICHOLS & CO LTD  
+109-125 KNIGHTSBRIDGE LONDON SW1X 7RJ  
 ICO Registration Number: Z8687407
 
-If you have any questions about our privacy policy contact [compliance@harveynichols.com](mailto:compliance@harveynichols.com)
+If you have questions about our privacy policy contact [compliance@harveynichols.com](mailto:compliance@harveynichols.com)
