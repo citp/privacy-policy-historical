@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdeveloperplus.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512070510id_/http%3A//webdeveloperplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdeveloperplus.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110142448id_/http%3A//webdeveloperplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Developer Plus
 
@@ -21,7 +21,7 @@ The type of personal information we collect are:
 
 #### How we use Cookies
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computerâ€™s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 WebDeveloperPlus may use cookies to keep some information that are placed by a Web site in a storage place on your own computer. We use cookies to track usage patterns on the site. Our cookies do not contain personally identifiable information and such cookies are not shared with any third party.
 
@@ -33,7 +33,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 #### DoubleClick DART Cookies
 
-WebDeveloperPlus.com may also use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit using DoubleClick advertising (including some Google Adsense advertisements). This cookie is used to serve ads specific to you and your interests which are also known as “interest based targeting”. The ads served will be targeted based on your previous browsing history (for example, if you have been viewing sites about food, you may see advertisements related to recipes, food, and cooking utensils when viewing a non-related site, such as a site about travel). DART uses non personally identifiable information. It does not track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+WebDeveloperPlus.com may also use DART cookies for ad serving through Googleâ€™s DoubleClick, which places a cookie on your computer when you are browsing the web and visit using DoubleClick advertising (including some Google Adsense advertisements). This cookie is used to serve ads specific to you and your interests which are also known as â€œinterest based targetingâ€. The ads served will be targeted based on your previous browsing history (for example, if you have been viewing sites about food, you may see advertisements related to recipes, food, and cooking utensils when viewing a non-related site, such as a site about travel). DART uses non personally identifiable information. It does not track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
 
 You can always choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
