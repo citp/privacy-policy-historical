@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diffuser.fm privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514195401id_/http%3A//diffuser.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffuser.fm privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110154702id_/http%3A//diffuser.fm/privacy) for the most accurate reproduction.*
 
-# Alternative and indie rock music news - Diffuser.fm
+# Alternative and Indie Rock Music News - Diffuser.fm
 
 ### About DIFFUSER.FM
 
-This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to DIFFUSER.FM (collectively the "Websites"). The other integral part of this agreement is the Townsquare Terms of Use (link here). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the [Terms of Use](https://web.archive.org/terms). If you have any questions concerning this Privacy Policy, please email us at .
+This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to DIFFUSER.FM (collectively the "Websites"). The other integral part of this agreement is the Townsquare [Terms of Use](https://web.archive.org/terms). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the [Terms of Use](https://web.archive.org/terms). If you have any questions concerning this Privacy Policy, please email us at .
 
 ### Information Collection and Use by the Websites
 
