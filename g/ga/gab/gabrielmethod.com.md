@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gabrielmethod.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726122011id_/http%3A//www.gabrielmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabrielmethod.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110144819id_/http%3A//www.thegabrielmethod.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Gabriel Method - Lose Weight Without Dieting
+# The Gabriel Method – Privacy Policy
 
 At The Gabriel Method, we care about your privacy. This policy describes how we will deal with your personal information in accordance with the National Privacy Principles and the Australian Privacy Act.
 
-### What is Personal Information?
+**What is Personal Information?**
 
 When we talk about **personal information** , we mean information or an opinion about an individual where you can tell or reasonably work out who the information or opinion is about.
 
-### Getting to know you
+**Getting to know you**
 
 To help us help you, it is often important we know a few things about you. However, we will only collect personal information about you that is relevant to our relationship.
 
@@ -22,7 +22,7 @@ You can generally visit our website without revealing who you are or other perso
 
 We may keep track of which sections of our website you visit for internal purposes, including to help us improve our website and other services.
 
-### Use and disclosure
+**Use and disclosure**
 
 Subject to our legal obligations and our other rights under any agreement with you, we will do our best to only give out your personal information to those people listed below and to any other people you have asked us to provide it to.
 
@@ -30,23 +30,20 @@ We will only use your personal information as allowed by law. This means we may 
 
 We generally only use or disclose your personal information to:
 
-
-
   1. provide you with information, products or services you have requested;
   2. promote your success story to visitors to our website through testimonial or other feedback pages with your consent;
   3. help us to improve our website, marketing and services;
   4. tell you about any new developments, offers or events we think may interest you;
-  5. other organisations that provide services to us, such as mailing houses, event organisers, IT contractors (such as website developers and hosts), internet service providers and professional services firms; 
+  5. other organisations that provide services to us, such as mailing houses, event organisers, IT contractors (such as website developers and hosts), internet service providers and professional services firms;
   6. credit reference and reporting agencies and other credit providers if you place a large order or wish us to extend credit;
   7. law enforcement and other government agencies where permitted by law; and
   8. meet any legal requirements.
 
 
 
-
 While we strive to protect and respect your privacy, we cannot guarantee the security of any information you send over the Internet. When you post information on a section of our site available to others, such as in our forums, it becomes available to all other visitors to that section of our site.
 
-### Access to personal information
+**Access to personal information**
 
 You can request access to personal information we hold about you at any time. We will give you access unless we are allowed or required by law to refuse it. We may ask you to pay our reasonable costs of providing access.
 
@@ -54,21 +51,12 @@ If you believe personal information we hold about you is inaccurate or incomplet
 
 In certain circumstances, we may refuse to give access to your personal information or amend it. Usually we will explain why and, in the case of an amendment, make a note that you disagree with the accuracy or completeness of particular information.
 
-### Security and integrity
+**Security and integrity**
 
 We cannot guarantee the security of information you may transmit to us. We will take reasonable steps to keep your personal information secure, accurate, complete and up to date except where at the time you supply it, it is clear that it will be published on the website. If we no longer require your personal information, we will take reasonable steps to destroy or de-identify it. We do not take responsibility for the security of information that is outside our control such as when it is sent over the Internet.
 
-### Changes to this policy
+**Changes to this policy**
 
 To keep up with regulatory, technical and organisational change, we may change this policy from time to time by publishing the updated policy on our website. Please be sure to visit our website regularly to keep up to date with any changes.
 
-### Contacting us
-
-If you have any problems or complaints, or general questions regarding our information handling practices, please contact us by email or by writing to:
-
-The Gabriel Method Pty Ltd  
-Shop 8 Palm Court   
-69 Strickland Street Denmark   
-WA 6333 Australia
-
-or call our Privacy Officer on +1 215 825 5101 if you are in the United States or on +61 8 9848 1818 if you are elsewhere.
+ 
