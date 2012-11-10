@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avatelco.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512052852id_/http%3A//avatelco.com/page/1/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatelco.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110195559id_/http%3A//avatelco.com/page/1/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Article Directory Avatelco.com - Free Articles for Reprint. Free Articles for your web site and newsletters. Submit Your Articles to Our Articles Directory
+# Privacy Policy - Articles Directory Avatelco.com - Publish Your Articles, Free Articles for your web site - avatelco.com
 
 1) Privacy Policy  
 The privacy of your nonpublic personal information is important to us. We use safeguards to protect your privacy and confidentiality. This Disclosure discusses information we collect and the manner in which it is used.
