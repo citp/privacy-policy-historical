@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the floridalottery.com privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507230728id_/http%3A//www.floridalottery.com/privacypolicyMain.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the floridalottery.com privacy policy that was archived on 2012-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110194805id_/http%3A//www.floridalottery.com/privacypolicyMain.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -21,7 +21,7 @@
  
   var _gaq = _gaq || []; 
   _gaq.push(['_setAccount', 'UA-3966406-1']); 
-  _gaq.push(['_trackPageview']); 
+  _gaq.push(['_trackPageview']);
  
   (function() { 
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
@@ -29,12 +29,17 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
   })(); 
  
-</script>
-<script type="text/javascript">
   function recordOutboundLink(link, category, action) {
     _gat._getTrackerByName()._trackEvent(category, action);
     window.open(link.href);
   }
+  
+  $(document).ready(function(){
+	$("#topRotationFacebook").click(function(){
+		recordOutboundLink(this, 'Outbound Links', 'topRotationFacebook');
+		return false;
+	})
+  }); 
 </script>
 </head>
 <body>
@@ -51,7 +56,7 @@
 
 <!-- mp_trans_disable_start -->
 <script type="text/javascript">
-var serverTime = "Mon May 07 19:07:29 EDT 2012";
+var serverTime = "Sat Nov 10 14:48:05 EST 2012";
 
 function amber_alert (p_url)
 	{
@@ -127,7 +132,7 @@ getRotationBanners("rotationads_sp.xml", "#topRotationBanner", 260, 80, "none");
 		</ul>
 	</div>
 	<div id="topRotationBanner">
-	<ul><li style="display: list-item;"><a href="http://www.facebook.com/FloridaLottery"><img src="Images/png/facebook_top_rotation_160x80.png" alt="Find us on Facebook" width="260" height="80"></a></li><li><a href="educationDollarToEducation.do"><img src="Images/png/23_edu_homepagebanner_260x80.png" alt="$23 Billion to Education since 1988. With you every step." width="260" height="80"></a></li><li><a href="retailer.do"><img src="Images/gif/retailer_rb_en.png" alt="Click here to become a Florida Lottery retailer." width="260" height="80"></a></li></ul></div>
+	<ul><li style="display: list-item;"><a href="https://secondchance.flalottery.com/secondchance/"><img src="Images/png/DrawingPostponed_webBanner_260x80.png" alt="Fan-Tastic College Drawing Postponed" width="260" height="80"></a></li><li><a href="unclaimedTicketsMain.do"><img src="Images/png/expiringtickets-eng.png" alt="Expiring Tickets! Did you win?" width="260" height="80"></a></li></ul></div>
 	
 	<div id="navbar">
   <ul id="qm0" class="qmmc">
@@ -156,7 +161,8 @@ getRotationBanners("rotationads_sp.xml", "#topRotationBanner", 260, 80, "none");
 		<!-- mp_trans_add
 		<li><a href="https://es.flalottery.com/enes/sdsecondchance/secondchance/">Second Chance</a></li>
 		-->
-		<li class="qm0last"><a href="/inet/gamesadvancedplayMain.do">Advance Play</a></li>
+		<li><a href="/inet/gamesadvancedplayMain.do">Advance Play</a></li>
+        <li class="qm0last"><a href="/inet/raffle.do">Millionaire Raffle</a></li>
 		</ul>
 	</li>
 	<!-- mp_trans_remove_start -->
@@ -279,6 +285,7 @@ if ('ontouchstart' in document.documentElement) {
 
 	</div>
 </div>
+
 <!-- Bottom Border Page Section -->
 
 
@@ -305,8 +312,7 @@ if ('ontouchstart' in document.documentElement) {
 		<ul style="margin-bottom: .25em;">
 			<li><a href="/inet/aboutus-opengovernmentMain.do">Open Government</a></li>
 			<li><a href="/inet/aboutus-employmentMain.do">Employment</a></li>
-			<li><a href="/inet/procurementMain.do">Procurement</a></li>
-			<li class="footerLastListItem"><a href="/inet/businessMain.do">Group Sales</a></li>
+			<li class="footerLastListItem"><a href="/inet/procurementMain.do">Procurement</a></li>
 		</ul>
 		<ul style="margin-top: .25em;">
 			<li><a href="privacypolicyMain.do">Privacy Policy</a></li>
@@ -323,6 +329,5 @@ if ('ontouchstart' in document.documentElement) {
 		<p><a class="footerLogo3 logoText" href="/inet/aboutus-securityMain.do#lottery_scams" title="Be alert for lottery scams.">Be alert for lottery scams.</a></p>
 	</div>
 </div>
-
 
 </body></html>
