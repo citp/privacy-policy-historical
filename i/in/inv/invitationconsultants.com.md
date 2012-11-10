@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616232916id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110055050id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
