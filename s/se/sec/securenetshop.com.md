@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securenetshop.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518030524id_/http%3A//www.securenetshop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securenetshop.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110154855id_/http%3A//www.securenetshop.com/privacy.htm) for the most accurate reproduction.*
 
 # Securenetshop - shopping carts software, free merchant accounts, cart
 
