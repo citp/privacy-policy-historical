@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gannett.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510180217id_/http%3A//www.gannett.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gannett.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110102112id_/http%3A//gannett.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Gannett.com
 
