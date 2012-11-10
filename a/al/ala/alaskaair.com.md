@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510175750id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110064934id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Online Privacy Notice - Alaska Airlines
 
@@ -6,10 +6,11 @@ Alaska Airlines respects your concerns about privacy. This Privacy Notice applie
 
   * alaskaair.com 
   * m.alaskaair.com (mobile site)
+  * facebook.com/alaskaairlines
 
 
 
-  * Alaska Airlines mobile apps for Android, iOS, BlackBerry, and Windows Mobile
+  * Alaska Airlines mobile apps for Android, and iOS 
   * Alaska Airlines and Horizon Air Career Web sites
 
 
@@ -46,7 +47,9 @@ Our Web servers may log information such as your device and operating system typ
 
 To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our Mobile Apps.
 
-We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. To learn more about Omniture's services, including your opt-out options for the Omniture tools on our websites, [click here](http://www.omniture.com/en/privacy/product). To learn about opting out of Google Analytics, [click here](http://tools.google.com/dlpage/gaoptout). 
+We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. [Learn about Google Analytics](http://tools.google.com/dlpage/gaoptout)
+
+[ and how to opt out. ](http://tools.google.com/dlpage/gaoptout)
 
 ### How We Use the Information We Collect
 
