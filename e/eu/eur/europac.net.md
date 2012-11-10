@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europac.net privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608214014id_/http%3A//www.europac.net/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europac.net privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110055803id_/http%3A//www.europac.net/footer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Euro Pacific Capital
 
