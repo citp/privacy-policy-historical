@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beds.sg privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620155420id_/http%3A//www.beds.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beds.sg privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110220618id_/http%3A//www.beds.sg/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Shopping | Beds.sg
-
-#### You're currently on:
+# Privacy Policy | Online Shopping | Beds.sg | Furniture & Appliances | BEDS.sg
 
 **BEDS.sg's Commitment To Your Privacy**  
 Your privacy is very important to us. Hence we're providing this Statement to explain our online information collection and usage practices, as well as to inform you on the choices you can make about the way your information is collected and used on the Website. 
