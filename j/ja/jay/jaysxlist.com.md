@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaysxlist.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510092605id_/http%3A//jaysxlist.com/index.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaysxlist.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110092701id_/http%3A//jaysxlist.com/index.php%3Fprivacy) for the most accurate reproduction.*
 
 # Jaysxlist Montreal free ads, massage, escorts, dating
 
@@ -22,4 +22,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies. For any other information email 
 
-[webmaster](mailto:jay@jaysxlist.com)
+[webmaster ](mailto:jay@jaysxlist.com)
