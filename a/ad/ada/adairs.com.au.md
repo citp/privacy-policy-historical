@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522015038id_/http%3A//www.adairs.com.au/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110025943id_/http%3A//www.adairs.com.au/privacy-security) for the most accurate reproduction.*
 
 # None
-
-  
-
 
 The Privacy Act National Privacy Principles (amended 21 December 2001) imposed new regulations for the collection, use and disclosure of personal information, plus other matters including data quality and security, openness, access and correction. 
 
@@ -23,4 +20,6 @@ Security with Credit Cards and payments - Adairs Retail Group does not store or 
 
 All payments are processed via a 128bit SSL connection to eWay - Australia's leading payment gateway. For further security information on eWay you can visit their website www.eway.com.au
 
-We currently accept VISA, MASTERCARD and American Express transactions via our online store. 
+We currently accept VISA, MASTERCARD and American Express transactions via our online store.
+
+User generated content, such as product reviews and blog posts, will be moderated.  Our business and website have been built to be family friendly environments and commentary or content that we deem to be offensive, abusive, slanderous or defamatory will be removed from our site, or in the case of online reviews, not published.
