@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512030746id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110034520id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
 
-# Privacy Policy for Neeshu.com | Neeshu.com News Jokes comics games & articles cooking health & shayari
-
-## [Privacy Policy for Neeshu.com](http://neeshu.com/privacy-policy-for-neeshu-com "Permanent Link to Privacy Policy for Neeshu.com")
+# Privacy Policy | Neeshu.com News Reviews Jokes Comics games cooking & health blog
 
 **What information do we collect?**
 
