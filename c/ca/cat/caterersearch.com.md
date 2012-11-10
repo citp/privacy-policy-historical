@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528033618id_/http%3A//www.caterersearch.com/staticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110040745id_/http%3A//www.caterersearch.com/staticPages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | Caterer and Hotelkeeper
 
@@ -29,7 +29,7 @@ Statistical information
 
 Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information. 
 
-**Security**
+### **Security**
 
 Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls. 
 
@@ -187,23 +187,15 @@ In addition, third party advertisers run campaigns on catererandhotelkeeper.com.
 
 If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser.  
   
-******
+To contact us about the use of Cookies on this site please email [eucookies@rbi.co.uk](mailto:eucookies@rbi.co.uk) ****
 
-### Web Activity Reporting
+### **** ****
+
+ ******
+
+### Privacy information for job seekers
 
 **
-
-We use Hitbox analytics software from Omniture which requires a cookie in order to gather valuable information about how users navigate around the site. Click here for the [Omniture privacy policy](http://www.omniture.com/privacy). **Statistical information**  
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
-
-### **Commercial Advertising**
-
-**  
-**Please click this link<http://www.adtech.info/privacy_en.php> for the Privacy Policy statement of our advertisement content provider.  
- **  
-**
-
-### **Privacy information for job seekers**
 
 ****Some of our websites offer you the ability to create a profile and upload a CV to our database.   Your profile and CV may be then made available for searching, viewing over the Internet and downloading by our customers. These may be direct recruiters, employment consultants or other organisations.  Customers who request CVs matching your profile to be sent to them may receive your CV and profile via email or CD Rom.  Some of our customers may be located in countries outside the European Economic Area.Your CV can only be viewed by a customer if you have consented to this within the profile section. You can choose to prevent our customers from accessing your personal details, CV or profile. You can also choose to make your personal details and your CV anonymous, while having your profile available to be searched by recruiters.  You can then choose to reveal yourself when you reply. 
 
