@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mad4flash.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040455id_/http%3A//www.mad4flash.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mad4flash.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155328id_/http%3A//www.mad4flash.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Flash Games and Embed Code
 
