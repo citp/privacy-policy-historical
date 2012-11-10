@@ -1,100 +1,39 @@
-> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110202906id_/http%3A//playstudios.com/playstudios-privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Qurious, Inc. and <strong>PLAY</strong>STUDIOS Privacy Policy | myVEGAS
 
-**Go Daddy Respects Your Privacy**
+YOU ARE PARTICIPATING IN A BETA TRIAL OF THE VIVA MYVEGAS SERVICE. ANY ITEMS THAT YOU ACQUIRE THROUGH OR DURING THE BETA TRIAL MAY BE LOST AT THE END OF THE BETA TRIAL. WE WILL RETAIN, HOWEVER, ANY INFORMATION, INCLUDING PERSONAL INFORMATION, THAT WE COLLECT FROM YOU DURING THE BETA TRIAL. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Qurious, Inc. and/or **PLAY** STUDIOS, Inc. ("Qurious", " **PLAY** STUDIOS","we" "us" or "our") values your privacy and is committed to protecting your personal information. In this Privacy Policy ("Privacy Policy"), we describe the information collection, use, and disclosure practices of our Service and our Application, and the services offered on each (collectively, "Services"). By using any of our Services or visiting our Service or Application, you consent to the collection, storage, use and disclosure of your personal information as described in this Privacy Policy, which is incorporated by reference into the Qurious and **PLAY** STUDIOS Terms of Service. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### What Information Do We Collect Directly From You and Why?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The information we collect from you allows you to use our Services and helps us to provide our Services to you, send you information or content in which you may be interested, and also use this information to personalize and continually improve our Services. Here are the types of information we gather: **Information We Collect Directly From You.** We do collect information from you if you log in using your Facebook username and password. **Information that We Collect About You from Facebook.** Facebook controls the information collected from you during the log-in process; Qurious and **PLAY** STUDIOS do not control the information that Facebook collects from you. We will also ask that you grant us permission to (i) access and collect your Facebook basic information (this includes your name, profile picture, gender, networks, user IDs, list of friends, date of birth, email address, and any other information you have set to public on your Facebook account); (ii) send you email; (iii) post to your Wall; (iv) access posts in your news feed; and (v) access your Facebook data at any time even if you are not using Facebook. Please note, if you allow Qurious and **PLAY** STUDIOS to have access to this information, then Qurious and **PLAY** STUDIOS will have access to this information even if you have chosen not to make that information public. For information about how Facebook may disclose your information, including any information you make public, please consult the Facebook Privacy Policy. We have no control over how Facebook uses or discloses the personal information you provide to it. We store the information that we receive from Facebook along with other information that we collect from you or receive about you. 
 
-**Information Collection and Use**
+### How Do We Use Your Information?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use the information that we gather about you for the following purposes: o To provide our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, and for other customer service purposes. o To tailor the content and information that we may send or display to you, and to otherwise personalize your experiences while using our Services. o Where permitted by law, for marketing and promotional purposes; for example, we may use your information, such as your email address, to email you news and newsletters, special offers, and promotions; we may also use the information that we learn about you to determine where to assist us in advertising our Services on third party websites. o To better understand how users access and use our Services, both on an aggregated and individualized basis, for the purposes of improving our Services, analyzing player traffic and activity, and responding to user desires and preferences. o As required by law. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### When and How Do Qurious and **PLAY** STUDIOS Share Information They Receive? 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may share the information that we receive from you, including personally identifiable information, as follows: o **Qurious and **PLAY** STUDIOS Users.** Your username and any information that you post to Qurious and/or **PLAY** STUDIOS, including, without limitation, reviews, comments, scores, participation in the game, and other text will be available to all other Qurious and/or **PLAY** STUDIOS users. This information also will be searchable by all Qurious and/or **PLAY** STUDIOS users. o **Our Partners.** We may share certain information regarding your rewards with our partners. The partners will use this information solely for the purpose of determining your eligibility for the reward. Any information that you submit to a third party will be governed by that third party's website privacy policy and not this Privacy Policy. We do not share your personal information with our partners or other third parties for their direct marketing purposes. o **Service Providers.** We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf, including third parties that will assist us in responding to your inquiries. o **Business Transfers:** If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company. o **In Response to Legal Process.** We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena. o **To Protect Qurious, **PLAY** STUDIOS, and Others.** We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of our Terms of Use or this Policy. o **Aggregate and Anonymized Information.** We may share aggregate or anonymized information about users with third parties for marketing, advertising, research or similar purposes. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### How Secure Is Information About Me?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, SSL, firewalls, and internal restrictions on who may access data to protect our Service and the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security all of the time. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a password that nobody else knows or can easily guess, and keeping your password private. Also, you should never share your log-in information with others. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. To change your Facebook password, you must go to the Facebook site and follow its procedures for changing your password. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### Children Under 13
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Our Services are not designed for children under 13. We do not knowingly collect information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our systems. 
 
-**Security**
+### Terms of Service
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Your use of our Services, as well as any dispute over privacy, is subject to this Policy and our Terms of Service, including applicable limitations on damages and the resolution of disputes. 
 
-**Updating Your Information**
+### How to Contact Us About Privacy
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at info@myvegas.com or at: Attn: Privacy Department **PLAY** STUDIOS 10300 W. Charleston Blvd, Suite 13272 Las Vegas, NV 89135 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Changes to this Policy
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to our Policy on our Sites, at www.myvegas.com. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site. 
