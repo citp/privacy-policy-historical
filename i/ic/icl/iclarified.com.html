@@ -1,0 +1,399 @@
+<!--The following is the downloaded HTML source of the iclarified.com privacy policy that was archived on 2012-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110151653id_/http%3A//iclarified.com/about/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>iClarified - Privacy</title>
+<meta name="KEYWORDS" content="iClarified, iclarified, Apple, apple, news, rumors, mac, support, tutorials, help, iphone, ipad, jailbreak, unlock, firmware, ipsw, osx, appletv, dfu">
+<meta name="DESCRIPTION" content="News and tutorials to help you understand your Mac and other Apple Products">
+<meta name="AUTHOR" content="iClarified">
+<link href="/css/layout.css" rel="stylesheet" type="text/css">
+<link href="/rss/rss.xml" rel="alternate" type="application/rss+xml" title="iClarified">
+<link href="/rss/news.xml" rel="alternate" type="application/rss+xml" title="iClarified (News Only)">
+<link href="/rss/tutorials.xml" rel="alternate" type="application/rss+xml" title="iClarified (Tutorials Only)">
+
+<script type="text/javascript" src="/scripts/googleanalytics.js"></script> 
+<script type="text/javascript" language="javascript">
+
+var http_request = false;
+   
+function trim(str, chars) {
+    return ltrim(rtrim(str, chars), chars);
+}
+
+function ltrim(str, chars) {
+    chars = chars || "\\s";
+    return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+}
+
+function rtrim(str, chars) {
+    chars = chars || "\\s";
+    return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+}
+   
+   function makePOSTRequest(url, parameters, resultsFunc) {
+      http_request = false;
+      if (window.XMLHttpRequest) { // Mozilla, Safari,...
+         http_request = new XMLHttpRequest();
+         if (http_request.overrideMimeType) {
+         	// set type accordingly to anticipated content type
+            //http_request.overrideMimeType('text/xml');
+            http_request.overrideMimeType('text/html');
+         }
+      } else if (window.ActiveXObject) { // IE
+         try {
+            http_request = new ActiveXObject("Msxml2.XMLHTTP");
+         } catch (e) {
+            try {
+               http_request = new ActiveXObject("Microsoft.XMLHTTP");
+            } catch (e) {}
+         }
+      }
+      if (!http_request) {
+         alert('Cannot create XMLHTTP instance');
+         return false;
+      }
+      
+     // http_request.onreadystatechange = alertContents;
+	  
+	  http_request.onreadystatechange= function() { 
+        if (http_request.readyState==4)
+            if (http_request.status==200)
+                resultsFunc(http_request, url);
+      }
+	  
+      http_request.open('POST', url, true);
+      http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+      http_request.setRequestHeader("Content-length", parameters.length);
+      http_request.setRequestHeader("Connection", "close");
+      http_request.send(parameters);
+   }
+
+   function alertContents(http_request, url) {
+      if (http_request.readyState == 4) {
+         if (http_request.status == 200) {
+            //alert(http_request.responseText);
+            result = trim(http_request.responseText);
+			//alert(result);
+			if(result.substr(0, 5)=="error"){
+				document.getElementById('error').innerHTML = result.substr(6,100);     
+			}
+			else if(url=="/scripts/livesearch-entry.php"){
+				document.getElementById('searchresults').innerHTML = result;
+			}
+			else if(result.substr(0, 7)=="success"){
+				//location.href='addmedia.php';
+			}
+			else{
+            	//location.href='addmedia.php';
+				//alert(http_request.responseText);
+			}    
+			 
+         } else {
+            alert('There was a problem with the request.');
+         }
+      }
+   }
+
+function livesearch(event) {	
+
+	if (event.which == 13 || event.keyCode == 13) {
+            location.href="/search/results.php?terms=" + encodeURI( document.getElementById("searchfield").value );
+            return false;
+    }
+	
+	if(document.getElementById("searchfield").value!=''){
+		document.getElementById("searchclear").style.display='block';
+		document.getElementById("searchresults").style.display='block';
+	}
+	else{
+		document.getElementById("searchclear").style.display='none';
+		document.getElementById("searchresults").innerHTML='';
+		document.getElementById("searchresults").style.display='none';
+		return;
+	}
+	
+	var poststr = "q=" + encodeURI( document.getElementById("searchfield").value ) +
+                  "&laid=" + encodeURI( document.getElementById("laid").value );
+					
+    makePOSTRequest('/scripts/livesearch-entry.php', poststr, alertContents);
+	
+	
+}
+</script>
+
+<script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type="text/javascript">
+googletag.defineSlot('/1051941/Halfpage-General-ATF', [300, 600], 'div-gpt-ad-1346130686886-0').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Halfpage-General-BTF', [300, 600], 'div-gpt-ad-1346130686886-1').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Leaderboard-General-ATF', [728, 90], 'div-gpt-ad-1346130686886-2').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Leaderboard-General-BTF', [728, 90], 'div-gpt-ad-1346130686886-3').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Rectangle-General-ATF', [300, 250], 'div-gpt-ad-1346130686886-4').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Rectangle-General-BTF', [300, 250], 'div-gpt-ad-1346130686886-5').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Skyscraper-General-ATF', [160, 600], 'div-gpt-ad-1346130686886-6').addService(googletag.pubads());
+googletag.defineSlot('/1051941/Skyscraper-General-BTF', [160, 600], 'div-gpt-ad-1346130686886-7').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+
+</head>
+
+<body style="background-color: #f6f6f6;">
+	
+    <div id="navbar" style="position: relative; width: 100%; height: 22px; ">
+    		<div id="navbar_container" style="position: relative; width: 1020px; margin: 0 auto;">
+        	<div id="navbar_news" style="position: absolute; left: 5px; top: 6px; font-family: sans-serif; font-style: italic; font-size: 11px; color: #666;"></div><div id="navbar_login" style="position: relative; float: right; top: 6px; font: 11px sans-serif; color: #666;"><a style=" color: #666; text-decoration: none;" href="/login.php?referrer=%2Fabout%2Fprivacy.php">Login</a></div><div style="position: relative; float: right; top: 6px; margin-left: 5px; margin-right: 5px; height: 13px; width: 1px; background-color: #999;"></div><div id="navbar_login" style="position: relative; float: right; top: 6px; font: 11px sans-serif; color: #666;"><a style=" color: #666; text-decoration: none;" href="/register/index.php">Register</a></div>
+        </div>
+    </div>
+	<div style="position: relative; width: 1020px; height: 5px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div id="billboard" style="position: relative; width: 1020px; padding-top: 5px; margin: 0 auto;">
+       	<center>
+   			<!-- Leaderboard-General-ATF -->
+<div id="div-gpt-ad-1346130686886-2" style="width:728px;">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1346130686886-2');
+</script>
+</div>
+		</center>        
+	</div> <!-- billboard -->
+        
+    <div style="position: relative; width: 1020px; height: 0px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div id="menu_container" style="position: relative; left: 0px; height: 64px; width: 1020px; margin: 0 auto;">
+       	<div id="iclarified_logo" style="position: absolute; left: 0px; top: 12px;">
+			<a href="/finder/index.php" border="0" alt="iClarified"><img src="/images/menu/iClarified-menu-retina.png" border="0" width="200" alt="iClarified" title="iClarified"></a>
+        </div> <!-- iclarified_logo -->
+
+		<div id="menu" style="position: absolute; left: 357px; top: 10px; width: 305px; height: 64px;">
+    		<div id="v1" style="display:none; position: absolute; left: 0px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+       		<div id="news" style="position: absolute; left: 20px; top: 7px;">
+       			<a href="/news/index.php" title="iClarified News"><img src="/images/menu/news-64.png" border="0" width="32" alt="iClarified News" title="iClarified News"></a>
+   			</div>
+       		<div id="newstext" style="position: absolute; left: 24px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><a class="menulink" href="/news/index.php" title="iClarified News">News</a></div>
+        	<div id="v2" style="display:none; position: absolute; left: 76px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+        	<div id="tutorials" style="position: absolute; left: 100px; top: 8px;">
+       			<a href="/tutorials/index.php" title="iClarified Tutorials"><img src="/images/menu/tutorials-64.png" border="0" width="32" alt="iClarified Tutorials" title="iClarified Tutorials"></a>
+    		</div>
+       		<div id="tutorialstext" style="position: absolute; left: 94px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><a class="menulink" href="/tutorials/index.php" title="iClarified Tutorials">Tutorials</a></div>
+       		<div id="v3" style="display:none; position: absolute; left: 152px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+        	<div id="answers" style="position: absolute; left: 176px; top: 9px;">
+        		<a href="/answers/index.php" title="iClarified Answers"><img src="/images/menu/answers-64.png" border="0" width="32" alt="iClarified Answers" title="iClarified Answers"></a>
+    		</div>
+       		<div id="answerstext" style="position: absolute; left: 172px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><a class="menulink" href="/answers/index.php" title="iClarified Answers">Answers</a></div>
+        	<div id="v4" style="display:none; position: absolute; left: 228px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+       		<div id="wizards" style="position: absolute; left: 250px; top: 6px;">
+       			<a href="/wizards/index.php" title="iClarified Wizards"><img src="/images/menu/wizards-64.png" border="0" width="32" alt="iClarified Wizards" title="iClarified Wizards"></a>
+    		</div>
+       		<div id="wizardstext" style="position: absolute; left: 247px; top: 45px; font-family: 'Myriad Pro', sans-serif; font-size: 11px; color: #666;"><a class="menulink" href="/wizards/index.php" title="iClarified Wizards">Wizards</a></div>
+       		<div id="v5" style="display:none; position: absolute; left: 304px; top: 16px; height: 32px; width: 1px; background: black; background: -webkit-gradient(linear, 0 0, 0 100%, from(#ccc), to(#ccc), color-stop(50%, #ccc)); background: -moz-linear-gradient(top, #ccc 00%, #ccc 50%, #ccc 100%);"></div>
+    	</div><!-- menu -->
+        
+        <div id="searchborder" style="position: absolute; right: 0px; top: 39px; width: 200px; height: 24px; border: 1px solid; border-color: #bbb; border-radius: 13px; -webkit-border-radius: 13px; -moz-border-radius: 13px; -o-border-radius: 13px; -khtml-border-radius: 13px; background-color: #fff; -webkit-box-shadow: inset 0 1px 1px -1px #999; -moz-box-shadow: inset 0 1px 1px -1px #999k; box-shadow: inset 0 1px 1px -1px #999;">
+			<div id="searchicon" style="position: absolute; left: 8px; top: 5px;">
+        		<a href="/search/index.php"><img src="/images/index/search_icon.png" alt="Search iClarified" title="Search iClarified" border="0" width="14"></a>
+        	</div> <!-- end of searchicon div -->
+            <div id="searchclear" style="display: none; position: absolute; top: 5px; right: 10px; width: 14px; height: 14px; cursor: pointer; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAeZJREFUeNrMVl2KwjAQTkMRH6TUdV3Xx3oRPcLuDewN7En0BnoDPYJeRB9cF1wX7IOIiMjmK0lMa5vGn8J+MJSYmC/zzUwyFsnBfL5w2afLrM2sw8xNLAmZTZnNmI1aLS/U7WflEPU52S0YMQuyiK0Msg/2GaZ4YwqQ+Yx0kpygKWTwavwAGeH/HfO9sj3kC3rkuRgwT4MrQi7jmBSDTyGvpSTI4kEZ82LqIZFEDPsFkomYRvG0uHfbtFWUUlIqleT4fD6T4/Eox7ZtRyZwOp0i06Bq6+oMBLXaiyTFeLn8ir5As/kuCUG0Wn3nedql/AbJxGbzG/MYBwAqlUrMu/X6Rx5Egzbl11UmIGEYXi4NEJXLZVKtXkKOeVVqDTrUJFm22/iGjcab9A6/Y940eajpSkgrJIO0IqaQ8hYYE8KTZAaC0CBu9xE6jhMrEVEWaixNCXMDkNx4v9/HDoIkMr1xKH88tajXX2XcDodDFDdVXlEqBphS/lJrpVQ9EBmpZiakNpR2RvkLnQpspJ4eUsJDYLfbxUrFdd2rGKd1A+K1GN7RStwK9Du+yNLAJHkefJ4CWRa84fELJPRFUyXrkL/IgwLIBmozZWU0Ub0nkgX/q01U5PV0JZPTCHtpZNrOu6hW/0+AAQADWtMDxdNKxQAAAABJRU5ErkJggg==); background-size: contain;" onclick="document.getElementById('searchfield').value=''; document.getElementById('searchresults').innerhtml=''; document.getElementById('searchresults').style.display='none'; this.style.display='none';"></div> <!-- end of searchclear -->
+        	<input id="searchfield" style="position: relative; left: 30px; top: 3px; width: 140px; height: 16px; font-family: sans-serif; color: #333; font-style: normal; font-size: 14px; border: 0;" value="" placeholder="Search" border="0" onkeyup="livesearch(event);"> <input id="laid" name="laid" type="hidden" value="">
+            
+    	</div> <!-- end searchborder div -->
+        
+	</div> <!-- menu_container-->    
+    <div style="position: relative; width: 1020px; height: 10px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div class="content" style="position: relative; background-color: #fff; width: 1020px; margin: 0 auto; overflow: hidden;">
+    
+    	<div style="position: absolute; left: 679px; height: 100%; width: 1px; background-color: #ccc;"></div> <!-- vert column line -->
+        
+        <div style="position: absolute; left: 680px; height: 100%; width: 340px; background-color: #fcfcfc;"></div> <!-- right column background -->
+    
+    	<div id="left_column" style="position: relative; float: left; min-height: 1530px; width: 680px;">
+        	
+            <div style="position: relative; width: 1020px; height: 20px; margin: 0 auto;">
+			</div> <!-- spacer -->
+        
+        	<div id="privacy_title" style="position: relative; left: 20px; height: 36px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;">					
+            		<div style="position: relative; top: 2px; float: left;"><img src="/images/menu/iC-40.png" border="0" width="20" alt="iClarified Privacy" title="iClarified Privacy"></div>
+                    <div style="position: relative; float: left; width: 15px; height: 10px;"></div>
+                    <div style="position: relative; float: left;"><strong>Privacy</strong></div>
+            </div>
+        
+        	<div style="position: relative; width: 1020px; height: 10px; margin: 0 auto;">
+			</div> <!-- spacer -->
+            
+            <div style="position: relative; width: 680px; height: 1px; background-color: #ccc;">
+            </div> <!-- horz line -->
+            
+            <div id="privacy" style="position: relative; left: 20px; top: 20px; width: 640px; font: 14px/17px sans-serif;">	
+				<!-- START PRIVACY POLICY CODE --><strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.<br><br>Google, as a third party vendor, uses cookies to serve ads on your site.
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>; To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>; To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>; To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>; To administer a contest, promotion, survey or other site feature<br><br>; To send periodic emails<br><blockquote>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</blockquote><br>Note: If at any time you would like to unsubscribe from receiving future emails, you may visit http://www.iClarified.com/newsletter to remove yourself from our mailing list..<br><br><br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. <br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br><br> We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Account' page.<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our <a style="text-decoration:none; color:#3C3C3C;" href="http://www.freeprivacypolicy.com/" target="_blank">web site privacy policy</a>.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page. <br><br>This policy was last modified on August 10, 2012<br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>http://www.iClarified.com<br>support@iClarified.com<br><br><br><br><span></span><span></span><span></span><span></span><span></span><!-- END PRIVACY POLICY CODE -->	
+				
+            </div>
+                    
+                    <div style="position: relative; width: 680px; height: 20px;">
+                    </div><!-- spacer -->
+        
+        <div id="left_column_bottom" style="position: relative; width: 680px; height: 0px; margin: 0 auto;">
+		</div> <!-- spacer -->	
+            
+    	</div> <!-- left_column -->
+        
+        <div id="right_column" style="position: relative; float: left; width: 340px;">
+        
+        	<div id="searchresults" class="searchresults" style="display:none; position: absolute; left: 0px; top: 0px; width: 335px;
+    background-color: white; z-index:10; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;"></div>
+           	
+        	<div style="position: relative; width: 340px; height: 20px; margin: 0 auto;">
+			</div> <!-- spacer -->
+            
+            <div id="follow_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;">		<strong>Follow</strong> iClarified</div>
+            	
+            <div style="position: relative; width: 340px; height: 5px; margin: 0 auto;">
+			</div> <!-- spacer -->
+			
+			<div id="follow_buttons" style="position: relative; left: 20px; height: 80px; width: 300px;">
+            	<div style="height: 28px; overflow: hidden;"><iframe src="http://www.facebook.com/plugins/like.php?app_id=160818093984092&amp;href=http%3A%2F%2Fwww.facebook.com%2FiClarified&amp;send=false&amp;layout=standard&amp;width=235&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:38px;" allowtransparency="true"></iframe>
+                </div>
+	          	<div style=""><a href="http://twitter.com/iClarified" class="twitter-follow-button">Follow @iClarified</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+<div style="float: left; width: 55px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="../rss/rss.xml" class="btn_rss" alt="RSS" title="RSS" target="_blank"><i></i><span class="label">RSS</span></a></div>
+<div style="float: left; width: 70px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="http://itunes.apple.com/us/app/iclarified/id388040325?mt=8" class="btn_app" alt="iClarified iPhone App Store" title="iClarified iPhone App Store" target="_blank"><i></i><span class="label">App Store</span></a></div>
+<div style="float: left; width: 52px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="http://www.youtube.com/iClarified" class="btn_youtube" alt="iClarified YouTube Channel" title="iClarified YouTube Channel" target="_blank"><i></i></a></div>
+<div style="float: left; width: 65px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="/register/index.php" class="btn_newsletter" alt="iClarified Newsletter" title="iClarified Newsletter" target="_blank"><span class="label">Newsletter</span></a></div>
+<div style="float: left; width: 20px; height: 20px; margin-top: 3px; margin-right: 7px;"><a href="https://plus.google.com/109311331263635361417?prsrc=3" target="_blank" alt="iClarified Google+" title="iClarified Google+"><img src="/images/icons/googleplus-64.png" height="20" border="0"></a></div>
+				
+				</div> <!-- follow_buttons -->            
+            	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+        
+        		<div id="horizontalline" style="position: relative; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+            
+            	<div id="sendusatip_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', Verdana, sans-serif; font-size: 22px; color: #333;"><a href="/tips/index.php" title="Send Us a Tip" style="color: #333; text-decoration: none;"><strong>Send Us a Tip</strong></a>
+                </div>
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+            
+            	<div id="horizontalline" style="position: relative; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="ad_rect1" style="position: relative; left: 20px; width: 300px; min-height: 250px;">
+            		<!-- Halfpage-General-ATF -->
+<div id="div-gpt-ad-1346130686886-0" style="width:300px;">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1346130686886-0');
+</script>
+</div>
+            	</div> <!--ad_rect1-->
+            
+            	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="horizontalline" style="position: relative; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 15px;">
+				</div> <!-- spacer -->
+                        
+        		<div id="trending_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;"><a href="/entries/index.php" title="Trending" style="color: #333; text-decoration: none;"><strong>Trending</strong></a>
+                </div>
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+            
+            	<div id="trending" style="position: relative; left: 0px; width: 340px;">	
+				<div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/8500/where-to-download-ipad-firmware-files-from" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Where To Download iPad Firmware Files From" title="Where To Download iPad Firmware Files From" src="/images/icons/ipad-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/8500/where-to-download-ipad-firmware-files-from" class="trending">Where To Download iPad Firmware Files From</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Where to find the direct links to the iPad Fi...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/25620/walmart-employees-fired-for-throwing-ipads-video" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Walmart Employees Fired For Throwing iPads [Video]" title="Walmart Employees Fired For Throwing iPads [Video]" src="/images/news/25620/97299/97299-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25620/walmart-employees-fired-for-throwing-ipads-video" class="trending">Walmart Employees Fired For Throwing iPads [Video]</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Several Walmart employees recorded themselves...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/25618/iphone-5-diagonal-swiping-bug-video" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="iPhone 5 Diagonal Swiping Bug? [Video]" title="iPhone 5 Diagonal Swiping Bug? [Video]" src="/images/news/25618/97286/97286-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25618/iphone-5-diagonal-swiping-bug-video" class="trending">iPhone 5 Diagonal Swiping Bug? [Video]</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">CMA Megacorp, game developers, have reportedl...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/25623/tiger-woods-pga-tour-12-gets-iphone-5-support" border="0"><img style="position: absolute; cursor: pointer; top: 8.7499999999419px; left: 20.749999999942px;  width: 46.500000000116px; height: 46.500000000116px;" alt="Tiger Woods PGA TOUR 12 Gets iPhone 5 Support" title="Tiger Woods PGA TOUR 12 Gets iPhone 5 Support" src="/images/news/25623/97303/97303-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25623/tiger-woods-pga-tour-12-gets-iphone-5-support" class="trending">Tiger Woods PGA TOUR 12 Gets iPhone 5 Support</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">EA Sports has updated Tiger Woods PGA TOUR 12...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/25619/usb-hub-to-match-your-apple-keyboard" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="USB Hub to Match Your Apple Keyboard" title="USB Hub to Match Your Apple Keyboard" src="/images/news/25619/97288/97288-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25619/usb-hub-to-match-your-apple-keyboard" class="trending">USB Hub to Match Your Apple Keyboard</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Check out this USB Hub that has been designed...</div></div></div>                	</div> <!--trending -->
+            
+            	<div style="position: relative; width: 340px; height: 0px;">
+				</div> <!-- spacer -->
+            
+        		<div style="position: relative; width: 341px; height: 1px; background-color: #ccc;">
+                </div> <!-- horz line -->
+               
+               	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="ad_rect2" style="position: relative; left: 20px; width: 300px; min-height: 250px;">
+					<!-- Halfpage-General-BTF -->
+<div id="div-gpt-ad-1346130686886-1" style="width:300px;">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1346130686886-1');
+</script>
+</div>
+            	</div> <!--ad_rect2-->
+            
+            	<div style="position: relative; width: 340px; height: 20px;">
+				</div> <!-- spacer -->
+            
+            	<div id="horizontalline" style="position: relative; width: 341px; height: 1px; background-color: #ccc;"></div>
+            
+            	<div style="position: relative; width: 340px; height: 15px;">
+				</div> <!-- spacer -->
+                        
+        		<div id="mostrecent_title" style="position: relative; left: 20px; font-family: 'Myriad Pro', sans-serif; font-size: 24px; color: #333;"><a href="/entries/index.php" title="Most Recent" style="color: #333; text-decoration: none;"><strong>Most Recent</strong></a>
+                </div> <!-- mostrecent_title -->
+            
+            	<div style="position: relative; width: 340px; height: 10px;">
+				</div> <!-- spacer -->
+                
+                 <div id="mostrecent" style="position: relative; left: 0px; width: 340px;">	
+				<div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/25623/tiger-woods-pga-tour-12-gets-iphone-5-support" border="0"><img style="position: absolute; cursor: pointer; top: 8.7499999999419px; left: 20.749999999942px;  width: 46.500000000116px; height: 46.500000000116px;" alt="Tiger Woods PGA TOUR 12 Gets iPhone 5 Support" title="Tiger Woods PGA TOUR 12 Gets iPhone 5 Support" src="/images/news/25623/97303/97303-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25623/tiger-woods-pga-tour-12-gets-iphone-5-support" class="mostrecent">Tiger Woods PGA TOUR 12 Gets iPhone 5 Support</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">EA Sports has updated Tiger Woods PGA TOUR 12...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/25622/foxconn-considers-establishing-manufacturing-plants-in-the-us" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Foxconn Considers Establishing Manufacturing Plants in the U.S.?" title="Foxconn Considers Establishing Manufacturing Plants in the U.S.?" src="/images/news/25622/97300/97300-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25622/foxconn-considers-establishing-manufacturing-plants-in-the-us" class="mostrecent">Foxconn Considers Establishing Manufacturing Plants in the U.S.?</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Foxconn is reportedly planning to establish m...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/25620/walmart-employees-fired-for-throwing-ipads-video" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="Walmart Employees Fired For Throwing iPads [Video]" title="Walmart Employees Fired For Throwing iPads [Video]" src="/images/news/25620/97299/97299-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25620/walmart-employees-fired-for-throwing-ipads-video" class="mostrecent">Walmart Employees Fired For Throwing iPads [Video]</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Several Walmart employees recorded themselves...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #ffffff;"><a href="/25619/usb-hub-to-match-your-apple-keyboard" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="USB Hub to Match Your Apple Keyboard" title="USB Hub to Match Your Apple Keyboard" src="/images/news/25619/97288/97288-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25619/usb-hub-to-match-your-apple-keyboard" class="mostrecent">USB Hub to Match Your Apple Keyboard</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">Check out this USB Hub that has been designed...</div></div></div><div style="position: relative; top:0px; left: 0px; width: 340px; height: 64px;background-color: #f6f6f6;"><a href="/25618/iphone-5-diagonal-swiping-bug-video" border="0"><img style="position: absolute; cursor: pointer; top: 7.99999999994px; left: 19.99999999994px;  width: 48.00000000012px; height: 48.00000000012px;" alt="iPhone 5 Diagonal Swiping Bug? [Video]" title="iPhone 5 Diagonal Swiping Bug? [Video]" src="/images/news/25618/97286/97286-128.png" border="0"></a><div style="position: absolute; left: 85px; width: 240px; height: 64px;"><div style="position: relative; left: 0px; top: 8px; font-family: sans-serif; font-size: 12px;"><a href="/25618/iphone-5-diagonal-swiping-bug-video" class="mostrecent">iPhone 5 Diagonal Swiping Bug? [Video]</a></div><div style="position: relative; left: 0px; top: 10px; color: #999999; font-family: sans-serif; font-size: 10px; -webkit-text-size-adjust: none;">CMA Megacorp, game developers, have reportedl...</div></div></div>                	</div> <!--mostrecent-->
+                    
+            <div style="position: relative; width: 340px; height: 0px;">
+			</div> <!-- spacer -->
+            
+    	</div> <!-- right_column -->
+        
+        <div style="position: relative; clear: both; height: 1px; width: 1px; left: 1px; height: 1px;"></div> <!-- clear both -->
+        
+    </div> <!--content-->
+    
+    <div style="position: relative; width: 1020px; height: 10px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+    <div id="leaderboard" style="position: relative; width: 1020px; margin: 0 auto;">
+       	<center>
+   			<!-- Leaderboard-General-BTF -->
+<div id="div-gpt-ad-1346130686886-3" style="width:728px;">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1346130686886-3');
+</script>
+</div>
+        </center>    
+	</div> <!-- leaderboard -->
+
+	<div style="position: relative; width: 1020px; height: 20px; margin: 0 auto;">
+	</div> <!-- spacer -->
+    
+	<div id="footer" style="position: relative; width: 1020px; height: 32px; margin: 0 auto;">
+	<div style="position: absolute; left: 0px; top: 0px; font-family: sans-serif; font-size: 10px; color: #999;"><a href="/advertising/index.php">Advertise on iClarified</a> | <a href="/tips/index.php">Send Us a Tip</a> | <a href="/contactus/index.php">Contact</a></div>
+    <div style="position: absolute; right: 45px; top: 0px; font-family: sans-serif; font-size: 10px; color: #999;"><a href="/finder/index.php">Finder</a> | <a href="/news/index.php">News</a> | <a href="/tutorials/index.php">Tutorials</a> | <a href="/answers/index.php">Answers</a> | <a href="/wizards/index.php">Wizards</a> | <a href="/search/index.php">Search</a></div>
+    <div style="position: absolute; right: 45px; top: 24px; font-family: sans-serif; font-size: 10px; color: #999;"><a href="/comments/index.php">Comments</a> | <a href="/bookmarks/index.php">Bookmarks</a> | <a href="/calendar/index.php">Calendar</a> | <a href="/rss/index.php">RSS</a> | <a href="/newsletter/index.php">Newsletter</a> | <a href="/account/index.php">Account</a></div>
+    <div style="position: absolute; left: 0px; top: 16px; width: 980px; height: 1px; background-color: #CCC;"></div>
+    <div style="position: absolute; left: 0px; top: 24px; font-family: sans-serif; font-size: 10px; color: #999;">Copyright © iClarified. All rights reserved. <a href="/about/privacy.php">Privacy</a>.</div>
+    <div style="position: absolute; right: 0px; top: 0px;"><img src="/images/spacer.gif" width="32" border="0"></div>
+</div>  	
+    <div style="position: relative; width: 1020px; height: 40px; margin: 0 auto;">
+	</div> <!-- spacer -->
+
+
+
+</body></html>
