@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justdwl.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510182106id_/http%3A//justdwl.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdwl.net privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110153624id_/http%3A//justdwl.net/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Just DWL - Your Daily Cup of Laughter
+# Privacy Policy - Just DWL | The Ultimate Trolling | Mind Games | Funny Photos
 
-## Privacy Policy for Just DWL - Your Daily Cup of Laughter
+## Privacy Policy for Just DWL | The Ultimate Trolling | Mind Games | Funny Photos
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at damnlol.com{at}gmail.com
 
