@@ -1,26 +1,25 @@
-> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511174340id_/http%3A//www.privateislandsonline.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155013id_/http%3A//www.privateislandsonline.com/privacy) for the most accurate reproduction.*
 
-# Private Islands Online Privacy Policy
+# Private Islands Online - Privacy Policy
 
-##  Privacy Policy 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
 
-  * All inquiries sent through Private Islands Online are sent to the island's owner or agent. 
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
-  * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We will only retain personal information as long as necessary for the fulfillment of those purposes.
 
+We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
 
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+    We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-**How to Contact Us**  
-If you have questions about this Privacy Policy, please contact us using the information listed on our "[Contact Us](http://web.archive.org/contact.htm)" page. For technical questions about the operation of this Web site, please contact us at [info@privateislandsinc.com.com  
-](mailto:info@privateislandsinc.com)
+    We will make readily available to customers information about our policies and practices relating to the management of personal information.
+
+    Google, as a third party vendor, uses cookies to serve ads on your site.
+
+    Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
+    Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
