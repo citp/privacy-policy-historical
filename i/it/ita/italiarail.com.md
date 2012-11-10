@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511065359id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110165048id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ItaliaRail - Italy Train Ticket and Rail Pass Experts
 
