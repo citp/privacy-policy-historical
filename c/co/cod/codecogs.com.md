@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codecogs.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512014744id_/http%3A//www.codecogs.com/pages/agreements/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecogs.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110032134id_/http%3A//www.codecogs.com/pages/agreements/privacy_policy.php) for the most accurate reproduction.*
 
 # CodeCogs - Privacy Policy
 
@@ -74,7 +74,7 @@ This data will be used for the following purposes:
 
 This data will be used by ourselves and our agents. 
 
-The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to information about your login details (if you select this option) and also to identify your shopping cart when you are not logged in.
+The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. For the most part cookies are use to remember your personal preferences on pages where there options (i.e. default modes in the equation editor). We also use cookies to allow our servers to maintain your login-state between pages and also to identify your shopping cart when you are not logged in.
 
 ### Group "Transaction info (required)"
 
