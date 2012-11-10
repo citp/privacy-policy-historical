@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outrate.co.uk privacy policy that was archived on 2012-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120405015548id_/http%3A//www.outrate.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outrate.co.uk privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110024926id_/http%3A//www.outrate.co.uk/home/ctl/privacy.aspx) for the most accurate reproduction.*
 
-# OutRate.co.uk : Comparison Shopping for Stores and Brands
+# OutRate.co.uk: Discovery Shopping & Money Saving
 
 Outrate is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Outrate Web site and governs data collection and usage. By using the Outrate website, you consent to the data practices described in this statement.
 
