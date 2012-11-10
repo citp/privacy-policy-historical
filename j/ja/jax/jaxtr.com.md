@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaxtr.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421121457id_/http%3A//www.jaxtr.com/user/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaxtr.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155743id_/http%3A//www.jaxtr.com/user/privacypolicy.jsp) for the most accurate reproduction.*
 
 # jaxtr - privacy policy
 
@@ -8,7 +8,7 @@ Recent updates to this Privacy Policy
 
 ## About jaxtr
 
-Jaxtr is a social communications service provided at [www.jaxtr.com](https://web.archive.org/web/20120421121457id_/http%3A//www.jaxtr.com/user/www.jaxtr.com) and its directly associated domains and widgets (collectively, "jaxtr" or "Service"). This Privacy Policy explains what information of yours will be collected by jaxtr and how such information will be used. By using or accessing jaxtr, you are accepting the practices described in this Privacy Policy. 
+Jaxtr is a social communications service provided at [www.jaxtr.com](https://web.archive.org/web/20121110155743id_/http%3A//www.jaxtr.com/user/www.jaxtr.com) and its directly associated domains and widgets (collectively, "jaxtr" or "Service"). This Privacy Policy explains what information of yours will be collected by jaxtr and how such information will be used. By using or accessing jaxtr, you are accepting the practices described in this Privacy Policy. 
 
 Jaxtr cares deeply about online privacy. If you have any questions concerning this privacy policy, please contact us in writing by visiting our [Support site](http://support.jaxtr.com/index.php?departmentid=5&_m=tickets&step=1&_a=submit&subject=Privacy_Issue).
 
