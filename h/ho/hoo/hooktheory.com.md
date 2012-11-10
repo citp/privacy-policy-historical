@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512111454id_/http%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110093026id_/http%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Hooktheory
+# Privacy - Hooktheory
 
-### Updated as of October 19, 2011
+### Policy last updated October 19, 2011
 
 Hooktheory.com is committed to protecting your privacy and ensuring that you have a positive experience on our website. We know that you care how information about you is used and shared. We value your trust and we will take all reasonable steps to ensure that your personal information is managed carefully and sensibly.
 
