@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picaflor-azul.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512204711id_/http%3A//www.picaflor-azul.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picaflor-azul.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155417id_/http%3A//www.picaflor-azul.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Custom Zen Cart Design, Ecommerce Web Design, Zen Cart Templates, by Picaflor Azul
 
