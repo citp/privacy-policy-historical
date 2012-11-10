@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateshows.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510064408id_/http%3A//www.realestateshows.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateshows.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110165838id_/http%3A//www.realestateshows.com/privacy.php) for the most accurate reproduction.*
 
 # Real Estate Shows
 
