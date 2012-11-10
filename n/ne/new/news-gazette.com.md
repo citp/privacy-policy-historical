@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528021340id_/http%3A//www.news-gazette.com/section/services/online-services/news-gazette-online-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110154822id_/http%3A//www.news-gazette.com/section/services/online-services/news-gazette-online-privacy-policy.html) for the most accurate reproduction.*
 
 # The News-Gazette Online Privacy Policy | News-Gazette.com
 
