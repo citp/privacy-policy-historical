@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the iwantmyname.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617182443id_/http%3A//iwantmyname.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantmyname.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110031936id_/http%3A//iwantmyname.com/privacy) for the most accurate reproduction.*
 
 # Domain name privacy Policy
-
-Based on the ICANN privacy policy model. This is how we will handle information you provide during your visit to our website.
-
-* * *
 
 In visiting our site, you may be required to provide information to
 
