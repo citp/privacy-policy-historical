@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the uitvconnect.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520183631id_/http%3A//www.uitvconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uitvconnect.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110161459id_/http%3A//www.uitvconnect.com/privacy) for the most accurate reproduction.*
 
-# Privacy | UITV
+# Welcome to UITV Internet Television, High Definition Internet Television, Online Movie Trailers, Live Telecast Matches, Music, Entertainment, Lifestyle Videos, Online Movies
 
 ### UITV Privacy Policy
 
 The UITV Privacy Policy describes how UITV and its subsidiaries treat personal information when you use UITV services, including information provided when you use UITV.
 
-In addition, the following describes privacy practices specific to UITV. Personal Information Browsing UiTV You can watch videos on UiTV without having a UiTV Account. You can also contact us through the UiTV Help Centre or by emailing us at [enquires@uitv.com](http://mailto:enquires@uitv.com/) directly, without having to register for an account.
+In addition, the following describes privacy practices specific to UITV. Personal Information Browsing UiTV You can watch videos on UiTV without having a UiTV Account. You can also contact us through the UiTV Help Centre or by emailing us at [marketing@uitvconnect.com ](http://mailto:marketing@uitvconnect.com/) directly, without having to register for an account.
 
 Your UiTV Account. For some activities on UiTV, such as uploading videos, posting comments, flagging videos or watching restricted videos, you need a UiTV Account. We ask for some personal information when you create an account, including your email address and a password, which is used to protect your account from unauthorised access. Usage Information.
 
@@ -27,18 +27,6 @@ We do not use your email address or other personal information to send commercia
 We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major UiTV changes or for customer service purposes).
 
 You can also choose how often UiTV sends you email updates in your UiTV Account settings page.
-
-We use cookies, web beacons and log-file information to:
-
-(a) store information so that you will not have to re-enter it during your visit or the next time that you visit UiTV;
-
-(b) provide custom, personalised content and information;
-
-(c) monitor the effectiveness of our marketing campaigns;
-
-(d) monitor aggregate metrics such as total number of visitors and pages viewed; and
-
-(e) track your entries, submissions and status in promotions, sweepstakes and contests.
 
 **Information**
 
@@ -70,10 +58,62 @@ Advertisers may serve ads based on interests associated with non-personally iden
 
 Advertisers may also serve ads to you based on previous activity on that advertiser's website. This non-personally identifiable information is held separately from your UITV Account data or other personally identifying information in our possession. You may also choose to opt out of the cookies at any time.
 
-Contact us to find more information about opting out of cookies.
+**Cookies**
+
+The UiTV Connect website (the "Website") uses cookies to deliver a better and more personalised service to users.  
+ 
+
+This Cookies Policy explains what cookies are, how they are used on the Website and how to manage their use.  
+ 
+
+What is a Cookie?  
+Cookies are small text files containing small amounts of information which are sent to and stored on your computer, smartphone or other device when you access a website. Cookies are then sent back to the originating website on each subsequent visit or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.  
+ 
+
+You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/). A video about cookies can be found at [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).  
+ 
+
+Use of Cookies on the Website  
+Cookies are used on the Website for a number of reasons. This includes, but is not limited to, the following:
+
+  * to allow users to log on to their UiTV Connect account;
+  * to allow users to choose log-in preferences;
+  * to monitor and collect information about transactions placed on the Website; and
+  * for fraud prevention purposes and to generally safeguard privacy.
+
+
+
+  
+Cookies are generally used to improve and enhance the user experience. Some of the cookies we use are essential for the Website to operate.  
+ 
+
+UiTV Connect’s use of cookies on the Website falls into the following categories:  
+ 
+
+**Session Management** \- these cookies are essential to enable use of the Website, they manage session information and enable users to navigate through the Website.  
+ 
+
+**Functionality** \- these cookies store information which enables us to remember user preferences e.g. preferred language, sort types, media settings. They are also used to improve user's experience by, for example, stopping users from being shown the same message twice.  
+ 
+
+**Fraud Prevention** \- these cookies store information which help us stop fraudulent use of the Website.  
+ 
+
+**Tracking** \- these cookies enable us to store information about how users landed on the Website. We need to record this so that we can appropriately pay our Affiliates.  
+ 
+
+Where links are provided on the Website to third party websites it is important to remember that those websites will have their own cookies and privacy policies which will govern any information you may submit. If you decide to use any linked third party websites please read their cookies and privacy policies before doing so.  
+ 
+
+Managing Cookies  
+If you want to delete any cookies already stored on your computer or stop the cookies that keep track of your browsing patterns on the Website you can do so by deleting your existing cookies and/or altering your browser's privacy settings (the process you follow will differ from browser to browser). If you would like more information on how to disable cookies or change your privacy settings please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). Your browser's 'help' function should also tell you how to do this.  
+ 
+
+Please note that deleting our cookies or disabling our future cookies means that you may not be able to access certain areas or features of the Website. For example, if your browser is set to disable 'session' cookies you won't be able to log on to your UiTV Connect account.  
+ 
 
 Other third-party ad-serving companies may display ads on UITV, provided that they comply with our ad-serving requirements. UITV does not provide any personal information to these third-party ad servers or ad networks without your consent. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt out of certain practices.
 
-UITV privacy policy does not apply to and we cannot control the activities of such other advertisers or websites. Any data obtained by third-party ad servers subsequently shared with UITV are maintained and dealt with by UITV in accordance with this privacy policy. More Information For questions concerning the product or your account, please contact us at [enquiries@uitvconnect.com ](http://mailto:enquiries@uitvconnect.com/)
+UITV privacy policy does not apply to and we cannot control the activities of such other advertisers or websites. Any data obtained by third-party ad servers subsequently shared with UITV are maintained and dealt with by UITV in accordance with this privacy policy. More Information For questions concerning the product or your account, please contact us at [marketing@uitvconnect.com ](http://mailto:marketing@uitvconnect.com/)
 
-For more information about our privacy practices, write to us at: please send to [enquiries@uitvconnect.com](http://mailto:enquiries@uitvconnect.com/)
+For more information about our privacy practices, write to us at: please send to [marketing@uitvconnect.com ](http://mailto:marketing@uitvconnect.com/)
