@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wicked.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121105350id_/http%3A//www.wicked.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wicked.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110224136id_/http%3A//www.wickedpictures.com/policy/privacy.php%3Fsite%3Dwkdpics) for the most accurate reproduction.*
 
-# Customer Terms and Conditions
+# Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Wickedpictures.com network ("our", "we", "us", the "site") websites including but not limited to Wickedpictures.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Wickedpictures network ("our", "we", "us", the "site") websites including but not limited to Wickedpictures. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
 
 ## USE
 
@@ -67,3 +67,5 @@ This privacy policy may be changed, modified or edited at any time. It is the su
 ## TERMS AND CONDITIONS OF MEMBERSHIP
 
 Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
+
+[WickedPictures.com](http://www.wickedpictures.com/tour/ "WickedPictures.com")
