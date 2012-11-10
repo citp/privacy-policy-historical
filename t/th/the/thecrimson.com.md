@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603235509id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110160955id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Harvard Crimson
 
@@ -10,7 +10,7 @@ The Crimson Online has adopted guidelines which serve as the basis for our custo
 
 The Crimson Online is not responsible for the content or the privacy policies of Web sites to which it may link.
 
-If you want to subscribe for home or dormitory delivery of The Harvard Crimson, The Boston Globe, the Wall Street Journal, or the New York Times, you must provide your Harvard University I.D. number, your Harvard House number, your entryway and room number, your phone and e-mail address, and your credit card and billing information. If you wish to place a classified advertisement in the Harvard Crimson, you must provide full name, phone number, e-mail address, and dormitory room number. Demographic information (country, zip code, age and gender) is optional. Subscribers must be 18 years of age. On occasion, The Crimson Online also collects additional personal information from subscribers in optional contest and survey forms.
+If you want to subscribe for home or place of business of The Harvard Crimson, your phone number, e-mail address, and your credit card and billing information. If you wish to place a classified advertisement in The Harvard Crimson, you must provide full name, phone number, and e-mail address. Demographic information (country, zip code, age and gender) is optional. Subscribers must be 18 years of age. On occasion, The Crimson Online also collects additional personal information from subscribers in optional contest and survey forms.
 
 The Crimson Online also logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We may also use IP address logs to track your participation in our readership polls in order to ensure accurate results. General demographical information automatically available about users when they connect to our website may also be gathered for statistical purposes.
 
