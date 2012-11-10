@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the movie-list.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513010952id_/http%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the movie-list.com privacy policy that was archived on 2012-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110154803id_/http%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta name="description" content="The net's largest movie trailers database. Updated daily with previews, release dates, reviews, contests, and images from new and classic films. Over 3100 downloadable movie trailers.">
@@ -95,28 +95,57 @@ googletag.enableServices();
     <div class="row-1">
       <div class="fleft"><a href="/index.php" title="Home - Download New and Classic Movie Trailers"><img src="http://img.movie-list.com/images/logo.png" alt="Home - Download New and Classic Movie Trailers"></a></div>
       <div class="fright">
+<!--
         <form action="/search/search.php" method="GET" id="form">
           <div class="form">
             <input type="text" id="PoNumber" onkeyup="searchSuggest();" autocomplete="off" name="zoom_query" value="Search for Trailers" onfocus="if(this.value=='Search for Trailers'){this.value=''}" onblur="if(this.value==''){this.value='Search for Trailers'}"><input type="hidden" name="zoom_per_page" value="20"><input type="hidden" name="zoom_and" value="0"><input type="hidden" name="zoom_cat" value="1"><a href="#" onclick="document.getElementById('form').submit()"><img src="http://img.movie-list.com/images/go.jpg"></a> </div>
           <p><a href="/search/search.php" class="link4" onclick="document.getElementById('form').submit()">Advanced Search</a></p><br>
 	<div id="layer1"></div>
         </form>
+-->
+<div id="cse-search-form" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.SHINY});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+    var orderByOptions = {};
+    orderByOptions['keys'] = [{label: 'Relevance', key: ''},{label: 'Date', key: 'date'}];
+    customSearchOptions['enableOrderBy'] = true;
+    customSearchOptions['orderByOptions'] = orderByOptions;  var customSearchControl = new google.search.CustomSearchControl(
+      '007044163952849960645:WMX1277662744', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    options.enableSearchboxOnly("http://www.movie-list.com/search.php");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+
+<style type="text/css">
+  input.gsc-input {
+    border-color: #B6BEC5;
+  }
+  input.gsc-search-button {
+    border-color: #B6BEC5;
+    background-color: #D0D1D4;
+  }</style>
       </div>
     </div>
-<br>
+
     <div class="row-2">
       <ul class="site-nav">
-        <li><a href="/comingsoon.php" title="Movies Coming Soon" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('comingsoon','','http://img.movie-list.com/images/m1b.jpg',1)"><img src="http://img.movie-list.com/images/m1.jpg" alt="Coming Soon" name="comingsoon" id="comingsoon"></a></li>
-        <li><a href="/nowplaying.php" title="Movies Now Playing" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nowplaying','','http://img.movie-list.com/images/m2b.jpg',1)"><img src="http://img.movie-list.com/images/m2.jpg" alt="Now Playing" name="nowplaying" id="nowplaying"></a></li>
-        <li><a href="/archive.php" title="Movie Trailer Archive" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('archive','','http://img.movie-list.com/images/m3b.jpg',1)"><img src="http://img.movie-list.com/images/m3.jpg" alt="Archive" name="archive" id="archive"></a></li>
-        <li><a href="/classics-alpha.php" title="Classic Movie Trailers" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('classics','','http://img.movie-list.com/images/m4b.jpg',1)"><img src="http://img.movie-list.com/images/m4.jpg" alt="Classics " name="classics" id="classics"></a></li>
-        <li><a href="/ondvd.php" title="Movies on Blu-ray and DVD" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('dvd','','http://img.movie-list.com/images/m5b.jpg',1)"><img src="http://img.movie-list.com/images/m5.jpg" alt="On DVD" name="dvd" id="dvd"></a></li>
-        <li><a href="/forum/" title="Movie Trailer Forum" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('forum','','http://img.movie-list.com/images/m6b.jpg',1)"><img src="http://img.movie-list.com/images/m6.jpg" alt="Forum" name="forum" id="forum"></a></li>
-        <li><a href="/charts/" title="Movie Trailer Charts" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('charts','','http://img.movie-list.com/images/m7b.jpg',1)"><img src="http://img.movie-list.com/images/m7.jpg" alt="Charts" name="charts" id="charts"></a></li>
-        <li><a href="/reviews/" title="Movie Reviews" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('reviews','','http://img.movie-list.com/images/m8b.jpg',1)"><img src="http://img.movie-list.com/images/m8.jpg" alt="Reviews" name="reviews" id="reviews"></a></li>
-        <li><a href="http://blog.movie-list.com" title="Movie Trailer Blog" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('blog','','http://img.movie-list.com/images/m9b.jpg',1)"><img src="http://img.movie-list.com/images/m9.jpg" alt="Blog" name="blog" id="blog"></a></li>
+        <li><a href="/comingsoon.php" title="Movies Coming Soon" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('comingsoon','','http://img.movie-list.com/images/index2_01.png',1)"><img src="http://img.movie-list.com/images/index_01.png" alt="Coming Soon" name="comingsoon" id="comingsoon"></a></li>
+        <li><a href="/nowplaying.php" title="Movies Now Playing" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nowplaying','','http://img.movie-list.com/images/index2_02.png',1)"><img src="http://img.movie-list.com/images/index_02.png" alt="Now Playing" name="nowplaying" id="nowplaying"></a></li>
+        <li><a href="/archive.php" title="Movie Trailer Archive" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('archive','','http://img.movie-list.com/images/index2_03.png',1)"><img src="http://img.movie-list.com/images/index_03.png" alt="Archive" name="archive" id="archive"></a></li>
+        <li><a href="/classics-alpha.php" title="Classic Movie Trailers" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('classics','','http://img.movie-list.com/images/index2_04.png',1)"><img src="http://img.movie-list.com/images/index_04.png" alt="Classics " name="classics" id="classics"></a></li>
+        <li><a href="/ondvd.php" title="Movies on Blu-ray and DVD" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('dvd','','http://img.movie-list.com/images/index2_05.png',1)"><img src="http://img.movie-list.com/images/index_05.png" alt="On DVD" name="dvd" id="dvd"></a></li>
+        <li><a href="http://forum.movie-list.com/" title="Movie Trailer Forum" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('forum','','http://img.movie-list.com/images/index2_06.png',1)"><img src="http://img.movie-list.com/images/index_06.png" alt="Forum" name="forum" id="forum"></a></li>
+        <li><a href="/charts/" title="Movie Trailer Charts" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('charts','','http://img.movie-list.com/images/index2_07.png',1)"><img src="http://img.movie-list.com/images/index_07.png" alt="Charts" name="charts" id="charts"></a></li>
+        <li><a href="http://blog.movie-list.com/" title="Movie Trailer Blog" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('blog','','http://img.movie-list.com/images/index2_08.png',1)"><img src="http://img.movie-list.com/images/index_08.png" alt="Blog" name="blog" id="blog"></a></li>
+        <li><img src="http://img.movie-list.com/images/index_09.png" title="Shop - Coming Soon" alt="Shop - Coming Soon" name="shop" id="shop"></li>
+	<li><a href="/feeds.php"><img src="http://img.movie-list.com/images/index_10.png" alt="Movie-List Feeds"></a></li>
       </ul>
-      <div class="rss"><a href="/feeds.php">Subscribe</a></div>
     </div>
   </div>
 
@@ -130,7 +159,7 @@ googletag.enableServices();
 <td colspan="4">
 <table width="100%" border="0"><tbody><tr><td valign="top" align="left">
 
-<a href="http://www.movie-list.com/trailers.php?id=avengers2012"><img src="http://www.movie-list.com/posters/rotator/avengers.jpg" width="235" height="90" border="0" alt="Avengers, The" title="Avengers, The"></a>
+<a href="http://www.movie-list.com/trailers.php?id=hobbit"><img src="http://img.movie-list.com/posters/rotator/hobbit.jpg" width="235" height="90" border="0" alt="Hobbit, The" title="Hobbit, The"></a>
 </td>
 <td valign="top" align="right">
 <!-- main_lead -->
@@ -234,10 +263,10 @@ you can contact<br>
                 <li><a href="/archive.php">Archives</a></li>
                 <li><a href="/classics-alpha.php">Classics</a></li>
                 <li><a href="/onvideo/shop.php">DVD</a></li>
-                <li><a href="/forum/">Forum</a></li>
+                <li><a href="http://forum.movie-list.com/">Forum</a></li>
                 <li><a href="/charts/">Charts</a></li>
                 <li><a href="/reviews/">Reviews</a></li>
-                <li><a href="http://blog.movie-list.com">Blog</a></li>
+                <li><a href="http://blog.movie-list.com/">Blog</a></li>
               </ul>
               <ul class="footer-nav">
                 <li><a href="/advertising.php">Advertise</a></li>
@@ -257,7 +286,6 @@ you can contact<br>
   </div>
 </div>
 </div>
-
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
