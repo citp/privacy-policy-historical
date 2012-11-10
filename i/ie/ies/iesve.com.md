@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iesve.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601060117id_/http%3A//www.iesve.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iesve.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110094039id_/http%3A//www.iesve.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
-We are committed to protecting your privacy.  You may be asked to submit personal information about yourself in order to receive information or use services on our Website.  If you provide information to us, we will treat that information in accordance with this privacy policy.  By using this Website, you are agreeing to use of this information by us as described in this Policy.  
+IES is committed to protecting your privacy whilst providing a personalised and valuable service.  You may be asked to submit personal information about yourself in order to receive information or use services on our Website.  If you provide information to us, we will treat that information in accordance with this privacy policy.  By using this Website, you are agreeing to use of this information by us as described in this Policy.  
  
 
 We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been fulfilled or, if you no longer wish to continue being registered for our services.
@@ -29,6 +29,9 @@ If you register with the Website, you can elect to receive information and updat
 We may use information that you provide to better design the Website and to improve our marketing strategy and our products. We collect IP Addresses.  An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from this Website, our servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us.
 
 We may pass your personal information to one of our Group Companies or partner organisations who may send you details of services that may be of interest to you and offer you the opportunity to subscribe to them.  If you would prefer not to receive this information, please send an email to [enquiries@iesve.com](mailto:enquiries@iesve.com). A list of current partner organisations is available on request. Your personal information will not be supplied to any other persons without first obtaining your consent unless we are obliged by law to disclose it. By using the Website, you consent to the collection and use of this information by us and the Group Companies in the manner described above.
+
+**Use of Cookies**  
+Please refer to our [Cookie Policy](https://web.archive.org/legal/cookie-policy) .
 
 **Third Party Websites**  
 Because we want your experience of the Website to be as informative and useful as possible, we provide a number of links to Third Party Websites. Always be aware of where you end up. Third Party Websites may send their own cookies to users, or otherwise collect data or solicit personal information. We assume no responsibility for the information gathering practices of websites that you are able to access through ours, and we encourage you to review each website's privacy policy before disclosing any personally identifiable information.
