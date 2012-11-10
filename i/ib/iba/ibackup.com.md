@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510031429id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110204908id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
 # Privacy policy - Secure online storage and backup
 
@@ -45,7 +45,7 @@ We will retain your information for as long as your account is active or as need
 
 **Safe Harbor Policy**
 
-We participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. We are committed to the resolution of complaints about your privacy and the collection or use of your personal information, and any complaints by European Union citizens relating to this policy, which cannot be resolved directly with Pro Softnet, will be resolved through EU Data Protection Authorities. 
+We participate in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. We are committed to the resolution of complaints about your privacy and the collection or use of your personal information, and any complaints by European Union citizens relating to this policy, which cannot be resolved directly with Pro Softnet, will be resolved through EU Data Protection Authorities. 
 
 For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://export.gov/safeharbor/) website. If you would like to contact us directly about the Safe Harbor program, please send an e-mail to [safeharbor@pro-softnet.com](mailto:safeharbor@pro-softnet.com).
 
