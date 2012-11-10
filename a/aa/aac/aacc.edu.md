@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aacc.edu privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616171915id_/http%3A//www.aacc.edu/technology/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacc.edu privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110015439id_/http%3A//www.aacc.edu/technology/privacy.cfm) for the most accurate reproduction.*
 
-# Progressive Technology - Your Privacy and our Web Site
+# Technology Services - Your Privacy and our Web Site
+
+**Anne Arundel Community College Privacy Policy**
 
 Thank you for visiting the Anne Arundel Community College Web site.  Our privacy policy is clear, we will collect no **personal** information about you when you visit our Web site unless you choose to provide that information to us.  We do not give, sell or transfer any personal information that you do provide to us to a third party.
 
