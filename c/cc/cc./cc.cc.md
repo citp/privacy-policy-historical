@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424124405id_/http%3A//www.cc.cc/privacy_statment/privacy_statment.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155824id_/http%3A//www.cc.cc/privacy_statment/privacy_statment.php) for the most accurate reproduction.*
 
 # CC.CC Network - Free domain name and DNS service.
 
