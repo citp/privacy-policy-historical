@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamstrikes.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501154417id_/http%3A//www.dreamstrikes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamstrikes.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110055117id_/http%3A//www.dreamstrikes.com/privacy.html) for the most accurate reproduction.*
 
 # DreamStrikes | The Mobile Community Privacy Policy
 
