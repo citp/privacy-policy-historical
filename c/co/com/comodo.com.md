@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616235639id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110063621id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
 
-# Comodo Privacy Policy Statement
+# Policies and Practices of the Comodo Companies - Privacy Statement
 
 This privacy statement describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., DNS.COM LLC and eVouch LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
 
