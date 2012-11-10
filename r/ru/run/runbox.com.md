@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508064335id_/http%3A//www.runbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runbox.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110130913id_/http%3A//www.runbox.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fast and Secure Premium Email Services and Business Email Hosting from Runbox
 
@@ -6,7 +6,7 @@ _Updated March 1, 2012_
 
 The personal information collected from you through the Runbox email service is subject to the Privacy Policy as described in this document.
 
-The Privacy Policy is subject to the laws and regulations of Norway, especially the [Personal Data Act](http://datatilsynet.no/Global/english/Personal%20Data%20Act_20100215.pdf). You can find more information about Norway’s privacy regulations at [The Norwegian Data Inspectorate](http://datatilsynet.no/English/).
+The Privacy Policy is subject to the laws and regulations of Norway, especially the [Personal Data Act](http://www.datatilsynet.no/Global/english/Personal_Data_Act_20120420.pdf). You can find more information about Norway’s privacy regulations at [The Norwegian Data Inspectorate](http://datatilsynet.no/English/).
 
 ## Account information
 
