@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgame.us privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122165959id_/http%3A//s2.sfgame.us/legal/index.php%3Ftype%3Dprivacy%26mode%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgame.us privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110085631id_/http%3A//www.sfgame.us/legal/index.php%3Ftype%3Dprivacy%26mode%3D1) for the most accurate reproduction.*
 
 # Shakes & Fidget - The Game
 
