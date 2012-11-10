@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526013425id_/http%3A//www.automotivetouchup.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110223829id_/http%3A//www.automotivetouchup.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Touch Up Paint | AutomotiveTouchup | 888-710-5192
 
