@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121133437id_/http%3A//www.itimes.com/help/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110031739id_/http%3A//www.itimes.com/help/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # itimes Privacy policy
 
