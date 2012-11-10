@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magiccartbutton.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513103114id_/http%3A//magiccartbutton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magiccartbutton.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110210243id_/http%3A//magiccartbutton.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY « Mike Filsaime's Magic Cart Button Maximizes Conversions On Your Website And Sales Videos
 
