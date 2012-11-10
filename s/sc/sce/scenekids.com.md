@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scenekids.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513091318id_/http%3A//scenekids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenekids.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110231555id_/http%3A//scenekids.com/privacy) for the most accurate reproduction.*
 
-# SceneKids
+# Privacy Policy | SceneKids
 
 ## Privacy Policy
 
 ### Your Data
 
-We take privacy seriously and respect the privacy of our users and the privacy of their data. All user user information contained within the Site you may provide are governed by our [Terms of Service](https://web.archive.org/terms). Although we own the data storage, databases and the Site itself, **you retain all rights to your data**.
+We take privacy seriously and respect the privacy of our users and the privacy of their data. All user information contained within the Site you may provide are governed by our [Terms of Service](https://web.archive.org/terms). Although we own the data storage, databases and the Site itself, **you retain all rights to your data**.
 
 ### What We Collect
 
@@ -20,7 +20,7 @@ We may also collect and analyze from visitors and users certain information rega
 
 ### Use of Information
 
-We may use personal information to provide the contents of your personal profile on the Site. We may also use personal information for auditing, research and analysis to operate and improve the Site. We may use third-parties to assist us in processing your personal information, and we require that such third-parties comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may use certain other information collected from you to help diagnose technical issues, administer the Site and improve the quality and types of services delivered. We may provide non-identifying and aggregate usage and volume statistical information derived from the action of our visitors and account holders to third-parties in order to demonstrate the value we deliver to users.
+We may use personal information to provide the contents of your personal public profile on the Site. We may also use personal information for auditing, research and analysis to operate and improve the Site. We may use third-parties to assist us in processing your personal information, and we require that such third-parties comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may use certain other information collected from you to help diagnose technical issues, administer the Site and improve the quality and types of services delivered. We may provide non-identifying and aggregate usage and volume statistical information derived from the action of our visitors and account holders to third-parties in order to demonstrate the value we deliver to users.
 
 The information we collect is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
