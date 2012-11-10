@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bee.com.eg privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510201257id_/http%3A//www.bee.com.eg/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bee.com.eg privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110133751id_/http%3A//bee.com.eg/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
