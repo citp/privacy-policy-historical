@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511230653id_/http%3A//www.timeoutkl.com/corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155740id_/http%3A//www.timeoutkl.com/corporate/Privacy) for the most accurate reproduction.*
 
 # Time Out Kuala Lumpur - What's on in KL, listings, reviews, events and things to do. 100% independent, 100% KL
 
