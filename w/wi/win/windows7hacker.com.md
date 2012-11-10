@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512201705id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110092151id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windows7hacker
-
-## Privacy Policy
 
 Privacy Policy for windows7hacker.com
 
