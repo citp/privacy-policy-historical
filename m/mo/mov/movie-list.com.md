@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513010952id_/http%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110154803id_/http%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.*
 
 # Movie-List - Privacy Statement
 
