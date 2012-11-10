@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235007id_/http%3A//www.visitdublin.com/StaticPage/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110162854id_/http%3A//www.visitdublin.com/StaticPage/Privacy) for the most accurate reproduction.*
 
 # Visit Dublin - Official Tourist Information Dublin Hotels and Car Hire
 
