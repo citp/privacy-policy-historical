@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelarticlelibrary.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124074108id_/http%3A//www.travelarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelarticlelibrary.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110225557id_/http%3A//www.travelarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
 # FREE TRAVEL ARTICLES... HOLIDAYS, VACATIONS, AIRLINES, CRUISES, DESTINATIONS, TOURS, RESORTS, ADVENTURES,
 
