@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsupport.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513073202id_/http%3A//rsupport.com/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsupport.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110235049id_/http%3A//rsupport.com/AboutUs/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - RSUPPORT
 
