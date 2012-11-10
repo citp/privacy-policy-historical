@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedsgn.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511235253id_/http%3A//homedsgn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedsgn.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110055836id_/http%3A//homedsgn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HomeDSGN, a daily source for inspiration and fresh ideas on interior design and home decoration.
 
@@ -8,7 +8,7 @@
 
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website.
 
-What We Collect and Store Automatically
+What We Collect and Store Automatically?
 
 If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
