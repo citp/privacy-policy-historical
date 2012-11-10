@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficland.com privacy policy that was archived on 2012-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120209234634id_/http%3A//corporate.trafficland.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficland.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110153726id_/http%3A//corporate.trafficland.com/legal/privacy.html) for the most accurate reproduction.*
 
 # TrafficLand, Inc.
 
