@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examresultstips.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105041111id_/http%3A//www.examresultstips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examresultstips.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110062325id_/http%3A//www.examresultstips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Exam Results Tips
 
