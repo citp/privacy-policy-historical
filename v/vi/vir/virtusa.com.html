@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtusa.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602194533id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtusa.com privacy policy that was archived on 2012-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110121051id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,7 +12,7 @@
 <link rel="shortcut icon" href="/favicon.ico">
 
 
-  <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script src="/scripts/jquery/jquery.js" type="text/javascript" language="JavaScript"></script>
+  <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script src="/scripts/jquery/jquery.js" type="text/javascript" language="JavaScript"></script>
   <script type="text/javascript" src="/scripts/topnav/topnav.js"></script>
 
   <script type="text/javascript"> 
@@ -114,7 +114,31 @@
 				});
 		});
 		
+		$(document).ready(function() {
+                  
+                  $("a.partner").fancybox({
+                         'frameWidth': 640,
+                         'frameHeight': 480
+				});
+		});
 		
+		
+		$(document).ready(function() {
+                  
+                  $("a.resources").fancybox({
+                         'frameWidth': 445,
+                         'frameHeight': 375
+				});
+		});
+		
+		$(document).ready(function() {
+                  
+                  $("a.cbc_podcast").fancybox({
+                         'frameWidth': 530,
+                         'frameHeight': 145
+				});
+		});
+
 	</script>
 
 <script language="JavaScript">
@@ -156,6 +180,22 @@ document.oncontextmenu=new Function("alert(message);return false")
 // --> 
 </script>
 
+<script type="text/javascript">
+piAId = '16882';
+piCId = '71401';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+
 
 </head>
 
@@ -193,11 +233,12 @@ document.oncontextmenu=new Function("alert(message);return false")
           </ul>
        </li>
        <li class=""><a href="#" class="disabled">Services</a>
-         <ul class="sub_menu" style="float: none; width: 19.3333em; display: none; visibility: hidden;">
+         <ul class="sub_menu" style="float: none; width: 22.1667em; display: none; visibility: hidden;">
            <li style="white-space: normal; float: left; width: 100%;"><a href="/services/consulting/" style="float: none; width: auto;">Consulting Services</a></li>
            <li style="white-space: normal; float: left; width: 100%;"><a href="/services/application-development/" style="float: none; width: auto;">Application Development Services</a></li>
            <li style="white-space: normal; float: left; width: 100%;"><a href="/services/product-development/" style="float: none; width: auto;">Product Development Services</a></li>
            <li style="white-space: normal; float: left; width: 100%;"><a href="/services/legacy-asset-management/" style="float: none; width: auto;">Legacy Asset Management Services</a></li>
+           <li style="white-space: normal; float: left; width: 100%;"><a href="/services/enterprise-code-governance/" style="float: none; width: auto;">Enterprise Code Governance - ERA Insight</a></li>
          </ul>
        </li>
        <li class=""><a href="#" class="disabled">Practices</a>
