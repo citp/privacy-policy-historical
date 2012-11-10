@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025212id_/http%3A//www.onmilwaukee.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110165845id_/http%3A//onmilwaukee.com/privacystatement.html) for the most accurate reproduction.*
 
 # OnMilwaukee.com - Milwaukee's Daily Magazine
 
