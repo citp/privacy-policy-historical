@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512201956id_/http%3A//www.wgme.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110092623id_/http%3A//www.wgme.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WGME 13 :: Station Info - Privacy Policy
 
@@ -28,42 +28,42 @@ The Website allows certain advertisements/postings which include links to other 
 
 ### Business News
 
-**Banks stocks sink after JPMorgan announces loss**
+**Obama invites lawmakers to WH to talk fiscal cliff**
 
-NEW YORK (AP) -- Weakness in banking stocks has not been enough to depress the entire stock market today. The key averages turned higher after some initial weakness.
+WASHINGTON (AP) -- A White House official says President Barack Obama is inviting Congressional leaders of both parties to the White House next week for talks on how to avoid the so-called fiscal cliff.
 
 ### Consumer Info
 
-**NJ gov vetoes Obama-related health exchange bill**  
-TRENTON, N.J. (AP) -- New Jersey Gov. Chris Christie on Thursday became the second governor in the nation to veto legislation that is a key part of President Barack Obama's health care overhaul law. ...
+**Jobs dwindle during green power debate**  
+DENVER (AP) -- The wind energy boom President Barack Obama touted as key to his energy strategy has hit a wall in an election-year dispute over taxpayer support. ...
 
 ### Entertainment News
 
-**"AMERICAN IDOL"**
+**BROOKE BURKE-CHARVET HAS THYROID CANCER**
 
-LOS ANGELES (AP) -- Joshua Ledet (leh-DET') isn't just good -- he's the best ever. 
+NEW YORK (AP) -- Brooke Burke-Charvet (shar-VAY') has thyroid cancer. 
 
 ### Get This
 
-**MOTHER'S DAY**
+**FLAG FLAP**
 
-NEW YORK (AP) -- Thinking about what to get mom for Mother's Day? 
+FOLLANSBEE, W.Va. (AP) -- No, that wasn't a symbol of distress at a West Virginia McDonald's. 
 
 ### Science/Tech News
 
-**IN THE NEWS: US PHONE SUBSCRIBERS HANG UP ON CONTRACTS**
+**IN THE NEWS: TWITTER MISTAKENLY RESETS PASSWORDS**
 
-NEW ORLEANS (AP) -- Thinking of giving up your expensive cell phone contract? 
+SAN FRANCISCO (AP) -- If you're a Twitter user who found your password had been reset yesterday -- don't blame hackers. 
 
 [](https://web.archive.org/station/advertise/)
 
 ## Forecast
 
-******Saturday:** Chilly start. Sunny and warmer.  Highs 70 to 75.  W winds 10 mph. 
+**Saturday:   **Mostly sunny. Light winds. Highs 44 to 50.  NW winds 5-10 mph. 
 
-**Saturday Night:**   Partly cloudy. Slight risk for a shower (esp in the mountains).  Lows 44 to 51. 
+**Saturday Night:  ** Partly to mostly cloudy.  Lows 26 to 36. 
 
-**Sunday:** A mix of clouds and sun. Brightest early. Chance for an afternoon shower or t-storm.  Highs 68 to 73.
+**Sunday:**   Partly sunny. Highs 49 to 55. 
 
 [](https://web.archive.org/sections/station/advertise/)
 
