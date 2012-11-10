@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metromela.com privacy policy that was archived on 2012-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120321034247id_/http%3A//www.metromela.com/common/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metromela.com privacy policy that was archived on 2012-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110154928id_/http%3A//www.metromela.com/common/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
 
@@ -32,199 +32,12 @@ var area_array = null;
 		
 
 
-<script type="text/javascript" src="http://www.metromela.com/js/common/common.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/user_messages.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/users/user.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/dimmingdiv.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/thick.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/yahoo.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/mmadsense/mmadsense.js"></script>
-<script type="text/javascript" src="http://www.metromela.com/js/datetimepicker_css.js"></script>
-
 
 
 <script type="text/javascript">
 
 var city = 0;
 pg = 0;
-
-/*
-* This is for validating and auto suggest for to search businesses.
-*/
-	var gSearchForType = 'unknown';
-	var gLocationType = 'unknown';
-
-	function changeSearchForType()
-	{
-		createWidgetMatch('searchFor','autocontainer3',sugg_tags[city],true);
-	}
-
-	function changeLocationType()
-	{
-		createWidget('locationName','area_container',area_array[city],true);
-	}
-
-	function getSearchResult(searchSuggestion,areaSuggestion)
-	{
-		var searchFor = document.getElementById('searchFor').value;
-		if(searchFor == '' || searchFor == ' Eg:'+searchSuggestion )
-		{
-			alert(search_alert);
-			document.getElementById('searchFor').focus();
-			return false;
-		}
-		else
-		{
-			var cityid = document.getElementById('cityid').value;
-			var searchFor = document.getElementById('searchFor').value;
-			var searchLocation = document.getElementById('locationName').value;
-			if(searchLocation == '' || searchLocation == ' Eg:'+areaSuggestion )
-			{
-				searchLocation = 'All Locations';
-			}
-			
-			var discount = '';
-			if(document.getElementById('deal'))
-			{
-				if(document.getElementById('deal').checked)
-				{
-					discount ='discount';
-				}
-				else
-				{
-					discount = 'No';
-				}
-			}
-			var searchArray = searchFor.split(' '); 
-			searchFor=searchArray.join('+') ;
-			var locationArray = searchLocation.split(' '); 
-			searchLocation=locationArray.join('+') ;
-			var from = 'SearchPanel';
-			var panels = 'On';
-			var limit = 'No';
-			document.SearchPanelForm.method = "get";
-			document.SearchPanelForm.action = "/results/"+searchFor.replace("/", "-")+"/"+searchLocation+"/unknown/"+discount+"/"+from;
-			document.SearchPanelForm.submit();
-		}
-	}
-
-	function showCitiesList()
-	{
-		document.getElementById('cityTable').style.visibility="visible";
-		document.getElementById('cityTable').style.display="block";
-		document.getElementById('cityTable').style.top = "23px" ;
-		document.getElementById('cityTable').style.right= "0px" ;
-	}
-	function hideDiv(divId)
-	{
-		document.getElementById(divId).style.visibility="hidden";
-	}
-
-	
-	function clearSearchFor(searchSuggestion)
-	{
-		
-		var searchFor =  document.getElementById('searchFor').value;
-		document.getElementById('textFocus').value='true';
-		if(searchFor == ' Eg:'+searchSuggestion )
-		{
-			document.getElementById('searchFor').style.color="#000000";
-			document.getElementById('searchFor').value = "";
-			document.getElementById('searchFor').focus();
-		}
-	}
-	
-	function clearLocation(locationSuggestion)
-	{
-		
-		var locationName =  document.getElementById('locationName').value;
-		if(locationName == ' Eg:'+locationSuggestion )
-		{
-			document.getElementById('locationName').style.color="#000000";
-			document.getElementById('locationName').value = "";
-			document.getElementById('locationName').focus();
-			document.getElementById('textFocus').value='true';
-		}
-	}
-
-	function checkSearchFor(searchFor,searchSuggestion)
-	{
-		if(searchFor != '')
-		{
-			return true;
-		}
-		else
-		{
-			document.getElementById('searchFor').value = ' Eg:'+searchSuggestion;
-			document.getElementById('searchFor').style.color="#999";
-			document.getElementById('textFocus').value='false';
-		}
-	}
-
-	function checkLocation(locationName,locationSuggestion)
-	{
-		if(locationName != '')
-		{
-			return true;
-		}
-		else
-		{
-			document.getElementById('locationName').value = ' Eg:'+locationSuggestion;
-			document.getElementById('locationName').style.color="#999";
-			document.getElementById('textFocus').value='false';
-		}
-	}
-
-	function getBrowserOffsetLeft()
-	{
-		var x;
-		if (self.innerWidth) // all except Explorer
-		{
-			x = self.innerWidth;
-		}
-		else if (document.documentElement && document.documentElement.clientWidth)
-		// Explorer 6 Strict Mode
-		{
-			x = document.documentElement.clientWidth;
-		}
-		else if (document.body) // other Explorers
-		{
-			x = document.body.clientWidth;
-		}
-		if(x>1003 && x<=1024)
-			x=parseInt((x-1024)/2);
-		else
-			x=parseInt((x-1003)/2);
-
-		return x;
-	}
-
-	
-	function getBrowserOffsetTop()
-	{
-		var y;
-		if (self.innerHeight) // all except Explorer
-		{
-			y = self.innerHeight;
-		}
-		else if (document.documentElement && document.documentElement.clientHeight)
-		// Explorer 6 Strict Mode
-		{
-			y = document.documentElement.clientHeight;
-		}
-		else if (document.body) // other Explorers
-		{
-			y = document.body.clientHeight;
-		}
-		if(y>575)
-			y=parseInt(y-570);
-		else
-			y=parseInt(y-575);
-		return y;
-	}
-
-	
 </script>
 
 	
@@ -236,40 +49,44 @@ pg = 0;
  </div>
  <div class="container header">
     <div class="logo">
-	  <a href="/"><img src="/images/newHomeImages/metromela-logo.jpg" alt="Metromela" align="left"></a>
+	  <a href="/"><img src="/images/newHomeImages/metromela-logo.gif" alt="Metromela" align="left"></a>
 	</div>
-			<img src="/images/newHomeImages/logo-bg2.png" alt="Metromela" align="left">
-			
+		
 	
 	 </div>
 <div class="container top_ads">
 	<div class="ads_one">
 		<!--<script type="text/javascript">
 	var mode = "top";
+	var adFrom = "";
 	google_ad_client = "pub-7688342768671729";
 	if(mode == 'left')
 	{
-		google_ad_client = "pub-7688342768671729";
 		/* 200x200, created 3/25/11 */
 		google_ad_slot = "9915503988";
 		google_ad_width = 200;
 		google_ad_height = 200;
 	}
+	else if(mode == 'right' && adFrom == 'reviewHome')
+	{
+		/* 300x250, created 3/21/11 */
+		google_ad_slot = "";
+		google_ad_width = "";
+		google_ad_height = "";
+	}
 	else if(mode == 'right')
 	{
-		google_ad_client = "pub-7688342768671729";
 		/* 300x250, created 3/21/11 */
-		google_ad_slot = "2420352500";
-		google_ad_width = 300;
-		google_ad_height = 250;
+		google_ad_slot = "";
+		google_ad_width = "";
+		google_ad_height = "";
 	}
 	else if(mode == 'top')
 	{
-		google_ad_client = "ca-pub-7688342768671729";
 		/* Header Ad */
-		google_ad_slot = "3167684533";
-		google_ad_width = 728;
-		google_ad_height = 90;
+		google_ad_slot = "";
+		google_ad_width = "";
+		google_ad_height = "";
 	}
 	else 
 	{
@@ -285,30 +102,35 @@ pg = 0;
 -->
 		<script type="text/javascript">
 	var mode = "top";
+	var adFrom = "";
 	google_ad_client = "pub-7688342768671729";
 	if(mode == 'left')
 	{
-		google_ad_client = "pub-7688342768671729";
 		/* 200x200, created 3/25/11 */
 		google_ad_slot = "9915503988";
 		google_ad_width = 200;
 		google_ad_height = 200;
 	}
+	else if(mode == 'right' && adFrom == 'reviewHome')
+	{
+		/* 300x250, created 3/21/11 */
+		google_ad_slot = "";
+		google_ad_width = "";
+		google_ad_height = "";
+	}
 	else if(mode == 'right')
 	{
-		google_ad_client = "pub-7688342768671729";
 		/* 300x250, created 3/21/11 */
-		google_ad_slot = "2420352500";
-		google_ad_width = 300;
-		google_ad_height = 250;
+		google_ad_slot = "";
+		google_ad_width = "";
+		google_ad_height = "";
 	}
 	else if(mode == 'top')
 	{
-		google_ad_client = "ca-pub-7688342768671729";
 		/* Header Ad */
 		google_ad_slot = "3167684533";
-		google_ad_width = 728;
-		google_ad_height = 90;
+		google_ad_width = "728";
+		google_ad_height = "90";
 	}
 	else 
 	{
@@ -323,7 +145,7 @@ pg = 0;
 	</script>
 	</div>
 	<div>
-					<a href="http://.metromela.com/mymetromela/aboutRewardPoints" style="float:right;"><img src="/images/newHomeImages/win_reward_points.png" alt="Metromela" align="left"></a>
+					<a href="http://.metromela.com/mymetromela/aboutRewardPoints" class="reward-points"></a>
 			</div>
 </div>
 <script type="text/javascript">
@@ -491,7 +313,7 @@ function changeTheMMCity(url,id)
 		<a href="http://www.metromela.com/common/privacy" target="blank">Privacy Statement</a>
 		|
 		<a href="http://www.metromela.com/common/termsOfUse" target="blank">Terms of Use</a><br>
-						<span class="FooterLinks">MetroMela.Com - Hyderabad city - Copyrights 2011 | All Rights Reserved.</span> 
+						<span class="FooterLinks">MetroMela.Com -  city - Copyrights 2011 | All Rights Reserved.</span> 
 				</div>
  
 
