@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garena.co.id privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510192854id_/http%3A//www.garena.co.id/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garena.co.id privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110145850id_/http%3A//www.garena.co.id/privacy) for the most accurate reproduction.*
 
 # Garena Indonesia - Connecting world gamers
 
@@ -18,7 +18,7 @@ As with most web sites, your computer sends information that gets logged by a we
 
 COOKIES 
 
-We may from time to time implement "cookies" or other features to allow us or third parties to collect or share information that will help us improve our Site and the Garena Features we offer, or help us offer new services and features. A cookie is a small amount of data, that often includes an anonymous unique identifier, that is sent to a user's browser from a Web server and stored on a user's computer hard drive. Usage of a cookie is in no way linked to any personal information about you. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our Site or the Garena Features. 
+We may from time to time implement "cookies" or other features to allow us or third parties to collect or share information that will help us improve our Site and the Garena Features we offer, or help us offer new services and features. A cookie is a small amount of data, that often includes an anonymous unique identifier that is sent to a user's browser from a Web server and stored on a user's computer hard drive. Usage of a cookie is in no way linked to any personal information about you. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our Site or the Garena Features. 
 
 VIEWING AND DOWNLOADING CONTENT AND ADVERTISING 
 
@@ -76,7 +76,7 @@ By visiting the Site or using the Garena Features, you consent to the collection
 
 QUESTIONS? CONTACT US 
 
-If you have any questions about our privacy practices or your dealings with the Garena Features, please do not hesitate to contact: support@mail.garena.com 
+If you have any questions about our privacy practices or your dealings with the Garena Features, please do not hesitate to contact: support@garena.com 
 
 TERMS AND CONDITIONS 
 
