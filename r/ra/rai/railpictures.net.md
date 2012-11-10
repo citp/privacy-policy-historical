@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the railpictures.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219220525id_/http%3A//www.railpictures.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railpictures.net privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110210234id_/http%3A//railpictures.net/privacy) for the most accurate reproduction.*
 
 # RailPictures.Net » Privacy Policy
 
 **PRIVACY STATEMENT:**  
-Copyright © 2000-2005 [_RailPictures.Net_](http://www.railpictures.net/). All Rights Reserved. [Updated 09-19-2002]
+Copyright [_RailPictures.Net_](http://www.railpictures.net/). All Rights Reserved. [Updated March 10, 2012]
 
 Our users' privacy is a top priority at RailPictures.Net. Thus, we have developed this privacy statement, which outlines in detail the privacy policies of our site.
 
