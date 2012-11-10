@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511095818id_/http%3A//www.halliburton.com/AboutUs/default.aspx%3Fnavid%3D996%26PAGEID%3D2421%26SRC%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110123420id_/http%3A//www.halliburton.com/AboutUs/default.aspx%3Fnavid%3D996%26PAGEID%3D2421%26SRC%3DFooter) for the most accurate reproduction.*
 
 # Privacy Policy - Halliburton
 
