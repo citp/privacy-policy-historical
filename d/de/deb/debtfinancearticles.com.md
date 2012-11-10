@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtfinancearticles.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511123248id_/http%3A//www.debtfinancearticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtfinancearticles.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110101805id_/http%3A//www.debtfinancearticles.com/privacy) for the most accurate reproduction.*
 
 # Privacy | DebtFinanceArticles.com | DebtFinanceArticles.com
 
