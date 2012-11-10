@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ewallstreeter.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510194936id_/http%3A//ewallstreeter.com/page/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ewallstreeter.com privacy policy that was archived on 2012-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110223303id_/http%3A//ewallstreeter.com/page/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="http://ewallstreeter.com/theme/style.css" type="text/css" media="screen">
     <link rel="shortcut icon" href="http://ewallstreeter.com/favicon.ico">
 
-    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
     
     <link rel="stylesheet" type="text/css" href="/css/superfish.css" media="screen"> 
 
@@ -22,6 +22,14 @@
 
 	jQuery(function(){
 		jQuery(\'ul.sf-menu\').superfish();
+		
+		//ipad and iphone fix (June 12 2012 - After testing my own site, I don't think this script is needed --PJ
+		if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
+			$(".sf-menu li a").click(function(){
+				//we just need to attach a click event listener to provoke iPhone/iPod/iPad's hover event
+				//strange
+			});
+		}		
 	});
     
     <!--[if lte IE 6]>
@@ -34,18 +42,64 @@
     
     <link rel="alternate" type="application/rss+xml" title="eWallstreeter Financial Links RSS Feed" href="http://feeds.feedburner.com/ewallstreeter" />
 
-<link rel='index' title='eWallstreeter' href='http://ewallstreeter.com' />
+	<link rel='index' title='eWallstreeter' href='http://ewallstreeter.com' />
 
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	
 	<!-- Random number generator to be placed in page header -->
 	<script language="javascript" type="text/javascript">var ord = Math.random() * 10000000000000000</script>
-	
-	<script src="http://cdn.investingchannel.com/roadblock/full_page_ad.js" type="text/javascript" charset="utf-8"></script>
-	<script type="text/javascript">
-	var siteInfo = new Array(18, 'www.ewallstreeter.com', 'ewallstreeter_landingpage.html');
-	IC.LoadView(siteInfo);
+		
+		
+	<!------ OAS SETUP begin ------>
+	<!--Include OAS Analytics Setup Script -->
+	<script language="JavaScript" src="http://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></script>
+	<script language="JavaScript">
+	<!--
+	//configuration
+	OAS_url = 'http://oascentral.investingmediasolutions.com/RealMedia/ads/';
+	//OAS_sitepage = window.location.hostname + window.location.pathname;
+	OAS_sitepage = 'eWallStreeter/homepage';
+	OAS_listpos = 'Top,TopRight,Position1,Position2,Position3,Position4';
+
+	<!--Define Custom Reporting Taxonomy, format is: ‘&Attribute1=Value1&Attribute2=Value2’ -->
+
+	var OAS_taxonomy='';
+	var OAS_query='';
+	OAS_query == '' ? OAS_query += 'XE' + '&' + OAS_taxonomy + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE' : OAS_query += '&XE' + '&' + OAS_taxonomy + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE';
+
+	OAS_target = '_top';
+	//end of configuration
+	OAS_version = 10;
+	OAS_rn = '001234567890'; OAS_rns = '1234567890';
+	OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+	function OAS_NORMAL(pos) {
+	  document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+	  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
+	}
+	//-->
 	</script>
+
+	<script language="JavaScript1.1">
+	<!--
+	OAS_version = 11;
+	if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+	  OAS_version = 10;
+	if (OAS_version >= 11)
+	  document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
+	</script>
+
+	<script language="JavaScript">
+	<!--
+	document.write('');
+	function OAS_AD(pos) {
+	  if (OAS_version >= 11)
+		OAS_RICH(pos);
+	  else
+		OAS_NORMAL(pos);
+	}
+	//-->
+	</script>
+	<!------ OAS SETUP end ------>
 
 </head>
 <body><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe" name="meebo-iframe"></iframe></m></div>
@@ -81,10 +135,18 @@ b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replac
         </div>
     
 		<a id="logo-left" href="/">eWallstreeter Financial Links</a>
-		<p class="tagline">Up-to-the minute financial market links</p>
 	
 		<div class="advert728">
-					</div>
+			
+			<!------ OAS AD 'Top' begin ------>
+			<script language="JavaScript">
+			<!--
+			OAS_AD('Top');
+			//-->
+			</script>
+			<!------ OAS AD 'Top' end ------>
+
+		</div>
 			
 
     
@@ -133,7 +195,9 @@ b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replac
 
 	<div id="sidebar-blog">
 	
-				<div class="widget">			
+		
+	
+			<div class="widget">			
 			<div class="execphpwidget"><div class="subscribe-box">
 
                     <h3>Connect with eWallstreeter</h3>
@@ -195,8 +259,49 @@ b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replac
 			
 		</div>
 		
-		<div class="widget" style="margin-top:150px;">
-					</div>
+		<div style="width:300px;">
+			<div style="float:left;width:300px;">
+				
+				<div style="padding:20px 5px 10px 0;width:130px;float:left;">
+					<script language="JavaScript">
+					<!--
+					OAS_AD('TopRight');
+					//-->
+					</script>
+				</div>
+			</div><div style="float:left;width:300px;">
+			
+			<div style="padding:20px 5px 0 15px;width:130px;float:left;">
+				<script language="JavaScript">
+				<!--
+				OAS_AD('Position1');
+				//-->
+				</script>
+			</div>
+			<div style="padding:20px 5px 0 15px;width:130px;float:left;">
+				<script language="JavaScript">
+				<!--
+				OAS_AD('Position2');
+				//-->
+				</script>
+			</div>
+			<div style="padding:20px 5px 0 15px;width:130px;float:left;">
+				<script language="JavaScript">
+				<!--
+				OAS_AD('Position3');
+				//-->
+				</script>
+			</div>
+			<div style="padding:20px 5px 0 15px;width:130px;float:left;">
+				<script language="JavaScript">
+				<!--
+				OAS_AD('Position4');
+				//-->
+				</script>
+			</div>
+			
+			</div>		
+		</div>
 		
 		<!--<div class="widget">			
 			<div class="execphpwidget">           
@@ -209,36 +314,12 @@ b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replac
 			</div>
 		</div>-->
 		
-				
-		<!--<div class="widget">			
-			<div class="execphpwidget"><a href="http://www.investingchannel.com" target="_blank"><img src="http://ewallstreeter.com/images/badges/InvestingChannel_Membership-Badge_160x60.gif" width="160" height="60" alt="" style="display: block; margin: 0 auto"/></a></div>
-		</div>-->
-		
-		<div class="widget">			
-			<div class="execphpwidget"><script type="text/javascript">
-				var _gwparam = _gwparam || [];
-				_gwparam["APIKEY"] = "7f30a19ff604caf366c24c019bc091aa66ba57b2";
-				_gwparam["size"] = "200.200.lofimulti";
-				_gwparam["location"] = "";
-				_gwparam["bgcolor"] = "#8bc53f";
-				_gwparam["title"] = "undefined";
-				_gwparam["PID"] = "3376667";
-				_gwparam["AID"] = "10817648";
-				</script>
-				<script id="grouponAd" type="text/javascript" src="http://www.groupon.com/javascripts/common/affiliate_widget/grouponwidget.js"></script>
-			</div>
-		</div>  
 	</div>
             
 	<div id="footer"> 
 		
-		<div class="ic-partner-center">
-			<iframe src="http://cdn.investingchannel.com/quote_widget_5.html?s=ewallstreeter" scrolling="no" width="800" height="70" frameborder="0"></iframe>
-		</div>
-		
 		<p style="font-size:9px;">
-		<a href="/page/facebook-ipo.php">Facebook IPO Primer</a>
-		| <a href="/page/resources.php">Resources</a>
+		<a href="/page/resources.php">Resources</a>
 		| <a href="/page/advertising.php">Advertise</a>
 		| <a href="/page/contact.php">Contact</a>
 		| <a href="/page/about.php">About</a> 
@@ -318,15 +399,7 @@ var _sf_async_config={uid:19456,domain:"ewallstreeter.com"};
     Meebo('domReady');
 </script>
 
-
- 
-
-<!-- Begin Metric Beacon Code -->
-<script src="http://cdn.investingchannel.com/ic_beacon.js" type="text/javascript"></script>
-<script type="text/javascript"> icBeacon('ewallstreeter'); </script>
-<!-- End Metric Beacon Code -->
-
-<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=ewallstreeter.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580390491919"></script></div>
+<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=ewallstreeter.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580390490903"></script></div>
 <script type="text/javascript">
 (function( ){
 BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
@@ -335,17 +408,14 @@ setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WID
 })();
 </script>
 
+<!-- Kontera ContentLink(TM);-->
 <script type="text/javascript">
-  var vglnk = { api_url: '//api.viglink.com/api',
-                key: '0af1b85f80ca6c9640183970a65272a1' };
-
-  (function(d, t) {
-    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
-    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
-             '//cdn.viglink.com/api') + '/vglnk.js';
-    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
-  }(document, 'script'));
+var dc_AdLinkColor = 'blue' ;
+var dc_PublisherID = 209058 ;
 </script>
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
+</script>
+<!-- Kontera ContentLink(TM) -->
 
 <script type="text/javascript">
     Meebo('domReady');
