@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animationmentor.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630152843id_/http%3A//www.animationmentor.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationmentor.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110082328id_/http%3A//www.animationmentor.com/legal/privacy) for the most accurate reproduction.*
 
-# Animation Mentor | Privacy
+# Privacy | Animation Mentor
 
 ## Privacy Policy
 
