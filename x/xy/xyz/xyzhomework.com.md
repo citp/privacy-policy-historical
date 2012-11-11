@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209174409id_/http%3A//xyzhomework.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111095230id_/http%3A//www.xyzhomework.com/privacy_policy) for the most accurate reproduction.*
 
 # XYZ Homework - Privacy Policy
 
@@ -8,7 +8,7 @@ BROWSER CHECK
 
 Confirm that your browser is ready for our online homework system:
 
-[Check Now](https://web.archive.org/imathas/checkbrowser.php)
+[Check Now](https://web.archive.org/browser_check)
 
 ## XYZ Homework Privacy Agreement
 
