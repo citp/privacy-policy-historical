@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thaikisses.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thaikisses.com privacy policy that was archived on 2012-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 TRANSITIONAL//EN"><html dir="ltr"><head>
 <title>Thai Kisses</title>
@@ -13,7 +13,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="Copyright" content="IK Softwareportal GmbH">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><link type="text/css" rel="stylesheet" href="/members/cache/css/7f00fc6ad4b6bdb53b6c6306d99b421c-1338808721.css"><style type="text/css">
+<link type="text/css" rel="stylesheet" href="/members/cache/css/874f291c593dc488ec262934ec617b45-1352379602.css"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="/js/jquery-ui.min.js"></script><script type="text/javascript" src="/members/cache/js/24e934eb861894112c050cb5410e34a4-1352379602.js"></script><style type="text/css">
 <!--
 div.chat_start {
 	margin-top: 0px;
@@ -109,7 +109,49 @@ function load_infosubmit(infourl){
 
 </script>
 </head>	<body bgcolor="#ffffff" text="#000000">
-	<table width="100%" cellspacing="4" cellpadding="0" border="0"><tbody><tr><td align="center">	<div style="background-image: url(/bitmaps//header/title_back.png);">
+
+	<div id="dialogNotAvailableForFree" title="Information" class="hidden" style="overflow: visible">
+	<p>
+		<span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+		This feature is not available with the free membership. To use this function, please upgrade your membership to Gold Membership.	</p><hr>
+	<div style="text-align: center">
+		<button onclick="window.open('/mem_buycredits.php?l=en'); $('#dialogNotAvailableForFree').dialog('close'); return false" class="bra btn-green" style="font-size: 1.2em; width: 80%">Upgrade your membership</button>
+	</div>
+	<p></p>
+</div>
+<div id="dialogPrivateInfo" title="Show private data" class="hidden" style="overflow: visible">
+			<p>
+			<span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+			There is information like email address or phone number. To see this information please upgrade your membership to Gold membership.		</p><hr>
+		<div style="text-align: center">
+			<button data-bind="click: btnClick" class="bra btn-green" style="font-size: 1.2em; width: 80%">Upgrade your membership</button>
+		</div>
+		<p></p>
+		</div>
+<script type="text/javascript">
+	function IKDialogPrivateInfoModel(_isMonthPackage) {
+		var self = this;
+
+		var destUrl = '';
+		var isMonthPackage = _isMonthPackage;
+
+		self.openDialog = function(l, contactId) {
+			if (isMonthPackage) {
+				destUrl = '/mem_contactperson?l='+l+'&id='+contactId;
+			} else {
+				destUrl = '/mem_buycredits.php?l='+l;
+			}
+			$('#dialogPrivateInfo').dialog({modal: true});
+		};
+		self.btnClick = function() {
+			window.open(destUrl);
+			$('#dialogPrivateInfo').dialog('close');
+		};
+	}
+	ik_DialogPrivateInfoModel = new IKDialogPrivateInfoModel(false);
+	ko.applyBindings(ik_DialogPrivateInfoModel, document.getElementById('dialogPrivateInfo'));
+</script>
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center">	<div style="background-image: url(/bitmaps//header/title_back.png);">
 	<table border="0" cellpadding="0" cellspacing="0" align="center">
 		<tbody><tr valign="top">
 			<td>
@@ -155,12 +197,12 @@ function load_infosubmit(infourl){
 					<input type="hidden" name="p" value="s">
 					<input type="hidden" name="a" value="manual">
 				<tbody><tr>
-					<td>Username</td>
-					<td><input type="text" size="10" maxlength="50" name="id"></td>
+					<td><nobr>Username</nobr></td>
+					<td><input type="text" size="20" maxlength="50" name="id"></td>
 				</tr>
 				<tr>
-					<td>Password</td>
-					<td><input type="password" size="10" maxlength="50" name="password"></td>
+					<td><nobr>Password</nobr></td>
+					<td><input type="password" size="20" maxlength="50" name="password"></td>
 				</tr>
 				<tr>
 					<td colspan="2" align="center">
@@ -176,10 +218,10 @@ function load_infosubmit(infourl){
 	</div>
 	
 
-	<table width="1020px" cellpadding="2" cellspacing="0"><tbody><tr><td><a href="index.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Home</a></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><a href="browse_members.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Browse</a></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><ul class="dropdownmenu"><li>Search<ul><li><a href="a_search_all.php?l=en&amp;randm=3&amp;randw=5" class="menu_text"><span>Search (new)</span></a></li><li><a href="search.php?l=en&amp;randm=3&amp;randw=5" class="menu_text"><span>Search(old)<span></span></span></a></li></ul></li></ul></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><a href="join_now.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Register</a></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><a href="gallery.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Galleries</a></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><a href="statistik.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Statistic</a></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><a href="testimonials.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Success Stories</a></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><a href="login.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Member's login</a></td><td>&nbsp;&nbsp;|&nbsp;&nbsp;</td><td><a href="impressum.php?l=en&amp;randm=3&amp;randw=5" class="menu_text">Contact us</a></td></tr></tbody></table>
+	</td></tr></tbody></table><table align="center" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center"><div id="topcontainer"><ul class="top-menu menu-row ui-corner-top"><li class="first"><a class="" href="index.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;index.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Home</a></li><li><a class="" href="browse_members.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;browse_members.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Browse</a></li><li><a class="" href="join_now.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;join_now.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Register</a></li><li><a class="" href="a_search_all.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;a_search_all.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Search</a></li><li><a class="" href="gallery.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;gallery.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Galleries</a></li><li><a class="" href="statistik.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;statistik.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Statistic</a></li><li><a class="" href="testimonials.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;testimonials.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Success Stories (44)</a></li><li><a class="" href="login.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;login.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Member's login</a></li><li><a class="" href="impressum.php?l=en&amp;randm=3&amp;randw=5" onclick="load_info(&quot;impressum.php?l=en&amp;randm=3&amp;randw=5&quot;,&quot;index_dating.php?source=&quot;)">Contact us</a></li></ul></div><div class="ui-widget ui-helper-hidden" id="site-messages"></div>
 <table border="0" cellspacing="0" cellpadding="0">
  <tbody><tr>
- <td width="550" height="528" valign="top">
+ <td width="100%" height="528" valign="top">
 
 <!-- Ende Header -->
 <table border="0" cellspacing="0" cellpadding="0" width="840"><tbody><tr><td colspan="3" style="background-image: url(/bitmaps/border/rahmen_o.gif);"><img src="/bitmaps/spacer.gif" width="31" height="11"></td></tr><tr class="back"><td style="background-image: url(/bitmaps/border/rahmen_l.gif);" width="18"><img src="/bitmaps/border/rahmen_l.gif" width="18" height="1"></td><td height="400" align="center" valign="top" class="back"><table cellspacing="0" cellpadding="1">
@@ -279,78 +321,86 @@ This disclaimer is to be regarded as part of the internet publication which you 
   </tr>
 </tbody></table>
 </td><td style="background-image: url(/bitmaps/border/rahmen_r.gif);" width="16"><img src="/bitmaps/spacer.gif" width="18" height="1"></td></tr><tr><td colspan="3" style="background-image: url(/bitmaps/border/rahmen_u.gif);"><img src="/bitmaps/spacer.gif" width="45" height="24"></td></tr></tbody></table>
-<table><tbody><tr><td><a href="/hotel_thailand.php" target="_blank">Hotel Thailand</a> | </td><td><a href="/learn_thai.php?language=thai&amp;l=en" target="_blank">Learn Thai</a></td><td> | <a href="freeware.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Freeware</a></td><td> | <a href="languages_all.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Languages</a></td><td> | <a href="datasavety.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Privacy Policy</a></td><td> | <a href="agb.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Terms of service</a></td></tr></tbody></table><div id="ajax"></div><!-- Footer -->
-</td>
+<table><tbody><tr><td><a href="/hotel_thailand.php" target="_blank">Hotel Thailand</a> | </td><td><a href="/learn_thai.php?language=thai&amp;l=en" target="_blank">Learn Thai</a></td><td> | <a href="freeware.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Freeware</a></td><td> | <a href="languages_all.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Languages</a></td><td> | <a href="datasavety.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Privacy Policy</a></td><td> | <a href="agb.php?l=en&amp;randm=3&amp;randw=5" target="_blank">Terms of service</a></td></tr></tbody></table>174.129.237.157<br<div id="ajax"></br<div></td>
+
+<!-- Footer -->
 
 <td valign="top">
 
 <table border="0" cellspacing="0" cellpadding="0" width="176"><tbody><tr><td>&nbsp;</td><td align="center"><img src="/bitmaps/border/rahmen_title.gif" width="150" height="30"></td><td>&nbsp;</td></tr><tr><td colspan="3" style="background-image: url(/bitmaps/border/rahmen_o.gif);"><img src="/bitmaps/spacer.gif" width="31" height="11"></td></tr><tr class="back"><td style="background-image: url(/bitmaps/border/rahmen_l.gif);" width="18"><img src="/bitmaps/border/rahmen_l.gif" width="18" height="1"></td><td height="417" align="center" valign="top" class="back">
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="middle"><td height="100%">
 		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr><td colspan="2"><table width="100%"><tbody><tr><td alight="right"><script type="text/javascript">
-	<!--
-	google_ad_client = "ca-pub-6765849889836224";
-	google_ad_slot = "8888543136";
-	google_ad_width = 160;
-	google_ad_height = 600;
-	//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script></td></tr></tbody></table></td></tr><tr>
+		<tbody><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=64445&amp;&amp;randm=3&amp;randw=5" alt="Jürgen, 54&nbsp;years" title="Jürgen, 54&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_05/thai-female_64445_210228-87.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=315246&amp;&amp;randm=3&amp;randw=5" alt="Kasinee, 30&nbsp;years" title="Kasinee, 30&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=315246&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_08/phuket_315246_124556-162.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=250414&amp;&amp;randm=3&amp;randw=5" alt="Noona, 26&nbsp;years" title="Noona, 26&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_10/thai-female_250414_125248-920.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=88941&amp;&amp;randm=3&amp;randw=5" alt="Mike, 52&nbsp;years" title="Mike, 52&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=88941&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_09/phuket_88941_133015-791.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=138913&amp;&amp;randm=3&amp;randw=5" alt="Nuenjun, 37&nbsp;years" title="Nuenjun, 37&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_04/thai-female_138913_174822-301.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=262933&amp;&amp;randm=3&amp;randw=5" alt="Ana, 34&nbsp;years" title="Ana, 34&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=262933&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_04/phuket_262933_164922-359.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=223409&amp;&amp;randm=3&amp;randw=5" alt="Freddie, 55&nbsp;years" title="Freddie, 55&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_10/thai-female_223409_051814-194.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=268786&amp;&amp;randm=3&amp;randw=5" alt="Pantira, 36&nbsp;years" title="Pantira, 36&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=268786&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_10/phuket_268786_110906-651.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=204536&amp;&amp;randm=3&amp;randw=5" alt="Ilona, 36&nbsp;years" title="Ilona, 36&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_10/thai-female_204536_184740-497.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=297455&amp;&amp;randm=3&amp;randw=5" alt="Donatus, 47&nbsp;years" title="Donatus, 47&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=297455&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_07/phuket_297455_222714-503.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=275123&amp;&amp;randm=3&amp;randw=5" alt="Anchalee, 34&nbsp;years" title="Anchalee, 34&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_11/thai-female_275123_155127-338.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=276688&amp;&amp;randm=3&amp;randw=5" alt="Arunee, 43&nbsp;years" title="Arunee, 43&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=276688&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_03/phuket_276688_072944-208.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=175994&amp;&amp;randm=3&amp;randw=5" alt=", 26&nbsp;years" title=", 26&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_03/thai-female_175994_201253-331.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=94381&amp;&amp;randm=3&amp;randw=5" alt="Napaprat, 28&nbsp;years" title="Napaprat, 28&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=94381&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_09/phuket_94381_230314-862.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=252581&amp;&amp;randm=3&amp;randw=5" alt="Antonette, 19&nbsp;years" title="Antonette, 19&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_05/thai-female_252581_171509-382.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=201077&amp;&amp;randm=3&amp;randw=5" alt="Michael, 64&nbsp;years" title="Michael, 64&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=201077&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_10/phuket_201077_164637-621.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=252935&amp;&amp;randm=3&amp;randw=5" alt="Orakunya, 32&nbsp;years" title="Orakunya, 32&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_03/thai-female_252935_201621-97.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=293426&amp;&amp;randm=3&amp;randw=5" alt="Minmelin, 47&nbsp;years" title="Minmelin, 47&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=293426&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_08/phuket_293426_112236-177.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=99551&amp;&amp;randm=3&amp;randw=5" alt="Lai, 25&nbsp;years" title="Lai, 25&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_11/thai-female_99551_134818-951.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=174493&amp;&amp;randm=3&amp;randw=5" alt="Kitty, 37&nbsp;years" title="Kitty, 37&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=174493&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_07/phuket_174493_184735-923.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=176629&amp;&amp;randm=3&amp;randw=5" alt="Jennifer, 42&nbsp;years" title="Jennifer, 42&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_06/thai-female_176629_143952-245.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=263852&amp;&amp;randm=3&amp;randw=5" alt="May, 40&nbsp;years" title="May, 40&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=263852&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_06/phuket_263852_122306-949.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=222304&amp;&amp;randm=3&amp;randw=5" alt="Kusuar, 35&nbsp;years" title="Kusuar, 35&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_05/thai-female_222304_164428-644.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=276636&amp;&amp;randm=3&amp;randw=5" alt="Thon, 43&nbsp;years" title="Thon, 43&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=276636&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_06/phuket_276636_112329-572.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=264309&amp;&amp;randm=3&amp;randw=5" alt="Neeranood, 23&nbsp;years" title="Neeranood, 23&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_09/thai-female_264309_140935-299.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=177530&amp;&amp;randm=3&amp;randw=5" alt="Shay, 40&nbsp;years" title="Shay, 40&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=177530&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_03/phuket_177530_075935-2.jpg" border="1"></a>
 					</td>
 				</tr><tr>
 					<td height="132" align="center" valign="middle">
-					<a href="/view.php?l=en&amp;id=256215&amp;&amp;randm=3&amp;randw=5" alt="Pranee, 32&nbsp;years" title="Pranee, 32&nbsp;years"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_11/thai-female_256215_121739-681.jpg" border="1"></a>
+					<a href="/view.php?l=en&amp;id=95103&amp;&amp;randm=3&amp;randw=5" alt="Pannida, 43&nbsp;years" title="Pannida, 43&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=95103&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_08/phuket_95103_194759-167.jpg" border="1"></a>
+					</td>
+				</tr><tr>
+					<td height="132" align="center" valign="middle">
+					<a href="/view.php?l=en&amp;id=304735&amp;&amp;randm=3&amp;randw=5" alt="Lee, 40&nbsp;years" title="Lee, 40&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=304735&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_08/phuket_304735_225440-828.jpg" border="1"></a>
+					</td>
+				</tr><tr>
+					<td height="132" align="center" valign="middle">
+					<a href="/view.php?l=en&amp;id=239404&amp;&amp;randm=3&amp;randw=5" alt="Mery, 41&nbsp;years" title="Mery, 41&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=239404&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_03/phuket_239404_152755-746.jpg" border="1"></a>
+					</td>
+				</tr><tr>
+					<td height="132" align="center" valign="middle">
+					<a href="/view.php?l=en&amp;id=263210&amp;&amp;randm=3&amp;randw=5" alt="Phonmirin, 39&nbsp;years" title="Phonmirin, 39&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=263210&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_08/phuket_263210_065614-806.jpg" border="1"></a>
+					</td>
+				</tr><tr>
+					<td height="132" align="center" valign="middle">
+					<a href="/view.php?l=en&amp;id=253589&amp;&amp;randm=3&amp;randw=5" alt="Nillapa, 48&nbsp;years" title="Nillapa, 48&nbsp;years" onclick="load_info('/view.php?l=en&amp;id=253589&amp;&amp;&amp;randm=3&amp;randw=5','index_dating.php?source=')"><img class="border" src="http://photo1.thaikisses.com/members/uploads/xx_01/phuket_253589_175123-441.jpg" border="1"></a>
 					</td>
 				</tr>		</tbody></table>
 </td></tr></tbody></table>
@@ -358,9 +408,5 @@ This disclaimer is to be regarded as part of the internet publication which you 
 </td>
 </tr>
 </tbody></table> <!-- Ende Table Hauptinhalt -->
-
-</td>
-</tr>
-</tbody></table> <!-- Ende Table Gesamtfenster -->
-
+</td></tr></tbody></table>
 </body></html>
