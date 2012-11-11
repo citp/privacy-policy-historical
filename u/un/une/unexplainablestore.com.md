@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the unexplainablestore.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615214603id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unexplainablestore.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111134432id_/http%3A//www.unexplainablestore.com/privacy.php) for the most accurate reproduction.*
 
 # Unexplainable Store- Privacy Policy
 
-Any and all information collected is secure and will not be sold or given to any party besides Unexplainable.net and The Unexplainable Store®. We understand your privacy is our business, and we take it seriously.
+Any and all information collected is secure and will not be sold or given to any party besides The Unexplainable Store®. We understand your privacy is our business, and we take it seriously.
 
 This is the web site of **unexplainablestore.com.**
 
 Our postal address is  
-**PO Box 486  
-Effort, PA 18330**
+**PO Box 803338 # 91747  
+Chicago, IL 60680-3338**
 
 We can be reached via e-mail at unexplainablestore.net@gmail.com
 
