@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpit.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224030528id_/http%3A//www.kpitcummins.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpit.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111220140id_/http%3A//www.kpitcummins.com/home/privacy-policy) for the most accurate reproduction.*
 
 # KPIT Cummins Privacy Policy
 
