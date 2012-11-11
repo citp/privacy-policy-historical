@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cabletv.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505082242id_/http%3A//www.cabletv.com/comcast/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabletv.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111034813id_/http%3A//www.cabletv.com/comcast/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Comcast.usdirect.com
+# Privacy Policy | CableTV.com
 
 The purpose of this Privacy Policy is to give you a summary of the ways in which Clear Link Technologies, LLC d/b/a cabletv.com collects, maintains, and uses your information. Please feel free to contact us by email at privacy@clear-link.com or by mail at Clear Link Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.
 
@@ -22,6 +22,8 @@ We collect various types of Customer Information. A summary of the types of info
 
 -Website Usage Information. Website Usage Information is information that we collect that tells us about the way you use and navigate through our websites.
 
+-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to explain customer site usability You can choose to disable the Service at <http://www.clicktale.net/disable.html>
+
 ### Security Measures
 
 Clear Link Technologies, LLC has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Customer Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Customer Information in order to provide the products and services that you request.
@@ -36,7 +38,7 @@ All of your Customer Information is used in an effort to process your orders and
 
 ### Opt-out Procedures
 
-To opt out from receiving further communications from us regarding other offers and promotions, or to opt out from having your information shared with any Third Party Advertisers, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20120505082242id_/http%3A//www.cabletv.com/comcast/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at <http://clear-link.com/unsubscribe>. 
+To opt out from receiving further communications from us regarding other offers and promotions, or to opt out from having your information shared with any Third Party Advertisers, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20121111034813id_/http%3A//www.cabletv.com/comcast/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at <http://clear-link.com/unsubscribe>. 
 
 ### Telemarketing
 
@@ -48,7 +50,7 @@ We will update this Privacy Policy from time to time to reflect changes in our b
 
 ### Access to information
 
-Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20120505082242id_/http%3A//www.cabletv.com/comcast/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clear Link Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
+Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at [privacy@clear-link.com](https://web.archive.org/web/20121111034813id_/http%3A//www.cabletv.com/comcast/privacy@clear-link.com) or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clear Link Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
 
 ### If You Are a Resident of California
 
