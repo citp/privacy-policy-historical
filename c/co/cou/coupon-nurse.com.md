@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608234214id_/http%3A//coupon-nurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111171843id_/http%3A//coupon-nurse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Nurse
 
 Privacy Policy for www.coupon=nurse.com
 
 The privacy of our visitors to www.coupon=nurse.com is important to us. 
+
+THIS BLOG claims no credit for any images posted on this site unless otherwise noted. Images on this blog are copyright to its respectful owners. If there is an image appearing on this blog that belongs to you and do not wish for it appear on this site, please E-mail with a link to said image and it will be promptly removed.
 
 At www.coupon=nurse.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.coupon=nurse.com, and how we safeguard your information. We never sell your personal information to third parties.
 
