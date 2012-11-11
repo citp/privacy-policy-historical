@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiangeographic.com.au privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528051642id_/http%3A//www.australiangeographic.com.au/journal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiangeographic.com.au privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111175756id_/http%3A//www.australiangeographic.com.au/journal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Geographic
 
@@ -95,6 +95,10 @@ The National Privacy Principles require ACP to not store personal information lo
 Under the Commonwealth Privacy Act, you have the right to obtain access to any personal information which ACP holds about you and to advise ACP of any perceived inaccuracy. There are some exceptions to this right set out in the Act.
 
 To make a request to access any information ACP holds about you, please contact ACP in writing as set out below. ACP will require you to verify your identity and specify what information you require. ACP may charge a fee to cover the cost of verifying your application and locating, retrieving, reviewing and copying any material requested. If the information sought is extensive, ACP will advise of the likely cost in advance and can help to refine your request if required.
+
+### eNewsletters and Third Party messages
+
+Australian Geographic sends a range of editorial newsletters, which you can subscribe to [here](http://www.australiangeographic.com.au/Register.htm). We may also send you emails in partnership with sponsors, generally no more than once per week. We endeavour to ensure sponsorship emails contain offers or messages which are relevant to the Australian Geographic audience. If you have indicated in your account preferences to receive emails from Australian Geographic, ACP Magazines and third parties / partners you will receive these emails. Conversely, [you can unsubscribe from the emails here](http://www.australiangeographic.com.au/unsubscribe.htm) and [give us feedback on them here.](http://www.australiangeographic.com.au/contact-us.htm)
 
 ### How to contact ACP Magazines
 
