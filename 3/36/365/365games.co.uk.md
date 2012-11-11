@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517055035id_/http%3A//www.365games.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111061849id_/http%3A//www.365games.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,11 +89,7 @@ You have the right to ask for a copy of your personal Data on payment of a small
 
 www.365games.co.uk may set and access Cookies on your computer.
 
-A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
-
-You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly.
-
-You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
+A Cookie is a small file that resides on your computer's hard drive and often contains anonymous data. [Please click here to view our Cookie Policy](http://www.365games.co.uk/page/cookie-policy).
 
 ## 9\. Changes to this Policy
 
