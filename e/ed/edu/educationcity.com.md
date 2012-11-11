@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509233148id_/http%3A//us.educationcity.com/us/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111183517id_/http%3A//us.educationcity.com/us/content/privacy-policy) for the most accurate reproduction.*
 
 # Education City Privacy Policy
 
@@ -9,10 +9,6 @@ We are committed to making your use of the Site easy and enjoyable as possible. 
 EducationCity.com reserves the right to modify this Privacy Policy at any time without giving you prior notice. Your use of the Site following any such modification constitutes your agreement to be bound by this Privacy Policy as modified.
 
 I. What personally identifiable information does EducationCity.com collect from me and how does EducationCity.com use my information?
-
-To create an account, we collect your name, email address, child/children’s name and date of birth and your home address. You will then receive a password that you will need to gain access to our site. We will initially use this information to set up your account, to send you a registration confirmation email and to send you further information about our product or services.
-
-Referral emails that you initiate from the "Tell a Friend" page of our account will be sent by us on your behalf and will display your email address. By opting to use this form, you are consenting to our terms if a referral signs up for an account; he/she will be subject to the same standards of our Privacy Policy and our users.
 
 We use other trusted third party business partners to host a short survey or offer form on the Site which, with your consent, will collect the personally identifiable information entered on the preceding address form page in order to supply you with information about various special offers and services. If you agree to participate in a special offer hosted by a third party business partner, your personally identifiable information included in the short survey or offer form will be transferred by our third party business partners to EducationCity.com only.  All information provided to our third party business partners is subject to the posted privacy policies of our third party business partners. For your protection, our third party business partners are prohibited from accessing any of your personal information until you consent to such transfer and such business partner has provided you a link to its privacy policy. We urge you to review such privacy policy before consenting to the transfer of your personal information.
 
@@ -60,7 +56,7 @@ b. Other: EducationCity.com may also disclose account information in special cas
 
 c. Acquisitions. EducationCity.com may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that EducationCity.com or all of its assets are acquired, customer information, including any visitor information collected through the Site, would be one of the transferred assets.
 
-d. Access. At any time you may send us an email to support@educationCity.com or by postal mail addressed to: EducationCity.com, 55 S. Main Street Suite 271 Naperville, IL 60540 to request a listing of all the types of your personal information disclosed by EducationCity.com to third parties and business partners. If requested, EducationCity.com will provide an e-mail response within thirty (30) days informing you of the recipients of your personally identifiable information and the type of information disclosed to third parties, or business partners.
+d. Access. At any time you may send us an email to support@educationCity.com or by postal mail addressed to: EducationCity.com, 3232 McKinney Ave, Suite 400, Dallas, TX 75204, to request a listing of all the types of your personal information disclosed by EducationCity.com to third parties and business partners. If requested, EducationCity.com will provide an e-mail response within thirty (30) days informing you of the recipients of your personally identifiable information and the type of information disclosed to third parties, or business partners.
 
 V. What security precautions are in place to protect the loss, misuse, or alteration of my information?
 
@@ -88,14 +84,16 @@ If you have a question that was not addressed in this Privacy Policy, you may co
 
 Attention: Customer Services – Education City.com 
 
-55 S. Main Street
+3232 McKinney Ave,
 
-Suite 271
+Suite 400,
 
-Naperville, IL 60540
+Dallas,
+
+TX 75204
 
 DATE OF LAST MODIFICATION
 
-December 2010
+October 2012
 
-© Copyright 2010
+© Copyright 2012
