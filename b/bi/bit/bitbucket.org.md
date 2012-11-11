@@ -1,108 +1,142 @@
-> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511081112id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitbucket.org privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111174942id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy and Legal Statement - Atlassian | Atlassian
 
-Atlassian adheres to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, and/or other identifiable information).
+Last Updated: October 22, 2012 
 
-## Gathering and Use of Information
+## Scope
 
-  1. We will never share your information with third parties outside Atlassian unless you give express permission for us to do so, or unless we are required to do so under applicable law.
-  2. In order to participate in some activities, you might be asked to provide some personally identifiable information. This could be in connection with the following: 
-    * software evaluation registration
-    * subscription registration for sites or services which require subscription (such as e-mail newsletters)
-    * purchase transactions
-    * content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting
-    * contest or sweepstakes registration
-    * bug submission
-    * feature request
-  3. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-  4. If you chose to have a relationship with Atlassian, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
-  5. Employees of Atlassian or approved contractors or resellers have access to personally identifiable customer information. All employees, contractors, and resellers are legally bound to uphold this policy and observe your right to privacy and confidentiality. We will never share your information with third parties outside Atlassian unless you give express permission for us to do so, or unless we are required to do so under applicable law.
-  6. If you call us to find out whether another person or party within your organisation has evaluated or purchased our software, we may disclose that information, but you will be required to demonstrate proof that you belong to the organisation that you are inquiring about. Atlassian will not willfully disclose your personal information to any third party without first receiving your permission.
-  7. As an international company, Atlassian maintains databases in Australia and the United States. Any information that you submit to us via our Websites may be sent electronically to a database maintained in either country. We protect your privacy around the world by ensuring that this Website and all Atlassian networks adhere to data-protection principles described in this page.
-  8. We store all email transactions and strive to keep records of phone calls with customers, partners, and software evaluators so we have a history of our interactions that can be used for Pre-Sales Support and Technical Support.
-  9. We may occasionally conduct online surveys that may ask you for demographic information (your location, position, tool use, etc.) If the online survey collects contact data such as your e-mail address (although generally they do not), we will use that data to send you further information only if the form specifically asks for your permission and you give it. You are free to revoke any such permission at any time.
-  10. The Atlassian family of websites contain links to other sites. Atlassian is not responsible for the privacy practices or the content of these linked websites.
-  11. You can opt out of receiving e-mail communications from Atlassian at any time. You only need to [e-mail us](https://web.archive.org/company/contact) to have your name and details removed from our e-mail list or registration database. Although opt-out requests are usually processed immediately, please allow five (5) business days for the removal to be processed.
-  12. Transactions are recorded, including, but not limited to, when a user downloads software, purchases, logs into his/her account, or generates a software license key. We do not store any credit card or bank account information on any online systems that can be accessed remotely.
-  13. As you surf around Atlassian's websites, it is possible that several cookies will be set on your computer. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the website. In addition, third party vendors (including Google) show our ads on websites on the internet and use cookies to serve ads based on your prior visits to our websites. You may opt out of Google's cookies by visiting the  [ _Google advertising opt-out page_](http://www.google.com/privacy_ads.html) _.  _
-  14. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click-stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our website and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics
+This Privacy Policy applies to information, including Personal Information, Atlassian collects through your use of Atlassian's Services. By using Atlassian's Services and accepting the [End User License Agreement](http://www.atlassian.com/licensing/license) or [Terms of Service](http://www.atlassian.com/hosted/terms), as applicable, you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use Atlassian's Services. The terms "We," "Us," "Our," or "Atlassian" includes Atlassian and our affiliates. It explains how we may collect, use, and disclose information we obtain through "Atlassian's Services."
+
+(More Info)
+
+## Information We Collect
+
+We collect data about you from a variety of sources, including:
+
+  * Information you provide to us directly;
+  * Information we collect in connection with your use of Atlassian's Services; and
+  * Information we collect from Atlassian plug-ins and integrations with third-party products, such as Google Apps.
 
 
 
-## Acceptance Atlassian Privacy Policy Terms and Conditions
+All of the information we collect may be combined to help us tailor our communications to you and to develop and improve our services.
 
-By using this site, you signify your agreement to the terms and conditions of this Atlassian Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. Should we ever need to change this policy, we will post the changes on this page.
+(More Info)
 
-Your continued use of atlassian.com following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/company/contact).
+## How We Use Your Information
 
-* _including but not limited to[www.atlassian.com](http://www.atlassian.com/), [support.atlassian.com](http://support.atlassian.com/), [jira.atlassian.com](http://jira.atlassian.com/), [confluence.atlassian.com](http://confluence.atlassian.com/), [www.onconfluence.com](http://www.onconfluence.com/), [try.atlassian.com](http://try.atlassian.com/), [blogs.atlassian.com](http://blogs.atlassian.com/), and [www.javablogs.com](http://www.javablogs.com/)._
+We use the information we collect to:
 
-## Trademarks
-
-We've developed these guidelines to ensure our company trademarks are properly displayed and remain undiluted across our customer, partner, and plugin ecosystems. Among the reasons our trademark guidelines are important include:
-
-  * We want our brand and brand names to be associated with awesome dev and IT tools. The more focused the use of the brand, the more powerful it will be in the community.
-  * More people and companies are building plugins and becoming partners or ambassadors of Atlassian and our products. They are asking for additional guidelines around how to market, design and brand their plugins and products so they (1) complement the Atlassian product "family", and (2) are distinct from from Atlassian products and brands while remaining part the Atlassian community.
-  * We want to avoid potential conflicts that may arise. If your brand is not clearly differentiated, customers may struggle to identify who to work with or what to buy. As a way of protecting our brands, as well as the best interests of our 3rd party developers and customers, we are sharing publishing these expanded guidelines.
+  * Provide the services you request;
+  * Communicate with you, including customer support;
+  * Report anonymized, aggregate usage statistics;
+  * Deliver marketing and other offers or information related to Atlassian's Services; and
+  * Improve Atlassian's Services.
 
 
 
-### Our Trademarks
+(More Info)
 
-Atlassian has registered some of the trademarks below or has otherwise sought protection as indicated below in Australia, the U.S and other countries. We have done this to protect and preserve the marks for our community of customers, developers, partners, and supporters for the benefit of everyone involved with Atlassian. By this we mean that people should be able to recognize when a product is from Atlassian.
+## How We Share and Disclose Your Information
 
-You may use the Atlassian trademarks below in any blog, news article, or on your website without our written consent, as long as you use them according to this guideline, retain the capitalization structure indicated below, and retain the ® symbol or TM symbol as applicable on the right shoulder of the mark according to the usage in the list below.
+We do not share your Personal Information with other people or nonaffiliated companies for their marketing purposes (including direct marketing purposes). We may use and share Non-Personal Information for our marketing purposes including to display advertisements on other websites. We may share information:
 
-Term | Status | Use  
----|---|---  
-Atlassian | ® | Computer software company, logo and its products / services  
-JIRA | ® | Issue tracking project management software  
-JIRA Studio | ® | Computer software development suite  
-Confluence | ® | Enterprise wiki collaboration software  
-Atlassian Bamboo | ® | Continuous integration software  
-Atlassian Confluence | ® | Enterprise wiki collaboration software  
-Atlassian Crowd | ® | Single sign-on identity management software  
-Atlassian Clover | ® | Code coverage analysis software  
-FishEye | ® | Source code repository software  
-Atlassian Crucible | ® | Intuitive peer code review software  
-GreenHopper | TM | Agile project management for JIRA  
-  
-If you have any questions about the use of Atlassian trademarks, please contact us at [trademarks@atlassian.com](mailto:trademarks@atlassian.com).
-
-### Our logos
-
-Atlassian logos are distinctive graphic renditions. You may use the [Atlassian logo or product logos](https://web.archive.org/company/press#logos) in a blog or news article, publication, book or other online or offline medium, or on your website in reference to the respective Atlassian product, without our written consent, provided that the logos are duplicated exactly as shown in the preceding link, and the ® symbol (or the TM symbol, as applicable) attached to the shoulder of the logo as in the attached link is retained. All other usages of the Atlassian logos require the written approval of Atlassian.
-
-### Name dropping
-
-Trademarks protect Atlassian as well as our community of customers, developers, partners, and vendors. They identify the source of one provider's products from another. By "products" we mean all types of offerings, ranging from commercial products and services to open source and free software and informational websites. Trademark law protects the public's ability to rely on trademarks for information about product source and quality, requiring trademark owners to take steps to police proper use of their marks.
-
-In the Atlassian ecosystem of customers, vendors and partners, the Atlassian product names are used in naming for 3rd party products, product reviews, product usage, and more. Below are some guidelines for using Atlassian product naming conventions in your work:
-
-  * It's okay to use Atlassian's product names and trademarks in your own software product or company naming, however it must be clear that your product is a third-party tool, not an Atlassian-generated tool. 
-
-_For example:_ "Acme plugin for JIRA®" _is okay, whereas_ "JIRA® plugin for Acme" _is not. The former connotes a 3rd party plugin for JIRA®, the latter connotes an Atlassian-developed tool_.
-
-  * It's okay to use Atlassian logos and brand names on your website or blog. You don't need permission from us to use the brands or names.
-  * Your website should look like your website, not ours. It should not borrow heavily from or closely resemble Atlassian's website or web properties. For the sake of customers and consumers, clearly distinguishable websites help everyone.
-  * You may use the Atlassian logo or product logo in any blog, news article, or on your website without our written consent, as long as you follow these guidelines and do not modify our brand designs.
-  * It is acceptable to use Atlassian or our product names or brands in publications, blogs, books or other online or offline mediums, provided this outline is adhered to and the ® symbol or TM symbol as applicable is retained on the right shoulder of the mark. In a longer publication where Atlassian is cited more than once, the trademark symbol need only be used the first time the brand is mentioned.
-  * Do not concatenate product names, e.g., "MyConnectorJIRA."
-  * You are not permitted to modify the Atlassian logo or product logos in anyway except to resize a logo for the page where it's displayed.
+  * With our third-party service suppliers and vendors;
+  * If Atlassian is merged or sold to another company;
+  * To protect and defend the rights and property of Atlassian (including enforcing our End User Agreement); and
+  * When required by law.
 
 
 
-### Atlassian Style
+## DEFINITIONS
 
-In addition to trademarks and service marks, Atlassian has developed artwork, screenshots, and imagery for our website and other web properties.
+"Atlassian's Services" include our products, services, plug-ins, mobile applications, downloadable software, and websites, including Atlassian.com, but not those created by third parties, even when they are accessed through Atlassian.com or available through the Atlassian Marketplace.
 
-Atlassian's "look" or "feel" should not be reproduced or mimicked for the same reasons cited above: consumers and customers can be confused about whether they're dealing with Atlassian or another company. The Atlassian website and all intellectual property rights, including all Copyright rights therein, are owned by Atlassian. Reproduction or "creative borrowing" of the website or artwork without permission is a violation of Atlassian's Copyright. Atlassian product documentation has been released under [Creative Commons Attribution 2.5 Australia License](http://creativecommons.org/licenses/by/2.5/au/) and retains the permissions and rights granted under Creative Commons.
+"Atlassian's Public Services" are Atlassian's Services provided over the public Internet and excludes Atlassian's Services installed on private infrastructure by our clients for their use only.
 
-If there are design elements that you wish to re-use on your website (e.g., to reuse a screenshot), please contact us for permission at [trademarks@atlassian.com](mailto:trademarks@atlassian.com).
+We consider "Personal Information" to include information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-### Grandfathering
+"Non-Personal Information" is all information other than Personal Information.
 
-We realize these guidelines are being introduced at a point in time when some companies and individuals already have product names that include the Atlassian trademarks. Companies and individuals using the Atlassian product trademarks by or before October 1, 2009 will not be required to change their already existing product names to comply with these guidelines now or in the future. However, we do request that these companies and individuals give proper notice and attribution of the Atlassian trademarks, and that any new product name will follow these guidelines.
+## INFORMATION WE COLLECT
 
-If you have any questions about the use of Atlassian marks or logos, please contact us at [trademarks@atlassian.com](mailto:trademarks@atlassian.com).
+**Personal Information Collection.** Atlassian's Services may collect Personal Information from you, including when you register to evaluate, subscribe or obtain a license to a product or service; purchase a product or service; participate in surveys, contests, or sweepstakes; submit bugs; or contact customer service. The categories of Personal Information Atlassian's Services may collect about you include: your name, email address, username, password, location, and billing and credit card information. Atlassian's Public Services may also collect Personal Information you post while using Atlassian's Services, including in free-text fields or during group chat sessions. You should avoid posting your Personal Information in public areas because that information may be viewable to users of Atlassian's Public Services and possibly the Internet.
+
+**Non-Personal Information Collection.** Atlassian may collect Non-Personal Information as you use Atlassian's Services. When you use Atlassian's Public Services, Atlassian, third-party service providers (e.g. Google Analytics), and partners may receive and record Non-Personal Information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. Cookies are small text files that are placed in visitors' computer browsers to uniquely identify and store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, Atlassian's Public Services may not work properly. Atlassian may also use persistent cookies to collect Non-Personal Information for marketing purposes as users browse the Internet. Third-party products to Atlassian's Services are not authorized by Atlassian to collect Personal Information through cookies or similar technologies without your permission.
+
+We may combine some Non-Personal Information with the Personal Information we collect. Where we do so, we will treat the combined information as Personal Information if the resulting combination may be used to readily identify or locate you in the same manner as Personal Information alone.
+
+By using Atlassian's Services, you are authorizing us to gather, parse, and retain data related to the provision and use of Atlassian's Services for our use as described in this Privacy Policy.
+
+**Use of Atlassian Services with Third Party Plug-ins and Integrations.** If you choose to use Atlassian's Services in connection with third-party products and services, whether purchased through the Atlassian Marketplace or acquired elsewhere, Atlassian's Services may have access to information from such third party products or services. Atlassian Services may collect information through your access of the third-party products and services, such as your name, username, email address along with Non-Personal Information about your third party plug-in usage.
+
+Atlassian's Services may also collect information as you use Google Apps. For example, if you choose to embed a Google document into Atlassian's Service, Atlassian may collect information, including the document title, authors, type, ID, and URL. Atlassian's Services collect only links to the content of Google Apps; they do not collect the actual content. For example, Atlassian's Services do not store the contents of email, calendar meetings, or documents from Google Apps.
+
+## HOW WE USE YOUR INFORMATION
+
+**Internal and Service-Related Usage.** We use Personal Information for internal and service-related purposes only. There are very limited circumstances in which we may provide it to third parties to allow us to facilitate Atlassian's Services. For example, a user may choose to purchase a third-party plug-in from Atlassian's Marketplace, which will permit data to be shared between Atlassian's Services and the plug-in vendor.
+
+**To Improve Atlassian's Services.** We may use any information you provide to:
+
+  * Provide customer support;
+  * Track the types of questions we receive;
+  * Analyze trends;
+  * Personalize your experience; and
+  * Otherwise operate and enhance Atlassian's Services.
+
+
+
+**Communications.** We may send you a welcome email to verify your account and other transactional emails for operational purposes, such as billing, account management, or system maintenance. You may only stop those emails by terminating your account. We may also send you promotions, product announcements, surveys, newsletters, developer updates, product evaluations, and event information or other marketing or commercial e-mails. You can opt out of receiving these email communications from Atlassian at any time by unsubscribing using the unsubscribe link within each email, updating your e-mail preferences at my.atlassian.com or emailing us to have your contact information removed from our email list or registration database. Although opt-out requests are usually processed immediately, please allow ten (10) business days for a removal request to be processed.
+
+**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for marketing purposes (including direct marketing purposes) without your permission. We may use and share Non-Personal Information for our marketing purposes, including, without limitation, marketing on other websites. For example, we may use the information to control the number of times you have seen an ad, deliver ads tailored to your interests, and measure the effectiveness of ad campaigns. You can prevent us from tailoring our ads to you on other websites by deleting your cookies.
+
+**Aggregate Data.** Atlassian may anonymize and aggregate data collected through Atlassian's Services and use it for any purpose, including for research and reporting usage. This anonymized aggregate information may be viewable to other users of Atlassian's Services.
+
+**Vendors and Suppliers.** Atlassian's Services uses Personal Information for internal and service-related purposes only and may provide it to third parties to allow Atlassian to offer Atlassian's Services. For example, Atlassian may share billing and credit information with service providers for the purposes of processing credit card transactions.
+
+**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required by law or if those actions are reasonably necessary to:
+
+  * Comply with legal process, such as a court order or subpoena;
+  * Enforce this Privacy Policy or our End User Agreement;
+  * Respond to claims that any content violates the rights of third parties;
+  * Respond to your requests for customer service;
+  * Respond to law enforcement;
+  * Investigate and prevent unauthorized transactions or other illegal activities; or
+  * Protect our or others' rights, property, or personal safety.
+
+
+
+**Merger, Sale, or Other Asset Transfers.** We may disclose information we possess about you as part of a merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your Personal Information would be transferred as one of the business assets of the company. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy.
+
+**To Others Within Your Organization or with Your Permission.** After a person demonstrates proof that he belongs to a certain organization, we may disclose to that person the names of that organization's members who have evaluated or purchased our software. We may also disclose your Personal Information with your permission.
+
+## SECURITY OF YOUR INFORMATION
+
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
+
+By using Atlassian's Services or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of Atlassian's Services. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on Atlassian's Services or sending an email to you. You may have a legal right to receive this notice in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [privacy@atlassian.com](mailto:privacy@atlassian.com).
+
+## UPDATE AND DELETE YOUR INFORMATION
+
+You may update or remove some of your information using Atlassian's Services or by sending us your request to [support@atlassian.com](mailto:support@atlassian.com).
+
+## INTERNATIONAL USERS
+
+By choosing to visit Atlassian's Services or otherwise providing information to us, you agree that any dispute over privacy or this Privacy Policy will be governed by California law.
+
+**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your Personal Information to Australia and the United States to us. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy.**
+
+**** You also consent to the adjudication of any disputes arising in connection with us or Atlassian's Services in accordance with the [End User License Agreement](http://www.atlassian.com/licensing/license) or [Terms of Service](http://www.atlassian.com/hosted/terms), as applicable.
+
+## ADDITIONAL INFORMATION
+
+**New Uses of Personal Information and Other Information.** From time to time, we may use information, including Personal Information, for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change regarding information previously collected, we will take reasonable efforts to provide notice and obtain consent to any such uses as required by law.
+
+**Posting of Revised Privacy Policy.** We will post any changes to this Privacy Policy on this web page. The revised version will be effective at the time it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+
+**Other Websites, Apps, and Plug-ins.** When you navigate away from Atlassian's Services to websites or apps controlled by third parties (including your use of third party Marketplace products), you leave Atlassian's Services, at which point this Privacy Policy no longer applies. You will not receive a warning when you leave Atlassian's Services. If you use third-party products available through Atlassian's Services, this Privacy Policy does not control how they collect, use, and disclose information. However, we require third-parties who publish their products for distribution through Atlassian's Services to provide privacy notices and agree to reasonably adequate privacy and security measures, as required by law.
+
+## QUESTIONS?
+
+If you have questions regarding this Privacy Policy, please email us at [privacy@atlassian.com](mailto:privacy@atlassian.com) or write us at Atlassian Pty Ltd, Level 6, 341 George Street, Sydney, NSW 2000, Australia
