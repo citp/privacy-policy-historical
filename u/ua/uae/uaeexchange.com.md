@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509133218id_/http%3A//www.uaeexchange.com/uae-exchange/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111113434id_/http%3A//www.uaeexchange.com/uae-exchange/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
