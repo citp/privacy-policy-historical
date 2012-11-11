@@ -1,24 +1,42 @@
-<!--The following is the downloaded HTML source of the bitbucket.org privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511081112id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitbucket.org privacy policy that was archived on 2012-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111174942id_/http%3A//www.atlassian.com/about/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy and Legal Statement - Atlassian | Atlassian</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="msvalidate.01" content="3BC1DA51CBC3C49088F3C36D5E1636DC">
-<meta property="og:image" content="http://www.atlassian.com/dms/wac/images/press/logoCharlie.png">
+<meta property="og:image" content="/dms/wac/images/press/logoCharlie.png">
 <meta name="fragment" content="!">
 <!-- g+ --><link href="https://plus.google.com/b/104459306872500508400/" rel="publisher">
 <link rel="icon" type="image/ico" href="/dms/wac/favicon_wac.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/znn3vrw.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.2r1/build/reset/reset-min.css">
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.2r1/build/fonts/fonts-min.css">
-<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/base/jquery-ui.css" type="text/css" media="all">
-<link rel="stylesheet" href="/en/templating-kit-resources/wac/css/main.css?ver=05082012" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" href="/en/templating-kit-resources/wac/css/yui-reset-fonts.css">
+<!-- <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/base/jquery-ui.css" type="text/css" media="all" /> -->
+<link rel="stylesheet" href="/en/templating-kit-resources/wac/css/main.css?ver=20121106" type="text/css" media="all">
 <link rel="stylesheet" href="/en/templating-kit-resources/wac/css/colorbox.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://use.typekit.com/znn3vrw.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="/en/templating-kit-resources/wac/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
+<style>
+.definition {
+background: url(/magnoliaAuthor/dms/wac/images/bgFeatureItem.png) no-repeat center bottom;
+border-bottom: 1px solid
+#D9E7F3;
+padding: 20px 0 43px;
+width: 616px;
+}
+.anchor_link {
+float:right;
+position: relative;
+top: 10px;
+}
+#company.privacy #content .definition h2 {
+margin-top:0;
+}
+#company.privacy #content li {
+margin: 8px;
+}
+</style>
 <!-- google analytics -->
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -38,6 +56,11 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+function recordOutboundLink(link, category) {
+try {
+_gaq.push(['_trackEvent', category , 'outbound', link ]);
+setTimeout('document.location = "' + link + '"', 100) }catch(err){}
+}
 </script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body id="company" class="privacy en">
@@ -58,8 +81,8 @@ Get Help
 </a>
 </li>
 <li>
-<a href="http://plugins.atlassian.com">
-Plugin Exchange
+<a href="https://marketplace.atlassian.com">
+Marketplace
 </a>
 </li>
 <li>
@@ -70,12 +93,12 @@ Blogs
 <li class="languageSelect">
 <a class="" href="#">Languages</a>
 <ul class="languages">
-<li class="selected"><a href="/en//company/privacy">English</a></li>
-<li><a href="/es//company/privacy">Español</a></li>
-<li><a href="/de//company/privacy">Deutsch</a></li>
-<li><a href="/fr//company/privacy">Français</a></li>
-<!--<li><a href="/it//company/privacy">Italiano</a></li>-->
-<li><a href="/ja//company/privacy">日本語</a></li>
+<li class="selected"><a href="/en/company/privacy">English</a></li>
+<li><a href="/es/company/privacy">Español</a></li>
+<li><a href="/de/company/privacy">Deutsch</a></li>
+<li><a href="/fr/company/privacy">Français</a></li>
+<!--<li><a href="/it/company/privacy">Italiano</a></li>-->
+<li><a href="/ja/company/privacy">日本語</a></li>
 </ul>
 </li>
 </ul>
@@ -91,8 +114,8 @@ Blogs
 <div id="userNav">
 <ul>
 <li>
-<form action="/en/wac/search" method="GET" id="searchForm">
-<input type="hidden" name="site" id="siteInput" value="site:www.atlassian.com">
+<form action="/search" method="GET" id="searchForm">
+<!-- <input type="hidden" name="site" id="siteInput" value="site:www.atlassian.com/en"> -->
 <input type="text" name="query" id="searchInput" onblur="this.value = this.value || this.defaultValue;this.className='';" onfocus="this.value='';this.className='focus';">
 <input type="submit" value="Search" id="searchSubmit">
 </form>
@@ -101,18 +124,13 @@ Blogs
 </div>
 </div><!--/.box-->
 </div>
-<script>
-$(function() {
-googleSearch();
-});
-</script>
 <div id="content">
 <div class="box">
 <div class="mainContent">
 <div class="outer">
 <div class="inner">
 <!--9b5faf67-53ac-4d71-842b-be123d22236b-->
-<h1><span class="subTitle">Privacy Policy</span></h1> <p><style type="text/css"> #contentMain ol li { margin-bottom: 1.5em; margin-left: 1em; } #contentMain ul li { margin-bottom: .5em; } #contentMain td, #contentMain th { text-align: left; } </style></p> <p>Atlassian adheres to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, and/or other identifiable information).</p> <h2>Gathering and Use of Information</h2> <ol> <li>We will never share your information with third parties outside Atlassian unless you give express permission for us to do so, or unless we are required to do so under applicable law.</li> <li>In order to participate in some activities, you might be asked to provide some personally identifiable information. This could be in connection with the following: <ul> <li>software evaluation registration</li> <li>subscription registration for sites or services which require subscription (such as e-mail newsletters)</li> <li>purchase transactions</li> <li>content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting</li> <li>contest or sweepstakes registration</li> <li>bug submission</li> <li>feature request</li> </ul> </li> <li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.</li> <li>If you chose to have a relationship with Atlassian, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.</li> <li>Employees of Atlassian or approved contractors or resellers have access to personally identifiable customer information. All employees, contractors, and resellers are legally bound to uphold this policy and observe your right to privacy and confidentiality. We will never share your information with third parties outside Atlassian unless you give express permission for us to do so, or unless we are required to do so under applicable law.</li> <li>If you call us to find out whether another person or party within your organisation has evaluated or purchased our software, we may disclose that information, but you will be required to demonstrate proof that you belong to the organisation that you are inquiring about. Atlassian will not willfully disclose your personal information to any third party without first receiving your permission.</li> <li>As an international company, Atlassian maintains databases in Australia and the United States. Any information that you submit to us via our Websites may be sent electronically to a database maintained in either country. We protect your privacy around the world by ensuring that this Website and all Atlassian networks adhere to data-protection principles described in this page.</li> <li>We store all email transactions and strive to keep records of phone calls with customers, partners, and software evaluators so we have a history of our interactions that can be used for Pre-Sales Support and Technical Support.</li> <li>We may occasionally conduct online surveys that may ask you for demographic information (your location, position, tool use, etc.) If the online survey collects contact data such as your e-mail address (although generally they do not), we will use that data to send you further information only if the form specifically asks for your permission and you give it. You are free to revoke any such permission at any time.</li> <li>The Atlassian family of websites contain links to other sites. Atlassian is not responsible for the privacy practices or the content of these linked websites.</li> <li>You can opt out of receiving e-mail communications from Atlassian at any time. You only need to <a href="/company/contact">e-mail us</a> to have your name and details removed from our e-mail list or registration database. Although opt-out requests are usually processed immediately, please allow five (5) business days for the removal to be processed.</li> <li>Transactions are recorded, including, but not limited to, when a user downloads software, purchases, logs into his/her account, or generates a software license key. We do not store any credit card or bank account information on any online systems that can be accessed remotely.</li> <li>As you surf around Atlassian's websites, it is possible that several cookies will be set on your computer. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the website. In addition, third party vendors (including Google) show our ads on websites on the internet and use cookies to serve ads based on your prior visits to our websites. You may opt out of Google's cookies by visiting the &nbsp;<a href="http://www.google.com/privacy_ads.html"><span class="s1"><i>Google advertising opt-out page</i></span></a><span class="s2"><i>.&nbsp;</i></span></li> <li>Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click-stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our website and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics</li> </ol> <h2>Acceptance Atlassian Privacy Policy Terms and Conditions</h2> <p>By using this site, you signify your agreement to the terms and conditions of this Atlassian Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. Should we ever need to change this policy, we will post the changes on this page.</p> <p>Your continued use of atlassian.com following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please <a href="/company/contact">contact us</a>.</p> <p><sup>*</sup> <em>including but not limited to <a href="http://www.atlassian.com">www.atlassian.com</a>, <a href="http://support.atlassian.com">support.atlassian.com</a>, <a href="http://jira.atlassian.com">jira.atlassian.com</a>, <a href="http://confluence.atlassian.com">confluence.atlassian.com</a>, <a href="http://www.onconfluence.com">www.onconfluence.com</a>, <a href="http://try.atlassian.com">try.atlassian.com</a>, <a href="http://blogs.atlassian.com">blogs.atlassian.com</a>, and <a href="http://www.javablogs.com">www.javablogs.com</a>.</em></p> <h2 id="trademark">Trademarks</h2> <p>We've developed these guidelines to ensure our company trademarks are properly displayed and remain undiluted across our customer, partner, and plugin ecosystems. Among the reasons our trademark guidelines are important include:</p> <ul> <li>We want our brand and brand names to be associated with awesome dev and IT tools. The more focused the use of the brand, the more powerful it will be in the community.</li> <li>More people and companies are building plugins and becoming partners or ambassadors of Atlassian and our products. They are asking for additional guidelines around how to market, design and brand their plugins and products so they (1) complement the Atlassian product "family", and (2) are distinct from from Atlassian products and brands while remaining part the Atlassian community.</li> <li>We want to avoid potential conflicts that may arise. If your brand is not clearly differentiated, customers may struggle to identify who to work with or what to buy. As a way of protecting our brands, as well as the best interests of our 3rd party developers and customers, we are sharing publishing these expanded guidelines.</li> </ul> <h3>Our Trademarks</h3> <p>Atlassian has registered some of the trademarks below or has otherwise sought protection as indicated below in Australia, the U.S and other countries. We have done this to protect and preserve the marks for our community of customers, developers, partners, and supporters for the benefit of everyone involved with Atlassian. By this we mean that people should be able to recognize when a product is from Atlassian.</p> <p>You may use the Atlassian trademarks below in any blog, news article, or on your website without our written consent, as long as you use them according to this guideline, retain the capitalization structure indicated below, and retain the ® symbol or <sup class="trademark">TM</sup> symbol as applicable on the right shoulder of the mark according to the usage in the list below.</p> <table width="100%" cellspacing="0"> <thead> <tr> <th width="30%">Term</th> <th width="5%">Status</th> <th width="65%">Use</th> </tr> </thead> <tbody> <tr> <td class="c3">Atlassian</td> <td>®</td> <td>Computer software company, logo and its products / services</td> </tr> <tr> <td>JIRA</td> <td>®</td> <td>Issue tracking project management software</td> </tr> <tr> <td>JIRA Studio</td> <td>®</td> <td>Computer software development suite</td> </tr> <tr> <td>Confluence</td> <td>®</td> <td>Enterprise wiki collaboration software</td> </tr> <tr> <td>Atlassian Bamboo</td> <td>®</td> <td>Continuous integration software</td> </tr> <tr> <td>Atlassian Confluence</td> <td>®</td> <td>Enterprise wiki collaboration software</td> </tr> <tr> <td>Atlassian Crowd</td> <td>®</td> <td>Single sign-on identity management software</td> </tr> <tr> <td>Atlassian Clover</td> <td>®</td> <td>Code coverage analysis software</td> </tr> <tr> <td>FishEye</td> <td>®</td> <td>Source code repository software</td> </tr> <tr> <td>Atlassian Crucible</td> <td>®</td> <td>Intuitive peer code review software</td> </tr> <tr> <td>GreenHopper</td> <td><sup class="trademark">TM</sup></td> <td>Agile project management for JIRA</td> </tr> </tbody> </table> <p>If you have any questions about the use of Atlassian trademarks, please contact us at <a href="mailto:trademarks@atlassian.com">trademarks@atlassian.com</a>.</p> <h3>Our logos</h3> <p>Atlassian logos are distinctive graphic renditions. You may use the <a href="/company/press#logos">Atlassian logo or product logos</a> in a blog or news article, publication, book or other online or offline medium, or on your website in reference to the respective Atlassian product, without our written consent, provided that the logos are duplicated exactly as shown in the preceding link, and the ® symbol (or the <sup class="trademark">TM</sup> symbol, as applicable) attached to the shoulder of the logo as in the attached link is retained. All other usages of the Atlassian logos require the written approval of Atlassian.</p> <h3>Name dropping</h3> <p>Trademarks protect Atlassian as well as our community of customers, developers, partners, and vendors. They identify the source of one provider's products from another. By "products" we mean all types of offerings, ranging from commercial products and services to open source and free software and informational websites. Trademark law protects the public's ability to rely on trademarks for information about product source and quality, requiring trademark owners to take steps to police proper use of their marks.</p> <p>In the Atlassian ecosystem of customers, vendors and partners, the Atlassian product names are used in naming for 3rd party products, product reviews, product usage, and more. Below are some guidelines for using Atlassian product naming conventions in your work:</p> <ul> <li>It's okay to use Atlassian's product names and trademarks in your own software product or company naming, however it must be clear that your product is a third-party tool, not an Atlassian-generated tool. <p style="margin:.5em 0 1em"><em>For example:</em> "Acme plugin for JIRA®" <em>is okay, whereas</em> "JIRA® plugin for Acme" <em>is not. The former connotes a 3rd party plugin for JIRA®, the latter connotes an Atlassian-developed tool</em>.</p> </li> <li>It's okay to use Atlassian logos and brand names on your website or blog. You don't need permission from us to use the brands or names.</li> <li>Your website should look like your website, not ours. It should not borrow heavily from or closely resemble Atlassian's website or web properties. For the sake of customers and consumers, clearly distinguishable websites help everyone.</li> <li>You may use the Atlassian logo or product logo in any blog, news article, or on your website without our written consent, as long as you follow these guidelines and do not modify our brand designs.</li> <li>It is acceptable to use Atlassian or our product names or brands in publications, blogs, books or other online or offline mediums, provided this outline is adhered to and the ® symbol or <sup class="trademark">TM</sup> symbol as applicable is retained on the right shoulder of the mark. In a longer publication where Atlassian is cited more than once, the trademark symbol need only be used the first time the brand is mentioned.</li> <li>Do not concatenate product names, e.g., "MyConnectorJIRA."</li> <li>You are not permitted to modify the Atlassian logo or product logos in anyway except to resize a logo for the page where it's displayed.</li> </ul> <h3>Atlassian Style</h3> <p>In addition to trademarks and service marks, Atlassian has developed artwork, screenshots, and imagery for our website and other web properties.</p> <p>Atlassian's "look" or "feel" should not be reproduced or mimicked for the same reasons cited above: consumers and customers can be confused about whether they're dealing with Atlassian or another company. The Atlassian website and all intellectual property rights, including all Copyright rights therein, are owned by Atlassian. Reproduction or "creative borrowing" of the website or artwork without permission is a violation of Atlassian's Copyright. Atlassian product documentation has been released under <a href="http://creativecommons.org/licenses/by/2.5/au/">Creative Commons Attribution 2.5 Australia License</a> and retains the permissions and rights granted under Creative Commons.</p> <p>If there are design elements that you wish to re-use on your website (e.g., to reuse a screenshot), please contact us for permission at <a href="mailto:trademarks@atlassian.com">trademarks@atlassian.com</a>.</p> <h3>Grandfathering</h3> <p>We realize these guidelines are being introduced at a point in time when some companies and individuals already have product names that include the Atlassian trademarks. Companies and individuals using the Atlassian product trademarks by or before October 1, 2009 will not be required to change their already existing product names to comply with these guidelines now or in the future. However, we do request that these companies and individuals give proper notice and attribution of the Atlassian trademarks, and that any new product name will follow these guidelines.</p> <p>If you have any questions about the use of Atlassian marks or logos, please contact us at <a href="mailto:trademarks@atlassian.com">trademarks@atlassian.com</a>.</p> <p>&nbsp;</p>
+<div class="licensingContent" style="padding-top: 0"> <h1>Privacy Policy</h1> Last Updated: October 22, 2012 <div class="definition"> <h2>Scope</h2> <p>This Privacy Policy applies to information, including Personal Information, Atlassian collects through your use of Atlassian's Services. By using Atlassian's Services and accepting the <a href="http://www.atlassian.com/licensing/license">End User License Agreement</a> or <a href="http://www.atlassian.com/hosted/terms">Terms of Service</a>, as applicable, you also agree to this Privacy Policy. If you do not agree to this Privacy Policy, you must not use Atlassian's Services. The terms "We," "Us," "Our," or "Atlassian" includes Atlassian and our affiliates. It explains how we may collect, use, and disclose information we obtain through "Atlassian's Services."</p> </div> <div class="definition"><a href="#information_we_collect" class="anchor_link">(More Info)</a> <h2>Information We Collect</h2> <p>We collect data about you from a variety of sources, including:</p> <ul> <li>Information you provide to us directly;</li> <li>Information we collect in connection with your use of Atlassian's Services; and</li> <li>Information we collect from Atlassian plug-ins and integrations with third-party products, such as Google Apps.</li> </ul> <p>All of the information we collect may be combined to help us tailor our communications to you and to develop and improve our services.</p> </div> <div class="definition"><a href="#how_we_use_your_information" class="anchor_link">(More Info)</a> <h2>How We Use Your Information</h2> <p>We use the information we collect to:</p> <ul> <li>Provide the services you request;</li> <li>Communicate with you, including customer support;</li> <li>Report anonymized, aggregate usage statistics;</li> <li>Deliver marketing and other offers or information related to Atlassian's Services; and</li> <li>Improve Atlassian's Services.</li> </ul> </div> <div class="definition"><a href="#how_we_share_and_disclose" class="anchor_link">(More Info)</a> <h2>How We Share and Disclose Your Information</h2> <p>We do not share your Personal Information with other people or nonaffiliated companies for their marketing purposes (including direct marketing purposes). We may use and share Non-Personal Information for our marketing purposes including to display advertisements on other websites. We may share information:</p> <ul> <li>With our third-party service suppliers and vendors;</li> <li>If Atlassian is merged or sold to another company;</li> <li>To protect and defend the rights and property of Atlassian (including enforcing our End User Agreement); and</li> <li>When required by law.</li> </ul> </div> <h2 id="definitions">DEFINITIONS</h2> <p>"Atlassian's Services" include our products, services, plug-ins, mobile applications, downloadable software, and websites, including Atlassian.com, but not those created by third parties, even when they are accessed through Atlassian.com or available through the Atlassian Marketplace.</p> <p>"Atlassian's Public Services" are Atlassian's Services provided over the public Internet and excludes Atlassian's Services installed on private infrastructure by our clients for their use only.</p> <p>We consider "Personal Information" to include information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.</p> <p>"Non-Personal Information" is all information other than Personal Information.</p> <h2 id="information_we_collect">INFORMATION WE COLLECT</h2> <p><strong>Personal Information Collection.</strong> Atlassian's Services may collect Personal Information from you, including when you register to evaluate, subscribe or obtain a license to a product or service; purchase a product or service; participate in surveys, contests, or sweepstakes; submit bugs; or contact customer service. The categories of Personal Information Atlassian's Services may collect about you include: your name, email address, username, password, location, and billing and credit card information. Atlassian's Public Services may also collect Personal Information you post while using Atlassian's Services, including in free-text fields or during group chat sessions. You should avoid posting your Personal Information in public areas because that information may be viewable to users of Atlassian's Public Services and possibly the Internet.</p> <p><strong>Non-Personal Information Collection.</strong> Atlassian may collect Non-Personal Information as you use Atlassian's Services. When you use Atlassian's Public Services, Atlassian, third-party service providers (e.g. Google Analytics), and partners may receive and record Non-Personal Information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. Cookies are small text files that are placed in visitors' computer browsers to uniquely identify and store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, Atlassian's Public Services may not work properly. Atlassian may also use persistent cookies to collect Non-Personal Information for marketing purposes as users browse the Internet. Third-party products to Atlassian's Services are not authorized by Atlassian to collect Personal Information through cookies or similar technologies without your permission.</p> <p>We may combine some Non-Personal Information with the Personal Information we collect. Where we do so, we will treat the combined information as Personal Information if the resulting combination may be used to readily identify or locate you in the same manner as Personal Information alone.</p> <p>By using Atlassian's Services, you are authorizing us to gather, parse, and retain data related to the provision and use of Atlassian's Services for our use as described in this Privacy Policy.</p> <p><strong>Use of Atlassian Services with Third Party Plug-ins and Integrations.</strong> If you choose to use Atlassian's Services in connection with third-party products and services, whether purchased through the Atlassian Marketplace or acquired elsewhere, Atlassian's Services may have access to information from such third party products or services. Atlassian Services may collect information through your access of the third-party products and services, such as your name, username, email address along with Non-Personal Information about your third party plug-in usage.</p> <p>Atlassian's Services may also collect information as you use Google Apps. For example, if you choose to embed a Google document into Atlassian's Service, Atlassian may collect information, including the document title, authors, type, ID, and URL. Atlassian's Services collect only links to the content of Google Apps; they do not collect the actual content. For example, Atlassian's Services do not store the contents of email, calendar meetings, or documents from Google Apps.</p> <h2 id="how_we_use_your_information">HOW WE USE YOUR INFORMATION</h2> <p><strong>Internal and Service-Related Usage.</strong> We use Personal Information for internal and service-related purposes only. There are very limited circumstances in which we may provide it to third parties to allow us to facilitate Atlassian's Services. For example, a user may choose to purchase a third-party plug-in from Atlassian's Marketplace, which will permit data to be shared between Atlassian's Services and the plug-in vendor.</p> <p><strong>To Improve Atlassian's Services.</strong> We may use any information you provide to:</p> <ul> <li>Provide customer support;</li> <li>Track the types of questions we receive;</li> <li>Analyze trends;</li> <li>Personalize your experience; and</li> <li>Otherwise operate and enhance Atlassian's Services.</li> </ul> <p><strong>Communications.</strong> We may send you a welcome email to verify your account and other transactional emails for operational purposes, such as billing, account management, or system maintenance. You may only stop those emails by terminating your account. We may also send you promotions, product announcements, surveys, newsletters, developer updates, product evaluations, and event information or other marketing or commercial e-mails. You can opt out of receiving these email communications from Atlassian at any time by unsubscribing using the unsubscribe link within each email, updating your e-mail preferences at my.atlassian.com or emailing us to have your contact information removed from our email list or registration database. Although opt-out requests are usually processed immediately, please allow ten (10) business days for a removal request to be processed.</p> <p><strong>Marketing.</strong> We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for marketing purposes (including direct marketing purposes) without your permission. We may use and share Non-Personal Information for our marketing purposes, including, without limitation, marketing on other websites. For example, we may use the information to control the number of times you have seen an ad, deliver ads tailored to your interests, and measure the effectiveness of ad campaigns. You can prevent us from tailoring our ads to you on other websites by deleting your cookies.</p> <p><strong>Aggregate Data.</strong> Atlassian may anonymize and aggregate data collected through Atlassian's Services and use it for any purpose, including for research and reporting usage. This anonymized aggregate information may be viewable to other users of Atlassian's Services.</p> <h2 id="how_we_share_and_disclose">HOW WE SHARE AND DISCLOSE YOUR INFORMATION</h2> <p><strong>Vendors and Suppliers.</strong> Atlassian's Services uses Personal Information for internal and service-related purposes only and may provide it to third parties to allow Atlassian to offer Atlassian's Services. For example, Atlassian may share billing and credit information with service providers for the purposes of processing credit card transactions.</p> <p><strong>As Required By Law and Similar Disclosures.</strong> We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required by law or if those actions are reasonably necessary to:</p> <ul> <li>Comply with legal process, such as a court order or subpoena;</li> <li>Enforce this Privacy Policy or our End User Agreement;</li> <li>Respond to claims that any content violates the rights of third parties;</li> <li>Respond to your requests for customer service;</li> <li>Respond to law enforcement;</li> <li>Investigate and prevent unauthorized transactions or other illegal activities; or</li> <li>Protect our or others' rights, property, or personal safety.</li> </ul> <p><strong>Merger, Sale, or Other Asset Transfers.</strong> We may disclose information we possess about you as part of a merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your Personal Information would be transferred as one of the business assets of the company. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy.</p> <p><strong>To Others Within Your Organization or with Your Permission.</strong> After a person demonstrates proof that he belongs to a certain organization, we may disclose to that person the names of that organization's members who have evaluated or purchased our software. We may also disclose your Personal Information with your permission.</p> <h2 id="security_of_information">SECURITY OF YOUR INFORMATION</h2> <p>We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.</p> <p>By using Atlassian's Services or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of Atlassian's Services. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on Atlassian's Services or sending an email to you. You may have a legal right to receive this notice in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at <a href="mailto:privacy@atlassian.com">privacy@atlassian.com</a>.</p> <h2 id="update_and_delete">UPDATE AND DELETE YOUR INFORMATION</h2> <p>You may update or remove some of your information using Atlassian's Services or by sending us your request to <a href="mailto:support@atlassian.com">support@atlassian.com</a>.</p> <h2>INTERNATIONAL USERS</h2> <p>By choosing to visit Atlassian's Services or otherwise providing information to us, you agree that any dispute over privacy or this Privacy Policy will be governed by California law.</p> <p><strong>If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your Personal Information to Australia and the United States to us. By providing your Personal Information, you consent to any transfer and processing in accordance with this Policy. </strong></p> <p><strong> </strong> You also consent to the adjudication of any disputes arising in connection with us or Atlassian's Services in accordance with the <a href="http://www.atlassian.com/licensing/license">End User License Agreement</a> or <a href="http://www.atlassian.com/hosted/terms">Terms of Service</a>, as applicable.</p> <h2>ADDITIONAL INFORMATION</h2> <p><strong>New Uses of Personal Information and Other Information.</strong> From time to time, we may use information, including Personal Information, for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change regarding information previously collected, we will take reasonable efforts to provide notice and obtain consent to any such uses as required by law.</p> <p><strong>Posting of Revised Privacy Policy.</strong> We will post any changes to this Privacy Policy on this web page. The revised version will be effective at the time it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.</p> <p><strong>Other Websites, Apps, and Plug-ins.</strong> When you navigate away from Atlassian's Services to websites or apps controlled by third parties (including your use of third party Marketplace products), you leave Atlassian's Services, at which point this Privacy Policy no longer applies. You will not receive a warning when you leave Atlassian's Services. If you use third-party products available through Atlassian's Services, this Privacy Policy does not control how they collect, use, and disclose information. However, we require third-parties who publish their products for distribution through Atlassian's Services to provide privacy notices and agree to reasonably adequate privacy and security measures, as required by law.</p> <h2>QUESTIONS?</h2> <p>If you have questions regarding this Privacy Policy, please email us at <a href="mailto:privacy@atlassian.com">privacy@atlassian.com</a> or write us at Atlassian Pty Ltd, Level 6, 341 George Street, Sydney, NSW 2000, Australia</p> <p>&nbsp;</p> </div> <p>&nbsp;</p>
 </div>
 </div>
 </div>
@@ -127,16 +145,17 @@ googleSearch();
 <h4><a href="/software">Products</a></h4>
 <ul>
 <li><a href="/software/jira/overview" class="">JIRA</a></li>
-<li><a href="/software/confluence/overview" class="">Confluence</a></li>
+<li><a href="/software/confluence/overview/team-collaboration-software" class="">Confluence</a></li>
 <li><a href="/software/greenhopper/overview" class="">GreenHopper</a></li>
 <li><a href="/software/bonfire/overview" class="">Bonfire</a></li>
 <li><a href="/software/team-calendars/overview" class="">Team Calendars</a></li>
-<li><a href="/software/sharepoint-connector/overview" class="">SharePoint Connector</a></li>
 <li><a href="/software/stash/overview" class="">Stash</a></li>
 <li><a href="/software/bamboo/overview" class="">Bamboo</a></li>
 <li><a href="/software/fisheye/overview" class="">FishEye</a></li>
 <li><a href="/software/crucible/overview" class="">Crucible</a></li>
 <li><a href="/software/bitbucket/overview" class="">Bitbucket</a></li>
+<li><a href="/software/hipchat/overview" class="">HipChat</a></li>
+<li><a href="https://marketplace.atlassian.com" class="">Marketplace</a></li>
 <li><a href="/software" class="cta">All Products <span class="arrow">»</span></a></li>
 </ul>
 </div>
@@ -144,13 +163,13 @@ googleSearch();
 <h4><a href="/resources">Resources</a></h4>
 <ul>
 <li><a href="/resources/support" class="">Get Help</a></li>
-<li><a href="/resources/experts" class="">Experts</a></li>
+<li><a href="/resources/experts" class="">Expert Partners</a></li>
 <li><a href="/resources/training" class="">Training</a></li>
 <li><a href="/licensing/purchase-licensing" class="">Purchasing FAQ</a></li>
 <li><a href="/tv" class="">AtlassianTV</a></li>
 <li><a href="http://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation" class="">Documentation</a></li>
-<li><a href="http://plugins.atlassian.com" class="">Add-ons</a></li>
 <li><a href="/resources/alliances" class="">Alliances</a></li>
+<li><a href="/software/enterprise/overview" class="">Enterprise</a></li>
 <li><a href="https://my.atlassian.com/purchase" class="">Get a Quote</a></li>
 <li><a href="/download" class="">Download</a></li>
 </ul>
@@ -164,13 +183,13 @@ googleSearch();
 <li><a href="/company/customers" class="">Customers</a></li>
 <li><a href="/company/press" class="">Press</a></li>
 <li><a href="/company/contact" class="">Contact</a></li>
+<li><a href="/company/about/foundation" class="">Foundation</a></li>
 </ul>
 </div>
 <div class="col">
 <h4><a href="/company/community">Community</a></h4>
 <ul>
 <li><a href="/company/community#events" class="">Events</a></li>
-<li><a href="http://summit.atlassian.com" class="">Atlassian Summit 2012</a></li>
 <li><a href="http://confluence.atlassian.com/display/AUG/Home" class="">Atlassian User Groups</a></li>
 <li><a href="https://developer.atlassian.com/" class="">Atlassian Developers</a></li>
 <li><a href="http://answers.atlassian.com/" class="">Answers Forum</a></li>
@@ -201,43 +220,35 @@ Please enter a valid email address.
 <!-- Social Links -->
 <li id="linkFacebook"><a href="http://www.facebook.com/AtlassianSoftware">Facebook</a></li>
 <li id="linkTwitter"><a href="http://twitter.com/atlassian">Twitter</a></li>
+<li id="linkGoogle"><a href="https://plus.google.com/104459306872500508400" rel="publisher">Google+</a></li>
 <li id="linkBlogs"><a href="http://blogs.atlassian.com">Blogs</a></li>
-<li id="linkFeeds"><a href="https://my.atlassian.com/feeds">Feed Center</a></li>
+<li id="linkFeeds"><a href="http://www.atlassian.com/feeds">Feeds</a></li>
 </ul>
+<div class="footer-try-button">
+<a href="/try" class="button buttonDefBlue"><span class="buttonTxt">Free 30-Day Trial</span></a>
+</div>
 </div>
 <div id="copyright">
 <ul>
-<!-- TODO: Magnoliatize this whole section, should the year be dynamic? yes I think so -->
 <li>
 Copyright © 2012 Atlassian. All rights reserved.
 &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
 <a class="" href="/company/privacy">Privacy</a>
 &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-<a class="" href="/company/privacy#trademark">Trademark</a>
+<a class="" href="/company/trademark">Trademark</a>
 </li>
 </ul>
 </div>
 </div><!--/.box-->
 </div>
 <!-- end footer section -->
+<!-- GreenHopper 6.0 MEERKAT (not ondemand)-->
+<!-- Bamboo 4.3 MEERKAT -->
 </div>
 <script>if ( typeof window.JSON === 'undefined' ) { document.write('<script src="/en/templating-kit-resources/wac/js/json2.js"><\/script>'); }</script>
-<script src="/en/templating-kit-resources/wac/js/jquery-url.js"></script>
-<!-- <script src="/en/templating-kit-resources/wac/js/amplify-store.js"></script> -->
-<script src="/en/templating-kit-resources/wac/js/history-adapter-jquery.js"></script>
-<script src="/en/templating-kit-resources/wac/js/history.js"></script>
-<script src="/en/templating-kit-resources/wac/js/history-html4.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/en/templating-kit-resources/wac/js/jquery-serialScroll-1-2-2-min.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/jquery-scrollTo-1-4-2-min.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/jquery-localscroll-1-2-7-min.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/jquery-colorbox-min.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/jquery-fancyletter-min.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/meerkat.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/hashchange.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/jquery-throttle.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/jquery-cookie.js" type="text/javascript" charset="utf-8"></script>
-<script src="/en/templating-kit-resources/wac/js/scripts.js?v=05082012" type="text/javascript" charset="utf-8"></script>
+<script src="/en/templating-kit-resources/wac/js/jquery-plugins-min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/en/templating-kit-resources/wac/js/scripts.js?ver=20121103"></script>
 <script type="text/javascript">
 $(document).ready(function() {
 var deviceAgent = navigator.userAgent.toLowerCase();
@@ -257,26 +268,9 @@ $('.emailError').show();
 return false;
 }
 });
-$('.expandable tr.hasDescription').click(function(){
-if (!$(this).hasClass('open')) {
-$('.description').hide();
-$('.expandable tr').removeClass('open');
-$(this).addClass('open').next('.description').slideDown('fast');
-} else {
-$(this).removeClass('open').next('.description').slideUp('fast');
-}
 });
-$('.accordionBox li.hasDescription').click(function(){
-if (!$(this).hasClass('open')) {
-$('.description').slideUp('fast');
-$('.accordionBox li').removeClass('open');
-$(this).addClass('open').find('.description').stop().slideDown('fast');
-} else {
-$(this).removeClass('open').find('.description').slideUp('fast');
-}
-});
-});
-</script><!-- tracking pixel -->
+</script>
+<!-- tracking pixel -->
 <script type="text/javascript">
 adroll_adv_id = "32VY3BYAQRHLDDVMBEAGU2";
 adroll_pix_id = "7Q44S6SDXNA4NE4TSAUFGF";
@@ -316,11 +310,11 @@ var google_conversion_label = "WhtRCPDupQMQ0KSpyAM";
 var google_conversion_value = 0;
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/956977744/?label=WhtRCPDupQMQ0KSpyAM&guid=ON&script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/956977744/?label=WhtRCPDupQMQ0KSpyAM&guid=ON&script=0"/>
 </div>
 </noscript>
 
