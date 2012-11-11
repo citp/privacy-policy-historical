@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507014049id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111125306id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
 
-# Free Psychic Reading & Tarot Reading: Privacy Notice | Psychic center.com
+# Free Psychic Reading & Tarot Reading: Privacy Policy | Psychic center.com
 
-|    
+  |   
 **Horoscope.com Privacy Policy**
 
 Horoscope.com, Inc. ( **"we"** or **"Horoscope.com"** ) has created this privacy policy ( **"Privacy Policy"** ) to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized products and services (collectively, **"Offerings"** ) and exchanging information on our web sites located at Horoscope.com, AstroCenter.com and PsychicCenter.com ( **"Sites"** ). This Privacy Policy outlines the privacy practices for the Sites and is incorporated into and subject to the terms and conditions of our Terms of Service for the Sites (the **"Terms of Service"** ). If any term of this Privacy Policy is inconsistent or conflicts with any term of the Terms of Service, this Privacy Policy will control with respect to the subject matter of this Privacy Policy. Any capitalized term used but not defined in this Privacy Policy has the meaning set forth in the [Terms of Service](http://www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx?Des=TOS&Af=0). 
@@ -129,3 +129,5 @@ Email: [privacy@horoscope.com](mailto:privacy@horoscope.com)
 Phone: 415 615 9028 
 
 This Privacy Policy was last revised on March 8 2011. 
+
+|  
