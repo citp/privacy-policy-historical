@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartable.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611050110id_/http%3A//apartable.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartable.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111042553id_/http%3A//apartable.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Apartable
 
