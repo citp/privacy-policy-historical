@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxox.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602050315id_/http%3A//www.voxox.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxox.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111162600id_/http%3A//www.voxox.com/index/privacy) for the most accurate reproduction.*
 
 # VoxOx Privacy Policy | VoxOx | Call, Text, Chat, Fax and More. One Place to Connect
 
