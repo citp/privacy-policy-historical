@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostcats.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504225011id_/http%3A//www.hostcats.com/prip.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcats.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111110747id_/http%3A//www.hostcats.com/prip.php) for the most accurate reproduction.*
 
-# Web Hosting India, Web Host India, Cheap Web Hosting in India
+# Privacy Policy
 
 Hostcats.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting any of the sites offered by Hostcats.com., you are accepting the practices described in this Privacy Notice. For question on the Privacy Notice please contact legal@hostcats.com.- What Personal Information About Customers Does Hostcats.com Gather? Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services (e.g., domain name registration, DNS hosting), and communicating with you. 
 
