@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gobble.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508010835id_/https%3A//www.gobble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobble.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111020833id_/https%3A//www.gobble.com/privacy) for the most accurate reproduction.*
 
-# Gobble - Privacy
+# Privacy - Gobble
 
 1\. Our Commitment to Privacy
 
