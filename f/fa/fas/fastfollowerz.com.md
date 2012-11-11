@@ -1,32 +1,27 @@
-> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622075738id_/http%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111042925id_/http%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Fast Followerz
-
-## Privacy Policy
+# Privacy
 
 Fast Followerz is fully committed to providing a safe and private buying experience to our customers. We NEVER share any of your account details with anyone.
 
-**What information do we collect?** We collect information from you when you register on our site or place an order.
+**What information do we collect?**  
+We collect information from you when you register on our site or place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-**What do we use your information for?**
-
+**What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:
 
-; To improve customer service  
+To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions
+To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
+To send periodic emails  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order as well as periodic newsletters or promotional materials.
 
-; To send periodic emails
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order as well as periodic newsletters or promotional materials.
-
-**How do we protect your information?**
-
+**How do we protect your information?**  
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
@@ -61,6 +56,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.fastfollowerz.com  
-503 Harrell St  
-Blacksburg, VA 24060help@fastfollowerz.com
+Fast Followerz LLC  
+848 N. Rainbow Blvd. #2931  
+Las Vegas, NV 89107
