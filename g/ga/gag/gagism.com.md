@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gagism.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615035236id_/http%3A//www.gagism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagism.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111231206id_/http%3A//www.gagism.com/privacy-policy) for the most accurate reproduction.*
 
-# Gagism | Privacy Policy
+# Privacy Policy « Gagism
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at admin[at]gagism[dot]com
 
