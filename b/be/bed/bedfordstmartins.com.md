@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedfordstmartins.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612115039id_/http%3A//bedfordstmartins.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedfordstmartins.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111065120id_/http%3A//www.bedfordstmartins.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
 
 # Bedford/St. Martin's :: PrivacyPolicy
 
