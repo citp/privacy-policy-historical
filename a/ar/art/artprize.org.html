@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artprize.org privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605080015id_/http%3A//www.artprize.org/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artprize.org privacy policy that was archived on 2012-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111090120id_/http%3A//www.artprize.org/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
 <title>Privacy Policy</title>
@@ -15,11 +15,15 @@
 
 <link href="http://assets.artprize.org/assets/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <meta name="viewport" content="width=device-width; initial-scale=1.0">
-<meta property="og:image" content="http://assets2.artprize.org/assets/img/logo.png">
 
 <div class="fit-vids-style">­<style>            .fluid-width-video-wrapper {           width: 100%;                        position: relative;                 padding: 0;                         }                                                  .fluid-width-video-wrapper iframe,     .fluid-width-video-wrapper object,     .fluid-width-video-wrapper embed {     position: absolute;                 top: 0;                             left: 0;                            width: 100%;                        height: 100%;                       }                                    </style></div><script id="twitter-wjs" src="//web.archive.org/web/20120430071349/http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.com/yze0cwq.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script type="text/javascript" src="/assets/js/modernizr.min.js"></script>
+<meta property="og:image" content="http://assets.artprize.org/assets/img/social-icon.jpg">
+<meta property="og:type" content="website">
+
+
+<meta property="fb:app_id" content="314146928636924"> 
 
 <script type="text/javascript">
 
@@ -52,66 +56,49 @@ window.fbAsyncInit = function() {
 
 
 function login(args) {
-	 window.location = '/members/signin/facebook?code=' + args.authResponse.accessToken;
-}
+			window.location = '/members/signin/facebook?code=' + args.authResponse.accessToken;
+	}
 
 </script>
 
-<header id="page-header" class="endcap">
+<header id="page-header">
 <div class="wrapper">
 		<a id="branding" href="/">
-		<img src="http://assets3.artprize.org/assets/img/logo.png" alt="The ArtPrize Logo">
+		<img src="http://assets2.artprize.org/assets/img/logo.png" alt="The ArtPrize Logo">
 		<h1 class="section-heading">ArtPrize</h1> 
 	</a>
 
 	<nav id="primary-nav">
-		<h1 class="section-heading">Primary Navigation</h1>
+		<h1 class="section-heading">Menu</h1>
 
-		<ul id="main-pages" class="block-list nav-list">
-			<li><a id="find-btn" class="nav-btn" href="/entries">Find Art</a></li>
-			<li><a id="involve-btn" class="nav-btn" href="/get-involved">Get Involved</a></li>
+		<ul id="main-pages" class="block-list nav-list inline-list">
+			<li><a id="find-btn" class="nav-btn main-btn" href="/entries">Find Art</a></li>
+			<li><a id="visit-btn" class="nav-btn main-btn" href="/visit">Plan Your Visit</a></li>
+			<li><a id="involve-btn" class="nav-btn main-btn" href="/get-involved">Get Involved</a></li>
+			<li class="section-heading"><a id="about-btn" class="nav-btn main-btn" href="/about">About</a></li>
+			<li class="section-heading"><a id="news-btn" class="nav-btn main-btn" href="/news">News</a></li>
+			<li class="section-heading"><a id="events-btn" class="nav-btn main-btn" href="/visit/events">Events</a></li>
+			<li class="section-heading"><a id="donate-btn" class="nav-btn main-btn" href="/donate">Donate</a></li>
+			<li class="section-heading"><a id="help-btn" class="nav-btn main-btn" href="/help">Help</a></li>
 		</ul>
-
+		
+						<ul id="account-tools" class="block-list nav-list inline-list btn-list">
+			<li><a id="signup-btn" class="nav-btn account-btn" href="/members/signup">Sign Up</a></li>
+			<li><a id="signin-btn" class="nav-btn account-btn" href="/members/signin">Sign In</a></li>
+		</ul>
+		
+		 
+		
 		<form id="main-search" class="search-form" method="post" action="/search">
 			<label for="search-keywords">Search:</label>
-			<input type="text" id="search-keywords" class="search-field" name="keywords" placeholder="What are you looking for?" autocomplete="off">
+			<input type="text" id="search-keywords" class="search-field h4" name="keywords" autocomplete="off">
 			<button class="icon clear-search" type="reset">Clear</button>
 			<div class="suggestions search-suggest" style="display: none;"></div>
 		</form><!-- /#main-search -->
-				<ul id="account-tools" class="block-list nav-list">
-			<li><a id="signup-btn" class="nav-btn" href="/members/signup">Sign Up</a>
-			</li>
-			<li><a id="signin-btn" class="nav-btn expand" href="/members/signin">Sign In <span class="tip">▾</span></a>
-	
-				<div id="signin-box" class="modal">
-					<a class="button connect-btn" onclick="FB.login(login, {'scope':'publish_actions,offline_access,email, user_birthday, user_location, user_likes'})">Sign in with Facebook</a>
-					
-					<form id="header-signin" method="post" action="/members/signin" novalidate="">
-						<fieldset>
-							<ul class="block-list">
-								<li><label class="instruction" for="signin-email">Email Address</label>
-									<input type="email" id="signin-email" name="email" placeholder="email address">
-								</li>
-								<li><label class="instruction" for="signin-password">Password</label>
-									<input type="password" id="signin-password" name="password" placeholder="password">
-								</li>
-							</ul>
-						</fieldset>
-	
-						<button class="unit" type="submit">Sign In</button>
-	
-						<ul class="block-list help-links">
-							<li><a href="/members/forgotpassword">forgot password?</a></li>
-							<li><a href="/members/signup">create an account</a></li>
-						</ul>
-					</form>
-				</div>
-			</li>
-		</ul>
-		 
+		
 		<script type="text/javascript">
 		function thumbnailError(source){
-		    source.src = "http://assets4.artprize.org/assets/img/placeholder.T.jpg";
+		    source.src = "http://assets3.artprize.org/assets/img/placeholder.T.jpg";
 		    source.onerror = "";
 		    return true;
 		}
@@ -126,113 +113,81 @@ function login(args) {
 
 		<h1>Privacy Policy</h1>
 		
-			<p><strong><span class="caps">EFFECTIVE</span> <span class="caps">DATE</span>: April 4th, 2009</strong></p>
+		<p>
+	<strong><span class="caps">EFFECTIVE</span> DATE: April 4th, 2009</strong></p>
+<p>
+	ArtPrize® Grand Rapids (“ArtPrize”) values the privacy of its web site visitors and hopes that the following statement helps you understand how ArtPrize collects, uses, and safeguards the personal information you provide us through our web site, artprize.org and its pages (“Site”):</p>
+<p>
+	When you visit the Site, ArtPrize collects personally identifiable information. Personally identifiable information is information that is not otherwise publicly available, and may include such things as your first and last name, e-mail address, zip code, image, username and password, and other information that you provide to us. Do not submit information that you do not want ArtPrize to access. ArtPrize may use personally identifiable information to provide information and services to Site users and to allow ArtPrize to (i) respond to user questions and comments, (ii) analyze and monitor consumer and customer activity, (iii) promote and support ArtPrize products and services, (iv) develop a knowledge base regarding its Site users; and (v) verify the authenticity of votes or other information received in connection with ArtPrize. ArtPrize may disclose personally identifiable information in response to law enforcement activity, to enforce its contracts or property rights, or when required by law. Information collected may also be transferred in connection with the sale or merger of the company or any division or business line of the company to which the information relates. If ArtPrize hires any third parties to perform services relating to the way the Site functions, it will require them to protect your personally identifiable information in the same way that ArtPrize does.<br>
+	In addition to the disclosures set forth above, ArtPrize may aggregate personally identifiable information about its users and disclose such information in a non-personally identifiable manner to third parties (including advertisers) for marketing, promotional, and other purposes. In those cases, the third parties will not be able to identify any individual user of the Site based on the disclosures.</p>
+<p>
+	ArtPrize may also use different technologies, such as cookies, to passively collect information. The information collected might include the date and time you visit the Site, logs from your browser, your Internet Protocol (IP) address, and the pages you requested. This information will usually be used to (i) customize the advertising and content you see, (ii) process and confirm your entries and votes for our contest, (iii) contact you, and (iv) enhance your experience. Your browser must be set up to accept cookies in order to fully utilize certain areas of the Site.<br>
+	ArtPrize intends to use commercially reasonable means to protect the integrity of its Site and the confidentiality of the personally identifiable information that you provide. While ArtPrize considers online security a priority, it cannot provide absolute assurances against, and will not be liable for, any breaches of confidentiality due to system failures or unauthorized access by third parties.</p>
+<p>
+	ArtPrize intends this Site for use only by individuals who are 18 years of age or older. Although you may vote in a contest if you are 16 years of age or older, please do not use the Site without the permission and involvement of a parent or guardian if you are not at least 18 years of age.</p>
+<p>
+	ArtPrize reserves the right to change this Privacy Policy at any time. When material changes have been made to this Privacy Policy, ArtPrize will indicate this fact on the Site with a link to the revised version of the Privacy Policy. Any material change to this Privacy Policy will also be indicated on the main page of our Site with a link to the revised Privacy Policy. Please check the Privacy Policy regularly to review the changes.</p>
+<p>
+	If you do provide ArtPrize with personally identifiable information, then you may opt out of additional uses of your personally identifiable information. To opt out, email <a href="mailto:support@artprize.org">support@artprize.org</a>.</p>
+<p>
+	Questions regarding the Site or this Privacy Policy should be sent to <a href="mailto:support@artprize.org">support@artprize.org</a>.</p>
 
-	<p>ArtPrize® Grand Rapids (“ArtPrize”) values the privacy of its web site visitors and hopes that the following statement helps you understand how ArtPrize collects, uses, and safeguards the personal information you provide us through our web site, artprize.org and its pages (“Site”):<br>
-When you visit the Site, ArtPrize collects personally identifiable information. Personally identifiable information is information that is not otherwise publicly available, and may include such things as your first and last name, e-mail address, zip code, image, username and password, and other information that you provide to us. Do not submit information that you do not want ArtPrize to access. ArtPrize may use personally identifiable information to provide information and services to Site users and to allow ArtPrize to (i) respond to user questions and comments, (ii) analyze and monitor consumer and customer activity, (iii) promote and support ArtPrize products and services, (iv) develop a knowledge base regarding its Site users; and (v) verify the authenticity of votes or other information received in connection with ArtPrize. ArtPrize may disclose personally identifiable information in response to law enforcement activity, to enforce its contracts or property rights, or when required by law. Information collected may also be transferred in connection with the sale or merger of the company or any division or business line of the company to which the information relates. If ArtPrize hires any third parties to perform services relating to the way the Site functions, it will require them to protect your personally identifiable information in the same way that ArtPrize does.<br>
-In addition to the disclosures set forth above, ArtPrize may aggregate personally identifiable information about its users and disclose such information in a non-personally identifiable manner to third parties (including advertisers) for marketing, promotional, and other purposes. In those cases, the third parties will not be able to identify any individual user of the Site based on the disclosures.<br>
-ArtPrize may also use different technologies, such as cookies, to passively collect information. The information collected might include the date and time you visit the Site, logs from your browser, your Internet Protocol (IP) address, and the pages you requested. This information will usually be used to (i) customize the advertising and content you see, (ii) process and confirm your entries and votes for our contest, (iii) contact you, and (iv) enhance your experience. Your browser must be set up to accept cookies in order to fully utilize certain areas of the Site.<br>
-ArtPrize intends to use commercially reasonable means to protect the integrity of its Site and the confidentiality of the personally identifiable information that you provide. While ArtPrize considers online security a priority, it cannot provide absolute assurances against, and will not be liable for, any breaches of confidentiality due to system failures or unauthorized access by third parties.<br>
-ArtPrize intends this Site for use only by individuals who are 18 years of age or older. Although you may vote in a contest if you are 16 years of age or older, please do not use the Site without the permission and involvement of a parent or guardian if you are not at least 18 years of age.<br>
-ArtPrize reserves the right to change this Privacy Policy at any time. When material changes have been made to this Privacy Policy, ArtPrize will indicate this fact on the Site with a link to the revised version of the Privacy Policy. Any material change to this Privacy Policy will also be indicated on the main page of our Site with a link to the revised Privacy Policy. Please check the Privacy Policy regularly to review the changes.</p>
-
-	<p>If you do provide ArtPrize with personally identifiable information, then you may opt out of additional uses of your personally identifiable information. To opt out, email <a href="mailto:support@artprize.org">support@artprize.org</a>.</p>
-
-	<p>Questions regarding the Site or this Privacy Policy should be sent to  <a href="mailto:support@artprize.org">support@artprize.org</a>.</p>
 
 	</section><!-- /#content -->	
-			<footer id="page-footer" class="endcap">
-			
-			<div class="footer-message">
-				<div class="wrapper">
-					<time class="h6" datetime="2012-05-18">May 18, 2012</time> <strong class="h6">ArtPrize call for artists entries extended to Thursday, June 7, 2012; 5:00p.m. <a href="http://www.artprize.org/members/signup">Register here!</a></strong>
-				</div>
-			</div>
+	
+
+		<footer id="page-footer">
 			
 
 			<div class="wrapper">
 				<nav id="secondary-nav">
 					<h1 class="section-heading">Secondary Navigation</h1>
 
-					<ul id="find-nav" class="block-list unit site-section">
-						<li class="parent"><a href="/entries">Find Art</a></li>
-						<li><a href="/entries/2011#!/promoted=top-10">2011 Top 10</a></li>
-						<li><a href="/entries/2011">2011 Entries</a></li>
-						<li><a href="/venues/2011">2011 Venues</a></li>
+					<ul class="block-list inline-list">
+						<li><a class="nav-btn main-btn" href="/entries">Find Art</a></li>
+						<li><a class="nav-btn main-btn" href="/visit">Plan Your Visit</a></li>
+						<li><a class="nav-btn main-btn" href="/get-involved">Get Involved</a></li>
+						<li><a class="nav-btn main-btn" href="/about">About</a></li>
+						<li><a class="nav-btn main-btn" href="/news">News</a></li>
+						<li><a class="nav-btn main-btn" href="/events">Events</a></li>
+						<li><a class="nav-btn main-btn" href="/donate">Donate</a></li>
+						<li><a class="nav-btn main-btn" href="/help">Help</a></li>
 					</ul>
-
-					<ul id="involved-nav" class="block-list unit site-section">
-<li class=" overview"><a href="/get-involved/">Get Involved</a></li>
-<li class="first"><a href="/get-involved/artists/">Artists</a></li>
-<li><a href="/get-involved/venues/">Venues</a></li>
-<li><a href="/get-involved/sponsors/">Sponsors</a></li>
-<li><a href="/get-involved/voters/">Voters</a></li>
-<li><a href="/get-involved/volunteers/">Volunteers</a></li>
-<li class="last"><a href="/get-involved/plan-your-visit/">Plan Your Visit</a></li>
-</ul>
-
-					<ul id="help-nav" class="block-list unit site-section">
-<li class=" overview"><a href="/help/">Help</a></li>
-<li class="first"><a href="/help/artists/">For Artists</a></li>
-<li class="last"><a href="/help/venues/">For Venues</a></li>
-</ul>
-					
-					<ul id="about-nav" class="block-list unit site-section">
-<li class=" overview"><a href="/about/">About</a></li>
-<li class="first"><a href="/about/history/">History</a></li>
-<li><a href="/about/mission/">Mission</a></li>
-<li><a href="/about/team/">Team</a></li>
-<li><a href="/about/jobs/">Jobs</a></li>
-<li class="last"><a href="/about/internships/">Internships</a></li>
-</ul>
-					
-					
-					<ul id="news-nav" class="block-list unit site-section">
-						<li class="parent"><a href="http://www.artprize.org/news">News</a></li>
-						
-						<li><a href="/news/category/general">General</a></li>
-						<li><a href="/news/category/announcements">Announcements</a></li>
-						<li><a href="/news/category/press-releases">Press Releases</a></li>
-						<li><a href="/news/category/speaker">Speaker</a></li>
-						<li><a href="/news/category/artists">Artists</a></li>
-						<li><a href="/news/category/venues">Venues</a></li>
-						<li class="first last"><a href="/news/media-kit/">Media Kit</a></li>
-
-					</ul>
-					
-					
 				</nav><!-- /#secondary-navigation -->
 
-				<aside id="feedback-section">
-					<h1 class="h2 important">Welcome to the new ArtPrize.org!</h1>
-					
-					<p>
-						Please mind the dust. We are working to constantly improve your experience. There are a lot of features that are coming soon. Stay tuned!
-					</p>
-					
-					<a class="button feedback-btn" href="/feedback">Leave feedback?</a>
-				</aside>
-				
-				<div class="unit h6 disclaimer">
+				<a class="footer-branding" href="/"><img src="http://assets4.artprize.org/assets/img/logo-footer.png" alt="ArtPrize"></a>
+
+				<ul class="block-list inline-list social-list">
+					<li class="follow"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/follow_button.1335513764.html#_=1582543991714&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=ArtPrize&amp;show_count=false&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button" title="Twitter Follow Button" style="width: 115px; height: 20px;"></iframe></li>
+					<li class="like"><div class="fb-like" data-href="http://facebook.com/ArtPrize" data-send="false" data-layout="button_count" data-width="82" data-show-faces="false"></div></li>
+					<li class="pin"><a href="http://pinterest.com/artprize/"><img src="http://assets5.artprize.org/assets/img/btn-pinterest.png" width="82" height="20" alt="Follow Us on Pinterest"></a></li>
+				</ul>
+
+				<div class="h6 disclaimer">
 					<small>© 2012 ArtPrize Grand Rapids</small>
-					
+
 					<ul class="block-list inline-list">
 						<li><a href="/legal/privacy-policy">Privacy Policy</a></li>
 						<li><a href="/legal/terms-of-service">Terms of Service</a></li>
 						<li><a href="/contact">Contact</a></li>
 					</ul>
+
+					<a class="mighty-badge" href="http://www.mightyinthemidwest.com">
+						<img src="http://assets6.artprize.org/assets/img/mighty-badge.png" alt="Mighty">
+
+						<span>Web Design &amp; Development by <strong>Mighty</strong></span>
+					</a>
 				</div>
-				
-				<ul class="block-list inline-list social-list">
-					<li class="follow"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/follow_button.1335513764.html#_=1582558315245&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=ArtPrize&amp;show_count=false&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button" title="Twitter Follow Button" style="width: 115px; height: 20px;"></iframe></li>
-					<li class="like"><div class="fb-like" data-href="http://facebook.com/ArtPrize" data-send="false" data-layout="button_count" data-width="82" data-show-faces="false"></div></li>
-				</ul>
 			</div><!-- /.wrapper -->
 		</footer><!-- /#page-footer -->
+
+
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>!window.jQuery && document.write(unescape('%3Cscript src="/assets/js/jquery-1.7.1.min.js"%3E%3C/script%3E'))</script><script src="/assets/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/min/b=assets/js&amp;f=config.js,scripts.js,plugins.js"></script>
-
+	
+		
+	
 
 
 </body></html>
