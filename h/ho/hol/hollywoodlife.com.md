@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollywoodlife.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218125122id_/http%3A//www.hollywoodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodlife.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111062308id_/http%3A//hollywoodlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Hollywood Life
 
 _**Effective: January 4, 2011**_
 
