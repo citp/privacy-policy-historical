@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502050832id_/http%3A//www.tomatocart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111173527id_/http%3A//www.tomatocart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy - TomatoCart
 
@@ -64,3 +64,11 @@ You can access your personally identifiable information that TomatoCart collects
 #### How to Contact Us
 
 If you have any questions or concerns about our privacy policy, please feel free to contact us [here](http://www.tomatocart.com/index.php/about-us/contact-us).
+
+### Latest Blog Post
+
+#### [TomatoCart v1.1.7 to v1.1.8 Upgrade Guide!](http://blog.tomatocart.com/?p=224 "Template Tutorial 1: Toys Store Theme")
+
+The upgrade guide is a step-by-step tutorial to help users to upgrade TomatoCart v1.1.7 to v1.1.8. If you have not yet updated to v1.1.7, please review its upgrade guide before applying these changes. [...]
+
+_By TomatoCart | august 21, 2012_
