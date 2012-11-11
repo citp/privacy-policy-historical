@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hulkshare.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629100618id_/http%3A//www.hulkshare.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkshare.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111074250id_/http%3A//www.hulkshare.com/static.php%3Fop%3Dprivacy) for the most accurate reproduction.*
 
-# Hulk Share - Music Distribution Platform
+# Hulkshare - Listen to Free Songs & Music Online
 
 Hulkshare Ltd., a Hong Kong limited company (the “Company”) thanks you for accessing this web site (the “Site”). The Company wants to assure you that we respect your privacy because we know that trust is the key to any successful relationship. The following Privacy Policy describes the Company’s commitment to protect your personal information. 
 
