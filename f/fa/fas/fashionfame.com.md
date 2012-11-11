@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fashionfame.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509214939id_/http%3A//www.fashionfame.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfame.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111144149id_/http%3A//www.fashionfame.com/policy) for the most accurate reproduction.*
 
 # FashionFame Privacy Policy | Fashion Fame
 
-This privacy statement (”Privacy Policy”) covers the website Fashion Fame. Fashion Fame respects the privacy of its valued readers and knows that you care about how your personal information is used and shared. Please read this statement carefully before accessing Fashion Fame.
+This privacy statement (“Privacy Policy”) covers the website Fashion Fame. Fashion Fame respects the privacy of its valued readers and knows that you care about how your personal information is used and shared. Please read this statement carefully before accessing Fashion Fame.
 
 **Information Collection, Management & Sharing**
 
