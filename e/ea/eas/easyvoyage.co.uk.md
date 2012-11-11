@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065045id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111213533id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
 
 # Easyvoyage newsletter
-
-  * [ ](http://www.facebook.com/EasyVoyageUK "Check out our Facebook page")
-  * [ ](http://twitter.com/#!/EasyVoyageUK "Follow us on Twitter")
-  * [ ](https://plus.google.com/115380534684171077578 "Connect with Easyvoyage on Google+")
-  * [ ](http://itunes.apple.com/en/app/easyvoyage/id405038585?mt=8 "Compare flight prices with our iPhone application")
-
 
   * [Home](https://web.archive.org/)
   * Newsletter charter 
