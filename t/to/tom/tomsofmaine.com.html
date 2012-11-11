@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tomsofmaine.com privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605132459id_/http%3A//www.tomsofmaine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tomsofmaine.com privacy policy that was archived on 2012-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111150118id_/http%3A//www.tomsofmaine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:addthis="http://www.addthis.com/help/api-spec"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -452,6 +452,19 @@ var s_account='tomus';
 s.pageName='/privacy';
 s.prop1='';
 s.prop2='';
+
+/* extra stuff needed for every page */
+s.campaign=s.getQueryParam('cid');
+s.prop9=s.campaign;
+s.eVar18=s.prop9;
+
+// set any page specific properties not controlled by the omniture engine.
+if (typeof(_omniprops) != 'undefined') {
+  for (prop in _omniprops) {
+    s[prop]=_omniprops[prop];
+  }
+}
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
@@ -463,8 +476,8 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
           
 
 <!-- PAGE GENERATION INFORMATION
-  Generated:  06/05/2012  08:24:59
-  Application Server: ProdColgate03/8.0.1_tcServer_6.0.20.C
+  Generated:  11/11/2012  09:01:18
+  Application Server: ProdColgate02/8.0.1_tcServer_6.0.35.B.RELEASE
 -->
 
 <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
