@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopone.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513010531id_/http%3A//www.hopone.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopone.net privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111212249id_/http%3A//www.hopone.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | HopOne Internet Corp.
 
