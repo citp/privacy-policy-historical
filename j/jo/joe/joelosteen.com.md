@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513191521id_/http%3A//www.joelosteen.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111033128id_/http%3A//ww2.joelosteen.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Joel Osteen Ministries
 
@@ -115,7 +115,7 @@ JoelOsteen.com uses a variety of security measures to maintain the safety of you
 
 JoelOsteen.com gives users the following options for removing their e-mail address from our database so you will not receive future communications:
 
-  1. Send an email message to: [info@joelosteen.com.](https://web.archive.org/web/20120513191521id_/http%3A//www.joelosteen.com/Pages/mailtoinfo@joelosteen.com "e-mail info@joelosteen.com")
+  1. Send an email message to: [info@joelosteen.com.](https://web.archive.org/web/20121111033128id_/http%3A//ww2.joelosteen.com/Pages/mailtoinfo@joelosteen.com "e-mail info@joelosteen.com")
   2. Click on the unsubscribe link on any subscription mail you receive (and follow the directions located on the bottom of each email).
   3. Send a letter to the following postal address:  Joel Osteen Ministries P.O. Box 4600 Houston TX 77210
   4. Call the following telephone number: (713) 635-4154
