@@ -1,19 +1,29 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611063656id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111223713id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
 TripleClicks members are saving up to 99% on these items, which are being bid on right now!
 
+LG BD670 3D Wireless Network Blu-ray Disc Player with Smart TV
+
+Current Price: $0.79*
+
+[BID NOW!](https://web.archive.org/pbDetails.php)
+
 TCredits - 250 pack
 
-Current Price: $0.51*
+Current Price: $2.92*
 
 [BID NOW!](https://web.archive.org/pbXRA.php)
+
+TCredits - 250 pack
+
+Starting In: 05:22:47*
 
 Bid on these items  
 before they're gone!
 
-*Refresh browser for updated price
+*Refresh browser for updated information
 
   
 
@@ -23,11 +33,10 @@ before they're gone!
 • FREE Monthly Member Rewards Points! (MRP)  
 • Win $100's in our weekly drawing!  
 • Earn unlimited add'l TCredits/MRP!  
-• Exclusive member-only specials!
+• Exclusive member-only specials!  
+• Free song of the month download!
 
 [Join the wave](https://web.archive.org/Wave3/Wave3.php) and get all this & more!
-
-[](https://web.archive.org/ECA/ECAGW.php)
 
 [](http://www.facebook.com/pages/TripleClickscom/172874702800289) [](http://twitter.com/#!/GoTripleClicks)
 
