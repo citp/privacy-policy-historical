@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuuby.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513065106id_/http%3A//www.yuuby.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuuby.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111222234id_/http%3A//www.yuuby.com/policy) for the most accurate reproduction.*
 
 # Yuuby | Privacy Policy
 
