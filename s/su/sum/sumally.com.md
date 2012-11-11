@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumally.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630000349id_/http%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumally.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111014800id_/http%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Sumally / About
+# Sumally / Privacy Policy
 
 Upon operation of the Sumally.com website (hereinafter referred to as the “site” or “website”), we strive to take appropriate measures and take sufficient consideration for personal information in respect to user privacy of Sumally (hereinafter referred to as “Sumally.com”, “our”, “company”, “we”, or “us”). 
 
