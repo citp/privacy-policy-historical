@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlinecomcast.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211355id_/http%3A//www.onlinecomcast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecomcast.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111152211id_/http%3A//www.onlinecomcast.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Online Comcast
 
 _Please note that from time to time we may review and modify our Privacy Policy. As your visits to the Site will be subject to the Privacy Policy in effect at the time of your visit, please review this Privacy Policy regularly to ensure that you are aware of any modifications._
 
-This policy is effective as of and was last updated on January 4, 2011.
+This policy is effective as of and was last updated on January 12, 2012.
 
   1. **General**
 
@@ -106,7 +106,7 @@ Third parties are under no obligation to comply with this Privacy Policy with re
 
   6. **For Additional Information.**
 
-Saveology.com, LLC maintains this Site from its headquarters in Ft. Lauderdale, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with respect to your Personal Information, please contact us as at [privacy@saveology.com](mailto:%20privacy@saveology.com).
+Saveology.com, LLC maintains this Site from its headquarters in Margate, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with respect to your Personal Information, please contact us as at [privacy@saveology.com](mailto:%20privacy@saveology.com).
 
   7. **To Inspect, Change or Modify Your Personal Information:**
 
