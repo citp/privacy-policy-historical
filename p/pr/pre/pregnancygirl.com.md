@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancygirl.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510182609id_/http%3A//www.pregnancygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancygirl.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111072524id_/http%3A//www.pregnancygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pregnancy Girl
 
@@ -57,6 +57,10 @@ As part of our referral program, you can provide contact information (such as na
 Market Research
 
 You may choose to participate in market research activities through the Site, including health panels and surveys. When participating in such activities, we may ask you to submit personal information. We may combine the personal information you provide to us with research tools and information from other sources, including prescription information. We use this information to perform research, and to prepare reports and analyses for our clients. Our reports and analyses to clients are made only on an anonymous basis.
+
+Notice Regarding Online Behavioral Advertising
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 The Sites reserve the right, at any time and without notice, to add to, update, change, modify or revise this Privacy Policy or the Sites services simply by posting such change, update or modification on the Sites. Any such addition, update, change, modification or revision will be effective immediately upon posting on the Sites. Upon any change to this Privacy Policy or our services, we may also notify you via e-mail.
 
