@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justpostarticles.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630141948id_/http%3A//justpostarticles.com/page.php%3Fp%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justpostarticles.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111091907id_/http%3A//justpostarticles.com/page.php%3Fp%3D3) for the most accurate reproduction.*
 
 # Privacy Policy - Just Post Articles.Com
 
