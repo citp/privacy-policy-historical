@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505015125id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111144508id_/http%3A//www.rd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -6,7 +6,7 @@ The policies below are applicable to readersdigest.com (rd.com) and other websit
 
 **Collection of Personally Identifiable Information**
 
-Some functions and services offered through RD sites require that you provide certain personally identifiable information (PII). PII that we collect includes email address, name, postal address, telephone number, date of birth and credit card number. We may also collect other information about you that we associate with your PII such as your interests, preferences and demographics. For example, we may collect information about your interests in certain health and lifestyle topics. We collect this PII for example, when you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list. 
+Some functions and services offered through RD sites require that you provide certain personally identifiable information (PII). PII that we collect includes email address, name, postal address, telephone number, date of birth and credit card number. We may also collect other information about you that we associate with your PII such as your interests, preferences and demographics. For example, we may collect information about your interests in certain health and lifestyle topics. We collect this PII for example, when you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list.
 
 **Use of Personally Identifiable Information**
 
@@ -16,13 +16,13 @@ We may use your personally identifiable information and other information we col
 
 Reader’s Digest may save your credit card information for use when you log in to make future purchases.
 
-Reader’s Digest may store and process personal information in the United States and other countries. 
+Reader’s Digest may store and process personal information in the United States and other countries.
 
 **Sharing of Personally Identifiable Information**
 
 Reader’s Digest may share your PII for the following purposes and under the following circumstances. . • We may share your PII with our affiliates, our technical consultants, third-party auditors and other third parties who act on our behalf, for example, to make RD sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to and may use this information to provide us with services.
 
-• Occasionally, Reader’s Digest may make names and postal addresses we collect through the RD sites along with certain other information about you such as your interest in particular health or lifestyle topics available to reputable companies whose products and/or services may interest you, unless you opt out of being included in our postal mailing list. (See the section below on opting out of postal mailings). 
+• Occasionally, Reader’s Digest may make names and postal addresses we collect through the RD sites along with certain other information about you such as your interest in particular health or lifestyle topics available to reputable companies whose products and/or services may interest you, unless you opt out of being included in our postal mailing list. (See the section below on opting out of postal mailings).
 
 • We may transfer your personally identifiable information and other information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company.
 
@@ -38,7 +38,7 @@ Please be aware that when you connect and share your actions, comments, content 
 
 If you do not wish to receive promotional and newsletter emails from Reader’s Digest you may click on the unsubscribe link at the bottom of those emails.
 
-You can also change your promotional and newsletter email preferences by [clicking here to go to the E-Mail Preference Center form](https://web.archive.org/profilecenter/openPreferencePage.do). 
+You can also change your promotional and newsletter email preferences by [clicking here to go to the E-Mail Preference Center form](https://web.archive.org/profilecenter/openPreferencePage.do).
 
 If you opt-out of promotional or newsletter emails from Reader’s Digest, we may continue to send you certain communications such as service announcements and administrative messages, relating to Reader’s Digest and rd.com that are necessary to our relationship with you.
 
@@ -62,17 +62,17 @@ We may also use third parties to serve ads on RD sites. Certain third parties ma
 
 **Third Party Cookies** Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [aboutads.info/choices](http://www.aboutads.info/choices).
 
-**Reader’s Digest Ads on Third Party Sites.** We may use information collected using third party cookies and Web beacons on our Web Sites and in our emails to deliver Reader’s Digest brands advertising displayed to you on third party sites. We also may use cookie information to know when you return to our Web Site after visiting these third party sites. We use this information and other information about you, to try to understand your interests and show you relevant Reader’s Digest advertising about products and services you may need. 
+**Reader’s Digest Ads on Third Party Sites.** We may use information collected using third party cookies and Web beacons on our Web Sites and in our emails to deliver Reader’s Digest brands advertising displayed to you on third party sites. We also may use cookie information to know when you return to our Web Site after visiting these third party sites. We use this information and other information about you, to try to understand your interests and show you relevant Reader’s Digest advertising about products and services you may need.
 
 **Cookies, Web Beacons and Server Logs**
 
 Reader’s Digest, related Web hosting providers, and advertisers and ad serving and tracking companies sometimes utilize “cookie” technology on RD sites. Cookies are bits of data stored on your hard drive that contain no personally identifying information but which help enhance your Web-browsing experience. Not all Web browsers accept cookies, and those that do usually provide a preference or setting that allows you to refuse and remove most types of browser cookies. If your browser does not accept cookies, you may still enjoy RD sites.
 
-We may also use local shared objects, also known as Flash cookies, to store your preferences such as volume control for videos, or display content based upon what you view on the RD sites to personalize your visit. Third party partners provide certain features on the RD sites and may display advertising based upon your Web browsing activity, using Flash cookies to help track and store information about you. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn how to manage privacy and storage settings for certain Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). 
+We may also use local shared objects, also known as Flash cookies, to store your preferences such as volume control for videos, or display content based upon what you view on the RD sites to personalize your visit. Third party partners provide certain features on the RD sites and may display advertising based upon your Web browsing activity, using Flash cookies to help track and store information about you. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn how to manage privacy and storage settings for certain Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
 We may collect information using Web beacons. Web beacons are electronic images that may be used on RD sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
-Server logs capture certain non-personally identifying data, such as the time and date of a Web visit, the browser and operating system being used, and the Web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors’ Web-browsing systems. We also collect information about keyword searches performed by visitors on the RD sites. We do not collect your name or email address as a result of using a search feature. We may keep logs of all words searched to help us learn what kinds of information rd.com visitors are seeking, and to improve our service to visitors. 
+Server logs capture certain non-personally identifying data, such as the time and date of a Web visit, the browser and operating system being used, and the Web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors’ Web-browsing systems. We also collect information about keyword searches performed by visitors on the RD sites. We do not collect your name or email address as a result of using a search feature. We may keep logs of all words searched to help us learn what kinds of information rd.com visitors are seeking, and to improve our service to visitors.
 
 **Privacy Precaution Warning**
 
@@ -80,11 +80,11 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 
 **Notice to EU Visitors**
 
-RDA has registered for Safe Harbor certification with the US Department of Commerce. Click here to see our Safe Harbor Privacy Policy.
+RDA has registered for Safe Harbor certification with the US Department of Commerce. [Click here](http://www.rd.com/safe-harbor-privacy-policy/) to see our Safe Harbor Privacy Policy.
 
 **Privacy Policy Changes**
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site. 
+We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please bookmark this page and check it periodically. We will post any changes to this privacy policy on our site.
 
 Policy last updated March 2012
 
