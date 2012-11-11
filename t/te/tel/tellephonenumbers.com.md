@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellephonenumbers.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125153343id_/http%3A//www.tellephonenumbers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellephonenumbers.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111142456id_/http%3A//www.tellephonenumbers.com/privacy.php) for the most accurate reproduction.*
 
 # Contact - Tellephonenumbers.com
 
