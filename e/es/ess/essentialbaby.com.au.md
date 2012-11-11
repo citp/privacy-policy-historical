@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialbaby.com.au privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506123520id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialbaby.com.au privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111044528id_/http%3A//www.essentialbaby.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
