@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianaskitchen.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301002951id_/http%3A//www.dianaskitchen.com/page/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianaskitchen.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111193604id_/http%3A//dianaskitchen.com/page/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Diana's Kitchen
 
