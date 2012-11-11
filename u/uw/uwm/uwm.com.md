@@ -1,69 +1,87 @@
-> *The following text is extracted and transformed from the uwm.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509115459id_/http%3A//www.uwm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwm.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111104511id_/http%3A//www.uwm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | United Wholesale Mortgage
+# Privacy Policy | Wholesale Mortgage | Wholesale Lenders | United Wholesale Mortgage
 
-**THIS IS THE PRIVACY NOTICE FOR UNITED WHOLESALE MORTGAGE CUSTOMERS.**
+United Wholesale Mortgage, a division of United Shore Financial Services, LLC (“UWM”) understands that you expect privacy and security for your financial affairs and for those of your clients.  Your trust and confidence in UWM is appreciated.  Be assured, UWM is committed to treating your information responsibly.  This Privacy Policy describes the standards UWM follows in handling your nonpublic information. 
 
-At United Wholesale Mortgage we understand that you expect privacy and security for your personal financial affairs. Be assured, we are committed to treating your information responsibly.  We appreciate your trust and confidence in us, and we will reward that trust by protecting your nonpublic personal information and honoring your choices. These policies describe the standards we follow in handling information about you.
+**Information Gathered**
 
-Our Quick qualification request form requires you to provide some personal information.  To protect you and this information from unauthorized use, each applicant is transferred to a secured site (identified by a padlock in the status bar of your browser and an ‘s’ following the letters ‘http’ in the URL), where this information is gathered and transferred to us via a secured computer connection. Only authorized United Wholesale Mortgage employees who process your loan application and communicate with you will have access to this nonpublic personal information.
+You may choose to provide information about yourself in order to be contacted by UWM regarding loan products and/or services, to become a part of the UWM broker network or to receive a response to your question or inquiry.  Such information may include the following: 
 
-**Protecting Private Information and Your Loan Application or Credit Report**
-
-When providing us required information to act upon your application or requests, you provide us with certain nonpublic personal information.  This notice is intended to explain how we gather and protect your nonpublic personal information and what we utilize this information for.  Examples of how we protect your nonpublic personal information include:
-
-  * Our implementation of policies and procedures to provide maximum protection of your nonpublic personal information.
-  * Restricting physical and other access to your nonpublic personal information to only those persons with a legitimate need to know.
-  * Requiring third parties doing business with us to comply with all applicable privacy and security laws.
-  * Providing a private computer network that is protected by firewalls and security maintenance procedures.
-  * Using secured Internet connections to gather your nonpublic personal information and forward to those who will act upon it.
+  * Your name
+  * Your company name
+  * Contact information including phone number and email address
+  * Property address
+  * Information about your business
+  * Other information you choose to provide via a telephone call, letter or e-mail
 
 
 
-Although we strive to maintain the highest standards of privacy, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure.  As such, United Wholesale Mortgage cannot guarantee or warrant the security of any information consumers transmit to us over the Internet and consumers do so at their own risk.
+**Use**
 
-**Information We Collect**
+Primarily, the information you provide will be used to contact you and better understand your wholesale lender needs.  You understand that by submitting your information through this Website or one of UWM’s other company websites, you agree to be contacted regardless of registration with any federal, state or local Do Not Call list, Do Not Mail list, or any other comparable list or registry.  By providing information to UWM through this Website, a telephone call, an e-mail or letter, you authorize UWM to engage in the following uses of your information:
 
-We collect non-public personal information about you from the following sources:
-
-  * Information from you, on applications, forms, via the Internet, by telephone and/or mail.
-  * Information from consumer and/or credit reporting agencies, including information about your credit worthiness and financial circumstances, as well as any bankruptcies and foreclosures.
-  * Information you provide to us in a telephone call, letter or e-mail you send to us.
-  * Information from service providers which may include a survey of your home, the appraised value of your home, prior mortgage payment history and the status of your property taxes and homeowners/flood insurance premiums.
-  * Information we gather as a result of servicing your loan that may include payment history, property taxes and insurance records.
-  * Information which we receive from third parties in order to verify information you have given us, such as your employment status and bank account balances.
+  * to improve its products and services
+  * to periodically market its products and services, telemarket its products and services, and send promotional emails and advertisements
+  * to contact you
 
 
 
-**Information Disclosed To Third Parties**
+Additionally, you authorize UWM to share your information with:
 
-United Wholesale Mortgage may disclose nonpublic personal information about you to the following types of third parties:
-
-  * Financial service providers such as insurance agents.
-  * Non-financial companies, such as security alarm companies, retailers, and direct marketers.
-  * Third parties who perform marketing services on our behalf or others with whom we have joint marketing agreements or arrangements.
+  * its affiliates and/or divisions
+  * financial & non-financial service providers and companies, retailers and direct marketers
+  * third parties who perform marketing services on behalf of UWM or one its divisions or others with whom UWM has a joint marketing agreement or arrangement
 
 
 
-**Right to Opt Out of Information Sharing.**
+**Security**
 
-[Opt-Out Request Form](https://web.archive.org/web/20120509115459id_/http://www.uwm.com/doc.php?objectId=536) *requires [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/readstep2.html)
+In order to protect your information from unauthorized use and access, UWM has measures in place directed to safeguarding the information you provide.  Such measures include, but are not limited to, the following:
 
-If you prefer that we not disclose nonpublic personal information about you to non-affiliated third parties, you may opt out of those disclosures, that is, you may direct us not to make those disclosures (other than disclosures permitted by law).  If you wish to opt out of disclosures to non-affiliated third parties, you may: (a) print, complete and mail our Opt Out Form; and return the completed form to us at United Wholesale Mortgage, 555 S. Adams Rd, Birmingham, MI 48009 — attention Compliance Department. Even if you elect to opt out, United Wholesale Mortgage may nevertheless disclose nonpublic personal information about you to non-affiliated third parties as permitted or as otherwise required by law as well as to carefully selected companies and independent contractors who perform work for us and who are legally or contractually obligated to keep the information which we provide to them confidential, and to use such information only to perform or provide the services we ask them to perform for you or us, such as payment and data processing, check and/or statement preparation and printing, mailing, and fulfilling your service requests.
+  * Implementing policies and procedures to provide maximum protection of your information
+  * Restricting use of and access to your information to only those employees with a  legitimate business need
+  * Requiring third parties doing business with UWM to comply with all applicable privacy and security laws
+  * Providing a private computer network that is protected by firewalls and security maintenance procedures
+  * Using secured Internet connections to gather your information and forward to those who will act upon it
+
+
+
+While UWM strives to maintain the highest standards of privacy and security, no data transmission over the Internet or any wired or wireless network can be guaranteed to be 100% secure.  UWM recommends you do not send any confidential information by e-mail.  If you choose to send confidential information to UWM via e-mail, you accept all risk that such information may be intercepted by a third party.
+
+**Web Technologies**
+
+A “cookie” is a small file that is assigned by the web server to your computer.  The use of cookies allows UWM to identify which pages of the site are accessed, information that is then used to improve the Website and your online experience.  Assigning a cookie to your computer does not provide UWM access to your computer or any of the information contained on your computer and your computer is not harmed by UWM’s use of cookies.
+
+Most web browsers afford you the option of modifying your settings to reject cookies should you choose.  However, declining cookies may interfere with your ability to take full advantage of the features of this Website.
+
+**Right to Opt-Out of Information Sharing**
+
+If you prefer that UWM does not share your information with non-affiliated third parties, you may opt-out of sharing not otherwise permitted by law.  If you wish to opt-out, you must send an email to optout@uwm.com or call (800) 678-6663 indicating your preference to opt-out of sharing with affiliated companies, nonaffiliated third parties or both.  However, by opting-out you understand that such opt-out may affect your access to certain financial products, which may otherwise be available.  You are encouraged to obtain information on as many products and providers as possible.
+
+If you do not wish to opt-out, no action is required and until you provide the required notice of your opt-out preference UWM is authorized to share your information as described above.
+
+**Change in Control**
+
+Your information may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether assets, stock or otherwise) of all or a portion of the business of UWM.  You will have the opportunity to opt-out of further secondary use of your information following any such change in control.
+
+**Third Party Links**
+
+You might find links to third party websites on the UWM Website. These websites should have their own privacy policies which you should read and understand before using their site. UWM does not accept any responsibility or liability for their policies or the security of information you submit through their website whatsoever as UWM has no control over third party websites.
 
 **Changes to Our Privacy Policy**
 
-United Wholesale Mortgage reserves the right to change the terms of its Privacy Policy at any time.  United Wholesale Mortgage will prominently post the current version of its Privacy Policy on this website.  To ensure that you are aware of our current privacy practices, we recommend that you check this site periodically.  United Wholesale Mortgage will post changes to its privacy policy on this website thirty (30) days before they take effect.
+UWM reserves the right to modify this Privacy Policy at any time without notice, but the most current version of the Privacy Policy will always be available to you by clicking on the link at the bottom of this Website.  By continuing to use the Website and the services available through it, after the date of any change to this Privacy Policy, including accessing the Website, you agree and acknowledge acceptance of the Privacy Policy in its most current version.
 
-**Change In Control**
+**Terms and Conditions**
 
-Your non-public personal information may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether assets, stock or otherwise) of all or a portion of the business of United Wholesale Mortgage.  You will have the opportunity to opt out of further secondary use of your nonpublic personal information following any such change in control.
+Please see the UWM Terms of Use statement for other details that are applicable to and regard your use and access of this Website by clicking the link at the bottom of this page.
 
 **Privacy Resources**
 
-To reduce the amount of advertising you receive from other companies, individuals can contact the following agencies:
+To reduce the amount of advertising you receive from other companies, you can contact the following agencies:
 
-_For advertising received by mail:_
+_For advertising received by mail_ :
 
 Mail Preference Service
 
@@ -73,7 +91,7 @@ Carmel, NY 10512
 
 <http://www.dmaconsumers.org/>
 
-_For advertising received by telephone:_
+_For advertising received by telephone_ :
 
 Telephone Preference Service
 
@@ -81,22 +99,32 @@ P.O. Box 1559
 
 Carmel, NY 10512
 
-<http://www.dmaconsumers.org/>
+[http://www.dmaconsumers.org](http://www.dmaconsumers.org/)
 
-_For advertising received by e-mail:_
+_For advertising received by e-mail_ :
 
 E-mail Preference Service
 
 c/o Direct Marketing Association
 
-<http://www.e-mps.org/>
+[http://www.e-mps.org](http://www.e-mps.org/)
 
-Be sure to include the required name(s), address, telephone number and e-mail address you would like excluded.  If you have moved or changed your telephone number within the last year, you should include your former address or number as well.  In addition, if you would like to have your name taken off all pre-approved credit solicitations, you can call 888-567-8688.
+Be sure to include the required name(s), address, telephone number and e-mail address you would like excluded.  If you have moved or changed your telephone number within the last year, you should include your former address or number as well.  If addition, if you would like to have your name taken of all pre-approved credit solicitations, call 888-567-8688.
+
+**Agreement** ****
+
+By using this Website, you agree to UWM’s Privacy Policy and to the use of the information UWM receives and collect as stated herein and in ways UWM may notify you of in the future.  By providing any personal information to this site, you acknowledge that you fully understand and consent to the collection and processing of such information. UWM reserves the right at its discretion to modify this Privacy Policy at any time. Your continued use of this site following the posting of changes to these terms indicates your acknowledgment and acceptance of any changes.
+
+**Questions?**
+
+Should you still have questions regarding UWM’s use of your information and the protection afforded it, you may contact UWM using the below information:
 
 United Wholesale Mortgage
 
-555 S. Adams Road
+555 South Adams Road
 
 Birmingham, MI 48009
 
-800-981-8898
+info@uwm.com
+
+(800) 981-8898
