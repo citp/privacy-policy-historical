@@ -1,65 +1,69 @@
-> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512131943id_/http%3A//monetate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111061852id_/http%3A//monetate.com/platform-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Monetate
+# Platform Privacy Policy | Monetate
 
-**Monetate.com Website Privacy Policy**
+**MONETATE, INC. PLATFORM PRIVACY POLICY  
+**Last Updated June 22, 2012
 
-At Monetate we respect the privacy of visitors to our website. Because we sometimes gather personally identifiable information from visitors to our website (the “Website”), we have established this privacy policy (“Website Privacy Policy” or “WPP”) as a means to communicate our personal information gathering and dissemination practices.
+Monetate, Inc. (“Monetate,” “we,” “us,” or “our”) is a marketing optimization technology company. We have created this privacy policy (this “Platform Privacy Policy”) to inform you how our proprietary platform (the “Platform”) gathers, uses, and processes information on behalf of online marketers, website owners, leading brands, and other businesses that use our services (collectively, our “Clients”).
 
-Monetate will treat your personal information in accordance with the privacy statement in place at the time of collection of such information, or as you otherwise consent. By using this Website, you are agreeing to the terms of the Website Privacy Policy.
+****The Information We Collect****
 
-We reserve the right to change the Website Privacy Policy. If we decide to make a material change to the Website Privacy Policy, we will post a notice at least 30 days prior to making any material changes. Your continued use of this Website, including use after the posting of any changes to these terms, will be deemed acceptance by you of the Website Privacy Policy.
+In the course of operating the Platform and providing our services, Monetate does not collect any personally identifiable information (“PII”). However, we do collect the following types of information (collectively, the “Information”).
 
-**Non-identifying Statistical Information**
+1\.     Information From Your Activity. Information that we or our technology providers may automatically collect when you visit, access, and/or use our Clients’ websites (the “Websites”), include your IP address; referring URL; time stamp; browser type and language; operating system; screen height; screen width; color depth; whether your computer is Java enabled; Internet connection type; whether or not your browser accepts cookies; pages viewed on the Websites; products viewed, placed in the cart, and purchased on the Websites; quantity, price, and purchase ID of products placed in cart and/or purchased on the Websites; and custom page data, as defined by our Clients.
 
-You can visit the Website to read information about our company, products, and services without telling us who you are and without revealing any personally identifiable information. To improve the usefulness of our website, Monetate measures and analyzes non-identifying, aggregate usage, and volume statistical information from Website visitors in order to administer the Website, and to improve it’s relevance and performance.
+2\.     Inferred Information. Based on the Information we collect from your Website activity, search terms entered through your browser, and information gleaned from previous Monetate cookies, we may infer other information, such as zip code, country, state, time zone, weather, temperature, heat index, wind chill, or proximity to a shipping location.
 
-Information gathered may include, but is not limited to, the following: the type and activity of the Website visitor’s browser when the visitor is viewing the Website; the time visitors come to the Website; and the source of visitor traffic to the Website. Monetate reserves the right to publish anonymous, aggregate summary information regarding Website visitors for promotional purposes. Please note that this is not personal information, only general summaries of our visitors’ usage of the Website.
+3\.     From Cookies and JavaScript Tags. We collect Information using “cookie” technology and JavaScript tags. Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visit. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to help us collect Information and to enhance your experience using the Websites. If you do not want us to place a cookie on your hard drive, you may be able to turn that feature off on your computer. Please consult your Internet browser’s documentation for information on how to do this and how to delete persistent cookies. However, if you decide not to accept cookies from us, the Websites may not function properly. We use JavaScript tags to trigger a sequence of events that includes viewing a first-party cookie (or setting that cookie if it does not already exist) and to help us and our Clients tailor, analyze, manage, report, and optimize your experience on the Websites.
 
-**Personally Identifiable Information**
+**How We Use and Share the Information  **
 
-If you choose to request information about our products and services we may ask you to provide information used to carry out this request, such as, but not limited to, name, company, title, phone number, email address, and mailing address. This is information is provided by you on a voluntary basis only and is not required by us in order for you to use and enjoy our Website.
+Monetate uses and shares the Information only as follows.
 
-**Information Use and Disclosure**
+·    We will access, use, and share the Information as required to fulfill our contractual obligations to our Clients or subsequent requests for service and/or support by our Clients.
 
-Monetate uses the information voluntarily provided by visitors to the Website to contact them to further discuss interest in our company and our services. This information may also be used to improve the services we provide. The information is collected and stored in a manner that is appropriate for the nature of the data that we collect, and the need to fulfill your request. This information is not provided to third parties for their own use unless specifically authorized by you. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law, or in order to comply with a current judicial proceeding, a court order, or legal process served on the Website.
+·    Our technical staff may require periodic access to Information to monitor system performance and network capacity, test and fix systems, and develop and implement upgrades to systems.
 
-Certain personal information that we collect on the Website may be transferred among our Subsidiaries or other third parties solely for the purposes of processing your request or arranging delivery of your subscription, product, or service that you have requested. We may store and process personal information in the United States or any other country in which we (or any of our Subsidiaries or agents) maintain facilities.
+·    We may employ other companies and individuals to perform functions on our behalf. Examples may include providing technical assistance and customer service. These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law.
 
-**About Cookies**
+·    In an ongoing effort to better understand visitors to the Websites, the Platform, and our products and services, we may analyze the Information in aggregate form in order to operate, maintain, manage, and improve the Platform and/or our products and services. This aggregate information does not identify you personally.
 
-A ‘cookie’ is a small file containing a string of characters that is sent to your computer when you visit a website. Most major websites such as Google and Amazon.com use cookies to improve the quality of their service and to better understand how people interact with them. The use of cookies on this Website allows visitors to enjoy more seamless visits and enables us to more accurately measure visitor behavior on the Website.
+  * We may share some or all of this aggregate information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
 
-There are several types of cookies: session cookies, persistent cookies, and Flash cookies. Session cookies exist only during an Internet user’s online session. They disappear from the user’s computer when he/she closes the browser software. Persistent cookies remain on the user’s computer after the browser has been closed. Flash cookies are a type of persistent cookie discussed later in this document.
 
-The cookies used on the Website do not identify you personally. They merely recognize your browser, unless you choose to identify yourself voluntarily. You may choose to identify yourself for any one of the following reasons: by asking the browser to remember your username and password, by responding to a promotional offer, or by requesting more information on our product. Otherwise you remain anonymous.
 
-**How We Use Cookies**
+  * As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.
 
-When you come to our Website, our web server uses cookies to improve your interaction with the Website by, for example, remembering your preferences. More specifically, Monetate uses cookies to measure your behavior on this Website and to save personal settings on specific pages. For our corporate customers who login to Monetate products through the Website, cookies can also be used to save the username and password so that Monetate can process the saved login information and quickly log that user into the product. Cookies also help us make sure you are who you say you are after you’ve logged in. Monetate uses cookies (that only Monetate can read and use) to identify the fact that you are a Monetate customer or a prior Website visitor (whatever the case may be). Users who disable their Web browser’s ability to accept cookies will still be able to browse the Website; however, they may lose some of the functionality provided by the use of cookies.
 
-**Controlling Our Use of Cookies**
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Monetate websites and services that depend on cookies. We use cookies to collect non-personal information; for example to learn about the behavior of visitors to our web site and how they respond to our marketing communications. The more we learn, the better we are able to provide relevant and interesting content and services.
+  * To the extent permitted by law, we may also disclose the Information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of Monetate or others.
 
-We may set cookies through your browser, such as Microsoft Internet Explorer or Firefox, or by using Flash Cookies, also known as Flash Shared Objects or local shared objects. A local shared object is exactly like a browser cookie, except that it can also store data more complex than simple text. Shared objects, by themselves, cannot do anything to or with the data on your computer. More importantly, shared objects cannot access or remember your email address or other personal information unless you willingly provide such information. Responsible websites use this feature to provide a better user experience; however, you can use Adobe Flash Player security settings to control the degree to which local shared objects work.
 
-**Security**
 
-Our Website has physical, administrative and technical measures in place to maintain the security, confidentiality, and integrity of the data under our control, and to help protect against the loss, misuse, and alteration of such data. While we strive to protect your personal information, no data transmission over the Internet can be guaranteed to be totally secure and therefore we cannot ensure or warrant the security of any information you send to us. You send any information via this Website at your own risk.
 
-**Third party sites**
+**Accessing and Modifying Information and Communication Preferences**
 
-The Website contains links to other websites. Monetate is not responsible for the privacy practices or the content of these other websites. Customers and/or visitors should check the privacy policy statements of these other websites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+If you would like to opt-out of Monetate’s collection of Information about you using cookies or JavaScript tags, please follow the instructions found on our Clients’ Websites. We will use commercially reasonable efforts to process such requests in a timely manner.
 
-**Opt-out and update policies**
+****How We Protect the Information****
 
-Monetate offers its Website visitors a means for controlling the use of session information. If, at any time after registering for information or ordering Monetate’s services (“Services”), you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice.
+We take commercially reasonable steps to protect the Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the Information that you supply will not be intercepted while being transmitted to and from us over the Internet.
 
-We provide all visitors to the Website options for reviewing, changing, and modifying personally identifiable information previously provided. To update your organization’s profile, user profiles, billing information or to discontinue the Service, email privacy@monetate.com. Users can expect to receive a response to any such update request within fourteen (14) days of Monetate’s receipt of the same.
+**Important Notices to Non-U.S. Residents/Safe Harbor Certification**
 
-We and our Subsidiaries will provide you with a copy of any personal information that you have provided in connection with your visit to this Website should you request it, but will require evidence of your identity. We and our Subsidiaries may require a nominal administration fee to cover our costs in providing such information. If you wish to access the personal information we have about you, or to correct factual errors in our records, please contact us as set forth in the “Contact Us” section below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections.
+Monetate complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Monetate has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Monetate’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-**Contact Us:**
+However, it is important to note that the Platform and its servers are operated in the United States. If you are located outside of the United States, please be aware that any Information we gather will be transferred to the United States. By using the Websites, you consent to this transfer and our use of the Information in accordance with this Platform Privacy Policy.
 
-If you have questions, concerns, or suggestions regarding our Privacy Policy, you should first contact our Privacy Department by email at [privacy@monetate.com](mailto:privacy@monetate.com). We can also be reached at the contact information on our [Contact Us](http://monetate.com/company/contact-us/) page.
+In order to comply with the Safe Harbor framework, Monetate commits to the resolution of complaints about your privacy and our collection or use of your Information. We have also committed to resolve any complaints by European Union citizens relating to this Platform Privacy Policy, which cannot be resolved directly with our company, through the Council of Better Business Bureaus, Inc.’s Safe Harbor Privacy Dispute Resolution Procedures.
+
+If you have any questions regarding this Platform Privacy Policy, please contact us as described in the “How to Contact Us” section below. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question. If you do not receive acknowledgement of your complaint or if your complaint is not satisfactorily addressed by Monetate, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaint "BBB EU Safe Harbor") for more information and to file a complaint.
+
+****Changes to This Platform Privacy Policy****
+
+This Platform Privacy Policy is effective as of the date stated at the top of this Platform Privacy Policy. We may change this Platform Privacy Policy from time to time. By accessing and/or using the Websites after we make any such changes to this Platform Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Platform Privacy Policy in effect at the time we collect the Information. Please refer back to this Platform Privacy Policy on a regular basis.
+
+**How to Contact Us**
+
+If you have questions about this Platform Privacy Policy, please contact Monetate via e-mail at privacy@monetate.com with “PRIVACY POLICY” in the subject line or at the contact information on our [Contact Us page](http://monetate.com/about-monetate/contact-us/ "Monetate Contact Us Page").
