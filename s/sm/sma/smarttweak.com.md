@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarttweak.com privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215084007id_/http%3A//www.smarttweak.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttweak.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111171457id_/http%3A//www.smarttweak.net/privacypolicy) for the most accurate reproduction.*
 
 # SmartTweak Software - Privacy Policy
 
@@ -24,7 +24,7 @@ If we propose to use personal information for any purposes other than those desc
 
 **Information sharing**
 
-www.SmartTweak.com only shares personal information with other commercial projects from SmartTweak Software upon obtaining the user�s consent. We require opt-in consent for the sharing of any personal information.
+www.SmartTweak.com only shares personal information with other commercial projects from SmartTweak Software upon obtaining the user’s consent. We require opt-in consent for the sharing of any personal information.
 
 **Information security**
 
