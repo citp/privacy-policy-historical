@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614215235id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111042521id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
 
 # Frommer's About Us
 
@@ -39,6 +39,8 @@
 
 ## Privacy Policy
 
+Note: On November 15, 2012, this Privacy Policy will be replaced by the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/). As always, your privacy is important to us. 
+
 John Wiley & Sons, Inc. and its related companies (collectively, "Wiley") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Wiley you consent to the practices described herein. 
 
 Wiley will seek to ensure that any identifiable personal information it collects during the registration and purchasing processes will be adequate, relevant and not excessive for purposes of operating this website or any of the services operated hereunder and it will be kept accurate and up-to-date based on information provided. Except as expressly provided herein or, unless we have received your consent, Wiley will not disclose any personal information identifying users to any third party except where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with the confidentiality provisions of this policy. In addition, Wiley may disclose personally identifiable information to third parties in order to comply with the law or requests by law enforcement agencies, to enforce our Terms and Conditions or to protect the rights, property or safety of our Web site, users or others. In the event that all or substantially all of the business or assets of relating to this Web site are sold or otherwise assigned to another entity, personally identifiable information may be transferred to such entity. Personal information and any other communications or information supplied to Wiley may be used by Wiley for internal business and research purposes and to help enhance and develop our websites. 
@@ -59,4 +61,4 @@ Please note that Wiley's Privacy and Data Protection Policy is reviewed periodic
 
 | 
 
-[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;ord=582482378728828700?)
+[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;ord=212629619538670560?)
