@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511004636id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidingtech.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111133142id_/http%3A//www.guidingtech.com/terms-of-use/%23Privacypolicy) for the most accurate reproduction.*
 
 # Terms Of Use
 
@@ -48,7 +48,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on Guiding Tech to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on Guiding Tech to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 **DoubleClick DART cookies**
 
@@ -79,4 +79,4 @@ Here at Guiding Tech, we aim to publish articles and other forms of content like
 
 However, we do not guarantee that the tips, tricks, how to articles or guides we publish will help you or work on your computer. Different computers have different configurations and what works at our computers may not work on yours. Hence whenever you follow our advice or follow the instructions mentioned in the content on this site, you are doing that at your own risk and Guiding Tech will not be held responsible for any negative outcome of your action.
 
-We also monetize our content with the help of advertisements and affiliate links wherever possible. We try to ensure that only genuine products are promoted through the ads and affiliate links but we cannot guarantee their authenticity because we use third-party ad servers and ad agencies, and hence we do not always have control over the kind of ads and affiliate products that get promoted on the site. 
+We also monetize our content with the help of advertisements and affiliate links wherever possible. We try to ensure that only genuine products are promoted through the ads and affiliate links but we cannot guarantee their authenticity because we use third-party ad servers and ad agencies, and hence we do not always have control over the kind of ads and affiliate products that get promoted on the site.
