@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8moms.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509114544id_/http%3A//www.8moms.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8moms.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111203927id_/http%3A//www.8moms.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
 
 # 8moms: The best mom deals from the best places.
 
