@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514130134id_/http%3A//www.adminder.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111192344id_/http%3A//www.adminder.com/privacy.cgi) for the most accurate reproduction.*
 
 # Privacy Policy for AdMinder.com AdTracking and Guaranteed Traffic
 
