@@ -1,100 +1,37 @@
-> *The following text is extracted and transformed from the optimix.asia privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimix.asia privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111085636id_/http%3A//www.optimix.asia/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | iClick Interactive
 
-**Go Daddy Respects Your Privacy**
+Effective date: 2011/09/04
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## Use of Data
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+iClick collects our client’s users’ information when they are visiting our clients’ websites. The information includes, but is not limited to, all sales and marketing information provided by our clients’ online advertising or other campaign information, and all individually identifiable information about users at clients’ websites, including statistical, demographic, and behavioral information. iClick collects information solely on an “as-necessary” basis in order for iClick to provide its services to our clients and our clients grants to iClick a limited license to use such information to perform its obligations. iClick will treat all information collected as confidential. Clients’ limited license to iClick includes, but is not limited to, the right to collect all information of users visiting our clients’ websites, either directly or through other means, such as the use of redirects and 1-by-1 pixels. iClick will not disclose any information collected from client to any third party unless such disclosure is (i) approved by client, who in turn has obtained the approval of their users, or who has not opted out of the right to distribute their information, or (ii) is made by iClick in response to an order by a competent court of law, and provided that iClick has given client reasonable notice of such order, and an opportunity to contest, or (iii) supported by a Non-Disclosure Agreement which enable iClick to co-operate with third party for data analytics purpose. iClick may improve and promote its service offerings, aggregate the information collected from clients with other data so that it is non-personally identifiable with respect to both clients and users to clients’ website(s).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## Our Commitment To Privacy
 
-**Information Collection and Use**
+Our clients’ and their users’ privacy is important to us. To better protect privacy of the users information we obtain we provide this notice explaining our online information practices and how information is collected and used. To make this notice easy to find, we make it available on this product website (i.e optimix.asia) and at every point where personally identifiable information may be requested. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Purpose of Data Collection
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We use the information collected to evaluate the effectiveness of customers' marketing campaigns in a statistical way and then come up with different strategies by human or a machine’s self-learning capability for further campaign improvement. Finally, we never use or share the personally identifiable information provided to or collected by us online in ways unrelated to those described. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## How We Use the Information
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+This notice applies to all information collected or submitted on the XMO Tracking Service. XMO acts as SaaS (i.e. Software as a Service) for each of our clients who use XMO to understand more about how the visitors react to their online marketing campaigns and eventually complete the campaign goals including online purchases, enquiries or membership registration, etc as defined by our clients. On top of collecting our clients’ users’ behavioral patterns in an anonymous way, we also collect certain technical information such as IP address, browser version and operating system. In addition to the above and in order to create statistical information, we may also, upon our client’s request, and subject to their users consent, collect personally identifiable information like email address or member ID but they will not be disclosed, sold or transferred to any 3rd party. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## Our Commitment To Data Security and Disposal
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+To prevent unauthorized access, maintence of data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. As soon as reasonably practicable, once service to a client has been completed, all information identifiable to a user, collected by us, for that service, shall be properly and securely destroyed and permanently deleted from our systems. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## Obligations of our Clients
 
-**Security**
+Our clients are under obligation to disclose to their users, that personal information they are submitting are being collected for analytic purposes and our clients are obliged to provide an opt out provision to their users whether or not they agree their personal information to be disclosed to us.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## How We Use Cookies
 
-**Updating Your Information**
+XMO uses only 1st party cookie to the base domain of 'optimix.asia'. The cookie information does not include personal data such as name, email, phone number or gender. If you would prefer, you can opt out your browser to XMO tracking by rejecting cookies specifically from the domain 'optimix.asia' or by our cookie opt-out page on (<http://i-click.asia/optout/optout_en.html>). 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## How To Contact Us
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Should you have other questions or concerns about these privacy policies, please call us at 852-3741 1090 or send us an email at [privacypolicy@i-click.asia](mailto:privacypolicy@i-click.asia). 
