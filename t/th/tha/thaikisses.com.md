@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the thaikisses.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaikisses.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
 
 # Thai Kisses
 
-|  |  |   
----|---  
-  
-**International Dating Service**  
-  
-  |  | 
-
-**Login for members**  
-  
-[Home](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/index.php?l=en&randm=3&randw=5)|   |  | [Browse](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/browse_members.php?l=en&randm=3&randw=5)|   |  | 
-
-  * Search
-    * [Search (new)](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/a_search_all.php?l=en&randm=3&randw=5)
-    * [Search(old)](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/search.php?l=en&randm=3&randw=5)
-
-|   |  | [Register](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/join_now.php?l=en&randm=3&randw=5)|   |  | [Galleries](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/gallery.php?l=en&randm=3&randw=5)|   |  | [Statistic](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/statistik.php?l=en&randm=3&randw=5)|   |  | [Success Stories](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/testimonials.php?l=en&randm=3&randw=5)|   |  | [Member's login](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/login.php?l=en&randm=3&randw=5)|   |  | [Contact us](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/impressum.php?l=en&randm=3&randw=5)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|   
+|  |   
 ---  
 |  |    
   
@@ -110,5 +93,6 @@ The author intended not to use any copyrighted material for the publication or, 
 ## 4\. Legal validity of this disclaimer
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
-[Hotel Thailand](https://web.archive.org/hotel_thailand.php) | | [Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en)|  | [Freeware](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20120615185220id_/http%3A//www.thaikisses.com/agb.php?l=en&randm=3&randw=5)  
----|---|---|---|---|---
+[Hotel Thailand](https://web.archive.org/hotel_thailand.php) | | [Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en)|  | [Freeware](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/agb.php?l=en&randm=3&randw=5)  
+---|---|---|---|---|---  
+174.129.237.157
