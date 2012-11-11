@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anothermag.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511202400id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anothermag.com privacy policy that was archived on 2012-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111175006id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js canvas no-touch history borderradius opacity csstransitions fontface generatedcontent" lang="en" prefix="og: http://ogp.me/ns# anothermagazine: http://ogp.me/ns/apps/anothermagazine#"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -13,7 +13,7 @@
 
 <link rel="icon" href="/images/another-ico.gif" type="image/gif">
 
-<link rel="stylesheet" href="/css/style.css?v=leaderboard">
+	<link rel="stylesheet" href="/css/style.css?v=responsivehome">
 	
 	<link href="/css/mvc-information.css" rel="stylesheet" type="text/css">
 
@@ -24,7 +24,7 @@
 
 
 </head>
-<body id="" class="document-ready window-load">
+<body id="" class=" document-ready window-load" data-facebooknamespace="anothermagazine">
 
 
 
@@ -36,23 +36,27 @@
 
 <header class="container clearfix">
 	<a href="/" id="logo" class="ir">AnOther</a>
-	<nav>
+	<nav class="intro-faded">
+		<button id="menu-button">Menu</button>
 		<div class="menu">
 	<a href="/current/womens-fashion">Women's Fashion</a>
-|	<a href="/current/mens-fashion">Men's Fashion</a>
-|	<a href="/current/art-culture">Art &amp; Culture</a>
-</div>
+	<span>|</span>	<a href="/current/mens-fashion">Men's Fashion</a>
+	<span>|</span>	<a href="/current/art-culture">Art &amp; Culture</a>
+	<span></span></div>
 
 		<div class="menu">
-			<a href="/current">Current</a> |
-			<a href="/exclusives">Exclusives</a> |
-			<a href="/loves">Loves</a> |
+			<a href="/current">Current</a> <span>|</span>
+			<a href="/exclusives">Exclusives</a> <span>|</span>
+			<a href="/loves">Loves</a> <span>|</span>
 			<a href="/reader">Reader</a>
 		</div>
 		<div class="menu search">
-			<a href="/subscribe" id="header-subscribe">Subscribe</a> |
+			<a href="/subscribe" id="header-subscribe">Subscribe</a><span> |</span>
 			<a href="/search" id="header-search" data-track="event" data-title="Search">Search</a>
-			<input type="search" id="header-searchbar">
+			<form action="/search" method="GET">
+				<input type="search" id="header-searchbar" name="q">
+				<input type="submit" value="search">
+			</form>
 		</div>
 	</nav>
 </header>
@@ -64,13 +68,15 @@
 
 <aside class="col1">
 		<h2>Information</h2>
-		<h3><a href="/magazine">Magazine</a></h3>
-		<h3><a href="/contact">Contact Us</a></h3>
-		<h3><a href="/about-us">About Us</a></h3>
-		<h3><a href="/advertising">Advertising</a></h3>
-		<h3><a href="/jobs">Jobs</a></h3>
-		<h3><a href="/privacy-policy" class="selected">Privacy Policy</a></h3>
-		<h3><a href="/terms-and-conditions">Terms and Conditions</a></h3>
+		<ul>
+		<li><a href="/magazine">Magazine</a></li>
+		<li><a href="/contact">Contact Us</a></li>
+		<li><a href="/about-us">About Us</a></li>
+		<li><a href="/advertising">Advertising</a></li>
+		<li><a href="/jobs">Jobs</a></li>
+		<li><a href="/privacy-policy" class="selected">Privacy Policy</a></li>
+		<li><a href="/terms-and-conditions">Terms and Conditions</a></li>
+		</ul>
 </aside>
 
 <section class="info-page">
@@ -141,7 +147,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>window.jQuery||document.write('<script src="/js/jquery/jquery-1.7.1.min.js"><\/script>')</script><script src="/js/jquery/jquery-1.7.1.min.js"></script>
-<script src="/js/script.js"></script>
+<script src="/js/script.js?vxx"></script>
 
 
 
