@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503085811id_/http%3A//www.accuquilt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111051534id_/http%3A//www.accuquilt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Statement discloses the privacy practices for the entire Web Site. Questions regarding this statement should be directed to AccuQuilt Customer Service by e-mail at [info@accuquilt.com](mailto:info@accucut.com) or by mail at 1035 E. Dodge Street, Fremont, NE 68025.
+This Privacy Statement discloses the privacy practices for the entire Web Site. Questions regarding this statement should be directed to AccuQuilt Customer Service by e-mail at [info@accuquilt.com](mailto:info@accucut.com) or by mail at 8843 South 137th Circle, Omaha, NE 68138.
 
 **AccuQuilt's Privacy Policy**  
 Your privacy on the Internet is important to us. Because we gather certain types of information about AccuQuilt users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
