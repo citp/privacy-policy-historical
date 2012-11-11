@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615123238id_/http%3A//www.cheapflights.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111192311id_/http%3A//www.cheapflights.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-You have been directed to our Australian site
-
-Did you want to visit the US site?
-
-  *  UK
-  *  US
-  *  CA
-  *  DE
-  *  AU
-  *  ES
-  *  FR
-  *  IT
-
-
-
-Close
-
-[](https://web.archive.org/)
-
-  * [Home  ](https://web.archive.org/)
-  * [Search by date  ](https://web.archive.org/book-flights-online/)
-  * [Flight deals  ](https://web.archive.org/flights/)
-  * [Hot deals  ](https://web.archive.org/hot-travel-deals/)
-  * [Travel guides  ](https://web.archive.org/flight-guide/)
-  * [Newsletter  ](https://web.archive.org/email-newsletter/)
-
-
 
 ## About us
 
