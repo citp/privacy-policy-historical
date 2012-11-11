@@ -1,65 +1,248 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506201646id_/http%3A//www.teletextholidays.co.uk/Holidays/About/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111170939id_/http%3A//www.teletextholidays.co.uk/Home/Holidays/About/Privacy%2520and%2520Cookies) for the most accurate reproduction.*
 
-# Privacy Policy - Teletext Holidays
+# Privacy and Cookies Policy - Teletext Holidays
 
-Teletext Limited (“we”, “us” or “our”) is committed to protecting your right to privacy and ensuring your enjoyment of our website (which includes the Teletext Limited websites accessible via our website) located at [www.teletext.co.uk](http://www.teletext.co.uk/ "www.teletext.co.uk") (the “Website”). This Privacy Policy covers our use of any personal data you provide us with when using any part of the Website. This privacy policy (together with our Terms and Conditions) sets out the basis on which any personal data we collect from you will be used and/or processed by us. 
+**Effective from  10 May 2012 **
 
-This privacy policy does not apply to any personal data which you might submit to a third party website which you may access via a link from the Website, and we would advise that you review the relevant third party’s privacy policy when using such third party’s website. For the purposes of the Data Protection Act 1998 (the “Act”), the Data Controller (as defined in the Act) in respect of your personal data is Teletext Limited, a company incorporated under the laws of England and Wales (company number: 02694814) and whose registered address is at 2nd Floor, Building 10, Chiswick Park, 566 Chiswick High Road, London, W4 5TS. Teletext Limited is listed in the Register of Data Controllers under the number Z6064260. This list can be accessed via the website located at [www.ico.gov.uk](http://www.ico.gov.uk/ "www.ico.gov.uk").
+This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use the Site.
 
-  **What information do we and third parties collect about you via this website?  
-**    
-We may collect, use and process the following data about you:  
-• Details of where you are on the internet (for example, the URL you came from, IP address, domain types, your browser type) and the pages of the websites and web pages that you visited.   
-• If you contact us, we may keep a record of that correspondence. We may also ask you for information when you report a problem with the Website.   
-• Information you provide by filling in forms on the Website. This includes information you provide at the time of registering on the Website.   
-• Details of any visits to the Website.   
-• Details of transactions you carry out on the Website.   
-• Information that we may ask you for if you enter any competition or promotion featured on the Website.   
-Third party companies may collect and use information about your visits to the Website and other websites in order to provide advertisements about goods and services of interest to you. Should you wish to obtain more information about (i) third party companies collecting and using information about your visits to the Website and other websites, and (ii) your choices about not having your information used by such third party companies, please visit:  
-<http://networkadvertising.org/managing/opt_out.asp>. 
+### Collection of Personal Information
 
-  **Liability**  
-Teletext has used reasonable care and skill in compiling the content of the Teletext Sites. Part of the information on the Teletext Sites is received by Teletext from third parties, Teletext specifically does not warrant the accuracy or completeness of any information contained in the Teletext Sites.
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, order any products or services, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
 
-  **How do we store your personal data?**
+If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types, please see our [privacy policy and cookie FAQ](https://web.archive.org/Holidays/About/Privacy-and-Cookies-FAQ "privacy policy and cookie FAQ"). 
 
-We will do our best to protect your personal data, and we will use technology that will help us to do this, however, the transmission of information via the internet is not completely secure and we cannot guarantee the security of your information transmitted to the Website. Any transmission of your information to the Website is entirely at your own risk. Once we have received your information, we will use strict organisational procedures, policies and security features to prevent unauthorised access and disclosure. We will keep your personal data on a secure server located in the United Kingdom. We will keep your personal data only for a reasonable time to enable us to use it for the purposes described in this privacy policy.
+### Use of Cookies
 
-  **How do we use your personal data?**
+**Cookies and similar technology**
 
-We use your personal data for the following purposes:  
-• To ensure that content from the Website is presented in the most effective manner for you and for your computer;   
-• In aggregate form, for internal business purposes such as generating statistics and developing our strategic and marketing plans;   
-• To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;   
-• To allow you to participate in interactive features of our service, when you choose to do so;   
-• To carry out any contracts that may form between us;   
-• To respond to any queries you make; and   
-• To notify you about changes to our products and/or service. 
+The Site uses cookies, web beacons and similar technical tools to collect information about your access to the Site and the services we provide.
 
-  **Who do we share information with and disclose information to?**
+Cookies are pieces of information which include a unique reference code that a website transfers to your device to store and sometimes track information about you. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site or within electronic communications.
 
-We may disclose your personal data to any of the following:  
-• To any of our group companies;   
-• To any of our service providers or agents including (without limitation) those engaged by us to provide customer support or mailings, providers of prizes in any promotions that we may from time to time organise, database administrators engaged by us from time to time and partner charities;   
-• To other selected organisations to enable them to contact you or send you information by post, telephone or email regarding services, promotions or special offers which they may offer (if you have given your consent for us to do this when you submitted your personal data to us);   
-• In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets; and   
-• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation or governmental request, or in order to enforce or apply our Terms and Conditions, or to protect our rights, property or safety. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.   
-In disclosing your personal data in any of the circumstances described above, we may need to send your personal data outside the European Economic Area (“EEA”) to a country whose laws may not provide adequate levels of protection to personal data. When you submit your personal data to us via the Website and by using the Website, you are giving your consent to the use of your personal data in the manner described in this policy and to the transfer of your personal data outside the EEA to a country or territory whose laws may not necessarily provide adequate levels of protection to personal data.
+We use cookies to:
 
-  **Use of Cookies and other Tracking Technology**
+\- remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough; 
 
-We or third parties may store cookies and/or web beacons on your computer when you look at certain areas of the Website. A cookie is a small file stored on your computer by a website to give you a unique ID and helps make it easier and faster for you to use our website. A web beacon is a file stored on your computer by a website and which is used to track who is reading a specific web page. 
+\- remember your login session so you can move from one page to another within the Site; 
 
-You can refuse to accept cookies and/or web beacons by changing the settings on your computer. Unless you have adjusted your browser setting so that it will refuse cookies and/or web beacons, our system will issue and transmit cookies and/or web beacons when you use the Website. We or third parties may collect information about your computer and use cookies and/or web beacons in the ways set out above even if you do not register as a member on the Website, subscribe to any of our products and/or services or otherwise submit your personal data to us via the Website.
+\- store your preferences or your user name and password so that you do not need to input these every time you visit the Site; 
 
-  **Changes to this Policy**
+\- customise elements of the layout and/or content of the pages of the Site for you; 
 
-We reserve the right to make changes to this privacy policy from time to time. Any changes will be notified on the Website. The privacy policy will always be easily accessible online through the Website.
+\- collect statistical information about how you use the Site so that we can improve the Site; and 
 
-  **Links to other sites**
+\- gather information about the pages on the Site that you visit, and also other information about other websites that you visit.
 
-Links from the Website to other websites are provided for information only. Please note that the content of a third party website or resource may be subject to terms and conditions imposed by the owner of that website or resource. We do not endorse or accept any responsibility in respect of your access to such websites or any material found on them.
+Some of the cookies used by the Site are set by us, and some are set by third parties who are delivering services on our behalf such as our advertising partners who serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit:
 
-  **Complaints**
+The site of the Internet Advertising Bureau  [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/ "www.youronlinechoices.co.uk")[](http://www.youronlinechoices.co.uk/);
 
-If you have any questions or complaints about how we use your personal data, then please email [webmaster@teletext.co.uk](mailto:webmaster@teletext.co.uk "webmaster@teletext.co.uk").
+The Network Advertising Initiative (NAI) control page [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) or;
+
+[www.aboutads.info/choices/](http://www.aboutads.info/choices/ "www.allaboutcookies.org") the Digital Advertising Alliance’s self-regulatory program for online behavioural advertising control page. 
+
+Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. You can learn more about cookies and how to reject cookies using different types of browser by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+a) Our cookies
+
+A description of the main cookies we use and of the general purpose we use these for is provided below: 
+
+  **Cookie name** | 
+
+**Purpose**
+
+| **Type and duration (i.e. session only or persistent)  **  
+---|---|---  
+_anonymousUserDetails | Remembers your login session so you can move from one page to another within the website. | Session expires after 20 minutes of inactivity.  
+.ASPXAUTH | This cookie is used to determine whether a user is authenticated. | At end of session.  
+ASP.NET_SessionId | This cookie is used to store and retrieve values for the user as they navigate through the site. | At end of session.  
+AWSELB | This cookie used to ensure visitors to the website stay on the same server they originally connected to. This makes caching more effective. | Session expires after 20 minutes of inactivity.  
+fbm_1*************9 | This cookie is used to allow the facebook login to the site. | Persistent 4 hours.  
+fbsr_1*************9 | This cookie is used to allow the facebook login to the site. | Persistent 4 hours.  
+P160777 | This cookie establishes the logged in status of the user. | Persistent 1 day.  
+rsi_segs | This Cookie is used to allow Audience Science to store information that can be used to profile users anonymously to engage relevant audiences. | Session expires after 20 minutes of inactivity.  
+SearchCookie | This cookie is used to retain the search values of the searches that the user undertakes on the site. | At end of session.  
+Search_Overseas | This cookie is used to retain the search values of the searches that the user undertakes on the overseas section of the site. | At end of session.  
+Search_AllInclusive | This cookie is used to retain the search values of the searches that the user undertakes on the All Inclusive Holidays section of the site. | At end of session.  
+Search_Shorts | This cookie is used to retain the search values of the searches that the user undertakes on the City breaks section of the site. | At end of session.  
+showEmailPopup | This cookie is used to ensure that the newsletter signup popup between the search and results in only shown to the user once every 6 months. | Persistent 6 Months  
+s_vi | This cookie is set for analytics by Omniture and stores the date of the user visit. | At end of session.  
+s_cc | This cookie is set for analytics by Omniture and read by the JavaScript code to determine if cookies are enabled. | At end of session.  
+s_nr | This cookie is set for analytics by Omniture and stores the date of the user visit and whether it is a repeat visit or a brand new visit. | At end of session.  
+s_sq | This cookie is set for analytics by Omniture and is set and read by the JavaScript code when the ClickMap functionality is enabled; it contains information about the previous link that was clicked on by the user. | At end of session.  
+  
+Silverpop.com
+
+com.silverpop.iMA.page_visit
+
+| This cookie anonymously tracks when a page has been visited. | At end of session.  
+  
+Silverpop.com
+
+com.silverpop.iMA.session
+
+| This cookie anonymously groups events and page visits by session. | Session expires after 20 minutes of inactivity.  
+  
+Silverpop.com
+
+com.silverpop.iMAWebCookie
+
+| This cookie stores user preference to accept Cookies. | Session expires after 20 minutes of inactivity.  
+ Teletext holidays.co.uk | Registration - this user account cookie enables registered account holders to be presented with their customised account area.  |  Persistent 2 years.  
+  
+b) Third party cookies 
+
+Cookies are also set by third parties on the Site. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. 
+
+  **Name** | **Purpose/typical content  ** | **  Type and duration** | **How to reject or delete this cookie  **  
+---|---|---|---  
+Addthis | Addthis set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products. | Persistent up to 3 years. | [www.addthis.com/privacy/opt-out](http://www.addthis.com/privacy/opt-out)  
+Admeld.com | This Google owned company uses cookies to serve advertising and deliver and report on ads served on the  website. The cookie also tracks what advertisments the user has seen and how often. | Persistent 1 year. | [www.admeld.com/opt-out](http://www.admeld.com/opt-out)  
+Adnxs.com | This cookie is used to identify web browsers and store data for advertising purposes, including interest-based advertising, to store ad delivery and reporting data, to track users' responses to ads, for server load-balancing and similar technical purposes. The Platform uses non-unique cookies to store users' opt-out choices. | Non-personally identifiable information is stored in non-aggregated form for up to 12 months. Aggregated data is used for reporting and analysis, and may be stored in the Platform for up to 2 additional years. | [appnexus.com/platform-policy#choices](http://appnexus.com/platform-policy#choices)  
+Akamai Analytics | This cookie is used to gather Brightcove video player viewer analytics anonymously, to detect the bandwidth of a viewers device to deliver the appropriate bandwidth video and to collect information about the quality of video delivery. (Includes BC_Bandwidth and ClientLastHTimes, and ClientLastPTimes) | At end of session. | [support.brightcove.com/en/docs/video-cloud-player-cookies#disable](http://support.brightcove.com/en/docs/video-cloud-player-cookies#disable)  
+Audience Science | The cookie collects, measures and segments user interests from their web behaviour on this and other website and delivers interest based advertising based on the user's market segment. | 
+
+Persistent
+
+Between 2 and 5 years.
+
+| [www.audiencescience.com/privacy](http://www.audiencescience.com/privacy)  
+Bluekai.com | Bluekai uses non-personally identifiable cookies and pixel tags to collect and store Preference Data. | Persistent 6 months (NB also Pixel gif with life of 6 months). | [bluekai.com/consumers_optout.php](http://bluekai.com/consumers_optout.php)  
+Clicktale | ClickTale uses cookies to anonymously follow users path through the site to track a users behaviour on pages, essentially to see where users click. | Persistent 365 days. | [www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)  
+Criteo.com | Criteo's product is a form of display advertising. Their personalized retargeting solution uses cookies to display interactive banner advertisements  based on the online retail browsing preferences of each customer. | Persistent up to 13 months. | [www.criteo.com/us/privacy-policy](http://www.criteo.com/us/privacy-policy)  
+Doubleclick (Google)  id | This cookie is used to serve advertising,  deliver and report on ads served on the  website. The cookie also tracks what advertisments the user has seen and how often.  | Persistent 2 years. | [www.google.co.uk/privacy/ads/](http://www.google.co.uk/privacy/ads/)  
+Facebook | The facebook cookies are used to let Facebook know you are logged in to Facebook, to help you use social plugins and share buttons. | Persistent up to 2 years. | [www.facebook.com/help/?page=176591669064814](http://www.facebook.com/help/?page=176591669064814)  
+Flashtalking.com | This cookie is used to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.  | Persistent 2 years. | [www.flashtalking.com](http://www.flashtalking.com/ "www.flashtalking.com")  
+Google Analytics | These cookies collect statistics on visitors to the site, where vistors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. | Persistent 2 years. | [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
+Invitemedia.com | Invitemedia uses cookies in conjunction with Web beacons in order to help make online advertisements you see more relevant to you. They also use cookies and web beacons so that they can measure the success of their online advertising campaigns, and the campaigns of their Clients. | Persistent up to 180 days. | [assets.invitemedia.com/opt-out.html](http://assets.invitemedia.com/opt-out.html)  
+Mathtag.com | MathTag.com is a domain used by MediaMath to place cookies, on behalf of its customers, on the computers of visitors to our selected customer's websites and who may view our customer's display advertisements. | Persistent up to 3 years. | [www.mediamath.com/privacy/](http://www.mediamath.com/privacy/)  
+Omniture | Omniture uses cookies to  provide anonymous statistics to us so that we can track the number of visitors to the   website and to improve the performance of our website. | Persistent 12 months. | [www.omniture.com/en/privacy/2o7](http://www.omniture.com/en/privacy/2o7)  
+Responsys Interact | Responsys Interact use cookies to track user conversions, such as filling out a form or making a purchase as a result of an email or social campaign. They also use cookies to track whether clicks on a URL links in a social campaign message are unique. There is no personally identifiable information in this cookie.  | Persistent 12 months and 14 months respectively. | <http://www.responsys.com/legal/privacy.php>  
+Sensic.com | This is a Google AdSense Third party vendor. As such they set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products. | Persistent 5 months. | [www.sensic.net/index2.html](http://www.sensic.net/index2.html)  
+Smartadserver.com | This cookie is used to serve advertising and deliver and report on ads served on the  website. The cookie also tracks what advertisments the user has seen and how often.  | Persistent 2 years       (NB also Pixel Gif with life of 9 years). | [www.smartadserver.co.uk/privacy-policy](http://www.smartadserver.co.uk/privacy-policy)  
+Tubemogul.com | Cookies are used by Tubemogul to collect, measure and segment user interests from their web behaviour on this and other  websites to deliver interest based online video advertising based on the user's market segment. | Persistent 10 years. | [www.tubemogul.com/company/privacy](http://www.tubemogul.com/company/privacy)  
+Twitter.com |  Twitter use cookies to better understand how you interact with their Services. |  At end of session. | [twitter.com/privacy](http://twitter.com/privacy)  
+Yieldmanager.com | Ad.yieldmanager.com is a tracking cookie that tracks you across websites, thus recording your user behaviour. | 19/01/2038 | [ad.yieldmanager.com/opt-out](http://ad.yieldmanager.com/opt-out "Google ad and content network privacy policy")  
+  
+The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
+
+\- Google, as a third party vendor, uses cookies to serve ads on your site. 
+
+\- Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+
+\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy/ads/).
+
+The following is a list of sources of third party AdSense ads. This list as of time of viewing, may not be up to date as Google may add others in the future, To see the latest list provided by Google, please visit [Google Adsense Third Party Vendors](https://www.google.com/adsense/support/bin/answer.py?answer=94149 "Google Adsense Third Party Vendors").
+
+**Goodle Adsense Third Party Vendor  ** | 
+
+**Address    ** **           ** **                                              **  
+  
+---|---  
+  
+Adacado / Healthpricer Interactive
+
+| [www.adacado.com](http://www.adacado.com/ "www.adacado.com")  
+Adform | [www.adform.com](http://www.adform.com/ "www.adform.com")   
+ADITION | [www.adition.com](http://www.adition.com/ "www.adition.com")  
+AdMotion | [www.admotion.com](http://www.admotion.com/ "www.admotion.com")  
+AdOcean | [www.adoceanglobal.com](http://www.adoceanglobal.com/ "www.adoceanglobal.com")  
+Adrime | [www.adrime.com](http://www.adrime.com/ "www.adrime.com")  
+ADTECH | [www.adtech.com](http://www.adtech.com/ "www.adtech.com")  
+Atlas | [www.atlassolutions.com](http://www.atlassolutions.com/ "www.atlassolutions.com")  
+ATK Media | [www.atk.com/MediaCenter/mediacenter_default.asp](http://www.atk.com/MediaCenter/mediacenter_default.asp)  
+DC Storm | [www.dc-storm.com](http://www.dc-storm.com/ "www.dc-storm.com")  
+Bluestreak | [www.bluestreak.com](http://www.bluestreak.com/ "www.bluestreak.com")  
+Broadband Enterprises/Vindico | [www.bbe.com](http://www.bbe.com/ "www.bbe.com")  
+Cossette | [www.cossette.com](http://www.cossette.com/ "www.cossette.com")  
+Digital Control | [www.digital-control.biz/de.html](http://www.digital-control.biz/de.html)  
+DoubleClick (DFP Small Business not supported, DFP Enterprise is certified individually) | [www.doubleclick.com](http://www.doubleclick.com/ "www.doubleclick.com")  
+ebookers SA | [www.ebookers.com](http://www.ebookers.com/ "www.ebookers.com")  
+e-planning | [www.e-planning.net](http://www.e-planning.net/ "www.e-planning.net")  
+eBay | [www.ebay.com](http://www.ebay.com/ "www.ebay.com")  
+Emediate | [www.emediate.biz](http://www.emediate.biz/ "www.emediate.biz")  
+Eulerian Technologies | [www.eulerian.net](http://www.eulerian.net/ "www.eulerian.net")  
+Experteer | [www.experteer.de](http://www.experteer.de/ "www.experteer.de")  
+Facilitate Digital | [www.facilitatedigital.com](http://www.facilitatedigital.com/ "www.facilitatedigital.com")  
+Flashtalking | [www.flashtalking.com](http://www.flashtalking.com/ "www.flashtalking.com")  
+gemiusDirectEffect | [www.gemius.pl](http://www.gemius.pl/ "www.gemius.pl")  
+HQ Professional Service | [www.adnet.de](http://www.adnet.de/ "www.adnet.de")  
+iCrossing | [www.icrossing.com](http://www.icrossing.com/ "www.icrossing.com")  
+MediaMind | [www.mediamind.com](http://www.mediamind.com/ "www.mediamind.com")  
+Mediaplex | [www.mediaplex.com](http://www.mediaplex.com/ "www.mediaplex.com")  
+MetaPeople | [www.metapeople.com](http://www.metapeople.com/ "www.metapeople.com")  
+Newtention | [www.newtention.com](http://www.newtention.com/ "www.newtention.com")  
+Optimum Response | [www.optimumresponse.net](http://www.optimumresponse.net/ "www.optimumresponse.net")  
+Quisma Tracker | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
+QuisMatch  | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
+SMART AdServer | [www.smartadserver.com](http://www.smartadserver.com/ "www.smartadserver.com")  
+Tassimo | [media.tassimodirect.com](http://media.tassimodirect.com/ "media.tassimodirect.com")  
+TradeDoubler | [www.tradedoubler.com](http://www.tradedoubler.com/ "www.tradedoubler.com")  
+TruEffect | [www.trueffect.com](http://www.trueffect.com/ "www.trueffect.com")  
+Wall Street on Demand/Adhesion | [ad.wsod.com](http://ad.wsod.com/ "ad.wsod.com")  
+Weborama/AdPerf | [www.weborama.com](http://www.weborama.com/ "www.weborama.com")  
+  
+In addition to cookies we use the following similar technologies in respect of your use of the Site:
+
+\- Pixel Gif’s - these are small image files that are placed within the body of our newsletters so we can understand whether these are read and if particular content in the newsletter is of interest. This way we can improve the relevance of the content of our communications to our readers; 
+
+\- Flash cookies – We may use Adobe Flash Player to display video or image content. It may not be possible to block or restrict flash cookies using your browser setting, however information on how to control flash privacy and security settings is available from the Adobe website at: [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security "www.dmgt.co.uk")
+
+ **Use of Your Information**
+
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):
+
+\- personalising your visits to the Site to improve the services provided to you; 
+
+- informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting; 
+
+\- customer service and support; 
+
+\- communicating (and personalising such communication) with you; 
+
+\- enabling you to share our content with others e.g. using an 'Email a friend' or 'Share this' functionality; 
+
+\- conducting market research; and/or 
+
+\- carrying out technical and statistical analysis to measure the performance of our services and the Site.
+
+ **Sharing Your Personal Information**
+
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer. 
+
+We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group. 
+
+Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group.   
+Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
+
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
+
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
+
+**Keeping Your Personal Information Secure**
+
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. 
+
+**Accessing Your Personal Information**
+
+If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address: 
+
+Privacy Team   
+Teletext Limited   
+9th Floor   
+Holborn Tower   
+137-144 High Holborn   
+London   
+WC1V 6PW 
+
+We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information. 
+
+**Unsubscribing from emails**
+
+If you wish to unsubscribe from emails from teletextholidays.co.uk, please click on the unsubscribe link in your email or amend your email preferences [here](http://www.pages04.net/teletextholidaysltd/PrefCenter? "here"). 
+
+**Changes to this Privacy Policy**
+
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.   
+
