@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504182202id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111111617id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
-# XtraOrbit.Com :: Company Profile :: Privacy Policy :: E-Gold, MoneyBookers, PayPal, Liberty Reserve, AlertPay, Google CheckOut and Credit Cards Accepted.
+# XtraOrbit.Com :: Company Profile :: Privacy Policy :: Skrill, MoneyBookers, PayPal, Liberty Reserve, Payza, AlertPay and Credit Cards Payments Accepted.
 
 |  |  |  |   
 ---|---|---  
@@ -61,22 +61,10 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
 
 [](http://www.xtraorbit.com/core/hosting/dedicated-servers.php)
 
-| [](http://www.xtraorbit.com/core/about/moneybookers.php)  
+| [](http://www.xtraorbit.com/core/about/skrill-moneybookers-hosting-discount.php)  
 ---  
 |   
 ---|---  
-  
-[ ](http://www.xtraorbit.com/core/about/quotes.php)  
----  
-|   
-Choosing to work with XtraOrbit has been one of the best, most profitable busniess decisions my company has made.
-
-There are a lot of hosting outfits to choose from, but we've never encountered anyone who works with us so intensely to insure that all of our needs are met, and we really can't thank you enough for that.   
-  
-|    
-**Ahmed M.Safa**  
-ObeikanBookShops.com  
-Saudi Arabia  
   
   
   
@@ -84,7 +72,7 @@ Saudi Arabia
 ---  
 [](https://web.archive.org/core/docs/main_terms.php)  
   
-Major payment methods are accepted, We accept major **credit** and **debit cards** , [**E-Gold**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/e-gold.php), [**Paypal**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/paypal.php), [**Moneybookers**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/moneybookers.php), [**AlertPay**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/alertpay.php), [**Liberty Reserve**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/libertyreserve.php) and **Google Checkout**.
+Major payment methods are accepted, We accept major **credit** and **debit cards** , [**E-Gold**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/e-gold.php), [**Paypal**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/paypal.php), [**Skrill**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/skrill.php), [**Moneybookers**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/moneybookers.php), [**Payza**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/payza.php), [**AlertPay**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/alertpay.php), [**Liberty Reserve**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/libertyreserve.php) and **Google Checkout**.
 
 So, you are free to order or register single domain names, bulk domain names, web hosting, cPanel hosting, website design and website templates Instantly using any of the above payment methods. 
 
