@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508001414id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcl.com.au privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111112124id_/http%3A//www.bcl.com.au/privacy.htm) for the most accurate reproduction.*
 
-# BCL: Privacy Policy
-
-##  Privacy Laws
+# Privacy Policy
 
 For information on Australian Privacy laws, see [www.privacy.gov.au](http://www.privacy.gov.au/) 
 
 ##  BCL - Web Site Cookies and Statistics
 
-We ask for no personal details from users of Brisbane City Life web pages. Our server registers the following information which is used for general statistical purpose only.
+We ask for no personal details from users of BCL.com.au web pages. Our server registers the following information which is used for general statistical purpose only.
 
   * Your server or ISP (not your computer)
   * The number of pages visited
@@ -24,7 +22,11 @@ Cookies are used to pass our ID to some of our affiliate links (eg hotels, shopp
 
 **We ask readers to allow these cookies to be set** as the funding from this advertising makes it possible to provide this service free to readers and supports the free advertising for non-profit and community groups. 
 
-We do not receive the names of people who book hotels or buy from online shops through our site. We receive names only for hostel bookings and some tour bookings but do not use, sell or share them.
+We do not receive the names of people who book hotels or buy from online shops through our site. We receive names only for some tour bookings but do not use, sell or share them.
+
+##  BCL - Contextual Advertising Cookies
+
+We do not use Adsense, Netratings or other third party tracking on any of our sites. They may be present on co-branded sites (eg Viator tours, Domain real estate, etc)
 
 ##  BCL  \- Email newsletter
 
@@ -42,4 +44,4 @@ It will tell us if you open the newsletter and what links you click on. You can 
 
 ##  Questions
 
-Please [contact the editor](https://web.archive.org/web/20120508001414id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
+Please [contact the editor](https://web.archive.org/web/20121111112124id_/http%3A//www.bcl.com.au/contact.htm) if you have any concerns about how we use your personal details.
