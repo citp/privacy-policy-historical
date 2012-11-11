@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510111758id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111194310id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — FreaKGeeKs
+# Privacy Policy
 
 At FreakGeeks.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit FreakGeeks.com, and how we safeguard your information. We will  **never** sell your personal information to third parties
 
