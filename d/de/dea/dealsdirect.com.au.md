@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529125821id_/http%3A//www.dealsdirect.com.au/s/dd-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111170812id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
 
-# Online Shopping | Australia Online Shopping | Deals Direct
+# Online Shopping | Shop Online for Gifts at Deals Direct
+
+[](https://web.archive.org/)
 
   * [Privacy and Security](https://web.archive.org/s/dd-privacy.html/#privacy)
   * [The National Privacy Principles](https://web.archive.org/s/dd-privacy.html/#nationalprivacy)
@@ -48,7 +50,7 @@ We may also use your personal information to provide you with information about 
 We may use or disclose your personal information to organisations outside DealsDirect and its related companies (including organisations outside the Australian jurisdiction) and any related entities of DealsDirect for purposes relating to the management of your account with us. Such organisations include:
 
   * service providers who manage the services provided to you;
-  * mailing systems which organise delivery of the products you have purchased;
+  * mailing and delivery systems which organise delivery of the products you have purchased;
   * maintenance and repair services;
   * market research;
   * marketing activities conducted by DealsDirect.com.au or any of our related companies; and
@@ -118,10 +120,12 @@ If you would like more information about the way we manage personal information 
 
 **Email us[here](https://web.archive.org/contact-us/email-us/)**  
 **Fax:** 02 9641 2299  
-**Post:** The Privacy Offer, DealsDirect.com.au, PO Box 1012, Ingleburn NSW 1890
+**Post:** The Privacy Officer, DealsDirect.com.au, PO Box 1012, Ingleburn NSW 1890
 
 ###  Changes To Our Privacy Policy
 
 From time to time it may be necessary for us to revise our privacy policy. Any changes will be in accordance with the Privacy Act and the National Privacy Principles. We may notify you about changes to this privacy policy by posting an updated version on our website [www.dealsdirect.com.au](https://web.archive.org/).
 
 If you require any further information about the Privacy Act and the National Privacy Principles, you can visit the Federal Privacy Commissioners website at [_www.privacy.gov.au_](http://www.privacy.gov.au/).
+
+[](https://web.archive.org/)
