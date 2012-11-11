@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clearclips.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511014521id_/http%3A//www.clearclips.com/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clearclips.com privacy policy that was archived on 2012-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111175905id_/http%3A//www.clearclips.com/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -15,6 +15,8 @@
 <link rel="stylesheet" type="text/css" href="/css/960.css">
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/jquery-ui-1.8.5.css">
+<link type="text/css" href="http://www.clearclips.com/chat/cometchatcss.php" rel="stylesheet" charset="utf-8">
+
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 
@@ -30,7 +32,50 @@
 <script type="text/javascript" language="javascript" src="/js/rating.js"></script>
 <script type="text/javascript" language="javascript" src="/js/platinum.js"></script>
 <script type="text/javascript" language="javascript" src="/js/work.js"></script>
+
+
 <script type="text/javascript" src="/js/gridder.js"></script>
+
+
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+
+
+		jQuery('.chat_textarea').bind('keypress', function(e){
+		   var code = e.keyCode ? e.keyCode : e.which;
+		   if(code == 13) // Enter key is pressed
+		   {
+
+
+			jQuery.getScript("http://www.clearclips.com/chat/cometchatjs.php", function(data, textStatus, jqxhr) {
+				jQuery('#chat_container').html('');
+				//$('#chat_container').iinerHtml(data);
+				
+			});
+			
+			
+			
+	
+				
+		   }
+		});
+		
+		jQuery('.cometchat_closebox_bottom cometchat_closebox_bottom_click').click(function(){
+		
+		
+		jQuery('#chat_container').hide();
+		jQuery.cookie("no_chat", "1", { expires: 1 });
+		
+		});
+		
+	
+});
+</script>
+
+
+
+
 
 
 <script type="text/javascript" language="javascript">
@@ -245,7 +290,7 @@ You are entitled to access and correct your Data by doing so directly on the web
 <span>
 <div>
 </div>
-© Copyright 2010, All Rights Reserved, Lurent Limited, 10 Arkless Grove, The Grove, Consett, Durham, DH8 8AB, UK
+© Copyright 2010, All Rights Reserved, Far Reach Networks International Ltd, Nicosia, Cyprus
 </span>
 </div>
 <div class="clear"></div>
