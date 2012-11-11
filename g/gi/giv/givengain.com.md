@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018061314id_/https%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111062438id_/http%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
 
 # Privacy - If you have something to give, you have a lot to gain!
 
 ## Privacy Policy
 
-We ("[GivenGain](https://web.archive.org/about/)") operate several websites including givengain.com and givengain.org. It is GivenGain's policy to respect your privacy regarding any information we may collect while operating our websites.
+We ("[GivenGain](https://web.archive.org/about/)") operate several websites including givengain.com and givengain.org. It is GivenGain's policy to respect your privacy regarding any information we may collect while operating our websites. 
 
 ### Website Visitors
 
