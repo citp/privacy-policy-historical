@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the burnyourfuel.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615005702id_/http%3A//www.burnyourfuel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnyourfuel.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111130927id_/http%3A//burnyourfuel.com/privacy-policy) for the most accurate reproduction.*
 
-# Burnyourfuel - India’s NO.1 Web Based Car & Bike Publication -
+# Privacy Policy • Burn Your Fuel
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@burnyourfuel.com.
 
