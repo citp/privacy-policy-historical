@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502115423id_/http%3A//www.besteveralbums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besteveralbums.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111222037id_/http%3A//www.besteveralbums.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Best Ever Albums
 
@@ -12,7 +12,7 @@ Please read this policy carefully because by visiting or using the BestEverAlbum
 **What information does BestEverAlbums.com collect?**  
 We collect information from you to help us personalise and improve your end-user experience and to send you communications to which you have subscribed.
 
-The types of personal information collected during the forum registration process is kept to a minimum and is only used to provide credentials to allow you to log into the site (username, password & e-mail address). You can choose to _voluntarily_ add additional information such as your gender, interests, occupation etc.
+The types of personal information collected during the forum registration process is kept to a minimum and is only used to provide credentials to allow you to log into the site (username, password & email address). You can choose to _voluntarily_ add additional information such as your gender, interests, occupation etc.
 
 You can always choose not to submit the information requested, understanding that you may be unable to take advantage of some features.
 
@@ -26,7 +26,7 @@ We also use Web metrics tools to automatically track certain electronic informat
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use and transmission of your information, we have implemented the appropriate physical, electronic, and managerial procedures to safeguard and secure the information that we collect from you online.
 
 **How will BestEverAlbums.com use my information?**  
-We use the information that we collect from you to enhance and personalise your user experience, and, only when you have given us permission to do so, to send you newsletters and other e-mail communications.
+We use the information that we collect from you to enhance and personalise your user experience, and, only when you have given us permission to do so, to send you newsletters and other email communications.
 
 We use aggregate and non-personally identifying information (such as the URL from which you arrive at our site) without using any information that would identify you. For instance, we will use this non-identifying and aggregate information to better design our Web site.
 
