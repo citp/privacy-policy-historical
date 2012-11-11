@@ -1,101 +1,68 @@
-> *The following text is extracted and transformed from the howtofascinate.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517045111id_/http%3A//www.howtofascinate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtofascinate.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111132314id_/http%3A//www.howtofascinate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**What information do we collect?**
+**Effective Date: August, 2012**
 
-We collect information from you when you place an order, subscribe to our newsletter, respond to a survey or take the Fascination Advantage test. 
+The following Privacy Policy governs the online information collection practices of howtofascinate.com. ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the **howtofascinate.com** site (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or social security number. You may, however, visit our site anonymously.
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
- **What do we use your information for?**
+**How We Collect and Use Information**
 
-Any of the information we collect from you may be used in one of the following ways:
+_Personal Identification Data:_
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). howtofascinate.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. We collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
+
+_Automatically Generated Data:_
+
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+
+_Assessment Data_
+
+If you use our assessment tool while visiting this Site, you will be asked to provide certain information which we will use to generate results based on our proprietary technology. The data that you provide and the results of our assessment may be, under certain circumstances be shared with employers or third-parties if such parties specifically order the assessments. Your name will not be publicly disseminated to anyone other than you and the party arranging for the assessment without your specific consent.
+
+By using our assessment tool, you acknowledge and agree that the content provided by you as well as the conclusions and assessment derived therefrom may be used by us for research, innovation, case studies, and commercial purposes (such as in speeches, articles, books, etc.) in our discretion. Your assessment data may be aggregated for research and comparison purposes. In certain circumstances, the assessment may have been ordered or arranged for by an employer or management consultant for a variety of purposes. The engagement of our company and the use of our assessment tool by an employer or third-party consultant is solely and wholly that party’s responsibility and the use of your data under such circumstances is subject such parties’ independent privacy policies which may be different than this policy.
+
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features, improve our assessment tool and advertising that appear on the Site. We also may provide your personally identifying and automatically generated information to third parties, such as marketing partners, service providers and contractors for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
+
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+
+Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party's use of cookies or web beacons or use of your information, you should visit that party's website and review its privacy policy.
+
+The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
+
+We may also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
+
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
+
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
+
+**Children's Privacy Statement**
+
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+
+  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information.
 
 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+**How do we store your information?**
 
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+Your information is stored at the list server that delivers our emails and data. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive howtofascinate.com data.
 
+All of the emails that are sent to you by howtofascinate.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you...
 
-  * To process transactions 
+**Disclaimer**
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
+If you have any questions or concerns regarding our privacy policy please direct them to:
 
+[Contact us](http://www.howtofascinate.com/about-us/contact-us/)
 
-  * To administer a contest, promotion, survey or other site feature
-
-
-  * To send periodic emails
-
-
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
-
-All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
- **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'Edit Profile' page.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Terms and Conditions**
+**Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.howtofascinate.com/terms>
-
-**Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 02/28/12
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.howtofascinate.com  
-P.O. Box 140351  
-Orlando, FL 32814-0351  
-USA  
-hello@howtofascinate.com
-
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
