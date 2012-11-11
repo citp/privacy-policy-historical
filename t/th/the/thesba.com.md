@@ -1,171 +1,142 @@
-> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318020615id_/http%3A//www2.thesba.com/tos.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111072940id_/http%3A//www.thesba.com/privacy-policy) for the most accurate reproduction.*
 
-# Newtek Web Hosting terms of service and privacy policy
+# PRIVACY POLICY | Newtek Services ::..
 
-Terms of Service
+**Dear The Small Business Authority Customer,**
 
-Privacy Policy
+We know that your privacy is important to you. At The Small Business Authority, we are committed to protecting it.
 
-Effective: October 2002
+ **Protecting your privacy is a priority to us.** The Small Business Authority does not share nonpublic information about you with third-party marketers outside Newtek family of companies — those related to us by some form of common control or ownership — without your consent, except as explained in our Privacy Policy. We do share customer information within Newtek family.
 
-Our Commitment To Privacy
+ **The security of your information is a priority to us.** We maintain physical, electronic, and procedural safeguards that comply fully with current federal law and standards to protect customer information. In addition, in those states where applicable laws are more restrictive than our Privacy Policy, we will restrict our sharing of your information to comply with those state laws.
 
-This privacy policy has been created to show the integrity of The Small Business Authority, and any subsidiaries and to inform you of our level of commitment to the privacy of customer and non-customer information. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website. 
+ **And, we want to make sure you know how we protect your privacy.** If you have questions about our Privacy Policy, please [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/).
 
-By participating in the Council of Better Business Bureau's BBB OnLine ® Seal Program, we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBB OnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
+Thank you for doing business with The Small Business Authority.
 
-The Information We Collect
+ **Privacy Policy**
 
-This notice applies to all information collected or submitted on The Small Business Authority website. On some pages, you can order products, make requests and register to receive materials. The types of personal information collected at these pages are: 
+Newtek Business Services, Inc. (“Newtek”) is a publicly traded financial and business services company offering electronic merchant processing, insurance services, bookkeeping and tax services, and small business lending, as well as data back-up and storage and customized websites for organizations. The Small Business Authority provides compelling marketing tools that help clients attract new customers and retain existing customers. An essential element of our commitment to our customers is to conduct all of our business with integrity and respect. The Small Business Authority will adhere to the highest standards for use of any information that you may provide to us.
 
-Name  
-Company   
-Address   
-Email address   
-Phone number   
-Fax number   
-Credit/Debit Card Information   
-Domain name   
+This Privacy Policy has been created to inform our customers and all visitors to this website how we collect information, what we do with the information, how we share it and other important aspects of the online experience that will help answer any questions and concerns you may have. These policies may change from time to time so we suggest that you review all the policies so that you are aware of any changes that may occur.
 
+[Back to top](https://web.archive.org/privacy-policy#top)
 
-When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor's browser.
+ **How We Gather Information**
 
-The Way We Use Information
+As part of providing you with The Small Business Authority products or services, we may obtain information about you from the following sources:
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+  * applications, forms and other information that you provide us, whether in writing, in person, by telephone, electronically, via the Internet or by any other means, including third parties who may refer you to The Small Business Authority. This information may include your name, address, social security number, employment information, income, credit references and other information needed in extending credit to you or otherwise transacting business with you;
+  * your transactions with us, our affiliates, (members of Newtek family of companies) or alliances, (non-The Small Business Authority companies), or others. This information may include your account balances, payment history and account usage;
+  * credit reporting agencies. This information may include account information and information about your creditworthiness;
+  * other third parties, including public sources. This information may include real-estate records, street and e-mail addresses and telephone numbers.
 
-We use the information you provide about someone else when placing an order only to start a service, order a product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive. We will occasionally send our customers emails regarding new features and upgrades to our services that will benefit them, and that is the extent of the "marketing" that is done to customers. We DO NOT send email to non-customers, except in cases where those email addresses are used as points-of-contact when a site is set up. We do not harvest emails nor do we do any data mining on the information we collect. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. With respect to cookies, we use cookies to record session information, such as items that consumers add to their shopping cart. With respect to ad servers, we do not partner with or have special relationships with any ad server companies. 
+ **The Information We Collect**
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. In certain instances (e.g. domain name registrations), you are asked to submit your information yourself for the purposes of receiving information or for purchasing additional products or services that complement the services you order from The Small Business Authority. In those instances, you will be advised that you are submitting your information to a third party, and you will be given the opportunity to opt-out of providing that information (and therefore, of purchasing the product or services). 
+The types of personal information collected are:
 
-Disclosure of Information
+  * Name
+  * Company
+  * Address
+  * Email Address
+  * Phone Number
+  * Fax Number
+  * Credit/Debit Card Information
+  * Domain Name
 
-The Small Business Authority may disclose information including, but not limited to, information concerning You, a transmission made using our network, or a web site, in order to comply with a valid court order, subpoena, summons, discovery request, warrant, statute, regulation, or governmental request (compliance documents) properly served on The Small Business Authority or one of its affiliates. If one of the aforementioned documents and/or requests is issued, The Small Business Authority and/or its attorneys will review such documents to determine their validity prior to taking any action related thereto. You agree that The Small Business Authority may charge You a reasonable administrative fee for addressing and responding to any requests and/or any such issues related to You, Your sub-resellers and/or Your customers. The Small Business Authority assumes no obligation to inform You that Your information has been provided and in some cases The Small Business Authority may be prohibited by law from giving such notice. 
 
-Finally, The Small Business Authority may disclose Your information or information transmitted over its network where necessary to protect The Small Business Authority and others from harm, or where such disclosure is necessary to the proper operation of The Small Business Authority system and/or infrastructure. 
 
-The Small Business Authority is headquartered in New York, New York and all compliance documents should be delivered by one of the formats below: 
+When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor’s browser.
 
-By mail: The Small Business Authority
+ **Use of Cookies**
 
-Attn: Compliance Department  
-1440 Broadway, 17th Floor  
-New York, NY 10018 USA
+If registration is required to use resources contained within a particular website, we will gather information from you, prior to allowing access to those resources. This information includes, but is not limited to, your name, postal address as well as e-mail address. The information obtained from the original registration is used to provide better services and products to meet the needs of our clients. Each visit to any Newtek, including The Small Business Authority, website enables us to collect the following information: your Internet service provider’s address, a record of your activity on our site, and the web page that was used to reach our site. This information is not used to identify you personally. Many Newtek websites also include the use of “Cookies.” A cookie is a piece of data stored on your computer hard drive containing information about you. The use of cookies is now an industry standard that users will find on most major websites. Cookies can save information such as home server, domain, e-mail address, name, mailing address, and telephone number. When a user revisits the site, Newtek, or The Small Business Authority, recognizes the user by the cookie and customizes the user’s web experience. Usage of a cookie is in no way linked to any additional personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by receiving a cookie from our website site, a user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners may use cookies on their sites, however we have no access to or control over those cookies.
 
-By e-mail: [legal@thesba.com](https://web.archive.org/web/20110318020615id_/http%3A//www2.thesba.com/legal@thesba.com)
+[Back to top](https://web.archive.org/privacy-policy#top)
 
-By fax: (602) 263-0600 Attn: Compliance Department 
+ **Log Files**
 
-Additionally, The Small Business Authority reserves the right to request a copy of the complaint and any supporting documentation that demonstrates how The Small Business Authority is related to the pending litigation and the underlying subpoena and/or request. 
+We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-**For Dedicated/VPS Customers:**
+ **Sharing Information Outside the Newtek Family of Companies**
 
-The Small Business Authority provides reassignment information to the American Registry of Internet Names (“ARIN”) on all IP addresses assigned to dedicated servers (commonly known as “SWIPing” IPs, where SWIP stands for ARIN’s Shared WHOIS Project). What this means is that Your ownership information, NOT The Small Business Authority’s, shows up on WHOIS queries against any IP address assigned to Your dedicated server. The information shared with ARIN includes: 
+Unless you authorize us to do so, Newtek and the Newtek companies do not provide non-public information about you to anyone to market their products and services except as provided for in this policy under sections titled “Sharing Information within the Newtek Family” and “Sharing Information with Newtek Alliance Members.”
 
-  * Customer Name
-  * Street Address
-  * City
-  * State
-  * Postal Code
-  * Country Code
+If you are a consumer and not a business client, we will not share your non-public information with any third party other than our joint marketing partners or service providers without telling you and giving you a chance to say no. In some situations for business clients, however, we may provide the information we gather about you to third parties outside of the Newtek family of companies without your consent, subject to strict confidentiality requirements, as required by law or in the good faith belief that such action is necessary to:
 
+  * comply with any federal, state or industry standard or comply with legal process served on The Small Business Authority or a The Small Business Authority website;
+  * to credit reporting agencies;
+  * protect and defend the rights or property of The Small Business Authority and its websites
+  * to protect against fraud, money laundering and other risks; or
+  * act in urgent circumstances to protect the personal safety of users of Newtek, its Websites, or the public.
 
 
-Subpoena Policy
 
-The Small Business Authority’s Privacy Policy prohibits the release of customer or account information without the express permission from the customer, except when required by law, to conform to the edicts of the law, or to comply with the legal process properly served on The Small Business Authority or one of its affiliates. 
+In addition, we may provide all the information we gather about you to our service providers and third parties referring you to us. These may include statement, billing, and telephone service companies, companies that help us perform marketing services as well as attorneys, insurers and third parties referring you to us.
 
-If you seek the identity of account information of a customer of ours (a customer of The Small Business Authority or Newtek Business Services) in connection with a civil legal matter, you must fax, mail, or serve The Small Business Authority with a valid subpoena. 
+ **Sharing Information within the Newtek Family**
 
-If you seek the identity or account information of a customer of ours (a customer of The Small Business Authority or Newtek Business Services) in connection with a criminal matter and you are a member of the law enforcement community, you must fax, mail, or serve The Small Business Authority with a valid subpoena. 
+We also may share information about you within our family of companies serving small businesses. These companies include Newtek Small Business Finance, Newtek Merchant Solutions, Newtek Financial Information Systems, Newtek Tax Services, Newtek Insurance Agency, Newtek Data Storage, Newtek Web Hosting and other members of the Newtek family.
 
-Submission of Subpoenas to The Small Business Authority:
+Since The Small Business Authority’s primary customer base is small businesses, by sharing this information The Small Business Authority can better understand your operational needs and develop products and services that fit those needs.
 
-The Small Business Authority is headquarted in New York, New York and all civil subpoenas should be served at that location or mailed to: 
+[Back to top](https://web.archive.org/privacy-policy#top)
 
-The Small Business Authority   
-Atten: Compliance Department   
-1440 Broadway, 17th Floor  
-New York, NY 10018 USA  
+ **Sharing Information with our Alliance Partners**
 
+The Small Business Authority has many alliances with third party organizations and businesses to assist them in serving the financial needs of their small business clients. As an example, The Small Business Authority has an alliance agreement with a major credit union association to assist its 9,000 credit unions in bringing business services to their members.
 
-Alternativly, criminal subpoenas can be faxed or emailed to:  
-Fax (602) 263-0300   
-[legal@thesba.com](mailto:legal@thesba.com)  
-Atten: Compliance Department   
+When you are referred to us by one of these alliances, either directly or through an electronic connection that you have used in filing an application for a business service, we will share information about you with that specific alliance partner so that they may assess their success in reaching people or businesses such as you.
 
+We do not share with our alliance partners personal consumer credit related information that is not public information but do share demographic information so that they may analyze the impact they are having on the small business community.
 
-Additionally, The Small Business Authority reserves the right to request a copy of the complaint and any supporting documentation that demonstrates how The Small Business Authority is related to the pending litigation and the underlying subpoena and/or request. 
+ **How You Can Access or Correct Your Information**
 
-Fees for Subpoena Compliance:
+If you would like to verify and/or edit or update the personal information we have on file for you, please [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/) providing details on the information you would like to review and/or edit or update and contact information so that we can talk with you and get the information to you for review.
 
-The Small Business Authority will charge the person or entity submitting the civil subpoena for costs associated with subpoena compliance. 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before providing such information or making requested corrections.
 
-Payment must be made within thirty (30) days from the date of receipt of The Small Business Authority invoice. Checks should be made out to The Small Business Authority. 
+ **Security Practices**
 
-The Small Business Authority’s subpoena compliance cost will include, but are not limited to the items listed below and will be charged at a rate determined to be reasonable by The Small Business Authority. 
+We have implemented and maintain reasonable physical, electronic and procedural safeguards to protect your non-public personal information. Your personal information is never shared outside the company without your permission, except under conditions explained above. Your personally-identifiable data is stored in our password-controlled servers with limited access.
 
-  * Research
-  * Federal Express - Cost as Billed 
-  * Copies 
+ **Our Commitment to Children’s Privacy**
 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we know are under 13, and no part of our website is structured to attract anyone under 13.
 
+ **Links and Linked Internet Websites:**
 
-Policies Regarding E-mail
+Websites of the Newtek family of companies may provide links to sites that are separate from ours. These external sites may have their own privacy provisions in place that are different from those provisions listed in this document. Newtek and its affiliates are not responsible for the collection, use or disclosure of information collected on these external sites and we expressly disclaim any and all liability related to any collection, disclosure or use of such information. In addition, we encourage visitors to seek out and read the privacy policies of any and all sites they visit on the internet.
 
-The Small Business Authority will not produce the content of e-mail, as the Electronic Communications Privacy Act, 18 U.S.C. §2701 et seq., prohibits an electronic communications service provider from producing the contents of electronic communications, even pursuant to subpoena or court order, except in limited circumstances. The Small Business Authority's e-mail servers may not retain deleted or sent e-mail. However, deleted e-mail may be recoverable from back-up servers for a period of up to fourteen (14) days. 
+[Back to top](https://web.archive.org/privacy-policy#top)
 
-Our Commitment To Data Security
+ **Consent**
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. As stated, when we transfer and receive certain types of sensitive information, such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor's browser. 
+By registering your personal details, you consent to the use of your information as set out in this Privacy Policy and agree to be bound by the terms of this Privacy Policy.
 
-Our Commitment To Children's Privacy
+ **Notice to Insurance Consumer – Customers**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+If you are a consumer instead of a business and you are interested in the insurance products our agency can provide, we may in addition to the information described above collect either medical information about you or information about your creditworthiness. This additional information will only be used for the purpose of underwriting or administering your insurance. We do not share such medical or creditworthiness information with third parties. If we wish to share this information with any of the Newtek family of companies we will not do so without your express written consent.
 
-Links and Linked Internet Websites
+If you are a resident of **California** or **Vermont** , there are additional requirements regarding the sharing of certain of your information. We will provide you with notices required under California or Vermont law and will if so required obtain your consent to the sharing of your information. For example, in California we may not share any information about you with third parties without your prior consent. In addition, if other states in the future adopt privacy restrictions more restrictive than those under Federal law we will comply with those applicable provisions.
 
-The Small Business Authority website may provide links to sites that are separate from The Small Business Authority website. These external sites may have their own privacy provisions in place that are different from those provisions listed in this document. The Small Business Authority is not responsible for the collection, use or disclosure of information collected on these external sites, and we expressly disclaim any and all liability related to any collection, disclosure or use of such information. In addition, we encourage visitors to seek out and read the privacy policies of any and all sites they visit on the internet. 
+ **Other information**
 
-How You Can Access Or Correct Your Information
+We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive.
 
-You can access all your personally identifiable information that we collect online and maintain by visiting our Control Center, located at [ http://www.webcontrolcenter.com/customer.aspx](http://www.webcontrolcenter.com/customer.aspx) and logging in using their proprietary customer ID and password. Secure access to your information is available by visiting [https://www.webcontrolcenter.com/customer. aspx](https://www.webcontrolcenter.com/customer.aspx). We use this procedure to better safeguard your information. 
+ **How To Contact Us**
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error, or you have the ability to correct such errors yourself using the method described above. 
+Should you have other questions or concerns about our Privacy Policy, please contact us as follows:
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+  * For website content properties, [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/)
+  * For Privacy and Security concerns, [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/)
 
-How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us toll-free at (877) 323-4678 or send us an email at [ customerservice@thesba.com](mailto:customerservice@thesba.com). 
 
-Enforcement and Dispute Resolution
+You may also contact us for a copy of any policy or to answer any questions you may have about these policies.
 
-Should you perceive that The Small Business Authority is failing to follow the above guidelines, you have several courses of action. First and foremost would be to please contact The Small Business Authority at the above mentioned toll-free phone number or via the email address provided. 
+ **Enforcement and Dispute Resolution**
 
-The Small Business Authority also complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. The Small Business Authority has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
-
-Privacy Complaints by European Union Citizens: 
-
-In compliance with the Safe Harbor Principles, The Small Business Authority commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact The Small Business Authority at: 
-
-The Small Business Authority  
-Dispute Resolution Dept.  
-1125 W. Pinnacle Peak Rd.  
-Suite 103 Phoenix, AZ 85027  
-Phone: 602-263-0300 
-
-The Small Business Authority has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by The Small Business Authority, you may contact the BBB EU SAFE HARBOR program at the address below: 
-
-Council of Better Business Bureaus, Inc.  
-BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
-
-Rev 2.5 3/16/2011
+Should you perceive that Newtek or its affiliates are failing to follow the above guidelines, you have several courses of action. First and foremost would be to please contact The Small Business Authority at the above mentioned toll-free phone number or via the email address provided.
