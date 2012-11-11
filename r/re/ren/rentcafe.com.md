@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentcafe.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602000106id_/http%3A//www.rentcafe.com/apartmentsforrent/homeprivacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentcafe.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111054230id_/http%3A//www.rentcafe.com/apartmentsforrent/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Apartments for rent | RENTCafe
 
@@ -48,15 +48,15 @@ Through the Site, Yardi may make available areas that allow for user interaction
 
 **CHILDREN'S INFORMATION.**
 
-The Site is not intended for children and Yardi does not knowingly solicit or collect personal information on the Site from children under the age of 13. If Yardi learns that, despite these measures, a child under the age of 13 has submitted personally identifiable information to Yardi through the Site, it will take reasonable measures to delete such information from its records and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law). 
+The Site is not intended for children and Yardi does not knowingly solicit or collect personal information on the Site from children under the age of 13. If Yardi learns that, despite these measures, a child under the age of 13 has submitted personally identifiable information to Yardi through the Site, it will take reasonable measures to delete such information from its records and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
 
 **HOW WE STORE YOUR INFORMATION.**
 
-Yardi is committed to protecting the security of any personal information you provide to us. We maintain commercially reasonable safeguards to maintain the security and privacy of personal information that you provide to us. In spite of these protections, Yardi cannot guarantee the security of any data submitted over the Internet. After your information reaches Yardi, however, it is stored on servers (or in the case of information received from you in person, in writing or over the phone, in physical storage areas) protected by procedures and technology designed to block reasonably foreseeable intrusions by unauthorized third parties. We may store and process your personal information in the United States or Canada or any other country in which we or our agents maintain facilities. By using the Site, you consent to the transfer of your information among these facilities, including those located outside your home country. 
+Yardi is committed to protecting the security of any personal information you provide to us. We maintain commercially reasonable safeguards to maintain the security and privacy of personal information that you provide to us. In spite of these protections, Yardi cannot guarantee the security of any data submitted over the Internet. After your information reaches Yardi, however, it is stored on servers (or in the case of information received from you in person, in writing or over the phone, in physical storage areas) protected by procedures and technology designed to block reasonably foreseeable intrusions by unauthorized third parties. We may store and process your personal information in the United States or Canada or any other country in which we or our agents maintain facilities. By using the Site, you consent to the transfer of your information among these facilities, including those located outside your home country.
 
 **THIRD-PARTY WEBSITES.**
 
-This Privacy Policy applies solely to information collected by Yardi. This Privacy Policy does not apply to other websites that are accessible through this Site, including but not limited to any third-party websites that process payments or perform screenings on behalf of Yardi, any property website, and ForRent.com. Please be aware that third-party websites that process payments or perform screenings for Yardi and websites for our advertisers, sponsors, affiliated entities and other third parties that are accessible through this Site may have their own privacy and data collection policies and practices. Yardi is not responsible for the privacy practices of such sites and will not be responsible for any actions or policies of such third parties. We encourage our users to be aware when they leave the Site and to read the privacy statements of each and every website that you visit. 
+This Privacy Policy applies solely to information collected by Yardi. This Privacy Policy does not apply to other websites that are accessible through this Site, including but not limited to any third-party websites that process payments or perform screenings on behalf of Yardi, any property website, and ForRent.com. Please be aware that third-party websites that process payments or perform screenings for Yardi and websites for our advertisers, sponsors, affiliated entities and other third parties that are accessible through this Site may have their own privacy and data collection policies and practices. Yardi is not responsible for the privacy practices of such sites and will not be responsible for any actions or policies of such third parties. We encourage our users to be aware when they leave the Site and to read the privacy statements of each and every website that you visit.
 
 **ACCESSING, REVIEWING AND CHANGING YOUR PERSONAL INFORMATION.**
 
@@ -66,12 +66,12 @@ In some instances, where requested by you and a Property Manager, we will use yo
 
 **CONTACT US.**
 
-If you would like to update or correct your information or modify your communication preferences, or if you have questions regarding our Privacy Policy or the use of information collected, you can contact us by email at the following: 
+If you would like to update or correct your information or modify your communication preferences, or if you have questions regarding our Privacy Policy or the use of information collected, you can contact us by email at the following:
 
 privacy@RentCafe.com
 
 **POLICY CHANGES.**
 
-Yardi may amend this Privacy Policy from time to time. Should this Privacy Policy be amended in any way, changes will be posted to this webpage. As we may make changes from time to time without notifying you, we suggest that you periodically consult this Privacy Policy. Your continued use of the Site after the effective date of any modification to the Privacy Policy will be deemed to be your agreement to the changed terms. 
+Yardi may amend this Privacy Policy from time to time. Should this Privacy Policy be amended in any way, changes will be posted to this webpage. As we may make changes from time to time without notifying you, we suggest that you periodically consult this Privacy Policy. Your continued use of the Site after the effective date of any modification to the Privacy Policy will be deemed to be your agreement to the changed terms.
 
-Last Updated: October 13, 2011
+Last Updated: July 31, 2012
