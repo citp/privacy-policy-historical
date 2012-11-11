@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203150752id_/http%3A//www.kvia.com/inside/22683433/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111055244id_/http%3A//www.kvia.com/news/Privacy-Policy/-/391068/559096/-/9k8vaw/-/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - Inside KVIA News Story - KVIA El Paso
+# Privacy Policy | News - Home
 
-##  Privacy Policy 
+_Privacy Policy_
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
