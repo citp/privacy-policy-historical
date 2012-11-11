@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plannedcommunity.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524015817id_/http%3A//www.plannedcommunity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedcommunity.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111062343id_/http%3A//www.plannedcommunity.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Planned Community Directory, Developer and Senior Living
 
@@ -21,4 +21,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: staff@plannedcommunity.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
