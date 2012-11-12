@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuxusa.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606183829id_/http%3A//www.nuxusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuxusa.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112163754id_/http%3A//www.nuxusa.com/index.php/privacy-policy%3F___store%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy
 
