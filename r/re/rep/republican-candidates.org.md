@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republican-candidates.org privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119045340id_/http%3A//2012.republican-candidates.org/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republican-candidates.org privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112201936id_/http%3A//2012.republican-candidates.org/Privacy-Policy.php) for the most accurate reproduction.*
 
 # 2012 Republican Presidential Candidates - Privacy Policy
 
