@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524175452id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112232403id_/http%3A//www.stepforth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | StepForth Web Marketing Inc.
+# Privacy Policy - | StepForth Web Marketing Inc.
 
 StepForth Web Marketing Inc. (“StepForth”) is firmly committed to maintaining and protecting the privacy of your personal and company information. The terms of this policy apply to www.StepForth.com and all other StepForth websites. The following privacy policy tells you how information that identifies you personally is used, so that you can make an informed choice about using this website and its services.
 
