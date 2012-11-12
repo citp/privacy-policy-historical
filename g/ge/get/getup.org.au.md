@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504202642id_/http%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112021235id_/http%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
 
 # GetUp! - Privacy
 
@@ -18,7 +18,14 @@ We take appropriate security measures to protect against unauthorised access to 
 
 We won't sell, trade or exchange your information without your permission. 
 
-GetUp will not provide your personal information to any other organisation, with some exceptions: \- Where required for financial transactions (eg. to verify credit cards); \- When you petition a decision-maker through our website, your name, town and state will be forwarded to the decision-maker, but not your email or physical address; \- When you send an email through this site, for example to a member of Parliament, that email will come from your address, not GetUp's, and hence will include the details you provide, often including your email address; or, \- As required by law, including disclosure to the Australian Electoral Commission. 
+GetUp will not provide your personal information to any other organisation, with some exceptions:
+
+  * Where required for financial transactions (eg. to verify credit cards);
+  * When you petition a decision-maker through our website, your name, town and state will be forwarded to the decision-maker, but not your email or physical address;
+When you send an email through this site, for example to a member of Parliament, that email will come from your address, not GetUp's, and hence will include the details you provide, often including your email address; or,
+  * As required by law, including disclosure to the Australian Electoral Commission.
+
+
 
 Access to personal information is restricted to GetUp employees who need to know that information in order to run and improve our campaigns. Volunteers are really important to GetUp, and one of the ways we keep costs down and make your donations go further. In some circumstances trusted volunteers who sign non-disclosure forms are given access to limited information for the purposes of contacting GetUp members or improving our campaigns. All individuals with access to data are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
