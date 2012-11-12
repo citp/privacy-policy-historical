@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandcanyon.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511172738id_/http%3A//grandcanyon.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandcanyon.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112183501id_/http%3A//grandcanyon.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GrandCanyon.com Privacy Policy
 
