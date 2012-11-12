@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512152935id_/http%3A//www.hageltech.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112025540id_/http%3A//www.hageltech.com/about/privacy) for the most accurate reproduction.*
 
 # Hagel Technlologies web site privacy policy
 
