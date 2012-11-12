@@ -1,65 +1,250 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2007-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071219040025id_/http%3A//www.discoverychannel.co.uk/_includes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112163854id_/http%3A//www.discoveryuk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Discovery Channel
+# Privacy Policy
 
-The following sets out the privacy policy of Discovery Communications Europe Limited ("us/we") part of the Discovery Communications, LLC group of companies. This policy explains how we use any personal information that you might provide to us on any of our websites, including:  
-www.animalplanet.co.uk; www.discoveryhd.co.uk; www.homeandhealthtv.co.uk; www.discoveryknowledge.co.uk; www.realtimetv.co.uk; www.discoveryscience.co.uk; www.travelandliving.co.uk; and www.discoveryturbo.co.uk;  (together with www.discoverychannel.co.uk, the "Discovery Sites"). 
+Discovery Sites Cookie PolicyLike most websites Discovery sites use cookies. To give you access to the site and experience all the great content we have to offer, please press accept to allow cookies. To find out what they are and how we use them please see our [privacy policy](https://web.archive.org/privacy-policy/).Accept & Close
 
-This policy does not however apply to Discovery's US sites and we recommend that you review the privacy policies and terms and conditions on any such US sites that you visit.
+### General 
 
-Personal information means any information that personally identifies you (such as your name, address or email address). 
-
-We may collect and use personal information about you through your use of the Discovery Sites. In general, we will use this information for administration of the Discovery Sites and any services provided on them (such as competitions), to identify personal preferences and to match your needs with relevant products and services. Information provided when you register is used to enable you to access certain parts of the Discovery Sites and to enable you to post messages on any message boards or in any chat rooms on the Discovery Sites. 
-
-As set out below in more detail, your information may sometimes be used by us and our associated companies and trusted third parties to inform you about changes to the Discovery Sites, new services and offers that you might find interesting. By using the Discovery Sites you agree to our use of your personal information in accordance with this policy.
-
-**What and How Do We Collect Information about you and How Is It Used?**
-
-We may collect and use your information in the following ways. In general, when you submit information, we will ask for your explicit consent to use your information in these ways. 
-
-  1. If you send us information, we may ask you to enter your name, age, e-mail address and/or postal address. If the information you send us is to be posted on the Discovery Sites, you can elect not to have your name and/or e-mail address displayed alongside your posting. 
-  2. When you order a service or product from us, you may need to input your name, age, e-mail address and/or postal or other delivery address. Sometimes we may ask for your telephone number. We might also ask for your credit or debit card details if you purchase products or other services from the Discovery Sites. These details may also be given to organisers or providers of products or services that you have requested for the purposes of providing you with further information or with those products or services and fulfilling any orders. 
-  3. If you enter a contest or promotion we may ask for your name, age, address and e-mail address. This is so we (or any relevant third party) can administer the contest or promotion and to notify the winners. 
-  4. We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including by using cookies (see below). 
-  5. We may use information collected about you to personalise your visits to the Discovery Sites and recommend goods or services to you. We also use the information to help us develop the design and layout of our websites to ensure that they are as useful and enjoyable as possible. 
-  6. We may use the information we collect, with your consent, to contact you from time to time by post, email, telephone and/or SMS to inform you about functionality changes to our web-sites, new goods, services or offers and other information that you may find interesting. 
-  7. We, or third parties on our behalf, might also use your personal information to conduct market research. 
-  8. In addition, we may provide aggregate statistics about customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you. 
+  1. Discovery ("we" “us”) are committed to protecting and respecting your privacy.
+  2. This policy together with our Terms of Use [www.discoveryuk.com/terms-and-conditions](https://web.archive.org/terms-and-conditions) and any other documents referred to on it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 
 
-Additionally we reserve the right to access and disclose your personal information to comply with applicable laws and lawful government requests, law enforcement agencies or other parties whose requests we reasonably consider to be justified in connection with any allegations about your mis-use of our services, to operate our systems properly or to protect ourselves or our users. 
+Back to top
 
-**Will We Disclose the Information We Collect to Third Parties?**
+* * *
 
-We may choose to transfer your personal information to trustworthy third parties so that they can also send you information, offers or other material that you may find interesting. You may instruct us not to do so at any time by sending an e-mail message to [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com).
+### Information We May Collect From You 
 
-Your personal data may be transferred outside of the European Economic Area for processing. Any transfer of your data is done in circumstances ensuring that your data is processed only in accordance with this privacy policy and the UK's data protection legislation. By registering on a Discovery Site and consenting to these terms, you are consenting to this transfer.
+  3. We may collect and process the following data about you: 
+    1. Information that you provide by filling in forms on the Website. This includes, but not limited to, information provided at the time of registering to use the Website, subscribing to the Website's services, newsletters, posting material or requesting further services. We may also ask you for information when you enter any of our competitions or promotions, and when you report a problem with the Website.
+    2. If you contact us, we may keep a record of that correspondence.
+    3. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+    4. Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-In the event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of.
 
-**How Do We Protect Your Information?**
 
-When you review your information, we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. In addition, we have security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the UK data protection legislation. This means that sometimes we may ask for proof of your identity before we disclose personal information to you. 
+Back to top
 
-**Cookies**
+* * *
 
-A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting a Discovery Site our computer server will recognise the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance (see the "Help" toolbar). If you choose not to receive cookies, you may still use most of the features of our web site. 
+### IP Addresses And Cookies 
 
-**How Do I Un-subscribe or Amend my Personal Information?**
+  4. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+  5. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. They enable us: 
+    1. To estimate our audience size and usage pattern.
+    2. To store information about your preferences, and so allow us to customise the Website according to your individual interests.
+    3. To speed up your searches.
+    4. To recognise you when you return to the Website.
+  6. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website. Please note that our advertisers may also use cookies, over which we have no control.
 
-You can amend or delete from our databases the information that you have given via the Discovery Sites at any time. If you do not wish to receive any particular information, or if you would like to amend the personal data that we hold about you, please send an e-mail to [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com). Alternatively you can call us on 0870 050 6939 on weekdays between the hours of 9am and 5.30pm. We may also use a "Personal Profile Page", which enables you to update your personal information at any time and/or request that we delete your information from our records. This allows us to maintain accurate and up-to-date personal data about you.
 
-**Changes to our Privacy Policy**
 
-We will try to inform you if there are any changes to this policy that materially affect how we use your information. However, we encourage users to be responsible about their privacy and to check this policy from time to time and to update their preferences.
+Back to top
 
-**Discovery Home & Health**
+* * *
 
-You should remember that all information that is disclosed in the chat rooms, forums and/or other public-posting areas on the Discovery Sites becomes public information and you should exercise caution when deciding to share any of your personal information. If you post any sensitive personal information you are expressly consenting to our processing and use of such data in connection with our operation of the Discovery Home & Health website.
+### Where We Store Your Personal Data 
 
-Additional terms and conditions apply to the use of the Discovery Home & Health Forum. In the event of any inconsistency between these Terms and the additional terms and conditions on the [Discovery Home & Health Forum](http://community.homeandhealthtv.co.uk/eve/forums/a/cfrm/f/136101191), the latter will prevail.
+  7. The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staffs operating outside the EEA, who work for us or for one of our affiliates. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  8. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+  9. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**Customer Feedback and Complaints**
 
-We welcome your questions and comments about privacy issues and the design of our web site. Should you have such comments or have a complaint about how we are using your personal data, please e-mail us at [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com). 
+
+Back to top
+
+* * *
+
+### Uses Made of the Information 
+
+  10. We use information held about you in the following ways: 
+    1. To ensure that content from the Website is presented in the most effective manner for you and for your computer.
+    2. To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+    3. To carry out our obligations arising from any agreements entered into between you and us.
+    4. To allow you to participate in interactive features of our service, when you choose to do so.
+    5. To notify you about changes to our services.
+  11. We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post, telephone, email or other media platforms.
+  12. If you are a new user, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. 
+  13. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
+
+
+
+Back to top
+
+* * *
+
+### Disclosure Of Information 
+
+  14. We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985. 
+  15. We may disclose your personal information to third parties: 
+    1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+    2. If Discovery or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+    3. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of Discovery, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+Back to top
+
+* * *
+
+### Your Rights 
+
+  16. You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [the_editorial_team@discovery-europe.com](mailto:the_editorial_team@discovery-europe.com). 
+  17. Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+
+
+Back to top
+
+* * *
+
+### Access To Information 
+
+  18. The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+
+
+Back to top
+
+* * *
+
+### LINKS FROM THE WEBSITE 
+
+  19. Where the Website contains links to other sites and resources provided by third parties, these links are provided for your information only. We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them.
+
+
+
+Back to top
+
+* * *
+
+### Changes To Privacy Policy 
+
+  20. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+
+
+Back to top
+
+* * *
+
+Back to top
+
+* * *
+
+### Cookies 
+
+A cookie is a small file, typically of letters and numbers, downloaded on to a device when the user accesses certain websites. Cookies allow a website to recognise a user's device.
+
+**Session and persistent cookies**  
+Cookies can expire at the end of a browser session (from when a user opens the browser window to when they exit the browser) or they can be stored for longer.
+
+**Session cookies** \- allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes such as remembering what a user has put in their shopping basket as they browse around a site. They could also be used for security when a user is accessing internet banking or to facilitate use of webmail. These session cookies expire after a browser session so would not be stored longer term. For this reason session cookies may sometimes be considered less privacy intrusive than persistent cookies.
+
+**Persistent cookies** \- are stored on a users' device in between browser sessions which allows the preferences or actions of the user across a site (or in some cases across different websites) to be remembered. Persistent cookies may be used for a variety of purposes including remembering users' preferences and choices when using a site or to target advertising.
+
+We use a cookie to remember your cookie preferences this has a couple of consequences: 
+
+  * If you delete all your cookies you will have to update your preferences with us again.
+  * If you use a different device, computer profile or browser you will have to tell us your preferences again.
+
+
+
+The following cookies are used on this Website: 
+
+  * Strictly necessary
+  * Performance
+  * Functionality
+  * Targeting
+  * 3rd Party
+
+
+
+For more information about cookies see the further reading below.
+
+**Strictly necessary**  
+'Strictly Necessary' cookies let you move around the website and use essential features like secure areas, shopping baskets and online billing. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.
+
+We use these Strictly Necessary cookies to... 
+
+  * Remember things like information you've entered on order forms when you navigate to different pages in a single web browser session
+  * Remember the goods and services you ordered when you get to the checkout page
+  * Identify you as being logged in to our Website
+  * Make sure you connect to the right service on our website when we make any changes to the way the website works
+
+
+
+Cookies we have defined as 'Strictly Necessary' cookies will NOT be used to... 
+
+  * Gather information that could be used to advertise products or services to you
+  * Remember your preferences or username beyond your current visit
+
+
+
+Accepting these cookies is a condition of using the website, so if you prevent these cookies we can't guarantee your security or predict how our website will perform during your visit.
+
+**Performance**  
+'Performance' cookies collect information about how you use our website e.g. which pages you visit, and if you experience any errors. These cookies don't collect any information that could identify you - all the information collected is anonymous and is only used to help us improve how our website works, understand what interests our users and measure how effective our advertising is.
+
+We use performance cookies to... 
+
+  * Provide statistics on how our website is used
+  * See how effective our adverts are (we don't use this information to target adverts to you when you visit other websites) 
+  * Provide feedback to partners that one of our visitors also visited their website. This can include details of any products bought. This lets our partners improve their website, but we don't allow our partners to reuse this information for further advertising
+  * Help us improve the website by measuring any errors that occur
+  * Test different designs of our website
+
+
+
+Cookies we have defined as 'Performance' cookies will NOT be used to... 
+
+  * Gather information that could be used to advertise products or services to you on other websites
+  * Remember your preferences or username beyond your current visit
+  * Target adverts to you on any other website
+
+
+
+In some cases, some of these cookies are managed for us by third parties, but we don't allow the third party to use the cookies for any purpose other than those listed above.
+
+Using our site indicates that you accept the use of 'Performance' cookies.
+
+Accepting these cookies is a condition of using the Website, so if you prevent them we cannot guarantee how our site will perform for you.
+
+**Functionality**  
+'Functionality' cookies are used to provide services or to remember settings to improve your visit.
+
+We use 'Functionality' cookies to... 
+
+  * Remember settings you've applied such as layout, text size, preferences and colours
+  * Remember if we've already asked you if you want to fill in a survey
+  * Provide proactive live chat sessions to offer you support
+  * Show you when you're logged in to the website
+  * Share information with partners to provide a service on our website. The information shared is only to be used to provide the service, product or function and not for any other purpose
+
+
+
+Cookies defined as 'Functionality' will not be used to target you with adverts on other websites. Some of these cookies are managed for us by third parties - where this is the case we don't allow the third party to use the cookies for any purpose other than those listed above. You can control whether or not these cookies are used, but preventing them may mean we can't offer you some services, and will reduce the support we can offer you. It's also possible that preventing these cookie stops us remembering that you didn't want a specific service.
+
+**Targeting**  
+'Targeting' cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our Website. They are often used by advertisers for on line behavioural targeting. These cookies are used to work out what advertising might be most relevant to you based on the areas you look at on our sites, your IP address and geo-location. Advertising is then tailored to the user, but they do not know who you are. 
+
+**3rd Party Cookies**  
+As part of delivering you the best content, we sometimes embed features, photos and video content from other websites, as a result, when you visit a page containing such content, you may be presented with cookies from these websites. The third party uses these cookies to provide services in return for recognising that you have visited our Website. We do not control the dissemination of these cookies and you should check that the relevant third party's website for more information.
+
+Back to top
+
+* * *
+
+## 
+
+## Video
+
+## Newsletter
+
+### Discovery Newsletter 
+
+Want to be kept up to date with all things Discovery, from news to your favourite shows? Sign up to receive the newsletter here.
+
+## Blog
