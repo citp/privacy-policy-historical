@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thevine.com.au privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520031344id_/http%3A//www.thevine.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevine.com.au privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112162056id_/http%3A//www.thevine.com.au/Privacy) for the most accurate reproduction.*
 
-# Privacy | thevine.com.au
-
-## TheVine.com.au - Privacy Policy
+# TheVine - Privacy Policy - Life & pop culture, untangled
 
 In this policy, "us", "we" or "our" means TheVine.com.au Pty Ltd. 
 
@@ -94,7 +92,7 @@ At the point we collect information from you, you may be asked to “opt in” t
 
 You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe to e-newsletters sent by us. 
 
-If you are receiving communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please email us at info@thevine.com.au 
+If you are receiving communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please email us at citizens@thevine.com.au 
 
 **Management and security**
 
@@ -115,7 +113,7 @@ Subject to some exceptions in the Privacy Act, you have the right to seek access
 If you would like to seek access to personal information we hold about you, you can contact the department that collected your personal information in the first instance, or you can contact us in any of the following ways: 
 
 email:   
-info@thevine.com.au 
+citizens@thevine.com.au 
 
 write to:   
 285 St Kilda Rd, St Kilda 
@@ -127,7 +125,7 @@ We request that you keep your information as current as possible so that we may 
 If you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, please contact us in writing at: 
 
 email:   
-info@thevine.com.au 
+citizens@thevine.com.au 
 
 write to:   
 285 St Kilda Rd, St Kilda 
