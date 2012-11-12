@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartphysics.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523175257id_/http%3A//www.bfwpub.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartphysics.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112051447id_/http%3A//www.whfreeman.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
 
-# BFW Catalog
+# WHF Catalog :: PrivacyPolicy
 
 Effective February, 2011
 
