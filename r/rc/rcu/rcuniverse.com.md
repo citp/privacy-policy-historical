@@ -1,17 +1,38 @@
-> *The following text is extracted and transformed from the rcuniverse.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621112633id_/http%3A//rcuniverse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcuniverse.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112034335id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.rcuniverse.com) for the most accurate reproduction.*
 
-# RC Universe Privacy Policy
+# Privacy Policy
 
-**RCUNIVERSE PRIVACY POLICY**
+## Privacy Policy Highlights
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. 
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20121112034335id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20121112034335id_/http://www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
 
-We collect aggregate information on what pages consumers access or visit. 
+  * ### Personal Information
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page and not shared with other organizations for commercial purposes. 
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
 
-Email addresses are not sold or shared with 3rd parties. 
+  * ### Your Choices
 
-Registration information is not sold or shared with 3rd parties. 
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20121112034335id_/http://www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
 
-Our database of registration information is strictly used to operate RCUniverse.com
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
+
+  * ### How to Contact Us
+
+    * Use our Privacy [Contact form](https://web.archive.org/web/20121112034335id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+  
+
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
+
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
+
+
+
