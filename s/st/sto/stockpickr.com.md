@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockpickr.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615075348id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpickr.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112142326id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy on Using Financial Stock Market & Investing Analysis & Premium Services | Privacy | TheStreet
 
@@ -6,7 +6,7 @@ TheStreet
 
 _Last revised: February 24, 2012_
 
-TheStreet, Inc. ("TheStreet") shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on TheStreet Portfolio of Websites as such term is defined in the [Terms of Use](https://web.archive.org/web/20120615075348id_/http%3A//www.thestreet.com/static/about/terms-of-use.html). Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
+TheStreet, Inc. ("TheStreet") shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on TheStreet Portfolio of Websites as such term is defined in the [Terms of Use](https://web.archive.org/web/20121112142326id_/http%3A//www.thestreet.com/static/about/terms-of-use.html). Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
 
 Questions or comments regarding this policy should be directed to [privacy@thestreet.com](mailto:privacy@thestreet.com).
 
