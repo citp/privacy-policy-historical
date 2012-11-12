@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbfsale.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514020428id_/http%3A//jbfsale.com/pages/privacy_policy/%3Fn%3D2663) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbfsale.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112203039id_/http%3A//jbfsale.com/pages/privacy_policy/%3Fn%3D2663) for the most accurate reproduction.*
 
 # Just Between Friends | JBF Privacy Policy
 
