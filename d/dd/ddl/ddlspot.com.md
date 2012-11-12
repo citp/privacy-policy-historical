@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddlspot.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428072852id_/http%3A//www.ddlspot.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddlspot.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112190442id_/http%3A//www.ddlspot.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DDLSpot.com - Privacy Policy
 
