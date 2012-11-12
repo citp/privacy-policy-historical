@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620154601id_/https%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112163204id_/https%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # BullGuard - Privacy Policy
 
@@ -102,5 +102,3 @@ If you use a bulletin board, blog, or chat room on this website, you should be a
  **Third-Party Sites**
 
 The Site contains links to other web sites. BullGuard is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies.
-
-Last updated: February 2009
