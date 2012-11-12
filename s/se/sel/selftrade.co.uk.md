@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505063439id_/http%3A//www.selftrade.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112193946id_/http%3A//www.selftrade.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy / Selftrade
 
@@ -40,7 +40,7 @@ The Purpose mentioned above will also include:
 
   * (a) providing the Selftrade service to you, administering your Selftrade account and any agreement between us for the provision of the Selftrade service, 
   * (b) providing services ancillary to any such agreement or service, 
-  * (c) where you have requested a service from third party providers, introducing you to third party providers (such as Garlik Limited and City Index Limited) and sharing the personal information with such third party providers for this purpose,
+  * (c) where you have requested a service from third party providers, introducing you to third party providers (such as Garlik Limited and London Capital Group) and sharing the personal information with such third party providers for this purpose,
   * (d) marketing to you of financial services and products, 
   * (e) the release of your name, address, e-mail address and telephone number to market research organisations for the purpose of confidential market research surveys carried out by post, telephone or electronically on Selftrade's behalf, 
   * (f) the compliance with a request you make of us, 
@@ -75,17 +75,13 @@ For quality control, training and regulatory purposes, we may monitor and/or rec
 
 
 
-When you use the Website, information will be stored or accessed on your computer (also known as "cookies"). Cookies are blocks of text placed in files on your computer's hard drive when you visit a website and which contain information to identify you. Selftrade uses cookies to track our online marketing activity and to ensure that when you login into the My Account secure area of the site, we maintain your confidentiality and security. To learn more about cookies, please read our FAQs. A cookie does not contain any personal information unless it is attached to personal information collected another way, such as by means of an Application Form. You have the right to refuse such cookies. However, since access to the secure site, including personal accounts, relies on us being able to identify you, refusing the use of cookies means that we will be unable to provide you with further access to our services.
+When you use the Website, information will be stored or accessed on your computer (also known as "cookies"). Cookies are blocks of text placed in files on your computer's hard drive when you visit a website and which contain information to identify you. Selftrade uses cookies to track our online marketing activity and to ensure that when you login into the My Account secure area of the site, we maintain your confidentiality and security.
 
-Should you wish to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies can be identified by looking for the name Selftrade.co.uk in the host section. Information on deleting or controlling cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/). Please note as previously explained that by deleting our cookies or disabling future cookies, you may not be able to access certain features of our site.
+Under the Privacy and Electronic Communications (EC Directive) Regulations 2003, with the exception of strictly necessary cookies, you have to give your consent for non essential cookies to be placed on your browser. When you apply for an account with us, or continue to use the Website, this privacy policy forms part of our terms and conditions, and subject to this policy you consent to our use of cookies.
 
-  * **5\. Web Beacons**
+For more information about how we use cookies, and your right to consent to their use, please see our [Cookies policy](https://web.archive.org/cookies-policy.php), which forms part of our privacy policy.
 
-
-
-We also include web beacons (also known as clear GIF's or web bugs) in our emails to track the success of our marketing campaigns. This means that, if you open an email from us, we can see which pages of our site you visit. Our web beacons do not store additional information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened our email. If you object to web beacons, we recommend you follow the instructions above for deleting existing cookies and disabling future cookies. We will still know how many of our emails are opened and we will automatically receive your IP address, a unique identifier for your computer or other access device; but we will not identify you as an individual.
-
-  * **6\. Links to other Websites**
+  * **5\. Links to other Websites**
 
 
 
