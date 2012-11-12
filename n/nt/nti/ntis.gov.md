@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624001333id_/http%3A//www.ntis.gov/about/policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112202845id_/http%3A//www.ntis.gov/about/policies.aspx) for the most accurate reproduction.*
 
 # Policies
 
@@ -10,22 +10,20 @@ NTIS is committed to protecting your privacy and will collect no personal inform
 
 Your Rights under the Privacy Act
 
-Information concerning the Privacy Act can be found on the following Web site: [http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm#privacyact](https://web.archive.org/newpage.aspx?np=y&url=http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm#privacyact)
+Information concerning the Privacy Act can be found on the following Web site: <http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm#privacyact>
 
-Department of Commerce Privacy Policy
-
-NTIS follows the Department of Commerce's Privacy Policy: [http://www.commerce.gov/privacy-policy](https://web.archive.org/newpage.aspx?np=n&url=http://www.commerce.gov/privacy-policy)  
+NTIS follows the Department of Commerce's Privacy Policy: <http://www.commerce.gov/privacy-policy>  
 [http://ocio.os.doc.gov/ITPolicyandPrograms/index.htm](https://web.archive.org/newpage.aspx?np=n&url=http://ocio.os.doc.gov/ITPolicyandPrograms/index.htm)
 
 Here is how we handle information about your visit to our site:
 
 **1\. If you read or download information, we automatically collect and store the following:**
 
-  * status of the request (was it successful or was there an error?);
-  * the date and time you access our site;
-  * the Internet address of the Web site or domain name of the computer from which you accessed our site;
-  * the type and version of your Web browser (Netscape, Explorer, etc.); and
-  * the operating system (Windows, Mac, Unix, etc.) of the machine running the Web browser.
+  * Status of the request (was it successful or was there an error?);
+  * The date and time you access our site;
+  * The Internet address of the Web site or domain name of the computer from which you accessed our site;
+  * The type and version of your Web browser (Netscape, Explorer, etc.); and
+  * The operating system (Windows, Mac, Unix, etc.) of the machine running the Web browser.
 
 
 
@@ -49,6 +47,6 @@ Cookies
 
 Copyright Policy
 
-Some of the materials provided by NTIS are subject to copyrights owned by private parties therefore these may not be copied or distributed without permission of the copyright owner. NTIS cannot grant permission for further use. To understand if fair use may be applicable, see [http://cendi.dtic.mil/publications/00-3copyright.html](https://web.archive.org/newpage.aspx?np=n&url=http://cendi.dtic.mil/publications/00-3copyright.html)
+Some of the materials provided by NTIS are subject to copyrights owned by private parties therefore these may not be copied or distributed without permission of the copyright owner. NTIS cannot grant permission for further use. To understand if fair use may be applicable, see [http://cendi.dtic.mil/publications/00-3copyright.html](https://web.archive.org/newpage.aspx?np=n&ampurl=http://cendi.dtic.mil/publications/00-3copyright.html)
 
 Back to Top
