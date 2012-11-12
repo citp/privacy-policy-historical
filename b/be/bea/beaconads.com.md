@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beaconads.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606013941id_/http%3A//beaconads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaconads.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112202258id_/http%3A//beaconads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beacon Ads
 
-This privacy policy (the “Privacy Policy”) covers Beacon Ads LLC's ("BEACON's") treatment of personally identifiable information collected from your use of [Beacon Ads](http://beaconads.com/) (the "Site") and is part of the terms and conditions which are set forth in our Terms (<http://beaconads.com/about/terms>). Use of the terms “we” and “us” in this Privacy Policy means BEACON. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
+This privacy policy (the “Privacy Policy”) covers Beacon Ads LLC's ("BEACON's") treatment of personally identifiable information collected from your use of [Beacon Ads](https://beaconads.com/) (the "Site") and is part of the terms and conditions which are set forth in our Terms ([http://beaconads.com/about/terms](https://beaconads.com/about/terms)). Use of the terms “we” and “us” in this Privacy Policy means BEACON. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
 
 Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information (as explained further below). This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Site.
 
@@ -40,7 +40,7 @@ BEACON uses industry-standard data collection and encryption methodologies to en
 
 **Questions or Comments:**
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [BEACONm](mailto:BEACON) or by U.S. mail to PO BOX 67, South Boston, MA 02127.
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@beaconads.com](mailto:support@beaconads.com) or by U.S. mail to PO BOX 67, South Boston, MA 02127.
 
 Date last updated: March 21, 2012
 
