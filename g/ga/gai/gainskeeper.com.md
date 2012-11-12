@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514023502id_/http%3A//www.gainskeeper.com/us/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112185753id_/http%3A//www.gainskeeper.com/us/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GainsKeeper: Privacy Policy
 
 ## This statement discloses the privacy practices of www.gainskeeper.com 
+
+Additional information can be found in the [Wolters Kluwer Financial Services Privacy and Cookies Policy](http://www.wolterskluwerfs.com/AboutUs/Privacy_Policy.html). 
 
 GainsKeeper, a part of [Wolters Kluwer Financial Services](http://www.wolterskluwerfs.com/), offers services that are founded on a trusting relationship with its customers. The protection of customers' sensitive information is our top priority. 
 
