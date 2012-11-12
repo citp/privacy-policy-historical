@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the electronics-expo.com privacy policy that was archived on 2012-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521232759id_/http%3A//www.electronics-expo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electronics-expo.com privacy policy that was archived on 2012-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112082454id_/http%3A//electronics-expo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,6 +8,10 @@
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
 
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
 <link rel="icon" href="http://www.electronics-expo.com/media/favicon/default/favicon_1.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.electronics-expo.com/media/favicon/default/favicon_1.ico" type="image/x-icon">
 <!--[if lt IE 7]>
@@ -67,46 +71,6 @@ Mage.Cookies.domain   = '.www.electronics-expo.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-
-<!-- BEGIN Gigya Socialize -->
-<!-- socialize.js script should only be included once -->
-			  <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_XZKXk5LENXABQY8_aUSKL4Vl_iAbh6R3KDK36SXgNdeIMbE5NVHKgC4z8f4NBhub"></script>
-		<script type="text/javascript">
-		var conf=
-		{
-			APIKey: "2_XZKXk5LENXABQY8_aUSKL4Vl_iAbh6R3KDK36SXgNdeIMbE5NVHKgC4z8f4NBhub"			,enabledProviders: "facebook,twitter,yahoo,messenger,google,linkedin"			,connectWithoutLoginBehavior: 'alwaysLogin'
-			,onError:function(e) {
-			}
-				
-		};
-
-		// onLogin Event handler    
-		function onGigyaLoginHandler(eventObj) {  
-		   switch(eventObj.context) {
-		   case 'loginPlugin':
-		   	 break;
-		   default:
-		   	   var redirectURL='https://www.electronics-expo.com/customer/account/loginPost/';
-		   	   if (!(eventObj.user.hasOwnProperty('signature'))) {
-		   		eventObj.user['signature']=eventObj.user['UIDSig'];
-		   	   }
-			   gigya.services.socialize._redirectTo(redirectURL, [eventObj, eventObj.user]);
-			   break;
-		   }
-		}  
-		function onGigyaLogoutHandler(eventObj) {
-			document.location.replace('https://www.electronics-expo.com/customer/account/logout/');
-		}
-			
-		gigya.services.socialize.addEventHandlers(conf, {  
-	        onLogin: onGigyaLoginHandler
-	        ,onLogout: onGigyaLogoutHandler   
-	     } );  
-	  
-	  
-			
-		</script>
-<!-- END Gigya Socialize -->
 <script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=90304908"></script></head>
 
 <body class=" cms-page-view cms-privacy-policy">
@@ -138,19 +102,29 @@ _gaq.push(['_trackPageview']);
 			<!--{DAILYDEALS_7a7bc8b95321dc263b9424936e415c79}--><script type="text/javascript">
 	//<![CDATA[
  	   var SKIN_URL = 'http://www.electronics-expo.com/skin/frontend/enterprise/expo/';
+	   
+	   function goHomePage() {
+		var d = new Date();
+		var ref=''+d.getFullYear()+d.getMonth()+ d.getDate()+d.getHours()+d.getMinutes()+d.getSeconds();
+		var	goURL = "/?ref="+ref;
+		window.location.href = goURL
+		}
+
 	//]]>
 </script> 
+
+<!--
 <div class="header-panel">
 	
 	<div class="newsletter">				
-		<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/callout_savings.jpg" alt="callout_savings" width="186" height="50">
+		<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/callout_savings.jpg" alt="callout_savings" width="186" height="50" />
 		
 <div class="block left">
 	<form action="http://list.electronics-expo.com/subscribe/subscribe.tml" method="POST" id="newsletter-validate-detail">
 	    <div class="form-subscribe">
 	        <label for="newsletter">Sign up for our newsletter:</label>
 	        <div class="v-fix">
-	        	<input name="email" type="text" id="newsletter" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email">
+	        	<input name="email" type="text" id="newsletter" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email" />
 	        </div>
 	        <button type="submit" class="button" title="GO"><span><span>GO</span></span></button>
 	    </div>
@@ -168,11 +142,13 @@ _gaq.push(['_trackPageview']);
 	</div>
 	
 	<div class="garuntee">
-    	<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/callout_14day.jpg" alt="callout_14day" width="181" height="49">
+    	<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/callout_14day.jpg" alt="callout_14day" width="181" height="49" />
     </div>
-    
+    -->
     <!-- Social Scroller ================= -->
-    <div class="social-login">
+    
+	<!--
+	<div class="social-login">
     	<p>Login or Register using: </p>	
     	<div class="social-scroller">
     		<a class="prev browse left"></a>
@@ -180,39 +156,42 @@ _gaq.push(['_trackPageview']);
     	    	<div class="items">
     	            
     	    		<div>
-    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_1.png" alt="social login" width="30" height="30"></a>
-    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_2.png" alt="social login" width="30" height="30"></a>
-    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_3.png" alt="social login" width="30" height="30"></a>
+    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_1.png" alt="social login" width="30" height="30" /></a>
+    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_2.png" alt="social login" width="30" height="30" /></a>
+    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_3.png" alt="social login" width="30" height="30" /></a>
     	    		</div>
     	    		
     	    		<div>
-    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_4.png" alt="social login" width="30" height="30"></a>
-    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_5.png" alt="social login" width="30" height="30"></a>
-    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_6.png" alt="social login" width="30" height="30"></a>
+    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_4.png" alt="social login" width="30" height="30" /></a>
+    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_5.png" alt="social login" width="30" height="30" /></a>
+    	    			<a href="/customer/account"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/login_6.png" alt="social login" width="30" height="30" /></a>
     	    		</div>
     	          
-    	       </div> <!-- End items -->
-    	    </div> <!-- End scrollable -->
+    	       </div>  -->
+			   <!-- End items -->
+    	    <!-- </div>  -->
+			<!-- End scrollable -->
+
+			<!-- 
     	    <a class="next browse right"></a> 
     	</div> 
-    </div> <!-- End social-login --> 
-    <div class="clear"></div>
+    </div> -->
+	<!-- End social-login --> 
+    <!--
+	<div class="clear"></div>
         
-</div> <!-- End header-panel -->
+</div> -->
+<!-- End header-panel -->
+
 
 <div class="header">
 
-	<a href="/"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/logo.jpg" alt="logo" width="190" height="133"></a>
-	<div class="chat">
-		<div class="chat-img">
-			<a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;byhref=1&amp;imageUrl=http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/liveperson" target="chat90304908" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;imageUrl=http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat90304908','width=475,height=400,resizable=yes');return false;"><img src="https://server.iad.liveperson.net/hc/90304908/?cmd=repstate&amp;site=90304908&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/liveperson" name="hcIcon" alt="Chat" border="0"></a>
-		</div>
-		<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/toll-free.jpg" alt="toll-free" width="134" height="91">
-	</div>
-	<ul class="in-store">
-		<li><a href="/ustorelocator/location/map/">Store Locator</a> |</li>
-		<li><a href="/in-store-circular">Weekly in-store Circular</a></li>
-	</ul>
+	<a href="#" onclick="goHomePage()"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/logo.jpg" alt="logo"></a>
+	
+	<span class="hdnews">
+		<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/amazon.jpg">
+	</span>
+	
 	
     <div class="top-links">
     			    		<p>Welcome <strong>New Customer.</strong></p>
@@ -221,462 +200,38 @@ _gaq.push(['_trackPageview']);
 <ul class="links">
                         <li class="first"><a href="https://www.electronics-expo.com/customer/account/" title="My Account">My Account</a></li>
                                 <!--{WISHLISTLINKS_51ee1fb458b37997491be9a41fafdb0a}--><li><a href="https://www.electronics-expo.com/wishlist/" title="My Wishlist">My Wishlist</a></li>
-<!--/{WISHLISTLINKS_51ee1fb458b37997491be9a41fafdb0a}-->                                <li><a href="https://www.electronics-expo.com/customer/account/login/referer/aHR0cDovL3d3dy5lbGVjdHJvbmljcy1leHBvLmNvbS9kZW5vbi1haGQyMDAwLWhpZ2gtcGVyZm9ybWFuY2Utb3Zlci1lYXItaGVhZHBob25lcy1vYj9fPTEzMzc2NDI4Nzc3OTA,/" title="Log In">Log In</a></li>
-                                <li class=" last"><a href="http://www.electronics-expo.com/articles/" title="Articles" class="top-link-blog">Articles</a></li>
+<!--/{WISHLISTLINKS_51ee1fb458b37997491be9a41fafdb0a}-->                                <li class=" last"><a href="https://www.electronics-expo.com/customer/account/login/referer/aHR0cDovL3d3dy5lbGVjdHJvbmljcy1leHBvLmNvbS9wcml2YWN5LXBvbGljeQ,,/" title="Log In">Log In</a></li>
             </ul>
 
+		
+		<p>&nbsp;&nbsp;<a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;byhref=1&amp;imageUrl=http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/liveperson" target="chat90304908" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/90304908/?cmd=file&amp;file=visitorWantsToChat&amp;site=90304908&amp;imageUrl=http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat90304908','width=475,height=400,resizable=yes');return false;">
+		Live Chat <img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/chat.gif">
+	</a>
+	</p>
+		
+		
     </div>
     
-    <div class="social-like">
-    	<div class="fb">
-    		<iframe src="https://www.facebook.com/plugins/like.php?href=www.facebook.com%2Felectronicsexpo&amp;send=true&amp;layout=standard&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=trebuchet+ms&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowtransparency="true"></iframe>
-    	</div>
-    	<div class="gp">
-	    	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-    		<g:plusone></g:plusone>
-    	</div>
-    </div>
-    
+	    
     <div class="mini-cart-icon"></div>
-<!-- Start header-cart  -->
-<div>
-<!--{CART_SIDEBAR_9aee3a9c037421eb0913052963740433}-->    <div class="header-cart">
+	<div class="header-cart">
 				<div class="top-cart">
-			<a href="/checkout/cart/"><strong id="cartHeader">Shopping Cart: <span>Empty</span></strong></a>
+			<a href="/checkout/onepage/"><strong id="cartHeader"><span>Empty</span></strong></a>
 		</div>
-    </div><!--/{CART_SIDEBAR_9aee3a9c037421eb0913052963740433}-->
-</div>
+	</div> <!-- End header-cart -->
 
-<!-- End header-cart -->
-
-    <div class="form-search">
-    	<ul id="all-nav">
-			<li class="first">
-				<a href="#">All Products</a>
-    	      	<div class="no-display dropdown block"><!--{CATALOG_NAVIGATION_deec6ba2fecefe70a422acfafe56d025}--><div class="nav-container">
-    <ul id="nav">
-        <li class="level0 nav-1 level-top first">
-<a href="http://www.electronics-expo.com/products/dj-gear" class="level-top">
-<span>DJ Gear</span>
-</a>
-</li><li class="level0 nav-2 level-top parent">
-<a href="http://www.electronics-expo.com/products/appliances" class="level-top">
-<span>Appliances</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-2-1 first">
-<a href="http://www.electronics-expo.com/products/appliances/kitchen">
-<span>Kitchen</span>
-</a>
-</li><li class="level1 nav-2-2">
-<a href="http://www.electronics-expo.com/products/appliances/personal-care">
-<span>Personal Care</span>
-</a>
-</li><li class="level1 nav-2-3 last">
-<a href="http://www.electronics-expo.com/products/appliances/weather-stations">
-<span>Weather Stations</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-3 level-top parent">
-<a href="http://www.electronics-expo.com/products/blu-ray-and-video" class="level-top">
-<span>Blu-Ray &amp; Video</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-3-1 first">
-<a href="http://www.electronics-expo.com/products/blu-ray-and-video/blu-ray-players">
-<span>Blu-Ray Players</span>
-</a>
-</li><li class="level1 nav-3-2">
-<a href="http://www.electronics-expo.com/products/blu-ray-and-video/digital-video-recorders-dvrs">
-<span>Digital Video Recorders (DVRs)</span>
-</a>
-</li><li class="level1 nav-3-3">
-<a href="http://www.electronics-expo.com/products/blu-ray-and-video/dvd-players">
-<span>DVD Players</span>
-</a>
-</li><li class="level1 nav-3-4 last">
-<a href="http://www.electronics-expo.com/products/blu-ray-and-video/video-gaming">
-<span>Video Gaming</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-4 level-top parent">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder" class="level-top">
-<span>Camera &amp; Camcorder</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-4-1 first">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/batteries-and-chargers">
-<span>Batteries &amp; Chargers</span>
-</a>
-</li><li class="level1 nav-4-2">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/binoculars">
-<span>Binoculars</span>
-</a>
-</li><li class="level1 nav-4-3">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/camcorders">
-<span>Camcorders</span>
-</a>
-</li><li class="level1 nav-4-4">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/camera-and-camcorder-accessories">
-<span>Camera &amp; Camcorder Accessories</span>
-</a>
-</li><li class="level1 nav-4-5">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/cameras">
-<span>Cameras</span>
-</a>
-</li><li class="level1 nav-4-6">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/digital-photo-frames">
-<span>Digital Photo Frames</span>
-</a>
-</li><li class="level1 nav-4-7">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/memory-cards-and-readers">
-<span>Memory Cards &amp; Readers</span>
-</a>
-</li><li class="level1 nav-4-8 last">
-<a href="http://www.electronics-expo.com/products/camera-and-camcorder/telescopes">
-<span>Telescopes</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-5 level-top parent">
-<a href="http://www.electronics-expo.com/products/clearance" class="level-top">
-<span>Clearance</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-5-1 first">
-<a href="http://www.electronics-expo.com/products/clearance/clearance-camcorders">
-<span>Clearance Camcorders</span>
-</a>
-</li><li class="level1 nav-5-2">
-<a href="http://www.electronics-expo.com/products/clearance/clearance-cameras">
-<span>Clearance Cameras</span>
-</a>
-</li><li class="level1 nav-5-3">
-<a href="http://www.electronics-expo.com/products/clearance/clearance-home-theater-and-audio">
-<span>Clearance Home Theater</span>
-</a>
-</li><li class="level1 nav-5-4">
-<a href="http://www.electronics-expo.com/products/clearance/clearance-televisions">
-<span>Clearance Televisions</span>
-</a>
-</li><li class="level1 nav-5-5 last">
-<a href="http://www.electronics-expo.com/products/clearance/clearance-video">
-<span>Clearance Video</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-6 level-top parent">
-<a href="http://www.electronics-expo.com/products/computers-and-office" class="level-top">
-<span>Computer &amp; Office</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-6-1 first">
-<a href="http://www.electronics-expo.com/products/computers-and-office/bluetooth-headsets">
-<span>Bluetooth Headsets</span>
-</a>
-</li><li class="level1 nav-6-2">
-<a href="http://www.electronics-expo.com/products/computers-and-office/computer-accessories">
-<span>Computer Accessories</span>
-</a>
-</li><li class="level1 nav-6-3">
-<a href="http://www.electronics-expo.com/products/computers-and-office/computer-cables">
-<span>Computer Cables</span>
-</a>
-</li><li class="level1 nav-6-4">
-<a href="http://www.electronics-expo.com/products/computers-and-office/computer-speakers">
-<span>Computer Speakers</span>
-</a>
-</li><li class="level1 nav-6-5">
-<a href="http://www.electronics-expo.com/products/computers-and-office/desktops">
-<span>Desktops</span>
-</a>
-</li><li class="level1 nav-6-6">
-<a href="http://www.electronics-expo.com/products/computers-and-office/keyboards-and-mice">
-<span>Keyboards &amp; Mice</span>
-</a>
-</li><li class="level1 nav-6-7">
-<a href="http://www.electronics-expo.com/products/computers-and-office/monitors">
-<span>Monitors</span>
-</a>
-</li><li class="level1 nav-6-8">
-<a href="http://www.electronics-expo.com/products/computers-and-office/netbooks">
-<span>Netbooks</span>
-</a>
-</li><li class="level1 nav-6-9">
-<a href="http://www.electronics-expo.com/products/computers-and-office/networking">
-<span>Networking</span>
-</a>
-</li><li class="level1 nav-6-10">
-<a href="http://www.electronics-expo.com/products/computers-and-office/notebooks">
-<span>Notebooks</span>
-</a>
-</li><li class="level1 nav-6-11">
-<a href="http://www.electronics-expo.com/products/computers-and-office/printers">
-<span>Printers</span>
-</a>
-</li><li class="level1 nav-6-12">
-<a href="http://www.electronics-expo.com/products/computers-and-office/storage">
-<span>Storage</span>
-</a>
-</li><li class="level1 nav-6-13">
-<a href="http://www.electronics-expo.com/products/computers-and-office/tablets">
-<span>Tablets</span>
-</a>
-</li><li class="level1 nav-6-14 last">
-<a href="http://www.electronics-expo.com/products/computers-and-office/telephones">
-<span>Telephones</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-7 level-top parent">
-<a href="http://www.electronics-expo.com/products/gps-and-navigation" class="level-top">
-<span>GPS</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-7-1 first">
-<a href="http://www.electronics-expo.com/products/gps-and-navigation/gps-accessories">
-<span>GPS Accessories</span>
-</a>
-</li><li class="level1 nav-7-2">
-<a href="http://www.electronics-expo.com/products/gps-and-navigation/handheld">
-<span>Handheld</span>
-</a>
-</li><li class="level1 nav-7-3 last">
-<a href="http://www.electronics-expo.com/products/gps-and-navigation/in-car-navigation">
-<span>In-Car Navigation</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-8 level-top parent">
-<a href="http://www.electronics-expo.com/products/hdtv-and-projectors" class="level-top">
-<span>Television</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-8-1 first">
-<a href="http://www.electronics-expo.com/products/hdtv-and-projectors/flat-panel-hdtv">
-<span>Flat Panel HDTV</span>
-</a>
-</li><li class="level1 nav-8-2">
-<a href="http://www.electronics-expo.com/products/hdtv-and-projectors/projector-mounts">
-<span>Projector Mounts</span>
-</a>
-</li><li class="level1 nav-8-3">
-<a href="http://www.electronics-expo.com/products/hdtv-and-projectors/projector-screens">
-<span>Projector Screens</span>
-</a>
-</li><li class="level1 nav-8-4">
-<a href="http://www.electronics-expo.com/products/hdtv-and-projectors/projectors">
-<span>Projectors</span>
-</a>
-</li><li class="level1 nav-8-5">
-<a href="http://www.electronics-expo.com/products/hdtv-and-projectors/television-accessories">
-<span>Television Accessories</span>
-</a>
-</li><li class="level1 nav-8-6 last">
-<a href="http://www.electronics-expo.com/products/hdtv-and-projectors/tv-stands-and-mounts">
-<span>TV Stands &amp; Mounts</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-9 level-top parent">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio" class="level-top">
-<span>Home Theater</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-9-1 first">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/amps-and-pre-amps">
-<span>Amps &amp; Pre-Amps</span>
-</a>
-</li><li class="level1 nav-9-2">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/audio-accessories">
-<span>Audio Accessories</span>
-</a>
-</li><li class="level1 nav-9-3">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/audio-component-racks">
-<span>Audio Component Racks</span>
-</a>
-</li><li class="level1 nav-9-4">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/cd-players-and-recorders">
-<span>CD/Cassette Players &amp; Recorders</span>
-</a>
-</li><li class="level1 nav-9-5">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/digital-music-system">
-<span>Digital Music System</span>
-</a>
-</li><li class="level1 nav-9-6">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/headphones">
-<span>Headphones</span>
-</a>
-</li><li class="level1 nav-9-7">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/home-automation">
-<span>Home Automation</span>
-</a>
-</li><li class="level1 nav-9-8">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/home-theater-systems-htib">
-<span>Home Theater Systems (HTIB)</span>
-</a>
-</li><li class="level1 nav-9-9">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/music-servers">
-<span>Music Servers</span>
-</a>
-</li><li class="level1 nav-9-10">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/receivers">
-<span>Receivers</span>
-</a>
-</li><li class="level1 nav-9-11">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/sound-bars">
-<span>Sound Bars</span>
-</a>
-</li><li class="level1 nav-9-12">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/speaker-brackets">
-<span>Speaker Brackets</span>
-</a>
-</li><li class="level1 nav-9-13">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/speakers">
-<span>Speakers</span>
-</a>
-</li><li class="level1 nav-9-14 last">
-<a href="http://www.electronics-expo.com/products/home-theater-and-audio/under-the-cabinet-radios">
-<span>Under the Cabinet Radios</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-10 level-top parent">
-<a href="http://www.electronics-expo.com/products/mp3-and-portables" class="level-top">
-<span>MP3 &amp; Portables</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-10-1 first">
-<a href="http://www.electronics-expo.com/products/mp3-and-portables/bluetooth-accessories">
-<span>Bluetooth Accessories</span>
-</a>
-</li><li class="level1 nav-10-2">
-<a href="http://www.electronics-expo.com/products/mp3-and-portables/mp3-and-ipod-speaker-systems">
-<span>MP3 &amp; iPod Speaker Systems</span>
-</a>
-</li><li class="level1 nav-10-3">
-<a href="http://www.electronics-expo.com/products/mp3-and-portables/portable-audio">
-<span>Portable Audio</span>
-</a>
-</li><li class="level1 nav-10-4 last">
-<a href="http://www.electronics-expo.com/products/mp3-and-portables/radar-detectors">
-<span>Radar Detectors</span>
-</a>
-</li>
-</ul>
-</li><li class="level0 nav-11 level-top last parent">
-<a href="http://www.electronics-expo.com/products/warranty" class="level-top">
-<span>Warranty</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-11-1 first">
-<a href="http://www.electronics-expo.com/products/warranty/televisions-warranty">
-<span>Television</span>
-</a>
-</li><li class="level1 nav-11-2">
-<a href="http://www.electronics-expo.com/products/warranty/hdtv-receiver-warranty">
-<span>HDTV Receiver</span>
-</a>
-</li><li class="level1 nav-11-3">
-<a href="http://www.electronics-expo.com/products/warranty/dvd-video-warranty">
-<span>DVD &amp; DVR Player</span>
-</a>
-</li><li class="level1 nav-11-4">
-<a href="http://www.electronics-expo.com/products/warranty/camcorder-warranty">
-<span>Video Camera</span>
-</a>
-</li><li class="level1 nav-11-5">
-<a href="http://www.electronics-expo.com/products/warranty/computer-warranty">
-<span>Computer &amp; Laptop</span>
-</a>
-</li><li class="level1 nav-11-6">
-<a href="http://www.electronics-expo.com/products/warranty/portables-warranty">
-<span>Portable &amp; Personal</span>
-</a>
-</li><li class="level1 nav-11-7">
-<a href="http://www.electronics-expo.com/products/warranty/gps-navigation-warranty">
-<span>GPS Device</span>
-</a>
-</li><li class="level1 nav-11-8">
-<a href="http://www.electronics-expo.com/products/warranty/small-appliances-warranty">
-<span>Small Appliance</span>
-</a>
-</li><li class="level1 nav-11-9">
-<a href="http://www.electronics-expo.com/products/warranty/audio-warranty">
-<span>Audio</span>
-</a>
-</li><li class="level1 nav-11-10">
-<a href="http://www.electronics-expo.com/products/warranty/camera-lenses-warranty">
-<span>Camera Lenses</span>
-</a>
-</li><li class="level1 nav-11-11">
-<a href="http://www.electronics-expo.com/products/warranty/computer-peripherals-warranty">
-<span>Computer Peripherals</span>
-</a>
-</li><li class="level1 nav-11-12">
-<a href="http://www.electronics-expo.com/products/warranty/digital-camera-warranty">
-<span>Digital Camera</span>
-</a>
-</li><li class="level1 nav-11-13">
-<a href="http://www.electronics-expo.com/products/warranty/digital-picture-frame-warranty">
-<span>Digital Picture Frame</span>
-</a>
-</li><li class="level1 nav-11-14">
-<a href="http://www.electronics-expo.com/products/warranty/ebook-reader">
-<span>eBook Reader</span>
-</a>
-</li><li class="level1 nav-11-15">
-<a href="http://www.electronics-expo.com/products/warranty/fax-printer-scanner">
-<span>Fax-Printer &amp; Scanner</span>
-</a>
-</li><li class="level1 nav-11-16">
-<a href="http://www.electronics-expo.com/products/warranty/flash-strobe">
-<span>Flash &amp; Strobe</span>
-</a>
-</li><li class="level1 nav-11-17">
-<a href="http://www.electronics-expo.com/products/warranty/mobile-electronics">
-<span>Mobile Electronics</span>
-</a>
-</li><li class="level1 nav-11-18">
-<a href="http://www.electronics-expo.com/products/warranty/pda">
-<span>PDA</span>
-</a>
-</li><li class="level1 nav-11-19">
-<a href="http://www.electronics-expo.com/products/warranty/product-replacement">
-<span>Product Replacement</span>
-</a>
-</li><li class="level1 nav-11-20">
-<a href="http://www.electronics-expo.com/products/warranty/projector">
-<span>Projector</span>
-</a>
-</li><li class="level1 nav-11-21">
-<a href="http://www.electronics-expo.com/products/warranty/projector-bulb-replacement">
-<span>Projector Bulb Replacement</span>
-</a>
-</li><li class="level1 nav-11-22">
-<a href="http://www.electronics-expo.com/products/warranty/remote-control">
-<span>Remote Control</span>
-</a>
-</li><li class="level1 nav-11-23">
-<a href="http://www.electronics-expo.com/products/warranty/telephone">
-<span>Telephone</span>
-</a>
-</li><li class="level1 nav-11-24 last">
-<a href="http://www.electronics-expo.com/products/warranty/video-camera">
-<span>Video Camera</span>
-</a>
-</li>
-</ul>
-</li>    </ul>
-</div>
-<!--/{CATALOG_NAVIGATION_deec6ba2fecefe70a422acfafe56d025}--></div>
-			</li>
-			<li>
-              	<a href="#">All Brands</a>
-				<div class="no-display dropdown block all-brands-drop">
-				    	<span><center><b><font style="color:#8CC640; font-size:14px; font-family:Arial;font-style:oblique;">Authorized dealer for all brands we sell</font></b></center><br></span>
+	<div>
+<ul class="in-store">
+  <li></li>
+  <li><a href="http://www.electronics-expo.com/ustorelocator/location/map/">Store Locator</a></li>
+  <li>|</li>
+  <li><a href="http://www.electronics-expo.com/in-store-circular?a=2">Weekly in-store Circular</a> </li>
+  <li>|</li>
+  <li><a class="top-link-blog" title="Articles" href="http://www.electronics-expo.com/articles/">Articles</a></li>
+  <li>|</li>	
+  <li id="all-nav2"><a href="#">All Brands</a>
+  <div class="no-display dropdown block all-brands-drop">
+	<span><center><b><font style="color:#8CC640; font-size:14px; font-family:Arial;font-style:oblique;">Authorized dealer for all brands we sell</font></b></center><br></span>
 	<table>
 	<tbody><tr>
 		<td>
@@ -755,7 +310,7 @@ _gaq.push(['_trackPageview']);
 			<li><a href="/products?brand_name=1575"><span>KEF</span></a></li>
 			<li><a href="/products?brand_name=1441"><span>KitchenAid</span></a></li>
 			<li><a href="/products?brand_name=946"><span>Koss</span></a></li>
-			<li><a href="/products?brand_name=197"><span>LG</span></a></li>
+			<li><a href="/showcase-lg"><span>LG<!-- brand_name=197--></span></a></li>
 			<li><a href="/products?brand_name=508"><span>Logitech</span></a></li>
 			<li><a href="/products?brand_name=805"><span>Lowepro</span></a></li>
 			<li><a href="/products?brand_name=132"><span>Magellan</span></a></li>
@@ -846,6 +401,13 @@ _gaq.push(['_trackPageview']);
 				</div>
 			</li>
 		</ul>
+
+</div>
+	
+	
+	
+    <div class="form-search">
+
     	<form id="search_mini_form" action="http://www.electronics-expo.com/salesperson/result/" method="get">
 	<!--<input type="hidden" name="order" value="relevance"> 
 	<input type="hidden" name="dir" value="desc">-->
@@ -862,6 +424,9 @@ _gaq.push(['_trackPageview']);
 	</div>
 </form>
     </div>
+	
+
+	
     
 </div> <!-- End header -->
 <div class="nav">
@@ -870,8 +435,8 @@ _gaq.push(['_trackPageview']);
 			<div class="dropdown_1columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors/flat-panel-hdtv">Flat Panel HDTV</a></li><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors/projectors">Projectors</a></li><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors/tv-stands-and-mounts">TV Stands &amp; Mounts</a></li><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors/projector-screens">Projector Screens</a></li><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors/television-accessories">Television Accessories</a></li><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors/projector-mounts">Projector Mounts</a></li></ul></div> 
 		</li>
 		<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu"></li>
-		<li class="parent"><a href="/products/home-theater-and-audio" class="drop">Home Theater</a>
-			<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/speakers">Speakers</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/sound-bars">Sound Bars</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/receivers">Receivers</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/amps-and-pre-amps">Amps &amp; Pre-Amps</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/home-theater-systems-htib">Home Theater Systems (HTIB)</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/mini-systems">Mini Systems</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/cd-players-and-recorders">CD/Cassette Players &amp; Recorders</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/digital-music-system">Digital Music System</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/music-servers">Music Servers</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/home-automation">Home Automation</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/audio-component-racks">Audio Component Racks</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/audio-accessories">Audio Accessories</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/speaker-brackets">Speaker Brackets</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/headphones">Headphones</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/under-the-cabinet-radios">Under the Cabinet Radios</a></li></ul></div> 
+		<li class="parent"><a href="/products/home-theater-and-audio" class="drop">Audio</a>
+			<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/speakers">Speakers</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/sound-bars">Sound Bars</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/receivers">Receivers</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/amps-and-pre-amps">Amps &amp; Pre-Amps</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/home-theater-systems-htib">Home Theater Systems (HTIB)</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/mini-systems">Mini Systems</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/cd-players-and-recorders">CD/Cassette Players &amp; Recorders</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/digital-music-system">Digital Music System</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/music-servers">Music Servers</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/home-automation">Home Automation</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/audio-component-racks">Audio Component Racks</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/audio-accessories">Audio Accessories</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/speaker-brackets">Speaker Brackets</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio/under-the-cabinet-radios">Under the Cabinet Radios</a></li></ul></div> 
 		</li>
 		<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu"></li>
 		<li class="parent"><a href="/products/blu-ray-and-video" class="drop">Blu-Ray &amp; DVD</a>
@@ -879,13 +444,13 @@ _gaq.push(['_trackPageview']);
 		</li>
 		<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu"></li>
     	<li class="parent"><a href="/products/camera-and-camcorder" class="drop">Camera &amp; Camcorder</a>
-    		<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/camcorders">Camcorders</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/digital-photo-frames">Digital Photo Frames</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/binoculars">Binoculars</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/telescopes">Telescopes</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/camera-and-camcorder-accessories">Camera &amp; Camcorder Accessories</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/batteries-and-chargers">Batteries &amp; Chargers</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/cameras">Cameras</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/memory-cards-and-readers">Memory Cards &amp; Readers</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/security-surveillance">Security&amp;Surveillance</a></li></ul></div>    	</li>
+    		<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/digital-slr">Digital SLR</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/digital-point-and-shoot">Digital Point &amp; Shoot</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/camcorders">Camcorders</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/digital-photo-frames">Digital Photo Frames</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/binoculars">Binoculars</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/telescopes">Telescopes</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/camera-and-camcorder-accessories">Camera &amp; Camcorder Accessories</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/batteries-and-chargers">Batteries &amp; Chargers</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/memory-cards-and-readers">Memory Cards &amp; Readers</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder/security-surveillance">Security&amp;Surveillance</a></li></ul></div>    	</li>
     	<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu"></li>
     	<li class="parent"><a href="/products/computers-and-office" class="drop">Computer &amp; Office</a>
-    		<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/computers-and-office/tablets">Tablets</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/notebooks">Notebooks</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/desktops">Desktops</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/netbooks">Netbooks</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/monitors">Monitors</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/printers">Printers</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/storage">Storage</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/networking">Networking</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/computers-and-office/computer-speakers">Computer Speakers</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/keyboards-and-mice">Keyboards &amp; Mice</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/computer-accessories">Computer Accessories</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/computer-cables">Computer Cables</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/bluetooth-headsets">Bluetooth Headsets</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/telephones">Telephones</a></li></ul></div>    	</li>
+    		<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/computers-and-office/tablets">Tablets</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/notebooks">Notebooks</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/desktops">Desktops</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/netbooks">Netbooks</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/monitors">Monitors</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/printers">Printers</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/storage">Storage</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/networking">Networking</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/computers-and-office/computer-speakers">Computer Speakers</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/keyboards-and-mice">Keyboards &amp; Mice</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/computer-accessories">Computer Accessories</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/computer-cables">Computer Cables</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/bluetooth-headsets">Bluetooth Headsets</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/telephones">Telephones</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office/e-book-readers">E-Book Readers</a></li></ul></div>    	</li>
     	<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu"></li>
-    	<li class="parent"><a href="/products/mp3-and-portables" class="drop">MP3 &amp; Portables</a>
-    		<div class="dropdown_1columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/portable-audio">Portable Audio</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/mp3-and-ipod-speaker-systems">MP3 &amp; iPod Speaker Systems</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/portable-video">Portable Video</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/bluetooth-accessories">Bluetooth Accessories</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/e-book-readers">E-Book Readers</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/radar-detectors">Radar Detectors</a></li></ul></div>    	</li>
+    	<li class="parent"><a href="/products/mp3-and-portables" class="drop">Headphones &amp; Docks</a>
+    		<div class="dropdown_1columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/headphones">Headphones</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/mp3-and-ipod-speaker-systems">MP3 &amp; iPod Speaker Systems</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/portable-audio">Portable Audio</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/portable-video">Portable Video</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/bluetooth-accessories">Bluetooth Accessories</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables/radar-detectors">Radar Detectors</a></li></ul></div>    	</li>
     	<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu"></li>
     	<li class="parent"><a href="/products/gps-and-navigation" class="drop">GPS</a>
     		<div class="dropdown_1columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/gps-and-navigation/in-car-navigation">In-Car Navigation</a></li><li><a href="http://www.electronics-expo.com/products/gps-and-navigation/gps-accessories">GPS Accessories</a></li><li><a href="http://www.electronics-expo.com/products/gps-and-navigation/handheld">Handheld</a></li></ul></div>    	</li>
@@ -919,67 +484,21 @@ _gaq.push(['_trackPageview']);
 		
     	<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu"></li>
     	<li class="parent"><a href="/products/appliances" class="drop">Appliances</a>
-    		<div class="dropdown_1columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/appliances/vacuum-cleaners">Vacuum Cleaners</a></li><li><a href="http://www.electronics-expo.com/products/appliances/personal-care">Personal Care</a></li><li><a href="http://www.electronics-expo.com/products/appliances/heaters-fans">Heaters &amp; Fans</a></li><li><a href="http://www.electronics-expo.com/products/appliances/kitchen">Kitchen</a></li><li><a href="http://www.electronics-expo.com/products/appliances/weather-stations">Weather Stations</a></li></ul></div>    	</li>
+    		<div class="dropdown_1columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/appliances/vacuum-cleaners">Vacuum Cleaners</a></li><li><a href="http://www.electronics-expo.com/products/appliances/coffee">Coffee</a></li><li><a href="http://www.electronics-expo.com/products/appliances/kitchen">Kitchen</a></li><li><a href="http://www.electronics-expo.com/products/appliances/heaters-fans">Heaters &amp; Fans</a></li><li><a href="http://www.electronics-expo.com/products/appliances/personal-care">Personal Care</a></li><li><a href="http://www.electronics-expo.com/products/appliances/weather-stations">Weather Stations</a></li></ul></div>    	</li>
 		<!--
     	<li class="separator"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/separator_menu.png" alt="separator_menu" /></li>
     	<li class="last parent"><a href="#" class="drop">More</a>
-    		<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/appliances">Appliances</a></li><li><a href="http://www.electronics-expo.com/products/blu-ray-and-video">Blu-Ray &amp; Video</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder">Camera &amp; Camcorder</a></li><li><a href="http://www.electronics-expo.com/products/clearance">Clearance</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office">Computer &amp; Office</a></li><li><a href="http://www.electronics-expo.com/products/dj-gear">DJ Gear</a></li><li><a href="http://www.electronics-expo.com/products/gps-and-navigation">GPS</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio">Home Theater</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/mp3-and-portables">MP3 &amp; Portables</a></li><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors">Television</a></li><li><a href="http://www.electronics-expo.com/products/warranty">Warranty</a></li></ul></div>    	</li>
+    		<div class="dropdown_2columns"><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/appliances">Appliances</a></li><li><a href="http://www.electronics-expo.com/products/home-theater-and-audio">Audio</a></li><li><a href="http://www.electronics-expo.com/products/blu-ray-and-video">Blu-Ray &amp; Video</a></li><li><a href="http://www.electronics-expo.com/products/camera-and-camcorder">Camera &amp; Camcorder</a></li><li><a href="http://www.electronics-expo.com/products/computers-and-office">Computer &amp; Office</a></li><li><a href="http://www.electronics-expo.com/products/dj-gear">DJ Gear</a></li><li><a href="http://www.electronics-expo.com/products/gps-and-navigation">GPS</a></li><li><a href="http://www.electronics-expo.com/products/mp3-and-portables">MP3 &amp; Portables</a></li></ul><ul class="col_1"><li><a href="http://www.electronics-expo.com/products/hdtv-and-projectors">Television</a></li><li><a href="http://www.electronics-expo.com/products/warranty">Warranty</a></li></ul></div>    	</li>
 		-->
 	</ul>
 </div> <!-- End nav -->
 
-
+<!--
 <div class="top-callouts">
-	<div class="block-1">
-	<p><a href="/picks/bundled-savings"><img src="http://www.electronics-expo.com/media/wysiwyg/blocks/bundled.jpg" alt=""></a></p></div>
-    
-<script type="text/javascript">
-	//<![CDATA[ 
-	jQuery(document).ready(function() {
-        jQuery(".time-div").countdown({
-        	date: "May 21, 2012 23:59",
-        	htmlTemplate: '<div class="hr">%{h}:</div><div class="min">%{m}:</div><div class="sec">%{s}</div>',
-	    	minus: false,
-	    	onChange: function( event, timer ){ },
-	    	onComplete: function( event ){ jQuery(this).html('<div class="hr blink">00</div><div class="min blink">00</div><div class="sec blink">00</div>'); },
-	    	leadingZero: true
-        });
-    });
-    //]]>
-</script>
-
-	
-	
-			
-						    			    	<div class="block-2 dailydeal">
-						<a href="javascript:void(0)" onclick="goDailyDeal()">
-			    		<p class="callout-title">DAILY DEAL:</p>
-			    					    			<img src="http://dk6fw17t7jl2x.cloudfront.net/catalog/product/cache/1/daily_deal_img_sm/9df78eab33525d08d6e5fb8d27136e95/L/a/Large-1021509491_1.jpg" width="45" height="30" class="img-small">
-			    								</a>						
-						
-			    		<div class="callout-detail">
-			    			<p><strong><a href="javascript:void(0)" onclick="goDailyDeal()">Toshiba  32" 720p LC...</a></strong></p>
-			    			<p>	$329.00 <span>Now $269.95</span></p>
-			    		</div>
-						
-			    					    						    				<div class="callout-savings">
-			    					<a href="javascript:void(0)" onclick="goDailyDeal()">Save 18% Today</a>
-			    					<div class="deal-time"><div class="time-div"></div> &nbsp;left to save </div>
-			    				</div>
-			    						    					    	</div>
-			    						
-			
-<script type="text/javascript">
-
-function goDailyDeal() {
-var d = new Date();
-//var ref=''+d.getFullYear()+d.getMonth()+ d.getDate()+d.getHours()+d.getMinutes()+d.getSeconds();
-var ref=''+d.getFullYear()+d.getMonth()+ d.getDate();
-window.location.href = "/picks/daily-deal?dy="+ref;
-}
-</script>	
+		 
 </div> 
-
+-->
+<div style="height:14px"></div> 
 <!-- End top-callouts -->
 <!--/{DAILYDEALS_7a7bc8b95321dc263b9424936e415c79}--> 
 			    <noscript>
@@ -996,11 +515,114 @@ window.location.href = "/picks/daily-deal?dy="+ref;
 			
 			<div class="sidebar">
 				<div class="sidebar-secondary">
-	<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/main_buttons_01.jpg" alt="main_buttons_01" width="191" height="76">
-	<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/main_buttons_02.jpg" alt="main_buttons_02" width="191" height="75">
-	<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/main_buttons_03.jpg" alt="main_buttons_03" width="191" height="76">
-	<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/main_buttons_04.jpg" alt="main_buttons_04" width="191" height="76">
-	<div class="signup-savings">
+<div class="main-buttons">
+			
+			<table>
+			<tbody><tr><td class="main_button btn_one">
+				<a href="javascript:void(0)" onclick="goDailyDeal()">
+				
+			<!--			
+			<div class="main_button_lg">Daily Deal</div>
+
+			<div class="main_button_sm">Don't miss out</div>-->
+		        </a> 
+				
+			<div>
+				  				  				  
+				  
+
+
+<script type="text/javascript">
+	//<![CDATA[ 
+	jQuery(document).ready(function() {
+        jQuery(".time-div").countdown({
+        	date: "November 12, 2012 23:59",
+        	htmlTemplate: '<div class="hr">%{h}:</div><div class="min">%{m}:</div><div class="sec">%{s}</div>',
+	    	minus: false,
+	    	onChange: function( event, timer ){ },
+	    	onComplete: function( event ){ jQuery(this).html('<div class="hr blink">00</div><div class="min blink">00</div><div class="sec blink">00</div>'); },
+	    	leadingZero: true
+        });
+    });
+    //]]>
+</script>
+
+	
+	
+						
+	
+
+						    			    	<div class="block-2 dailydeal">
+						<a href="javascript:void(0)" onclick="goDailyDeal()">
+			    		<div class="callout-title">DAILY DEAL:</div>
+						<div class="clear"></div>
+						<div style="text-transform: uppercase;">Tivoli Audio ISONGBOOK</div>
+						<div style="padding-left:0px;">
+			    					    			<img src="http://dk6fw17t7jl2x.cloudfront.net/catalog/product/cache/1/daily_deal_img_sm/9df78eab33525d08d6e5fb8d27136e95/t/i/tivisongbook.png" width="170" class="img-small">
+			    								</div>
+						</a>						
+						
+						
+			    		<div class="callout-detail">
+			    			<p style="text-transform: uppercase;"><a href="javascript:void(0)" onclick="goDailyDeal()">Tivoli Audio SongBook 2nd generation white / silver</a></p>
+							<div style="height:12px" class="clear"></div>
+			    			<div class="dailydprice">WAS&nbsp;$399.00&nbsp;<br>NOW&nbsp;$129.95</div>
+			    		</div>
+						
+			    					    						    				<div class="callout-savings">
+			    					<div class="deal-time"><a href="javascript:void(0)" onclick="goDailyDeal()">SAVE 67% TODAY</a></div>
+									<div style="height:4px" class="clear"></div>
+			    					<div class="deal-time"><div class="time-div"></div> &nbsp;LEFT TO SAVE </div>
+			    				</div>
+			    						    					    	</div>
+			    						
+			
+<script type="text/javascript">
+
+function goDailyDeal() {
+var d = new Date();
+//var ref=''+d.getFullYear()+d.getMonth()+ d.getDate()+d.getHours()+d.getMinutes()+d.getSeconds();
+var ref=''+d.getFullYear()+d.getMonth()+ d.getDate();
+window.location.href = "/picks/daily-deal?dy="+ref;
+}
+</script>
+ 
+				  
+            </div>
+				
+			</td></tr>
+			<tr><td class="main_button_sp"></td></tr>
+			<tr><td class="main_button purpl_btn btn_two">
+				<a href="/openboxlikenew"><div class="main_button_lg">OPEN BOX LIKE NEW </div>
+				<div class="main_button_sm">SAVE UP TO 60%!</div>
+				<div style="line-height:0px;"><img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/OpenBoxGirlMenu.png"></div>
+				</a>
+			</td></tr>
+			
+			<tr><td class="main_button_sp"></td></tr>
+			<tr><td class="main_button  btn_three">
+				<a href="/bundles"><div class="main_button_lg">BUNDLED SAVINGS</div>  
+				<div class="main_button_sm">BUNDLE UP &amp; SAVE!</div></a>
+			</td></tr>			
+		
+			<tr><td class="main_button_sp"></td></tr>
+			<tr><td class="main_button btn_four">
+				
+				<!-- <a href='/instore_specials'>-->  
+				<a href="/in-store-circular"><div class="main_button_lg">IN STORE SPECIALS</div>
+				<div class="main_button_sm">VISIT OUR STORES!</div></a>
+			</td></tr>			
+
+			<tr><td class="main_button_sp"></td></tr>
+			<tr><td class="main_button btn_five">
+				<a href="/new-arrivals"><div class="main_button_lg">NEW ARRIVALS 2012</div>   
+				<div class="main_button_sm">THEY'RE HERE!</div></a>
+			</td></tr>			
+			<tr><td class="main_button_sp"></td></tr>		
+				
+		</tbody></table>
+
+			<div class="signup-savings">
     <p class="title-1">Sign Up For Savings</p>
     <p class="email-desc">Get access to special savings and other offers when you sign up.</p>
 
@@ -1036,7 +658,17 @@ window.location.href = "/picks/daily-deal?dy="+ref;
 	</script>
 	
     <div class="click"></div>
-</div> <!-- End .signup-savings --></div>			</div> <!-- End .sidebar -->
+</div> <!-- End .signup-savings -->			
+					<div style="height:12px" class="clear"></div>
+		<div class="garuntee">
+			<a href="/pricing-policy">
+				<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/callout_14day.jpg" alt="callout_14day" width="190">
+			</a>
+		</div>	
+			
+			
+		</div> <!-- End main-buttons -->
+	</div> <!-- End .sidebar -->					</div> <!-- End .sidebar -->
 			
 			<div class="main">
 								    <div class="page-title">
@@ -1076,6 +708,7 @@ window.location.href = "/picks/daily-deal?dy="+ref;
     	<ul>
     		<li><a href="/learning-center">Learning Center</a></li>
     		<li><a href="/learning-center">Buying Guide</a></li>
+			<li><a href="/product-map">Products Map</a></li>
     	</ul>
     </div>
     <div class="col-4">
@@ -1108,7 +741,7 @@ window.location.href = "/picks/daily-deal?dy="+ref;
 
 	</div>
 	<div class="credit-icons">
-		<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/icons_secure.gif" alt="icons_secure">
+		<img src="http://www.electronics-expo.com/skin/frontend/enterprise/expo/images/creditcards.png" alt="icons_secure">
     </div>
     <div class="clear"></div>
     <p>©2012 Electronics Expo</p>
@@ -1158,7 +791,23 @@ doTask();
 <!-- END LivePerson Monitor -->
 
 <!-- BEGIN: Sidecar -->
-<script src="https://getsidecar.s3.amazonaws.com/js/bootstrap.sc.js" type="text/javascript"></script>
+  
+ <script type="text/javascript">
+ 
+//  Following up with your site keys:
+//		Production: 70ff2bfc5c5962cb47d468a30cd07591
+//		Staging: a6dea2835ff0313b8582397c6994684a
+ 
+    var sidecar = sidecar || {};
+    sidecar.preboot = sidecar.preboot || {};
+    //sidecar.preboot.site_key = '<your site key>';
+	sidecar.preboot.site_key = '70ff2bfc5c5962cb47d468a30cd07591';
+</script>
+
+<script src="https://d3v27wwd40f0xu.cloudfront.net/js/bootstrap.js" type="text/javascript"></script>
+ 
+ 
+ 
 <!-- END -->
 
 
