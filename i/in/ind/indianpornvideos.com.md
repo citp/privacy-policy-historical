@@ -1,79 +1,107 @@
-> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523171235id_/http%3A//indianpornvideos.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianpornvideos.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112054045id_/http%3A//www.indianpornvideos.com/privacy) for the most accurate reproduction.*
 
-# Indian Porn Videos - Privacy Policy
+# Privacy policy - Indian Porn Videos
 
- 
+rnIndian Porn Videos Limited recognizes that its customers, visitors, users, and others who use Indian Porn Videos Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Indian Porn Videos Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.rn
 
-## IPV Privacy Notice 
+rn
 
-IndianPornVideos.com. ("IPV") recognizes that its customers, visitors, users, and others who use www.IndianPornVideos.com or other web sites owned or operated by IPV (the "IPV Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the IPV Sites. IPV provides this Privacy Notice to help you make an informed decision about whether to use or continue using the IPV Sites. 
+rnPlease note that any video, image, or other content posted at the direction of users onto the Indian Porn Videos Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.rn
 
-This Privacy Notice is incorporated into and is subject to the IPV Terms of Use. Your use of the IPV Sites and any personal information you provide on the IPV Sites remains subject to the terms of this Privacy Notice and our Terms of Use. 
+rn
 
-Please note that any video, image, or other content posted at the direction of Users onto the IPV Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
+The Information Indian Porn Videos Limited Collects
 
-## The Information IPV Collects 
+rn
 
-  * User Provided Information: You provide certain personally identifiable information (such as your name, email and in some cases mailing address) to IPV when choosing to participate in various activities on the IPV Sites such as uploading videos, posting messages in our forums or in the photo/video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
-  * Cookies Information: When you visit the IPV Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. IPV uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the IPV Sites may not function properly if the ability to accept cookies is disabled. 
-  * Log File Information: When you use the IPV Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+rn **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to Indian Porn Videos Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.rn
 
+rn **Cookies Information:** When you visit the Indian Porn Videos Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Indian Porn Videos Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Indian Porn Videos Video site may not function properly if the ability to accept cookies is disabled.rn
 
+rn
 
-## The Way IPV Uses Information 
+rn **Log File Information:** When you use the Indian Porn Videos Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browserrn
 
-  * If you submit personally identifiable information to us through the IPV Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the IPV Sites. 
-  * Any personal information or photo/video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the IPV Sites and other Users can contact you through messages and comments. Any videos that you submit to the IPV Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major IPV Site changes or for customer service purposes). 
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the IPV Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. 
-  * We use cookies and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the IPV Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. 
+rn
 
+rn
 
+The Way Indian Porn Videos Video Retains Information
 
-## When IPV Discloses Information 
+rn
 
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
-  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the IPV Sites. 
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
-  * IPV also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that IPV believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of IPV, our Users or others. 
+rn
 
+rnTo preserve the integrity of website databases, Indian Porn Videos Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Indian Porn Videos Video, you are consenting to store that information indefinitely.rn
 
+rn
 
-## Your Choices 
+rn
 
-You may, of course, decline to submit personally identifiable information through the IPV Sites, in which case IPV may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the IPV Sites remain subject to our Terms of Use. 
+The Way Indian Porn Videos Limited Uses Information 
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. Please contact IPV with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this contact form. 
+rn
 
-## Third-party Advertisers, Links to Other Sites 
+rn
 
-IPV allows other companies, called Webmasters, third-party ad servers or ad networks, to serve advertisements within the IPV Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the IPV Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. 
+rnIf you submit personally identifiable information to us through the Indian Porn Videos Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.rn
 
-IPV does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks IPV to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. 
+rn
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. IPV's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+rnAny personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Indian Porn Videos Video site, and other users can contact you through messages and comments. Any videos that you submit to the Indian Porn Videos Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.rn
 
-## Our Commitment To Data Security 
+rn
 
-IPV uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to IPV and you do so at your own risk. Once we receive your transmission of information, IPV makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+rnWe do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.rn
 
-If IPV learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. IPV may post a notice on the IPV Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this contact form. 
+rn
 
-## Our Commitment To Children's Privacy 
+rn
 
-Protecting the privacy of young children is extremely important. For that reason, IPV does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the IPV Sites from persons under 18 years of age, and no part of our website is directed to persons under 18. If you are under 18 years of age, then please do not use or access the IPV Sites at any time or in any manner. If IPV learns that personally identifiable information of persons under 18 years of age has been collected on the IPV Sites without verified parental consent, then IPV will take the appropriate steps to delete this information and possibly terminate the account(s) associated with the information. 
+When Indian Porn Videos Video Discloses Information 
 
-## Special Note to International Users 
+rn
 
-The IPV Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the IPV Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the IPV Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. 
+rn
 
-## In the Event of Merger, Sale, or Bankruptcy 
+rnWe provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.rn
 
-In the event that IPV is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
+rn
 
-## Changes and updates to this Privacy Notice 
+rnWe do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.rn
 
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the IPV Sites constitutes your agreement to this Privacy Notice and any future revisions. 
+rn
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+rnWe may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.rn
+
+rn
+
+rnIndian Porn Videos Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Megarotic Limited, our users or others.rn
+
+rn
+
+rn
+
+Our Commitment to Legal-Age Usage 
+
+rn
+
+rnProtecting children from adult content is especially important. For that reason, Indian Porn Videos Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Indian Porn Videos Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Indian Porn Videos Video site at any time or in any manner. If Indian Porn Videos Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.rn
+
+rn
+
+In the Event of Merger, Sale, or Bankruptcy
+
+rn
+
+rnIn the event that Indian Porn Videos Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.rn
+
+rn
+
+Changes and updates to this Privacy Notice
+
+rn
+
+rnThis privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Indian Porn Videos Video site constitutes your agreement to this privacy notice and any future revisions.rn
+
+rn 
