@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508024025id_/http%3A//www.ruggable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112133606id_/http%3A//www.ruggable.com/privacy-policy) for the most accurate reproduction.*
 
 # Kitchen Rugs Washable - Large Area Rugs | Privacy Policy
 
@@ -60,7 +60,7 @@ We do not currently accept international orders, but if you are visiting Ruggabl
 
 **Your California rights**
 
-Product Bliss collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Product Bliss who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: Ruggable, 2 Piece Rug System Customer Relations 7704 E. 38th Street, Tulsa, OK 74145.  Alternatively, you may send us an email at [contactus@ruggable.com](mailto:contactus@ruggable.com) with the words "California Privacy Rights" in the subject line.
+Product Bliss collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Product Bliss who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: Ruggable, 2 Piece Rug System Customer Relations 832 Coastal Beach Road, Henderson, NV 89002.  Alternatively, you may send us an email at [contactus@ruggable.com](mailto:contactus@ruggable.com) with the words "California Privacy Rights" in the subject line.
 
 **Privacy policy updates  **
 
@@ -68,10 +68,8 @@ We may update our privacy policy from time to time. Whenever we make a change, w
 
   * By email:  [contactus@ruggable.com](mailto:contactus@jcrew.com)
   * By phone: 877-RUGGABLE (877-784-4225)
-  * By mail:    Ruggable, 2 Piece Rug System Customer Relations
+  * By mail:    Ruggable, 2 Piece Rug System Customer Relations, 832 Coastal Beach Road, Henderson, NV 89002
 
 
 
-                      7704 E. 38th Street, Tulsa, OK 74145
-
-Effective as of March 1, 2012.
+Effective as of July 31, 2012.
