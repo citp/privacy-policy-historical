@@ -1,29 +1,16 @@
-<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620154601id_/https%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2012-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112163204id_/https%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-language" content="en"><meta content="privacy policy" name="keywords"><meta content="BullGuard Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.bullguard.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe." name="description"><meta name="pingdom" content="site verification"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-language" content="en"><meta content="privacy policy" name="keywords"><meta content="BullGuard Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.bullguard.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe." name="description"><meta name="pingdom" content="site verification"><title>
 	BullGuard - Privacy Policy
 </title><link rel="publisher" href="https://plus.google.com/102909736483892980240">
   <link href="/css/master.ws30.css" rel="stylesheet" type="text/css" media="screen,handheld">
   <link rel="apple-touch-icon" href="/favicon-apple.png">
-  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/xPRXJPN8FxVXrNOD8HfylQ.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery162min.js"></script>
+  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0747.js?439013" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery162min.js"></script>
+  <script type="text/javascript" src="/js/languagechecker.js"></script>
   
   
   
-   <link href="/css/master.ws30.oldcontent.css" rel="stylesheet" type="text/css">
-  
-  <script type="text/javascript">
-      function resizeMe(){ 
-      var the_height= document.getElementById('mainContent').contentWindow.document.body.scrollHeight;
-      document.getElementById('mainContent').height= the_height;
-
-
-      //var oFrame  =  document.all("mainContent");
-      //docHeight = oFrame.document.body.scrollHeight
-      //oFrame.style.height = docHeight + 'px'
-     }     
-  </script>
-
 
   <script type="text/javascript">    
      
@@ -52,10 +39,57 @@
     });
     function searchRedirect(){
       var val= $('#bgSearchTextBox').val();
-      window.location='http://www.bullguard.com/search.aspx?search='+val;
+      window.location='/search.aspx?search='+val;
     }
-    // ]]>
+
+    $(function () {
+      try { /* floating menu */
+        var msie6 = $.browser == 'msie' && $.browser.version < 7;
+        
+        if (!msie6 &&  $('#floatingMenu')!=null && $('#floatingMenu').offset()!=null ) {
+          var top = $('#floatingMenu').offset().top - parseFloat($('#floatingMenu').css('margin-top').replace(/auto/, 0));
+          $(window).scroll(function (event) {
+            // what the y position of the scroll is
+            var y = $(this).scrollTop();
+            
+            // whether that's below the form
+            if (y >= top) {
+              // if so, ad the fixed class
+              $('#floatingMenu').addClass('fixed');
+            } else {
+              // otherwise remove it
+              $('#floatingMenu').removeClass('fixed');
+            }
+          });
+        }  
+    }catch(err) {}
+      try { /* top menu  */
+      
+        var topValue = $('ul#menu2Levs li.hasDropdown .dropDownMenu').css('top');
+        var urlTitle = '';
+        $('ul#menu2Levs').removeClass('nojs');
+        $('ul#menu2Levs li').hover(function () {
+            urlTitle = $('a', this).attr('title');
+            $('a', this).attr('title', '');
+            $('.dropDownMenu', this).animate({
+                'top': parseInt(topValue) - 5,
+                'opacity': 1
+            }, 100).css({ 'display': 'block' });
+        }, function () {
+            $('.dropDownMenu', this).animate({
+                'top': parseInt(topValue) + 5,
+                'opacity': 0
+            }, 100, function () {
+                $(this).css({ 'display': 'none' });
+            });
+
+            $('a', this).attr('title', urlTitle);
+        });
     
+      }catch(err) {}
+      
+      });
+  // ]]>
   </script>
 
 <script type="text/javascript" xmlns:myfunctionlib="urn:myfunctionlib">
@@ -63,7 +97,7 @@ try {
   
 
 
-var aff="";
+var aff="microsoftlpva5";
 if(aff=="")
   aff="NOTSET";
   
@@ -111,54 +145,198 @@ if (removeQS){
     
     });
 
-    </script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1" defer=""></script><script async="" src="//platform.twitter.com/widgets.js?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120620154601id_%2Fhttps%253A%2F%2Fwww.bullguard.com%2Fabout%2Fprivacy-policy.aspx&amp;title=BullGuard - Privacy Policy&amp;counturl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120620154601id_%2Fhttps%253A%2F%2Fwww.bullguard.com%2Fabout%2Fprivacy-policy.aspx" defer=""></script></head>
+    </script></head>
       <body>
          
-        <form name="aspnetForm" method="post" action="/about/privacy-policy.aspx" id="aspnetForm">
+        <form method="post" action="/about/privacy-policy.aspx" id="aspnetForm">
 <div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkJ3ywKYia5g7Fm4ewizscW6knJEU=">
 </div>
 
-
 <script type="text/javascript">
 //<![CDATA[
-var uvOptions = {};
-(function() {
-var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/xPRXJPN8FxVXrNOD8HfylQ.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-})();
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=GcqpYfhlRfSoyKlSSSaVQwWxAwIIa71vD-Qk5Kzvyv5TgBK62fMdQ2Huk1pkFB5VjAvhapPb3DiFCQj4XNr47o06ubvyWj3c2zT3WrG_HDgYm1hHLbu6LcpOMD6_1s7npiCAdGXrva5OOSM6wBH8VSr9l1U1&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
-          
+
+<script src="/WebResource.axd?d=WumPbSvktoGgCtU-PC8_dA2&amp;t=634604464661717258" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=fUmf-OcCGgtRjWxVmSjrb94Ukydzs7FdGuzWYAwv3j-envYO3lJRS-7zfGy48D_SF2mDqCFMCDjw0R9sgn-RCzz9C_jY-Y_LAOOg2UQI8hs1&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fUmf-OcCGgtRjWxVmSjrb94Ukydzs7FdGuzWYAwv3j-envYO3lJRS-7zfGy48D_S8QBwp_QOQuTtSm_uRHbjkbVzBfn_oyCvedd34JzbVtg1&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+          <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ctl00$ctl00$ContentPlaceHolderDefault$scriptmanager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
           
   
-   <div id="socNet"><a class="socFb" title="facebook" rel="nofollow" href="http://www.facebook.com/BullGuard" onclick="window.open('http://www.facebook.com/BullGuard','fbwindow'); return false; "> </a> <a class="socTwit" title="twitter" rel="nofollow" href="http://www.twitter.com/BullGuard" onclick="window.open('http://www.twitter.com/BullGuard','fbwindow'); return false;"> </a> <a class="socYt" title="youtube" rel="nofollow" href="http://www.youtube.com/BullGuard" onclick="window.open('http://www.youtube.com/BullGuard','fbwindow'); return false;"> </a> <a class="socG" onclick="window.open('https://plus.google.com/102909736483892980240?prscr=3','fbwindow'); return false;" href="https://plus.google.com/102909736483892980240?prscr=3" rel="nofollow" title="googlePlus"> </a> <br><br><br></div> 
+<script type="text/javascript">
+	var uvOptions = { sso: '' };
+	$.ajax({
+		type: "POST",
+		url: "/uservoice.ashx",
+		data: "{}",
+		contentType: "application/json; charset=utf-8",
+		dataType: "text",
+		success: function (data) {
+			if (data.length > 0) {
+				uvOptions.sso = data;
+			}
+			var uv = document.createElement('script');
+			uv.type = 'text/javascript';
+			uv.async = true;
+			uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/xPRXJPN8FxVXrNOD8HfylQ.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(uv, s);
+		},
+		error: function (xhr, textStatus, error) {
+			console.log(xhr.statusText);
+			console.log(textStatus);
+			console.log(error);
+		}
+	});
+</script>
   
-  <div id="top"><a title="BullGuard" id="logoTop" href="/" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Logo', document.location.pathname]);"></a> 
-    <ul id="menu" style="margin-left: 0px;">
-      <li><a title="Products/Buy" href="/products.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Products', document.location.pathname]);"><span id="productsMainTab"></span><br> Products/Buy </a></li>
-       <li><a title="Downloads" href="/downloads.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Downloads', document.location.pathname]);"><span id="downloadsMainTab"></span><br> Downloads </a></li>
-       <li><a title="Support" href="/support.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Support', document.location.pathname]);"> <span id="supportMainTab"></span><br> Support </a></li>
-       <li id="lastItem"><a title="My Account" href="/my-account.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'MyAccount', document.location.pathname]);"><span id="myAccountMainTab"></span><br> My Account </a></li>
+    
+  
+  <div id="top">
+    <a title="BullGuard" id="logoTop" href="/" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Logo', document.location.pathname]);"></a>
+    <ul id="menu" style="display:none;">
+      <li>
+          <a title="PRODUCTS" href="/products.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Products', document.location.pathname]);" class="">
+              
+            PRODUCTS
+          </a>
+      </li>
+      <li>
+           <a title="DOWNLOADS" href="/downloads.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Downloads', document.location.pathname]);" class="">
+             
+             DOWNLOADS
+           </a>
+        </li>
+        <li>
+          <a title="SHOP" href="https://www.bullguard.com/shop" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Shop', document.location.pathname]);">
+             SHOP
+           </a>
+        </li>
+        
+        <li>
+          <a title="BLOG" href="http://blog.bullguard.com" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Blog', document.location.pathname]);"> 
+             BLOG
+           </a>
+        </li>
+       <li>
+           <a title="SUPPORT" href="/support.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Support', document.location.pathname]);" class=""> 
+             SUPPORT
+           </a></li>
+       <li id="lastItem">
+
+             <a title="MY ACCOUNT" href="/my-account.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'MyAccount', document.location.pathname]);" class="">
+                 MY ACCOUNT
+              </a>
+
+       </li>
     </ul>
- 
-  <!--<div id="lang">
-    <p>
-      <a id="languageSel" onclick="try { _gaq.push(['_trackEvent', 'ChooseLanguage', 'SiteChooseLanguage']); } catch (err) { }" href='http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx'>
-        Language
-      </a><a id="languageSelImg" href='http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx'>
+    
+    <ul id="menu2Levs" class="">
+    <li class="hasDropdown">
+      <a title="PRODUCTS" href="/products.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Products', document.location.pathname]);" class="">
+      PRODUCTS
       </a>
-    </p>
-  </div> -->
+     <div class="dropDownMenu">
+    <em></em>
+    <p>Security Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="/products/bullguard-internet-security-2013.aspx" title="Internet Security 2013">Internet Security 2013</a>
+    <a href="/products/bullguard-antivirus-2013.aspx" title="Antivirus 2013">Antivirus 2013</a>
+    <a href="/products/bullguard-mobile-security-10.aspx" title="Mobile Security 10">Mobile Security 10</a>
+    <a href="/products/bullguard-spamfilter-10.aspx" title="Spamfilter 10">Spamfilter 10</a>
+    <p>Backup Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="/products/bullguard-mobile-backup-12.aspx" title="Mobile Backup 12">Mobile Backup 12</a>
+    <a href="/products/bullguard-online-backup-10.aspx" title="Online Backup 10">Online Backup 10</a>
+     </div>
+    </li>
+    <li class="hasDropdown">
+    <a title="DOWNLOADS" href="/downloads.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Downloads', document.location.pathname]);" class="">
+     
+     DOWNLOADS
+     </a>
+     <div class="dropDownMenu">
+    <em></em>
+    <p>Popular Downloads<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="/thankyou.aspx?action=download&amp;pid=3" title="Internet Security 2013">Internet Security 2013</a>
+    <a href="/products/bullguard-mobile-backup-12/mobile-backup-download.aspx" title="Mobile Backup 12">Mobile Backup 12</a>
+    <p>Other Downloads<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="/thankyou.aspx?action=download&amp;pid=25" title="Antivirus 2013">Antivirus 2013</a>
+    <a href="/thankyou.aspx?action=download&amp;pid=7" title="Spamfilter">Spamfilter</a>
+    <a href="/thankyou.aspx?action=download&amp;pid=6" title="Online Backup 10">Online Backup 10</a>
+     </div>
+    </li>
+    <li class="hasDropdown">
+    <a title="SHOP" href="https://www.bullguard.com/shop" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Shop', document.location.pathname]);">
+             SHOP
+           </a>
+     <div class="dropDownMenu">
+    <em></em>
+    <p>Best-Selling Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="https://www.bullguard.com/shop/customizeproduct?pid=3" title="Internet Security 2013">Internet Security 2013</a>
+    <a href="https://www.bullguard.com/shop/customizeproduct?pid=25" title="Antivirus 2013">Antivirus 2013</a>
+    <a href="https://www.bullguard.com/shop/customizeproduct?pid=13" title="Mobile Backup 12">Mobile Backup 12</a>
+    <a href="https://www.bullguard.com/shop/customizeproduct?pid=26" title="Mobile Security 10">Mobile Security 10</a>
+    <p>Other Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
+    <a href="https://www.bullguard.com/shop/customizeproduct?pid=6" title="Online Backup 10">Online Backup 10</a>
+     </div>
+    </li>
+    <li>
+      <a title="BLOG" href="http://blog.bullguard.com" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Blog', document.location.pathname]);">
+             BLOG
+           </a>
+    </li>
+    <li class="hasDropdown">
+      <a title="SUPPORT" href="/support.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'Support', document.location.pathname]);" class="">
+             SUPPORT
+           </a>
+     <div class="dropDownMenu">
+    <em></em>
+    <a href="/support/live-support.aspx" title="Live support">
+      Live support
+    </a>
+    <a href="/support.aspx" title="Online support">
+      Online support
+    </a>
+    <a href="/support/faq.aspx" title="FAQs">
+      FAQs
+    </a>
+     </div>
+    </li>
+    <li id="lastItem">
+     <a title="MY ACCOUNT" href="/my-account.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'MyAccount', document.location.pathname]);" class="">
+                 MY ACCOUNT
+              </a>
+    </li>
+</ul>
+    
     <div id="lang"><p><a id="languageSel" href="http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx">English</a><a href="http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx"><img style="border: 1px solid #fff; margin-bottom: -1px;" src="/img/languages1.png" alt=""></a><a href="http://www.bullguard.com/language-chooser.aspx?from=%2fabout%2fprivacy-policy.aspx"><img src="/img/ddl.png" alt=""></a></p></div>
     
   <div id="searchDiv">
     <fieldset class="search">
       <input type="text" id="bgSearchTextBox" name="search" class="box searchmedude" value="Search" onfocus="javascript:this.value=''">
-      <button id="bgSearchButton" onclick="searchRedirect();return false;" class="btn" title="Search"> 
+      <button id="bgSearchButton" onclick="searchRedirect();return false;" class="btn" title="Search">
         Search </button>
     </fieldset>
   </div>
@@ -167,230 +345,91 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv
   </div>
   
   
-  <div id="container">
+  <div id="container" class="rel">
     <div id="breadcrumbs">
       
       <div class="floatL">
-        <p>
-&nbsp;<a href="/">Home</a>&nbsp; <span class="padLR3">&gt;</span>
-&nbsp;<a href="/about.aspx">About Us</a>&nbsp; <span class="padLR3">&gt;</span>
-&nbsp;<a id="curBC">Privacy Policy</a></p>
+            <p><a id="breadHome" href="/"></a><a class="breadcrumbPart" href="/about.aspx">About</a><a id="curBC" class="breadcrumbPart">Privacy Policy</a></p>
       </div>
-      <div class="floatR padLR3">
-        <a id="ctl00_ctl00_ctl00_ctl00_ctl00_ctl00_ctl00_ContentPlaceHolderDefault_CPMain_CPBody_LoginStatus_5_btnLogin" href="javascript:__doPostBack('ctl00$ctl00$ctl00$ctl00$ctl00$ctl00$ctl00$ContentPlaceHolderDefault$CPMain$CPBody$LoginStatus_5$btnLogin','')">Login</a>
-
-        <span class="padLR3">|</span>
-        <a title="PrivacyCoockies" href="/about/privacy-policy.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderTabs', 'PrivacyCookies', document.location.pathname]);">Privacy&amp;Cookies</a>
+      <div class="floatR padLR3" style="margin-top: 2px;">  
         
+<script type="text/javascript">
+	$(document).ready(function () {
+		$.ajax({
+			type: "POST",
+			url: "/userdetails.ashx?key=loginDetails&LoginPageId=jeQLrj%2bZQhc%3d&DashboardPageId=vCedLWKybqw%3d",
+			data: "{}",
+			contentType: "application/json; charset=utf-8",
+			dataType: "json",
+			success: function (data) {
+				if (data.loggedIn == 1) {
+					$('#btnUserEmail').text(data.EmailFromLoggedInUser);
+					$('#btnUserEmail').attr('href', data.DashboardUrl);
+					$('#btnLogout').text(data.LogoutText);
+					$('#btnLogout').attr('href', data.LogoutUrl);
+					$('#pnlLoggedInUser').show();
+					$('#pnlAnonymousUser').hide();
+					$('#pnlLoginDiv').show().css('display', 'inline');
+				}
+				else {
+					$('#btnLogin').text(data.LoginText);
+					$('#btnLogin').attr('href', data.LoginURL.replace('~', ''));
+					$('#pnlLoggedInUser').hide();
+					$('#pnlAnonymousUser').show();
+
+				}
+			},
+			error: function () {
+			}
+		});
+	});
+</script>
+<div id="pnlLoginDiv" style="display: none;">
+	<div id="pnlLoggedInUser" style="display: inline">
+		<a id="btnUserEmail"></a><span class="padLR3">|</span> <a id="btnLogout"></a>
+	</div>
+	<div id="pnlAnonymousUser">
+		<a id="btnLogin"></a>
+	</div>
+	&nbsp; | &nbsp;
+</div>
+        
+        <a href="/about/privacy-policy.aspx">Privacy Policy &amp; Cookies</a>
       </div>
-  </div>
+    </div>
     
-    
-    
-      
-  
-  
-<div class="banner" style="background: url('/media/801399/banner-products-mobile_pc.jpg') no-repeat; ">
-<div class="bannerH" style="width: 499px;">
-  <div id="h1_16125" class="likeBannerH1" style="">All-round Internet Security</div>
-
-<div id="h2_16125" class="likeBannerH2" style="">When it comes to viruses and spyware, being careful is not enough.</div>
-<div id="h3_16125" class="likeBannerH3" style="">Whether you’re using your PC or your smartphone, you need the complete malware protection only BullGuard can provide.</div>
-  <div class="bannerButtons" style="">
-    <span class="bannerButtonSpan clear" style=""><a href="/products/bullguard-internet-security-12.aspx" onclick="" class="bannerButtonA" style="">PC Security</a></span> 
-    <span class="bannerButtonSpan clear" style=""><a href="/products/bullguard-mobile-security-10.aspx" onclick="" class="bannerButtonA" style="">Mobile Security</a></span>
-  </div>
-</div>
-  
-</div>
   
 
+    
+    
+    
   
 
-    <div id="contentmenu"><ul id="secMenu" style="margin-left: 0px;"><li id="secMenuTab1"><a href="/about/the-bullguard-history.aspx"><span>The BullGuard history</span></a></li><li id="secMenuTab2"><a href="/about/working-at-bullguard.aspx"><span>Working at BullGuard</span></a></li><li id="secMenuTab3"><a href="/about/awards-and-reviews.aspx"><span>Awards and Reviews</span></a></li><li id="secMenuTab4"><a href="/about/contact-bullguard.aspx"><span>Contact BullGuard</span></a></li></ul></div>
     
     
+    <div id="contentmenu"></div>
     
-  <div id="content">
-    
-    
-
-      
-    
-  
-    <!--TMP:INFP-->  
-  <h1>BULLGUARD PRIVACY POLICY</h1>
-<p><br><span>BullGuard Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.bullguard.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</span><br><br><br><br><br><a href="http://www.truste.org/ivalidate.php?url=www.bullguard.com&amp;sealid=101" target="_blank"></a></p>
-<div style="text-align: center;"><img rel="68,95" src="/media/171407/truste_seal_ctv.gif" width="68" border="0" height="95"></div>
+  <div id="contentFull" class="clearfix">
+   <h1>BullGuard Privacy Policy</h1>
+<p><br><span>BullGuard Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.bullguard.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</span><br><br><br><br><br></p>
+<div style="text-align: center;"><a href="http://www.truste.org/ivalidate.php?url=www.bullguard.com&amp;sealid=101" target="_blank"><img rel="68,95" src="/media/171407/truste_seal_ctv.gif" border="0" height="95" width="68"></a></div>
 <p><br><br></p>
 <p><br><br><br></p>
-<p>If you have questions or concerns regarding this statement, you may contact BullGuard directly by using the contact information printed at the end of this statement.<br><br>If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe: <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a><br><br>TRUSTe will then serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.<br><br>BullGuard takes privacy issues very seriously. When you visit our Web site we want it to be completely transparent which personal data are collected and kept by BullGuard and our partners, and the choices you have to correct or avoid providing these data. Certain services, such as online payments, can only be performed with a transfer of personal details, whilst other details are collected to map the choices of our customers, in order to improve the BullGuard products and Web site. The important part is that you have to make an informed choice as to which data you wish to provide. The text below sets out what kind of data we collect, how we collect it, how we keep it, with whom we share it, how you can change it and how you can avoid providing it. Your trust is very important to us.<br><br>The information that we collect helps us personalise and continually improve your experience with BullGuard. This Privacy Statement describes BullGuard's approach to privacy and how we collect and use any personal information about you. This will enable you to make choices as to whether you wish to supply such information.<br><br>This Privacy Statement is subject to changes. Any changes in our privacy policy or practices regarding personally identifiable information will be posted on this Web site 30 days before they take effect. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page<i>.</i><br><br><br><b>The information we collect and how we collect it</b><br><br>We store all the information you enter on our Web site to customise services for you, improve our Web site, and communicate with you in regards to special offers, bonuses, sales and related marketing information and activities.<br><br>If you do not wish to receive information from BullGuard you can always indicate this in your account settings at: <a href="/login.aspx">https://www.bullguard.com/login.aspx</a><br><br>You can also choose not to receive information from BullGuard by using the function "Unsubscribe" in the case of the Newsletter or the "Do not show this again" function in the application windows.<br><br>Personal information is requested when you place an order, register an account or in our forums, correspond with us or use the services offered on our Web site. These are the categories of data we request: Name, mailing address, e-mail address, phone number and credit card details. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. BullGuard stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programme.<br><br>Your friend may contact us at support@bullguard.com to request that we remove this information from our database.<br><br><b><br>Cookies</b><br><br>Cookies are small pieces of information that our Web sites provide to your browser when you visit our sites. We use these cookies to track which parts of our Web site you prefer and which particular services you have taken an interest in. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You can set your browser to reject cookies or notify you if a web site tries to place a cookie in your browser. Rejecting cookies may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about your cookie preferences.<br><br><br><b>Web beacons</b><br><br>Web beacons are invisible graphical images also known as single pixel GIFs. We use web beacons to assess which pages users access. We don't, however, link the information provided by web beacons to any personally identifiable information you submit whilst on our site. You can also set your browser not to display images. Using this setting may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about displaying images.<br><br><br><b>Website statistics</b><br><br>While you visit the BullGuard Web site, we use your IP address to track your activity and log your browser type, which pages you view, how you got to our Web site and any links you use to leave our site. At no point is this correlated with any personal information. These patterns provide us with useful information as to what you as a customer expect from our site and how we can improve content and navigational tools. It is important to emphasise that we do not track you once you leave the BullGuard Web site.<br><br>We take advantage of the third-party tracking services provided by Index Tools, who use cookies to track non-personally identifiable information about visitors to our site. As part of this process, the type of operating system used, screen settings and IP addresses are captured to provide volume statistics and track the success of our marketing and public information programmes.<br><br><br><b>What we do with the information</b><br><br>Information about our customers is an important part of our business, and we do not share or sell your information with third parties for their promotional use. We may share it with third parties who would use it solely to ensure we are providing you with the best user experience.<br><br>We share customer information only with companies acting as agents on behalf of BullGuard. We use an agent to process your payments on our site when you make a purchase. Our agents are not authorized to use your financial information for any other purposes beyond fulfilling your payment.<br>When you create a profile on our forums, we display your username, on our site. We provide you the option of either displaying or hiding your email address and allowing users to contact you via email. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums.<br><br>We use your personally identifiable information including your name, email and address to register your account on our site so you can manage your purchases, to register you &amp; create your profile on our forums. We also associate your IP address with your account to determine geographic location. We also use your collected name &amp; email to service your "Live Chat" requests.<br><br>As we continue to develop our business, we may sell or buy other companies or entities. In such transactions, customer information is generally one of the transferred business assets. In the event that BullGuard or substantially all of its assets are acquired, customer information may be one of the transferred assets. Any such change in ownership will be displayed on this website's homepage and communicated directly to users who have submitted their e-mail address to us 30 days prior to such a sale to provide you the choice to opt-out of having your information transferred.<br><br>We will share your personally identifiable information with third parties when we find it necessary to so such as to comply with a government subpoena, court order or judicial proceeding. We may also share your information in the event that it was necessary in protecting the copyrights or safety of BullGuard and or its users.<br><br><br><b>Communication from BullGuard</b><br><br>Opt-in:<br><br>- The BullGuard newsletter. You have to opt-in to receive our newsletter and you can unsubscribe at any time, either by clicking the unsubscribe link in the newsletter or by visiting <a href="/inside/signoff.aspx">/inside/signoff.aspx</a><br><br>Opt-out:<br><br>- BullGuard reminder emails. When you are approaching the end of your subscription, we send you a variable number of emails reminding you of the approaching expiry. You can unsubscribe from reminder emails by clicking the unsubscribe link in the reminder emails or by visiting <a href="/inside/signoff.aspx">/inside/signoff.aspx</a><br><br>- BullGuard promotion/survey emails. We will sporadically promote new BullGuard products, features or services in an email to our users and we sometimes send out surveys to get customer feedback on our products. You can unsubscribe from these by clicking the unsubscribe link in the email or by visiting <a href="/inside/signoff.aspx">/inside/signoff.aspx</a><br><br>- Support. We will communicate with you to respond to support requests. This communication takes the form you select (e.g. chat, email).<br><br><br><b>The security of your information</b><br><br>We pass payment information directly to a payment processor over s secure connection. Only the payment processor stores the entire credit card number. BullGuard stores the last four digits and the expiry date so we can offer you services such as automatic renewal of subscriptions and remind you if your card has expired. During the order processing you may be directed onto pages hosted by the online payment providers, whilst providing your payment information. These pages maintain the look and feel of pages hosted by BullGuard, but identifies the online payment provider in the url.<br><br>We maintain industry standard technology standards to maintain the security of your information. We use Secure Socket Layer (SSL) software to encrypt the information you input. We maintain electronic, procedural and physical safeguards in connection with the collection, storage and disclosure of any personally identifiable information. These procedures entail that we may request proof of identity before we disclose any personal information to you.<br><br><br><b>How you can change your information<br><br></b>You can update or change your personal information by:<br><br>- accessing your user account at <a href="/login.aspx">https://www.bullguard.com/login.aspx</a><br><br>- by email to <a href="mailto:support@bullguard.com">support@bullguard.com</a><br><br>- by regular mail to the following address:<br><br>BullGuard Ltd.<br>Customer Relations Dept.<br>823 Salisbury House<br>29 Finsbury Circus<br>EC2M 5QQ<br>London<br><br>United Kingdom<br><br><br><br><br>-----<br><br>BullGuard does not sell products for purchase by children.<br><br><br><b>Blog Disclosure</b><br><br>If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums.<br><br><br><b>Third-Party Sites</b><br><br>The Site contains links to other web sites. BullGuard is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies.<br><br><br><br><br>Last updated:&nbsp;February 2009</p>
-    <span id="twitter_title" style="display:none"></span>
-<span id="twitter_url" style="display:none"></span>
-
-
-
-
-
-    
+<p>If you have questions or concerns regarding this statement, you may contact BullGuard directly by using the contact information printed at the end of this statement.<br><br>If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe: <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a><br><br>TRUSTe will then serve as a liaison with the Web site to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.<br><br>BullGuard takes privacy issues very seriously. When you visit our Web site we want it to be completely transparent which personal data are collected and kept by BullGuard and our partners, and the choices you have to correct or avoid providing these data. Certain services, such as online payments, can only be performed with a transfer of personal details, whilst other details are collected to map the choices of our customers, in order to improve the BullGuard products and Web site. The important part is that you have to make an informed choice as to which data you wish to provide. The text below sets out what kind of data we collect, how we collect it, how we keep it, with whom we share it, how you can change it and how you can avoid providing it. Your trust is very important to us.<br><br>The information that we collect helps us personalise and continually improve your experience with BullGuard. This Privacy Statement describes BullGuard's approach to privacy and how we collect and use any personal information about you. This will enable you to make choices as to whether you wish to supply such information.<br><br>This Privacy Statement is subject to changes. Any changes in our privacy policy or practices regarding personally identifiable information will be posted on this Web site 30 days before they take effect. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page<i>.</i><br><br><br><b>The information we collect and how we collect it</b><br><br>We store all the information you enter on our Web site to customise services for you, improve our Web site, and communicate with you in regards to special offers, bonuses, sales and related marketing information and activities.<br><br>If you do not wish to receive information from BullGuard you can always indicate this in your account settings at: <a href="/login.aspx">https://www.bullguard.com/login.aspx</a><br><br>You can also choose not to receive information from BullGuard by using the function "Unsubscribe" in the case of the Newsletter or the "Do not show this again" function in the application windows.<br><br>Personal information is requested when you place an order, register an account or in our forums, correspond with us or use the services offered on our Web site. These are the categories of data we request: Name, mailing address, e-mail address, phone number and credit card details. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. BullGuard stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programme.<br><br>Your friend may contact us at support@bullguard.com to request that we remove this information from our database.<br><br><b><br>Cookies</b><br><br>Cookies are small pieces of information that our Web sites provide to your browser when you visit our sites. We use these cookies to track which parts of our Web site you prefer and which particular services you have taken an interest in. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You can set your browser to reject cookies or notify you if a web site tries to place a cookie in your browser. Rejecting cookies may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about your cookie preferences.<br><br><br><b>Web beacons</b><br><br>Web beacons are invisible graphical images also known as single pixel GIFs. We use web beacons to assess which pages users access. We don't, however, link the information provided by web beacons to any personally identifiable information you submit whilst on our site. You can also set your browser not to display images. Using this setting may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about displaying images.<br><br><br><b>Website statistics</b><br><br>While you visit the BullGuard Web site, we use your IP address to track your activity and log your browser type, which pages you view, how you got to our Web site and any links you use to leave our site. At no point is this correlated with any personal information. These patterns provide us with useful information as to what you as a customer expect from our site and how we can improve content and navigational tools. It is important to emphasise that we do not track you once you leave the BullGuard Web site.<br><br>We take advantage of the third-party tracking services provided by Index Tools, who use cookies to track non-personally identifiable information about visitors to our site. As part of this process, the type of operating system used, screen settings and IP addresses are captured to provide volume statistics and track the success of our marketing and public information programmes.<br><br><br><b>What we do with the information</b><br><br>Information about our customers is an important part of our business, and we do not share or sell your information with third parties for their promotional use. We may share it with third parties who would use it solely to ensure we are providing you with the best user experience.<br><br>We share customer information only with companies acting as agents on behalf of BullGuard. We use an agent to process your payments on our site when you make a purchase. Our agents are not authorized to use your financial information for any other purposes beyond fulfilling your payment.<br>When you create a profile on our forums, we display your username, on our site. We provide you the option of either displaying or hiding your email address and allowing users to contact you via email. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums.<br><br>We use your personally identifiable information including your name, email and address to register your account on our site so you can manage your purchases, to register you &amp; create your profile on our forums. We also associate your IP address with your account to determine geographic location. We also use your collected name &amp; email to service your "Live Chat" requests.<br><br>As we continue to develop our business, we may sell or buy other companies or entities. In such transactions, customer information is generally one of the transferred business assets. In the event that BullGuard or substantially all of its assets are acquired, customer information may be one of the transferred assets. Any such change in ownership will be displayed on this website's homepage and communicated directly to users who have submitted their e-mail address to us 30 days prior to such a sale to provide you the choice to opt-out of having your information transferred.<br><br>We will share your personally identifiable information with third parties when we find it necessary to so such as to comply with a government subpoena, court order or judicial proceeding. We may also share your information in the event that it was necessary in protecting the copyrights or safety of BullGuard and or its users.<br><br><br><b>Communication from BullGuard</b><br><br>Opt-in:<br><br>- The BullGuard newsletter. You have to opt-in to receive our newsletter and you can unsubscribe at any time, either by clicking the unsubscribe link in the newsletter or by visiting <a href="/inside/signoff.aspx">/inside/signoff.aspx</a><br><br>Opt-out:<br><br>- BullGuard reminder emails. When you are approaching the end of your subscription, we send you a variable number of emails reminding you of the approaching expiry. You can unsubscribe from reminder emails by clicking the unsubscribe link in the reminder emails or by visiting <a href="/inside/signoff.aspx">/inside/signoff.aspx</a><br><br>- BullGuard promotion/survey emails. We will sporadically promote new BullGuard products, features or services in an email to our users and we sometimes send out surveys to get customer feedback on our products. You can unsubscribe from these by clicking the unsubscribe link in the email or by visiting <a href="/inside/signoff.aspx">/inside/signoff.aspx</a><br><br>- Support. We will communicate with you to respond to support requests. This communication takes the form you select (e.g. chat, email).<br><br><br><b>The security of your information</b><br><br>We pass payment information directly to a payment processor over s secure connection. Only the payment processor stores the entire credit card number. BullGuard stores the last four digits and the expiry date so we can offer you services such as automatic renewal of subscriptions and remind you if your card has expired. During the order processing you may be directed onto pages hosted by the online payment providers, whilst providing your payment information. These pages maintain the look and feel of pages hosted by BullGuard, but identifies the online payment provider in the url.<br><br>We maintain industry standard technology standards to maintain the security of your information. We use Secure Socket Layer (SSL) software to encrypt the information you input. We maintain electronic, procedural and physical safeguards in connection with the collection, storage and disclosure of any personally identifiable information. These procedures entail that we may request proof of identity before we disclose any personal information to you.<br><br><br><b>How you can change your information<br><br></b>You can update or change your personal information by:<br><br>- accessing your user account at <a href="/login.aspx">https://www.bullguard.com/login.aspx</a><br><br>- by email to <a href="mailto:support@bullguard.com">support@bullguard.com</a><br><br>- by regular mail to the following address:<br><br>BullGuard Ltd.<br>Customer Relations Dept.<br>823 Salisbury House<br>29 Finsbury Circus<br>EC2M 5QQ<br>London<br><br>United Kingdom<br><br><br><br><br>-----<br><br>BullGuard does not sell products for purchase by children.<br><br><br><b>Blog Disclosure</b><br><br>If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums.<br><br><br><b>Third-Party Sites</b><br><br>The Site contains links to other web sites. BullGuard is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies.<br><br></p>
   </div>
 
+      
+  
+
+    
+  
+
     
     
-  <div id="rightbar">
+  
 
       
-      
-   
-      <div class="col240">
-<div class="col240TopImage"></div>
-<div class="col240Bot">
-<div class="colBotInner">
-<h6 class="size20 floatL">Support 24/7</h6>
-<div class="supportRBoxImage floatR"></div>
-<p class="clear">&nbsp;</p>
-<br>
-<p>Our dedicated Support team is here for you with expert advice in English 24/7 and other languages during specific intervals.</p>
-<br> <a href="/support/live-support.aspx">Get help now</a></div>
-</div>
-</div>
-<br>
-      <br>
-      <div class="col240">
-<div class="col240TopImage"></div>
-<div class="col240Bot">
-<div class="colBotInner">
-<h6 class="size20 floatL">Upgrade / Renew</h6>
-<div class="renewRBoxImage floatR"></div>
-<p class="clear">&nbsp;</p>
-<p>Already using BullGuard?</p>
-<br>
-<p>Make sure you make the most of it!<br><br>
-</p>
-<br><span class="greyButtonSpan clear"><a class="greyButtonA" title="Upgrade" href="/shop/?upgrade=1&amp;website2011=1">Upgrade</a></span> <span class="greyButtonSpan clear"><a class="greyButtonA" title="Renew" href="/shop/?renew=1&amp;website2011=1">Renew</a></span>
-<p class="clear">&nbsp;</p>
-<div class="fullWidth"></div>
-</div>
-</div>
-</div>
-<br>
-      <br>
-      <div class="col240">
-<div style="padding-left: 12px;" class="colBotInner">
-<table class="commTableFB">
-<tbody>
-<tr>
-<td style="padding: 10px;"><g:plusone width="70"></g:plusone></td>
-<td style="padding: 10px;">
-<div id="fb-root"></div>
-<fb:like show_faces="false" width="70" layout="button_count" send="false"></fb:like></td>
-</tr>
-<tr>
-<td style="padding: 10px;"><a data-width="70" width="70px" href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" id="tweetlink" data-lang="" data-text="BullGuard - Privacy Policy" data-counturl="https%3A%2F%2Fweb.archive.org%2Fweb%2F20120620154601id_%2Fhttps%253A%2F%2Fwww.bullguard.com%2Fabout%2Fprivacy-policy.aspx">Tweet</a></td>
-<td style="padding: 10px;"><a id="sharethis" href="http://wd.sharethis.com/share5x/partner_page.html?url=https://web.archive.org/web/20120620154601id_/https%3A//www.bullguard.com/about/privacy-policy.aspx&amp;title=BullGuard%20-%20Privacy%20Policy&amp;publisher=d2dd6f4d-5f0f-449f-8fcd-3e50321aae84" target="_blank">More</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<p class="clear">&nbsp;</p>
-<div class="fullWidth"></div>
-<!-- ShareThis Button -->
-<script type="text/javascript">// <![CDATA[
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    {
-    c_start=c_start + c_name.length+1;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length;
-    return unescape(document.cookie.substring(c_start,c_end));
-    }
-  }
-return "";
-}
-
-window.fbAsyncInit = function() {
-   FB.init({
-    appId  : '273136442711351',
-    status : true, 
-    cookie : true, 
-    xfbml  : true,
-    oauth  : true 
-  });
   
-  FB.Event.subscribe('edge.create', function(targetUrl) {
-	_gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
-  });
-  FB.Event.subscribe('edge.remove', function(targetUrl) {
-	_gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
-  });
-  FB.Event.subscribe('message.send', function(targetUrl) {
-	_gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
-  });
-  
-  };
-  
-$(document).ready(function() {
-var twitter_title = '';
-var twitter_url = document.location;
-try{
-	twitter_title = $(this).attr('title');
-	if ($('#twitter_title') != null)
-			if ($('#twitter_title').text() != '')
-			    twitter_title = $('#twitter_title').text();
-}catch(err){}
-try {
-	if ($('#twitter_url') != null)
-			if ($('#twitter_url').text() != '')
-			    twitter_url = $('#twitter_url').text();
-}catch(err) {}	
-
-twitter_url = encodeURIComponent(twitter_url);
-var lang = getCookie('culture');
-    if (lang != '')
-    {
-         window.___gcfg = {lang: lang};
-    }
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-
-	var jsLang = 'en_US';
-	if (lang == 'fr') jsLang = 'fr_FR';
-	if (lang == 'de') jsLang = 'de_DE';
-	if (lang == 'da') jsLang = 'da_DK';
-	if (lang == 'es') jsLang = 'es_ES';
-	if (lang == 'nb-NO') jsLang = 'nb_NO';
-	if (lang == 'pt-BR') jsLang = 'pt_BR';
-	if (lang == 'zh-CN') jsLang = 'zh_CN';
-	if (lang == 'nl') jsLang = 'nl_NL';
-	if (lang == 'sv') jsLang = 'sv_SE';
-  var js, id = 'facebook-jssdk'; if (document.getElementById(id)) {return;}
-  js = document.createElement('script'); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/"+ jsLang +"/all.js#xfbml=1";
-  js.defer = "defer";
-  document.getElementsByTagName('head')[0].appendChild(js);
-	
-	$('#tweetlink').attr("data-lang", lang);
-	$('#tweetlink').attr("data-text", twitter_title);
-	$('#tweetlink').attr("data-counturl", twitter_url);
-	var jstweet = document.createElement('script'); jstweet.async = true;
-	jstweet.src = "//platform.twitter.com/widgets.js?url=" + twitter_url + "&title=" + twitter_title + "&counturl=" + twitter_url;
-	jstweet.defer = "defer";
-	document.getElementsByTagName('head')[0].appendChild(jstweet);
-	
-	var sharethistitle = '';
-	try { sharethistitle = encodeURIComponent($(this).attr('title')); } catch(err) {  }
-	$('#sharethis').attr("href", "http://wd.sharethis.com/share5x/partner_page.html?url=" + window.location + "&title=" + sharethistitle + "&publisher=d2dd6f4d-5f0f-449f-8fcd-3e50321aae84");
-
-  });
-// ]]></script>
-      
-
 
       
           
@@ -404,7 +443,7 @@ var lang = getCookie('culture');
       
        
     
-  </div>
+  
 
     
     <p class="clear"> </p>
@@ -426,23 +465,25 @@ var lang = getCookie('culture');
 <p class="clear">&nbsp;</p>
 <div class="footerBar"></div>
 <br>
-<div class="footPart"><a href="/about.aspx">About us</a> <a href="/about/contact-bullguard.aspx">Contact Us</a> <a href="/partners.aspx">Partners</a> <a href="/news.aspx">Press</a> <a href="/about/privacy-policy.aspx">Privacy Policy</a> <a href="/sitemap.aspx">Sitemap</a> <a href="/about/legal-terms.aspx">Legal terms</a></div>
-<div class="footPart"><a href="/products/bullguard-internet-security-12.aspx">BullGuard Internet Security 12</a> <a href="/products/bullguard-antivirus-12.aspx">BullGuard Antivirus 12</a> <a href="/products/bullguard-online-backup-10.aspx">BullGuard Backup 10</a> <a href="/products/bullguard-mobile-security-10.aspx">BullGuard Mobile Security 10</a> <a href="/products/bullguard-spamfilter-10.aspx">BullGuard Spamfilter 10</a> <a href="/products/compare-products.aspx">Compare Products</a> <a href="/products.aspx">More products</a></div>
-<div class="footPart"><a href="/products/bullguard-internet-security-12.aspx">Internet Security Tool</a> <a href="/products/bullguard-antivirus-12.aspx">Free Antivirus Tool</a> <a href="/downloads.aspx">More downloads</a></div>
-<div class="footPart"><a href="/support.aspx">BullGuard Help Centre</a> <a href="/support/product-guides.aspx">BullGuard Product Guides</a> <a href="/bullguard-security-center.aspx">BullGuard Internet Security Centre</a> <a href="http://forum.bullguard.com">BullGuard Community / Forums</a> <a href="/support/live-support.aspx">Live Technical Support</a></div>
-<p class="clear">&nbsp;</p>
+<div class="footPart"><a href="/about.aspx">About Us</a> <a href="/press/product-images.aspx">Press</a> <a href="/resellers-2012.aspx">Our Partners</a> <a href="/contact-bullguard.aspx">Contact Us</a></div>
+<div class="footPart"><a href="/products/bullguard-internet-security-2013.aspx">BullGuard Internet Security 2013</a> <a href="/products/bullguard-antivirus-2013.aspx">BullGuard Antivirus 2013</a> <a href="/products/bullguard-mobile-backup-12.aspx">BullGuard Mobile Backup 12</a> <a href="/products/bullguard-mobile-security-10.aspx">BullGuard Mobile Security 10</a></div>
+<div class="footPart"><a href="/products/bullguard-internet-security-2013.aspx">Internet Security</a> <a href="/products/bullguard-mobile-security-10.aspx">Mobile Security</a> <a href="/downloads.aspx">More downloads</a></div>
+<div class="footPart"><a href="/support.aspx">Help Centre</a> <a href="/support/product-guides.aspx">Product Guides</a> <a href="http://forum.bullguard.com">Forums</a> <a href="/support/live-support.aspx">Live Technical Support</a></div>
+<p class="clearfix">&nbsp;</p>
 <div class="footerBar" style="margin: 20px 0 20px 0;"></div>
-<a rel="nofollow" class="trustE" href="http://www.truste.org/ivalidate.php?url=www.bullguard.com&amp;sealid=101"></a></div>
+<a rel="nofollow" class="trustE" href="http://www.truste.org/ivalidate.php?url=www.bullguard.com&amp;sealid=101"></a>
+<div class="socialMediaBox"><strong>Follow Us</strong> <a onclick="window.open('http://www.facebook.com/BullGuard','fbwindow'); return false; " href="http://www.facebook.com/BullGuard" rel="nofollow" title="facebook"><span>Facebook</span></a> <a class="twBtn" onclick="window.open('http://www.twitter.com/BullGuard','fbwindow'); return false;" href="http://www.twitter.com/BullGuard" rel="nofollow" title="twitter"><span>Twitter</span></a> <a class="gPlustBtn" href="https://plus.google.com/102909736483892980240?prscr=3" onclick="window.open('https://plus.google.com/102909736483892980240?prscr=3','fbwindow'); return false;" rel="nofollow" title="googlePlus"><span>Google+</span></a> <a class="liBtn" href="http://www.linkedin.com/company/bullguard?trk=tabs_biz_home" rel="nofollow" onclick="window.open('http://www.linkedin.com/company/bullguard?trk=tabs_biz_home','lnkwindow'); return false; " title="LinkedIn"><span>Linkedin</span></a> <br class="clear"></div>
+</div>
   </div>
   <div>
-  <div class="lastImg">
-   </div>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  </div>
+      <div class="lastImg"></div>
+      <p id="copyright">
+        © 2002 – 2012 BullGuard. All Rights Reserved. <a href="/about/privacy-policy-2009.aspx">Privacy Policy &amp; Cookies</a>
+        </p>
+    
+    </div>
+  
+  
 
 
         
@@ -458,43 +499,7 @@ Sys.Application.initialize();
   
   
   
-  <script type="text/javascript">
-    var $ = jQuery.noConflict();
-    $(document).ready(function(){
-      $('div[style*="500px"]').attr('style','');
-      $('ul').css('margin-left','0px');
-      $('td').css('padding','10px');
-      //alert('ok');
-      $('img[src*="dotted"]').attr('width','630');
-      $('p[style*="200px"]').css('width','230px');
-      $('img[style*="padding-left: 20px;"]').attr('style','');
-      $('object[width*="48"]').attr('width','400').attr('height','300');
-      $('embed[width*="48"]').attr('width','400').attr('height','300');
-      //$('img[alt="BullGuard Mobile Security 10"]').attr('width','600');
-      $('div[style*="345"]').attr('style','width: 310px');
-      $('div[style*="242"]').css('width','200px');
-      $('#content img').load(function(){$('#content img').filter(function (index) {
-                  return parseInt($(this).css("width").replace('px','')) > 600;
-          }).attr('width','630').attr('height','');});
-      
-      
-      $('#mainContent').load(function(){
-        $('#mainContent').contents().find('[style]').attr('style','');
-        $('#mainContent').contents().find('.dmLargeDivPadding').css('padding','0');
-      });
-       
-      $('img[src*="askaqred.gif"]').parent().attr('href','mailto:support@bullguard.com');;
-      
-      }); 
-    //$(window).resize(function() {
-      //$('#socNet').css('left', $('#searchDiv').offset().left-830);
-    //}); 
-      
 
-</script>
-  
-
-    
 
 
         
@@ -502,15 +507,15 @@ Sys.Application.initialize();
 
           
 <script type="text/javascript">
-// <![CDATA[
+  //<![CDATA[
   
-  //setTimeout(function(){var a=document.createElement("script");
-  //var b=document.getElementsByTagName('script')[0];
-  //a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0747.js?"+Math.floor(new Date().getTime()/3600000);
-  //a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+  setTimeout(function(){var a=document.createElement("script");
+  var b=document.getElementsByTagName('script')[0];
+  a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0747.js?"+Math.floor(new Date().getTime()/3600000);
+  a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                       
                       
-//]]>
+  //]]>
 </script>
           
       
