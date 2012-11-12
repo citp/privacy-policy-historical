@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fuckingteenvids.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513054902id_/http%3A//www.fuckingteenvids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckingteenvids.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112131225id_/http%3A//www.fuckingteenvids.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Fucking Teen Videos
+# Privacy policy | FuckingTeenVids.com
 
 Fucking Teen Videos Limited recognizes that its customers, visitors, users, and others who use Fucking Teen Videos Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Fucking Teen Videos Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
