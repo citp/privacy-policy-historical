@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bca-europe.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212131559id_/http%3A//www.bca-europe.com/Default.aspx%3Fpage%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bca-europe.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112025735id_/http%3A//www.bca-europe.com/group/BCA-Information/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - BCA Group
 
 BCA's privacy policy is to respect and protect the privacy of visitors to the BCA web site and subscribers to any email updates from the web site. This policy statement tells you how we collect information from you and how we use it. It will assist you in making informed decisions when using our site and our services.
 
@@ -9,8 +9,7 @@ We do request personal information such as your name, email address, company det
 
 We also use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our web site, new services and other information we think you will find valuable. If you choose to opt out of receiving any such communications from us, please email us at [news@bca-group.com](mailto:news@bca-group.com)with "Unsubscribe" in the subject line.
 
-In the future BCA may decide to also collect aggregate information from all web site visitors. This aggregate data would only be used to customize BCA web content to deliver a better experience for our users and will in no way personally identify you.  
-
+In the future BCA may decide to also collect aggregate information from all web site visitors. This aggregate data would only be used to customize BCA web content to deliver a better experience for our users and will in no way personally identify you.
 
 Use of IP Address  
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. web servers automatically identify your computer by its IP address. On occasions, we collect IP addresses for the purposes of system administration, to analyse aggregate information, and to audit the use of our site.
