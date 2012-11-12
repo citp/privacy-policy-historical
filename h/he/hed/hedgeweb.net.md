@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hedgeweb.net privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614135525id_/http%3A//www.hedgeweb.net/Content-pa-showpage-pid-69.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hedgeweb.net privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112192329id_/http%3A//www.hedgeweb.net/Content-pa-showpage-pid-69.html) for the most accurate reproduction.*
 
-# Privacy Policy | Hedge Fund Database | Hedge Fund Research & Analysis
+# Privacy Policy | Hedge Funds | Commodity Trading Advisor
 
 **Privacy Policy**
 
