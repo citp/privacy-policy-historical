@@ -1,63 +1,47 @@
-> *The following text is extracted and transformed from the beezmap.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127144825id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezmap.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112063001id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.*
 
-# Beezmap - Privacy Policy
+# Creating a Collage - Privacy Policy
 
-**Any inquiries related to the functions of the BeezMap.com website should be directed to BeezMap using the contact information provided at the end of this Privacy Policy.**
+  **Privacy Policy**
+
+Beezmap.com is owned and maintained by BeezMap LLC ("BeezMap"). Any inquiries related to the functions of the BeezMap.com website should be directed to BeezMap using the contact information provided at the end of this Privacy Policy.
 
 BeezMap is committed to protecting the privacy of the users of the BeezMap.com site. Please read the Statements below which describe in detail the kinds of data that are collected by the site, the manner in which it is stored, and the purposes it is used for. We reserve the right to modify this privacy policy at any time, so please review it frequently. Notification of changes to this policy will be posted on this page.
 
-Collection of Your Personal Information
+**Website Visitors**
 
-On this site, we collect and store your email address, gender, and demographic data via registration and use of the site, as well as your chosen username and password. BeezMap automatically receives and records in our server logs information from your browser, including your IP address, browser type, Internet service provider, referring/exit pages, operating system, date/time stamp.
+Like most website operators, Beezmap collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Beezmap's purpose in collecting non-personally identifying information is to better understand how Beezmap's visitors use its website. From time to time, Beezmap may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-If you order items from the BeezMap, we will collect your address and phone number; this information will be provided to third-party suppliers to complete your order. The third-party suppliers will also collect your credit card details, which will be encrypted to protect confidentiality and will not be stored by BeezMap.
+Beezmap also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Beezmap posts. Beezmap only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-Personal information that you provide to BeezMap is stored and processed in the United States. If you are providing this information from outside the United States, please note that U.S. law may not provide the same protections for your personal information that your home country may provide.
+**Gathering of Personally-Identifying Information**
 
-Use of Cookies
+Certain visitors to Beezmap's websites choose to interact with Beezmap in ways that require Beezmap to gather personally-identifying information. The amount and type of information that Beezmap gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account on http://Beezmap.com to provide a username and email address. In each case, Beezmap collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Beezmap. Beezmap does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Different websites can each send their own cookies to your browser if your preferences allow it. Your browser only allows a site to access the cookies it sent to you, not the cookies sent by other sites. You can configure your browser to accept or reject cookies. All browsers are different, so go to the help section of your browser to find out how to do this.
+**Aggregated Statistics**
 
-None of your secure information, such as credit card and payment details, username, or password, is collected by these cookies. However, we use the cookies to collect the following information: search engine referrals, product browsing, site navigation, and purchasing. All information collected by these cookies is sent to BeezMap by secure connection. All information will be retained as long as necessary.
+Beezmap may collect statistics about the behavior of visitors to its websites. Beezmap may display this information publicly or provide it to others. However, Beezmap does not disclose personally-identifying information other than as described below.
 
-Use and Disclosure of Personal Information
+**Protection of Certain Personally-Identifying Information**
 
-As stated above, we collect information from you via registration, server logs, and cookies. You may also choose to post information to other areas of the site. BeezMap retains user-posted content (such as messages or other information you post to the site) as long as it deems necessary.
+Beezmap discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Beezmap's behalf or to provide services available at Beezmap's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Beezmap's websites, you consent to the transfer of such information to them. Beezmap will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Beezmap discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Beezmap believes in good faith that disclosure is reasonably necessary to protect the property or rights of Beezmap, third parties or the public at large. If you are a registered user of a Beezmap website and have supplied your email address, Beezmap may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Beezmap and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Beezmap takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-We link user-posted information to the other information we collect and use this data to analyze trends, administer the site, track users' movements around the site, and to gather demographic information about our user base. We do this in order to improve our service and build a better site for you to use.
+**Cookies**
 
-Communications from BeezMap and Third Parties
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Beezmap uses cookies to help Beezmap identify and track visitors, their usage of Beezmap website, and their website access preferences. Beezmap visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Beezmap's websites, with the drawback that certain features of Beezmap's websites may not function properly without the aid of cookies.
 
-BeezMap reserves the right to communicate with you at the email address you provide with regard to updates to the BeezMap.com site, changes of policies, and your use of the site. This does not limit your right to 'opt out' of receiving communications from BeezMap, associated companies, or other companies of a marketing nature.
+**Ads**
 
-Should you decide to 'opt out' (at registration) of receiving information and marketing updates from BeezMap, you will not be contacted for this purpose.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Beezmap and does not cover the use of cookies by any advertisers.
 
-During registration, we may offer you the opportunity to opt-in to receive mailings from companies not associated with BeezMap. Should you choose to opt-in, some or all of your personal data may be shared with other companies, and BeezMap may not control the use of your email address and the content of email you may receive.
-
-Should you wish to change your registration status at anytime to either opt out or in of the above, please send an email to [account@beezmap.com](mailto:account@beezmap.com). Note however that if you opt in to receiving communications from other companies and subsequently wish to opt out of receiving such communications, you will need to contact them to remove yourself from their mailing lists, in addition to contacting BeezMap.
-
-Security of Your Personal Information
-
-We are committed to protecting the security of your personal information, although we cannot guarantee it. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems located in controlled facilities, and we limit access to those computers.
-
-Other Disclosures
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights; to protect the rights, property, or safety of other persons; to comply with a judicial proceeding, court order, or legal process served on us; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or assets to which the information pertains.
-
-Links to Other Sites
+**Links to Other Sites**
 
 This privacy policy applies only to information collected on this site. The site may contain links to other sites that are not owned or controlled by BeezMap. Please be aware that we are not responsible for the privacy policies of such other sites. We encourage you to be aware when you leave the site and to read the privacy policies of each and every site that collects personally identifiable information.
 
-Third Party Information
+**Privacy Policy Changes**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+Although most changes are likely to be minor, Beezmap may change its Privacy Policy from time to time, and in Beezmap's sole discretion. Beezmap encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, [click ](http://www.google.com/privacy_ads.html)[here](http://www.google.com/privacy_ads.html).
+**Contact Information**
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to your sites and/or other sites on the Internet. 
-
-Users may opt out of the use of the DART cookie by visiting the [Google ad ](http://www.google.com/privacy_ads.html)[and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-Contact Information
-
-We welcome your comments regarding this Privacy Statement. If you believe that we have not adhered to this Statement, or if you have any other questions, please contact us by email. [inquiries@beezmap.com](mailto:inquiries@beezmap.com)
+We welcome your comments regarding this Privacy Statement. If you believe that we have not adhered to this Statement, or if you have any other questions, please contact us by email. [info@beezmap.com .](mailto:info@beezmap.com)
