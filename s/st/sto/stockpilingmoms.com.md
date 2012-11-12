@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508075917id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113005612id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.stockpilingmoms.com%2F2009%2F08%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 The privacy of our visitors to StockpilingMoms.com is important to us.
 
