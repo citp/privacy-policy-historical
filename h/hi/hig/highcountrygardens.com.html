@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the highcountrygardens.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512080829id_/http%3A//www.highcountrygardens.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the highcountrygardens.com privacy policy that was archived on 2012-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112034227id_/http%3A//www.highcountrygardens.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<base href="http://www.highcountrygardens.com/">
@@ -35,6 +35,13 @@
 
 
 <!-- CUSTOM META TAGS - END -->
+<script type="text/javascript">
+(function(d) {
+       var h = ('https:' == d.location.protocol ? 'https://d12e35317a55640112b3-1fcf6c61825cfc481ca3a7de5f5219c2.ssl.cf2.rackcdn.com/gascript.js' : 'http://cb19d95572099160b379-1fcf6c61825cfc481ca3a7de5f5219c2.r70.cf2.rackcdn.com/gascript.js');
+       d.write(unescape("%3Cscript src='" + h + "' type='text/javascript'%3E%3C/script%3E"));
+})(document);
+</script><script src="https://d12e35317a55640112b3-1fcf6c61825cfc481ca3a7de5f5219c2.ssl.cf2.rackcdn.com/gascript.js" type="text/javascript"></script>
+
 
 <!-- NOTE: Make sure to place {$base_href} before each stylesheet reference and javascript reference -->
 
@@ -79,35 +86,29 @@
 		});
 		
 	</script>
+	<script type="text/javascript">
 
-
+		$(function(){
+			$("ul.tabs").tabs("div.panes > div");
+			$('.small_to_big_product_image').click(function(){
+				var h = $(this).attr('href');
+				MP_switch(h);
+				return false;
+			});
+			$(".main_photo_link").livequery('click', function(){
+				var link = $(this).attr('href');
+				MP_overlay(link);
+				//popupwindow = window.open(link, 'large_image', 'toolbar=no, directories=no, location=no, status=yes, menubar=no, width=505, height=515'); 
+				//popupwindow.focus(); 
+				return false;
+			});
+			//take care of the single image product
+			if($(".other_photo_image").length > 1)
+				$(".other_photos_list").show();
+		});
+	</script>
 
 <script type="text/javascript">
-
-
-
-	$(function(){
-		$("ul.tabs").tabs("div.panes > div");
-		$('.small_to_big_product_image').click(function(){
-			var h = $(this).attr('href');
-			MP_switch(h);
-			return false;
-		});
-		$(".main_photo_link").livequery('click', function(){
-			var link = $(this).attr('href');
-			MP_overlay(link);
-			//popupwindow = window.open(link, 'large_image', 'toolbar=no, directories=no, location=no, status=yes, menubar=no, width=505, height=515'); 
-			//popupwindow.focus(); 
-			return false;
-		});
-		//take care of the single image product
-		if($(".other_photo_image").length > 1)
-		    $(".other_photos_list").show();
-	});
-
-
-
-
 $(document).ready(function() {
 	// Search Box
 	$("#freetext_search_box").attr("value","Search by Product # or Keyword");
@@ -127,7 +128,6 @@ $(document).ready(function() {
 		$(this).attr("value","");
 	});
 });
-
 </script>
 <script type="text/javascript">
 $("link[href*='stylesheet.css']").remove(); 
@@ -153,7 +153,10 @@ $("link[href*='stylesheet.css']").remove();
 <div id="header">
 	<div id="header-left">
 		<div id="logo">
-			<a href="/"><img width="354px" height="99px" src="http://www.highcountrygardens.com/static/images/layout2012/header010112/header-logo.png" alt="High Country Gardens, Beautiful Plants for the Waterwise Gaden"></a>
+			<a href="/">
+			 <img width="354px" height="99px" src="http://www.highcountrygardens.com/static/images/layout2012/073112/HCG_Catalog.jpg" alt="High Country Gardens, Beautiful Plants for the Waterwise Gaden">
+			<!-- <img width="354px" height="99px" src="http://www.highcountrygardens.com/static/images/layout2012/header_061112/website_logo.jpg" alt="High Country Gardens, Beautiful Plants for the Waterwise Gaden"/> -->
+			</a>
 			<!--<h1>High Country Gardens</h1>
 			<h2>Beautiful Plants for the Waterwise Garden</h2>
 			<p>Specializing in exclusive, eco-friendly, drought resistant, low-care perennials direct from the grower. <a href="/guarantee">View our 100% Perennial Plant Guarantee</a></p>-->
@@ -162,17 +165,18 @@ $("link[href*='stylesheet.css']").remove();
 	<div id="header-middle">
 		<!--<a href="/catalog/find" id="plant_search_button"><img border="0" width="249" height="41" src="static/images/layout2011/header0611/plant_search_text.gif" alt="Plant Search"/></a>-->
 <div>
-<a href="index/page/static/subpage/advanced_search"><img src="http://www.highcountrygardens.com/static/advanced_search/advanced_search.png" border="0"></a>
+<a href="http://search.highcountrygardens.com/advanced-search"><img src="http://www.highcountrygardens.com/static/advanced_search/advanced_search.png" border="0"></a>
 
 <!-- Begin LiveChat button tag. See also www.livechatinc.com --> 
-<a id="LiveChatButton0en" href="https://chat.livechatinc.net/licence/1034274/open_chat.cgi?lang=en&amp;groups=0" onclick="window.open('https://chat.livechatinc.net/licence/1034274/open_chat.cgi?lang=en&amp;groups=0&amp;'+'dc='+escape(document.cookie+';l='+document.location+';r='+document.referer+';s='+typeof lc_session),'Czat_1034274','width=530,height=520,resizable=yes,scrollbars=no,status=1');return false;"><img src="https://chat.livechatinc.net/licence/1034274/button.cgi?lang=en&amp;groups=0&amp;d=1580424877838" style="margin: 0px; padding: 0px;"></a> 
+<a id="LiveChatButton0en" href="https://chat.livechatinc.net/licence/1034274/open_chat.cgi?lang=en&amp;groups=0" onclick="window.open('https://chat.livechatinc.net/licence/1034274/open_chat.cgi?lang=en&amp;groups=0&amp;'+'dc='+escape(document.cookie+';l='+document.location+';r='+document.referer+';s='+typeof lc_session),'Czat_1034274','width=530,height=520,resizable=yes,scrollbars=no,status=1');return false;"><img src="https://chat.livechatinc.net/licence/1034274/button.cgi?lang=en&amp;groups=0&amp;d=1580424878690" style="margin: 0px; padding: 0px;"></a> 
 <script type="text/javascript">var img=new Image();img.style.margin='0px';img.style.padding='0px';img.src=(("https:" == document.location.protocol) ? "https://" : "http://")+'chat.livechatinc.net/licence/1034274/button.cgi?lang=en'+decodeURIComponent('%26')+'groups=0'+''+decodeURIComponent('%26')+'d='+((new Date()).getTime());var _livechat_button=document.getElementById('LiveChatButton0en');if(_livechat_button!=null){_livechat_button.appendChild(img);}</script> 
 <!-- End LiveChatbutton tag. See also www.livechatinc.com -->
 
 </div>
 	</div> <!-- header-middle -->
 	<div id="header-right">
-		<a href="index/page/category/category_id/934"><img style="float: right;" src="http://www.highcountrygardens.com/static/images/layout2012/header010112/Spring-2012-boxd.png" border="0px"></a>
+		<!-- <a href="index/page/category/category_id/934"><img style="float: right;" src="http://www.highcountrygardens.com/static/images/layout2012/header010112/Spring-2012-boxd.png" border="0px" /></a> -->
+		 <a href="Fall_2012_Plants"><img style="float: right; padding-top: 23px;" src="http://www.highcountrygardens.com/static/images/layout2012/073112/fall_guide.jpg" border="0px"></a> 
 	</div>
 </div><!-- header -->
 <p class="clearer">&nbsp;</p>
@@ -200,7 +204,7 @@ $("link[href*='stylesheet.css']").remove();
 	<div id="main-nav-wrapper">
 		<div id="main-nav">
 			<div id="my-cart-button">
-				<img src="http://www.highcountrygardens.com/static/images/layout2012/shopping_cart.png" alt="shopping cart"><a href="index/page/shopping_cart">My Cart  <span id="itmCnt"><small>(0 items)</small></span></a>
+				<img src="http://www.highcountrygardens.com/static/images/layout2012/shopping_cart.png" alt="shopping cart"><a href="index/page/shopping_cart"><strong>My Cart</strong>  <span id="itmCnt"><small>(0 items)</small></span></a>
 			</div><!-- my-cart-button -->
 			<ul>
 				<li>
@@ -210,45 +214,131 @@ $("link[href*='stylesheet.css']").remove();
 <label>Search </label>
 <span style="display:inline-block"></span>
 </form> --> 
-<!-- BEGIN ENDECA SEARCH -->
+<!-- Begin Nextopia -->
 
-<form method="get" action="http://search.highcountrygardens.com" name="searchform"> 
-<input type="text" autocomplete="off" name="Ntt" value="search keyword or item#" size="20" onfocus="if(this.value == 'search keyword or item#') {this.value = ''}" onblur="if(this.value == '') {this.value = 'search keyword or item#'}" class="textfield" id="search_1"> 
+<form method="get" id="nxt-ac-form" action="http://search.highcountrygardens.com">
+<input type="text" id="nxt-ac-searchbox" name="keywords" autocomplete="off" value="search keyword or item#" size="20" class="textfield" onfocus="if(this.value == 'search keyword or item#') {this.value = ''}" onblur="if(this.value == '') {this.value = 'search keyword or item#'}"> 
 <input type="image" alt="search" value="submit" style="margin:1px 0px 0px 5px;padding:0px;width:48px;height:19px;" src="http://www.highcountrygardens.com/static/images/layout2012/search_button.png">
-<input type="hidden" disabled="" name="asug"> 
-<input type="hidden" value="" name="view">
 </form>
 
-<!-- END ENDECA SEARCH -->
+<!-- End Nextopia -->
+
 						</div>
 						<div>
 						</div>
 					
 				</li>
-				<li><a href="index/page/static/subpage/gardening_resources">Gardening Resources</a></li>
-				<li><a href="index/page/static/subpage/catalog_request">Free Catalog</a></li>
-				<li><a id="sign_up_button" href="">Sign Up for Email</a>
-							<div id="sign_up_box_wrapper">
-								<div id="sign_up_box">
-									<div id="sign_up_box_inner">
-										<form action="http://dmiemail.highcountrygardens.com/subscribe/subscribe.tml" method="POST"> 
-											<p class="clearer"><label for="">Name</label><input type="text" name="custname" value="" id=""></p>
-											<p class="clearer"><label for="">Email</label><input type="text" name="email" value="" id=""></p>
-											<p class="clearer"><label for="">Zip Code</label><input type="text" name="zip" value="" id=""></p>
+				<li><a href="index/page/static/subpage/gardening_resources"><strong>Gardening Resources</strong></a></li>
+				<li><a href="index/page/static/subpage/catalog_request"><strong>Free Catalog</strong></a></li>
+				<li><a id="sign_up_button" href=""><strong>Sign Up for Email</strong></a>
+				
+				<!-- BEGIN PINPOINT FORM -->
+				<!--
+				Do not modify the NAME value of any of the INPUT fields
+				the FORM action, or any of the hidden fields (eg. input type=hidden).
+				These are all required for this form to function correctly.
+				-->
+				<style type="text/css">
 
-											<p class="clearer center"><input class="button" type="button" name="close" value="Close" id="close_sign_up_box"><input class="button" type="submit" name="submit" value="Sign Up" id=""></p>
-											<input type="hidden" name="list" value="high">
-										    <input type="hidden" name="demographics" value="custname zip">
-										    <input type="hidden" name="confirm" value="one">
-										    <input type="hidden" name="showconfirm" value="T">
-										</form>
-									</div>
+					.myForm td, input, select, textarea, checkbox  {
+						font-family: tahoma;
+						font-size: 12px;
+						padding: 1px;
+					}
+
+					.required {
+						color: red;
+					}
+
+				</style>
+				<div id="sign_up_box_wrapper">
+					<div id="sign_up_box">
+						<div id="sign_up_box_inner">
+							<form method="post" action="http://na05.mypinpointe.com/form.php?form=88" id="frmSS88" onsubmit="return CheckForm88(this);">
+								<table border="0" cellpadding="2" cellspacing="1" class="myForm">
+									<tbody><tr>
+										<td><span class="required">*</span>&nbsp;Email Address:</td>
+										<td><input type="text" name="email" value=""></td>
+									</tr>
+									<tr>
+										<td>&nbsp;&nbsp;&nbsp;First Name:</td>
+										<td><input type="text" name="CustomFields[2]" id="CustomFields_2_88" value="" size="64" maxlength="64"></td>
+									</tr>
+									<tr>
+										<td>&nbsp;&nbsp;&nbsp;Last Name:</td>
+										<td><input type="text" name="CustomFields[3]" id="CustomFields_3_88" value="" size="64" maxlength="64"></td>
+									</tr>
+									<tr>
+										<td><span class="required">*</span>&nbsp;Zip Code:</td>
+										<td><input type="text" name="CustomFields[317]" id="CustomFields_317_88" value="" size="5" maxlength="5"></td>
+									</tr><input type="hidden" name="format" value="h">
+									<tr>
+										<td></td>
+										<td>
+											<input type="submit" value="Subscribe">
+											<br><span style="display: block; font-size: 10px; color: gray; padding-top: 5px;"><a href="http://www.pinpointe.com" target="__blank" style="font-size:10px;color:gray;">Email marketing Automation</a> by Pinpointe</span>
+										</td>
+									</tr>
+								</tbody></table>
+							</form>
+
+						<script type="text/javascript">
+						// <![CDATA[
+
+									function CheckMultiple88(frm, name) {
+										for (var i=0; i < frm.length; i++)
+										{
+											fldObj = frm.elements[i];
+											fldId = fldObj.id;
+											if (fldId) {
+												var fieldnamecheck=fldObj.id.indexOf(name);
+												if (fieldnamecheck != -1) {
+													if (fldObj.checked) {
+														return true;
+													}
+												}
+											}
+										}
+										return false;
+									}
+								function CheckForm88(f) {
+									var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+									if (!email_re.test(f.email.value)) {
+										alert("Please enter your email address.");
+										f.email.focus();
+										return false;
+									}
+								
+									var fname = "CustomFields_317_88";
+									var fld = document.getElementById(fname);
+								
+										if (fld.value == "") {
+											alert("Please enter a value for field Zip Code");
+											fld.focus();
+											return false;
+										}
 									
-								</div>
-							</div>
-
+									CheckNum = parseInt(fld.value);
+									if(fld.value != "" && isNaN(CheckNum)) {
+										alert("Please enter a numeric value for field Zip Code");
+										fld.select();
+										fld.focus();
+										return false;
+									}
+								
+										return true;
+									}
+								
+						// ]]>
+						</script>
+						</div>
+					</div>
+				</div>
+				<!-- END PINPOINT FORM -->
+				
+							
 </li>
-				<li><a href="index/page/static/subpage/store_location">Retail Stores</a></li>
+				<li><a href="index/page/static/subpage/store_location"><strong>Retail Stores</strong></a></li>
 			</ul>
 		</div><!-- main-nav -->
 		<p class="clearer">&nbsp;</p>
@@ -260,23 +350,24 @@ $("link[href*='stylesheet.css']").remove();
 <a href="Plants">	Plants
 </a><ul class="sub_menu" style="visibility: hidden;"><li><a href="New_Plants_for_2012">	New Plants for 2012
 </a></li><li><a href="Perennials">	Perennials
-</a></li><li><a href="Container_Gardens">	Container Gardens
+</a></li><li><a href="Web_Only">	Web Only
 </a></li><li><a href="Groundcovers">	Groundcovers
 </a></li><li><a href="ornamental-grasses">	Ornamental Grasses
+</a></li><li><a href="Fall_2012_Plants">	Fall 2012 Plants
 </a></li><li><a href="Flowering_Shrubs">	Shrubs
 </a></li><li><a href="Lawns">	Lawns
-</a></li><li><a href="Samplers">	Samplers
+</a></li><li><a href="plants_for_small_spaces">	Plants for Small Spaces
 </a></li><li><a href="Conifers">	Conifers
 </a></li><li><a href="Rock_Garden_Plants">	Rock Garden Plants
 </a></li><li><a href="cacti-succulents">	Cacti and Succulents
 </a></li><li><a href="Bearded_Iris">	Bearded Iris
-</a></li><li><a href="FruitsVegetables">	Fruits &amp; Vegetables
-</a></li><li><a href="Annuals">	Annuals
+</a></li><li><a href="Fruits_and_Vegetables">	Fruits &amp; Vegetables
 </a></li><li><a href="Vines">	Vines
 </a></li></ul>
 </li><li>
 <a href="Perennials">	Perennials
 </a><ul class="sub_menu" style="visibility: hidden;"><li><a href="Award-Winning">	Award-Winning
+</a></li><li><a href="Daylilies">	Daylilies
 </a></li><li><a href="Very-Waterwise_Perennials">	Very-Waterwise
 </a></li><li><a href="Waterwise_Perennials">	Waterwise
 </a></li><li><a href="Regular_Water_Perennials">	Regular
@@ -287,12 +378,18 @@ $("link[href*='stylesheet.css']").remove();
 </a></li><li><a href="Gaillardia">	Gaillardia
 </a></li><li><a href="Lavender">	Lavender
 </a></li><li><a href="Monarda">	Monarda
-</a></li><li><a href="Echinacea">	Echinacea
 </a></li><li><a href="Penstemon">	Penstemon
 </a></li><li><a href="Sedum">	Sedum
 </a></li><li><a href="Thyme">	Thyme
 </a></li><li><a href="Delosperma">	Delosperma
 </a></li><li><a href="Pre-Planned_Perennial_Gardens">	Pre-Planned Perennial Gardens
+</a></li></ul>
+</li><li>
+<a href="Bulbs">	Bulbs
+</a><ul class="sub_menu" style="visibility: hidden;"><li><a href="Spring_Blooming_Bulbs">	Spring Blooming
+</a></li><li><a href="Fall_Blooming_Bulbs">	Fall Blooming
+</a></li><li><a href="Holiday_Bulbs">	Holiday Bulbs
+</a></li><li><a href="Bulb_Collections">	Bulb Collections
 </a></li></ul>
 </li><li>
 <a href="Seeds">	Seeds
@@ -312,9 +409,6 @@ $("link[href*='stylesheet.css']").remove();
 </a></li><li><a href="Outdoor_Decor">	Decor
 </a></li><li><a href="Animal_Deterrents">	Animal Deterrents
 </a></li></ul>
-</li><li>
-<a href="Gift_Cards">	Gift Cards
-</a>
 </li><li>
 <a href="Top_Sellers">	Top Sellers
 </a>
@@ -374,7 +468,7 @@ $("#freetext_search_box").val("");
 <!-- Endeca Begin Footer Here -->
 <div id="social-footer-wrapper">
 				<div id="social-footer">
-					<div><p>Visit Our Retail Stores in <a href="http://www.hcgstores.com">Albuquerque</a> and <a href="http://www.santafegreenhouses.com">Santa Fe</a> </p></div>
+					<div><p><strong>Visit Our Retail Stores in <a href="http://www.hcgstores.com">Albuquerque</a> and <a href="http://www.santafegreenhouses.com">Santa Fe</a></strong></p></div>
 					<div><img src="http://www.highcountrygardens.com/static/images/seperator.gif" alt="|"></div>
 					<div>
 						<a target="_blank" href="http://blog.highcountrygardens.com/"><img src="http://www.highcountrygardens.com/static/images/layout2011/rss.png" alt="RSS"></a>
@@ -387,10 +481,10 @@ $("#freetext_search_box").val("");
 					<div><img src="http://www.highcountrygardens.com/static/images/seperator.gif" alt="|"></div>
 					<div>
 						
-							<div>
-<!-- 10/10/2011 Commented out for dmiemail
+<!--							<div>
+ 10/10/2011 Commented out for dmiemail
 <form method="POST">
-	<input type="hidden" name="actions[FormModule]" value="4298" />
+	<input type="hidden" name="actions[FormModule]" value="6078" />
 	<input type="hidden" name="friend_link" value="" />
 	
 	<label> Sign Up for Email</label>
@@ -401,19 +495,19 @@ $("#freetext_search_box").val("");
 
 
 </form>
-<a name="email_sign" id="email_sign"></a> -->
+<a name="email_sign" id="email_sign"></a> 
 					<form action="http://dmiemail.highcountrygardens.com/subscribe/subscribe.tml" method="POST">
 						<label> Sign Up for Email Updates </label>
-						<input type="text" name="email" value="" size="14" id="">
+						<input type="text" name="email" value="" size="14" id=""/>
 
-						<input type="submit" value="Sign Up">
+						<input type="submit" value="Sign Up" />
 						<input type="hidden" name="list" value="high">
 					    <input type="hidden" name="demographics" value="">
 					    <input type="hidden" name="confirm" value="one">
 					    <input type="hidden" name="showconfirm" value="T">
 					</form>
 
-							</div>
+							</div> -->
 						
 					</div>
 				</div><!-- social-footer -->
@@ -457,7 +551,6 @@ $("#freetext_search_box").val("");
 								<li><a href="index/page/category/category_id/42">Seeds</a></li>
 								<li><a href="index/page/category/category_id/11">Gardens</a></li>
 								<li><a href="index/page/category/category_id/48">Garden Goods</a></li>
-								<li><a href="index/page/category/category_id/82">Gifts</a></li>
 								<li><a href="index/page/category/category_id/47">Books</a></li>
 							</ul>
 							<ul>
@@ -466,11 +559,10 @@ $("#freetext_search_box").val("");
 								<!-- <li><a href="index/page/category/category_id/903">HCG Introductions</a></li> -->
 								<li><a href="index/page/category/category_id/904">Award Winning Plants</a></li>
 								<li><a href="index/page/category/category_id/898">Internet Specials</a></li>
-								<li><a href="index/page/category/category_id/899">Gift Cards</a></li>
 							</ul>
 							<ul>
 								<li><strong>Tools &amp; Educational Resources</strong></li>
-								<!-- <li><a href="http://www.highcountrygardens.com/library">Garden Articles</a></li> -->
+								<li><a href="http://library.highcountrygardens.com/library">Garden Articles</a></li>
 								<li><a href="index/page/static/subpage/plant_video">Planting Videos</a></li>
 								<li><a href="index/page/static/subpage/glossary">Garden Glossary</a></li>
 								<li><a href="index/page/static/subpage/zone_finder">Zone Finder</a></li>
@@ -510,8 +602,9 @@ $("#freetext_search_box").val("");
 							</div> -->
 							<div id="other_logos">
 								<a href="http://www.mailordergardening.com/"><img src="http://www.highcountrygardens.com/static/images/layout2012/mailordergardening.png" alt="Mail Order Gardening Association"></a>
-								<a href="index/page/static/subpage/how_we_ship/"><img src="http://www.highcountrygardens.com/static/images/layout2012/ups.png" alt="We ship UPS"></a>	
-								<a href="https://www.scanalert.com/RatingVerify?ref=www.highcountrygardens.com" target="_blank"><img width="65" border="0" height="37" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." src="//images.scanalert.com/meter/www.highcountrygardens.com/31.gif"></a>								
+								<a href="index/page/static/subpage/how_we_ship/"><img src="http://www.highcountrygardens.com/static/images/layout2012/ups.png" alt="We ship UPS"></a>
+
+                    	
 							</div>							
 						</div>
 						<div id="footer-search">
@@ -535,14 +628,23 @@ $("#freetext_search_box").val("");
 </div>
 </ul></span>
 </form> 
+<br>
+<span style="font-size: 12px;">
+                               
+<script type="text/JavaScript">
+//<![CDATA[
+var sealServer=document.location.protocol+"//seals.websiteprotection.com/sealws/50631ff2-4b48-4e18-9f76-7c20cbdd56cb.gif";var certServer=document.location.protocol+"//certs.websiteprotection.com/sealws/?sealId=50631ff2-4b48-4e18-9f76-7c20cbdd56cb";var hostName="www.highcountrygardens.com";document.write(unescape('<div style="text-align:center;margin:0 auto;"><a target="_blank" href="'+certServer+'&pop=true" style="display:inline-block;"><img src="'+sealServer+'" alt="Website Protection&#153; Site Scanner protects this website from security threats." title="This Website Protection site seal is issued to '+ hostName +'. Copyright &copy; 2012, all rights reserved."oncontextmenu="alert(\'Copying Prohibited by Law\'); return false;" border="0" /></a><div id="bannerLink"><a href="https://www.godaddy.com/" target="_blank">Go Daddy</a></div></div>'));
+//]]>
+</script><div style="text-align:center;margin:0 auto;"><a target="_blank" href="https://certs.websiteprotection.com/sealws/?sealId=50631ff2-4b48-4e18-9f76-7c20cbdd56cb&amp;pop=true" style="display:inline-block;"><img src="https://seals.websiteprotection.com/sealws/50631ff2-4b48-4e18-9f76-7c20cbdd56cb.gif" alt="Website Protection™ Site Scanner protects this website from security threats." title="This Website Protection site seal is issued to www.highcountrygardens.com. Copyright © 2012, all rights reserved." oncontextmenu="alert('Copying Prohibited by Law'); return false;" border="0"></a><div id="bannerLink"><a href="https://www.godaddy.com/" target="_blank">Go Daddy</a></div></div>
 
+</span>
 
 
 								</div>
 
 						</div>
 						<p><a href="index/page/static/subpage/quick_order_page">Quick Order</a> | <a href="index/page/static/subpage/about_us">About Us</a>  | <a href="index/page/static/subpage/customer_service">Customer Service</a> | <strong>Call 1-800-925-9387</strong> </p>
-						<p>Copyright © 2011</p>
+						<p>Copyright © 2012</p>
 						<p>2902 Rufina Street Santa Fe, NM 87507 | 1-800-925-9387 | 1-505-438-3031</p>
 					</div>
 				</div><!-- footer -->
@@ -727,6 +829,20 @@ $(document).ready(function(){
 <script type="text/javascript" src="static/js/suggestahead_terms.js"></script>
 
 
+
+
+
+<div id="nxt-ac-container"></div>
+<script type="text/javascript">
+	var nxt_ac_words=new Array();
+	var nxt_ac_searchbox_id = "nxt-ac-searchbox";
+	var nxt_ac_searchform_id = "nxt-ac-form";
+	var nxt_ac_container_id = "nxt-ac-container";
+	var nxt_host = (("https:" == document.location.protocol) ? "https://" : "http://"); nxt_host += "vector.nextopiasoftware.com/";
+	document.write(unescape("%3C") + "link rel='stylesheet' type='text/css' href='" + nxt_host + "yui-autocomplete.css'" + unescape("%3E"));
+	document.write(unescape("%3C") + "script src='" + nxt_host + "ac_js/e635077676a8c2f7317336d2d1bf0114.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
+	document.write(unescape("%3C") + "script src='" + nxt_host + "yui-autocomplete-min.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
+</script><link rel="stylesheet" type="text/css" href="https://vector.nextopiasoftware.com/yui-autocomplete.css"><script src="https://vector.nextopiasoftware.com/ac_js/e635077676a8c2f7317336d2d1bf0114.js" type="text/javascript"></script><script src="https://vector.nextopiasoftware.com/yui-autocomplete-min.js" type="text/javascript"></script>
 
 
 
