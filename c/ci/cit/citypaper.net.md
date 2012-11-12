@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513225917id_/http%3A//www.citypaper.net/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112032330id_/http%3A//www.citypaper.net/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Philadelphia City Paper
 
