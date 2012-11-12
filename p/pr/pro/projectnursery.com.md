@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectnursery.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511150939id_/http%3A//projectnursery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectnursery.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112185516id_/http%3A//projectnursery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Project Nursery
 
@@ -10,7 +10,7 @@ From time to time, PN may change this Privacy Policy. The updated Privacy Policy
 
 PN collections (1) information that you provide that personally identifies you; and (2) information that does not personally identify you, that we automatically collect when you visit PN or that you provide us.
 
-**Access to Community Forums and Photo Gallery (“Community” and “Gallery”)** The Site contains a social networking community forum for its users (“Community”) which includes a photo gallery of photo images submitted by users (“Gallery”). In order to join the PN Community, or use any of the community, interactive, or customized features of the Site, you must first complete the registration form and create a user name and password. During registration you are required to give information including but not limited to your first and last name, email address, gender, number of children, and zip code (all such personally identifiable information, “Personal Information”).
+**Access to Community Forums and Gallery (“Community” and “Gallery”)** The Site contains a social networking community forum for its users (“Community”) which includes a a gallery of photo images and videos submitted by users (“Gallery”). In order to join the PN Community, or use any of the community, interactive, or customized features of the Site, you must first complete the registration form and create a user name and password. During registration you are required to give information including but not limited to your first and last name, email address, gender, number of children, and zip code (all such personally identifiable information, “Personal Information”).
 
 If you choose to join the Community, you will be able to create a Profile Page. This page contains your user name and state of residence. All other information you add to this page is optional and at your own discretion, including the ability to share photos.
 
