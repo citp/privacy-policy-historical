@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the reflector.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511160419id_/http%3A//reflector.cookepublishing.net/customerservice/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reflector.com privacy policy that was archived on 2012-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112023854id_/http%3A//reflector.cookepublishing.net/customerservice/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" dir="ltr" class="js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>The Daily Reflector</title>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/themes/zen/zen/favicon.ico" type="image/x-icon">
   <link href="/themes/zen/zen/forms-forums.css" media="screen" rel="stylesheet" type="text/css">
-  <link type="text/css" rel="stylesheet" media="all" href="/newweather/css/gdrtile.css?o">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_e0cff552c1b0f7a84a820906aedee498.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_ddca2ff7761e8358821e93d27bb2b89e.css">
-<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/css/css_a42dce0932a23f8d554ecf01c6b2ddc0.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/newweather/css/gdrtile.css?j">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_c9805fc11b32e5af4ff3939c190e2b8c.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_c208fea0f91b4fef5fd8d39f7dcf312c.css">
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/css/css_96211ff3522559c6b3f8d6c875c3eb7e.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/themes/zen/zen/ie.css?o" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/zen/zen/ie.css?j" />
 <![endif]-->
   
   
@@ -21,15 +21,58 @@
 	<!--[if lte IE 7]>
         <link rel="stylesheet" type="text/css" href="/themes/zen/zen/menu-ie.css" media="screen" />
     <![endif]-->
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/misc/jquery.js?o"></script>
-<script type="text/javascript" src="/misc/drupal.js?o"></script>
-<script type="text/javascript" src="/modules/jlightbox/js/jlightbox.js?o"></script>
-<script type="text/javascript" src="/modules/jquerymenu/jquerymenu.js?o"></script>
-<script type="text/javascript" src="/modules/panels/js/panels.js?o"></script>
-<script type="text/javascript">jQuery.extend(Drupal.settings, { "basePath": "/", "CTools": { "pageId": "page-d56da34fb083d08473795d7837a25562" } });</script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/misc/jquery.js?j"></script>
+<script type="text/javascript" src="/misc/drupal.js?j"></script>
+<script type="text/javascript" src="/modules/jlightbox/js/jlightbox.js?j"></script>
+<script type="text/javascript" src="/modules/jquerymenu/jquerymenu.js?j"></script>
+<script type="text/javascript" src="/modules/panels/js/panels.js?j"></script>
+<script type="text/javascript" src="/modules/ubercart/uc_file/uc_file.js?j"></script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, { "basePath": "/", "CTools": { "pageId": "page-08c5fbb665b46b17e26cce48cc544308" } });</script>
   <script type="text/javascript" src="/misc/hoverIntent.js"></script>
   <script type="text/javascript" src="/misc/jquery.dropdownPlain.js"></script>
   <script type="text/javascript" src="/misc/printArea.js"></script>
+  <script type="text/javascript" src="/misc/jquery.placeholder.min.js"></script>
+  <script type="text/javascript">
+
+jQuery.fn.centerlogin = function (absolute) {
+      return this.each(function () {
+          var t = jQuery(this);
+          t.css({
+              position:    absolute ? 'absolute' : 'fixed', 
+              left:        '50%', 
+              top:        '100px', 
+              zIndex:        11101
+          }).css({
+              marginLeft:    '-' + (t.outerWidth() / 2) + 'px', 
+              marginTop:    '10px'
+          });
+
+          if (absolute) {
+              t.css({
+                  marginTop:    '10px', 
+                  marginLeft:    parseInt(t.css('marginLeft'), 10) + jQuery(window).scrollLeft()
+              });
+          }
+      });
+
+  };
+
+$("#login-floating-container").centerlogin();
+  function closeLoginBox(){
+    $("#our-lightbox-login").fadeOut(500);
+    $(".login-floating-container").fadeOut(500,function(){});
+  }
+function openLoginBox(){
+    $("#our-lightbox-login").css('visibility','visible').fadeIn(500);
+    $(".login-floating-container").css('visibility','visible');
+    $(".login-floating-container").centerlogin();
+    /* $(".login-floating-container").css('display',''); */
+    $(".login-floating-container").centerlogin();
+    //$("#userentry").focus();
+    $(".login-floating-container").fadeIn(500,function(){});
+    //$("#userentry").focus();
+  }
+  </script>
 
   <script type="text/javascript">
 
@@ -55,44 +98,136 @@ _gaq.push(['_setCustomVar',4,'Content Type','None',3]);
 <body>
       			<div class="gdr-top">
         			<div class="gdr-header">
-        			 <div class="gdr-logo">
-                
-                  <a href="http://reflector.com/"><img src="http://static.cookepublishing.com/gdr/specs/gdrOrn_Approved.png" height="70px" alt="The Daily Reflector"></a>
-              </div>
-          
+                                <style>
+                  .gdr-weather-header{
+                    width: 1000px;
+                    height: 97px;
 
-        				<!-- End Logo -->
-        				  
-  
-  
-  <div class="gdrtile" style="overflow: hidden;">
-    <div class="castsLogo">
-      <p class="byLogo"><b>Weather by</b><a target="_blank" href="/track.php?url=http%3A%2F%2Fgreenvilletv.brandsource.com%2Fdefault.aspx"><img src="http://static.cookepublishing.com/gdr/specs/gvilleTV_RGB2.png" width="130px" height="52px" border="0" style="padding-left:3px; padding-top:0px;"></a></p>
-    </div>
-    <div class="castsTemp">
-      <p class="icon"><img src="/modules/cookeaw/icons/01.PNG" width="87" style="position: relative; top: -20px;"></p>
-      <div class="temp"><strong>66°</strong></div>
-    </div>
-    <div class="casts">
-      <p class="forecast" style="margin-top:-1px">Tonight<br>52°</p><p style="padding-top:10px"><img src="/modules/cookeaw/icons/33.PNG" width="55" style="margin-top:-33px; margin-left: -5px;"></p>
-    </div>
-    <div class="casts">
-      <p class="forecast" style="margin-top:-1px">Tomorrow<br>80°/54°</p><p style="padding-top:10px"><img src="/modules/cookeaw/icons/01.PNG" width="55" style="margin-top:-33px; margin-left: -5px;"></p>
-    </div>
-    <div class="casts5"><p class="forecast"><a href="/weather" style="line-height:5px;">5 Day<br>Forecast&nbsp; <img src="http://static.cookepublishing.com/gdr/specs/horizArrow.png" style="border:none" width="10px" height="16px"></a></p>
-    </div>
+                    background-image: url('/images/weatherimages/gdr/33.jpg');
+
+                  }
+                  .gdr-temp{
+                    position: relative;
+                    left : 30px;
+                    top: 5px;
+                    font-size: 22pt;
+                    color: #fff;
+                    font-weight: bold;
+                    background-image: url('/images/tempbg.png');
+                    background-repeat: no-repeat;
+                    width: 64px;
+                    height: 32px;
+                    float: left;
+                    text-align: center;
+                  }
+                  .gdr-temp span{
+
+                  }
+                  .gdr-weather-right{
+                    width: 382px;
+                    float: right;
+                    height: 97px;
+                    /* background-image: url('/images/weatherimages/weathericons.png'); */
+                   
+                    padding-left: 4px;
+                  }
+                  .weather-icons{
+                    margin-left: 30px;
+                    margin-top: 6px;
+                    width: 120px;
+                    float: left;'
+                    text-align: center;
+                    font-size: 80%;
+                    color: #fff;
+
+                  }
+                  .weather-icons a{
+                    color: #fff;
+                  }
+                  .weather-icons p{
+                    text-align: center;
+                  }
+                  .weather-ad{
+                    width: 130px;
+                    height: 98px;
+                    color: #fff;
+                    margin-top: 5px;
+                    text-align: center;
+                    float: left;
+                  }
+                  .weather-ad a{
+                    color: #fff;
+                    font-size: 95%;
+                    text-decoration: underline;
+                  }
+                  .placeholder{
+                    color: #666666;
+                    background-color: #fff4aa;
+                  }
+                </style>
+
+                <div class="gdr-weather-header">
+                  <a href="/"><img style="float: left;" src="/images/weatherimages/gdr/33-L.jpg"></a>
+                  <div class="gdr-temp">
+                    <span>52°</span>
+                  </div>
+                  <div class="gdr-weather-right">
+                    <div class="weather-ad">
+                     <b>Weather by</b><br><a href="/weather"><img src="http://static.cookepublishing.com/gdr/specs/Subaru.jpg" width="130px" height="52px" border="0" style="padding-left:3px; padding-top:0px;"></a><br>
+                     <a href="/weather">View Full Forecast</a><p></p>
+                    </div>
+                    <div class="weather-icons">
+                                            <p><a href="javascript:openLoginBox();">Login</a> | <a href="/user/register">Register</a></p>
+                                            <div onclick="closeLoginBox();" class="blackout" id="our-lightbox-login" style="visibility: hidden; z-index: 11000; position: fixed; top: 0px; left: 0px; background-color: #000; width: 100%; height: 100%;">
   </div>
-  <!--[if !IE]-->  
-  <div style="width: 385px; height: 78px; z-index: 100; position: relative; left: 615px;" onclick="javascript:window.location='/weather/'"></div>
-  <!--[endif]-->
-                  
-                                                                               <div>
-    <div class="icons"><a href="http://www.facebook.com/pages/The-Daily-Reflector/115868741771683" target="_blank"><img src="http://static.cookepublishing.com/gdr/specs/facebookIcon30.png" width="30" height="30" alt="facebook Icon" border="0" style="float:right; margin-top:-30px; margin-right:6px;"></a></div>
-    <div class="icons"><a href="http://www.reflector.com/reflector_widget/today/feed.rss"><img src="http://static.cookepublishing.com/gdr/specs/rssIcon30.png" width="30" height="30" alt="rss Icon" border="0" style="float:right; margin-top:-30px; margin-right:42px;"></a></div> 
+  <style>
+    #login-form {
+   
+    }
+    #login-form input[type=image]{
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+
+    #login-form input[type=text]{
+      width: 180px;
+      font-size: 18px;
+      margin-bottom: 6px;
+    }
+    #login-form input[type=password]{
+      width: 180px;
+      font-size: 18px;
+
+    }
+    .login-floating-container a{
+      color: #0000ff;
+      font-size: 15px;
+      text-decoration: underline;
+    }
+  </style>
+ 
+  <div class="login-floating-container" style="visibility: hidden; z-index: 11001; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; position: fixed; display:none; background-color: #ffffff; color: #000; padding: 20px 35px; top: 150px; border: solid 2px #666;">
+    <form method="post" id="login-form" action="/user?destination=customerservice/privacypolicy">
+   
+ 
+    <input type="text" maxlength="60" id="userentry" placeholder="Username" name="name"><br>
+    <input type="password" length="12" name="pass" placeholder="Password"><br>
+    <input type="hidden" name="form_id" id="edit-user-login" value="user_login">
+    <input type="image" src="http://static.cookepublishing.com/gdr/specs/GreenLogInBtn.png" name="op" value="Log in">
+  </form>
+  <a href="/user/register">Register</a> | <a href="/user/password">Forgot Password?</a>
+  </div>
+   <script type="text/javascript">
+      $('input[placeholder], textarea[placeholder]').placeholder();
+  </script>
+                      <div class="icons"><a href="http://www.facebook.com/pages/The-Daily-Reflector/115868741771683" target="_blank"><img src="http://static.cookepublishing.com/gdr/specs/facebookIcon30.png" width="30" height="30" alt="facebook Icon" border="0"></a>
+    <a href="http://www.reflector.com/reflector_widget/today/feed.rss"><img src="http://static.cookepublishing.com/gdr/specs/rssIcon30.png" width="30" height="30" alt="rss Icon" border="0"></a>
     
-    <div class="icons"><a href="http://twitter.com/#!/reflectornews" target="_blank"><img alt="twitter Icon" width="30" height="30" src="http://static.cookepublishing.com/gdr/specs/twitterIcon30.png" border="0" style="float:right; margin-top:-30px; margin-right:78px;"></a></div>
-              </div>   
-                 <div style="height: 0px; width:1000px; clear: both;"></div>         
+   <a href="http://twitter.com/#!/reflectornews" target="_blank"><img alt="twitter Icon" width="30" height="30" src="http://static.cookepublishing.com/gdr/specs/twitterIcon30.png" border="0"></a></div>
+       </div>
+                    </div>
+                </div>
+                     
               		<script type="text/javascript">
 
       function switchText()
@@ -120,7 +255,7 @@ _gaq.push(['_setCustomVar',4,'Content Type','None',3]);
 
       				<div class="gdr-top-nav" style="z-index: 90;">
       				<ul class="dropdown" id="menu">
-      					<li><a href="/news">News&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="http://www.reflector.com/archives" target="_blank">Archives</a></li><li><a href="/news/business">Business</a></li><li><a href="/community">Community</a></li><li><a href="/news/crime_and_rescue">Crime/Rescue</a></li><li><a href="/crimemap">Crime map</a></li><li><a href="http://www.reflector.com/politics" target="_blank">Elections</a></li><li><a href="/fact_book">Fact Book</a></li><li><a href="/jail-bookings">Jail bookings</a></li><li><a href="http://www.nc-educationlottery.org/" target="_blank">Lottery</a></li><li><a href="http://www.reflector.com/salaries" target="_blank">Salaries Database</a></li><li><a href="/news/state">State</a></li><li><a href="/weather">Weather</a></li></ul></li><li><a href="http://www.legacy.com/obituaries/reflector/" target="_blank">Obits</a></li><li><a href="/opinion">Opinion&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/opinion/editorials">Editorials</a></li><li><a href="/opinion/letters">Letters</a></li><li><a href="/content/submit-your-letter-126065">Submit your letter</a></li><li><a href="/opinion/other_voices">Other Voices</a></li><li><a href="/forums/greenville-news-board">News Discussion</a></li><li><a href="/columns">Columns</a></li></ul></li><li><a href="/sports">Sports&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/sports/ecu">ECU</a></li><li><a href="/sports/high_schools">High Schools</a></li><li><a href="/sports/college">College</a></li><li><a href="/sports/professional">Professional</a></li><li><a href="/gdr_sports_galleries">Sports photos</a></li></ul></li><li><a href="/look">Look&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/look/advice">Advice Columns</a></li><li><a href="/celebrations">Celebrations</a></li><li><a href="/look">Cover Stories</a></li><li><a href="/look/family">Family</a></li><li><a href="/look/events">Go Guide/Event Calendars</a></li><li><a href="/look/hot_dish">Hot Dish</a></li><li><a href="/look/movies">Movies</a></li><li><a href="/look/pets">Pets</a></li><li><a href="http://www.reflector.com/look/religion" target="_blank">Religion</a></li><li><a href="/look/columns">Sunday Columns</a></li></ul></li><li><a href="/scene-around">Photos Videos&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/scene-around">Reflector Photos</a></li><li><a href="/gdr_sports_galleries">Reflector sports photos</a></li><li><a href="/scene-around">Scene Around</a></li><li><a href="/yourphotos">Share your photos</a></li><li><a href="/your_photos">Your Photos</a></li><li><a href="/gdr_video_page">Reflector videos</a></li><li><a href="/newsvideos">News videos</a></li><li><a href="/sportsvideos">Sports videos</a></li><li><a href="/entertainmentvideos">Entertainment videos</a></li><li><a href="/lifestylevideos">Lifestyle videos</a></li></ul></li><li><a href="/extras">Extras&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/her">Her</a></li><li><a href="http://www.reflector.com/special-sections/her-cookbook-1111" target="_blank">Her Cookbook</a></li><li><a href="http://www.reflector.com/special-sections/homes1204" target="_blank">Homes Magazine</a></li><li><a href="http://www.reflector.com/home-tours" target="_blank">Home Tours</a></li><li><a href="/fact_book">Living in Pitt County</a></li><li><a href="/mixer">mixer</a></li><li><a href="http://nieonline.com/cooke/index.cfm" target="_blank">Newspapers in Education</a></li><li><a href="http://www.reflector.com/gdr_service_directories" target="_blank">Service directories</a></li><li><a href="/workweek">Workweek</a></li></ul></li><li><a href="/customerservice">Customer Service&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/customerservice">Customer Service</a></li><li><a href="/circ-store">Subscribe</a></li><li><a href="http://www.reflector.com/node/123865" target="_blank">Feedback</a></li><li><a href="/customerservice">Contact Us</a></li><li><a href="/staffdirectory">Staff Directory</a></li></ul></li>            	</ul>
+      					<li><a href="/news">News&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="http://www.reflector.com/archives" target="_blank">Archives</a></li><li><a href="/news/business">Business</a></li><li><a href="/community">Community</a></li><li><a href="/news/crime_and_rescue">Crime/Rescue</a></li><li><a href="/crimemap">Crime map</a></li><li><a href="http://www.reflector.com/politics" target="_blank">Elections</a></li><li><a href="/day/fact_book">Fact Book</a></li><li><a href="/jail-booking">Jail bookings</a></li><li><a href="http://www.nc-educationlottery.org/" target="_blank">Lottery</a></li><li><a href="http://www.reflector.com/salaries" target="_blank">Salaries Database</a></li><li><a href="/news/state">State</a></li><li><a href="/weather">Weather</a></li></ul></li><li><a href="http://www.legacy.com/obituaries/reflector/" target="_blank">Obits</a></li><li><a href="/opinion">Opinion&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/opinion/editorials">Editorials</a></li><li><a href="/opinion/letters">Letters</a></li><li><a href="/content/submit-your-letter-126065">Submit your letter</a></li><li><a href="/opinion/other_voices">Other Voices</a></li><li><a href="/forums/greenville-news-board">News Discussion</a></li><li><a href="/columns">Columns</a></li></ul></li><li><a href="/sports">Sports&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/sports/ecu">ECU</a></li><li><a href="/sports/high_schools">High Schools</a></li><li><a href="/sports/college">College</a></li><li><a href="/sports/professional">Professional</a></li><li><a href="/gdr_sports_galleries">Sports photos</a></li></ul></li><li><a href="/look">Look&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/look/advice">Advice Columns</a></li><li><a href="/celebrations">Celebrations</a></li><li><a href="/look">Cover Stories</a></li><li><a href="/look/family">Family</a></li><li><a href="/look/events">Go Guide/Event Calendars</a></li><li><a href="/look/hot_dish">Hot Dish</a></li><li><a href="/look/movies">Movies</a></li><li><a href="/look/pets">Pets</a></li><li><a href="http://www.reflector.com/look/religion" target="_blank">Religion</a></li><li><a href="/look/columns">Sunday Columns</a></li></ul></li><li><a href="/scene-around">Photos Videos&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/scene-around">Reflector Photos</a></li><li><a href="/gdr_sports_galleries">Reflector sports photos</a></li><li><a href="/scene-around">Scene Around</a></li><li><a href="/yourphotos">Share your photos</a></li><li><a href="/your_photos">Your Photos</a></li><li><a href="/gdr_video_page">Reflector videos</a></li><li><a href="/newsvideos">News videos</a></li><li><a href="/sportsvideos">Sports videos</a></li><li><a href="/entertainmentvideos">Entertainment videos</a></li><li><a href="/lifestylevideos">Lifestyle videos</a></li></ul></li><li><a href="/extras">Extras&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/her">Her</a></li><li><a href="http://www.reflector.com/special-sections/herholidaycookbook2012" target="_blank">Her Cookbook</a></li><li><a href="http://www.reflector.com/special-sections/homes1211" target="_blank">Homes Magazine</a></li><li><a href="http://www.reflector.com/home-tours" target="_blank">Home Tours</a></li><li><a href="http://www.greenvillemixer.com" target="_blank">mixer</a></li><li><a href="http://nieonline.com/cooke/index.cfm" target="_blank">Newspapers in Education</a></li><li><a href="http://www.reflector.com/gdr_service_directories" target="_blank">Service directories</a></li><li><a href="/workweek">Workweek</a></li></ul></li><li><a href="/customerservice">Customer Service&nbsp;&nbsp;<img src="/images/zonebar-downarrow.png" style="border:0px;" border="0"></a><ul class="sub_menu"><li><a href="/customerservice">Customer Service</a></li><li><a href="/subscribe">Subscribe</a></li><li><a href="http://www.reflector.com/node/123865" target="_blank">Feedback</a></li><li><a href="/customerservice">Contact Us</a></li><li><a href="/staffdirectory">Staff Directory</a></li></ul></li>            	</ul>
               <ul class="gdr-classifieds-menu">
                       		<li><a href="http://reflector.ca.kaango.com/">Classifieds</a></li><li><a href="http://reflector.kaango.com/browse/autos-for-sale-or-lease/902">Autos</a></li><li><a href="http://reflector.kaango.com/browse/real-estate-rental-sale/775">Homes</a></li><li><a href="http://www.reflector.com/classifieds/jobs">Jobs</a></li><li><a href="http://reflector.kaango.com/browse/events-notices/726">Legals</a></li>                     </ul>
                   	</div><!-- End Top Nav -->
@@ -147,24 +282,27 @@ _gaq.push(['_setCustomVar',4,'Content Type','None',3]);
 
   
   <div class="block-content">
-    	<div style="background-image: url('http://static.cookepublishing.com/gdr/specs/rotaterGray.png'); width:255px; height:89px;">
+        <div style="background-image: url('http://static.cookepublishing.com/gdr/specs/rotaterGray.png'); width:255px; height:89px;">
 
-  <form name="input" action="/ysearch" method="get" style="padding-top:15px; padding-left:10px">
-  <input class="search-submit" type="image" src="http://static.cookepublishing.com/gdr/specs/yahooMagButtonLtsm.png" style="padding-top:2px; float:right; padding-right:15px;" value="Submit" name="Submit">
-   <input type="text" name="yq" value="" style="float:left; width: 180px; font-style:italic; background:#dfdfdf;">
-   <p style="color:#000000; font-size:9pt; font-family:Verdana, sans-serif; padding-top:15px;">Web Search powered by<br>
-    <span style="font-size:9pt"><strong style="color:#7B0099">YAHOO! </strong></span>SEARCH</p>
-   <div class="search-siteweb" style="width:120px;float:right; margin-top:-30px;"><input class="search-radio" type="radio" name="mode" checked="checked" value="site">
-        							<label class="search-label">Site</label>
-        							<input class="search-radio" type="radio" name="mode" value="web">
-        							<label class="search-label">Web</label>
-        							<input type="hidden" name="n" value="10"> 
+      <form name="input" action="/ysearch" method="get" style="padding-top:15px; padding-left:10px">
+        <input class="search-submit" type="image" src="http://static.cookepublishing.com/gdr/specs/yahooMagButtonLtsm.png" style="padding-top:2px; float:right; padding-right:15px;" value="Submit" name="Submit">
+        <input type="text" name="yq" value="" style="float:left; width: 180px; font-style:italic; background:#dfdfdf;">
 
+        <p style="color:#000000; font-size:9pt; font-family:Verdana, sans-serif; padding-top:15px;">Web Search
+          powered by<br>
+          <span style="font-size:9pt"><strong style="color:#7B0099">YAHOO! </strong></span>SEARCH</p>
 
-   
+        <div class="search-siteweb" style="width:120px;float:right; margin-top:-30px;"><input class="search-radio" type="radio" name="mode" checked="checked" value="site">
+          <label class="search-label">Site</label>
+          <input class="search-radio" type="radio" name="mode" value="web">
+          <label class="search-label">Web</label>
+          <input type="hidden" name="n" value="10">
+        </div>
 
-  </div></form>
+      </form>
+
     </div>
+      </div>
 
   
 </div></div> <!-- /block-inner, /block -->
@@ -225,6 +363,8 @@ _gaq.push(['_setCustomVar',4,'Content Type','None',3]);
 <p>We use cookies to help us tailor our site to your needs, to deliver a better,    more personalized service. For example, we use cookies to avoid showing you    the same ad, repeatedly, during a single visit. In addition, we may use    cookies to track the pages on our site visited by our users. We can build a    better site if we know which pages our users are visiting and how often. Of    course, you can set your browser not to accept cookies, but if you do, you    may not be able to take advantage of the personalized features enjoyed by    other visitors to our site.</p>
 <p><b>Other Methods of Collecting Information.</b> Our web pages may contain    electronic images (called "single-pixel GIFs" or "web beacons")    that allow us and our vendors to count users who have visited particular    pages or to access certain cookies. We may use these tools and other    technologies to recognize which pages users visit, and which links they    click on. These features may also be included in our email newsletters so    that we can learn which messages have been opened and acted upon. We may    also be able to verify your online purchases from us or from third party    sites that have agreed to share such information with us.</p>
 <p><a name="ads"> </a><b>Browser Level Information and IP Addresses.</b> Our web    servers automatically collect limited information about your computer    configuration when you visit our site, including the type of browser    software you use, the operating system you're running, the resolution of    your computer monitor, the website that referred you, and your IP address.    (Your IP address is a numerical address that is used by computers connected    to the Internet to identify your computer so that data (such as the web    pages you want to view) can be transmitted to you. We also use IP address    information for systems administration and trouble shooting purposes. Your    IP address does not tell us who you are.) We use this information to deliver    our web pages to you upon request, to tailor our site (including our ads) to    the interests of our users, and to measure traffic within our site. To    improve your ad experience on reflector.com, we may send non-personal    information to Yahoo!, an ad network partner that displays ads on    reflector.com. Such information is based on your browser's activities,    such as type of pages viewed and categories of interests, so that the    advertising you see is relevant to you. Yahoo! also may use information it    gathers regarding its own users to select which ads to display on    reflector.com. Please click this link <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html</a>    to learn more about Yahoo!'s ad practices, including how to opt out of    Yahoo! using anonymous information to select which ads to show you.</p>
+<p>
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site.  These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit <a href="http://www.networkadvertising.org" title="http://www.networkadvertising.org">http://www.networkadvertising.org</a> and <a href="http://www.networkadvertising.org/managing/opt_out.asp" title="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
 <p>&nbsp;</p>
 <p><a name="disclosure"><b>DISCLOSURE OF INFORMATION </b></a></p>
 <p><b>Why we want to know.</b> As with any business, it's important for us to    know our customers -- their needs, their likes, what they want and expect    from us. Unlike most businesses, however, we deliver a valuable product to    our customers without asking for anything in return. It's like prime-time    television, only better for you! Since we make most of this site available    without charge to you, we rely heavily on advertisers to produce the income    necessary to operate our site. Advertisers are like most people: They expect    something in return for the money they spend. They want to know how many    people will see their ad and how often -- in other words, how effective    their ad is likely to be. So it's important that we be able to tell    advertisers who our audience is.</p>
@@ -267,135 +407,91 @@ _gaq.push(['_setCustomVar',4,'Content Type','None',3]);
 
   
   <div class="block-content">
-            	<div class="gdr-widget-right">
-        			<style>
-								table.login-box{
-								position: relative;
-								top: 10px;
-								 height: 273px;
-								 width: 300px;
-								 background-image: url(http://static.cookepublishing.com/gdr/specs/EEdition.Bckgrd.png);
-								 background-repeat: no-repeat;
-								 margin: 0;
-								 border: 0;
-								 padding: 0;
-								}
-								table.login-box td{
-								  width: 150px;
-								}
-								table.login-box th{
-								  border: none;
-								  text-align: center;
-								  font-size: 30px;
-								  font-family: Century, Times, serif;
-								}
-								table.login-box input[type=text], table.login-box input[type=password]{
-								width: 138px;
+    		<div class="gdr-widget-right">
+			<style>
+			div.login-box{
+				position: relative;
+				top: 10px;
+				height: 200px;
+				width: 300px;
+				background-image: url(http://static.cookepublishing.com/gdr/specs/EEditionBckgrd0612.png);
+				background-repeat: no-repeat;
 
-								}
-								#loginform{
-								display: none;
-								font-size: 13px;
-								}
-								input[type=image]{
-									padding-top: 5px;
-								}
-								p.login-text{
-								font-family: Arial, "MS Trebuchet", sans-serif;
-								font-weight: bold;
-								font-size: 13px;
-								line-height: 17px;
-								margin-top: 0px;
-								padding-bottom: 5px;
-								margin-bottom: 10px;
-								}
-								img.nowbutton{
-								margin-top: 13px;
-								margin-bottom: 15px;
-								}
-								td.leftbuttons{
-								  padding-left: 8px;
-								  height: 144px;
-								}
-								img.favicon{
-								margin-top: 0px;
-								margin-bottom: 17px;
-								position: relative;
-								left: 15px;
-								top: -12px;
-								}
-								img.loginbutton{
-								  cursor: pointer;
-								margin-top: 40px;
-								}
-								img.eelogo{
-								margin-top: 10px;
-								margin-left: 15px;
-								}
-								img.paper{
-								position: relative;
-								left: -10px;
-								}
-								a.forgotpw{
-								  color: #000;
-								  font-size: 80%;
-								  padding-left: 50px;
-								  position: relative;
-								  top: -5px;
-								  font-weight: bold;
-								  text-decoration: underline;  
-								}
-								img.buytodaybutton{
-               								padding-left:18px;
-               								padding-bottom:15px;
-               								border:none;
+			}
 
-               								}
-							</style>
-							<script type="text/javascript" src="http://static.cookepublishing.com/gdr/specs/login.js"></script>
-							<table cellpadding="0" cellspacing="0" class="login-box">
-								<tbody><tr>
-									<th colspan="2">
-										<img src="http://static.cookepublishing.com/gdr/specs/Elec_Edit_LOGIN.png" class="eelogo">
-									</th>
-								</tr>
-								<tr>
+			img.loginbutton{								
+				margin: 0px 0 0px 7px;
+				border: none;
+			}
+			img.eelogo{
+				margin: 10px 0 0 7px;
+				width:280px;
 
-									<td class="leftbuttons">
-										<div id="buttons">
-											<img class="loginbutton" src="http://static.cookepublishing.com/gdr/specs/Subs_LOGIN.png">			  
-											<a href="http://www.reflector.com/circ-store"><img class="nowbutton" border="0" src="http://static.cookepublishing.com/gdr/specs/Subs_NOW.png"></a>
-											<a href="/circ-store?page=sc"><img class="buytodaybutton" src="http://static.cookepublishing.com/gdr/specs/BuyTodaysPaperButton.png" width="90" height="16"></a>
-										</div>
-										<div id="loginform">
-											<form style="position: relative; top: -10px;" action="/user?destination=customerservice/privacypolicy" accept-charset="UTF-8" method="post" id="user-login">
-												Username:<br><input type="text" maxlength="60" name="name" id="edit-name" size="22" value="" class="form-text required"><br>
-												Password:<br> <input type="password" name="pass" id="edit-pass" maxlength="128" size="22" class="form-text required"><br>
-												<input type="hidden" name="form_id" id="edit-user-login" value="user_login">
-												<input type="image" src="http://static.cookepublishing.com/gdr/specs/Subs_LOGIN.png" name="op" id="edit-submit" value="Log in" class="form-submit">
-											</form>
-											<a class="forgotpw" href="http://www.reflector.com/user/password">Forgot Password?</a>
-										</div>
-									</td>
+			}
+			img.paper{
+				position: relative;								
+								margin: 20px 0 0 13px;
+								padding: 0px 0 0px 0;
+			}
+			li.login-text{
+				font-size:9.25pt;
+				font-family:Ariel, sans-serif;
+				color:#000;
+				font-weight:bold;
+			}
 
-									<td rowspan="2">
 
-										<img class="paper" src="http://www.reflector.com/media/frontpage/gdr_frontpage.png">
-										<p class="login-text">Access All Content<br>
-											Free Archives<br>
-											Low Online Rates<br>
-											Daily E-edition
-										</p></td>
-									</tr>
-									<tr>
-										<td>			 				 	
-											<img class="favicon" src="http://static.cookepublishing.com/gdr/specs/R2_Indicates.png">	  
+			</style>
+			<script type="text/javascript" src="http://static.cookepublishing.com/gdr/specs/login.js"></script>
+		
+		<div class="login-box">
+			<table cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td colspan="3" style="height:28px;">
+						<img src="http://static.cookepublishing.com/gdr/specs/ElecEdit_Fav.png" class="eelogo">
+					</td>
 
-										</td>
-									</tr>
+				</tr>
+				<tr>
 
-								</tbody></table>
-								<div style="clear: both; "></div>  </div>
+
+					<td class="leftbuttons" colspan="2" style="font-family: Arial;width:170px;height:95px;line-height: 15px;">
+
+
+
+
+
+
+
+						<ul style="margin:10px 0 8px 18px;font-size:11pt; font-family:Ariel, sans-serif;color:#000;font-weight:bold; list-style-type: disc;">SUBSCRIBE TODAY!
+							<li class="login-text">Access to premium content
+								&nbsp;on <img src="http://static.cookepublishing.com/gdr/specs/gdrOrn_Approved.png" width="72px"></li>
+								<li class="login-text">Receive the daily E-edition</li>
+								<li class="login-text">Free Archives</li>
+								<li class="login-text">Comment on stories</li>
+							</ul>
+						</td>
+
+						<td>									
+							<img class="paper" src="http://www.reflector.com/media/frontpage/gdr_frontpage.png" alt="paper" width="110">
+						</td>
+					</tr>
+				</tbody></table>
+				<table>
+					<tbody><tr>
+
+						<td>
+
+							<a href="http://www.reflector.com/circ-store">
+								<img class="loginbutton" src="http://static.cookepublishing.com/gdr/specs/RedSubNow_Button.png" alt="button" width="134" height="25">	
+							</a></td>
+							<td>
+
+							</td>
+						</tr>
+					</tbody></table>
+				</div>
+				</div><div style="clear: both; "></div>  </div>
 
   
 </div></div> <!-- /block-inner, /block -->
@@ -407,20 +503,24 @@ _gaq.push(['_setCustomVar',4,'Content Type','None',3]);
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-apt_plugin-5" class="block block-apt_plugin region-odd odd region-count-3 count-3"><div class="block-inner">
+<div id="block-block-97" class="block block-block region-odd odd region-count-3 count-3"><div class="block-inner">
 
   
   <div class="block-content">
-    <script type="text/javascript">apt_AD('magazine');</script>  </div>
+    <div id="ndn_launcher_14310"><script type="text/javascript" src="http://embed.newsinc.com/thumbnail/embed.js?wid=14310&amp;parent=ndn_launcher_14310"></script></div>  </div>
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-block-45" class="block block-block region-even even region-count-4 count-4"><div class="block-inner">
+<div id="block-page-gdr-byh" class="block block-page region-even even region-count-4 count-4"><div class="block-inner">
 
   
   <div class="block-content">
-    <p><a href="/coupons"><img src="http://static.cookepublishing.com/gdr/specs/CoupCornerWidget300.jpg" border="0"></a></p>
-  </div>
+        <div class="byh">
+      <div class="byh-buttons">
+                <a href="bless-your-heart/nov-11-bless-your-heart-1355365"><img src="/images/byh-read-btn.jpg" width="95" height="24" alt="Bless your heart"></a>
+        <a href="/content/bless-your-heart-121754"><img src="/images/byh-submit-btn.jpg" width="90" height="24" alt="Bless your heart"></a>
+      </div>
+    </div>  </div>
 
   
 </div></div> <!-- /block-inner, /block -->
@@ -429,92 +529,12 @@ _gaq.push(['_setCustomVar',4,'Content Type','None',3]);
   
   <div class="block-content">
     <div class="gdr-spec-carousel" style="padding:0 5px 10px 0;margin:-7px">
-   <iframe src="http://static.cookepublishing.com/gdr/specs/gdrSpecEditCarousel.html" scrolling="no" name="speccarouselFrame" frameborder="0" width="305" height="460"></iframe>
+   <iframe src="http://static.cookepublishing.com/gdr/specs/gdrSpecEditCarousel.html" scrolling="no" name="speccarouselFrame" frameborder="0" width="305" height="460" id="special-sections"></iframe>
 </div>  </div>
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-page-block_0_popular" class="block block-page region-even even region-count-6 count-6"><div class="block-inner">
-
-  
-  <div class="block-content">
-    <div class="most-popular">
-	<div class="popular-titlebar">
-		<h3>Most Popular Stories</h3>
-	</div>
-	<ol class="popular-list"><li><a href="/crimerescue/police-make-meth-busts-1060033">Police make meth busts</a></li><li><a href="/node/1060023">N.C. man gets 7 years for natural gas fraud</a></li><li><a href="/ap/staten/sign-church-used-polling-place-questioned-1060045">Sign at church used as polling place questioned</a></li><li><a href="/opinion/editorials/editorial-voters-amendment-one-message-1059629">Editorial: Voters' Amendment One message</a></li><li><a href="/node/1059987">Shooting suspect caught by police</a></li><li><a href="/news/salvation-army-aims-attract-youth-1059685">Salvation Army targets youth</a> <img border="0" style="border: none; posistion: relative;" src="/images/gdr-indicator.png"></li></ol></div>  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-page-block_0_multimedia" class="block block-page region-odd odd region-count-7 count-7"><div class="block-inner">
-
-  
-  <div class="block-content">
-    	<div class="multimedia" style="clear: both;">
-		<div class="round-top">
-		<h3>Scene Around</h3>		</div>
-		<div class="round-middle">
-			<div class="multimedia-gallery">
-				
-				<div class="multimedia-gallery-tease">
-					<div class="multimedia-gallery-tease1">
-						<a href="/slideshow/scene-around-uptown-umbrella-market-may-9-1050589"><img src="http://reflector.cookepublishing.net/sites/default/files/imagecache/sa_small/mkt_12.JPG" alt="" title="" class="imagecache imagecache-sa_small" width="131" height="88"></a>
-						<p>
-							<a href="/slideshow/scene-around-uptown-umbrella-market-may-9-1050589">SCENE AROUND Uptown Umbrella Market, May 9</a></p>
-					</div>
-					<div class="multimedia-gallery-tease2">
-						<a href="/slideshow/scene-around-ecu-vs-elon-may-8-1050577"><img src="http://reflector.cookepublishing.net/sites/default/files/imagecache/sa_small/ECU.JPG" alt="" title="" class="imagecache imagecache-sa_small" width="131" height="88"></a>
-						<p>
-							<a href="/slideshow/scene-around-ecu-vs-elon-may-8-1050577">SCENE AROUND the ECU-Elon game, May 8</a></p>
-					</div>
-				</div><!-- End multimedia gallery tease -->
-				<div class="multimedia-gallery-list-container">
-					<ul class="multimedia-gallery-list">
-						<li><a href="/slideshow/scene-around-ecu-vs-marshall-may-6-1050575">SCENE AROUND East Carolina vs. Marshall, May 6</a></li><li><a href="/slideshow/scene-around-derby-dash-bash-may-5-1050573">SCENE AROUND the Derby Dash Bash, May 5</a></li><li><a href="/slideshow/scene-around-down-east-walk-defeat-als-may-5-1050571">SCENE AROUND the Walk to Defeat ALS, May 5</a></li><li><a href="/slideshow/scene-around-differently-abled-fun-fair-may-5-1050569">SCENE AROUND Differently Abled Fun Fair, May 5</a></li><li><a href="/slideshow/scene-around-greenville-museum-art-yart-sale-may-5-1050567">SCENE AROUND the Greenville Museum of Art Yart sale</a></li><li><a href="/slideshow/scene-around-ecu-commencement-may-4-1050557">SCENE AROUND graduation at ECU on May 4</a></li></ul><!-- End multimedia gallery list -->
-				</div>
-			
-			</div><!--End Multimedia Gallery-->
-			
-			<div align="center" class="more-slides-link">
-			<a href="/scene-around">More Slideshows</a></div>
-		</div><!-- End Multimedia Middle -->
-		<div class="round-bottom"></div>
-	</div><!-- End Multimedia -->
-	  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-topads-topjobs" class="block block-topads region-even even region-count-8 count-8"><div class="block-inner">
-
-  
-  <div class="block-content">
-    	<div class="round-widget">
-		<div class="round-top">
-			<h3>Top Jobs</h3>		</div>
-	<div class="round-middle">
-	<ul class="topads">
-	<li class="topad"><a href="/ad/7941219">Off Road Equipment Operator<br <="" a=""></a></li><li class="topad"><a href="/ad/7938502">WHAT WE ARE LOOKING FOR IS A CUSTOMER </a></li><li class="topad"><a href="/ad/7939462">SPACE PLANNING ANALYST needed with the </a></li><li class="topad"><a href="/ad/7940028">Medical Billing Collection Specialist </a></li><li class="topad"><a href="/ad/7940208">INSURANCE REPRESENTATIVE needed for </a></li></ul><div class="topads-more"><span class="topad-more"><a href="/ads/jobs">View More</a></span></div>
-	
-	</div>
-		<div class="round-bottom"></div>
-	</div>
-	  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-16" class="block block-block region-odd odd region-count-9 count-9"><div class="block-inner">
-
-  
-  <div class="block-content">
-    <div id="poll">
-</div>
-<script>
-$('#poll').load('/poll.php');
-</script>  </div>
-
-  
-</div></div> <!-- /block-inner, /block -->
-<div id="block-block-17" class="block block-block region-even even region-count-10 count-10"><div class="block-inner">
+<div id="block-block-17" class="block block-block region-even even region-count-6 count-6"><div class="block-inner">
 
   
   <div class="block-content">
@@ -578,7 +598,87 @@ padding-right:50px;
 
   
 </div></div> <!-- /block-inner, /block -->
-</div></td></tr></tbody></table></div>
+<div id="block-page-block_0_popular" class="block block-page region-odd odd region-count-7 count-7"><div class="block-inner">
+
+  
+  <div class="block-content">
+    <div class="most-popular" style="clear: both; ">
+	<div class="popular-titlebar">
+		<h3>Most Popular Stories</h3>
+	</div>
+	<ol class="popular-list"><li><a href="/crimerescue/evicted-neighbors-charged-robbery-1356085">Evicted neighbors charged with robbery</a></li><li><a href="/sports/ecu/painful-victory-ecu-1355345">Painful victory for ECU</a> <img border="0" style="border: none; posistion: relative;" src="/images/gdr-indicator.png"></li><li><a href="/crimerescue/child-support-unit-seeks-5-parents-1355373">Child support unit seeks 5 parents</a></li><li><a href="/opinion/editorials/editorial-school-boards-dysfunction-1355259">Editorial: School board's dysfunction</a></li><li><a href="/opinion/letters/letter-credit-obama-single-issue-voters-1355237">Letter: Credit Obama, single-issue voters</a></li><li><a href="/crimerescue/local-man-killed-wreck-1351785">Local man killed in wreck</a></li></ol></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-page-block_0_multimedia" class="block block-page region-even even region-count-8 count-8"><div class="block-inner">
+
+  
+  <div class="block-content">
+    	<div class="multimedia" style="clear: both;">
+		<div class="round-top">
+		<h3>Scene Around</h3>		</div>
+		<div class="round-middle">
+			<div class="multimedia-gallery">
+				
+				<div class="multimedia-gallery-tease">
+					<div class="multimedia-gallery-tease1">
+						<a href="/slideshow/scene-around-ecu-mens-basketball-vs-wasington-lee-nov-10-1320695"><img src="http://reflector.cookepublishing.net/sites/default/files/imagecache/sa_small/IMG_9798.jpg" alt="" title="" class="imagecache imagecache-sa_small" width="131" height="88"></a>
+						<p>
+							<a href="/slideshow/scene-around-ecu-mens-basketball-vs-wasington-lee-nov-10-1320695">SCENE AROUND ECU basketball season opener</a></p>
+					</div>
+					<div class="multimedia-gallery-tease2">
+						<a href="/slideshow/scene-around-johnny-o-bed-race-nov-10-1320687"><img src="http://reflector.cookepublishing.net/sites/default/files/imagecache/sa_small/127.JPG" alt="" title="" class="imagecache imagecache-sa_small" width="131" height="88"></a>
+						<p>
+							<a href="/slideshow/scene-around-johnny-o-bed-race-nov-10-1320687">SCENE AROUND Johnny O Bed Race, Nov. 10</a></p>
+					</div>
+				</div><!-- End multimedia gallery tease -->
+				<div class="multimedia-gallery-list-container">
+					<ul class="multimedia-gallery-list">
+						<li><a href="/slideshow/scene-around-its-bag-nov-8-1320673">SCENE AROUND It's in the Bag, Nov. 8</a></li><li><a href="/slideshow/scene-around-shagging-cause-nov-7-1343241">SCENE AROUND Shagging for a Cause, Nov. 7</a></li><li><a href="/slideshow/scene-around-benefit-nutcracker-event-nov-4-1320665">SCENE AROUND the Dance Foundation ballet, Nov. 4</a></li><li><a href="/slideshow/scene-around-harvest-table-decorating-contest-nov-4-1320663">SCENE AROUND Harvest Table decorating contest, Nov. 4</a></li><li><a href="/slideshow/scene-around-down-east-holiday-show-nov-3-1320659">SCENE AROUND the Down East Holiday Show, Nov. 3</a></li><li><a href="/slideshow/scene-around-ecu-football-vs-houston-nov-3-1320653">SCENE AROUND ECU football vs. Houston, Nov. 3</a></li></ul><!-- End multimedia gallery list -->
+				</div>
+			
+			</div><!--End Multimedia Gallery-->
+			
+			<div align="center" class="more-slides-link">
+			<a href="/scene-around">More Slideshows</a></div>
+		</div><!-- End Multimedia Middle -->
+		<div class="round-bottom"></div>
+	</div><!-- End Multimedia -->
+	  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-topads-topjobs" class="block block-topads region-odd odd region-count-9 count-9"><div class="block-inner">
+
+  
+  <div class="block-content">
+    	<div class="round-widget">
+		<div class="round-top">
+			<h3>Top Jobs</h3>		</div>
+	<div class="round-middle">
+	<ul class="topads">
+	<li class="topad"><a href="/ad/8052402">CNA's needed for 3-4 day per week </a></li><li class="topad"><a href="/ad/8052623">Certified NA/Habilitation Technicians </a></li><li class="topad"><a href="/ad/8054900">FULL TIME POSITION FOR EXCAVATOR </a></li><li class="topad"><a href="/ad/8054778">NOVA BEHAVIORAL HEALTHCARE CORPORATION </a></li><li class="topad"><a href="/ad/8055508">SENIOR FINANCIAL AND BUDGET ANALYST </a></li></ul><div class="topads-more"><span class="topad-more"><a href="/ads/jobs">View More</a></span></div>
+	
+	</div>
+		<div class="round-bottom"></div>
+	</div>
+	  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-16" class="block block-block region-even even region-count-10 count-10"><div class="block-inner">
+
+  
+  <div class="block-content">
+    <div id="poll">
+</div>
+<script>
+$('#poll').load('/poll.php');
+</script>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</td></tr></tbody></table></div>
 		<div class="footer-top">
     	<div class="footer-content">
     	
@@ -591,8 +691,8 @@ padding-right:50px;
 <li class="footer-link"><a href="/crimemap">Crime map</a></li>
 <li class="footer-link"><a href="/gdr_crime_map">Crime map</a></li>
 <li class="footer-link"><a href="http://www.reflector.com/politics">Elections</a></li>
-<li class="footer-link"><a href="/fact_book">Fact Book</a></li>
-<li class="footer-link"><a href="/jail-bookings">Jail bookings</a></li>
+<li class="footer-link"><a href="/day/fact_book">Fact Book</a></li>
+<li class="footer-link"><a href="/jail-booking">Jail bookings</a></li>
 <li class="footer-link"><a href="http://www.nc-educationlottery.org/">Lottery</a></li>
 <li class="footer-link"><a href="http://www.reflector.com/salaries">Salaries Database</a></li>
 <li class="footer-link"><a href="/news/state">State</a></li>
@@ -648,11 +748,10 @@ padding-right:50px;
 <ul class="footer-list">
 <li class="footer-label"><a href="/extras">Extras</a></li>
 <li class="footer-link"><a href="/her">Her</a></li>
-<li class="footer-link"><a href="http://www.reflector.com/special-sections/her-cookbook-1111">Her Cookbook</a></li>
-<li class="footer-link"><a href="http://www.reflector.com/special-sections/homes1204">Homes Magazine</a></li>
+<li class="footer-link"><a href="http://www.reflector.com/special-sections/herholidaycookbook2012">Her Cookbook</a></li>
+<li class="footer-link"><a href="http://www.reflector.com/special-sections/homes1211">Homes Magazine</a></li>
 <li class="footer-link"><a href="http://www.reflector.com/home-tours">Home Tours</a></li>
-<li class="footer-link"><a href="/fact_book">Living in Pitt County</a></li>
-<li class="footer-link"><a href="/mixer">mixer</a></li>
+<li class="footer-link"><a href="http://www.greenvillemixer.com">mixer</a></li>
 <li class="footer-link"><a href="http://nieonline.com/cooke/index.cfm">Newspapers in Education</a></li>
 <li class="footer-link"><a href="http://www.reflector.com/gdr_service_directories">Service directories</a></li>
 <li class="footer-link"><a href="/workweek">Workweek</a></li>
@@ -660,7 +759,7 @@ padding-right:50px;
 </div><div class="footer-column"><ul class="footer-list">
 <li class="footer-label"><a href="/customerservice">Customer Service</a></li>
 <li class="footer-link"><a href="/customerservice">Customer Service</a></li>
-<li class="footer-link"><a href="/circ-store">Subscribe</a></li>
+<li class="footer-link"><a href="/subscribe">Subscribe</a></li>
 <li class="footer-link"><a href="http://www.reflector.com/node/123865">Feedback</a></li>
 <li class="footer-link"><a href="/customerservice">Contact Us</a></li>
 <li class="footer-link"><a href="/staffdirectory">Staff Directory</a></li>
@@ -684,11 +783,11 @@ padding-right:50px;
     </div>
     <div class="footer-bottom">
     	<div class="footer-privacy">
-    	<p class="copyright">Copyright 2010 The Daily Reflector. All rights reserved</p>
+    	<p class="copyright">Copyright 2013 The Daily Reflector. All rights reserved</p>
     	<p class="privacy"><a href="http://reflector.cookepublishing.net/customerservice/privacypolicy">Privacy Policy</a> | <a href="http://reflector.cookepublishing.net/customerservice/termsofagreement">User Agreement</a></p>
     	</div>
     </div>
    	
 
  
-</div></div></body></html>
+</div><div id="overlay" style="display: none;"></div> 			<div id="lightbox" style="display: none;"> 				<div id="outerImageContainer" style="width: 250px; height: 250px;"> 					<div id="imageContainer"> 						<img id="lightboxImage" galleryimg="false"> 						<div style="" id="hoverNav"> 							<a href="#" id="prevLink" style="padding-top: 10px; padding-left: 10px;"></a> 							<a href="#" id="nextLink" style="padding-top: 10px; padding-right: 10px;"></a> 						</div> 						<div id="loading"> 							<a href="#" id="loadingLink"> 								<img src="/sites/all/modules/jlightbox/images/loading.gif"> 							</a> 						</div> 					</div> 				</div> 				<div id="imageDataContainer"> 					<div id="imageData"> 						<div id="imageDetails"> 							<span id="caption"></span> 							<span id="numberDisplay"></span> 						</div> 						<div id="bottomNav"> 							<a href="#" id="bottomNavClose"> 								<img src="/sites/all/modules/jlightbox/images/closelabel.gif"> 							</a> 						</div> 					</div> 				</div> 			</div></body></html>
