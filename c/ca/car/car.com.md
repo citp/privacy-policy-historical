@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514022816id_/http%3A//www.car.com/content/home/help/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112163946id_/http%3A//www.car.com/content/home/help/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Car.com
 
