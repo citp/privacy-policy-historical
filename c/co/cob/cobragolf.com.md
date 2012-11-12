@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170504id_/http%3A//www.cobragolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112030244id_/http%3A//cobragolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Cobra Golf Clubs | Privacy Policy - Cobra Golf USA
 
