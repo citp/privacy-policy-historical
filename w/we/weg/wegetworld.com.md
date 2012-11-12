@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegetworld.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504061210id_/http%3A//www.wegetworld.com/what-is-cs-cart.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegetworld.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112070047id_/http%3A//www.wegetworld.com/what-is-cs-cart.html) for the most accurate reproduction.*
 
 # Privacy & security - Shopping Cart Software & Ecommerce Software Solutions by CS-Cart
 
