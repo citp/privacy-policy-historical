@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theofficialcharts.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207065852id_/http%3A//www.theofficialcharts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theofficialcharts.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112063534id_/http%3A//www.officialcharts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,15 +118,7 @@ All changes to this Privacy Policy will be published on this page and on the app
 
 ### 16\. Cookies
 
-Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you.  Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that.  However, you may not be able to take full advantage of a website if you do so.  Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web.  Although they do identify a user's computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies.
-
-We may use cookies to:  
-•    identify who you are and to access your account information;  
-•    estimate our audience size and patterns;  
-•    control how often visitors see similar adverts on the Site; and  
-•    track preferences to improve and update our Site.
-
-For more information on cookies and how to disable them you can consult the information provided by the Interactive Advertising Bureau UK at http://www.allaboutcookies.org/
+Read our cookie policy [here](http://www.officialcharts.com/cookie-policy/).
 
 ### 17\. Security
 
