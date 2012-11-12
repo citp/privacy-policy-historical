@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615062335id_/http%3A//www.oxy.com/Information/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112162838id_/http%3A//www.oxy.com/Information/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Oxy | Privacy Policy
 
