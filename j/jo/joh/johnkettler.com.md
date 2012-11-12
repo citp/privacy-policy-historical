@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the johnkettler.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513125424id_/http%3A//johnkettler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnkettler.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112191224id_/http%3A//johnkettler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | John Kettler Investigates
+# Privacy Policy - John Kettler Investigates
 
 The following describes the Privacy Policy for our John Kettler Investigates website.
 
@@ -50,3 +50,5 @@ We have included links on this website for your use and reference. We are not re
 **COPYRIGHT WARNING:** The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at JohnKettler.com have paid to license the use of these legal notices and administrative pages on John Kettler Investigates for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our [Contact](http://johnkettler.com/contact-webmaster/) information.
+
+### Share and Enjoy
