@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521213904id_/http%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112052335id_/http%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Privacy Statement | BLR.com
 
@@ -41,6 +41,8 @@ This Privacy Policy is subject to modification from time to time. You may be not
 **Opt-Out; Correcting Information**
 
 You may opt out of having Identifying Information used for non-essential purposes, disclosed to third parties or used to send promotional correspondence by contracting BLR at the mailing address or email address below.  You may also correct information in your registration form by contacting us at the address below. To ensure that your intention in the email is clear, you should include the words “opt-out” and “Indentifying Information” in the subject field of such email. If you have any questions regarding this policy, please contact: 
+
+Some BLR websites use ClickTale web analytics service on a very limited number of pages. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in the website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. The information collected by ClickTale service is used, on an aggregate basis, to improve site usability. You can choose to disable the service at http://www.clicktale.net/disable.html 
 
 Customer Service  
 BLR, Inc.  
