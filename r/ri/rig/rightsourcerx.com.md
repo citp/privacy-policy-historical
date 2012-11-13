@@ -1,41 +1,82 @@
-> *The following text is extracted and transformed from the rightsourcerx.com privacy policy that was archived on 2008-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080117075558id_/http%3A//www.rightsourcerx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightsourcerx.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114003056id_/https%3A//www.rightsourcerx.com/custserv/info.cmd%3FpageName%3Dprivacystatement) for the most accurate reproduction.*
 
-# RightSource - Internet Privacy Statement
+# Internet Privacy Statement: RightSourceRx.com
+
+Relationships are built on trust. One of the most important elements of trust is respect for an individual's privacy. Humana RightSource values our relationship with you, and we take your personal privacy seriously.
+
+We are committed to ensuring that users of this website understand this website's privacy practices. This Internet Privacy Statement will outline 1) what personal information may be collected, 2) how that personal information may be utilized, 3) who may have access to the personal information and 4) how the personal information is protected within the secure infrastructure of this website. This Internet Privacy Statement applies to this website, the services provided and the information collected. 
+
+If you have questions or concerns about this Internet Privacy Statement and/or the privacy practices of this website, please contact the Humana RightSource Privacy Office, 101 E. Main Street, 003/10911, Louisville, KY 40202. 
+
+  
+
 
 ### Commitment to Confidentiality
 
-This internet privacy statement will assure you that the information you share with Humana Inc. is kept confidential and fully secure. Humana Inc. may change this internet privacy statement at any time by prominently posting revisions to our Web site although, you will be notified of any modifications in the use of Personally Identifiable Information via email, mail or phone depending on circumstances.
+Confidentiality is a top priority at Humana RightSource. We are committed to maintaining the highest level of confidentiality with all of the information we receive from this website's users. This Internet Privacy Statement assures you that the information you share with Humana RightSource is kept confidential and fully secure. 
 
-Links to other web sites are available in order to provide you with additional useful information and services. Links that take you off our site are clearly labeled. We are not responsible for the privacy policies or actions of those that control other web sites. We encourage you to look for and review the privacy policies of any site you visit.
+Links to other websites may be available to provide you with additional useful information and services. Links that take you off this website are clearly labeled. Humana RightSource is not responsible for the privacy policies or actions of those who control other websites. We encourage you to look for and review the privacy policies of any website you visit. 
 
-Humana has also partnered with third parties and provides links to their web sites to offer you additional information and services. You may see both the Humana logo and the third parties logo on these third party web sites. Users of these web sites will be aware of who is collecting personal information and whose internet privacy policy applies prior to providing personal information. Humana does not have control over our third party partner's use of your information.
+Humana RightSource may also partner with third parties and provides links to their websites to offer you additional information and services. You may see both the Humana RightSource logo and the third party's logo on these third-party websites. Users of these websites should be aware of who is collecting personal information and who's Internet Privacy Statement applies before they provide personal information. Humana RightSource may not have control over third-party partners' use of your information. 
 
-### Personal Information
+### Collection and Use of Personal Information
 
-At Humana Inc. (and its wholly owned subsidiaries), we are very aware of the privacy concerns of our customers and others who visit the Humana Web site. In fact, we share your concerns and will not solicit personal information from you as you tour our site, though you may provide that information voluntarily. If you do elect to provide personal information to us, in no case will we sell, license or transmit that information outside of Humana Inc. for any reason, unless you authorize us to do so.
+Users of this website have the option to provide certain personal information. This personal information may be required in order to receive specific services. By providing such information, you are agreeing that Humana RightSource may store, process, and review such information. And we may use this personal information for the purpose for which it was collected. 
 
-There are instances in which Humana Inc. might internally use the personal information you voluntarily submit. These instances include identifying and registering you for the Self-Service Center portion of our Web site. In addition, we may disclose your personal information (as described below) to our agents, third party partners, affiliates and subsidiaries to enable them to perform certain functions for us. We may also use your Secret Prompt, Secret Response and birth date to later identify you in case you forget or misplace your password. By learning a little about you, Humana Inc. can deliver more relevant content and product offerings, hence provide you better service.
+We collect certain personally identifiable information from our users at different places within this website. Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, telephone number, etc. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and address). 
 
-Personally Identifiable Information is described as data that is unique to an individual, such as a name, address, telephone number, social security number and date of birth (DOB). At times, we may request personal information from you through our Web sites in order to deliver requested materials to you, respond to your questions, or deliver a product or service. Members, physicians, employers, business partners and agents have the ability to register in a secured area of our Web site in order for us to deliver such products or services. Additional information collected by these web sites may include organization names, addresses, group numbers and tax identification numbers. The purpose of the registration is to validate members, providers, employers, business partners and agents requesting access to our secured area. The registration also enables us to tailor the information sent to you. Contact forms are used only to deliver requested materials and respond to your questions.
+Members, non-members, medical providers, and pharmacists have the ability to register for access to the secured area of this website. To access the secured website, you may need to provide additional information such as organization names, addresses and tax identification numbers. The purpose of the registration process is to validate who is requesting access to our secured area. Registration also enables us to tailor the information you receive. 
 
-By providing an email address, you are indicating that publications can be sent to your email address. You are not required at any time to submit your email address for the purpose of receiving recurring informational/promotional emails from Humana Inc. and/or third parties. You may opt out of receiving publications via email by contacting the Customer Service toll-free number that appears on your member identification card or indicating your preference on our Web site. At the time of login to the Self Service area, you have the option to change your password and email address. In case you forget or misplace your Password, we will use your Secret Prompt and Secret Response to identify you in order to provide this information to you. Your personally identifiable information can be changed by contacting the Customer Service toll-free number that appears on your member identification card.
+We may use the voluntarily provided contact information to notify website users of updates, products, services, or upcoming events. Website users who do not wish to receive such notifications via e-mail can choose to opt out of receiving such information. It is our policy that e-mail messages will contain an "unsubscribe" feature, along with instructions on how to execute the unsubscribe function. Registered website users can opt out of receiving e-mail messages by updating their communications preferences within the secured portion of the RightSourceRx.com website. 
 
-We also collect information about you and your use of our site through the use of Cookies. "Cookies" are small computer files that we transfer to your computer's hard drive that grant you access to both secured and unsecured areas and are only used for session tracking. Cookies are required to gain access to the secured areas of our site. Access to these secured areas will not be granted if the cookie is rejected. This Web site's cookies are not tied to personally identifiable information.
+After completing the log in process, website users have the option to change their password, e-mail address, security question and response and communication preferences. In case the website user forgets or misplaces their password, Humana RightSource will use the security question and response to identify the website user and grant access to the website. To change your personally identifiable information, please contact the appropriate Humana RightSource customer care representative listed on at the bottom of this website's [Home Page](https://web.archive.org/web/20121114003056id_/https%3A//www.rightsourcerx.com/home.jsp).
 
-Information that is automatically logged for the purpose of producing reports containing hit volumes are: Query String, Status, Bytes Sent, User-Agent (Browser Type) and Cookie Referrer.
+We recognize that when website users choose to provide personal information, they trust that we will protect their privacy and will provide them with choices about how that information is to be shared. Humana RightSource will not sell, trade, rent or disclose the personal information that you provide unless required to do so by law. 
 
-Personally Identifiable Information provided to Humana may be subject to disclosure to judicial or other government subpoenas, warrants or orders.
+There are instances in which Humana RightSource may disclose website user's personal information to our agents, third-party partners, affiliates, and subsidiaries to enable them to perform functions on our behalf. These business functions may include but not limited to order or service fulfillment, e-mail campaign provider, and/or credit card processing service. These companies are only permitted to share, store and/or use personal information for contracted business purposes. 
 
-Internal Security Procedures.Information that you share with us is kept strictly confidential and fully secure. Your encrypted (encoded) information is protected using "Secure Socket Layers (SSL)" as it passes between your browser and the Humana Inc. servers. Only authorized persons are permitted to access your personal information. All authorized persons must abide by security, privacy and confidentiality agreements.
+We may share your personal information when we believe that such action is necessary to: 1) fulfill an enforceable government request; 2) conform with the requirements of the law or legal process; 3) protect or defend our legal rights or property, this website, or other users; or 4) protect your health and safety or the health and safety of this website's users or the general public. 
+
+### Technology Use on this Website
+
+Information about you and your use of this website is collected through the use of session cookies. Session cookies are small text files that are stored within your computer. These files are used to facilitate your navigation throughout this website. 
+
+Persistent cookies are small computer files that are transferred to your computer's hard drive. Persistent cookies are used to grant you access to both public and private areas and are only used for session tracking. Information stored within both session and persistent cookies are not tied to your Personally Identifiable Information. 
+
+If you are concerned about the storage and use of cookies, you may be able to direct your Internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your Internet browser or other programs. You can also set your browser to refuse all cookies. Please note, however, that some parts of this website may not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies 
+
+To gauge the effectiveness of this website, we may collect non-personal information about our website users. This information may include, among other things, your: IP address, browser type, internet service provider (ISP), domain names, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the website, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically collected data to personal information. 
+
+### Internal Security Procedures
+
+Information that you share on the website is kept strictly confidential and fully secure. Your encrypted (encoded) information is protected using "Secure Socket Layers (SSL)" as it passes between your browser and this website. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. 
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Only authorized persons are permitted to access your personal information. All authorized persons must abide by security, privacy, and confidentiality agreements. 
 
 ### Email
 
-Should you send us your questions, comments and job inquiry via email to any mail box provided on this Web site; we will share your correspondence with our Customer Service representatives and those employees or agents most capable of addressing your questions and concerns. We will retain your communication until we have done our very best to provide you with a complete and satisfactory response. Ultimately, we will either discard your communication or, in some cases, archive it. Your email address will not be retained for secondary purposes.
+If you send questions or comments to an e-mail address listed within this website or via a contact form located within this website, we will share your correspondence with a Humana RightSource associate most capable of addressing your questions and concerns. We will retain your communications until we have done our very best to provide you with a complete and satisfactory response. Ultimately, we will either discard your communication or, in some cases, archive it. We will not keep your e-mail address for secondary purposes. All information and correspondence you share with us will be handled in the strictest confidence. 
 
-All information and correspondence you share with us will be handled in the strictest confidence. Please note that the email facilities on the unsecured areas of our Web site (unlike those areas that require a sign-on and are password-protected) do not provide the same level of security. For that reason, please do not use unsecured email to communicate information to us that you consider to be confidential. If you wish, you may contact Humana Inc. via telephone at the Customer Service toll-free number that appears on your member identification card. Secured messaging facilities are available in the secured areas of our Web site. If you are authorized, you may use these facilities when you wish to communicate confidential or private information to us.
+We may agree that e-mail has become a standard communication tool used by many different parties. Unfortunately by design standard Internet e-mail is not secure. For that reason, please do not use unsecured e-mail to communicate information to us that you may consider to be confidential. For communications concerning confidential information, please, contact the appropriate Humana RightSource customer care representative listed on at the bottom of this website's [Home Page](https://web.archive.org/web/20121114003056id_/https%3A//www.rightsourcerx.com/home.jsp).
+
+### California Privacy Rights
+
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. 
+
+You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing by contacting the Humana RightSource at the contact information listed at the bottom of this Internet Privacy Statement. 
+
+### Children's Privacy 
+
+This website is not intended for use by children under the age of 18.
 
 ### Internet Privacy Statement Changes
 
-This Internet Privacy Statement is effective as of October 2006 and was last updated on October 2006. This internet privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
+This Internet Privacy Statement is effective as of October 2006 and was last updated in October 2011. This Internet Privacy Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
 
-For More Information.The Humana Inc. website is maintained by Humana Inc., 500 West Main Street, Louisville, KY 40202
+If we decide to change this website's privacy practices, we will post those changes to this Internet Privacy Statement, the home page, and other places that we deem appropriate so that you are aware of what information is being collected, how the information is being used, and under what circumstances, if any, the information may be disclosed. Humana RightSource reserves the right to modify this Internet Privacy Statement at any time, so please review it frequently.
+
+### More Information
+
+This website is maintained by:
+
+Humana RightSource 500 West Main Street Louisville, KY 40202 
