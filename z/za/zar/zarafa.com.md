@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the zarafa.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524064104id_/http%3A//www.zarafa.com/content/zarafa-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarafa.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113202725id_/http%3A//www.zarafa.com/content/zarafa-privacy-policy) for the most accurate reproduction.*
 
 # Zarafa Privacy Policy | www.zarafa.com
 
 **Purpose and Scope**  
-This policy discloses what information we gather when visiting Zarafa.com or buy products directly from us. It describes how we use that information and how you can control it.
+This policy discloses what information we gather when visiting zarafa.com or buy products directly from us. It describes how we use that information and how you can control it.
 
 **Information Zarafa gathers and tracks**  
 Zarafa collects two kinds of information from users:
@@ -40,7 +40,7 @@ If you do not want your personal information to be stored by cookies, you can co
 Our website also automatically captures IP addresses. We use IP addresses to help diagnose problems with our server, to administer our website, and to help ensure the security of your interaction with the website.
 
 **Services**  
-This site contains links to other sites. Zarafa is not responsible for the privacy practices or the content of other Web Sites.
+This site contains links to other sites. Zarafa is not responsible for the privacy practices or the content of other web sites.
 
 **Contests & Surveys**  
 We may run contests or surveys on our site in which we ask our users for contact information (like their email address). We use the customer contact information from the entry form to send the user information out our company and its products, or to contact them when it becomes necessary (notices like, updates, patches, etc...). Users may opt-out of receiving future mailings (see the choice/opt-out section below).
@@ -49,19 +49,22 @@ We may run contests or surveys on our site in which we ask our users for contact
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All the data regarding users, their computers' system information and benchmark results are stored on a server. This server is located in a locked and guarded space and only authorised Zarafa personnel have access to the database containing given user names and passwords.
 
 **Notification of Changes**  
-If we change our Privacy Policy, we will post those changes on [www.Zarafa.com](http://www.zarafa.com/ "www.Zarafa.com"). If we decide to use personally identifile information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
+If we change our Privacy Policy, we will post those changes on [www.zarafa.com](http://www.zarafa.com/ "www.zarafa.com"). If we decide to use personally identifile information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us and from our partners at the point where we request information out the user.  
 This site gives users the following options for removing their information from our datase so they no longer receive future communications or access to our other services:
 
-  1. You can send email to [webmaster@Zarafa.com](mailto:webmaster@Zarafa.com), stating your request.
+  1. You can send email to [webmaster@zarafa.com](mailto:webmaster@zarafa.com), stating your request.
   2. You can reply to any unwanted communications that you receive, stating your request.
 
 
 
 **Reviewing personal data**  
-You can review and validate the information which we have collected from you by sending an email to [webmaster@Zarafa.com](mailto:webmaster@Zarafa.com) and requesting a review of your personal data.
+You can review and validate the information which we have collected from you by sending an email to [webmaster@zarafa.com](mailto:webmaster@zarafa.com) and requesting a review of your personal data.
 
 **Contacting the Web Site**  
-If you have any questions or comments out of this privacy statement, the practices of this site, or your dealings with this website, you can contact [webmaster@Zarafa.com](mailto:webmaster@Zarafa.com) and/or [privacy@Zarafa.com](mailto:privacy@Zarafa.com) .
+If you have any questions or comments out of this privacy statement, the practices of this site, or your dealings with this website, you can contact [webmaster@zarafa.com](mailto:webmaster@zarafa.com).
+
+**WebApp feedback  
+**In the product Zarafa WebApp, end users have the possibility to send feedback directly to Zarafa. This feedback, including any attachments, passed to Zarafa this way will be stored, analyzed and handled to improve the quality and usefulness of the software. It will not be made public in any way. You may optionally provide contact details, which are not used in any way except to communicate about this feedback. With the feedback, the following information is also sent to Zarafa: the version of WebApp and the Zarafa server, the brand and version of the browser, screen resolution and the URL WebApp is used from. You can request removal of this information by sending an e-mail to [webmaster@zarafa.com](mailto:webmaster@zarafa.com). By clicking " _Submit_ " or " _Send_ " in either the " _Features Submitter_ " widget, the " _Bug Reporter_ " widget, or the window that is created when clicking the " _Feedback?_ " button, you agree to these terms
