@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the singleplatform.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604064604id_/http%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singleplatform.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113160920id_/https%3A//www.singleplatform.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SinglePlatform
 
 ### PRIVACY POLICY
+
+##### 
 
 This Privacy Policy describes the policies and procedures of SinglePlatform, Corp. (“we”, “our” or “us”) on the collection, use and disclosure of your information on http://www.singleplatform.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
@@ -10,11 +12,15 @@ SinglePlatform, Corp. has been awarded TRUSTe’s Privacy Seal signifying that t
 
 ### What Does This Privacy Policy Cover?
 
+##### 
+
 This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
 This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
 ### What Information Do We Collect?
+
+##### 
 
 The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
@@ -57,6 +63,8 @@ _Aggregate Information:_
 We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
 
 ### How, and With Whom, Is My Information Shared?
+
+##### 
 
 The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties. We will share your personal information with third parties only in the ways that are described in this privacy statement and will never sell your personal information. 
 
@@ -106,6 +114,8 @@ Except as set forth above, you will be notified when your Personal Information m
 
 ### Is Information About Me Secure?
 
+##### 
+
 Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.
 
 We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
@@ -113,6 +123,8 @@ We seek to protect Account information to ensure that it is kept private; howeve
 We otherwise store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
 
 ### What Information of Mine Can I Access?
+
+##### 
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings. If the personally identifiable information that is on file with us changes, you may correct or update it on our site by making the change on the account information page or by contacting us at customerservice@singleplatform.com.
 
@@ -124,11 +136,15 @@ New York, NY 10004
 
 ### How Can I Delete My Account?
 
+##### 
+
 Should you ever decide to delete your Account, you may do so by emailing customerservice@singleplatform.com. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at customerservice@singleplatform.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### What Choices Do I Have Regarding My Information?
+
+##### 
 
   * You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
   * You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
@@ -142,6 +158,8 @@ We will retain your information for as long as your account is active or as need
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
 
 ### What If I Have Questions or Concerns?
+
+##### 
 
 If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to customerservice@singleplatform.com. We will make every effort to resolve your concerns.
 
