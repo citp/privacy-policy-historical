@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balticservers.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624024102id_/http%3A//www.balticservers.com/hosting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balticservers.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113193852id_/http%3A//www.balticservers.com/hosting-privacy-policy) for the most accurate reproduction.*
 
-# Dedicated Servers in Europe - Linux, Windows Servers, Vps, Collocation, Unlimited Cpanel hosting | BalticServers.com
+# Dedicated Server hosting in Europe - Linux, Windows Servers, Vps hosting, Colocation, Unlimited Cpanel hosting | BalticServers.com
 
 In an effort to protect our clients' and site visitors privacy and rights, BalticServers.com has established a Privacy Policy which explains what information we gather on visitors and what we do with that information. This Privacy Policy governs the manner in which BalticServers.com collects, uses, maintains and discloses information collected from users of this Web site. 
 
@@ -14,4 +14,4 @@ BalticServers.Com collects identifiable information from Users through online fo
 
 ##  How We Use Information
 
-Baltiservers.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by Baltiservers.com and its trusted affiliates and business partners, and otherwise to enhance Users' experience with Baltiservers.com and such affiliates, independent contractors and business partners. At no time will Baltiservers.com's database of users ever be sold. Personal information will not be sold or otherwise transferred to our business partners without your prior consent, except that we will disclose the information we collect to third parties when, in our good faith judgment, we are obligated to do so under applicable laws.
+BalticServers.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by BalticServers.com and its trusted affiliates and business partners, and otherwise to enhance Users' experience with BalticServers.com and such affiliates, independent contractors and business partners. At no time will BalticServers.com's database of users ever be sold. Personal information will not be sold or otherwise transferred to our business partners without your prior consent, except that we will disclose the information we collect to third parties when, in our good faith judgment, we are obligated to do so under applicable laws.
