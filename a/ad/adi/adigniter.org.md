@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adigniter.org privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430173209id_/http%3A//www.adigniter.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adigniter.org privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114004532id_/http%3A//www.adigniter.org/privacy.html) for the most accurate reproduction.*
 
 # Ad Igniter
 
