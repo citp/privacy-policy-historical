@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponsaregreat.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510041542id_/http%3A//www.couponsaregreat.net/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsaregreat.net privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113130943id_/http%3A//www.couponsaregreat.net/disclosure-policy) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy - Coupons Are Great
+# disclosure and privacy policy
 
 **Here are the two big bullet points I know I always look for:**
 
@@ -90,3 +90,16 @@ Alpharetta, GA 30004 USA
 feedback@couponsaregreat.net
 
 This policy was last modified on May 4th, 2011
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Disclosure%20%26%20%20Privacy%20Policy%20-%20http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&t=Disclosure%20%26%20%20Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Disclosure%20%26%20%20Privacy%20Policy&body=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&title=Disclosure%20%26%20%20Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&title=Disclosure%20%26%20%20Privacy%20Policy&notes=Here%20are%20the%20two%20big%20bullet%20points%20I%20know%20I%20always%20look%20for%3A%0D%0A%0D%0A%09We%20respect%20your%20privacy.%20%C2%A0Any%20information%20we%20collect%20about%20you%20will%20not%20be%20shared.%20%C2%A0The%20only%20exception%20is%20if%20you%20win%20a%20giveaway%20we%20may%20need%20to%20pass%20your%20information%20along%20to%20the%20spons "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&title=Disclosure%20%26%20%20Privacy%20Policy&srcURL=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&srcTitle=Coupons+Are+Great+ "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&title=Disclosure%20%26%20%20Privacy%20Policy&source=Coupons+Are+Great+&summary=Here%20are%20the%20two%20big%20bullet%20points%20I%20know%20I%20always%20look%20for%3A%0D%0A%0D%0A%09We%20respect%20your%20privacy.%20%C2%A0Any%20information%20we%20collect%20about%20you%20will%20not%20be%20shared.%20%C2%A0The%20only%20exception%20is%20if%20you%20win%20a%20giveaway%20we%20may%20need%20to%20pass%20your%20information%20along%20to%20the%20spons "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.couponsaregreat.net%2Fdisclosure-policy%2F&Title=Disclosure%20%26%20%20Privacy%20Policy "BlinkList")
+  * 
+
