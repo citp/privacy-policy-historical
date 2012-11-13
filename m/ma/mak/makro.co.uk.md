@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514104921id_/http%3A//store.makro.co.uk/t-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113210450id_/http%3A//store.makro.co.uk/t-Privacy.aspx) for the most accurate reproduction.*
 
 # Makro Privacy Policy
 
@@ -15,8 +15,6 @@ We take the privacy of all our customers and website users seriously. This Priva
 **Identity Protection:** Any information you provide may be used to verify your identity and assist Makro in preventing or detecting fraud. As part of these checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
 
 **Customer Contact:** Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
-
-**International:** As MAKRO is part of the METRO-Group, a large group of companies operating internationally, Personal Data may be transferred to and back from one of the International Data Centres of the METRO-Group (operated by the METRO-Group Information Technology GmbH (MGI), “Data Centres”) and may be processed in the Data Centres to achieve the purposes identified above. MAKRO and the Data Centres operate in compliance with European data protection rules to provide for a coherent level of adequate data protection even in those cases where data are transferred to countries with a different level of data protection.
 
 **Security:** Access to Personal Data will be limited to authorised employees as required for the purposes identified above as well as IT security and maintenance. MAKRO uses reasonable technical and organisational measures to protect the security and confidentiality of Personal Data and regularly reviews and improves these measures as necessary to reflect legal developments and/or improvements in available technology.
 
