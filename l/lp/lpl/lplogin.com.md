@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lplogin.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613211812id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lplogin.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113151731id_/http%3A//www.lpwebhosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Lunarpages Privacy Policy
+# Privacy Policy | Lunarpages Web Hosting
 
 Lunarpages takes your privacy very seriously. This document sets forth a list of promises that we make to you regarding your privacy and security on the Lunarpages web site. This document will let you know what information we collect from Lunarpages users and how we use that information. This document will let you know what choices you have concerning your personal information and inform you how to make them.
 
@@ -8,7 +8,7 @@ Lunarpages takes your privacy very seriously. This document sets forth a list of
 
 Lunarpages collects information from customers who sign up for Web Hosting Services, Domain Name Registration, Affiliate Accounts, Web Hosting Resale Accounts and other such services. This information includes but may not be limited to name, address, telephone number, email address, billing information, URL information and other data relating to the sale, use and billing of such services. This information is used for the registration and management of your account. It may also be used to contact you for purposes of collecting any outstanding balance on your account.
 
-Lunarpages may use this information internally to provide the services that you have requested and facilitate customer communications, domain registration services, web hosting services and billing and collection activities associated therewith. Lunarpages may from time to time also communicate with you on behalf of our marketing partners. Lunarpages will also in some instances share your personally identifiable information with our approved marketing partners for marketing purposes related to specific special offers that we believe you would like to receive based upon the services that you express an interest in from us. We require all marketing partners to comply with the Federal CAN-SPAM Act and all other applicable laws. We require that each such marketing partner provide a conspicuous opt-out link for your use to remove your information from their email list. Furthermore, if you wish us not to share your email address or other personally identifiable information you may contact us by email at [support@lunarpages.com](mailto:support@lunarpages.com).
+Lunarpages may use this information internally to provide the services that you have requested and facilitate customer communications, domain registration services, web hosting services and billing and collection activities associated therewith. Lunarpages may from time to time also communicate with you on behalf of our marketing partners. Lunarpages will also in some instances share your personally identifiable information with our approved marketing partners for marketing purposes related to specific special offers that we believe you would like to receive based upon the services that you express an interest in from us. We require all marketing partners to comply with the Federal CAN-SPAM Act and all other applicable laws. We require that each such marketing partner provide a conspicuous opt-out link for your use to remove your information from their email list. Furthermore, if you wish us not to share your email address or other personally identifiable information you may contact us by email at [support@lunarpages.com](mailto:support@lunarpages.com).
 
 #### Surveys or Contests
 
@@ -38,7 +38,7 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 #### Your Websites
 
-Information that you post on the Internet or in public forums can be read, collected, or used by other users of the Internet, and could be used to identify you, contact you, send you unsolicited messages or for any other possible purpose. We have no control over the use of such information. We are not responsible for any personally identifiable information you post and we caution you to consider all such information to be publicly available. If you believe that you have been contacted in a manner that is in violation of our Terms of Service please notify us and include all information you may have as to the nature of any communication that you received and the identity of the person initiating such communication. Please send all notices under this paragraph to [abuse@lunarpages.com](mailto:abuse@lunarpages.com).
+Information that you post on the Internet or in public forums can be read, collected, or used by other users of the Internet, and could be used to identify you, contact you, send you unsolicited messages or for any other possible purpose. We have no control over the use of such information. We are not responsible for any personally identifiable information you post and we caution you to consider all such information to be publicly available. If you believe that you have been contacted in a manner that is in violation of our Terms of Service please notify us and include all information you may have as to the nature of any communication that you received and the identity of the person initiating such communication. Please send all notices under this paragraph to [abuse@lunarpages.com](mailto:abuse@lunarpages.com).
 
 According to our Terms of Service misuse of such information can result in the termination of a user account.
 
@@ -46,7 +46,7 @@ According to our Terms of Service misuse of such information can result in the t
 
 The security of your personal information is important to us. Information that you submit in relation to a financial transaction is encrypted using secure socket layer technology (SSL). Information in our possession is maintained according to generally accepted industry standards. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you may contact us at [support@lunarpages.com](mailto:support@lunarpages.com).
+If you have any questions about security on our Web site, you may contact us at [support@lunarpages.com](mailto:support@lunarpages.com).
 
 #### Business Transitions
 
@@ -62,11 +62,11 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at:
 
-Add2Net, Inc.   
-Lunarpages Division   
-1360 N Hancock St.   
+Add2Net, Inc.   
+Lunarpages Division   
+1360 N Hancock St.   
 Anaheim, CA 92807  
-Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
+Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
 
 #### Lunarpages - Under 13 Privacy Statement
 
@@ -83,11 +83,11 @@ Lunarpages offers hosting customers the opportunity to access or modify informat
 If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
 Customer Service  
-Add2Net, Inc.   
-Lunarpages Division   
-1360 N Hancock St.   
+Add2Net, Inc.   
+Lunarpages Division   
+1360 N Hancock St.   
 Anaheim, CA 92807  
-Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
+Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
 
 #### Revisions to This Policy
 
