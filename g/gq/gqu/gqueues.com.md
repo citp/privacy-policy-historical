@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621212432id_/http%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114005923id_/https%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GQueues
 
@@ -28,9 +28,9 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process.
 
-##### Google Checkout
+##### Google Wallet
 
-When you use Google Checkout to finalize and pay for your order, you will provide your credit card number directly to Google Checkout. Google's privacy policy will apply to the information you provide on the Google Checkout Web site.
+When you use Google Wallet to finalize and pay for your order, you will provide your credit card number directly to Google Wallet. Google's privacy policy will apply to the information you provide on the Google Wallet Web site.
 
 ##### Cookies
 
@@ -93,5 +93,5 @@ The security of your personal information is important to us. We follow generall
 We may update this privacy policy to reflect changes to our information practices. If we make any change in how we use your personal information we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 GQueues LLC   
-1330 W. School St. #3   
-Chicago, IL 60657 
+4716 N. Rockwell St. #2   
+Chicago, IL 60625 
