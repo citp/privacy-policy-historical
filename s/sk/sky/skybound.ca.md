@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501012518id_/http%3A//www.skybound.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113055720id_/http%3A//www.stylizerapp.com/privacy) for the most accurate reproduction.*
 
-# Skybound's Home Page
+# Privacy Policy - Skybound Software
 
 ## What information do we collect?
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.skybound.ca. 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.stylizerapp.com 
 
 ## Your Consent
 
@@ -74,12 +74,4 @@ This policy was last modified on **September 10, 2008**.
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below. Or, you can proceed to our [contact form](https://web.archive.org/contact). 
-
-www.skybound.ca  
-2861 Merrittville Hwy.  
-Fonthill, ON L0S 1E6  
-Canada  
-support (at) skybound.ca  
-+1 877-4-SKYBOUND (+1 877-475-9268)  
-
+If there are any questions regarding this privacy policy you may contact us by [clicking here](https://web.archive.org/contact). 
