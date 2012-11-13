@@ -1,75 +1,82 @@
-> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514104649id_/http%3A//www.tescodiets.com/index.cfm%3Fcurrpage%3Dcompany%26subsection%3DprivacyTescoDiets%26code%3D24030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113141329id_/http%3A//www.tescodiets.com/index.cfm%3Fcurrpage%3Dcompany%26subsection%3DprivacyTescoDiets%26code%3D24030) for the most accurate reproduction.*
 
 # Privacy Policy | Tesco Diets
 
-These Terms and Conditions govern your use of the Tesco Diets website (Tesco Diets Site) and your relationship with Tesco Ireland Limited (Tesco, we or us). Please read them carefully as they affect your rights and liabilities under the law. If you do not agree to these Terms and Conditions, please do not use or become a member of the Tesco Diets Site.
+Tescodiets.com ("the Website") is owned and operated by Tesco Ireland Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/index.cfm?currpage=company&subsection=termsTescoDiets), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our Terms and Conditions carefully; by accessing the Website you confirm to have understood and agreed to them.
 
-Tesco Diets is committed to protecting your privacy. This Privacy Policy explains how all personal information collected via Tesco Diets will be used. Tesco owns the exclusive licence to run Tesco Diets in the UK and Ireland. If you have any queries or requests concerning your personal information please see the customer service details below.
+  1. **Information we collect about you**  
+We collect information about you when you: 
+    * visit the Website, and other sites accessible from the Website. 
+    * register with and buy products or services on the Website.
+    * take part in promotions, competitions, customer surveys and questionnaires.
+    * contact us eg in writing, call customer services.
+We may supplement the information we collect about you with information we receive from other sources eg public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information. 
+  2. **Using your information**  
+Collecting your personal information helps Tesco to better understand what you need from us. We use your information to: 
+    * manage and improve the Website.
+    * personalise our services to you.
+    * administer and operate your account.
+    * process your orders and allocate Clubcard points to your account.
+    * tell you about important changes to the Website and our services.
+    * understand your shopping behaviour to develop and improve our products and services.
+    * manage promotions, competitions, customer surveys and questionnaires.
+    * check and verify your identity, and prevent or detect crime. In performing checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
+We may share your personal information across the Tesco Group so they can provide you with relevant products and services.  
+Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.  
+We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information.  
+You can opt-out of receiving promotional communications at any time by visiting [www.tescodiets.com/remove](http://www.tescodiets.com/remove), and changing your preferences.  
+Please note that there may be instances where it may be necessary for Tesco Diets or Tesco to communicate with you, in any event, for administrative or operational reasons relating to Tesco Diets. 
+  3. **Clubcard information**  
+We access the information recorded through the use of your Clubcard to help us improve our service to you and to make our communications more relevant.
+  4. **Marketing and research**  
+If you agree, we may contact you: 
+    * with offers and information about Tesco products or services
+    * with offers and information about partners' products or services
+    * for customer research eg to help improve our services
+Of course, the choice is entirely yours, but if you say you do not want to receive marketing information from us this will prevent you from receiving great offers or promotions that may be of interest to you.  
+When you register online you can access a "Contact Preferences" page that allows you to tailor our commercial communications to your preferences.   
+To change your contact preferences simply click "Your Account" in the top frame and click "Your Contact Preferences". If you do not want to receive commercial communications from us, select your choices by using the boxes available on that page.  
+We like to hear your views to help us improve our service. From time to time, we may contact you to ask your opinions. Again, if you do not want to be contacted for this purpose, make your choice on the "Contact Preferences" page. 
+  5. **Cookies**  
+In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website. 
+  6. **What is a cookie?**  
+Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.  
+Persistent cookies - these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.  
+Session cookies - these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.  
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.  
+You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+  7. **Cookies used on the Website**  
+A list of all the cookies used on the Website by category is set out below. 
+    * **Strictly necessary cookies:**  
+_These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required._  
+These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided. 
+    * **Performance cookies:**  
+_These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device._  
+These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works. 
+    * **Functionality cookies:**  
+_These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device._  
+These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites. 
+    * **Targeting or advertising cookies:**  
+_These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests._  
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
+  8. **Behavioural advertising and online privacy**  
+A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). The guide contains an explanation of the IAB's self-regulatory scheme to allow you greater control of the advertising you see. 
+  9. **Using browser settings to manage cookies**  
+The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.   
+However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any of our products and services that require you to Sign in. If you leave cookies turned on, remember to sign off when you finish using a shared computer. 
+  10. **Disclosing your information**  
+We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.   
+Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken. 
+  11. **Other websites**  
+The Website may contain links to other sites which are outside our control and not covered by this policy. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours. 
+  12. **Accessing your information**  
+To obtain a copy of the information we hold about you, write to: Tesco Diets, Unit 5, Roof Garden Office, Clare Hall Shopping Centre, Malahide Road, Coolock, Dublin 17, Ireland enclosing a cheque or postal order for £10 payable to “Tesco Ireland Limited”. Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them. 
+  13. **Changes to our policy**  
+This policy replaces all previous versions and is correct as of May 2012. We reserve the right to change the policy at any time. 
+  14. **Contacting us**  
+If you have any queries, please contact us at [help@tescodiets.com](mailto:help@tescodiets.com) or by telephone:  
+**ROI** \- (01) 877 0344   
+**UK** \- 0845 0822 441   
+**Elsewhere** \- (+353) 1 877 0344. 
 
-  1. **Information Collected**  
-Tesco Diets requests personal information when you sign up for our services, including your name, email address and other (mainly health-related) information in order to provide you with a personalised programme. Tesco Diets also collects other information about your use of the service and Tesco Diets web site. This information (excluding details of payment cards used, which are only handled by a secure online payment agent) is provided direct to Tesco Diets.  
-Tesco Diets also monitors customer traffic patterns and site use in order to improve the service provided. However, information that can identify a visitor, such as a name or address, is not collected in this process, nor does Tesco Diets require disclosure of such information, unless the customer subscribes to the service. Information that can identify a visitor is collected only when the visitor provides it voluntarily.  
-You are solely responsible for maintaining the secrecy of your passwords and/or account information. Please be careful and responsible whenever you're online.
-  2. This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. We are using the information collected by ClickTale service to measure the usability of our website. You can choose to disable the Service at http://www.clicktale.net/disable.html.
-  3. **Use of your information and your preferences**  
-Tesco Diets will use your information to: 
-    * provide and improve its services
-    * understand customers' shopping habits
-    * contact you with offers and information about the products and services of Tesco Diets and Tesco and those of carefully selected parties
-You can opt-out of receiving promotional communications at any time by visiting [www.tescodiets.com/remove](http://www.tescodiets.com/remove/), and changing your preferences.  
-Please note that there may be instances where it may be necessary for Tesco Diets or Tesco to communicate with you, in any event, for administrative or operational reasons relating to Tesco Diets.
-  4. **Disclosures of your information**  
-Tesco Diets would like to reassure you that your details are safe and will never be released to companies outside the Tesco Group for their marketing purposes. Given the global nature of Tesco's business, your information may be disclosed on an international basis as part of the provision of the Service by Tesco.  
-Tesco Diets may share your details among Tesco companies at home and abroad (e.g. Tesco Personal Finance), any successors in title to Tesco's business and businesses that process information on our behalf (e.g. printers who need certain details to print mailings).  
-If you subscribe to the Tesco Diets Recipe Club, Tesco Diets will share your information with the third party provider of the Tesco Diets Recipe Club for the purposes of giving you access to this service.  
-Tesco Diets may also use and share information relating to groups of customers, without identifying individuals, to learn more about customer behaviour and find ways of enhancing our service.
-  5. **Other web sites**  
-Tesco Diets may contain links to other web sites that are outside Tesco Diet's control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you that will be used by them in accordance with their privacy policy, which may differ from this one.
-  6. **Cookies**  
-"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on http://www.cookiecentral.com. Tesco Diets uses cookies to: 
-    * help ensure the security of transactions
-    * provide the mechanisms for online shopping and recipe club subscription
-    * enable traffic monitoring
-Visitors of Tesco Diets are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Tesco or Tesco Diets advertisement on another site that links to Tesco or Tesco Diets may be sent a semi-persistent (e.g. two weeks lifetime) anonymous cookie that will allow Tesco to analyse advertising effectiveness and manage its relationship with affiliate sites.  
-Whilst you do not need to allow your browser to accept cookies in order to access Tesco Diets, you must have cookies enabled if you wish to subscribe to one of the services on Tesco Diets.  
-Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above this will restrict your use of Tesco Diets.
-  7. **Cookies**  
-Two types of cookies are used on this website: Session Cookies - Which are temporary cookies that remain in the cookie file of your browser until you leave the site, Persistent Cookies - Which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
-  8. **How we use Cookies on our Site and what Information we collect.**  
-**Session Cookies:**
-    * To allow you to carry information across pages of our site and avoid having to re-enter information.
-    * Within registration to allow you to access stored information.
-    * To allow Tesco Diets to pay partners for introducing the user to the site.
-**Persistent Cookies:**
-    * To help us recognise you as a unique visitor when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.
-    * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
-**Third Party Cookies:**
-    * Third parties serve cookies via this site. These are used for the following purposes:
-    * To serve advertisements on our site and track whether these advertisements are clicked on by users.
-    * To tailor content to your preferences.
-  9. **Access rights**  
-You have a right to access the personal data that is held about you. To obtain a copy of the personal information Tesco holds about you, please write to Tesco Diets at the following address:  
-Tesco Diets, Unit 5, Roof Garden Office, Clare Hall Shopping Centre, Malahide Road, Coolock, Dublin 17, Ireland.  
-Tesco Diets reserves the right to withdraw products referred to at Tesco Diets or change this Privacy Policy at any time.
-  10. **Bulletin Boards**  
-Our Support Groups have a bulletin board format that provides our visitors with the opportunity to interact with our online community of Tesco Dieters. These areas are moderated by Tesco Diets technicians strictly to keep inappropriate messages from being posted. You are offered the opportunity to include your email address with your message but you are not obligated to do so. Please keep in mind that whenever you voluntarily disclose personal information online - on message boards, through email, or in meeting rooms - your information can be collected by and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. We cannot control the actions of any 3rd parties. We will not sell email addresses from our bulletin boards.  
-The company reserves the right to use comments provided by participants on Tesco Diets bulletin boards, chat rooms and in the Tesco Diets newsletter as part of our promotion and marketing. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products. Any information you send to Tesco Diets must be truthful, legal, and not violate the rights of others.
-  11. **How to Reach Us**  
-Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department on:   
-**UK** \- 0845 0822 441  
-**R.O.I.** \- (01) 877 0344  
-**(from elsewhere)** \- (+353) 1 877 0344 **Or email us at** [help@tescodiets.com](mailto:help@tescodiets.com)
 
-
-
-### What our members say
-
-#### Debbie H
-
-It's like having someone giving me a pat on the back when I have done well, or a shoulder to cry on when I haven't. Either way thanks for being there.
-
-#### Karen H
-
-Thrilled with what I've achieved. This has become a lifestyle choice for me now and I know I can stick with this and the weight won’t go back on. I would 100% recommend this diet to anyone. Thank you
-
-[Read other comments](https://web.archive.org/index.cfm?currpage=memberQuotes&subsection=memberQuotes&code=#code#)
