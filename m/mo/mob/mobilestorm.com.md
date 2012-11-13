@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523001804id_/http%3A//www.mobilestorm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113061245id_/http%3A//www.mobilestorm.com/privacy) for the most accurate reproduction.*
 
 # mobileStorm Privacy Policy
 
-## Effective Date: November 26th 2007[](http://www.truste.org/ivalidate.php?url=www.mobilestorm.com&sealid=101)
+## Effective Date: November 26th 2007[](http://www.truste.org/ivalidate.php?url=www.mobilestorm.com&sealid=101 "truste_seal_ctv")
 
 mobileStorm, Inc. makes the same firm commitment to privacy for our Web site visitors as for our customers using our web-hosted service. We created this Online Privacy Policy (“ **mobileStorm Privacy Policy** ”) to give you confidence as you visit and use the mobileStorm Web site, located at [www.mobilestorm.com](http://www.mobilestorm.com/) (the “Web site”) and to demonstrate our commitment to the protection of your privacy. This **mobilestorm Privacy Policy** is only applicable to the Web site, and not to any other Web sites that you may be able to access from the Web site, each of which may have data collection and use practices and policies that differ materially from this Privacy Policy. By using the mobileStorm Web site, you are agreeing to the terms of the Privacy Policy.
 
@@ -103,7 +103,7 @@ If you have any questions about this privacy statement or this web site, please 
 
 privacy@mobilestorm.com  
 mobileStorm, Inc.  
-6565 Sunset Blvd. Ste. 200  
-Los Angeles, CA 90028  
+7900 Haskell Ave  
+Van Nuys, CA 91406  
 United States  
-323-785-6333
+818-465-6500
