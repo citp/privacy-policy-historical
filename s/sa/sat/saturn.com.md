@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the saturn.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514002311id_/http%3A//www.saturn.com/toolbar/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saturn.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113070652id_/http%3A//www.saturn.com/toolbar/privacy_statement.html) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
 **Privacy Statement for General Motors**
 
-Effective September 1, 2011
+Effective May 4, 2012
 
 For Your California Privacy Rights [](http://www.gm.com/privacy/california.jsp)[click here](https://web.archive.org/toolbar/privacyStatement.html#par_text_4).
 
@@ -67,7 +67,7 @@ To provide services, some GM consumer websites may request additional informatio
 
 
 
-Certain other GM, or GM-related, consumer websites and services have their own privacy statements that can be viewed on their sites. These include [OnStar](http://www.onstar.com/) and [GM Financial](http://www.americredit.com/). For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see [Frequently Asked Questions](https://web.archive.org/toolbar/privacyStatement.html#par_text_8). **  
+Certain other GM, or GM-related, consumer websites and services have their own privacy statements that can be viewed on their sites. These include [OnStar](https://www.onstar.com/web/portal/home) and [GM Financial](http://www.americredit.com/). For answers to questions regarding data recording devices and radio frequency identification devices (RFID) used in GM vehicles, see [Frequently Asked Questions](https://web.archive.org/toolbar/privacyStatement.html#par_text_8). **  
 **
 
 **Information Collection  
@@ -212,7 +212,8 @@ A: Suppliers are companies that provide services on GM's behalf, such as mailing
 
   
 Q3: What is an example of a GM business partner?  
-A: By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is HSBC USA, which administers the GM Card and GM Extended Family Card. Another example is XM Radio.
+A: By business partners, we mean independent companies that conduct joint marketing programs with GM. An example is Capital One N.A. which issues the GM Card, GM Flexible Earnings Card, and GM Extended Family Card. Another example is SiriusXM.  
+
 
   
 Q4: What do you mean when you say "independent use" or that you will ask for my permission before sharing my information?  
