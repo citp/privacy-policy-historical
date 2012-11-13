@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524072343id_/http%3A//www.web-development-blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-development-blog.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113164347id_/http%3A//www.web-development-blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Development Blog
 
