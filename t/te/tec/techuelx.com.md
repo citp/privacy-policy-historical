@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techuelx.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615064242id_/http%3A//www.techuelx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techuelx.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113020142id_/http%3A//www.techuelx.com/privacy-policy) for the most accurate reproduction.*
 
-# untethered jailbreak iOS 6,unlock 04.11.08 bb,iOS 5.1.1,iOS 5.0.1,iOS 5 on iPhone 5,iPhone 4s, - iOS 6,iOS 5,jailbreak ios 5.1,unlock ios 5.1,unlock iphone 5.1.1,iphone 5,Android,ipad 2,jailbreak tutorial,iphone apps
+# Privacy Policy - untethered jailbreak iOS 6,unlock 04.11.08 bb,iOS 5.1.1,iOS 5.0.1,iOS 5 on iPhone 5,iPhone 4s, | untethered jailbreak iOS 6,unlock 04.11.08 bb,iOS 5.1.1,iOS 5.0.1,iOS 5 on iPhone 5,iPhone 4s,
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **sahanatrymytech@gmail.com**.
 
@@ -36,3 +36,15 @@ All images used on this site are collected from various places on the web and we
 Techuelx Team
 
 Email- sahanatrymytech@gmail.com
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy&title=Privacy%20Policy&notes=If%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20sahanatrymytech%40gmail.com.%0D%0A%0D%0AAt%20www.techuelx.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20to%20us.%20This%20privacy "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy&srcTitle=untethered+jailbreak++iOS+6%2Cunlock+04.11.08+bb%2CiOS+5.1.1%2CiOS+5.0.1%2CiOS+5+on+iPhone+5%2CiPhone+4s%2C+iOS+6%2CiOS+5%2Cjailbreak+ios+5.1%2Cunlock+ios+5.1%2Cunlock+iphone+5.1.1%2Ciphone+5%2CAndroid%2Cipad+2%2Cjailbreak+tutorial%2Ciphone+apps "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.techuelx.com%2Fprivacy-policy&title=Privacy%20Policy&source=untethered+jailbreak++iOS+6%2Cunlock+04.11.08+bb%2CiOS+5.1.1%2CiOS+5.0.1%2CiOS+5+on+iPhone+5%2CiPhone+4s%2C+iOS+6%2CiOS+5%2Cjailbreak+ios+5.1%2Cunlock+ios+5.1%2Cunlock+iphone+5.1.1%2Ciphone+5%2CAndroid%2Cipad+2%2Cjailbreak+tutorial%2Ciphone+apps&summary=If%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20sahanatrymytech%40gmail.com.%0D%0A%0D%0AAt%20www.techuelx.com%2C%20the%20privacy%20of%20our%20visitors%20is%20of%20extreme%20importance%20to%20us.%20This%20privacy "LinkedIn")
+  * 
+
