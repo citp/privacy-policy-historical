@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625212319id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113101124id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Consumer Opinion Panel
 
