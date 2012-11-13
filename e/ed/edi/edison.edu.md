@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508015040id_/http%3A//edison.edu/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edison.edu privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113173749id_/http%3A//www.edison.edu/privacypolicy.php) for the most accurate reproduction.*
 
 # Edison State College - Privacy Policy
 
