@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maniatv.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513112030id_/http%3A//www.maniatv.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maniatv.com privacy policy that was archived on 2012-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113085925id_/http%3A//www.maniatv.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,9 +12,14 @@
 
   <title>Privacy Policy | ManiaTV.com</title>
  
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-12228986-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
  
  <!-- Start Quantcast tag -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 _qoptions={
 qacct:"p-698BPKPFgGYys"
 };
@@ -23,11 +28,11 @@ qacct:"p-698BPKPFgGYys"
 <!-- End Quantcast tag -->
 
   
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_f0dd8836b99ac21ecacc6ed111eaea7a.css">
-  <script type="text/javascript" src="/sites/default/files/js/js_a32277612315709e4de4a2ede634685a.js"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_400b805cf05feb9736083683a4cacb06.css">
+  <script type="text/javascript" src="/sites/default/files/js/js_90d196050e1583ddfe1cd3d745561eee.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" } });
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "cron": { "basePath": "/poormanscron", "runNext": 1352796936 } });
 //--><!]]>
 </script>
   
@@ -89,7 +94,10 @@ function MM_nbGroup(event, grpName) { //v6.0
 
 
  <!-- ADAPTV -->
-  
+  <link media="screen" rel="stylesheet" type="text/css" href="http://www.maniatv.com/themes/mymarine/interstitial.css"> 
+<script type="text/javascript" src="http://redir.adap.tv/redir/javascript/interstitial.js"></script>
+<script type="text/javascript" src="http://redir.adap.tv/redir/javascript/adaptvAdPlayer.js"></script>
+   
  
  
  
@@ -114,9 +122,28 @@ function MM_nbGroup(event, grpName) { //v6.0
 
 <!-- begin Partner: ManiaTV Network, Integration: MANIATV_DOC_DOC_ROS, Size: fixed_bottom-->
 <script type="text/javascript">
-document.write('<script type="text/javascript" src="http://ads.saymedia.com/ai014e8ab4c211970d014e8ab4c2d5970d.js?ord='+ Math.random() + '"></sc'+'ript>')
-</script><script type="text/javascript" src="http://ads.saymedia.com/ai014e8ab4c211970d014e8ab4c2d5970d.js?ord=0.9435110293521911"></script>
+document.write('<script type="text/javascript" src="http://ads.saymedia.com/ai014e8ab4c211970d014e8ab4c2d5970d.js?ord='+ Math.random() + '"></sc'+'ript>');
+	function iab_rma_start(){
+        // This function is called when the Rich Media
+        // Advertisement (rma) is starting. Implement
+        // functionality to pause videos or mute audio
+        // on the page here.
+
+		//alert($("#myflashplayercontent")[0]);
+		$("#myflashplayercontent")[0].SayPlay();
+    }
+    function iab_rma_stop() {
+        // This function is called when the Rich Media
+        // Advertisement is finished. Implement
+        // functionality to resume videos or unmute audio
+        // here.
+    	$("#myflashplayercontent")[0].SayStop();
+	}
+	
+</script><script type="text/javascript" src="http://ads.saymedia.com/ai014e8ab4c211970d014e8ab4c2d5970d.js?ord=0.6162721836436658"></script>
 <!-- end -->
+
+
 
 
 
@@ -192,6 +219,7 @@ pageTracker._trackPageview();
 <body>
 
 <div id="container">
+
 
 
 
@@ -273,7 +301,7 @@ pageTracker._trackPageview();
  <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="type here" class="form-text NormalTextBox txtSearch" onfocus="if (this.value == 'type here') {this.value = '';}" onblur="if (this.value == '') {this.value = 'type here';}">
 </div>
 <input type="image" name="op" value="Search" id="edit-submit" class="form-submit" src="/themes/mymarine/images/search.png">
-<input type="hidden" name="form_build_id" id="form-3098cf5cb1dab2197a1045b699849421" value="form-3098cf5cb1dab2197a1045b699849421">
+<input type="hidden" name="form_build_id" id="form-08e18636ae9b532b6d6d9ab9fbcb1499" value="form-08e18636ae9b532b6d6d9ab9fbcb1499">
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 </div>
 
@@ -283,7 +311,7 @@ pageTracker._trackPageview();
 			
 			<tr height="38px">
 				<td id="menutable-bottomleft">
-				<div class="breadcrumb"><a href="/">Home</a> » <a href="/pages">Pages</a> » <a href="/Privacy%20Policy">Privacy Policy</a></div>				</td>
+				<div class="breadcrumb"><a href="/">Home</a></div>				</td>
 				<td id="menutable-bottomright">
 
 				</td>
@@ -377,37 +405,18 @@ From time to time, ManiaTV may revise this Privacy Policy to reflect industry in
 </div>
  </div>
 </div>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-12228986-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
 
 
 
 <center>
 
-<!-- BOTTOM ADS -->
-
-<!-- YB: content_728x90 (728x90) 
-<script type="text/javascript">
-yieldbuild_site = 10697;
-yieldbuild_loc = "content_728x90";
-</script>
-<script type="text/javascript" src="http://hook.yieldbuild.com/s_ad.js"></script>-->
+<!-- ------------------------------------------------------- -->
+<!-- FOOTER ADS -------------------------------------------- -->
+<!-- ------------------------------------------------------- -->
 
 
-<!-- LIVE or SHOWS ($myNode != "node/59")&& --> 
 
-	<!-- IF homepage, show page, live page  -->
-	<!-- -------------- Advertising.com ------ ManiaTV - ManiaTV 300x250 ATF RS - 760321 - (300x250) ------------ -->
-<!--<script type='text/javascript'>
-var ACE_AR = {site: '760321', size: '300250'};
-</script>
-<script type='text/javascript' SRC='http://uac.advertising.com/wrapper/aceUAC.js'></script>-->
-<!-- ---------- Copyright 2009, Advertising.com ---------- -->
 
-    
 <div style="clear:both"></div>
 
 <!-- YB: bottom_160x600 (160x600) -->
@@ -416,10 +425,6 @@ yieldbuild_site = 10697;
 yieldbuild_loc = "bottom_160x600";
 //--></script>
 <script type="text/javascript" src="http://hook.yieldbuild.com/s_ad.js"></script>
-
-
-
-
 
 <!-- END BOTTOM ADS -->
 
@@ -438,6 +443,7 @@ yieldbuild_loc = "bottom_160x600";
 <br>
 <center><font size="-2" color="#FFFFFF">Copyright © maniaTV. All rights reserved.</font></center>
 <br>
+
 
 
 <!-- START Nielsen Online SiteCensus V6.0 -->
