@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellamations.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606001748id_/http%3A//sellamations.com/privacy-terms-of-servic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellamations.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113055446id_/http%3A//sellamations.com/privacy-terms-of-servic) for the most accurate reproduction.*
 
 # Privacy | Sell-A-Mations
 
@@ -51,7 +51,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [website’s privacy policy](http://sellamations.com/privacy-terms-of-servic/ "Privacy").
 
 **Changes to our Privacy Policy**
 
@@ -59,4 +59,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 1/26/2012
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).TOS
+To talk about how we can create a custom Sell-A-Mations animated doodle video for your business, [contact us](http://sellamations.com/contact/ "Contact Us").
