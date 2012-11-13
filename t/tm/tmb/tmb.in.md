@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tmb.in privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514234808id_/https%3A//www.tmb.in/policy_privacy/click_here_to_see_our_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmb.in privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114002342id_/http%3A//www.tmb.in/policy_privacy/click_here_to_see_our_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Click Here To See Our Privacy Policy : Get the Best Interest Rates on Deposits from the Best Indian Bank for NRI Deposits
 
-[Home](https://www.tmb.in/best_interest_rates/best_indian_bank_offering_high_interest_rates_for_nri_deposits.html "best indian bank offering high interest rates for nri deposits")[Helpdesk](https://www.tmb.in/helpdesk/customer_service_and_support_resources.html "customer service and support resources")[Policies & Disclosures](https://www.tmb.in/policy_statutory_norms/our_statutory_polices_and_disclosures.html "our statutory polices and disclosures")Privacy Policy
+[Home](http://www.tmb.in/best_interest_rates/best_indian_bank_offering_high_interest_rates_for_nri_deposits.html "best indian bank offering high interest rates for nri deposits")[Helpdesk](http://www.tmb.in/helpdesk/customer_service_and_support_resources.html "customer service and support resources")[Policies & Disclosures](http://www.tmb.in/policy_statutory_norms/our_statutory_polices_and_disclosures.html "our statutory polices and disclosures")Privacy Policy
 
 ###### click here to see our privacy policy
 
