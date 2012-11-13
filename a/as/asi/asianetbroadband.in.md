@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520041942id_/http%3A//www.asianetbroadband.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetbroadband.in privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113090104id_/http%3A//www.asianetbroadband.in/Privacy.aspx) for the most accurate reproduction.*
 
 # Asianet DataLine
 
@@ -11,14 +11,15 @@ Mr.Cleetez B. Fernandez.
 
 Quote : " We are the resident of Canada and of course we did not find any difference in your service between the services we do receive in Canada. Congratulations to ASIANET Team members. Keep it on."  
   
-[ ](https://web.archive.org/web/20120520041942id_/http%3A//www.asianetbroadband.in/IP%20Video%20Phone.pps)  
+[ ](https://web.archive.org/web/20121113090104id_/http%3A//www.asianetbroadband.in/IP%20Video%20Phone.pps)  
 [ ](http://asianetglobaltalk.com/)  
 [ ](https://myaccount.adlkerala.com/)  
 Trivandrum prepaid renewal  
 Contact:9446094445, 9447708821,9447419014  
 Cochin New internet connection contact:  9847822022   
 Cochin prepaid renewal  
-Contact:9961456240, 6467240, 2339766, and 2342075  
+Contact:9961456240, 6467240, 2339766, and 2342075   
+Kollam Prepaid renewal 9847300724  
 |  Privacy Policy  
 ---  
 |  asianetdataline.com is sensitive to privacy issues on the Internet and is committed to safeguarding the privacy of user online.  
