@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630232320id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrfood.com privacy policy that was archived on 2012-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113160943id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -19,8 +19,7 @@
 	<meta name="description" content="Privacy Policy.">
 	
 	
-	
-	
+		
 		
 	
 	<link rel="shortcut icon" href="/favicon_28.ico">
@@ -36,19 +35,14 @@
 				<!-- END YAHOO site explorer verification -->
 	
 	
-	<!-- START MSN verification -->
+	<!-- START Bing / MSN verification -->
 				<meta name="msvalidate.01" content="8AC9DF1016A2AE6A9AF13929D3192FD8">
 				<!-- END MSN verification -->
 	
-	
-	<!-- START Bing verification -->
-				
-		<!-- END Bing verification -->
-	
-	
+		
 	<!--<script type="text/javascript" src="/javascript/jquery-1.3.2.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-1.5.2.min.js?v=1"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=21"></script>
 	
 	
 	<!-- load jQuery from Google's CDN service.  --> 
@@ -56,21 +50,21 @@
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=1"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=1" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=21"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=21" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=1"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=21"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.form.js?v=1"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=21"></script>
 	
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/site_functions.js?v=1"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=21"></script>
 	
 	
 	
@@ -81,7 +75,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 8991');
+					//alert('getJavascript_topSocialLinks ready line: 9227');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -141,7 +135,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 14081');
+					//alert('getJavascript_loginDhtmlContent ready - line: 14359');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -480,7 +474,7 @@ this is an object that holds properties used to determine actions after the user
 var post_newsletter_signup = new Object();
 post_newsletter_signup.rediect_delay = 0;	// how long before we redirect the user
 post_newsletter_signup.link_has_confirmation_pixel = 0;	// do we load an external confirmation pixel
-
+post_newsletter_signup.is_new_signup = 0;
 
 
 $(document).ready(
@@ -583,6 +577,7 @@ $(document).ready(
 						//setTimeout('signupRedirect()', 2000);
 						post_newsletter_signup.rediect_delay = 2000;
 						post_newsletter_signup.link_has_confirmation_pixel = response.fire_pixel;
+						post_newsletter_signup.is_new_signup = response.is_new_signup; // right rail
 						postNewsletterSignup();
 						
 					} else {
@@ -755,6 +750,7 @@ $(document).ready(
 						
 						
 						post_newsletter_signup.link_has_confirmation_pixel = response.fire_pixel;
+						post_newsletter_signup.is_new_signup = response.is_new_signup; // main dhtml signup
 						
 						postNewsletterSignup();
 						
@@ -1188,12 +1184,24 @@ function signupRedirect() {
 		}
 		
 		
+				if(post_newsletter_signup.is_new_signup == true){
+			var addl_qry_str = '?';
+			if(signup_redirect_url.indexOf("?") > 0){
+				// the url already has a query string, so just tack on to it
+				addl_qry_str = '&';
+			}
+			
+			signup_redirect_url += addl_qry_str + 'pp=1';
+		}
+		
 		
 				
 		if (is_mustang == 1) {
 			var confirm_str = 'signupRedirect' + "\n\n";
 			confirm_str += 'replace_site_url = ' + replace_site_url + "\n\n";
 			confirm_str += 'replace_email = ' + replace_email + "\n\n";
+			confirm_str += 'post_newsletter_signup.is_new_signup = ' + post_newsletter_signup.is_new_signup + "\n\n";
+			
 			confirm_str += 'signup_redirect_qry_params[email] = ' + signup_redirect_qry_params['email'] + "\n\n\n\n";
 			
 			confirm_str += 'signup_redirect_url = ' + signup_redirect_url + "\n\n";
@@ -1367,6 +1375,7 @@ function triggerWiderFunnel(){
 	
 		
 				<!-- START GOOGLE AD MANAGER CODE V2 -->
+			<!-- http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=112649 -->
 			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 			<script type="text/javascript">
 				GS_googleAddAdSenseService("ca-pub-3960203165302510");
@@ -1378,7 +1387,10 @@ function triggerWiderFunnel(){
 												GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_right-rail-A_300-94");
 												GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_right-rail-B_300-250");
 												GA_googleAddSlot("ca-pub-3960203165302510", "mrfood-com_right-rail-C_300-250");
-									</script>
+										
+				// set a PAGE LEVEL attribute for ALL ads
+				GA_googleAddAdSensePageAttr("google_page_url", "http://www.mrfood.com/index.php/hct/privacy_policy");
+			</script>
 			<script type="text/javascript">
 				GA_googleFetchAds();
 			</script>
@@ -1479,22 +1491,18 @@ function triggerWiderFunnel(){
 	
 		
 	
+		
 	
+	
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=21" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0004/css/main_styles.css?v=1" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0004/css/main_styles.css?v=21" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0004/css/print_styles.css?v=1" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0004/css/print_styles.css?v=21" type="text/css" media="print">
 	
-	
-			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_24.css?v=1" type="text/css" media="screen">	
-			
-	
-	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=1" media="screen">
 	
 	
 	<!--
@@ -1658,7 +1666,7 @@ function triggerWiderFunnel(){
 
 
 <div id="printHeader">
-	<img src="/site_templates/0004/images/print-header_sID28.jpg?v=1" alt="" width="650" height="82">
+	<img src="/site_templates/0004/images/print-header_sID28.jpg?v=21" alt="" width="650" height="82">
 	<div class="inner1">
 		<div class="inner2"></div>
 	</div>
@@ -1704,7 +1712,7 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td style="vertical-align: bottom;">
-							<a id="headerLogo" href="/"><img src="http://cf.primecp.com/site_templates/0004/images/site_logo_internal_sID28.jpg" alt="mrfood.com"></a>
+							<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0004/images/site_logo_internal_sID28.jpg" alt="mrfood.com"></a>
 						</td>
 					<td style="text-align: right; padding: 5px 5px 2px 0; width: 735px;">
 											<div style="">
@@ -1725,7 +1733,7 @@ function triggerWiderFunnel(){
 									<a href="http://www.mrfood.com/">Home</a>
 								</td>
 																<td class="">
-									<a href="http://www.mrfoodblog.com/">Blog</a>
+									<a href="http://www.everydaytestkitchen.com/">Blog</a>
 								</td>
 																<td class="">
 									<a href="http://www.mrfoodshop.com/">Shop</a>
@@ -1860,129 +1868,183 @@ function triggerWiderFunnel(){
 				</td><!-- end col1 -->
 				<td id="col2">
 												<div style="margin: 0 0 15px 0;">
-								<p>Privacy Policy / Your California Privacy Rights <br>
-Active Date: December 15, 2009</p>
-<p>&nbsp;</p>
-<p>Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
-<p>This Privacy Policy will tell you, among other things:</p>
-<p>Your California privacy rights.<br>
-How we collect information and what information we collect.<br>
-How we may use information.<br>
-How we may share information.<br>
-Your choices regarding the sharing of information.</p>
-<p>ACKNOWLEDGEMENT/YOUR AGREEMENT<br>
-Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.</p>
-<p>YOUR CALIFORNIA PRIVACY RIGHTS<br>
-Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.</p>
-<p>HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?<br>
-We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.</p>
-<p>Distribution Partners<br>
-Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.</p>
-<p>Offer Forms<br>
-We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.</p>
-<p>Website Registration Forms<br>
-We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:<br>
-e-mail address<br>
-full name<br>
-mailing address<br>
-telephone number<br>
-date of birth<br>
-gender</p>
-<p>Publisher Partners <br>
-When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.</p>
-<p>Marketing Partners<br>
-We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.</p>
-<p>Automatic Information/Digital Identifiers<br>
-We may automatically receive and store certain types of information about you through the data sources listed above.</p>
-<p>You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.</p>
-<p>We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL.</p>
-<p>Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.</p>
-<p>Government Forms<br>
-The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.</p>
-<p>HOW DO WE USE THIS INFORMATION?<br>
-We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
-<p>Ad Serving<br>
-We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
-<p>We also use third party advertising companies, such as Advertising.com, to serve advertisements when you visit our websites. These companies may use and optimize information (not including your name, mailing address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Advertising.com please visit http://www.advertising.com/privacy_policy_details.php.</p>
-<p>Pre-select/Pre-fill Offers<br>
-Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
-<p>Upsell <br>
-We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.<br>
-<br>
-Customer Service and Fulfillment<br>
-We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.</p>
-<p>Credit Card Preauthorization<br>
-By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.</p>
-<p>Marketing<br>
-We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.</p>
-<p>HOW DO WE SHARE INFORMATION?<br>
-We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
-<p>Within the Company <br>
-We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.</p>
-<p>Vendors<br>
-We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.</p>
-<p>Advertisers<br>
-When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.</p>
-<p>When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.</p>
-<p>When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.</p>
-<p>Ad Serving Companies <br>
-We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.</p>
+								<p>
+	Privacy Policy / Your California Privacy Rights<br>
+	Revised and posted as of November 13, 2012<br>
+	<br>
+	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing, LLC and Ginsburg Enterprises Incorporated treats personally identifiable information compared to the <a href="http://www.mrfood.com/index.php/hct/privacy_policy2008" target="_blank" title="Previous Privacy and Security Policy">previous version of the Privacy and Security Policy.</a>)</p>
+<p>
+	&nbsp;</p>
+<p>
+	Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
+<p>
+	This Privacy Policy will tell you, among other things:</p>
+<p>
+	Your California privacy rights.<br>
+	How we collect information and what information we collect.<br>
+	How we may use information.<br>
+	How we may share information.<br>
+	Your choices regarding the sharing of information.</p>
+<p>
+	ACKNOWLEDGEMENT/YOUR AGREEMENT<br>
+	Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.</p>
+<p>
+	YOUR CALIFORNIA PRIVACY RIGHTS<br>
+	Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.</p>
+<p>
+	HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?<br>
+	We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.</p>
+<p>
+	Distribution Partners<br>
+	Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.</p>
+<p>
+	Offer Forms<br>
+	We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.</p>
+<p>
+	Website Registration Forms<br>
+	We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:<br>
+	e-mail address<br>
+	full name<br>
+	mailing address<br>
+	telephone number<br>
+	date of birth<br>
+	gender</p>
+<p>
+	Publisher Partners<br>
+	When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.</p>
+<p>
+	Marketing Partners<br>
+	We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.</p>
+<p>
+	Automatic Information/Digital Identifiers<br>
+	We may automatically receive and store certain types of information about you through the data sources listed above.</p>
+<p>
+	You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.</p>
+<p>
+	We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL.</p>
+<p>
+	Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.</p>
+<p>
+	Government Forms<br>
+	The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.</p>
+<p>
+	HOW DO WE USE THIS INFORMATION?<br>
+	We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
+<p>
+	Ad Serving<br>
+	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
+<p>
+	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank" title="NetworkAdvertising.org">www.networkadvertising.org</a>.</p>
+<p>
+	Pre-select/Pre-fill Offers<br>
+	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
+<p>
+	Upsell<br>
+	We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.<br>
+	<br>
+	Customer Service and Fulfillment<br>
+	We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.</p>
+<p>
+	Credit Card Preauthorization<br>
+	By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.</p>
+<p>
+	Marketing<br>
+	We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.</p>
+<p>
+	HOW DO WE SHARE INFORMATION?<br>
+	We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
+<p>
+	Within the Company<br>
+	We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.</p>
+<p>
+	Vendors<br>
+	We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.</p>
+<p>
+	Advertisers<br>
+	When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.</p>
+<p>
+	When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.</p>
+<p>
+	When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.</p>
+<p>
+	Ad Serving Companies<br>
+	We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.</p>
 <ul>
-    <li>Google, as a third party vendor, uses cookies to serve ads on our site.</li>
-    <li>Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.</li>
-    <li>Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</li>
+	<li>
+		Google, as a third party vendor, uses cookies to serve ads on our site.</li>
+	<li>
+		Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.</li>
+	<li>
+		Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</li>
 </ul>
-<p>Marketing Partners<br>
-We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.</p>
-<p>Data Enhancement/Appending/Validation<br>
-We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
-<p>Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
-<p>Governmental Agencies or Other Companies<br>
-We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
-<p>We may store and share your information with third parties for suppression or opt-out purposes.</p>
-<p>We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.</p>
-<p>In all cases, this information is not provided to these entities or persons for marketing purposes.</p>
-<p>Right to Transfer<br>
-Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.</p>
-<p>COMPANY CUSTOMER CHOICES</p>
-<p>Marketing Communications and Unsubscribe Information<br>
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.mrfood.com/index.php/hct/contact_us_page">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
-<p>Request for More Information<br>
-As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 340, Northbrook, IL&nbsp; 60062.</p>
-<p>WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?<br>
-Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.</p>
-<p>APPLICATION OF THIS PRIVACY POLICY<br>
-This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.</p>
-<p>WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?<br>
-We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.</p>
-<p>SECURITY<br>
-There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.</p>
-<p>LIMITATION OF LIABILITY <br>
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>
-<p>&nbsp;</p>							</div>
+<p>
+	Marketing Partners<br>
+	We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.</p>
+<p>
+	Data Enhancement/Appending/Validation<br>
+	We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
+<p>
+	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
+<p>
+	Governmental Agencies or Other Companies<br>
+	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
+<p>
+	We may store and share your information with third parties for suppression or opt-out purposes.</p>
+<p>
+	We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.</p>
+<p>
+	In all cases, this information is not provided to these entities or persons for marketing purposes.</p>
+<p>
+	Right to Transfer<br>
+	Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.</p>
+<p>
+	COMPANY CUSTOMER CHOICES</p>
+<p>
+	Marketing Communications and Unsubscribe Information<br>
+	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.mrfood.com/section/subctr">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
+<p>
+	Request for More Information<br>
+	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
+<p>
+	WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?<br>
+	Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.</p>
+<p>
+	APPLICATION OF THIS PRIVACY POLICY<br>
+	This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.</p>
+<p>
+	WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?<br>
+	We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.</p>
+<p>
+	SECURITY<br>
+	There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.</p>
+<p>
+	LIMITATION OF LIABILITY<br>
+	YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>
+<p>
+	&nbsp;</p>							</div>
 											</td><!-- end col2 -->
-				<td id="col3">
-												<div style="margin: 0 0 10px 0;">
-															<a href="http://grabandgobar.com/"><img style="display: block; border: 0;" src="/master_images/qvc_ad_images/6-1340642100.jpg" alt="Mr. Food Grab 'n' Go Protein Bar" width="300" height="145"></a>
-														</div>
+									<td id="col3">
 														<div style="margin: 0 0 10px 0;">
+																<a href="http://www.mrfood.com/slideshow/survival-guide"><img style="display: block; border: 0;" src="/master_images/qvc_ad_images/10-1352158309.jpg" alt="Thanksgiving Side Dish Survival Guide" width="300" height="100"></a>
 															</div>
-														<div style="margin: 0 0 10px 0;">
-											<!-- border was 293f6f -->
+																<div style="margin: 0 0 10px 0;">
+																	</div>
+																<div style="margin: 0 0 10px 0;">
+												<!-- border was 293f6f -->
 			<div id="latestTvRecipesSiteID28">
 				<div class="h3Wrapper">
-					<img style="display: block; margin: 0; border: 0;" src="http://cf.primecp.com/site_templates/0004/images/latest-TV-recipe-header_03.png" alt="Latest TV Recipe">
+					<img style="display: block; margin: 0; border: 0;" src="http://cf2.primecp.com/site_templates/0004/images/latest-TV-recipe-header_sID28_03.png" alt="Latest TV Recipe">
 				</div>
 				
 				<div class="contentBoxPadding" style="text-align: center; color: #293f6f; padding-bottom: 5px;">
 					
-											<div style="background-image: url(/master_images/MrFood/Garden-Herb-Steak-RE--1--.jpg); background-repeat: no-repeat; background-position: center center;">
-							<a style="display: block; margin: 0; padding: 0;" href="/Beef/Garden-Herb-Steak"><img style="border: 0;" src="http://cf.primecp.com/images/clear_pixel.gif" alt="" width="1" height="188"></a>
+											<div style="background-image: url(/master_images/MrFood/Holiday-Sausage-Stuffing-RE.jpg); background-repeat: no-repeat; background-position: center center;">
+							<a style="display: block; margin: 0; padding: 0;" href="/Potatoes-Rice/Holiday-Sausage-Stuffing-2709"><img style="border: 0;" src="http://cf2.primecp.com/images/clear_pixel.gif" alt="" width="1" height="188"></a>
 						</div>
 											
 					
 					<div style="margin: .5em 0; font-weight: bold;">
-						<a href="/Beef/Garden-Herb-Steak">Garden Herb Steak</a>
+						<a href="/Potatoes-Rice/Holiday-Sausage-Stuffing-2709">Holiday Sausage Stuffing</a>
 					</div>
 					
 					<a class="btmLink recentVideo" href="/section/this-week">Recent TV Recipes</a>
@@ -1992,124 +2054,68 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 				</div>
 				
 			</div><!-- end latestTvRecipes -->
-										</div>
-														<div style="margin: 0 0 10px 0;">
-													<div style="">
+											</div>
+																<div style="margin: 0 0 10px 0;">
+														<div style="">
 						<!-- ca-pub-3960203165302510/mrfood-com_right-rail-B_300-250 -->
 						<script type="text/javascript">
 							GA_googleFillSlot("mrfood-com_right-rail-B_300-250"); // v2
 						</script>
 					</div>
-												</div>
-														<div style="margin: 0 0 10px 0;">
-										
-
-		<div id="newsletterSignUpDivSiteID28">
-			<!--
-			<h3>Mr. Food E-Newsletter</h3>
-			-->
-			<img class="headerImg" src="http://cf.primecp.com/site_templates/0004/images/right_col_signup_header_28.jpg" alt="">
+													</div>
+																<div style="margin: 0 0 10px 0;">
+												<div id="topTenSiteID28">
 			
-			<div id="newsletterSignUpDiv2">
-		
-				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
-					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="bd1f75726c25b0ce92c90b2aa281fc68">
-					
-					<!--
-					<h4>Sign up today...it's absolutely free</h4>
-					-->
-					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf.primecp.com/site_templates/0004/images/newsletter_signup_bg_sID28.jpg" alt="">
-					
-					<img class="subheaderImg" src="http://cf.primecp.com/site_templates/0004/images/right_col_signup_subheader_28.gif" alt="">
-					
-					
-											<div>
-							<ul>
-								<li>Tasty Quick &amp; Easy Recipes</li>
-								<li>Helpful Cooking Tips &amp; Hints</li>
-								<li>Themed eCookbooks</li>
-								<li>Special Partner Offers</li>
-								<li>...and so much more</li>
-							</ul>
-							
-						</div>
-											
-					<div class="emailInputDiv">
-						<h4>Enter Your Email:</h4>
-						<input class="textField defaultTextFieldColor" type="text" id="email" name="email" value="Email Address"><input class="button" type="submit" id="signUpSubmit" value="Submit">
-						<div style="clear: both;"></div>
-					</div>
-					
-				</form>
-				
-				<div style="text-align: center;">
-					<p id="newsletterSignUpLoader" class="noDisplay"> Please Wait <img src="/images/ajax-loader-kit.gif" alt="" width="16" height="16"></p>
-					<h4 id="newsletterSignUpThanks" class="noDisplay">Thanks for signing up</h4>
-					<h4 id="newsletterSignUpError" class="noDisplay">Sorry, we could not sign you up.</h4>
-				</div>
-				
-			
-			
-			</div><!-- end newsletterSignUpDiv2 -->
-		</div><!-- end newsletterSignUpDivSiteID -->
-
-		
-		
-									</div>
-														<div style="margin: 0 0 10px 0;">
-											<div id="topTenSiteID28">
-			
-				<div style="position: relative; margin: 30px 0 10px 0; padding: 0; background-color: #F7EED8; height: 20px;">
-					<img style="position: absolute; top: -15px; left: 80px; display: block; margin: 0 auto;" src="http://cf.primecp.com/site_templates/0004/images/whats_hot_headline_sID28.gif" alt="">
+				<div style="position: relative; margin: 30px 0 10px 0; padding: 0; height: 20px; background-color: #F7EED8;">
+					<img style="position: absolute; top: -15px; left: 80px; display: block; margin: 0 auto;" src="http://cf2.primecp.com/site_templates/0004/images/whats_hot_headline_sID28.gif" alt="">
 				</div>
 				
 				<div style="margin: 0; padding: 0 10px 20px 15px;">
 								<ol>
-									 <li><a href="/Editors-Picks/Party-Pleasers-57-Easy-Potluck-Recipes/ct/1">Party Pleasers: 57 Easy Potluck Recipes</a></li>
-					 					 <li><a href="/Cheesecakes/Chocolate-Chip-Cheesecake-3194/ct/1">Chocolate Chip Cheesecake</a></li>
-					 					 <li><a href="/Deli-Salad/56-Divine-Deli-Salad-Recipes/ct/1">56 Divine Deli Salad Recipes</a></li>
-					 					 <li><a href="/Pastas/Amish-Country-Casserole/ct/1">Amish Country Casserole</a></li>
-					 					 <li><a href="/Cakes/Amish-Applesauce-Cake/ct/1">Amish Applesauce Cake</a></li>
-					 					 <li><a href="/Beef/Country-Meat-Loaf-and-Potato-Casserole/ct/1">Country Meat Loaf &amp; Potato Casserole</a></li>
-					 					 <li><a href="/Beef/Dads-Meat-Loaf/ct/1">Dad's Meat Loaf</a></li>
-					 					 <li><a href="/Appetizers/32-Unbelievably-Good-Dip-Recipes/ct/1">32 Unbelievably Good Dip Recipes</a></li>
-					 					 <li><a href="/Cakes/Chocolate-Eclair-Cake-by-Mr-Food/ct/1">Chocolate Eclair Cake</a></li>
-					 					 <li><a href="/Cakes/White-Velvet-Cake/ct/1">White Velvet Cake</a></li>
+									 <li><a href="/Casseroles/Amish-Chicken-Casserole-4044/ct/1">Amish Chicken Casserole</a></li>
+					 					 <li><a href="/Vegetables/Spinach-Casserole-Surprise-788/ct/1">Spinach Casserole Surprise</a></li>
+					 					 <li><a href="/Casseroles/Tamale-Casserole-by-Mr-Food/ct/1">Tamale Casserole</a></li>
+					 					 <li><a href="/Casseroles/Creamy-Chicken-Casserole-732/ct/1">Creamy Chicken Casserole</a></li>
+					 					 <li><a href="/Casseroles/Easy-Beefy-Casserole-4429/ct/1">Easy Beefy Casserole</a></li>
+					 					 <li><a href="/Casseroles/Stroganoff-Casserole-4650/ct/1">Stroganoff Casserole</a></li>
+					 					 <li><a href="/Casseroles/Chunky-Chicken-Noodle-Casserole-4772/ct/1">Chunky Chicken Noodle Casserole</a></li>
+					 					 <li><a href="/Casseroles/Cheddar-Potato-Casserole-707/ct/1">Cheddar Potato Casserole</a></li>
+					 					 <li><a href="/Casseroles/Lighter-Sweet-Potato-Casserole-5311/ct/1">Lighter Sweet Potato Casserole</a></li>
+					 					 <li><a href="/Casseroles/Family-Favorite-Tuna-Noodle-Casserole-6387/ct/1">Family-Favorite Tuna Noodle Casserole</a></li>
 					 			</ol>
 							</div>
 			</div><!-- end topTen -->
-										</div>
-														<div style="margin: 0 0 10px 0;">
-													<div style="">
+											</div>
+																<div style="margin: 0 0 10px 0;">
+														<div style="">
 						<!-- ca-pub-3960203165302510/mrfood-com_right-rail-C_300-250 -->
 						<script type="text/javascript">
 							GA_googleFillSlot("mrfood-com_right-rail-C_300-250"); // v2
 						</script>
 					</div>
-												</div>
-														<div style="margin: 0 0 10px 0;">
-										<div class="eBooksRightCol">
+													</div>
+																<div style="margin: 0 0 10px 0;">
+											<div class="eBooksRightCol">
 							<div class="headline">
-					<img src="http://cf.primecp.com/site_templates/0004/images/free-ecookbooks-header.png" alt="Free Mr. Food eCookbooks">
+					<img src="http://cf2.primecp.com/site_templates/0004/images/free-ecookbooks-header.png" alt="Free Mr. Food eCookbooks">
 				</div>
 							<div class="list">
 				<ul>
-											<li><a href="http://www.mrfood.com/Misc-Desserts/Mr-Food-Decadent-Desserts-eCookbook">Decadent Desserts</a></li>
-												<li><a href="http://www.mrfood.com/Chicken/Piece-by-Piece-Easy-Chicken-Recipes-Drumsticks-Thighs/">Easy Chicken Recipes</a></li>
-												<li><a href="http://www.mrfood.com/Editors-Picks/Lighten-Up-20-Tasty-and-Healthy-Recipes-for-the-New-Year-from-MrFood">Lighten Up!</a></li>
-												<li><a href="http://www.mrfood.com/Misc-Desserts/No-Bake-Desserts-18-Easy-Dessert-Recipes-from-Mr-Food-Free-eCookbook">No Bake Desserts</a></li>
-												<li><a href="http://www.mrfood.com/Pancake-and-Waffle-Recipes/Perfectly-Easy-Pancakes-Simple-Pancake-Recipes/">Perfectly Easy Pancakes</a></li>
-												<li><a href="http://www.mrfood.com/Deli-Salad/Simply-Deli-Salads-Best-Recipes-Potato-Salad-Macaroni-Salad-Mr-Food/">Simply Deli Salads</a></li>
-												<li><a href="http://www.mrfood.com/Slow-Cooker-Recipes/Slow-Cookin-Magic-28-Scrumptious-Slow-Cooker-Recipes-from-Mr-Food-Free-eCookbook/">Slow Cookin' Magic</a></li>
+											<li><a href="http://www.mrfood.com/Editors-Picks/12-Days-of-Christmas-Cookies-A-Free-eCookbook-From-Mr-Food/">12 Days of Christmas Cookies</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/25-Scrumptious-Pies-and-Desserts-for-Thanksgiving-and-Beyond-eCookbook">25 Scrumptious Pies &amp; Desserts for Thanksgiving</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/Christmas-Celebrations-eCookbook-5-Holiday-Special-Menus-with-34-Recipes/">Christmas Celebrations eCookbook: 5 Holiday-Special Menus with 34 Recipes</a></li>
+												<li><a href="http://www.mrfood.com/Misc-Desserts/Mr-Food-Decadent-Desserts-eCookbook">Decadent Desserts eCookBook</a></li>
+												<li><a href="http://www.mrfood.com/index.php/hct/Latest-Free-eCookbooks">Fall Favorites free eCookBook</a></li>
+												<li><a href="http://www.mrfood.com/Turkey-Misc-Poultry/Mr-Food-Thanksgiving-Feasts-free-eCookbook">Thanksgiving Feasts</a></li>
+												<li><a href="http://www.mrfood.com/Editors-Picks/16-Easy-Amish-Recipes-Mr-Food/">Welcome to Amish Country</a></li>
+												<li><a href="http://www.mrfood.com/Chili/Worlds-Best-Chili-Recipes-Easy-Chili-Recipes/">World's Best Chili Recipes</a></li>
 										</ul>
 			</div>
 		</div><!-- end eBooksRightCol -->
 		
-									</div>
-												
-									</td><!-- end col3 -->
-			</tr>
+										</div>
+													</td><!-- end col3 -->
+								</tr>
 		</tbody></table><!-- end mainContainerTable -->
 	
 		
@@ -2359,221 +2365,12 @@ All rights reserved.<br></p>
 
 	
 
-		<div id="viewportGreyout"></div>
-		
+
 
 
 	
 	<!-- START NL signup div -->
-					
-			<div id="newsletterSignUpDivAnime" style="display: none;">
-				
-				<div id="newsletterSignUpDivAnimeCloseLink">
-					[ <a href="">Close</a> ]
-				</div>
-				
-				<div id="newsletterSignUpAnimeContent">
-					<div id="nscID_24">
-        
-	<div class="mainContentDiv">
-        <div class="innerDiv1">
-            
-            <img style="border: 0; margin: 0px 0 0 0px;" src="/site_templates/signup_creative/images/nscID_24/logo-img-upper-left.png" alt="Mr Food" width="269" height="71">
-			
-            
-            
-            <table class="layoutTable">
-                <tbody><tr class="row1">
-                    <td class="td1"></td>
-                    <td class="td2"></td>
-                    <td class="td3"></td>
-                </tr>
-                <tr class="row2">
-                    <td class="td1"></td>
-                    <td class="td2">
-                        <div class="textContent">
-                            <h4>Get FREE Quick 'n' Easy Mr. Food Recipes</h4>
-                            <p>Sign up for <u>unlimited</u> access now!</p>
-                            <ul>
-                                <li><span>1000's of Quick 'n' Easy recipes</span></li>
-                                <li><span>Newsletter &amp; partner offers</span></li>
-                                <li><span>Cooking tips… and much more!</span></li>
-                            </ul>
-                        </div><!-- end textContent -->
-						
-						
-						<div class="errorDiv">
-							<form id="newsletterSignUpFormAnime" class="contentBoxPadding newsletterSignUpDivAnimeFormUI" action="/newsletter_signup.php" method="post" style="margin: 0; padding: 0;">
-								<input type="hidden" name="task" value="signup">
-								<input type="hidden" name="dhtml_type" value="wider_funnel">
-								
-								<!--
-								we can move the location/content of the privacy policy link from outside this custom content to inside
-								the value of the hidden input is the id of the html element where we will place the link
-								-->
-								<input type="hidden" name="move_privacy" value="newsletterSignUpPrivacyLinkLocation">
-								
-								<div class="formContent">
-									<table style="margin: 0; padding: 0; width: 100%; border-collapse: collapse;">
-										<tbody><tr>
-											<td style="font-family: Arial, Helvetica, sans-serif; font-size: .8em; font-weight: bold;">Enter your email:</td>
-											<td style="padding: 0;">
-												<div style="margin: 0 5px 0 6px; padding: .3em; border: 1px solid #000; background-color: #fff;">
-													<input style="display: block; width: 100%; border: 0; margin: 0; padding: 0;" type="text" id="emailAnime" name="email" value="Please enter your email here">
-												</div>
-											</td>
-										</tr>
-										<tr>
-											<td>&nbsp;</td>
-											<td style="width: 308px; padding: 10px 0 0 0;">
-												<!-- this image is 308px wide -->
-                                                <!--
-												<input style="display: block; margin: 0; border: 0;" type="image" alt="Get FREE Crochet Patterns" src="/site_templates/signup_creative/images/nscID_24/submit_button.png" />
-                                                -->
-                                                <input type="image" alt="Get FREE Crochet Patterns" src="/images/clear_pixel.gif">
-											</td>
-										</tr>
-									</tbody></table>
-								</div><!-- end formContent -->
-							</form>
-							
-							<h4 id="newsletterSignUpThanksAnime" style="display: none;">Thanks for signing up</h4>
-							<h4 id="newsletterSignUpErrorAnime" style="display: none;">* Please enter your email address to sign up *</h4>
-							
-						</div><!-- end errorDiv -->
-                    </td>
-                    <td class="td3"></td>
-                </tr>
-                <tr class="row3">
-                    <td class="td1"></td>
-                    <td class="td2"></td>
-                    <td class="td3"></td>
-                </tr>
-            </tbody></table><!-- end layoutTable -->
-			
-			<div id="newsletterSignUpPrivacyLinkLocation"></div>
-			
-        </div><!-- end innerDiv1 -->
-	</div><!-- end mainContentDiv -->
-		
-		
-</div><!-- end nscID_24 -->				</div><!-- end newsletterSignUpAnimeContent -->
-				
-				
-				<div id="newsletterSignUpPrivacyLink">
-					[ <a href="">Privacy Policy</a> ]
-				</div><!-- end newsletterSignUpPrivacyLink -->
-				
-				
-				<div id="newsletterSignUpPrivacyContent" style="display: none;">
-					<p style="margin-bottom: 1.5em">[ <a class="closePrivacyContentLink" href="">Close Privacy Policy</a> ]</p>
-					
-					<p>Privacy Policy / Your California Privacy Rights <br>
-Active Date: December 15, 2009</p>
-<p>&nbsp;</p>
-<p>Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
-<p>This Privacy Policy will tell you, among other things:</p>
-<p>Your California privacy rights.<br>
-How we collect information and what information we collect.<br>
-How we may use information.<br>
-How we may share information.<br>
-Your choices regarding the sharing of information.</p>
-<p>ACKNOWLEDGEMENT/YOUR AGREEMENT<br>
-Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.</p>
-<p>YOUR CALIFORNIA PRIVACY RIGHTS<br>
-Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.</p>
-<p>HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?<br>
-We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.</p>
-<p>Distribution Partners<br>
-Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.</p>
-<p>Offer Forms<br>
-We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.</p>
-<p>Website Registration Forms<br>
-We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:<br>
-e-mail address<br>
-full name<br>
-mailing address<br>
-telephone number<br>
-date of birth<br>
-gender</p>
-<p>Publisher Partners <br>
-When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.</p>
-<p>Marketing Partners<br>
-We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.</p>
-<p>Automatic Information/Digital Identifiers<br>
-We may automatically receive and store certain types of information about you through the data sources listed above.</p>
-<p>You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.</p>
-<p>We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL.</p>
-<p>Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.</p>
-<p>Government Forms<br>
-The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.</p>
-<p>HOW DO WE USE THIS INFORMATION?<br>
-We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
-<p>Ad Serving<br>
-We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
-<p>We also use third party advertising companies, such as Advertising.com, to serve advertisements when you visit our websites. These companies may use and optimize information (not including your name, mailing address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Advertising.com please visit http://www.advertising.com/privacy_policy_details.php.</p>
-<p>Pre-select/Pre-fill Offers<br>
-Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
-<p>Upsell <br>
-We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.<br>
-<br>
-Customer Service and Fulfillment<br>
-We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.</p>
-<p>Credit Card Preauthorization<br>
-By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.</p>
-<p>Marketing<br>
-We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.</p>
-<p>HOW DO WE SHARE INFORMATION?<br>
-We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.</p>
-<p>Within the Company <br>
-We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.</p>
-<p>Vendors<br>
-We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.</p>
-<p>Advertisers<br>
-When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.</p>
-<p>When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.</p>
-<p>When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.</p>
-<p>Ad Serving Companies <br>
-We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.</p>
-<ul>
-    <li>Google, as a third party vendor, uses cookies to serve ads on our site.</li>
-    <li>Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.</li>
-    <li>Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</li>
-</ul>
-<p>Marketing Partners<br>
-We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.</p>
-<p>Data Enhancement/Appending/Validation<br>
-We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.</p>
-<p>Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
-<p>Governmental Agencies or Other Companies<br>
-We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
-<p>We may store and share your information with third parties for suppression or opt-out purposes.</p>
-<p>We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.</p>
-<p>In all cases, this information is not provided to these entities or persons for marketing purposes.</p>
-<p>Right to Transfer<br>
-Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.</p>
-<p>COMPANY CUSTOMER CHOICES</p>
-<p>Marketing Communications and Unsubscribe Information<br>
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.mrfood.com/index.php/hct/contact_us_page">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
-<p>Request for More Information<br>
-As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 340, Northbrook, IL&nbsp; 60062.</p>
-<p>WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?<br>
-Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.</p>
-<p>APPLICATION OF THIS PRIVACY POLICY<br>
-This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.</p>
-<p>WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?<br>
-We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.</p>
-<p>SECURITY<br>
-There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.</p>
-<p>LIMITATION OF LIABILITY <br>
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.</p>
-<p>&nbsp;</p>					
-					<p style="margin-top: 1.5em">[ <a class="closePrivacyContentLink" href="">Close Privacy Policy</a> ]</p>
-				</div><!-- end newsletterSignUpPrivacyContent -->
-				
-			</div><!-- end newsletterSignUpDivAnime -->
-
-				<!-- END NL signup div -->
+			<!-- END NL signup div -->
 			
 		
 		
