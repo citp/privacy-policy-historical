@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150242id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3DUS%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113231704id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3DUS%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
 
 # 3D Measurement-Portable Measurement Devices-Portable CMMs-FARO - Privacy Policy
 
