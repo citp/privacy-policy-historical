@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109211459id_/http%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113160029id_/http%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
 
 # Policies
-
-* * *
 
 AACC and its collaborating partners are committed to honoring the privacy of our visitors. We have designed the site to minimize the gathering of personal data; we will not do so without first alerting you to the fact.
 
@@ -19,4 +17,4 @@ If you would no longer like to receive email updates from us, please complete ou
 
 You may also [use this same form](http://labtestsonline.org/contact/?gc=33) to send us any questions you may have about our privacy policy. It will be helpful if you would select "privacy" as your subject.
 
-[« Prev](http://labtestsonline.org/site/policies?start=3 "Prev")
+[« Prev](http://labtestsonline.org/site/policies/start/3 "Prev")
