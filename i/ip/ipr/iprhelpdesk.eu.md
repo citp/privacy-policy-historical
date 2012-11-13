@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprhelpdesk.eu privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513170949id_/http%3A//www.iprhelpdesk.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprhelpdesk.eu privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113210359id_/http%3A//www.iprhelpdesk.eu/privacy) for the most accurate reproduction.*
 
 # data privacy notice | IPR Helpdesk
 
