@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426125413id_/http%3A//www.frontrush.com/web/company/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113011526id_/http%3A//www.frontrush.com/web/company/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy: Front Rush
 
@@ -43,4 +43,4 @@ Front Rush uses small gif images within emails to recover information about the 
 Front Rush may update this Statement at any time, so please review it frequently. If we make material changes to this Statement, we will notify you in this Statement, by email or by a notice posted on the home page of the Site.
 
 **Questions?**  
-If you have any questions about this Statement or the practices of this Site, please contact us at info@frontrush.com. You may also write to us at Front Rush LLC, 350 S Main St Ste 215 Doylestown PA 18901 or call 215.489.2100. 
+If you have any questions about this Statement or the practices of this Site, please contact us at info@frontrush.com. You may also write to us at Front Rush LLC, 287 S Main St Ste 12 Lambertville, NJ 08530 or call 215.489.2100. 
