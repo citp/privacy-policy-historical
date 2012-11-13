@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-metatrader-indicators.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514173324id_/http%3A//www.best-metatrader-indicators.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-metatrader-indicators.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113070529id_/http%3A//www.best-metatrader-indicators.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Best-Metatrader-Indicators.Com
 
@@ -19,8 +19,6 @@ We may share information with governmental agencies or other companies assisting
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
 
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+If you have any questions, concerns, or comments about our privacy policy you may [contact us.](http://www.best-metatrader-indicators.com/contact/)
 
-[Contact Us](http://www.best-metatrader-indicators.com/contact/)
-
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+We reserve the right to make changes to this policy. Any changes to this policy will be posted. Please read our [Terms and Conditions](http://www.best-metatrader-indicators.com/terms/) too!
