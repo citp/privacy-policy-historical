@@ -1,90 +1,63 @@
-> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105010id_/http%3A//www.webshots.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113110012id_/http%3A//smile.webshots.com/privacy) for the most accurate reproduction.*
 
-# Webshots - Privacy Policy
+# Smile - Privacy Policy
+
+**Last Updated: July 30, 2012**
+
+This Policy explains how your personal information is collected, used, and disclosed by Threefold Photos, Inc., and its subsidiaries and affiliated companies ("TPI" or "We"). This privacy policy ("Policy") applies to consumer users of the TPI's websites, including Getsmileapp.com (collectively, "Sites"). This Policy does not apply to websites, applications, or services that do not display or link to this statement or that display or link to different privacy statements.
+
+#### INFORMATION COLLECTED
+
+We collect information about you in various ways when you use our Sites. We collect personal information you provide to us. For example, we collect your name, email address, postal address, phone number, date of birth, password, demographics, photos, and other information you provide us on our Sites. We also collect credit card numbers and other payment information if you purchase our products on our Sites. We may also obtain information from other sources and combine that with information we collect on our Sites.
+
+When you visit our Sites, some information is automatically collected. For example, when you visit our Sites your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our site are logged automatically. We also collect information about your usage and activity on our Sites.
+
+**Cookies.** We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. 
+
+**Web Beacons.** We may collect information using Web beacons. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
+
+**Local Shared Objects.** We may use local shared objects, also known as Flash cookies, to store your preferences such as volume control or to display content based upon what you view on our sites to personalize your visit. Third party partners provide certain features on our sites and display advertising based upon your Web browsing activity using Flash cookies to collect and store information.
 
   
-[ ](http://www.webshots.com/) | **Last updated October 25, 2007**  
----|---  
-  
-**Webshots Privacy Policy**  
-This privacy policy applies to the operations of all brands and services within the Webshots web sites, including, without limitation, the Webshots desktop application, and the allyoucanupload.com service. **Overall privacy statement**  
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site and its properties and services that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate. Please note that by using the services or web site, you agree that any information you provide to us will be stored in the United States in accordance with this Privacy Policy and United States law.
+Flash cookies are different from browser cookies because of the amount of, type of, and way in which data is stored. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn how to manage privacy and storage settings for certain Flash cookies click [here: ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
-**1\. What information does Webshots collect?**  
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards. 
+#### USE OF INFORMATION WE COLLECT
 
-We collect personally identifiable information, such as your name, email address, postal address, phone number, mobile number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
+We use personal information collected through our Sites for purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use your information to:  
+operate and improve our Sites, products, and services;  
+understand you and your preferences to enhance your experience and enjoyment using our Sites, products, and services;  
+process and deliver contest entries and rewards;  
+respond to your comments and questions and provide customer service;  
+provide and deliver products and services you request;  
+to send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;  
+communicate with you about new contests, promotions, rewards, upcoming events, and other news about products and services offered by Threefold Photos and our selected partners;  
+link or combine it with other personal information we get from third parties, to help understand your needs and provide you with better service. 
 
-Once you register with Webshots you are no longer anonymous to us.
+Threefold Photos may store and process personal information in the United States and other countries. 
 
-**2\. What is Webshots. practice regarding cookies?**  
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
+#### SHARING OF PERSONAL INFORMATION
 
-We also use technologies, including electronic images known as Web bugs.sometimes called transparent GIFs, clear GIFs, or beacons.that allow us to track general user-traffic patterns. We may also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
+**Information You Share**  
+Our Sites allow you to connect and share your actions, comments, photos, content, and information publicly or with friends. We may also allow you to connect and share on third-party sites and services. Our privacy policy does not cover any third-party sites or their services, including social networking services made available through our Sites. For information about a third party’s privacy practices, please consult its privacy policy.
 
-We use cookies and tracking technologies in a variety of ways, including:  
+Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public. If you share information about others, we suggest you get consent for any information you may share about them.
 
+**Information We Share**  
+We do not share your personal information with third parties other than as follows:  
+with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;  
+with third party vendors, consultants and other service providers who work for us and need access to your information to do that work;  
+to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Threefold Photos our agents, customers, members, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of Threefold Photos , its customers, or any person ;  
+in connection with or during negotiation of any merger, financing, acquisition, or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company.  
+We may also share aggregated or deidentified information.
 
-  1. Keeping count of return visits to our site or our advertisers' or partners' sites; 
-  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage; 
-  3. Determining which features our overall user population likes best; 
-  4. Saving your password so you don't have to re-enter it each time you visit our sites; 
-  5. Displaying the most appropriate advertising or content based on your interests. 
+#### SECURITY OF YOUR PERSONAL INFORMATION
 
-We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+We take reasonable steps to help protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. 
 
-**3\. How does Webshots use the information?**  
-We use the information we gather for four general purposes:  
+#### YOUR INFORMATION CHOICES AND CHANGES
 
+Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site. 
 
-  1. To customize the advertising and the content you see; 
-  2. To enhance the user experience in our network of sites and software applications; We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you; 
-  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards; 
-  4. To send you information you agreed to receive about topics we think will be of interest to you. 
+#### CHANGES TO THIS POLICY
 
-**4\. How does Webshots share the information?**  
-_Personally identifiable information_  
-We will make your personally identifiable information available to other companies or people when:   
-
-
-  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website(s) or software applications. 
-  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction. 
-  3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  4. We hire third-party vendors to provide specialized services such as customer support; mobile delivery; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use. 
-  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person.s list of people to whom they may not send emails. 
-  6. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process. 
-  7. When required by law, such as when we respond to subpoenas, court orders, or legal process. 
-  8. We believe that your actions violate applicable laws, Webshots. Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others. 
-
-_Aggregate information_  
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
-
-_Business transfers_  
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
-
-_Information Sharing With Affiliates_  
-We are a member of member of the American Greetings family. This means that we are an affiliate of American Greetings Corporation and its subsidiaries, including, but not limited to AmericanGreetings.com, BlueMountain.com, Egreetings.com, Kiwee.com, Carlton Cards Retail, Inc., Plus Mark, Inc., Gibson, and Designware. We reserve the right to share your Personally Identifiable Information with our affiliates in order to conduct promotions, offer premiums, and share databases and equipment. We will not share your credit card information with anyone, including affliliates, without your express permission.
-
-**5\. What are my options?**  
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
-
-We also give users the following options:  
-
-
-  1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages, my account pages, or by following the instructions at the end of the e-mail they received from us. Please note, however, that we reserve the right to send you email about the administration of your account, policy changes, legal, billing, and other matters that will affect your use of the web site. These communications are mandatory. 
-  2. Opting not to provide certain personal information when registering for a site or software application, provided, however, that you may not be able to use some of our products or services without providing us with certain information. 
-
-**6\. How can I review and update my personally identifiable information?**  
-You can review, correct, or change the information collected during registration for Webshots here: http://www.webshots.com/myaccount  
-The instructions for doing this can be found in our member-services areas or in the footer links available on all sites. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. 
-
-**7\. How will I know if the privacy policy is changed?**  
-Any modifications to our privacy practices will be reflected first in this Privacy Policy. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
-
-**8\. Privacy of children**  
-None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
-
-**Questions, Comments**  
-Questions regarding this privacy statement or any other aspects of our network of Webshots should be sent to our corporate offices at AG Interactive, One American Road, Cleveland, Ohio, 44144, ATTN: Corporate Counsel. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
-
-©1997-2008 [AG.com, Inc](http://corporate.americangreetings.com/). All rights reserved.
+We may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. 
