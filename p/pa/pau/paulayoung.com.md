@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515120407id_/http%3A//www.paulayoung.com/jump.do%3FitemID%3D5%26itemType%3DLANDING%26privacy%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113211935id_/http%3A//www.paulayoung.com/jump.do%3FitemID%3D5%26itemType%3DLANDING%26privacy%3Dpolicy) for the most accurate reproduction.*
 
-# Wigs and Hairpieces - www.PaulaYoung.com
+# Wigs, Women’s Wigs, Stylish Wigs, Discount Wigs – Paula Young
 
 ### PRIVACY POLICY 
 
