@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wlug.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627185015id_/http%3A//www.wlug.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlug.net privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113041547id_/http%3A//www.wlug.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin [at ]wlug[dot]net.
+If you require any more information or have any questions about our privacy policy, please feel [free](http://www.wlug.net/767/something-lyrics-something-lyrics-by-the-beatles/) to contact us by email at admin [at ]wlug[dot]net.
 
 At [**Get Netted**](http://www.wlug.net/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [**Get Netted**](http://www.wlug.net/) and how it is used.
 
