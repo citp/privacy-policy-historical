@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scanlife.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419183348id_/http%3A//www.scanlife.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanlife.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113161222id_/http%3A//www.scanlife.com/en/privacy-policy) for the most accurate reproduction.*
 
-# ScanLife Privacy Statement
+# ScanLife Privacy Statement | ScanLife
 
 Thank you for the trust you place on Scanbuy. At Scanbuy we take our responsibility to protect your privacy very seriously. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience.
 
