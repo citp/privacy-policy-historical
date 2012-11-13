@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venusianarts.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516115536id_/http%3A//www.venusianarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venusianarts.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113204301id_/http%3A//www.venusianarts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Venusian Arts
 
@@ -40,3 +40,8 @@ The Venusian Arts will occasionally update this Statement of Privacy to reflect 
 
 Contact Information  
 The Venusian Arts welcomes your comments regarding this Statement of Privacy. If you believe that The Venusian Arts has not adhered to this Statement, please contact The Venusian Arts at support@venusianarts.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+  
+
+
+#### Share and Enjoy
