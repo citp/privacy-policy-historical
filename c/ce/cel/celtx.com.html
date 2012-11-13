@@ -1,14 +1,20 @@
-<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504022555id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2012-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113105423id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <title>Celtx - Privacy</title>
+    <title>celtx - Privacy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="keywords" content="  ">
     <meta name="description" content="  ">
     
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-
+<script type="text/javascript">
+window.cx_uri = function(path) { 
+  return '/celtx/1.59/en-US/ux' + '/' + path;
+};
+	</script>
+<script type="text/javascript" src="/celtx/1.59/en-US/ux/scripts/module_cxmodules.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/assets/1.59/javascript/jlabel-1.3-min.js"></script>
     
 
 	<!-- Basic Page Needs
@@ -31,23 +37,28 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="/css/base.css">
-	<link rel="stylesheet" href="/css/skeleton.css">
-	<link rel="stylesheet" href="/css/layout.css">
+	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/base.css">
+	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/skeleton.css">
+	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/layout.css">
+	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/header.css">
 
 	<!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="/favicon.ico">
-	<!-- <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png"> -->
+	<link rel="shortcut icon" href="favicon.ico">
+	<!-- <link rel="apple-touch-icon" href="https://s3.amazonaws.com/celtx.com/assets/1.59/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://s3.amazonaws.com/celtx.com/assets/1.59/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://s3.amazonaws.com/celtx.com/assets/1.59/images/apple-touch-icon-114x114.png"> -->
 	
+  	<script type="text/javascript">
 	
-	<script type="text/javascript" src="/app/cxsrv/compiled.js"></script>
-    
-    <script type="text/javascript">
+	var cxm = cx.module.Manager.getInstance();
+	cxm.load("cxauth", function() {
+		cxm.load("cxapplication", function() {
+			startup();
+		});
+	});
     	
-    (function(){
+    function startup(){
     	
     	var updateInputs = function(arr, b){
     		$.each(arr, function(i, el){
@@ -59,65 +70,78 @@
     		
     		var msg = errText.toUpperCase(); 
     	
+    		
 			if (msg.substring(0, 13) === 'INVALID EMAIL'){
-				//msg = 'Invalid email address';
+				msg = "The email address you've entered is invalid.";
 				userTb.addClass('error');
 				userTb.focus();
 			}
+			else if (msg === 'MISSING OR INVALID EMAIL'){
+    			msg = "Please fill in the email field with a valid email address.";
+				userTb.addClass('error');
+				userTb.focus();
+    		}
 			else if (msg.substring(0, 3) === '401'){
-				//msg = 'Incorrect username or password';
+				msg = "The username and password combination is not correct.";
 			}
 			else if (msg.substring(0, 3) === '409'){
-				//msg = 'Account already exists for that email address';
+				msg = "An account already exists for that email address.";
 				userTb.addClass('error');
 				userTb.focus();
+			} else{
+				msg = errText;
 			}
 			
 			errSpan.text(msg);
 			errSpan.css('visibility', 'visible');
+			errSpan.addClass('error');
 		},
 	
 		loggedIn = function(){
+			var ua = $.browser;
+			
 			if (window.location.pathname === '/' || window.location.pathname === '/index.html'){
 				goToApplication();
 			}
 			else{
-				$('#signInDiv').css('display', 'none');
-				$('#loggedInDiv').css('display', 'block');
-				cx.docs.Session.getInstance().getLogon()
-				.addCallback(function(logon){
-					$('#loggedInUsername').text(logon.getName());
-					$('#accessAccount').click(function(e){
-						goToApplication();
-					});
-				});
+				$('#signInDiv').hide();
+				$('#dashboard-logo').fadeIn();
+				
+				//$('#loggedInDiv').fadeIn();
+				//$('#loggedInUsername').text(cx.auth.Session.getInstance().getUserId());
+				//$('#accessAccount').click(function(e){
+				//	goToApplication();
+				//});
 			}
 		},
 		
 		goToApplication = function(){
-			window.location.href = '/app/studio.html';
+			//var app = new cx.ui.ApplicationManager();
+			//app.goToApplication();
+			window.location.href = "/a/ux/";
 		},
 		
 		signupSuccess = function(email){
-			$('#login1SentEmailAddress').text(email);	
-			$('.signup1').hide();
-			$('.login1').show();
+			_gaq.push(['_trackEvent', 'Login', 'Create Account']);
+			window.location.href = "/signedup.html";
 		},
 		
-		validate = function(user, pass){
+		validate = function(user, pass, messageEl){
 			
 			var hasError = false;
 			
-			if (user.val().length <= 0){
-				user.addClass('error');
-				hasError = true;
-				user.focus();
-			}
-			
 			if (pass.val().length <= 0){
 				pass.addClass('error');
-				if (!hasError) pass.focus();
-				hasError = true;
+				pass.focus();
+				showError(messageEl, "Please enter your password.");
+				hasError= true;
+			}
+
+			if (user.val().length <= 0){
+				user.addClass('error');
+				user.focus();
+				showError(messageEl, "Please enter your email address.");
+				hasError= true;
 			}
 			
 			return hasError;
@@ -147,14 +171,14 @@
 				
 				hideError(errorSpanId);
 				
-				if (validate(userTb, passTb)){
+				if (validate(userTb, passTb, errorSpanId)){
 					return;
 				}
 				
 				updateInputs(inputList, true);
 			
 				if (isLogin){
-					cx.docs.Session.login(userTb.val(), passTb.val())
+					cx.auth.Session.login(userTb.val(), passTb.val())
 					.addCallback(function(){
 						goToApplication();
 					})
@@ -165,7 +189,7 @@
 				}
 				else{
 					spinnerId.css('visibility', 'visible');
-					cx.docs.Session.signup(userTb.val(), passTb.val(), $('#subscribe').is(':checked'))
+					cx.auth.Session.signup(userTb.val(), passTb.val(), $('#subscribe').is(':checked'))
 					.addCallback(function(){
 						spinnerId.css('visibility', 'hidden');
 						signupSuccess(userTb.val());		
@@ -185,47 +209,32 @@
 		},
 		
 		setupSignup = function(){
-			setupForm($('#email_signup'), $('#password_signup'), $('#btnSignUp'), $('#signup-failed-msg'), $('#signupSpinner'), false);
+			$('.signup-form').each(function(){
+				setupForm($(this).find('.username'), $(this).find('.password'), $(this).find('.signup-btn'), $(this).find('.message'), $(this).find('.spinner'), false);
+			});
 		};
 		
 		
 		//check if the user is already logged in.
-		cx.docs.Session.getInstance().isLoggedIn()
-			.addCallback(function(){		
-				loggedIn();
-			})
-			.addErrback(function(){	
-				//user is not logged in.		
-				
+		cx.auth.Session.getInstance().isLoggedIn()
+			.addErrback(function(err){	
+				//user is not logged in.	
+			}).addCallback(function(bool){		
+				if (bool){
+					loggedIn();
+				}
 			});
-		
+
+
 		$(document).ready(function() {
 			setupLogin();
 			setupSignup();		
-			$('.homeUsername').jLabel();
-			$('.homePassword').jLabel();
-			$('.signupUsername').jLabel();
-			$('.signupPassword').jLabel();	
+			$('.j-label').jLabel();
+			$(this).find('#email_id').focus();
 		});
-	})();
+	};
     
     </script>
-	
-	
-	
-	<!-- fancyBox -->
-	
-	<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" type="text/css" media="screen">
-	<script type="text/javascript" src="/fancybox/jquery.fancybox.js"></script>
-	<script type="text/javascript" src="/javascript/jlabel-1.3-min.js"></script>
-	
-    
-        
-	<!-- Speak to Levin - Greg is not sure if this is being used -->	
-	<script src="/javascript/tabs.js"></script>
-
-	
-
 
 
     <script type="text/javascript">
@@ -249,34 +258,75 @@
 <!-- Top Bar and Menu
 ================================================== -->
 
-<div id="topBar">
-	<div class="globalNavContainer">
+<div style="width: 100%; position:absolute; top: 0px; z-index:3" id="topBar">
+	<div style="position:absolute; width:100%">
 	
-		<div class="logo">
-			<a href="/index.html"><img src="/images/celtxLogo.png" alt="Celtx Logo"></a>
-		</div>
-		
-		<div id="signInDiv" style="float:right">
-			<form id="sign-in" name="sign-in">
-			<ul id="mainNav" style="float:right;">
-				<!--<li><a href="/details.html" >Details</a></li>
-				<li><a href="/community.html">Community</a></li>
-				<li><a href="/support.html">Support</a></li> -->
-				<li class="inputFields"><label for="email_id">Email</label><input type="email" name="email_id" value="" id="email_id" class="homeUsername wicked" autocorrect="off" autocapitalization="off"></li>
-				<li class="inputFields"><label for="password_id">Password</label><input type="password" name="password_id" id="password_id" class="homePassword wicked"></li>
-				<li class="homeLogIn"><input type="submit" id="btnLogin" value="Log In" onsubmit="_gaq.push(['_trackEvent', 'Login', 'Submit']);"></li>
-			</ul>
-			<!-- <span style="position:relative;top:34px;left:35%;color:white;font-size:11px"><input type="checkbox" checked="checked" />Remember me</span> -->
-			<span style="position:relative;top:34px;left:64%;color:white;font-size:11px"><a href="reset.html">Trouble logging in?</a></span>
-			<span id="login-failed-msg" style="position:relative;top:34px;left:69%;color:#b94a48;font-size:11px;visibility:hidden;font-weight:bold"></span>
-			</form>
-		</div>
-		<div id="loggedInDiv" style="display:none;float:right">
-			Welcome <span id="loggedInUsername"></span> <button id="accessAccount">Log in</button>
-		</div>
 	</div>
 </div>
 
+<div style="position:absolute; top:0px; width:100%;  z-index:4">
+	<div style="margin: 0px auto; width: 1024px;">
+		<div class="globalNavContainer">
+			<div class="logo">
+				<a href="/">
+					<img style="display:none" id="dashboard-logo" src="https://s3.amazonaws.com/celtx.com/assets/1.59/images/dash-logo-small.png" alt="Dashboard Logo">
+					<img src="https://s3.amazonaws.com/celtx.com/assets/1.59/images/celtxLogo.png" alt="Celtx Logo">
+				</a>
+			</div>
+			<ul id="topnav">
+				<li>
+					<a href="about.html">About</a>
+				</li>
+				<li>
+					<a href="http://celtx.tumblr.com/" target="_new">Blog</a>
+				</li>
+				<li>
+					<a href="seeds.html">Seeds</a>
+				</li>
+				<li>
+					<a href="http://forums.celtx.com/viewforum.php?f=20&amp;sid=df429adc587df40d4c0a1e0a1f412cd0" target="_new">Forums</a>
+				</li>
+				<li>
+					<a href="support.html">Support</a>
+				</li>
+				<li>
+					<a href="contact.html">Contact</a>
+				</li>
+			</ul>
+		</div>
+		<div id="login-or-signin" class="pull-right">
+					<div id="loggedInDiv">
+						<a style="color: white !important; display: inline-block; text-align: center; margin-top: -9px;" class="btn btn-large btn-primary" href="/">Go back to your <span style="font-weight:bold">Celtx Account</span></a>
+					</div>
+					<div id="signInDiv" class="well">
+						<form id="sign-in" class="clearfix" name="sign-in">
+							<ul id="mainNav" style="float:right;">
+								<li class="inputFields">
+									<label for="email_id">email</label>
+									<input type="email" name="email_id" value="" id="email_id" class="j-label homeUsername wicked" autocorrect="off" autocapitalization="off">
+								</li>
+								<li class="inputFields">
+									<label for="password_id">password</label>
+									<input type="password" name="password_id" id="password_id" class="j-label homePassword wicked"></li>
+								<li class="homeLogIn"><input type="submit" id="btnLogin" value="Log In" onsubmit="_gaq.push(['_trackEvent', 'Login', 'Submit']);"></li>
+							</ul>
+							<div id="login-failed-msg" class="pull-left" style="height:11px; color:#b94a48;font-size:11px;visibility:hidden;font-weight:bold"></div>
+							<div class="pull-right" style="height:11px; color:white;font-size:11px"><a href="reset.html">Trouble logging in?</a></div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+<noscript>
+	<div id="noscript">
+		<div class='message'>
+			<h1>This site requires JavaScript</h1>
+			<p style='width: 80%; margin: 0 auto;'>Please enable JavaScript, then refresh this page. If you require assistance enabling JavaScript, please go to <a href='http://enable-javascript.com' target='_blank'>enable-javascript.com</a> and refresh this page once you've successfully followed the instructions.</p>
+		</div>
+	</div>
+</noscript>
 
     
 
@@ -285,23 +335,23 @@
 
 <h1 class="heading">Privacy Policy</h1>
 
-<p>This privacy policy is designed to assist you in understanding how Celtx uses and safeguards the information and resources that you provide to us.</p>
+<p>This privacy policy is designed to assist you in understanding how celtx uses and safeguards the information and resources that you provide to us.</p>
 
 <h2>Use of Information</h2>
 
 <p>CELTX DOES NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER ANY PERSONALLY IDENTIFIABLE INFORMATION COLLECTED THROUGH THE CELTX SOFTWARE OR SERVICES TO ANY THIRD PARTY.</p>
 
-<p>Celtx may collect information which is required in order for the Services to verify your identity. This includes your username and password. You are personally responsible for safeguarding your username and password.</p>
+<p>celtx may collect information which is required in order for the Services to verify your identity. This includes your username and password. You are personally responsible for safeguarding your username and password.</p>
 
-<p>The Celtx website may contain forms and forums where feedback and other comments can be reported directly to Celtx (the "Forums"). Information which is voluntarily submitted to the Forums is used to improve the Celtx Services. Celtx reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the Celtx website or in other communications. If Celtx chooses to display a user-submitted comment it will either display it anonymously, stripping away all personally identifiable information, or request permission directly from you before displaying any such personally identifiable information.</p>
+<p>The celtx website may contain forms and forums where feedback and other comments can be reported directly to celtx (the "Forums"). Information which is voluntarily submitted to the Forums is used to improve the celtx Services. celtx reserves the right to utilize this information for marketing purposes, for instance by displaying selected comments on the celtx website or in other communications. If celtx chooses to display a user-submitted comment it will either display it anonymously, stripping away all personally identifiable information, or request permission directly from you before displaying any such personally identifiable information.</p>
 
 <h2>No System Information Collected</h2>
 
-<p>No information concerning your computing facilities is collected that is not related to providing Celtx Services. No information about your computing facilities will be provided to any third party without your express permission.</p>
+<p>No information concerning your computing facilities is collected that is not related to providing celtx Services. No information about your computing facilities will be provided to any third party without your express permission.</p>
 
 <h2>Delete/Deactivation Policy</h2>
 
-<p>If you wish to modify or delete any personal information you submitted to Celtx, you may do so by either modifying your profile on the Forums or contacting us at <a href="mailto:info@celtx.com">info@celtx.com</a>. We will use commercially reasonable efforts to delete all such information within fifteen working days from the date of the receipt of your request. Please note that it may be impossible to delete a user's entry without some residual information remaining in our system due to the presence of Celtx maintained backups and records of deletions. Celtx reserves the right not to delete information in order to comply with applicable local laws or regulations.</p>
+<p>If you wish to modify or delete any personal information you submitted to celtx, you may do so by either modifying your profile on the Forums or contacting us at <a href="mailto:info@celtx.com">info@celtx.com</a>. We will use commercially reasonable efforts to delete all such information within fifteen working days from the date of the receipt of your request. Please note that it may be impossible to delete a user's entry without some residual information remaining in our system due to the presence of celtx maintained backups and records of deletions. celtx reserves the right not to delete information in order to comply with applicable local laws or regulations.</p>
 
 </div>
 
@@ -309,72 +359,20 @@
 ================================================== -->
 
 	<div class="clear"></div>
-
-	<div class="footer">
-	<a href="/about.html">About</a>
-	<a href="/support.html">Support</a>
-	<a href="http://celtx.tumblr.com/">Blog</a>
-	<a href="/seeds.html">Seeds</a>
-	<a href="https://studio.celtx.com">Studio Login</a>
-	<a href="/privacy.html">Privacy Policy</a>
-	<a href="/terms.html">Terms</a>
-	<a href="/desktoplicense.html">Licenses</a>
-	<a href="/contact.html">Contact</a>
-	
-<!--
-	<h5>Links</h5>
-	<h5>Details</h5>
-	<h5>Terms</h5>
-	
-	<div class="clear"></div>
-	
-	<ul>
-		<li><a href="/">Home</a></li>
-		<li><a href="/about.html">About</a></li>
-		<li><a href="/support.html">Support</a></li>
-		<li><a href="/community.html">Community</a></li>
-		<li><a href="http://celtx.tumblr.com/">Blog</a></li>
-		<li><a href="/seeds.html">Celtx Seeds</a></li>
-		<li><a href="/release.html">Release Notes</a></li>
-	</ul>
-	
-	<ul>
-		<li><a href="/details.html">Details</a></li>
-		<li><a href="/desktop.html">Desktop</a></li>
-		<li><a href="/services.html">Services</a></li>
-		<li><a href="/mobile.html">Mobile</a></li>
-		<li><a href="/desktop.html#add-ons">Add-Ons</a></li>
-		<li><a href="/guides.html">Guides</a></li>
-		<li><a href="https://studio.celtx.com">Celtx Studio Users</a></li>
-	</ul>
-	
-	<ul>
-		<li><a href="/desktoplicense.html">Desktop License</a></li>
-		<li><a href="/terms.html">Terms of Use</a></li>
-		<li><a href="/logo.html">Logo Terms</a></li>
-		<li><a href="/privacy.html">Privacy Policy</a></li>
-		<li><a href="/policies.html">Policies and Licenses</a></li>
-	</ul>
-
-	<ul>
-		<li><a href="/policies.html#artSales">Art Packs Sales Policy</a></li>
-		<li><a href="/policies.html#artTerms">Art Packs Terms of Use</a></li>
-		<li><a href="/policies.html#studioSales">Studio Sales Policy</a></li>
-		<li><a href="/policies.html#studioTerms">Studio Terms of Use</a></li>
-		<li><a href="/policies.html#writersSales">Writer's Pack Sales Policy</a></li>
-		<li><a href="/policies.html#writersTerms">Writer's Pack Terms of Use</a></li>
-		<li><a href="/policies.html#learningSales">Learning Series Sales Policy</a></li>
-	</ul>
-	
-	<ul>
-		<li><a href="/policies.html#learningTerms">Learning Series Terms of Use</a></li>
-		<li><a href="/policies.html#add-ons">Add-Ons License and Sales Policies</a></li>
-		<li><a href="/policies.html#volume">Volume Installs License and Sales Policies</a></li>
-		<li><a href="/logo.html">Logo Terms</a></li>
-		<li><a href="/privacy.html">Privacy Policy</a></li>
-		
-	</ul> -->
-	
+	<div id="footer-container">
+		<div class="footer">
+			<a href="about.html">About</a>
+			<a href="http://celtx.tumblr.com/">Blog</a>
+			<a href="seeds.html">Seeds</a>
+			<a href="https://studio.celtx.com">Studio Login</a>
+			<a href="privacy.html">Privacy Policy</a>
+			<a href="terms.html">Terms</a>
+			<a href="desktoplicense.html">Licenses</a>
+			<a href="logo.html">Logo License</a>
+			<a href="http://forums.celtx.com/viewforum.php?f=20&amp;sid=df429adc587df40d4c0a1e0a1f412cd0">Forums</a>
+			<a href="support.html">Support</a>
+			<a href="contact.html">Contact</a>	
+		</div>
 	</div>
     
 
