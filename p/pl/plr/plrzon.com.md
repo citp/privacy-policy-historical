@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrzon.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516021321id_/http%3A//plrzon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrzon.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113230121id_/http%3A//plrzon.com/privacy.php) for the most accurate reproduction.*
 
 # PlrZon
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20120516021321id_/http%3A//plrzon.com/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20121113230121id_/http%3A//plrzon.com/contact.php). 
