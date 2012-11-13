@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the f-r-e-e-games.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529064535id_/http%3A//www.gifmania.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-r-e-e-games.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113101425id_/http%3A//www.gifmania.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Gifmania Network Website Privacy Policy
+# Privacy Policy ~ Gifmania
 
-**Summary** |    
+**Summary** |   
 ---|---  
-Information NOT Collected - PII | We do not collect personally identifiable information (data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address) (hereinafter “PII”). However, the Lead Generation business does collect PII.  More information on the collection of PII can be found on clicking on the following link to Lead Generation’s [privacy policy](https://web.archive.org/web/20120529064535id_/http%3A//www.gifmania.org/lead_web_privacy.shtml).  
-Information Collected - Non-PII | The non-personally identifiable information we collect may include as an example, IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity.  
-How Used | We may use your Non-PII (“Information”) for the following general purposes: enhancement of our services, marketing, and to more effectively match advertisements and website content to your interests. Click on the link for more detailed information.  
-Sharing Your Information | We may share your Information with third party service providers we have contracted with, ValueClick, Inc. and its subsidiaries and affiliates, including ValueClick Media (“Value Click Entities”), third party marketing partners, business partners and our clients.   
-Your Choices | You may regulate the collection of your Information through your browser settings or use of "opt-out Cookies".  Click on the link for more detailed information.  
-Security | We use reasonable and appropriate security measures to protect your data.   
-Changes | We may change the Privacy Policy at any time by posting the revised Privacy Policy on the Website and if such changes are material, a notice of the changes will also be posted along with the revised Privacy Policy.   
+[Information NOT Collected - PII](http://www.blogger.com/blogger.g?blogID=3755045424403714543#collect) | We do not collect personally identifiable information (data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address) (hereinafter “PII”). However, the Lead Generation business does collect PII.  More information on the collection of PII can be found on clicking on the following link to Lead Generation’s [privacy policy](http://www.blogger.com/lead_web_privacy.shtml).  
+[Information Collected - Non-PII](http://www.blogger.com/blogger.g?blogID=3755045424403714543#collect) | The non-personally identifiable information we collect may include as an example, IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity.  
+[How Used](http://www.blogger.com/blogger.g?blogID=3755045424403714543#collect) | We may use your Non-PII (“Information”) for the following general purposes: enhancement of our services, marketing, and to more effectively match advertisements and website content to your interests. Click on the link for more detailed information.  
+[Sharing Your Information](http://www.blogger.com/blogger.g?blogID=3755045424403714543#sharing) | We may share your Information with third party service providers we have contracted with, ValueClick, Inc. and its subsidiaries and affiliates, including ValueClick Media (“Value Click Entities”), third party marketing partners, business partners and our clients.   
+[Your Choices](http://www.blogger.com/blogger.g?blogID=3755045424403714543#choices) | You may regulate the collection of your Information through your browser settings or use of "opt-out Cookies".  Click on the link for more detailed information.  
+[Security](http://www.blogger.com/blogger.g?blogID=3755045424403714543#security) | We use reasonable and appropriate security measures to protect your data.   
+[Changes](http://www.blogger.com/blogger.g?blogID=3755045424403714543#changes) | We may change the Privacy Policy at any time by posting the revised Privacy Policy on the Website and if such changes are material, a notice of the changes will also be posted along with the revised Privacy Policy.   
 Contact Us  | If you have any questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please email us at [privacy@valueclick.com](mailto:privacy@valueclick.com) or you can send correspondence to us at the following address: ValueClick Media, Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.  
   
-**INFORMATION WE COLLECT**
+**[](http://www.blogger.com/blogger.g?blogID=3755045424403714543)INFORMATION WE COLLECT**
 
 **Non-Personally Identifiable Information.**   
 As part of our on-going efforts to ensure the best possible experience for all recipients of ValueClick Media advertising, we may use log files, web beacons and cookies to collect data from browsers, advertiser and third party sites (“Sites”) to aggregate Information. The Information collected is used for marketing purposes, enables us to determine which advertisements perform well, allows us to more effectively match advertisements and website content to your interests, assists us in improving the operation of our services, helps us to maintain the quality of our services, enhances our services to our business partners and clients and enables us to provide general statistics to our business partners and clients regarding use of ValueClick Media’s services. 
@@ -30,7 +30,7 @@ There are many misconceptions about Cookies, some of which we will try to addres
 
 A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
-**SHARING YOUR INFORMATION**
+**[](http://www.blogger.com/blogger.g?blogID=3755045424403714543)SHARING YOUR INFORMATION**
 
 **Information Shared by ValueClick Media.**   
 ValueClick Media will only share your Information for the limited purposes provided for in this Privacy Policy. This includes sharing Information (1) to enable third party service providers to assist or facilitate in the services we provide to our clients; (2) to comply with applicable laws and regulations or to respond to a subpoena, search warrant or other lawful request for information received by Us, whether or not a response is required by applicable law; (3) to enforce our terms of use or to protect our rights ; (4) to protect the safety of members of the public and users of the service; (5) with other ValueClick Entities and third party marketing partners (including advertisers and publishers) for marketing purposes; (6) with vendors, administrative service providers, technology providers, and carefully selected partners for data validation, enhancement, information verification and suppression services or (7) for any other purpose for which you provide consent. We also may share Information with advertisers, publishers and other third parties for marketing purposes, but such Information does not include PII. While ValueClick Media strongly encourages clients and partners to adopt responsible approaches to online marketing, ValueClick Media is not responsible for the information practices of such clients and partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from this Privacy Policy. 
@@ -40,7 +40,7 @@ In the event that ValueClick Media is acquired by or merged with a third party e
 **Information Collected by Third Party Sites.**  
 Please be aware that the websites of our advertiser clients as well as the websites on which we place advertisements or any third party websites linked to one of our sites also may collect information from you. Such information may include non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with such website. Although we choose our business partners and clients carefully, ValueClick Media is not responsible for the privacy practices of websites operated by such third parties. You should check the applicable privacy policies of such websites you visit to determine how they handle any information they collect from you. 
 
-**YOUR CHOICES**
+**[](http://www.blogger.com/blogger.g?blogID=3755045424403714543)YOUR CHOICES**
 
 ValueClick Media also offers “opt-out Cookies” to block the placement of future ValueClick Media Cookies on your system for 10 years from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. 
 
@@ -55,13 +55,13 @@ The European Union ("EU") maintains strict privacy laws. These rules differ sign
 
 By providing information to us, you acknowledge that we operate in the US and you agree to (i) permit us to transmit and use your user Information anywhere necessary, including across international boundaries, to better improve the services and transactions provided by ValueClick Media; and (ii) that such use by us shall be subject to the terms and conditions stated in this Privacy Policy and the Terms of Use. 
 
-**Network Advertising Initiative.**  
+**[](http://www.blogger.com/blogger.g?blogID=3755045424403714543)Network Advertising Initiative.**  
 ValueClick Media is a member of the Network Advertising Initiative (“NAI”). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-**Security.**  
+**[](http://www.blogger.com/blogger.g?blogID=3755045424403714543)Security.**  
 ValueClick Media employs appropriate measures to ensure the security of all Information and We routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us. 
 
-**CHANGES**
+**[](http://www.blogger.com/blogger.g?blogID=3755045424403714543)CHANGES**
 
 As the standards governing Internet privacy continue to evolve, ValueClick Media may find it appropriate or necessary to update this Privacy Policy from time to time. As a result, we reserve the right to change this privacy policy at any time and shall post such changes on the Website. Our Website will state the date the Privacy Policy was last updated. We encourage you to review the Privacy Policy whenever you use this Website to make sure you understand how your information will be used. If we materially change how we use your Information, we will notify via a prominent notice on the Website prior to implementing the change 
 
@@ -73,7 +73,8 @@ ValueClick Media is very sensitive to the issue of the privacy rights or childre
 **Your Representations.**   
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose Information you supply to us with regard to: (a) the purposes for which such third party's Information has been collected; (b) the intended recipients or categories of recipients of the third party's Information; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express wish of the parties that the Privacy Policy and all related documents have been drawn up in the English language and that the English version of this Privacy Policy shall be the sole version used in interpreting and enforcing this Privacy Policy. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
 
-If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact _webmaster (at) gifmania.com._   We will endeavour to respond to you promptly.    
+**  Questions?**  
+If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact _webmaster (at) gifmania.com._   We will endeavour to respond to you promptly.   
 
 
 Nuestra política de privacidad describe como recogemos, guardamos o utilizamos la información que recabamos a través de los diferentes servicios o páginas disponibles en este sitio. Es importante que entienda que información recogemos y como la utilizamos ya que el acceso a este sitio implica la aceptación nuestra política de privacidad.
@@ -81,8 +82,7 @@ Nuestra política de privacidad describe como recogemos, guardamos o utilizamos 
 El acceso a este puede implicar la utilización de cookies. Las cookies son pequeñas cantidades de información que se almacenan en el navegador utilizado por cada usuario para que el servidor recuerde cierta información que posteriormente pueda utilizar. Esta información permite identificarle a usted como un usuario concreto y permite guardar sus preferencias personales, así como información técnica como puedan ser visitas o páginas concretas que visite.  
 Aquellos usuarios que no deseen recibir cookies o quieran ser informados antes de que se almacenen en su ordenador, pueden configurar su navegador a tal efecto.
 
-La mayor parte de los navegadores de hoy en día permiten la gestión de las cookies de 3 formas diferentes:
-
+La mayor parte de los navegadores de hoy en día permiten la gestión de las cookies de 3 formas diferentes:  
 1\. Las cookies no se aceptan nunca.  
 2\. El navegador pregunta al usuario si se debe aceptar cada cookie.  
 3\. Las cookies se aceptan siempre.
