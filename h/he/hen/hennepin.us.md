@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514001149id_/http%3A//hennepin.us/portal/site/HennepinUS/menuitem.b1ab75471750e40fa01dfb47ccf06498/%3Fvgnextoid%3D9bd62182a0614210VgnVCM10000049114689RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113020342id_/http%3A//hennepin.us/portal/site/HennepinUS/menuitem.b1ab75471750e40fa01dfb47ccf06498/%3Fvgnextoid%3D9bd62182a0614210VgnVCM10000049114689RCRD) for the most accurate reproduction.*
 
 # Privacy/Security — Hennepin County, Minnesota
 
@@ -12,7 +12,7 @@ Hennepin County may amend this policy from time to time. We will prominently dis
 
 Here is how we handle information about your visit to our website:
 
-## The Collection and Use of Information/Traffic Analysis
+## The collection and use of information/traffic analysis
 
 If you only browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. Only the following information is automatically collected and stored about your visit:
 
@@ -27,23 +27,23 @@ If you only browse through the website, read pages, or download information, we 
   
 We use this information to help us make the website more useful to visitors by learning about the number of visitors to our site and the types of technology our visitors use.
 
-## Personal Information and Choice/Electronic Government
+## Personal information and choice/electronic government
 
 You may choose to provide us with personal information, by sending us an e-mail message containing your comments or questions or by filling out a form with your personal information. We use this information to improve our service to you or to respond to your request. Your message may be forwarded, as e-mail, to other Hennepin County agencies and employees who may be better able to help you. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Hennepin County does not use personal data you provide for commercial marketing.
 
-## Public Access Information & Disclosure of Information to Third Parties
+## Public access information and disclosure of information to third parties
 
 Several state and federal laws protect the privacy of the information we collect about you. Hennepin County does not disclose personally identifiable information you provide online unless authorized by State, federal law or with your (written) permission.
 
 You may decline to participate in any activity that asks for information (for example, surveys or e-mails). Your choice to not participate will have no effect on your ability to access information on the county's websites.
 
-## Use of Cookies
+## Use of cookies
 
 To better serve you, we occasionally use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser when you first visit a website. They provide a method of distinguishing among visitors to websites. Cookies are used to identify a Web user and may also be used to track a user's browsing habits. Web browsers normally accept cookies, unless the user has specifically turned the capability off.
 
 Hennepin County uses a "session" cookie only. The cookie does not install or save or read anything on your computer. It is simply used to temporarily remember some information to enhance the Web application functionality. The cookie is deleted from your system when the browsing session is terminated.
 
-## Online Services - Electronic Government
+## Online services - electronic government
 
 Increasingly, site visitors have the option to do business with Hennepin County via the Web such as making electronic payments.
 
@@ -55,17 +55,17 @@ Hennepin County will not share bank account information with anyone, except auth
 
 Hennepin County shall not be liable to any person or entity for any loss or injury arising, directly or indirectly, out of or caused in whole or in part by Hennepin County’s errors, acts, or omissions in procuring, compiling, collecting, interpreting, reporting, communicating, delivering, or assembling the information, data, or records displayed on this website.
 
-## Information Accuracy
+## Information accuracy
 
 The information contained in this website was accurate and complete for the purposes for which it was collected at the time of publication. Hennepin County reserves the right to make changes and improvements at any time and without notice and assumes no liability for damages incurred directly or indirectly as a result of errors, omissions, discrepancies, unauthorized modification of electronic data, errors in transmission, Web browser incompatibilities, and other aspects of electronic communications that are beyond our control.
 
-## External Links
+## External links
 
-The Hennepin County website has many links to other websites including links to websites operated by other government agencies, nonprofit organizations, and private businesses. Inclusion of a website implies no endorsement or claim of its accuracy.
+State law forbids local units of government, including counties, from publishing external links to blogs or websites of political candidates, political committees, political parties or units, campaign committees, or state committees. See [_State law_](https://www.revisor.mn.gov/statutes/?id=10.60) relating to public websites.
 
-When you follow a link to another website, you are no longer on the county’s website and this privacy policy will not apply. You are subject to the privacy policy of that new site, if one exists. You are encouraged to examine the privacy policy of that site.  See [External Link Policy](https://web.archive.org/vgn-ext-templating/v/index.jsp?vgnextoid=21a8f80e67bc4210VgnVCM10000049114689RCRD) for further information.
+The Hennepin County website provides external links to the websites of other government entities, nonprofit organizations, and businesses as additional relevant information to the public, and is done as a public service. Hennepin County does not endorse nor is responsible for the contents of external sites.
 
-## Unauthorized Access/Site Security
+## Unauthorized access/site security
 
 Unauthorized attempts to upload information or change information on this website are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
@@ -73,7 +73,7 @@ To ensure that this service remains available to all users, the Hennepin County 
 
 Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used and destroyed according to county guidelines for records management and retention.
 
-## Contact Information
+## Contact information
 
 Hennepin County uses a system that allows a large number of county employees to publish and manage content on the county website. To serve you better, the primary contact information about a specific service or program is provided on the right side of the Web page holding information about that service.
 
