@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610003409id_/http%3A//www.hipaaspace.com/Content/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113015456id_/http%3A//www.hipaaspace.com/Content/Privacy_Policy.html) for the most accurate reproduction.*
 
 # HIPAASpace Privacy Policy
 
