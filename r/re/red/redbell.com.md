@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbell.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217141005id_/http%3A//redbell.com/%28S%281vc1mn3tqru0e2e3w0k1sl55%29%29/Security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbell.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113122617id_/http%3A//www.redbell.com/Security.aspx) for the most accurate reproduction.*
 
 # Security & Privacy
 
