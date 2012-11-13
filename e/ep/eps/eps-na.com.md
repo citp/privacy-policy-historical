@@ -1,58 +1,67 @@
-> *The following text is extracted and transformed from the eps-na.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207153242id_/http%3A//www.eps-na.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eps-na.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113135559id_/http%3A//www.eps-na.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# Electronic Payment Systems | Privacy Policy
+# Privacy Policy - Electronic Payment Systems
 
-**Simply put:**
-
-  * We will not collect personally identifiable information like your name, e-mail and mailing address, social security number, business, trade references and telephone numbers ("Personal Information") without your knowledge and permission; 
-
-
-  * Unless otherwise described herein, we will not disclose your Personal Information to third parties unless you have authorized us to do so; 
+**Privacy Policy**  
+This Privacy Policy governs the manner in which Electronic Payment Systems collects, uses, maintains and discloses information collected from users (each, a "User") of the www.eps-na.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Electronic Payment Systems.  
 
 
-  * We will take reasonable steps to protect the security of the Personal Information we collect from you. 
+**Personal Identification Information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.  
 
 
+**Non-Personal Identification Information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.  
 
-The remainder of this policy describes our information handling practices in detail.
 
-**When You Are Just Visiting Us...**  
-You can always visit our site without revealing who you are or providing any Personal Information. When you visit our site or visit our site through one of our partner's sites, we do collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We use session data to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the variety of searches of our site's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which our visitors connect to our site. We use this information to improve our site content and ease of use.
+**Web Browser Cookies**  
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  
 
-**Cookies.**  
-We may place a "cookie" on your personal computer. A Cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. For example, we use cookies to keep track of your use of our site, gather data to improve the content of our site, provide information that may be of interest to you and improve the security of your experience with us. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, you will still be able to access those parts of our site that are available to the general public, but you will not be able to view some information on our site, use some features designed to enhance your experience at our site or access many of the services offered at our site.
 
-**When You Decide To Enroll With Us...**
+**How We Use Collected Information**  
+Electronic Payment Systems collects and uses Users personal information for the following purposes:
+
+    **To personalize user experience**  
+   We may use information in the aggregate to understand how our Users as a group    use the services and resources provided on our Site.
+
+    **To improve customer service**  
+   Your information helps us to more effectively respond to your customer service    requests and support needs.
+
+    **To administer a content, promotion, survey or other Site feature**  
+   To send Users information they agreed to receive about topics we think will be of    interest to them.
+
+    **To send periodic emails**  
+   The email address Users provide will only be used to respond to their inquiries,    and/or other requests or questions.
+
+**How We Protect Your Information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+**Sharing Your Personal Information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.  
+
+
+**Changes To This Privacy Policy**  
+Electronic Payment Systems has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
+
+
+**Your Acceptance Of These Terms**  
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.  
+
+
+**Contacting Us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+**Electronic Payment Systems**  
+www.eps-na.com  
+6472 S. Quebec St  
+Englewood, CO 80111
+
+800.863.5995   
+CustomerService@eps-na.com
+
+This document was last updated on February 20, 2012 
 
   
-**Personal Information.  
-**If you decide to enroll with us, we will collect Personal Information about you that you voluntarily share with us. We collect Personal Information that is necessary for us to provide you with the services offered on our site. As mentioned, this Personal Information includes things like your name, e-mail and mailing address, social security number, business, trade references and telephone numbers ("Personal Information").
 
-**Other Information.**  
-You may decide to share other information ("Other Information") with us about yourself (for example, demographic information like your age and gender). This other information ("Other Information") will be treated the same as described in Personal Information ("Personal Information").
-
-**Sharing of Personal Information.**  
-Generally, we only disclose your Personal Information to those Electronic Payment System employees and/or providers that require the Personal Information to make a decision regarding your enrollment. For example, when you make application for services it would be necessary to Share that information with the Bank, a leasing company if you desire to lease a terminal or equipment and/or other providers of services you have requested. There are services that compliment the ones you are applying for and may benefit you and your business. We will share contact information with these complimentary type service providers. We use our reasonable efforts to ensure that these providers will also protect your Personal Information. We contract with other companies to perform various functions necessary to operate our business - for example, to ship items and process transactions. We will share with these other companies only that Personal Information they require to fulfill your orders. These companies agree that they will not use or disclose that Personal Information for any other purpose. Other than as explained in this policy, we will not disclose any Personal Information we collect from you to others without your permission, except in certain limited circumstances: (a) to protect the security of our site and our rights under our [Terms and Conditions of Use](https://web.archive.org/web/20031207153242id_/http%3A//www.eps-na.com/terms.htm); (b) to protect ourselves against liability; (c) in response to legal process, (d) if we believe in good faith that the law requires it; or (e) in connection with a sale of our business or company. Please note that if we receive a formal request to disclose your Personal Information in connection with a legal action, we will attempt to tell you about it at least ten (10) days before we respond to that request, if permitted by law, via the contact information you provided during enrollment.
-
-**Combined Non-Personal Information.**  
-We may also combine anonymous information supplied by you and other users during enrollment on our site with information about your use and others' use of our site. We will use this combined information to describe our user base, without reference to any specific individual, to potential partners, investors and advertisers. We will not share your Personal Information with any other users of our site, but we may use information we collect about your use to make recommendations to other users of our site. We may also share aggregated statistical information about users of our site and our service and product offerings with others, including our vendors and partners. We will not link this statistical information to any Personal Information that can identify you as an individual.
-
-**Additional Products and Services.**  
-We may partner with other companies to offer you additional products or services. If you sign up for any of these additional products or services, we will share your name and any other Personal Information that is necessary for these other companies to provide the products or services you have signed up for. This policy will not cover the use of your Personal Information by these other companies. We encourage you to read each other company's privacy policy before signing up for any of its products or services. 
-
-**Notification of Changes.**  
-We may change this policy from time to time. If we decide to change this policy in a material way (for example, a change regarding disclosure of Personal Information), we will post notice of the change on our site at least thirty (30) days before putting the change into effect. If we decide to change our policy in a less significant way, we will simply post notice of the change on our site at least ten (10) days before putting the change into effect. 
-
-**How We Protect Your Information.**  
-We are committed to safeguarding your information. For that reason we employ a staff of security technology professionals and utilize a full range of the best security technology available. Specifically, your information is secured from unauthorized access from the Internet through market leading firewall technology. We also protect the connection between your computer and our server from eavesdropping through industry-standard encryption technology known as Secure Socket Layer (SSL). Depending on your browser, this SSL will have encryption keys of up to 128 bits. To ensure that we fulfill our commitment to safeguard your information, we continually assess new technology for protecting your information to make sure that our information handling practices are in accordance with the highest industry standards and best practices on the Internet at all times.
-
-**Links.**  
-Our site provides links to other sites. When you click on one of these links, you are leaving our site and entering another site that we do not control and for which we cannot be responsible. You should carefully review the privacy statements or policies on any other site that you visit because those privacy statements or policies will apply to your visit to that site and may be very different from our policy.
-
-**Contact Us.**  
-If you have any questions or concerns about this policy or our information handling practices, you may contact our Chief Privacy Officer at [privacy@eps-na.com](mailto:privacy@eps-na.com?subject=EPS%20Privacy%20Questions&body=undefined). We will attempt to respond to your questions or concerns within five (5) business days after we receive them.
-
-**A Special Note about Children...**
-
-**Children.  
-**Children - in fact minors (individuals under 18 years of age) - are not eligible to enroll for or use the services available on our site. We believe that parents should play a central role in their child's online activities and should monitor those activities to ensure that sites visited by their child are respecting their child's privacy. For additional information on protecting children's privacy, visit the Federal Trade Commission's "Kid'z Privacy" page at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>. 
