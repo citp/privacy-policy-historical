@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522150048id_/http%3A//www.independenttraveler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113123614id_/http%3A//www.independenttraveler.com/privacy) for the most accurate reproduction.*
 
-# Privacy | IndependentTraveler.com
+# Privacy Policy | IndependentTraveler.com
 
-Privacy Policy   
 The Internet contains a wealth of information and it may also contain personal details about you that you don't want everyone to know. At The Independent Traveler we strive to assist our participants in protecting their privacy while using our web site. 
 
 We have adopted the following Principles of Privacy, which summarize and clarify that commitment: how we safeguard your privacy and how we treat personal information. We understand that for you to take full advantage of our interactive medium, we must do everything we can to ensure that your privacy is secure.
