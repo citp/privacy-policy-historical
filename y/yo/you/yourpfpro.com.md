@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yourpfpro.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620042031id_/http%3A//yourpfpro.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourpfpro.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113020657id_/http%3A//yourpfpro.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
 
 # Your Personal Finance Pro - Personal Financial Advice for Young Professionals
+
+[Home](http://yourpfpro.com/) » Disclosures and Privacy Policy
 
 **Disclosures**  
 “Please note that www.yourPFpro.com has financial relationships with some of the merchants mentioned here.  www.yourPFpro.com may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.”
@@ -27,6 +29,6 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-**[Contact](http://yourpfpro.com/contact/ "Contact") Information**
+**Contact Information**
 
 Concerns or questions can be directed to [yourPFpro at gmail dot com](mailto:youremail@youremail.com) for further clarification.
