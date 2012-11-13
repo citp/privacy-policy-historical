@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322114708id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113075622id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.*
 
-# TNT - We Know Drama
+# Privacy Policy
 
 #### PRIVACY POLICY
 
-Thank you for visiting TNT.tv, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates.
+Thank you for visiting TNTDrama.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates.
 
 #### The Information We Collect
 
