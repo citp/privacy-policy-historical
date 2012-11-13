@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504033422id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113151935id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Zenphoto - The simpler media website CMS
+
+## Privacy
+
+
+
 
 #### Website Visitors
 
@@ -34,3 +39,6 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 _(Source:<http://www.google.com/intl/en_uk/analytics/tos.html>)_  
 Also, Zenphoto.org uses Google Adsense service that places and reads cookies from vistors' browsers, or using web beacons to collect information in the course of ads being serverd to Zenphoto.org.  
 _(Source:<https://www.google.com/adsense/localized-terms>)_
+
+  
+
