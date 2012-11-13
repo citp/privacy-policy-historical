@@ -1,155 +1,205 @@
-> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918165127id_/http%3A//www.boards.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113140103id_/http%3A//www.boards.ie/terms/privacy.php) for the most accurate reproduction.*
 
 # boards.ie - Now Ye're Talkin'
 
-Updated August 12, 2009 
+### Revised: 02/07/’12
 
-You should carefully read our full Privacy Policy before deciding to become a member of Boards.ie.
+### Introduction
 
-By registering with Boards.ie you indicate that you accept all conditions below and in our Terms of Use and site guidelines. 
+> boards.ie is a platform to create and participate in discussions, using text, links, profiles, audio, pictures, videos and other media (hereinafter referred to as “Material") appropriately
+> 
+> This privacy statement sets out how Boards.ie Limited collects, uses and protects any information you give us when you use boards.ie.
+> 
+> We are committed to ensuring that your privacy is protected.  Should you give us any information by which you can be identified when using boards.ie then you can be assured that we will use it only in accordance with this privacy statement.
+> 
+> We may change, modify, add or delete portions of this policy from time to time.  When we do so we will notify you of such changes by a site-wide announcement.  This will be visible on all forum pages for one week from the date of the changes. After that, you can continue to find it in the Announcements forum.  Your continued use of boards.ie will constitute your binding acceptance of the change.
 
-This statement relates to our privacy practices in connection with the boards.ie websites e.g. boards.ie, adverts.ie social.ie, boards.tv etc. These sites are owned and controlled by boards.ie limited and your data will not be shared with any site not owned by boards.ie. 
+### Children under the age of 13
 
-## Children under age 13
+boards.ie is not directed at children younger than 13 years of age and is offered only to users who are 13 or older.  Children under 13 may not register with boards.ie.  We do not knowingly collect information from or about children under the age of 13.  If we discover that we have collected personal information from a child under the age of 13 we will delete that information as soon as possible.  If you believe we might have any information from or about a child under 13, please contact us at [hello@boards.ie](mailto:hello@boards.ie).
 
-Boards.ie does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. 
+You are permitted to register as a user of boards.ie and post comments if you are aged 18 or over.  If you are aged 13 years or over but under the age of 18 you must obtain the consent of a parent or legal guardian before registering as a user of boards.ie. 
 
-If you are under 13, please do not register for Boards.ie or send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 may provide any personal information to or on Boards.ie 
+If you are aged 13 or over but under the age of 18 you must obtain the consent of a parent or legal guardian each time you post Material on boards.ie. 
 
-In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. 
+### Persons aged between 13 and 18
 
-If you believe we might have any information from or about a child under 13, please [contact us](http://www.boards.ie/contact/). 
+Any person who registers as a user of boards.ie represents that either they are 18 years of age or older or that they are 13 years or over and have obtained the consent of a parent or legal guardian.  Boards.ie Limited cannot and is not required to verify the age of users of the site.   Boards.ie Limited hereby notifies you that by posting any material on the website or sending any information about yourself you hereby undertake that you are either over the age of 18 or that you are 13 years or over and have obtained the consent of a parent or legal guardian to do so. 
 
-## People aged between 13 and 18
+### What we collect
 
-We recommend that young people aged 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet. 
+boards.ie collects the following information:
 
-## Your personal information:
+  * Information which you supply on registration or as part of your profile;
+  * Information which you post on boards.ie;
+  * Information which you otherwise provide to us (for example by email or private message); and
+  * Information relating to your use of boards.ie generally.  This includes, for example, private messages, login and logout times, polls you've voted on, threads to which you have subscribed and posts you've thanked.
 
-Boards.ie Limited fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission.
 
-**Any personal information which you volunteer in your public profile or post on the public forums will be available to anyone with access to the website.**
 
-**Do not post any information you are not happy leave up indefinitely. We recommend you do not post your name, address, telephone number email address or anything else that may lead someone to identify you if this is something you are uncomfortable with**. 
+Technical details in connection with visits to this website are logged by us and our internet service provider for our statistical purposes.  The technical details logged include:
 
-Boards.ie does not delete posts on request, except in special circumstances. We advise against the posting of personal details or information that may identify you on the public forums. However, you are free to do so (just don't ask us to remove it later!) 
+  * The IP address of a visitor and the top-level domain name used (for example .ie, .com, .org, .net);
+  * The previous website address from which a visitor reached us, including any search terms used;
+  * 'Clickstream' data which shows the traffic of visitors around boards.ie (for example pages accessed and documents downloaded); and
+  * The type of web browser used by a visitor.
 
-Please note that certain information, statements, data and content (such as photographs) which you may choose to provide might – and are likely to – reveal your gender, ethnic origin, nationality, religion and/or sexual orientation. 
 
-You accept that you are providing all such information, statements, data and content in full acknowledgment thereof and under your sole responsibility. 
 
-Occasionally, contributors speculate about the identity of anonymous/pseudonymous posters. We delete all such posts that are brought to our attention. 
+This technical information will be used only by Boards.ie Limited and only for statistical purposes, other administrative purposes, and for the purposes outlined in our Cookie Policy.
 
-It is important to note that we do not remove user accounts and user name changes are only available to subscribers. Please choose a username that will not personally identify you. 
+In common with many sites we use outside providers for web-site statistics. Please note that to provide statistics these outside providers use visitors' IP addresses but do not have access to any boards.ie usernames or email address and therefore cannot match a user to an IP address for the purpose of identification.  This data may be stored by these providers outside of the EU for processing.  The providers we use are Google Analytics and Big-Boards.com. You can find further information on these at the following locations:
 
-If someone has posted your personal details on Boards.ie with, or without your permission and you would like it removed, please [contact us](http://www.boards.ie/contact/) . 
+  * Google Analytics - <http://www.google.com/analytics/>
+  * Big Boards - <http://www.big-boards.com/about/#faq>
 
-Boards.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by registering with us or by the use of the Contact us form). 
 
-Any information which you provide in this way is not made available to any third parties, and is used by Boards.ie limited only in line with the purpose for which you provided it. Your data may also be used, anonymously, for statistical purposes. 
 
-We cannot ensure that private communication and other identifiable personal data will never be disclosed in ways not described in this section. 
+Retention of Personal Information 
 
-By way of example (without limiting the foregoing) we may be forced to disclose the data to a government agency lawfully requesting the same or to any court acting in pursuance of its powers. 
+Please note that any information that you provide will only be held for as long as necessary for the purpose for which it was provided. 
 
-We reserve the right to and you hereby agree to allow us to disclose any information about you to law enforcement government officials or to any court or court officials as we in our sole discretion believe necessary or appropriate. 
+### Cookies and tracking
 
-Nothing in this Agreement relating to the confidentiality of information shall prevent or hinder Boards.ie from complying with its legal obligations as to disclosure or otherwise under the Data Protection Act 1988. 
+Like many websites, Boards.ie Limited use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website.  Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. 
 
-A copy of any personal data supplied by you to this website will be provided to you if requested, subject to satisfactory identity verification. Only information contained in your private profile will be supplied; information already publicly available will not be reproduced or deleted by us. Requests will be dealt with within 40 days. 
+Most Web browsers automatically accept cookies, but, if you wish, you can change the settings on your browser to reject all cookies, to be notified when a cookie is sent or to accept all cookies.  Your browser's help screen or manual will tell you how to do this.
 
-## Your password
+If cookies are disabled then functionality on boards.ie will be slightly reduced but other sites may be affected to a greater extent.
 
-Certain data such as your password will never be disclosed. You are responsible for keeping your password confidential and for all activities that occur under your password or account. Please let Boards.ie know of any unauthorised use of your password, or any other breach of security.
+Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site.  We use log files to build pictures of how our site is used that help us to monitor and improve the service.
 
-## Collection and use of technical information
+Here is a list of all the cookies that we set and how we use them:
 
-Boards.ie promises to only use your data in complete accordance with the following conditions: 
+Cookie Name | Typical Value | Purpose | Expires  
+---|---|---|---  
+bbcascade_options | Numerical bitfield | Stores options for the menu for the beta theme | On user logout or 1 year  
+bbcpsession | Randomly generated alphanumeric string | Used to identify a control panel session | On browser exit  
+bbforum_view | Hexademical string-forumID1-timestamp1-...-forumIDN-timestampN | Timestamps of when a user last visited a forum | On user logout or 1 year  
+bblastactivity | Unix timestamp | Remembers the time the user last performed an action on the site | On user logout or 1 year  
+bblastvisit | Unix timestamp | Remembers the time the user last visited the site | On user logout or 1 year  
+bbnp_notices_display | ID1,ID2,ID3,...IDN | Remembers what site notices have been dismissed by the user | On browser exit  
+bbpassword | MD5 hash of a user's salted password | Set only if 'Remember me' is checked when logging in. Enables auto-login on subsequent visits | On user logout or 2 weeks  
+bbsessionhash | Randomly generated hexadecimal string | Used to identify user session | On user logout or 2 weeks  
+bbthread_lastview  | Hexademical string-threadID1-timestamp1-...-threadIDN-timestampN | Timestamps of when a user last visited a thread | On user logout or browser exit  
+bbuserid | Account ID for the user | Set only if 'Remember me' is checked when logging in. Enables auto-login on subsequent visits | On user logout or 2 weeks  
+goauth_apps | [Numeric_string]_[1-3] | Records permissions[1-3] for an app identified by [Numeric_string] that uses Boards Auth (e.g. Adverts.ie) | 1 day  
+iePinning_*boards.ie | "hidden" | Remembers if the user has dismissed the IE9 pinning popup on the homepage | 30 days  
+search_sort | string | Remembers the search results sorting preference for a user | 2 years  
+showforums | "1" | If set then when a user visits the touch site homepage it will default to show followed forums not latest posts | On manual homepage tab change or 1 year  
+touch | "off" | Disables the touch site and forces the use of the full site | 1 year  
+vbulletin_collapse | Numeric strings | Remembers which collapsible items the user has hidden/displayed | On user logout or 1 year  
+vbulletin_inlinepost | Post IDs | Remembers post IDs a moderator selected for quick, inline moderation | 1 hour  
+vbulletin_inlinethread | Thread IDs | Remembers thread IDs a moderator selected for quick, inline moderation | 1 hour  
+  
+In addition to the above cookies set by Boards.ie Limited, cookies may also be set by a number of our site partners.
 
-  * We will not rent or sell any data which may personally identify you to any third party.
-  * We may aggregate your data for disclosure to advertisers or business associates for promotion and marketing purposes. By way of example, we may disclose to an advertiser the percentage age groups of our members but in such an event we undertake to ensure that no such data could be used to personally identify you.
-  * We may access your account for technical processing and to address technical problems or service complaints.
-  * We will clearly state why we are collecting personal information and how it will be used.
+Audience measurement cookies are used to collect information about how our site is used.  This information helps us understand our audience and improve the site on an aggregate basis.  This information is not used to track individual users.  It includes number of visitors to the site, where visitors are visiting from, how many pages they look at and how long they stay on the site.
 
+We also use third party advertisements to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing location-based advertisements) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests ("interest based targeting").  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information".  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
-This website does not use cookies, apart from temporary "session" cookies which enable a visitor's web browser to remember which pages on this website have already been visited. Visitors can use this website with no loss of functionality if cookies are disabled from the web browser.
+The following is a list of cookies currently set by site partners:
 
-Technical details in connection with visits to this website are logged by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged are confined to the following items:
+Adtech.de (Ad serving)  
+---  
+CfP | "1" | This is a unique ID for the browser, so we know if an ad has already been seen | On browser exit  
+JEB2 | Alphanumeric string | This is a unique ID for the browser, so we know if an ad has already been placed | 2 years  
+Comscore (Audience Measurement)  
+UID | Hexadecimal-ip-numerical | User id  | 1 year, 354 days  
+UIDR | Numerical (same as end of UID) | Real user id | 1 year, 354 days  
+Delivery.MyFlashpointMedia.com (Ad serving)  
+OAID | Alphanumeric string | Online advertising user tracking | 1 year  
+DoubleClick.net (Ad serving)  
+id | Hexadecimal||t=numerical|et=numerical|cs=hexadecimal  | User id | 2 years  
+_drt_ | "NO DATA" | DART data | 1 day  
+GetClicky (Audience Measurement)  
+_jsuid | Randomly generated number | Usage stats | 20 years  
+Google Analytics (Audience Measurement)  
+__utma | Randomly generated number | Usage stats | 2 years  
+__utmb | Randomly generated number | Usage stats | 30 minutes  
+__utmc | Randomly generated number | Usage stats | On browser exit  
+__utmv | Same value as __utmc + Information on the logged in status of the user | Usage stats | 2 years  
+__utmz | Randomly generated number | Usage stats | 6 months  
+ie-stat.bmmetrix.com (Audience Measurement)  
+Bm_map | string | Identify location of user | 01/01/2030  
+Cid | Alphanumeric string:numerical string | Client id  | 01/01/2030  
+Sid | Alphanumeric string:numerical string | Session id  | On browser exit  
+  
 
-  * The IP address of the visitor's web server the top-level domain name used (for example .i.e., .com, .org, .net)
-  * The previous website address from which the visitor reached us, including any search terms used 
-  * "Clickstream" data which shows the traffic of visitors around this web site (for example pages accessed and documents downloaded) the type of web browser used by the website visitor.
 
+### External providers
 
+From time to time we may ask an external provider to provide services, for example we may ask an external company to carry out a survey.  If any personal information is required you will be advised beforehand and you will be afforded an opportunity to opt out.
 
-Boards.ie Limited will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual. 
+### What we do with the information we collect
 
-It is the policy of Boards.ie limited never to disclose such technical information in respect of individual website visitors to any third party, unless obliged to disclose such information by a rule of law. 
+Boards.ie Limited requires this information for the operation of boards.ie, to understand your needs and provide you with a better service.  In particular, we may use or disclose your information for the following reasons:
 
-The technical information will be used only by boards.ie, and only for statistical and other administrative purposes. 
+  * We may use this information for our administration and record keeping. 
+  * We may transfer this information from Boards.ie Limited to any other site which is affiliated with Boards.ie Limited or its owners namely daft.ie, thejournal.ie, rent.ie, let.ie, daft.com, rent.co.uk, daft.pl, property.ie, boardsdeals.ie and adverts,ie [or vice versa] where necessary for your use of the site;
+  * We may use this information for technical processing and to address technical problems or service complaints;
+  * We may disclose this information where required by law to do so;
+  * We may disclose this information to law enforcement, government officials or courts where we believe or are advised that disclosure is necessary and proportionate; and
+  * We may disclose this information where we believe or are advised that disclosure is necessary and proportionate for the protection of the legitimate interests of ourselves or of a third party.
 
-You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003\. 
 
-## Disclosure Of Information To Third Parties
 
-We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. 
+We will not otherwise disclose, sell or distribute your information to any third party without your permission.  Boards.ie Limited acts in accordance with the [Data Protection Commissioner’s Guidelines](http://www.dataprotection.ie/ViewDoc.asp?fn=/documents/guidance/Guide_Data_Contollers.htm&CatID=90&m=y) in respect of personal data. 
 
-For example, we might inform third parties regarding the number of unique users who visit our website or the forums that visitors and members engage in while on Boards.ie. 
+### Anonymous and aggregated data
 
-The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties. 
+Boards.ie Limited may aggregate data in an anonymous manner for disclosure to advertisers or business associates for promotion and marketing purposes.  By way of example, we may disclose to an advertiser the number of unique visitors to boards.ie or the percentage age groups of our members.  In such an event we undertake to ensure that no such data could be used to personally identify you.
 
-## Your rights regarding data supplied via this website
+### Nuisance posts
 
-You have a right to be given a copy of your personal data which you may have supplied via this website. To exercise this right e-mail us at [hello@boards.ie](mailto:hello@boards.ie). 
+Our first line of defence against nuisance posts is to delete them and to ban the user.  Nuisance posts include potentially defamatory material, surreptitious advertising, any other posts which breach the posting guidelines and/or our Terms of Use and any form of messages, posts or emails deemed offensive by the administrators or moderators.
 
-You should include any personal identifiers which you supplied earlier via the website (e.g. username & e-mail address) if you do not supply this verification information, no information will be provided. 
+Where a nuisance poster persists, we reserve the right to use email addresses and IP addresses to identify the user and halt the nuisance.
 
-This request only covers the private information contained in your private profile. Any information that is publically available in posts and threads on the forum will not be provided. Your request will be dealt with as soon as possible and will take not more than 40 days to process. 
+For example, on a very few occasions, we have reported to organisations that it appeared that one of their employees or other users of their computer equipment was repeatedly making nuisance posts on boards.ie and asked them to take steps to stop it.  Similarly, where a user recommends the products or services of their employer, they should state their conflict of interest.  Where they do not do so, we reserve the right to point out that the user appears to have a conflict of interest.
 
-## Nuisance posters
+### Sale of the Company
 
-Our first line of defence against nuisance posts is to delete them and to ban the user. Nuisance posts include potentially defamatory material, surreptitious advertising, spam, any other posts which breach the posting guidelines and any form of messages, posts or emails deemed offensive by the administrators or moderators. 
+Boards.ie Limited reserves the right to transfer information including personal data to a third party in the event of its sale, merger, liquidation, receivership or transfer of all or substantially all of its assets provided that the third party agrees to adhere to the terms of this Privacy Statement and provided that the third party only uses your Personal Data for the purpose that you have provided it to us.  You will be notified in the event of any such transfer and you will be afforded an opportunity to opt out. 
 
-Where a nuisance poster persists, we reserve the right to use email addresses and IP addresses to identify the user and halt the nuisance. For example, on a very few occasions, we have reported to organisations that it appeared that one of their employees or other users of their computer equipment was repeatedly making nuisance posts on Boards.ie and asked them to take steps to stop it. 
+### Information you post
 
-Where a poster recommends the products or services of their employer, they should state their conflict of interest. Where they do not do so, we reserve the right to point out that the poster appears to have a conflict of interest. 
+Any personal information which you volunteer in your public profile or post on the forums will be available worldwide to anyone with access to the website.
 
-In common with many sites we use Google Analytics for web-site statistics. Some people have raised concerns about the privacy aspects of this service, as Google have access to your IP address (but not your boards.ie username or email address). 
+Please do not post any information you are not happy to leave up indefinitely.  We recommend you do not post your name, address, telephone number email address or anything else that may lead someone to identify you if this is something you are uncomfortable with.  Please note that we do not delete posts or accounts on request, except in special circumstances.
 
-In addition to Google analytics boards.ie also stores full web logs for analysis purposes. 
+Please note that certain information (such as photographs) which you may choose to provide might reveal your gender, ethnic origin, nationality, religion and/or sexual orientation.
 
-## Terms of Use, Notices and Revisions
+### Anonymous / pseudonymous users
 
-Your use of Boards.ie is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. 
+You are recommended to choose a username which does not reflect your real name.  Occasionally users may speculate about the identity of anonymous or pseudonymous users.  Such speculation is against our Terms of Use and we delete all such posts which are brought to our attention.  However please be aware that we cannot guarantee that other users will not be able to determine your identity.  There should be no expectation of complete anonymity anywhere on the internet.
 
-We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. 
+### User status
 
-If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
+Please note that your user status will appear in connection with your username. For example, should you receive a warning then a yellow card will appear on the post.  Similarly, should you receive an infraction relating to your use of boards.ie, a red card will appear.  Should you be banned from using boards.ie, the word 'Banned' will appear under your username.  
 
-Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
+### Controlling your personal information
 
-## Contacting Boards.ie
+You may request details of personal information under Data Protection legislation which we hold about you or rectify any personal information which is incorrect or incomplete. 
 
-You can contact Boards.ie in the following ways:
+If you would like a copy of the information held on you please email us at [hello@boards.ie](mailto:hello@boards.ie).  If you are a registered user please supply details of your username and email address which you supplied when registering.  Please note that to protect your privacy we may require further information to verify your identity.   There is an administration fee of €5 for such requests which can be paid by cheque or PayPal.
 
-  * Using our contact page: <http://boards.ie/contact/>
-  * Email: [hello@boards.ie](mailto:hello@boards.ie)
-  * Postal: Boards.ie Limited - Latin Hall, Golden Lane, Dublin 8.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [hello@boards.ie](mailto:hello@boards.ie).  We will promptly correct any information found to be incorrect.
 
+If someone else has posted material about you on boards.ie without your permission and you would like to request that it be removed please read our guidelines at <http://www.boards.ie/legal/> and then contact us at [hello@boards.ie](mailto:hello@boards.ie).
 
+### Security
 
-We welcome [your feedback](http://www.boards.ie/contact/) on this document and thank you for using Boards.ie!.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
 
-## Glossary of technical terms used
+### Glossary of technical terms used
 
-  * **Web browser** \- The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera.
-  * **IP address** \- The identifying details for your computer (or your internet company's computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
-  * **Cookies** \- Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits.
+Web browser
 
-The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit.
+The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Firefox, Safari and Opera.
 
-Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
+IP address
 
-
-
+The identifying details for your computer (or your internet company's computer), expressed in 'internet protocol' code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
