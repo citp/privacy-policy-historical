@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterthanagrade5.blogspot.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130153810id_/http%3A//smarterthanagrade5.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterthanagrade5.blogspot.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113190931id_/http%3A//smarterthanagrade5.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Prove Me Wrong
 
