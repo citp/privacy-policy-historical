@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialhighway.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613231708id_/http%3A//financialhighway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialhighway.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113072213id_/http%3A//financialhighway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Financial Highway
 
