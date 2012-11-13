@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailybooth.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508111852id_/http%3A//dailybooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybooth.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113230146id_/http%3A//dailybooth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on DailyBooth
 
