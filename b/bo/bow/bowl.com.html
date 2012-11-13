@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bowl.com privacy policy that was archived on 2012-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507034921id_/http%3A//www.bowl.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bowl.com privacy policy that was archived on 2012-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113173217id_/http%3A//www.bowl.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en" itemscope="" itemtype="http://schema.org/Article"><head id="ctl00_ctl00_Head1"><title>
 	BOWL.com | Privacy
@@ -7,14 +7,14 @@
     <base href="http://www.bowl.com/">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/js/browserdetect.js.gz" type="text/javascript"></script>
     <!--[if !IE 7]><!-->
-    <link rel="stylesheet" type="text/css" href="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/css/main.css">
+    <link rel="stylesheet" type="text/css" href="../css/mainreg.css?v=2.3">
     <!--<![endif]-->
     <!--[if IE 7]>
         <link href="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/css/mainie7.css" rel="stylesheet" type="text/css" media="all" />
 	<![endif]-->
     <link href="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/css/print.css" rel="stylesheet" type="text/css" media="print"><link href="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/css/style.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/css/orbit-1.2.3.css">
     <noscript>
-        <link rel="stylesheet" type="text/css" href="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/css/noscript.css" />
+        <link rel="stylesheet" type="text/css" href="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/css/noscript.css" /> 
     </noscript>
     <style type="text/css">
         #bgwrapper
@@ -22,8 +22,18 @@
             /*min-height: 1536px !important;*/
             min-height: 1270px !important;
         }
+        #functionsmenu li span a 
+        {
+            color: white; 
+            height: 22px;
+            margin-right: 0;
+            text-decoration: none;
+            white-space: nowrap;
+            background-position: 0px 0px;
+        }
     </style>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
     
     <script src="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/js/min-js3.min.js.gz" type="text/javascript"></script>
     <!--[if lt IE 9]>
@@ -32,18 +42,31 @@
     <!--[if lt IE 9]>
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
 <![endif]-->
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-6455059-4']);
-    _gaq.push(['_trackPageview']);
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-6455059-4']);
+        _gaq.push(['_trackPageview']);
 
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
 
-</script>
+        $(function () {
+            $('input.search_input[type=text]').keypress(function (event) {
+                if (event.keyCode == '13') { //jquery normalizes the keycode 
+                    event.preventDefault(); //avoids default action
+                    $('#btnSearch').trigger('click');
+                    // submit info
+                }
+            });
+
+            $('#btnSearch').click(function () {
+                window.open("/search/default.aspx?q=" + $('#txtSearchText').val(), '_self'); //opens the search page
+            });
+        });
+    </script>
 </head>
 <body>
     <script type="text/javascript" src="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/js/animatedcollapse.js.gz"></script>
@@ -77,49 +100,41 @@
 	
 	
 
-</script>
+    </script>
     <a onclick="javascript:animatedcollapse.toggle('ad1');" id="theToggle" name="theToggle" tabindex="0"></a>
     <form method="post" action="/privacy/" id="aspnetForm">
 <div class="aspNetHidden">
 <input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTQ1MDMxMDkzD2QWAmYPZBYCZg9kFgQCAQ9kFgICAw8VARRodHRwOi8vd3d3LmJvd2wuY29tL2QCAxBkZBYCAgEPZBYCAgMPZBYCAgMPFgIeBFRleHQFB1ByaXZhY3lkZMr8hPW5rl+2u6Q1CV7aFDyiydy0NXBPnCqgwDLUEC8Q">
 </div>
 
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLSl7DZAQKWsMvjBQLGmYcs4ESJXC0fw9rlaHoEM6sz7pe3WwzPm/IQO3xRAG206oM=">
-</div>
     <div id="bgwrapper">
         <div id="contentwrapper">
             <div id="toplinks">
                 <div id="functionsbar">
+
                     <ul id="functionsmenu">
-                        <!-- li class="back"><a href="http://classic.bowl.com" target="_blank"><span>Return to Old BOWL.com</span></a></li -->
-                        <li>
-                            <img src="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/images/spacer.gif" alt="" height="1" width="425"></li>
                         <li class="youtube"><a href="http://www.youtube.com/user/BowlTV" target="_blank"></a>
                         </li>
-                        <li class="fb"><a href="http://www.facebook.com/usbc1" target="_blank"></a></li>
+                        <li class="fb"><a href="http://www.facebook.com/usbc" target="_blank"></a></li>
                         <li class="twitter"><a href="http://twitter.com/USBC" target="_blank"></a></li>
                         <!--<li class="gplus"><a href="#" target="_blank"></a></li>-->
-                        <li class="highlight"><a href="https://secure.bowl.com/CardActivate/" target="_blank">
+                        <li class="highlight"><a href="/activate/default.aspx" target="_blank">
                             <span>Activate Membership</span></a></li>
-                        <li class="highlight"><a href="#"><span>Find a...<img src="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/images/maindown.png" alt=""></span></a>
+                        <li class="highlight" id="findaapps"><a href="#"><span>Find a...<img src="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/images/maindown.png" alt=""></span></a>
                             <ul class="funcdown">
-                                <li><a href="http://membership.bowl.com/USBCsearch/SearchAssociation.jsp" target="_blank"><span>Find
-                                    an Association</span></a></li>
-                                <li><a href="http://membership.bowl.com/USBCsearch/CenterSearchForm.jsp" target="_blank"><span>Find
-                                    a Center</span></a></li>
-                                <li><a href="http://membership.bowl.com/USBCsearch/SearchCoachesMain.jsp" target="_blank"><span>Find
-                                    a Coach</span></a></li>
-                                <li><a href="http://membership.bowl.com/USBCsearch/SearchMembers.jsp" target="_blank"><span>Find a Member</span></a></li>
-                                <li><a href="http://membership.bowl.com/FindATournament/FindTournamentMain.jsp" target="_blank"><span>
-                                    Find a Tournament</span></a></li>
-                                <li><a href="http://membership.bowl.com/USBCsearch/SearchVolunteers.jsp" target="_blank"><span>Find
-                                    a Volunteer</span></a></li>
+                                <li class="dditlist"><a href="http://membership.bowl.com/USBCsearch/SearchAssociation.jsp" target="_blank"><span>Find an Association</span></a></li>
+                                <li class="dditlist"><a href="http://membership.bowl.com/USBCsearch/CenterSearchForm.jsp" target="_blank"><span>Find a Center</span></a></li>
+                                <li class="dditlist"><a href="/findCenter/" target="_blank"><span>Find a Center (Preview)</span></a></li>
+                                <li class="dditlist"><a href="http://membership.bowl.com/USBCsearch/SearchCoachesMain.jsp" target="_blank"><span>Find a Coach</span></a></li>
+                                <li class="dditlist"><a href="http://membership.bowl.com/USBCsearch/SearchMembers.jsp" target="_blank"><span>Find a Member</span></a></li>
+                                <li class="dditlist"><a href="http://membership.bowl.com/FindATournament/FindTournamentMain.jsp" target="_blank"><span>Find a Tournament</span></a></li>
+                                <li class="dditlist"><a href="http://membership.bowl.com/USBCsearch/SearchVolunteers.jsp" target="_blank"><span>Find a Volunteer</span></a></li>
+
                             </ul>
                         </li>
                         <li><a href="http://forums.bowl.com/" target="_blank"><span>Enter Forum</span></a></li>
+                        <li><a href="http://bowl.com/contact/" target="_blank"><span>Contact USBC</span></a></li>
                     </ul>
                 </div>
             </div>
@@ -130,40 +145,9 @@
                             <a href="/">
                                 <img src="http://usbcongress.http.internapcdn.net/usbcongress/bowlv3/images/logonew.png" alt="Bowl.com Logo"></a>
                         </div>
-                        <div id="homenewsticker">
-                            
-    <ul id="listticker">
-                
-    <li>
-    <a href="/news/newsdetails.aspx?id=12884903618" title="ITRC hosts Junior Team USA Camp">
-    <span class="news-text">ITRC hosts Junior Team USA Camp</span>
-    </a>
-    </li>
-    
-    <li>
-    <a href="/news/newsdetails.aspx?id=12884903610" title="Former Team USA member takes lead at BJ">
-    <span class="news-text">Former Team USA member takes lead at BJ</span>
-    </a>
-    </li>
-    
-    <li>
-    <a href="/news/newsdetails.aspx?id=12884903595" title="ISC finals profiles: Elise Bolton">
-    <span class="news-text">ISC finals profiles: Elise Bolton</span>
-    </a>
-    </li>
-    
-    <li>
-    <a href="/news/newsdetails.aspx?id=12884903592" title="USA Bowling Coaching to offer seminars">
-    <span class="news-text">USA Bowling Coaching to offer seminars</span>
-    </a>
-    </li>
-    
-                </ul>
-    
-                        </div>
                         <div id="functionsbar_search">
-                            <input name="ctl00$ctl00$searchtext" type="text" id="ctl00_ctl00_searchtext" class="search_input">
-                            <input type="submit" name="ctl00$ctl00$btnSearch" value="" id="ctl00_ctl00_btnSearch" class="search_button">
+                            <input id="txtSearchText" type="text" class="search_input">
+                            <input id="btnSearch" type="button" value="" class="search_button">
                         </div>
                     </div>
                     <div id="dd-container">
@@ -173,6 +157,7 @@
                                     <li class="menu"><a href="membership.aspx">Membership</a></li>
                                     <li class="menu"><a href="associations.aspx">Associations</a></li>
                                     <li class="menu"><a href="centers.aspx">Centers</a></li>
+                                    <li class="menu"><a href="coaching.aspx">Coaching</a></li>
                                     <li class="menu"><a href="youth.aspx">Youth</a></li>
                                     <li class="menu"><a href="leagues.aspx">Leagues</a></li>
                                     <li class="menu"><a href="tournaments.aspx">Tournaments</a></li>
@@ -182,7 +167,6 @@
                                     <li class="menu"><a href="shopusbc.aspx">Shop USBC</a></li>
                                     <li class="menu"><a href="itrc.aspx">ITRC</a></li>
                                     <li class="menu"><a href="ngb.aspx">NGB</a></li>
-                                    <li class="menu"><a href="contactusbc.aspx">Contact USBC</a></li>
                                     <li class="menu" id="lastitem"><a href="allcategories.aspx">All Categories</a></li>
                                 </ul>
                             </nav>
@@ -204,57 +188,24 @@
         <div id="line2">
         <h1>Privacy</h1>
             <div id="ctl00_ctl00_MainContent_ContentPlaceHolder1_ContentBlock1">
-	<p>Safeguarding the privacy of the personal information you provide when interacting with USBC is of the utmost importance. Please read this policy to understand how we handle your personal information.Our practices and procedures include the following:</p>
-<p>&nbsp;</p>
-<ul style="margin-left: 30px; margin-bottom: 20px; ">
-<li>We disclose our personal information practices and proceduresin this statement.</li>
-<li>At our discretion, we may partner with qualified companies, allowing the companies to contact USBC members, via mail or email, to offer special promotions or discounts as a benefit of membership. However, we NEVER give your personal information to these companies. They are provided the right to advertise to you, but they are not provided your personal information. All contact is conducted through a licensed, bonded third party that specializesin this service.</li>
-<li>We allow all members, customers and guests to "opt out" at anytime from receiving email messages, printed mail, or advertisingand promotions from USBC or qualified companies.</li>
-</ul>
-<p>Since this policy may change over time as we modify or expand our services, we suggest that you check back periodically in order to understand how we handle your information.</p>
-<p>&nbsp;</p>
-<p>Your use of bowl.com constitutes your agreement to the terms ofthe USBC Personal Information Policy. If we decide to change this policy, we will post those changes on this page so that you are always aware of what personal information we have, how we use it and under what circumstances we disclose it. Your continued use of bowl.com constitutes your agreement to any such changes.</p>
-<p>&nbsp;</p>
-<p><strong>What Personal Information Does USBC Collect?</strong></p>
-<p>The information we request depends on how you choose to interact with USBC (membership, merchandise purchase, event registration,surveys, etc.). Our policy is to request only the information we need to provide the service you've requested. Providing us all the information we request helps us become more familiar with our members, customers and guests, and helps us provide you a better experience with USBC. We make an effort to include a link to this policy whenever we ask you for personal information.</p>
-<p>&nbsp;</p>
-<p>We use the personal and preference information you provide to enhance your experience with USBC - to provide you with benefits, services, information and communications that we think you will find of value - and to build a demographic profile of our membership (not including names/addresses/phone numbers/email addresses) for potential partners, advertisers and sponsors.</p>
-<p>&nbsp;</p>
-<p>In addition, we may partner with qualified companies to secureUSBC members-only discounts or promotions for products or services. In such arrangements, the company would be allowed to advertise, via mail or email, to USBC members. The company is provided the opportunity to advertise to you. However, the company is NOT given your personal information.</p>
-<p>&nbsp;</p>
-<p>In such arrangements, USBC does not, and will not, give your personal information to the company.</p>
-<p>&nbsp;</p>
-<p>All advertising is conducted through a licensed, bonded, third-party organization that specializes in this service, and does not engage in marketing or advertising, nor does it keep your contact information beyond its intended use.</p>
-<p>&nbsp;</p>
-<p>We may also use your personal information to develop summary reports for our partners, advertisers and sponsors. An example of a summary report might be:</p>
-<p><em>"100,000 people clicked on this link, and of those people 35% were above the age of 25."</em></p>
-<p>&nbsp;</p>
-<p>We may provide this summary information to assist our partners,advertisers and sponsors in determining how to best promote their products and services.</p>
-<p>&nbsp;</p>
-<p><strong>Security of personal Information</strong></p>
-<p>USBC has implemented industry-standard security measures to ensure that your personal information is protected.</p>
-<p>&nbsp;</p>
-<p>All financial and informational transactions are protected by an encrypted security service provided by Verisign, the Internet's leading security provider.</p>
-<p>&nbsp;</p>
-<p>In the case of financial transactions via credit card, under no circumstances, unless required by law, will credit card information be made available to anyone other than those parties necessary to execute a transaction. In addition, USBC only maintains your credit card information long enough to complete the transaction. Once the transaction is complete, we securely discard the information so it can not be accessed or obtained by anyone.</p>
-<p>&nbsp;</p>
-<p>USBC also has systems in place to restrict internal access to your personal information. Access is limited to USBC employees who require this information to perform their duties and provide the appropriate services to you.</p>
-<p>&nbsp;</p>
-<p>The USBC Personal Information Policy governs the information we have about you and how we use it in the course of doing business. If you do not find your concern addressed by this policy, or if you have additional questions, please contact us via email at&nbsp;<a title="webcontent@bowl.com" alt="webcontent@bowl.com" href="mailto:webcontent@bowl.com"><u>webcontent@bowl.com</u></a>, or phone at (800) 514-BOWL.</p>
-<p>&nbsp;</p>
+	<p><strong>BOWL.com Privacy Policy</strong><br><br>Last updated on August 1, 2012&nbsp; <br><br>United States Bowling Congress, Inc. (“USBC” and sometimes referred to as “we,” “us,” or “our”) appreciates your interest in our website, <strong>WWW.BOWL.COM</strong> (the “Site”).&nbsp; Your privacy is important to us.&nbsp; In connection with providing the information and services available at the Site, there are times when we may ask for or collect information from you, either in the form of anonymous data or personally identifiable information.&nbsp; As part of our commitment to honoring your privacy, this Privacy Policy explains the approach we take in protecting and using the information that we gather from you on our Site.&nbsp; This Privacy Policy is incorporated in the Site’s <a href="http://www.bowl.com/tos/" title="Terms of Service">Terms of Service</a>.&nbsp; <br><br><u><strong>Types of Information We Collect&nbsp;</strong></u>&nbsp; <br><strong>Cookies:</strong> When you visit the Site, we ask your browser to store small text files containing a string of alphanumeric characters known as a cookie.&nbsp; We use both session cookies and persistent cookies.&nbsp; If you have chosen to identify yourself on a Site, we use session cookies containing encrypted information to identify you and facilitate your use of the Site. Session cookies are required to access much of the content and services offered on the Site.&nbsp; After you leave our Site and close your browser, a persistent cookie remains. Persistent cookies can be removed by following your help file directions in your web browser.&nbsp; If you refuse our cookies, some features of the Site may not function properly for you.<br><br><strong>User Provided Information: </strong>When you choose to submit personally identifiable information to our Site (including your name, address, phone number, membership number, league number, email address, birth date, location), your information is maintained and used only in accordance with this Policy or as required by law.&nbsp; In many cases, you choose the amount of information you supply.&nbsp; There may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary.&nbsp; In such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity. We may collect personally identifiable information when you:<br></p>
+<blockquote>•Inquire about the Site, various content areas of the Site, or our services;<br>•Search the Site for a list of bowling centers, league standings sheets or membership data using your name, ZIP code, membership number or league number; <br>•Sign up for email updates;<br>•Purchase memberships;<br>•Use the coaching portal to sign up and register for coaching services;<br>•Activate your membership; <br>•Participate in a public forum available on the Site; <br>•Record scores; or<br>•Provide location information by “checking in” on our mobile application.</blockquote>
+<p>We maintain the data that you provide us in a secure database. We may combine this information with data that is publicly available and data that we receive from other sources. <br><br><strong>Log Files:</strong> Our servers automatically record certain information (e.g., web request, Internet Protocol (“IP”) address, browser type, browser language, URLs, etc) that your web browser sends whenever you visit our Site.<br><br><strong>Web Beacons:</strong> We may employ clear GIFs or web beacons to track anonymously how users use the Site.&nbsp; We may also use web beacons in our emails to track which emails are opened by recipients.<br><br><u><strong>Use of Information</strong></u>&nbsp; <br>We always want to provide you with the best possible service and experience. In order to do this, we collect information that allows us to:<br></p>
+<blockquote>•Provide the information or services you request (including, but not limited to, information on membership, scholarships, local associations, coaching, league play, tournaments, and similar topics featured on the Site);<br>•Personalize your experience on the Site; <br>•Send you promotional offers we believe will be of interest to you;<br>•Display comments submitted by you to the public forum;<br>•Validate your identity for purposes of membership or to access certain portions of the Site;<br>•Track scores;<br>•Send you email updates; and<br>•Customize our communications to you. </blockquote>
+<p>We collect personal information from visitors to our Site on a voluntary basis; however, visitors are not required to give such information to access many portions of our Site.&nbsp; Personal information may include, without limitation, name, address, phone number, membership number, league number, birth date, location data and e-mail address.&nbsp; A user’s personal information may be used for purposes of responding to inquiries or requests from users of the Site.&nbsp; <br><br>When someone visits the Site, our web servers automatically gather information that allows the Site to communicate with the visitor’s computer during the visit.&nbsp; We also may use any of the following information: the number of visits to the Site, which parts of the Site visitors select, IP address (the Internet address assigned to your computer from your Internet service provider), domain type, browser type (e.g., Safari or Internet Explorer) and date and time of day.&nbsp; We use this information for statistical purposes that help us design and administer the Site.&nbsp; We may also use this information to determine the validity of reviews posted on the Site.&nbsp; Those types of information do not disclose personally identifiable information that would permit us to identify or locate individual visitors.&nbsp; <br><br><u><strong>Disclosure of Information</strong></u> <br>As a general matter, we do not sell, trade or rent to any unaffiliated third parties your personally identifiable information collected on our Site.&nbsp; We do, however, provide and in certain circumstances sell personal information collected on our Site to our marketing partners for purposes of sending you promotional offers and notices of products and service offerings which we believe may be of interest to you.&nbsp; We do use the anonymous data and the personally identifiable information collected through our Site for statistical purposes and for improving the Site, as well as for our marketing purposes, as part of our responses to your questions or requests for information, in response to comments or other content posted by a Site user, and potentially when sending commercial emails to you.&nbsp; We may engage a third party’s software or services to assist us with these analyses and activities in which case such information may be shared with them for these purposes (e.g., your email address with our outbound email marketing provider).&nbsp;&nbsp;&nbsp; <br><br>We may contract with other companies to provide certain services such as email distribution, market research, and promotions management.&nbsp; We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected.&nbsp; This may include sending you emails periodically.&nbsp; However, you will have the choice to opt out of receiving promotional emails for our services.&nbsp; These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than us.&nbsp;&nbsp;&nbsp; <br><br>If we or our assets are sold or transferred or used as security, the information collected on our Site may be transferred or shared with third parties as part of that transaction.&nbsp; Notwithstanding anything to the contrary in this Privacy Policy, we may also disclose personally identifiable information in order to respond to a subpoena, court order or other similar request or legal process.&nbsp; We may also provide such personally identifiable information in response to a law enforcement agency’s request, as otherwise required by law, or if we believe, in our reasonable judgment, that providing such information is necessary for us to avoid criminal or civil liability.&nbsp; <br><br><u><strong>Security Measures</strong></u>&nbsp; <br>We use a variety of current technologies and processes for protection of our customer data.&nbsp; We maintain a private database on our web server for the storage of all information collected through our Site.&nbsp; It is our practice to use encryption whenever we receive or transmit sensitive data.&nbsp; We will take reasonable measures which we believe are appropriate to protect your information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer your information take comparable steps to protect that security.&nbsp; Although we will use all reasonable efforts to safeguard the confidentiality of any visitor information collected, we shall have no liability for disclosure of any visitor information obtained due to errors in transmission or the unauthorized acts of third parties.&nbsp; Email is not a secure form of communication.&nbsp; Please do not send us any personally sensitive information via email.<br><br><u><strong>Other Websites</strong></u>&nbsp; <br>This Privacy Policy only applies to the Site.&nbsp; Please be aware that the Site and email communications may contain links to other websites on the Internet. The information and privacy practices of those websites linked to our Site, including websites directly affiliated with us or the Site, are not covered by this Privacy Policy and, therefore, we are not responsible for the content or privacy policies of websites to which our Site links.&nbsp; We encourage you to review the privacy policies of other websites to understand their privacy practices.&nbsp; <br><br><u><strong>Public Forum</strong></u> <br>Any information you submit in a public forum (e.g., a post in a user forum on the Site, a blog, chat room, or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances.&nbsp; Such user-posted material is not subject to this Privacy Policy.<br><br><u><strong>Who May Use Our Site</strong></u>&nbsp; <br>Our Site is designed for users from the United States.&nbsp; Users from other countries are advised not to disclose personal information unless they consent to having their information used as set forth in this Privacy Policy, rather than under the law of user’s home country.&nbsp; You should not send any personal information to the Site unless you agree to be bound by this Privacy Policy and by United States and any applicable state laws.&nbsp; <br><br><u><strong>Children</strong></u>&nbsp; <br>We do not knowingly collect personal information from people younger than the age of 13. Minors may only use the Site and purchase a membership with the consent of their parent or guardian.&nbsp; Minors may only submit personal information to the Site with the consent of their parent or guardian.&nbsp; <br><br><u><strong>Opt Out/Modify Information</strong></u>&nbsp; <br>If you would like to add your name to our marketing list, request that your name be removed, or correct your current information, please write us at: <a href="mailto:bowlinfo@bowl.com">bowlinfo@bowl.com</a>.&nbsp;&nbsp;&nbsp; <br><br>Please include your full name and email address in case we have any questions.&nbsp; You can also opt-out of receiving email communications from us by clicking on the “unsubscribe” link in our emails.&nbsp; We will make a reasonable effort to accommodate your request.&nbsp; <br><br>This Site includes a feature which allows users to search for registered members and find out, among other information, the location of that member’s local association.&nbsp; If you are a registered member and would like to remove your information, including location of your local association, please contact us at: <a href="mailto:bowlinfo@bowl.com">bowlinfo@bowl.com</a>.&nbsp;&nbsp;&nbsp; <br><br><u><strong>Changes and Updates to this Privacy Policy</strong></u><br>We may make changes to this Privacy Policy from time to time and at any time without notice to you by posting modifications to this Privacy Policy at the Site.&nbsp; By using the Site following such changes, you agree to be bound by such changes.&nbsp; Please check the Site periodically to familiarize yourself with any changes that may have been made to this Privacy Policy.&nbsp; You can determine when this Privacy Policy was last changed by checking the “Last Updated” reference above.&nbsp; <br></p>
+<blockquote><br><br><br><br></blockquote>
 </div>
         </div>
     </div>
     <div id="sidebarblocks">
         <div id="latestnews">
             
+
 <script language="javascript" type="text/javascript">
 
     $(document).ready(function () {
 
         $('ul li:odd').addClass('odd');
-        // $ ('ul.image-list li:odd').addClass ('odd');
-        //alert('called');
     });
 
 
@@ -289,89 +240,83 @@
     
 </style>
 <div id="news_module">
-    
     <div id="news_module_links">
         <div id="news_module_links_tab1" class="news_module_links_active" onclick="changeCssClass('news_module_links_tab1')">
             Recent News</div>
-        <div id="news_module_links_tab2" class="news_module_links_hidden" onclick="changeCssClass('news_module_links_tab2')">
-            Most Viewed</div>
-        <div id="news_module_links_tab3" class="news_module_links_hidden" onclick="changeCssClass('news_module_links_tab3')">
-            @USBC</div>
     </div>
     <div id="news_module_content">
         <div id="news_module_content_tab1" class="news_module_content_active">
-            
-            
+             
                     <div id="sbnewsmodule">
                         <ul style="float: left;">
                             
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903625" title="Recent News">
-                                Newman's Drewes wins collegiate singles</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906999" title="Recent News">
+                                Bowlers Journal launching digital magazine</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903618" title="Recent News">
-                                ITRC hosts Junior Team USA Camp</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906995" title="Recent News">
+                                Six elected to USBC Hall of Fame</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903610" title="Recent News">
-                                Former Team USA member takes lead at BJ</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906986" title="Recent News">
+                                VIP program returns and expands in 2013</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903605" title="Recent News">
-                                Scratch standings for 2012 WC</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906974" title="Recent News">
+                                New feature for USBC Open lane conditions</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903604" title="Recent News">
-                                US Bowler writing contest winners selected</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906976" title="Recent News">
+                                High Five – Nov. 8, 2012</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903599" title="Recent News">
-                                Father and son get special opportunity at OC</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906968" title="Recent News">
+                                Team USA taking resumes for 2013 selections</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903595" title="Recent News">
-                                ISC finals profiles: Elise Bolton</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906970" title="Recent News">
+                                USBC Collegiate Ticker – Nov. 7</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903592" title="Recent News">
-                                USA Bowling Coaching to offer seminars</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906964" title="Recent News">
+                                McKendree, Lindenwood win in Atlanta</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903586" title="Recent News">
-                                Williams wins third senior title</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906963" title="Recent News">
+                                IBC donates $10,000 to hurricane relief</a></span>
                         </div>
                     </li>
                 
                     <li>
                         <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903580" title="Recent News">
-                                New Yorker sets all-events pace at WC</a></span>
+                            <span><a href="news/newsdetails.aspx?id=12884906961" title="Recent News">
+                                BowlTV to cover Collegiate Classic</a></span>
                         </div>
                     </li>
                 
@@ -383,168 +328,11 @@
                     <div class="rcbutton">
                         <a href="news/default.aspx?id=6442453959"><span>View More</span></a></div>
                 </div>
-                
                 <div class="nm-bot3">
                     <div class="rssbutton">
                         <a href="/rss"><span>Subscribe</span></a></div>
                 </div>
-                
             </div>
-            
-        </div>
-        <div id="news_module_content_tab2" class="news_module_content_hidden">
-            
-                    <div id="sbnewsmodule">
-                        <ul style="float: left;">
-                            
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903625" title="Recent News">
-                                Newman's Drewes wins collegiate singles</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903618" title="Recent News">
-                                ITRC hosts Junior Team USA Camp</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903610" title="Recent News">
-                                Former Team USA member takes lead at BJ</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903605" title="Recent News">
-                                Scratch standings for 2012 WC</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903604" title="Recent News">
-                                US Bowler writing contest winners selected</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903599" title="Recent News">
-                                Father and son get special opportunity at OC</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903595" title="Recent News">
-                                ISC finals profiles: Elise Bolton</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903592" title="Recent News">
-                                USA Bowling Coaching to offer seminars</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903586" title="Recent News">
-                                Williams wins third senior title</a></span>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="sbnewsmodulelist">
-                            <span><a href="news/newsdetails.aspx?id=12884903580" title="Recent News">
-                                New Yorker sets all-events pace at WC</a></span>
-                        </div>
-                    </li>
-                
-                        </ul>
-                    </div>
-                
-            <div class="news_module_rss">
-                <span class="nm-bot1"><a href="news/default.aspx?id=6442453959" class="news_module_view_all"><strong>View
-                    More</strong></a></span>
-                
-                <span class="nm-bot3"><a href="/rss"><b>Subscribe</b></a></span>
-            </div>
-        </div>
-        <div id="news_module_content_tab3" class="news_module_content_hidden">
-            
-        <div id="sbnewsmodule">
-            <ul style="float: left;">
-                
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884903494" title="Recent News">USBC Annual Meeting concludes..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884903419" title="Recent News">USBC Convention starts Wednesday..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902848" title="Recent News">Enhanced BOWL.com offers fresh look..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902787" title="Recent News">US Bowler All-Americans announced..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902614" title="Recent News">Two Texans to receive USBC Recognition Awar..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902541" title="Recent News">USBC makes Youth Committee selections..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902438" title="Recent News">13 proposals to be decided at Annual Meetin..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902331" title="Recent News">MyBowlingVacation.com delivers a strike..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902297" title="Recent News">Open Champ. Showcase Lanes filling fast!..</a></span>
-            </div>
-        </li>
-    
-        <li>
-        <div class="sbnewsmodulelist">
-            <span><a href="news/newsdetails.aspx?id=12884902296" title="Recent News">USBC Queens registration now open..</a></span>
-            </div>
-        </li>
-    
-            </ul>
-        </div>
-    
         </div>
     </div>
 </div>
@@ -570,10 +358,10 @@
                 </div>
                 <div id="bottomnav">
                     <div id="ctl00_ctl00_ContentBlock1">
-	<table cellspacing="5" cellpadding="0" width="100%">
+	<table width="100%" cellspacing="5" cellpadding="0">
 <tbody>
 <tr>
-<td align="left" valign="top" class="column"><p><strong>USBC Corporate</strong></p>
+<td valign="top" align="left" class="column"><p><strong>USBC Corporate</strong></p>
 <p><a href="/contact/" title="Contact USBC">Contact USBC</a></p>
 <p><a href="/about/" title="About USBC&nbsp;">About USBC</a></p>
 <p><a href="http://membership.bowl.com/AssociateMembership/main.jsp" title="Become a USBC Member" target="_blank">Become a USBC Member</a></p>
@@ -583,7 +371,7 @@
 <p><a href="/board/" title="Board of Directors">Board of Directors</a></p>
 </td>
 <td class="dividingcolumn">&nbsp;</td>
-<td align="left" valign="top" class="column"><p><strong>USBC Departments</strong></p>
+<td valign="top" align="left" class="column"><p><strong>USBC Departments</strong></p>
 <p><a target="_blank" href="http://classic.bowl.com/awards/" title="Awards">Awards</a></p>
 <p><a href="/rules/" title="Rules">Rules</a></p>
 <p><a href="/rulebook/" title="Rulebook">Rulebook</a></p>
@@ -593,36 +381,34 @@
 <p><a href="/equipandspecs/" title="Equipment Specifications">Equipment Specifications</a></p>
 <p><a href="http://apps.bowl.com/CenterCertification/login.aspx" title="Center Certification" target="_blank">Center Certification</a></p>
 <p><a href="/travel/" title="USBC Travel">USBC Travel</a></p>
-<p><a href="/Associations/Business_Tools/WinLABS/" title="WinLABs">WinLABs</a></p>
+<p><a href="http://bowl.com/Associations/Association_Business/WinLABS/" title="WinLABs">WinLABs</a></p>
 </td>
 <td class="dividingcolumn">&nbsp;</td>
-<td align="left" valign="top" class="column"><p><strong>USBC Information</strong></p>
+<td valign="top" align="left" class="column"><p><strong>USBC Information</strong></p>
 <p><a href="/tournaments/" title="Tournaments &amp;amp; Events">Tournaments &amp; Events</a></p>
 <p><a href="http://lss.bowl.com/leagueStandingSheets/" title="Standing Sheets" target="_blank">Standing Sheets</a></p>
 <p><a href="/associations/" title="Education &amp;amp; Workshops">Education &amp; Workshops</a></p>
 <p><a href="/Associations/Forms_and_Manuals/" title="Forms &amp;amp; Manuals">Forms &amp; Manuals</a></p>
 <p><a href="/convention/" title="USBC Convention">USBC Convention</a></p>
-<p><a href="http://classic.bowl.com/records/" target="_blank">Records &amp; Stats</a></p>
+<p><a href="/records" title="Records &amp;amp; Stats">Records &amp; Stats</a></p>
 <p><a target="_blank" href="http://classic.bowl.com/hof/" title="Hall of Fame">USBC Hall of Fame</a></p>
-<p><a href="/usbowler/" title="US Bowler Magazine">US Bowler Magazine</a></p>
+<p><a href="/usbowler/" title="US Bowler Magazine">Magazine</a></p>
 </td>
 <td class="dividingcolumn">&nbsp;</td>
-<td align="left" valign="top" class="column"><p><strong>Bowl.com</strong></p>
-<p>Advertise on Bowl.com</p>
+<td valign="top" align="left" class="column"><p><strong>Bowl.com</strong></p>
 <p><a href="mailto:feedback@bowl.com" title="Feedback" target="_blank">Feedback</a></p>
 <p><a href="http://usbcsportstore.com/" title="USBC SportStore&nbsp;" target="_blank">USBC SportStore&nbsp;</a></p>
 </td>
 <td class="dividingcolumn">&nbsp;</td>
-<td align="left" valign="top" class="column"><p><strong>Media Room</strong></p>
-<p><a target="_blank" href="http://classic.bowl.com/pressroom/" title="Press Room">Press Room</a></p>
+<td valign="top" align="left" class="column"><p><strong>Media Room</strong></p>
+<p><a target="_blank" href="http://bowl.com/pressroom/" title="Press Room">Press Room</a></p>
 <p><a href="/news/" title="News">News</a></p>
-<p><a href="http://bowl.com/tv" title="Bowl TV" target="_blank">Bowl TV</a></p>
-<p><a href="/chrisbarnes/" title="Chris Barnes">Chris Barnes</a></p>
-<p><a href="http://bowl.com/bowlersjournal/" title="Bowlers Journal" target="_blank">Bowlers Journal&nbsp;</a></p>
+<p><a title="Bowl TV" href="http://www.youtube.com/bowltv">BowlTV</a></p>
+<p><a href="http://bowlersjournalusbc.com/" title="Bowlers Journal" target="_blank">Bowlers Journal&nbsp;</a></p>
 <p><a href="http://www.bowlopolis.com/" title="Bowlopolis" target="_blank">Bowlopolis&nbsp;</a></p>
 </td>
 <td class="dividingcolumn">&nbsp;</td>
-<td align="left" valign="top" class="column"><p><strong>Partners</strong></p>
+<td valign="top" align="left" class="column"><p><strong>Partners</strong></p>
 <p><a href="http://www.foundation300.com/Forum10-1.aspx" title="Phantom Radio" target="_blank">Phantom Radio</a></p>
 <p><a href="http://www.bowlforveterans.org/" title="BVL&nbsp;" target="_blank">BVL&nbsp;</a></p>
 <p><a href="http://www.ncys.org/" title="NCYS&nbsp;" target="_blank">NCYS&nbsp;</a></p>
@@ -634,9 +420,11 @@
 <p><a href="http://www.tnbainc.org/" title="TNBA&nbsp;" target="_blank">TNBA&nbsp;</a></p>
 <p><a href="http://www.ibpsia.com/" title="IBPSIA&nbsp;" target="_blank">IBPSIA&nbsp;</a></p>
 <p><a href="http://www.bowlingnewsnetwork.net/" title="BNN&nbsp;" target="_blank">BNN&nbsp;</a></p>
+<p><a href="http://www.awba.org/" title="AWBA" target="_blank">AWBA</a></p>
+<p><a href="http://gobowlingshow.com/" title="Let's Go Bowling Show" target="_blank">Let's Go Bowling Show</a></p>
 </td>
 <td class="dividingcolumn">&nbsp;</td>
-<td align="left" valign="top" class="column"><p><strong>Terms</strong></p>
+<td valign="top" align="left" class="column"><p><strong>Terms</strong></p>
 <p><a href="/tos/" title="Terms of Service">Terms of Service</a></p>
 <p><a href="/privacy/" title="Privacy Policy">Privacy Policy</a></p>
 <p><a href="/copyright/" title="Copyright Policy">Copyright Policy</a></p>
