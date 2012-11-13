@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318183901id_/https%3A//www3.imsa.edu/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113010457id_/https%3A//www3.imsa.edu/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Websites Under Domain imsa.edu | Illinois Mathematics and Science Academy®
 
@@ -8,7 +8,7 @@ Pursuant to the fundamental philosophy of the American constitutional form of go
 
 ## Sharing of Information
 
-Information collected and received via any website in the domain imsa.edu is for the sole use of the Illinois Mathematics and Science Academy® (IMSA) and the organizations with which it is formally affiliated. Submitted information will not be otherwise shared without consent. Affiliated organizations include, in part:
+Information collected and received via any website in the domain imsa.edu is for the sole use of the Illinois Mathematics and Science Academy® ("IMSA") and the organizations with which it is formally affiliated. Submitted information will not be otherwise shared without consent. Affiliated organizations include, in part:
 
   * student organizations at IMSA
   * the [IMSA Fund for the Advancement of Education](https://www3.imsa.edu/giving),
@@ -20,7 +20,7 @@ Information collected and received via any website in the domain imsa.edu is for
 
 ## Personal Information and Choice
 
-Personal information is information about an individual that is readily identifiable to that specific individual. Personal information includes personal identifiers such as an individual's name, address, phone number, drivers license number and social security number. A domain name or Internet Protocol address is not considered personal information. We collect no personal information about you unless you voluntarily participate in an activity that asks for information (e.g., sending an e-mail or participating in a survey). If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the Academy web site. If personal information is requested on the web site or volunteered by the user, State law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
+"Personal information" is information about an individual that is readily identifiable to that specific individual. Personal information includes personal identifiers such as an individual's name, address, phone number, drivers license number and social security number. A domain name or Internet Protocol address is not considered personal information. We collect no personal information about you unless you voluntarily participate in an activity that asks for information (e.g., sending an e-mail or participating in a survey). If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the Academy web site. If personal information is requested on the web site or volunteered by the user, State law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
 ## Webserver Logs
 
