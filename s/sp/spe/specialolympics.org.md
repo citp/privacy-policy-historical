@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524185230id_/http%3A//specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113151419id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Special Olympics: Privacy Policy
 
 ## Privacy Policy
+
+[ ](http://www.addthis.com/bookmark.php) [ ](http://www.addthis.com/bookmark.php)
 
 Special Olympics understands the importance of protecting your personal information, and we have created this Privacy Policy to inform you of how we will use your personal information and how you can communicate with us about your preferences. 
 
@@ -29,7 +31,13 @@ Special Olympics understands the importance of protecting your personal informat
 
  **COOKIES AND PIXELS** : A "cookie" is a small piece of data that is sent to your browser from Special Olympics' web server and is stored on your computer's hard drive. Cookies are used to collect non-identifying information about the user, such as Web surfing behavior or user preferences for a specific website. Special Olympics uses two different types of cookies – session-based and persistent cookies. Session-based cookies expire at the end of a browser session so once you close your browser the cookie simply terminates. Persistent cookies remain on your computer until you remove them. Persistent cookies are used to provide internal Website analytics. You can manually delete all cookies including persistent ones within your browser privacy settings menu. In addition, Special Olympics uses "pixels," or transparent GIF files, to help manage online advertising. These pixels do not collect identifying information.
 
- **WEBSITE LINKS:** In order to provide certain services and goods at our website, we contract with other companies and individuals. These additional services and goods may include "links" to other websites from our website. Special Olympics’ privacy practices may not be applicable at any third-party sites. Anytime you leave the Special Olympics website, we have no control regarding what information may be collected about you, nor do we control what third-parties might do with the information.   It is important that you review any privacy policies on third-party sites carefully, BEFORE you use any services or programs offered.
+ **THIRD PARTY ADVERTISING COOKIES OPT-OUT:  **Special Olympics allows third parties to place cookies on our site for advertising purposes.  This Privacy Policy does not cover the collection methods or use of the information collected by these vendors. These vendors have their own privacy policies and may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) ("NAI").  To remove yourself from some or all NAI member advertising programs, please visit the [ NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp) and follow the relevant instructions.  Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+
+Link 1: <http://www.networkadvertising.org/>
+
+Link 2: <http://www.networkadvertising.org/choices/>
+
+**WEBSITE LINKS:** In order to provide certain services and goods at our website, we contract with other companies and individuals. These additional services and goods may include "links" to other websites from our website. Special Olympics’ privacy practices may not be applicable at any third-party sites. Anytime you leave the Special Olympics website, we have no control regarding what information may be collected about you, nor do we control what third-parties might do with the information.   It is important that you review any privacy policies on third-party sites carefully, BEFORE you use any services or programs offered.
 
  **CHANGES TO PRIVACY PRACTICES:** From time to time, Special Olympics may revise its privacy practices to address changing technology, security measures and website functionality. We strive to provide you with timely notice of these changes. Please contact us if you have any questions about changes to our practices.
 
@@ -37,7 +45,7 @@ If you use Special Olympics Network communications tools to disclose information
 
 Special Olympics may use agents and contractors in order to help operate the Network. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for the  Special Olympics Network.
 
-Last Updated August 8, 2008
+Last Updated November, 2 2012
 
 #### Your Donation Matters
 
