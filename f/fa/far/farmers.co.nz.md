@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607013127id_/http%3A//www.farmers.co.nz/policies_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/privacypolicy.html) for the most accurate reproduction.*
 
 # Farmers
+
+* * *
+
+  * [CATALOGUES](http://catalogues.farmers.co.nz/)
+  * [FARMERS CLUB](http://www.farmersclub.co.nz/)
+  * [FARMERS BEAUTY](http://www.farmersbeauty.co.nz/)
+  * [GIFT CARD](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/giftcards.html)
+  * [STORE DETAILS](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/stores.html)
+  * [WHAT'S ON](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/whatson.html)
+
+
 
 At Farmers, we are committed to protecting your privacy. Please read on for more details about our privacy policy.
 
@@ -44,3 +55,57 @@ We are committed to protecting your privacy. We use the information we collect o
 ## **Tell us what you think**
 
 We welcome your questions and comments about privacy at Farmers. Please send e-mails to [contactus@farmers.co.nz](mailto:contactus@farmers.co.nz)
+
+  * [](http://catalogues.farmers.co.nz/Early_Christmas_Savings/4370/Catalogue/)
+
+Starts this Thursday 15th and must end Friday the 16th November 2012
+
+  * [](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/comp-montly-prize-nov2012.html)
+
+Win the ultimate insiders New York Beauty Experience with Elizabeth Arden 
+
+  * [](http://www.santaparade.co.nz/)
+
+Don't forget the Auckland Santa Parade is on Sunday 25th November 2012 at 2.00pm!
+
+  * [](http://farmers.co.nz/comp-diamondringoct2012.html)
+
+A beautiful tanzanite & diamond ring, valued at $13,700!
+
+  * [](http://www.facebook.com/farmersyourstore)
+
+Join us & over 40,000 fans for exclusive competitions, polls and more!
+
+  * [](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/stores.html)
+
+To find your nearest store locations and trading hours
+
+  * [](http://careers.farmers.co.nz/)
+
+Generations of New Zealanders have played a part in our success.
+
+  * [](http://www.farmersclub.co.nz/)
+
+Earn points with every purchase.  
+Terms & Conditions apply.
+
+  * [](https://www.beautyclub.co.nz/Store_Events.aspx)
+
+Check out our fashion and beauty events happening at Farmers stores.
+
+  * [](http://www.farmersfinancecard.co.nz/)
+
+You'll get exclusive access to special deals and discounts.
+
+
+
+
+  1. 1
+  2. 2
+  3. 3
+
+
+  * Previous
+  * Next
+
+
