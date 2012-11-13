@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606214612id_/http%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113154337id_/http%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Holden. Go better.
+# Privacy Policy
 
 Holden complies with the National Privacy Principles. 
 
@@ -177,7 +177,7 @@ If you have any questions about this privacy statement, the practices of any of 
 2\. CONDITIONS OF USE OF WEBSITES 
 
 _(a) Intellectual property rights_   
-No part of Holden's Websites may be reproduced without express written permission from Holden. © Holden Ltd 2002-2010. All rights reserved. Holden shall enforce its rights concerning its Websites in the event of any interference, infringement or contravention of Holden's rights, title or interests in any aspect of this Website. This Website is protected under the copyright laws of Australia and other countries. Unless otherwise specified, no person has permission to download, display, post, record, "mirror", duplicate, copy, retransmit, redistribute, commercially exploit, reproduce or republish any part or aspect of this Website in any form, or any information found at this Website, by any means whatsoever, whether by electronic, mechanical, recording, photocopying, photographic means or otherwise. 
+No part of Holden's Websites may be reproduced without express written permission from Holden. © GM Holden Ltd 2002-2012. All rights reserved. Holden shall enforce its rights concerning its Websites in the event of any interference, infringement or contravention of Holden's rights, title or interests in any aspect of this Website. This Website is protected under the copyright laws of Australia and other countries. Unless otherwise specified, no person has permission to download, display, post, record, "mirror", duplicate, copy, retransmit, redistribute, commercially exploit, reproduce or republish any part or aspect of this Website in any form, or any information found at this Website, by any means whatsoever, whether by electronic, mechanical, recording, photocopying, photographic means or otherwise. 
 
 The symbols ® and ™ designate Australian registered trade-marks and unregistered trade-marks respectively. Holden and its parent General Motors Company have additional trade-marks and service marks, registered and unregistered, in other countries. Nothing on this Website shall be construed as conferring any license under any of Holden's or GMC's or any other person's intellectual property rights, whether expressly, by interference, by implication, or otherwise. Materials may not be copied or re-broadcast or redistributed or disseminated in any way without prior written permission of the copyright owner of that material. 
 
