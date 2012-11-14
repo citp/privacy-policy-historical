@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501234638id_/http%3A//spongecell.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114073209id_/http%3A//spongecell.com/legal/privacy) for the most accurate reproduction.*
 
 # Spongecell Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Privacy Policy 
 
-Spongecell, LLC (Spongecell) takes privacy very seriously. Confidence in how Spongecell handles the interests of its advertisers, publishers and consumers is key to our success. Spongecell provides you with this Privacy Policy to inform you of our procedures and policies with regard to the collection, use and disclosure of information that you provide to us on this website or any affiliate products such as advertisements or content we publish including, but not limited to, our e-newsletter. 
+Spongecell, Inc. (Spongecell) takes privacy very seriously. Confidence in how Spongecell handles the interests of its advertisers, publishers and consumers is key to our success. Spongecell provides you with this Privacy Policy to inform you of our procedures and policies with regard to the collection, use and disclosure of information that you provide to us on this website or any affiliate products such as advertisements or content we publish including, but not limited to, our e-newsletter. 
 
 This Privacy Policy may be updated in the future, at which point Spongecell will notify you by posting the revised Privacy Policy on this website. Please be sure to consult this Privacy Policy periodically for any changes. 
 
