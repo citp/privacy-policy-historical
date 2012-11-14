@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athleticsireland.ie privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513084318id_/http%3A//www.athleticsireland.ie/content/%3Fpage_id%3D20757) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athleticsireland.ie privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114074910id_/http%3A//www.athleticsireland.ie/content/%3Fpage_id%3D20757) for the most accurate reproduction.*
 
 # Athletics Ireland AAI » Privacy Policy
 
