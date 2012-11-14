@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metafever.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514022046id_/http%3A//www.metafever.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metafever.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114213151id_/http%3A//www.metafever.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MetaFever.com
 
-## MetaFever.com - Privacy
+### Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
