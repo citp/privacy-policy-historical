@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628042741id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114040720id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ZALORA.com.hk
 
 _**We take our customers privacy seriously and we will only collect and use your personal information as outlined below**.   
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information, which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
@@ -10,7 +10,7 @@ We will only keep your information for as long as we are either required to by l
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
 If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalora.com.hk.  
-Alternatively you may call us on **3011 4268** – this telephone number will be open to receive calls between 9am to 9pm. 
+Alternatively you may call us on **3011 4268** – this telephone number will be open to receive calls between 9am to 6pm. 
 
 _
 
