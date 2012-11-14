@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qnews.com.au privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526210732id_/http%3A//www.qnews.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnews.com.au privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114052115id_/http%3A//qnews.com.au/page/privacy) for the most accurate reproduction.*
 
 # Privacy | Q News
 
