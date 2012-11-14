@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the glenns-garden.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607091513id_/http%3A//www.glenns-garden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glenns-garden.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114084644id_/http%3A//www.glenns-garden.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Glenns Garden | Glenns Garden
+# Privacy Policy
+
+Print this Page 
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
