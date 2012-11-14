@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resetsanfrancisco.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501081946id_/http%3A//www.resetsanfrancisco.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resetsanfrancisco.org privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114103837id_/http%3A//www.resetsanfrancisco.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reset San Francisco
 
