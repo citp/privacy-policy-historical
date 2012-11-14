@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolona.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617134855id_/http%3A//infolona.com/infolona-%25E2%2580%2593-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolona.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114182250id_/http%3A//infolona.com/node/69) for the most accurate reproduction.*
 
 # INFOLONA – PRIVACY POLICY | Infolona
 
@@ -27,7 +27,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 10\. Any submissions that you make to any public areas of the Website such as bulletin boards ("Public Areas") will be public and will not be considered Personal Information. Infolona does not control, and is not responsible for, the actions of other users of the Website with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes.
 
-11\. You may be able to access third party web sites through links available on the Website. You understand and agree that your use of such third party websites, will be governed by the privacy policies of those sites and not by this privacy policy.
+11\. You may be able to access third party web sites through links available on the Website. You understand and agree that your use of such third party websites, will be governed by the privacy policies of those sites and not by this privacy policy. The content on all third party landing pages is owned by the respective third party website owners and Infolona will not be liable for any content shown on those pages.
 
 12\. Infolona encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this privacy policy by instructing their children to never provide information on the Website without their permission.
 
