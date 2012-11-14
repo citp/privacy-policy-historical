@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msrgear.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228222945id_/http%3A//cascadedesigns.com/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msrgear.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114191645id_/http%3A//cascadedesigns.com/Home/Privacy-Policy) for the most accurate reproduction.*
 
 # Cascade Designs, Inc.
 
