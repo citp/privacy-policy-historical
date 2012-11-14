@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criminalsearches.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517102518id_/http%3A//www.criminalsearches.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criminalsearches.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114123610id_/http%3A//www.criminalsearches.com/privacy.aspx) for the most accurate reproduction.*
 
 # Criminal Searches - Privacy Policy
 
