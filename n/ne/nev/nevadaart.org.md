@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608220119id_/http%3A//nevadaart.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114051443id_/http%3A//www.nevadaart.org/site/privacy-policy) for the most accurate reproduction.*
 
 # Nevada Museum of Art
 
