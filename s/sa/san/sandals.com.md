@@ -1,28 +1,42 @@
-> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626071857id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114032319id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
 
 # Sandals Resorts Privacy Policy
 
-This privacy statement covers the Sandals.com website. Because we want to demonstrate our commitment to our users' privacy, we are disclosing our information practices and privacy practices. 
+We are commited to protecting your privacy. The information we collect is used to process reservations, process orders and to provide a more personalized user experience. Unique Vacations, Inc. is the sole owner of the information collected on Sandals.com. Unique Vacations, Inc., as the worldwide representative for Sandals Resorts, collects information from our users at several different points on our Web site.
 
-## Information Collection
+## What information do we collect and how do we use it?
 
-Unique Vacations, Inc. is the sole owner of the information collected on Sandals.com. Unique Vacations, Inc., as the worldwide representative for Sandals and Beaches, collects information from our users at several different points on our Web site. Unique Vacations, Inc. provides a number of ways for visitors/customers to 'opt-out' of receiving additional information from us. These are offered at the time visitors/customers provide us their information, when they receive an e-correspondence and/or by sending a written inquiry to Unique Vacations, Inc., 4950 S.W. 72 Ave., Miami, FL 33155. If visitors/customers do not wish to continue receiving any online promotional communications from Unique Vacations, Inc, such as e-mail or online newsletters, they can opt-out of receiving these communications by clicking on the unsubscribe link located on the bottom of the e-correspondence received. 
+When you request one of our brochures, enter a sweepstake, subscribe to receive promotional e-mails or newletters, we may need to collect specific information about you to process your requests.
 
-## Brochure Request and Booking Engine
+We request information from the user on our brochure request forms, sweepstakes entry forms and in our booking engines. Contact information (such as name, email, and mailing address), personal information (such as date of birth, gerder) and financial information (such as credit card number, expiration date) to process the order, fulfill legal requirements and billing purposes. If we have trouble processing an order, the information is used to contact the user. 
 
-We request information from the user on our brochure request forms and in our booking engines. A user must provide contact information (such as name, email, and mailing address) and financial information (such as credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, the information is used to contact the user. 
+We may use the information we collect to notify you of important product updates, special offers and promotions we think you may find valuable. If you do not wish to continue to receive e-mails from us, you can easily op-out via one of the meachanism we provide. 
 
-## Profile
+This site may contain links to 3rd party websites. We do not share any of your information with the linked website. We are not responsible for the privacy practices of such websites.
 
-We store information that we collect through cookies and log files to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users' personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share, under any circumstances, your profile with other third parties. 
+## Will we share the information we collect with other companies?
 
-## Cookies
+We do not share, sell or trade your personal information with others.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+## Opting out
 
-## Customer Service
+If you no longer wish to receive our e-mails, we provide an "Unsubscribe" link at the bottom of every email sent to you. That link will send you to a landing page where an unsubscription confirmation is presented. Upon confirmation, your e-mail address will be completely removed from our database and you will no longer receive future communications from us.
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
+## We use Cookies
+
+A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file instructions.
+
+## Types of Cookies Collected
+
+**Category 1 - Strictly Necessary Cookies:** These cookies are essential in order to enable you to move around the web site and use its features, such as accessing secure areas of the web site. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+
+**Category 2 - Performance Cookies:** These cookies collect information about how visitors use a web site., for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a web site. works.
+
+**Category 3 - Functionality Cookies:** These cookies allow the web site. to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
+
+**Category 4 - Targeting Cookies or Marketing Cookies:** These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.
+
+By using www.sandals.com, you agree that we can place these types of cookies on your device. These cookies can be removed by following Internet browser help file instructions.
 
 [](http://seal.habeas.com/index.php?code=gIsB8caOqrwAM7vCARHbyJNSHGHcayIr)
 
