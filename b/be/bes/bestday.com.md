@@ -1,36 +1,17 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514014314id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114234636id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Viajes Beda S.A. de C.V. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Bestday.com.
+We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein. 
 
-General Aspects
+Traveler's Holding Inc. ("BEST DAY") will seek to treat their personal data or sensitive, understood all the information that can identify you, such as your name, phone number, address and e-mail, information on your credit card etc, ("Data"), is controlled effect of providing privacy and the right to informational self-determination of the same, we suggest reading this notice and the provision of information to BEST DAY by any means, constitutes your agreement to this privacy notice.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies for other purposes. Our site's registration form requires users to give us contact information (like their name and email address).
+Data may be housed on servers in the United States has BEST DAY or other countries with an adequate level of protection and may be transferred, shared and / or transferred to subsidiary companies, subsidiaries, affiliates and suppliers of BEST DAY within national territory or abroad if you so consent and that permitted by law, for purposes of confirmation of reservations Finals Providers of services requested by you, for identification and contact, and to better understand the needs of our clients and achieve better service, since in general requires certain information about you to purchase or reserve the services of our site.
 
-Customer Data
+BEST DAY may store the time as permitted by applicable law, the information in its database in order to simplify the service for new bookings. The confidentiality, integrity and availability of data is protected by security measures administrative, technical and physical, to prevent damage, loss, alteration, destruction, misuse, unauthorized disclosure or access.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send information about our company to our customers.
+This is a general audience website and does not offer services directed to children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.
 
-The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+If you have questions about this Privacy Policy please email us using our e-mail: **privacidad@bestday.com** , or writing us, Attn to Privacy and Security Department, 5341 NW 107TH Avenue Coral Springs, FL 33076
 
-Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site contains links to other sites. Best Day is not responsible for the privacy practices or the content of such Web sites.
-
-Changing Data
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to unsubscribe@bestday.com
-
-Please indicate in subject or body the email address. This site gives users the following options for changing and modifying information previously provided. You can send email to webmarketing@bestday.com.
-
-Contact Data
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-Viajes Beda S.A. de C.V.   
-Av. Bonampak Mza.2 Lote. 7 Sm. 10 Cancún Quintana Roo, México.   
-Cancun Q.Roo Mexico C.P. 77500
-
-[_Contact Us_ ](https://web.archive.org/ContactUs)  
-
+The site administrator reserves the right to change this Privacy Notice at any time, we recommend continuous revision.
