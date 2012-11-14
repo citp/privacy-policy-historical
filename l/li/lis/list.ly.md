@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the list.ly privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504045527id_/http%3A//list.ly/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list.ly privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114070612id_/http%3A//list.ly/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Listly
 
@@ -44,4 +44,4 @@ This Privacy Policy may change from time to time. Listly will post those changes
 
 Questions about this Privacy Policy, including account deletion requests, may be emailed to support@list.ly 
 
-Last updated: May 1, 2012. 
+Last updated: November 1, 2012. 
