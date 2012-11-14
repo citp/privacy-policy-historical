@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadorb.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115091247id_/http%3A//uploadorb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadorb.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114223228id_/http%3A//uploadorb.com/privacy.html) for the most accurate reproduction.*
 
 # UploadOrb.com Hosting
 
