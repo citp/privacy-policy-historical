@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628000810id_/http%3A//www.sky.com/helpcentre/account-and-billing/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114184216id_/http%3A//www.sky.com/helpcentre/account-and-billing/privacy-notice) for the most accurate reproduction.*
 
 # Sky Account & Billing | Privacy and Cookies Notice
 
@@ -89,7 +89,7 @@ Cookies are small bits of text that are downloaded to your computer or mobile de
 Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.   
  
 
-**Cookies that are neeed to provide the service you have asked for**
+**Cookies that are needed to provide the service you have asked for**
 
 Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet. 
 
