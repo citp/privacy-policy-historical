@@ -1,62 +1,87 @@
-> *The following text is extracted and transformed from the square1art.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604031244id_/http%3A//www.square1art.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square1art.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114230002id_/http%3A//square1art.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Terms of use
 
-At Square 1 Art, LLC, we are committed to protecting every User's privacy. We use the information we collect to process orders and to provide a more personalized service. Square 1 Art, LLC's privacy policy, set forth below, is designed to use the information we collect about visitors with the utmost care and responsibility.
+At Square 1 Art, we are committed to protecting every User's privacy. We use the information we collect to process orders and to provide a more personalized service. Square 1 Art's privacy policy, set forth below, is designed to use the information we collect about visitors with the utmost care and responsibility.
 
   | 
 
-  1. ### Information Provided By All Users of the Website
+  1. ### Information Collected
 
-The information Users (as defined in the Terms and Conditions of Use) provide to Square 1 Art, LLC through Square 1 Art.com (the "Website") is used to process orders, to provide enhanced and more personalized service, and to properly index lesson plans and other marketing materials. The data in Square 1 Art, LLC's databases is protected against unauthorized access through state-of-the-art security procedures and software.
+We collect personal information when you register with Square 1 Art, LLC, when you use any of our products or services. Personal information is any information about you that is personally identifiable like your name, address, email address or phone number, Facebook Connect sign-in information (if applicable), and any other information that is not otherwise publicly available. If you order products or pay for services, we will need your shipping address, billing name and address, as well as the credit card number and expiration date.
 
-The information Users provide to Square 1 Art, LLC is solely for Square 1 Art, LLC's internal business use. We do not sell this information to anyone.
-
-Square 1 Art, LLC may disclose personal information if we believe, in good faith, that such disclosure is necessary to comply with the law, to enforce or apply the terms of Square 1 Art, LLC's user agreements (including without limitation the Terms and Conditions of Use) or to protect the property, rights or safety of Square 1 Art, LLC, its Users or others.
+You may access and use the Site solely for your personal, noncommercial use. Except as expressly authorized hereunder, the Site may not be reproduced, duplicated, copied, sold, resold, visited, reverse-engineered or otherwise exploited for any commercial purpose without Square 1 Art, LLC’s prior written authorization. We reserve the right to alter or discontinue the Site, in whole or in part, at any time in Square 1 Art, LLC’s sole discretion.
 
   
 
-  2. ### Information Provided By Parents
+  2. ### Artwork Submission
 
-Parents who are interested in purchasing their child's artwork on Square 1 Art, LLC are required to register as members. The information provided during the registration process is used to communicate with the Parent on Square 1 Art.com. Square 1 Art, LLC keeps all Parent last names, email addresses and physical addresses completely private and does not sell this information to anyone. In addition, as part of the Parent account creation process, Square 1 Art, LLC records the IP address used to register and agree to Square 1 Art, LLC Terms & Conditions of Use. 
-  3. ### Information Provided by Kids (Children Under 18)
+Persons under 18 may NOT submit any artwork for publication. Only Parents and Coordinators are allowed to submit the artwork of those under 18.
 
-Square 1 Art, LLC is committed to complying with the Children's Online Privacy Protection Act of 1998. Our information collection practices are described below. Square 1 Art, LLC urges kids to check with their Parents before entering information on any Website, and we urge Parents to discuss with their kids the potential danger of revealing personal information to anyone they don't know.  |   | 
-    * We do not collect personally identifiable offline contact information from kids.
-    * We do not distribute to third parties any personally identifiable information collected from kids.  
+  3. ### Authorized Third Parties
+
+We may work with a third party to monitor certain pages of our website for the purpose of reporting website traffic and other advertising statistics. Where authorized by us, this third party may use cookies and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is transferred to this third party.
+
+  4. ### Use of Information
+
+We use your personal information for the following general purposes: to fulfill your requests for products and services, administrative purposes, to improve our services, to customize the advertising and content you see, to contact you, and for internal business purposes.
+
+We use third party personal information you provide to us solely to provide services you specifically request.
+
+For example, sharing your artwork/pictures electronically through Square 1 Art, LLC's share service is one of the key benefits we offer. Square 1 Art, LLC's share service includes both Square 1 Art, LLC's general share service, which allows you to send others a one-time email to view artwork as well as our service that allows you to create a special website and invite recipients to participate in that website (collectively, the "Share Service"). Our Share Service allows you to send an email invitation to your selected recipients, and then to allow access artwork to view, save, or purchase products from your artwork. This invitation email would contain a web link directing that recipient to create their own account in order to view, save or purchase products from your artwork. The email also may include information about special promotional offers from Square 1 Art, LLC and/or carefully-screened third parties.
+
+Please be assured that we do not use the email addresses that you enter through our Share Service of any of our website to send any type of direct marketing to your friends and family. (Of course, if a friend or family member signs up with Square 1 Art, LLC or any of our family of companies or we receive their email address from another unrelated source, we may communicate with them in accordance with this Privacy Policy. 
+
+We use anonymous information, such as that pertaining to web pages you've viewed, in order to analyze trends, track user's movements, provide a better website experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally.
+
+  
+
+  5. ### Information Sharing With Third Parties
+
+Square 1 Art, LLC does not share the personal information we collect with any companies who work with or on behalf of Square 1 Art, LLC.
+
+AEvery now and then, Square 1 Art, LLC will invite customers to take part in surveys, promotions, contests and sweepstakes. The information we collect from these surveys, promotions, contests and sweepstakes may be matched with individual customer accounts and used by Square 1 Art, LLC to improve your overall customer experience, and may be shared with select third parties.
+
+  
+
+  6. ### Opting Out Of Information Sharing
+
+We understand and respect that not all customers may want to allow us to share any information with other select companies. If you do not want Square 1 Art to share your customer information, please immediately email us at [info@square1art.com](mailto:info@square1art.com?subject=Privacy%20Policy%20Inquiry). When contacting us, please clearly state your request, including your name, mailing address, email address and phone number.
+
+However, under the following circumstances, we may still be required to share your personal information:
+
+  
+|   | 
+    * If we respond to subpoenas, court orders or legal process, or if we need to establish or exercise our legal rights or defend against legal claims;
+    * If we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Square 1 Art, LLC Terms of Use or as otherwise required by law.
+    * Restrict or inhibit any other user from using the Site, including, without limitation, by means of "hacking" or defacing any portion of the Site;  
 ---|---  
-  4. ### Artwork Submission
+  7. ### Children's Information
 
-Persons under 18 may NOT submit any artwork for publication. Only Parents and Teachers are allowed to submit the artwork of those under 18. <
-  5. ### Personally Identifiable Information About Artists
+We do not target our website to children, and we will not knowingly collect personally identifiable information from children without obtaining prior verifiable parental consent. 
 
-It is Square 1 Art, LLC's policy to protect the identity of the Artists showcasing their work on Square 1 Art, LLC. Artists will be identified only by their art id/barcode number (which often but not necessarily consists of the Artist's first name, last name and a numerical suffix). Square 1 Art, LLC does not knowingly post the full name, mailing address or email address of Artists on its Website.
+  
 
-As noted above, we require that Teachers and Parents write the first name and last name of the Artist onto the art paper header before submitting artwork. Square 1 Art, LLC is not responsible for any damages resulting directly or indirectly from the negligence of the submitter of the artwork.
+  8. ### Access to Your Account Information and Preferences
 
-  6. ### Information Posted Publicly on Square 1 Art, LLC
+You have the right and ability to edit your member account information. You can opt in or out of receiving future communications of special offers and new product information, or you can unsubscribe by following instructions contained in the messages you receive. We do reserve the right to send you certain communications relating to the services Square 1 Art, LLC, provide, such as service announcements and administrative messages, which are considered part of your account membership. We do not offer you the opportunity to opt-out of receiving those messages.
 
-Users should be aware that any personal information (including names of persons or schools) that is posted on Square 1 Art, LLC by Users is not accessible to other Users of the Website and could not be collected, used, and disclosed by others unless the child’s art id number, child’s first and last name, school, and classroom teacher are shared. Square 1 Art, LLC is not responsible for the collection, use, or disclosure of information if the child’s art id number, child’s first and last name, school name, or classroom teacher are shared. We strongly discourage Users from sharing personally identifiable information such as the child’s art id number, school name, classroom teacher with people other than family members. 
-  7. ### Cookies
+  
 
-Cookies are small text files that Square 1 Art, LLC writes to a User's computer to make it easier for the User to navigate within the Website. Square 1 Art, LLC cookies do not contain any personally identifiable information such as passwords. Visitors to the Website have the option of disabling cookies via browser preferences. However, if cookies are disabled, some features of the Website may not function properly. 
-  8. ### Aggregate Statistics
+  9. ### Confidentiality and Security
 
-Square 1 Art, LLC may report aggregate statistics about visitors, traffic patterns, electronic postcard usage and related site information to partners, sponsors, advertisers, subsidiaries, affiliates and other third parties, but these statistics do not include any personally identifiable information. 
-  9. ### Choice/Opt-Out
+We use a secure server (SSL) to encrypt all of your personal information during the checkout phase of the ordering process. We also have other physical, electronic and procedural safeguards that comply with industry best practices and federal regulations to protect the security and confidentiality of the personal information we have collected, and to prevent unauthorized access to or disclosure of any of your personal information.
 
-Square 1 Art, LLC provides Users with the opportunity to opt-out of receiving any future communications from Square 1 Art, LLC and its partners at any time. If a User wants to remove their information from Square 1 Art, LLC's database and not receive future communications, please contact Square 1 Art, LLC at info@square1art.com. 
-  10. ### Additional Information
+  
 
-For more information about Square 1 Art, LLC's privacy policy or questions and comments, please contact [info@square1art.com](mailto:info@square1art.com?subject=Privacy%20Policy%20Inquiry) or write:
+  10. ### Third Party Site
 
-Square 1 Art, LLC
+Our website may contain links to other website for news and other information. Our Privacy Policy only applies to all of the website of the Square 1 Art, LLC. Practices or the content of other website which are linked to or integrated with the website of the Square 1 Art, LLC family. You should check the privacy policies of those Site before providing your personal information to them. See our Terms and Conditions for additional information.
 
-Attn: Marketing Department
+  11. ### Questions and Suggestions
 
-5470 Oakbrook Pkwy Ste E
+If you have questions about this Privacy Policy, you can contact us at [info@square1art.com](mailto:info@square1art.com?subject=Privacy%20Policy%20Inquiry) or 888-332-3294.
 
-Norcross, GA 30093
-
+  
 
 
