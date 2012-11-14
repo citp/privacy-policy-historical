@@ -1,0 +1,5 @@
+> *The following text is extracted and transformed from the liquorstoreclothing.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114061906id_/http%3A//www.liquorstoreclothing.com/privacy-policy-i4) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Liquor Store is committed to protecting your privacy. We will only use information that we collect from you lawfully and in accordance with the Data Protection Act 1998. Under the terms of the Data Protection Act 1998, we have a duty to protect any information we collect from you. This information will not be disclosed to any third party unless you give permission, or there is a legal obligation to do so. We collect information about you for two main reasons. Firstly to process your online order, and to provide you with the most effective possible service. We will use the information collected to personally keep in touch, let you know about offers / sales / promotions if you have opted to receive these emails / newsletters.
