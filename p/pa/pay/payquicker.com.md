@@ -1,58 +1,72 @@
-> *The following text is extracted and transformed from the payquicker.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504191702id_/https%3A//payquicker.com/xmlload.aspx%3Fid%3D7%26t%3DPayQuicker%2520Privacy%2520Policy%26r%3D0%26c%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payquicker.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114162456id_/https%3A//payquicker.com/xmlload.aspx%3Fid%3D7%26t%3DPayQuicker%2520Privacy%2520Policy%26r%3D0%26c%3D1) for the most accurate reproduction.*
 
 # PayQuicker
 
-**PAYQUICKER PRIVACY POLICY**
+PayQuicker Privacy Policy
 
-For purposes of this statement, all references to "we" or "our" shall mean PayQuicker, LLC and University National Bank.  We work diligently to safeguard your privacy.  While information is critical to providing quality service, we recognize that your trust is the foundation of our business.  The following privacy statement explains how we use and protect the information about our customers.  We ask that you read it carefully.  We are required under Federal Privacy Law to provide you with this notice about your privacy rights.
+**PayQuicker Privacy Policy** FACTS | What does University National Bank do with your Personal Information?  
+---|---  
+Why? | Financial Companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how collect, share and protect your personal information. Please read this notice carefully to understand what we do.  
+What? |  They types of personal information that we collect and share depend on the product or service you have with us. This can include: 
 
-**Information that we may collect:**
+  * Social Security Number and Date of Birth
+  * Address of Residence and Government Issued Identification
+  * Transaction History
 
-The type of information that we may collect depends upon the type of product or service we are providing you or that you are inquiring about.  Examples include:
+When you are _no longer_ our customer, we continue to share your information as described in this notice.   
+How? | All Financial Companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons Financial Companies can share their customers' personal information; the reasons University National Bank chooses to share; and whether you can limit the sharing.  
+  
+Reasons we can share your personal information | Does University National Bank Share? | Can you limit this sharing?  
+---|---|---  
+**For our everyday business purposes-** such as to process your transaction, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus. | Yes | No  
+**For our marketing purposes-** to offer our products and services to you. | Yes | No  
+**For joint marketing with other financial companies.** | Yes | No  
+**For our affiliates' everyday business purposes-** information about your transactions and experiences. | Yes | No  
+**For our affiliates' everyday business purposes-** information about your creditworthiness. | No | We don't share  
+**For our affiliates to market to you.** | No | We don't share  
+**For non affiliates to market to you.** | No | We don't share  
+  
+Questions? | Call our Retail Banking Department at (651) 265-5600  
+---|---  
+  
+Who we are  
+---  
+Who is providing this notice? | University National Bank  
+What we do  
+How does University National Bank protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+How does University National Bank collect my personal information? |  We collect personal information, for example, when you 
 
-  * Information we receive from you on applications or other forms or documents, such as your name, address, social security number, assets, income and other information contained in them.
-  * Information on your transactions with us, or our affiliates, such as your account balance, payment history, parties to transactions and credit card usage.
-  * Information we receive from a consumer reporting agency, such as your credit worthiness, credit score and credit history.
-  * Information from other sources, such as your employment history, loan or credit balances or to verify representations given by you.
+  * Open a Card Account or use your card
+  * Pay your bills or make a purchase 
+  * Give us your contact information
 
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
+Why can't I limit all sharing? |  Federal law gives you the right to limit only: 
 
+  * Sharing for affiliates everyday business purposes- information about your creditworthiness,
+  * Affiliates from using your information to market to you,
+  * Sharing for non affiliates to market to you.
 
-**How We Maintain Your Information**
+State laws and individual companies may give you additional rights to limit sharing.   
+Definitions  
+Affiliates |  Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-We have established procedures to maintain complete and accurate information about you and your accounts.  Also we continually strive to respond in a timely manner to your request to change or correct information.
+  * University Financial Corp. dba Sunrise Community Banks.
+  * Franklin National Bank
+  * Park Midway Bank, NA
 
-**Information that we may disclose:**
+  
+Non affiliates |  Companies not related by common ownership or control. They can be financial or nonfinancial companies. 
 
-**_Outside or Joint Marketing_**
+  * University National Bank does not share with nonaffiliates so they can market to you.
 
-Federal law allows us to disclose information to companies that perform marketing services on our behalf or to other financial institutions where we have joint marketing agreements.  The companies we choose must satisfy our security and privacy requirements.
+  
+Joint Marketing |  A formal joint marketing agreement between non affiliated financial companies that together market financial products or services to you. 
 
-We share your information with these companies only if they agree to treat it confidentially.  We provide the minimum amount of information necessary for them to provide their services.  Information disclosed may include:
+  * Our joint marketing partners include prepaid card companies.
 
-  * Information we receive from you on applications or other forms, such as name and address
-  * Information about transactions with us, our affiliates or others, such as your payment history and
-  * Information we rece3ive from consumer reporting agencies such as your credit worthiness or payments history.
+  
+  
+Last Revised July 30, 2012 
 
-
-
-**_Affiliates:_**
-
-We are permitted under law to share information about our experience or transactions with you or your accounts (such as your account balance or your payment history) with our affiliates.
-
-**_Non affiliated Third Parties:_**
-
-We do not disclose any non-public personal information about our customers or former customers to non affiliated third parties, except as permitted by law.  For example, we are permitted by federal law to disclose non public personal information to nonaffiliated third parties to assist us in serving your accounts, processing transactions reporting to credit bureaus and for other purposes such as to carry out a transaction product or service request authorized by you.
-
-**Former Customers**
-
-If you decide to close your account(s) or become an inactive customer we will  continue to adhere to privacy policies and practices described in this notice.
-
-**How We Protect the Confidentiality of Your Information**
-
-Employee access to customer information is limited to only those bank employees with a business reason for knowing such information.  University National Bank also educates all employees about the importance of this issue to customers.  University National Bank requires such parties to maintain physical, electronic, and procedural safeguards that comply with Federal standards to guard your nonpublic personal information.
-
-**How we Maintain Your Privacy in Business Relationships With Third Parties**
-
-When we conduct business with third parties, where disclosing your information may be necessary, we require such parties to maintain similar standards of conduct regarding your privacy.
-
-This notice is adopted in recognition of Title V of the Gramm-Leach-Bliley Act of 1999.
+This card is issued by University National Bank, Member FDIC, pursuant to license from Visa International. University National Bank; Member FDIC.
