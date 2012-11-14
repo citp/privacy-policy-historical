@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524161145id_/http%3A//www.cimaglobal.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114213437id_/http%3A//www.cimaglobal.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -56,9 +56,9 @@ While we will take all reasonable steps to ensure that your personal data is pro
 
 As part of our quality control and with the objective of providing you with enhanced services we may monitor the use of the Websites and record, where available, your IP address and/or email address. 
 
-This information is collected for our internal purposes only and shall not be disclosed to any other organisation except as required by law. For the same reason, we may obtain information about your general internet usage by using a ‘cookie’ file. A cookie is an element of data that a website can send to your browser, which may then be stored on your hard drive. 
+This information is collected for our internal purposes only and shall not be disclosed to any other organisation except as required by law. For the same reason, we may obtain information about your general internet usage by using a ‘cookie’ file.
 
-The Websites write a cookie to the user's computer if they choose the 'Remember me' option on the MY CIMA login page. This records only the user's preferences; it does not record any personal information. If you do not agree you can choose to not receive a cookie file by enabling your web browser to refuse cookies or to prompt you before you accept a cookie. 
+[**Find out more about CIMA's use of cookies and cookie policy.**](https://web.archive.org/en-gb/cookie-policy/)
 
 ## 10\. Subject access 
 
@@ -82,7 +82,7 @@ This privacy statement forms part of CIMA’s commitment to the principles of th
 
 You can get a full copy of our data protection policy from the CIMA’s Data Protection Officer, Maggie Heasman by email on [Maggie.Heasman@cimaglobal.com](mailto:Maggie.Heasman@cimaglobal.com) or in writing at the address above. 
 
-You can also [download the policy](https://web.archive.org/Documents/About%20us%20docs/Data%20Potection%20Policy%20IP2%20June%202010.pdf) (PDF 64KB). 
+You can also [download the policy](https://web.archive.org/Documents/About%20us%20docs/data-protection-policy-ip2-july2012.pdf) (PDF 64KB). 
 
 ## 13\. Questions 
 
