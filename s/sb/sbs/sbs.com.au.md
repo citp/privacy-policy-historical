@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506002619id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114052809id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
 
 # Corporate : View : SBS Corporate
 
@@ -16,12 +16,12 @@ The IPPs can be accessed through the website of the[ Office of the Privacy Commi
  **Privacy and SBS program material**  
 SBS's program material is exempt from the Privacy Act. The general purpose of this exemption, and the exemption for the acts and practices of private sector media organisations done in the course of journalism, is to allow for the free flow of information to the public.
 
-SBS recognises the need to balance the rights of individuals to privacy and freedom of expression in its Codes of Practice, which set out the principles and policies it uses to guide its programming. Code 1.9 deals with privacy.
+SBS recognises the need to balance the rights of individuals to privacy and freedom of expression in its [Codes of Practice](http://media.sbs.com.au/home/upload_media/site_20_rand_2006206039_sbs_codes_of_practice_2006_june_2012_.pdf), which set out the principles and policies it uses to guide its programming. Code 1.9 deals with privacy.
 
  **1.9 Privacy**  
 The rights of individuals to privacy should be respected in all SBS programs. However, in order to provide information to the public which relates to a person's performance of public duties or about other matters of public interest, intrusions upon privacy may, in some circumstances, be justified.
 
-If you consider that SBS has breached the [SBS Codes of Practice](http://www.sbs.com.au/shows/aboutus/tab-listings/detail/i/2/article/4942/Codes-of-Practice) you may make a formal complaint to the SBS Ombudsman. To make a formal complaint you must follow the steps in Code 8 (see '[How to make a formal complaint](http://www.sbs.com.au/shows/aboutus/tab-listings/curr-tab/i/10/tab/Complaints)').
+If you consider that SBS has breached the [SBS Codes of Practice](http://media.sbs.com.au/home/upload_media/site_20_rand_2006206039_sbs_codes_of_practice_2006_june_2012_.pdf) you may make a formal complaint to the SBS Ombudsman. To make a formal complaint you must follow the steps in Code 8 (see '[How to make a formal complaint](http://www.sbs.com.au/shows/aboutus/tab-listings/curr-tab/i/10/tab/Complaints)').
 
  **The types of information SBS collects**  
 SBS collects a wide range of personal information in the course of its operations including personal information contained in:
@@ -80,9 +80,9 @@ Security**
 SBS takes steps to ensure that the personal information it holds is protected against loss, and unauthorised access, use, modification, disclosure or other misuse.
 
  **Complaints**  
-If you think that an act or practice of SBS has interfered with your privacy you may make a complaint to SBS. You will need to identify yourself and provide your complaint in written form addressed to the SBS Privacy Contact Officer (see â€˜Contact SBSâ€™ below).
+If you think that an act or practice of SBS has interfered with your privacy you may make a complaint to SBS. You will need to identify yourself and provide your complaint in written form addressed to the SBS Privacy Contact Officer (see Contact SBS below).
 
-The SBS Privacy Contact Officer will investigate your complaint and will endeavour to provide a written response within 30 days of receipt of the complaint setting out SBSâ€™s decision.
+The SBS Privacy Contact Officer will investigate your complaint and will endeavour to provide a written response within 30 days of receipt of the complaint setting out SBS's decision.
 
 If you are dissatisfied with SBS's response to your complaint you can take your complaint to the Office of the Privacy Commissioner (see 'Contact the Office of the Privacy Commissioner' below). The Privacy Commissioner may then investigate and attempt to conciliate the matter.
 
