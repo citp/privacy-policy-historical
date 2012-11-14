@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the oliverpeoples.com privacy policy that was archived on 2012-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120423050559id_/http%3A//www.oliverpeoples.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oliverpeoples.com privacy policy that was archived on 2012-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114051520id_/http%3A//www.oliverpeoples.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/8203.js?438998" async="" type="text/javascript"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<script src="//cdn.optimizely.com/js/49393257.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy | Oliver Peoples Designer Eyewear: Distinctive Luxury Sunglasses &amp; Optical</title>
 <meta name="description" content="Oliver peoples Eyewear - Fashion sunglasses and Prescription Frames - Oliver Peoples Eyewear, luxury designer sunglasses and prescription frames. Visit the online shop or boutiques worldwide.">
@@ -44,9 +45,21 @@
 <script type="text/javascript" src="http://www.oliverpeoples.com/js/lib/ds-sleight.js"></script>
 <script type="text/javascript" src="http://www.oliverpeoples.com/skin/frontend/OP/default/js/iehover-fix.js"></script>
 <![endif]-->
+
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript">jQuery.noConflict();</script>
-<script type="text/javascript" src="/skin/frontend/OP/default/js/opUpperCase.js"></script>
+<script type="text/javascript" src="/skin/frontend/OP/default/js/opScripts.js"></script>
+<script type="text/javascript">
+setTimeout(function(){
+	var a=document.createElement("script");
+	var b=document.getElementsByTagName('script')[0]; 
+	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/8203.js?"+Math.floor(new Date().getTime() / 3600000);
+	a.async=true;
+	a.type="text/javascript";
+	b.parentNode.insertBefore(a,b)}, 1
+);
+</script>
+
 
 
 <script type="text/javascript">
@@ -64,15 +77,99 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <link rel="alternate" type="application/rss+xml" title=" - RSS Feed" href="http://www.oliverpeoples.com/en/feed">
 <script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script>
 <script type="text/javascript">
+
     
-	jQuery(function(){	
+jQuery(function(){	
 	Enterprise.TopCart.initialize('topCartContent');
 	
 	jQuery('#topCartContent .btn-edit').attr('href', '/checkout/cart/');
 		jQuery('.top-cart').mouseenter(function(){		
 			//Enterprise.TopCart.showCart(2);			
-		});	
-	});
+		});
+	
+	
+	
+	function cookieOverlay(){
+		console.log(document.cookie.indexOf('overlay=true'));
+		if (document.cookie.indexOf('overlay=true') === -1) {
+			var cookieName = "overlay";
+			var cookieValue = "true";
+			
+			document.cookie = cookieName +"=" + cookieValue + ";domain=.oliverpeoples.com;path=/";
+			 
+			jQuery('.op_mainoverlay').delay(4000).fadeOut(2000);
+			jQuery('.op_mainoverlay_image img').load(function() {
+				jQuery('.op_mainoverlay').delay(4000).fadeOut(2000);	
+			});
+			
+		} else {
+			jQuery('.op_mainoverlay').css('display', 'none');
+		}
+	}
+	
+	cookieOverlay();
+	
+	function cookieNav(){	
+		if (document.cookie.indexOf('region=other') === -1){
+			var cookieRegion = 'region';
+			var cookieRegionValue = getQueryString()["region"];
+			
+			var expires = new Date();
+			expires.setDate(expires.getDate()+30);
+			
+			document.cookie = cookieRegion +"=" + cookieRegionValue + ";domain=.oliverpeoples.com;path=/";
+
+		} 
+		
+		//If User is from International
+		if (document.cookie.indexOf('region=other') > 0) {
+			//HIDE NAV
+			jQuery('.level0.nav-1.level-top.parent').addClass('op-region');
+			jQuery('.op-region').remove();						
+			
+			
+			if (jQuery('body').hasClass('cms-home-grid')){
+				//Change the links for international touts
+				jQuery('.slider-tout li:eq(0) a').attr('href', 'http://www.oliverpeoples.com/collections.html?type=new');
+				jQuery('.slider-tout li:eq(1) a').attr('href', 'http://my.oliverpeoples.com');
+				jQuery('.slider-tout li:eq(2) a').attr('href', 'http://www.oliverpeoples.com/online-boutique/op-sunglasses/view-all/linford-x-parabellum.html');
+				jQuery('.slider-tout li:eq(3) a').attr('href', 'http://www.oliverpeoples.com/online-boutique/op-sunglasses/soloist.html');
+			}
+		} else {
+			jQuery('.level0.nav-2.level-top.parent').addClass('op-region-usa');
+			jQuery('.op-region-usa').remove();
+		}
+	}
+	
+	cookieNav();
+	
+	function getQueryString() {
+	  var result = {}, queryString = location.search.substring(1),
+		  re = /([^&=]+)=([^&]*)/g, m;
+	
+	  while (m = re.exec(queryString)) {
+		result[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
+	  }
+	
+	  return result;
+	}
+	
+	
+	jQuery('#nav li.level-top:first').css("padding-left","0");
+	
+	// DETECTS MOBILE
+    var deviceAgent = navigator.userAgent.toLowerCase();
+    var agentID = deviceAgent.match(/(iphone|ipod|ipad)/);
+    if (agentID) {
+ 
+        // jQuery("#slide-selection").hide();
+        jQuery(".nav-container").css("left","45px");
+  
+    };
+	
+	
+
+});
 	
 </script> 
 
@@ -111,6 +208,12 @@ _gaq.push(['_trackPageview']);
     <div class="op_top_wrap">
 		<div class="op_page">
 			<div class="header-container">
+	
+	<div class="op-socialnav">
+		<a class="fb" href="http://www.facebook.com/oliverpeoples"></a><a class="tw" href="http://twitter.com/oliverpeoples"></a><a class="p" href="http://pinterest.com/oliverpeoples"></a>
+		<div class="clear"></div>
+	</div>
+	
     <div class="header-panel">
         <div class="switches">
 
@@ -118,11 +221,15 @@ _gaq.push(['_trackPageview']);
             </div>
     <div class="header">
         <div class="branding">
-                    <a href="/start?region=usa" title="Oliver Peoples" class="logo"><strong>Oliver Peoples</strong><img src="http://www.oliverpeoples.com/skin/frontend/OP/default/images/op-logo.png" alt="Oliver Peoples"></a>
+			                <a href="http://www.oliverpeoples.com/" title="Oliver Peoples" class="logo">
+                        <strong>Oliver Peoples</strong>
+                        <img src="http://www.oliverpeoples.com/skin/frontend/OP/default/images/op-logo.png" alt="Oliver Peoples">
+                </a>
                                 </div>
-		 	            <div class="nav-container">
+		
+        <div class="nav-container">
 <ul id="nav">
-<li class="level0 nav-1 level-top parent"> <a class="level-top" href="#"> <span>Online Boutique</span> </a> 
+<li class="level0 nav-1 level-top parent"> <a class="level-top" href="/online-boutique/op-sunglasses/view-all.html"> <span>&nbsp;&nbsp;Shop&nbsp;&nbsp;</span> </a> 
 <ul class="level1">
 <li class="level1 front"> <a href="/online-boutique/op-sunglasses/view-all.html"> <span>OLIVER PEOPLES</span> </a> 
 <ul>
@@ -134,24 +241,25 @@ _gaq.push(['_trackPageview']);
 <li class="level1 last"> <a href="/online-boutique/paul-smith.html"> <span>PAUL SMITH</span> </a> </li>
 </ul>
 </li>
-<li class="level0 nav-2 level-top parent"> <a class="level-top" href="/collections.html?type=new"> <span>Collections</span> </a> 
+<li class="level0 nav-2 level-top parent"> <a class="level-top" href="/collections.html?type=all"> <span>Collections</span> </a> 
 <ul class="level1">
 <li class="level1 front"> <a href="/collections.html?type=new"><span>NEW RELEASES</span> </a></li>
-<li class="level1"><a href="/collections.html?type=opt"> <span>OPTICAL COLLECTION</span> </a></li>
-<li class="level1 last"><a href="/collections.html?type=sun"> <span>SUN COLLECTION</span> </a></li>
+<li class="level1"><a href="/collections.html?type=opt"> <span>OPTICAL</span> </a></li>
+<li class="level1 last"><a href="/collections.html?type=sun"> <span>SUNGLASSES</span> </a></li>
 </ul>
 </li>
 <li class="level0 nav-3 level-top parent"><a class="level-top" href="/en/lifestyle"> <span>Lifestyle</span> </a> 
 <ul class="level1">
-<li class="level1 front"><a href="/en/news-events/"><span>NEWS &amp; EVENTS</span></a> </li>
-<li class="level1"><a href="http://fashion-peoples.com/" target="_blank"><span>FASHION BLOG</span></a> </li>
+<li class="level1 front"><a href="/en/news-events/"><span>NEWS</span></a> </li>
+<li class="level1"><a href="http://fashionpeoples.oliverpeoples.com/"><span>FASHION BLOG</span></a> </li>
 <li class="level1"><a href="/en/music/"><span>MUSIC</span></a> </li>
 <li class="level1 last"><a href="/en/video/"><span>VIDEO</span></a> </li>
 </ul>
 </li>
-<li class="level0 nav-4 level-top parent level-top parent"> <a class="level-top" href="/en/brand/heritage/"> <span>Brand</span> </a> 
+<li class="level0 nav-4 level-top parent level-top parent"> <a class="level-top" href="/en/brand/heritage/"> <span>Explore</span> </a> 
 <ul class="level1">
-<li class="level1 front"><a href="/en/brand/heritage/"><span>HERITAGE</span></a> </li>
+<li class="level1 front op-region"><a href="/collections.html?type=all"><span>COLLECTIONS</span></a> </li>
+<li class="level1"><a href="/en/brand/heritage/"><span>HERITAGE</span></a> </li>
 <li class="level1"><a href="/en/brand/creative-director/"><span>CREATIVE DIRECTOR</span></a> </li>
 <li class="level1"><a href="/en/brand/historical-timeline/"><span>HISTORICAL TIMELINE</span></a> </li>
 <!--
@@ -160,15 +268,19 @@ _gaq.push(['_trackPageview']);
 <li class="level1 last"><a href="/en/brand/collaborations/"><span>COLLABORATIONS</span></a> </li>
 </ul>
 </li>
-<li class="level0 nav-5 level-top last"> <a class="level-top" href="/en/store-finder"> <span>Store Finder</span> </a> </li>
+<li class="level0 nav-5 level-top last"> <a class="level-top" href="/en/store-finder"> <span>Retail Network</span> </a> </li>
 </ul>
-</div>      
-			 
-	         
-			         <div class="quick-access">
-          
-		  	
-		  <div class="checkout-link">
+</div>  
+        <script>jQuery(function(){
+		
+		jQuery('#nav li').find('.level0.nav-2 > a').attr('href', '/collections.html?type=all');	
+		
+			
+		});</script>    
+   
+		        <div class="quick-access op-region">
+				
+                <div class="checkout-link">
 <ul class="links">
                         <li class="first			 last">
 			<a href="http://www.oliverpeoples.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
@@ -176,7 +288,7 @@ _gaq.push(['_trackPageview']);
 		
     </ul>
 </div>
-            
+                <!--{CART_SIDEBAR_f7b2b4f1646889e2cfb85382f5a9d405}-->
 <div class="top-cart">
         <div class="block-title no-items">
         <strong id="cartHeader">My Bag (<span>0</span>)</strong>
@@ -191,20 +303,19 @@ _gaq.push(['_trackPageview']);
     </div>
 
 </div>
-            
+<!--/{CART_SIDEBAR_f7b2b4f1646889e2cfb85382f5a9d405}-->                
 <ul class="links">
                         <li class="first			 last">
 			<a href="https://www.oliverpeoples.com/customer/account/" title="My Account">My Account</a></li>
         		
 		
     </ul>
-			
-			
-						
-			
-		 	
-			
-			 
+                                <script type="text/javascript"> 
+				//Tracking for US
+				var ftRandom = Math.random()*1000000; 
+				document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/2022;8852;1096;iframe/?spotName=USA&cachebuster='+ftRandom+'"></iframe>'); 
+				</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/2022;8852;1096;iframe/?spotName=USA&amp;cachebuster=966715.7577502728"></iframe>
+             	
 
 <div id="header-search-container"> 
 	<ul>
@@ -227,7 +338,7 @@ _gaq.push(['_trackPageview']);
 			</ul>
 		</li>
 	</ul>
-</div>             
+</div>                        
         </div>
     </div>
 </div>
@@ -236,50 +347,28 @@ _gaq.push(['_trackPageview']);
 	</div>
     <div class="op_main_wrap">
     <div class="op_page">
-                <div class="breadcrumbs">
-    <ul>
-                
-        
-            <li class="home">
-                            <a href="http://www.oliverpeoples.com/" title="Go to Home Page">Home</a>
-                                        <span>/ </span>
-                        </li>
-            
-            
-            
-                
-        
-            <li class="cms_page">
-                            <strong>Privacy</strong>
-                                    </li>
-            
-            
-            
-            </ul>
-</div>
-    
+        <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->        <!--{PAGE_BREADCRUMBS_55fcfc5baefc810b0e856320e446f5ff}--><!--/{PAGE_BREADCRUMBS_55fcfc5baefc810b0e856320e446f5ff}-->    
         <div class="main col1-layout">
             <div class="col-main">
                 <div class="std"><h1>PRIVACY POLICY - EFFECTIVE DATE: DECEMBER 2011</h1>
 <p>Oliver Peoples, Inc operates this Web site. Oliver Peoples, Inc. recognizes that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for OLIVERPEOPLES.COM.</p>
 <p>Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.</p>
 <p>If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department.</p>
-<h2>WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?
+<h2>WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?</h2>
 <p>We collect and store information that you enter into this Web site or that you provide to our Customer Service Department. For example, when you open an account, participate in a survey or contest or place an order, we collect and store some or all of the information that you provide, including: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about our sales, special offers and new site features and those of our affiliates, unless you have opted not to receive promotional communications in connection with this Web site. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.</p>
 <p>We collect and store certain other information automatically whenever you interact with this Web site. For example, we may collect your IP address, browser information, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data every time you visit this Web site. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve this Web site, to gather demographic information about our user base as a whole and to provide our customers with a fulfilling shopping experience.</p>
 <p>Also, like many Web sites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies do not contain personally identifiable information. Cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Web site without checking out. Cookies are not used on this Web site to store your account information; this information is stored securely on this Web site's server. When you log in at this Web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Web site. Cookies are also used to track the identity of the Web site you visited immediately prior to visiting this Web site; otherwise, we do not track information about your use of other Web sites. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web site.</p>
 <p>We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.</p>
-</h2>
-<h2>IS INFORMATION COLLECTED FROM CHILDREN?
+<h2>IS INFORMATION COLLECTED FROM CHILDREN?</h2>
 <p>We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 14, nor do we collect any personal information from anyone who we know to be under the age of 14. If you are under the age of 14, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us.</p>
-</h2>
-<h2>WITH WHOM DO YOU SHARE YOUR INFORMATION?
+
+<h2>WITH WHOM DO YOU SHARE YOUR INFORMATION?</h2>
 <p>We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.</p>
 <p>We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform.</p>
 <p>We share aggregated demographic information about our user base with our agents, including agencies or third party vendors so that they can provide marketing analysis and consult on advertising strategies. This information does not identify individual users.</p>
 <p>We may release personal information if we believe in good faith that: the law or legal process requires it; we have received a valid administrative request from a law enforcement agency; or such release is necessary to protect the rights, property or safety of OLIVERPEOPLES.COM, or any of our respective affiliates, business partners, customers or others. We may share non-personal information with our marketing partners, advertisers and others from time to time. Examples of such non-personal information include the number of users who visited this Web site during a specific time period or purchased a specific product through this Web site. This information generally is shared in an aggregated form.</p>
 <p>As with any business, it is possible that as our business develops, we might go through a business transition, such as a merger, acquisition by another company, sale of all or a portion of our assets or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. You will be notified via a prominent notice on our site for 30 days of any such change in ownership or control of your personal information. You consent to the transfer of your personally identifiable information to any such successor entity unless you notify us via email to the contrary.</p>
-</h2>
+
 <h2>WHAT STEPS ARE TAKEN TO KEEP MY INFORMATION SECURE?</h2>
 <p>We use various security measures, including Secure Socket Layer (SSL) encryption technology, to protect personal information that we collect. If you place an order through this Web site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact our Customer Service Department.</p>
 <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
@@ -334,22 +423,30 @@ _gaq.push(['_trackPageview']);
 <ul>
 <li class="footer-titles">SITE</li>
 <li><a href="http://www.oliverpeoples.com/privacy">Privacy Policy</a></li>
-<li class="last"><a href="http://www.oliverpeoples.com/terms">Terms Of Use</a></li>
+<li><a href="http://www.oliverpeoples.com/terms">Terms Of Use</a></li>
+<li class="last"><a href="http://www.oliverpeoples.com/catalog/seo_sitemap/product/">Site Map</a></li>
 </ul>
 <ul>
 <li class="footer-titles">CORPORATE</li>
-<li><a href="https://sites.google.com/site/oliverpeoplesonline/?pli=1">Intranet</a></li>
+<li><a href="https://sites.google.com/site/oliverpeoplesonline/?pli=1" target="_blank">Intranet</a></li>
 <li class="last"><a href="/en/extranet/">Extranet</a></li>
+</ul>
+<ul>
+<li class="footer-titles">REGION</li>
+<li><a href="http://www.oliverpeoples.com/start?region=usa">US</a> | <a href="http://www.oliverpeoples.jp/">JAPAN</a></li>
+<li class="last"><a href="http://www.oliverpeoples.com/start?region=other">REST OF THE WORLD</a></li>
+</ul>
+<ul>
+<li><a href="http://oliverpeoplesvintage.com"><img src="http://www.oliverpeoples.com/skin/frontend/OP/default/images/opvintage_w.png" alt=""></a></li>
 </ul>
 <div id="social-nav">
 <p>Follow Us</p>
 <ul class="social-nav">
-<li id="facebook"><a href="http://www.facebook.com/opeyewear" target="_blank">Facebook</a></li>
-<li id="twitter"><a href="http://twitter.com/oliver_peoples" target="_blank">Twitter</a></li>
+<li id="facebook"><a href="http://www.facebook.com/oliverpeoples" target="_blank">Facebook</a></li>
+<li id="twitter"><a href="http://twitter.com/oliverpeoples" target="_blank">Twitter</a></li>
 <li id="rss"><a href="/en/lifestyle/feed/" target="_blank">RSS</a></li>
-<li id="youtube"><a href="http://www.youtube.com/user/Opeoples" target="_blank">You Tube</a></li>
-<li id="vimeo"><a href="http://vimeo.com/oliverpeoples" target="_blank">Vimeo</a></li>
-<li id="email"><a href="mailto: op@oliverpeoples.com" target="_blank">Email</a></li>
+<li id="bee"><a href="http://www.uplanme.com/brand/oliver-peoples-eyewear" target="_blank">uplanme</a></li>
+<li id="pinterest"><a href="http://pinterest.com/oliverpeoples" target="_blank">Pinterest</a></li>
 </ul>
 </div>
 <!-- #social-nav -->    </div>
@@ -358,6 +455,7 @@ _gaq.push(['_trackPageview']);
             </div>
     </div>
 </div>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/41/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","3db38f1dad",460569,"bwZXNkMFWxcFVEVcW1ZMdAFFDVoKS0dQUlFbAlYKVEtHARVCVEZAFxNHDVIBRhc=",0,110,new Date().getTime()]);</script>
 
 
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/41/eum/rum.js"></script></body></html>
