@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gtoptions.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513200333id_/http%3A//www.gtoptions.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtoptions.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114175953id_/http%3A//www.gtoptions.com/Privacy) for the most accurate reproduction.*
 
 # GTOptions - Privacy Policy - GToptions
+
+PRIVACY POLICY 
 
 GToptions does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, as required by law.
 
@@ -29,3 +31,68 @@ b. using Secure Sockets Layer (SSL) Certification. 
 if you have any question please contact to our support@GTOPtions.com
 
  ** _Think Smart. Think GToptions_**
+
+How to Trade 
+
+  * Binary  
+Options
+
+  * Options  
+Builder
+
+  * One   
+Touch
+
+
+
+
+  * 1
+
+Select the asset you want to trade
+
+  * 2
+
+Click “UP” if you think the price will rise above the current rate at the expiry, or click “DOWN” if you think the price will fall below the current rate at the expiry
+
+  * 3
+
+Enter the amount you want to invest & click "Apply" 
+
+  * 4
+
+Get up to maximum **90% profit**.
+
+
+
+
+Live Financial News 
+
+[The Fiscal Cliff Threat: 3 Reasons to Fade a Freak-out](http://us.rd.yahoo.com/finance/news/rss/story/SIG=15316v811/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=130772cg4/*http%3A//finance.yahoo.com/blogs/the-exchange/3-reasons-fade-fiscal-cliff-freak-162629219.html?l=1)   
+Separating the threat into its essential elements gives a clearer view of whether... 
+
+[Ralph Nader’s 17 Solutions to Turn the U.S. Around](http://us.rd.yahoo.com/finance/news/rss/story/SIG=15ktl6icd/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=13h859fdn/*http%3A//finance.yahoo.com/blogs/daily-ticker/ralph-nader-17-solutions-easier-think-turn-country-130115438.html?l=1)   
+The famed consumer advocate and former Green Party presidential candidate discusses his... 
+
+[Austerity Protests Stall Several European Nations](http://us.rd.yahoo.com/finance/news/rss/story/SIG=14t8udk0i/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=12qc158mo/*http%3A//finance.yahoo.com/news/austerity-protests-stall-several-european-170229300.html?l=1)   
+Hundreds of thousands of Europe's beleaguered citizens went on strike or snarled the... 
+
+[Facebook: Should Outsiders Buy What Insiders Are Selling?](http://us.rd.yahoo.com/finance/news/rss/story/SIG=15ctema3m/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=139tm1v1g/*http%3A//finance.yahoo.com/blogs/breakout/facebook-shares-outsiders-buy-insiders-selling-140340893.html?l=1)   
+Want to buy 804,000,000 shares of Facebook? Shareholders of the social networking king... 
+
+[Why Fire Trump? He’s Great Publicity, Macke Says](http://us.rd.yahoo.com/finance/news/rss/story/SIG=15gktho68/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=13dvvv5gh/*http%3A//finance.yahoo.com/blogs/daily-ticker/dear-macy-why-fire-trump-great-publicity-macke-154551872.html?l=1)   
+Macy's is under pressure to drop Donald Trump's clothing line from its stores after the... 
+
+[Papa John's Faces $250M Spam Lawsuit](http://us.rd.yahoo.com/finance/news/rss/story/SIG=14lmil6a8/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=12ip72bcu/*http%3A//finance.yahoo.com/news/papa-john-s-faces--250-million-spam-lawsuit.html?l=1)   
+The plaintiffs allege that Papa John's franchises sent customers a total of 500,000... 
+
+[What Job Openings Tell Us](http://us.rd.yahoo.com/finance/news/rss/story/SIG=1480dfb69/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=125vqnsp6/*http%3A//finance.yahoo.com/news/job-openings-tell-us-110055471.html?l=1)   
+A drop in the supply of workers, as much as a drop in demand, can explain the high... 
+
+[Stocks Dip As Europe, Fiscal Cliff Weigh](http://us.rd.yahoo.com/finance/news/rss/story/SIG=14kumb8cu/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=12htkp10v/*http%3A//finance.yahoo.com/news/stock-index-futures-signal-early-105346867.html?l=1)   
+Stocks fell on Wednesday, erasing earlier gains, as strong earnings from technology... 
+
+[The Thanksgiving Trade Is Shifting: Hirsch](http://us.rd.yahoo.com/finance/news/rss/story/SIG=15k8imceg/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=13h42s59k/*http%3A//finance.yahoo.com/blogs/breakout/thanksgiving-trade-shifting-beware-black-friday-hirsch-124614208.html?l=1)   
+Thanksgiving is coming early this year, and so, too, is the turkey day trade. 
+
+[Sandy, Autos Weigh on Retail Sales](http://us.rd.yahoo.com/finance/news/rss/story/SIG=14atr9rgb/*http%3A//us.rd.yahoo.com/finance/news/topfinstories/SIG=127b3g6g6/*http%3A//finance.yahoo.com/news/us-retail-sales-drop-0-133942152.html?l=1)   
+US retail sales fell in October after Americans spent less on a broad range of goods.... 
