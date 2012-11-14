@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423050559id_/http%3A//www.oliverpeoples.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114051520id_/http%3A//www.oliverpeoples.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Oliver Peoples Designer Eyewear: Distinctive Luxury Sunglasses & Optical
 
@@ -8,7 +8,7 @@ Please be advised that the practices described in this Privacy Policy apply only
 
 If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department.
 
-## WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED? 
+## WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?
 
 We collect and store information that you enter into this Web site or that you provide to our Customer Service Department. For example, when you open an account, participate in a survey or contest or place an order, we collect and store some or all of the information that you provide, including: name, billing address, shipping address, email address, telephone number, credit card number and expiration date. This information is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. This information also may be used to contact you about our sales, special offers and new site features and those of our affiliates, unless you have opted not to receive promotional communications in connection with this Web site. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
@@ -18,11 +18,11 @@ Also, like many Web sites, we use "cookies", which are files stored on your comp
 
 We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
 
-## IS INFORMATION COLLECTED FROM CHILDREN? 
+## IS INFORMATION COLLECTED FROM CHILDREN?
 
 We do not sell or ship any items ordered through this Web site directly to anyone who we know to be under the age of 14, nor do we collect any personal information from anyone who we know to be under the age of 14. If you are under the age of 14, you should use this Web site only with the involvement of a parent or guardian and should not submit any personal information to us.
 
-## WITH WHOM DO YOU SHARE YOUR INFORMATION? 
+## WITH WHOM DO YOU SHARE YOUR INFORMATION?
 
 We do not share with others, or sell or rent to others, any personal information that you provide to us through this Web site or through our Customer Service Department, except with your consent or as described in this Privacy Policy.
 
