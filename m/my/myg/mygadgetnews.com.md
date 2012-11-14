@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygadgetnews.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330015735id_/http%3A//mygadgetnews.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygadgetnews.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114200354id_/http%3A//mygadgetnews.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms Of Use | MyGadgetNews
 
