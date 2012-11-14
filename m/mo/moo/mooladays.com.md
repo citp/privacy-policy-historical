@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mooladays.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505030635id_/http%3A//www.mooladays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mooladays.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114010331id_/http%3A//www.mooladays.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Moola Days
 
@@ -6,7 +6,7 @@ Privacy Policy for www.mooladays.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at
 
-[](http://images.mooladays.com/2009/07/mooladaysemail.png)
+[](http://www.mooladays.com/wp-content/uploads/2009/07/mooladaysemail.png)
 
 At www.mooladays.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.mooladays.com and how it is used.
 
@@ -34,4 +34,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 If you have any questions or concerns, feel free to contact me at
 
-[](http://images.mooladays.com/2009/07/mooladaysemail.png)
+[](http://www.mooladays.com/wp-content/uploads/2009/07/mooladaysemail.png)
