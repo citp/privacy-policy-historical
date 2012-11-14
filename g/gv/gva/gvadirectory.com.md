@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gvadirectory.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123102613id_/http%3A//www.gvadirectory.com/gvadirectory_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gvadirectory.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114155006id_/http%3A//www.gvadirectory.com/gvadirectory_privacypolicy.html) for the most accurate reproduction.*
 
 # Vancouver Canada Business directory, Vancouver BC Directory,British Columbia business directory, Vancouver business listings marketing - Privacy Policy
 
