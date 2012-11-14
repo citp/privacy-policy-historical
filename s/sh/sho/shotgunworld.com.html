@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shotgunworld.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512182053id_/http%3A//www.shotgunworld.com/bbs/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shotgunworld.com privacy policy that was archived on 2012-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114080424id_/http%3A//www.shotgunworld.com/bbs/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb"><head>
 <link rel="alternate" type="application/rss+xml" title="Shotgunworld.com" href="http://www.shotgunworld.com/bbs/syndication.php">
@@ -91,32 +91,32 @@ pageTracker._trackPageview();
 
 function popup(url, width, height, name)
 {
-	if (!name)
-	{
-		name = '_popup';
-	}
+  if (!name)
+  {
+    name = '_popup';
+  }
 
-	window.open(url.replace(/&amp;/g, '&'), name, 'height=' + height + ',resizable=yes,scrollbars=yes,width=' + width);
-	return false;
+  window.open(url.replace(/&amp;/g, '&'), name, 'height=' + height + ',resizable=yes,scrollbars=yes,width=' + width);
+  return false;
 }
 
 function jumpto()
 {
-	var page = prompt('Enter the page number you wish to go to:', '');
-	var per_page = '';
-	var base_url = '';
+  var page = prompt('Enter the page number you wish to go to:', '');
+  var per_page = '';
+  var base_url = '';
 
-	if (page !== null && !isNaN(page) && page == Math.floor(page) && page > 0)
-	{
-		if (base_url.indexOf('?') == -1)
-		{
-			document.location.href = base_url + '?start=' + ((page - 1) * per_page);
-		}
-		else
-		{
-			document.location.href = base_url.replace(/&amp;/g, '&') + '&start=' + ((page - 1) * per_page);
-		}
-	}
+  if (page !== null && !isNaN(page) && page == Math.floor(page) && page > 0)
+  {
+    if (base_url.indexOf('?') == -1)
+    {
+      document.location.href = base_url + '?start=' + ((page - 1) * per_page);
+    }
+    else
+    {
+      document.location.href = base_url.replace(/&amp;/g, '&') + '&start=' + ((page - 1) * per_page);
+    }
+  }
 }
 
 /**
@@ -124,8 +124,8 @@ function jumpto()
 */
 function find_username(url)
 {
-	popup(url, 760, 570, '_usersearch');
-	return false;
+  popup(url, 760, 570, '_usersearch');
+  return false;
 }
 
 /**
@@ -134,26 +134,26 @@ function find_username(url)
 */
 function marklist(id, name, state)
 {
-	var parent = document.getElementById(id);
-	if (!parent)
-	{
-		eval('parent = document.' + id);
-	}
+  var parent = document.getElementById(id);
+  if (!parent)
+  {
+    eval('parent = document.' + id);
+  }
 
-	if (!parent)
-	{
-		return;
-	}
+  if (!parent)
+  {
+    return;
+  }
 
-	var rb = parent.getElementsByTagName('input');
-	
-	for (var r = 0; r < rb.length; r++)
-	{
-		if (rb[r].name.substr(0, name.length) == name)
-		{
-			rb[r].checked = state;
-		}
-	}
+  var rb = parent.getElementsByTagName('input');
+  
+  for (var r = 0; r < rb.length; r++)
+  {
+    if (rb[r].name.substr(0, name.length) == name)
+    {
+      rb[r].checked = state;
+    }
+  }
 }
 
 
@@ -196,31 +196,49 @@ function marklist(id, name, state)
        var oh_max_img_w            = 635;
 </script>
 
- <script type="text/javascript" language="javascript" src="http://static.outdoorhub.com/js/_bookends.min.js"></script> 
-
+ <script type="text/javascript" language="javascript" src="http://static.outdoorhub.com/js/_bookends.min.js"></script> -->
+ <!--[if IE ]>
+ <style>
+ body { background-position: 50% 44px !important; }
+ </style>
+ <![endif]-->
+<!--
 <script type="text/javascript" language="javascript" src="http://s3.amazonaws.com/com.outdoorhub.static/js/_skin.min.js"></script>
 
 <script type="text/javascript" language="javascript">
         _OHSkin.init({
-            bg_image:           'http://static.outdoorhub.com/static.images/shotgunworld/Site_wrap_1480x800_SGW.jpg',
+            bg_image:           'http://com.outdoorhub.static.s3.amazonaws.com/ads.shotgunworld/ShotgunWorld_SiteWrap_Sept_12.jpg',
             bg_color:           '#AB9F85',
-            clickthru_url:      'http://ad.doubleclick.net/clk;237314132;60334558;z',
+            clickthru_url:      'http://ad.doubleclick.net/clk;254218849;75717947;d',
             left_width:         1,
             right_width:        1
         });
-    </script>   
-
-<scr   ipt type="text/javascript">
+</script>   
+<!-- old imp sitewrap code
+<script type="text/javascript">
 if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
 if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
 if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
 document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/wrap;' + dcopt + ';tile=' + tile + ';sz=1x1;ord=' + cachebuster + '?"></scr'+'ipt>');
 </script>
 <noscript><a href="http://ad.doubleclick.net/jump/ohn.shotgunworld/wrap;sz=1x1;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/ohn.shotgunworld/wrap;sz=1x1;ord=123456789?" border="0" alt="" /></a></noscript>
-
 -->
-<!-- for wrap: <div id="overall_container" style="top:155px; position:relative;"> -->
-<div id="overall_container">
+
+<!-- new imp sitewrap code --> 
+<!--
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6544/adj/ohn.shotgunworld/wrap;sz=1x1;ord=' + ord + '?"><\/script>'); 
+</script> 
+<noscript> <a href="http://ad.doubleclick.net/N6544/jump/ohn.shotgunworld/wrap;sz=1x1;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N6544/ad/ohn.shotgunworld/wrap;sz=1x1;ord=[timestamp]?" width="1" height="1" /> </a> </noscript>
+  -->
+
+
+<!-- for wrap:  -->
+
+<!-- <div id="overall_container" style="top:241px; position:relative;">     -->
+<div id="overall_container">                                        
 
 <!-- old toolbar <script type="text/javascript" language="javascript" src="http://app.outdoorhub.com/toolbar/js/deploy.js"></script> --><!-- new toolbar -->
 
@@ -229,7 +247,7 @@ if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random(
 if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
 if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
 document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/general_outdoors;' + dcopt + ';tile=' + tile + ';sz=980x44;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/ohn.shotgunworld/general_outdoors;dcopt=ist;;tile=1;sz=980x44;ord=4658415374?"></script>
+</script><script src="http://ad.doubleclick.net/adj/ohn.shotgunworld/general_outdoors;dcopt=ist;;tile=1;sz=980x44;ord=5270827797?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/ohn.shotgunworld/general_outdoors;sz=980x44;ord=123456789?&amp;quot; target="_blank" ><img src="http://ad.doubleclick.net/ad/ohn.shotgunworld/general_outdoors;sz=980x44;ord=123456789?&amp;quot; border="0" alt="" /></a></noscript>
 
 <!-- end new toolbar -->
@@ -237,7 +255,7 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/g
 <a name="top"></a>
 <center>
 <div id="wrapheader">
-	<div id="logodesc" style="padding: 0 0 5px 0;">
+  <div id="logodesc" style="padding: 0 0 5px 0;">
   
 <!-- <script type="text/javascript">
 if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
@@ -250,14 +268,14 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/s
 
 
 
-<table width="980" border="0" cellspacing="0" cellpadding="0"> <!-- for wrap add: style="position:relative; top:155px" -->
+<table width="980" border="0" cellspacing="0" cellpadding="0" style="position:relative;"> <!-- for wrap add: style="position:relative; top:155px" -->
   <tbody><tr>
     <td align="left" style="padding:0;">
-      <a href="./index.php"><img src="./styles/fixedwidth3/imageset/site_logo.gif" width="300" height="125" alt="" title=""></a>     
+       <a href="./index.php"><img src="./styles/fixedwidth3/imageset/site_logo.gif" width="300" height="125" alt="" title=""></a>     
 
-<!--		<a href="http://ad.doubleclick.net/clk;237314132;60334535;u"><img src="http://com.outdoorhub.static.s3.amazonaws.com/ads.shotgunworld/SGW_Chevy_Masthead_december_2011.jpg" border="0"></a>-->
+<!--    <a href="http://ad.doubleclick.net/clk;237314132;60334535;u"><img src="http://com.outdoorhub.static.s3.amazonaws.com/ads.shotgunworld/SGW_Chevy_Masthead_december_2011.jpg" border="0"></a>-->
 
-	</td>
+  </td>
     <td align="right">
       <h1>Shotgunworld.com</h1> 
       <span class="gen"> Welcome to the Friendliest Shooting Forum on the Net!<br> 
@@ -267,20 +285,23 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/s
   </span></td></tr>
 </tbody></table>
 
+<!-- remove 728 for sitewrap  -->
 <table width="980" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td>
 
-    	<center>
+      <center>
 
-    		 <script type="text/javascript">
-    			GA_googleFillSlot("shotgunworld_forum_header_728");
-    		</script>
+         <script type="text/javascript">
+          GA_googleFillSlot("shotgunworld_forum_header_728");
+        </script>
 
-    	</center>
+      </center>
     </td>
   </tr>
 </tbody></table>
+
+
 
 <br><table width="980" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -320,7 +341,7 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/s
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.shotgunworld.com/adserver/www/delivery/ajs.php?zoneid=2&amp;cb=80328991521&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120512182053id_/http%253A//www.shotgunworld.com/bbs/ucp.php%253Fmode%253Dprivacy"></script><noscript><a href='http://www.shotgunworld.com/adserver/www/delivery/ck.php?n=a3a667c2&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.shotgunworld.com/adserver/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3a667c2' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://www.shotgunworld.com/adserver/www/delivery/ajs.php?zoneid=2&amp;cb=28844057942&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121114080424id_/http%253A//www.shotgunworld.com/bbs/ucp.php%253Fmode%253Dprivacy"></script><noscript><a href='http://www.shotgunworld.com/adserver/www/delivery/ck.php?n=a3a667c2&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.shotgunworld.com/adserver/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3a667c2' border='0' alt='' /></a></noscript>
 
 </div></td>
 
@@ -360,7 +381,7 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/s
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.shotgunworld.com/adserver/www/delivery/ajs.php?zoneid=4&amp;cb=93364578578&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120512182053id_/http%253A//www.shotgunworld.com/bbs/ucp.php%253Fmode%253Dprivacy"></script><noscript><a href='http://www.shotgunworld.com/adserver/www/delivery/ck.php?n=af904c0c&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.shotgunworld.com/adserver/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af904c0c' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://www.shotgunworld.com/adserver/www/delivery/ajs.php?zoneid=4&amp;cb=38418440280&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121114080424id_/http%253A//www.shotgunworld.com/bbs/ucp.php%253Fmode%253Dprivacy"></script><noscript><a href='http://www.shotgunworld.com/adserver/www/delivery/ck.php?n=af904c0c&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.shotgunworld.com/adserver/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af904c0c' border='0' alt='' /></a></noscript>
 
 
 </div></td>
@@ -368,8 +389,11 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ohn.shotgunworld/s
   </tr>
 </tbody></table>
 
-	
+  
 <style type="text/css">
+#ohtb_loader {
+height: 0 !important;
+}
 .tab{
 font-family: arial, verdana, san-serif; 
 font-size: 14px;
@@ -387,7 +411,7 @@ color:#4234ff;
 margin:0; 
 padding:0; 
 list-style:none;
-}	
+}  
 
 /*****LI display inline *****/
 #nav li {
@@ -447,7 +471,7 @@ color:#ffffff
 
 #nav ul a:hover 
 {
-text-decoration:underline;	
+text-decoration:underline;  
 padding-left:15px;
 }
 </style>
@@ -456,7 +480,7 @@ padding-left:15px;
 </script>
 
 <script type="text/javascript">
-$(document).ready(function () {	
+$(document).ready(function () {  
 $('#nav li').hover(
 function () {
 //show its submenu
@@ -464,7 +488,7 @@ $('ul', this).slideDown(350);
 }, 
 function () {
 //hide its submenu
-$('ul', this).slideUp(350);	
+$('ul', this).slideUp(350);  
 }
 );
 });
@@ -474,8 +498,8 @@ $('ul', this).slideUp(350);
 <tbody><tr>
 <td class="genmed" style="padding:5px 27px;">
 <a href="./calendar.php"><img src="./styles/fixedwidth3/imageset/en/button_calendar.gif" alt="Calendar">Calendar</a>
-				&nbsp;&nbsp;<a href="http://www.shotgunworld.com/bbs/cpg1410/index.php"><img src="images/g1-icon.gif" width="12" height="13" border="0">Photos</a>&nbsp;&nbsp;<a href="./faq.php"><img src="./styles/fixedwidth3/theme/images/icon_mini_faq.gif" width="12" height="13" alt="*"> FAQ</a>
-				
+        &nbsp;&nbsp;<a href="http://www.shotgunworld.com/bbs/cpg1410/index.php"><img src="images/g1-icon.gif" width="12" height="13" border="0">Photos</a>&nbsp;&nbsp;<a href="./faq.php"><img src="./styles/fixedwidth3/theme/images/icon_mini_faq.gif" width="12" height="13" alt="*"> FAQ</a>
+        
 </td>
 </tr>
 </tbody></table><ul id="nav">
@@ -539,46 +563,47 @@ $('ul', this).slideUp(350);
 </div></div></center>
 
 <center>
-	<div id="menubar">
+  <div id="menubar">
 <!--/* Maybe I should move this (table statement) to the beginning of the Java menu and include it in another <tr></tr> */-->
-		<table width="980" cellspacing="0">
-		<tbody><tr>
-			<td class="genmed">
-				
-			</td>
-		</tr>
-		</tbody></table>
-	</div>
+    <table width="980" cellspacing="0">
+    <tbody><tr>
+      <td class="genmed">
+        <a href="./ucp.php?mode=login"><img src="./styles/fixedwidth3/theme/images/icon_mini_login.gif" width="12" height="13" alt="*"> Login</a>&nbsp; &nbsp;<a href="./ucp.php?mode=register"><img src="./styles/fixedwidth3/theme/images/icon_mini_register.gif" width="12" height="13" alt="*"> Register</a>
+          
+      </td>
+    </tr>
+    </tbody></table>
+  </div>
 </center>
 <center>
-	<div id="datebar">
-		<table width="980" cellspacing="0">
-		<tbody><tr>
-			<td class="gensmall">Last visit was: Sat May 12, 2012 6:20 pm</td>
-			<td class="gensmall" align="right">It is currently Sat May 12, 2012 6:20 pm<br></td>
+  <div id="datebar">
+    <table width="980" cellspacing="0">
+    <tbody><tr>
+      <td class="gensmall"></td>
+      <td class="gensmall" align="right">It is currently Wed Nov 14, 2012 3:04 am<br></td>
 
 
-		</tr>
-		</tbody></table>
-	</div>
+    </tr>
+    </tbody></table>
+  </div>
 </center>
 
 <div id="wrapcentre">
 
-	
+  
 
-	<br style="clear: both;">
+  <br style="clear: both;">
 
-	<table class="tablebg" width="980" cellspacing="1" cellpadding="0" style="margin-top: 5px;" align="center">
+  <table class="tablebg" width="980" cellspacing="1" cellpadding="0" style="margin-top: 5px;" align="center">
 	<tbody><tr>
 		<td class="row1">
 			<p class="breadcrumbs"><a href="./index.php">Board index</a></p>
-			<p class="datetime">All times are UTC </p>
+			<p class="datetime">All times are UTC - 6 hours [ <abbr title="Daylight Saving Time">DST</abbr> ]</p>
 		</td>
 	</tr>
 	</tbody></table>
 
-	<br>
+  <br>
 
 	<table class="tablebg" width="980" cellspacing="1" align="center">
 	<tbody><tr>
@@ -656,7 +681,7 @@ Shotgunworld LLC may make material changes to this Privacy Policy from time to t
   30800 Telegraph Road, Ste 4805<br>
   Bingham Farms, MI  48025<br>
   </p>
-<br><br></span>
+	<br><br></span>
 					<div align="center">
 						<a href="./ucp.php?mode=login">Back to login screen</a>
 					</div>
@@ -667,7 +692,7 @@ Shotgunworld LLC may make material changes to this Privacy Policy from time to t
 	</tr>
 	</tbody></table>
 
-
+<img src="./cron.php?cron_type=populate_calendar" width="1" height="1">
 
 
 <!--
@@ -687,6 +712,7 @@ Shotgunworld LLC may make material changes to this Privacy Policy from time to t
 	</span>
 <a href="http://www.shotgunworld.com/dmca.html"><font color="white"><font size="2"> &nbsp;&nbsp; &nbsp;- &nbsp;DMCA Notice<br></font></font></a>
 </div>
+<!--
 
 </div> <script type="text/javascript">
 admeld_publisher  = 175;
@@ -698,8 +724,10 @@ admeld_placement   = 'shotgunworld';
 <script type="text/javascript" src="http://js.admeld.com/meld120.js"></script>
 <br>
 <!--  overall_container  -->
-#<center>
-#
+<!--
+#<center> -->
+
+<!--
 #<script>
 #pa_dashboard_height = 158;
 #pa_dashboard_publisherId = 20134;
@@ -710,15 +738,17 @@ admeld_placement   = 'shotgunworld';
 #tmpstr += 'src="http://tags.dashboardad.net/tags/dashboard';
 #tmpstr += '.js?publisherId=20134&domainId=438&cb=';
 #tmpstr += ''+Math.floor(Math.random()*10000000000)+'"></scr'+'ipt>';
-#document.write(tmpstr);//-->
-#</script>
+#document.write(tmpstr);//
+#</script>-->
 
+<!--
 
 <script type="text/javascript" language="javascript" src="http://app.outdoorhub.com/footer/js/deploy.js"></script>
 <script type="text/javascript" src="http://js.admeld.com/meld120.js"></script>
 
 </center>
 
+//-->
 
 
-</div></body></html>
+</div></div></body></html>
