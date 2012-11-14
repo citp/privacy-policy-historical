@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clearpathtechnology.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502101828id_/http%3A//clearpathtechnology.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpathtechnology.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114073830id_/http%3A//clearpathtechnology.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy : Seo Techniques : Website Promotion : Clearpath Technology
+# Privacy Policy - Clearpath Technology
 
 In technical parlance, the term privacy policy refers to a legal document that states the ways in which a party collects, utilizes, manages as well as discloses the data of the customer. What the privacy policy contains is something that depends on the law that is being currently enforced in the land or specific jurisdiction. We at Clearpath Technology believe in the usage of our privacy policy.
 
