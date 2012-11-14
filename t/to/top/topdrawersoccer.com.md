@@ -1,26 +1,14 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302054201id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114121538id_/http%3A//www.topdrawersoccer.com/privacy) for the most accurate reproduction.*
 
-# TopDrawerSoccer.com Privacy | Club Soccer News | College Soccer News
-
-## TopDrawerSoccer.com Privacy  
-  
-|   
-  
-Article Written By Advanced Soccer Media, LLC  
-  
-## TopDrawerSoccer.com Website Privacy Statement
+# Privacy Policy
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-TopDrawerSoccer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TopDrawerSoccer.com, you acknowledge and fully understand TopDrawerSoccer.com's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
-
-  
+TopDrawerSoccer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TopDrawerSoccer.com, you acknowledge and fully understand TopDrawerSoccer.com's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
 
   2. **PARTICIPATING MERCHANT POLICIES**
 
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in TopDrawerSoccer.com services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
-
-  
 
   3. **INFORMATION WE COLLECT AND HOW WE USE IT**
 
@@ -30,23 +18,21 @@ TopDrawerSoccer.com collects certain information from and about its users three 
 
     1. **Web Server Logs.**
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-      * Your Internet protocol address. 
-      * The kind of browser or computer you use. 
-      * Number of links you click within the site. 
-      * State or country from which you accessed the site. 
-      * Date and time of your visit. 
-      * Name of your Internet service provider. 
-      * Web page you linked to our site from. 
-      * Pages you viewed on the site. 
-  
-
+      * Your Internet protocol address.
+      * The kind of browser or computer you use.
+      * Number of links you click within the site.
+      * State or country from which you accessed the site.
+      * Date and time of your visit.
+      * Name of your Internet service provider.
+      * Web page you linked to our site from.
+      * Pages you viewed on the site.
     2. **Use of Cookies**
 
 TopDrawerSoccer.com may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
 
 TopDrawerSoccer.com reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into TopDrawerSoccer.com.com a site that relies on third-party cookies).
 
@@ -58,21 +44,19 @@ Visitors to our website can register to purchase services. When you register, we
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-      * To fulfill your service requests for services. 
+      * To fulfill your service requests for services.
       * To protect ourselves from liability,
       * To respond to legal process or comply with law, or
       * In connection with a merger, acquisition, or liquidation of the company.
-  
-
   4. **USE OF WEB BEACONS OR GIF FILES**
 
-TopDrawerSoccer.com Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow TopDrawerSoccer.com to count users who have visited those pages and to deliver co-branded services. TopDrawerSoccer.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+TopDrawerSoccer.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow TopDrawerSoccer.com to count users who have visited those pages and to deliver co-branded services. TopDrawerSoccer.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. TopDrawerSoccer.com prohibits Web beacons from being used to collect or access your personal information.
 
   5. **ACCESSING WEB ACCOUNT INFORMATION**
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant [topdrawersoccer@usfcsoccer.com](mailto:topdrawersoccer@usfcsoccer.com) .
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant topdrawersoccer@usfcsoccer.com.
 
   6. **CHANGES TO THIS STATEMENT**
 
