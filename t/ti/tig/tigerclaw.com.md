@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101114216id_/http%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114174409id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Martial Arts Supplies, Uniforms, Sparring Gear, and More from Tiger Claw :: Customer Service
 
@@ -44,11 +44,4 @@ By adjusting your browser settings, you can be warned each time a cookie is bein
 **Your consent  
 **By using our site, you consent to our privacy policy
 
-  
-"All the Right Moves": Yu Family World Wushu Fundraising Event  
-October 30, 2010  
-Sun Kung Fu Academy, 39171 Farwell Dr. Fremont, CA
-
-[Read a list of all events](http://www.tigerclaw.com/events-martial-arts-pg-7.html "Events")
-
-[](https://www.concepts4kidz.com:40012/myoffice/storeonline/default.aspx?orgId=14282&category=3135)
+[Read a list of all events](https://www.tigerclaw.com/events-martial-arts-pg-7.html "Events")
