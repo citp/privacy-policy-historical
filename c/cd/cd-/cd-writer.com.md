@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514030116id_/http%3A//www.cd-writer.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114175651id_/http%3A//www.cd-writer.com/privacy_policy.php) for the most accurate reproduction.*
 
 # DVD Duplicator, DVD Copier, Blu-Ray Duplicator, CD Duplicators, CD Printer, Disc Publisher, UK, Flash Drive Duplicator, Blu-Ray, USB Copier
 
