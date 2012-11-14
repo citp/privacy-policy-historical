@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517015550id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114221317id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionBeans.com Official Privacy Policy
 
@@ -134,9 +134,11 @@ Questions, comments and requests regarding this data protection and privacy poli
  **Postal Address**  
 The Data Protection Officer  
 FashionBeans.com  
-PO Box 10023  
-Leicester  
-LE8 6UW
+1 Sterling Court,  
+Loddington,  
+Kettering,  
+Northants,  
+NN14 1RZ
 
  **Email Address**  
 [privacy@beanspublishing.com](mailto:privacy@beanspublishing.com)
