@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509002248id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114102949id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Oddity Central - Collecting Oddities
 
