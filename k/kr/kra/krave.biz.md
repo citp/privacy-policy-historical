@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krave.biz privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502023906id_/http%3A//www.krave.biz/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krave.biz privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114223754id_/http%3A//www.krave.biz/help/privacy) for the most accurate reproduction.*
 
-# KRAVE TE Social Network
+# Krave TE Social Community - Privacy Policy
 
 Your privacy is important to the KRAVE Admin, as is your trust in KRAVE services. krave does not divulge or sell your information to any 3rd party unless under legal order to do so. This privacy policy outlines how your information is processed and used here.
 
