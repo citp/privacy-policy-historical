@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517131937id_/http%3A//www.listings.sg/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listings.sg privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114013907id_/http%3A//www.listings.sg/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
- We are committed to implementing policies and procedures designed to protect your privacy and security. We want you to understand what kinds of information we gather about you, how this information is used and safeguarded, and how you can control its use.
+We are committed to implementing policies and procedures designed to protect your privacy and security. We want you to understand what kinds of information we gather about you, how this information is used and safeguarded, and how you can control its use.
 
 In conjunction with this Privacy Policy, you should also review our Terms of Use for a complete understanding of the rules governing our Sites. This privacy policy covers the following issues:
 
-  1. [Introduction](http://www.listings.sg/#cap1 "Introduction")
-  2. [Information we receive](http://www.listings.sg/#cap2 "Information we receive")
-  3. [Sharing information on LISTINGS.SG](http://www.listings.sg/#cap3 "Sharing information on LISTINGS.SG")
-  4. [How we use your information](http://www.listings.sg/#cap4 "How we use your information")
-  5. [How we share your information](http://www.listings.sg/#cap5 "How we share your information")
-  6. [How you can change or remove information](http://www.listings.sg/#cap6 "How you can change or remove information")
-  7. [How we protect your information](http://www.listings.sg/#cap7 "How we protect your information")
-  8. [Other terms](http://www.listings.sg/#cap8 "Other terms")
+  1. [Introduction](http://www.listings.sg/help/privacy#cap1 "Introduction")
+  2. [Information we receive](http://www.listings.sg/help/privacy#cap2 "Information we receive")
+  3. [Sharing information on LISTINGS.SG](http://www.listings.sg/help/privacy#cap3 "Sharing information on LISTINGS.SG")
+  4. [How we use your information](http://www.listings.sg/help/privacy#cap4 "How we use your information")
+  5. [How we share your information](http://www.listings.sg/help/privacy#cap5 "How we share your information")
+  6. [How you can change or remove information](http://www.listings.sg/help/privacy#cap6 "How you can change or remove information")
+  7. [How we protect your information](http://www.listings.sg/help/privacy#cap7 "How we protect your information")
+  8. [Other terms](http://www.listings.sg/help/privacy#cap8 "Other terms")
 
 
 
