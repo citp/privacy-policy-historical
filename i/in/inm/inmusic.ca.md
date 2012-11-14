@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inmusic.ca privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627192130id_/http%3A//en.info.sympatico.ca/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmusic.ca privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114052139id_/http%3A//en.info.sympatico.ca/go/privacy) for the most accurate reproduction.*
 
-# How does Bell respect my privacy?
+# How does Bell respect my privacy? : Privacy at Bell
 
 ## Privacy at Bell
 
@@ -24,7 +24,7 @@ Every year, we ensure that each of our employees reviews and signs a code of bus
 
 **Questions or concerns about your privacy?**
 
-We'd be happy to discuss any questions or concerns you may have about your privacy. To reach us, please visit our [contact us](https://web.archive.org/Customer_service/Contact_us) section.
+We'd be happy to discuss any questions or concerns you may have about your privacy. To reach us, please visit our [contact us](https://web.archive.org/Contact-us) section.
 
 If you still have unresolved privacy concerns, you can write to the Bell Privacy Ombudsman at:
 
@@ -44,7 +44,7 @@ K1A 1H3
 1 800 282-1376  
 [www.priv.gc.ca](http://www.priv.gc.ca/)
 
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -86,7 +86,7 @@ While the information may be subject to the legal jurisdictions of these countri
 
 The use of customer information in this way is governed by the Bell Privacy Policy.
 
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -109,7 +109,7 @@ When we provide personal information to third parties, we give only the informat
 
 Please note that, pursuant to federal legislation, publicly available information, including a directory listing of your name, address and telephone number, may be collected, used and disclosed by organizations without your consent.
 
-If you prefer not to have your listing information provided to select organizations, please [contact us](https://web.archive.org/Customer_service/Contact_us).
+If you prefer not to have your listing information provided to select organizations, please [contact us](https://web.archive.org/Contact-us).
 
 **Sharing information among the Bell companies**
 
@@ -117,7 +117,7 @@ Occasionally we may share information between the Bell companies to help underst
 
 **Option to opt out**
 
-If you don't want your information shared among the Bell companies, please [contact us](https://web.archive.org/Customer_service/Contact_us).
+If you don't want your information shared among the Bell companies, please [contact us](https://web.archive.org/Contact-us).
 
 Please note that when you choose to opt out (or opt back in), it may take up to 30 days to update our databases.
 
@@ -131,7 +131,7 @@ It' s important to note that in certain circumstances, we may collect, use or di
 
 
 
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -148,11 +148,7 @@ The kinds of things we might ask you to confirm could include your account numbe
 
 We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
 
-**What is Bell' s Voice Identification service?**
-
-Bell's [Voice Identification service](https://web.archive.org/Customer_service/Security_and_privacy/How_does_Bell_respect_my_privacy?step=7) (VIS) is a free service used to verify a person' s identity by using the unique characteristics of their voice.
-
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -198,11 +194,11 @@ For more information on how to manage your cookies please visit Bell's [Internet
 
 **Why does Bell record customer calls?**
 
-Because Bell is committed to continually improving its customer contact experience, some customer calls may be recorded and used for the ongoing training and development of our employees. Consistent with federal privacy legislation, customers are informed by a pre-recorded message that their call may be recorded for quality assurance purposes. After hearing this message, should you decide to continue with the call, your consent to record the call is implied. Otherwise, you may contact a Bell customer service representative through our [contact us](https://web.archive.org/Customer_service/Contact_us) section or by visiting a Bell store in your area.
+Because Bell is committed to continually improving its customer contact experience, some customer calls may be recorded and used for the ongoing training and development of our employees. Consistent with federal privacy legislation, customers are informed by a pre-recorded message that their call may be recorded for quality assurance purposes. After hearing this message, should you decide to continue with the call, your consent to record the call is implied. Otherwise, you may contact a Bell customer service representative through our [contact us](https://web.archive.org/Contact-us) section or by visiting a Bell store in your area.
 
 The Bell companies may also record outbound calls placed to our customers for similar purposes.
 
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -215,7 +211,7 @@ For more information regarding marketing to children, please visit the [Canadian
 
 For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://internet.bell.ca/index.cfm?language=en&method=content.view&category_id=583&content_id=7299) in our Internet support pages.
 
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -226,21 +222,7 @@ Last Update:30/06/2011
 
 [Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **310-BELL** (3255) or by visiting a Bell store.
 
-**Bell's Voice Identification service**
-
-Using the unique characteristics of a customer’s voice, the Voice Identification service (VIS) from Bell quickly identifies you, enabling our agents to focus on what really matters – your question.
-
-Before you can benefit from this free service, you must register a sample of your voice. Registering for the Voice Identification service is simple and takes about two minutes.
-
-**Call** **1 888 383-6817** **today to register a sample of your voice.** You’ll also have a chance to register for VIS the next time you call **310-BELL** (2355). Have your bill handy so that you can provide your account number.
-
-To get a sample of your voice, the system will ask you to repeat “At Bell, my voice is my password” up to 4 times. You can allow others to access to your account by having them record their own voice samples.
-
-Once you’ve registered, and after you’ve entered your phone number, you can simply repeat the phrase you’ve recorded. The service will compare your voice to the recorded voice sample to check for a match. When your voice is matched with your recorded sample, you’ll have immediate access to your account information through Self Serve or by speaking to an agent.
-
-The Voice Identification service is currently available for Bell Home phone clients.
-
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -337,7 +319,7 @@ ADADs used to make calls for purposes other than telemarketing must:
 
 These conditions do not apply to ADAD calls made for public-service reasons, including calls for emergency and administrative purposes by police and fire departments, schools, hospitals, or similar organizations.
 
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
@@ -410,13 +392,13 @@ The following are some important tips to help protect you from fraudulent activi
 
 **Who to contact for more information or to report fraud**
 
-If you think you may have given personal information to a fraud operator posing as a Bell representative, please [call](https://web.archive.org/Customer_service/Contact_us) us immediately. Give us as much information as possible including the exact date and time of the call.
+If you think you may have given personal information to a fraud operator posing as a Bell representative, please [call](https://web.archive.org/Contact-us) us immediately. Give us as much information as possible including the exact date and time of the call.
 
 Otherwise, if you suspect you’ve been a target of any type of phone or Internet fraud and would like to report a problem, contact the Canadian Anti-Fraud Call Centre (formerly Phonebusters) at **1 888 495-8501** or go to [www.antifraudcentre.ca](http://www.antifraudcentre.ca/).
 
 To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
 
-Last Update:30/06/2011
+Last Update:17/09/2012
 
   
 
