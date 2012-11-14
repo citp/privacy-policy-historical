@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507162356id_/http%3A//home.trainingpeaks.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114063230id_/http%3A//home.trainingpeaks.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TrainingPeaks
 
