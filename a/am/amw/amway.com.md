@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amway.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528083218id_/https%3A//www.amway.com/support/policies-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114223518id_/http%3A//www.amway.com/support/policies-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting [www.Amway.com](http://www.amway.com/), or the Personal Website of your authorized Amway Independent Business Owner (IBO) whose name appears on the site (our "Site"). This Site is powered by Amway and made available by Amway as a service to your IBO. As used in this Privacy Statement, the terms “our,” “we” and “us” refer to both Amway and your IBO unless the context clearly provides otherwise.
+Thank you for visiting [www.Amway.com](http://www.amway.com/?pwsID=MikeAndKadenNazimek), or the Personal Website of your authorized Amway Independent Business Owner (IBO) whose name appears on the site (our "Site"). This Site is powered by Amway and made available by Amway as a service to your IBO. As used in this Privacy Statement, the terms “our,” “we” and “us” refer to both Amway and your IBO unless the context clearly provides otherwise.
 
 We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
 
