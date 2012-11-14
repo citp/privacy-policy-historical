@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tabzi.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028002502id_/http%3A//www.tabzi.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabzi.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114034351id_/http%3A//www.tabzi.com/general/privacy.php) for the most accurate reproduction.*
 
-# Free advertising traffic exchange - Tabzi
-
-Tabzi Privacy Policy
+# Tabzi
 
   * We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
   * We collect information about you for 2 reasons: Firstly, to process your order and second, to provide you with the best possible service. 
@@ -15,4 +13,4 @@ Tabzi Privacy Policy
 
 
 
-If you have any questions/comments about privacy, you should email us. 
+If you have any questions/comments about privacy, you should [email us here](https://web.archive.org/contactus.php). 
