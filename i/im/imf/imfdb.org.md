@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imfdb.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616034052id_/http%3A//www.imfdb.org/wiki/imfdb_%3A._guns_in_movies_%3A._movie_guns_%3A._the_internet_movie_firearms_database%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imfdb.org privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114233730id_/http%3A//www.imfdb.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
-# Imfdb :. guns in movies :. movie guns :. the internet movie firearms database:Privacy policy - imfdb :. guns in movies :. movie guns :. the internet movie firearms database
-
-### From imfdb :. guns in movies :. movie guns :. the internet movie firearms database
+# Privacy policy - Internet Movie Firearms Database - Guns in Movies, TV and Video Games
 
 ##  Privacy Policy 
 
@@ -65,8 +63,3 @@ imfdb fully cooperates with law enforcement agencies in identifying those who us
 **Changes to our Privacy Policy**
 
 Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the imfdb.org website. Users are bound by any changes to the Privacy Policy when they use imfdb.org after such changes have been first posted. Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of imfdb.org, and you are responsible for reviewing such legal notices for changes. Any questions regarding our Privacy Policy should be directed to manager@imfdb.org 
-
-[Follow @imfdb](https://twitter.com/imfdb)
-
-  
-
