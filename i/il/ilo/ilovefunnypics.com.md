@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovefunnypics.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613204233id_/http%3A//ilovefunnypics.com/%3Fpage_id%3D738) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovefunnypics.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114232033id_/http%3A//ilovefunnypics.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | ilovefunnypics.com
 
@@ -40,6 +40,3 @@ ilovefunnypics
 port clinton,oh 43452
 
 You acknowledge that if you fail to comply with all of the requirements of this Section 8(A) your DMCA notice may not be
-
-  
-
