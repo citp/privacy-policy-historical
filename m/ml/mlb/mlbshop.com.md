@@ -1,88 +1,156 @@
-> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110071351id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114113610id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
-# 
+# Help
 
+  
+|  |  | [](https://web.archive.org/helpdesk/index.jsp)  
+---  
+  
 **Privacy Policy**
 
-**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
+**PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
-TABLE OF CONTENTS
+MLB Advanced Media, L.P. is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs, the Official Websites of certain other MLB-related properties (collectively, this "Website") and downloadable mobile applications (e.g. MLB.com At Bat) available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Applications, which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+
+**1\. Personal Information Collected Via Our Services**
+
+_Information You Provide._ You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to, full name, street address, email address, telephone number(s), birth date, payment card information and location data. If we collect such information, the applicable page(s) or location(s) within the Services will include statements regarding what information is required for the elements of the Services to function properly and functionality for you to submit the requested or required information; there may also be opportunities for you to grant permission for use of your information in a manner set forth on the applicable page(s) within the Services. 
+
+**2\. How We Use and Share Your Personal Information**
+
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy. We will not sell, lease or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and: 
 
   
 
 
-  1. General
-  2. Information Automatically Collected; Cookies; Web Beacons
-  3. Our Security Practices
-  4. How You Can Review Your Personal Information
-  5. Choice
-  6. Links
-  7. Special Rules for Children
-  8. Contact Us; Privacy Administrator
-  9. Notification of Changes
+  * With certain third parties, but only so that they may help us provide services you've requested or in certain circumstances to provide you with related offers, special promotions or content; 
+  * With one or more MLB Clubs or entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such Club(s) or entities (e.g., you've asked to receive the newsletter of a Club or you've purchased Club-specific merchandise from one of our stores), so they may learn more about fans like you, add you to the Club's postal mail list and provide better services to you; 
+  * Upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party (e.g., Apple, ESPN.com);
+  * With a third-party service provider, sponsor or promotional partner with whom we offer a special promotion (e.g., a sweepstakes, fantasy game or subscription to goods or services), with your permission or otherwise in accordance with the applicable rules of such special promotion or terms presented at the time of submission, so that the third party can administer the promotion, or send you special promotions it offers;
+  * With our third-party survey partners, to send you periodic surveys to help improve our Services or your MLB experience;
+  * In connection with online loyalty, membership or rewards programs operated from our Services, with a third party from which you may receive goods or services in connection with your participation in such program; _or_
+  * With express permission from you.
 
 
 
-**General**
+**3\. Other Information Collected Within Our Services.**
 
-MLB Advanced Media, L.P. is the organization that produces the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs and the Official Websites of certain other MLB-related properties (this or our "Website"). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website.
+  
 
-You can visit and enjoy our Website without disclosing any personal information about yourself. However, we offer some special services, and for these services to work properly we will need you to share with us certain personal information about yourself. The personal information we collect may include, but is not limited to, full name, street address, e-mail address, telephone number(s) (e.g., home, work, mobile and/or fax) and birth date. We may also collect other personal information that will be identified on applicable page(s) of this Website. If you submit any personal information to us, or to any third parties acting on our behalf, you can be assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: (1) to certain third parties, but only so that they may help us provide services you've requested and/or in certain circumstances to provide you with related offers or content; (2) to one or more MLB Clubs, to the extent that you've submitted information that relates specifically to such Club(s) (e.g., you've asked to receive the newsletter of one or more Clubs via email or you've purchased Club-specific merchandise from one of our stores), so that they may learn more about fans like you, and provide better services to you; (3) upon notice posted on an applicable location of our Website where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party (e.g., ESPN.com), where such third party is clearly identified; and (4) on occasion, we may offer a special promotion (such as a sweepstakes, contest, fantasy baseball game or free subscription to goods and/or services) on this Website in conjunction with a third-party service provider, sponsor, or promotional partner, and share your information with that service provider, sponsor, or promotional partner so that it can send you other special promotions it offers, but only if you give us permission to do so.
 
-_Special Offers and Promotions._ With your permission, we may also send you communications with special offers and promotions. If you don't want to receive these, you may change your preferences by accessing your my MLB.com account.
+  * _Our Cookies and Web Beacons_
 
-**Information Automatically Collected; Cookies; Web Beacons**
+We use and permit automatic methods such as cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) or similar technologies, alone or in combination with personally identifiable information you choose to provide us. Examples of the information we collect and analyze using such methods include, but is not limited to, the Internet protocol address used to connect your computer or device to the Internet; email address; login name and password; operating system type, version and computer or device platform; purchase history; the full Uniform Resource Locator clickstream to, on and from our Website, including date and time; and products you viewed or searched. We use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs) and methods used to browse away from a page. We use and may allow certain third parties, such as those who provide services associated with our Services, to access these automatic data collection methods to enable you to use a "shopping cart" while using our Services, to store your preferences and to improve, deliver and customize our Services' content and offerings. 
 
-We use automatic methods such as cookies (small amounts of data, which often include an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive), single-pixel GIF images ("web beacons") or similar technologies, alone or in combination with personally identifiable information you choose to provide us, to make our Website work better, to understand Website usage and trends, to deliver a more personalized experience and to improve and deliver certain content and offerings. Examples of the information we collect and analyze using such methods include, without limitation, the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; login name and password; operating system type, version and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, on, and from our Website, including date and time; cookie information; and products you viewed or searched for. We may also use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page.
+  
 
-We may also use cookies to enable you to use a "shopping cart" if you want to purchase goods or services while on our Website, to store your preferences associated with video streaming or other content offered from our Website and to deliver certain content, products, programs, and/or services based on purchase and Website usage behavior that you and/or other customers have exhibited. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called "local shared objects: or "Flash cookies," may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](https://web.archive.org/web/20111110071351id_/http%3A//shop.mlb.com/helpdesk/www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain services on our Website.
+  * _Third Party Cookies and Web Beacons; Network Advertisers_
 
-We do not transfer cookies associated with our Website to any other company, nor do we authorize any other company to access those cookies for any purpose other than as set forth in this Privacy Policy. We may allow certain third parties, such as those who deliver advertisements, content or provide other services associated with our Website, to set and/or access cookies, web beacons and/or similar technologies associated with certain of our pages and/or certain emails sent by us.
+We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information, please [click here](http://www.aboutads.info/). You may elect to opt out of targeted behavioral advertising from network advertisers by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp#).
 
-Third party companies that manage and deliver advertisements on our Website and other websites are commonly referred to as "network advertisers." These network advertisers may use cookies and web beacons to collect information about your visits to our Website in order to tailor certain advertisements and content delivered on our Website and on other websites within such network advertiser's ad network. If you would like to obtain more information about common industry practices of network advertisers and/or make choices about their use of your information, please [click here](http://www.networkadvertising.org/managing/opt_out.asp#).
+  
 
-We do not install any spyware or adware in connection with our Website, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "adware" is any software which has been downloaded to and/or installed on an Internet user's computer, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
+  * _Social Networking_
 
-_Aggregated Demographic Information._ We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner.
+When using our Services or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each and collectively, a "Social Network"), you may have the option to connect your Website or Application information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your activity on our Services, with that Social Network and its users, and to access certain of your Social Network information, as disclosed by you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: personal information as authorized by you, technical information about your Services activity, your Services comments or the videos you watch on our Website or within our Applications. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network. If you permit a connection between a Social Network and our Services, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to our Services. 
 
-_Business Transfers._ As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer.
+  
 
-_Disclosure for Legal Purposes._ We may be required to share your personal information and non-personal information pursuant to judicial or governmental subpoenas, warrants, or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose, and/or share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website's Terms of Use or as otherwise required by law.
 
-**Our Security Practices**
 
-Your Website account preferences are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 
-**How You Can Review Your Personal Information**
+**4\. Other Circumstances When Your Data May Be Shared**
 
-If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) [click here](https://secure.mlb.com/account/index.jsp) to log in, and then click on the applicable menu option on the left side of the page, or (2) call MLB.com Customer Service at 866-800-1275. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact MLB.com Customer Service at 866-800-1275.
+  
 
-**Choice**
 
-Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you indicate that you consent to receive communications or solicitations, but you later change your mind, you can revise your preferences by accessing the "My Newsletters" section within your Website account.
+  * _Aggregated Demographic Information_
 
-**Links**
+We may share aggregated demographic information with third parties. This information is not linked to personal information that can identify you or another individual person. 
 
-Our Website contains links to other websites produced by MLB Advanced Media, L.P. and to websites and/or products operated by unrelated third parties. In addition, if you click on an advertisement on our Website, you may be directed to a web page within our Website or to a third-party website or product. Please note that we are not responsible for the privacy practices of third-party websites or products. We encourage you to be aware of this when your leave our Website and to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to this Website, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+  
 
-**Special Rules for Children**
+  * _Business Transfers_
 
-Because of federal law, we cannot knowingly collect and retain any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some services on our Website (e.g., Shop, Ticketing, Auctions) require the submission of a credit card number along with personal information in connection with a purchase, other services on our Website (e.g., fantasy baseball) require the submission of personal information to the Website. Except in certain cases where limited contact information may be collected and not retained, these services are not available to children under the age of thirteen. If a child who MLB Advanced Media, L.P. knows to be under the age of thirteen attempts to utilize a service on this Website which is not available to children, he/she will receive a message which relays that he/she is "not eligible" for the service.
+As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer
 
-**Contact Us; Privacy Administrator**
+  
+
+  * _Disclosure for Legal Purposes_
+
+We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of Terms of Use of any of our Services or as required by law.
+
+  
+
+
+
+
+**5\. Managing Your Information**
+
+You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for a Website account, you may review and revise certain of your account information by [clicking here](https://secure.mlb.com/enterworkflow.do?flowId=registration.ajax.wizard&=c_id=mlb) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
+
+If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may either (1) [click here](https://secure.mlb.com/enterworkflow.do?flowId=registration.ajax.wizard&c_id=mlb) to log in, and then click on the applicable left-hand menu option, or (2) call MLB.com Customer Service at 866-800-1275. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call MLB.com Customer Service at 866-800-1275. 
+
+Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source. 
+
+**6\. Other Information**
+
+  
+
+
+  * _No Spyware or Adware_
+
+We do not install any spyware or adware in connection with our Services, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "adware" is any software which has been downloaded to or installed on an Internet user's computer or device, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
+
+  
+
+  * _Our Security Practices._
+
+The account information associated with any of our Services is password protected for your privacy and security. You choose your password for any of our Services so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
+
+  
+
+  * _Links._
+
+Our Services contain links to other websites and products produced by MLB Advanced Media, L.P. and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+
+  
+
+  * _Your California Privacy Rights._
+
+If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@website.mlb.com ](mailto:privacy@website.mlb.com?subject=Privacy%20Policy%20Questions)or write to us at: MLB Advanced Media, L.P., Privacy Administrator, 75 Ninth Avenue, New York, New York 10011.
+
+  
+
+  * _Special Rules For Children._
+
+Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase; other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information me be collected and not retained, these elements of our Services are available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on this Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
+
+  
+
+  * _Contact Us Regarding Privacy._
 
 If you have questions or concerns about this Privacy Policy, you can contact us at:
 
 MLB Advanced Media, L.P.  
 Privacy Administrator  
-75 Ninth Avenue  
-New York, New York 10011  
+_Address:_ 75 Ninth Avenue  
+_City:_ New York, _State:_ New York _Zip Code:_ 10011  
 Phone: (212) 485-6142  
 Fax: (212) 485-8111  
-Or send an e-mail to [privacy@website.mlb.com](mailto:privacy@website.mlb.com?subject=Privacy%20Policy%20Questions)
+Or send an e-mail to [privacy@website.mlb.com](mailto:privacy@website.mlb.com?subject=Privacy%20Policy%20Questions).
 
-**Notification of Changes**
+  
 
-If we make an important change to this Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy.
+  * _Notification of Changes._
 
-LAST UPDATED AND EFFECTIVE DATE: June 6, 2011
+If we make an important change to this Privacy Policy, we will post a notification and link on our Website's homepage and within our Applications so that you may review the updated policy.
+
+  
+
+
+
+
+LAST UPDATED AND EFFECTIVE DATE: June 19, 2012
