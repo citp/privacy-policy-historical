@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529095136id_/http%3A//www.securereservation.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114060314id_/http%3A//www.securereservation.net/privacypolicy.php) for the most accurate reproduction.*
 
-# Hotel Internet Marketing Strategies To Meet Your Goals - Secure Reservation Hospitality Marketing
+# Privacy Policy - SecureReservation.net DHD Hospitality
 
 We highly value your trust in choosing DHD Hospitality Inc (securereservation.net) for your online hotel reservation. Therefore, we will duly and diligently safeguard and protect the privacy and confidentiality of your personal details (including your credit card details).
 
