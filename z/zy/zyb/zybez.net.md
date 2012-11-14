@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zybez.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510183539id_/http%3A//www.curse.com/content/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zybez.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114213456id_/http%3A//www.curse.com/content/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Curse Network Privacy Policy - Curse
 
