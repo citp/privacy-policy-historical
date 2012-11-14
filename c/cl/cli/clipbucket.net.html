@@ -1,0 +1,571 @@
+<!--The following is the downloaded HTML source of the clipbucket.net privacy policy that was archived on 2012-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114161659id_/http%3A//clipbucket.net/v2/page/2/privacy-policy) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div style="DISPLAY: none">
+<a href="http://videoizlela.com" title="video">video</a>
+</div>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- ClipBucket v2 -->
+<meta name="copyright" content="ClipBucket - PHPBucket ClipBucket 2007 - 2012">
+<meta name="author" content="Arslan Hassan - http://clip-bucket.com/arslan-hassan">
+<link rel="shortcut icon" href="http://clipbucket.net/v2/favicon.ico">
+<link rel="icon" type="image/ico" href="http://clipbucket.net/v2/favicon.ico">
+
+<!-- RSS FEEDS -->
+<link rel="alternate" type="application/rss+xml" title="Recently added videos" href="http://clipbucket.net/v2/rss/recent">
+<link rel="alternate" type="application/rss+xml" title="Most Viewed Videos" href="http://clipbucket.net/v2/rss/views">
+<link rel="alternate" type="application/rss+xml" title="Top Rated Videos" href="http://clipbucket.net/v2/rss/rating">
+<link rel="alternate" type="application/rss+xml" title="Videos Being Watched" href="http://clipbucket.net/v2/rss/watching">
+
+
+<meta name="keywords" content="clip bucket video sharing website script">
+<meta name="description" content="Clip Bucket is an ultimate Video Sharing script">
+<meta name="distribution" content="global">
+
+
+<title>ClipBucket v2 - Privacy Policy</title>
+
+<link href="http://clipbucket.net/v2/styles/vidi_template/theme/main.css" rel="stylesheet" type="text/css">
+<link href="http://clipbucket.net/v2/styles/vidi_template/theme/jscroll.css" rel="stylesheet" type="text/css">
+
+<!-- Setting Template Variables -->
+<!-- Setting Template Variables -->
+
+
+<script type="text/javascript">
+var baseurl = 'http://clipbucket.net/v2';
+var imageurl = 'http://clipbucket.net/v2/styles/vidi_template/images';
+</script>
+
+<script>
+var baseurl = 'http://clipbucket.net/v2';
+var imageurl = 'http://clipbucket.net/v2/styles/vidi_template/images';
+</script>
+<link rel="stylesheet" href="http://clipbucket.net/v2/styles/global/jquery_ui.css" type="text/css" media="all">
+<script type="text/javascript" src="http://clipbucket.net/v2/js/jquery.js"></script>
+<script type="text/javascript" src="http://clipbucket.net/v2/js/ui/jquery-ui.js"></script>
+ 
+<script type="text/javascript">
+var embedPlayerWidth = '300';
+var embedPlayerHeight = '250';
+var autoPlayEmbed = '';
+
+
+
+function updateEmbed(width,height,autoplay)
+{
+	$('#embed_code').val( $('#embed_code').val().replace(/width=\"([0-9]+)\"/g,'width="'+width+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/width\:([0-9]+)px/g,'width:'+width+'px') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height=\"([0-9]+)\"/g,'height="'+height+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height\:([0-9]+)px/g,'height:'+height+'px') );
+}
+
+function switchEmbedCode(type)
+{
+	if(embed_type==type)
+		return false;
+	else
+	{
+		embed_type = type;
+		
+		var alt_embed =$('#alternate_embed_code').val();
+		$('#alternate_embed_code').val($('#embed_code').val());
+		$('#embed_code').val(alt_embed);
+		
+	}
+}
+
+
+
+</script>
+
+
+<!-- Including JS Files-->
+   <script src="http://clipbucket.net/v2/js/jquery_plugs/cookie.js" type="text/javascript"></script>
+    <script src="http://clipbucket.net/v2/js/functions.js" type="text/javascript"></script>
+    <script src="http://clipbucket.net/v2/js/jquery_plugs/counter.min.js" type="text/javascript"></script>
+ <!-- Including JS Files-->
+<script type="text/javascript">
+	callURLParser();
+</script>
+<!-- Including Plugin Headers -->
+	<script src="http://clipbucket.net/v2/js/embed_video_mod/functions.js"></script>
+	
+	
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'48109617-b584-4423-a8cc-6565ddd2a747'});</script>
+
+	<script type="text/javascript">
+
+
+	
+	
+	var download = 0;
+	var total_size = 0;
+	var cur_speed = 0;
+	
+	var status_refesh = 1 //in seconds
+	var result_page = 'http://srv1.clipbucket.net/actions/file_results.php';
+	var download_page = 'http://clipbucket.net/v2/plugins/cb_multiserver/api/remote_upload.php';
+	var server_path = 'http://srv1.clipbucket.net';
+	var count = 0;
+	
+	
+	var force_stop = false;
+	var remoteObjID = randomString();
+	
+	
+	function ms_remote_upload()
+	{
+		
+		
+		$('#remoteUploadBttn').attr("disabled","disabled").hide();
+		$('#ytUploadBttn').attr("disabled","disabled");
+		$('#remoteUploadBttnStop').show();
+		var file = $("#remote_file_url").val();
+		force_stop = false;		
+		var theError = false;
+		
+		$.post(baseurl+'/actions/file_downloader.php',
+			{check_url:file},function(data)
+			 {
+				  if(data.err)
+				  	theError = true;
+			  },"json"
+		);
+			
+			
+		if(!file || file=='undefined' || theError)
+		{
+			alert("Please enter file url");
+			$('#remoteUploadBttn').attr('disabled','').show();
+			$('#remoteUploadBttnStop').attr("disabled","disabled").hide();
+			$('#ytUploadBttn').attr("disabled","");
+			return false;
+		}
+		
+		var ajaxCall = $.ajax({
+			  url: download_page,
+			  type: "POST",
+			  data: ({file:file,file_name:file_name,server_path:server_path}),
+			  dataType : 'json',
+			  beforeSend : function()
+			  {
+				  
+				  ms_status_update();
+				  var remoteFileName = getName(file);
+				 $("#loading").html('<div style="float: left; display: inline-block;"><img src="'+imageurl+'/ajax-loader.gif"></div><div style="float: left; line-height: 16px; padding-left:5px">'+lang.remoteUploadFile+'</div><div class="clear"></div>');
+				 $('#remoteFileName').replaceWith('"'+remoteFileName+'"');
+			  },
+			  success: function(data)
+			  {
+				  
+				  if(data.error)
+				  {		  
+					force_stop = true;
+					$('#remoteUploadBttn').attr('disabled','');
+					$('#ytUploadBttn').attr("disabled","");
+					alert(data.error);
+				  }				  
+				  $("#loading").html('');
+				  
+				  var vid = data.vid;
+				  
+				   $.post(baseurl+'/actions/file_uploader.php',
+				  {"getForm":"get_form","title":$("#remote_file_url").val(),"objId":remoteObjID},
+				  function(data)
+				  {
+					    $('#remoteUploadBttnStop').hide();
+						$('#ytUploadBttn').hide();
+						$('#remoteForm').append(data);
+							$('#cbSubmitUpload'+remoteObjID)
+							.before('<span id="updateVideoDataLoading" style="margin-right:5px"></span>')
+							.attr("disabled","")
+							.attr("value",lang.saveData)
+							.attr("onClick","doUpdateVideo('#uploadForm"+remoteObjID+"','"+remoteObjID+"')")
+							.after('<input type="hidden" name="videoid" value="'+vid+'" id="videoid" />')
+							.after('<input type="hidden" name="updateVideo" value="yes" id="updateVideo" />');
+				  },'text');
+			  }
+		   }
+		);
+		
+		$('#remoteUploadBttnStop').click(function() { 
+		ajaxCall.abort(); force_stop=true; $("#loading").html('');$('#remoteDownloadStatus').hide(); $(this).hide();$('#remoteUploadBttn').attr('disabled','').show(); });
+		
+		
+	}
+	
+	
+	function ms_status_update()
+	{
+		
+
+		$.getJSON(result_page+"?file_name="+file_name+"&jsoncallback=?", function(data)
+	{
+				
+				  if(data)
+				  {
+					  var total = data.total_size;
+					  var download = data.downloaded;
+					  var total_fm = data.total_size_fm;
+					  var download_fm = data.downloaded_fm;
+					  var speed = data.speed_download;
+					  var eta = data.time_eta;
+					  var eta_fm = data.time_eta_fm;
+					  var time_took = data.time_took;
+					  var time_took_fm = data.time_took_fm;
+					   
+					  if(speed/1024/1024>1)
+					  {
+						var theSpeed = Math.round(speed / 1024/1024) + " Mbps";
+					  }else
+						var theSpeed = Math.round(speed/ 1024 ) + " Kbps";
+					  
+					perc_download = Math.round(download/total*100);
+					
+					$('#remoteDownloadStatus').show();
+					//$('#prog_bar').width(perc_download+'%');
+					$('#prog_bar').animate({width:perc_download+'%'},1000);
+					$('#prog_bar').html(perc_download+'%');
+					$('#dspeed').html(theSpeed);
+					$('#eta').html(eta_fm);
+					$('#status').html(download_fm+' of '+total_fm);
+				  }
+					
+					var intval = status_refesh*1000;
+					if(perc_download<100 && !force_stop)
+					setTimeout(function(){ms_status_update()},intval);
+					
+					else if(perc_download==100 && total>1)
+					{
+						
+						$('#time_took').html('Time Took : '+time_took_fm);
+					}
+			}
+			);
+		
+	}
+	
+	
+</script>
+	<script type="text/javascript">
+
+function check_file_url(objid)
+{
+	var video_link = $('#remote_play_url').val();
+	var duration = $('#linkUploadForm'+objid+' #duration').val();
+	
+	var reg = /^([0-9\:]+)$/i;
+	
+	if(!video_link)
+	{
+		alert("Please enter valid video link");
+		$('#remote_play_url').focus();
+		return false;
+	}
+	if(!duration || !reg.test(duration))
+	{
+		alert("Please enter valid video duration");
+		$('#linkUploadForm'+objid+' #duration').focus();
+		return false;
+	}
+	
+	$.post(baseurl+"/actions/embed_form_verifier.php", 
+	{ 	
+		'mode' : 'remote_play',
+		'remote_play_url' :  $('#remote_play_url').val(),
+		duration : $("#linkUploadForm"+objid+" #duration").val(),
+		file_name : file_name,
+		thumb_file :  $("#linkUploadForm"+objid+" #thumb_file").val()
+	},				
+	
+	function (data) {
+		if(data.err)
+		{
+			alert(data.err);
+		}else{
+			$("#linkUploadForm"+objid).submit();
+		}
+	}, "json");}
+	
+
+</script>
+	<script type="text/javascript" src="http://clipbucket.net/v2/player/cbplayer/cbplayer.js"></script>
+<!-- Ending Plugin Headers -->
+
+
+
+<script type="text/javascript">
+
+window.onload = function() {
+		ini_cookies();
+}
+
+</script>
+
+
+
+
+
+
+
+<script>
+$(function() {
+
+	$( ".date_field" ).datepicker({ 
+		dateFormat: 'yy-mm-dd',
+		changeMonth: true,
+		changeYear: true,
+		yearRange : "1901 : c"
+		});
+});
+</script>
+
+
+<!-- ClipBucket version 2.6 -->
+
+
+<script src="http://clipbucket.net/v2/styles/vidi_template/theme/functions.js" type="text/javascript"></script>
+<script src="http://clipbucket.net/v2/styles/vidi_template/theme/jscroll.js" type="text/javascript"></script>
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {					   
+	$('.user_login').hide();					   
+	
+	$('#user_login').toggle(
+		function() {
+			$('.user_login').slideDown('normal');
+		},
+		function() {
+			$('.user_login').slideUp('normal');
+		}
+								
+	);
+	
+	$('#grid').click(
+		function() {
+			$('.grid_view').removeClass('list_view');
+			$.cookie("current_style","grid_view")
+			$('.vid_sp').hide();
+		}
+	);
+	
+	$('#list').click(
+		function() {
+			$('.grid_view').addClass('list_view');
+			$.cookie("current_style","list_view")
+			$('.vid_sp').show();
+		}
+	);	
+	
+	$('.tabs li').click(
+		function() {
+			$('.tabs li').removeClass('selected')
+			$(this).addClass('selected');
+		}
+	);
+	
+	$('#side_scroll, #side_scroll2, #side_scroll3').jScrollPane({
+									"showArrows": true,
+									"scrollbarWidth": 20,
+									"dragMaxHeight": 127,
+									"reinitialiseOnImageLoad": true
+								 });						 
+	
+	$('#lang_selector').click(function(){
+  //do redirection
+});
+
+	$('#lang_selector').change(function(){
+	  var optionSelectedValue = $('#lang_selector option:selected').val();
+	  if(optionSelectedValue)
+	  window.location = "?set_site_lang="+optionSelectedValue;
+	});
+	get_video('recent_viewed_vids','#index_vid_container');
+	
+});
+  
+
+</script>
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix { height: 1%; }
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="http://clipbucket.net/v2/styles/vidi_template/theme/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+<!-- Global Header Ends Here -->
+<div class="header_container">
+	<div class="main_header">
+    	<div id="quicklist_box"></div>
+
+<a href="http://clipbucket.net/v2"><div class="logo floatL"></div></a>
+
+<div class="floatR">
+    <div class="upload_video floatL"><a href="http://clipbucket.net/v2/upload">upload video</a></div>
+    <div class="upload_photo floatL"><a href="http://clipbucket.net/v2/photo_upload">upload photo</a></div>
+</div>
+        
+<div class="nav_bar top_round_10 floatL">
+
+    <ul>
+                                    <li><a href="http://clipbucket.net/v2" class="selected">Home</a></li>
+                                                <li><a href="http://clipbucket.net/v2/videos/">Videos</a></li>
+                                                <li><a href="http://clipbucket.net/v2/channels/">Channels</a></li>
+                                                <li><a href="http://clipbucket.net/v2/groups/">Groups</a></li>
+                                                <li><a href="http://clipbucket.net/v2/collections/">Collections</a></li>
+                                                                    <li><a href="http://clipbucket.net/v2/photos/">Photos</a></li>
+                        </ul>
+    
+</div> <!--nav_bar end-->
+
+<div style="clear:both"></div>
+
+<div class="signup floatR"><a href="http://clipbucket.net/v2/signup">signup</a></div>
+    </div>
+</div> <!--header_container end-->    
+    
+ 
+   
+    
+    
+    <div class="container">
+    	<div class="clearfix"></div>
+
+
+
+
+    </div>
+
+                    	<div class="container">
+
+<div class="search_bar full_round_5">
+	<div class="search_inner floatL">    
+    <form action="http://clipbucket.net/v2/search_result.php" method="get" name="search" id="search" class="search">
+        <input type="text" name="query" id="query" value="Search Video" class="s_input left_round_5" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+        <input type="submit" name="search" class="top_s_button" value="">
+    </form>
+    </div>
+    
+        
+	<div class="login_con floatL">
+        <form action="http://clipbucket.net/v2/signup.php" method="post" name="login" style="margin:0px; padding:0px;">
+
+            <input type="text" value="username" id="username" name="username" class="login_input full_round_5" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+	        <input type="password" value="password" id="password" name="password" class="login_input full_round_5" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
+            
+			<input type="submit" value="" id="login" name="login" class="login_button">
+			<div class="forgot_button floatR"><a href="http://clipbucket.net/v2/forgot.php" title="Forgot Your Password">F</a></div>
+
+             
+		</form>
+    </div> <!--login_con END--> 
+                
+</div> <!--search_bar end-->
+<div class="upload_left full_round_10" style="background:#f8f8f8; border:1px solid #bfbfbf; width:98.3%; margin-top:8px;">
+
+		<div class="simple_container full_round_10" style="margin-top:10px;"><h1>ClipBucket Privacy Notice - YT Version
+</h1>
+<h2>Personal Information</h2>
+<ul>
+  <li><strong>Browsing ClipBucket</strong> You can watch videos on ClipBucket without having a ClipBucket Account or a  PHPBucket Account. You also can contact us through the ClipBucket Help Center  or by emailing us directly without having to register for an account.</li>
+  <li><strong>Your ClipBucket Account.</strong> For some activities on ClipBucket, like uploading videos, posting  comments, flagging videos, or watching restricted videos, you need a  ClipBucket or PHPBucket Account. We ask for some personal information when  you create an account, including your email address and a password,  which is used to protect your account from unauthorized access. A  PHPBucket Account, additionally, allows you to access other PHPBucket  services that require registration.</li>
+  <li><strong>Usage Information.</strong> When you use ClipBucket, we may record information about your usage of the  site, such as the channels, groups and favorites you subscribe to,  which other users you communicate with, the videos you watch, the  frequency and size of data transfers, and information you display about  yourself as well as information you click on in ClipBucket (including UI  elements, settings). If you are logged in, we may associate that  information with your ClipBucket Account. In order to ensure the quality  of our service to you, we may place a tag (also called a "web beacon")  in HTML-based customer support emails or other communications with you  in order to confirm delivery.</li>
+  <li><strong>Content Uploaded to Site.</strong> Any personal information or video content that you voluntarily disclose  online (e.g., video comments, your profile page) may be collected and  used by others. If you download the ClipBucket Uploader, your copy  includes a unique application number. This number, and information  about your installation of the Uploader (version number, language) will  be sent to ClipBucket when the Uploader automatically checks for updates  and will be used to update your version of the Uploader.</li>
+</ul>
+<h2>Uses</h2>
+<ul>
+  <li>If  you submit personal information to ClipBucket, we may use that information  to operate, maintain, and improve the features and functionality of  ClipBucket, and to process any flagging activity or other communication  you send to us.</li>
+  <li>We do not use your  email address or other personal information to send commercial or  marketing messages without your consent. We may use your email address  without further consent for non-marketing or administrative purposes  (such as notifying you of major ClipBucket changes or for customer service  purposes). You also can choose how often ClipBucket sends you email  updates in your ClipBucket Account settings page.</li>
+  <li>We  use cookies, web beacons, and log file information to: (a) store  information so that you will not have to re-enter it during your visit  or the next time you visit ClipBucket; (b) provide custom, personalized  content and information; (c) monitor the effectiveness of our marketing  campaigns; (d) monitor aggregate metrics such as total number of  visitors and pages viewed; and (e) track your entries, submissions, and  status in promotions, sweepstakes, and contests.</li>
+</ul>
+<h2>Information That is Publicly Available</h2>
+<ul>
+  <li>When  you create a ClipBucket Account, some information about your ClipBucket  Account and your account activity will be provided to other users of  ClipBucket. This may include the date you opened your ClipBucket Account, the  date you last logged into your ClipBucket Account, your age (if you choose  to make it public), the country and the number of videos you have  watched.</li>
+  <li>Your ClipBucket Account name,  not your email address, is displayed to other users when you engage in  certain activities on ClipBucket, such as when you upload videos or send  messages through ClipBucket. Other users can contact you by leaving a  message or comment on the site.</li>
+  <li>Any  videos that you submit to ClipBucket may be redistributed through the  internet and other media channels, and may be viewed by other ClipBucket  users or the general public. </li>
+  <li>You  may also choose to add personal information which may include your  name, gender, profile picture or other details, that will be visible to  other users on your ClipBucket Account channel page. If you choose to add  certain features to your ClipBucket Account channel page, then these  features and your activity associated with these features will be  displayed to other users and may be aggregated and shared with your  friends or other users. Such shared activity may include your favorite  videos, videos you rated and videos that you have uploaded.</li>
+</ul>
+<h2>Your Choices</h2>
+<ul>
+  <li>If  you have a ClipBucket Account, you may update or correct your personal  profile information, email preferences and privacy settings at any time  by visiting your account profile page. </li>
+  <li>You  may control the information that is available to other users and your  confirmed friends at any time by editing your ClipBucket Account and the  features that are included on your channel page. If you have enabled  Active Sharing, other users may see that you, as identified by your  account name, not your email address, are watching the same video.</li>
+  <li>You  may, of course, decline to submit personal information through ClipBucket,  in which case you can still view videos and explore ClipBucket, but  ClipBucket may not be able to provide certain services to you. Some  advanced ClipBucket features may use other PHPBucket services like PHPBucket  Checkout or AdSense. The privacy notices of those services govern the  use of your personal information associated with them.</li>
+</ul>
+</div>
+
+</div> <!--upload_left end-->  
+
+</div> <!--container end-->            	<div class="container">
+            <div class="footer full_round_10 clearfix">
+                <div class="footer_links clearfix full_round_5">
+
+        
+        
+                                    <a href="http://clipbucket.net/v2" class="f_links">Home</a>
+                                                <a href="http://clipbucket.net/v2/contact" class="f_links">Contact Us</a>
+                                                <a href="http://clipbucket.net/v2/page/1/about-us" class="f_links">About us</a>
+                                                <a href="http://clipbucket.net/v2/page/2/privacy-policy" class="f_links">Privacy Policy</a>
+                                                <a href="http://clipbucket.net/v2/page/3/terms-of-service" class="f_links">Terms of Service</a>
+                                                <a href="http://clipbucket.net/v2/page/4/help" class="f_links">Help</a>
+                    
+    <div class="powered_by">
+        <div align="center"> </div>
+	</div>
+</div>
+<!--
+<div class="all_quicks_links">
+<div class="quick_links floatL">Videos
+<div class="q_l">
+    <ul>
+                        	<li  class="selected"><a href="http://clipbucket.net/v2/videos/all/All/most_recent/all_time/1">Recent</a></li>
+                	<li ><a href="http://clipbucket.net/v2/videos/all/All/most_viewed/all_time/1">Viewed</a></li>
+                	<li ><a href="http://clipbucket.net/v2/videos/all/All/featured/all_time/1">Featured</a></li>
+                	<li ><a href="http://clipbucket.net/v2/videos/all/All/top_rated/all_time/1">Top Rated</a></li>
+                	<li ><a href="http://clipbucket.net/v2/videos/all/All/most_commented/all_time/1">Commented</a></li>
+            </ul>
+</div>
+</div>
+
+<div class="quick_links floatL">Channels
+<div class="q_l">
+    <ul>
+                            <li  class="selected"><a href="http://clipbucket.net/v2/channels/all/All/most_recent/all_time/1">Recent</a></li>
+                    <li ><a href="http://clipbucket.net/v2/channels/all/All/most_viewed/all_time/1">Viewed</a></li>
+                    <li ><a href="http://clipbucket.net/v2/channels/all/All/featured/all_time/1">Featured</a></li>
+                    <li ><a href="http://clipbucket.net/v2/channels/all/All/top_rated/all_time/1">Top Rated</a></li>
+                    <li ><a href="http://clipbucket.net/v2/channels/all/All/most_commented/all_time/1">Commented</a></li>
+            </ul>
+</div>
+</div>
+
+<div class="quick_links floatL">Groups
+<div class="q_l">
+    <ul>
+                            <li  class="selected"><a href="http://clipbucket.net/v2/groups/all/All/most_recent/all_time/1">Recent</a></li>
+                    <li ><a href="http://clipbucket.net/v2/groups/all/All/most_viewed/all_time/1">Viewed</a></li>
+                    <li ><a href="http://clipbucket.net/v2/groups/all/All/featured/all_time/1">Featured</a></li>
+                    <li ><a href="http://clipbucket.net/v2/groups/all/All/top_rated/all_time/1">Top Rated</a></li>
+                    <li ><a href="http://clipbucket.net/v2/groups/all/All/most_commented/all_time/1">Commented</a></li>
+            </ul>
+</div>
+</div>
+</div>-->            </div> <!--footer_con end-->
+  	</div> <!--container end-->
+ 
+
+
+</body></html>
