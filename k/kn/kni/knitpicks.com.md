@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knitpicks.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514005414id_/http%3A//www.knitpicks.com/cfhelp/Index.cfm%3Ftype%3Dkp%26CSCatID%3D30%26CSItemID%3D23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knitpicks.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114222854id_/http%3A//www.knitpicks.com/cfhelp/Index.cfm%3Ftype%3Dkp%26CSCatID%3D30%26CSItemID%3D23) for the most accurate reproduction.*
 
 # Knit Picks Customer Service Help Index
 
