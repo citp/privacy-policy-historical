@@ -1,30 +1,93 @@
-> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501222512id_/http%3A//www.wissports.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114111944id_/http%3A//www.wissports.net/legal/privacy_policy) for the most accurate reproduction.*
 
-# Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net
+# Privacy Policy | Legal | NGIN
 
-**PRIVACY POLICY**
+Your privacy is very important to us. To better protect your privacy, we provide this notice explaining our online information practices on how your information is collected and used at this Sport Ngin site (the “Policy”).
 
-**INFORMATION COLLECTION**  
-We do not collect personally identifiable information about you except when you specifically provide this information on a voluntary basis. We will make every effort to ensure that whatever information you provide will be maintained in a secure environment. 
+Before you submit any information on this site, please read this Policy for an explanation of how we will treat your personal information. By using this Sport Ngin site you consent to the collection and use of your personal information as outlined in this Policy.
 
-However, even if you opt out of receiving any communications from WisSports.net, we reserve the right to contact you regarding your account status or any other matter that might affect our service to you and/or our records on you. 
+Your use of any part of any Sport Ngin site indicates your acceptance of this Policy and of the collection and use of your personal information in accordance with this Policy.
 
-**INFORMATION USE**  
-The Wisconsin Sports Network (WSN) reserves the right to perform statistical analyses of user behavior and characteristics. We do this in order to measure interest in and use of the various areas of the web site. WSN collects IP addresses for system administration and record keeping. Your IP address is automatically assigned to your computer when you use the World Wide Web. Our servers record incoming IP addresses. The IP addresses are analyzed only in aggregate; no connection is made between you and your computer's IP address. By tracking IP addresses, we can determine which sites refer the most people to wisfootball.net (Think of an IP address like your zip code; it tells us in general terms where you're from.) 
+Sport Ngin sites do not knowingly solicit any personally identifiable information from children under the age of 13. In addition, Sport Ngin sites do not knowingly obtain, retain or use information from anyone who indicates that they are under the age of 13. Accordingly, children under the age of 13 may be restricted from participating in certain features and transactions on Sport Ngin sites. All Sport Ngin Websites strictly adhere to Children's Online Privacy Protection Act of 1998 or COPPA.
 
-**COOKIES**  
-"Cookies" are small text files a web site can use to recognize repeat users. WSN uses cookies to recognize visitors and more quickly provide personalized content or grant you unimpeded access to the web site. With cookies enabled, you will not need to fill in password or contact information. Information gathered through cookies also helps us measure use of our web site. Cookie data allow us to track usage behavior and compile data that we can use to improve the site. This data will be used in aggregate form; no specific users will be tracked. 
+### Table of Contents
 
-Generally, cookies work by assigning a unique number to the user that has no meaning outside of the Web site that he or she is visiting. You can easily turn off cookies. Most browsers have a feature that allows the user to refuse cookies or issues a warning when cookies are being sent. However, our site will not function properly without cookies. Enabling cookies ensures a smooth, efficient visit to our web site. 
+  1. #### The Information We Collect
 
-**OPTING OUT**  
-Upon your request, WSN will delete you and your personal information from our database; however, it may be impossible to delete all of your information without some residual data because of backups and records of deletions. 
+  2. #### How We Use The Information
 
-**GENERAL SECURITY POLICY**  
-WSN is aware of your privacy concerns and strives to collect only as much data as is required to make your WSN experience as efficient and satisfying as possible, in the most unobtrusive manner as possible. The foregoing policies are effective as of October 2002. WSN reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+  3. #### With Whom The Information May Be Shared
 
-**Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+  4. #### Collection Of Information By Third-Party Sites And Sponsors
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
+  5. #### Cookies
+
+  6. #### Our Commitment To Security
+
+  7. #### How To Contact Us
+
+  8. #### Online Registration
+
+  9. #### Updates
+
+
+
+
+### Privacy Policy
+
+  1. #### The Information We Collect
+
+On this site you can register for a user account, order products, vote in polls or otherwise express an opinion, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, and fax number.
+
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 98, Windows 2000 or Mac OS) and the domain name of your Internet service provider.
+
+  2. #### How We Use the Information
+
+Information is stored securely in an encrypted database and is accessible only by the registered and a licensed member of your organization’s governing board. The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities.
+
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+
+  3. #### With Whom the Information May Be Shared.
+
+Your information also may be provided to an entity that acquires all or any part of any of the Sport Ngin companies’ assets or in a merger or acquisition. Further, we may disclose information to law enforcement or other government officials and if asked to disclose it by subpoena, court order or other legal process.
+
+While Sport Ngin is careful in choosing its sponsors and advertisers, we are only responsible for content on our own sites and for use of your personally identifiable information by us. All third parties associated with Sport Ngin (including, but not limited to, advertisers, sponsors and other Internet sites) with whom we share information have independent privacy and data collection practices. We encourage you to read the privacy policy of every website that you visit. Sport Ngin can not control this collection of information and cannot be responsible or liable for the policies or actions of third parties.
+
+  4. #### Collection of Information by Third Party Sites and Sponsors
+
+Our sites contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. We may sometimes offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors/entrants voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the third party sponsors' use of this information.
+
+  5. #### Right to Deliver and Send Commercial Messages
+
+You agree to receive commercial messages from Sport Ngin or any third party chosen by Sport Ngin (thereafter Sport Ngin Commercial partners) on any device you use to access and operate Sport Ngin products and services and which may be based on characteristics derived from information explicitly or implicitly provided by you, such as your location, to Sport Ngin and which will be treated according to our Privacy Policy.
+
+Commercial messages are messages sent on your Sport Ngin account or email address for commercial purposes for Sport Ngin or Sport Ngin Commercial partners’ products and services. Commercial messages sent bySport Ngin or Sport Ngin Commercial partners to your email address will include a one click opt-out option.
+
+  6. #### Cookies
+
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. These Cookies do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering with us.
+
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites.
+
+  7. #### Our Commitment to Security
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+  8. #### How to Contact Us
+
+If you have any questions or concerns about the Sport Ngin online policy for this site or its implementation you may contact us at 612-379-1030 or at support@ngin.com.
+
+  9. #### Online Registration
+
+When asked to submit personal billing information, it is important to know that this information is used only for payment processing verification. Sport Ngin does not distribute sell or otherwise exploit this information in any way. For security reasons complete credit card numbers are never saved or stored.
+
+  10. #### Updates
+
+From time to time, we may update this privacy notice. We will note the date the Policy was changed at either the top or bottom of the Policy, to keep you informed of when updates occur. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+
+
+
+
+LAST UPDATED: July 25, 2011 © Sport Ngin, 2012. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
