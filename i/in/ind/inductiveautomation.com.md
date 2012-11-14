@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inductiveautomation.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127122943id_/http%3A//www.inductiveautomation.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inductiveautomation.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114041517id_/http%3A//www.inductiveautomation.com/privacypolicy) for the most accurate reproduction.*
 
 # Inductive Automation - Privacy Policy
 
@@ -7,7 +7,7 @@ Thank you for visiting our web site. This privacy policy tells you how we use pe
 Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
  **Collection of Information**  
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to: a) improve your browsing experience by personalizing the website, b) send to you marketing communications relating to our business.
 
  **Cookie/Tracking Technology**  
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
