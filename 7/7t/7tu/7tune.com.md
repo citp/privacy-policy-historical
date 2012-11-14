@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506223442id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114053209id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : 7Tune.com
 
   
 
+
+Your ads will be inserted here by
+
+ **[Easy AdSense Pro](http://buy.thulasidas.com/easy-adsense "The most popular AdSense Plugin for WordPress")**.
+
+Please go to the plugin admin page to paste your ad code.
 
 PRIVACY POLICY for www.7tune.com  
 At 7Tune we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by “<http://www.legalcentre.co.uk/ecommerce/privacy-policy-template.php>” website privacy policy provider LegalCentre.co.uk.  
@@ -51,7 +57,9 @@ You mind find links to third party websites on our website. These websites shoul
 **Contacting Us**  
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. [Please do not hesitate to contact us](http://www.7tune.com/contact-page/).
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.7tune.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
