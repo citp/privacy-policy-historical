@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezau.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608011017id_/http%3A//www.ezau.com/latest/articles/0138.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezau.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114202129id_/http%3A//www.ezau.com/latest/articles/0138.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
