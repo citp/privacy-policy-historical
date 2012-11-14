@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massivetrafficlist.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625123050id_/http%3A//www.massivetrafficlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivetrafficlist.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114223305id_/http%3A//massivetrafficlist.com/privacy.php) for the most accurate reproduction.*
 
 # Massive Traffic List
 
