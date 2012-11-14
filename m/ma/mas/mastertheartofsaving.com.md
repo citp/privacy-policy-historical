@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastertheartofsaving.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620044628id_/http%3A//www.mastertheartofsaving.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastertheartofsaving.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114113234id_/http%3A//www.mastertheartofsaving.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master the Art of Saving
 
@@ -35,5 +35,5 @@ Master the Art of Saving has the discretion to update this privacy policy at any
 **Your acceptance of these terms**  
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.  
 **Contacting us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [Master the Art of Saving](http://www.mastertheartofsaving.com/) [http://www.mastertheartofsaving.com](http://www.mastertheartofsaving.com/) gotmonkees (at) msn (dot) com  
-This document was last updated on March 15, 2012
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [Master the Art of Saving](http://www.mastertheartofsaving.com/) [http://www.mastertheartofsaving.com](http://www.mastertheartofsaving.com/) gotmonkees (at) gmail (dot) com  
+This document was last updated on August 12, 2012
