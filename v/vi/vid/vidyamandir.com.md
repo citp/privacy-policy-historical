@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104180327id_/http%3A//www.vidyamandir.com/vmcPrivatePolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114035411id_/http%3A//www.vidyamandir.com/vmcPrivatePolicy.jsp) for the most accurate reproduction.*
 
-# None
+# IITJEE Coaching Institute in Delhi for IITJEE Preparation: Vidyamandir Classes
 
 At Vidyamandir Classes Ltd. we recognize that privacy is important. Vidyamandir Classes Ltd. does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission. You have rights under this Privacy Policy, that all business or personal information provided to Vidyamandir Classes Ltd. is on a voluntary basis, and that information provided will be protected to the extent permitted by the Privacy Act of 1974 and the dom of Information Act of 1966.
 
