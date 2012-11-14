@@ -1,26 +1,23 @@
-<!--The following is the downloaded HTML source of the theforumsite.com privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516053625id_/http%3A//www.theforumsite.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theforumsite.com privacy policy that was archived on 2012-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114053413id_/http%3A//www.theforumsite.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
 <base href="http://www.theforumsite.com/">
 <title>The Forum Site - Privacy Policy</title>
 
-<meta name="robots" content="index,follow,noarchive">
+
+<meta name="robots" content="index,follow">
+
 <link rel="SHORTCUT ICON" href="http://www.theforumsite.com/favicon.ico">
 
 <link rel="StyleSheet" href="http://c.tfster.com/templates/strict28.css" type="text/css">
 
 <script type="text/javascript" src="http://c.tfster.com/templates/jquery.js">
 </script>
-<script type="text/javascript" src="http://c.tfster.com/templates/site22.js">
+<script type="text/javascript" src="http://c.tfster.com/templates/site23.js">
 </script>
 <script type="text/javascript">
-
-	var ccc = ReadCookie('user');
-	if (ccc != '' && window.location.hostname == 'www.theforumsite.com') {
-		location.replace('http://my.theforumsite.com'+window.location.pathname);
-	}
 
 Shadowbox.init({
 	continuous: true,
@@ -28,23 +25,8 @@ Shadowbox.init({
 	overlayOpacity: 0.8,
 	handleSupported: "link"
 });
-function regBoxOpen() {
-    // open a welcome message as soon as the window loads
-    Shadowbox.open({
-        content:    'http://my.theforumsite.com/register.php?iframe=1',
-	player:     "iframe",
-        title:      "Welcome",
-        height:     450,
-        width:      700
-    });
 
-}
-window.onload = function() {
-   if(ReadCookie('welcomed')!=1 && ReadCookie('mb') != 1 && ReadCookie('user') == '') {
-	   setTimeout('regBoxOpen()',10000);
-	   SetCookie('welcomed',1,30);
-   }
-};
+
 
 </script>
 <script type="text/javascript">
@@ -64,9 +46,30 @@ var TFSUserName  = '';
 var user_points  = '';
 var myTimer;
 var thelinks  = new Array();
-var serverTime = 1337146586;
+var serverTime = 1352871253;
 var trimage    = '';
 
+
+var activeform;
+
+	function submitpost(myform) {		
+		activeform = myform;
+		if(TFSUserId > 0) {
+			myform.submit();
+		} else {
+			    Shadowbox.open({
+			        content:    'http://www.theforumsite.com/login.php?iframe=1&to=http://www.theforumsite.com/callback/newuser2.php',
+				player:     "iframe",
+			        title:      "Welcome",
+			        height:     450,
+			        width:      700
+			    });
+		}
+	}
+
+	function submitnewpost() {
+		activeform.submit();
+	}
 
 function userTooltip(theID,theUser) {
 	var config = {
@@ -92,6 +95,7 @@ function userTooltip(theID,theUser) {
 body {
 	background-image:url("http://c.tfster.com/images/grey_dots.gif");
 	background-repeat:repeat;
+
 }
 </style>
 </head>
@@ -156,14 +160,14 @@ google_ad_height = 90;
 
 <div class="footer" style="width:100%;margin:auto;height:90px;">
 
-<div style="text-align:center;"><iframe src="http://cdn.funkyllama.net/flp/network.php?ref=http://src.theforumsite.com&amp;theme=dark" style="margin:auto;background-color:#000000;height:20px;width:100%;" frameborder="0" scrolling="no" allowtransparency="true"></iframe></div>
+<div style="text-align:center;"><iframe src="http://cdn.funkyllama.net/flp/network.php?ref=http://www.theforumsite.com&amp;theme=dark" style="margin:auto;background-color:#000000;height:20px;width:100%;" frameborder="0" scrolling="no" allowtransparency="true"></iframe></div>
 
 <div style="float:right;width:180px;height:90px;">
 <a href="http://www.maploco.com/"><img style="border:0px;" src="http://content.pimp-my-profile.com/i45/5/2/10/f_9a7af79882.jpg" alt="Locations of Site Visitors" title="Locations of Site Visitors"></a>  
 </div>
 
 <small>
-TFS Time: Wed 16 May 2012 01:36 am EDT<br>
+TFS Time: Wed 14 Nov 2012 12:34 am EST<br>
 Copyright © 2004-2012 Funky Llama Productions, LLC &nbsp;&nbsp;|&nbsp;&nbsp; 
 <a href="/">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
 <a href="/contact.php">Contact</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
@@ -197,8 +201,8 @@ Copyright © 2004-2012 Funky Llama Productions, LLC &nbsp;&nbsp;|&nbsp;&nbsp;
 					</ul><li> <a href="/blog.php" id="Menujournal" class="preextra" title="Journals">Journals</a> <a href="#" id="MenuExtrajournal" onclick="show('journal');return false;" class="extra"><img src="http://c.tfster.com/images/nav/arrow-down.gif" border="0" alt="journal" width="15" height="15"></a> </li><ul class="NavSubMenuList" id="SubMenujournal">
 						<li> <a href="/register.php">Create New</a> </li> 
 					</ul><li> <a href="/pics.php" id="Menupics" class="preextra" title="Photos">Photos</a> <a href="#" id="MenuExtrapics" onclick="show('pics');return false;" class="extra"><img src="http://c.tfster.com/images/nav/arrow-down.gif" border="0" alt="pics" width="15" height="15"></a> </li><ul class="NavSubMenuList" id="SubMenupics">
-						<li> <a href="http://my.theforumsite.com/register.php">Upload</a> </li> 
-					</ul><li> <a href="http://my.theforumsite.com/login.php" id="Menupm" class="preextra" title="Login "><span style="margin-right:15px;">Login</span> </a></li><li> <a href="http://my.theforumsite.com/register.php" id="Menulogin" class="preextra" title="Join Now">Join Now</a></li><form class="gsearchbox" action="/gsearch.php" id="cse-search-box">  <div>    <input type="hidden" name="cx" value="partner-pub-5460553490594536:wjdzdzyj3ue">    <input type="hidden" name="cof" value="FORID:10">    <input type="hidden" name="ie" value="ISO-8859-1">    <input type="text" name="q" size="16">    <input type="submit" name="sa" value="Search">  </div></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></ul>
+						<li> <a href="http://www.theforumsite.com/register.php">Upload</a> </li> 
+					</ul><li> <a href="http://www.theforumsite.com/login.php" id="Menupm" class="preextra" title="Login "><span style="margin-right:15px;">Login</span> </a></li><li> <a href="http://www.theforumsite.com/register.php" id="Menulogin" class="preextra" title="Join Now">Join Now</a></li><form class="gsearchbox" action="/gsearch.php" id="cse-search-box">  <div>    <input type="hidden" name="cx" value="partner-pub-5460553490594536:wjdzdzyj3ue">    <input type="hidden" name="cof" value="FORID:10">    <input type="hidden" name="ie" value="ISO-8859-1">    <input type="text" name="q" size="16">    <input type="submit" name="sa" value="Search">  </div></form><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></ul>
 
 <script type="text/javascript">
 <!--
