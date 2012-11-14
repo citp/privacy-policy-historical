@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esalon.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224182836id_/http%3A//www.esalon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esalon.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114075358id_/https%3A//www.esalon.com/privacy) for the most accurate reproduction.*
 
 # eSalon.com | Privacy Policy
 
@@ -8,7 +8,7 @@ eSalon.com, a Delaware Limited Liability Corporation ("eSalon" or "we") operates
 
 ###### Information We Collect
 
-We collect information such as personal appearance, hair characteristics, and hair-dying habits from our clients in order to formulate custom hair care products. We also collect information about you in order to better serve you and facilitate your purchases and shopping experience. Such information may include your name, shipping address, billing address, telephone numbers, e-mail address, and your credit card and other payment information ("personal information"). We may also collect data we gather from your use of the Site, the pages you visit and the options you select, as well as the IP address you use to access the Site. Much of this data, called analytics, is collected in the aggregate in anonymized fashion to optimize the operation of the Site.
+We collect information such as personal appearance, hair characteristics, and hair-dyeing habits from our clients in order to formulate custom hair care products. We also collect information about you in order to better serve you and facilitate your purchases and shopping experience. Such information may include your name, shipping address, billing address, telephone numbers, e-mail address, and your credit card and other payment information ("personal information"). We may also collect data we gather from your use of the Site, the pages you visit and the options you select, as well as the IP address you use to access the Site. Much of this data, called analytics, is collected in the aggregate in anonymized fashion to optimize the operation of the Site.
 
 You will be given the opportunity to establish an online account, and to create your unique login password. In order to protect your account and your personal information, you should not share your login information with anyone. We also do not share this information with third parties. 
 
@@ -58,8 +58,8 @@ eSalon is based in California, and our servers are also US-based. You agree that
 
 eSalon.com, LLC  
 Attention: Privacy c/o Legal Dept.  
-4040 Del Rey Ave, Suite 12  
-Marina del Rey, CA 90292  
+10361 Jefferson Blvd  
+Culver City, CA 90232  
 privacy@esalon.com
 
 This Privacy Policy is effective as of February 1, 2010.  
