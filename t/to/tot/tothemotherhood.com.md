@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the tothemotherhood.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617045207id_/http%3A//www.tothemotherhood.com/2005/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tothemotherhood.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114172440id_/http%3A//www.tothemotherhood.com/2005/06/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy |To the Motherhood
+# Privacy Policy |
+
+June 17, 2005 By [Leave a Comment](http://tothemotherhood.com/2005/06/privacy-policy/#comments)
 
 We value and respect our visitors privacy. That is the reason why we included this privacy policy to make sure that your privacy is not being violated. If you have any questions concerning our Privacy Policy, please do not hesitate to ask!
 
 _**What kind of information does To the Motherhood collect?**_
 
-The only information we may gather is your name and home address if you're a winner of any of our contests. We will not share this information with anyone (unless the sponsor is sending the prize) and we will not save any of your information after your prize has been sent.
+The only information we may gather is your name and home address if you’re a winner of any of our contests. We will not share this information with anyone (unless the sponsor is sending the prize) and we will not save any of your information after your prize has been sent.
 
-We 
-
-_**WILL NOT**_
-
-share, sell, rent, market any of your personal information to another party. 
+We _**WILL NOT**_ share, sell, rent, market any of your personal information to another party. 
 
 _**Stores Privacy Policy**_
 
@@ -20,7 +18,7 @@ All merchants and advertisers have their own privacy policy, and we advise you t
 
 _**Children**_
 
-We do not collect personal information from children under 13 without appropriate parental notice and consent. Note: Visit <http://business.ftc.gov/privacy-and-security/children%E2%80%99s-online-privacy> for information from the Federal Trade Commission about protecting children's privacy online.
+We do not collect personal information from children under 13 without appropriate parental notice and consent. Note: Visit <http://business.ftc.gov/privacy-and-security/children%E2%80%99s-online-privacy> for information from the Federal Trade Commission about protecting children’s privacy online. 
 
 **Advertising:**
 
