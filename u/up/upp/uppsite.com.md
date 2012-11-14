@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppsite.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527165701id_/http%3A//www.uppsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppsite.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114124817id_/https%3A//www.uppsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UppSite
 
