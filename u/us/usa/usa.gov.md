@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621104901id_/http%3A//www.usa.gov/About/Privacy-Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115144850id_/http%3A//www.usa.gov/About/Privacy-Security.shtml) for the most accurate reproduction.*
 
 # Privacy and Security | USA.gov
 
@@ -34,7 +34,7 @@ Most Internet browsers automatically accept persistent cookies. Although we thin
 
 ## If You Send Us Personal Information
 
-We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by placing an order for our catalog, ordering publications from our catalog, or sending us an e-mail. If you choose to provide us with personal information — like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website — we use that information to respond to your message, and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order. 
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by ordering publications, sending us an e-mail, or subscribing to our e-mail or SMS subscription services. If you choose to provide us with personal information — like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website — we use that information to respond to your message, and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order. 
 
 We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
