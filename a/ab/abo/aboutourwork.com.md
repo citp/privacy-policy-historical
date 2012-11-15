@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the aboutourwork.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514114123id_/http%3A//www.aboutourwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutourwork.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115045237id_/http%3A//www.aboutourwork.com/privacy) for the most accurate reproduction.*
 
-# Business Profile Pages, Connections, Small Business Network | AboutOurWork.com
+# Company Profiles | Business Networking | Small Business Connection Network | AboutOurWork
 
 ## Privacy Policy
 
-_This Privacy Policy is effective June 1, 2011._
+_This Privacy Policy is effective June 1, 2011_
 
 AboutOurWork.com (AOW, LLC) is a Limited Liability Corporation based in Columbus, OH.
 
-AboutOurWork.com is committed to protecting the privacy of your information. This Privacy Statement describes AboutOurWork.com's Web site privacy practices.
+AboutOurWork.com is committed to protecting the privacy of your information. This Privacy Statement describes AboutOurWork.com’s Web site privacy practices.
 
 If you have any questions or concerns, please email us immediately at privacy@aboutourwork.com.
 
@@ -24,7 +24,7 @@ We use your email address only to send you information and updates about AboutOu
 
 ### Cookies and Your Computer
 
-Like most websites, we use "cookie" technology. A cookie is a very small text file that a website can save onto your computer's hard disk to store your information and settings. When you log on, the cookie tells us whether you have visited us before or are a new visitor. It doesn't track any personal information, give us the means to contact you, extract information from your computer or deliver viruses. Furthermore, your address or credit card information is never stored in a cookie. Cookies are simply the most efficient way for us to be able to offer you an enjoyable online experience. We do not share your cookie information with any other entities.
+Like most websites, we use “cookie” technology. A cookie is a very small text file that a website can save onto your computer’s hard disk to store your information and settings. When you log on, the cookie tells us whether you have visited us before or are a new visitor. It doesn’t track any personal information, give us the means to contact you, extract information from your computer or deliver viruses. Furthermore, your address or credit card information is never stored in a cookie. Cookies are simply the most efficient way for us to be able to offer you an enjoyable online experience. We do not share your cookie information with any other entities.
 
 ### Disclosure of Personal Information
 
@@ -48,9 +48,9 @@ We DO NOT use third-party advertising companies to serve ads on our behalf. Abou
 
 We use Social Connectors such as Facebook, Twitter and LinkedIn & Yelp for three purposes only:
 
-  1. 1\. To allow our users to link their Business Profile to the Social Services that they own and manage
-  2. 2\. To allow our users to share news, updates or information about themselves or AboutOurWork.com
-  3. 3\. To provide a positive overall experience for our users
+  1. To allow our users to link their Business Profile to the Social Services that they own and manage
+  2. To allow our users to share news, updates or information about themselves or AboutOurWork.com
+  3. To provide a positive overall experience for our users
 
 
 
