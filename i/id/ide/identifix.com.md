@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512034227id_/http%3A//identifix.com/Corp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identifix.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115151738id_/http%3A//identifix.com/Corp/privacy.aspx) for the most accurate reproduction.*
 
 # IDENTIFIX - PRIVACY
 
@@ -13,7 +13,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 651-633-2188
 
   
-[Contact Us page](https://web.archive.org/web/20120512034227id_/http%3A//identifix.com/Corp/contact_us.asp)
+[Contact Us page](https://web.archive.org/web/20121115151738id_/http%3A//identifix.com/Corp/contact_us.asp)
 
   
 2714 Patton Road  
