@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwestlife.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531232450id_/http%3A//www.greatwestlife.com/001/Home/ssLINK/S7_002503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwestlife.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115150522id_/http%3A//www.greatwestlife.com/001/Home/ssLINK/S7_002503) for the most accurate reproduction.*
 
 # Great-West Life | Legal
 
@@ -6,7 +6,7 @@ This Privacy Policy covers the treatment of personally identifiable information 
 
 ## Privacy and confidentiality
 
-Great-West Life is committed to respecting the privacy and confidentiality of information it receives, in accordance with Great-West Life’s [_Privacy Guidelines_](https://web.archive.org/web/20120531232450id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank), and applicable law. Great-West Life has established and will continue to maintain reasonable safeguards to protect the security and confidentiality of personal information. However, you acknowledge and confirm that the Internet is not a secure medium where privacy and confidentiality can be guaranteed and that complete security and confidentiality of transmissions to and from this site over the Internet is not possible at this time. Your confidential use of this site cannot be guaranteed and you acknowledge that your use of this site (including information you transmit to the site) may be subject to access or manipulation by, or disclosure to, third parties. Without limiting any other disclaimer herein, Great-West Life and its affiliates shall not be responsible or liable for any damages that you or any other person may suffer in connection with any such breach of privacy, confidentiality or security. 
+Great-West Life is committed to respecting the privacy and confidentiality of information it receives, in accordance with Great-West Life’s [_Privacy Guidelines_](https://web.archive.org/web/20121115150522id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank), and applicable law. Great-West Life has established and will continue to maintain reasonable safeguards to protect the security and confidentiality of personal information. However, you acknowledge and confirm that the Internet is not a secure medium where privacy and confidentiality can be guaranteed and that complete security and confidentiality of transmissions to and from this site over the Internet is not possible at this time. Your confidential use of this site cannot be guaranteed and you acknowledge that your use of this site (including information you transmit to the site) may be subject to access or manipulation by, or disclosure to, third parties. Without limiting any other disclaimer herein, Great-West Life and its affiliates shall not be responsible or liable for any damages that you or any other person may suffer in connection with any such breach of privacy, confidentiality or security. 
 
 ## Your personal information
 
@@ -41,25 +41,12 @@ For information on various types of e-mail fraud please visit Public Safety Cana
 
 ## Cookies
 
-"Cookies" are small items of data that websites store in your browser. These data files contain information the site can use to track and organize the pages you have visited, and to gather information. Some of our web-based applications use "cookie" technology to measure site activity and tailor information to fit your personal interests. This helps us deliver a superior website experience that is designed to be fast, secure and personalized. Great-West Life uses only "session" cookies; that is to say, cookies placed by Great-West Life are deleted when you close your browser, further protecting your privacy and security.
+"Cookies" are small items of data that websites store in your browser. These data files contain information the site can use to track and organize the pages you have visited, and to gather information. Some of our web-based applications use "cookie" technology to measure site activity and tailor information to fit your personal interests. This helps us deliver a superior website experience that is designed to be fast, secure and personalized. 
 
 ## Traffic analysis
 
 Great-West Life collects some limited information about your connection to the Internet. This information includes your computer's IP address, which is your numerical address on the Internet that lets our servers know where to send the web pages you view. This information is collected to help measure traffic to our site and the performance of our servers, and to help diagnose and address problems when they arise.
 
-|  |   
----  
-| 
+Great-West Life may, from time to time, employ Google Analytics, a web analytics service provided by Google Inc., to help measure traffic patterns to, from, and within our public websites. This analytics measurement tool uses "session" and "persistent" cookies to collect standard Internet log information and to track visitor behaviour information in an anonymous form. The information generated by the cookies about your use of the websites (including the first nine digits of your IP address) is transmitted to Google. No personal, identifying information is recorded or provided to Google. This anonymous information is then used to evaluate visitors' use of our websites and to compile statistical reports. 
 
-#### **Related Links**
-
-  * _[Privacy Policy](https://web.archive.org/web/20120531232450id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/S7_002503)_
-  * _[Legal](https://web.archive.org/web/20120531232450id_/http://www.greatwestlife.com/001/Home/Legal/ssNODELINK/174)_
-  * _[Internet Security](https://web.archive.org/web/20120531232450id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/S7_002555)_
-  * _[Accessibility](https://web.archive.org/web/20120531232450id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/S7_026650)_
-
-
-
-|   
-  
-
+For further information about Google Analytics, please refer to [ _Google Inc.’s Privacy Policy_](http://www.google.com/intl/en_ALL/privacy/privacy-policy.html?blank).
