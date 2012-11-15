@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615014119id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115013106id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Millennial Media
 
-Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Millennial Media´s mobile advertising products and services (our “Service”), as well as our company websites located at [www.millennialmedia.com](http://www.millennialmedia.com/), and [http://developer.millennialmedia.com](http://developer.millennialmedia.com/) (“mmDev”), (collectively, our “Websites”).
+Millennial Media is committed to protecting consumer privacy and to clearly informing users about the collection and use of information when using our services. As a result, we have put together this Privacy Policy to explain how we collect and use certain information. This Privacy Policy applies to Millennial Media´s mobile advertising products and services (our “Service”), as well as our company websites located at [www.millennialmedia.com](http://www.millennialmedia.com/), and [www.mmedia.com](http://www.mmedia.com/) (“mMedia”), (collectively, our “Websites”).
 
 **Website Data Collection**
 
