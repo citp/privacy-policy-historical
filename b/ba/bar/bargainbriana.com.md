@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423163011id_/http%3A//bargainbriana.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115105932id_/http%3A//bargainbriana.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BargainBriana
 
@@ -25,4 +25,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20120423163011id_/http%3A//bargainbriana.com/about/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20121115105932id_/http://bargainbriana.com/about/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+
+_Disclaimer: This post may contain a link to an affiliate. See my[disclosure policy](http://bargainbriana.com/about/disclosure-policy) more information._
