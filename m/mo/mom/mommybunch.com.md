@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515080100id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115143957id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
 
 # The Mommy Bunch, Blogging from the Midwest
-
-## Privacy Policy
 
 At The Mommy Bunch ([http://mommybunch.com](http://mommybunch.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
@@ -35,5 +33,3 @@ Amazon Affiliates, a third party system, uses cookies to serve advertisements an
 **3\. Other**  
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from The Mommy Bunch. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [mothersofactivechildrennow@gmail.com](mailto:mothersofactivechildrennow@gmail.com)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmommybunch.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
