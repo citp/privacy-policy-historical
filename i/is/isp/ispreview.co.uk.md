@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510110118id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispreview.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116001450id_/http%3A//www.ispreview.co.uk/policy.shtml) for the most accurate reproduction.*
 
 # ISPreview UK - Independent Internet Service Provider Information Source
 
-_ISPreview_ has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ISPreview](http://www.ispreview.co.uk/).
+_ISPreview.co.uk_ has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ISPreview](http://www.ispreview.co.uk/). Please also check out the [Terms of Use](http://www.ispreview.co.uk/terms.shtml) for our website.
 
 **Information Automatically Logged**
 
@@ -10,7 +10,56 @@ We use your IP address to gather broad demographic information for use in our st
 
 **Cookies**
 
-Our Site uses cookies to deliver content specific to your interests via our survey system, it allows us to block multiple votes from specific individual readers. We also use them to identify status (online/offline) for the discussion forum.
+Our Site uses first party / session cookies (a small text file that is stored on a user's computer by a web browser for tracking and record-keeping purposes) to deliver content specific to your interests via our survey (poll) system ( _cookieset_ ), which allows us to block multiple voting abuse from specific individuals. We also use them to identify your login status (online/offline) for our public discussion forum ( _bb_*_ ) and reader reviews ( _PHPSESSID_ ) service. Outside of this we do not use cookies to store any personal information.
+
+**Third Party Cookies**
+
+Like most websites ISPreview.co.uk also uses a number of external authentication and statistical gathering systems, which allows visitors from other websites and services to communicate with a known identity (username) across several different sites. These optional systems rely upon harmless and temporary third party cookies, which are set remotely (not by ISPreview.co.uk), to maintain a login session between websites and do not generally hold any personally identifiable information. Visitors can choose whether or not to enable them by registering for the related service (they aren't active unless you register to use the related service first).   
+
+
+> _**Twitter**  
+>  https://twitter.com/privacy  
+>  A social networking site, which can be used with news comments. At present we have not enabled this feature.
+> 
+> **Facebook**  
+>  http://www.facebook.com/about/privacy/  
+>  A social networking site, which is technically usable on our discussion forum. At present we have not enabled this feature.
+> 
+> **Disqus ( __jid, _utmz_ )**  
+>  http://docs.disqus.com/help/30/  
+>  An article comments system that is used on a small number of this sites pages.
+> 
+> _
+
+We also use the Google Analytics service to gather basic statistical data about how our website is being viewed and accessed by its readers, which helps us to identify which content is popular and improve upon it. Similarly our continued operation is largely funded through direct advertising revenue (banners and links) and some commission from specific product sales. 
+
+> _**Google Analytics ( __utm*_ )**  
+>  http://www.google.com/policies/privacy/  
+>  A website statistics and activity system that allows us to log visits to our website. This records basic information, such as which pages you view, how long you stay on the site and what kind of computer environment you have (screen resolution, web browser etc.). No personal information is shared with Google.
+> 
+> **Affiliate Window**  
+>  http://www.affiliatewindow.com/documents/legal/privacy.pdf  
+>  Advertising banners and links.
+> 
+> **Google Adsense / Doubleclick**  
+>  http://www.google.com/policies/privacy/  
+>  Advertising banners.
+> 
+> **Tradedoubler**  
+>  http://www.tradedoubler.com/uk-en/privacy-policy/  
+>  Advertising banners (not currently used).
+> 
+> **Consumer Choices**  
+>  http://www.consumerchoices.co.uk/privacy-policy.html  
+>  Advertising banners and links.
+> 
+> **Skimlinks ( _skimlinks_enabled_ )**  
+>  http://skimlinks.com/privacy-policy  
+>  Automated advertising links (used on the discussion forum and several specific pages).
+> 
+> _
+
+Please note ISPreview.co.uk does do not have any access to or control over third party cookies. Readers whom wish to opt-out of the above systems / advertisements can do so either by adjusting the settings of your website browser to block related cookies/content or by visiting the appropriate organisations site and opting-out directly. Take note that blocking the wrong cookie could prevent many of this websites services, such as the polls, forum and reviews system, from working properly.
 
 **Advertisers**
 
