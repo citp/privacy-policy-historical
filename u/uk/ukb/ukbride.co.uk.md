@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072119id_/http%3A//www.ukbride.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukbride.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115184042id_/http%3A//www.ukbride.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Wedding dress | Wedding dresses
+# UKbride Privacy Policy
 
 ## Data Protection
 
