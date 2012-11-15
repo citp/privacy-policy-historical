@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the starnow.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510112107id_/http%3A//www.starnow.com/help/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starnow.com privacy policy that was archived on 2012-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115224355id_/http%3A//www.starnow.com/help/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" lang="en"><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" lang="en"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object#"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	Privacy Policy - StarNow.com
 </title>
 	<meta name="description" content="Privacy Policy - Auditions &amp; Jobs for Models, Actors, Musicians and Dancers. Reality TV Casting Calls. Create your free profile and get discovered.">
 	<meta name="keywords" content="Privacy Policy - casting calls, auditions, jobs, actors wanted, models wanted, television jobs, presenters wanted, musicians wanted, dancers wanted, photographers wanted, audiences wanted, entertainers wanted">
-	
-			<link rel="stylesheet" type="text/css" href="http://static.starnow.com/stylesheets/9386/release.css">
-			<link rel="stylesheet" type="text/css" href="http://static.starnow.com/stylesheets/9386/locale.css">
+    <meta property="fb:app_id" content="192931954085724">
+			<link rel="stylesheet" type="text/css" href="/stylesheets/11655/release.css">
+			<link rel="stylesheet" type="text/css" href="/stylesheets/11655/locale.css">
 		
 	<!--[if IE 5]>
 		<style>
@@ -29,27 +29,68 @@
 	<![endif]-->
 	
 	
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javaScript" type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-5003584-1']);
-		_gaq.push(['_setDomainName', 'none']);
-		_gaq.push(['_trackPageview']);
 		
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
-</head>
+		
+		<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-30091508-1']);_gaq.push(['_setCustomVar', 1, 'visit', 'new', 2]);_gaq.push(['_setCustomVar', 2, 'member', 'visitor', 1]);_gaq.push(['_setCustomVar', 3, 'age', '0', 1]);_gaq.push(['_setCustomVar', 4, 'country', '0', 1]);_gaq.push(['_setCustomVar', 5, 'data', 'm:0 g:u l:0', 2]);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript';ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' :'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga, s);})();</script></head>
 <body id="ctl00_mainBody">
-
 	
-	<div id="fb-root"></div>
+		<div id="fb-root"></div>
+		
+		<script type="text/javascript">
+			
+			var snfb = {};
 
+			snfb.initAccessToken = function(accessToken) {
+				$.ajax(
+				{
+					url: "/webapi/InitAccessToken",
+					data: '{"accessToken":"' + accessToken + '"}',
+					type: "POST",
+					contentType: "application/json; charset=utf-8",
+					dataType: "json",
+
+					success: function (data, status) {
+						if (data.Data) {
+							if (data.Data.Reload)
+								window.location = window.location.href;
+							else if (data.Data.ReturnURL)
+								window.location.href = data.Data.ReturnURL;
+						}
+					}
+				});
+			};
+
+			
+
+			window.fbAsyncInit = function () {
+				FB.init({
+					appId: '192931954085724',
+					status: true,
+					cookie: true,
+					xfbml: true,
+					oauth: true,
+					channelUrl: '//www.starnow.com/fbchannel.ashx'
+				});
+
+				
+						FB.Event.subscribe('auth.authResponseChange', function (response) {
+							if (response.status === 'connected') {
+								snfb.initAccessToken(response.authResponse.accessToken);
+							}
+						});
+					
+			};
+			(function (d) {
+				var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+				if (d.getElementById(id)) { return; }
+				js = d.createElement('script'); js.id = id; js.async = true;
+				js.src = "//connect.facebook.net/en_US/all.js";
+				ref.parentNode.insertBefore(js, ref);
+			} (document));
+		</script>
 	
-
+	
 	<div id="grad">
 	<div id="allContent">
 	
@@ -58,6 +99,7 @@
 		<tbody><tr>
 			<td><a href="/"><div id="logo"></div></a></td>
 			<td class="utilityLinks">
+               
 				
 				<a href="/Link.aspx?l=4812&amp;return_url=%2Fplace%5Flisting%2F">List an Audition or Job</a>
 				<span class="pipe">|</span>
@@ -161,7 +203,7 @@
 				<td>
 					
 					<a href="/listings/ChangeRegion.aspx?return_url=%2fhelp%2fPrivacy.aspx">
-						<img src="http://images.starnow.com/images/flags/f40_4.gif" width="40" height="20" style="border:3px solid #555">
+						<img src="/images/flags/f40_4.gif" width="40" height="20" style="border:3px solid #555">
 					</a>
 				</td>
 				<td>
@@ -199,6 +241,24 @@
 
 
 
+
+
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1052974151;
+    var google_conversion_label = "DVvQCKeT-AMQx7iM9gM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1052974151/?value=0&amp;label=DVvQCKeT-AMQx7iM9gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 
