@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516112804id_/http%3A//www.idotz.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115092636id_/http%3A//www.idotz.net/privacy.cfm) for the most accurate reproduction.*
 
 # iDotz.Net - Domain Name Registrar: Cool Domains @ Great Prices
 
