@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the youromail.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510051253id_/http%3A//www.youromail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youromail.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115141232id_/http%3A//www.youromail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # YouRoMail.com - Get Paid To Read Emails!
-
-|   
-|  |  |  |  |  |   
----|---|---|---|---  
-|  |  | 
-
-[](http://edelweis.stiforpprofits.com/?SOURCE=yrm468top)  
-  
----|---  
-2 Websites that you Realy must Join -> [StiforpProfit Launched 19 July](http://edelweis.stiforptour.com/?SOURCE=07yrm2site) | [OneBigPowerLine](http://edelweis.onebigpowerline.com/?SOURCE=07yrm2site)
-
- ** January 10. 2012  
-Brand New Traffic Exchange Really Must join! [**TrafficBonus**](http://trafficbonus.com/aff/edelweis) 5 Referral Levels, Great Upgrades start at only $9.97, Great OTO offer at first login!, Win Cash and other prices while surfing!, Up to 50% Downline Commission. Join now and use it to promote your favorite sites!   
-[**Click Here to join TrafficBonus**](http://trafficbonus.com/aff/edelweis) **Greetings Youromail Team  
-** ******
 
   
 **YouRoMail.com Respects Your Privacy** **Information Collected** YouRoMail.com has created this privacy statement in order to demonstrate our firm commitment to privacy. YouRoMail.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. YouRoMail.com uses cookies to deliver content specific to your interests, to save your password so you don't have to reenter it each time you visit our site, and for other purposes. YouRoMail.com's registration form requires users to give us contact information (like their name, address, and email address). YouRoMail.com uses member contact information from the registration form to send the member information about our company and email advertisements. 
@@ -45,9 +30,3 @@ We do not collect online contact information without prior parental consent or p
 **
 
 YouRoMail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with YouRoMail.com, you can [Contact Us](http://www.youromail.com/pages/contact.php). 
-
-  
-[](http://www.clixsense.com/?2092639&yrmbot161109) [](http://www.youromail.com/scripts/runner.php?BA=5227&hash=81c2f1c9ecb81a4fff930c0890e7de08&url=http%3A%2F%2Fbestbux.info%2F)  
-[Join BackToRealityMLM earn $10,000 per month on auto-pilot.](http://www.backtorealitymlm.com/?id=3)  
-|   
-| 
