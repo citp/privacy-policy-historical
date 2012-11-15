@@ -1,409 +1,593 @@
-<!--The following is the downloaded HTML source of the alvicreatives.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503230648id_/http%3A//www.alvicreatives.com/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alvicreatives.com privacy policy that was archived on 2012-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115201431id_/http%3A//alvicreatives.com/t/privacyinfo) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="google-site-verification" content="7OKQqY_eTRywLyki-7DokS8wKJeBGM3mY4O8tqigRXM"><link href="css/style_new.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="ddlevelsfiles/ddlevelsmenu-base.css"><link rel="stylesheet" type="text/css" href="ddlevelsfiles/ddlevelsmenu-topbar.css"><link rel="stylesheet" type="text/css" href="ddlevelsfiles/ddlevelsmenu-sidebar.css"><link href="css/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<style type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Alvicreatives. Privacy Policy</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <script type="text/javascript" src="http://www.alvicreatives.com/bannerslide/jquery-1.2.6.min.js"></script>
+    <script type="text/javascript">
 
-    .style2
-    {
-        height: 19px;
-    }
-    .style4
-    {
-        height: 432px;
-    }
+        function slideSwitch() {
+            var $active = $('#slideshow IMG.active');
 
-    .style5
-    {
-        width: 4%;
-    }
+            if ($active.length == 0) $active = $('#slideshow IMG:last');
 
-    .style6
-    {
-        width: 75px;
-    }
-    .style7
-    {
-        width: 71px;
-    }
-    .style8
-    {
-        width: 88px;
-    }
-
-</style>
-<script type="text/javascript" src="ddlevelsfiles/ddlevelsmenu.js">
-
-/***********************************************
-* All Levels Navigational Menu- (c) Dynamic Drive DHTML code library (http://www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
-</script>
-<script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
-<script src="gallery/js/jquery.js" type="text/javascript"></script>
-<script src="gallery/js/swfobject.js" type="text/javascript"></script>
-<script src="gallery/js/flashgallery.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-/*** 
-    Simple jQuery Slideshow Script
-    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
-***/
-
-function slideSwitch() {
-    var $active = $('#slideshow IMG.active');
-
-    if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
-
-    // use this to pull the images in the order they appear in the markup
-    var $next =  $active.next().length ? $active.next()
+            // use this to pull the images in the order they appear in the markup
+            var $next = $active.next().length ? $active.next()
         : $('#slideshow IMG:first');
 
-    // uncomment the 3 lines below to pull the images in random order
-    
-    // var $sibs  = $active.siblings();
-    // var rndNum = Math.floor(Math.random() * $sibs.length );
-    // var $next  = $( $sibs[ rndNum ] );
+            // uncomment the 3 lines below to pull the images in random order
+
+            // var $sibs  = $active.siblings();
+            // var rndNum = Math.floor(Math.random() * $sibs.length );
+            // var $next  = $( $sibs[ rndNum ] );
 
 
-    $active.addClass('last-active');
+            $active.addClass('last-active');
 
-    $next.css({opacity: 0.0})
+            $next.css({ opacity: 0.0 })
         .addClass('active')
-        .animate({opacity: 1.0}, 1000, function() {
+        .animate({ opacity: 1.0 }, 1000, function () {
             $active.removeClass('active last-active');
         });
-}
+        }
 
-$(function() {
-    setInterval( "slideSwitch()", 5000 );
-});
+        $(function () {
+            setInterval("slideSwitch()", 5000);
+        });
 
-</script>
-
-
-
-<script type="text/javascript">
-
-/***********************************************
-* Cross browser Marquee II- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for this script and 100s more.
-***********************************************/
-
-var delayb4scroll=2000 //Specify initial delay before marquee starts to scroll on page (2000=2 seconds)
-var marqueespeed=2 //Specify marquee scroll speed (larger is faster 1-10)
-var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
-
-////NO NEED TO EDIT BELOW THIS LINE////////////
-
-var copyspeed=marqueespeed
-var pausespeed=(pauseit==0)? copyspeed: 0
-var actualheight=''
-
-function scrollmarquee(){
-if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8))
-cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px"
-else
-cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
-}
-
-function initializemarquee(){
-cross_marquee=document.getElementById("vmarquee")
-cross_marquee.style.top=0
-marqueeheight=document.getElementById("marqueecontainer").offsetHeight
-actualheight=cross_marquee.offsetHeight
-if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1){ //if Opera or Netscape 7x, add scrollbars to scroll and exit
-cross_marquee.style.height=marqueeheight+"px"
-cross_marquee.style.overflow="scroll"
-return
-}
-setTimeout('lefttime=setInterval("scrollmarquee()",30)', delayb4scroll)
-}
-
-if (window.addEventListener)
-window.addEventListener("load", initializemarquee, false)
-else if (window.attachEvent)
-window.attachEvent("onload", initializemarquee)
-else if (document.getElementById)
-window.onload=initializemarquee
 </script>
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-24544559-1']);
-  _gaq.push(['_trackPageview']);
+    //Created / Generates the captcha function    
+    function DrawCaptcha() {
+        var a = Math.ceil(Math.random() * 10) + '';
+        var b = Math.ceil(Math.random() * 10) + '';
+        var c = Math.ceil(Math.random() * 10) + '';
+        var d = Math.ceil(Math.random() * 10) + '';
+        var e = Math.ceil(Math.random() * 10) + '';
+        var f = Math.ceil(Math.random() * 10) + '';
+        var g = Math.ceil(Math.random() * 10) + '';
+        var code = a + ' ' + b + ' ' + ' ' + c + ' ' + d + ' ' + e + ' ' + f + ' ' + g;
+        document.getElementById("txtCaptcha").value = code
+    }
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    // Validate the Entered input aganist the generated security code function   
+    function ValidCaptcha() {
+        var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
+        var str2 = removeSpaces(document.getElementById('txtInput').value);
+        if (str1 == str2)
+            document.Conmail.submit();
+        else
+        alert("Wrong Code! Try again")
+        
 
-</script>
+    }
 
-<title>
+    // Remove the spaces from the entered and generated code
+    function removeSpaces(string) {
+        return string.split(' ').join('');
+    }
+    function submitmailform() {
+        document.Conmail.submit();
+    }
+    
+ 
+    </script>
+<style type="text/css">
 
-</title></head>
+/*** set the width and height to match your images **/
 
-<body>
- <form method="post" action="/privacy_policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFDGN0bDAwJGJ0blVzYQUMY3RsMDAkYnRuQXVzBQtjdGwwMCRidG5VawUQY3RsMDAkYnRuSXJlbGFuZBu1xyIbHkLcZj2QV8/CkiEcO3uBA/ssRJsZP0mZgZLm">
+#slideshow {
+    position:relative;
+    height:350px;
+}
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLA5brsCAKl4J7bCgLvjZuaAwKdg7/nBALa/N73DfANx8nEzj4A8zI0H6ILRFIgsr7X3L+Y8xblSSu0Wks6">
-<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-      <tbody><tr>
-        <td><table border="0" cellspacing="0" cellpadding="0" style="width: 98%">
-          <tbody><tr>
-            <td class="style5">
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+</style>
+
+    
+        <link href="/Themes/BlueSky/Content/styles.css" rel="stylesheet" type="text/css">
+
+    
+    <script src="/Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+    <script src="/Scripts/MicrosoftAjax.js" type="text/javascript"></script>
+    <script src="/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>        
+    <script src="/Scripts/public.js" type="text/javascript"></script>
+    
+    
+    
+    
+    
+        <link rel="shortcut icon" href="http://alvicreatives.com/favicon.ico">
+
+    
+    <!--Powered by nopCommerce - http://www.nopCommerce.com-->
+    <!--Copyright (c) 2008-2012-->
+</head>
+<body onload="DrawCaptcha();">
+    
+    <div class="master-wrapper-page">
+    <div class="topbanner">
+    
+    </div>
+        <div class="master-wrapper-content">
+            <div class="header">
+    <div class="header-logo">
+        <a href="/" class="logo">&nbsp; </a>
+    </div>
+    <div class="header-links-wrapper">
+        <div class="header-links">
+    <ul>
+            <li><a href="/register" class="ico-register">Register</a></li>
+            <li><a href="/login" class="ico-login">Log in</a></li>
+            <li><a href="/cart" class="ico-cart">Shopping cart</a>
+                <a href="/cart">(0)</a> </li>
+            <li><a href="/wishlist" class="ico-wishlist">Wishlist</a> <a href="/wishlist">
+                (0)</a> </li>
+        
+    </ul>
+</div>
+
+    </div>
+    <div class="header-selectors-wrapper">
+    <div class="header-flags">
+            <table cellpadding="0" style="font-size:x-small"><tbody><tr>
             
-                       
-            <table border="0" background="images/header_bar copy.png" style="width: 990px; height: 81px;">
-                    <tbody><tr><td colspan="8" align="right">
-                        <span id="lblIpInfo"><b><font color="#FFFFE6" size="3">IP: 207.241.237.229 Country: </font></b></span></td></tr>
-  <tr>
-    <td width="152">&nbsp;</td>
-    <td class="style8"><input type="image" name="ctl00$btnUsa" id="btnUsa" src="images/usa.png">
-                                                </td>
-    <td width="151"><strong>+ 1 - 866 - 970 - 1515</strong>
-   <br><strong>(678) - 666 - 4800</strong></td>
-    <td class="style7"><input type="image" name="ctl00$btnAus" id="btnAus" src="images/uk.png"></td>
-    <td width="136"><strong>+ 61 - 2 - 91912638</strong></td>
-    <td class="style6"><input type="image" name="ctl00$btnUk" id="btnUk" src="images/aus.png"></td>
-    <td width="129"><strong>+ 44 - 1205540022</strong></td>
-    <td width="75"><input type="image" name="ctl00$btnIreland" id="btnIreland" src="images/ireland.png"></td>
-    </tr>
-</tbody></table>
-                    
-                    
-                    </td>
-          </tr>
-          <tr>
-            <td class="style5"><div id="banner_ani">
+            <td><img src="http://www.alvicreatives.com/flags/ukflag.png" alt="UK" border="0" height="20">&nbsp;<img src="http://www.alvicreatives.com/flags/ireland.png" alt="IRE" border="0" height="20"></td><td>&nbsp;<b>+44-1205540022</b></td>
+            <td>&nbsp;&nbsp;<img src="http://www.alvicreatives.com/flags/ausflag.png" alt="AUS" border="0" height="20"></td><td>&nbsp;<b>+61-291912638</b></td>
+            <td>&nbsp;&nbsp;<img src="http://www.alvicreatives.com/flags/usa.png" alt="USA" border="0" height="20"></td><td>&nbsp;<b> 1-866-970-1515 / 678-666-4800 </b></td>
+            </tr></tbody></table>
+        </div>
+       <div class="header-facebooklink">
+            &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.facebook.com/pages/Alvicreatives/107156279392281"><img src="http://www.alvicreatives.com/fblogo.png" alt="Follow us on Face Book" border="0"></a>
+        </div>
+        
+        <div class="header-taxDisplayTypeSelector">
+            
+        </div>
+        <div class="header-currencyselector">
+            <select id="customerCurrency" name="customerCurrency" onchange="onCurrencyChanged();"><option selected="selected" value="1">US Dollar</option>
+<option value="2">Australian Dollar</option>
+<option value="3">British Pound</option>
+<option value="6">Euro</option>
+</select>    <script type="text/javascript">
+        function onCurrencyChanged() {
+            var selectedCurrency = document.getElementById('customerCurrency');
+            var selectedCurrencyId = selectedCurrency.options[selectedCurrency.selectedIndex].value;
+            var changeCurrencyActionUrl = '/Common/CurrencySelected?customerCurrency=currencyplaceholder';
+            changeCurrencyActionUrl = changeCurrencyActionUrl.replace("currencyplaceholder", selectedCurrencyId);
+            setLocation(changeCurrencyActionUrl);
+        }
+    </script>
+
+        </div>
+        
+        <div class="header-languageselector">
+            
+        </div>
+        
+        
+    </div>
+</div>
+
+            <div class="headermenu">
+    <div class="searchbox">
+<form action="/search" method="get" onsubmit="return check_small_search_form()" novalidate="novalidate">        <ul>
+            <li>
+                <input type="text" class="searchboxtext" id="small-searchterms" value="Search store" name="q" onfocus="if(this.value=='Search store')this.value=''" onblur="if(this.value=='') {this.value = 'Search store';}">&nbsp; </li>
+            <li>
+                <input type="submit" class="searchboxbutton" id="btn-small-search" value="Search">
+            </li>
+        </ul>
+        <script type="text/javascript">
+
+            function check_small_search_form() {
+                var search_terms = $("#small-searchterms");
+                if (search_terms.val() == "") {
+                    alert('Please enter some search keyword');
+                    search_terms.focus();
+                    return false;
+                }
+
+                return true;
+            }
+        </script>
+</form></div>
+
+    
+<ul class="topmenu">
+    <li><a href="/">Home page</a></li>
+        <li><a href="/newproducts">New products</a>
+        </li>
+     <li><a href="/t/Portfolio">Portfolio</a> </li>   
+    <li><a href="/c/22/advanced-payment">Advanced Payment</a> </li>
+    
+    <li><a href="/customer/info">My account</a></li>
+        <li><a href="/blog">Blog</a></li>
+    <li><a href="/contactus">Contact us</a></li>
+    
+</ul>
+
+</div>
+
+            
+            <div id="banner">
+<div id="slideshow" style="z-index:100">
+    <img src="http://www.alvicreatives.com/bannerslide/banner1.jpg" alt="Slideshow Image 1" class="active">
+    <img src="http://www.alvicreatives.com/bannerslide/banner2.jpg" alt="Slideshow Image 2">
+    <img src="http://www.alvicreatives.com/bannerslide/banner3.jpg" alt="Slideshow Image 3">
+    <img src="http://www.alvicreatives.com/bannerslide/banner4.jpg" alt="Slideshow Image 4">
+    <img src="http://www.alvicreatives.com/bannerslide/banner5.jpg" alt="Slideshow Image 5">
+</div>
+</div><!--<end of banner>-->
+           
+            <div class="master-wrapper-leftside-3">
+        <div class="clear">
+        </div>
+    <div class="block block-category-navigation">
+        <div class="title">
+            Services &amp; Plans
+        </div>
+        <div class="clear">
+        </div>
+        <div class="listbox">
+            <ul>
+                    <li class="inactive"><a href="/c/23/e-commerce">E-Commerce
+                    </a></li>
+                    <li class="inactive"><a href="/c/24/print-media">Print Media
+                    </a></li>
+                    <li class="inactive"><a href="/c/25/seo">SEO
+                    </a></li>
+                    <li class="inactive"><a href="/c/26/application-development">Application Development
+                    </a></li>
+                    <li class="inactive"><a href="/c/27/web-redesign-and-development">Web Redesign and Development
+                    </a></li>
+                    <li class="inactive"><a href="/c/20/website-plans">Website Plans
+                    </a></li>
+                    <li class="inactive"><a href="/c/21/top-ups">Top Ups
+                    </a></li>
+                    <li class="inactive"><a href="/c/22/advanced-payment">Advanced Payment
+                    </a></li>
+            </ul>
+        </div>
+    </div>
+        <div class="clear">
+        </div>
+
+        <div class="clear">
+        </div>
+    <div class="block block-popular-tags">
+        <div class="title">
+            Popular tags
+        </div>
+        <div class="clear">
+        </div>
+        <div class="listbox">
+            <div class="tags">
+                <ul>
+                        <li><a href="/productag/24/CMS" style="font-size:90%;">CMS</a>&nbsp;&nbsp;
+                        </li>
+                        <li><a href="/productag/23/Flash%20Design" style="font-size:90%;">Flash Design</a>&nbsp;&nbsp;
+                        </li>
+                        <li><a href="/productag/20/GLL" style="font-size:90%;">GLL</a>&nbsp;&nbsp;
+                        </li>
+                        <li><a href="/productag/21/GPO" style="font-size:90%;">GPO</a>&nbsp;&nbsp;
+                        </li>
+                        <li><a href="/productag/18/SEO" style="font-size:90%;">SEO</a>&nbsp;&nbsp;
+                        </li>
+                        <li><a href="/productag/22/SMO" style="font-size:90%;">SMO</a>&nbsp;&nbsp;
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+        <div class="clear">
+        </div>
+
+<div class="block block-info">
+    <div class="title">
+        Information
+    </div>
+    <div class="clear">
+    </div>
+    <div class="listbox">
+        <ul>
+            <li><a href="/contactus">Contact us</a> </li>
+            <li><a href="/t/aboutus">About us</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="/newproducts">New products</a></li>
+                <li><a href="/recentlyviewedproducts">Recently viewed products</a></li>
+                <li><a href="/compareproducts">Compare products list</a></li>            
+                <li><a href="/sitemap">Sitemap</a></li>
+            <li><a href="/t/shippinginfo">Shipping &amp; Returns</a></li>
+            <li><a href="/t/privacyinfo">Privacy Notice</a></li>
+            <li><a href="/t/conditionsofUse">Conditions of Use</a></li>
+            <li><a href="http://www.alvicreatives.com/t/Resource">Resources</a></li>
+        </ul>
+    </div>
+</div>
+        <div class="clear">
+        </div>
+        <div class="clear">
+        </div>
+</div>
+<div class="master-wrapper-center-3">
+    <div class="master-wrapper-cph-3">        
+        
+        <div class="topicpage" id="phTopic">
+    <div id="phTitle">
+        <div class="page-title">
+            <h1>
+                Privacy Policy</h1>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="topicpage-body">
+        <p>In a world where every day the security of Internet users is at stake, we have found the key to success in the same field by keeping a strict Privacy Policy. We understand exactly how vital it is to protect your privacy and our Privacy Policy would assure you that we take the highest precautions to protect your information from falling into the wrong hands.<br> <br> Your security – our priority<br> <br> Internet services require you to provide us with a lot of information and we know how absolutely vital security is for you. As we value your trust, we make sure that your information remains secured with us.<br> <br> • We maintain procedural, physical and electronic precautions to protect our customer's information.<br> <br> • We limit access to Customer Information to only those employees who need to know your information to provide Internet services to you or to maintain your website.<br> <br> • We continually import new technology for the protection of your information and upgrading our systems on a regular basis.<br> <br> What sort of information we require?<br> <br> We may ask you for non-public personal information about you or your business from the following sources:<br> <br> • Information regarding your transactions with our affiliates, others, or us.<br> <br> • Information that we may receive from you and other forms or visits to our Internet website.<br> <br> What do we do with the information that you give us?<br> <br> • We provide products and services to you with the information that you give us.<br> <br> • We are able to identify other products and services that we feel might be useful to you and your business<br> <br> • We will safeguard and protect the information that you give us against unwanted intruders.<br> <br> Information to third party disclosure<br> <br> It is our policy never to disclose any customer’s information to any third party nor do we disclose or sell non-public information to anyone else except as permitted by law.<br> <br> Even if you close your account with us, we will continue to treat your information in the same way as we do for our existing clients.<br> <br> Firewalls and activity logs<br> <br> Firewalls analyze the source and destination addresses and the traffic type to ensure that only authorized users have access to our systems. Firewalls and activity logs are extra mechanisms that are used to protect your privacy. Specific information given by you also helps us to investigate activities that appear suspicious and to protect our systems and your information.<br> <br> Get updated on our Privacy Policy<br> <br> As an existing client and upon request we will provide you with any updates or changes that may take place in our Privacy Policy.</p>
+    </div>
+</div>
+
+        
+    </div>
+</div>
+<div class="master-wrapper-rightside-3">
+        <div class="clear">
+        </div>
+        <div class="clear">
+        </div>
+<div class="block block-newsletter">
+    <div class="title">
+        Subscribe to newsletters
+    </div>
+    <div class="clear">
+    </div>
+    <div class="listbox">
+<form action="/t/privacyinfo" method="post" novalidate="novalidate">            <div id="pnl-newsletter-subscribe">
+                Email:
+                <input data-val="true" data-val-email="*" data-val-required="*" id="Email" name="Email" type="text" value="">
+                <span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                <div class="options">
+                    <input id="newsletter-subscribe" type="radio" name="newsletter-subscribe" value="newsletter-subscribe" checked="checked">
+                    <label for="newsletter-subscribe">Subscribe</label>
+                    <input id="newsletter-unsubscribe" type="radio" name="newsletter-subscribe" value="newsletter-unsubscribe">
+                    <label for="newsletter-unsubscribe">Unsubscribe</label>
+                </div>
+                <div class="clear">
+                </div>
+                <div class="buttons">
+                    <input type="submit" name="newsletter-subscribe-button" value="Submit" id="newsletter-subscribe-button" class="newsletterbox-subscribebutton">
+                    <span id="subscribe-loading-progress" style="display: none;">Wait...
+                            <img src="/Content/Images/ajax_loader_small.gif" alt="Wait...">
+                        </span>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+            <div id="pnl-newsletter-result">
+            </div>
+</form>    </div>
     <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','1001','height','151','src','banner','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','banner' ); //end AC code
-</script><embed width="1001" height="151" src="banner.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="1001" height="151">
-      <param name="movie" value="banner.swf" />
-      <param name="quality" value="high" />
-      <embed src="banner.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1001" height="151"></embed>
-    </object>
-  </noscript></div></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr>
+        $(document).ready(function () {
+            $('#newsletter-subscribe-button').click(function () {
+                
+                var subscribe = 'true';
+                if($('#newsletter-unsubscribe').is(':checked')) { 
+                    subscribe = 'false';
+                }
+                var email = $("#Email").val();
+                var subscribeProgress = $("#subscribe-loading-progress");
+                subscribeProgress.show();
+                $.ajax({
+                    cache:false,
+                    type: "POST",
+                    url: "/Newsletter/SubscribeNewsletter",
+                    data: "subscribe=" + subscribe + "&email=" +email ,
+                    success: function (data) {
+                        subscribeProgress.hide();
+                        $("#pnl-newsletter-result").html(data.Result);
+                         if (data.Success) {
+                            $('#pnl-newsletter-subscribe').hide();                            
+                         }
+                         else {
+                            $('#pnl-newsletter-result').fadeIn("slow").delay(2000).fadeOut("slow");
+                         }
+                    },
+                    error:function (xhr, ajaxOptions, thrownError){
+                        alert('Failed to subscribe.');
+                        subscribeProgress.hide();
+                    }  
+                });                
+                return false;
+            });
+        });
+    </script>
+</div>
+        <div class="clear">
+        </div>
+    <div class="block block-recently-viewed-products">
+        <div class="title">
+            Recently viewed products
+        </div>
+        <div class="clear">
+        </div>
+        <div class="listbox">
+            <ul>
+                    <li><a href="/p/107/bronze-plan"> Bronze Plan</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+        <div class="clear">
+        </div>        
+<div class="block block-poll">
+    <div class="title">
+        Community poll
+    </div>
+    <div class="clear">
+    </div>
+    <div class="listbox">
+        <div class="poll-item">
+    <span class="poll-display-text">Do you like Alviceatives?</span>
+        <div id="pnl-poll-vote-1" class="poll-take-poll">
+                <input id="pollanswers-1" type="radio" name="pollanswers-1" value="1">
+                <label for="pollanswers-1">Excellent</label>
+                <br>
+                <input id="pollanswers-2" type="radio" name="pollanswers-1" value="2">
+                <label for="pollanswers-2">Good</label>
+                <br>
+                <input id="pollanswers-3" type="radio" name="pollanswers-1" value="3">
+                <label for="pollanswers-3">Poor</label>
+                <br>
+                <input id="pollanswers-4" type="radio" name="pollanswers-1" value="4">
+                <label for="pollanswers-4">Very bad</label>
+                <br>
+            <input type="submit" name="vote-poll-1" value="Vote" id="vote-poll-1" class="submitpollvotebutton">
+            <span id="poll-voting-progress-1" style="display: none;">Wait...
+                <img src="/Content/Images/ajax_loader_small.gif" alt="Wait...">
+            </span>
+        </div>
+        <div class="clear">
+        </div>
+        <div id="pnl-poll-vote-result-1">
+        </div>
+        <script type="text/javascript">
+        $(document).ready(function () {
+            $('#vote-poll-1').click(function () {
+                var pollAnswerId = $("input:radio[name=pollanswers-1]:checked").val();
+                if(typeof pollAnswerId == 'undefined'){
+                    alert('Please select an answer');
+                }
+                else {
+                    var voteProgress = $("#poll-voting-progress-1");
+                    voteProgress.show();
+                    $.ajax({
+                        cache:false,
+                        type: "POST",
+                        url: "/Poll/Vote",
+                        data: "pollAnswerId=" + pollAnswerId,
+                        success: function (data) {
+                            voteProgress.hide();
+                            $("#pnl-poll-vote-result-1").html(data.Result);
+                             if (data.Success) {
+                                $('#pnl-poll-vote-1').hide();                            
+                             }
+                             else {
+                                $('#pnl-poll-vote-result-1').fadeIn("slow").delay(2000).fadeOut("slow");
+                             }
+                        },
+                        error:function (xhr, ajaxOptions, thrownError){
+                            alert('Failed to vote.');
+                            voteProgress.hide();
+                        }  
+                    });
+                }
+                return false;
+            });
+        });
+        </script>
+</div>
+
+    </div>
+</div>
+        <div class="clear">
+        </div>
+    <div class="block title">
+    <div class="title">
+        Quick Contact
+    </div>
+    <div class="clear">
+    </div>
+    <div class="listbox">
+    <form id="Conmail" name="Conmail" method="post" action="http://www.alvicreatives.com/mail.aspx" novalidate="novalidate">
+    <div>
+        Your name:
+        <input type="text" name="customerName">*
+    </div>
+
+    <div>
+        Your email address:
+        <input type="text" name="customerEmail">*
+    </div>
+    <div>
+        Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="phone">*
+    </div>
+    <div>
+        Country:
+        <input type="text" name="country">
+    </div>
+
+    <div>
+        Query: <br>
+        <textarea name="customerRequest" cols="5" rows="4"></textarea> 
+    </div>
+
+    <div>
+        Enter this code below: <br>
+        <div align="center">
+        <input type="text" id="txtCaptcha" style="background-image:url(1.jpg); text-align:center; border:none;
+            font-weight:bold; font-family:Modern"><br>
+        <input type="button" id="btnrefresh" value="Get New Code" onclick="DrawCaptcha();">
+        </div>
+        <br>
+        <input type="text" id="txtInput"> 
+    </div>
+
+    <div>
+    <input type="hidden" value="http://alvicreatives.com/t/privacyinfo" name="recurl">
+        <input type="button" value="Submit" onclick="ValidCaptcha();">&nbsp;*Mandatory
+    </div>
+  </form>
+
+    </div>
+    
+    </div>
+</div>
+
             
-            <td width="84%" valign="middle" class="menu_bar"><div id="navigation"><div id="ddtopmenubar" class="mattblackmenu">
-	<ul>
-		<li><a href="Default.aspx">Home</a></li>
-		<li><a href="plans.aspx" rel="ddsubmenu1">Services &amp; Plans<img src="ddlevelsfiles/arrow-down.gif" class="downarrowpointer" style="width: 11px; height: 7px;"></a></li>
-        <li><a href="our_company.aspx">About Us</a></li>
-        <li><a href="templates.aspx">Portfolio</a></li>
-        <li><a href="faq.aspx">FAQ</a></li>
-		<li><a href="blog">Blog</a></li>
-        <li><a href="contact_us.aspx">Contact Us</a></li>						
-	</ul>
-</div>
-
-<script type="text/javascript">
-ddlevelsmenu.setup("ddtopmenubar", "topbar") //ddlevelsmenu.setup("mainmenuid", "topbar|sidebar")
-</script>
-<!--HTML for the Drop Down Menus associated with Top Menu Bar-->
-<!--They should be inserted OUTSIDE any element other than the BODY tag itself-->
-<!--A good location would be the end of the page (right above "</BODY>")-->
-
-<!--Top Drop Down Menu 1 HTML-->
-
-
-</div></td>
-            <td width="8%" bgcolor="#ffffff">&nbsp;</td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-      <td class="style2">&nbsp;
-      </td>
-      </tr>
-       <tr>
-        <td align="center" bgcolor="#ffffff"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-         
-        </table></td>
-      </tr>
-      <tr>
-        <td>
             
-<div id="body_header"><img src="images/privacy_header_16.gif" alt="header" width="991" height="49"></div>
-<div id="body_container_bg">
-<div id="body_container_privacy">In a world where every day the security of Internet users is at stake, we have found the key to success in the same field by keeping a strict Privacy Policy. We understand exactly how vital it is to protect your privacy and our Privacy Policy would assure you that we take the highest precautions to protect your information from falling into the wrong hands.<br>
-<br>
-
-<span class="header">Your security – our priority</span><br>
-<br>
-
-Internet services require you to provide us with a lot of information and we know how absolutely vital security is for you. As we value your trust, we make sure that your information remains secured with us.<br>
-<br>
-
-<span class="header">•</span>	We maintain procedural, physical and electronic precautions to protect our customer's information.<br>
-<br>
-
-<span class="header">•</span>	We limit access to Customer Information to only those employees who need to know your information to provide Internet services to you or to maintain your website.<br>
-<br>
-
-<span class="header">•</span>	We continually import new technology for the protection of your information and upgrading our systems on a regular basis.<br>
-<span class="header"><br>
-
-
-What sort of information we require?</span><br>
-<br>
-
-We may ask you for non-public personal information about you or your business from the following sources:<br>
-<br>
-
-<span class="header">•</span>	Information regarding your transactions with our affiliates, others, or us.<br>
-<br>
-
-<span class="header">•</span>	Information that we may receive from you and other forms or visits to our Internet website.<br>
-<br>
-
-<span class="header">What do we do with the information that you give us?</span><br>
-<br>
-
-<span class="header">•</span>	We provide products and services to you with the information that you give us.<br>
-<br>
-
-<span class="header">•</span>	We are able to identify other products and services that we feel might be useful to you and your business<br>
-<br>
-
-<span class="header">•</span>	We will safeguard and protect the information that you give us against unwanted intruders.<br>
-<span class="header"><br>
-
-Information to third party disclosure</span><br>
-<br>
-
-It is our policy never to disclose any customer’s information to any third party nor do we disclose or sell non-public information to anyone else except as permitted by law.<br>
-<br>
-
-Even if you close your account with us, we will continue to treat your information in the same way as we do for our existing clients.<br>
-<br>
-
-<span class="header">Firewalls and activity logs</span><br>
-<br>
-
-Firewalls analyze the source and destination addresses and the traffic type to ensure that only authorized users have access to our systems. Firewalls and activity logs are extra mechanisms that are used to protect your privacy. Specific information given by you also helps us to investigate activities that appear suspicious and to protect our systems and your information.<br>
-<br>
-
-<span class="header">Get updated on our Privacy Policy</span><br>
-<br>
-
-As an existing client and upon request we will provide you with any updates or changes that may take place in our Privacy Policy.</div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="footer">
+    <div class="footer-poweredby">
+        Powered by <a href="https://www.alvicreatives.com/">Alvi Creatives</a>
+        
+    </div>
+    <div class="footer-disclaimer">
+        Copyright © 2012 ALVICREATIVES. All rights reserved.
+    </div>
+    <div class="footer-storetheme">
+        
+    </div>
+    
+    
 </div>
 
-            
-        </td>
-      </tr>
-      <tr>
-        <td bgcolor="#FFFFFF">&nbsp;</td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" class="style4">
-        <div id="footer">
-<div id="footer_left">
-<div id="footer_left_top"> <img src="images/index_37.gif" alt="microsoft" width="65" height="23"><img src="images/index_41.gif" alt="yahoo" width="65" height="23"><img src="images/index_51.gif" alt="google" width="65" height="23"></div>
-<div align="left" class="footer_link2"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright © ALVI CREATIVES.COM</div>
-</div>
+    </div>
+    
 
 
-<div id="footer_middle">
-<div id="footer_middle_top">
-  <p><a href="Default.aspx" class="footer_link">Home</a>  |  <span class="footer_link"><a href="plans.aspx" class="footer_link">
-      Services &amp; Plans</a></span>|  <a href="sitemap.aspx" class="footer_link">Site 
-      Map</a>  |  <a href="survey.aspx" class="footer_link">Survey</a>  |  <a href="contact_us.aspx" class="footer_link">
-      Contact Us</a>| <a href="resource.aspx" class="footer_link">Resources</a></p>
-  <a href="privacy_policy.aspx" rel="nofollow" class="footer_link1">Privacy policy</a>&nbsp;|&nbsp;<a href="terms_condition.aspx" rel="nofollow" class="footer_link1">Terms 
-    &amp; Conditions</a>&nbsp;|&nbsp;<a href="refund.aspx" rel="nofollow" class="footer_link1">Refund 
-    Policy</a>
-  <p>&nbsp;</p>
-</div>
-</div>
-
-
-<div id="footer_right">
-<div id="footer_right_top">
-  <p class="footer_link2">Stay Connected</p>
-  <p><a href="http://twitter.com/#!/alvicreatives"> <img src="images/index_27.gif" alt="twitter" width="30" height="30" border="0"></a><a href="http://www.facebook.com/pages/Alvicreatives/107156279392281?sk=wall"><img src="images/index_05-29.gif" alt="facebook" width="30" height="30"></a></p>
-</div>
-
-</div>
-</div>
-        </td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-</form>
-
-
-
-<iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><ul id="ddsubmenu1" class="ddsubmenustyle" style="z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
-<li><a href="website_plan.aspx"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 156px;">Website Plan</a> <ul style="left: 0px; top: 0px; visibility: hidden;">
-  <li><a href="plan_bronze.aspx">Bronze Package</a></li>
-  <li><a href="plan_eco_silver.aspx">Silver Package</a></li>
-  <li><a href="plan_gold.aspx">Gold Package</a></li>
-  <li><a href="plan_platinum.aspx">Platinum Package</a></li>
-  <li><a href="plan_pre_platinum_plus.aspx">Platinum Plus</a></li>
-  <li><a href="advancepayment.aspx">Advance Payment</a></li>
-  </ul>
-</li>
-<li><a href="website_enhancement.aspx"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 156px;">Website Enhancement</a>
-<ul style="left: 0px; top: 0px; visibility: hidden;">
-  <li><a href="services_website_design.aspx">Website Redesign</a></li>
-  <li><a href="services_website_development.aspx">Website Development</a></li>
-  <li><a href="services_flash_design.aspx">Flash Design</a></li>
-  <li><a href="services_cms.aspx">Content Management System</a></li>
-  <li><a href="plan_10_email_account.aspx">10 Email Accounts</a></li>
-  <li><a href="plan_extra_pages.aspx">Extra Pages</a></li>  
-  <li><a href="plan_captcha.aspx">CAPTCHA</a></li>
-  <li><a href="plan_flash_intro_page.aspx">Flash Intro Page</a></li>
-  <li><a href="plan_flash_header_animation_page.aspx">Flash Banner Animation</a></li>
-  <li><a href="plan_advance_cms_seo.aspx">Advanced CMS With Basic SEO</a></li>
-  <li><a href="plan_gallery_management.aspx">Gallery Management System</a></li>
-  <li><a href="plan_google_map.aspx">Google Map</a></li> <li><a href="plan_renewal.aspx">
-    Renewal Plan</a></li>  </ul>
-</li>
-<li><a href="software_development_atlanta.aspx">Software Development</a></li>
-<li><a href="services_seo.aspx"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 156px;">Search Engine Optimisation</a>
-  <ul style="left: 0px; top: 0px; visibility: hidden;">
-  <li><a href="plan_basic_seo.aspx">Basic SEO</a></li>
-  <li><a href="plan_content_development.aspx">Content Development</a></li>
-  <li><a href="plan_business_directory.aspx">Business Directory Submission</a></li>
-  <li><a href="plan_google_yahoo_msn_submission.aspx">Google, Yahoo &amp; MSN Submission</a></li>
-  <li><a href="plan_google_analytics.aspx">Google Analytics</a></li>
-  <li><a href="plan_google_local_listing.aspx">Google Local Listing</a></li>
-  <li><a href="ppc_service.aspx">PPC Service</a></li>
-  <li><a href="social_media.aspx">Social Media Optimisation</a></li>
-  </ul>
-</li>
-<li><a href="services_e-commerce_design.aspx">E-Commerce</a></li>
-<li><a href="print_media.aspx"><img src="ddlevelsfiles/arrow-right.gif" class="rightarrowpointer" style="width: 12px; height: 12px; left: 156px;">Print Media</a>
-<ul style="left: 0px; top: 0px; visibility: hidden;">
-  <li><a href="plan_logo_redesign.aspx">Logo Design</a></li>
-  <li><a href="plan_icon_design.aspx">Icon Design</a></li>
-  <li><a href="services_illustration.aspx">Illustration</a></li>
-  <li><a href="plan_letterhead.aspx">Letterhead</a></li>
-  <li><a href="plan_business_card.aspx">Business Card</a></li>
-  <li><a href="plan_envelope.aspx">Envelope</a></li>
-  <li><a href="plan_stationary_pack.aspx">Stationery Pack</a></li>
-  <li><a href="plan_professional_email_signature.aspx">Professional Digital Signature</a></li>  
-  </ul>
-</li>
-	</ul></body></html>
+</body></html>
