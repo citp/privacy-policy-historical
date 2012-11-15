@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardellmedia.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625011630id_/http%3A//www.cardellmedia.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardellmedia.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115033446id_/http%3A//www.cardellmedia.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Chris Cardell | The world's leading resources for entrepreneurial wealth success.
 
