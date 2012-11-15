@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502072421id_/http%3A//www.thehuddle.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116003811id_/http%3A//www.thehuddle.com/site/privacy.php) for the most accurate reproduction.*
 
 # Fantasy Football in The Huddle - Privacy Policy
 
-InterSport, Inc. ("InterSport") respects your right to the privacy of the personal information you provide us on our web sites. Unless you designate otherwise, or we state otherwise in this policy or at the time information is collected, any personal information you provide to InterSport will not be disclosed to outside parties. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. 
+Big Lead Sports ("BLS") respects your right to the privacy of the personal information you provide us on our web sites. Unless you designate otherwise, or we state otherwise in this policy or at the time information is collected, any personal information you provide to BLS will not be disclosed to outside parties. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. 
 
-By using InterSport web sites (hereafter "Our Sites") you agree to this privacy policy. If you do not agree to the Policy, please do not use any of these Sites. This Privacy Policy is periodically reviewed and we reserves the right, at our discretion, to modify or remove portions of this Policy at any time. This page should be reviewed periodically so that you remain updated to any changes.
+By using BLS web sites (hereafter "Our Sites") you agree to this privacy policy. If you do not agree to the Policy, please do not use any of these Sites. This Privacy Policy is periodically reviewed and we reserves the right, at our discretion, to modify or remove portions of this Policy at any time. This page should be reviewed periodically so that you remain updated to any changes.
 
-If you have questions or concerns regarding this statement, you may contact InterSport via postal mail at: 
+If you have questions or concerns regarding this statement, you may contact BLS via postal mail at: 
 
-InterSport, Inc.  
-c/o Fantasy Sports Ventures  
-1500 Broadway - Suite 810  
+Big Lead Sports  
+c/o USA Today Sports Media Group  
+1440 Broadway - 17th Floor  
 New York, NY 10036
 
 **Traffic Data**  
@@ -23,25 +23,25 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 Cookies cannot be used to identify individuals, only machines. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature. But users should note that cookies may be necessary to provide the user with special features of the web site.
 
-**InterSport Site Subscriptions**  
-In order to subscribe to Our Sites, subscribers to our subscription products provide InterSport with personal information including name, address, e-mail address and credit card information. InterSport keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
+**BLS Site Subscriptions**  
+In order to subscribe to Our Sites, subscribers to our subscription products provide BLS with personal information including name, address, e-mail address and credit card information. BLS keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
 
-At the time of registering for their subscription, site subscribers are asked whether they wish to receive e-mail from InterSport such as notification of new subscription benefits. InterSport does not reuse or resell the list of users who have "opted in" to such mailings.
+At the time of registering for their subscription, site subscribers are asked whether they wish to receive e-mail from BLS such as notification of new subscription benefits. Big Lead Sports does not reuse or resell the list of users who have "opted in" to such mailings.
 
-**InterSport Community**  
+**BLS Community**  
 Subscribers to Our Sites who register for our message board community provide us with a username, password and a working e-mail address. This information to set up your community account. We do not sell or redistribute this community list to any third parties. The e-mail address you register with at the community will be posted in the message boards if and when you post comments there, but you are free at any time to publically hide that e-mail address if you wish. Participants in the community are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum. For more information see the community registration page.
 
 **Promotions**  
-From time to time, InterSport may sponsor sweepstakes, contests or other events which require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. InterSport may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user's consent, and InterSport will request that such named sponsors uphold the privacy of the registrants' information by not distributing or sharing such information with any other businesses or organizations.
+From time to time, BLS may sponsor sweepstakes, contests or other events which require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. BLS may also co-sponsor these events along with other companies, in which case the user's individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant's personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user's consent, and BLS will request that such named sponsors uphold the privacy of the registrants' information by not distributing or sharing such information with any other businesses or organizations.
 
 **Surveys**  
-InterSport will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate demographic information about them. Such information will be primarily for internal use but may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals.
+BLS will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate demographic information about them. Such information will be primarily for internal use but may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals.
 
 **Our Commitment To Children's Privacy**  
-InterSport believes that it is particularly important to protect the privacy of children. For that reason, we do not collect or maintain information at our web sites from those we actually know are under the age of 13, and no part of our web sites are structured to attract anyone under the age of 13.
+BLS believes that it is particularly important to protect the privacy of children. For that reason, we do not collect or maintain information at our web sites from those we actually know are under the age of 13, and no part of our web sites are structured to attract anyone under the age of 13.
 
 **Other Disclosure Of Personal Information**  
-InterSport will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
+BLS will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
 
 **Links To Other Sites**  
 Our Sites contain links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
