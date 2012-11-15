@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hhgregg.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511195736id_/http%3A//www.hhgregg.com/content2/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhgregg.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115111006id_/http%3A//www.hhgregg.com/content2/privacy_policy) for the most accurate reproduction.*
 
-# hhgregg - Welcome!
+# Privacy Policy | hhgregg
 
 **Information Practices**
 
