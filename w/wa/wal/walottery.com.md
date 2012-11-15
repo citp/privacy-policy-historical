@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030341id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115112825id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Washington's Lottery -- Privacy
 
@@ -66,9 +66,7 @@ Washington's Lottery may request you to provide certain personal information in 
 
 You can review any personally identifiable information we collect about you by using the information in the Contact Us section in this web site. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting an email with a daytime telephone number where you can be contacted requesting that Washington's Lottery correct the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections. [RCW 43.105.310](http://search.leg.wa.gov/wslrcw/RCW%20%2043%20%20TITLE/RCW%20%2043%20.105%20%20CHAPTER/RCW%20%2043%20.105%20.310.htm)
 
-## Additional Terms & Conditions Relative to Washington’s Lottery Players’ Club
-
-## Membership Requirements
+## Additional Terms & Conditions Relative to Washington’s Lottery Players’ Club Membership Requirements
 
 Players’ Club is a voluntary, Web-based feature designed for players. Membership is strictly voluntary and in no way affects consumers' ability to interact with the Lottery, such as purchasing tickets or winning a Lottery game. Membership is dependent upon being a Washington resident age 18 or older with a valid e-mail address and Internet connection. If a member's e-mail address changes, the change should be made to their Players’ Club profile in order to retain their membership.
 
