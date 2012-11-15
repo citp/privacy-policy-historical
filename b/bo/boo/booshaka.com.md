@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the booshaka.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512042706id_/http%3A//www.booshaka.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booshaka.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115161811id_/http%3A//www.booshaka.com/privacy) for the most accurate reproduction.*
 
-# Booshaka Privacy Statement
+# Privacy Policy - Booshaka
 
 Booshaka respects your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every Booshaka page.
 
-  * [Sites covered by this Privacy Statement](http://www.booshaka.com/privacy#1)
-  * [Collection of personal information](http://www.booshaka.com/privacy#2)
-  * [How we use your information](http://www.booshaka.com/privacy#3)
-  * [How we share your information](http://www.booshaka.com/privacy#4)
-  * [Children's privacy](http://www.booshaka.com/privacy#5)
-  * [Your choices and selecting your privacy preferences](http://www.booshaka.com/privacy#6)
-  * [Access to and accuracy of your information](http://www.booshaka.com/privacy#7)
-  * [Keeping your information secure](http://www.booshaka.com/privacy#8)
-  * [Changes to this statement](http://www.booshaka.com/privacy#9)
-  * [Contacting us](http://www.booshaka.com/privacy#10)
+  * Sites covered by this Privacy Statement
+  * Collection of personal information
+  * How we use your information
+  * How we share your information
+  * Children's privacy
+  * Your choices and selecting your privacy preferences
+  * Access to and accuracy of your information
+  * Keeping your information secure
+  * Changes to this statement
+  * Contacting us
 
 
 
@@ -55,7 +55,7 @@ The information Booshaka collects to understand your needs and interests helps B
 
 
 
-We will give you the opportunity to choose your privacy preferences regarding the communications we send (see [Your choices and selecting your privacy preferences](http://www.booshaka.com/privacy#6)).
+We will give you the opportunity to choose your privacy preferences regarding the communications we send (see Your choices and selecting your privacy preferences).
 
 The testimonials posted on our Web site are only posted with the expressed permission of the individual or company who provided that testimonial.
 
