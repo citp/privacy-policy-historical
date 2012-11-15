@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217111528id_/http%3A//www.theiet.org/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115092435id_/http%3A//www.theiet.org/help/privacy.cfm%3Forigin%3Dfoot-siteinfo) for the most accurate reproduction.*
 
 # Privacy statement - The IET
 
@@ -35,6 +35,8 @@ The IET protects the privacy of your information using secure servers. The infor
 
 Your details will be made available, as appropriate, to those officers of the IET who are responsible for the services that you request. Services such as Local Network activities and advice on achieving qualifications are mostly delivered by volunteer members. Publications and membership subscriptions are examples of services mostly delivered by the staff in the main offices.
 
+If you are a member of the IET your information will be processed by the IET for its sole use and that of its associated organisations, including your Local Network, for the purpose of promoting, delivering and improving your experience of the IET and its product and services or such other purposes as are described in this Privacy Statement. If either now or in the future you are based outside the European Economic Area (the “EEA”), your information may be transferred outside the EEA (for example to your Local Network or IET Global Office) to enable you to benefit from the IET opportunities overseas or, where required, to enable the IET to meet any legal or other legitimate obligations in that country.
+
 The information that you provide may be held and used by the IET for market analysis and production of internal reports, for marketing its products and services generally and (subject to any preference that you may indicate when submitting your details) for sending information to you about its activities, services and publications. Please see the section below if you would like to change your preferences.
 
 From time to time, the IET may invite visitors to the website to provide data to improve the site, or its services or marketing. Answering any questions will be optional.
@@ -55,7 +57,9 @@ Details of the use of cookies on the IET sites may be found in our cookie statem
 
 Subject to the preferences that you have indicated, the IET sends emails to its existing members, contacts and registered Web users. Links included in these may be personalised to allow us to determine which members and contacts followed such links.
 
-All Web servers record each page request, together with the time and date, and the Internet (IP) address of the user who requested the page. In addition, the IET uses Google Analytics, which records the pages requested from particular IP addresses using a small piece of code in the Web page. Except in the case of malicious activity against its site, the IET makes no attempt to use an IP address to trace an individual user. Where an IET website restricts access to staff or students of particular organisations, the IET may also test your IP address to determine whether it falls into the ranges used by subscriber organisations for that service. Otherwise, the IET uses server logs only to see general trends, such as which areas of the site are popular, the most frequent paths that users follow, and so on. This helps to improve the site for you in future.
+All Web servers record each page request, together with the time and date, and the Internet (IP) address of the user who requested the page. In addition, the IET uses Google Analytics, which records the pages requested from particular IP addresses using a small piece of code in the Web page. Where an IET website restricts access to staff or students of particular organisations, the IET may also test your IP address to determine whether it falls into the ranges used by subscriber organisations for that service. Server logs allow the IET to see general trends, such as which areas of the site are popular, the most frequent paths that users follow, and so on. This helps to improve the site for you in future.
+
+The IET also uses Scout Analytics code in its Web pages. Scout Analytics assists publishers in building behavioural profiles of site visitors, in order to match content and services to users' interests.
 
 ### Amending or accessing your personal information preferences
 
@@ -83,4 +87,4 @@ If you suspect that your password or account information has been compromised, p
 
 The privacy of members and visitors is important to the IET. This policy will be kept under continual review, and changes may be made from time to time.
 
- **Updated: 21 June 2011**
+ **Updated: 25 July 2012**
