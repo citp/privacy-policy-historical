@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs8.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607021855id_/http%3A//www.cbs8.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs8.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004426id_/http%3A//www.cbs8.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - San Diego, California News Station - KFMB Channel 8 - cbs8.com
 
