@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jadopado.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512023816id_/http%3A//jadopado.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadopado.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115232739id_/http%3A//jadopado.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / JadoPado
+# Privacy Policy
 
 **The Gist**  
 Your privacy is extremely important to us. We won't ask you for personal information unless we truly need it. (When we do ask for your information it is usually to ensure that we're dealing with real people and not a bot!). We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights. 
