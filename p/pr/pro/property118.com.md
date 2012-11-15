@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the property118.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531150143id_/http%3A//www.property118.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property118.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115150434id_/http%3A//www.property118.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Property118.com: Privacy Policy
 
-**Property118.com is a partner trading style of Innovative Landlord Solutions LLP.**
+**Property118.com is an authorised trading style of Innovative Landlord Solutions LLP  **\- registered office; 1st Floor Woburn House, 84 St Benedict’s Street, Norwich, NR2 4AB – Limited Liability Partnership registration number OC351654. Innovative Landlord Solitions LLP own the advertising rights on the Property118.com website.
 
-The term ‘Property118.com’ or ‘us’ or ‘we’ or ‘our’ refers to the owner of the website www.property118.com which is **Innovative Landlord Solutions LLP** – registered office; 1st Floor Woburn House, 84 St Benedict’s Street, Norwich, NR2 4AB – Limited Liability Partnership registration number OC351654.  
+The term ‘Property118.com’ or ‘us’ or ‘we’ or ‘our’ refers to the owner of the website which is Mark Alexander, Bridleways, Church Lane, Shipdham, Thetford, Norfolk IP25 7JY ©2011. All rights reserved.
+
 The following statement discloses consumer privacy practices for www.property118.com (the ‘Website’) or any such websites owned by Property118.com.
 
 Property118.com may update its policy from time to time without notice, so please revisit periodically. This Privacy Policy notice is current as of 6th December 2011.
@@ -60,7 +61,7 @@ We make a sincere effort to respond to your requests to update or correct your p
 
 **Cookies and Website Traffic**
 
-Property118.com may use cookies from time to time. A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows us to identify the individual with his or her corresponding data that resides in our databases. You may read more about cookies at [http://www.cookiecentral.com](https://web.archive.org/web/20120531150143id_/http%3A//www.property118.com/index.php/%E2%80%9Dhttp://www.cookiecentral.com%E2%80%9D). Property118.com may use cookies to personalise your experience on our online services or portal pages, or to track end user usage of Property118.com services for customers. If you do not want Property118.com to use cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of the products and/or services at Property118.com’s website(s).
+Property118.com may use cookies from time to time. A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows us to identify the individual with his or her corresponding data that resides in our databases. You may read more about cookies at [http://www.cookiecentral.com](https://web.archive.org/web/20121115150434id_/http://www.property118.com/index.php/privacy-policy/%E2%80%9Dhttp://www.cookiecentral.com%E2%80%9D). Property118.com may use cookies to personalise your experience on our online services or portal pages, or to track end user usage of Property118.com services for customers. If you do not want Property118.com to use cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of the products and/or services at Property118.com’s website(s).
 
 Property118.com may also use cookies, originating IP addresses, time of visit, etc. to track your visit to our web sites; however such basic Internet traffic statistics will not be tied with other personal information held by Property118.com.
 
@@ -79,7 +80,7 @@ Norwich International Business Park
 Norfolk  
 NR6 6BB  
 **Tel:** 01603 489118  
-**Email:** [info@property118.com](https://web.archive.org/web/20120531150143id_/http%3A//www.property118.com/index.php/%E2%80%9Dmailto:info@property118.com%E2%80%9D)
+**Email:** [info@property118.com](https://web.archive.org/web/20121115150434id_/http://www.property118.com/index.php/privacy-policy/%E2%80%9Dmailto:info@property118.com%E2%80%9D)
 
   
 Comments Off
