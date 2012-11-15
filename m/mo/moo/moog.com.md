@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moog.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624201124id_/http%3A//www.moog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moog.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115095506id_/http%3A//www.moog.com/about/privacy-policy) for the most accurate reproduction.*
 
 # About Moog - Privacy Policy | Moog
 
