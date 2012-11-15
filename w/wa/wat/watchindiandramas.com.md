@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the watchindiandramas.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516150818id_/http%3A//watchindiandramas.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchindiandramas.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115235902id_/http%3A//watchindiandramas.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  * Tuesday, December 6, 2011, 9:47
+
+
 
 ## Google Privacy Policy
 
@@ -32,4 +36,17 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
 Google Adsense
 
+  * 
+
+
+#### About the Author
+
+has written 1439 stories on this site.
+
+it is zeshan and he is the software worker and working on this site which is Honorable thing for him....
+
+## Write a Comment
+
 Gravatars are small images that can show your personality. You can get your [**gravatar**](http://gravatar.com/) for free today!
+
+You must be [logged in](http://watchindiandramas.com/wp-login.php?redirect_to=http%3A%2F%2Fwatchindiandramas.com%2Fsample-page) to post a comment.
