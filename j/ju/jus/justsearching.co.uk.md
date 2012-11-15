@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justsearching.co.uk privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118154136id_/http%3A//www.justsearchseo.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsearching.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115012540id_/http%3A//www.justsearchseo.co.uk/%3Fpage_id%3D7410) for the most accurate reproduction.*
 
 # Just Search Privacy Policy
 
