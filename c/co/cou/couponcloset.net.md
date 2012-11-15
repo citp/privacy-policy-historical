@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcloset.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513215027id_/http%3A//www.couponcloset.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcloset.net privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115222418id_/http%3A//www.couponcloset.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
