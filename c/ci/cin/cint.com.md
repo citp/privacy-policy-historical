@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cint.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516010035id_/http%3A//www.cint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cint.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115234446id_/http%3A//www.cint.com/privacy-policy) for the most accurate reproduction.*
 
 # Cint Privacy Policy
 
-Last Updated November 2011
+Last Updated 26. September 2012
 
 ##  1\. Our commitment to protecting your privacy
 
@@ -10,7 +10,7 @@ Cint is committed to respecting individual and client privacy, to safeguarding c
 
 ##  2\. What do we do?
 
-Cint is a medium sized global technology company, focused on providing SaaS-based (software as a service) solutions for buyers and sellers of online sample in the market research industry. The Cint Panel Exchange (CPX) connects online research buyers and panel owners together to form a transparent sample marketplace for online surveys. Headquartered in Stockholm, Sweden, Cint has offices in major cities across Europe, North America and Asia-Pacific. 
+Cint is a medium sized global technology company, focused on providing SaaS-based (software as a service) solutions for buyers and sellers of online sample in the market research industry. The OpinionHUB connects online research buyers and panel owners together to form a transparent sample marketplace for online surveys. Headquartered in Stockholm, Sweden, Cint has offices in major cities across Europe, North America and Asia-Pacific. 
 
 ##  3\. What we do with your information
 
@@ -51,7 +51,7 @@ We do not share, sell, rent or trade personally identifiable information with th
 
 ##  5\. Use of cookies
 
-We may use technology to track the patterns of behavior of visitors to the site. This can include using a 'cookie', pieces of information that are transferred to an individual user's hard drive for record keeping purposes. At the present time we send a basic cookie to your computer which stores basic information which you enter into the site. This information may include your name, company, title, address, phone number and email address (Basic Cookies). The Basic Cookie functions by saving your passwords and site preferences. As a result it is possible to speed up your future activities at the site and allow Cint to provide you with information specifically tailored to your interests. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. To modify your browser settings click on the help section of your Internet browser and follow the instructions. Cint currently uses four cookies on [www.cint.com](http://www.cint.com/) (_utma, _utmb, _utmc, _utmz). Each is used by Google Analytics to help identify unique visitations and time spent on the site, determine the visitor’s session and determine where you were referred from. These cookies remain on your computer for 2 years, 30 mins and 6 months respectively.
+We may use technology to track the patterns of behavior of visitors to the site. This can include using a 'cookie', pieces of information that are transferred to an individual user's hard drive for record keeping purposes. At the present time we send a basic cookie to your computer which stores basic information which you enter into the site. This information may include your name, company, title, address, phone number and email address (Basic Cookies). The Basic Cookie functions by saving your passwords and site preferences. As a result it is possible to speed up your future activities at the site and allow Cint to provide you with information specifically tailored to your interests. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. To modify your browser settings click on the help section of your Internet browser and follow the instructions. Please note that not accepting cookies may affect the performance of our website. To view cookies used by Cint click [here](http://www.cint.com/cookie-usage).
 
 ##  6\. Our commitment to Children's Privacy
 
@@ -63,4 +63,4 @@ Please check this page periodically for changes as Cint reserves the right, at i
 
 ##  How to contact us
 
-Questions regarding this policy, complaints about our practices and access requests should be directed to the Cint Global Quality Vice President, Lindsay Veling via e-mail at [lindsay.veling@cint.com](mailto:lindsay.veling@cint.com) or by mail at Cint AB Sveavägen 20, 111 57, Stockholm, Sweden. Users have a right to, once a year, free of charge, request information regarding if/which personal data about him/her is being processed and a right to obtain rectification.
+Questions regarding this policy, complaints about our practices and access requests should be directed to the Cint Team via e-mail: [learnmore@cint.com](mailto:learnmore@cint.com) or by mail at Cint AB Sveavägen 20, 111 57, Stockholm, Sweden. Users have a right to, once a year, free of charge, request information regarding if/which personal data about him/her is being processed and a right to obtain rectification.
