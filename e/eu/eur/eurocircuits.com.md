@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502204457id_/http%3A//www.eurocircuits.com/index.php/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115232710id_/http%3A//www.eurocircuits.com/index.php/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Eurocircuits
 
@@ -47,11 +47,11 @@ can add value to your Eurocircuits services and products.
   * To provide marketing or promotional activities on the Eurocircuits.com website.  
 Personal Information may be collected to administer those programs.
   * collected to administer those programs.
-  *   * To conduct questionnaires and surveys in order to provide better products and services to our customers.   
+  * To conduct questionnaires and surveys in order to provide better products and services to our customers.   
 Your completion of any questionnaires is voluntary
-  *   * To understand more about you, so we can personalize newsletters and websites to your preferences. For example,  
+  * To understand more about you, so we can personalize newsletters and websites to your preferences. For example,  
 allow you the opportunity to request specific information on products and services that may be of interest.
-  *   * To allow you to forward information to another individual such as a friend or co-worker. Eurocircuits does not   
+  * To allow you to forward information to another individual such as a friend or co-worker. Eurocircuits does not   
 store the personal information of the third party. We collect the information for the sole purpose of sending a   
 one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a   
 contact name and email address.
