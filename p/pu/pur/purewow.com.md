@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625132558id_/http%3A//www.purewow.com/footer/national/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115143044id_/http%3A//www.purewow.com/footer/national/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | PureWow
 
@@ -6,7 +6,7 @@ Wow Media Products, Inc. takes very seriously the private nature of your persona
 
 **Personal Information**
 
-To receive your PureWow e-mails, we require your e-mail address. Similarly, to provide you with text messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. PureWow does not collect any other personally identifiable information that you do not expressly provide. PureWow will never sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. PureWow may share your personal information for the purpose of delivering our e-mail to you or as required by law.
+To receive your PureWow e-mails, we require your e-mail address. Similarly, to provide you with text messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. PureWow does not collect any other personally identifiable information that you do not expressly provide. PureWow will never sell, rent or share your personal information, including your e-mail address, with any third parties with one exception. During sweepstakes or contests, we may share your email address with promotional partners for marketing purposes, but it is explicitly noted in the terms & conditions of that specific sweepstake or contest. PureWow may share your personal information for the purpose of delivering our e-mail to you or as required by law.
 
 **Non-Personal Information**
 
