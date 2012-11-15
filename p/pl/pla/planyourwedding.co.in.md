@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planyourwedding.co.in privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515083045id_/http%3A//www.planyourwedding.co.in/delhi/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planyourwedding.co.in privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115082617id_/http%3A//planyourwedding.co.in/delhi/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
