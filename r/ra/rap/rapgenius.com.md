@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502083033id_/http%3A//rapgenius.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115174513id_/http%3A//rapgenius.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Rap Genius | Discover the Meaning of Rap Lyrics
 
