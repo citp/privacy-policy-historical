@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517170316id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumorfix.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115233501id_/http%3A//rumorfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RumorFix
 
