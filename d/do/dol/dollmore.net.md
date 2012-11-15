@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollmore.net privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430073107id_/http%3A//dollmore.net/infodesk/protection_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollmore.net privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115105936id_/http%3A//www.dollmore.net/infodesk/protection_policy.php) for the most accurate reproduction.*
 
 # Dollmore.net :: Everything for Doll & more
 
