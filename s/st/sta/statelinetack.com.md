@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506045415id_/http%3A//www.statelinetack.com/cs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115181643id_/http%3A//www.statelinetack.com/cs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Statelinetack.com
 
-**State Line Tack Privacy Policy**  
+** State Line Tack Privacy Policy**  
 
 
 * * *
@@ -27,7 +27,7 @@ Changes/Updates to This Policy
   
   
 **COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION**  
-We may collect personal information when you do the following: Shop or take advantage of our products and/or services; establish or update an account with us; enter a contest or sweepstake; participate in a survey; request a catalog; purchase and/or send an e-gift certificate; provide us with comments or suggestions; call our contact center or subscribe to our newsletters or other programs. We may use your personal information to better assist you when you visit or call us again and to send you special offers for products and services that may be of interest to you. We do this by print advertising, including regular mail and catalogs, by e-mail, by telephone and with general marketing communications for product or service-specific information. 
+We may collect personal information when you do the following: Shop or take advantage of our products and/or services; establish or update an account with us; enter a contest or sweepstake; participate in a survey; request a catalog; purchase and/or send an e-gift certificate; provide us with comments or suggestions; call our contact center or subscribe to our newsletters or other programs. We may use your personal information to better assist you when you visit or call us again and to send you special offers for products and services that may be of interest to you. Occasionally we may send you special offers from other TABcom properties. You may opt out of these offers at any time by clicking the opt-out link in the email. We do this by print advertising, including regular mail and catalogs, by e-mail, by telephone and with general marketing communications for product or service-specific information. 
 
 Unless you "opt-out" through opportunities available to you through our various communication vehicles, we may send you emails, catalogs or other promotional material. You may also "opt-out" of future State Line Tack communications by following the instructions provided in this Policy under Accessibility and Use of Your Personal Information. 
 
@@ -65,11 +65,11 @@ To "opt-out" of receiving State Line Tack communications, do one of the followin
 
 1\. If you've created an account on our Site, you can access and change your personal profile information and preferences after logging into your account.
 
-2\. [ Contact us online. ](https://web.archive.org/CS/Feedback.aspx)
+2\. [Contact us online. ](https://web.archive.org/CS/Feedback.aspx)
 
-3\. Call: Toll-free: 1.800.814.4332  
-Monday - Friday: 8 a.m. ET - 8 p.m. ET  
-Saturday: 8:30 a.m. ET - 5 p.m. ET  
+3\. Call: Toll-free: 1.888.809.0751  
+Monday - Friday: 8 a.m. ET - 6 p.m. ET  
+Saturday: Closed  
 Sunday: Closed  
 
 
@@ -105,7 +105,7 @@ Back to top
 **QUESTIONS OR CONCERNS**  
 To report any known or suspected privacy or security breaches, or to submit privacy-related questions or complaints, please contact us in one of the following ways, and we will respond within five (5) business days of receipt of your inquiry. 
 
-**1.[ Contact us online. ](https://web.archive.org/CS/Feedback.aspx)**
+**1.[Contact us online. ](https://web.archive.org/CS/Feedback.aspx)**
 
 **
 
@@ -118,9 +118,9 @@ Hazle Township, PA 18202
 
 **3\. Phone:**
 
-Toll-free: 1.800.814.4332  
-Monday - Friday: 8 a.m. ET - 8 p.m. ET  
-Saturday: 8:30 a.m. ET - 5 p.m. ET  
+Toll-free: 1.888.809.0751  
+Monday - Friday: 8 a.m. ET - 6 p.m. ET  
+Saturday: Closed  
 Sunday: Closed
 
 Please be sure to include your full name, address, phone number and e-mail address (if applicable) and to specifically describe your concern so that it may be appropriately addressed.   
