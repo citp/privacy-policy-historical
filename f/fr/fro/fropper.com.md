@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fropper.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024357id_/http%3A//www.fropper.com/z/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropper.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005232id_/http%3A//www.fropper.com/z/help/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy – Fropper.com
 
