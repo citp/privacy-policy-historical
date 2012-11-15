@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skyscanner.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501223301id_/http%3A//www.skyscanner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115140759id_/http%3A//www.skyscanner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Skyscanner USA
+# Privacy and cookie policy - Skyscanner USA
 
 ## Skyscanner Privacy Policy
 
@@ -80,6 +80,22 @@ The Data Protection Act 1998 gives you the right to access information held abou
 
 For the purpose of the Data Protection Act 1998, the data controller is Skyscanner Limited. 
 
-## How to contact us
+## Email Addresses
 
-If you have any concerns about this Privacy Policy or about data we may hold about you please contact us by using the [Contact Us](https://web.archive.org/contactus.aspx) feedback form.
+We do not want to send you unwanted email. You can opt-out from our mailings at any time by clicking the unsubscribe link contained in every mail we send.
+
+Email addresses are collected via the Skyscanner website, via our Facebook page (in the case of promotions run on our Facebook page) and via co-registration partners.
+
+Skyscanner uses email addresses to send its weekly newsletter, and occasional special offers and deals. Skyscanner sometimes runs promotions with partners and competition entries may require you to provide an email address. These email addresses may be shared with the partner running the competition. In such cases, this is clearly stated in the terms of the promotion. Skyscanner has no responsibility for subsequent use or distribution of email addresses by our partners.
+
+If you have any questions about this policy, please contact us by [email](http://www.skyscanner.net/contactus.aspx).
+
+Or by post via the following address:
+
+Skyscanner  
+10 Waterloo Place  
+Edinburgh EH1 3EG
+
+Tel: 0131 252 5700
+
+Please note: Skyscanner do not take bookings or hold any details of bookings or payments. If you have an enquiry regarding a booking, you must contact the airline or travel agent as we cannot assist you.
