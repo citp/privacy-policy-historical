@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponseven.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220216id_/http%3A//www.couponseven.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponseven.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005409id_/http%3A//www.couponseven.com/privacy.asp) for the most accurate reproduction.*
 
 # couponSeven.com - privacy policy, online coupons, coupon codes & free shipping for all of your favorite online stores.
 
