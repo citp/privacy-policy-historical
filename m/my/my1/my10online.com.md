@@ -1,83 +1,67 @@
-> *The following text is extracted and transformed from the my10online.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618122221id_/http%3A//my10online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my10online.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115083103id_/http%3A//my10online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My10Online
 
 You are here: [Home](http://my10online.com/) / Privacy Policy
 
-This Privacy Policy applies to all of the products, services, content and websites offered by Hutch Media, LLC dba Ego TV or its subsidiaries or affiliated companies. Sometimes, we may post product specific privacy notices or Help Center materials to explain our products in more detail.
+Hutch Media, LLC knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-If you have any questions about this Privacy Policy, please feel free to contact us at jimmy.hutcheson ((at)) egotvonline.com through our website or write to us at
+This Privacy Policy covers Hutch Media, LLC’s treatment of personal information that Hutch Media, LLC gathers when you are on the Hutch Media, LLC website and when you use Hutch Media, LLC services. This policy does not apply to the practices of third parties that Hutch Media, LLC does not own or control, or to individuals that Hutch Media, LLC does not employ or manage.
 
-Hutch Media, LLC dba Ego TV – Privacy Matters  
-3130 Wilshire Blvd., Suite 400  
-Santa Monica, CA 90403  
-USA 
+Information Collected by Hutch Media, LLC
 
-### Information we collect and how we use it
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Hutch Media, LLC users:
 
-We may collect the following types of information:
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-  * **Information you provide** – When you sign up for an Accout, we ask you for personal information. We may combine the information you submit under your account with information from other Hutch Media, LLC dba Ego TV services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. You can use the Hutch Media, LLC dba Ego TV Dashboard to learn more about the information associated with your Account. If you are using Hutch Media, LLC dba Ego TV services in conjunction with your Hutch Media, LLC dba Ego TV Apps Account, Hutch Media, LLC dba Ego TV provides such services in conjunction with or on behalf of your domain administrator. Your administrator will have access to your account information including your email. Consult your domain administrator’s privacy policy for more information.
-  * **Cookies** – When you visit Hutch Media, LLC dba Ego TV, we send one or more cookies to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. Hutch Media, LLC dba Ego TV also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web and on Hutch Media, LLC dba Ego TV services.
-  * **Log information** – When you access Hutch Media, LLC dba Ego TV services via a browser, application or other client our servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
-  * **User communications** – When you send email or other communications to Hutch Media, LLC dba Ego TV, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services.
-  * **Affiliated Hutch Media, LLC dba Ego TV Services on other sites** – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Hutch Media, LLC dba Ego TV in order to deliver the service. We process such information under this Privacy Policy.
-  * **Third Party Applications** – Hutch Media, LLC dba Ego TV may make available third party applications, such as gadgets or extensions, through its services. The information collected by Hutch Media, LLC dba Ego TV when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies.
-  * **Location data** – Hutch Media, LLC dba Ego TV offers location-enabled services, such as Hutch Media, LLC dba Ego TV Maps and Latitude. If you use those services, Hutch Media, LLC dba Ego TV may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
-  * **Unique application number** – Certain services, such as Hutch Media, LLC dba Ego TV Toolbar, include a unique application number that is not associated with your account or you. This number and information about your installation (e.g., operating system type, version number) may be sent to Hutch Media, LLC dba Ego TV when you install or uninstall that service or when that service periodically contacts our servers (for example, to request automatic updates to the software).
-  * **Other sites** – This Privacy Policy applies to Hutch Media, LLC dba Ego TV services only. We do not exercise control over the sites displayed as search results, sites that include Hutch Media, LLC dba Ego TV applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+2\. Automatic Information:
+
+  * We receive and store certain types of information whenever you interact with us. Hutch Media, LLC and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Hutch Media, LLC cookie information, and the page you requested. Hutch Media, LLC uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * Hutch Media, LLC may collect and, on any page, display the total counts that page has been viewed.
+  * Many companies offer programs that help you to visit websites anonymously. While Hutch Media, LLC will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
 
 
-In addition to the above, we may use the information we collect to:
+E-mail Communications
 
-  * Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and
-  * Protect the rights or property of Hutch Media, LLC dba Ego TV or our users.
+Hutch Media, LLC is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the ”Sharing Your Information” section below. Hutch Media, LLC may send out e-mails with Hutch Media, LLC-related news, products, offers, surveys or promotions.
 
+Cookies
 
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Hutch Media, LLC cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+The ”help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Hutch Media, LLC’s coolest features.
 
-Hutch Media, LLC dba Ego TV processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information outside your own country.
+Third Party Advertising – Ad Choices
 
-### Choices
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. **If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/choices/).**
 
-You can use the Hutch Media, LLC dba Ego TV Dashboard to review and control the information stored in your Hutch Media, LLC dba Ego TV Account.
+Sharing Your Information
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Hutch Media, LLC dba Ego TV features and services may not function properly if your cookies are disabled.
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-Hutch Media, LLC dba Ego TV uses the DoubleClick advertising cookie on AdSense partner sites and certain Hutch Media, LLC dba Ego TV services to help advertisers and publishers serve and manage ads across the web. You can view and manage your ads preferences associated with this cookie by accessing the
+Hutch Media, LLC Personnel: Hutch Media, LLC personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Hutch Media, LLC business.
 
-Ads Preferences Manager. In addition, you may choose to opt out of the DoubleClick cookie at any time by using DoubleClick’s opt-out cookie.
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Hutch Media, LLC, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-### Information sharing
+Protection of Hutch Media, LLC and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Hutch Media, LLC, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-Hutch Media, LLC dba Ego TV only shares personal information with other companies or individuals outside of Hutch Media, LLC dba Ego TV in the following limited circumstances:
+Syndication: Hutch Media, LLC allows for the RSS syndication of all of its public content within the Hutch Media, LLC website.
 
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Hutch Media, LLC dba Ego TV, its users or the public as required or permitted by law.
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
+Children Under 18 Years of Age
 
+You must be 13 years and older to register to use the Hutch Media, LLC website. As a result, Hutch Media, LLC does not specifically collect information about children. If we learn that Hutch Media, LLC has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Hutch Media, LLC or sending information about themselves or anyone else over the Internet.
 
-If Hutch Media, LLC dba Ego TV becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+Changes to this Privacy Policy
 
-### Information security
+Hutch Media, LLC may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Hutch Media, LLC website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+Conditions of Use
 
-We restrict access to personal information to Hutch Media, LLC dba Ego TV employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+If you decide to visit Hutch Media, LLC website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-### Accessing and updating personal information
+Effective Date of this Privacy Policy
 
-When you use Hutch Media, LLC dba Ego TV services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. Please review the service Help Centers for more information.
-
-### Enforcement
-
-Hutch Media, LLC dba EgoTV adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s Safe Harbor Program.
-
-Hutch Media, LLC dba Ego TV regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is Hutch Media, LLC dba Ego TV’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Hutch Media, LLC dba Ego TV and an individual.
-
-### Changes to this Privacy Policy
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+This Privacy Policy is effective as of June 24, 2011 and last updated July 27, 2012.
