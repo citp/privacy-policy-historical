@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628135400id_/http%3A//www.jsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115073635id_/http%3A//www.jsonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy 2012 - JSOnline
 
@@ -196,9 +196,9 @@ Our Network Advertising Operational Service Providers, such as Yahoo! display ad
 
 You may opt-out of receiving customized or personalized Network Advertising or our own First Party Advertising on our Services using the links below. However, you will continue to receive advertising and promotional messages after you opt-out, but it will not be tailored, personalized, or relevant to you based on your use of our Services and/or third party websites. You may not opt out of Contextual Advertising.
 
-  * If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or website usage habits, please click here.
-  * If you wish to opt-out of receiving customized content and ads from other Network Advertising providers, please click here.
-  * If you wish to opt-out of receiving First Party Advertising from JSI based your personal preferences or website usage habits on our Services, please click here.
+  * If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or website usage habits, please [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
+  * If you wish to opt-out of receiving customized content and ads from other Network Advertising providers, please [click here](mailto:privacy@journalsentinel.com).
+  * If you wish to opt-out of receiving First Party Advertising from JSI based your personal preferences or website usage habits on our Services, please [click here](mailto:privacy@journalsentinel.com).
 
 
 
