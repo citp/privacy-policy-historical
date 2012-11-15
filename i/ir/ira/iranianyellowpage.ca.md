@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranianyellowpage.ca privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116194939id_/http%3A//www.iranianyellowpage.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianyellowpage.ca privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115101332id_/http%3A//iranianyellowpage.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
