@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621205506id_/http%3A//www.nydailynews.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115204904id_/http%3A//www.nydailynews.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NY Daily News
 
@@ -64,11 +64,11 @@ We use reasonable administrative, technical, personnel and physical measures to 
 
 ### V. California Residents
 
-Users of the Daily News Services who are California residents and who have provided PII to us may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [webmaster@webnydailynews.com](mailto:webmaster@nydailynews.com) with "Request for California Privacy Information" in the subject line and in the message.
+Users of the Daily News Services who are California residents and who have provided PII to us may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [webmaster@nydailynews.com](mailto:webmaster@nydailynews.com) with "Request for California Privacy Information" in the subject line and in the message.
 
 ## Questions.
 
-If you have any more questions, please email us at [webmaster@webnydailynews.com](mailto:webmaster@nydailynews.com) or write to:  
+If you have any more questions, please email us at [webmaster@nydailynews.com](mailto:webmaster@nydailynews.com) or write to:  
 Webmaster  
 New York Daily News Online  
 Daily News, L.P.  
