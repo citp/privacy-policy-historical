@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppclonline.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430122135id_/http%3A//www.uppclonline.com/dispatch/Portal/appmanager/uppcl/wss%3F_nfpb%3Dtrue%26_pageLabel%3Duppcl_static_html_content%26pageID%3DST_34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppclonline.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115145540id_/http%3A//www.uppclonline.com/dispatch/Portal/appmanager/uppcl/wss%3F_nfpb%3Dtrue%26_pageLabel%3Duppcl_static_html_content%26pageID%3DST_34) for the most accurate reproduction.*
 
 # Uttar Pradesh Power Corporation Ltd. - Privacy Policy
 
