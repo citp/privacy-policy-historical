@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504034646id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115094557id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
 
 # Shindigz Site Security, Privacy Policy
 
@@ -32,9 +32,6 @@ To enable cookies in your browser.
 Under the Fair Credit Billing Act, your bank or credit card company cannot hold you responsible for more than $50 of any unauthorized or fraudulent charges on your credit card. In the event of any unauthorized use of your credit card, you are required to notify your credit card provider in accordance with the agreement you have with them. 
 
 Please rest assured that shopping on ShindigZ is safe and secure! You'll find the experience fun, easy and quick. 
-
-  
-
 
 ### Privacy Policy
 
