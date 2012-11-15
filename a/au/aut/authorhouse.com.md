@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504050518id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004029id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AuthorHouse
 
@@ -12,7 +12,7 @@ When users visit our Web sites, there are two types of information that may be c
 
 The first type of information is known as “personally identifiable information.” In order to serve your needs and to provide improved products and services, we may from time to time request personal and private information, such as your name or company, address, contact information, education, interests, payment information when you place orders, survey information, and/or other information. You may choose to provide this information at your option. Many areas of our site are accessible without providing any personally identifiable information. Personally identifiable information excludes any information you may choose to submit publicly, such as reviews, critiques, editorials, testimonials, documentaries, forum or blog discussions.
 
-You may choose to place orders or to set up an account to obtain additional information or to order products and/or services. If you place an order or set up such an account, certain private information will be needed, such as your name or company, address, contact information, and payment arrangements. We will maintain a history of orders and payments via your account for normal accounting and business purposes. ASI does not rent, sell, or share personal information about you with other people or non-affiliated companies, period!
+You may choose to place orders or to set up an account to obtain additional information or to order products and/or services. If you place an order or set up such an account, certain private information will be needed, such as your name or company, address, contact information, and payment arrangements. We will maintain a history of orders and payments via your account for normal accounting and business purposes. ASI does not rent, sell, or share personal information about you with other people or companies that are not our partners or affiliates.
 
 If you choose not to provide private information to this Web site, alternate ordering and payment arrangements can be made by providing the necessary information via telephone, fax, or mail, or via another standard method of communication.
 
@@ -65,6 +65,29 @@ Author Solutions is committed to maintaining the privacy of your personally iden
 ## YOUR CONSENT AND NOTIFICATION OF CHANGES
 
 By using this Web site, products, and services, you consent to the terms of this policy. If our privacy policy changes, we will post those changes on this page so that you are always aware of access, security, control of personal information, how information will be used, and whether it will be provided to third parties. Your continued use of the Web site constitutes your consent to the updated policy.
+
+## DO NOT CALL POLICY
+
+Author Solutions Inc. strives to maintain the highest standards of ethical conduct in its marketing activities and is committed to complying with all federal and state legislation.  
+
+
+No employee or agent of Author Solutions Inc. shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulations.
+
+If you do not want to receive sales calls from any imprint of Author Solutions Inc., you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 30 days. You can make this request by phone, email, or mail as follows:
+
+  * Call (888) 519-5121
+  * Email us at [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com) or
+  * Mail to 1663 Liberty Drive, Bloomington, IN 47403
+
+
+
+When submitting a request, be sure to include all the relevant information that you want added to our Do Not Contact List, i.e., **full name, address, and telephone number(s)**. Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
+
+If you would like us to remove you from our Do Not Call List so that you may receive our telephone solicitations, notify us by contacting Customer Service.
+
+Please note that the Author Solutions Inc., Do Not Call List restricts marketing contacts from specific imprints, so you may continue to receive calls from other imprints where you may have signed up separately. If you would like to add your number to the Global Do Not Call List, you may do so by relaying this request to the Customer Service Representative or via e-mail through [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com) 
+
+Being on the Author Solutions Do Not Call List restricts telephone solicitations only. We may still contact you about service-related issues, surveys, billing, and other topics.
 
 ## TELL US WHAT YOU THINK
 
