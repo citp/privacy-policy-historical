@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the semioffice.com privacy policy that was archived on 2012-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120404153510id_/http%3A//semioffice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semioffice.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115093650id_/http%3A//semioffice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Semi Office
+# Privacy Policy | SemiOffice.Com
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online website based information practices and the choices you can make about the way your information is collected and used. We collect emails in comment forms but we do not publish and sale any information to third parties.
 
