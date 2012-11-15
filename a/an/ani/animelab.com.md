@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504174943id_/http%3A//www.animelab.com/anime.manga/s/about/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115133506id_/http%3A//www.animelab.com/anime.manga/s/about/policy/privacy) for the most accurate reproduction.*
 
 # Animelab.com: Privacy Policy
 
@@ -20,6 +20,4 @@ We use google, clickxchange.com and other third-party advertising companies to s
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a diverse cookie on your browser. Such cookies are used to store information about the current advertisments or how many of a particular advertisment you have seen. These cookies contain small information and can not be used to track your internet usage or re-identify you.
 
 |    
-  
-  
 
