@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syncplicity.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506154742id_/http%3A//www.syncplicity.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncplicity.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115211825id_/http%3A//www.syncplicity.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Syncplicity's Privacy Policy
 
@@ -55,7 +55,7 @@ All registered Syncplicity users may review, update, correct or delete the Perso
 
 ### Emailing Via a Syncplicity Account
 
-If you invite a friend to access files or data you choose to make available through the Services, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Syncplicity stores this information for the sole purpose of sending this one-time email and tracking the use of the Services. Your friend may contact us at [support@syncplicity.com](https://web.archive.org/web/20120506154742id_/http%3A//www.syncplicity.com/legal/support@syncplicity.com) to request that we remove this information from our database.
+If you invite a friend to access files or data you choose to make available through the Services, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Syncplicity stores this information for the sole purpose of sending this one-time email and tracking the use of the Services. Your friend may contact us at [support@syncplicity.com](https://web.archive.org/web/20121115211825id_/http%3A//www.syncplicity.com/legal/support@syncplicity.com) to request that we remove this information from our database.
 
 ### Security
 
@@ -75,4 +75,4 @@ The Services may contain links to other websites. If you choose to visit an adve
 
 ### Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@syncplicity.com](https://web.archive.org/web/20120506154742id_/http%3A//www.syncplicity.com/legal/privacy@syncplicity.com).
+If you have any questions about this Privacy Policy, please contact us at [privacy@syncplicity.com](https://web.archive.org/web/20121115211825id_/http%3A//www.syncplicity.com/legal/privacy@syncplicity.com).
