@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the oli.co.uk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618223136id_/http%3A//www.oli.co.uk/Web/main/help/question.asp%3Fqid%3D469) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oli.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115111748id_/http%3A//www.oli.co.uk/Web/main/help/question.asp%3Fqid%3D469) for the most accurate reproduction.*
 
 # What is your privacy policy? - Oli Help
 
-  * [Help](https://web.archive.org/web/20120618223136id_/http%3A//www.oli.co.uk/Web/main/help/index.asp)
-  * [Security](https://web.archive.org/web/20120618223136id_/http%3A//www.oli.co.uk/Web/main/help/category.asp?cid=94)
+  * [Help](https://web.archive.org/web/20121115111748id_/http%3A//www.oli.co.uk/Web/main/help/index.asp)
+  * [Security](https://web.archive.org/web/20121115111748id_/http%3A//www.oli.co.uk/Web/main/help/category.asp?cid=94)
 
 
 
@@ -51,8 +51,8 @@ Our courier service will have selected access to your details for delivery purpo
 
 ## Other questions in this section:
 
-  * [Is the site secure?](https://web.archive.org/web/20120618223136id_/http%3A//www.oli.co.uk/Web/main/help/question.asp?qid=925)
-  * [What is your data protection policy?](https://web.archive.org/web/20120618223136id_/http%3A//www.oli.co.uk/Web/main/help/question.asp?qid=468)
-  * [Forgotten Password](https://web.archive.org/web/20120618223136id_/http%3A//www.oli.co.uk/Web/main/help/question.asp?qid=1052)
+  * [Is the site secure?](https://web.archive.org/web/20121115111748id_/http%3A//www.oli.co.uk/Web/main/help/question.asp?qid=925)
+  * [What is your data protection policy?](https://web.archive.org/web/20121115111748id_/http%3A//www.oli.co.uk/Web/main/help/question.asp?qid=468)
+  * [Forgotten Password](https://web.archive.org/web/20121115111748id_/http%3A//www.oli.co.uk/Web/main/help/question.asp?qid=1052)
 
 
