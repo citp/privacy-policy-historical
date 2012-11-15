@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femdom-fetish-tube.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521084107id_/http%3A//femdom-fetish-tube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femdom-fetish-tube.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115045707id_/http%3A//femdom-fetish-tube.com/static/privacy) for the most accurate reproduction.*
 
 # privacy policy - Femdom Fetish Tube
 
