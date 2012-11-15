@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemonstandapp.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502172607id_/http%3A//lemonstandapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonstandapp.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115094337id_/http%3A//lemonstand.com/privacy-policy) for the most accurate reproduction.*
 
 # LemonStand - Privacy Policy
 
@@ -6,11 +6,11 @@
 
 Please note that this Privacy Policy applies to the lemonstandapp.com website.
 
-Limewheel Creative Inc. is committed to respecting and protecting your online privacy. We have established this Online Privacy Policy in order for you to understand our policies with regard to your personal information.
+LemonStand eCommerce Inc. is committed to respecting and protecting your online privacy. We have established this Online Privacy Policy in order for you to understand our policies with regard to your personal information.
 
 #### Gathering and Use of Information
 
-Limewheel Creative Inc. will only collect your personal information when you purchase our products, register for early versions of our products, or when you voluntarily sign-up for a membership account in order to access certain areas of our site, or when you sign-up for our mailing list. Access to our web site is mostly unrestricted, and you may browse the majority of it anonymously.
+LemonStand eCommerce Inc. will only collect your personal information when you purchase our products, register for early versions of our products, or when you voluntarily sign-up for a membership account in order to access certain areas of our site, or when you sign-up for our mailing list. Access to our web site is mostly unrestricted, and you may browse the majority of it anonymously.
 
 #### Cookies
 
