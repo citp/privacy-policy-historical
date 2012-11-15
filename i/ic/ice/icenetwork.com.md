@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614033151id_/http%3A//web.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icenetwork.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004625id_/http%3A//web.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # icenetwork.com: Help: Privacy Policy
 
@@ -68,4 +68,4 @@ Or send an e-mail to [customerservice@website.icenetwork.com](mailto:customerser
 **Notification of Changes**  
 If we make an important change to this Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy. 
 
-**LAST UPDATED AND EFFECTIVE DATE: October 5, 2011**
+**LAST UPDATED AND EFFECTIVE DATE: July 23, 2012**
