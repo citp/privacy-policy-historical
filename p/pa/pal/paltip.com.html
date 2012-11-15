@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paltip.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531214256id_/http%3A//paltip.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paltip.com privacy policy that was archived on 2012-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115232056id_/http%3A//paltip.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>PalTip - Privacy</title>
@@ -97,14 +97,16 @@
 </div>
               
 <div id="beta_request_div" class="beta_request_div">
-	<form name="beta_form" id="beta_form" action=".">
+	<form name="beta_form" id="beta_form" action="/register" onsubmit="return betaRequest( this );" method="post">
+	<input type="hidden" name="token" value="pr_Privacy_page">
+	
 	<table cellpadding="0" cellspacing="0" class="beta_register_table font_small">
 		<tbody><tr>
         	<td colspan="2" style="font-weight:bold;">You wanna join our BETA? Great!</td>
 		</tr>
 		<tr>
 			<td>Email please:</td>
-            	<td><input style="font-size:13px;height:19px;width:140px;" id="beta_request_email" name="beta_request_email" type="text" value=""></td>
+            	<td><input style="font-size:13px;height:19px;width:140px;" id="beta_request_email" name="email" type="text" value=""></td>
 		</tr>
         <tr>                           
             <td>
@@ -114,9 +116,9 @@
 		</tr>
         <tr>
         	<td colspan="2" align="right">
-				<a href="javascript:betaRequest($('#beta_request_email').val(),$('#hear_about_us').val(),betaRequestResponse);">
-					<img alt="beta request" class="tip_it_btn btn" src="/image/send.png" style="position:relative;right:10px;">
-				</a>
+				<!--  a href="javascript:betaRequest($('#beta_request_email').val(),$('#hear_about_us').val(),betaRequestResponse);"-->
+					<input type="image" alt="beta request" class="tip_it_btn btn" src="/image/send.png" style="position:relative;right:10px;">
+				<!--  /a-->
 			</td>
 		</tr>
 		<tr id="beta_request_email_err" style="display:none;padding: 0px;color:red;font-weight: bold;">
