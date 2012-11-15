@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502073221id_/http%3A//www.velti.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115183100id_/http%3A//www.velti.com/privacy.html) for the most accurate reproduction.*
 
 # velti
 
@@ -76,4 +76,4 @@ We and our Subsidiaries will provide you with a copy of any personal information
 
 ### Contact Us
 
-If you have questions, concerns, or suggestions regarding our Privacy Policy, we can be reached using the contact information on our [Contact Us](https://web.archive.org/web/20120502073221id_/http%3A//www.velti.com/contact-us.html) page.
+If you have questions, concerns, or suggestions regarding our Privacy Policy, we can be reached using the contact information on our [Contact Us](https://web.archive.org/web/20121115183100id_/http%3A//www.velti.com/contact-us.html) page.
