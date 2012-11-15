@@ -1,166 +1,267 @@
-> *The following text is extracted and transformed from the fox4now.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616190634id_/http%3A//www.journalbroadcastgroup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox4now.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115234618id_/http%3A//www.fox4now.com/161198165.html) for the most accurate reproduction.*
 
-# Journal Broadcast Group » Privacy Policy
+# JBG Privacy Policy 2012 - WFTX-TV Fort Myers/Naples, FL
 
-**Privacy Policy for Journal Broadcast Group, Inc.  
-Effective Date: 2/24/2009**
+This Privacy Policy does not govern the DoApps Local Mobile News application used for the submission of user generated content via mobile devices. Please see DoApp's [privacy policy.](http://www.doapps.com/privacy.php)
 
-**TABLE OF CONTENTS**
+## Last Updated and Effective Date: June 10, 2012 
 
-  * **What are "Your California Privacy Rights"?**
-  * **What types of Personal Information do we collect?**
-  * **How do we actively collect and use Personal Information?**
-  * **Do we collect Personal Information from or about children?**
-  * **How do we passively collect and use Personal Information through tracking technology?**
-  * **Do we share your Personal Information with third parties?**
-  * **What choices do you have about the collection, use and sharing of your Personal Information?**
-  * **What do you need to know about links to other websites operated by third parties?**
-  * **How can you access or update your Personal Information?**
-  * **What security measures do we take to safeguard your Personal Information?**
-  * **How will you know if we make changes to this Privacy Policy?**
-  * **How can you contact us?**
+We have updated and streamlined our Privacy Policy in order to make is easier for our visitors and users (collectively, "Users," "you," and "your") to read and understand our privacy practices and principles. Although we have added several new features and activities, and are using new technology to distribute and monitor our content, we have not changed your opt-out or opt-in choices for previous features and activities.Click here for an overview of our changes to the Privacy Policy. Our previous Privacy Policy is availablehere.
 
+Please read this Privacy Policy carefully before you submit any Personal Information. By visiting or using our Services, you accept the practices described in this Privacy Policy. You are also governed by our [Terms of Use](https://web.archive.org/161199025.html) Agreement ("TOU"). Any capitalized terms not defined in this Privacy Policy will have the same meaning as defined in the TOU.
 
+### Table of contents
 
-Please read this Privacy Policy carefully before YOUR SUBMISSION OF ANY PERSONALLY IDENTIFIABLE INFORMATION. Your visit to our websites is subject to this Privacy Policy and our Website [Terms and Conditions of Use](http://www.journalcommunications.com/termsofuse.html).
+  * What are "Your California Privacy Rights"?
+  * What types of information do we collect and use?
+  * Do we collect Personal Information from or about children?
+  * Do we disclose your Personal Information to third parties?
+  * How do we tailor and personalize content and advertising on our Services? 
+  * What other choices do you have regarding the collection, use and sharing of your Personal Information?
+  * What do you need to know about links to other websites operated by third parties?
+  * How can you access, update, correct or delete your Personal Information?
+  * What security measures do we take to safeguard your Personal Information?
+  * How will you know if we make changes to this Privacy Policy?
+  * How can you contact us?
 
-This is the official Privacy Policy for the Journal Broadcast Group, Inc. ("JBG", "us", "our", or "we") and select radio and television stations.  JBG is a subsidiary of Journal Communications, Inc. ("JCI") and is the owner and operator ("Owner and Operator") of the various station websites ("Sites"). This Privacy Policy governs our collection of personally identifiable information ("Personal Information") both online and off-line.
 
-We hope to provide you with news, information, and entertainment tailored to your individual needs but we also recognize the importance of protecting the privacy of your Personal Information. This Privacy Policy is designed to answer your questions regarding our online and offline information practices and the choices you can make about the way your Personal Information is collected, used and disclosed. This Privacy Policy is also incorporated in the Sites' [Terms and Conditions of Use Agreement](http://www.journalcommunications.com/termsofuse.html) by reference.
 
-Each time you visit our Sites, use our online features and services, or participate in an event or activity offline, you consent to the collection, use, disclosure, processing and management of Personal Information in accordance with this Privacy Policy. You may withdraw your consent at any time, subject to certain legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent, please contact us using the information below.
+### General
 
-**What are "Your California Privacy Rights"?**
+This is the official Privacy Policy for Journal Broadcast Group, Inc. ("JBG", "us", "our", or "we"), the owner and licensee of radio and television stations ("Services") across the country, and the owner, operator, or provider of the various Services that have an authorized link to this Privacy Policy. (Complete listing of Services [here](https://web.archive.org/includes/JBGServicesList.html).) JBG is a subsidiary of Journal Communications, Inc. ("JCI"). This Privacy Policy governs our collection of personally identifiable information ("Personal Information") both online and offline. 
 
-Under California law, California residents who have an established business relationship with us may choose to opt-out to our sharing Personal Information about them to either JCI or other JCI subsidiaries (collectively, "JCI Affiliates"), or to opt-in to sharing Personal Information with non-affiliated third parties for marketing purposes. If you wish to opt-out sharing your Personal Information with JCI Affiliates or to withdraw your opt-in consent to share with non-affiliated entities, please send your written request to us using the email address below and marking your request "Re: Your California Privacy Rights". Your opt-out request will be processed within ten (10) business days of the date it is received in accordance with the information below. Please note that non-affiliated third parties are independent from our Company and if you wish to stop all communications from such third parties, you will need to address such issues with the non-affiliated third parties directly.
+We respect your privacy and this Privacy Policy is designed to answer your questions regarding our online and offline information practices and the choices you can make about the way your Personal Information is collected, used and disclosed. This Privacy Policy is incorporated in our Sites' TOU by reference. 
 
-**What types of Personal Information do we collect about you?**
+Our Services are designed and targeted to U.S. audiences and are governed by and operated in accordance with the laws of the U.S. If you are not a U.S. citizen or do not reside in the U.S., you voluntarily consent to the collection, transfer, use and disclosure of your Personal Information to the U.S. You also agree to waive any claims that may arise under your own national laws.
 
-We ask you to provide various types of Personal Information to enhance your experience on our Sites. The more information you provide, the better we are able to customize your experience. The types of Personal Information our Sites may collect include your full name, postal address, email address, telephone number (wireline or mobile), fax number, birth date, gender, occupation, household income, purchasing preferences, personal interest activities, bank/debit/credit card information, username and password for the Site, and other Personal Information that you actively provide to us via our Site, email, or offline via telephone, facsimile, postal mail, or in-person. 
+### 1\. What are your California Privacy Rights?
 
-**How do we actively collect and use Personal Information?**
+If you reside in California and you have an established business relationship with us, you have the right to receive information about our online opt-out and out-in policies of sharing your Personal Information with other companies owned by JCI (collectively, "JCI Affiliates") and with non-affiliated third parties, including sponsors, promotional partners and advertisers (collectively, "Advertisers") for marketing or advertising purposes. If you wish to learn about our opt-out and opt-in policies, please send your written request to us via email or postal mail following the instructions below. We will not accept requests via the telephone or facsimile.
 
-Generally, we actively collect Personal Information from you when you complete online forms or otherwise affirmatively and voluntarily provide such information to us. Our Site collects information in different ways, including but not limited to when you participate in sweepstakes, contests, games, promotional offers, and surveys; subscribe to our online services or features, such as news, weather and traffic alerts; register for our newsletters, other publications and loyalty clubs; download podcasts; purchase products or services through our shopping service; communicate with us via email; or apply for employment with us. __
+  * We may not be able to respond to requests that are not labeled or sent properly, or do not have complete information.
+  * For all requests, include your full name, street address, city, state and zip code.
+  * In your email request, you must state "Re: Your California Privacy Rights" in the subject line and send your email to privacy@journalbroadcastgroup.com.
+  * In a postal request, you must send a letter or post card to:
 
-We use your Personal Information in many ways, including but not limited to when we deliver email, facsimile and other direct marketing communications to you regarding special product offers, sales, promotions, or other information about our or our affiliates or our advertisers, sponsors, and promotional partners (collectively, "Advertisers") products and services, provided that you have given us your consent at the time we collect your Personal Information; administer sweepstakes, contests, games or other promotional programs or activities and notify winners of such programs or activities; provide you with valuable online services, such as news, weather and traffic alerts; respond to your questions or provide other requested information; notify you of important changes in the functionality of our Sites or other notices related to the handling of your Personal Information; and evaluate your qualifications for employment.
 
-**Your Personal Information will be collected and used for the following features, services and activities:**
-
-**_Loyalty Awards or Membership Program_**
-
-Our stations' loyal listeners and viewers may join our loyalty award or membership programs to receive information about various station activities, on-air personalities, programming, contests and sweepstakes, local events, and promotional offers or ads from advertisers and sponsors via email and/or mobile devices. You will be required to submit your name, age or date of birth, gender, postal address and/or email address.
-
-**_Contests, Sweepstakes and Promotions_**
-
-We conduct various contests, sweepstakes and promotions over the air, online and at remote locations. Certain contests, sweepstakes or promotions are only for members of our Loyalty Awards or Membership programs. Depending on the type of contests, sweepstakes or promotions, you will be required to submit your name, age or date of birth, gender, postal address and/or email address. Additional non-Personal Information may be requested depending on the nature of the activity and such information may be associated with your Personal Information. If the activity is conducted online, we do not knowingly collect the Personal Information from a person under the age of 13 and we will delete such information, to the extent technically possible, in the event we discover or have knowledge that a child has registered for an online contest, sweepstakes or other promotional activity. Persons that falsify their contest/sweepstakes entry for any reason will immediately forfeit any prize, benefit or compensation. 
-
-For all contests and sweepstakes, you may need to show state-issued identification to verify your identity and eligibility if you are selected to be a winner. If you win a prize valued at $600 or more, or have won in one calendar year prizes that are valued at $600 or more in the aggregate, you must also provide your social security number and complete the required IRS Form W-9 for federal tax reporting. 
-
-**_Specialized Features_**
-
-We offer several specialized features such as automotive and sports related websites, often in conjunction with JCI Affiliates or non-affiliated third parties. To join or subscribe to these specialized features or websites, you may be requested to submit your name, postal address and billing address (if different than delivery address), email address, age or year of birth, and/or gender. If a specialized feature or website is provided by both JBG and a JCI Affiliate or a third party, both entities will own and use your Personal Information consistent with their individual privacy policies.
-
-We may also provide our users and/or members with the opportunity to weigh-in on local or national issues or share personal interests by participating in a survey or a questionnaire. We may collect your email address and other information related to the subject matter, such a politics, travel, sports, food, education, or medical information. Some surveys or questionnaires may also be anonymous, meaning you do not have to submit your name or email address. 
-
-**_User Generated Content (UGC)_**
-
-Users of our Sites may submit news tips, story suggestions, audio, video, photographs, animation and other content for various features on these Sites or for offline purposes such as a resource for our broadcast stations and entertainment features. Depending on the nature of the UGC, you may be required to complete a registration process, which may require the submission of your name, email address, telephone number, city, state and zip code. Our news editors or reporters, at their discretion, may contact a user for additional information related to the user and/or the user's content. 
-
-**_Classified Advertising_**
-
-Companies and individuals may place classified ads in various Journal publications via online, postal mail or courier, in person and/or telephone. We will collect your name, name of the business entity placing the ad (if any), email address, telephone number, billing address, and credit card account or check payment information. Upon entry of your credit card number into our secured system, whether the number is collected offline or online, the credit card account number is encrypted and retained until your account is cancelled and deleted. For your convenience, if you have an active account and wish to renew or extend your advertising schedule, or purchase new ads, only authorized personnel has access to your payment information from a past transaction by using the last four digits of your credit card account number.
-
-**_General Advertising_**
-
-For entities that purchase broadcast advertising or other advertising and marketing opportunities, we will collect your name, name of the business entity placing the ad (if any), email address, telephone number, billing address, and credit card account or check payment information. Upon entry of your credit card number into our secured system, whether the number is collected online or offline, the credit card account number is encrypted and retained until your account is cancelled and deleted. For your convenience, if you have an active account and wish to renew or extend your advertising schedule, or purchase new ads, authorized personnel only has access to your payment information from a past transaction by using the last four digits of your credit card account number.
-
-**_Mobile Marketing_**
-
-We provide commercial marketing and advertising opportunities, contests/sweepstakes, and alerts for news, sports, and weather delivered via mobile devices. You must subscribe to a mobile service or request that we send such information to you via a text message or a wireless voice call. Depending on the type of mobile subscription service, you will be asked to submit your name, age or date of birth, mobile telephone number, and/or standard email address. We do not request submission of a wireless email address and if we collect such information inadvertently for a marketing or advertising opportunity, we will attempt to notify you and request a standard mobile telephone number that does not have a wireless domain name attached to it. You have a right to opt-out of any mobile service in the same manner in which you registered or by notifying our Privacy Administrator.
-
-**_Marketing Via Fax_**
-
-We may send commercial advertising and promotional material via facsimile to our businesses that the JBG or any of its radio or television stations have an existing business relationship with. We require affirmative consent from the recipients of a commercial fax or we will respond to an inquiry or invitation to send a commercial fax. We may also fax material that is primarily informational or transactional, however, such material is not deemed to be commercial and does not require either an existing business relationship or affirmative consent. You have a right to opt-out of any commercial fax by following the opt-out instructions on these Sites or on the first page of the fax.
-
-**_Contact Us_**
-
-If you use our Sites' email address hyperlink or telephone number to contact us, we may ask for your name, email address and/or telephone number. **_We will not ask for, nor should you send any sensitive or confidential Personal Information via email, such as social security number, credit card account number, or a driver's license number._** If you receive an email requesting any such information from us or someone that claims they are with the JBG, please contact our Privacy Administrator immediately.
-
-If you send correspondence to us that pertains to our broadcast operations or programming, we are required by federal law to place all such correspondence in the station's FCC Public Inspection File, which may also be posted electronically on these Sites. Please see our section titled "Do we collect Personal Information from or about children?" for details on how we handle such correspondence from children.
-
-Our Sites may also enable you to submit Personal Information about other people. We may collect Personal Information about other people from you when you participate in various programs and features or when you submit news stories or nominations for community awards or recognition that involve other people. We generally use this Personal Information to process your request, submission or to investigate and report news stories. 
-
-We may also combine your Personal Information with information obtained from JCI Affiliates, our operational service providers or other companies.
-
-**Do we collect Personal Information from or about children?**
-
-We recognize the particular importance of protecting the privacy of children. We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not generally target children for our goods and services and do not knowingly collect Personal Information from children under the age of 13. If we discover that a child under the age of 13 has provided Personal Information to us that does not qualify for any regulatory, legal, or security/safety exemption as described below, or we are contacted by a verifiable parent or legal guardian about his or her child's participation on our Sites, we will delete the Personal Information about the child from our active records and from our systems to the extent technically feasible. 
-
-We are required by federal law to place all correspondence from the public related to a station's operations or programming in the station's FCC Public Inspection File, which may also be posted electronically on these Sites. If we know that email or other correspondence is from a child, we cannot delete the correspondence but we reserve the discretion to remove any Personal Information that could be used to contact the child from the correspondence before placing it in the FCC Public inspection File. 
-
-On occasion, our Sites may enable parents or legal guardians to submit information about their child under the age of 13 for purposes of participating in programs or features, such as a weather kids program and contests. In such instances, we only request the types of Personal Information necessary for participation in the program, which may include, but is not limited to, the parent's name and email address, child's name, age, city, and a photograph of the child. This information would be used only for purposes of the specific program or feature. 
-
-**How do we passively collect and use information through tracking technology?**
-
-Our Sites passively collect certain kinds of information that reveal the frequency with which you visit our Sites, the times and dates of your visits, the pages you reviewed, and other information, including an Internet protocol (IP) address, which is series of numbers that identifies the computer you are using. Information is passively collected through various means. We use IP addresses to identify server problems, administer our Sites, and compile aggregated statistics for marketing and research purposes, and to serve customized advertising or content to you based on your IP address' geographic location. We also use navigational data, including log files and click-stream data, to identify information about your web browser and operating system, and the time period in which you visit our Sites or select pages or areas of our Sites. This information is also used to improve our Sites' content and is retained anonymously, meaning that it does not identify an individual user. 
-
-Our Sites use small text files called "cookies" that are sent to the hard drive of your computer to store bits of information related to your use of our Sites. Cookies can store a variety of information, including IP addresses, navigational data, server information, data transfer times, user preferences, shopping cart information and passwords needed to access our Sites. We may use cookies to serve customized advertising or content to you based on your submitted zip code, age, gender, or other demographics. You may configure your browser to reject cookies. If you do so, you might not be able to access important functions or enjoy certain conveniences or customized features of our Sites.
-
-Our Sites may also use "Web beacons" to help personalize your experience, similarly to how we use cookies. We may also use Web beacons to gather non-Personal Information about the number of users who visit our Sites, the areas in which they spend their time visiting, and other demographic data. 
-
-We do not ordinarily combine passively collected Personal Information (as described above) with actively collected Personal Information. **** However, for Sites' interactive features such as blogs, chat rooms and bulletin boards, we have the capability to correlate your comment with your IP address and account in the event you are in violation of the Sites' Terms of Use agreement or may be subject to a civil or criminal inquiry or investigation. We also reserve the right to introduce new passive tracking technologies and techniques. 
-
-Operational service providers, such as Yahoo!, use cookies and web beacons to help us display customized content and advertising based on your demographics (such as gender, age or city/state), Site visits, searches and purchases. Yahoo! automatically collects information about your browser and computer, including your IP address, Yahoo!'s cookie information, software and hardware attributes, and the webpage that you request. Yahoo! does not disclose your Personal Information to an Advertiser or a third party marketer when you interact with or view a targeted ad. However, you may chose to accept the Advertiser's own cookie if you click or interact with an ad. Yahoo! may also combine Personal Information or non-personal information about you that it obtains from us, other business partners, and other companies. 
-
-**If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or usage habits, please[click here](http://subscribe.yahoo.com/showaccount).**
-
-**Do we share your Personal Information with third parties?**
-
-Except as stated in this Privacy Policy or unless your consent is obtained at the time of collection or prior to transfer, your Personal Information will not be shared with any third party outside of JCI Affiliates and operational service providers. We will share your Personal Information with JCI and JCI Affiliates primarily for business and operational purposes and occasionally for promotional and marketing purposes.
-
-We may sometimes offer promotions or contests that are sponsored by, co-sponsored or co-branded with either JCI Affiliates or non-affiliated third parties such as Advertisers, in which we will provide you notice that your Personal Information will be shared with these identified third parties for purposes of fulfilling contest prizes and delivering email and other direct marketing communications to you regarding special product offers, sales, promotions, or other information about these third parties' products and services that may be of interest to you. Please do not participate in a co-branded or co-sponsored promotion/contest if you do not wish to disclose your Personal Information with the third parties involved in such promotions/contests.
-
-We will share your Personal Information and non-identifying and aggregate information with our operational service providers and JCI Affiliates, to help us serve you better and to perform functions on our behalf in order to support our business and operation of our Sites, features and activities, as necessary, including without limitation to provide online services, such as news, weather and traffic alerts; to provide shopping services and fulfill and process orders for products and services; to process credit card payments; to send communications to you; to facilitate promotional marketing campaigns; to facilitate advertisements on our Sites; to provide technical support services, and to host our Sites on third party servers.
-
-We also reserve the right to disclose your Personal Information to protect the security of our Sites and databases; to protect JBG and JCI Affiliates against liability and harm; to respond to subpoenas, judicial processes, or government requests and investigations; to act in respect of an emergency that threatens life, health or security of an individual; to assist in the investigation of a contravention of a law or our Sites' Terms and Conditions for Use; if we believe in good faith that the law requires it or authorizes it; or in connection with any proposed or actual purchase, sale, lease, merger, assignment, re-organization or financing of all or any portion of JBG, JCI or any of the business or assets or shares of JBG or JCI Affiliates thereof in order for you to continue to receive the same products and services. 
-
-We reserve the right to fully use, share, disclose and process any non-Personal Information collected via our Sites or offline.
-
-**What choices do you have about the collection, use and sharing of your Personal Information?**
-
-If you do not want to receive email and other direct marketing communications from us regarding special product offers, sales, promotions, or other information about JCI Affiliates or our Advertisers' products and services, you may choose to opt-out of receiving such communications from us by clicking on the unsubscribe links in certain email communications from us or by otherwise notifying our Privacy Administrator of your opt-out choice by using our contact information below. 
-
-If we plan to share your Personal Information directly with non-affiliated third parties such as Advertisers for purposes of delivering promotional or direct marketing materials directly to you or providing particular online services to you, you will be asked to provide your affirmative consent ("opt-in") first. If you have opted in to such use of your Personal Information, you may withdraw your consent at any time ("opt-out"), unless there are certain restrictions as stated in this Privacy Policy, Terms of Conditions of Use, Official Rules or are disclosed in advance. For withdrawal of your consent please contact us using our information below and we will take reasonable measures to avoid sharing your Personal Information in the future. However, please note that non-affiliated third parties are independent from us, and if you wish to stop all communications from such third parties, you will need to address such issues with the third parties directly. 
-
-**What do you need to know about links to other websites operated by third parties?**
-
-Our Sites contains a variety of content and functionality and may provide links to other third party websites, including JCI Affiliate websites. Despite these linkages or any references to our business and JBG at those websites, this Privacy Policy applies only to JBG. This Privacy Policy does not apply to other portions of our internal network or to any external websites. Please note that you are solely responsible for your interactions with external websites and third parties to which our Sites provide you access, such as by clicking on a link. The presence of a link to a third party website does not constitute or imply our endorsement, recommendation, or sponsorship of the third party content, goods, services available through, or contained on, the website or the third party's business or privacy practices. By use of our Sites, you have agreed that you will use the hyperlinks to third party websites at your own risk. 
-
-**How can you access, update or delete your Personal Information?**
-
-If you wish to update or correct any Personal Information you have previously provided to us, you may enter your username and password and access your account via these Sites, or contact us by using our contact information below. **[ALL DIVISIONS TO CONFIRM SPECIFIC PROCESS]** You may also request to remove your Personal Information from our Company records to the extent technically feasible, electronic or otherwise, however, certain records and Personal Information must be retained for tax or regulatory purposes. Additionally, our network system may not allow the deletion of all Personal Information. If we are not able to purge all Personal Information, we can remove such data from an active field or folder. We will update your Personal Information where appropriate, and we reserve the right to retain Personal Information obtained previously to verify your identity or take other actions that we believe are appropriate. 
-
-We also reserve the right to deny access to any user if we believe there is a question about your identity. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries. 
-
-**What security measures do we take to safeguard your Personal Information?**
-
-The security and confidentiality of your Personal Information is important to us. We maintain reasonable physical, electronic, and managerial procedures to protect your Personal Information. If we collect Sensitive Personal Information such as credit or debit card account numbers, we will do so using an industry-standard secured transmission process. However, no security measures are impenetrable, and transmissions over the Internet are never 100% secure or error-free. As a result, we do not, and cannot, guarantee the security of any Personal Information but we will take reasonable measures.
-
-Also, it is your responsibility to safeguard any username or password that you may have received in connection with our Sites, and to notify us if you ever suspect that the security and confidentiality of your username or password and associated account has been compromised in any way. You are solely responsible for any use of our Sites via your username and password.
-
-**How will you know if we make changes to this Privacy Policy?**
-
-We reserve the right to change this Privacy Policy from time to time and in our sole discretion without advance notice to you. If this Privacy Policy changes, the revised Privacy Policy will be posted at the "Privacy Policy" link on our Sites' home page. In the event that the change is significant or material, we will notify such a change by revising the link on the home page to read "Privacy Policy - Updated." Please check the Privacy Policy frequently and particularly before you submit additional Personal Information via our Sites. If you do not agree to the changes in the Privacy Policy, you understand, acknowledge and agree that your only recourse is to stop using our Sites. Your continued use of our Sites constitutes acceptance of such changes in the Privacy Policy, except where further steps are required by applicable law. The effective date of this Privacy Policy is noted in the beginning of this Privacy Policy. 
-
-**How can you contact us?**
-
-Please feel free to contact us with any comments, questions, or suggestions you may have regarding the Personal Information practices described in this Privacy Policy at [privacy@journalbroadcastgroup.com](mailto:privacy@journalbroadcastgroup.com?subject=Attention:%20Privacy%20Administrator). Please also contact our Privacy Administrator to report any known or suspected privacy or security breaches.
-
-You may also contact us at:
 
 Journal Broadcast Group, Inc.  
-Attention: Privacy Administrator  
-333 W. State Street  
-Milwaukee, Wisconsin 53201
+600 Industrial Drive  
+Milwaukee, Wisconsin 54981
 
-Copyright © 2008-2009 Journal Communications, Inc. All Rights Reserved.
+Attention: Privacy Administrator/Your California Privacy Rights
+
+Non-affiliated third parties are independent from JBG and JCI and if you wish to receive information about your disclosure choices or stop communications from third parties, you will need to contact those non-affiliated third parties directly.
+
+### 2\. What types of information do we collect and use?
+
+We collect both Personal Information and Non-Personal Information. We collect a variety of Personal Information voluntarily submitted by you via our Services, email, telephone, instant messaging, facsimile, postal mail, texts, mobile applications ("Apps"), or via third party websites such as Facebook, Twitter or other social networking platforms, or in-person. We may also collect Personal Information about other people when you participate in certain programs and features or when you submit news stories or nominations for community awards or recognition that involve other people.
+
+### Personal Information and Non-Personal Information definitions:
+
+Generally, Personal Information is information that can be used to identify or contact a specific inpidual, such as your name, postal address, email address and telephone number, or data that can be reasonably linked to a specific consumer, computer or other device. Non-Personal Information is information that may not directly identify or enable contact of a specific inpidual, such as an Internet Protocol ("IP") address or mobile device unique identifier, particularly if that data is de-identified (meaning it becomes anonymous). Aggregated information is also classified as Non-Personal Information because an inpidual person cannot be identified. However, Non-Personal Information linked to or associated with Personal Information will also be classified as Personal Information.]
+
+Close
+
+Click here for the specific types of Personal Information we may collect.
+
+### Specific types of Personal Information we may collect:
+
+Depending on your relationship with us and the feature, activity or transaction you are engaged in, we may collect your full name, postal address, email address, telephone number (wireline or mobile), text/tweet ID, facsimile number, date of birth, gender, occupation, household income, purchasing preferences, personal interest activities, , precise geographic location, and username and password for the Services, search, transaction and purchase history if such information is linked to or associated with other Personal Information, or any other Personal Information that you provide to us. We also collect more sensitive Personal Information such as bank/debit/checking/credit card account information, Social Security Number, driver's license number, passport number, employment history, medical history for conducting your purchase transactions or employment applications, or to verify your identity, eligibility for certain promotions or transactions, and/or IRS reporting requirements. If you log in to our Services using your Facebook User ID or another social networking platform User ID, we will only collect Personal Information that you have authorized Facebook or another social networking platform to share with us or information that you've made public. Under certain circumstances and to the extent required by applicable law, an IP address and a mobile device unique identifier may also be classified as Personal Information.
+
+Close
+
+We also collect information about your computer, browser, mobile device, visits to our Services and other online activities that are used to enhance or customize your experience on our Services or Apps and to improve our Services. Like most standard websites, this information is traditionally collected on our Services automatically via cookies, web beacons and other similar technology and is generally treated as Non-Personal Information, unless we are required to do so otherwise under applicable law. Non-Personal Information may be combined with other Personal Information. You may configure your browser to reject cookies. If you do so, you might not be able to access important functions, features and activities or enjoy certain conveniences or customized and personalized features of our Services. Click here for a description of cookies and web beacons. Technology is improving every day and to improve our Services' operation and function we may introduce new technologies and monitoring techniques without advance notice or consent from you.
+
+### Description of cookies and web beacons:
+
+Cookies are a small text file consisting of a combination of alphanumeric identifiers that we transfer to your computer's hard drive or mobile device through your web browser that allows us to identify your computer or saved preferences. Cookies can store a variety of information, including IP addresses, navigational data, server information, data transfer times, user preferences, shopping cart information and passwords needed to access our Services, certain features and activities. We use IP addresses for the following reasons:
+
+  * To administer our Services and identify server problems.
+  * To compile aggregated statistics for marketing and research purposes, and IP address' geographic location.
+  * To collect Non-Personal Information such as user navigational data (including log files and click-stream data) that identifies information about your web browser and operating system, and the date and time in which you visit our Services, select webpages or areas of our Services in order to improve our Services' content, operations, and user experience. This information is usually collected anonymously – it does not identify a specific inpidual, unless it is combined with Personal Information in your account for administrative or legal purposes.
+
+
+
+Web beacons (also called clear Graphics Interchange Format ("GIFS") or web bugs) are a common file format for graphic images in an email and on a webpage. Web beacons can report user behavior, such as opening an email or ad, and often work with cookies. We use web beacons to gather Non-Personal Information such as the number of Users who visit our Services, webpages and areas in which they spend their time visiting, and how Users view and use our content, features and activities.
+
+Close
+
+We use Personal Information in various ways, click here for an overview. We also use your Personal Information and/or other information such as an IP address or mobile device unique identifier to deliver customized or personalized content and advertising communications to you. We may also use your Personal Information and Non-Personal Information to send special product offers, sales, promotions, or other information about us, our JCI Affiliates or our Advertisers, if you have provided your consent. Click here for more information about customized or personalized content and advertising.
+
+### We use your Personal Information to provide, complete and/or fulfill the following on our Services, Facebook fan pages or other social network platforms, and/or other digital technology not yet known or developed:
+
+  * Participate in sweepstakes, contests, games, promotional offers on our Services.
+  * Participate in surveys and questionnaires.
+  * Subscribe to online and mobile/electronic publications, and other services or features (such as news, election coverage, weather, sports and/or traffic alerts).
+  * Receive advertising, marketing and promotional information about upcoming events, products and services from JBG, its Advertisers and JCI Affiliates.
+  * Register for newsletters, other publications, AdMail or other email advertising services, daily discount coupon service, and loyalty clubs.
+  * Download JBG or JCI content such as music, audio and video content, and podcasts.
+  * Purchase products or services through our shopping service or App platforms.
+  * Communicate via email, postal mail, instant messaging, telephone, texts, facsimiles, or via Facebook, Twitter or other social network platforms.
+  * Participate in interactive public and community forums or blogs.
+  * Submit comments and viewpoints that will be made public via our or JCI Affiliate Services, newspapers, publications, Apps, texts, tweets, radio and television broadcasts, any other digital technology, or technology not yet known or developed.
+  * Submit user generated content such as videos, audio files, photographs, and other third party content.
+  * Apply for employment.
+  * Purchase, transfer or sell stock in JBG or JCI Affiliates.
+
+
+
+Close
+
+We may also combine your Personal Information with additional Personal Information obtained from our Facebook fan pages or other social network platforms, JCI Affiliates, our Operational Service Providers (third party owned companies that provide or perform services on our behalf, to help serve you better and to perform functions in order to support our businesses and operations), or other companies, such as credit bureaus, background check firms, marketing research companies, and Advertisers.
+
+### Here a few additional services, features and activities that collect and use your information:
+
+### News Registry
+
+Select Stations participate in the News Registry, a content analytics service operated by NewsRight, LLC ("NewsRight") based in the United States. The News Registry collects content usage information and may use cookies and/or clear GIF image tags (also called web beacons) in conjunction with this activity. Your continued readership or use of our Sites means you also accept the privacy policy of the NewsRight News Registry. Please refer to the NewsRight News Registry privacy policy at<http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+
+We use the News Registry to learn more about how our news and editorial content (such as articles, blogs, photos, graphics, video or audio files regarding any subject matter) is used and consumed. The primary purpose of the News Registry is to monitor a User's use of news and editorial content from its initial publication on a Sites' webpage (whether accessed via a computer or mobile device), to when news and editorial content is reposted on other websites or online services (such as on Facebook, Twitter or other social networking platforms, blogs, texts, or web-based email systems) or other forms of digital communications. This information will help us understand how best to improve our news and editorial product, distribution of that product, and/or our Sites' functions. We also monitor the various uses of content on our Sites so that we can exercise and/or enforce our copyright, trademark, contract, or any other rights in or related to such content. Click here for more information about the type of Non-Personal Information the News Registry collects from Users and how it is used. Please refer to the [NewsRight News Registry privacy policy](http://www.newsregistry.com/privacycenter/servicepolicy.aspx) for your opt-out choices.
+
+### How does the NewsRight News Registry work?: The News Registry collects, and uses the following Non-Personal Information for its analytics service:
+
+1) for news and editorial content that is "clicked-to" or posted from another website or source, we collect the identification of the referring URL of that traffic; and 2) log information to help identify how, where and when news and editorial content is accessed or viewed. Each time you request a webpage that includes news and editorial content monitored by the News Registry, the News Registry's server records information that your browser sends to it, including the identifier of any cookie that the Registry has previously set on your browser (if you have one), the URL of the page where you accessed the content, your IP address (which the Registry uses to infer your general geographic location), your browser and operating system types, and the date and time that the content was accessed). The News Registry may also enhance or combine information collected about news and editorial content consumption with other analytical sources and data, such as domain name ownership background information, the author, owner, licensor or licensee of the news and editorial content, News Registry data collected from JCI Affiliates, and predictions about a User's age, gender, or other demographics. We may also disclose aggregated News Registry data to JCI Affiliates.
+
+Close
+
+### JBG Interactive Network
+
+JBG Stations will provide interactive features and activities, in addition to online subscriptions. You may be required to either register with central JBG service, with a JBG Station or use your Facebook log-in in order to participate in our interactive areas, such as blogs, chat rooms and bulletin boards. As a member of the JBG Interactive Network, you may also sign-up for email newsletters or other publications on various topics and be eligible for member-only contests and sweepstakes, activities, and email advertising offers and daily discount coupon services. MORE
+
+### More Information about JBG's Interactive Features & Activities: 
+
+For the Service's interactive areas, we can connect your postings with your IP address and account or Facebook User ID in the event we believe that you are in violation of our TOU, other laws or may be subject to a civil or criminal inquiry or investigation. We will disclose that information to law enforcement, other governmental entities, or other entities at our discretion.
+
+Close
+
+### User Generated Content (UGC)
+
+Users of our Services may submit comments, viewpoints, news tips, story suggestions, audio, video, photographs, animation and other content for various features and activities on the Services or offline as a resource for our newspapers and entertainment publications. You understand, acknowledge and agree that such content and any Personal Information connected with such content is considered public information and will be disclosed at our discretion. Depending on the nature of the UGC, you may be required to complete a registration process. Our Station personnel, at their discretion, may contact a User for additional information related to the User and/or the User's content.
+
+### Mobile Apps, Smart Phones and other Mobile Devices
+
+You may subscribe to commercial marketing and advertising opportunities, alerts for news, sports, traffic, election coverage, and/or weather, and participate in contests/sweepstakes and other content or features delivered via mobile devices, Apps for your iPhone or other smart phone platforms, the iPad and other tablets, and electronic readers, such as Kindle and Nook. 
+
+### Contests, Sweepstakes and Promotions
+
+We conduct various contests, sweepstakes and promotions in our Services and at remote locations. Each event may have different registration requirements. You may need to submit your date of birth and other Personal Information to meet certain eligibility requirements. Persons that falsify their contest/sweepstakes entry for any reason will immediately forfeit any prize, benefit or compensation. MORE
+
+### More information about our contests, sweepstakes and promotions:
+
+Winners for contests and sweepstakes may need to show a government-issued photo identification to verify identity and eligibility prior to receiving the prize. If you win a prize valued at $600 or more, or have won prizes that are valued at $600 or more in the aggregate in a calendar year, you must also provide your Social Security Number, a postal address and complete the required IRS Form W-9 for federal tax reporting. 
+
+Close
+
+### 3\. Do we collect Personal Information from or about children?
+
+We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act ("COPPA"). We do not knowingly target or collect online Personal Information directly from children under the age of 13 unless we are required to do so by law or to protect the safety of our Users. We are required by federal law to place all correspondence from the public related to a Station's operations or programming in the Station's FCC Public Inspection File, which may also be posted electronically on our Sites. If we know that email or other correspondence is from a child, we cannot delete the correspondence but we reserve the discretion to remove any Personal Information that could be used to contact the child from the correspondence before placing it in the Station's FCC Public Inspection File. However, if we discover that a child under the age of 13 has provided Personal Information to us that does not qualify for any regulatory, legal, or security/safety exemption as described in this Privacy Policy, or we are contacted by a verifiable parent (or legal guardian) about his or her child's participation on our Services, we will delete the Personal Information about the child from our active records and from our systems to the extent technically feasible. MORE
+
+### More information about our children's privacy policies:
+
+On occasion, our Sites may enable parents to submit information about their child to participate in programs or features, such as a weather kids program and contests. In such instances, we only request the types of Personal Information necessary to participate in the program, which may include, but are not limited to, the parent's name and email address, child's name, age/date of birth, city, and a photograph or video of the child. This information would be used only for the specific program or feature. A parent may request access to this information and request that we delete such information. For details, please see Section 8, ["How can you access, update or delete your Personal Information."](https://web.archive.org/web/20121115234618id_/http%3A//www.fox4now.com/section_8)
+
+Close
+
+### 4\. Do we disclose your Personal Information to third parties?
+
+Your Personal Information will only be disclosed to third parties as listed in this Privacy Policy, if we have received your consent at the time we collect your Personal Information or prior to the disclosure. In addition to completing or fulfilling your transaction or request, we will also disclose your Personal Information under the following limited circumstances:
+
+  * To JCI Affiliates for business, operational, promotional and marketing purposes.
+  * To co-sponsors or promotional partners if you participate in a co-branded or co-sponsored promotion/contest.
+  * To our Operational Service Providers, who are prohibited from using your Personal Information for any purpose not authorized by us or required by law.
+  * To protect the security of our Services and databases; to protect our Users, JBG and JCI Affiliates, Advertisers, and Operational Service Providers against liability and harm; to implement and enforce our TOU and DMCA Copyright Policy; to respond to subpoenas, judicial processes, or government requests and investigations; to act in response to an emergency that threatens life, health or security of an inpidual; to assist in the investigation of a violation of law or non-compliance with our TOU; or if we believe in good faith that the law requires or authorizes such disclosure.
+  * In connection with any proposed or actual purchase, sale, lease, merger, assignment, re-organization or financing of all or any portion of JBG, JCI or any of the business, assets or shares of JCI Affiliates.
+
+
+
+We reserve the right to fully use, disclose and process any Non-Personal Information collected from you in any manner.
+
+### 5\. How do we tailor and personalize content and advertising on our Services?
+
+Advertising supports the free content, services, features and activities we provide on our Services. We and our Operational Service Providers use cookies, web beacons and other similar technology to enrich your experience on our Services by serving relevant, tailored and personalized advertising and/or content from JBG or JCI to you. Such advertising and content is based on information you provide to us; your use of our content, features and activities; your visits, search, transaction and/or purchase history; visits to our Facebook fan page and/or predictions made about you based on all of these elements. (Click here for information about cookies and web beacons.)
+
+  * Contextual Advertising: For example, we may serve you an advertisement for the annual Auto Show based on a used car dealer ad you just viewed or a search about used cars on one of our Services; this type of relevant advertising based on particular content or search query is called "Contextual Advertising" because it is based on the context of how you use our Services. We do not collect any other information about you for Contextual Advertising.
+  * First Party Advertising: Advertising that is tailored or personalized based on a history of your use of content and participation in features and activities on our Services (possibly combined with information from our Facebook fan page or other social network platforms) over time is called "First Party Advertising" because it is based solely on a combination of information we collect from you – not from your visits to other websites or from third parties. We may share such information anonymously with our Advertisers in order to measure the effectiveness of ads on our Services, such as how many Users opened or acted on a particular ad, but this information may be shared with JCI but not with other non-JCI Affiliates.
+  * Network Advertising: Information about your use of our Services combined with similar information about your overall Internet usage across different third party websites or online services used to serve tailored and personalized advertising is generally called "Network Advertising." Multiple third party websites and online services are involved in this tailored or personalized advertising process, in essence a "network" of advertising providers. Such information about you could include information about your browser, computer, and/or mobile device and general information about your demographics (whether you have provided such information voluntarily or such information is estimated based on your usage history and interests), such as your gender, age, lifestyle, education, home ownership, geographic location, etc. Click here for more information about how to identify a Network Advertising ad.
+
+
+
+### More information on how we use Network Advertising to deliver tailored and personalized advertising to you: 
+
+For advertising that is part of a Network Advertising service, you should see a small symbol (also called an icon) attached to a banner ad or other targeted advertising on our Services that can be clicked open for information about why and how you are receiving a particular ad. This icon is part of the Digital Advertising Alliance's Self-Regulatory Program for Online Behavioral Advertising. For more information see www.aboutads.info.
+
+We expect our Operational Service Providers, their service providers and any Advertiser that collects and uses your website usage information for the delivery of Network Advertising on our Services to comply with the industry Self-Regulatory Program for Online Behavioral Advertising and provide you with a clear and prominent notice and explanation how your Personal Information and/or Non-Personal Information are used to deliver tailored and personalized advertising. We also expect such entities to abide by the industry's Self-Regulatory Principles for Multi-Site Data that limits the collection and restricts the use of Personal Information for determining eligibility for employment, credit, health care and insurance. Click here for more information. [Link to http://www.aboutads.info/msdprinciples]
+
+Close
+
+Our Network Advertising Operational Service Providers, such as Yahoo! display ads on our Services and use cookies and web beacons to help us display tailored and personalized content and advertising based on assumptions about your demographics (such as gender, age, lifestyle, and location) and your history of Site visits, searches and/or purchases.
+
+You may opt-out of receiving customized or personalized Network Advertising or our own First Party Advertising on our Services using the links below. However, you will continue to receive advertising and promotional messages after you opt-out, but it will not be tailored, personalized, or relevant to you based on your use of our Services and/or third party websites. You may not opt out of Contextual Advertising.
+
+If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or website usage habits, please [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html). 
+
+If you wish to opt-out of receiving customized content and ads from other Network Advertising providers, please [click here](mailto:privacy@journalbroadcastgroup.com). 
+
+If you wish to opt-out of receiving First Party Advertising from JBG based your personal preferences or website usage habits on our Services, please [click here](mailto:privacy@journalbroadcastgroup.com). 
+
+### 6\. What other choices do you have regarding the collection, use and disclosure of your Personal Information?
+
+Depending on the service, feature or activity and the type of technology used, we provide you with a choice how we collect, use and/or disclose your Personal Information. You may either opt-in or opt-out to participating in a service, feature or activity, or our sharing your Personal Information with JCI Affiliates, Advertisers or other third parties for marketing and promotional purposes unless there are certain limitations as stated in this Privacy Policy, TOU, Additional Terms, or Rules for contests/sweepstakes, or a limitation is provided in advance of the collection of your Personal Information. Click here for more information about your choices.
+
+### More information about your choices for the collection, use and disclosure of your Personal Information: 
+
+Choices for General Advertising and Promotional Messages: With your affirmative consent, your Personal Information will be shared with non-affiliated third parties such as Advertisers for purposes of delivering promotional or direct marketing materials to you or providing particular online services or goods to you. You may withdraw your consent at any time ("opt-out"), unless there are certain restrictions as stated in this Privacy Policy, TOU, Additional Terms, Rules for contests/sweepstakes, or are disclosed in advance. To withdraw your consent please opt-out via the unsubscribe mechanism contained in the advertising email, or contact our[Privacy Administrator](mailto:privacy@journalbroadcastgroup.com). Non-affiliated third parties are independent from us, and if you wish to stop all communications from third parties, you will need to contact those third parties directly.
+
+Choices for Email and Online Communications: We may send you advertising or marketing communications if we have an established business relationship with you or you have given your affirmative consent. If you do not want to receive email and other online or mobile advertising or marketing communications from us directly regarding special product offers, sales, promotions, or other information about JCI Affiliates or our Advertisers' products and services, you may choose to opt-out of or withdraw your consent to receiving such communications by clicking on the unsubscribe link in certain email communications from us, sending a "STOP" or "END" request via a mobile device, or by notifying our Privacy Administrator.
+
+Choices for AdMail, Email Services, and Daily Discount Coupon Subscription Services: You can subscribe to special email offers from JBG stations on behalf of JBG, JCI Affiliates, and/or select Advertisers), such as a service that provides discount coupon offers for various products and services. You must opt-in to these services by checking a click box as part of your registration on a JBG Station Site, via the service webpage, or App. You may opt-out any such features any time using the unsubscribe mechanism that is contained in each email or by notifying our Privacy Administrator.
+
+Choices for Telephone Marketing: You have a right to opt-out of telemarketing calls by either registering on the federal Do Not Call registry (<https://www.donotcall.gov/>) or by requesting that you be placed on the JBG-specific Do Not Call list. Please contact our Privacy Administrator. Your opt-out does not apply to calls that are transaction-related, pertain to the administration of your account, or calls made to respond to your request. We will also request your affirmative consent before we knowingly send a telemarketing call to a mobile device.
+
+Choices for Smartphones and Other Mobile Devices, Mobile Communications, and Mobile Apps: You are required to opt-in to the collection, use, and disclosure practices regarding your Personal Information and location-based information by our mobile service, App or feature when either purchasing your device or signing up for a mobile service, App or feature. We will use such information to deliver or customize the feature or service. You also have a right to opt-out of any mobile service or mobile communications, such as text messages and tweets, in the same manner in which you registered or by notifying our [Privacy Administrator](mailto:privacy@journalbroadcastgroup.com).
+
+Choices for Commercial Faxes: If you receive commercial advertising and promotional material via facsimile, you have a right to opt-out by following the instructions on the first page of the fax or contact our [Privacy Administrator](mailto:privacy@journalbroadcastgroup.com). Your opt-out may not apply to material that is primarily informational or transactional; such faxes do not require your consent. 
+
+Close
+
+### 7\. What do you need to know about links to other websites operated by third parties?
+
+Our Services and Facebook fan pages (or other social networking platforms) contain a variety of content and functionality and may provide links to other third party websites, including JCI Affiliate and Advertiser websites. Despite such links or any references to JBG on those websites, this Privacy Policy applies only to JBG and its Stations and Services. The presence of a link to a JCI Affiliate or a third party website on JBG Services do not constitute or imply our endorsement, recommendation, or sponsorship of the content, goods, services, business or privacy policies on such websites. We encourage you to be aware and informed when you leave our Services and Facebook fan pages.
+
+### 8\. How can you access, update or delete your Personal Information?
+
+If you wish to access, update, or correct any Personal Information you have previously provided to us, you may enter your username and password to access your account via the particular Service, or contact our [Privacy Administrator](mailto:privacy@journalbroadcastgroup.com). You may also request to remove your Personal Information from our records to the extent technically feasible, electronic or otherwise. However, certain records and Personal Information must be retained for legal, tax or regulatory purposes, and some information is retained via back-up systems/files as a business precaution. Additionally, our network system or platform may not allow the deletion of all Personal Information. If we are not able to delete all Personal Information, we will remove such data from an active field or folder. MORE
+
+### More information on how to access, update or delete your Personal Information:
+
+We will update your Personal Information where appropriate, and we reserve the right to retain Personal Information obtained previously to verify your identity or take other actions that we believe are appropriate. We also reserve the right to deny access to any User account if we believe there is a question about your identity. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries.
+
+Close
+
+### 9\. What security measures do we take to safeguard your Personal Information?
+
+The security and confidentiality of your Personal Information is very important to us. We implement and maintain reasonable physical, technical and administrative procedures to protect your Personal Information from unauthorized collection, use, disclosure, and disposal. Despite our best efforts, no security measures are impenetrable, and transmissions over the Internet are not 100% secure or error-free.
+
+If you contact us, we may ask for your name, email address and/or telephone number to verify your identity. We will not send an email or text, nor should you respond to any email or text communications asking for any sensitive or confidential Personal Information, such as social security number, bank account or credit card account number, or a driver's license number. If you receive an email or text requesting any such information from us or someone that claims they are with JBG or JCI, please contact our [Privacy Administrator](mailto:privacy@journalbroadcastgroup.com) immediately. MORE
+
+### More information about our security practices:
+
+It is also your responsibility to safeguard any username or password that you may have received in connection with our Services, and to notify us if you ever suspect that the security and confidentiality of your username or password and associated account has been compromised in any way. You are solely responsible for any use of our Services via your username and password.
+
+Close
+
+### 10\. How will you know if we make changes to this Privacy Policy?
+
+We often update and develop new services, features, activities and content from time to time and will need to change our Privacy Policy accordingly. We will provide notice via postings on our Services, and if such changes are material, we will send you a notice via email or text (if you have consented to receive texts), and we will obtain your consent where required by applicable law. We will also post the date(s) when the Privacy Policy was last updated and effective. Your continued use of our Services constitutes your acceptance of any changes in our Privacy Policy, except where further steps are required by applicable law.
+
+### 11\. How can you contact us?
+
+Please feel free to contact our Privacy Administrator with any comments, questions, or suggestions you may have regarding the privacy practices described in this Privacy Policy at [privacy@Journalbroadcastgroup.com](mailto:privacy@Journalbroadcastgroup.com). Also contact our Privacy Administrator to report any known or suspected privacy or security breaches. You may also contact us at:
+
+Journal Broadcast Group, Inc.  
+720 E Capitol Drive  
+Milwaukee, Wisconsin 53212  
+Attention: Privacy Administrator
+
+© Copyright 2012, Journal Broadcast Group, Inc. - All Rights Reserved.
