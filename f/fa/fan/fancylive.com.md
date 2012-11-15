@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fancylive.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317165357id_/http%3A//www.fancylive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancylive.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115081208id_/http%3A//www.fancylive.com/privacy.php) for the most accurate reproduction.*
 
-# Geo News Live Tv Channel 24/7 HQ Streaming - Fancylive.com
+# Privacy
 
 At FancyLive, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information we receive and collect when you use our web site, as well as some of the steps we take to safeguard information. 
 
