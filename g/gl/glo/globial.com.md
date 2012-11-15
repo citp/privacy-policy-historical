@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globial.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504085246id_/http%3A//www.globial.com/public.php/Page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globial.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115161601id_/http%3A//www.globial.com/public.php/Page/Privacy) for the most accurate reproduction.*
 
 # Business to Business Social Networking - Trading Companies, Wholesale Distributors, Global Suppliers, and More
 
