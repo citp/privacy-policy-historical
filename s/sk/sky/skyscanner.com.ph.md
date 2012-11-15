@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008000227id_/http%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115012552id_/http%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Skyscanner Philippines
+# Privacy and cookie policy - Skyscanner Philippines
 
 ## Skyscanner Privacy Policy
 
-This Privacy Policy covers your use of this website (and all other domains and websites)(" **our website** ") operated by Skyscanner Limited (" **us** "/" **we** "). We are committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal details you provide to us. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing Skyscanner Limited with any of your personal details.
+This Privacy Policy covers your use of this website (and all other domains and websites) and any Skyscanner application used by you on a mobile phone or other electronic device (" **our website** ") operated by Skyscanner Limited (" **us** "/" **we** "). We are committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal details you provide to us. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing Skyscanner Limited with any of your personal details.
 
 This page explains our Privacy Policy. This policy (together with our [Terms of Service](http://www.skyscanner.net/termsofservice.aspx) and any other documents referred to therein) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
@@ -12,7 +12,7 @@ Please read the following carefully to understand our views and practices regard
 
 ## Consent
 
-By using our website, you consent to the collection and use of your IP Details and Personal Information in accordance with this policy. If we change our privacy policy at any time, these changes will be reflected in this Privacy Policy.
+By using our website, you consent to the collection and use of your IP Details, Personal Information and location data in accordance with this policy. If we change our privacy policy at any time, these changes will be reflected in this Privacy Policy.
 
 ## Information Collection and Use
 
@@ -44,24 +44,29 @@ We may collect and process the following data (" **Personal Information** ") abo
 
   * Where you choose to register to use our [website](http://www.skyscanner.net/) (our " **sign-in service** "), we will collect certain personal information provided by you which may include your user ID, password, name and , email address. Additional information may be requested in future to improve the level of service we can provide you, and to allow access to additional Skyscanner services.
   * Any information that you provide by filling in forms on our website. This includes information provided by you if subscribing to our newsletter, posting material, searching for or saving travel options or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us and when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
+  * If you contact us, we may keep a record of that correspondence. We use a third party website to enable us to provide this service.
   * Information you provide to us when you complete surveys that we use for research purposes.
 
 
 
+### Location Data
+
+We may obtain information relating to your geographical location ( **"Location Data"** ) where you use any Skyscanner application on a mobile phone or other electronic device. We will use such Location Data only for the purpose of identifying which airport is nearest to you at that time.
+
 ### Use of Information
 
-We will use your IP Details, Cookies and Personal Information (together, your " **Information** ") held about you in the following ways:
+We will use your IP Details, Cookies and Personal Information held about you in the following ways:
 
   * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
   * To provide you with information, products or services that you request from us or which we feel may interest you.
   * To carry out our obligations arising from any contracts entered into between you and us.
   * To allow you to participate in interactive features of our service, when you choose to do so.
   * To notify you about changes to our service.
+  * To respond to customer support queries where you have supplied personal information.
 
 
 
-We will not sell, share, or provide your Information to others other than in accordance with this Privacy Policy or where we are required to do so by law. 
+We will not sell, share, or provide your IP Details, Cookies, Personal Information and Location Data (together, your **"Information"** ) to others other than in accordance with this Privacy Policy or where we are required to do so by law. 
 
 ## Disclosure Of Your Information
 
@@ -77,7 +82,7 @@ In addition, we may disclose your Information to third parties:
 
 Where we direct you to websites of third party flight or travel provider companies for you to make bookings, we may use your Information to auto-fill selected details within the third party companies website in order to make the booking process easier and more efficient for you. 
 
-We may also use your Information, or permit selected third parties to use your Information, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email or telephone. 
+We may also use your Information (excluding Location Data), or permit selected third parties to use your Information (excluding Location Data), to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email or telephone. 
 
 ## Data Storage
 
@@ -89,7 +94,7 @@ At present we have partnership agreements with a number of organisations, some o
 
 ## Links to third party websites
 
-This website contains links to other sites. In particular this website may direct you to the websites of third party flight or travel provider companies for you to make bookings. In order to book flights, you will provide personal data to the operators of such sites. Please be aware that we are not responsible for the privacy practices of such other sites. When you leave our site, we encourage you to read the privacy statements/policies of each and every website that collects personal data from you. This Privacy Policy applies solely to information collected by us via this website.
+This website contains links to other sites. In particular this website may direct you to the websites of third party flight or travel provider companies for you to make bookings. In order to book flights, you will provide personal data to the operators of such sites. When contacting Skyscanner through the contact us form or FAQ content, you will provide personal data that is handled by a customer support third party site. Please be aware that we are not responsible for the privacy practices of such other sites. When you leave our site, we encourage you to read the privacy statements/policies of each and every website that collects personal data from you. This Privacy Policy applies solely to information collected by us via this website.
 
 ## Sharing Information
 
@@ -109,6 +114,22 @@ The Data Protection Act 1998 gives you the right to access information held abou
 
 For the purpose of the Data Protection Act 1998, the data controller is Skyscanner Limited. 
 
-## How to contact us
+## Email Addresses
 
-If you have any concerns about this Privacy Policy or about data we may hold about you please contact us by clicking [here.](http://www.skyscanner.net/contactus.aspx)
+We do not want to send you unwanted email. You can opt-out from our mailings at any time by clicking the unsubscribe link contained in every mail we send.
+
+Email addresses are collected via the Skyscanner website, via our Facebook page (in the case of promotions run on our Facebook page) and via co-registration partners.
+
+Skyscanner uses email addresses to send its weekly newsletter, and occasional special offers and deals. Skyscanner sometimes runs promotions with partners and competition entries may require you to provide an email address. These email addresses may be shared with the partner running the competition. In such cases, this is clearly stated in the terms of the promotion. Skyscanner has no responsibility for subsequent use or distribution of email addresses by our partners.
+
+If you have any questions about this policy, please contact us by [email](http://www.skyscanner.net/contactus.aspx).
+
+Or by post via the following address:
+
+Skyscanner  
+10 Waterloo Place  
+Edinburgh EH1 3EG
+
+Tel: 0131 252 5700
+
+Please note: Skyscanner do not take bookings or hold any details of bookings or payments. If you have an enquiry regarding a booking, you must contact the airline or travel agent as we cannot assist you.
