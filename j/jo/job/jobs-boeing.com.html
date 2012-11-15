@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobs-boeing.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629094406id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobs-boeing.com privacy policy that was archived on 2012-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115074538id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- This file is NOT XML, Manual update needed. -->
@@ -36,6 +36,7 @@ var modExp;
 var modCon;
 var _mediaComplete = true;
 var _mediaBegin = false;
+var _tabFlag = false;
  
 // called when template loads, this function stores a reference to the player and modules.
 // Then event listeners will be added for when the template is ready and when a user 
@@ -53,6 +54,11 @@ function onTemplateLoaded(experienceID) {
 	modVP.addEventListener(BCMediaEvent.STOP, onMediaStop);
 	modVP.addEventListener(BCMediaEvent.CHANGE, onMediaChange);
 	modVP.addEventListener(BCMediaEvent.COMPLETE, onMediaComplete);
+
+// get references to the TabBar
+  tabBar = modExp.getElementByID("playlistTabs");
+//  set an event listener for TabBar changes
+  tabBar.addEventListener("propertyChange", onTabChange);
 
 }
 
@@ -272,8 +278,37 @@ function onMediaComplete(evt) {
 	
 	}
 }
-</script> 
 
+// event listener for TabBar changes
+function onTabChange(event) {
+	modExp.debug("EVENT: TabBar Property Change");
+
+	// make sure it's the selectedItem that changed
+	if (event.property == "selectedItem" && _tabFlag == true) {
+		// get a reference to the playlist object for the currently selected tab
+	  	newPlaylist = tabBar.getSelectedData();  
+		
+		// get playlist id and name
+	  	newPlaylistId = newPlaylist.id;
+		MediaCollectionDTO = modCon.getMediaCollection(newPlaylistId);
+		newPlaylistName = MediaCollectionDTO.displayName;
+
+		modExp.debug("PLAYLIST ID: " + newPlaylistId);
+		modExp.debug("PLAYLIST NAME: " + newPlaylistName);
+
+	  	cmCreateManualLinkClickTag('Video Player Tab - ' + newPlaylistName);
+	}
+
+		_tabFlag = true;
+	  	
+}
+
+</script> 
+<!--- Modified EAG 11.02.12  load Prod --->
+<script language="JavaScript" src="http://www.boeing.com/js/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$.getScript("http://www.boeing.com/js/iploadp.js");
+</script>
 
 </head>
 <body onload="window.defaultStatus='The Boeing Company'">
@@ -668,6 +703,8 @@ $('#content2').slideToggle("slow");
 
                 <li><a href="http://www.boeing.com/commercial/aviationservices/index.html">The Boeing Edge</a></li>
 
+                <li><a href="http://www.boeing.com/commercial/startup/">StartupBoeing</a></li>
+
                 <li><a href="http://www.boeing.com/commercial/other_services.html">Other Services</a></li>
 
                 <li><a href="http://www.boeing.com/commercial/industry_info.html">About Our Market</a></li>
@@ -815,6 +852,7 @@ $('#content2').slideToggle("slow");
           <ul>
 
             <li><a href="http://www.boeing.com.au/">Australia</a></li>
+            <li><a href="http://www.boeing.com.br/">Brazil</a></li>
 
             <li lang="zh"><a href="http://www.boeingchina.com/">中國</a></li>
 
@@ -949,7 +987,9 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/SpryAssets/SpryMen
   <!-- end mod_4 -->
   <!--Quick Links-->
   <div class="bottom_links">
-    <p> <!--<a href="http://www.boeing.com/bcc/">Boeing Capital Corporation</a> |--> <a href="/aboutus/diversity/">Diversity</a> | <a href="/companyoffices/aboutus/community/">Corporate Citizenship</a> | <a href="http://www.boeing.com/aboutus/environment/">Environment</a> | <a href="/aboutus/govt_ops/">Government Operations</a> | <a href="/videos/video.html">Videos</a> | <a href="/multimedia/index.html">Images</a></p>
+
+    <p> <a href="http://www.boeing.com/aboutus/international/">Boeing International</a> | <a href="/aboutus/diversity/">Diversity</a> | <a href="/companyoffices/aboutus/community/">Corporate Citizenship</a> | <a href="http://www.boeing.com/aboutus/environment/">Environment</a> | <a href="/aboutus/govt_ops/">Government Operations</a> | <a href="/videos/video.html">Videos</a> | <a href="/multimedia/index.html">Images</a></p>
+
   </div>
   <!--end Quick Links-->
   <div class="clear"></div>
