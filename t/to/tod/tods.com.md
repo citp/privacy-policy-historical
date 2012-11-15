@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tods.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232553id_/http%3A//www.tods.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tods.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115094431id_/http%3A//www.tods.com/us/privacy) for the most accurate reproduction.*
 
 # Tod's Privacy Policy
 
@@ -103,7 +103,7 @@ Failure to submit the required data or failure to consent to the processing of t
 
 Refusal to submit the data or failure to consent to the processing of the data for the purposes set forth in paragraphs (a), (b) and (c) of the section “ _Marketing and/or profiling_ ” shall simply result in TOD’S S.p.A.’s inability to process the data for the purposes set forth in said paragraphs. It remains understood that your ability to purchase TOD’S Group products shall not be affected by your not consenting to the processing of your data for “ _Marketing and/or profiling_ ” purposes.
 
-**Subjects or categories of subjects to whom the data may be communicated and scope of dissemination of the data   **
+**Subjects or categories of subjects to whom the data may be communicated and scope of dissemination of the data  **
 
 Your information shall not be disclosed.
 
