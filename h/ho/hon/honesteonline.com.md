@@ -1,64 +1,71 @@
-> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118075852id_/http%3A//www.honesteonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115201256id_/http%3A//honesteonline.com/privacy.html) for the most accurate reproduction.*
 
 # HONESTe Online Privacy Policy
 
-Last Updated: June 8, 2011
+Last Updated: March 21, 2012
 
-Honest E Online, Inc/HonesteOnline.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+HONEST E ONLINE, INC. is concerned about the security of your private information, and we do everything possible to protect it. This Privacy Policy describes how we might use some Personally Identifiable Information, such as your name, e-mail address, street address, telephone, within the context of this Privacy Policy. But you can rest assured we will never sell, rent, loan, exchange, or in any way abuse your e-mail address with any unauthorized party.  
 
-How we gather information from users
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Honest E Online, Inc/HonesteOnline.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+== How information is collected ==
 
-What we do with the information we collect
+Information is gathered in several ways, depending upon how you are using the website. When registering to use this site, you are asked to provide your name and related details. And if you sign up for newsletters, sweepstakes, contests, chat rooms, message boards and similar interactive areas, or purchase something, we need to know who you are.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+Information is also collected automatically using electronic tools. Most web sites use 'cookies' to recognize you and your information, and may store data such as a user name and password so you won't need to enter it each time you visit. It might determine how often you're exposed to a specific advertisement. It also may note your Internet Service Provider (ISP). 
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+As technology evolves, we may use other methods to collect information. There may be times when you can refuse to provide information, such as by setting your browser to refuse 'cookies', but doing this may make it impossible to access sections of the web site, or you may need to enter your user details each time, and the site won't be customized for your preferences.  
 
-We may use Personally Identifiable Information collected on Honest E Online, Inc/HonesteOnline.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Honest E Online, Inc/HonesteOnline.com and other topics we think you might find of interest. 
 
-Personally Identifiable Information collected by Honest E Online, Inc/HonesteOnline.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+== What we do with your information ==
 
-Affiliated sites, linked sites and advertisements
+The information we gather is to make your visit to our site the best experience possible. It enables us to customize things such as content and advertising, which might be of interest to you. Your information is never shared, and your private information remains private.
 
-Honest E Online, Inc/HonesteOnline.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Honest E Online, Inc/HonesteOnline.com page, certain content that is actually created or hosted by a third party. Also, through Honest E Online, Inc/HonesteOnline.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Honest E Online, Inc/HonesteOnline.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Any information that doesn't personally identify who you are might be used in conjunction with similar information from others to improve our web site and the services we offer. This gives us knowledge about which features are most popular, or what our visitors are looking for. Some of this information may be shared with our advertisers, on occasion, but it will never include any information that is personally identifiable. 
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Honest E Online, Inc/HonesteOnline.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+However, we may use personal information to contact you for specific reasons, such as your registration; our Terms and Conditions and Privacy Policy; our products or services; or anything else we think you might find useful. It is also used to administer the site, to troubleshoot, and to process transactions. If you choose to enter sweepstakes or contests, this information is necessary to get in touch with you.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Honest E Online, Inc/HonesteOnline.com and this policy.
+Your information is used only as legally permitted. We may divulge your information when presented with a court order or when legally required, in order to collect monies owed to us, or when requested by law enforcement agencies. In these circumstances, it is unnecessary to notify you of this. Some third parties, such as our web hosting service, which provides specific support, may also access this information. 
 
-Children
+As our business expands, we may buy, sell, or partner with other companies. In these circumstances, information about our web site users may be among the data transferred.  
 
-Honest E Online, Inc/HonesteOnline.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Honest E Online, Inc/HonesteOnline.com has any information from or about anyone under 13, please contact us at the address listed below.
 
-Honest E Online, Inc/HonesteOnline.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
+== Affiliated/linked sites and advertisers ==
 
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
+HONEST E ONLINE, INC. is mindful of our user's privacy and expects all its partners, affiliates, and advertisers to respect our Policy. We realize, however, that these and other third parties we may associate with have their own privacy policy and data gathering practices. Even while on our site, you may decide to click on a link created or hosted by a third party, where you can gain access to information, contests, sweepstakes, and related material that is not part of HONEST E ONLINE, INC.. We are not responsible for anything presented by a third party. It's necessary for you to check the specific company in question for their privacy policies, which may differ from ours.
 
-Know the sites your kids are visiting and which sites are appropriate. 
+"Cookies" may be used by some of our affiliates or partners in order to determine what you might like, or the type of advertising that's presented to you. HONEST E ONLINE, INC. cannot determine what is used by these third parties or how it is gathered. Therefore, we are not responsible for anything taking place by these third party companies, including their policies.
 
-Look for Web site privacy policies. Know how your child's information is treated. 
+Please be aware that any personal information disclosed on chats or message boards can be considered public. As such, it can be used by third parties without the knowledge of HONEST E ONLINE, INC., as this is outside our control. If you don't want to receive unsolicited messages, please be careful what you disclose and where you do it.   
 
-Check out the FTC's site <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> for more tips on protecting children's privacy online.
 
-  
-Contacting Us.
+== Policy regarding children ==
 
-We can be reached by contacting:
+HONEST E ONLINE, INC. cares about the privacy and welfare of children, and will never knowingly gather Personally Identifiable Information from anyone younger than 13 years old, except when legally allowed. If we find that such data has been collected, it will be promptly removed from our databases. You can contact us at the address below if you feel we have such information.  
 
-Honest E Online, Inc/HonesteOnline.com
 
-Support: http://www.honesteonline.com/cgi-bin/ttx.cgi
+== Contact Us ==
 
-Changes to this Policy
+Our contact information is as follows:
 
-Honest E Online, Inc/HonesteOnline.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Website: http://www.honesteonline.com  
+Email: support[at]honesteonline.com  
 
-Governing law
 
-This policy and the use of this Site are governed by California law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Westlake, California. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+== Policy changes ==
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Calabasas, California, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+From time to time our Privacy Policy may change, so it's a good idea to check back occasionally to review the current policy. By continuing to use http://www.honesteonline.com after any changes have made, this constitutes your agreement to those changes. Any data gathered before changes were posted is under the agreement in effect at that earlier time.  
 
-Honest E Online, Inc/HonesteOnline.com is controlled, operated and administered entirely within California. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+== Governing Law ==
+
+This Privacy Policy and the use of http://www.honesteonline.com are governed by the laws of the State of CA, U.S.A., and any disagreements will be adjudicated under these laws if mediation, the first course of action, should fail to resolve the issue. Mediation will be held in Calabasas, CA under the rules of the American Arbitration Association. All costs for mediation, other than attorney fees, will be equally divided among all parties. 
+
+== Opt Out ==
+
+To have your contact information removed from HONESTe Online's database, simply [click here](https://web.archive.org/optout.html), enter the email address you want removed, and click the submit button. This will remove your email address from our database, and you will no longer receive email from HONESTe Online.
+
+HONEST E ONLINE, INC. operates and is controlled by the laws of the State of CA, U.S.A. Judgment may be brought by any court having jurisdiction.
+
+Last updated on March 21, 2012
+
+Instant Legal Forms Generator is a product of [HONESTeOnline.com](http://www.honesteonline.com/)
