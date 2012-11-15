@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbooyah.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509202043id_/http%3A//superbooyah.com/index.php/Home/System/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbooyah.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115074851id_/http%3A//superbooyah.com/index.php/Home/System/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
