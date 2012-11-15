@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreabeat.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621075341id_/http%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreabeat.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116002055id_/http%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asia News - Politics, Media, Education | Asian Correspondent
 
