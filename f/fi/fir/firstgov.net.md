@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104212309id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115144850id_/http%3A//www.usa.gov/About/Privacy-Security.shtml) for the most accurate reproduction.*
 
-# Privacy and Security: USA.gov
+# Privacy and Security | USA.gov
 
 USA.gov doesn't collect personal information when you visit our web site unless you choose to provide that information.
 
@@ -16,22 +16,27 @@ This information is used to measure the number of visitors to the various sectio
   
 
 
-## Cookies
+## Use of Persistent Cookies
 
-When you visit some websites, their web servers generate pieces of information known as cookies. Cookies are commonly used to recognize your computer in the future.
+Like many websites, USA.gov uses "persistent cookie" technology. A persistent cookie is a small text file that this website places on your computer so that it can remember you when you show up again later—kind of like cookie crumbs! (Hence the name.) We use persistent cookies in two ways, both of which enhance your experience on USA.gov while also protecting your privacy:
 
-USA.gov uses per-session cookies to serve technical purposes, like providing seamless navigation through USA.gov. Our customer satisfaction survey uses session cookies to ensure you are only invited to take a survey once during your visit. These cookies do not permanently record data and they are not stored on your computer's hard drive. USA.gov's session cookies are only available during an active browser session. When you close your browser, the session cookie disappears.
+  * **To remember you when you come back to the site, so we don't invite you to take our customer satisfaction survey every time you visit.** Our customer satisfaction survey uses a persistent cookie to ensure we won’t invite you to take a customer satisfaction survey within 90 days of completing a survey on USA.gov. 
+  * **To get aggregate metrics on site usage to understand how people are using the site and how we can make it better.** We use web metrics services to track activity on USA.gov. Government agencies only ever receive traffic statistics anonymously and in the aggregate.   
 
-Our customer satisfaction survey uses a persistent cookie that is stored on your computer’s hard drive. This cookie ensures that we won’t invite you to take a customer satisfaction survey within 90 days of completing a survey on USA.gov. You can [opt-out of persistent cookies](http://www.usa.gov/optout_instructions.shtml "opt-out of persistent cookies") by adjusting the settings on your web browser. By opting-out of the persistent cookie set by USA.gov’s customer satisfaction survey, your experience browsing USA.gov will be unaffected except that you may be invited to complete our satisfaction survey more often than we normally serve it to our visitors. 
+
+
+
+Most Internet browsers automatically accept persistent cookies. Although we think using persistent cookies creates a much better experience for you, this site will also work without them. If you don't want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit; [here's how to disable cookies.](http://www.usa.gov/optout_instructions.shtml "here's how to disable cookies.")  
+
 
   
 
 
 ## If You Send Us Personal Information
 
-We do not collect personal information for any purpose other than to respond to you (for example, to respond to your questions or provide subscriptions you have chosen). If you choose to provide us with personal information—like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by ordering publications, sending us an e-mail, or subscribing to our e-mail or SMS subscription services. If you choose to provide us with personal information — like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website — we use that information to respond to your message, and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order. 
 
-While you must provide an e-mail address and ZIP code for a localized response to any incoming questions or comments to USA.gov, we recommend that you NOT include any other personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#giving "Social Security numbers"). 
+We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
   
 
@@ -51,6 +56,13 @@ Unauthorized attempts to upload information or change information on this servic
 ## External Links
 
 USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our [Linking Policy](https://web.archive.org/About/Linking_Policy.shtml "Linking Policy"). If you click a link to an outside website, such as Facebook or YouTube, you will leave the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+
+  
+
+
+## Social Media Sites
+
+While USA.gov manages presence on social media sites (e.g., [Facebook,](http://www.facebook.com/USAgov "Facebook") [Twitter,](http://twitter.com/USAgov "Twitter") [YouTube) ](http://www.youtube.com/USGovernment "YouTube") in order to share government information and engage with the public, we do not collect any Personally Identifiable Information through those sites. We also do not use personal information made available by the user to these third-party sites.
 
   
 
