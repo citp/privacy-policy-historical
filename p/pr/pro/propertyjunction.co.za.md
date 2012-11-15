@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyjunction.co.za privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214014505id_/http%3A//www.propertyjunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyjunction.co.za privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116003917id_/http%3A//www.propertyjunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Buy Property, Sell Property | PropertyJunction | Better Homes. More Often
+# Privacy Policy
 
 **Privacy Policy**
 
