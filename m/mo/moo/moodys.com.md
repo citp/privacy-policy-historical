@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609121133id_/http%3A//www.moodys.com/privatepolicy.aspx%3Flang%3Den%26cy%3Dglobal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115234521id_/http%3A//www.moodys.com/privatepolicy.aspx%3Flang%3Den%26cy%3Dglobal) for the most accurate reproduction.*
 
 # Privacy Policy - Moody's
 
