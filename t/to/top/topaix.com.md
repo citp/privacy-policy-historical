@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the topaix.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228165510id_/http%3A//www.topaix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topaix.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116003911id_/http%3A//www.topaix.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Topaix.com
-
-### PRIVACY POLICY
-
-* * *
+# PRIVACY POLICY | TOPAIX.COM
 
 This Privacy Policy has been established to explain how your information is collected, used and protected with Topaix.com (the Site). This Privacy Policy may be updated by us at any time by posting on the site without any prior notice.
 
