@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519174140id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyjewelleryshop.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115064920id_/http%3A//www.bodyjewelleryshop.com/about_BJS/privacy_statement) for the most accurate reproduction.*
 
 # BodyJewelleryShop.com Privacy Statement
 
