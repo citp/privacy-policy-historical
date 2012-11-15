@@ -1,24 +1,691 @@
-<!--The following is the downloaded HTML source of the jsonline.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628135400id_/http%3A//www.jsonline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jsonline.com privacy policy that was archived on 2012-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115073635id_/http%3A//www.jsonline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <script async="" src="http://a.visualrevenue.com/vrs.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
     <title>Privacy Policy 2012 - JSOnline</title>
+    <!-- should search engine excludes - ${content.searchEngineExclude} -->
     <meta property="fb:admins" content="100000996203017">
     <meta property="fb:app_id" content="114161048613011">
     <link type="image/x-icon" rel="icon" href="http://media.jsonline.com/designimages/JSO_favicon2.ico">
+    <!-- http://media.jsonline.com/designimages/JSO_favicon2.ico -->
     <link type="image/icon" rel="icon" href="http://media.jsonline.com/designimages/JSO_favicon2.ico">
-    <link type="image/png" rel="icon" href="http://media.jsonline.com/designimages/JSO_fa.png2.ico">
+    <!-- http://media.jsonline.com/designimages/JSO_favicon2.ico -->
+    <link type="image/png" rel="icon" href="http://media.jsonline.com/designimages/JSO_favicon2.png">
     <link type="image/vnd.microsoft.icon" rel="icon" href="http://media.jsonline.com/designimages/JSO_favicon2.ico">
     <link type="image/vnd.microsoft.icon" rel="shortcut icon" href="http://media.jsonline.com/designimages/JSO_favicon2.ico">
+
+
+
 
 
 
      <meta property="og:image" content="http://media.jrn.com/images/jso-facebook-180.jpg">
      <meta property="og:title" content="Privacy Policy 2012 - JSOnline">
      <meta name="title" content="Privacy Policy 2012 - JSOnline">
+
+<script type="text/javascript">
+
+	//Objects to interact with server
+	var CMSUtil = {
+		interactWithServer: function(form, isAjax, buildObjectFunction, 
+									returnFunction, action, servlet, 
+									extraFields){
+			if(isAjax == true && returnFunction != null){
+            	var queryString = this.serializeForm(form);
+				if(queryString != null){
+					if(action != null){
+						queryString += "&action=" + action + "&isAjax=Y";	
+					}else{
+            			queryString += "&isAjax=Y";
+            		}
+            		if(extraFields){
+            			queryString += extraFields;
+            		}
+            		
+            		var req = this.getXmlRequestObject();
+					if(req != null) {
+            			var handlerFunction = this.getReadyStateHandler(req, returnFunction, buildObjectFunction);
+						req.onreadystatechange = handlerFunction;
+						req.open("POST", servlet, true);
+            			req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+            			req.send(queryString);
+            			return false;
+					}
+				}
+            }else{
+ 				this.submitUserFormNoAJAX(form, action, servlet); 
+			}
+		},
+		
+		getXmlRequestObject: function() {
+			var req;
+			if(window.XMLHttpRequest){
+				req = new XMLHttpRequest();
+			}else if(window.ActiveXObject){
+				try{
+					req = new ActiveXObject("Msxml2.XMLHTTP");
+				}catch(e){
+					try{
+						req = new ActiveXObject("Microsoft.XMLHTTP");
+					}catch(e){
+               			return null;
+               		}
+				}
+			}
+    		return req;
+		},
+		
+		getReadyStateHandler: function(req, returnFunction, buildObjectFunction) {
+
+			return function () {
+
+		    	// If the request's status is "complete"
+    			if (req.readyState == 4) {
+      
+      				// Check that a successful server response was received
+   		   			if (req.status == 200) {
+
+        				// Pass the XML payload of the response to the 
+        				// handler function
+        				var response = "(" + req.responseText + ")";
+            			response = eval(response);
+						buildObjectFunction(response);	
+            			returnFunction(response); 
+					} else {
+						// An HTTP problem has occurred
+        				alert("HTTP error: "+req.status);
+      				}
+    			}
+  			}
+		},
+		
+		serializeForm: function(form){
+			var paramString = "";
+			var ampRegex = new RegExp("&", "g");
+	  		var replaceAmpStr = escape("&#38;");
+	  		var percentRegex = new RegExp("%", "g"); 
+	   		var replacePerStr = escape("&#37;");
+
+       		for(var i = 0;i < form.elements.length;i++){
+       			var field = form.elements[i];
+       			if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type !== "submit")){
+       				if(field.type === "checkbox" && !field.checked){
+       					 continue;
+       				}
+					var fieldValue = field.value;
+					fieldValue = fieldValue.replace(percentRegex, replacePerStr);
+	       	    	fieldValue = fieldValue.replace(ampRegex, replaceAmpStr);
+       				paramString += field.name + "=" + fieldValue + "&";
+           		}
+       		}
+
+			return paramString;
+		},
+		submitUserFormNoAJAX: function(form, action, servlet){
+			if(servlet == null) return null;
+    	    form.action = servlet;
+
+    	    if(action != null) {
+    	    	var actionField = document.createElement('input');
+    	    	actionField.setAttribute('name', 'action');
+  					actionField.setAttribute('type', 'hidden');
+  					actionField.value = action;
+    	    	form.appendChild(actionField);
+    	    	
+    	    }
+    		form.submit();
+    	}
+    	
+	}
+	
+	var Action = {
+		attachAction: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "attachActionAJAX";
+			} else {
+				action = "attachAction";
+			}
+			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s");
+		},
+		
+		deleteAction: function(form, isAjax, returnFunction){
+        	var action = "";
+        	if(isAjax){
+        		action = "deleteActionAJAX";
+        	} else {
+        		action = "deleteAction";
+        	}
+        	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");
+        },
+		
+		
+		buildAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+				Action.contentID = response.contentID;
+				Action.commentID = response.commentID;
+				Action.contentTypeID = response.contentTypeID;
+				Action.actionDate = response.actionDate;
+				Action.userID = response.userID;
+				Action.actionType = response.actionType;
+				Action.slugLine = response.slugLine;
+			} else {
+			 	Action.error = response.error;
+			}
+		},
+		
+		deletedAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+			} else {
+				Action.error = response.error;
+			}
+		}
+	}
+	
+	var Ranking = {
+		insertRanking: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p");
+		},
+		
+		buildRanking: function(response){
+			if(response.success == true){
+				Ranking.success = true;
+				Ranking.objectId = response.objectId;
+				Ranking.type = response.type;
+				Ranking.ipAddress = response.ipAddress;
+				Ranking.rankDate = response.rankDate;
+				Ranking.upRanking = response.upRanking;
+				Ranking.downRanking = response.downRanking;
+			} else {
+				Ranking.error = response.error;
+			}
+		}
+			
+	}
+			
+	var Rating = {
+		addRating: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "addRatingAJAX";
+			} else {
+				action = "addRating";
+			}
+            CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
+        },
+        
+        insertRating: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+        
+		buildRating: function(response){
+			if(response.success == true){
+				Rating.id = response.id;
+				Rating.rating = response.rating;
+				Rating.upvote = response.upvote;
+				Rating.downvote = response.downvote;
+				Rating.type = response.type;
+				Rating.date = response.date;
+				Rating.ipAddress = response.ipAddress;
+			}else{
+				Rating.error = response.error;
+			}
+		}
+		
+	}
+	
+	var User = {
+		createUser: function(form, isAjax, returnFunction){	
+		    var action = "";
+			if(isAjax){
+				action = "createProfileAJAX";
+			} else {
+				action = "createProfile";
+			}
+            CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		loginUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "doLoginProfileAJAX";
+			} else {
+				action = "doLoginProfile";
+			}
+        	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfileAJAX";
+			} else {
+				action = "updateProfile";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateRegistration: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateRegistrationAJAX";
+			} else {
+				action = "updateReg";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateProfilePassword: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfilePasswordAJAX";
+			} else {
+				action = "updateProfilePassword";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		insertProfilePic: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				//not implemented as of yet
+				return;
+				//action = "updateImageAJAX";
+			} else {
+				action = "updateImage";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		buildUser: function(response){
+			if(response.success == true){
+				User.ID = response.ID;
+				User.username = response.username;
+				User.email = response.email;
+				User.firstName = response.firstName;
+				User.lastName = response.lastName;
+				User.birthDate = response.birthDate;
+				User.createDate = response.createDate;
+				User.title = response.title;
+				User.company = response.company;
+				User.address1 = response.address1;
+				User.address2 = response.address2;
+				User.city = response.city;
+				User.state = response.state;
+				User.zipcode = response.zipcode;
+				User.country = response.country;
+				User.custom1 = response.custom1;
+				User.custom2 = response.custom2;
+				User.custom3 = response.custom3;
+				User.custom4 = response.custom4;
+				User.custom5 = response.custom5;
+				User.custom6 = response.custom6;
+				User.custom7 = response.custom7;
+				User.custom8 = response.custom8;
+				User.custom9 = response.custom9;
+			}else{
+				User.error = response.error;
+				User.errorMsg = response.errorMsg;
+				User.errorCode = response.errorCode;
+			}
+		}
+	}
+	
+	var UserContent = {
+		insertContent: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			UserContent.messages = null;
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d");
+		},
+		
+		editContent: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
+		},
+		
+		buildContent: function(response){
+			if(response.success == true){
+				for (var i=0; i< response.fields.length; i++){
+					var field = response.fields[i];
+					UserContent[field] = response[field];
+				}
+				UserContent.contentID = response.contentID;
+				UserContent.contentType = response.contentType;
+				UserContent.title = response.title;
+				UserContent.status = response.status;
+			} else {
+				UserContent.error = response.error;
+				UserContent.messages = response.messages;
+			}
+		}
+	}
+	
+	var Comment = {
+	
+		insertComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+	
+		deleteComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr);
+		},
+		
+		updateComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			} else {
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr);
+		},
+		
+		buildComment: function(response){
+						Comment.name = null;
+			Comment.website = null;
+			Comment.title = null;
+			Comment.comment = null;
+			Comment.email = null;
+			Comment.rating = null;
+			Comment.ratingType = null;
+			Comment.commentType = null;
+			Comment.flagged = false;
+			Comment.isAuthor = false;
+			Comment.error = null;
+			Comment.status = null;
+			Comment.level = 0;
+			Comment.parentID = 0;
+			Comment.threadID = 0;
+			Comment.id = 0;
+			Comment.extID = null;		
+		
+			if(response.success == true){
+				Comment.id = response.id;
+				Comment.name = response.name;
+				Comment.comment = response.comment;
+				Comment.email = response.email;
+				Comment.website = response.website;
+				Comment.title = response.title;
+				Comment.isAuthor = response.isAuthor;
+				Comment.flagged = response.flagged;
+				Comment.status = response.status;
+				Comment.rating = response.rating;
+				Comment.ratingType = response.ratingType;
+				Comment.commentType = response.commentType;
+				if(Comment.status == "AUTHOR"){
+					Comment.isAuthor = true;
+				} else if(Comment.status != "APPROVED") {
+					Comment.flagged = true;
+				}
+			    Comment.id = response.id;
+			    Comment.threadID = response.threadID;
+			    Comment.parentID = response.parentID;
+			    Comment.level = response.level;
+			    Comment.extID = response.extID;
+			} else {
+				Comment.error = response.error;
+			}
+		},
+		
+		nullifyComment: function(response){
+			if(response.success == true){
+				Comment.comment = null;
+				Comment.email = null;
+				Comment.website = null;
+				Comment.title = null;
+				Comment.isAuthor = null;
+				Comment.flagged = null;
+				Comment.status = null;
+				Comment.id = 0;
+			    Comment.threadID = 0;
+			    Comment.parentID = 0;
+			    Comment.level = 0;
+			    Comment.extID = null;
+			} else {
+				Comment.error = response.error;
+			}
+		}
+	}	
+	
+	var Clickability = Clickability || {};
+	Clickability.SMTK = {
+		kP : 0,
+		aT : 0,
+		myInterval : null,
+		xPos : -1,
+		yPos : -1,
+		firstX : -1,
+		firstY : -1,
+		intervals : 0,
+		cid :  157190255 ,
+		did :  380319 ,
+		d : 0,
+		mT : 0
+	}
+	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250);
+	document.onkeypress = lK;
+	window.onload = rAT;
+
+		Clickability.Comment = Comment;
+		
+		var p;
+	var kP = 0;
+	var	aT = 0;
+	var myInterval = Clickability.SMTK.myInterval;
+	var xPos = -1;
+	var yPos = -1;
+	var firstX = -1;
+	var firstY = -1;
+	var intervals = 0;
+	var d = 0;
+	var mT = 0;
+	var cid =  157190255 ;
+	var did =  380319 ;	
+	
+	function getMousePos(p) {
+		if(!p)var p = window.event;
+		if (p.pageX || p.pageY) {
+			Clickability.SMTK.xPos = p.pageX;
+			Clickability.SMTK.yPos = p.pageY;
+		} else if (p.clientX || p.clientY) {
+			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
+		}
+	}
+
+	
+	function lK() {	
+		Clickability.SMTK.kP++;
+	}
+
+	function rAT() {
+		Clickability.SMTK.aT = new Date();
+	}
+		
+	function timedMousePos() {
+		document.onmousemove = getMousePos;
+		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) {
+			var newX = Clickability.SMTK.xPos;
+			var newY = Clickability.SMTK.yPos;
+			Clickability.SMTK.intervals++;
+		}
+		if (Clickability.SMTK.intervals == 1) {
+			Clickability.SMTK.firstX = Clickability.SMTK.xPos;
+			Clickability.SMTK.firstY = Clickability.SMTK.yPos;
+		} else if (Clickability.SMTK.intervals == 2) {
+			clearInterval(Clickability.SMTK.myInterval);
+			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	
+		}
+	}
+
+
+	function calcDistance(aX,aY,bX,bY){
+		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
+	}
+	
+	function getFieldsForForm(){
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var queryString = "&";
+		queryString += "mT=" + Clickability.SMTK.mT;
+     	queryString += "&d=" + Clickability.SMTK.d;
+     	queryString += "&kP=" + Clickability.SMTK.kP;
+     	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;
+     	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;
+     	queryString += "&socialMedia=Y";
+	    return queryString;
+	}
+		
+	function addFieldsToForm(formObj, redirect) {
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var mTField = document.createElement('input');
+		var dField = document.createElement('input');
+		var kPField = document.createElement('input');
+  		var cidField = document.createElement('input');
+  		var didField = document.createElement('input');
+  		var socialMedia = document.createElement('input');
+  	
+  	
+  		socialMedia.setAttribute('name','socialMedia');
+		socialMedia.setAttribute('type', 'hidden');
+		
+  		mTField.setAttribute('name','mT');
+		mTField.setAttribute('type', 'hidden');
+  	  
+		dField.setAttribute('name', 'd');
+		dField.setAttribute('type', 'hidden');
+  	  
+		kPField.setAttribute('name', 'kP');
+		kPField.setAttribute('type', 'hidden');
+  	
+		cidField.setAttribute('name', 'cid');
+		cidField.setAttribute('type', 'hidden');
+  	
+  		didField.setAttribute('name', 'did');
+  		didField.setAttribute('type', 'hidden');	
+  	
+  		if(redirect != null) {
+  			var pathField = document.createElement('input');
+  			pathField.setAttribute('name', 'path');
+  			pathField.setAttribute('type', 'hidden');
+  			pathField.value = redirect;
+  			formObj.appendChild(pathField);
+  		}
+  		mTField.value = Clickability.SMTK.mT;
+		dField.value = Clickability.SMTK.d;
+		kPField.value = Clickability.SMTK.kP;
+		cidField.value = Clickability.SMTK.cid;
+		didField.value = Clickability.SMTK.did;
+		socialMedia.value = "Y";
+
+		formObj.appendChild(dField);
+		formObj.appendChild(kPField);
+		formObj.appendChild(mTField);
+		formObj.appendChild(cidField);
+		formObj.appendChild(didField);
+		formObj.appendChild(socialMedia);
+	}		
+	
+	//helper functions
+	
+	function insertComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function createUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError);
+	}
+	
+	function loginUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function editUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertProfilePic(form, isAjax, returnFunction, showError){
+		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError);
+	}
+	
+	function addRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function attachAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRanking(form, isAjax, returnFunction, showError){
+		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError);
+	}
+	
+	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
+		method(form, isAjax, returnFunction);
+	
+		if(isAjax){
+			return false;
+		} else {
+			return true;
+		}
+	}
+
+</script>
+
 <style type="text/css">.loggedin{display:none !important;}.loggedout{display: none !important;}</style>
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://www.jsonline.com/includes/JSO_cookies.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.jsonline.com/includes/JSO_cookies.js"></script>
 <script language="javascript" type="text/javascript">
     function loadjscssfile(filename, filetype){
         if (filetype=="js"){ //if filename is a external JavaScript file
@@ -90,20 +757,20 @@
     
     
     <!-- pageContentType: JSO General Page -->
-<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_common.css?v=172&amp;d=380319">
-<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_layouts.css?v=377&amp;d=380319">
-<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_pageparts.css?v=233&amp;d=380319">
-<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO.PagePart.Navigation.css?v=17&amp;d=380319">
+<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_common.css?v=173&amp;d=380319">
+<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_layouts.css?v=388&amp;d=380319">
+<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO_pageparts.css?v=241&amp;d=380319">
+<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO.PagePart.Navigation.css?v=18&amp;d=380319">
 <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO.PagePart.ClassifiedSiteMap.css?v=6&amp;d=380319">
 <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/JSO.PagePart.Footer.css?v=8&amp;d=380319">
 <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/jquery.markitup.css?v=1&amp;d=380319">
 <link type="text/css" rel="stylesheet" href="http://www.jsonline.com/templates/Lib.Common_ad.css?v=18&amp;d=380319">
-<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/includes/jquery.fancybox-1.3.4.css?v=5&amp;d=380319">
+<link type="text/css" rel="stylesheet" href="http://www.jsonline.com/includes/jquery.fancybox-2.0.6.css?v=5&amp;d=380319">
 <script type="text/javascript" src="http://www.jsonline.com/templates/JSO_commonFunctions.js?v=63&amp;d=380319"></script>
 <script type="text/javascript" src="http://www.jsonline.com/templates/JI.Core.BBCode.js?v=19&amp;d=380319"></script>
 <script type="text/javascript" src="http://www.jsonline.com/templates/JI.Core.CommonFunctions.js?v=89&amp;d=380319"></script>
-<script type="text/javascript" src="http://www.jsonline.com/includes/jquery.js?v=4&amp;d=380319"></script>
-<script type="text/javascript" src="http://www.jsonline.com/includes/jquery.fancybox-1.3.4.js?v=3&amp;d=380319"></script>
+<script type="text/javascript" src="http://www.jsonline.com/includes/jquery.js?v=5&amp;d=380319"></script>
+<script type="text/javascript" src="http://www.jsonline.com/includes/jquery.fancybox-2.0.6.js?v=5&amp;d=380319"></script>
 <script type="text/javascript" src="http://www.jsonline.com/includes/easyXDM.min.js?v=2&amp;d=380319"></script>
 <script type="text/javascript" src="http://www.jsonline.com/includes/jquery.cookie.js?v=16&amp;d=380319"></script>
 <script type="text/javascript" src="http://www.jsonline.com/includes/jquery-ui.js?v=2&amp;d=380319"></script>
@@ -126,12 +793,7 @@
 
 
 
-<!-- JI.Utility.GetTaxonomy :: 11 :: pixelRetargeting =  -->
 
-<!-- 	FB# 13880
-
-if((true && false) || (false && (false || false))) 
--->
 
 
 
@@ -161,19 +823,12 @@ if((true && false) || (false && (false || false)))
     var tags = "Brand:JS Online, Region:Uncategorized";
     var demo = "";
     var column = "";
-    var hierarchy = "General";
+    var hierarchy = "General"; // classification
     var sReferral = "";
     var system = "Clickability";
     //]]>
 </script>
 
-<!-- item.ID: 54594457 -->
-<!-- item.ID: 57268202 -->
-<!-- item.ID: 55779202 -->
-<!-- item.ID: 91604104 -->
-<!-- item.ID: 44004437 -->
-<!-- item.ID: 50092837 -->
-<!-- item.ID: 92018384 -->
 <script type="text/javascript">
     //<![CDATA[
     yld_mgr = {};
@@ -207,72 +862,36 @@ if((true && false) || (false && (false || false)))
     yld_mgr.slots.lb_slot.ad_delivery_mode="ipatf";
     yld_mgr.slots.lb_slot.cstm_content_cat_list=[];
     yld_mgr.slots.lb_slot.content_type_list=['fn_news'];
-    yld_mgr.slots.lb_slot.ad_format_list=["Standard Graphical","Rich Media"];
-    yld_mgr.slots.lb_slot.ad_marker="1";
     
     yld_mgr.slots.lb_bot_slot = {};
     yld_mgr.slots.lb_bot_slot.ad_size_list=["728x90"];
     yld_mgr.slots.lb_bot_slot.ad_delivery_mode="ipbtf";
     yld_mgr.slots.lb_bot_slot.cstm_content_cat_list=[];
     yld_mgr.slots.lb_bot_slot.content_type_list=['fn_news'];
-    yld_mgr.slots.lb_bot_slot.ad_format_list=["Standard Graphical","Rich Media"];
-    yld_mgr.slots.lb_bot_slot.ad_marker="1";
     
     yld_mgr.slots.tb_slot = {};
     yld_mgr.slots.tb_slot.ad_size_list=["300x100"];
     yld_mgr.slots.tb_slot.ad_delivery_mode="ipatf";
     yld_mgr.slots.tb_slot.cstm_content_cat_list=[];
     yld_mgr.slots.tb_slot.content_type_list=['fn_news'];
-    yld_mgr.slots.tb_slot.ad_format_list=["Standard Graphical","Rich Media"];
-    yld_mgr.slots.tb_slot.ad_marker="1";
-    
-    yld_mgr.slots.ws_slot = {};
-    yld_mgr.slots.ws_slot.ad_size_list=["160x600"];
-    yld_mgr.slots.ws_slot.ad_delivery_mode="ipstf";
-    yld_mgr.slots.ws_slot.cstm_content_cat_list=[];
-    yld_mgr.slots.ws_slot.content_type_list=['fn_news'];
-    yld_mgr.slots.ws_slot.ad_format_list=["Standard Graphical","Rich Media"];
-    yld_mgr.slots.ws_slot.ad_marker="1";
     
     yld_mgr.slots.bb_slot = {};
     yld_mgr.slots.bb_slot.ad_size_list=["300x250"];
     yld_mgr.slots.bb_slot.ad_delivery_mode="ipatf";
     yld_mgr.slots.bb_slot.cstm_content_cat_list=[];
     yld_mgr.slots.bb_slot.content_type_list=['fn_news'];
-    yld_mgr.slots.bb_slot.ad_format_list=["Standard Graphical","Rich Media"];
-    yld_mgr.slots.bb_slot.ad_marker="1";
     
-    yld_mgr.slots.tile125_slot = {};
-    yld_mgr.slots.tile125_slot.ad_size_list=["125x125"];
-    yld_mgr.slots.tile125_slot.ad_delivery_mode="ipbtf";
-    yld_mgr.slots.tile125_slot.cstm_content_cat_list=[];
-    yld_mgr.slots.tile125_slot.content_type_list=['fn_news'];
+    yld_mgr.slots.b_nw = {};
+    yld_mgr.slots.b_nw.ad_size_list=["88x31"];
+    yld_mgr.slots.b_nw.ad_delivery_mode="ipatf";
+    yld_mgr.slots.b_nw.cstm_content_cat_list=[];
+    yld_mgr.slots.b_nw.content_type_list=['fn_news'];
     
-    yld_mgr.slots.newswatch_slot = {};
-    yld_mgr.slots.newswatch_slot.ad_size_list=["88x31"];
-    yld_mgr.slots.newswatch_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.newswatch_slot.cstm_content_cat_list=[];
-    yld_mgr.slots.newswatch_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.tb_bot_slot = {};
-    yld_mgr.slots.tb_bot_slot.ad_size_list=["300x100"];
-    yld_mgr.slots.tb_bot_slot.ad_delivery_mode="ipbtf";
-    yld_mgr.slots.tb_bot_slot.cstm_content_cat_list=[];
-    yld_mgr.slots.tb_bot_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.nw_bot_slot = {};
-    yld_mgr.slots.nw_bot_slot.ad_size_list=["250x30"];
-    yld_mgr.slots.nw_bot_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.nw_bot_slot.cstm_content_cat_list=['news_watch'];
-    yld_mgr.slots.nw_bot_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.bb_left_slot = {};
-    yld_mgr.slots.bb_left_slot.ad_size_list=["300x250"];
-    yld_mgr.slots.bb_left_slot.ad_delivery_mode="ipstf";
-    yld_mgr.slots.bb_left_slot.cstm_content_cat_list=[];
-    yld_mgr.slots.bb_left_slot.content_type_list=['fn_news'];
-    yld_mgr.slots.bb_left_slot.ad_format_list=["Standard Graphical","Rich Media"];
-    yld_mgr.slots.bb_left_slot.ad_marker="1";
+    yld_mgr.slots.mb_nw = {};
+    yld_mgr.slots.mb_nw.ad_size_list=["250x30"];
+    yld_mgr.slots.mb_nw.ad_delivery_mode="ipatf";
+    yld_mgr.slots.mb_nw.cstm_content_cat_list=['news_watch'];
+    yld_mgr.slots.mb_nw.content_type_list=['fn_news'];
     
     yld_mgr.slots.tile2_slot = {};
     yld_mgr.slots.tile2_slot.ad_size_list=["88x31"];
@@ -280,17 +899,47 @@ if((true && false) || (false && (false || false)))
     yld_mgr.slots.tile2_slot.cstm_content_cat_list=[];
     yld_mgr.slots.tile2_slot.content_type_list=['fn_news'];
     
+    yld_mgr.slots.bb_left_slot = {};
+    yld_mgr.slots.bb_left_slot.ad_size_list=["300x250"];
+    yld_mgr.slots.bb_left_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.bb_left_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.bb_left_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.ws_slot = {};
+    yld_mgr.slots.ws_slot.ad_size_list=["160x600"];
+    yld_mgr.slots.ws_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.ws_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.ws_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.bb_bot = {};
+    yld_mgr.slots.bb_bot.ad_size_list=["300x250"];
+    yld_mgr.slots.bb_bot.ad_delivery_mode="ipbtf";
+    yld_mgr.slots.bb_bot.cstm_content_cat_list=[];
+    yld_mgr.slots.bb_bot.content_type_list=['fn_news'];
+    
     yld_mgr.slots.pencil_slot = {};
     yld_mgr.slots.pencil_slot.ad_size_list=["1000x30"];
     yld_mgr.slots.pencil_slot.ad_delivery_mode="ipatf";
     yld_mgr.slots.pencil_slot.cstm_content_cat_list=[];
     yld_mgr.slots.pencil_slot.content_type_list=['fn_news'];
     
-    yld_mgr.slots.bb_bot_slot = {};
-    yld_mgr.slots.bb_bot_slot.ad_size_list=["300x250"];
-    yld_mgr.slots.bb_bot_slot.ad_delivery_mode="ipbtf";
-    yld_mgr.slots.bb_bot_slot.cstm_content_cat_list=[];
-    yld_mgr.slots.bb_bot_slot.content_type_list=['fn_news'];
+    yld_mgr.slots.tile125_slot = {};
+    yld_mgr.slots.tile125_slot.ad_size_list=["125x125"];
+    yld_mgr.slots.tile125_slot.ad_delivery_mode="ipbtf";
+    yld_mgr.slots.tile125_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.tile125_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.floatAd_slot = {};
+    yld_mgr.slots.floatAd_slot.ad_size_list=["1x1"];
+    yld_mgr.slots.floatAd_slot.ad_delivery_mode="ipstf";
+    yld_mgr.slots.floatAd_slot.cstm_content_cat_list=['floatAd'];
+    yld_mgr.slots.floatAd_slot.content_type_list=['fn_news'];
+    
+    yld_mgr.slots.bgimg_slot = {};
+    yld_mgr.slots.bgimg_slot.ad_size_list=["1x1"];
+    yld_mgr.slots.bgimg_slot.ad_delivery_mode="ipbtf";
+    yld_mgr.slots.bgimg_slot.cstm_content_cat_list=[];
+    yld_mgr.slots.bgimg_slot.content_type_list=['fn_news'];
     //]]>
 </script>
 <script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
@@ -320,7 +969,6 @@ if((true && false) || (false && (false || false)))
   })();
 
 </script>
-
 <script type="text/javascript">
 function guidGenerator() {
     var S4 = function() {
@@ -394,7 +1042,7 @@ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + "
 <!-- End Tracking Scripts -->
 
 
-</head>
+<script id="facebook-jssdk" async="" src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script></head>
 <body>
 <!-- Doubleclick Code for Milwaukee JS Online MIL-REC-PX 12 Remarketing List -->
 
@@ -420,7 +1068,7 @@ var google_conversion_value = 0;
 
 <div id="fb-root"></div>
 <script type="text/javascript">
-    $(function () {
+window.fbAsyncInit = function() {
 		FB.init({
 			appId: '114161048613011',  
 			status: true,			// check login status
@@ -429,7 +1077,7 @@ var google_conversion_value = 0;
 			oauth: true,			// to adapt to Oauth 2.0
 			channelUrl: 'http://www.jsonline.com/templates/channel.html'	// custom channel
 		});
-    });
+    };
 
     // Load the SDK Asynchronously
 	(function () {
@@ -441,79 +1089,56 @@ var google_conversion_value = 0;
 </script>
 
 <script type="text/javascript">
-	function logFBUser() {
-		if (window.console && window.console.log) { console.log("inside logFBUser"); }
-        try {			
-			var logoutForm = $("form[name=logoutSSO]");
-			if(logoutForm && logoutForm.length > 1) {
-				logoutForm = $("form[name=logoutSSO]")[0];
-			}
+    function logFBUser() {
+        if (window.console && window.console.log) { console.log("inside logFBUser"); }
+        try {           
+            var logoutForm = $("form[name=logoutSSO]");
+            if(logoutForm && logoutForm.length > 1) {
+                logoutForm = $("form[name=logoutSSO]")[0];
+            }
             if (window.console && window.console.log) { console.log("logoutForm: ", logoutForm); }
             if (window.console && window.console.log) { console.log("logoutForm.length: ",logoutForm.length); }
-			if (window.console && window.console.log) { console.log("logoutForm[0].id: ", $(logoutForm[0]).attr("id")); }
+            if (window.console && window.console.log) { console.log("logoutForm[0].id: ", $(logoutForm[0]).attr("id")); }
 
-			FB.logout(function(response) {
-    			
-    			$(logoutForm).find("input[name=forceSubmit]").val("false");
-				if (window.console && window.console.log) { console.log("logFBUser: submit 1"); }
-				logoutForm.submit();
-        		
+            FB.logout(function(response) {
+                
+                $(logoutForm).find("input[name=forceSubmit]").val("false");
+                if (window.console && window.console.log) { console.log("logFBUser: submit 1"); }
+                logoutForm.submit();
+                
             });
         } catch (e) {
-			if (window.console && window.console.log) { console.log("logFBUser error: ", e.message); }   //this executes if jQuery isn't loaded
+            if (window.console && window.console.log) { console.log("logFBUser error: ", e.message); }   //this executes if jQuery isn't loaded
         }        
-		// submit the form if FB.logout was not fired
-		setTimeout(ssoSubmit, 10000);
+        // submit the form if FB.logout was not fired
+        setTimeout(ssoSubmit, 10000);
     }
-	
-	function ssoSubmit() {
-		if (window.console && window.console.log) { console.log("inside ssoSubmit"); }
-		try {
-		 	var logoutForm = $("form[name=logoutSSO]");
-			if(logoutForm && logoutForm.length > 1) {
-				logoutForm = $("form[name=logoutSSO]")[0];
-			}
-			if (window.console && window.console.log) { console.log("logoutForm: ", logoutForm); }
-			if ($(logoutForm).find("input[name=forceSubmit]").val() == "true") {
-				if (window.console && window.console.log) { console.log("---------- do submit"); }			
-				if (window.console && window.console.log) { console.log("logFBUser: submit 2"); }
-			    logoutForm.submit();	
-    		}
+    
+    function ssoSubmit() {
+        if (window.console && window.console.log) { console.log("inside ssoSubmit"); }
+        try {
+            var logoutForm = $("form[name=logoutSSO]");
+            if(logoutForm && logoutForm.length > 1) {
+                logoutForm = $("form[name=logoutSSO]")[0];
+            }
+            if (window.console && window.console.log) { console.log("logoutForm: ", logoutForm); }
+            if ($(logoutForm).find("input[name=forceSubmit]").val() == "true") {
+                if (window.console && window.console.log) { console.log("---------- do submit"); }          
+                if (window.console && window.console.log) { console.log("logFBUser: submit 2"); }
+                logoutForm.submit();    
+            }
         } catch (e) {
-			if (window.console && window.console.log) { console.log("ssoSubmit: error: ", e.message); }
-			if (window.console && window.console.log) { console.log("---------- do reload"); }
+            if (window.console && window.console.log) { console.log("ssoSubmit: error: ", e.message); }
+            if (window.console && window.console.log) { console.log("---------- do reload"); }
             //window.location.reload();
-			window.location.href = "http://www.jsonline.com/s?action=doLogout&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F157190255.html";
-		}
-	}
+            window.location.href = "http://www.jsonline.com/s?action=doLogout&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F157190255.html";
+        }
+    }
 </script>
 
 <script type="text/javascript" src="http://www.jsonline.com/includes/formcheck.js?v=2&amp;d=380319"></script>
 <script type="text/javascript" src="http://www.jsonline.com/templates/Lib.MembershipValidation.js"></script>
 <script type="text/javascript" src="http://www.jsonline.com/templates/Lib.MembershipFacebookIntegration.js?v=81&amp;d=380319"></script>
-
-
-<script type="text/javascript">
-if (window.console && window.console.log && console.group) { 
-    console.group("> MASTER");
-    console.group("> > cms user info");
-    console.log("--- username = '$cms.subscriptionUser.username'");
-    console.log("--- email = '$cms.subscriptionUser.email'");
-    console.log("--- externalSSOUser = '$cms.subscriptionUser.externalSSOUser'");
-    console.log("--- externalProfileId = '$cms.subscriptionUser.externalProfileId'");
-    console.groupEnd();
-    console.group("> > cookie user info");
-    console.log("+++ UID = '" + cookiejar.fetch("UID") + "'");
-    console.log("+++ userName = '" + subcookiejar.fetch("curUserInfo", "userName") + "'");
-    console.log("+++ ssoUser = '" + subcookiejar.fetch("curUserInfo", "ssoUser") + "'");
-    console.log("+++ ssoProfileId = '" + subcookiejar.fetch("curUserInfo", "ssoProfileId") + "'");
-    console.groupEnd();
-        console.group("> > fbs_114161048613011 cookie info:");
-    console.log(cookiejar.fetch("fbs_114161048613011"));
-    console.groupEnd();
-        console.groupEnd();
-}
-</script>
 
  <div id="bodyLayer2"> 
     <script type="text/javascript">
@@ -526,20 +1151,15 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=157190255";_qc+="&7=380319";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=157190255&7=380319&25=0&18=0.5727342316991053">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=157190255&7=380319&25=0&18=0.06809492295045494">
 </noscript>
 
     <div id="content_container">
-        <div class="top_alert" style="font-family:verdana;font-size:13px;font-weight:bold;color:maroon">
-ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">here</a> for information.
-</div>
-<style>
-.top_alert{font-family:verdana;font-size:13px;font-weight:bold;color:maroon;text-align:center;}
-.top_alert a{color:maroon;text-decoration:underline;}
-</style>
-        <!-- start header -->
+                <!-- start header -->
+<!-- is ExternalSite -- ${isExternalSite} -->
+
 <div class="accountbar">
-	<strong><span class="subscriber_login_welcome"></span> JS Everywhere Subscription:</strong>  <a href="http://www.jsonline.com/?subscriber_login=y" class="subscriber_login">Login</a> | <a href="https://www.subscriber-service.com/mjs/nspromotions/subscribe1_new.aspx">Subscribe</a> | <a href="https://www.subscriber-service.com/mjs/">Manage Subscription</a>| <a href="/help">Help</a>
+	<strong><span class="subscriber_login_welcome"></span> JS Everywhere Subscription:</strong>  <a href="http://www.jsonline.com/?subscriber_login=y" class="subscriber_login">Login</a> | <a href="https://subscriberservices.jsonline.com/subscribe">Subscribe</a> | <a href="https://subscriberservices.jsonline.com/">Manage Subscription</a>| <a href="http://milwaukeejournalsentinel.wi.newsmemory.com/?token=bd5ad9aa482ec3007c721dec65c5cac3_1373_&amp;selDate">E-Edition</a>| <a href="/help">Help</a>
 	   <span style="display:none" class="s_profile_label"><b>&nbsp;&nbsp;.&nbsp;. Public Profile:</b>  <a href="http://www.jsonline.com/s?action=login&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F157190255.html" class="s_login" style="display:none">Sign in</a> | <a href="http://www.jsonline.com/s?action=reg&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F157190255.html" class="s_username" style="display:none">Create profile</a> 
 	<form name="logoutSSO" id="logoutSSO_${velocityCount}" method="post" action="/s" style="display:none;">
 		<input type="hidden" name="action" value="doLogout">
@@ -561,14 +1181,23 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 		$(".s_username").attr("href","http://www.jsonline.com/s?action=editReg&amp;rurl=http%3A%2F%2Fwww.jsonline.com%2Fgeneral%2F157190255.html").html(subcookiejar.fetch("curUserInfo","userName").substring(0,10)+"...");
 	}
 </script>
-
 <div id="masthead" class="noindex">
 	<div id="jsonline-page-sponsor">
-		<a href="http://www.jsonline.com/"><img src="http://media.jrn.com/designimages/logo4_JSO1.gif" width="239" height="95" alt="" title="" border="0" id="jsonline-logo"></a>
-        		            <div id="topBoxAd_Ext" class="leaderboardAd">
+			<a href="http://www.jsonline.com/"><img src="http://media.jrn.com/designimages/logo4_JSO1.gif" width="239" height="95" alt="" title="" border="0" id="jsonline-logo"></a>
+                         
+		            <div id="topBoxAd_Ext" class="leaderboardAd">
                                 
 
 
+<!-- Module type name is JSO Mod-Ad -->
+
+
+<!-- argAdModule.id = 44003987<br> -->
+<!-- argAdModule.adType = Yahoo -->
+<!-- argAdModule.adSize = 728x90 -->
+<!-- adSize = Yahoo -->
+<!-- module.id = 44003987 -->
+<!-- module.adType = Yahoo<br> -->
 
 
 
@@ -582,10 +1211,14 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
       </script>
    </div>
 
+
+
+
             </div> <!-- end of topBoxAd_Ext -->
         	</div> <!-- end of jsonline-page-sponsor -->
     <div style="clear: both;"></div>
 </div> <!-- end of masthead -->
+
 
 
 
@@ -659,7 +1292,7 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-			<li class="odd pos_1 first tab-12"><a href="http://www.jsonline.com/classified">Classified</a></li>
+			<li class="odd pos_1 first tab-12"><a href="http://www.jsonline.com/marketplace">Marketplace</a></li>
 
 
 
@@ -684,13 +1317,12 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-			<li class="even pos_6 last tab-17"><a href="http://local.milwaukeemarketplace.com/milwaukee+wi.z.html">MJs List</a></li>
+			<li class="even pos_6 last tab-17"><a href="http://www.jsonline.com/business/directory">MJs List</a></li>
 		</ul>
 	</div> <!-- .tabs -->
 
 
 
-    
     				<div class="odd pos_1 first tab-1 sub selected">
    
     					<ul class="sub main">
@@ -764,7 +1396,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="even pos_2 tab-2 sub">
    
     					<ul class="sub main">
@@ -833,7 +1464,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="odd pos_3 tab-3 sub">
    
     					<ul class="sub main">
@@ -871,18 +1501,17 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
     
-    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/watchdog/citizenwatchdog">Citizen Watchdog</a></li>
+    			        	<li class="odd pos_7"><a href="http://www.jsonline.com/watchdog/pi/">Public Investigator</a></li>
 
 
 
     
-    			        	<li class="even pos_8 last"><a href="http://www.jsonline.com/watchdog/33283159.html">Meet the Watchdog team</a></li>
+    			        	<li class="even pos_8 last"><a href="http://www.jsonline.com/watchdog/citizenwatchdog">Citizen Watchdog</a></li>
     					</ul>
     				</div> <!-- .sub -->
 
 
 
-    
     				<div class="even pos_4 tab-4 sub">
    
     					<ul class="sub main">
@@ -936,7 +1565,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="odd pos_5 tab-5 sub">
    
     					<ul class="sub main">
@@ -999,38 +1627,37 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
     
-    			        	<li class="even pos_12"><a href="http://www.jsonline.com/golfguide">Golf Guide</a></li>
+    			        	<li class="even pos_12"><a href="http://www.jsonline.com/sports/autoracing">Auto Racing</a></li>
 
 
 
     
-    			        	<li class="odd pos_13"><a href="http://www.jsonline.com/sports/autoracing">Auto Racing</a></li>
+    			        	<li class="odd pos_13"><a href="http://www.jsonline.com/sports/outdoors">Outdoors</a></li>
 
 
 
     
-    			        	<li class="even pos_14"><a href="http://www.jsonline.com/sports/outdoors">Outdoors</a></li>
+    			        	<li class="even pos_14"><a href="http://www.jsonline.com/sports/soccer">Soccer</a></li>
 
 
 
     
-    			        	<li class="odd pos_15"><a href="http://www.jsonline.com/sports/hockey">Hockey</a></li>
+    			        	<li class="odd pos_15"><a href="http://www.jsonline.com/sports/hockey/">Hockey</a></li>
 
 
 
     
-    			        	<li class="even pos_16"><a href="http://www.jsonline.com/sports/soccer">Soccer</a></li>
+    			        	<li class="even pos_16"><a href="http://www.jsonline.com/sports/video">Video</a></li>
 
 
 
     
-    			        	<li class="odd pos_17 last"><a href="http://www.jsonline.com/sports/video">Video</a></li>
+    			        	<li class="odd pos_17 last"><a href="http://www.ticketnetwork.com/sports-tickets.aspx?kbid=6619">Buy Tickets</a></li>
     					</ul>
     				</div> <!-- .sub -->
 
 
 
-    
     				<div class="even pos_6 tab-6 sub">
    
     					<ul class="sub main">
@@ -1089,7 +1716,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="odd pos_7 tab-7 sub">
    
     					<ul class="sub main">
@@ -1133,7 +1759,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="even pos_8 tab-8 sub">
    
     					<ul class="sub main">
@@ -1181,28 +1806,22 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
     
-    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/entertainment/festivals-2012-152095075.html">Festivals</a></li>
+    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/entertainment/special">Beer</a></li>
 
 
 
     
-    			        	<li class="even pos_10"><a href="http://www.jsonline.com/summerfest">Summerfest</a></li>
+    			        	<li class="even pos_10"><a href="http://www.jsonline.com/puzzles">Games &amp; Puzzles</a></li>
 
 
 
     
-    			        	<li class="odd pos_11"><a href="http://www.jsonline.com/puzzles">Games &amp; Puzzles</a></li>
-
-
-
-    
-    			        	<li class="even pos_12 last"><a href="http://www.jsonline.com/contests/">Contests</a></li>
+    			        	<li class="odd pos_11 last"><a href="http://www.jsonline.com/contests/">Contests</a></li>
     					</ul>
     				</div> <!-- .sub -->
 
 
 
-    
     				<div class="odd pos_9 tab-9 sub">
    
     					<ul class="sub main">
@@ -1245,14 +1864,23 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
     
-    			        	<li class="even pos_8 last"><a href="http://www.jsonline.com/sponsoredarticles/">Sponsored Articles</a></li>
+    			        	<li class="even pos_8"><a href="http://www.jsonline.com/features/health/holistichealingguide">Healing Guide</a></li>
+
+
+
+    
+    			        	<li class="odd pos_9"><a href="http://www.jsonline.com/sponsoredarticles/">Sponsored Articles</a></li>
+
+
+
+    
+    			        	<li class="even pos_10 last"><a href="http://marketplace.journalinteractive.com/makeawish" target="_blank">Make A Wish</a></li>
     					</ul>
     				</div> <!-- .sub -->
 
 
 
-    
-    				<div class="even pos_10 tab-10 sub">
+    				<div class="even pos_10 last tab-10 sub">
    
     					<ul class="sub main">
 
@@ -1269,7 +1897,7 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
     
-    			        	<li class="odd pos_3"><a href="http://video.ap.org/?f=WIMIL" target="_blank">National Video</a></li>
+    			        	<li class="odd pos_3"><a href="http://landing.newsinc.com/jsonline/video.html" target="_blank">National Video</a></li>
 
 
 
@@ -1295,7 +1923,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="odd pos_11 tab-11 sub">
    
     					<ul class="sub main">
@@ -1339,56 +1966,59 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="odd pos_1 first tab-12 sub">    					
         					<ul class="sub">
 
 
 
         
-        			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/deathnotices">Death Notices</a></li>
+        			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/holidayguide">Holiday Guide</a></li>
 
 
 
         
-        			        	<li class="even pos_2"><a href="http://www.jsonline.com/celebrations">Celebrations</a></li>
+        			        	<li class="even pos_2"><a href="http://www.jsonline.com/deathnotices">Death Notices</a></li>
 
 
 
         
-        			        	<li class="odd pos_3"><a href="http://www.jsonline.com/pets/">Pets</a></li>
+        			        	<li class="odd pos_3"><a href="http://www.jsonline.com/celebrations">Celebrations</a></li>
 
 
 
         
-        			        	<li class="even pos_4"><a href="http://secure.adpay.com/searchresults.aspx?p=2200®ion=2169&amp;amp;catid=205">Deals &amp; Steals</a></li>
+        			        	<li class="even pos_4"><a href="http://www.jsonline.com/pets/">Pets</a></li>
 
 
 
         
-        			        	<li class="odd pos_5"><a href="http://www.jsonline.com/classified">Classified Ads</a></li>
+        			        	<li class="odd pos_5"><a href="http://secure.adpay.com/searchresults.aspx?p=2200®ion=2169&amp;amp;catid=205">Deals &amp; Steals</a></li>
 
 
 
         
-        			        	<li class="even pos_6"><a href="http://secure.adpay.com/searchresults.aspx?p=2200&amp;amp;catid=249" target="_blank">Rummage</a></li>
+        			        	<li class="even pos_6"><a href="http://www.jsonline.com/classified">Classified Ads</a></li>
 
 
 
         
-        			        	<li class="odd pos_7"><a href="http://www.jsonline.com/sponsoredarticles">Sponsored Articles</a></li>
+        			        	<li class="odd pos_7"><a href="http://secure.adpay.com/searchresults.aspx?p=2200&amp;amp;catid=249" target="_blank">Rummage</a></li>
 
 
 
         
-        			        	<li class="even pos_8 last"><a href="http://secure.adpay.com/adwizard_login.aspx?a=2F6B314138345A772F70554B36524A483742772B71666462434B345168496F37526C7436335533584353494D693865516358542F6E69592F7036777449667150&amp;amp;catid=SW%20Merchandise">Place an Ad</a></li>
+        			        	<li class="even pos_8"><a href="http://www.jsonline.com/sponsoredarticles">Sponsored Articles</a></li>
+
+
+
+        
+        			        	<li class="odd pos_9 last"><a href="http://secure.adpay.com/adwizard_login.aspx?a=2F6B314138345A772F70554B36524A483742772B71666462434B345168496F37526C7436335533584353494D693865516358542F6E69592F7036777449667150&amp;amp;catid=SW%20Merchandise">Place an Ad</a></li>
 
 							</ul>
     				</div> <!-- .sub -->
 
 
 
-    
     				<div class="even pos_2 tab-13 sub">    					
 
 
@@ -1425,7 +2055,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="odd pos_3 tab-14 sub">    					
 
 
@@ -1451,7 +2080,7 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-	<li class="even pos_4"><a href="http://www.carsoup.com/jsonline/services/Milwaukee-Wisconsin">The Shop</a></li>
+	<li class="even pos_4"><a href="http://www.carsoup.com/jsonline/services/Milwaukee-Wisconsin">Service Specials</a></li>
 
 
 
@@ -1492,7 +2121,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="even pos_4 tab-15 sub">    					
 
 
@@ -1549,7 +2177,6 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="odd pos_5 tab-16 sub">    					
 
 
@@ -1606,14 +2233,13 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 
 
-    
     				<div class="even pos_6 tab-17 sub">    					
         					<ul class="sub">
 
 
 
         
-        			        	<li class="odd pos_1 first"><a href="http://www.milwaukeemarketplace.com/businesses/127595378.html">Business Listings</a></li>
+        			        	<li class="odd pos_1 first"><a href="http://www.jsonline.com/business/directory">Business Listings</a></li>
 
 
 
@@ -1907,177 +2533,187 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 </script>
 <!-- end header -->
             <div class="contentblock">
+                                                                                                                                                                                                                            
 
-																																																		
 
-<div>	<div id="pw" class="p_d">
-		<div class="p_d_w">
-			<img src="http://media.jsonline.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
-			<h3>You have 15 free articles remaining this month.</h3>
-			<div class="dialog_text">
-				<p>The Milwaukee Journal Sentinel now is offering JS Everywhere, a new digital subscription package, which gives you unlimited access to JSOnline, the daily e-Edition, Journal Sentinel mobile site and content previously included in Packer Insider. Also coming soon, an iPad tablet app will be part of JS Everywhere.</p>
+<div>    <div id="pw" class="p_d">
+        <div class="p_d_w">
+            <img src="http://media.jrn.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
+            <h3 id="warningSlug">You have 15 free articles remaining this month.</h3>
+
+            <div id="warningBody" class="dialog_text"><p>The Milwaukee Journal Sentinel now is offering JS Everywhere, a new digital subscription package, which gives you unlimited access to JSOnline, the daily e-Edition, Journal Sentinel mobile site and content previously included in Packer Insider. Also coming soon, an iPad tablet app will be part of JS Everywhere.</p>
 <p>With JS Everywhere, you'll be able to read as many articles as you want, wherever you want, on any digital device you choose.</p>
 <p>If you're a print subscriber, you already are entitled to free access to JS Everywhere. All you need to do is register.</p>
-<p>Sign up now or continue enjoying up to 20 free articles per month.</p>
-			</div>
-			<div class="button_row">	
-				<div class="d_l_c subscription_button">
-					<span class="note">current subscribers</span>
-					<a href="http://www.jsonline.com/subscription/register" rel="nofollow" class="d_b sub" target="_mjsservices" id="reg1">Register me</a>
-				</div>
-				<div class="d_l_c subscription_button">
-					<span class="note">not a subscriber?</span>
-					<a href="http://www.jsonline.com/subscription/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices id=" new1""="">See my options</a>
-				</div>
-				<div class="d_r_c  subscription_button">
-					<span class="note"></span>
-					<a href="#continue_reading" rel="nofollow" class="d_b pcdb">No thanks</a>
-				</div>
-			</div>
-			<div class="subscription_footer">Already registered for JS Everywhere? <a rel="nofollow" class="d_b pgldb showlogin">Log in.</a>
-				<!--&nbsp;<a rel="nofollow" href="https://www.subscriber-service.com/mjs/logon.asp" target="_blank">forgot username/password?</a>-->
-			</div>
-		</div>
-	</div>
-	<div id="pwb" class="p_d">
-		<div class="p_d_w">
-			<img src="http://media.jsonline.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
-			<h3>You have 5 free articles remaining this month.</h3>
-			<div class="dialog_text">
-				<p>A JS Everywhere digital subscription gives you unlimited access to every article you want to read. To continue reading without further delay, sign up and enjoy more than the next five articles.</p>
-<p>If you're a print subscriber, please register now at no additional charge and continue reading without further interruption.The daily e-Edition, Journal Sentinel mobile site and content previously included in Packer Insider is part of JS Everywhere.</p>
-			</div>
-			<div class="button_row">
-				<div class="d_l_c subscription_button">
-					<span class="note">current subscribers</span>
-					<a href="http://www.jsonline.com/subscription/register" rel="nofollow" class="d_b sub" target="_mjsservices" id="reg2">Register me</a>
-				</div>
-				<div class="d_l_c subscription_button">
-					<span class="note">not a subscriber?</span>
-					<a href="http://www.jsonline.com/subscription/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices" id="new2">See my options</a>
-				</div>
-				<div class="d_r_c  subscription_button">
-					<span class="note"></span>
-					<a href="#continue_reading" rel="nofollow" class="d_b pcdb">No thanks</a>
-				</div>
-			</div>
-			<div class="subscription_footer">Already registered for JS Everywhere? <a rel="nofollow" class="d_b pgldb shologin">Log in.</a>
-				<!--&nbsp;<a rel="nofollow" href="https://www.subscriber-service.com/mjs/logon.asp" target="_blank">forgot username/password?</a>-->
-			</div>
-		</div>
-	</div>
-	<div id="plsd" class="p_d">
-		<div class="p_d_w">
-			<img src="http://media.jsonline.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
-			<div class="subscription_login_form">
-				<h3>Log in</h3>
-				<div class="d_l_c">
-					<div id="plfic_frame"></div>
-				</div>
-			</div>
-			<div class="signup_prompt">
-				<h3>Log in now to JS Everywhere.</h3>
-				<div class="dialog_text">
-					<p>You've reached your 20-article limit for this month. &nbsp;With JS Everywhere digital package, you gain unlimited access. Everywhere you go, and with every digital device you own. And, new mobile and tablet apps are coming soon.</p>
+<p>Sign up now or continue enjoying up to 20 free articles per month.</p></div>
+            <div class="button_row">    
+                <div class="d_l_c subscription_button">
+                    <span class="note">current subscribers</span>
+                    <a href="/login" rel="nofollow" class="d_b sub" target="_mjsservices" id="reg1">Register me</a>
+                </div>
+                <div class="d_l_c subscription_button">
+                    <span class="note">not a subscriber?</span>
+                    <a href="http://subscriberservices.jsonline.com/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices" id="new1">See my options</a>
+                </div>
+                <div class="d_r_c  subscription_button">
+                    <span class="note"></span>
+                    <a href="#continue_reading" rel="nofollow" class="d_b pcdb">No thanks</a>
+                </div>
+            </div>
+            <div class="subscription_footer">Already registered for JS Everywhere? <a rel="nofollow" class="d_b pgldb showlogin">Log in.</a>
+                <!--&nbsp;<a rel="nofollow" href="https://subscriberservices.jsonline.com/reset-password" target="_blank">forgot username/password?</a>-->
+            </div>
+        </div>
+    </div>
+    <div id="pwb" class="p_d">
+        <div class="p_d_w">
+            <img src="http://media.jrn.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
+            <h3 id="warningBSlug">You have 5 free articles remaining this month.</h3>
+
+            <div id="wariningBBody" class="dialog_text"><p>A JS Everywhere digital subscription gives you unlimited access to every article you want to read. To continue reading without further delay, sign up and enjoy more than the next five articles.</p>
+<p>If you're a print subscriber, please register now at no additional charge and continue reading without further interruption.The daily e-Edition, Journal Sentinel mobile site and content previously included in Packer Insider is part of JS Everywhere.</p></div>
+            <div class="button_row">
+                <div class="d_l_c subscription_button">
+                    <span class="note">current subscribers</span>
+                    <a href="/login" rel="nofollow" class="d_b sub" target="_mjsservices" id="reg2">Register me</a>
+                </div>
+                <div class="d_l_c subscription_button">
+                    <span class="note">not a subscriber?</span>
+                    <a href="http://subscriberservices.jsonline.com/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices" id="new2">See my options</a>
+                </div>
+                <div class="d_r_c  subscription_button">
+                    <span class="note"></span>
+                    <a href="#continue_reading" rel="nofollow" class="d_b pcdb">No thanks</a>
+                </div>
+            </div>
+            <div class="subscription_footer">Already registered for JS Everywhere? <a rel="nofollow" class="d_b pgldb shologin">Log in.</a>
+                <!--&nbsp;<a rel="nofollow" href="https://subscriberservices.jsonline.com/reset-password" target="_blank">forgot username/password?</a>-->
+            </div>
+        </div>
+    </div>
+    <div id="plsd" class="p_d">
+        <div class="p_d_w">
+            <img src="http://media.jrn.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
+            <div class="subscription_login_form">
+                <h3>Log in</h3>
+                <div class="d_l_c">
+                    <div id="plfic_frame"></div>
+                </div>
+            </div>
+            <div class="signup_prompt">
+                <h3 id="loginSlug">Log in now to JS Everywhere.</h3>
+
+                <div id="loginBody" class="dialog_text"><p>You've reached your 20-article limit for this month. &nbsp;With JS Everywhere digital package, you gain unlimited access. Everywhere you go, and with every digital device you own. And, new mobile and tablet apps are coming soon.</p>
 <p>If you already are a print subscriber, register now. Or sign up as a digital-only subscriber today, and start enjoying all of our digital content, with unlimited access to JSOnline, e-Editions, Journal Sentinel mobile site and content previously included in Packer Insider.</p>
-<p>If you don't receive home delivery, maybe now's the time to subscribe. We offer a variety of print subscriptions to choose from, and each includes unlimited digital access at no additional cost.</p>
-				</div>
-				<div class="button_row">
-					<div class="d_l_c subscription_button">
-						<span class="note">current subscribers</span>
-						<a href="http://www.jsonline.com/subscription/register" rel="nofollow" class="d_b sub" target="_mjsservices" id="reg3">Register me</a>
-					</div>
-					<div class="d_l_c subscription_button">
-						<span class="note">not a subscriber?</span>
-						<a href="http://www.jsonline.com/subscription/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices" id="new3">See my options</a>
-					</div>
-					<div class="d_l_c subscription_button">
-						<span class="note"></span>
-						<a href="#" class="d_b pgldh">No thanks</a>
-					</div>
-				</div>
-				<div class="subscription_footer">
-					<a rel="nofollow" href="https://www.subscriber-service.com/mjs/logon.asp" target="_blank">forgot username/password?</a>
-				</div>
-			</div>
-			<!--<div class="d_l_c">
-				<h4>Already subscribed?</h4>
-				<a rel="nofollow" class="d_b pgldb">Login</a>
-			</div>-->
-		</div>	
-	</div>
-	<div id="pwl" class="p_d">
-		<div class="p_d_w">
-			<img src="http://media.jsonline.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
-			<h3>We hope you enjoyed reading 20 articles this month.</h3>
-			<div class="dialog_text">
-				<p>Sign up now for unlimited reading and browsing or you can continue browsing our homepage, section pages, TAP, sports statistics, Car Soup, House &amp; Home, classified ads andClassified and death notices on JSOnline. However for complete site access, sign up for JS Everywhere now. You'll get unlimited digital access instantly!</p>
+<p>If you don't receive home delivery, maybe now's the time to subscribe. We offer a variety of print subscriptions to choose from, and each includes unlimited digital access at no additional cost.</p></div>
+                <div class="button_row">
+                    <div class="d_l_c subscription_button">
+                        <span class="note">current subscribers</span>
+                        <a href="/login" rel="nofollow" class="d_b sub" target="_mjsservices" id="reg3">Register me</a>
+                    </div>
+                    <div class="d_l_c subscription_button">
+                        <span class="note">not a subscriber?</span>
+                        <a href="http://subscriberservices.jsonline.com/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices" id="new3">See my options</a>
+                    </div>
+                    <div class="d_l_c subscription_button">
+                        <span class="note"></span>
+                        <a href="#" class="d_b pgldh">No thanks</a>
+                    </div>
+                </div>
+                <div class="subscription_footer">
+                    <a rel="nofollow" href="https://subscriberservices.jsonline.com/reset-password" target="_blank">forgot username/password?</a>
+                </div>
+            </div>
+            <!--<div class="d_l_c">
+                <h4>Already subscribed?</h4>
+                <a rel="nofollow" class="d_b pgldb">Login</a>
+            </div>-->
+        </div>  
+    </div>
+    <div id="pwl" class="p_d">
+        <div class="p_d_w">
+            <img src="http://media.jrn.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
+            <h3 id="lastchanceSlug">We hope you enjoyed reading 20 articles this month.</h3>
+
+            <div id="lastchanceBody" class="dialog_text"><p>Sign up now for unlimited reading and browsing or you can continue browsing our homepage, section pages, TAP, sports statistics, Car Soup, House &amp; Home, classified ads andClassified and death notices on JSOnline. However for complete site access, sign up for JS Everywhere now. You'll get unlimited digital access instantly!</p>
 <p>Remember, all Journal Sentinel print subscriptions include JS Everywhere, which delivers free, unlimited access to digital news and information wherever you are – on any digital device you choose.</p>
-<p>To keep reading, sign up today.</p>
-			</div>
-			<div class="button_row">
-				<div class="d_l_c subscription_button">
-					<a href="http://www.jsonline.com/subscription/register" rel="nofollow" class="d_b sub" target="_mjsservices">Register me</a>
-				</div>
-				<div class="d_l_c subscription_button">
-					<a href="http://www.jsonline.com/subscription/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices">See my options</a>
-				</div>
-				<div class="d_r_c  subscription_button">
-					<a href="http://www.jsonline.com" rel="nofollow" class="d_b sub">Go to homepage</a>
-				</div>
-			</div>
-			<div class="subscription_footer">
-				Already registered for JS Everywhere? <a rel="nofollow" class="d_b pgldb shologin">Log in.</a>
-			</div>
-		</div>
-	</div>
-		<div id="tplsd" class="p_d">
-		<div class="p_d_w">
-			<img src="http://media.jsonline.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
-			<div class="subscription_login_form">
-				<h3>Log in</h3>
-				<div class="d_l_c">
-					<div id="tplfic_frame"></div>
-				</div>
-			</div>
-			<div class="signup_prompt">
-				<h3>Log in now to JS Everywhere.</h3>
-				<div class="dialog_text">
-					<p>With JS Everywhere digital package, you gain unlimited access. Everywhere you go, and with every digital device you own. And, new mobile and tablet apps are coming soon.</p>
+<p>To keep reading, sign up today.</p></div>
+            <div class="button_row">
+                <div class="d_l_c subscription_button">
+                    <a href="/login" rel="nofollow" class="d_b sub" target="_mjsservices">Register me</a>
+                </div>
+                <div class="d_l_c subscription_button">
+                    <a href="http://subscriberservices.jsonline.com/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices">See my options</a>
+                </div>
+                <div class="d_r_c  subscription_button">
+                    <a href="http://www.jsonline.com" rel="nofollow" class="d_b sub">Go to homepage</a>
+                </div>
+            </div>
+            <div class="subscription_footer">
+                Already registered for JS Everywhere? <a rel="nofollow" class="d_b pgldb shologin">Log in.</a>
+            </div>
+        </div>
+    </div>
+        <div id="tplsd" class="p_d">
+        <div class="p_d_w">
+            <img src="http://media.jrn.com/designimages/logo_journalsentinel.png" class="dialog_logo_js">
+            <div class="subscription_login_form">
+                <h3>Log in</h3>
+                <div class="d_l_c">
+                    <div id="tplfic_frame"></div>
+                </div>
+            </div>
+            <div class="signup_prompt">
+                <h3 id="signupSlug">Log in now to JS Everywhere.</h3>
+
+                <div id="signupBody" class="dialog_text"><p>With JS Everywhere digital package, you gain unlimited access. Everywhere you go, and with every digital device you own. And, new mobile and tablet apps are coming soon.</p>
 <p>If you already are a print subscriber, register now. Or sign up as a digital-only subscriber today, and start enjoying all of our digital content, with unlimited access to JSOnline, e-Editions, Journal Sentinel mobile site and content previously included in Packer Insider.</p>
-<p>If you don't receive home delivery, maybe now's the time to subscribe. We offer a variety of print subscriptions to choose from, and each includes unlimited digital access at no additional cost.</p>
-				</div>
-				<div class="button_row">
-					<div class="d_l_c subscription_button">
-						<span class="note">current subscribers</span>
-						<a href="http://www.jsonline.com/subscription/register" rel="nofollow" class="d_b sub" target="_mjsservices" id="regD">Register me</a>
-					</div>
-					<div class="d_l_c subscription_button">
-						<span class="note">not a subscriber?</span>
-						<a href="http://www.jsonline.com/subscription/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices" id="newD">See my options</a>
-					</div>
-					<div class="d_l_c subscription_button">
-						<span class="note"></span>
-						<a href="#" class="d_b pcdb">No thanks</a>
-					</div>
-				</div>
-				<div class="subscription_footer">
-					<a rel="nofollow" href="https://www.subscriber-service.com/mjs/logon.asp" target="_blank">forgot username/password?</a>
-				</div>
-			</div>
-			<!--<div class="d_l_c">
-				<h4>Already subscribed?</h4>
-				<a rel="nofollow" class="d_b pgldb">Login</a>
-			</div>-->
-		</div>	
-	</div>
+<p>If you don't receive home delivery, maybe now's the time to subscribe. We offer a variety of print subscriptions to choose from, and each includes unlimited digital access at no additional cost.</p></div>
+                <div class="button_row">
+                    <div class="d_l_c subscription_button">
+                        <span class="note">current subscribers</span>
+                        <a href="/login" rel="nofollow" class="d_b sub" target="_mjsservices" id="regD">Register me</a>
+                    </div>
+                    <div class="d_l_c subscription_button">
+                        <span class="note">not a subscriber?</span>
+                        <a href="http://subscriberservices.jsonline.com/subscribe" rel="nofollow" class="d_b sub" target="_mjsservices" id="newD">See my options</a>
+                    </div>
+                    <div class="d_l_c subscription_button">
+                        <span class="note"></span>
+                        <a href="#" class="d_b pcdb">No thanks</a>
+                    </div>
+                </div>
+                <div class="subscription_footer">
+                    <a rel="nofollow" href="https://subscriberservices.jsonline.com/reset-password" target="_blank">forgot username/password?</a>
+                </div>
+            </div>
+            <!--<div class="d_l_c">
+                <h4>Already subscribed?</h4>
+                <a rel="nofollow" class="d_b pgldb">Login</a>
+            </div>-->
+        </div>  
+    </div>
 </div>
-<link rel="stylesheet" type="text/css" href="http://www.jsonline.com/062806E80800E73O20120628060628">
+
+<link rel="stylesheet" type="text/css" href="http://www.jsonline.com/111423E80800E73O20121114231114">
 <script type="text/javascript">
-	$.ajax({url: 'http://www.jsonline.com/28062012062806T3O5E047YO157190255.DCV',dataType: "script",success: function(){}});
-</script>	
+var _pfrdu = false;
+    $.ajax({url: 'http://www.jsonline.com/14112012111423U50O5ESD9O157190255.DCV',dataType: "script",success: function(){}});
+</script>   
 
 
+
+<script type="text/javascript">
+document.getElementById('warningSlug').innerHTML = "You have 15 free articles remaining this month.";
+document.getElementById('warningBody').innerHTML = "<p>The Milwaukee Journal Sentinel now is offering JS Everywhere, a new digital subscription package, which gives you unlimited access to JSOnline, the daily e-Edition, Journal Sentinel mobile site and content previously included in Packer Insider. Also coming soon, an iPad tablet app will be part of JS Everywhere.</p>\n<p>With JS Everywhere, you\'ll be able to read as many articles as you want, wherever you want, on any digital device you choose.</p>\n<p>If you\'re a print subscriber, you already are entitled to free access to JS Everywhere. All you need to do is register.</p>\n<p>Sign up now or continue enjoying up to 20 free articles per month.</p>";
+document.getElementById('warningBSlug').innerHTML = "You have 5 free articles remaining this month.";
+document.getElementById('wariningBBody').innerHTML = "<p>A JS Everywhere digital subscription gives you unlimited access to every article you want to read. To continue reading without further delay, sign up and enjoy more than the next five articles.</p>\n<p>If you\'re a print subscriber, please register now at no additional charge and continue reading without further interruption.The daily e-Edition, Journal Sentinel mobile site and content previously included in Packer Insider is part of JS Everywhere.</p>";
+document.getElementById('loginSlug').innerHTML = "Log in now to JS Everywhere.";
+document.getElementById('loginBody').innerHTML = "<p>You\'ve reached your 20-article limit for this month. &nbsp;With JS Everywhere digital package, you gain unlimited access. Everywhere you go, and with every digital device you own. And, new mobile and tablet apps are coming soon.</p>\n<p>If you already are a print subscriber, register now. Or sign up as a digital-only subscriber today, and start enjoying all of our digital content, with unlimited access to JSOnline, e-Editions, Journal Sentinel mobile site and content previously included in Packer Insider.</p>\n<p>If you don\'t receive home delivery, maybe now\'s the time to subscribe. We offer a variety of print subscriptions to choose from, and each includes unlimited digital access at no additional cost.</p>";
+document.getElementById('lastchanceSlug').innerHTML = "We hope you enjoyed reading 20 articles this month.";
+document.getElementById('lastchanceBody').innerHTML = "<p>Sign up now for unlimited reading and browsing or you can continue browsing our homepage, section pages, TAP, sports statistics, Car Soup, House &amp; Home, classified ads andClassified and death notices on JSOnline. However for complete site access, sign up for JS Everywhere now. You\'ll get unlimited digital access instantly!</p>\n<p>Remember, all Journal Sentinel print subscriptions include JS Everywhere, which delivers free, unlimited access to digital news and information wherever you are &ndash; on any digital device you choose.</p>\n<p>To keep reading, sign up today.</p>";
+document.getElementById('signupSlug').innerHTML = "Log in now to JS Everywhere.";
+document.getElementById('signupBody').innerHTML = "<p>With JS Everywhere digital package, you gain unlimited access. Everywhere you go, and with every digital device you own. And, new mobile and tablet apps are coming soon.</p>\n<p>If you already are a print subscriber, register now. Or sign up as a digital-only subscriber today, and start enjoying all of our digital content, with unlimited access to JSOnline, e-Editions, Journal Sentinel mobile site and content previously included in Packer Insider.</p>\n<p>If you don\'t receive home delivery, maybe now\'s the time to subscribe. We offer a variety of print subscriptions to choose from, and each includes unlimited digital access at no additional cost.</p>";
+</script>
 <div align="center" id="peelad">
 
 
@@ -2085,36 +2721,43 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 
 </div> <!-- peelad -->
 <div id="hotTopics">
-<form action="http://search.jsonline.com/Search.aspx" method="get">
-<div class="hotTopics">
-<div class="links" id="hotTopicsLinks">
-<span class="label">Hot Topics:</span>
-<a href="http://www.jsonline.com/sports/bucks/buck-pick-up-center-dalembert-from-houston-vu5u4mt-160632285.html">Bucks trade</a>
-<!-- 14 -->
-|<a href="http://www.jsonline.com/news/wisconsin/city-of-brookfield-bans-burning-fireworks-tl5ua9q-160599615.html">Burn, fireworks bans</a>
-<!-- 37 -->
-|<a href="http://www.jsonline.com/news/usandworld/furious-wildfire-in-colorado-leaves-destruction-in-its-wake-u25u5m3-160614125.html">Colorado wildfire</a>
-<!-- 57 -->
-|<a href="http://www.jsonline.com/news/opinion/in-defense-of-pit-bulls-8p5u3ae-160603585.html">In defense of pit bulls</a>
-<!-- 83 -->
-</div>
-<div class="searchForm" id="mainSearchForm">
-<script type="text/javascript" src="http://www.jsonline.com/includes/jquery.autocomplete.js"></script>
-<input type="text" name="k" id="searchInput" style="margin-right:4px;" onfocus="this.style.border='0px solid white'">
-<input type="image" class="button" name="s" src="http://media.jsonline.com/designimages/btn_Search_JSO.gif" alt="Search">
-</div>
-<script>
-      $(document).ready(function () {
-          var data = "Core Selectors Attributes Traversing Manipulation CSS Events Effects Ajax Utilities".split(" ");
-          $("#searchInput").autocomplete("http://www.jsonline.com/templates/JI.Core.API.AutoComplete.txt", { delay: 50 });
-      });
-  </script>
-</div>
-</form>
-
-
+	<form action="http://search.jsonline.com/Search.aspx" method="get">
+	<div class="hotTopics">
+	<div class="links" id="hotTopicsLinks" data-vr-zone="Hot Topics">
+	<span class="label">Hot Topics:</span>
+			<a data-vr-contentbox="Hot Topic 1" href="http://www.jsonline.com/news/opinion/gop-legislators-go-rogue-over-federal-health-care-law-to7l8ff-179383901.html">Obamacare</a>
+			<!-- 12 -->
+|			<a data-vr-contentbox="Hot Topic 2" href="http://www.jsonline.com/blogs/sports/179406221.html">Ryan Braun</a>
+			<!-- 25 -->
+|			<a data-vr-contentbox="Hot Topic 3" href="http://www.jsonline.com/business/national/obama-pressing-business-and-labor-on-fiscal-cliff014a500daa0e4b0e8fd95e9866d00fe9-179237821.html">'Fiscal cliff'</a>
+			<!-- 42 -->
+|			<a data-vr-contentbox="Hot Topic 4" href="http://www.jsonline.com/news/usandworld/national/israel-hamas-killing-launches-broader-operation39be3d6b89fd400fafaf054a65cbf84b-179294261.html">Hamas chief killed</a>
+			<!-- 63 -->
+|			<a data-vr-contentbox="Hot Topic 5" href="http://www.jsonline.com/sports/packers/178232161.html">Packers chat</a>
+			<!-- 78 -->
+	</div>
+	<div class="searchForm" id="mainSearchForm">
+	<script type="text/javascript" src="http://www.jsonline.com/includes/jquery.autocomplete.js"></script>
+	<input type="text" name="k" id="searchInput" style="margin-right:4px;" onfocus="this.style.border='0px solid white'">
+	<input type="image" class="button" name="s" src="http://media.jsonline.com/designimages/btn_Search_JSO.gif" alt="Search">
+	</div>
+	<script>
+	      $(document).ready(function () {
+        	  var data = "Core Selectors Attributes Traversing Manipulation CSS Events Effects Ajax Utilities".split(" ");
+	          $("#searchInput").autocomplete("http://www.jsonline.com/templates/JI.Core.API.AutoComplete.txt", { delay: 50 });
+	      });
+	</script>
+	</div>
+	</form>
 
 </div><!-- hotTopics -->
+
+
+
+<!-- START Lib.Utility.RemoteServiceManager TEMPLATE ( v. 13 ) -->
+    <!-- Remote Service has missing parameter(s)  -->
+    <!--      -->
+<!-- END Lib.Utility.RemoteServiceManager TEMPLATE -->
 
  <!--startclickprintinclude-->
 	<div class="left_column_wide">
@@ -2342,9 +2985,9 @@ ALERT! We've revised our Privacy Policy and TOU. Click <a href="/privacy.html">h
 		<p>You may opt-out of receiving customized or personalized Network Advertising or our own First Party Advertising on our Services using the links below. However, you will continue to receive advertising and promotional messages after you opt-out, but it will not be tailored, personalized, or relevant to you based on your use of our Services and/or third party websites. You may <span class="highlight_5">not</span> opt out of Contextual Advertising.</p>
 
 		<p></p><ul>
-			<li>If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or website usage habits, please <a href="#">click here</a>.</li>
-			<li>If you wish to opt-out of receiving customized content and ads from other Network Advertising providers, please <a href="#">click here</a>.</li>
-			<li>If you wish to opt-out of receiving First Party Advertising from JSI based your personal preferences or website usage habits on our Services, please <a href="#">click here</a>.</li>
+			<li>If you wish to opt-out of receiving customized content and ads from Yahoo! based on your personal preferences or website usage habits, please <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">click here</a>.</li>
+			<li>If you wish to opt-out of receiving customized content and ads from other Network Advertising providers, please <a href="mailto:privacy@journalsentinel.com">click here</a>.</li>
+			<li>If you wish to opt-out of receiving First Party Advertising from JSI based your personal preferences or website usage habits on our Services, please <a href="mailto:privacy@journalsentinel.com">click here</a>.</li>
 		</ul><p></p>
 	</div>
 	<div id="section_6">
@@ -2485,6 +3128,7 @@ $(".close").click(function(e){e.preventDefault();
 
 		<span fd-type="end" fd-id="default"></span>
 	</div>
+	<div style="clear:both;"></div>
 </div>
 		   <!--endclickprintinclude-->
     </div> <!-- - end div class=contentblock -->
@@ -2497,63 +3141,104 @@ $(".close").click(function(e){e.preventDefault();
 <h3 class="footerTitle">Elsewhere on JSOnline</h3>
 <div class="sectionals contentblock">
 
-<div class="sectionals_section">
-	<div class="title">Summerfest</div>
 
-        <a href="http://www.jsonline.com/entertainment/festivals/158630245.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/Vest_Koolandthegang016.JPG" width="132" height="82" alt="" title="" border="0"></a>
-	<a href="http://www.jsonline.com/entertainment/festivals/158630245.html" class="sectionals_link">Meet the headlining acts</a>
+
+
+<div class="sectionals_section">
+	<div class="title">Got a tip?</div>
+
+
+        <a href="http://www.jsonline.com/watchdog/144481915.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/watchdog-160x100.jpg" width="132" height="82" alt="" title="" border="0"></a>
+	<a href="http://www.jsonline.com/watchdog/144481915.html" class="sectionals_link">Report waste, fraud or abuse</a>
 </div> <!-- end of sectionals_section -->
 			
-<div class="sectionals_section">
-	<div class="title">Auto Racing</div>
 
-        <a href="http://www.jsonline.com/sports/autoracing/matt-kenseth-is-ready-for-new-challenge-vu5u536-160624185.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/28365631-mjs_matt_kenseth_sanfrancisco_1.jpg" width="132" height="82" alt="" title="" border="0"></a>
-	<a href="http://www.jsonline.com/sports/autoracing/matt-kenseth-is-ready-for-new-challenge-vu5u536-160624185.html" class="sectionals_link">Q&amp;A with Matt Kenseth</a>
+
+
+<div class="sectionals_section">
+	<div class="title">Video</div>
+
+
+        <a href="http://www.jsonline.com/blogs/sports/179384081.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/packvid111412.jpg" width="132" height="82" alt="" title="" border="0"></a>
+	<a href="http://www.jsonline.com/blogs/sports/179384081.html" class="sectionals_link">Silverstein, Nickel report on the Packers</a>
 </div> <!-- end of sectionals_section -->
 			
-<div class="sectionals_section">
-	<div class="title">Tallgrass Kitchen</div>
 
-        <a href="http://www.jsonline.com/features/food/sweet-potato-fries-are-a-better-nutritional-choice-965ovvl-160276255.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/28339877-mjs_tallgrass27p_fries.jpg" width="132" height="82" alt="" title="" border="0"></a>
-	<a href="http://www.jsonline.com/features/food/sweet-potato-fries-are-a-better-nutritional-choice-965ovvl-160276255.html" class="sectionals_link">Sweet potato fries are a better choice</a>
+
+
+<div class="sectionals_section">
+	<div class="title">You Asked For It</div>
+
+
+        <a href="http://www.jsonline.com/features/food/la-fuentes-caldo-de-camaron-sp7fmt8-179138141.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/mjs-la-fuente-shrimp-soup-1.jpg" width="132" height="82" alt="" title="" border="0"></a>
+	<a href="http://www.jsonline.com/features/food/la-fuentes-caldo-de-camaron-sp7fmt8-179138141.html" class="sectionals_link">La Fuente's Caldo de Camaron</a>
 </div> <!-- end of sectionals_section -->
 			
-<div class="sectionals_section">
-	<div class="title">Photo Gallery</div>
 
-        <a href="http://www.jsonline.com/multimedia/photos/160524815.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/Western_Wildfires.627_924x640.jpg" width="132" height="82" alt="" title="" border="0"></a>
-	<a href="http://www.jsonline.com/multimedia/photos/160524815.html" class="sectionals_link">Wildfire spreads near Colorado Springs</a>
+
+
+<div class="sectionals_section">
+	<div class="title">Southwest Airlines</div>
+
+
+        <a href="http://www.jsonline.com/business/southwest-airlines-sees-success-in-packers-sponsorship-ul7ko9q-179227381.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/29528116-mjs_southwest-_biz-_porter-_7_southwest.jpg" width="132" height="82" alt="" title="" border="0"></a>
+	<a href="http://www.jsonline.com/business/southwest-airlines-sees-success-in-packers-sponsorship-ul7ko9q-179227381.html" class="sectionals_link">Company sees success in sponsorship</a>
 </div> <!-- end of sectionals_section -->
 			
-<div class="sectionals_section">
-	<div class="title">Database</div>
 
-        <a href="http://data.jsonline.com/sports/Brewers/HomeRuns.aspx" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/newbrewhr40712.jpg" width="132" height="82" alt="" title="" border="0"></a>
-	<a href="http://data.jsonline.com/sports/Brewers/HomeRuns.aspx" class="sectionals_link">Every Brewers home run in Miller Park era</a>
+
+
+<div class="sectionals_section">
+	<div class="title">Events</div>
+
+
+        <a href="http://www.jsonline.com/entertainment/holiday-folk-fair-adds-images-to-celebration-of-ethnic-food-entertainment-nu7ermo-179359791.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/mjs-holiday-folk-fair-2011-a.jpg" width="132" height="82" alt="" title="" border="0"></a>
+	<a href="http://www.jsonline.com/entertainment/holiday-folk-fair-adds-images-to-celebration-of-ethnic-food-entertainment-nu7ermo-179359791.html" class="sectionals_link">Holiday Folk Fair celebrates ethnic food</a>
 </div> <!-- end of sectionals_section -->
 			
+
+
+
 <div class="sectionals_section last_section">
-	<div class="title">Photo Gallery</div>
+	<div class="title">Entertainment</div>
 
-        <a href="http://www.jsonline.com/entertainment/multimedia/photos/160608575.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/MJS_TAPSNAPSSUMMERFEST04.jpg" width="132" height="82" alt="" title="" border="0"></a>
-	<a href="http://www.jsonline.com/entertainment/multimedia/photos/160608575.html" class="sectionals_link">Tap Snaps: Summerfest opens</a>
+
+        <a href="http://www.jsonline.com/entertainment/176807631.html" class="sectionals_link"><img src="http://media.jrn.com/images/132*82/tapmobile.jpg" width="132" height="82" alt="" title="" border="0"></a>
+	<a href="http://www.jsonline.com/entertainment/176807631.html" class="sectionals_link">Tap in to Tap Mobile</a>
 </div> <!-- end of sectionals_section -->
-																																																</div> <!-- end of sectionals -->
+																																															</div> <!-- end of sectionals -->
         	<div class="full_width_ad">
         <!--startclickprintexclude-->
 
+<!-- Module type name is JSO Mod-Ad -->
+
+
+<!-- argAdModule.id = 44004272<br> -->
+<!-- argAdModule.adType = Yahoo -->
+<!-- argAdModule.adSize = 728x90 -->
+<!-- adSize = Yahoo -->
+<!-- module.id = 44004272 -->
+<!-- module.adType = Yahoo<br> -->
 
 
 
 
     
     <div class="odd pos_1 first block ad Yahoo id44004272 size728x90">
-      <script type="text/javascript">
-         <!--
-         if (yld_mgr != null && typeof yld_mgr.place_ad_here === 'function') yld_mgr.place_ad_here("lb_bot_slot");
-         // -->
-      </script>
-   </div>
+                                                                                                                                                                                        <iframe id="adFrame44004272" name="adFrame44004272" src="http://open.ad.yieldmanager.net/a1?V=4&amp;ctLng=enus&amp;rTy=ac&amp;pubId=21968629472&amp;site=jsonline.com&amp;sz=728x90&amp;dlv=ipbtf&amp;conTy=fn_news&amp;cCat=&amp;cSctn=Article&amp;cTopId=20275001" width="728" height="90" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" style="border:0px;" scrolling="no"></iframe>
+    	<script>
+	window.setInterval("reloadIFrame44004272();", 45000);
+	
+	function reloadIFrame44004272() {
+		var ad = $("#adFrame44004272");
+    		ad.attr("src",ad.attr("src"));
+	 	
+	}
+	</script>    
+       </div>
+
+
+
 <!--endclickprintexclude-->
         	</div> <!-- end of full_width_ad -->
         </div> <!-- end of full_width_content_container -->
@@ -2626,12 +3311,48 @@ $(document).ready(function() {
 
 $(".superbox.video").click(function(e){
 e.preventDefault();
-	$.fancybox("<iframe src='"+$(this).attr("href").replace("http://www.jsonline.com/multimedia/video/","http://www.jsonline.com/videoplayer/")+"' height='680' width='854' frameborder='no' scrolling='no' noresize marginwidth='0px' marginheight='0px'></iframe>");
+	$.fancybox("<iframe src='"+$(this).attr("href").replace("http://www.jsonline.com/multimedia/video/","http://www.jsonline.com/videoplayer/")+"' height='800' width='854' frameborder='no' scrolling='no' noresize marginwidth='0px' marginheight='0px'></iframe>");
 });
 $(".superbox.iframe").fancybox();
 $(".superbox.photo").fancybox();
 });
 </script>
+<script type="text/javascript">
+	var _sf_async_config={};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 42557;
+	_sf_async_config.domain = 'jsonline.com';
+	_sf_async_config.sections = section1;
+	_sf_async_config.authors = author;
+	/** CONFIGURATION END **/
+	(function(){
+		function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js');
+			document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+</script>
+	<!--INSIDE - Visual Revenue Reader Response Tracking Script (v6) -->
+	<script type="text/javascript">
+	var _vrq = _vrq || [];
+	_vrq.push(['id', 226]);
+	_vrq.push(['automate', false]);
+	_vrq.push(['track', function(){}]);
+	(function(d, a){
+	var s = d.createElement(a),
+	x = d.getElementsByTagName(a)[0];
+	s.async = true;
+	s.src = 'http://a.visualrevenue.com/vrs.js';
+	x.parentNode.insertBefore(s, x);
+	})(document, 'script');
+	</script>
+	<!-- End of VR RR Tracking Script - All rights reserved -->
 
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
