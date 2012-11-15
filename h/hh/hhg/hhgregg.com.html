@@ -1,20 +1,25 @@
-<!--The following is the downloaded HTML source of the hhgregg.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511195736id_/http%3A//www.hhgregg.com/content2/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hhgregg.com privacy policy that was archived on 2012-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115111006id_/http%3A//www.hhgregg.com/content2/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="en" xml:lang="en" class="dj_webkit dj_contentbox"><head>
+<!DOCTYPE html><html xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox"><head>
 <title>
-	hhgregg - Welcome! 
+
+
+   Privacy Policy | hhgregg
+  
+
 </title>
 
 
 <meta name="description" content="">
-<meta name="keyword" content=", TV &amp; Entertainment, Appliances &amp; Home, Computers &amp; Mobile, Cameras &amp; Camcorders, ">      
+<meta name="keyword" content=", TV, Audio &amp; Video, Appliances &amp; Home, Computers &amp; Mobile, Cameras &amp; Portable Electronics, ">      
 <link rel="stylesheet" href="/wcsstore/MadisonsStorefrontAssetStore/css/common1_1.css" type="text/css">
 <!--[if IE 7]><link rel="stylesheet" href="/wcsstore/MadisonsStorefrontAssetStore/css/commonie7.css" type="text/css"/><![endif]-->
 		<!--[if IE 8]><link rel="stylesheet" href="/wcsstore/MadisonsStorefrontAssetStore/css/commonie8.css" type="text/css"/><![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/wcsstore/dojo131/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/wcsstore/dojo15/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
 <!-- BEGIN CommonJSToInclude.jspf -->
 <meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=2.0;">
+<meta name="CommerceSearch" content="storeId_10154">
 
 <script type="text/javascript">
 var absoluteURL = "http://www.hhgregg.com/webapp/wcs/stores/servlet/";
@@ -22,9 +27,9 @@ var imageDirectoryPath = "/wcsstore/MadisonsStorefrontAssetStore/";
 var styleDirectoryPath = "images/colors/color1/";
 var supportPaymentTypePromotions = false;
 
-var subsFulfillmentFrequencyAttrName = "";
-var subsPaymentFrequencyAttrName = "";
-var subsTimePeriodAttrName = "";
+var subsFulfillmentFrequencyAttrName = "fulfillmentFrequency";
+var subsPaymentFrequencyAttrName = "paymentFrequency";
+var subsTimePeriodAttrName = "timePeriod";
 
 //Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
 //Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
@@ -68,6 +73,7 @@ function getStyleDirectoryPath()
 }
 </script>
 
+
 <script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/ServicesEventMapping.js"></script>
 <script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/CommonContextsDeclarations.js"></script>
 <script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/CommonControllersDeclaration.js"></script>
@@ -80,6 +86,9 @@ function getStyleDirectoryPath()
 		CommonContextsJS.setCommonParameters('-1','10154','10051');
 		CommonControllersDeclarationJS.setCommonParameters('-1','10154','10051');
 		CommonControllersDeclarationJS.setControllerURL('MiniShoppingCartController', getAbsoluteURL()+'AjaxQuickCartDisplay?storeId=10154&catalogId=10051&langId=-1');
+		CommonControllersDeclarationJS.setControllerURL('HeaderLinksDisplayController', getAbsoluteURL()+'AjaxHeaderLinksDisplay?storeId=10154&catalogId=10051&langId=-1');
+		CommonControllersDeclarationJS.setControllerURL('CheckAvailabilityDisplayController', getAbsoluteURL()+'AjaxCheckAvailabilityDisplay?storeId=10154&catalogId=10051&langId=-1');
+		CommonControllersDeclarationJS.setControllerURL('CheckAvailabilityDisplayController_modal', getAbsoluteURL()+'AjaxCheckAvailabilityDisplay?storeId=10154&catalogId=10051&langId=-1');
 	});
 </script>
 
@@ -135,76 +144,230 @@ function getStyleDirectoryPath()
 <!-- END StoreCommonUtilities.jspf --> 
 	<div id="page">
 	   	<!-- Header Nav Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN HeaderDisplay.jspf --><!-- BEGIN CachedHeaderDisplay.jsp -->
-									
+                  
 <script type="text/javascript">
-	dojo.addOnLoad(function() {
-	
-			showHeaderLinksInTwoLines();
-		
-		parseWidget("outerCartContainer");	
-	});
-	
-	var storeId = '10154';
-	var langId = '-1';
-	var catalogId = '10051';
-	
-	var isAuthenticated=false;
-	
+  dojo.addOnLoad(function() {
+    if('true' == "true"){
+      showHeaderLinksInTwoLines();
+    }else{
+      showLinksInOneLine();
+    }
+    parseWidget("outerCartContainer");  
+  });
+  
+  var storeId = '10154';
+  var langId = '-1';
+  var catalogId = '10051';
+  
+  var isAuthenticated=false;
+  
 
-	if('true' == "true") { var showProductCompare = false; }
-	else { var showProductCompare = true; }
+  if('' == "true")
+    var showProductCompare = false;
+  else
+    var showProductCompare = true;
 
-	dojo.addOnLoad(initShopcartTarget);
-	dojo.addOnLoad(SetupNavHover);
-	
-	
+  dojo.addOnLoad(initShopcartTarget);
+  dojo.addOnLoad(SetupNavHover);
+  
 </script>
+<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/jquery/jquery-1.3.2.js"></script> 
 
 
+    <script type="text/javascript">
+    var requiresReloadOnLogin = true;
+    </script>
+  
 <script language="JavaScript" src="https://seal.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script> 
 
 
-	
-		<div class="top-espot">
-			<!-- BEGIN ContentAreaESpot.jsp -->
+  <script type="text/javascript">
+    dojo.addOnLoad(function() {
+      dojo.require("dojo.parser");
+      dojo.require("dojo.data.ItemFileWriteStore");     
+      parseWidget("header-search");
+      parseWidget("HeaderLinksDisplay");
+    });
+  </script>
+  
 
-<div class="genericESpot" id="WC_ContentAreaESpot_div_1_HOMEPAGE_HEADER_ESPOT1">
-    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_HOMEPAGE_HEADER_ESPOT1">[HOMEPAGE_HEADER_ESPOT1]</div-->
-    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_HOMEPAGE_HEADER_ESPOT1"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_HOMEPAGE_HEADER_ESPOT1'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
-
-            <div class="ad" id="ad_HOMEPAGE_HEADER_ESPOT1">
-        <table width="727" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><a href="/deals?intcmp=leaderBoard-landingPage-mothersDay"><img src="http://hhgregg.scene7.com/is/image/hhgregg/050912_051112_leaderboard?scl=1&amp;qlt=100" width="727" height="88" border="0"></a></td>
-  </tr>
-</tbody></table>
-
-            </div>
+<div id="header">
+  <div id="header_logo">
+    <a href="/" id="WC_CachedHeaderDisplay_logo">
+      <img class="LogoImage" src="http://hhgregg.scene7.com/is/image/hhgregg/hhgregg_logo_237x74?$logo_237_74$" width="237" height="74" title="www.hhgregg.com" alt="www.hhgregg.com">
+    </a>
+    
+    
+  </div>
+  
+  
+    
+  <div id="header_links" class="" style="visibility: visible;">
+    <div id="header_toprow">
+       
+      <a href="/" class="h_tnav_but" id="headerHome">home</a>
+      
+      
+        <a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10154" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_4a">store locator</a>
+      
+      
+      <script type="text/javascript">
+        function weeklyAdClick()
+        {
+          s.linkTrackVars='events';
+          s.linkTrackEvents='event47';
+          s.events='event47';
+          s.tl(this, 'o', 'weekly ad click');
+          csSalesStageCode = 'Closed/Won';
+      csOrderType = 'Weekly Ad View';
+      csOrderNum = 'WAV-' + new Date().getTime();
+        passClearSaleingTrackingData();
+          window.setTimeout("goToWeeklyAdPage()",1000);
+        }
+        function goToWeeklyAdPage()
+        {
+          window.location.href = "/content/article/weeklyad";
+        }
+      </script>
+      
+      <a href="javascript:weeklyAdClick();" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_4a">weekly ad</a>
+      <a href="/content/article/article_hhgregg_credit_card" class="h_tnav" id="WC_CachedHeaderDisplay_Link_4a">h.h. gregg credit card</a>
+      <a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/DailyDealView?catalogId=10051&amp;langId=-1&amp;storeId=10154" class="h_tnav_but" id="headerDeals">deals</a>
         
+    </div>
+    <!-- BEGIN CatalogSearchForm.jsp -->
+  <form name="CatalogSearchForm" action="http://www.hhgregg.com/webapp/wcs/stores/servlet/SearchDisplay?" method="get" id="CatalogSearchForm">
+    <input type="hidden" name="storeId" value="10154" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
+    <input type="hidden" name="catalogId" value="10051" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
+    <input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
+    <input type="hidden" name="pageSize" value="12" id="WC_CachedHeaderDisplay_FormInput_pageSize_In_CatalogSearchForm_1">
+    <input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
+    <input type="hidden" name="searchSource" value="Q" id="WC_CachedHeaderDisplay_FormInput_searchSource_In_CatalogSearchForm_1">
+    <input type="hidden" name="sType" value="SimpleSearch" id="WC_CachedHeaderDisplay_FormInput_sType_In_CatalogSearchForm_1">
+    <input type="hidden" name="resultCatEntryType" value="2" id="WC_CachedHeaderDisplay_FormInput_resultType_In_CatalogSearchForm_1">
+    <input type="hidden" name="showResultsPage" value="true" id="WC_CachedHeaderDisplay_input_1">
+    <input type="hidden" name="pageView" value="image" id="WC_CachedHeaderDisplay_input_2">
+    
+    <label for="SimpleSearchForm_SearchTerm" class="nodisplay">search for a product or item #</label>
+    
+    <div id="header-search">
+      <span id="searchTextHolder" class="nodisplay">search for a product or item #</span>
+      
+		<meta name="CommerceSearch" content="storeId_10154">
+		
 
+        <input type="text" accesskey="0" size="18" class="search-txt" name="searchTerm" id="SimpleSearchForm_SearchTerm" value="search for a product or item #" onfocus="JavaScript:retrieveCachedSuggestions('/webapp/wcs/stores/servlet/CachedSuggestionsView?langId=-1&amp;storeId=10154&amp;catalogId=10051'); clearSearchField();" onblur="fillSearchField();" onkeyup="doAutoSuggest(event, &quot;/webapp/wcs/stores/servlet/AutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2fwww.hhgregg.com%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&quot;, this.value);" onkeypress="return event.keyCode!=13;" autocomplete="off" maxlength="65" role="combobox" tabindex="0">
 
+        <div id="autoSuggest_Container">
+          <div id="autoSuggest_Result_div" class="autoSuggestBox" onmouseover="autoSuggestHover = true;" onmouseout="autoSuggestHover = false; document.getElementById('SimpleSearchForm_SearchTerm').focus();" style="display:none;">
+            <div class="autoSuggest_wrapper">
+              <div class="search_left_border"></div>
+              <div id="autoSuggest_content_div" class="autoSuggest_content">
+                <div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestDynamic_Result_div" controllerid="AutoSuggestDisplayController" id="autoSuggestDynamic_Result_div" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" dir="ltr" title="" class="dijitContentPane">
+                </div>
+                <div id="autoSuggestStatic_1"></div>
+                <div id="autoSuggestStatic_2"></div>
+                <div id="autoSuggestStatic_3"></div>
+                <div id="autoSuggestHistory"></div>
+                <div class="view_all_results" style="display:none;">
+                  <span class="right">
+                    <a href="#" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value); if(document.CatalogSearchForm.searchTerm.value.length > 0) {submitSpecifiedForm(document.CatalogSearchForm);} return false;">View All</a>
+                  </span>
+                </div>
+              </div>
+              <div class="search_right_border"></div>
+              <div class="autoSuggest_bottom">
+                <div class="bottom_left_shadow"></div>
+                <div class="middle_shadow"></div>
+                <div class="bottom_right_shadow"></div>
+                <div class="clear_float"></div>
+              </div>
+            </div>
+          </div>
+          <!--[if lte IE 6.5]><iframe id="autoSuggestDropDownIFrame" scrolling="no" frameborder="0" src="/wcsstore/MadisonsStorefrontAssetStore/images/empty.gif"></iframe><![endif]-->
+        </div>
+        <script type="text/javascript">
+
+          // The primary Array to hold all static search suggestions
+          var staticContent = new Array();
+
+          // The titles of each search grouping
+          var staticContentHeaders = new Array();
+          var staticContentHeaderHistory = "Search History"
+
+          // The auto suggest container ID's
+          var staticContentSectionDiv = ["autoSuggestStatic_1", "autoSuggestStatic_2", "autoSuggestStatic_3"];
+        </script>
+          
+        <div dojotype="wc.widget.RefreshArea" widgetid="autoSuggestCachedSuggestions_div" controllerid="AutoSuggestCachedSuggestionsController" id="autoSuggestCachedSuggestions_div" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" style="display: none;" dir="ltr" title="" class="dijitContentPane">
+        </div>
+      
+      
+      <div id="searchDiv" class="search-btn">
+        <a id="WC_CachedHeaderDisplay_button_1" href="#" value="search for a product or item #" onclick="submitSearch();">
+         </a>
+      </div>
+    </div>
+
+  </form>
+<!-- END CatalogSearchForm.jsp -->
+    <div dojotype="wc.widget.RefreshArea" id="HeaderLinksDisplay" widgetid="HeaderLinksDisplay" controllerid="HeaderLinksDisplayController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" title="" class="dijitContentPane">
+      
+
+    <div id="header_bottomrow">
+      
+        <p><b>Welcome</b></p>
+        <span>Please</span> <a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&amp;catalogId=10051&amp;myAcctMain=&amp;langId=-1&amp;storeId=10154" class="h_tnav_but" id="createAccount">create an account</a>
+        <span>or</span>
+        <a href="javascript:toggleHeaderLoginModal()" class="h_tnav_but">sign in</a>
+        
+    </div>
+    </div>
+  <script type="text/javascript">
+     var modalDisplay = false;
+     
+     function toggleHeaderLoginModal() {
+        if(!modalDisplay){
+          dojo.query("#headerLoginModal").removeClass("none");
+          modalDisplay = true;
+          if (dojo.isIE) setTimeout(function() { dojo.query('iframe').style('zoom', 1); }, 100);
+        } else {
+          dojo.query("#headerLoginModal").addClass("none");
+          modalDisplay = false;
+        }
+     }
+
+     function closeHeaderLoginModal() {
+       dojo.query("#headerLoginModal").addClass("none");
+       modalDisplay = false;
+     }
+  </script>
+    <div id="headerLoginModal" class="none" style="position:absolute;">
+      <div class="newModal">
+<div class="clearfix left">
+<h2>Sign In</h2>
 </div>
-
-<!-- END ContentAreaESpot.jsp -->			
-
-		</div>
-	
-	
-	<div id="header">
-		<div id="header_logo">
-		<a href="/" id="WC_CachedHeaderDisplay_logo">
-			<img class="LogoImage" src="http://hhgregg.scene7.com/is/image/hhgregg/hhgregg_logo_237x74?$logo_237_74$" width="237" height="74">
-		</a>
-		
-		</div>
-		
-		
-			<div id="outerCartContainer">
-				<div dojotype="dojo.dnd.Target" jsid="miniShopCart_dndTarget" id="miniShopCart_dndTarget" accept="item, product, package, bundle" class="dojoDndContainer dojoDndTarget">
-					<div id="shopping-cart">
-						<div id="shopcartContainer">
-							<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" onmouseover="showMiniShopCartAfterDelay('placeHolder','quick_cart_container','orderItemsList');" onmouseout="cancelMiniShopCartTimer();" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" title="" class="dijitContentPane">
-								<!-- BEGIN MiniShopCartDisplay.jsp -->
+        <div class="clearfix right">
+          <a class="check_close" href="javascript: toggleHeaderLoginModal();">
+            <span>close (X)</span>
+          </a>
+        </div>
+        
+        
+          <iframe src="http://www.hhgregg.com/webapp/wcs/stores/servlet/HeaderLoginModal?catalogId=10051&amp;langId=-1&amp;storeId=10154" scrolling="no" frameborder="0" id="HeaderLoginModalIframe"></iframe>
+        
+        
+      </div>
+    </div>
+  </div>
+    
+   
+      <div id="outerCartContainer">
+        <div dojotype="dojo.dnd.Target" jsid="miniShopCart_dndTarget" id="miniShopCart_dndTarget" accept="item, product, package, bundle" class="dojoDndContainer dojoDndTarget">
+          <div id="shopping-cart">
+            <div id="shopcartContainer">
+              <div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" onmouseover="showMiniShopCartAfterDelay('placeHolder','quick_cart_container','orderItemsList');" onmouseout="cancelMiniShopCartTimer();" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" dir="ltr" title="" class="dijitContentPane">
+                <!-- BEGIN MiniShopCartDisplay.jsp -->
 
 <script type="text/javascript">
    function removeFromCart(orderItemId) {
@@ -233,45 +396,50 @@ function getStyleDirectoryPath()
    var orderBillingURL;
    
    function closeModal() {
-   		dojo.byId("MiniShopCartInstallKit").style.display = "none";
-   		document.location.href = orderBillingURL;
+      dojo.byId("MiniShopCartInstallKit").style.display = "none";
+      document.location.href = orderBillingURL;
    }
    function setOrderBillingURL(URL){
-	   orderBillingURL = URL
+     orderBillingURL = URL
    }
    // Install Kit Dojo Modal [HHG-252]
 </script>
-<!-- If we get here from a generic error this service will fail so we need to catch the exception --><!-- omniture tagging variable --><script language="JavaScript1.1" type="text/JavaScript">dojo.connect( wc.render.getRefreshControllerById( "MiniShoppingCartController" ), "postRefreshHandler",function(){addupdateItem();});</script><!-- omniture tagging variable -->
+<!-- If we get here from a generic error this service will fail so we need to catch the exception --><!-- omniture tagging variable --><!-- omniture tagging variable -->
 
-<a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10051&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10154&amp;URL=AjaxOrderItemDisplayView" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay" onkeypress="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');" onclick="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');">
-		<span id="miniShopCartBody" class="body">
-			<span class="text strong">
-					 Cart: 0 item(s) subtotal: $0.00
-			</span> 
-		</span>
+<a href="javascript: categoryDisplayJS.orderCalculateProceedToShopCart();" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay" onkeypress="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');" onclick="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');">
+    <span id="miniShopCartBody" class="body">
+      <span class="text strong subtotal">
+          
+           $0.00
+      </span> 
+      <span class="no_items">
+            0 item(s)
+           </span>
+    </span>
 </a>
 
 <!-- Mark the position..will show our dialog here -->
 <div id="placeHolder"></div>
 
-	
+  
 <div id="quick_cart_container">
-	<div id="quick_cart">
-		<div class="container" id="WC_MiniShopCartDisplay_div_1">
-			<!-- Contains 3 div..PlaceHolder div, DropDownContents div and the recently added Product div -->
-			<div id="MiniShopCartProductsList" style="display:none">
-				
-						<div class="list" id="MiniCartFocusReceiver2" tabindex="0" onkeydown="javaScript:determineFocus(event);">
-							Your shopping cart is empty.
-						</div>
-						<div class="footer" id="WC_MiniShopCartDisplay_div_7"></div>
-					
-				<span tabindex="0" onfocus="javaScript: focusSetter();"></span>
-				<span tabindex="0"></span>
-				<div class="cart_shadow" id="WC_MiniShopCartDisplay_div_8"></div>
-			</div>
+  <div id="quick_cart">
+    <div class="container" id="WC_MiniShopCartDisplay_div_1">
+      <!-- Contains 3 div..PlaceHolder div, DropDownContents div and the recently added Product div -->
+      <div id="MiniShopCartProductsList" style="display:none;width:240px;float:right;">
+        
+            <div class="list" id="MiniCartFocusReceiver2" tabindex="0" onkeydown="javaScript:determineFocus(event);">
+              Your shopping cart is empty.
+            </div>
+            <div class="footer" id="WC_MiniShopCartDisplay_div_7"></div>
+          
+        <span tabindex="0" onfocus="javaScript: focusSetter();"></span>
+        <span tabindex="0"></span>
+        <div class="cart_shadow" id="WC_MiniShopCartDisplay_div_8"></div>
+      </div>
 
-			
+      <!-- BEGIN MiniShopCartDisplay.jsp --><!-- If we get here from a generic error this service will fail so we need to catch the exception --><!-- omniture tagging variable --><script language="JavaScript1.1" type="text/JavaScript">dojo.connect( wc.render.getRefreshControllerById( "MiniShoppingCartController" ), "postRefreshHandler",function(){addupdateItem();});</script><!-- omniture tagging variable -->
+	
 			<div id="MiniShopCartProductAdded" style="display:none;">
 				
 			</div>
@@ -279,468 +447,1116 @@ function getStyleDirectoryPath()
 			<div id="DiscountProductAdded" class="modal" style="display:none;">
 				
 			</div>
-			<!--  Install Kit Dojo Modal (HHG-252)-->
-			<div id="MiniShopCartInstallKit" style="display:none;">
-				
-						<div class="list" id="MiniCartFocusReceiver2" tabindex="0" onkeydown="javaScript:determineFocus(event);">
-							Your shopping cart is empty.
-						</div>
-						<div class="footer" id="WC_MiniShopCartDisplay_div_7"></div>
-					
-				<span tabindex="0" onfocus="javaScript: focusSetter();"></span>
-				<span tabindex="0"></span>
-				<div class="cart_shadow" id="WC_MiniShopCartDisplay_div_8"></div>
-			</div>
-			<!--  Install Kit Dojo Modal (HHG-252)-->
-			
-		</div>
-	</div>
-	<!--[if lte IE 6.5]><iframe id="dropDownIFrame" scrolling="no" frameborder="0" src="/wcsstore/MadisonsStorefrontAssetStore/images/empty.gif"></iframe><![endif]-->
-</div>
+
 <input type="hidden" id="omnitureTest" value="|">
 
-	<input type="hidden" id="addtocart" value="scOpen,scAdd">
+  <input type="hidden" id="addtocart" value="scOpen,scAdd">
 
 <input type="hidden" id="omniturePrice" value="">
 <input type="hidden" id="omnitureWarranty" value="">
-<input type="hidden" id="omniturePartnumber" value="">
+<input type="hidden" id="omniturePartnumber" value=""><!--  Install Kit Dojo Modal (HHG-252)-->
+      <div id="MiniShopCartInstallKit" style="display:none;">
+        
+            <div class="list" id="MiniCartFocusReceiver2" tabindex="0" onkeydown="javaScript:determineFocus(event);">
+              Your shopping cart is empty.
+            </div>
+            <div class="footer" id="WC_MiniShopCartDisplay_div_7"></div>
+          
+        <span tabindex="0" onfocus="javaScript: focusSetter();"></span>
+        <span tabindex="0"></span>
+        <div class="cart_shadow" id="WC_MiniShopCartDisplay_div_8"></div>
+      </div>
+      <!--  Install Kit Dojo Modal (HHG-252)-->
+      
+    </div>
+  </div>
+  <!--[if lte IE 6.5]><iframe id="dropDownIFrame" scrolling="no" frameborder="0" src="/wcsstore/MadisonsStorefrontAssetStore/images/empty.gif"></iframe><![endif]-->
+</div>
 <!-- END MiniShopCartDisplay.jsp -->
-							</div>
-							<script type="text/javascript">
-								dojo.addOnLoad(function(){
-									if(dojo.byId('MiniShoppingCart') != null){
-										originalMiniCartWidth = dojo.coords(dojo.byId('MiniShoppingCart'),true).w;
-									}
-	
-									
-										dojo.connect(dojo.byId("SimpleSearchForm_SearchTerm"), "onkeydown", function(evt) {
-											key = evt.keyCode;
-											if(key == dojo.keys.ENTER) {
-												if(document.CatalogSearchForm.searchTerm.value.length > 0) {
-													document.CatalogSearchForm.searchTerm.value = trim(document.CatalogSearchForm.searchTerm.value);
-													document.CatalogSearchForm.action = getAbsoluteURL()+ '';
-													submitSpecifiedForm(document.CatalogSearchForm);
-												}
-											}
-										});
-									
-								});
-							</script>
-						</div>
-					</div>
-				</div>
-			</div>
-		
-		<div id="header_links" class="" style="visibility: visible;">
-			<div id="header_toprow">
-				
-					<a href="http://www.hhgregg.com/webapp/wcs/stores/servlet//AjaxLogonForm?catalogId=10051&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10154" class="h_tnav_but" id="headerLogin">Sign In/Register</a>
-					<script type="text/javascript">
-						if(dojo.cookie("_om_var") != undefined )
-							dojo.cookie("_om_var",null, { expires: -1 });
-					</script>
-				
-			
-				<script type="text/javascript">
-					function weeklyAdClick()
-					{
-						s.linkTrackVars='events';
-						s.linkTrackEvents='event47';
-						s.events='event47';
-						s.tl(this, 'o', 'weekly ad click');
-						csSalesStageCode = 'Closed/Won';
-				    	csOrderType = 'Weekly Ad View';
-				    	csOrderNum = 'WAV-' + new Date().getTime();
-				    	passClearSaleingTrackingData();
-						window.setTimeout("goToWeeklyAdPage()",1000);
-					}
-					function goToWeeklyAdPage()
-					{
-						window.location.href = "/content/article/weeklyad";
-					}
-				</script>
-				<a href="javascript:weeklyAdClick();" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_4a">Weekly Ad</a>
-				
-			
-				
-					
-					<a href="http://www.hhgregg.com/webapp/wcs/stores/servlet//AjaxStoreLocatorDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10154" class="h_tnav_but" id="WC_CachedHeaderDisplay_Link_4a">Store Locator</a>
-				
-				
-				<a href="/content/article/article_hhgregg_credit_card" class="h_tnav" id="WC_CachedHeaderDisplay_Link_4a">hhgregg Card</a>
-			</div>
-	    
-			
- 	    </div>
-	
-	   
-   <script type="text/javascript">
-      dojo.addOnLoad(function() {
-         dojo.require("dojo.parser");
-         dojo.require("dojox.data.QueryReadStore");
-         dojo.require("dijit.form.ComboBox");
-         dojo.require("dojo.data.ItemFileWriteStore");   
-         parseWidget("header-search");
-         noSearch = dojo.byId("SimpleSearchForm_SearchTerm").value == dojo.byId("searchTextHolder").innerHTML ? true : false;
-         dojo.connect(dojo.byId("SimpleSearchForm_SearchTerm"), 'onkeypress', function(e) {
-            if (e.keyCode == dojo.keys.ENTER) {
-                var searchValue = trim(dojo.byId("SimpleSearchForm_SearchTerm").value);
-                if(searchValue == '' || searchValue == 'enter product or item #'){
-					 ;
-                    } else {
-		               dojo.byId("SimpleSearchForm_SearchTerm").value = trim(dojo.byId("SimpleSearchForm_SearchTerm").value);
-		               submitSearch();
-                    }
-            }
-         });
-         dojo.connect(dijit.byId("SimpleSearchForm_SearchTerm"), "_selectOption", window, "submitSearch");
-      });
-      function submitSearch() {
+              </div>
+              <script type="text/javascript">
+                dojo.addOnLoad(function(){
+                  if(dojo.byId('MiniShoppingCart') != null){
+                    originalMiniCartWidth = dojo.coords(dojo.byId('MiniShoppingCart'),true).w;
+                  }
+  
+                  
+                    dojo.connect(dojo.byId("SimpleSearchForm_SearchTerm"), "onkeydown", function(evt) {
+                      key = evt.keyCode;
+                      if(key == dojo.keys.ENTER) {
+                        if(document.CatalogSearchForm.searchTerm.value.length > 0 && document.CatalogSearchForm.searchTerm.value != 'search for a product or item #') {
+                          document.CatalogSearchForm.searchTerm.value = trim(document.CatalogSearchForm.searchTerm.value);
+                          document.CatalogSearchForm.action = 'http://www.hhgregg.com/webapp/wcs/stores/servlet/SearchDisplay?';
+                          submitSpecifiedForm(document.CatalogSearchForm);
+                        }
+                      }
+                    });
+                  
+                });
+
+function submitSearch() {
          var sValue = trim(document.CatalogSearchForm.searchTerm.value);
-		 if(sValue == '' || sValue == 'enter product or item #'){
-			return false;
-		 }	
+     if(sValue == '' || sValue == 'search for a product or item #'){
+      return false;
+     }  
          fillSearchField();
          if (noSearch) {
             document.CatalogSearchForm.searchTerm.value='';
          }
          else {
-    		sValue = sValue.replace(/\\/g, "");
-    		sValue = sValue.replace(/\//g, " ");
+        sValue = sValue.replace(/\\/g, "");
+        sValue = sValue.replace(/\//g, " ");
             document.CatalogSearchForm.searchTerm.value= sValue;
          }
-         document.CatalogSearchForm.action=getAbsoluteURL()+'SearchDisplay';
+         document.CatalogSearchForm.action='http://www.hhgregg.com/webapp/wcs/stores/servlet/SearchDisplay?';
          submitSpecifiedForm(document.CatalogSearchForm);
       }
-   </script>
-
-   <form name="CatalogSearchForm" action="" method="get" id="CatalogSearchForm">
-      <input type="hidden" name="storeId" value="10154" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
-      <input type="hidden" name="catalogId" value="10051" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
-      <input type="hidden" name="langId" value="-1" id="WC_CachedHeaderDisplay_FormInput_langId_In_CatalogSearchForm_1">
-      <input type="hidden" name="pageSize" value="12" id="WC_CachedHeaderDisplay_FormInput_pageSize_In_CatalogSearchForm_1">
-      <input type="hidden" name="beginIndex" value="0" id="WC_CachedHeaderDisplay_FormInput_beginIndex_In_CatalogSearchForm_1">
-      <input type="hidden" name="orderBy" value="6">
-      <input type="hidden" name="sType" value="SimpleSearch" id="WC_CachedHeaderDisplay_FormInput_sType_In_CatalogSearchForm_1">
-      <input type="hidden" name="resultCatEntryType" value="2" id="WC_CachedHeaderDisplay_FormInput_resultType_In_CatalogSearchForm_1">
-      <input type="hidden" name="showResultsPage" value="true" id="WC_CachedHeaderDisplay_input_1">
-      <input type="hidden" name="pageView" value="" id="WC_CachedHeaderDisplay_input_2">
-      
-         <input type="hidden" name="errorViewName" value="" id="WC_CachedHeaderDisplay_input_errorViewName">
-      
-      <div id="header-search">
-   
-         <div id="searchTextHolder" class="nodisplay">enter product or item #</div>
-         
-         
-            <div dojotype="dojox.data.QueryReadStore" url="http://www.hhgregg.com/webapp/wcs/stores/servlet//AutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3A%2F%2Fwww.hhgregg.com%3A3737%2Fsolr%2FMC_10001_CatalogEntry_en_US" jsid="comboStore" id="comboStore"></div>
-            <div class="dijit dijitReset dijitInlineTable dijitLeft search-txt dijitTextBox" id="widget_SimpleSearchForm_SearchTerm" dojoattachevent="onmouseenter:_onMouse,onmouseleave:_onMouse,onmousedown:_onMouse" dojoattachpoint="comboNode" wairole="combobox" tabindex="-1" role="combobox" widgetid="SimpleSearchForm_SearchTerm"><div style="overflow:hidden;"><div class="dijitReset dijitRight dijitButtonNode dijitArrowButton dijitDownArrowButton" dojoattachpoint="downArrowNode" wairole="presentation" dojoattachevent="onmousedown:_onArrowMouseDown,onmouseup:_onMouse,onmouseenter:_onMouse,onmouseleave:_onMouse" role="presentation"><div class="dijitArrowButtonInner"> </div><div class="dijitArrowButtonChar">▼</div></div><div class="dijitReset dijitValidationIcon"><br></div><div class="dijitReset dijitValidationIconText">Χ</div><div class="dijitReset dijitInputField"><input name="searchTerm" type="text" autocomplete="off" class="dijitReset" dojoattachevent="onkeypress:_onKeyPress,compositionend" dojoattachpoint="textbox,focusNode" wairole="textbox" waistate="haspopup-true,autocomplete-list" role="textbox" aria-haspopup="true" aria-autocomplete="list" maxlength="64" aria-invalid="false" id="SimpleSearchForm_SearchTerm" tabindex="0" value="enter product or item #"></div></div></div>
-         
-         
-         <div id="searchDiv" class="search-btn">
-            <a id="WC_CachedHeaderDisplay_button_1" class="button" href="#" value="enter product or item #" onclick="submitSearch();">
-               <span>Search</span>
-            </a>
-         </div>
+              </script>
+            </div>
+          </div>
+        </div>
       </div>
-   </form>
+     
+</div>
 
 
-	</div>
-	
+  
+  
+  <div id="header_nav">
+    <div id="header_menu_dropdown">
+    
+      <div id="header_menu_loaded">
+        
+            
+            
+            <div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_1">
+              <a href="/tv-entertainment">TV, Audio &amp; Video</a>
+              
+              <div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/tv-entertainment" showalltext="Show All TV, Audio &amp; Video" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_1">
+                <div class="dropdown-inner">
+              
+                  
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/tv-entertainment/tvs" id="WC_CachedHeaderDisplay_links_1_1_1">TV &amp; Home Theater</a></strong>
+                                  <a href="/tv-entertainment/tvs" id="WC_CachedHeaderDisplay_image_1">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="TV &amp; Home Theater" alt="TV &amp; Home Theater">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
 
-	
-	
-	
-	<div id="header_nav">
-		<div id="header_menu_dropdown">
-		
-			<div id="header_menu_loaded">
-				
-						
-						
-						<div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_1">
-							<a href="/tv-entertainment">TV &amp; Entertainment</a>
-							
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/tv-entertainment" showalltext="Show All TV &amp; Entertainment" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_1">
-								<div class="dropdown-inner">
-							
-									
-											    	<div class="top-cat-images">
-											    
-												<div class="cat-image">
-												<a href="/tv-entertainment/tvs" id="WC_CachedHeaderDisplay_image_1">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="TVs">
-													</a>
-													<strong><a href="/tv-entertainment/tvs" id="WC_CachedHeaderDisplay_links_1_1_1">TVs</a></strong>
-												</div>
-												 
-												<div class="cat-image">
-												<a href="/tv-entertainment/blu-ray-dvd" id="WC_CachedHeaderDisplay_image_1">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Blu-ray &amp; DVD">
-													</a>
-													<strong><a href="/tv-entertainment/blu-ray-dvd" id="WC_CachedHeaderDisplay_links_1_1_2">Blu-ray &amp; DVD</a></strong>
-												</div>
-												 
-													<div class="cat-image last">
-													<a href="/tv-entertainment/audio-hometheater" id="WC_CachedHeaderDisplay_image_1">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Audio &amp; Home Theater">
-													</a>
-													<a href="/tv-entertainment/audio-hometheater" id="WC_CachedHeaderDisplay_links_1_1_3"><strong>Audio &amp; Home Theater</strong></a>
-													</div>									
-											    </div> <!-- close top-cat-images -->
-												<div id="subLinks">
-                                					<div id="menuLinks">
-												
-												<!-- onClick="loadLink('/tv-entertainment/videogames');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_4">
-													<span><strong><a href="/tv-entertainment/videogames" id="WC_CachedHeaderDisplay_links_1_1_4">Video Games</a></strong></span>
-												</div>
-												 <!-- onClick="loadLink('/tv-entertainment/tvmounts-stands');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_5">
-													<span><a href="/tv-entertainment/tvmounts-stands" id="WC_CachedHeaderDisplay_links_1_1_5">TV Mounts &amp; Stands</a></span>
-												</div>
-												
-												<!-- onClick="loadLink('/tv-entertainment/tv-entertainment-accessories');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_6">
-													<span><a href="/tv-entertainment/tv-entertainment-accessories" id="WC_CachedHeaderDisplay_links_1_1_6">Accessories</a></span>
-												</div>
-												
-													
-											    	 </div> <!-- close menuLinks -->
-									
-									 <div id="resourceLinks">
-									 	
-										
-									 	<span><strong><a href="/articlelisting/tv-entertainment" id="WC_CachedHeaderDisplay_links_1_100'/>_">Resources</a></strong></span>
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/tv-entertainment/cat/all-flat-panel-tvs" id="WC_CachedHeaderDisplay_links_1_1_1">All Flat Panel TVs</a>
+                                       
+                                      <a href="/tv-entertainment/cat/60in-and-larger-tvs" id="WC_CachedHeaderDisplay_links_1_1_1">60" &amp; Larger TVs</a>
+                                       
+                                      <a href="/tv-entertainment/cat/led" id="WC_CachedHeaderDisplay_links_1_1_1">LED TVs</a>
+                                       
+                                      <a href="/tv-entertainment/cat/smart-tvs-and-devices" id="WC_CachedHeaderDisplay_links_1_1_1">Smart TVs &amp; Devices</a>
+                                       
+                                      <a href="/tv-entertainment/cat/3dtv" id="WC_CachedHeaderDisplay_links_1_1_1">3D TVs</a>
+                                       
+                                      <a href="/tv-entertainment/cat/plasma" id="WC_CachedHeaderDisplay_links_1_1_1">Plasma TVs</a>
+                                       
+                                      <a href="/tv-entertainment/cat/lcd" id="WC_CachedHeaderDisplay_links_1_1_1">LCD TVs</a>
+                                       
+                                      <a href="/tv-entertainment/cat/projectors-screens" id="WC_CachedHeaderDisplay_links_1_1_1">Projectors &amp; Screens</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/tv-entertainment/cat/tv-package-deals" id="WC_CachedHeaderDisplay_links_1_1_1">TV Package Deals</a>
+                                       
+                                      <a href="/tv-entertainment/cat/tv-dvdcombo" id="WC_CachedHeaderDisplay_links_1_1_1">TV/DVD Combos</a>
+                                       
+                                      <a href="/tv-entertainment/cat/rearprojectiondlp" id="WC_CachedHeaderDisplay_links_1_1_1">DLP TVs</a>
+                                       
+                                      <a href="/tv-entertainment/cat/home-theater-systems" id="WC_CachedHeaderDisplay_links_1_1_1">Home Theater Systems</a>
+                                       
+                                      <a href="/tv-entertainment/cat/blu-ray-dvds" id="WC_CachedHeaderDisplay_links_1_1_1">Blu-ray &amp; DVD Players</a>
+                                       
+                                      <a href="/tv-entertainment/cat/streaming-devices" id="WC_CachedHeaderDisplay_links_1_1_1">Streaming Media Devices</a>
+                                       
+                                      <a href="/tv-entertainment/cat/video-games" id="WC_CachedHeaderDisplay_links_1_1_1">Video Games</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[tv_entertainment_COLUMN_1_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_tv_entertainment_COLUMN_1_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_tv_entertainment_COLUMN_1_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/tv-entertainment/audio-hometheater" id="WC_CachedHeaderDisplay_links_1_1_2">Home &amp; Portable Audio</a></strong>
+                                  <a href="/tv-entertainment/audio-hometheater" id="WC_CachedHeaderDisplay_image_1">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="Home &amp; Portable Audio" alt="Home &amp; Portable Audio">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
+
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/tv-entertainment/cat/hometheatersystems" id="WC_CachedHeaderDisplay_links_1_1_2">Home Theater Systems</a>
+                                       
+                                      <a href="/tv-entertainment/cat/soundbars" id="WC_CachedHeaderDisplay_links_1_1_2">Soundbars</a>
+                                       
+                                      <a href="/tv-entertainment/cat/receivers" id="WC_CachedHeaderDisplay_links_1_1_2">Receivers</a>
+                                       
+                                      <a href="/tv-entertainment/cat/speakers" id="WC_CachedHeaderDisplay_links_1_1_2">Speakers</a>
+                                       
+                                      <a href="/tv-entertainment/cat/subwoofers" id="WC_CachedHeaderDisplay_links_1_1_2">Subwoofers</a>
+                                       
+                                      <a href="/tv-entertainment/cat/boomboxes" id="WC_CachedHeaderDisplay_links_1_1_2">Boomboxes</a>
+                                       
+                                      <a href="/tv-entertainment/cat/desktop-stereos" id="WC_CachedHeaderDisplay_links_1_1_2">Stereo Music Systems</a>
+                                       
+                                      <a href="/tv-entertainment/cat/turntables" id="WC_CachedHeaderDisplay_links_1_1_2">Turntables</a>
+                                       
+                                      <a href="/tv-entertainment/cat/musical-instruments" id="WC_CachedHeaderDisplay_links_1_1_2">Musical Instruments</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/tv-entertainment/cat/wireless-audio" id="WC_CachedHeaderDisplay_links_1_1_2">Wireless Audio</a>
+                                       
+                                      <a href="/tv-entertainment/cat/headphones" id="WC_CachedHeaderDisplay_links_1_1_2">Headphones</a>
+                                       
+                                      <a href="/tv-entertainment/cat/ipod-1" id="WC_CachedHeaderDisplay_links_1_1_2">iPods &amp; Docks</a>
+                                       
+                                      <a href="/tv-entertainment/cat/mp3players-1" id="WC_CachedHeaderDisplay_links_1_1_2">MP3 Players</a>
+                                       
+                                      <a href="/tv-entertainment/cat/audio-ipoddock-1" id="WC_CachedHeaderDisplay_links_1_1_2">Docking Systems</a>
+                                       
+                                      <a href="/tv-entertainment/cat/cd-players" id="WC_CachedHeaderDisplay_links_1_1_2">CD Players</a>
+                                       
+                                      <a href="/tv-entertainment/cat/personal-radios" id="WC_CachedHeaderDisplay_links_1_1_2">Personal Radios</a>
+                                       
+                                      <a href="/tv-entertainment/cat/clock-radios" id="WC_CachedHeaderDisplay_links_1_1_2">Clock Radios</a>
+                                       
+                                      <a href="/tv-entertainment/cat/two-way-radios" id="WC_CachedHeaderDisplay_links_1_1_2">Two-Way Radios</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[tv_entertainment_COLUMN_2_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_tv_entertainment_COLUMN_2_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_tv_entertainment_COLUMN_2_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                             <div class="CategoryBoxOther column3">
+                        
+                             <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31602">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31602">[tv_entertainment_COLUMN_3_HEADER_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_tv_entertainment_COLUMN_3_HEADER_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_tv_entertainment_COLUMN_3_HEADER_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_tv_entertainment_COLUMN_3_HEADER_ESPOT">
+        Audio/Video Accessories
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+                                <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/tv_entertainment_top_nav_other?$topnav_lg$" width="140" height="140" title="" alt="">
+                             <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_3">
+                                <span><a href="/tv-entertainment/mounts-bracket" id="WC_CachedHeaderDisplay_links_1_1_3">Mounts &amp; Brackets</a></span>
+                              </div>       
+                        <!-- onClick="loadLink('/tv-entertainment/tv-and-audio-stands');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_4">
+                                <span><a href="/tv-entertainment/tv-and-audio-stands" id="WC_CachedHeaderDisplay_links_1_1_4">TV &amp; Audio Stands</a></span>
+                              </div>
                               
-                              			<div dojotype="dijit.MenuItem"><span><a href="/content/article/article_hdtv">What is HDTV?</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_sonos">Introducing SONOS Music Systems</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_3d_technology">3D Technology: Is It Here to Stay?</a></span></div>
-	
-									 </div> <!-- End: resource links -->
-											 </div>  <!-- End: subLinks -->
-								</div>  <!-- End: DropDown Inner -->
-							</div>  <!--%-- End: Widget Menu Content ---->
-						</div>	<!-- End: DropDownMenu Content -->
-						
-						
-						<div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_2">
-							<a href="/appliances-home">Appliances &amp; Home</a>
-							
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/appliances-home" showalltext="Show All Appliances &amp; Home" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_2">
-								<div class="dropdown-inner">
-							
-									
-											    	<div class="top-cat-images">
-											    
-												<div class="cat-image">
-												<a href="/appliances-home/kitchenappliances" id="WC_CachedHeaderDisplay_image_2">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Kitchen Appliances">
-													</a>
-													<strong><a href="/appliances-home/kitchenappliances" id="WC_CachedHeaderDisplay_links_1_2_1">Kitchen Appliances</a></strong>
-												</div>
-												 
-												<div class="cat-image">
-												<a href="/appliances-home/laundry" id="WC_CachedHeaderDisplay_image_2">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Laundry">
-													</a>
-													<strong><a href="/appliances-home/laundry" id="WC_CachedHeaderDisplay_links_1_2_2">Laundry</a></strong>
-												</div>
-												 
-													<div class="cat-image last">
-													<a href="/appliances-home/mattresses-bedding" id="WC_CachedHeaderDisplay_image_2">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Mattresses &amp; Bedding">
-													</a>
-													<a href="/appliances-home/mattresses-bedding" id="WC_CachedHeaderDisplay_links_1_2_3"><strong>Mattresses &amp; Bedding</strong></a>
-													</div>									
-											    </div> <!-- close top-cat-images -->
-												<div id="subLinks">
-                                					<div id="menuLinks">
-												
-												<!-- onClick="loadLink('/appliances-home/vacuums-floorcare');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_4">
-													<span><strong><a href="/appliances-home/vacuums-floorcare" id="WC_CachedHeaderDisplay_links_1_2_4">Vacuums &amp; Floor Care</a></strong></span>
-												</div>
-												 <!-- onClick="loadLink('/appliances-home/indoor-outdoor');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_5">
-													<span><a href="/appliances-home/indoor-outdoor" id="WC_CachedHeaderDisplay_links_1_2_5">Indoor/Outdoor</a></span>
-												</div>
-												
-													
-											    	 </div> <!-- close menuLinks -->
-									
-									 <div id="resourceLinks">
-									 	
-										
-									 	<span><strong><a href="/articlelisting/appliances-home" id="WC_CachedHeaderDisplay_links_1_100'/>_">Resources</a></strong></span>
+                      <!-- onClick="loadLink('http://www.hhgregg.com/tv-entertainment/cat/headphones');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_5">
+                                <span><a href="http://www.hhgregg.com/tv-entertainment/cat/headphones" id="WC_CachedHeaderDisplay_links_1_1_5">Headphones</a></span>
+                              </div>
                               
-                              			<div dojotype="dijit.MenuItem"><span><a href="/content/article/article_smart_fridge">What is a Smart Fridge?</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_vibration">Frigidaire's Vibration Control System</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_fridge_alarms">Learn about Refrigerator Alarms</a></span></div>
-	
-									 </div> <!-- End: resource links -->
-											 </div>  <!-- End: subLinks -->
-								</div>  <!-- End: DropDown Inner -->
-							</div>  <!--%-- End: Widget Menu Content ---->
-						</div>	<!-- End: DropDownMenu Content -->
-						
-						
-						<div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_3">
-							<a href="/computers-mobile">Computers &amp; Mobile</a>
-							
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/computers-mobile" showalltext="Show All Computers &amp; Mobile" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_3">
-								<div class="dropdown-inner">
-							
-									
-											    	<div class="top-cat-images">
-											    
-												<div class="cat-image">
-												<a href="/computers-mobile/computers" id="WC_CachedHeaderDisplay_image_3">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Computers">
-													</a>
-													<strong><a href="/computers-mobile/computers" id="WC_CachedHeaderDisplay_links_1_3_1">Computers</a></strong>
-												</div>
-												 
-												<div class="cat-image">
-												<a href="/computers-mobile/gps" id="WC_CachedHeaderDisplay_image_3">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="GPS">
-													</a>
-													<strong><a href="/computers-mobile/gps" id="WC_CachedHeaderDisplay_links_1_3_2">GPS</a></strong>
-												</div>
-												 
-													<div class="cat-image last">
-													<a href="/computers-mobile/ipod-mp3" id="WC_CachedHeaderDisplay_image_3">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="MP3">
-													</a>
-													<a href="/computers-mobile/ipod-mp3" id="WC_CachedHeaderDisplay_links_1_3_3"><strong>MP3</strong></a>
-													</div>									
-											    </div> <!-- close top-cat-images -->
-												<div id="subLinks">
-                                					<div id="menuLinks">
-												
-												<!-- onClick="loadLink('/computers-mobile/carelectronics');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_4">
-													<span><strong><a href="/computers-mobile/carelectronics" id="WC_CachedHeaderDisplay_links_1_3_4">Car Electronics</a></strong></span>
-												</div>
-												 <!-- onClick="loadLink('http://wireless.hhgregg.com');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_5">
-													<span><a href="http://wireless.hhgregg.com" id="WC_CachedHeaderDisplay_links_1_3_5">Verizon Wireless</a></span>
-												</div>
-												
-												<!-- onClick="loadLink('/computers-mobile/telephones');" -->
-												<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_6">
-													<span><a href="/computers-mobile/telephones" id="WC_CachedHeaderDisplay_links_1_3_6">Telephones</a></span>
-												</div>
-												
-													
-											    	 </div> <!-- close menuLinks -->
-									
-									 <div id="resourceLinks">
-									 	
-										
-									 	<span><strong><a href="/articlelisting/computers-mobile" id="WC_CachedHeaderDisplay_links_1_100'/>_">Resources</a></strong></span>
+                      <!-- onClick="loadLink('/tv-entertainment/cat/remote-controls');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_6">
+                                <span><a href="/tv-entertainment/cat/remote-controls" id="WC_CachedHeaderDisplay_links_1_1_6">Remote Controls</a></span>
+                              </div>
                               
-                              			<div dojotype="dijit.MenuItem"><span><a href="/content/article/article_amd">Advantages of AMD Technology</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_desktop_viable_solution">Is the Desktop a Viable Solution?</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_android_ice_cream_sandwich">Android 4.0 Ice Cream Sandwich</a></span></div>
-	
-									 </div> <!-- End: resource links -->
-											 </div>  <!-- End: subLinks -->
-								</div>  <!-- End: DropDown Inner -->
-							</div>  <!--%-- End: Widget Menu Content ---->
-						</div>	<!-- End: DropDownMenu Content -->
-						
-						
-						<div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_4">
-							<a href="/cameras-camcorders">Cameras &amp; Camcorders</a>
-							
-							<div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/cameras-camcorders" showalltext="Show All Cameras &amp; Camcorders" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_4">
-								<div class="dropdown-inner">
-							
-									
-											    	<div class="top-cat-images">
-											    
-												<div class="cat-image">
-												<a href="/cameras-camcorders/cameras" id="WC_CachedHeaderDisplay_image_4">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Cameras">
-													</a>
-													<strong><a href="/cameras-camcorders/cameras" id="WC_CachedHeaderDisplay_links_1_4_1">Cameras</a></strong>
-												</div>
-												 
-												<div class="cat-image">
-												<a href="/cameras-camcorders/camcorders" id="WC_CachedHeaderDisplay_image_4">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Camcorders">
-													</a>
-													<strong><a href="/cameras-camcorders/camcorders" id="WC_CachedHeaderDisplay_links_1_4_2">Camcorders</a></strong>
-												</div>
-												 
-													<div class="cat-image last">
-													<a href="/cameras-camcorders/memorycards" id="WC_CachedHeaderDisplay_image_4">
-														<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="Memory Cards">
-													</a>
-													<a href="/cameras-camcorders/memorycards" id="WC_CachedHeaderDisplay_links_1_4_3"><strong>Memory Cards</strong></a>
-													</div>									
-											    </div> <!-- close top-cat-images -->
-									
-									 <div id="resourceLinks">
-									 	
-										
-									 	<span><strong><a href="/articlelisting/cameras-camcorders" id="WC_CachedHeaderDisplay_links_1_100'/>_">Resources</a></strong></span>
+                      <!-- onClick="loadLink('/tv-entertainment/cat/surge-protection');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_7">
+                                <span><a href="/tv-entertainment/cat/surge-protection" id="WC_CachedHeaderDisplay_links_1_1_7">Surge Protectors</a></span>
+                              </div>
                               
-                              			<div dojotype="dijit.MenuItem"><span><a href="/content/article/article_nikon_j1white">The Nikon 1 J1 White Digital Camera</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_dslr_point_and_shoot">Differences between DSLR &amp; Point-and-Shoot</a></span></div><div dojotype="dijit.MenuItem"><span><a href="/content/article/article_sony_handycam">The 16GB Sony Camcorder</a></span></div>
-	
-									 </div> <!-- End: resource links -->
-								</div>  <!-- End: DropDown Inner -->
-							</div>  <!--%-- End: Widget Menu Content ---->
-						</div>	<!-- End: DropDownMenu Content --><!-- Add services top category -->
-					
-					<div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_5">
-						<a href="/articlelisting/services">Services</a>
-					
-						<!-- Start: DropDownMenu Content -->
-						<div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="Services" showalltext="Show All Services" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_5">
-				
-					      
-								
-								<div class="dropdown-inner">
-									 	
-												    	<div class="top-cat-images">
-												    
-													<div class="cat-image">											
-														
-														
-														<a href="/content/article/article_premium_service_plans" id="WC_CachedHeaderDisplay_image_">
-																<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="">														
-															</a>
-															<strong><a href="/content/article/article_premium_service_plans" id="WC_CachedHeaderDisplay_links_1_5_1">Premium Service Plans</a></strong>
-													</div> <!-- close cat-images 1 -->
-													<div class="cat-image">											
-														
-														
-														<a href="/content/article/article_delivery" id="WC_CachedHeaderDisplay_image_">
-																<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="">														
-															</a>
-															<strong><a href="/content/article/article_delivery" id="WC_CachedHeaderDisplay_links_1_5_2">Delivery</a></strong>
-													</div> <!-- close cat-images 1 -->
-														<div class="cat-image last">
-														
-														<a href="/content/article/article_installation" id="WC_CachedHeaderDisplay_image_">
-															<img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav$';" width="121" height="121" title="" alt="">
-														</a>
-														<a href="/content/article/article_installation" id="WC_CachedHeaderDisplay_links_1_5_3"><strong>Installation</strong></a>
-														</div> <!-- close cat-images 2 -->									
-												    </div> <!-- close top-cat-images 2-->
-													<div id="subLinks">
-		                               					<div id="menuLinks">
-													
-													<!-- onClick="loadLink('/cameras-camcorders/memorycards');" -->
-													<div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4__4">
-														<span><a href="/content/article/article_rewards" id="WC_CachedHeaderDisplay_links_1_5_4">hhgregg rewards</a></span>
-													</div> <!-- dijit.MenuItem 1-->	
-												    	 </div> <!-- close menuLinks 1-->
-											</div> <!-- End sublinks -->
-							 	</div> <!-- End: dropdown-inner-->
-						 </div>  <!--wc.widget.WCMenu-->
-					</div> <!--wc.widget.WCDropDownButton-->
-				
-			</div> <!-- End: header_nav -->
-		</div> <!-- End: header_menu_dropdown -->
-	</div> <!-- End: header_menu_loaded--><!-- END CachedHeaderDisplay.jsp -->
+                      <!-- onClick="loadLink('/tv-entertainment/cat/hdmi-cables');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_8">
+                                <span><a href="/tv-entertainment/cat/hdmi-cables" id="WC_CachedHeaderDisplay_links_1_1_8">HDMI Cables</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/tv-entertainment/cat/audio-and-video-cables');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_9">
+                                <span><a href="/tv-entertainment/cat/audio-and-video-cables" id="WC_CachedHeaderDisplay_links_1_1_9">Audio &amp; Video Cables</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/tv-entertainment/tv-entertainment-accessories');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_1_10">
+                                <span><a href="/tv-entertainment/tv-entertainment-accessories" id="WC_CachedHeaderDisplay_links_1_1_10">All Accessories</a></span>
+                              </div>
+                              
+                      
+                  <div class="see_all">
+                  <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[tv_entertainment_COLUMN_3_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_tv_entertainment_COLUMN_3_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_tv_entertainment_COLUMN_3_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                  
+                      </div>
+                  
+                        </div>
+                  
+
+                  <div class="CategoryBoxOther">
+                   
+                    <div id="resourceLinks"><span><strong><a href="http://www.hhgregg.com/productfinder/tv">Product Finders</a></strong></span><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/tv">TVs</a></span></div><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/mount">Mounts</a></span></div></div><!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31605">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31605">[TOPNAV_tv_entertainment_ESPOT1]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_TOPNAV_tv_entertainment_ESPOT1"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_TOPNAV_tv_entertainment_ESPOT1'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_TOPNAV_tv_entertainment_ESPOT1">
+        <a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/SearchDisplay?searchTermScope=&amp;searchType=10&amp;filterTerm=&amp;orderBy=7&amp;maxPrice=&amp;showResultsPage=true&amp;langId=-1&amp;beginIndex=0&amp;sType=SimpleSearch&amp;metaData=&amp;pageSize=12&amp;manufacturer=&amp;resultCatEntryType=&amp;catalogId=10051&amp;pageView=image&amp;searchTerm=&amp;minPrice=&amp;categoryId=10583&amp;storeId=10154"><img src="https://hhgregg.scene7.com/is/image/hhgregg/topnav_3colum_led?scl=1&amp;qlt=100" width="191" height="105" border="0"></a>
+
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                       
+                      
+                           
+                  </div>
+                  
+                   
+                </div>  <!-- End: DropDown Inner -->
+              </div>  <!-- End: Widget Menu Content -->
+            </div>  <!-- End: DropDownMenu Content -->
+            
+            
+            <div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_2">
+              <a href="/appliances-home">Appliances &amp; Home</a>
+              
+              <div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/appliances-home" showalltext="Show All Appliances &amp; Home" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_2">
+                <div class="dropdown-inner">
+              
+                  
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/appliances-home/kitchenappliances" id="WC_CachedHeaderDisplay_links_1_2_1">Kitchen Appliances</a></strong>
+                                  <a href="/appliances-home/kitchenappliances" id="WC_CachedHeaderDisplay_image_2">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="Kitchen Appliances" alt="Kitchen Appliances">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
+
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/appliances-home/cat/refrigerators" id="WC_CachedHeaderDisplay_links_1_2_1">Refrigerators</a>
+                                       
+                                      <a href="/appliances-home/cat/dishwashers" id="WC_CachedHeaderDisplay_links_1_2_1">Dishwashers</a>
+                                       
+                                      <a href="/appliances-home/cat/ranges-ovens" id="WC_CachedHeaderDisplay_links_1_2_1">Ranges</a>
+                                       
+                                      <a href="/appliances-home/cat/wall-ovens" id="WC_CachedHeaderDisplay_links_1_2_1">Wall Ovens</a>
+                                       
+                                      <a href="/appliances-home/cat/cooktops-hoods" id="WC_CachedHeaderDisplay_links_1_2_1">Cooktops</a>
+                                       
+                                      <a href="/appliances-home/cat/hoods" id="WC_CachedHeaderDisplay_links_1_2_1">Range Hoods</a>
+                                       
+                                      <a href="/appliances-home/cat/microwaves" id="WC_CachedHeaderDisplay_links_1_2_1">Microwaves</a>
+                                       
+                                      <a href="/appliances-home/cat/freezers" id="WC_CachedHeaderDisplay_links_1_2_1">Freezers</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/appliances-home/cat/disposals" id="WC_CachedHeaderDisplay_links_1_2_1">Disposals</a>
+                                       
+                                      <a href="/appliances-home/cat/keurig" id="WC_CachedHeaderDisplay_links_1_2_1">Keurig</a>
+                                       
+                                      <a href="/appliances-home/cat/smallkitchenappliances" id="WC_CachedHeaderDisplay_links_1_2_1">Small Kitchen Appliances</a>
+                                       
+                                      <a href="/appliances-home/cat/kitchenaccessories" id="WC_CachedHeaderDisplay_links_1_2_1">Kitchen Accessories</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[appliances_home_COLUMN_1_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_appliances_home_COLUMN_1_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_appliances_home_COLUMN_1_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/appliances-home/laundry" id="WC_CachedHeaderDisplay_links_1_2_2">Laundry</a></strong>
+                                  <a href="/appliances-home/laundry" id="WC_CachedHeaderDisplay_image_2">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="Laundry" alt="Laundry">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
+
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/appliances-home/cat/washers" id="WC_CachedHeaderDisplay_links_1_2_2">Washers</a>
+                                       
+                                      <a href="/appliances-home/cat/dryers" id="WC_CachedHeaderDisplay_links_1_2_2">Dryers</a>
+                                       
+                                      <a href="/appliances-home/cat/combowasher-dryer" id="WC_CachedHeaderDisplay_links_1_2_2">Combo Washer/Dryers</a>
+                                       
+                                      <a href="/appliances-home/cat/stackables" id="WC_CachedHeaderDisplay_links_1_2_2">Stackable Washers &amp; Dryers</a>
+                                       
+                                      <a href="/appliances-home/cat/pedestals" id="WC_CachedHeaderDisplay_links_1_2_2">Pedestals</a>
+                                       
+                                      <a href="/appliances-home/cat/stack-kits" id="WC_CachedHeaderDisplay_links_1_2_2">Stack Kits</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/appliances-home/cat/top-load-washers" id="WC_CachedHeaderDisplay_links_1_2_2">Top Load Washers</a>
+                                       
+                                      <a href="/appliances-home/cat/front-load-washers" id="WC_CachedHeaderDisplay_links_1_2_2">Front Load Washers</a>
+                                       
+                                      <a href="/appliances-home/cat/electric-dryers" id="WC_CachedHeaderDisplay_links_1_2_2">Electric Dryers</a>
+                                       
+                                      <a href="/appliances-home/cat/gas-dryers" id="WC_CachedHeaderDisplay_links_1_2_2">Gas Dryers</a>
+                                       
+                                      <a href="/appliances-home/cat/laundryaccessories" id="WC_CachedHeaderDisplay_links_1_2_2">Laundry Accessories</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[appliances_home_COLUMN_2_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_appliances_home_COLUMN_2_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_appliances_home_COLUMN_2_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                             <div class="CategoryBoxOther column3">
+                        
+                             <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31603">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31603">[appliances_home_COLUMN_3_HEADER_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_appliances_home_COLUMN_3_HEADER_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_appliances_home_COLUMN_3_HEADER_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_appliances_home_COLUMN_3_HEADER_ESPOT">
+        Furniture &amp; Home
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+                                <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/appliances_home_top_nav_other?$topnav_lg$" width="140" height="140" title="" alt="">
+                             <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_3">
+                                <span><a href="/appliances-home/homefurnishings" id="WC_CachedHeaderDisplay_links_1_2_3">Furniture &amp; Home Furnishings</a></span>
+                              </div>       
+                        <!-- onClick="loadLink('/appliances-home/mattresses-bedding');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_4">
+                                <span><a href="/appliances-home/mattresses-bedding" id="WC_CachedHeaderDisplay_links_1_2_4">Mattresses</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/appliances-home/healthandfitness');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_5">
+                                <span><a href="/appliances-home/healthandfitness" id="WC_CachedHeaderDisplay_links_1_2_5">Health &amp; Fitness Equipment</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/appliances-home/vacuums-floorcare');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_6">
+                                <span><a href="/appliances-home/vacuums-floorcare" id="WC_CachedHeaderDisplay_links_1_2_6">Vacuums &amp; Floor Care</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/appliances-home/cat/small-kitchen-appliances');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_7">
+                                <span><a href="/appliances-home/cat/small-kitchen-appliances" id="WC_CachedHeaderDisplay_links_1_2_7">Small Kitchen Appliances</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/appliances-home/cat/heaters-fans');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_8">
+                                <span><a href="/appliances-home/cat/heaters-fans" id="WC_CachedHeaderDisplay_links_1_2_8">Heaters &amp; Fans</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/appliances-home/cat/purifier-humidifier');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_2_9">
+                                <span><a href="/appliances-home/cat/purifier-humidifier" id="WC_CachedHeaderDisplay_links_1_2_9">Air Purifiers, Humidifiers &amp; Dehumidifiers</a></span>
+                              </div>
+                              
+                      
+                  <div class="see_all">
+                  <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[appliances_home_COLUMN_3_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_appliances_home_COLUMN_3_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_appliances_home_COLUMN_3_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                  
+                      </div>
+                  
+                        </div>
+                  
+
+                  <div class="CategoryBoxOther">
+                   
+                    <div id="resourceLinks"><span><strong><a href="#">Product Finder</a></strong></span><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/fridge">Refrigerator</a></span></div><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/washer">Washer</a></span></div><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/dryer">Dryer</a></span></div><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/range">Range</a></span></div><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/dishwasher">Dishwasher</a></span></div></div><!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31606">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31606">[TOPNAV_appliances_home_ESPOT1]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_TOPNAV_appliances_home_ESPOT1"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_TOPNAV_appliances_home_ESPOT1'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_TOPNAV_appliances_home_ESPOT1">
+        <a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/SearchDisplay?searchTermScope=&amp;searchType=10&amp;filterTerm=&amp;orderBy=7&amp;maxPrice=&amp;showResultsPage=true&amp;langId=-1&amp;beginIndex=0&amp;sType=SimpleSearch&amp;metaData=&amp;pageSize=12&amp;manufacturer=&amp;resultCatEntryType=&amp;catalogId=10051&amp;pageView=image&amp;searchTerm=&amp;minPrice=&amp;categoryId=10636&amp;storeId=10154"><img src="https://hhgregg.scene7.com/is/image/hhgregg/topnav_3colum_washers?scl=1&amp;qlt=100" width="191" height="105" border="0"></a>
+
+
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                       
+                      
+                           
+                  </div>
+                  
+                   
+                </div>  <!-- End: DropDown Inner -->
+              </div>  <!-- End: Widget Menu Content -->
+            </div>  <!-- End: DropDownMenu Content -->
+            
+            
+            <div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_3">
+              <a href="/computers-mobile">Computers &amp; Mobile</a>
+              
+              <div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/computers-mobile" showalltext="Show All Computers &amp; Mobile" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_3">
+                <div class="dropdown-inner">
+              
+                  
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/computers-mobile/computers" id="WC_CachedHeaderDisplay_links_1_3_1">Tablets &amp; Computers</a></strong>
+                                  <a href="/computers-mobile/computers" id="WC_CachedHeaderDisplay_image_3">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="Tablets &amp; Computers" alt="Tablets &amp; Computers">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
+
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/computers-mobile/cat/tablets" id="WC_CachedHeaderDisplay_links_1_3_1">Tablets</a>
+                                       
+                                      <a href="/computers-mobile/cat/laptops" id="WC_CachedHeaderDisplay_links_1_3_1">Laptops</a>
+                                       
+                                      <a href="/computers-mobile/cat/ultrabooks" id="WC_CachedHeaderDisplay_links_1_3_1">Ultrabooks</a>
+                                       
+                                      <a href="/computers-mobile/cat/netbooks" id="WC_CachedHeaderDisplay_links_1_3_1">Netbooks</a>
+                                       
+                                      <a href="/computers-mobile/cat/desktops" id="WC_CachedHeaderDisplay_links_1_3_1">Desktops</a>
+                                       
+                                      <a href="/computers-mobile/cat/all-in-one-computers" id="WC_CachedHeaderDisplay_links_1_3_1">All-in-One Computers</a>
+                                       
+                                      <a href="/computers-mobile/cat/touch-pcs" id="WC_CachedHeaderDisplay_links_1_3_1">Touch PCs</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/computers-mobile/cat/printers" id="WC_CachedHeaderDisplay_links_1_3_1">Printers &amp; Scanners</a>
+                                       
+                                      <a href="/computers-mobile/cat/monitors" id="WC_CachedHeaderDisplay_links_1_3_1">Computer Monitors</a>
+                                       
+                                      <a href="/computers-mobile/cat/e-readers" id="WC_CachedHeaderDisplay_links_1_3_1">E-Readers</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[computers_mobile_COLUMN_1_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_computers_mobile_COLUMN_1_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_computers_mobile_COLUMN_1_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/computers-mobile/computers-mobile-accessories" id="WC_CachedHeaderDisplay_links_1_3_2">Computer Accessories</a></strong>
+                                  <a href="/computers-mobile/computers-mobile-accessories" id="WC_CachedHeaderDisplay_image_3">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="Computer Accessories" alt="Computer Accessories">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
+
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/computers-mobile/cat/tablet-latpop-cases-bags" id="WC_CachedHeaderDisplay_links_1_3_2">Cases &amp; Bags</a>
+                                       
+                                      <a href="/computers-mobile/cat/computer-keyboards" id="WC_CachedHeaderDisplay_links_1_3_2">Keyboards</a>
+                                       
+                                      <a href="/computers-mobile/cat/computer-mice" id="WC_CachedHeaderDisplay_links_1_3_2">Mice</a>
+                                       
+                                      <a href="/computers-mobile/cat/external-hard-drives" id="WC_CachedHeaderDisplay_links_1_3_2">External Hard Drives</a>
+                                       
+                                      <a href="/computers-mobile/cat/networking-routers" id="WC_CachedHeaderDisplay_links_1_3_2">Networking &amp; Routers</a>
+                                       
+                                      <a href="/computers-mobile/cat/tablet-accessories" id="WC_CachedHeaderDisplay_links_1_3_2">Tablet Accessories</a>
+                                       
+                                      <a href="/computers-mobile/cat/ink-toner" id="WC_CachedHeaderDisplay_links_1_3_2">Ink, Toner &amp; Paper</a>
+                                       
+                                      <a href="/computers-mobile/cat/computer-montiors" id="WC_CachedHeaderDisplay_links_1_3_2">Computer Monitors</a>
+                                       
+                                      <a href="/computers-mobile/cat/printers-scanners" id="WC_CachedHeaderDisplay_links_1_3_2">Printers &amp; Scanners</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/computers-mobile/cat/ipad-accessory" id="WC_CachedHeaderDisplay_links_1_3_2">iPad Accessories</a>
+                                       
+                                      <a href="/computers-mobile/cat/headphones-3" id="WC_CachedHeaderDisplay_links_1_3_2">Headphones</a>
+                                       
+                                      <a href="/computers-mobile/cat/cables-connectors" id="WC_CachedHeaderDisplay_links_1_3_2">Cables &amp; Connectors</a>
+                                       
+                                      <a href="/computers-mobile/cat/computer-speakers" id="WC_CachedHeaderDisplay_links_1_3_2">Computer Speakers</a>
+                                       
+                                      <a href="/computers-mobile/cat/web-cams" id="WC_CachedHeaderDisplay_links_1_3_2">Webcams</a>
+                                       
+                                      <a href="/computers-mobile/cat/office-furniture" id="WC_CachedHeaderDisplay_links_1_3_2">Office Furniture</a>
+                                       
+                                      <a href="/computers-mobile/cat/computer-software" id="WC_CachedHeaderDisplay_links_1_3_2">Software</a>
+                                       
+                                      <a href="/computers-mobile/cat/usb-drives" id="WC_CachedHeaderDisplay_links_1_3_2">USB Drives &amp; Storage</a>
+                                       
+                                      <a href="/computers-mobile/cat/computeraccessories-1" id="WC_CachedHeaderDisplay_links_1_3_2">All Accessories</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[computers_mobile_COLUMN_2_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_computers_mobile_COLUMN_2_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_computers_mobile_COLUMN_2_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                             <div class="CategoryBoxOther column3">
+                        
+                             <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31604">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31604">[computers_mobile_COLUMN_3_HEADER_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_computers_mobile_COLUMN_3_HEADER_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_computers_mobile_COLUMN_3_HEADER_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_computers_mobile_COLUMN_3_HEADER_ESPOT">
+        Verizon Wireless
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+                                <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/computers_mobile_top_nav_other?$topnav_lg$" width="140" height="140" title="" alt="">
+                             <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_3">
+                                <span><a href="http://wireless.hhgregg.com" id="WC_CachedHeaderDisplay_links_1_3_3">Verizon Wireless</a></span>
+                              </div>       
+                        <!-- onClick="loadLink('http://wireless.hhgregg.com/ecommerce/phones/?FilterByFeature=212&amp;r=hhgregg');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_4">
+                                <span><a href="http://wireless.hhgregg.com/ecommerce/phones/?FilterByFeature=212&amp;r=hhgregg" id="WC_CachedHeaderDisplay_links_1_3_4">Mobile Broadband</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('http://wireless.hhgregg.com/ecommerce/phones/?FilterByFeature=291&amp;r=hhgregg');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_5">
+                                <span><a href="http://wireless.hhgregg.com/ecommerce/phones/?FilterByFeature=291&amp;r=hhgregg" id="WC_CachedHeaderDisplay_links_1_3_5">Android Phones</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('http://wireless.hhgregg.com/ecommerce/phones/?FilterByFeature=215&amp;r=hhgregg');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_6">
+                                <span><a href="http://wireless.hhgregg.com/ecommerce/phones/?FilterByFeature=215&amp;r=hhgregg" id="WC_CachedHeaderDisplay_links_1_3_6">Touch Screen Phones</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('http://wireless.hhgregg.com/ecommerce/phones/?filterbyprice=0&amp;r=hhgregg');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_7">
+                                <span><a href="http://wireless.hhgregg.com/ecommerce/phones/?filterbyprice=0&amp;r=hhgregg" id="WC_CachedHeaderDisplay_links_1_3_7">Free Phones</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('http://wireless.hhgregg.com/ecommerce/phones/?mode=prepaid&amp;r=hhgregg');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_8">
+                                <span><a href="http://wireless.hhgregg.com/ecommerce/phones/?mode=prepaid&amp;r=hhgregg" id="WC_CachedHeaderDisplay_links_1_3_8">Prepaid Phones</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/computers-mobile/cat/wirelessaccessories1');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_3_9">
+                                <span><a href="/computers-mobile/cat/wirelessaccessories1" id="WC_CachedHeaderDisplay_links_1_3_9">Wireless Accessories</a></span>
+                              </div>
+                              
+                      
+                  <div class="see_all">
+                  <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[computers_mobile_COLUMN_3_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_computers_mobile_COLUMN_3_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_computers_mobile_COLUMN_3_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                  
+                      </div>
+                  
+                        </div>
+                  
+
+                  <div class="CategoryBoxOther">
+                   
+                    <div id="resourceLinks"><span><strong><a href="http://www.hhgregg.com/productfinder/computer">Product Finders</a></strong></span><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/productfinder/computer">Computers</a></span></div></div><!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31607">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31607">[TOPNAV_computers_mobile_ESPOT1]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_TOPNAV_computers_mobile_ESPOT1"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_TOPNAV_computers_mobile_ESPOT1'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_TOPNAV_computers_mobile_ESPOT1">
+        <a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/SearchDisplay?searchTermScope=&amp;searchType=10&amp;filterTerm=&amp;orderBy=7&amp;maxPrice=&amp;showResultsPage=true&amp;langId=-1&amp;beginIndex=0&amp;sType=SimpleSearch&amp;metaData=&amp;pageSize=12&amp;manufacturer=&amp;resultCatEntryType=&amp;catalogId=10051&amp;pageView=image&amp;searchTerm=&amp;minPrice=&amp;categoryId=10661&amp;storeId=10154"><img src="https://hhgregg.scene7.com/is/image/hhgregg/topnav_3colum_tablet?scl=1&amp;qlt=100" width="191" height="105" border="0"></a>
+
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                       
+                      
+                           
+                  </div>
+                  
+                   
+                </div>  <!-- End: DropDown Inner -->
+              </div>  <!-- End: Widget Menu Content -->
+            </div>  <!-- End: DropDownMenu Content -->
+            
+            
+            <div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_4">
+              <a href="/cameras-camcorders">Cameras &amp; Portable Electronics</a>
+              
+              <div dojotype="wc.widget.WCMenu" maxitemspercolumn="6" forcedisplayshowall="false" showallurl="/cameras-camcorders" showalltext="Show All Cameras &amp; Portable Electronics" class="dropdown nodisplay" id="WC_CachedHeaderDisplay_div_3_4">
+                <div class="dropdown-inner">
+              
+                  
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/cameras-camcorders/cameras" id="WC_CachedHeaderDisplay_links_1_4_1">Cameras &amp; Camcorders</a></strong>
+                                  <a href="/cameras-camcorders/cameras" id="WC_CachedHeaderDisplay_image_4">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="Cameras &amp; Camcorders" alt="Cameras &amp; Camcorders">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
+
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/cameras-camcorders/cat/all-cameras" id="WC_CachedHeaderDisplay_links_1_4_1">All Digital Cameras</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/dslr" id="WC_CachedHeaderDisplay_links_1_4_1">Digital SLR Cameras</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/lenses" id="WC_CachedHeaderDisplay_links_1_4_1">Camera Lenses</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/flashes" id="WC_CachedHeaderDisplay_links_1_4_1">Camera Flashes</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/filters" id="WC_CachedHeaderDisplay_links_1_4_1">Camera Filters</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/longzoom" id="WC_CachedHeaderDisplay_links_1_4_1">Long Zoom Cameras</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/point-shoot" id="WC_CachedHeaderDisplay_links_1_4_1">Point &amp; Shoot Cameras</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/cameras-camcorders/cat/all-camcorders" id="WC_CachedHeaderDisplay_links_1_4_1">All Camcorders</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/highdefinition-camcorders" id="WC_CachedHeaderDisplay_links_1_4_1">High Definition Camcorders</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/sports-camcorder" id="WC_CachedHeaderDisplay_links_1_4_1">Sports Camcorders</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/pocket-camcorders" id="WC_CachedHeaderDisplay_links_1_4_1">Pocket Camcorders</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/standarddefinition-camcorders" id="WC_CachedHeaderDisplay_links_1_4_1">Standard Definition Camcorders</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/webcams" id="WC_CachedHeaderDisplay_links_1_4_1">Webcams</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/digitalphotoframes" id="WC_CachedHeaderDisplay_links_1_4_1">Digital Photo Frames</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/photo-printers-scanners" id="WC_CachedHeaderDisplay_links_1_4_1">Photo Printers &amp; Scanners</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[cameras_camcorders_COLUMN_1_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_cameras_camcorders_COLUMN_1_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_cameras_camcorders_COLUMN_1_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                         
+                            <div class="CategoryBox">
+                                  <div class="cat-image">
+                                  <strong><a href="/cameras-camcorders/cameras-camcorders-accessories" id="WC_CachedHeaderDisplay_links_1_4_2">Camera &amp; Camcorders Accessories</a></strong>
+                                  <a href="/cameras-camcorders/cameras-camcorders-accessories" id="WC_CachedHeaderDisplay_image_4">
+                                      <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$" onerror="this.onerror=null;this.src='http://hhgregg.scene7.com/is/image/hhgregg/no_image_top_nav?$topnav_lg$';" width="140" height="140" title="Camera &amp; Camcorders Accessories" alt="Camera &amp; Camcorders Accessories">
+                                    </a>
+                                    
+                                  </div>
+                                  
+                                  
+                                
+
+
+                <div class="TopNavLeftColumn">
+              
+                                      <a href="/cameras-camcorders/cat/camera-cases-bags" id="WC_CachedHeaderDisplay_links_1_4_2">Cases &amp; Bags</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/camera-lenses" id="WC_CachedHeaderDisplay_links_1_4_2">Camera Lenses</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/camera-flashes" id="WC_CachedHeaderDisplay_links_1_4_2">Camera Flashes</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/camera-filters" id="WC_CachedHeaderDisplay_links_1_4_2">Camera Filters</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/lens-caps" id="WC_CachedHeaderDisplay_links_1_4_2">Lens Caps</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/tripods" id="WC_CachedHeaderDisplay_links_1_4_2">Tripods</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/usbdrives" id="WC_CachedHeaderDisplay_links_1_4_2">USB Drives</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/camera-batteries" id="WC_CachedHeaderDisplay_links_1_4_2">Batteries</a>
+                                       
+                  </div>
+                  
+
+                <div class="TopNavRightColumn">
+              
+                                      <a href="/cameras-camcorders/cat/sd-cards" id="WC_CachedHeaderDisplay_links_1_4_2">SD Cards</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/micro-sd-cards" id="WC_CachedHeaderDisplay_links_1_4_2">Micro SD Cards</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/compact-flash-cards" id="WC_CachedHeaderDisplay_links_1_4_2">Compact Flash Cards</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/memory-stick" id="WC_CachedHeaderDisplay_links_1_4_2">Memory Stick</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/card-readers" id="WC_CachedHeaderDisplay_links_1_4_2">Card Readers</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/photo-printer-scanner" id="WC_CachedHeaderDisplay_links_1_4_2">Photo Printers &amp; Scanners</a>
+                                       
+                                      <a href="/cameras-camcorders/cat/all-accessories" id="WC_CachedHeaderDisplay_links_1_4_2">All Accessories</a>
+                                       
+                                    </div>
+                                
+                                   <div class="see_all">
+                                   
+                                     <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[cameras_camcorders_COLUMN_2_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_cameras_camcorders_COLUMN_2_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_cameras_camcorders_COLUMN_2_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                             
+                      </div>
+                             </div> <!-- close CategoryBox -->
+                             <div class="CategoryBoxOther column3">
+                        
+                             <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31601">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31601">[cameras_camcorders_COLUMN_3_HEADER_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_cameras_camcorders_COLUMN_3_HEADER_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_cameras_camcorders_COLUMN_3_HEADER_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_cameras_camcorders_COLUMN_3_HEADER_ESPOT">
+        Portable Electronics
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+                                <img class="CategoryBoxImage" src="http://hhgregg.scene7.com/is/image/hhgregg/cameras_camcorders_top_nav_other?$topnav_lg$" width="140" height="140" title="" alt="">
+                             <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_3">
+                                <span><a href="/cameras-camcorders/cat/tablet" id="WC_CachedHeaderDisplay_links_1_4_3">Tablets &amp; iPads</a></span>
+                              </div>       
+                        <!-- onClick="loadLink('/cameras-camcorders/ipod-mp3-players');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_4">
+                                <span><a href="/cameras-camcorders/ipod-mp3-players" id="WC_CachedHeaderDisplay_links_1_4_4">iPods &amp; MP3 Players</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('http://www.hhgregg.com/tv-entertainment/cat/headphones');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_5">
+                                <span><a href="http://www.hhgregg.com/tv-entertainment/cat/headphones" id="WC_CachedHeaderDisplay_links_1_4_5">Headphones</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/cameras-camcorders/gps-navigation');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_6">
+                                <span><a href="/cameras-camcorders/gps-navigation" id="WC_CachedHeaderDisplay_links_1_4_6">GPS Navigation</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/cameras-camcorders/video-game');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_7">
+                                <span><a href="/cameras-camcorders/video-game" id="WC_CachedHeaderDisplay_links_1_4_7">Video Games</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/cameras-camcorders/cat/ereaders');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_8">
+                                <span><a href="/cameras-camcorders/cat/ereaders" id="WC_CachedHeaderDisplay_links_1_4_8">E-Readers</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/cameras-camcorders/cat/portabledvd-players');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_9">
+                                <span><a href="/cameras-camcorders/cat/portabledvd-players" id="WC_CachedHeaderDisplay_links_1_4_9">Portable DVD Players</a></span>
+                              </div>
+                              
+                      <!-- onClick="loadLink('/cameras-camcorders/cat/boombox');" -->
+                              <div dojotype="dijit.MenuItem" id="WC_CachedHeaderDisplay_div_4_4_10">
+                                <span><a href="/cameras-camcorders/cat/boombox" id="WC_CachedHeaderDisplay_links_1_4_10">Boomboxes</a></span>
+                              </div>
+                              
+                      
+                  <div class="see_all">
+                  <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_">[cameras_camcorders_COLUMN_3_SEE_ALL_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_cameras_camcorders_COLUMN_3_SEE_ALL_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_cameras_camcorders_COLUMN_3_SEE_ALL_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                  
+                      </div>
+                  
+                        </div>
+                  
+
+                  <div class="CategoryBoxOther">
+                   
+                    <div id="resourceLinks"><span><strong><a href="http://www.hhgregg.com/articlelisting/cameras-camcorders">Learn More</a></strong></span><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/content/article/article_nikon_j1white">The Nikon 1 J1 White Digital Camera</a></span></div><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/content/article/article_dslr_point_and_shoot">Differences between DSLR &amp; Point-and-Shoot Cameras</a></span></div><div dojotype="dijit.MenuItem"><span><a href="http://www.hhgregg.com/content/article/article_sony_handycam">Introducing the 16GB Sony Handcam® With Projector</a></span></div></div><!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div class="genericESpot" id="WC_ContentAreaESpot_div_1_31608">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31608">[TOPNAV_cameras_camcorders_ESPOT1]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_TOPNAV_cameras_camcorders_ESPOT1"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_TOPNAV_cameras_camcorders_ESPOT1'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div class="ad" id="ad_TOPNAV_cameras_camcorders_ESPOT1">
+        <a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/SearchDisplay?searchTermScope=&amp;searchType=10&amp;filterTerm=&amp;orderBy=7&amp;maxPrice=&amp;showResultsPage=true&amp;langId=-1&amp;beginIndex=0&amp;sType=SimpleSearch&amp;metaData=&amp;pageSize=12&amp;manufacturer=&amp;resultCatEntryType=&amp;catalogId=10051&amp;pageView=image&amp;searchTerm=&amp;minPrice=&amp;categoryId=10692&amp;storeId=10154"><img src="https://hhgregg.scene7.com/is/image/hhgregg/topnav_3colum_camera?scl=1&amp;qlt=100" width="191" height="105" border="0"></a>
+
+
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->  
+                       
+                      
+                           
+                  </div>
+                  
+                   
+                </div>  <!-- End: DropDown Inner -->
+              </div>  <!-- End: Widget Menu Content -->
+            </div>  <!-- End: DropDownMenu Content --><!-- Add services top category -->
+          
+          <div dojotype="wc.widget.WCDropDownButton" id="HeaderMenu_DropDown_5">
+            <a href="/content2/FinancingRewards">Financing &amp; Rewards</a>
+          </div> <!--wc.widget.WCDropDownButton-->
+        
+      </div> <!-- End: header_nav -->
+    </div> <!-- End: header_menu_dropdown -->
+  </div> <!-- End: header_menu_loaded-->
+  <div id="topheader_espot">
+    <!-- BEGIN ContentAreaESpot.jsp -->
+
+
+<div id="WC_ContentAreaESpot_div_1_31101">
+    <!-- div class="caption" style="display:none" id="WC_ContentAreaESpot_div_2_31101">[TOP_PROMO_ESPOT]</div-->
+    <!-- div class="ESpotInfo" id="WC_ContentAreaESpotInfo_TOP_PROMO_ESPOT"><a href="#" onclick="showESpotInfoPopup('ESpotInfo_popup_TOP_PROMO_ESPOT'); return false;"><span class="ESpotInfoIcon"></span></a></div-->
+
+            <div id="ad_TOP_PROMO_ESPOT">
+        <img src="https://hhgregg.scene7.com/is/image/hhgregg/111512_leaderboard_Banner?scl=1&amp;qlt=100" width="930" height="45" border="0" usemap="#Map29">
+<map name="Map29" id="Map29">
+  <area shape="rect" coords="1,-3,463,55" href="http://www.hhgregg.com/black-friday">
+</map>
+
+
+
+
+            </div>
+        
+
+
+</div>
+
+<!-- END ContentAreaESpot.jsp -->
+  </div>  
+<!-- END CachedHeaderDisplay.jsp -->
 <div class="clearfix">
 	<!-- BEGIN BreadCrumbTrailDisplay.jsp -->
 
@@ -766,9 +1582,10 @@ function getStyleDirectoryPath()
 <!-- END BreadCrumbTrailDisplay.jsp -->
 	
 </div>
-<!-- END HeaderDisplay.jspf --> 
-<div id="main_content_wrapper">
-	<!-- BEGIN LeftSidebarDisplay.jspf --><!-- BEGIN CachedLeftSidebarDisplay.jsp -->
+<!-- END HeaderDisplay.jspf -->
+
+	<div id="main_content_wrapper">
+		<!-- BEGIN LeftSidebarDisplay.jspf --><!-- BEGIN CachedLeftSidebarDisplay.jsp -->
 
 <script type="text/javascript">
   dojo.addOnLoad(function() {
@@ -791,9 +1608,9 @@ function getStyleDirectoryPath()
 		<br>
 		<h2 class="sidebar_header">Related Links:</h2>
 		
-		<p><a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10154" id="WC_CachedHeaderDisplay_links_1_100'/>_5">Store Locator</a></p>
+		<p><a href="http://www.hhgregg.com/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?catalogId=10051&amp;langId=-1&amp;storeId=10154" id="WC_CachedHeaderDisplay_links_1_100'/>_5">store locator</a></p>
 		<p><a href="http://wwww.hhgregg.com/content/article/article_rebates" id="WC_CachedHeaderDisplay_links_1_100'/>_5">Rebate Center</a></p>
-		<p><a href="http://www.hhgregg.com/weeklyAd.asp?SID=n" id="WC_CachedHeaderDisplay_links_1_100'/>_5">Weekly Ad</a></p>
+		<p><a href="http://www.hhgregg.com/weeklyAd.asp?SID=n" id="WC_CachedHeaderDisplay_links_1_100'/>_5">weekly ad</a></p>
 
 	<!-- END MyAccountNavDisplay.jspf-->
 			</div>
@@ -820,9 +1637,9 @@ function getStyleDirectoryPath()
 			<div id="msgpopup1_close" class="close hidden">
 				<div id="msgpopup1_x" class="msgpopup1_x">
 					<span id="msgpopup_close_text" class="msgpopup_close_text">
-						<a id="clickableErrorMessage" href="#" onclick="JavaScript:MessageHelper.hideMessageArea();return false;" onkeypress="JavaScript:MessageHelper.hideMessageArea();return false;" tabindex="2">Close</a>
+						<a id="clickableErrorMessage" href="#" onclick="JavaScript:MessageHelper.hideMessageArea();return false;" onkeypress="JavaScript:MessageHelper.hideMessageArea();return false;" tabindex="2">close (X)</a>
 					</span>
-					<a id="clickableErrorMessageImg" href="#" onclick="JavaScript:MessageHelper.hideMessageArea();return false;" onkeypress="JavaScript:MessageHelper.hideMessageArea();return false;" tabindex="2"><img src="/wcsstore/MadisonsStorefrontAssetStore/images/colors/color1/msgpopup1_x.png" alt="Close" title="Close"></a>
+					<a id="clickableErrorMessageImg" href="#" onclick="JavaScript:MessageHelper.hideMessageArea();return false;" onkeypress="JavaScript:MessageHelper.hideMessageArea();return false;" tabindex="2"><img src="/wcsstore/MadisonsStorefrontAssetStore/images/colors/color1/msgpopup1_x.png" alt="close (X)" title="close (X)"></a>
 				</div>			
 			</div>
 		</div>
@@ -840,26 +1657,300 @@ function getStyleDirectoryPath()
 <!-- END MessageDisplay.jspf --><!-- BEGIN CachedTopCategoriesDisplay.jsp -->
 		<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/OpenValidate.js"></script>
 		<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/UserArea/ContactUs.js"></script>
-<!-- BEGIN CatalogEntryQuickInfoDetails.jspf-->
-	<script type="text/javascript">
-		dojo.addOnLoad(function() {
-			categoryDisplayJS.setAjaxMyAccount(true);
-		});
-	</script>
 
- 
-<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/CatalogArea/CatalogEntryThumbnailDisplay.js"></script>
+  <script type="text/javascript">
+    dojo.addOnLoad(function() {
+        categoryDisplayJS.setAjaxMyAccount(true);
+    });
+  </script>
 
-
-<div style="display:none;" id="s7ServerName">http://hhgregg.scene7.com/is/image/hhgregg/</div>
-<div style="display:none;" id="SCENE7SUFFIX">_a1_main?$pdpmodal$</div>
-<div style="display:none;" id="SCENE7NOIMAGESUFFIX">_a1_main?$pdpmodal$</div>
-
-<div id="second_level_category_popup_main_div hidden" style="display:none">
-	
+<div id="second_level_category_popup_main_div hidden" style="display:none;height:auto!important;">
+  
 </div>
-<script type="text/javascript">dojo.addOnLoad(function() { parseWidget("second_level_category_popup"); } );</script>
-<!-- END CatalogEntryQuickInfoDetails.jspf-->
+
+<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/CatalogArea/config_s7viewers_dhtml.js"></script>
+<script language="javascript" type="text/javascript" src="http://s7d1.scene7.com/s7sdk/2.0/js/s7sdk/utils/Utils.js"></script>
+<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/CatalogArea/S7EmbeddedViewer.js"></script>
+<script type="text/javascript">
+dojo.addOnLoad(
+	function()
+	{
+		dojo.require("dojo.parser");
+	  parseWidget("second_level_category_popup");
+	}
+);
+
+function reloadImageViewerSetup(){
+
+	var mfPartNum = dojo.byId("quickViewMFPartNumber").innerHTML;
+/*
+  var isIEBrowser = false;
+  if(window.navigator.userAgent.indexOf("MSIE") != -1){
+      isIEBrowser = true;
+  }
+  // -- This is all IE Flash-specific stuff. Still figuring this bit out.
+  if(isIEBrowser == false) {
+
+			s7sdk.Util.css.defaultCSS = "/wcsstore/MadisonsStorefrontAssetStore//css/zoomviewer.css";
+			s7sdk.Util.lib.include('s7sdk.image.ZoomView');
+			s7sdk.Util.lib.include('s7sdk.set.Swatches');
+			s7sdk.Util.lib.include('s7sdk.common.Container');
+			s7sdk.Util.lib.include('s7sdk.image.NavigationView');
+			s7sdk.Util.lib.include('s7sdk.common.Button');
+		
+			
+			var company= 'hhgregg'  ;  //Declares the company that should be referenced in the viewer image calls.Default is "S7SampleCode";
+			var sku= mfPartNum+'_is';  //Declares the template that should be loaded into the viewer
+		
+			 // initialize the SDK
+			s7sdk.Util.init();
+		
+			//Create ParameterManager instance that will handle modifiers
+			var params = new s7sdk.ParameterManager();  
+			var zoomView, altView, container;
+			var navView;    // for NavigationView component
+			var zoomInButton, zoomOutButton;
+			        
+			// set up a function that will initialize the viewer
+			function initViewer(){
+			        
+			  // hardcoded modifiers
+			  params.push("serverurl", "http://s7d1.scene7.com/is/image");
+			  params.push("asset", "hhgregg/" + sku);
+			  params.push("zoomstep", ".8");
+			  params.push("tmbsize",  "50, 50");
+			  params.push("stagesize", "302,360");
+			  params.push("resizable", "1");
+			          
+			  // Create a viwer container
+			  container = new s7sdk.Container("s7container",params);
+			  container.addEventListener(s7sdk.ResizeEvent.COMPONENT_RESIZE,resizeViewer,false);
+			  
+			  //Create ZoomView componenent -  for version 2.0.1 library, this component has to be created before other components.
+			  zoomView = new  s7sdk.ZoomView( "s7container", params, "myZoomView");
+			  
+			  // Create NavigationView component attached also to s7container div.
+			  navView = new s7sdk.NavigationView("s7container", params);
+			  
+			  zoomInButton  = new s7sdk.ZoomInButton("s7container", params, "zoomInBtn");
+			  zoomOutButton = new s7sdk.ZoomOutButton("s7container", params, "zoomOutBtn");
+			  zoomResetButton = new s7sdk.ZoomResetButton("s7container", params, "zoomReset");
+			    
+			  // Add handler for NavigationView s7sdk.ZoomPanEvent.NOTF_ZOOM_NPAN event.
+			  navView.div.addEventListener(s7sdk.ZoomPanEvent.NOTF_ZOOM_NPAN, navPan, true);
+			                 
+			  // Add handlers for zoom in and zoom out buttons inline.
+			  zoomInButton.addEventListener("click",function(){zoomView.zoomIn();});
+			  zoomOutButton.addEventListener("click",function(){zoomView.zoomOut();});
+			  zoomResetButton.addEventListener("click",function(){zoomView.zoomReset();});
+			          
+			  //Create Swatches component
+			  altView = new s7sdk.Swatches("s7container", params,"mySwatches");
+			  
+			  //Change the image displayed in the main view every time the swatch selection changes
+			  function swatchSelected(event) {
+			      zoomView.setItem(event.s7event.asset);
+			  }
+			  //Tie event SWATCH_SELECTED_EVENT with swatchSelected function. When the event is fired, swatchSelected will be called.
+			  altView.addEventListener(s7sdk.AssetEvent.SWATCH_SELECTED_EVENT, swatchSelected, false);
+			  
+			  // select the first swatch
+			  altView.selectSwatch(0, true);    
+		
+		
+			}
+			//  Event handler for s7sdk.ZoomPanEvent.NOTF_ZOOM_NPAN from NavigationView.
+			function navPan(event) {
+			    var s7event = event.s7event;
+			    if (!s7event)
+			        return;
+		
+			    zoomView.zoomNPan(s7event.dx, s7event.dy);
+			}
+		
+			//  Event handler for s7sdkZoomPanEvent.NOTF_ZOOM_NPAN from ZoomView.
+			function updateNav(event) {
+			    var s7event = event.s7event;
+			    if (!s7event) return;
+		
+			    navView.setViewPort(s7event.zoomRgn);
+			}
+			// the ParameterManager will dispatch SDK_READY when all modifiers have been processed
+			// and it is safe to initalize the viewer
+			params.addEventListener(s7sdk.Event.SDK_READY,initViewer,false);
+		
+			// now it is safe to process the modifiers, the callbacks have been defined
+			// this will trigger the SDK_READY event
+			params.init();
+		
+			//set up a function to be used to resize viewer for orientation change or window resize
+			function resizeViewer(e){
+			    zoomView.resize(e.s7event.w, e.s7event.h);
+			}
+
+	  }else { //is IE
+*/
+			if(hasFlashPlayer){
+			
+			
+			var s7Viewer = new S7EmbeddedViewer();
+
+			s7Viewer.isViewerRoot = 'http://s7d1.scene7.com/s7viewers/';
+			s7Viewer.isRoot = 'http://s7d1.scene7.com/is/image/';
+			s7Viewer.contentRoot = 'http://s7d1.scene7.com/';
+			s7Viewer.skinsRoot = 'http://s7d1.scene7.com/skins/';
+			s7Viewer.viewerType = 'http://s7d1.scene7.com/';
+			s7Viewer.divTarget = 'viewer';
+			s7Viewer.viewerWidth = '301';
+			s7Viewer.viewerHeight = '372';                
+			s7Viewer.isCompany = 'hhgregg';
+			s7Viewer.configName = 'hhgregg/ImageSet6-horiz-hhgregg-2';
+			s7Viewer.imageName = mfPartNum+'_is';
+			s7Viewer.modifier = '';
+			s7Viewer.DEFAULT_VIEWER_TYPE = 'genericzoom';
+			s7Viewer.build();
+
+			}else{ //if no flash player
+				dojo.query("#ieImageDisplay").removeClass("none");
+				dojo.query("#ieImageDisplay").addClass("static_img");
+				dojo.byId("WC_CatalogEntryQuickInfoDetailsf_div_14").removeChild(dojo.byId("s7container"));
+			}
+	  //}
+}
+
+</script>
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+<script type="text/javascript">
+   var partNumber = "";
+
+   function findStores(zipcode) {
+      //var address = document.getElementById("addressInput").value;
+      
+      if(zipcode!=""){
+        
+        var geocoder = new google.maps.Geocoder();
+    
+           geocoder.geocode({'address': zipcode}, function (results, status) {
+             
+             if (status == google.maps.GeocoderStatus.OK) {
+             
+               if (results[0]) {
+                 var latitude = results[0].geometry.location.lat();
+                 var longitude = results[0].geometry.location.lng();
+
+                 dojo.byId('geoCodeStoreLatitude').value = latitude;
+                 dojo.byId('geoCodeStoreLongitude').value = longitude;
+                 dojo.byId('geoCodeStoreLatitude').innerHTML = latitude;
+                 dojo.byId('geoCodeStoreLongitude').innerHTML = longitude;
+               }  
+    
+             } 
+           });  
+      }
+    }
+
+  function callFulfillmentService(zipcode,quantity) {
+	  if(typeof quantity == "undefined")
+    {
+      quantity = '1';
+    }
+    var params = [];
+        params.storeId = '10154';
+        params.catalogId = '10051';
+        params.langId = '-1';
+
+    if(typeof zipcode == "undefined" || zipcode.length == 0)
+    {
+        var ziplength = document.getElementsByName('checkProductAvailabilityZipCode').length;
+        if(ziplength  > 1){
+      var i = 0;
+      for(i = 0 ; i < ziplength ; i++){
+        var itmp = document.getElementsByName('checkProductAvailabilityZipCode')[i].value;
+        console.log("zipcode extracted  = " + itmp);
+        if(itmp != null && itmp != ""){
+          zipcode = itmp;
+          console.log("zipcode updated to = " + zipcode);
+        }
+      }
+        }else if(ziplength  == 1){
+          zipcode = document.getElementsByName('checkProductAvailabilityZipCode')[0].value;
+        }
+    }
+
+        params["zipCode"] = zipcode;
+        if((partNumber.length > 1) && !(typeof partNumber === 'string')){
+          for(i=0; i<partNumber.length; i++){
+            params["partnum_"+i] = partNumber[i];
+            params["quantity_"+i] = quantity;
+          }
+        } else {
+          params["partnum"] = partNumber;
+          params["quantity"] = quantity;
+        }
+        
+        
+        dojo.cookie("ZipCode", zipcode, { expires: 30,path:"/" });
+          /*For Handling multiple clicks. */
+          if(!submitRequest()){
+              return;
+          }           
+
+        wc.service.invoke("AjaxCheckProductAvailabilityService", params);
+  } 
+
+  function validateCheckAvailabilityZipCode(form)
+  {
+    // HHG-831 - Using OpenValidate framwork for validating zip code entered by user.
+    
+    if(form == undefined || form.id == undefined){
+      return true;
+    }
+    var formValidator = new OpenVL();
+    formValidator.validate({_form:"#" + form.id, _focusBlur:true, _msgType:"inline"});
+    if(formValidator.exec(form)) {
+      return true;
+    } else {
+      return false;
+    }
+   }
+</script>
+
+<script type="text/javascript" language="JavaScript1.1">
+<!--
+  var MM_contentVersion = 6;
+  var hasFlashPlayer = true;
+  var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+  if ( plugin ) {
+      var words = navigator.plugins["Shockwave Flash"].description.split(" ");
+        for (var i = 0; i < words.length; ++i)
+        {
+      if (isNaN(parseInt(words[i])))
+      continue;
+      var MM_PluginVersion = words[i]; 
+        }
+    var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
+  }
+  else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+     && (navigator.appVersion.indexOf("Win") != -1)) {
+    document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
+    document.write('on error resume next \n');
+    document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
+    document.write('</SCR' + 'IPT\> \n');
+  }
+  if ( MM_FlashCanPlay ) {
+    hasFlashPlayer = true;
+  } else{
+    hasFlashPlayer = false;
+  }
+  var isIEBrowser = false;
+  if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0) {
+    isIEBrowser = true;
+  }
+  
+//-->
+</script>
 		<h1></h1>
 		<div class="clear">	
 <div id="global_inner_left">
@@ -872,17 +1963,103 @@ function getStyleDirectoryPath()
 			
 		</div>
 		<!-- Main Content End --><!-- Footer Start Start --></div>
-<!-- BEGIN FooterDisplay.jspf --><!-- BEGIN CachedFooterDisplay.jsp --><div id="ft"><div class="footer_container_w"><p class="footer_header">Customer Support</p><ul><li><a href="/content2/CustomerService">Customer Service</a></li><li><a href="/content2/FAQ">FAQs</a></li><li><a href="/content2/ContactUs">Contact Us</a></li></ul><ul><li><a href="/content/article/weeklyad">Weekly Ad</a></li><li><a href="/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?storeId=10154&amp;catalogId=10051">Store Locator</a></li><li><a href="/content/article/article_rebates">Rebate Center</a></li></ul></div><div class="footer_container_r"><p class="footer_header">Credit &amp; Rewards</p><ul><li><a href="/webapp/wcs/stores/servlet/AjaxLogonForm?storeId=10154&amp;catalogId=10051&amp;page=accountinformation">hhgregg rewards</a></li><li><a href="/content/article/article_hhgregg_credit_card">hhgregg Card</a></li><li><a href="/gift-cards">Gift Cards</a></li></ul></div><div class="footer_container_r"><p class="footer_header">Corporate Info</p><ul><li><a href="/content2/about_us">About Us</a></li><li><a href="http://ir.hhgregg.com/" target="_blank">Investor Relations</a></li><li><a href="/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?storeId=10154&amp;catalogId=10051">Store Locator</a></li><li><a href="/content2/ContactUs">Contact Us</a></li><li><a href="http://www.hhgregg-jobs.com/" target="_blank">Careers</a></li><li><a href="http://commercial.hhgregg.com/" target="_blank">Commercial Division</a></li><li><a href="/content/article/article_donations">Donations</a></li><li><a href="/content/article/presskit">Press Kit</a></li></ul></div><div class="footer_container_r last"><p class="footer_header">Follow Us</p><ul class="footer_follow"><li><a href="http://www.facebook.com/hhgregg" target="_blank"><img alt="" border="0" src="/images/footer/footerFacebookLink.gif"><span>Facebook</span></a></li><li><a href="http://www.twitter.com/hhgregg" target="_blank"><img alt="" border="0" src="/images/footer/footerTwitterLink.gif"><span>Twitter</span></a></li><li><a href="http://pinterest.com/hhgregg/" target="_blank"><img alt="" border="0" src="/images/footer/footerPinterestLink.gif"><span>Pinterest</span></a></li><li><a href="http://www.youtube.com/user/hhgregg" target="_blank"><img alt="" border="0" src="/images/footer/footerYoutubeLink.gif"><span>YouTube</span></a></li><li><a href="https://plus.google.com/b/115590436186199069724/115590436186199069724/posts" target="_blank"><img alt="" border="0" src="/images/footer/footerGoogle+Link.gif"><span>Google+</span></a></li><li><a href="http://blog.hhgregg.com/blog/hhgregg" target="_blank"><img alt="" border="0" src="/images/footer/footerBlogLink.gif"><span>Blog</span></a></li></ul></div><div class="footer_links"><span>Related Links:</span><a href="http://www.hhgreggfinelines.com" target="_blank">Fine Lines</a><a href="http://www.encompassparts.com/affiliates/?id=130887" target="_blank">Part Search</a></div><div class="footer_links second"><a href="/content2/privacy_policy">Privacy Policy</a><a href="/content2/legal_notice">Legal Notice</a></div><div id="copyright">Copyright ® 2012 hhgregg all rights reserved</div><div class="footer_links"></div>
-<div id="static_ft" class="footer_links">
-	<!--
-	SiteSeal Html Builder Code:
-	Shows the logo at URL https://seal.networksolutions.com/images/evsqgreen.gif
-	Logo type is ("NETEV")
-	//-->
-	<script language="JavaScript" type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/evsqgreen.gif", "NETEV", "none");</script>
-	<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.hhgregg.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.hhgregg.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- BEGIN FooterDisplay.jspf --><!-- BEGIN CachedFooterDisplay.jsp -->
+	<script>
+	   var privacyPolicyModal;
+	   dojo.require("dijit.Dialog");
+	   dojo.addOnLoad(function() {
+	      if (!privacyPolicyModal) {
+	    	  privacyPolicyModal = new dijit.Dialog(null,"privacyPolicyModal");
+	      }
+	   });
+	   
+	   function togglePrivacyPolicyModal() {
+	      if (privacyPolicyModal.open) {
+	    	  privacyPolicyModal.hide();
+	      }
+	      else {
+	    	  privacyPolicyModal.autofocus = false;
+	    	  privacyPolicyModal.show();
+	      }
+	   }
+	</script>
+	
+	    
+<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/OpenValidate.js"></script>
+       <script type="text/javascript">
+    dojo.addOnLoad(function() { 
+      ServicesDeclarationJS.setCommonParameters('-1','10154','10051');
+      
+
+      MessageHelper.setMessage("REQUIRED_FIELD_ENTER", "This is required field. Please enter the value.");
+      MessageHelper.setMessage("ERROR_ZipCodeEmpty", "Please enter your ZIP code");
+          MessageHelper.setMessage("ERROR_EmailEmpty", "Please enter a valid email address");
+          MessageHelper.setMessage("ERROR_ZipCodeTooLong", "The value entered in the ZIP code/postal code field is too long.");
+          MessageHelper.setMessage("ERROR_EmailTooLong", "The value entered in the email field is too long."); 
+      });
+        </script>
+
+</div>
+<div id="pageFooter">
+
+<div class="footerTop clearfix">
+  <div class="emailCapture">
+    <div id="optInThankYou" class="none"></div>
+    
+    <form name="OptIn" method="post" id="emailOptInForm">
+    <h3>Sign up to receive special deals online and at your local store.</h3>
+      <div class="formInput">
+        
+        <span class="optIn spot">
+          <label for="emailOptInAddress" class="nodisplay">
+            email address
+          </label>
+          <input type="text" placeholder="enter your email address" id="emailOptInAddress" value="enter your email address" class="form-req form-email placeholder" name="email" maxlength="64" onclick="if(this.value=='enter your email address'){this.value='';}" onkeypress="if(event.keyCode==13) javascript:categoryDisplayJS.submitOptInUser(document.OptIn);" onblur="if(this.value==''){this.value='enter your email address';}">
+        </span>
+       <span class="optIn spot">
+          <label for="zipCode" class="nodisplay">
+             5 digit ZIP code
+          </label>
+          <input type="text" placeholder="zipcode" class="form-req form-number form-length-valid placeholder" name="zipCode" id="zipCode" max="5" min="5" maxlength="5" onkeypress="if(event.keyCode==13) javascript:categoryDisplayJS.submitOptInUser(document.OptIn);" onclick="if(this.value=='zip code'){this.value='';}" onblur="if(this.value==''){this.value='zip code';}" value="zip code">
+        </span>
+      </div>
+      <div class="formButton">
+        <a href="#" onclick="javascript:categoryDisplayJS.submitOptInUser(document.OptIn);return false;" class="optIn sign_up_btn">
+          <span>
+            Sign Up
+          </span>
+        </a>
+        <a class="privacyLink" href="#" onclick="togglePrivacyPolicyModal()">Privacy Policy</a>
+      </div>
+    </form>
+</div>
+<div class="building"></div>
+<div class="social"><h3>Follow Us</h3><ul class="socialIcons"><li><a href="http://www.facebook.com/hhgregg" target="_blank"><img alt="" border="0" src="/images/footer/footerFacebookLink.gif"></a></li><li><a href="http://www.twitter.com/hhgregg" target="_blank"><img alt="" border="0" src="/images/footer/footerTwitterLink.gif"></a></li><li><a href="http://pinterest.com/hhgregg/" target="_blank"><img alt="" border="0" src="/images/footer/footerPinterestLink.gif"></a></li><li><a href="http://www.youtube.com/user/hhgregg" target="_blank"><img alt="" border="0" src="/images/footer/footerYoutubeLink.gif"></a></li><li><a href="https://plus.google.com/b/115590436186199069724/115590436186199069724/posts" target="_blank"><img alt="" border="0" src="/images/footer/footerGoogle+Link.gif"></a></li></ul></div>
+
+</div>
+<div class="footerBottom clearfix">
+<div id="footerBottom_outside" class="clearfix">
+<div id="footerBottom_1">
+<div class="colA">
+  <!--
+  SiteSeal Html Builder Code:
+  Shows the logo at URL https://seal.networksolutions.com/images/evsqgreen.gif
+  Logo type is ("NETEV")
+  //-->
+  <script language="JavaScript" type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/evsqgreen.gif", "NETEV", "none");</script>
+  <a style="padding:10px" onclick="javascript:popupPSPWindow('https://www.mcafeesecure.com/RatingVerify?ref=www.hhgregg.com');return true;" href="#"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.hhgregg.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
 </div>
 
+
+<script>document.write('<s'+'cript language="JavaScript" src="https://view.atdmt.com/jaction/zimhhg_GeneralFooterTag_1"></s'+'cript>')</script><script language="JavaScript" src="https://view.atdmt.com/jaction/zimhhg_GeneralFooterTag_1"></script>
+<noscript><iframe src="https://view.atdmt.com/iaction/zimhhg_GeneralFooterTag_1" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></noscript>
+<div style="float:right">
+<div class="menu"><h3>Customer Support</h3><ul><li><a href="/content2/CustomerService">Customer Service</a></li><li><a href="/content2/FAQ">FAQs</a></li><li><a href="/content2/ContactUs">Contact Us</a></li><li><a href="http://www.hhgregg.com/content/article/article_returns_refunds_faq">Returns &amp; Exchanges</a></li><li><a href="/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?storeId=10154&amp;catalogId=10051">Store Locator</a></li><li><a href="/content/article/article_rebates">Rebate Center</a></li><li><a href="/content2/privacy_policy">Privacy Policy</a></li><li><a href="/content2/legal_notice">Legal Notice</a></li></ul></div><div class="menu"><h3>Credit &amp; Rewards</h3><ul><li><a href="/rewards">h.h. gregg rewards</a></li><li><a href="/content/article/article_hhgregg_credit_card">h.h. gregg Card</a></li><li><a href="/gift-cards">Gift Cards</a></li></ul></div><div class="menu"><h3>Corporate Info</h3><ul><li><a href="/content2/about_us">About Us</a></li><li><a href="http://ir.hhgregg.com/" target="_blank">Investor Relations</a></li><li><a href="/webapp/wcs/stores/servlet/AjaxStoreLocatorDisplayView?storeId=10154&amp;catalogId=10051">Store Locator</a></li><li><a href="/content2/ContactUs">Contact Us</a></li><li><a href="http://www.hhgregg-jobs.com/" target="_blank">Careers</a></li><li><a href="http://commercial.hhgregg.com/" target="_blank">Commercial Division</a></li><li><a href="/content/article/article_donations">Donations</a></li><li><a href="/content/article/presskit">Press Kit</a></li></ul></div><div class="menu"><h3>Related Links:</h3><ul><li><a href="http://www.hhgreggfinelines.com" target="_blank">Fine Lines</a></li><li><a href="http://www.encompassparts.com/affiliates/?id=130887" target="_blank">Part Search</a></li></ul></div>
+</div>
+</div>
+<p class="copyright">© 2000-2012 Gregg Appliances, Inc., All rights reserved.<br>h.h. gregg, the h.h. gregg logo and design and hhgregg.com are trademarks of Gregg Appliances, Inc.</p>
+</div>
+</div>
 <!-- begin Marin Software Tracking Script -->
 <script type="text/javascript">
 var _marinClientId = "iyyqtzqrp4";
@@ -890,11 +2067,6 @@ var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http
 document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
 _marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://tracker.marinsm.com/tracker/iyyqtzqrp4.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-document.write(unescape("%3Cscript src='" + _marinProto + "cti.w55c.net/ct/ct-b31f3325c26a4822887f1815d9f3cbe1" +
- ".js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://cti.w55c.net/ct/ct-b31f3325c26a4822887f1815d9f3cbe1.js" type="text/javascript"></script>
 
 <script type="text/javascript">document.write('<s'+'cript language="JavaScript" src="' + _marinProto + '""></s'+'cript>')</script><script language="JavaScript" src="https://" "=""></script>
 
@@ -907,8 +2079,13 @@ _marinTrack.trackPage();
 <img src="https://tracker.marinsm.com/tp?act=1&cid=iyyqtzqrp4&script=no" >
 </noscript>
 
-<script>document.write('<s'+'cript language="JavaScript" src="https://view.atdmt.com/jaction/zimhhg_GeneralFooterTag_1"></s'+'cript>')</script><script language="JavaScript" src="https://view.atdmt.com/jaction/zimhhg_GeneralFooterTag_1"></script>
-<noscript><iframe src="https://view.atdmt.com/iaction/zimhhg_GeneralFooterTag_1" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></noscript>
+<script type="text/javascript">
+                            dojo.addOnLoad(function() { 
+                              });
+                            function popupPSPWindow(URL) { 
+                              window.open (URL,"mywindow","menubar=0,resizable=1,width=550,height=700,scrollbars=yes"); 
+                            }
+                          </script>
 
 
 <script language="javascript" src="https://dsa.csdata1.com/data/js/2062023/csgather.js"></script>
@@ -928,6 +2105,14 @@ function passClearSaleingTrackingData()
 		requestSubmitted = false;
 	}); 	
 </script>
+<!-- END LayoutContainerBottom.jspf -->
+<script type="text/javascript">
+	dojo.addOnLoad(function() { 
+		//Make sure page is loaded at this point
+		//Set requestedSubmitted to false
+		requestSubmitted = false;
+	}); 	
+</script>
 <!-- END LayoutContainerBottom.jspf --><!-- Footer Start End -->
 	</div>
 	<div id="page_shadow" class="shadow"></div>
@@ -936,10 +2121,10 @@ function passClearSaleingTrackingData()
 
 
 
-<!-- END TopCategoriesDisplay.jsp --></div><div class="dijitDialog dijitContentPane" tabindex="-1" wairole="dialog" waistate="labelledby-progress_bar_dialog_title" role="dialog" aria-labelledby="progress_bar_dialog_title" id="progress_bar_dialog" widgetid="progress_bar_dialog" title="" style="visibility: hidden; position: absolute; top: -9999px;">
+<!-- END TopCategoriesDisplay.jsp --><div class="dijitDialog" tabindex="-1" wairole="dialog" waistate="labelledby-progress_bar_dialog_title" role="dialog" aria-labelledby="progress_bar_dialog_title" id="progress_bar_dialog" widgetid="progress_bar_dialog" title="" style="display: none; position: absolute;">
 	<div dojoattachpoint="titleBar" class="dijitDialogTitleBar">
 	<span dojoattachpoint="titleNode" class="dijitDialogTitle" id="progress_bar_dialog_title"></span>
-	<span dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: onCancel, onmouseenter: _onCloseEnter, onmouseleave: _onCloseLeave" title="Cancel">
+	<span dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: onCancel" title="Cancel">
 		<span dojoattachpoint="closeText" class="closeText" title="Cancel">x</span>
 	</span>
 	</div>
@@ -961,209 +2146,94 @@ function passClearSaleingTrackingData()
 		</div>
 	</div>
 </div>
-</div><div class="dijitDialog dijitContentPane" tabindex="-1" wairole="dialog" waistate="labelledby-second_level_category_popup_title" role="dialog" aria-labelledby="second_level_category_popup_title" id="second_level_category_popup" widgetid="second_level_category_popup" title="" style="visibility: hidden; position: absolute; top: -9999px;">
+</div><div class="dijitDialog" tabindex="-1" wairole="dialog" waistate="labelledby-second_level_category_popup_title" role="dialog" aria-labelledby="second_level_category_popup_title" id="second_level_category_popup" widgetid="second_level_category_popup" title="" style="display: none; position: absolute;">
 	<div dojoattachpoint="titleBar" class="dijitDialogTitleBar">
 	<span dojoattachpoint="titleNode" class="dijitDialogTitle" id="second_level_category_popup_title"></span>
-	<span dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: onCancel, onmouseenter: _onCloseEnter, onmouseleave: _onCloseLeave" title="Cancel">
+	<span dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: onCancel" title="Cancel">
 		<span dojoattachpoint="closeText" class="closeText" title="Cancel">x</span>
 	</span>
 	</div>
 		<div dojoattachpoint="containerNode" class="dijitDialogPaneContent">
-		<div class="top_left" id="WC_CatalogEntryQuickInfoDetailsf_div_1"><img alt="" src="/wcsstore/MadisonsStorefrontAssetStore/images/trasparent.gif"></div>
-	  <div class="top_right" id="WC_CatalogEntryQuickInfoDetailsf_div_2"><img alt="" src="/wcsstore/MadisonsStorefrontAssetStore/images/trasparent.gif"></div>
-		<div class="header" id="popupHeader"> 
-			<div class="close" id="WC_CatalogEntryQuickInfoDetailsf_div_3">
-			    <a id="closeLink" href="javascript:hidePopup('second_level_category_popup');" onkeydown="javaScript:setbackFocus(event);" onmousedown="javaScript:setbackFocus(event);">
-			        <span onclick="javaScript:hidePopup('second_level_category_popup');" class="icon dijitHidden" id="WC_CatalogEntryQuickInfoDetailsf_div_4">
-			            <img alt="" src="/wcsstore/MadisonsStorefrontAssetStore/images/colors/color1/popup_close.png">
-			        </span>
-			        close
-			    </a>
-			</div>
-		</div>
-		
-		<div id="attribute_UOM_HUR" class="dijitHidden">
-			{0} Hour(s)
-		</div>
-		<div id="attribute_UOM_DAY" class="dijitHidden">
-			{0} Day(s)
-		</div>
-		<div id="attribute_UOM_WEE" class="dijitHidden">
-			{0} Week(s)
-		</div>
-		<div id="attribute_UOM_MON" class="dijitHidden">
-			{0} Month(s)
-		</div>
-		<div id="attribute_UOM_ANN" class="dijitHidden">
-			{0} Year(s)
-		</div>
-		
-		<div class="bodyarea" id="WC_CatalogEntryQuickInfoDetailsf_div_5">
-		    <div class="bodycontent" id="WC_CatalogEntryQuickInfoDetailsf_div_6">
-		       <div class="title" id="WC_CatalogEntryQuickInfoDetailsf_div_7">
-					<div id="productIdQuickInfo" style="display:none"></div>		       
-			       <h2 id="productName"></h2>
-			       <h1 id="productSKUValue" class="dijitHidden"></h1>
-			     </div>
+    <input type="hidden" id="viewLargerUrl" value="">
+    <div dojotype="wc.widget.RefreshArea" id="QuickViewModal" controllerid="QuickViewModalController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all">
+      <!-- BEGIN CatalogEntryQuickInfoDetails.jspf-->
+
+<script type="text/javascript" src="/wcsstore/MadisonsStorefrontAssetStore/javascript/CatalogArea/CatalogEntryThumbnailDisplay.js"></script>
 
 
-		       <div class="product_details" id="WC_CatalogEntryQuickInfoDetailsf_div_14">
-		         <div class="product_visual" id="WC_CatalogEntryQuickInfoDetailsf_div_15">
-		       		<div style="display:none;" id="baseUrlImageDir">/wcsstore/MadisonsStorefrontAssetStore/</div>
-			       	<img alt="" src="/wcsstore/MadisonsStorefrontAssetStore/images/NoImageIcon.jpg" border="0" class="product_image" id="productFullImage">
-		         </div>
-		         
-		         <div class="product_information" id="WC_CatalogEntryQuickInfoDetailsf_div_16">
-			         <div id="productActions" class="dijitHidden">
-	     					
-												<div id="addToWishListLinkAjaxDivContainer">
-												<div class="tertiary_button_shadow" id="addToWishListButton">
-													<div class="tertiary_button">
-														<a id="addToWishListLinkAjax" href="">
-															Add to Wish List 
-														</a>
-													</div>
-												</div>
-												</div>                 																
-											
-												<div id="addToCompareLinkContainer">
-												<div class="tertiary_button_shadow" id="addToCompareBox">
-													<div class="tertiary_button">
-														<a id="addToCompareLink" href="">
-															Add to Compare 
-														</a>
-													</div>
-												</div>
-												</div>
-											
-												<div id="replaceCartItemAjaxContainer">
-												<div class="tertiary_button_shadow">
-													<div class="tertiary_button">
-														<a href="" id="replaceCartItemAjax"> Update cart item</a>
-													</div>
-												</div>
-												</div>
-											
-						</div>
-					
-		       			<p id="productAttributes" class="dijitHidden"></p>
-		       			
-		       			<div class="product_description" id="productShortDescription"></div>
-		       			<div id="productModel"></div>
-		       			
-		       			<div class="reviews" id="productReviews">
-							
-						</div>
-					<div class="product_description" id="productLongDescription"></div>
-					<!-- HHG-801 Populates the Rebate Container -->
-					<p class="productPromotions" id="manufacturersRebate"></p>
-				
-					<p class="product_description dijitHidden" id="productPromotions"><a href="#">Manufacturers Rebate</a></p>
-		       			
-		       			<div class="product_description dijitHidden" id="productDescriptiveAttributes"></div>
-		       			
-		       			<a href="" class="yellow_btn" title="more info" id="productMoreInfoLink"><span>View Full Details<!--more info--></span></a>
-		       			
-		       			<p id="moreinfo" class="dijitHidden">Click on more info to Add to cart and more</p>
-
-					
-		         </div>
-
-		         
-
-		     		 <div class="clear_float" id="WC_CatalogEntryQuickInfoDetailsf_div_17"></div>
-			<span style="display:none" id="requiredFieldText">required information</span>
-		         <span style="display:none" id="selectText">Select...</span>
-		       	 <span tabindex="0" id="focusConveyer" onfocus="javaScript:gobackFocus();"></span>
-	          </div>
-		       
-
-		       <div class="right">
-		       <div class="purchase_details" id="WC_CatalogEntryQuickInfoDetailsf_div_8">
+<div style="display:none;" id="s7ServerName">http://hhgregg.scene7.com/is/image/hhgregg/</div>
+<div style="display:none;" id="SCENE7SUFFIX">_a1_main?$pdpmodal$</div>
+<div style="display:none;" id="SCENE7NOIMAGESUFFIX">_a1_main?$pdpmodal$</div>
 
 
-<div id="quickViewPriceDiv" class="pricing">
-	<div class="reg_price">
-		<span>SRP</span>
-		<span>$269.99</span>
+
+<script type="text/javascript">
+
+dojo.require('plugins.ATabs');
+dojo.ready(function () {
+  var $tabs = dojo.query('.tabs1');
+  tabs = new plugins.ATabs($tabs,{mode:"tabs",defaultTab:1});
+});
+
+function showTab(index)
+{
+  var trigger = dojo.query(".tabHeading a[href$=#target" + index + "]")[0];
+  dojo.query('.specs .active').removeClass('active');
+  dojo.addClass(trigger.parentNode,'active');
+  dojo.query('.specs .open').addClass('hidden').removeClass('open');
+  dojo.query('.specs #target' + index + "_pane").removeClass("hidden").addClass('open');
+}
+</script>
+
+  <div class="top_left" id="WC_CatalogEntryQuickInfoDetailsf_div_1"><img alt="" src="/wcsstore/MadisonsStorefrontAssetStore/images/trasparent.gif"></div>
+  <div class="top_right" id="WC_CatalogEntryQuickInfoDetailsf_div_2"><img alt="" src="/wcsstore/MadisonsStorefrontAssetStore/images/trasparent.gif"></div>
+  <div class="header" id="popupHeader">
+    
+    <div class="close" id="WC_CatalogEntryQuickInfoDetailsf_div_3">
+      <a id="closeLink" href="javascript:hidePopup('second_level_category_popup');" onkeydown="javaScript:setbackFocus(event);" onmousedown="javaScript:setbackFocus(event);">
+        <span onclick="javaScript:hidePopup('second_level_category_popup');" class="icon dijitHidden" id="WC_CatalogEntryQuickInfoDetailsf_div_4">
+           <img alt="" src="/wcsstore/MadisonsStorefrontAssetStore/images/colors/color1/popup_close.png">
+        </span>
+        close (X)
+      </a>
+    </div>
+  </div>
+  
+  <div class="footer" id="WC_CatalogEntryQuickInfoDetailsf_div_18">
+  <div class="bot_left" id="WC_CatalogEntryQuickInfoDetailsf_div_19"></div>
+  <div class="bot_right" id="WC_CatalogEntryQuickInfoDetailsf_div_20"></div>
+  </div>
+  <!--[if lte IE 6.5]><iframe id="dropDownIFrame" scrolling="no" frameborder="0" src="/wcsstore/MadisonsStorefrontAssetStore/images/empty.gif"></iframe><![endif]-->
+        
+        <script>
+        function viewLarger()
+        {
+          var url = 'http://www.hhgregg.com/webapp/wcs/stores/servlet/ViewLargerPopupView?catalogId=10051&amp;langId=-1&amp;storeId=10154';
+          url = url.replace(/amp;/g,"");
+          var modelNumber = '';
+          var viewerUrl = encodeURIComponent(dojo.byId("viewLargerUrl").value);
+          var useFlashPlayer = true;
+          if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0) {
+        	  useFlashPlayer = isIEBrowser;
+        	}          
+          window.open(url+"&modelNumber="+modelNumber+"&useFlash="+useFlashPlayer+"&viewerUrl="+viewerUrl,"_blank","resizable=1,width=640,height=560"); 
+          omnitureProductTag(null,null,null,null,'','event10');sendToOmniture();
+        }
+      </script>
+<!-- END CatalogEntryQuickInfoDetails.jspf-->
+    </div>
+  </div>
+</div><div class="dijitDialog" tabindex="-1" wairole="dialog" waistate="labelledby-privacyPolicyModal_title" role="dialog" aria-labelledby="privacyPolicyModal_title" id="privacyPolicyModal" widgetid="privacyPolicyModal" title="" style="display: none; position: absolute;">
+	<div dojoattachpoint="titleBar" class="dijitDialogTitleBar">
+	<span dojoattachpoint="titleNode" class="dijitDialogTitle" id="privacyPolicyModal_title"></span>
+	<span dojoattachpoint="closeButtonNode" class="dijitDialogCloseIcon" dojoattachevent="onclick: onCancel" title="Cancel">
+		<span dojoattachpoint="closeText" class="closeText" title="Cancel">x</span>
+	</span>
 	</div>
-	<div class="savings">
-		<span>Savings</span>
-		<span>$70.00</span>
-	</div>
-	<div class="your_price">
-		<span>Your Price</span>
-		<span class="price offerprice bold">$199.99</span>
-	</div>
-</div>
-                
-<div id="quickViewWarrantyDiv" class="warranty" style="display:none;">
-	<h2>Service Plans: </h2>
-	<fieldset>
-		<ul id="quickViewWarrantyList">
-
-		</ul>
-	</fieldset>
-</div>
-
-<div class="add_to_cart" id="WC_CatalogEntryDBThumbnailDisplayJSPF_13203_td_7">
-		<div class="primary_button_shadow" id="WC_CatalogEntryDBThumbnailDisplayJSPF_13203_div_12_1">
-			<div class="product_availability" id="availabilityMsg"></div>
-			<div>
-				<a id="quickViewAdd2CartButton" class="button" href="" waistate:controls="MiniShoppingCart"><span>Add to Cart</span></a>													
-			</div>
-		</div>
-</div>
-<div class="addToWishListButtonBorder">
-	<div class="tertiary_button_shadow" id="addToWishListButton_1">
-		<div class="tertiary_button left">
-			<a id="add2WishListLink" href="">Add to Wish List </a>
-		</div>
-	</div>						
-</div>
-
-					<div class="purchase_price dijitHidden" id="productPrice"></div>
-						
-		     			<div class="purchase_quanitity dijitHidden" id="productQuantity">
-								<span>
-		   						<label for="productPopUpQty">
-										Quantity: </label><input type="text" name="quantity" id="productPopUpQty" class="quantity" value="1" size="2">
-										<input type="hidden" name="minQty" id="minQty" value="1">
-		   						</span>
-		   						<span class="order_button">
-		   							 
-										<span class="primary_button" id="addToCartAjaxButton">
-											<span class="button_container">
-												<span class="button_bg">
-													<span class="button_top">
-														<span class="button_bottom">   
-															<a id="addToCartLinkAjax" href="javascript:;">
-																Add to Cart
-															</a>
-														</span>
-													</span>
-												</span>	
-											</span>
-										</span>	
-									
-		     						</span>
-		     			</div>
-		     			
-
-		     			<div class="clear_float" id="WC_CatalogEntryQuickInfoDetailsf_div_13"></div>
-		       </div>
-
-		     
-			</div>
-
-
-		    </div>
-		</div>
-		
-		<div class="footer" id="WC_CatalogEntryQuickInfoDetailsf_div_18">
-	    <div class="bot_left" id="WC_CatalogEntryQuickInfoDetailsf_div_19"></div>
-	    <div class="bot_right" id="WC_CatalogEntryQuickInfoDetailsf_div_20"></div>
-	  </div>
-	  	<!--[if lte IE 6.5]><iframe id="dropDownIFrame" scrolling="no" frameborder="0" src="/wcsstore/MadisonsStorefrontAssetStore/images/empty.gif"></iframe><![endif]-->
+		<div dojoattachpoint="containerNode" class="dijitDialogPaneContent">
+	 <div class="modal privacyPolicyModal">
+      <div><h2>Privacy Policy</h2><p><strong>Information Practices</strong></p><p>hhgregg understands that security and privacy are important issues for visitors to our hhgregg.com web site (the "Site") and recognizes our obligation to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time, and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent.</p><p><strong>Collection of Information </strong></p><p>You may be asked to voluntarily provide your name, billing address, shipping address, phone number, credit card number, email address or other personally identifiable information ("Personal Information") to make purchases or to have access to some features of the Site. By using the Site and providing us with your Personal Information, you consent to our use of such information as described in this Policy. You may always refuse to provide your Personal Information, and this may lead to our inability to provide you with certain products or services. We or our business partners may also collect information that is anonymous, such as your IP address (a number used to identify your computer on the Internet) or the type of browser you are using ("Anonymous Information"), through the use of cookies or by other means. We hope that, by using Anonymous Information, we can update the Site to make it more useful to you and other users. We reserve the right to maintain, update, disclose or otherwise use Anonymous Information, without limitation.</p><p>--------------------------------------------------------------------------------</p><p><strong>Use of Information</strong></p><p>hhgregg uses your Personal Information for the following purposes: to process your orders and administer your account; to administer and improve the Site and related services; to notify you of our products, services, promotional events or special offers that may be of interest to you; to provide Internet security; and to meet legal requirements. hhgregg may work with our business partners who may perform certain functions on our behalf, such as fulfilling orders, sending email messages, managing data, processing credit card payments or providing customer service. These business partners have access to your Personal Information only to the extent necessary to perform these specific functions and may not use it for any other purpose. Other than for the specific purposes set forth in this Policy, we will not disclose your Personal Information unless we obtain your prior consent or are legally required to do so. We may use third-party advertising companies to place ads on the Site and to place our ads on other web sites. These companies may use Anonymous Information about your visits to this and other web sites to provide advertisements on the Site and other sites about goods and services that may be of interest to you. If hhgregg is involved in the sale of a substantial portion of its business assets, Anonymous or Personal Information may be among the transferred assets.</p><p>--------------------------------------------------------------------------------</p><p><strong>Privacy of Children</strong></p><p>hhgregg encourages parents and guardians to be aware of and participate in their children's online activities. We strictly adhere to the Children's Online Privacy Protection Act and will not knowingly collect, use or disclose Personal Information from any child under the age of 13 in any manner that violates this law.</p><p>--------------------------------------------------------------------------------</p><p><strong>Your Opportunity to Opt-out of Email Advertising</strong></p><p>In the event you do not wish to receive promotional email from hhgregg , follow the opt-out instructions contained within the body of any email message you receive.<br><br><strong>Cookies</strong></p><p>When you visit the Site, hhgregg or a third-party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file that can help us in many ways. For example, cookies allow us to tailor the Site to better match your interests and preferences. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions to learn more about these functions. If you reject cookies, functionality of the Site may be limited, and you may not be able to take advantage of many of the Site's features.</p><p>--------------------------------------------------------------------------------</p><p><strong>Links</strong></p><p>The Site may contain links to other sites on the Internet that are owned and operated by third parties. hhgregg is not responsible for the collection or use of your Personal or Anonymous Information at any third party sites</p><p>--------------------------------------------------------------------------------</p><p><strong>Security</strong></p><p>We have policies and procedures in place to protect the privacy and confidentiality of your Personal Information that we collect and maintain. All Personal Information is stored on our secured servers, behind a firewall at a data center with access to data strictly controlled. Any unauthorized use of the Site may result in criminal and/or civil prosecution. hhgregg uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet.</p><p>--------------------------------------------------------------------------------</p><p><strong>Contacting hhgregg or Modifying Your Personal Information</strong></p><p>If you have any questions or comments about this Policy, please contact us by email. Please provide a concise communication with complete information, including your contact information.</p></div>
+	   <button class="button" onclick="togglePrivacyPolicyModal()"><span>close (X)</span></button>
+	 </div>
 	</div>
 </div></body></html>
