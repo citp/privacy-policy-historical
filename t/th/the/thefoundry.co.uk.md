@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520222630id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116001459id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy | The Foundry
 
@@ -12,7 +12,7 @@ You can access our website home page and browse our site without disclosing your
 
 We use cookies on the website to track visitor behaviour and store certain site preferences. If you prefer not to allow the use of cookies, you can change the configuration of your browser to either warn you when you receive a cookie, or to automatically reject them. You may find, however, that disabling cookies means certain areas of the site do not function correctly. 
 
-If you would like to find out more about cookies, including how to control or delete them, then we recommend you visit [http://www.aboutcookies.org]() for detailed guidance. 
+If you would like to find out more about cookies, including how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance. 
 
 ## What are cookies?
 
