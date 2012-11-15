@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525213523id_/http%3A//www.vivobarefoot.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivobarefoot.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115093129id_/http%3A//www.vivobarefoot.com/us/privacy-policy) for the most accurate reproduction.*
 
-# VIVOBAREFOOT | The original barefoot shoe | Barefoot Running | Barefoot Shoes | Privacy Policy UK
+# VIVOBAREFOOT | The original barefoot shoe | Barefoot Running | Barefoot Shoes | Privacy Policy US
 
-### Privacy Policy UK
+### Privacy Policy United States
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998.
 
-We collect information about you for two reasons: firstly, to process your order and secondly, to provide you with the best possible service.
+We collect information about you for 2 reasons: firstly, to process your order and secondly, to provide you with the best possible service.
 
-From time to time, we may make sections of our mailing list available to carefully selected companies whose products and services may be of interest to you. We will only include your information if you have specifically given your consent when creating an account or placing an order. We will also give you the chance to refuse any marketing emails from us.
+From time to time, we may make sections of our mailing list available to carefully selected companies whose products and services may be of interest to you. We will only include your information if you have specifically given your consent when creating an account or placing an order. We will also give you the chance to refuse any marketing email from us.
 
 The type of information we will collect about you includes:
 
