@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502174358id_/http%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115160902id_/http%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ The Lottery adheres to the following principles in connection with the collectio
 
 Non-persistent session cookies are used when visiting and searching informational content on the Lottery’s public website.  Session cookies do not contain user information, will not transmit any personal information to the Lottery, and are deleted automatically when the browser window closes or within 24 hours, whichever occurs first. 
 
-Persistent culture cookies are used to collect username and language setting information and must be deleted manually by the user. In addition, Google tracking cookies may be used to provide information to Google Analytics. Google tracking cookies, used by every website that employs Google Analytics, store information that indentifies IP addresses. For those wishing to block Google Analytics, a variety of browser plug-ins are [available here](http://tools.google.com/dlpage/gaoptout?hl=en "Google tools").
+Persistent culture cookies are used to collect username and language setting information and must be deleted manually by the user. In addition, Google tracking cookies may be used to provide information to Google Analytics. Google tracking cookies, used by every website that employs Google Analytics, store information that identifies IP addresses. For those wishing to block Google Analytics, a variety of browser plug-ins are [available here](http://tools.google.com/dlpage/gaoptout?hl=en "Google tools").
 
 The Lottery uses Flash cookies to support Casual Games in the players’ area. These cookies are persistent and only store certain user settings that you choose for game play. [Click here to see removal instructions.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html "Removal instructions")
 
