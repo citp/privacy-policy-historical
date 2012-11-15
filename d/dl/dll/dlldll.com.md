@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the dlldll.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510150853id_/http%3A//www.dlldll.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlldll.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004841id_/http%3A//www.dlldll.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
+|  |  |   
+---|---|---  
+|  [](http://www.smarttweak.net/smc/ref_dlldll_b_site) |   
+|  |   
+| 
 
 **Collection and use of information**   
 In order to provide our full range of services, we may collect the following types of information:
