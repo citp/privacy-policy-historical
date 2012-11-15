@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612075335id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115201950id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Books Ltd
 
@@ -45,7 +45,55 @@ We use cookies on this site to enable certain parts of the site to function and 
 **What are Cookies?**  
 Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They cannot harm your computer and do not contain any information that enable us to identify you personally, they just enable our websites to recognise your computer and to identify certain other non-personal information such as which browser you are using. This information can be used to make the website work, to identify which parts of the site can work better or to analyse how often people visit the site and what they look at. We will not associate this data with any personally identifying information that you may choose to provide to us in other ways.
 
-B **y your using this website, we imply that you have read this policy and agree to us sending you cookies.**
+**By your using this website, we imply that you have read this policy and agree to us sending you cookies.**
+
+For information about how you can change how your browser deals with cookies, please see the "Managing Cookies" section below.
+
+**Which cookies do we use on this site and why?**  
+The list below sets out the main cookies that we use on this site and what we use them for.
+
+CookieDescription
+
+Analytics Cookies
+
+__utma __utmb __utmc __utmz
+
+These are Google Analytics cookies. The Google Analytics tool collects anonymous information about how visitors use our websites, for example how many visitors came to our website and when, what browsers visitors use and how long visitors stay on the site. This data does not contain any information that is personal to you.
+
+s_vnum s_cc s_invisit sc_v4 s_lv s_lv_s sc_v5 s_sq s_getNewRepeat sc_ev6
+
+These are Site Catalyst Analytics cookies. Site Catalyst is an analytics tool that collects anonymous information about how visitors use our websites, for example how many visitors came to our website and when, what browsers visitors use and how long visitors stay on the site. This data does not contain any information that is personal to you.
+
+_chartbeat2
+
+This is a Chartbeat Analytics cookie. Chartbeat gives us real time information on visitors to our websites. The information gathered is not information personal to you.
+
+Social Media Cookies
+
+uit loc di dt uid __atuvc
+
+These are "Add This" social media cookies. These cookies enable users, if they wish, to login to their accounts on social media sites such as Twitter or Facebook and share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to any of your accounts.
+
+datr locale lu lsd reg_fb_gate reg_fb_ref
+
+These are third party Facebook cookies. These cookies enable users, if they wish, to login to their Facebook account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts.
+
+k guest_id auth_token_session secure_session pid twll
+
+These are third party Twitter cookies. These cookies enable users, if they wish, to login to their Twitter account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts.
+
+Shopping Cookies
+
+GoBackUrl scopen sbscr_refer sbscr_session order_session CP Apache SSLFilterCookie ASPSESSIONID
+
+These cookies are necessary to enable users on our site to browse and purchase titles. These help perform essential functionality such as remembering what items you have added to your shopping cart, keeping you logged in to your shopping account or remembering your order number.
+
+Youtube Cookies
+
+demographics VISITOR_INFO1_LIVE dkv use_hitbox ACTIVITY recently_watched_  
+  video_id_list PREF
+
+These are third party cookies placed by YouTube videos we have embedded on the site. We do not control the setting of these cookies so please check the websites of these third-parties for more information about their cookies and how to manage them.
 
 Third Party Cookies
 
