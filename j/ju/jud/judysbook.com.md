@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606100042id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judysbook.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115075636id_/http%3A//www.judysbook.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy - Judy's Book
 
@@ -133,8 +133,8 @@ We welcome your feedback. If you have any comments or concerns about this privac
 E-Mail: [info@judysbookteam.com](mailto:info@judysbookteam.com)
 
 Postal Mail:  
-PO Box 192  
-Bothell, WA 98041-0192
+733 7th Ave, STE 212  
+Kirkland, WA 98037
 
 **Data Changes  
 **   
