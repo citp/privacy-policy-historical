@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502050528id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116002529id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HiFiSoundConnection
 
