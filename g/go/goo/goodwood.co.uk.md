@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goodwood.co.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516032430id_/http%3A//www.goodwood.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodwood.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005530id_/http%3A//www.goodwood.co.uk/privacy-and-cookies.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Cookies
 
-##  PRIVACY POLICY 
+##  PRIVACY & COOKIES POLICY 
 
 Welcome to the Goodwood website, which is provided as an information service by **The** **Goodwood Estate Company Limited** (registered in England under number 553452) for and on behalf of the following companies: 
 
@@ -62,3 +62,11 @@ We take privacy policy issues seriously, and each of our companies is notified t
 ###  **4.  LINKS**
 
 This website contains links to other sites. Please be aware that we cannot accept any responsibility for these other websites, and you are recommended to check the Privacy Policy of the website you link to before submitting any personal information. We will indicate where a link will take you out of our website. 
+
+###  **5\. Use of Cookies**
+
+A cookie is a small data file that certain web sites write to your hard drive when you visit them. The only personal information a cookie can obtain is information a user supplies him or herself. A cookie cannot read data from your hard disk or read cookie files created by other sites. Cookies, however, enhance our web site performance in a number of ways, including providing a secure way for us to verify your identity during your visit to our web site and personalising your experience on our site, making it more convenient for you. 
+
+This web site uses cookies so that we can serve you better. This site uses visitor tracking software that will use cookies to track information about how visitors come to the website, which pages they visit, and other actions that visitors make whilst on the site. This data is then used in order to improve the user experience of the web site. All user data collected in this manner is anonymous. 
+
+Should you wish to do so, you can refuse cookies by disabling them in your web browser’s settings, and you do not need to have cookies turned on to successfully use our service. Most browsers are defaulted to accept and maintain cookies and you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not. Please consult the support documentation for your web browser, which can be found online, for more information. 
