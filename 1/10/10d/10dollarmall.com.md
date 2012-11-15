@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 10dollarmall.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613180156id_/http%3A//www.10dollarmall.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10dollarmall.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115222305id_/http%3A//www.10dollarmall.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - 10DollarMall.com
 
 Our Online Privacy Policy At 10dollarmall.com, we respect your privacy, and want to be sure that you understand fully how we may use information that you give us when you register on and use our Website. We have explained below:
 
