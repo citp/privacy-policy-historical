@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipmap.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510074615id_/http%3A//www.zipmap.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipmap.net privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115091958id_/http%3A//zipmap.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - zipmaps.net and zipmap.net
 
