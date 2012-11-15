@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516183318id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004118id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | TransLink
 
@@ -34,6 +34,8 @@ You must not use any application, system or method to access information on this
 Your email address is recorded if you send us an email, however, we will not use your email address other than for the purpose for which you provided it. Emails in which assistance is requested will be forwarded to the relevant TransLink Transit Authority officer and/or our contactor and business partner.
 
 Email correspondence sent to this website will be treated as a public record and will be retained in line with relevant legislation.
+
+If you have received an email from TransLink and should you no longer wish to receive updates from us, you may [unsubscribe now.](http://www.vision6.com.au/em/forms/unsubscribe.php?db=371457&s=86612&a=31401&k=273ad92)
 
 Email messages may be monitored by our web team for system troubleshooting and maintenance purposes.
 
@@ -129,7 +131,7 @@ Queensland 4001
 
 Email: [privacy@translink.com.au](mailto:privacy@translink.com.au)
 
-Phone: 3338 4324
+Phone: 3338 4000
 
 Fax: 3384 4617
 
