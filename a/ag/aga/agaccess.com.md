@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515212528id_/http%3A//agaccess.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115145552id_/http%3A//agaccess.com/privacy-statement) for the most accurate reproduction.*
 
-# Contact Us | AgAccess
+# Privacy Statement « AgAccess
 
 This document was last updated on 12/03/2012.
 
