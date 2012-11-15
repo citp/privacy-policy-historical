@@ -1,0 +1,362 @@
+<!--The following is the downloaded HTML source of the hubwit.com privacy policy that was archived on 2012-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121115084904id_/http%3A//www.hubwit.com/eng/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>Hubwit - Your daily surprise</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link rel="icon" href="http://hubwit.com/favicon.ico">
+<meta property="og:title" content="Hubwit - Your daily surprise">
+<meta property="og:description" content="">
+<meta property="og:url" content="http://hubwit.com/eng/privacy">
+<meta property="og:image" content="">
+<meta property="og:type" content="product">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="http://hubwit.com/style.css" rel="stylesheet"><link href="http://hubwit.com/jquery-ui-1.8.21.custom.css" rel="stylesheet"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://hubwit.com/script/jquery.js" type="text/javascript"></script><script src="http://hubwit.com/script/easySlider1.7.js" type="text/javascript"></script><script src="http://hubwit.com/script/superfish.js" type="text/javascript"></script><script src="http://hubwit.com/script/flash_jquery.js" type="text/javascript"></script><script src="http://hubwit.com/script/jquery.scrollTo-min.js" type="text/javascript"></script><script src="http://hubwit.com/script/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script><script>
+$(document).ready(function() {
+  // Iterate over checkboxes
+  $("input[type=checkbox].switch").each(function() {
+    // Insert mark-up for switch
+    $(this).before(
+      '<span class="switch">' +
+      '<span class="mask" /><span class="background" />' +
+      '</span>'
+    );
+    // Hide checkbox
+    $(this).hide();
+	    // Set inital state
+ 	if (!$(this)[0].checked) {
+      $(this).prev().find(".background").css({left: "-56px"});
+    }
+  }); // End each()
+    // Toggle switch when clicked
+  $("span.switch").click(function() {
+    // If on, slide switch off
+    if ($(this).next()[0].checked) {
+      $(this).find(".background").animate({left: "-56px"}, 200);
+    // Otherwise, slide switch on
+    } else {
+      $(this).find(".background").animate({left: "0px"}, 200);
+    }
+    // Toggle state of checkbox
+    $(this).next()[0].checked = !$(this).next()[0].checked;
+	$.ajax({
+		type: "POST",
+		url: "http://hubwit.com/azioni/user_state.php",
+		data: {
+			'state':$(this).next()[0].checked
+		},
+		success: function(msg){
+			//alert(msg)
+		},
+		error : function(XMLHttpRequest, textStatus, errorThrown){
+			alert("Errore nella Modifica");
+		}
+	});
+  });
+}); // End ready()
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34485793-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "q6Irg1awO700yj", domain:"hubwit.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=q6Irg1awO700yj" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<div id="nuvole_sx"></div>
+<div id="nuvole_dx"></div>
+<div class="centra">
+	
+    <div id="chiamata"><a href="http://hubwit.com/eng/buyer/todo_videochat">Incoming call: click here to go to the buyer section and start the Videochat</a></div><h1 id="logo"><a href="http://hubwit.com/eng/home"><img src="http://hubwit.com/immagini/logo_hubwit.png" alt="Hubwit"></a></h1><nav>
+		<ul id="primo_menu"><li><a href="http://hubwit.com/eng/login">Login</a></li><li><a href="http://hubwit.com/eng/subscribe">Subscribe Now</a><img id="freccia_up_free" src="http://hubwit.com/immagini/free_freccia.png" alt="free start earning now"></li><li><a id="start_selling" href="http://hubwit.com/eng/start_selling">Start Selling</a></li><li><a href="http://hubwit.com/eng/exchange">Exchange</a><ul id="tassi_cambio"><li><span class="val_box">4,99 $ =</span><br><strong>3.82</strong> <span>Euro</span><br><strong>266.84</strong> <span>Indian Rupee</span><br><strong>3.11</strong> <span>Pound Sterling</span><br><strong>31.21</strong> <span>Renminbi</span><br><strong>4.62</strong> <span>Swiss Franc</span><br></li></ul></li></ul>
+		</nav>    <div id="contenuto"><div id="testi">
+    <div class="barra_pag" id="page_videochat">Information  Privacy Policy</div>
+    <section>
+    <article>
+    <div class="col_sx">
+    	<p> This  document aims to describe the modalities of treatment and management  of personal data from the website Hubwit.com and its associated.  In  particular with reference to the collection and processing of  personal data of all Users, they could be both “Registered Users”  (“Sellers” / “Buyers”) or simple “Unregistered Users”,  that are visiting the site. </p>
+
+<p> For  definitions of “Users”, “Registered Users” (“Sellers” /  “Buyers”) or “Unregistered Users” see the Terms of Use of the  site Hubwit.com. This information relates only to the processing of  the data provided on the site Hubwit.com (also through the use of the  Videochat service provided by LOEM) and not to those provided to  other Web sites accessed through links, banners or others redirect.</p>
+
+<h2>Owner  and Manager of the treatment</h2>
+
+<p> 1) The  data controller is the company LOEM Sas, based in Giovanni Plana 9  Street, P.I. IT10495580010, registration number in the register of  Economic Activities, REA, TO-1138107, email address: <a href="mailto:info@hubwit.com"><u>info@hubwit.com</u></a> ( hereinafter, for brevity “LOEM”).</p>
+<p> 2)  Responsible for processing under Article. 29 of Legislative Decree  196/03 is the firm LOEM Sas.</p>
+
+<h2>Collection  and processing of data</h2>
+
+<p> 3)  LOEM collects and treats all personal data of the "Users"  in full compliance with the Italian national legislation on personal  data and in particular D.Decree 196/2003 and the Recommendation.  2/2001 made by the Working Group for the protection of personal data  of the European Union.</p>
+
+<h2>Obligation  to provide data</h2>
+
+<p> 4) The  collection of personal data that is required is an essential  prerequisite for access to some services offered on the website  Hubwit.com. And also for the proper management in the interests of  the "Users". In particular, in order to use certain  services of the site and be registered as "Sellers" or  "Buyers", you must subscribe to the site, filling out a  registration form.</p>
+<p> 5) The  missing data, as well as conferring partial or inaccurate details,  has the effect of preventing the proper delivery of the service. The  '"Registered User" is committed to constantly update and  correct their personal information.</p>
+<p> 6) The  services offered on the website Hubwit.com are reserved only for  adults. The "User" declares, by registering, that have  already turned 18 and can validly give their consent and properly  dispose of their rights.</p>
+<p> 7)  When "Users" create an account, some information may be  provided to other "Users". In particular, they will be  displayed the account opening date, the age and sex (where the  '"Registered User" has decided to make them public), or the  profile picture, if present.</p>
+<p> 8)  "Users" are aware that any personal information or content  deliberately spread online, may be collected and used by third. LOEM  is not responsible for any use made by these third parties.</p>
+
+
+
+<h2>Type  of datas and treatment purpose </h2>
+
+
+<p> 9) The  treatment relates to common personal data (such as personal details,  telephone number and e-mail address), as well as data concerning  habits, consumer preferences and choices.</p>
+
+<p> 10)  The treatment does not include any sensitive or judicial data.</p>
+
+<p> 11)  Among the purposes for which the data are provided, must be  considered included any promotional activities, market researches,  marketing studies, and advertising initiatives undertaken by LOEM or  any third parties who carry out these activities. Among the goals is  also designated for possible sale or communication to third parties  of data collected in relation to the "Users", except the  right of them ("Users") to object it.</p>
+
+<p> 12)  The provision of personal information marked with an asterisk on the  registration form (name and surname, date of birth, e-mail) is  required in order to complete the registration process. Consequently,  the missing, partial or incorrect entry of such datas will make  invalid the registration and the “User” will not be able to use  the services.</p>
+
+<p> 13)  The "Sellers" can freely decide whether to use their PayPal  account or credit card. In case where the "Seller" opts for  the payment through PayPal, he is obliged to provide details of his  PayPal account. However if he decides to use a credit card, the  "Seller" will be required to enter from time to time, at  the time of payment, the details for the credit card used.</p>
+
+<p> 14)  The datas which are not marked with an asterisk (such as a second  e-mail, a mobile phone number or consumption preferences) is purely  optional: their missing, partial or incorrect entry will not prevent  the access to the site and the subsequently subscription to the  services offered.</p>
+
+<h2>Navigation  datas</h2>
+
+<p> 15)  Computer systems and software procedures used to operate the website  Hubwit.com acquire, in their normal operation, some personal  information such as temporary markers (cookies), Web beacon and  information about the register files, whose transmission is implicit  in the use of Internet communication protocols.</p>
+
+<p> 16)  The "Users" can, via the menu of your browser, choose not  to authorise a cookie or request to be notified when a cookie is  stored. If the "Users" deny the permission or gives only a  partial authorisation to store the cookies, it is possible that this  involves the reduction of the functionality of the website Hubwit.com  or of the individual services.</p>
+
+<p> 17)  LOEM maintains technical data related to the connections (log) to  enable the security controls required by the law, in order to improve  the quality of our services and customise them according to the  "users" needs. These data do not allow the identification  of the "Users" if not after a series of processing  operations and interconnection, and necessarily throughout the  cross-referencing of datas given from other providers. Such  transactions could be made only if there is an explicit request of  the competent Judiciary Authority, authorised to do so by the law  that prevent or punish crimes.</p>
+
+<p> 18)  LOEM may share with third parties certain aggregated of non-personal  information nature, such as the number of people connected in a  certain time or the number of users that used a particular function.  This type of information does not personally identify the "Users"</p>
+
+<h2>Management  of Advertising messages</h2>
+
+<p> 19)  LOEM does not use the data collected to send emails containing  commercial or marketing purposes without the consent of the person  who provided the data.</p>
+
+<p> 20) On  Hubwit.com pages can be display ads run by LOEM  or independent  advertising providers. LOEM can enter the information from the users'  navigation on the website Hubwit.com and from the use of some  services offered in a specific cookie and communicate them to  third-party advertisers in order to appear on the site targeted  advertising. LOEM has no authority control on ads produced and  published by independent third parties.</p>
+
+<p> 21)  Part of the advertising proposal is generic and the same for  everyone, while another part could be customised. In particular, LOEM  and the independent advertising providers, in order to provide a  higher interest service of advertising information, may integrate the  data derived from the use of the website Hubwit.com in a specific  cookie and use them to publish some targeted advertising within the  website.</p>
+<p> 22)  The advertising that appears, therefore, may contain information of  main interest over the interests of the "Users". LOEM, as  part of this automated service of customised advertising, does not  store information that can personally identify the "Users".</p>
+<p> 23)  The customised advertising system can be deactivated at any time by  the "Users", who may at any time choose to disable the use  of the cookies by the commands of their browser.</p>
+
+<h2>Contents</h2>
+
+<p> 24)  LOEM does not exercises any direct control over media content and  information made available by the "Users". Consequently,  LOEM makes no warranty, express or implicit, concerning the truth,  legality, accuracy and reliability of the information and transmitted  contents. LOEM is not responsible for the "Users"  behaviour, who remain the only responsible for the opinions  expressed, of any image, video, or published link and, in general, of  any information or content transmitted, uploaded, stored or anyways  made public through the site Internet Hubwit.com</p>
+
+<h2>Third  Party Data</h2>
+
+<p> 25)  The "Users" ensure that they have obtained all the consents  and the releasing (including the consent for the use of third parties  datas provided by the Italian National and Community legislation on  personal data - Legislative Decree 196/2003) by all persons having  the right or the responsibility to provide such permissions in  respect of any link published and, in general of any information or  content transmitted, uploaded, stored or otherwise made public  through the Internet site Hubwit.com.</p>
+<p> 26)  The "Users" agree not to publish and disclose news, videos,  pictures or other content such as to enable the identification of a  minor subject or of a subject that has no ability to understand or  want.</p>
+<p> 27)  The "Users" are aware that the unlawful processing of third  parties data, in order to reap profits for themselves or others or  cause others a damage is criminally punishable under the Article.  167, D. Decree 196/2003.</p>
+
+<h2>Method  of Treatment</h2>
+
+<p> 28)  The identifying marks and personal data of the “Users” are  collected and can be registered, organised, stored, accessed,  processed, sorted and stored by LOEM for the management and the  proper operation of the website Hubwit.com and for the fulfilment of  obligations provided for the law.</p>
+<p> 29)  The treatment is performed by computers and in any case in compliance  with the precautionary measures on security and data confidentiality,  this in order to minimise the risk of unauthorised access,  modification, disclosure, non consensual handling or destruction of  the datas collected.</p>
+<p> 30)  LOEM is committed, within the limits of current technology, to use  the best efforts to update and optimise their systems of firewall,  antivirus and filters, in order to minimise the risk that the website  Hubwit.com and databases where such data are contained, could be  attacked by third parties and to safeguard the security of its  services, the integrity of traffic datas, the location data and the  electronic communication with respect to any form of use or not  allowed understanding .</p>
+<p> 31)  The data collected and stored in LOEM databases can be used by  employees and / or treatment, holder  employees,  as in charge bound  by an obligation of confidentiality.</p>
+<p> 32)"Users"  expressly consent to the possible transmission of datas outside the  European Union.</p>
+<p> 33)  LOEM can assign or transmit the information gathered to third parties  for purposes of promotional activities, market surveys, marketing  studies, marketing initiatives, advertising and commercials  activities, with respect to which the user will still have, at any  time, the opportunity to object, requesting the deletion of the own  account from the list of those to whom they are addressed the above  messages.</p>
+<p> 34)  LOEM agrees to require to any third parties which may be sent  personal data, to have the full  respect of them as provided from the  legislation on personal data and, in particular, that the transmitted  data are treated in the same manner provided in this Privacy policy.</p>
+<p> 35)  Personal data collected will not be used for purposes other than  those specified in this Policy or any other rule of law.</p>
+<p> 36) At  the request of the competent authorities, LOEM will provide  information in its possession to enable the identification of the  "Users", in order to detect and prevent illegal activities.</p>
+
+<h2>Rights  of Interested parties</h2>
+
+<p> 37)  "Users" have the right to exercise the rights under Art. 7  D. Decree 196/03, as following. At any time, by deleting your  account, you can request the total removal of all data provided.</p>
+
+<p> Article  7 (Right to Access Personal Data and Other Rights)</p>
+
+<ol>
+  <li>
+	You have the right to obtain the confirmation of the existence or not of your personal data, although they are not recorded yet and their communication in intelligible form.</li>
+  <li>
+	You have the right to obtain information over:
+    <ol type="a">
+      <li>
+		origin of personal data</li>
+      <li>
+		the purposes and methods of the treatment</li>
+      <li>
+		the logic applied in case of treatment with the aid of electronic instruments</li>
+      <li>
+		the identity of the owner, manager and the representative appointed under article 5, paragraph 2;</li>
+      <li>
+		the subjects or categories of persons to whom the personal data may be communicated or who can learn about them as appointed representative in the State, responsible or nominated.</li>
+    </ol>
+  </li>
+  <li>
+		You have the right to obtain:
+   </li>
+<ol type="a">
+  <li>
+	the updating, rectification or, when interested, the integration of data;</li>
+  <li>
+	the cancellation, the transformation into anonymous form or the blocking of data processed unlawfully, including those that do not 'need to be kept for the purposes for which the data were collected or subsequently processed;</li>
+  <li>
+	the certification that the operations in letters a) and b) have been notified, also as regards their contents, to those to whom the data were communicated or disseminated, unless this requirement proves impossible or involves a manifestly disproportionate to the protected right</li>
+</ol>
+
+<li>
+	4.  You have the right to object, in whole or in part:
+</li>
+</ol>
+<p> a) for  legitimate reasons the processing of personal data, pertinent to the  purpose of  collection;</p>
+<p> b) the  processing of personal data for the purposes of sending advertising  materials or for direct selling or for carrying out market surveys or  commercial communication.</p>
+
+<p> 38)  Inquiries concerning the processing of personal data may be forwarded  to the holder of their treatment using the following e-mail: <a href="mailto:info@hubwit.com"><u>info@hubwit.com</u></a>.</p>
+
+<p><a name="_GoBack"></a>"Users",  took note of the above, expressly agree to processing, to the  communication and dissemination of personal data concerning them,  within the limits indicated in the statement written above, stating  that they are aware of the rights recognised by the above Article. 7  D. Decree 196/03.</p>
+
+    </div>
+    </article>
+   
+</section></div>
+<div class="col_dx">
+		<div class="social_cont">
+            <small>Follow us on: </small>
+            <p>
+            <a target="_blank" rel="nofollow" href="http://www.facebook.com/pages/Hubwit/399776963391547"><img src="http://hubwit.com/immagini/facebook_small_footer.png" alt="Facebook Hubwit"></a><a target="_blank" rel="nofollow" href="https://twitter.com/Hubwit"><img src="http://hubwit.com/immagini/twitter_small_footer.png" alt="Twitter Hubwit"></a><a target="_blank" rel="nofollow" href="http://www.youtube.com/user/HubwitTeam/videos?flow=grid&amp;view=0"><img src="http://hubwit.com/immagini/youtube_small_footer.png" alt="YouTube Hubwit"></a>            </p>
+        </div>
+	<a href="http://hubwit.com/eng/how_works"><img src="http://hubwit.com/immagini/works.png" alt="how it works"></a><div class="box_dx" id="box_dx_gr"><form id="cerca_form" action="http://hubwit.com/eng/">
+			<input type="text" name="cerca" value="">
+			<button type="submit"></button>
+		</form><nav>
+		<ul id="wit_categ_menu"><li class=""><a href="http://hubwit.com/eng/wits_category">wits_category</a><ul><li class=""><a href="http://hubwit.com/eng/wits_category/advice_tips">Advice &amp; Tips</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/design">Arts &amp; Design</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/astrology">Astrology</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/astronomy">Astronomy</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/business">Business</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/cars_moto">Cars &amp; Moto</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/fashion">Fashion</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/fun_bizarre">Fun &amp; Bizarre</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/gifts">Gifts</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/graphics_logo">Graphics &amp; Logo</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/lessons_schools">Lessons, Schools and Translations</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/music_audio">Music &amp; Audio</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/programming_informatics">Programming &amp; Informatics</a><ul><li class=""><a href="http://hubwit.com/eng/wits_category/programming_informatics/e_books">E-Books</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/programming_informatics/hosting">Hosting</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/programming_informatics/html">HTML</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/programming_informatics/ict">ICT</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/programming_informatics/search_engine_marketing">Search Engine Marketing</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/programming_informatics/search_engine_optimization">Search Engine Optimization</a></li></ul></li><li class=""><a href="http://hubwit.com/eng/wits_category/psychology">Psychology</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/recipes_cooking">Recipes &amp; Cooking</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing">Social Media Marketing</a><ul><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing/blogs">Blogs</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing/facebook">Facebook</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing/google">Google+</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing/other_social">Other Social</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing/pinterest">Pinterest</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing/twitter">Twitter</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/social_media_marketing/you_tube">YouTube</a></li></ul></li><li class=""><a href="http://hubwit.com/eng/wits_category/technology">Technology</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/travel_postcards">Travel &amp; Postcards</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/video_foto ">Video &amp; Foto</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/others">Others</a><ul><li class=""><a href="http://hubwit.com/eng/wits_category/others/legal_services">Legal Services</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/others/tax_services">Tax Services</a></li><li class=""><a href="http://hubwit.com/eng/wits_category/others/welfare">Welfare</a></li></ul></li></ul></li></ul>
+		</nav></div>    <div class="box_dx" id="box_dx_blu">
+        <h2>Interested in posting your
+        services or skills?<br><br>
+		IT'S FREE<br>
+        NO ENTRY COST<br>
+        NO LISTING FEES
+		</h2>
+        
+        <p>Earn money any time<br>
+		U sell your service &amp; skill</p>
+        <a class="puls_sub_dx" href="http://hubwit.com/eng/subscribe"><img src="http://hubwit.com/immagini/subscribe_blu.png" alt="subscrive now"></a>	</div>
+   <!-- <div class="box_dx" id="box_dx_az">
+   		<h2>Are U an expert in a specific field?<br>Work with your skills</h2>
+    	<p>Subscribe here and earn money any time U are contacted by someone.</p>
+        <a class="puls_sub_dx" href="http://hubwit.com/eng/subscribe"><img  src="http://hubwit.com/immagini/subscribe_az.png" alt="subscrive now"/></a>	</div>-->
+    <a href="http://hubwit.com/eng/customer_protection">
+	<div class="box_dx" id="box_dx_protection">
+    	<img src="http://hubwit.com/immagini/protection.png" alt="Customer Protection Policy">
+		<span>Hubwit customer<br>protection<br>policy</span><br>
+		Read More and Report Abuse
+    </div></a>    
+    <div class="box_dx" id="payment">
+    	<img usemap="#Map" src="http://hubwit.com/immagini/payment.png" alt="Secure Payments">        <map name="Map" id="Map">
+          <area shape="rect" coords="-4,16,98,63" href="https://www.paypal.com/webapps/mpp/buying-online" target="_blank">
+          <area shape="rect" coords="104,17,214,69" href="https://secure.payza.com" target="_blank">
+        </map>
+    </div>
+</div>
+<script>
+	$('#cerca_form').submit(function(){
+		document.location.href='http://hubwit.com/eng/search/'+$($('input'),$(this)).val();
+		return false;
+	})
+</script></div>    <div id="footer">
+    	
+    	<div id="menu_ultimo">
+        	
+            <span class="flLeft">HUBWIT<sup>®</sup></span>
+            <nav>
+		<ul id="menu_sotto"><li class=""><a href="http://hubwit.com/eng/terms_of_use">Terms of Use</a></li><li class=""><a href="http://hubwit.com/eng/customer_support">Customer Support</a></li><li class=""><a href="http://hubwit.com/eng/how_works">How it works</a></li><li class=""><a href="http://hubwit.com/eng/profile">Profile</a></li><li class=""><a href="http://hubwit.com/eng/seller">Seller</a></li><li class=""><a href="http://hubwit.com/eng/buyer">Buyer</a></li><li class=""><a href="http://hubwit.com/eng/levels">Levels</a></li><li class=""><a href="mailto:support@hubwit.com">Report abuse</a></li><li class=" active"><a href="http://hubwit.com/eng/privacy">Privacy</a></li></ul>
+		</nav>        </div>
+        <div id="copynote">
+        	
+        	©Hubwit 2012 • Your daily surprise™, Wit™, Extra Wit™, $4,99™, Videochat™, Extra Videochat™, My Wits™, My Videochat™ • Piva IT10495580010 • <a href="mailto:info@hubwit.com">info@hubwit.com</a><br>
+            
+        </div>
+    </div>
+</div>
+
+<script>
+	$('#open').click(function(){
+		if($(this).parent().height()==480){
+			$(this).parent().animate({
+				height:'28'	
+			},'slow')
+		}else{
+			$(this).parent().animate({
+				height:'480'	
+			},'slow')
+		}
+	})
+</script>
+<script>
+	$('#primo_menu').superfish({autoArrows: false}); 
+	$(document).on('click','.sendMail_btn',function(){
+		el=$(this)
+		$("body").append('<div id="copri_tutto"></div><div id="newInBox"></div>')
+		$("#newInBox").load('http://hubwit.com/azioni/new_inbox.php?id_user='+el.attr('id_user'))
+		$("#copri_tutto").fadeIn('slow')
+		$('.sendMail_copri').click(function(){
+			$('').fadeOut('slow')
+		})
+		$("#copri_tutto").click(function(){
+			$('#copri_tutto').fadeOut('slow',function(){$(this).remove()})
+			$('#newInBox').remove()
+		})
+		return false;
+	})
+	function filtra_list(el){
+		$.ajax({
+			type: "POST",
+			url: "http://hubwit.com/azioni/setta_list_view.php",
+			dataType:"json",
+			data: {
+				'list_view':el.attr('href')
+			},
+			success: function(msg){
+				//alert(msg)
+				if(msg['success']){
+					if(msg['return']!=''){
+						document.location.href="http://hubwit.com/eng/home"
+					}else{
+						document.location.reload()
+					}
+				}
+			},
+			error : function(XMLHttpRequest, textStatus, errorThrown){
+				alert("Errore nella Modifica");
+			}
+		});
+		
+	}
+	$('#logo a').click(function(){
+		el=$(this)
+		filtra_list(el)
+		return false;
+	})
+	$(document).on('click','#page_wits a',function(){
+		el=$(this)
+		filtra_list(el)
+		return false;
+	})
+	$(document).on('click','#page_videochat a',function(){
+		el=$(this)
+		filtra_list(el)
+		return false;
+	})
+	
+	</script>
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+$(window).load(function () {
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?Y0tp01hqj97LAa6z6lYoQ2YVajBe6kNE';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+})
+</script>
+<!--End of Zopim Live Chat Script-->
+
+</body></html>
