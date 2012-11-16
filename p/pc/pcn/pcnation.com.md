@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcnation.com privacy policy that was archived on 2012-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120213195200id_/http%3A//www.pcnation.com/web/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcnation.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116232227id_/http%3A//www.pcnation.com/web/security.asp) for the most accurate reproduction.*
 
 # Security & Privacy Policy - Buy with confidence | PCNation.com
 
