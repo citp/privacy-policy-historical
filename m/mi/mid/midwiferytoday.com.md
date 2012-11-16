@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519081531id_/http%3A//www.midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116192651id_/http%3A//www.midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## How to Contact Us
 
-This Web site belongs to Midwifery Today, Inc.
+This website belongs to Midwifery Today, Inc.
 
 Our postal address is
 
 Midwifery Today, Inc.  
 P.O. Box 2672  
 Eugene, OR 97402-0223  
-U.S.A. 
+U.S.A.
 
 Our e-mail address is
+
+[admin@midwiferytoday.com](mailto:admin@midwiferytoday.com)
 
 Our telephone numbers are
 
@@ -24,13 +26,13 @@ Fax|  | +1 541-344-1422
   
 ## General Information
 
-When you visit our Web site, our Web server automatically recognizes only the domain name of your Internet service provider, and not your e-mail address. However, we do collect your e-mail address if you communicate with us via e-mail.
+When you visit our website, our web server automatically recognizes only the domain name of your Internet service provider, and not your e-mail address. However, we do collect your e-mail address if you communicate with us via e-mail.
 
 We also collect aggregate information on what pages people access or visit. This means we know how many people visited a specific page, but not who they are.
 
 We may also collect information that you voluntarily give us through online surveys, advertiser entries in the Birth Market, on-site registrations, or other forms.
 
-The information we collect is used to improve the content and organization of our Web site, and for internal review. We may also use this information to contact you for various purposes.
+The information we collect is used to improve the content and organization of our website, and for internal review. We may also use this information to contact you for various purposes.
 
 ## Our Use of E-mail Addresses
 
@@ -44,7 +46,7 @@ Occasionally, subscribers to Midwifery Today e-mail newsletters may receive spec
 
 Your postal mailing address may be rented to companies that Midwifery Today believes offer a product or service of interest to you. If you do not want your postal address sold to third parties, please let us know at the time you place your order. Otherwise, you may request to have your name put on our do-not-share list by contacting us by e-mail, phone or letter. We will remove your name from the list we share with other organizations.
 
-**Phone Number**    We may use your phone number to contact you about orders you have placed. We also may phone you to let you know about a new product or service we are offering, to let you know about special offers, or to remind you that it's time to renew. If you do not wish to receive such phone calls, please let us know by contacting us by e-mail, phone or letter. Please provide us with your name and phone number. We will not sell or rent your phone number to third parties under any circumstances.
+**Phone Number**    We may use your phone number to contact you about orders you have placed. We also may phone you to let you know about a new product or service we are offering, to let you know about special offers, or to remind you that it’s time to renew. If you do not wish to receive such phone calls, please let us know by contacting us by e-mail, phone or letter. Please provide us with your name and phone number. We will not sell or rent your phone number to third parties under any circumstances.
 
 ## Our Use of Cookies
 
@@ -54,9 +56,9 @@ for the first time, a cookie is placed on the hard drive of your local computer.
 
 ## Conclusion
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, please check our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, please check our website periodically.
 
-IMPORTANT: If you have requested that your name, contact information and/or other information not be used for specific purposes, this will be honored even if we change our policies. For example, if you've asked to be put on the "do not send postal mail" list, changes in our privacy policy will not affect your previous request.
+IMPORTANT: If you have requested that your name, contact information and/or other information not be used for specific purposes, this will be honored even if we change our policies. For example, if you’ve asked to be put on the "do not send postal mail" list, changes in our privacy policy will not affect your previous request.
 
 You may prevent your information from being used for purposes other than those for which it was originally collected by contacting us by e-mail, phone or letter. At your request we will provide you with access to all information (including proprietary information) that we maintain about you. We also offer you the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, and in communications that you have directed to our site. You may access this information and/or have this information corrected by contacting us by e-mail, phone or letter.
 
@@ -78,3 +80,5 @@ If we fail to resolve the problem to your satisfaction, you may also contact any
   * Your state or local consumer protection office
 
 
+
+This page last updated: 9/12/12
