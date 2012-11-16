@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the josbank.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519083258id_/http%3A//www.josbank.com/menswear/shop/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D11001%26catalogId%3D10050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the josbank.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116192747id_/http%3A//www.josbank.com/menswear/shop/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D11001%26catalogId%3D10050) for the most accurate reproduction.*
 
 # JoS. A. Bank Clothiers - JoS. A. Banks Clothiers - Privacy Policy
 
@@ -30,7 +30,7 @@ On most Internet Browsers, the cookie function can be turned off, but by doing s
 
 ### How do I enable cookies in my web browser?
 
-### Internet Explorer 7.x and 8.x
+### Internet Explorer
 
   * From the "Tools" menu, select "Internet Options".
   * On the "Privacy" tab, click the "Sites" button.
@@ -40,7 +40,7 @@ On most Internet Browsers, the cookie function can be turned off, but by doing s
 
 
 
-### Internet Explorer 6.x
+### Internet Explorer 6
 
   * From the "Tools" menu, select "Internet Options".
   * On the "Privacy" tab, click the "Edit" button.
@@ -50,7 +50,7 @@ On most Internet Browsers, the cookie function can be turned off, but by doing s
 
 
 
-### Mozilla Firefox 3.x
+### Mozilla Firefox
 
   * From the "Tools" menu, select "Internet Options".
   * On the "Privacy" tab, click the "Exceptions button.
@@ -60,7 +60,7 @@ On most Internet Browsers, the cookie function can be turned off, but by doing s
 
 
 
-### Safari 3.x
+### Safari
 
   * From the "Edit" menu, select "Preferences".
   * On the "Security"tab, from Accept Cookies option, choose "Only from sites you navigate to".
@@ -85,7 +85,7 @@ On most Internet Browsers, the cookie function can be turned off, but by doing s
 
 
 
-### Google Chrome 2.x
+### Google Chrome
 
   * Click the Tool icon, select "Options" from menu.
   * On the "Under the Hood" tab, from the Cookie Settings drop down, choose "Allow all cookies".
@@ -93,7 +93,7 @@ On most Internet Browsers, the cookie function can be turned off, but by doing s
 
 
 
-### Netscape Navigator 6.x
+### Netscape Navigator
 
   * From the "Edit" menu, select "Preferences".
   * Expand "Privacy & Security", then choose "Cookies".
