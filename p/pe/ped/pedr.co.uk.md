@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508134550id_/http%3A//www.pedr.co.uk/textpage.asp%3FPageNo%3D27%26area%3Dmain) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116100257id_/http%3A//www.pedr.co.uk/textpage.asp%3FPageNo%3D27%26area%3Dmain) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Printer Friendly version](https://web.archive.org/web/20120508134550id_/http%3A//www.pedr.co.uk/printpage.asp?PageNo=27&area=main)
+[Printer Friendly version](https://web.archive.org/web/20121116100257id_/http%3A//www.pedr.co.uk/printpage.asp?PageNo=27&area=main)
 
 Our commitment to your privacy
 
@@ -12,7 +12,7 @@ We also keep records relating to site access, e.g. pages visited, time of visits
 
 If you agreed at the time of registration we may contact you from time to time with details of products, surveys and special offers. You can opt out from this at any time by visiting your account. 
 
-This website is a joint venture between the Royal Institute of British Architects (RIBA) and RIBA Enterprises Both parties have access to your information. Your registration details may also be passed on to Professional Studies Advisors, if you are completing the PEDR Recording records. 
+This website is a joint venture between the Royal Institute of British Architects (RIBA) and RIBA Enterprises. Both parties have access to your information. Your registration details may also be passed on to Professional Studies Advisors, if you are completing the PEDR Recording records. 
 
 If anybody else wants to see your PEDR Record information, for example as part of a research project, you will be asked before it is disclosed. 
 
