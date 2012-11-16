@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcfcourier.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514174443id_/http%3A//wcfcourier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcfcourier.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116050417id_/http%3A//wcfcourier.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
