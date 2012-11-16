@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deluxeforbusiness.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527211853id_/http%3A//www.deluxeforbusiness.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxeforbusiness.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116062355id_/http%3A//www.deluxeforbusiness.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Deluxe
 
@@ -7,7 +7,7 @@
 
 Protecting privacy is an important part of the business of Deluxe Corporation. Throughout our existence, we have been a trusted custodian of sensitive data. Our customers rely on that trust. Founded in 1915, we have a long history of recognizing and protecting the privacy of our customers' information. In 1997 we formalized our first privacy policy to ensure that all customers understand our commitment to protecting their privacy. We are committed to utilizing technology that gives you the safest and most powerful online experience available. We want to assure you that when we ask for customer information, our goal is to improve our business customer relationships and provide solutions you need to grow your business.
 
-This Web site enables the ordering of a large suite of business services, including marketing intelligence and analytics, logo design, web design and hosting, email and search engine marketing and other services designed to help your business grow. The following statements will help you understand how we collect, use, and safeguard the information you provide through our Web sites. The terms "we", "our", and "us" in this Privacy statement refer to Deluxe Small Business Sales, Inc. and its affiliates d/b/a Deluxe REV, MarketJuice, MerchEngines, EasyContact, and Deluxe Business Services.
+This Web site enables the ordering of a large suite of business services, including marketing intelligence and analytics, logo design, web design and hosting, email and search engine marketing and other services designed to help your business grow. The following statements will help you understand how we collect, use, and safeguard the information you provide through our Web sites. The terms "we", "our", and "us" in this Privacy statement refer to Deluxe Small Business Sales, Inc. and its affiliates d/b/a Deluxe REV, Aplus, MerchEngines, EasyContact, and Deluxe Business Services.
 
 Information Collection & Use
 
