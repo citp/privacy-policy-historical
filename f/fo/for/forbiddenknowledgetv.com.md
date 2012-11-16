@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forbiddenknowledgetv.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519030516id_/http%3A//www.forbiddenknowledgetv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenknowledgetv.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116181556id_/http%3A//www.forbiddenknowledgetv.com/privacy.html) for the most accurate reproduction.*
 
 # Forbidden Knowledge TV
 
-[About Us](https://web.archive.org/about.html) | [Contact](https://web.archive.org/contact.html) | [Subscribe](https://web.archive.org/subscribe.html)
+[Home](https://web.archive.org/) | [About Us](https://web.archive.org/about.html) | [Contact](https://web.archive.org/contact.html) | [Subscribe](https://web.archive.org/subscribe.html)
 
-## Daily videos from the edges of science
+## Daily Videos from the Edges of Science
 
 Welcome to Forbidden Knowledge TV (the "Site").
 
