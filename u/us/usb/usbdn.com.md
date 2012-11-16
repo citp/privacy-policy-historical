@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usbdn.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519042346id_/http%3A//www.usbdn.com/info/Doc.asp%3FDocId%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usbdn.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116183502id_/http%3A//www.usbdn.com/info/Doc.asp%3FDocId%3D8) for the most accurate reproduction.*
 
 # privacy policy
 
