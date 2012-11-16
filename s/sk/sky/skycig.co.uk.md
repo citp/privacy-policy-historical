@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the skycig.co.uk privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522203019id_/http%3A//www.skycig.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skycig.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116180616id_/http%3A//www.skycig.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SKYCIG Electronic Cigarettes, Smokeless Cigarettes
+# Privacy Policy - SKYCIG UK Electronic Cigarettes, E Cigarettes
+
+Share: 
+
+Got a question? Mon-Fri 9am-5pm0800 014 93 55
 
 ## SKYCIG Privacy Policy
 
