@@ -1,68 +1,122 @@
-> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621222707id_/http%3A//www.disclose.tv/action/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116025847id_/http%3A//www.disclose.tv/pages/view/id/2) for the most accurate reproduction.*
 
-# UFO Videos & Aliens | Top Secret Photos | Paranormal Podcasts
+# Disclose.tv
 
-## Privacy Policy
+The use of the Disclose.tv website(s) and/or Disclose.tv software and any Disclose.tv services and products (collectively, the "Website") provided by Disclose.tv ("Disclose.tv") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Disclose.tv Terms & Conditions. If you do not agree to this Privacy Policy, please do not use the Website.
 
-The use of the Disclose.tv website(s) and/or Disclose.tv software and any Disclose.tv services and products (collectively, the "Website") provided by Disclose.tv ("Disclose.tv") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Disclose.tv Terms & Conditions. If you do not agree to this Privacy Policy, please do not use the Website. 
+Privacy Statement for the Disclose.tv Web Site
 
-General 
+Your privacy is important, so we’d like to explain what information we collect when you visit Disclose.tv ([http://www.disclose.tv/](https://web.archive.org/url/Tm9DaGFuY2VBbm9ueW1vdXNodHRwOi8vd3d3LmRpc2Nsb3NlLnR2Lw..)), [^] why we collect it and how it is used. We’d also like to explain your options to access and control your information, our data security practices and other matters. This Policy is governed by our Site Terms.
 
-Disclose.tv takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
+Special Note About Children
 
-BY USING, ACCESSING OR DOWNLOADING THE WEBSITE), YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Disclose.tv reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to review this Privacy Policy for any changes. Your use of the Website following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms. 
+Disclose.tv is not intended for children, especially kids under 13. Children may use Disclose.tv only with the direct supervision of their parent.
 
-If you are under the age of 13, you are not eligible to use the Website, and we ask you not to submit any personal information to us. 
+We do not seek to collect personal information about children under 13 years of age through Disclose.tv. If we discover such information, we will delete it. Thus, we typically retain no information about children. However, if a parent requests a review of information we may have on their child and in the unlikely event we still retain such information and haven’t deleted it, then we will honor that request. In order to request a review or deletion of personal information that Disclose.tv may have collected about your child, please email or write:
 
-Please note that any video, image, or other content posted at the direction of users onto the Disclose.tv website becomes published content and is not considered personally identifiable information subject to this Privacy Policy. Collection of Information Personal Information. Use of certain features of the Website may require submission of certain personal information, including your first and last name, email address, a nickname (or other user ID) and a password. 
+ATTN: Futurebytes GmbH & Co. KG  
+Innstrasse 71  
+D-94036 Passau  
+Germany
 
-Non personally identifiable Information. Disclose.tv may also collect or receive additional non-personally identifiable usage information specifically related to the use of a particular feature or offering on the Website, and responses to the offerings and advertisements presented on the Website. 
+When you communicate with Disclose.tv, we make every effort to ensure your privacy and safety. As an added precaution, however, we still encourage parents to monitor their child’s use of the Internet, and to help us protect their privacy by reminding them never to exchange personal information with this or any other web site without the assistance or express written permission of a parent or other responsible adult.
 
-Disclose.tv may also collect or receive (in some cases as part of the internet communication protocol) certain non-personally identifiable technical information, when the Website and pages are visited or when a Disclose.tv client is used. 
+What Information Do We Collect From You? Why?
 
-How is the information being used? 
+We May Profile You Individually.
 
-The information is used to operate and improve the features, offerings and content presented to you by Disclose.tv, to personalize the content and advertisements provided to you; to fulfill your requests for products, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Website; and to help offer you other products, programs, or services that may be of interest. 
+We may build a profile of your online habits, interests and activities when you use Disclose.tv. This profile is linked to your personal identity. We compile individual profiles from “real world” contact information (e.g., street address, phone/fax), email addresses, data relating to a specific purchase, information about user PCs (e.g., IP address or browser type), data showing usage of interactive features (e.g., search engine queries), demographic information (e.g., gender, marital status, age, income, job), the personal preferences of users (i.e., favorite color, music, books), user content (e.g., message board postings), and we use these profiles for the purposes described below (please scroll down to each topic for details).  
+We May Collect Information Needed to Contact You Later:
 
-Please note that Disclose.tv may use your personally identifiable information to present offers to you on behalf of business partners and advertisers. However, while Disclose.tv's business partners and advertisers may receive aggregate data about Disclose.tv users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. 
+If we collect personal contact information (as described below), you may later have us modify or remove it from our system, but you may not access the information yourself.
 
-Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures, as determined by Disclose.tv in good faith. Furthermore, Disclose.tv may transfer personally identifiable information in the event of a transfer of ownership of Disclose.tv or any of its websites or products, in which case the information could become subject to a different privacy policy. 
+We May Collect Your Name, Address and Phone Number.
 
-Cookies 
+When you use Disclose.tv, we may request your name, street address, telephone number or other “real world” contact information. This information may reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff and to our immediate agents who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.
 
-Disclose.tv may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
+We May Collect Your Email Address.
 
-Disclose.tv does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies. 
+We may request your email address or other information needed to contact you online. This information may reveal who you are or be linked to you personally. We use it to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff and to our immediate agents who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.
 
-Third Party Ad Servers 
+We May Collect Other Kinds of Information from You:
 
-Disclose.tv or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Website. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Disclose.tv's. 
+When you use Disclose.tv, we may collect personal information about you described below. You may later have us modify or remove the information, but you may not access the information yourself.
 
-Security 
+We May Collect Purchase Information.
 
-Disclose.tv has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information. 
+We may collect information resulting from a specific purchase you make, such as payment method and credit card numbers, associated with your personal identity. We use this information to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff and to our immediate agents who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.
 
-Special Note for Parents 
+We May Collect Information About Your Computer.
 
-Protecting the privacy of young children is especially important. For that reason, Disclose.tv does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Disclose.tv learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Disclose.tv will take the appropriate steps to delete this information. 
+When you visit Disclose.tv, we may automatically collect information about your computer configuration, such as your browser type, operating system, IP address or ISP domain name. In some cases, this information may reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff, immediate agents, and to our partners and affiliates who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.
 
-Modification and Deletion of Personally Identifiable Information 
+We May Collect Interactive Data.
 
-Deletion (Opt-Out). In order to delete the personally identifiable information you submitted, notify us at support (at ) disclose.tv that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+You may decide to input data while using certain interactive features at Disclose.tv, such as queries submitted to a search engine, bids placed at auction, purchases initiated at Disclose.tv and so forth. This information may reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff, immediate agents, and to our partners and affiliates who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.
 
-Modification. If you wish to modify or update your personally identifiable information, use the Website or application interface. If you need help, please contact us at support (at ) disclose.tv 
+We May Collect Demographic Data About You.
 
-Please note that deletion of your personally identifiable information from Disclose.tv's database will not prevent Disclose.tv from using gathered anonymous information. 
+We may collect information about your demographic or social characteristics, such as gender, age and income level. This information may reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff, immediate agents, and to our partners and affiliates who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.
 
-Third Parties' Practices. This Privacy Policy does not cover the information practices exercised by other providers of products or services, advertisers or other web sites, or companies/people that Disclose.tv does not own or control, or does not employ or manage. See also, "Third Party Ad Servers." 
+We May Keep Note of Your Personal Preferences.
 
-Non-German Users 
+We may gather information concerning your personal likes and dislikes, such as your favorite color, taste in music, books or other Disclose.tv content. This information may reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff, immediate agents, and to our partners and affiliates who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.
 
-The Website is hosted in Germany. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from German laws, please be advised that through your continued use of the Website, you are transferring your personal information to the Germany and you consent to that transfer. 
+We May Collect Your Online Postings and Content.
 
-Last updated: March 2007
+Certain features of Disclose.tv may allow you to contribute content, such as message board postings, email messages, and the like. By its nature, this information may reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, administer and run Disclose.tv, customize and personalize content to your request, improve Disclose.tv for everyone, tailor an instant offer to you during your visit, build a profile of your habits, interests or activities to treat you as an individual, build individual profiles for ongoing research, analysis and reporting, comply with laws requiring preservation of social histories, and to comply with any requirements of law. This information may be aggregated with similar data in a manner that does not reveal your personal identity and may be disclosed only to our staff, immediate agents, and to our partners and affiliates who are contracted to keep information they receive as part of their assistance to Disclose.tv confidential.  
+We do not monitor or gather information from queries (private messages) or private/secret channels on the IRC Network. We may monitor public channels for content but we do not collect or gather information about our users. We will not install or use modules or modify our IRCd or Services to allow our staff to spy on queries (private messages) or private/secret channels. In addition our staff will not enter channels secretly to view or log any private communications.
 
-10,000+ UFOs, Aliens, Ghosts, Paranormal, Conspiracy, Mystery, Enlightenment & other Top Secret Videos, Photos and Podcasts on Disclose.tv
+Outside Sources and Web Sites
 
-  
-**[](https://web.archive.org/video/tag//) **
+Disclose.tv contains hyperlinks to other web sites. Disclose.tv is not responsible for the privacy practices or the content of such web sites and companies.
+
+Disclose.tv may have entered into partnership and affiliation agreements with other web sites and companies. We may share aggregate information with our partners and affiliates as disclosed above. We may also transfer visitors to these web sites to provide certain features. Disclose.tv is not responsible for the privacy practices or the content of these partners and affiliates web sites.
+
+Beware that some of these partners and affiliates may utilize a design that incorporates and utilizes a virtually identical copy of Disclose.tv’s graphics and layout so it may appear that you are still on Disclose.tv web site if you didn’t notice the different domain name in the browser’s address bar. These partners and affiliates may collect information from you. Before collecting personally identifying information from you our partners and affiliates’ web sites that utilize this design will disclose that you are no longer on  
+Disclose.tv and that the web site is not subject to Disclose.tv’s privacy policy.
+
+We may use outside companies to display advertisements on Disclose.tv. These ads may contain cookies and/or web beacons to collect data in the ad serving process. Some of these ads maybe loaded off of these companies’ servers. While we use cookies in other parts of Disclose.tv, cookies and/or web beacons received with banner ads are collected by our ad companies, and we do not have access to this information.
+
+Third-party Advertising Disclosures.
+
+Disclose.tv uses third-party advertising companies to serve some ads when you visit Disclose.tv. These companies may use information about your visits to Disclose.tv and other websites in order to provide advertisements about goods and services of interest to you. Additionally, Google, as a third party vendor, uses cookies to serve some ads on Disclose.tv. Google’s use of the DART cookie enables it to serve ads to Disclose.tv users based on their visit to Disclose.tv and other sites on the Internet.
+
+Furthermore Disclose.tv is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Disclose.tv shop (amazon.com, endless.com, smallparts.com or myhabit.com)].
+
+Certain Exceptional Disclosures and Compelled Disclosure
+
+We may disclose your information if necessary to protect our legal rights or if we are required by law to disclose the information that you have submitted, we will attempt to provide you with notice (unless we are prohibited) that a request for your information has been made in order to give you an opportunity to object to the disclosure. We will attempt to provide this notice by email, if you have given us an email address, or by postal mail if you have entered a postal address. If you do not challenge the disclosure request, we may be legally required to turn over your information.
+
+What Are Cookies? Why Do We Use Them?
+
+Cookies are small files stored by your browser in your computer when you visit Disclose.tv. We use cookies to improve Disclose.tv and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. We mostly use “session cookies” that are automatically deleted after each visit. Cookies from Disclose.tv can’t be read by other web sites. Most browsers will accept cookies until you change browser settings to refuse them.
+
+How Do We Protect Information We Collect?
+
+We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by Disclose.tv reduce the likelihood of security problems to a level appropriate to the type of data involved.
+
+How Long Do We Keep User Information?
+
+We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely.
+
+Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Note: we have greater control over recently collected data than for archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies.
+
+Your Consent To This Policy
+
+By using Disclose.tv, you agree to this Policy. Our Site Terms take precedence over any conflicting Policy provision.
+
+Legal Disclaimer
+
+Disclose.tv operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. This Policy is governed by German law, excluding conflicts of law principles. Any legal actions against us must be commenced in Passau, Germany within one year after the claim arose, or be barred.
+
+If You Have A Privacy Question
+
+If you have a privacy question about Disclose.tv, please email or write:
+
+ATTN: Futurebytes GmbH & Co. KG  
+Innstrasse 71  
+D-94036 Passau  
+Germany
+
+Last updated: March 2012
