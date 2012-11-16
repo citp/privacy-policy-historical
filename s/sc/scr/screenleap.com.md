@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503004346id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116112410id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Screenleap
 
-We at Screenleap, Inc. know that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the Screenleap.com website and domain name, and any other linked pages, features, content, or any other services we offer from time to time by in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+Last updated September 28, 2012
+
+Effective November 1, 2011
+
+We at ScreenLeap, Inc. know that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using our various websites (collectively, the "Website"), API ("API"), or services (collectively, the "Services"), acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
 ## I. What Does This Privacy Policy Cover?
 
@@ -58,7 +62,7 @@ The Website may contain links to other sites. We are not responsible for the pri
 
 ## V. What personal information can I access?
 
-You can always view or update the information we have on file about you, by contacting us using our Contact Us page.
+You can always view or update the information we have on file about you, by contacting us using our [Support](https://web.archive.org/support) page.
 
 ## VI. What Choices Do I Have?
 
@@ -74,6 +78,8 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ## VIII. Questions or Concerns
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message using our Contact Us page. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message using our [Support](https://web.archive.org/support) page. We will make every effort to resolve your concerns.
+
+Last updated September 28, 2012
 
 Effective November 1, 2011
