@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msn.co.nz privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501234544id_/http%3A//www.msn.co.nz/article.aspx%3Fid%3D227595) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msn.co.nz privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116192709id_/http%3A//msn.co.nz/privacy) for the most accurate reproduction.*
 
 # msn.co.nz Privacy Policy
 
@@ -38,7 +38,7 @@ MSN NZ uses AdExpert to manage advertising on the Network and provide aggregate 
 
   * Required by law or to enforce our rights;
   * We believe it necessary in order to provide you with a service which you have requested;
-  * We suspect that your use of the Network is in breach of the [Terms of Use](https://web.archive.org/web/20070501234544id_/http%3A//www.msn.co.nz/article.aspx?id=227596)
+  * We suspect that your use of the Network is in breach of the [Terms of Use](https://web.archive.org/article.aspx?id=227596)
   * To protect the rights or property of MSN NZ, any MSN NZ user or any member of the public; or
   * To lessen a serious threat to a person's health or safety.
 
