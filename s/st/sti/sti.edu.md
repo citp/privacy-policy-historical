@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616020816id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116094311id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.*
 
 # STI Colleges and Education Centers - Education for Real Life
 
@@ -67,4 +67,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **Conflict Resolution**
 
-We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20120616020816id_/http%3A//www.sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
+We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20121116094311id_/http%3A//www.sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
