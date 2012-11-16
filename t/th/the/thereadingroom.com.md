@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506210431id_/http%3A//www.thereadingroom.com/helps/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116131440id_/http%3A//www.thereadingroom.com/privacy_policy) for the most accurate reproduction.*
 
 # Help at TheReadingRoom.com
 
 ## Introduction
 
-TheReadingRoom.com™ (Site) is owned by BdB Soti Pty Ltd (referred to as "We", "us" and "our"). This statement sets out TheReadingRoom.com's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TheReadingRoom.com's Terms & Conditions governing TheReadingRoom.com and should be read in conjunction with the [Terms & Conditions.](https://web.archive.org/web/20120506210431id_/http%3A//www.thereadingroom.com/helps/terms_conditions)
+TheReadingRoom.com™ (Site) is owned by BdB Soti Pty Ltd (referred to as "We", "us" and "our"). This statement sets out TheReadingRoom.com's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TheReadingRoom.com's Terms & Conditions governing TheReadingRoom.com and should be read in conjunction with the [Terms & Conditions.](https://web.archive.org/web/20121116131440id_/http%3A//www.thereadingroom.com/terms_conditions)
 
 The following policies set out how we protect your personal information and safeguard your privacy. 
 
@@ -14,7 +14,11 @@ Whenever you visit TheReadingRoom.com, our servers automatically record informat
 
 ## If you are a registered member of TheReadingRoom.com and have logged in
 
-Once you have become a member of TheReadingRoom.com, we collect personal information about you in order to provide you with the full benefits of Membership. When you first register for Membership, we collect information from you such as your e-mail address, name, country and state. As you interact with TheReadingRoom.com, we collect information about your interests and preferences and in order to present more relevant information, recommendations, new releases and other information TheReadingRoom.comto you. If you do not provide us with your personal information we may not be able to provide some or all of the services available on TheReadingRoom.com to you.
+Once you have become a member of TheReadingRoom.com, we collect personal information about you in order to provide you with the full benefits of Membership. When you first register for Membership, we collect information from you such as your e-mail address, name, country and state. As you interact with TheReadingRoom.com, we collect information about your interests and preferences and in order to present more relevant information, recommendations, new releases and other information TheReadingRoom.com to you. If you do not provide us with your personal information we may not be able to provide some or all of the services available on TheReadingRoom.com to you. If you are under the age of 13, please refer to our Children's Privacy Policy.
+
+## Children's Privacy Policy
+
+TheReadingRooom.com does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under the age of 13, please do not provide any personal information such as your name, address, email address, telephone number, as persons under the age of 13 are not allowed to provide any personal information to or on TheReadingRoom.com. In the event that we learn or become aware that we have collected personal information from a child under the age of 13 without verification of parental consent, we will delete the information as soon as possible. If you believe that we might have any information from or about a child under 13, without parental consent, then please contact us immediately.
 
 ## If you register with one of our Affiliate Partners 
 
