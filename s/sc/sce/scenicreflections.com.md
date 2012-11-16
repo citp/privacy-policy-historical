@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519054541id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116190518id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
