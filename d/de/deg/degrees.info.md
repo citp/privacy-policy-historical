@@ -1,87 +1,70 @@
-> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225102859id_/http%3A//www.degrees.info/online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116040648id_/http%3A//edu.degreesfinder.com/privacy-policy-edu.html) for the most accurate reproduction.*
 
-# Privacy Policy - Degrees.info
+# Privacy Policy
 
-Rev. November 30, 2010
+Last revised: March, 2012
 
-For additional important information about Adchemy's online servies, please [click HERE](https://web.archive.org/privacy-additional-info.html)
+This privacy policy (this "Privacy Policy") applies to certain websites owned and/or operated by or on behalf of Adchemy, Inc. ("Adchemy", "us" or "we"). If you have arrived at this Privacy Policy by clicking on an authorized link maintained on a website which is owned or operated by us, then this Privacy Policy applies to such website (each such website, a "Site"). This Privacy Policy explains what information we collect on the Site and how we use such information. This Privacy Policy may also apply to information we collect from consumers other than through our websites, to the extent specifically disclosed or stated by us.
 
-FACTS | WHAT DOES ADCHEMY, Inc.  
-DO WITH YOUR PERSONAL INFORMATION?  
----|---  
-Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
----|---  
-What? | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
+Applicability  
+Please note that this Privacy Policy only applies to websites we own and operate if they link to this Privacy Policy. It does not apply to our websites which link to a different privacy policy, or which don't link to a privacy policy at all. Also, any third party websites you access from the Site are not covered by this Privacy Policy. The Site may provide you with access to third party websites in a couple of different ways. First, the Site may include clickable links to third party web sites, advertisements or other online material. Second, the Site may display third party web pages via iFrame technology. iFrames are windows in a webpage that allow you to view a different website without leaving the webpage. A third party website displayed through an iFrame may appear as a seamless part of the Site. If you click on a link to a third party website, or supply information to a third party website that is placed within our webpage, you are interacting with a third party's website. We encourage you to review the privacy policy of any other web site you access from the Site.
 
-  * Social Security and contact information such as phone number and e-mail address
-  * Transaction history and self-reported credit status, mortgage rates, mortgage balances
-  * Credit scores and self-reported credit history
+Persons Under 18  
+This Site is not intended for use by persons under the age of 18. If you are under the age of 18, please do not use this website or provide us with information under any circumstances, including your name, email address, telephone number or home address.
 
-  
----|---  
-How? | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers'personal information; the reasons Adchemy chooses to share; and whether you can limit this sharing.   
----|---  
-Reasons we can share your personal information | Does Adchemy share? | Can you limit this sharing  
----|---|---  
-**For our everyday business purposes** –   
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | Yes  
-**For our marketing purposes** –   
-to offer our products and services to you | Yes | No  
-**For joint marketing with other financial companies** | No | N/A  
-**For our affiliates' everyday business purposes** –   
-information about your transactions and experiences | No | N/A  
-**For our affiliates' everyday business purposes** –   
-information about your creditworthiness | No | N/A  
-**For our affiliates to market to you** | No | N/A  
-**For nonaffiliates to market to you** | Yes | Yes  
-To limit   
-our sharing | 
+Information We Collect:
 
-  * Visit us online: [Click here](mailto:privacy@adchemy.com) or send your request to [privacy@adchemy.com](mailto:privacy@adchemy.com)
+  * **Information you provide to us:** The Site may ask you to provide us with information about yourself when, for example, you choose to fill out a form in order to be matched with an educational institution; or when you participate in a promotion or respond to a survey sponsored, administered or conducted by us. Examples of the types of information you may provide to us include, but are not necessarily limited to, your name, email address, telephone number and home address; and information about your age, education level, career aspirations, and your interest in and use of various products, programs, and services. You can always choose not to provide us with information, but then some of our products and services, and certain parts of the Site may not be accessible to you.
+  * **Information we automatically collect:** We collect information about your interaction with the Site, our advertisements and other promotional content using technologies like cookies and web beacons, and via our web server's log files. Examples of information which may be collected by our various tracking technologies include browser information, your device IP address, whether you clicked on one of our advertisements, pages you've visited on the Site, which website you came from, date and time stamp information, and other navigation and click-through information. Although information we collect through these tracking devices is not always personally identifiable when collected, we may combine such information with personally identifiable information like your name or email address. (See the "Sharing and Use of Information" section below for more information about what "personally identifiable information" means.) You can read more about cookies and other tracking technology in the "More About Cookies and Related Technology" section below.
+  * **Information from other sources:** We may collect and receive information about you from third parties, including websites which publish our ads and offers, as well as other online and offline sources such as identity verification services and consumer reporting agencies, and we may combine such information with other information you have provided to us.
 
-**Please note** :   
-If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
----|---  
-Who we are  
----  
-Who is providing this notice? | Adchemy, Inc.  
-What we do  
----  
-How does Adchemy   
-protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-How does Adchemy   
-collect my personal information? | We collect your personal information, for example, when you 
 
-  * Submit an inquiry from or provide your mortgage information
-  * Submit employment status or give us you contact information
-  * Provide your auto insurance information
 
-We also collect your personal information from others companies such as credit bureaus, affilates, and other services providers and vendors.   
-Why can't I limit my sharing? | Federal law gives you the right to limit only 
+Sharing and Use of Information  
+For purposes of this Privacy Policy, "personally identifiable information" means information that could reasonably be used to identify you, like your name and email address, along with any information we may combine with such personally identifiable information. Personally identifiable information we collect about you may be used and shared by us with third parties in any manner and for any purpose permitted by law. This may include selling, renting, or otherwise disclosing your personally identifiable information to third parties for their marketing purposes. Once we provide your information to a third party for any reason, we do not control and are not responsible for that third party's use or disclosure of such information. Examples of ways and with whom we may share your information (including your personally identifiable information) include:
 
-  * sharing for affiliates' everyday business purposes – information about your creditworthiness
-  * affiliates from using your information to market to you
-  * sharing for nonaffiliates to market to you
+  * With educational institutions;
+  * With third parties in connection with processing or fulfilling your requests or inquiries;
+  * With companies who may use such information for their own marketing purposes, including to contact you in order to offer you their products or services, or the products or services of other third parties;
+  * With companies who may resell, exchange or otherwise provide your information to other businesses for various marketing purposes, including to contact you with offers regarding third party products or services;
+  * With call centers we've engaged to call you in response to your request for information about online education, and to promote or offer other products and services we think may be of interest to you;
+  * With advertisers whose content we publish or display, their agents, third party ad servers, and service providers;
+  * With service providers we engage to provide us with services like website hosting, analyzing data, sending communications on our behalf, identity verification, and/or creating, running or administering our promotions;
+  * In response to government or regulatory agency requests, court orders, subpoenas, or as we otherwise believe to be required in connection with any applicable law, rule or regulation;
+  * As we believe necessary or desirable to protect to our business, rights, safety, assets, or property, or those of a you or a third party; to limit our legal liability; to defend our interests or the interests of you or a third party; or to enforce our Terms of Service or other rules; and
+  * In connection with the consolidation or sale of our business.
 
-State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
-What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.  
-Definitions  
----  
-Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Adchemy has no affiliates
 
-  
-Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+In addition to personally identifiable information, we may also collect information that is not personally identifiable, meaning that it cannot be used to identify you because it does not reference you or contain information that can be used to identify you. We may use and share non-personally identifiable information in any manner and for any purpose permitted by law. As with personally identifiable information, once we provide your non-personally identifiable information to a third party for any reason, we do not control and are not responsible for that third party's use or disclosure of information.
 
-  * Nonaffiliates we share with can include mortgage companies, insurance companies, and direct marketing companies.
+More About Cookies and Related Technology  
+Cookies are small data files that are stored on your computer's hard drive by your web browser. Cookies may be set by us or our business partners and service providers when you visit the Site or when you interact with one of our advertisements or other content. Cookies are stored in your computer or mobile device. In addition to storing your preferences and other information, cookies allow us to gather information about your interactions within the Site and/or with one of our advertisements. We use both session cookies, which terminate when you close your browser, and persistent cookies, which remain on your computer until you manually delete them. You may decline cookies if your web browser software permits. If you have questions about disabling cookies, you should consult with your browser's manufacturer. Note, however, that some parts of the Site may not operate correctly if you disable cookies.
 
-  
-Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+We may also track your movements through the Site, advertisements and other content through web beacons (also called pixel tags or clear gifs). When you access a page, email or other content containing a web beacon, the web beacon generates a notice to us, our service providers or third party business partners. Web beacons can be used for various purposes, including to help us improve our marketing communications by measuring the response to our promotions and campaigns.
 
-  * Adchemy has no joint marketing agreements.
+We have relationships with third party advertising companies to place advertisements on our behalf onto other websites, to perform tracking and reporting functions for the Sites and our advertisements, and to place third party advertisements on the Site. These advertising companies may automatically collect information about your visit to the Sites and other websites, including information about web pages you've viewed and advertisements you interacted with, along with your IP address, date/time stamp information, your ISP and the browser you use to visit this Site. They do this by using cookies, web beacons and other technologies. Information collected may be used, among other things, to deliver advertising (from us and from other companies) targeted to your preferences and interests, and to better understand the usage and visitation of the Site and the other websites tracked by these advertising companies. This Privacy Policy does not necessarily cover all the collection methods or uses of the information collected by these third party advertising companies, and we do not have control over or access to cookies or other technologies these third party advertising companies may use. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of cookies and other technologies. If you would like more information about targeted advertising (also called behavioral advertising) and to learn about your choices with respect to such practices, including how to opt-out of the behavioral advertising programs of third party advertisers, advertising networks and ad servers who are members of the Network Advertising Initiative, please visit http://www.networkadvertising.org/managing/opt_out.asp.
 
-  
-Other important information  
----  
-If you are visiting our website for mortgage services, and you live in California or Vermont, we will not share your information with nonaffiliated third party marketers without your consent.
+**Your Choices**
+
+  * **Providing Information.** You can always choose not to provide us with your personally identifiable information if you are not comfortable with our ability to use and share that information as set forth in this Privacy Policy. Note, however, that you may not have access to certain of our products and services (like our school matching service) if you decide not to provide us with your information.
+  * **Opting Out of Our Promotional Emails.** You may opt-out of receiving marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as "unsubscribe"), or by submitting your request to privacy@adchemy.com. Please allow 10 business days for us to process your opt-out request. Also, note that opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.
+  * **Declining Cookies.** If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
+  * **NAI Opt-Out.** Some third party advertising companies we use may collect information about you through cookies and other technologies in connection with their behavioral advertising programs (see "More About Cookies and Related Technology" Section, above, for additional information). Although we don't control the programs, practices, or policies of such third party advertising companies, the Network Advertising Initiative (NAI) maintains an opt-out tool which allows you to opt-out of participating in behavioral advertising programs of NAI member companies. To access the NAI opt-out tool and learn more about behavioral advertising, visit the NAI website at: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+
+
+Your California Privacy Rights  
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with us have the right to request that we provide you with certain information regarding the disclosure of your personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. You may send your request for such information to the email or physical address set forth in the "Contact Information" section, below. Requests shall only be accepted via email or at the physical address as specified herein. We shall not be responsible for requests made over the telephone or by any other means.
+
+Effective Date and Updates to this Privacy Policy  
+This Privacy Policy is effective and was last revised as of the date indicated at the top of the document. We reserve the right to change this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you. We encourage you to check this page often for updates and revisions. Any updated Privacy Policy will be effective immediately upon posting.
+
+Contact Us  
+If you have any questions or comments relating to our website or this notice, please contact us by email at: [Privacy@adchemy.com](mailto:privacy@adchemy.com).
+
+You may also send your questions or comments to our address:
+
+Adchemy, Inc.  
+Attention: Legal Department  
+1001 E. Hillsdale Blvd. 700W, Foster City, CA 94404
