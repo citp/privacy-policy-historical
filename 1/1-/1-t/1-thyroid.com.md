@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1-thyroid.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501033803id_/http%3A//1-thyroid.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-thyroid.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116032945id_/http%3A//1-thyroid.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Thyroid Treatment | Hypothyroidism | IodinePlus2 - Women's Health Institute
 
