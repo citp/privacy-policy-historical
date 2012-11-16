@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614072727id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116013717id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # ArchitectureWeek Privacy Statement
 
@@ -73,65 +73,65 @@ Kevin Matthews Editor in Chief, ArchitectureWeek Artifice, Inc. PO Box 1588 Euge
 
 [**Daily Architecture Headlines**](http://www.architectureweek.com/headlines.html) — Updated every day at ArchitectureWeek 
 
-[**2012 AIA HUD Secretary Housing Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.designcommunity.com/forums/viewtopic.php?f=7&t=37302) — AIA Announcement at DesignCommunity, 2012.0605 
+[**West Midlands Firm Makes Shortlist for New Sydney Library and Plaza**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/west-midlands-firm-makes-shortlist-for-new-sydney-library-and-plaza/5044672.article) — BD (registration required), 2012.1023 
 
-[**SUNY New Paltz Building Receives AIA New Jersey Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.glassonweb.com/news/index/16065/) — Glass on the Web, 2012.0604 
+[**RIBA Announces Competition to Design Green Burial Site**](http://www.architectureweek.com/cgi-bin/wllk?http://specificationonline.co.uk/news-article/2413) — Specification Online, 2012.1023 
 
-[**SOM Chicago Unveils China World Trade Center Tower 3B**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archpaper.com/news/articles.asp?id=6081) — Architect's Newspaper, 2012.0604 
+[**Irish Architects Showcase in Shanghai**](http://www.architectureweek.com/cgi-bin/wllk?http://www.irishtimes.com/newspaper/finance/2012/1023/1224325575596.html) — Irish Times, 2012.1023 
 
-[**Kahn's Roosevelt Memorial to Rise, at Last**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/SB10001424052702303506404577444630159279846.html) — Wall Street Journal, 2012.0603 
+[**Build 4-Runway Mega-Hub at Stansted Airport**](http://www.architectureweek.com/cgi-bin/wllk?http://www.standard.co.uk/news/transport/build-4runway-megahub-at-stansted-airport-8220619.html) — London Evening Standard, 2012.1022 
 
-[**West 8 Completes Jubilee Gardens after 14 Years and Three Competitions**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/west-8-completes-jubilee-gardens-after-14-years-and-three-competitions/5037693.article) — BD (Registration required), 2012.0601 
+[**Doha Tower Recipient of CTBUH's World's Best Tall Building Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.worldpropertychannel.com/middle-east-africa-commercial-news/doha-tower-qatar-tower-ctbuh-best-building-award-absolute-towers-1-bligh-street-palazzo-lombardia-al-bahar-towers-antony-wood-cook-fox-architects-jean-nouvel-6199.php) — World Property Channel, 2012.1022 
 
-[**Renzo Piano to Design Film Museum in Los Angeles**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/renzo-piano-to-design-film-museum-in-los-angeles/5037630.article) — BD (Registration required), 2012.0531 
+[**Italian Court Finds Seismologists Guilty of Manslaughter**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nature.com/news/italian-court-finds-seismologists-guilty-of-manslaughter-1.11640) — Nature (registration required), 2012.1022 
 
-[**Piano and Pali to Design New Academy Museum**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archpaper.com/news/articles.asp?id=6072) — Architect's Newspaper, 2012.0530 
+[**Critic's Vision to Preserve Prentice Is Shaky**](http://www.architectureweek.com/cgi-bin/wllk?http://www.wbez.org/blogs/lee-bey/2012-10/critics-vision-preserve-prentice-shaky-could-have-another-merit-altogether) — WBEZ, 2012.1019 
 
-[**North Las Vegas City Hall and Civic Plaza Wins National Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.prweb.com/releases/2012NorthLasVegas/06/prweb9557495.htm) — PRWeb, 2012.0530 
+[**Trampoline Bridge Proposed Across the Seine**](http://www.architectureweek.com/cgi-bin/wllk?http://style.time.com/2012/10/19/trampoline-bridge-proposed-across-the-seine/) — Time, 2012.1019 
 
-[**Auckland Art Gallery Wins NZ Architecture Medal**](http://www.architectureweek.com/cgi-bin/wllk?http://www.australiandesignreview.com/news/20329-auckland-art-gallery-wins-nz-architecture-medal) — Australian Design Review, 2012.0530 
+[**Proposed: A Promenade Up an Expanded Park Avenue Median**](http://www.architectureweek.com/cgi-bin/wllk?http://www.capitalnewyork.com/article/politics/2012/10/6538437/proposed-promenade-expanded-park-avenue-median?politics-bucket-headline) — Capital New York, 2012.1019 
 
-[**Details Revealed for Super-Tall Tower in New York**](http://www.architectureweek.com/cgi-bin/wllk?http://blogs.wsj.com/developments/2012/05/29/details-revealed-for-super-tall-tower-in-new-york/) — Wall Street Journal, 2012.0529 
+[**HNTB's Soaring Design Wins LA's Sixth Street Viaduct Competition.**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archpaper.com/news/articles.asp?id=6310) — Architect's Newspaper, 2012.1019 
 
-[**Small Firms in Olympic Legacy Bidding**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectsjournal.co.uk/news/daily-news/small-firms-in-olympic-legacy-bidding/8630732.article) — Architects' Journal, 2012.0524 
+[**Guangzhou International Finance Centre by Wilkinson Eyre Architects**](http://www.architectureweek.com/cgi-bin/wllk?http://archweekpeopleandplaces.blogspot.com/2012/10/guangzhou-international-finance-centre.html) — ArchitectureWeek, 2012.1018 
 
-[**Scotland Consults on Architecture Policy**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectsjournal.co.uk/news/daily-news/scotland-consults-on-architecture-policy/8630733.article) — Architects' Journal, 2012.0524 
+[**Dame Zaha Hadid Backs New £1m Prize for Engineering**](http://www.architectureweek.com/cgi-bin/wllk?http://www.standard.co.uk/arts/architecture/dame-zaha-hadid-backs-new-1m-prize-for-engineering-8216119.html) — London Evening Standard, 2012.1018 
 
-[**Pringle Brandon to Merge with Perkins + Will**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/pringle-brandon-to-merge-with-us-giant/5037228.article) — BD (Registration required), 2012.0524 
+[**S.F. Transbay Tower Plans Get Final OKs**](http://www.architectureweek.com/cgi-bin/wllk?http://www.sfgate.com/bayarea/article/S-F-Transbay-Tower-plans-get-final-OKs-3962665.php) — San Francisco Chronicle, 2012.1018 
 
-[**People and Places 2012.0523**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2012/0523/design_2-1.html) — ArchitectureWeek, 2012.0523 
+[**A Vision to Avoid Demolition for a '70s Pioneer**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2012/10/18/arts/design/adapting-prentice-womens-hospital-for-new-use-in-chicago.html) — New York Times, 2012.1018 
 
-[**Grimshaw Scoops Tirana Boulevard Contest**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectsjournal.co.uk/news/daily-news/grimshaw-scoops-tirana-boulevard-contest/8630668.article?blocktitle=Latest-News&contentID=3) — Architect's Journal, 2012.0523 
+[**Snohetta and AECOM Reveal Conceptual Scheme for Dramatic Waterfront Facility in San Francisco.**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archpaper.com/news/articles.asp?id=6306) — Architect's Newspaper, 2012.1017 
 
-[**S.F. Low-Income Housing Complex Wins AIA Sadesign Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/05/22/DDPV1OHP3N.DTL) — San Francisco Chronicle, 2012.0523 
+[**Hepworth Wakefield Boss Bemoans Losing Stirling Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bbc.co.uk/news/entertainment-arts-19945543) — BBC News, 2012.1015 
 
-[**2012 Brisbane Regional Architecture Awards Announced**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureanddesign.com.au/article/2012-Brisbane-Regional-Architecture-Awards-Winners-announced/534453.aspx) — Architecture & Design (Australia), 2012.0521 
+[**Hepworth Director Says Losing to Expensive Building in Privileged City Was "Hard"**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/hepworth-director-says-losing-to-expensive-building-in-privileged-city-was-hard/5044307.article) — BD (registration required), 2012.1015 
 
-[**Five Finalists Selected for 2012 ULI Urban Open Space Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.designcommunity.com/forums/viewtopic.php?f=6&t=37288#p3309125) — ULI Press Release, 2012.0521 
+[**Ottawa Housing Design Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.ottawacitizen.com/homes/Housing+Design+Awards+Sweet+modern+victories/7387533/story.html) — Ottawa Citizen, 2012.1015 
 
-[**The Winners of the ECOLA Award Announced**](http://www.architectureweek.com/cgi-bin/wllk?http://www.azobuild.com/news.asp?newsID=15345) — AZo Build, 2012.0519 
+[**Ulrich Franzen, Designer of Brutalist Buildings, Dies at 91**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2012/10/14/arts/design/ulrich-franzen-architect-of-new-york-buildings-dies-at-91.html) — New York Times, 2012.1013 
 
-[**AA Losses over 'Tainted Leases' Balloon to £5.5m**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/aa-losses-over-%E2%80%98tainted-leases%E2%80%99-balloon-to-%C2%A355m/5036728.article) — BD (Registration required), 2012.0518 
+[**Michener Art Museum Addition Awarded AIA Philadelphia Honor**](http://www.architectureweek.com/cgi-bin/wllk?http://blog.kierantimberlake.com/2012/10/michener-art-museum-addition-awarded-top-honor/1140/) — KieranTimberlake Blog, 2012.1012 
 
-[**US Client Puts RMJM on Five-Year Work Ban**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/us-client-puts-rmjm-on-five-year-work-ban/5036739.article) — BD (Registration required), 2012.0518 
+[**Australian Firm Wins World Building of the Year Award**](http://www.architectureweek.com/cgi-bin/wllk?http://designbuildsource.com.au/world-building-year-award-announced) — Architecture Source (Australia), 2012.1011 
 
-[**Manchester Society of Architects – the 2012 Winners**](http://www.architectureweek.com/cgi-bin/wllk?http://www.manchesterconfidential.co.uk/News/Manchester-Society-of-Architects-The-2012-Winners) — Manchester Confidential, 2012.0518 
+[**6a Architects Shortlisted for Schelling Architecture Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/6a-architects-shortlisted-for-schelling-architecture-prize/5044644.article) — BD (registration required), 2012.1010 
 
-[**AIA/ HUD Secretary's Awards Recognize Three Projects**](http://www.architectureweek.com/cgi-bin/wllk?http://www.designcommunity.com/forums/viewtopic.php?f=6&t=37285&p=3309116#p3309116) — AIA Announcement at DesignCommunity, 2012.0518 
+[**AIA Healthcare Awards - Boston, Bethesda, Nairobi, Georgia**](http://www.architectureweek.com/cgi-bin/wllk?http://archweekpeopleandplaces.blogspot.com/2012/10/aia-healthcare-awards-in-boston.html) — ArchitectureWeek, 2012.1009 
 
-[**2012 AIA Housing Awards for Architecture**](http://www.architectureweek.com/cgi-bin/wllk?http://www.designcommunity.com/forums/viewtopic.php?f=7&t=37287#p3309119) — AIA Announcement at DesignCommunity, 2012.0518 
+[**Arb 'Should Have Been More Cautious to Get Right Message Across'**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/5043913.article?origin=BDdaily) — BD (registration required), 2012.1009 
 
-[**Number of Jobless U.K. Architects Drops for Third Month in a Row**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/number-of-jobless-architects-drops-for-third-month-in-a-row/5036843.article) — BD (Registration required), 2012.0517 
+[**Fletcher Priest Wins London High Line Competition**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/fletcher-priest-wins-london-high-line-competition/5043901.article) — BD (registration required), 2012.1008 
 
-[**Bud Clark Commons and Nine Others Receive 2012 AIA Housing Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bizjournals.com/portland/news/2012/05/17/bud-clark-commons-lands-top-design-prize.html) — Portland Business Journal, 2012.0517 
+[**Paul Goldberger Wins Scully Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archpaper.com/news/articles.asp?id=6291) — Architect's Newspaper, 2012.1008 
 
-[**Use Authorities to Get Your Wages, RMJM Dubai Boss Advises Staff**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/5036676.article?origin=BDdaily) — BD (Registration required), 2012.0516 
+[**Gehry Labels Toronto Architecture ‘Banal’**](http://www.architectureweek.com/cgi-bin/wllk?http://designbuildsource.ca/2012/10/gehry-labels-toronto-banal-major-cities-suffering-vancouverism/) — DesignBuild Source (Canada), 2012.1007 
 
-[**OMA's CCTV Building Completes in Beijing**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/news/omas-cctv-building-completes-in-beijing/5036736.article) — BD (Registration required), 2012.0516 
+[**ARB Says BD Cannot Call Piano an 'Architect'**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/5043677.article?origin=BDdaily) — BD (registration required), 2012.1005 
 
-[**Green Top Ten - Buildings for Education**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2012/0516/design_1-1.html) — ArchitectureWeek, 2012.0516 
+[**Nautical Museum Takes Prize in Architectural Competition**](http://www.architectureweek.com/cgi-bin/wllk?http://www.cgw.com/Press-Center/News/2012/Nautical-Museum-Takes-Prize-in-Architectural-Com.aspx) — Computer Graphics World, 2012.1005 
 
-[**Eviction of the Day: Milan's Occupied Skyscraper**](http://www.architectureweek.com/cgi-bin/wllk?http://www.theatlanticcities.com/arts-and-lifestyle/2012/05/eviction-day-milans-occupied-skyscraper/2018/) — Atlantic Cities, 2012.0515 
+[**Civic Architecture Awards Announced**](http://www.architectureweek.com/cgi-bin/wllk?http://designbuildsource.com.au/civic-architecture-awards-announced) — DesignBuild Source (Australia), 2012.1004 
 
 Note: Pages will open in a new browser window  
 External sites are not endorsed by ArchitectureWeek.  
