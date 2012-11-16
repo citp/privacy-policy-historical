@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527200630id_/http%3A//smarticledirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116014748id_/http%3A//smarticledirectory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Smarticle Directory
 
@@ -19,7 +19,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 Contact Information
 
 Concerns or questions about this privacy policy can be directed to support@smarticledirectory.com for further clarification.
-
-[](https://plus.google.com/107925422713725677695)
-
-Rating: 10.0/ **10** (1 vote cast)
