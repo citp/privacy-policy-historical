@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614100244id_/http%3A//www.hdnl.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116072442id_/http%3A//www.hdnl.co.uk/Privacy) for the most accurate reproduction.*
 
 # HDNL Internet - Privacy
 
@@ -38,7 +38,7 @@ Any personal information we collect from this website will be used in accordance
 
 You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address:
 
-Brand and Marketing Director: Home Delivery Network Ltd, Fallows Way, Whiston, Merseyside. L35 1RZ
+Head of Information Security, Home Delivery Network Limited, Atlantic Pavilion, Albert Dock, Liverpool, L3 4AE
 
 ## Other Websites
 
