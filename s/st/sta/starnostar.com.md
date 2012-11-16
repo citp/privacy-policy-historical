@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317150656id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116060100id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
 
 # Star No Star | Who Is Celebrity | Legal | Privacy Policy | Disclaimer
 
-Date: 03-17-2012
+Date: 11-16-2012
 
 ## Privacy Policy, Terms & Conditions :
 
-Welcome to Star No Star Private Policy, Terms and Conditions. Please take a moment and read everything below before emailing us with your comments, questions and concerns.
+Welcome to Star No Star Privacy Policy, Terms and Conditions. Please take a moment and read everything below before emailing us with your comments, questions and concerns.
 
 ### Privacy Policy
 
@@ -77,13 +77,54 @@ Membership Cancellation:
 
 You may cancel your account membership at anytime. You may cancel by logging into your account and selecting "Delete my account". Your profile will be deleted immediately upon doing so.
 
-### Ownership of content
+### Ownership of content / Fair Use Copyright
 
-Images of people uploaded to Star no Star are used for visual ( illustrative ) purposes only. Each profile on star no star uses textural information. Along with the textural information, star no star displays an image ( if available ) to depict ( illustrate ) who is being referred to in the text. Images of people on star no star are property of their rightful owners. Star no star claims no intellectual rights to any images of people posted on star no star.
+Images of people on [www.starnostar.com](http://www.starnostar.com/) fall under the Fair Use Copyright. Images of people uploaded to Star no Star are used for visual ( illustrative ) purposes only. Each profile on star no star uses textural information. Along with the textural information, star no star displays an image ( if available ) to depict ( illustrate ) who is being referred to in the text. Images of people on star no star are property of their rightful owners. Star no star claims no intellectual rights to any images of people posted on star no star.
 
-### Fair Use Copyright
+### DMCA Notice
 
-Images of people on [www.starnostar.com](http://www.starnostar.com/) fall under the Fair Use Copyright. 
+**Definition of "Private":** Belonging to or for the use of one particular person or group of people only.
+
+**Definition of "Public":** Of or concerning the people as a whole.
+
+**Our search results simply reflect what's already out there on the web publicly accessible.**
+
+StarNoStar is an advanced search engine. We are not the primary source of information. We do not own the Internet, and we do not control the content of unrelated sites that appear in our search results. Our search results simply reflect what's already out there on the web publicly accessible.
+
+Procedures for making claims.
+
+### Anonymous requests will be ignored.
+
+### Before doing so, please carefully read:
+
+  * **Internet Freedom and Nondiscrimination Act of 2006 (H.R.5417, 109th Congress)**
+  * **2008 (H.R.5994, 110th Congress)**
+  * **Digital Millennium Copyright Act (DMCA) 17 U.S.C. § 512(f) - Limitations on liability relating to material online**
+  * **Freedom of the press**
+  * **The Universal Declaration of Human Rights**
+
+
+
+Freedom of the press in the United States is protected by the First Amendment to the United States Constitution.
+
+**The Universal Declaration of Human Rights states:**
+
+"Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference, and impart information and ideas through any media regardless of frontiers"
+
+Please provide StarNoStar legal group specified information below if you believe your work has been copied in such a way that constitutes copyright infringement. Your DMCA request will be deemed invalid if not submitted properly.
+
+### Please Provide:
+
+  * Physical or electronic signature of person authorized to act on behalf of the owners copyrighted material or interest.
+  * A full description of the copyrighted material you claim has been infringed.
+  * Provide a link and description where the infringing is located.
+  * Your Address, Telefon Number, and E-mail Address.
+  * You must have a good faith belief that use of the material is not authorized by the copywrite owner, its agent or the law.
+  * A full statement, made under penalty of perjury, all the information in your statement is accurate, you are the copyright owner or authorized to act on behalf of the copyright owner.
+
+
+
+**512(f) acknowledgment under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys' fees, if you knowingly materially misrepresented reported material.**
 
 ### Liability
 
