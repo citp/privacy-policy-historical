@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jardello.eu privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527151611id_/http%3A//www.jardello.eu/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jardello.eu privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116122920id_/http%3A//www.jardello.eu/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # .::AS::. Jardello : Free Auto Hits Traffic Your WebSites
 
@@ -14,7 +14,7 @@ All e-mail lists maintained by .::AS::.Jardello contain the names of people who 
 What anonymous information is collected on this site? Anonymous information is collected for every visitor to this site. This includes login count, date and time, IP numbers and browser type. 
 
 How is it used?  
-The anonymous information is used by SurfJardello to find cheaters. 
+The anonymous information is used by ASJardello to find cheaters. 
 
 How does this site use cookies? .::AS::.Jardello uses cookies to identify you when you log in. This cookies contains only the entered login information (e-mail address and password). 
 
