@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podclass.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629171054id_/http%3A//www.podclass.com/podclass/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podclass.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074102id_/http%3A//www.podclass.com/podclass/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
