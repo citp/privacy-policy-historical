@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527205545id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116192829id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Trailfinders the Travel Experts
 
 Trailfinders Ltd, and, on our behalf, Nedstat are committed to protecting the privacy of trailfinders.com users and the overall integrity of the internet.
 
@@ -31,4 +31,4 @@ If you would like to know more about cookies, or would like to disable cookies i
 
 Please write to The Marketing Department, 9 Abingdon Road, London, W8 6AH
 
-Alternatively please call 020 7408 9080 or email marketing@trailfinders.com
+Alternatively please call 020 7368 1590 or email marketing@trailfinders.com
