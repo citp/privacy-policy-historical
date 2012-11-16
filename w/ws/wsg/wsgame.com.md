@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsgame.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001104id_/http%3A//www.wsgame.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsgame.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116022243id_/http%3A//www.wsgame.com/about/privacy) for the most accurate reproduction.*
 
-# Wondershare Games | Play Free Browser Games Online
+# WSGame| Hosts of SOG, COG and LOL | fun and free MMORPG
 
 We take the privacy of our customers very seriously and as you will read, you are protected by our commitment to the following:
 
@@ -25,10 +25,10 @@ We ask that you educate your child to never give out their email, name, address,
 
 You can send us email at: [support@wsgame.com](mailto:support@wsgame.com)
 
-If we materially change our Privacy Policy, we will notify you when you sign on or send you an email if we have it on record. We will offer you the choice to agree to our new Privacy Policy. We will delete your account should you refuse to agree to the new Privacy Policy. 
+If we materially change our Privacy Policy, we will notify you when you sign in or send you an email if we have it on record. We will offer you the choice to agree to our new Privacy Policy. We will delete your account should you refuse to agree to the new Privacy Policy. 
 
-You can change your information with the exception of your User ID anytime by visiting www.wsgame.com, signing on, and then choosing the 'My Account' link on the upper right side of the website. 
+You can change your information with the exception of your User ID anytime by visiting www.wsgame.com, signing in, and then choosing the 'My Account' link on the upper right side of the website. 
 
 In the event that we sell a portion or our entire Company, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy. 
 
-We will disclose personal information when we believe in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena, or will help to enforce our Terms of Servive; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites. 
+We will disclose personal information when we believe in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena, or will help to enforce our Terms of Service; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of any property that belongs to you; and/or, protect the safety and security of our websites. 
