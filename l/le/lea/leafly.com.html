@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leafly.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510231227id_/http%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leafly.com privacy policy that was archived on 2012-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116160113id_/http%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -28,8 +28,8 @@
     <link rel="apple-touch-icon" sizes="114x114" href="/public/images/icons/leafly-ap-114.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/public/images/icons/leafly-ap-144.png">
 
-    <link rel="Stylesheet" type="text/css" href="/cdn/combine/siteCss/1938753745/">
-     <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/cdn/combine/ieCss/1767383446/"/><![endif]--> 
+    <link rel="Stylesheet" type="text/css" href="/cdn/combine/siteCss/1315206846/">
+     <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/cdn/combine/ieCss/175506980/"/><![endif]--> 
      <!--[if lt IE 9]><script>
         document.createElement("header");
         document.createElement("nav");  
@@ -38,7 +38,7 @@
         document.createElement("hgroup");
     </script>
     <![endif]-->
-    <script type="text/javascript" src="/cdn/combine/typekit/-355389118/"></script>
+    <script type="text/javascript" src="/cdn/combine/typekit/-754246555/"></script>
     <script type="text/javascript"> try { Typekit.load(); } catch (e) { }</script>
 
     <script type="text/javascript">
@@ -54,7 +54,7 @@
             node.parentNode.insertBefore(gads, node);
         })();
     </script>
-
+    
     <script type="text/javascript">
         googletag.cmd.push(function () {
             googletag.pubads().setTargeting("env","Release");
@@ -90,7 +90,7 @@
 
 </head>
 
-<body>
+<body><div class="adaptive-image-test" style="position: absolute; top: -100em;"></div>
 
 <div id="ext_toolbar" style="display:none; background-image: url(http://assets.idiomag.com/ext/toolbar/gradient.png); font-family: Tahoma, sans-serif; font-size: 14px; color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(204, 204, 204); position: absolute; top: 0px; width: 100%; height: 37px; z-index:9999; ">
     <div id="ext_toolbar_close" style="float: right; background-image: url(http://assets.idiomag.com/ext/toolbar/close.png); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; width: 10px; height: 10px; margin-top: 14px; margin-right: 10px; margin-bottom: 0px; margin-left: 0px; cursor: pointer; background-position: initial initial; background-repeat: no-repeat no-repeat;" onclick="$('#ext_toolbar').slideUp();">
@@ -159,7 +159,7 @@
 
                       <div id="search">
                         <form action="/search" method="get">
-                            <input type="text" class="smaller ac-images strain" placeholder="Find strains or dispensaries..." name="q" id="search-text">
+                            <input type="text" class="smaller ac-images strain ui-autocomplete-input" placeholder="Find strains or dispensaries..." name="q" id="search-text" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
                             <input type="submit" value="Search" class="smaller">
                         </form>
                       </div>
@@ -245,7 +245,7 @@ Leafly discloses potentially personally-identifying and personally-identifying i
                         
                         <li><a href="/api">API</a></li>
                         <li><a href="/widgets">Widgets</a></li>
-                        <li><a href="/company/tos">Terms of Service</a></li>
+                        <li><a href="/company/investorrelations">Investor Relations</a></li>
                         <li><a href="/company/privacy-policy">Privacy Policy</a></li>
                         <li><a href="http://www.facebook.com/leaflydotcom">Facebook</a></li>
                         <li><a href="http://twitter.com/leaf_ly">Twitter</a></li>
@@ -268,7 +268,7 @@ Leafly discloses potentially personally-identifying and personally-identifying i
     </div>
 <script src="http://api.mixpanel.com/site_media/js/api/mixpanel.js" type="text/javascript"></script>
 
-<script type="text/javascript" src="/cdn/combine/siteJs/15403508/"></script>
+<script type="text/javascript" src="/cdn/combine/siteJs/905215466/"></script>
 
 
 
@@ -276,6 +276,9 @@ Leafly discloses potentially personally-identifying and personally-identifying i
 
 
     <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.pubads().setTargeting("usertype",readCookie("UserType","reg"));
+        });
 
       $(document).ready(function() {
 
@@ -308,7 +311,7 @@ Leafly discloses potentially personally-identifying and personally-identifying i
                                   .append("<a><span class=\"ac-images " + item.type + "\"></span><span class=\"ac-label\">" + item.label + "</span></a>")
                                   .appendTo(ul);
        };    
-</script>
+</script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul>
 
 
     
