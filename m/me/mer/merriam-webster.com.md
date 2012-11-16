@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the merriam-webster.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502062157id_/http%3A//www.merriam-webster.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merriam-webster.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116151921id_/http%3A//www.m-w.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster Online
 
-## _Updated June 13, 2011_
+### _Updated June 13, 2011_
 
 Merriam-Webster is committed to respecting the privacy of visitors to its Web sites. The guidelines below explain how we protect the privacy of visitors to Merriam-Webster.com and its features.
 
-## Personally Identifiable Information
+### Personally Identifiable Information
 
 Merriam-Webster protects the identity of visitors to Merriam-Webster.com by limiting the collection of personally identifiable information. For certain promotions and to access certain features, such as to receive a Word of the Day subscription, we may request a voluntary submission of information such as name, e-mail address, city, state, and age.
 
@@ -17,13 +17,9 @@ All personally identifiable information you provide to us for subscriptions thro
 If you choose to provide personally identifiable information to us, you may receive the following types of e-mails from us:
 
   * E-mails related to subscription-maintenance activities.
-
   * Periodic e-mail newsletters highlighting new features, content, and usage tips for Merriam-Webster.com.
-
-  * Periodic special offers for additional Merriam-Webster and Encyclopædia Britannica (Merriam-Webster's parent company) products and services
-
+  * Periodic special offers for additional Merriam-Webster and Encyclopædia Britannica (Merriam-Webster's parent company) products and services.
   * Periodic special offers from Merriam-Webster approved partners if you "opt-in" or give us your permission to send them.
-
 
 
 
@@ -33,11 +29,11 @@ Merriam-Webster.com may also use other third-party providers to facilitate the d
 
 Merriam-Webster may also disclose personally identifiable information in special legal circumstances. For instance, such information may be used where it is necessary to protect our copyright or intellectual property rights, or if the law requires us to do so.
 
-## Anonymous Information
+### Anonymous Information
 
 Anonymous aggregated data may be provided to other companies we do business with for statistical purposes. For example, we may report to advertisers that a certain percentage of our site's visitors are adults between the ages of 25 and 35.
 
-## Cookies and Beacons—Use by Merriam-Webster; Opting Out
+### Cookies and Beacons—Use by Merriam-Webster; Opting Out
 
 We use cookies and software logs to monitor the use of Merriam-Webster.com and to gather non-personal information about visitors to the site. Cookies are small files that Merriam-Webster transfers to the hard drives of visitors for record-keeping purposes. These monitoring systems allow us to track general information about our visitors, such as the type of browsers (for example, Firefox or Internet Explorer), the operating systems (for instance, Windows or Macintosh), or the Internet providers (for instance, Comcast) they use. This information is used for statistical and market research purposes to tailor content to usage patterns and to provide services requested by our customers. To delete these cookies, please see your browser's privacy settings.
 
@@ -45,7 +41,7 @@ A beacon is an electronic file object (typically a transparent image) placed in 
 
 None of the information we gather in this way can be used to identify any individual who visits our site.
 
-## Cookies and Beacons—Use by Third-Parties; Opting Out
+### Cookies and Beacons—Use by Third-Parties; Opting Out
 
 Advertisers and advertising networks use cookies and beacons to target ads served to Merriam-Webster.com. What does it mean to "serve ads"? When you visit a Web site, your Internet browser transmits a "request" to the computer that hosts the Web site (the "host server") requesting that server to send you (or "serve") the Web page that you are seeking. Most Web pages contain components that are pulled from different sources, for example, a Web page at a news site may get its weather section from one provider, its sports results from a different source, and advertisements from other servers. Our Web pages contain coding that directs your browser to fill the ad spaces on the Web pages with content served by advertisers and networks of advertisers to whom we have sold the ad spaces. The advertisers and networks use cookies and beacons to help manage ad delivery and frequency, and to identify audience segment(s) for customized advertising ("targeting"). These cookies are used to identify your IP address, so that when you visit another Web site using the same advertising network, the network will recognize the cookie as one of its own, read the information on the cookie (the record of which sites in the network you have visited) and serve you an ad that you might be interested in, based on your past visits to other sites in the network. Advertising targeted based on past Web surfing is known as "behavioral advertising."
 
@@ -71,41 +67,41 @@ Merriam-Webster's ad server, AdTech, uses cookies to prevent you from seeing the
 
 To manage or delete browser cookies, please see your browser's privacy settings.
 
-To manage or delete Flash cookies, please use the Adobe Flash Player Settings Manager here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+To manage or delete Flash cookies, please use the Adobe Flash Player Settings Manager here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html>
 
-## Security
+### Security
 
 Any personally identifiable information collected through this site is stored on limited-access servers. We will maintain safeguards to protect these servers and the information they store.
 
-## Surveys
+### Surveys
 
 We may occasionally conduct on-line surveys. All surveys are voluntary and you may decline to participate.
 
-## Copyright
+### Copyright
 
 All of the content on Merriam-Webster.com is copyrighted by Merriam-Webster, Incorporated, 47 Federal Street, P.O. Box 281, Springfield, MA 01102, and it cannot be redistributed or used for commercial purposes. More detailed information about Merriam-Webster's copyrights and trademarks is available on our [Copyright Notice](https://web.archive.org/info/copyright.htm) page.
 
-## Contacting Us
+### Contacting Us
 
 If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://web.archive.org/info/contact.htm) page to find e-mail addresses and other contact information for the appropriate department. To correct, update, or remove personally identifiable information, please email us at [privacy@m-w.com](mailto:privacy@m-w.com).
 
-## Links to Other Web sites
+### Links to Other Web sites
 
 The Merriam-Webster sites each contain links to other Web sites. Merriam-Webster is not responsible for the privacy practices or content of these third-party Web sites. We urge all Merriam-Webster.com visitors to follow safe Internet practices: Do not supply Personally Identifiable Information to these Web sites unless you have verified their security and privacy policies.
 
-## Data Retention
+### Data Retention
 
 We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations.
 
-## Business Transfers
+### Business Transfers
 
 As we continue to develop our business, we might sell or buy subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Merriam-Webster, or substantially all of its assets are acquired, customer information will be one of the transferred assets, and will remain subject to our Privacy Policy.
 
-## Your California Privacy Rights
+### Your California Privacy Rights
 
 If you are a California resident, you are entitled to prevent sharing of your personal information with third parties for their own marketing purposes through a cost-free means. If you send a request to the address above, Merriam-Webster will provide you with a California Customer Choice Notice that you may use to opt-out of such information sharing. To receive this notice, submit a written request to [privacy@m-w.com](mailto:privacy@m-w.com), specifying that you seek your "California Customer Choice Notice." Please allow at least thirty (30) days for a response.
 
-## Acceptance of Privacy Policy Terms and Conditions
+### Acceptance of Privacy Policy Terms and Conditions
 
 By using this site, you signify your agreement to the terms and conditions of this Merriam-Webster.com Privacy Policy. If you do not agree to these terms, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. All amended terms automatically take effect 30 days after they are initially posted on the site. Please check this page periodically for any modifications. Your continued use of Merriam-Webster.com following the posting of any changes to these terms shall mean that you have accepted those changes.
 
