@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170103id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116073737id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
 
 # Snooth | Privacy
 
@@ -45,6 +45,3 @@ Registered users who have elected to receive Snooth's daily email about wine dea
 ## Questions or Comments
 
 [Contact us](http://www.snooth.com/contact/).
-
-  
-
