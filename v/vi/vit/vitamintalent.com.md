@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503210333id_/http%3A//www.vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117005212id_/http%3A//www.vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Vitamin T
 
@@ -26,9 +26,13 @@ In the course of conducting its business and to comply with government regulatio
 
 ### Use
 
-Vitamin T uses this information for the purpose of identifying individuals personally and communicating with them. In the case of Vitamin T Employees Vitamin T also uses the information for the purpose of complying with human resource requirements, complying with government regulations, and providing employee benefits. Vitamin T may request employees, applicants, customers and registered users of the Vitamin T website to complete questionnaires or surveys regarding their experience with Vitamin T or their use of the website. Responses are used by Vitamin T solely to assist it in improving services or the navigation features and functionality of the website. Participation in such surveys is voluntary.
+Vitamin T uses this information for the purpose of identifying individuals personally and communicating with them. In the case of Vitamin T Employees, Vitamin T also uses the information for the purpose of complying with human resource requirements, complying with government regulations, and providing employee benefits. Vitamin T may request employees, applicants, customers and registered users of the Vitamin T website to complete questionnaires or surveys regarding their experience with Vitamin T or their use of the website. Responses are used by Vitamin T solely to assist it in improving services or the navigation features and functionality of the website. Participation in such surveys is voluntary.
+
+### Cookies
 
 Certain additional information also is collected from users of this website in an aggregate form and used solely in connection with improving the performance and responsiveness of our services and website. This information includes a users originating domain, time of visit, connection speed, domain names, and Internet service provider. This information is not personally identifiable information and Vitamin T makes no attempt to correlate such information to an individual user.
+
+Cookies are used to collect these data. Cookies are small sets of bytes that we place on the device you use to access our websites and services. These cookies collect data to help us personalize, secure, and improve the performance of our websites and services. The cookies described as “strictly necessary” are essential in order to enable you to move around the website and use its features, such as accessing secure data. Without these cookies, services you have requested, such as language and filtering preferences, cannot be provided. Click [here](https://web.archive.org/common/img/company/cookieList.pdf) for more detail on the cookies that we use.
 
 ### Onward Transfer
 
@@ -39,8 +43,8 @@ Vitamin T may disclose Personal Data as follows:
   * Third Party Service Providers: Vitamin T may from time to time, outsource some or all of the operations of our business to third-party service providers. Entities with which Vitamin T partners for special projects or initiatives are provided with the minimum amount of information needed for the purpose of accomplishing their tasks and we restrict how such service providers may access, use and disclose your data. 
   * Agents: Vitamin T works with other companies and individuals to perform functions on its behalf. Examples include processing compensation, providing employee benefits, and performing legal and other professional services. These agents have access to Personal Data needed to perform their functions, but they are contractually bound to restrict their use to the purposes for which they have been retained by Vitamin T. 
   * Business Transfers: In the event that Vitamin T sells or buys any business or assets, Vitamin T may disclose Personal Data to the prospective seller or buyer of such business or assets. 
-  * Legal Investigations and requests: Vitamin T may disclose Personal Data to law enforcement agencies or other governmental agencies when required to do so or when Vitamin T in good faith believes it is necessary in order to comply with legal obligations. 
-  * Protection of Vitamin T and others: Vitamin T may release data when we believe release is appropriate to enforce or apply our policies and other agreements, or protect the rights, property or safety of Vitamin T, our employees, or others. This does not include selling, renting, sharing or otherwise disclosing Personal Data for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+  * Legal Investigations and Requests: Vitamin T may disclose Personal Data to law enforcement agencies or other governmental agencies when required to do so or when Vitamin T in good faith believes it is necessary in order to comply with legal obligations. 
+  * Protection of Vitamin T and Others: Vitamin T may release data when we believe release is appropriate to enforce or apply our policies and other agreements, or protect the rights, property or safety of Vitamin T, our employees, or others. This does not include selling, renting, sharing or otherwise disclosing Personal Data for commercial purposes in violation of the commitments set forth in this Privacy Policy.
 
 
 
@@ -62,14 +66,14 @@ Vitamin T takes reasonable security measures such as password protection, encryp
 
 ### Enforcement
 
-Vitamin T regularly reviews its compliance with this privacy policy and periodically verifies that the policy is accurate and comprehensive for the information intended to be covered. Vitamin T encourages interested individuals to raise any concerns using the contact information provided and Vitamin T will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Data. For complaints that cannot be resolved between Vitamin T and the complainant, Vitamin T has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Safe Harbor Principles
+Vitamin T regularly reviews its compliance with this privacy policy and periodically verifies that the policy is accurate and comprehensive for the information intended to be covered. Vitamin T encourages interested individuals to raise any concerns using the contact information provided and Vitamin T will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Data. For complaints that cannot be resolved between Vitamin T and the complainant, Vitamin T has agreed to participate in the dispute resolution procedures of the panel established by the European data protection authorities to resolve disputes pursuant to the Safe Harbor Principles.
 
 ### Amendments
 
-This Privacy Policy may be amended from time to time consistent with the requirements of the Safe Harbor. Vitamin T will post any revised policy on this website. Vitamin T will not use Personal Data in a manner inconsistent with the Privacy Policy under which your Personal Data is collected without your consent.
+This Privacy Policy may be amended from time to time consistent with the requirements of the Safe Harbor Principles. Vitamin T will post any revised policy on this website. Vitamin T will not use Personal Data in a manner inconsistent with the Privacy Policy under which your Personal Data is collected without your consent.
 
 ### Contact Us
 
 Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by e-mail at [privacy@vitamintalent.com](mailto:privacy@vitamintalent.com).
 
-Effective Date: 18 July 2011
+Effective Date: 16 May 2012
