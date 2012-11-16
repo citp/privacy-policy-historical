@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlosstriumph.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031747id_/http%3A//www.weightlosstriumph.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlosstriumph.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116013325id_/http%3A//www.weightlosstriumph.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
