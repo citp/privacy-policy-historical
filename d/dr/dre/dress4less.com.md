@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dress4less.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422152421id_/http%3A//www.dress4less.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress4less.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116233729id_/http%3A//www.dress4less.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Dress 4 Less
 
