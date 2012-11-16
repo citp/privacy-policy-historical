@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517033307id_/http%3A//i.iscute.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117001347id_/http%3A//i.iscute.com/privacy.php) for the most accurate reproduction.*
 
 # Cute & Funny Pictures @ isCute.com
 
-Political Pictures
-[  
-The Mitt Romney Flop!](http://i.politicomments.com/2h)
-
-[  
-Defend the Constitution](http://i.politicomments.com/7m)
-
+Funny Pictures
 |  Privacy Policy  
 Updated 3/14/2009 
 
@@ -27,32 +21,32 @@ We employ the use of tracking techniques used to monitor how people use this sit
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 |  **Random Pics**  
-[Nom Nom  
-](http://i.iscute.com/1d0)
+[I'm so excited!  
+](http://i.iscute.com/63s)
 
-[Shocked cat  
-](http://i.iscute.com/rc)
+[Baby in Shoe  
+](http://i.iscute.com/61z)
 
-[Evil eye toddler  
-](http://i.iscute.com/1c)
+[Doggy Ride  
+](http://i.iscute.com/66d)
 
-[Grapefruit helmet cat  
-](http://i.iscute.com/m)
+[  
+](http://i.iscute.com/65k)
 
-[Orangutan baby and mama  
-](http://i.iscute.com/1u)
+[Woodland Babies  
+](http://i.iscute.com/668)
 
-[Wet cat  
-](http://i.iscute.com/86)
+[Snowcone Kitty  
+](http://i.iscute.com/61i)
 
-[Rick or reet  
-](http://i.iscute.com/28)
+[Kitty on Water Bowl  
+](http://i.iscute.com/618)
 
-[Hot dog puggs  
-](http://i.iscute.com/1q)
+[  
+](http://i.iscute.com/64f)
 
-[Dressed up Chihuahua  
-](http://i.iscute.com/c)
+[Polar bear nap  
+](http://i.iscute.com/3w)
 
-[Baby armadillo  
-](http://i.iscute.com/z)
+[  
+](http://i.iscute.com/67c)
