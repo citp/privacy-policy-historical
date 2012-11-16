@@ -1,0 +1,1026 @@
+<!--The following is the downloaded HTML source of the geekbuying.com privacy policy that was archived on 2012-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117001357id_/http%3A//geekbuying.com/help/about/privacy_notice) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	
+	Privacy Notice - GeekBuying.com
+
+</title></head>
+<body>
+<link href="http://content1.geekbuying.com/css/help.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://content1.geekbuying.com/css/main.css">
+
+<link rel="stylesheet" href="http://content1.geekbuying.com/css/main.css">
+<link rel="icon" href="http://content1.geekbuying.com/images/7_26_favicon.ico" mce_href="http://content1.geekbuying.com/images/7_26_favicon.ico" type="image/x-icon">
+<style>
+  #longbanner
+  {	 
+width:960px;float:left;overflow:hidden;margin-top:4px;overflow:hidden;margin-left:8px;margin-right:8px;
+border:1px solid #c2c2c2;-webkit-border-bottom-left-radius:6px;-webkit-border-bottom-right-radius:6px;box-shadow:2px 3px 4px #999;-webkit-box-shadow:2px 3px 4px #999;
+	-webkit-border-top-right-radius:6px;	-webkit-border-top-left-radius:6px;-moz-border-radius-bottomleft:6px;-moz-border-radius-bottomright:6px;
+-moz-box-shadow:2px 3px 4px #999;-moz-border-radius-topright:6px;width:960px;display:none;height:100px; }
+ #searchPopuDiv{position:absolute;width:244px;border:1px solid #666;left: 119px;top: 30px;z-index:1112;background:#fff;display:none}
+ #searchPopuDiv ul{ margin:0px;list-style:none;padding:0px; }	    
+ #searchPopuDiv ul li{float:left;position:relative;width:244px; font-size:13px; font-family:arial;height:26px;line-height:26px;}
+ #searchPopuDiv ul li a { text-decoration:none; color:#000; height:26px; width:234px;display:block;padding-left:10px;cursor:pointer}
+</style>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://content1.geekbuying.com/js/jquery-1.7.1.min.js">
+</script>
+<script src="http://content1.geekbuying.com/js/Untitled-4.js">
+</script>
+<script src="http://content1.geekbuying.com/js/GeekBuyIng.js">
+</script>
+<script>
+  $(function(){
+$("#largerDiv").children().eq(0).before($("#longbanner"));
+$("#loginDiv").children().eq(0).before($("#longbanner"));
+$("#wrapper").children().eq(0).before($("#longbanner"));
+if(window.location=="http://www.geekbuying.com/")
+{
+$("#longbanner").css("display","none")
+}else
+{
+$("#longbanner").css("display","block")
+}
+     var bannerTime;
+    var ThisIndex=0;
+	var bannerIntTime;
+bannerInterval=function(){
+			$("#bannerIndex img").attr("src","http://content1.geekbuying.com/images/point1.png")
+			$("#bannerIndex img").eq(ThisIndex).attr("src","http://content1.geekbuying.com/images/point.png")
+				//$("#bannerImages").stop(true,true)
+			    $("#bannerImages").fadeTo(800,0.3,function(){
+			    $("#bannerImages a").css("display","none");
+			    $("#bannerImages a").eq(ThisIndex).css("display","block");
+			    $(this).fadeTo(800,1);
+		        	})
+	}
+	$("#bannerIndex img").each(function(e){
+	    $(this).hover(function(){			
+	       	if(e!=ThisIndex)
+				{
+		   bannerTime=setTimeout(function(){
+						ThisIndex=e;
+						bannerInterval()			  
+			},120)	
+		   }
+		},function(){
+		clearTimeout(bannerTime)
+		})
+	})
+		bannerIntTime=setInterval(bit=function(){
+	  ThisIndex++;
+	  
+	  if(ThisIndex>=4)
+	  {
+		  ThisIndex=0
+	  }
+	  bannerInterval();
+	  
+	},4000)
+	$("#bannerDiv").hover(function(){
+	clearInterval(bannerIntTime)	
+	},function(){
+   clearInterval(bannerIntTime)	
+	bannerIntTime=setInterval(bit,4000)
+	})
+		$("#leftnavigator .toggleLi").hover(function(){
+	  $(this).children("ul").css("display","block");
+	  $(this).children("a").css({"border":"1px solid #a0484b","height":"28px","border-right":"none","background":"#FFF","-webkit-border-bottom-left-radius":"3px","-webkit-box-shadow":"-3px 3px 6px #999","-moz-border-radius-bottomleft":"3px","-webkit-border-top-left-radius":"3px","-moz-border-radius-topleft":"3px"})	  
+	},function(){
+	  $(this).children("ul").css("display","none");
+	  $(this).children("a").css({"border":"none","height":"30px","background":"url(http://content1.geekbuying.com/images/listimg3.png)","-webkit-border-bottom-left-radius":"0px","-webkit-box-shadow":"0px 0px 0px #fff","-moz-border-radius-bottomleft":"0px","-webkit-border-top-left-radius":"0px","-moz-border-radius-topleft":"0px"})	 
+	})
+         $("#listItemsDiv .toggleLi").hover(function(){
+	  $(this).children("ul").css("display","block");
+	  $(this).children("a").css({"border":"1px solid #a0484b","height":"28px","border-right":"none","background":"#FFF","-webkit-border-bottom-left-radius":"3px","-webkit-box-shadow":"-3px 3px 6px #999","-moz-border-radius-bottomleft":"3px","-webkit-border-top-left-radius":"3px","-moz-border-radius-topleft":"3px"})	  
+	},function(){
+	  $(this).children("ul").css("display","none");
+	  $(this).children("a").css({"border":"none","height":"30px","background":"url(http://content1.geekbuying.com/images/listimg3.png)","-webkit-border-bottom-left-radius":"0px","-webkit-box-shadow":"0px 0px 0px #fff","-moz-border-radius-bottomleft":"0px","-webkit-border-top-left-radius":"0px","-moz-border-radius-topleft":"0px"})	 
+	})
+  var slideDownTime;
+	  var slideDownTime1
+	  $("#downListDiv").hover(function(){
+			$("#downListDiv").css({"background":"url(http://content1.geekbuying.com/images/redDownList.jpg)"})
+			clearTimeout(slideDownTime1)
+		    slideDownTime=setTimeout(function(){
+				
+				$("#listItemsDiv").slideDown(300)
+			},100)
+		},function(){
+			$("#downListDiv").css({"background":"url(http://content1.geekbuying.com/images/downlist.jpg)"})
+			clearTimeout(slideDownTime)
+			slideDownTime1=setTimeout(function(){
+			$("#listItemsDiv").slideUp(300)
+			},400)
+	  })
+  })
+</script>
+<script language="javascript" type="text/javascript">
+    var thisSelectIndex=-1;
+var thisSelectIndex1=-1;
+	    function keyNumAll(evt){ 
+		var lilen1=$("#searchPopuDiv ul li").length;
+             
+evt = (evt) ? evt : ((window.event) ? window.event : ""); 
+var key2 = evt.keyCode?evt.keyCode:evt.which;
+               
+         if(key2 == 38){   
+       thisSelectIndex--;
+	     if(thisSelectIndex<0)
+		  {
+			  thisSelectIndex=lilen1-1
+		  }
+         }   
+		 else if(key2==40)
+		 {
+			 thisSelectIndex++;
+			 if(thisSelectIndex>=lilen1)
+			 thisSelectIndex=0
+		 }
+		 else{
+                     
+                     
+			  if($("#searchText").val().length==0)
+		   {
+                         $("#searchPopuDiv").css({"display":"none"})
+			  return;
+		   }else
+                   {              			  
+                       textLeft=$("#searchText").offset().left
+		    textTop=$("#searchText").offset().top
+                    
+                     $.ajax({
+                   url: "/search/GetAutoReturnKeys?userkeys="+$("#searchText").val(),
+                   cache: false,
+                   success: function(data) {
+                         $("#searchPopuDiv ul").empty()
+                        $("#searchPopuDiv ul").append(data);
+                       if($("#searchPopuDiv ul li").length==0)
+                        {
+                            $("#searchPopuDiv").css({"display":"none"})
+                        }else
+                        {
+                           $("#searchPopuDiv").css({"left":textLeft+"px","top":textTop+22+"px","display":"block"})
+                      searchDownList();
+                        }
+                       
+                      }
+                   });
+		  }
+             }
+                         
+             
+		
+	   }
+var isExe2=false;
+   function keySel(evt)
+  {
+var lilen2=$("#searchPopuDiv ul li").length;
+    evt = (evt) ? evt : ((window.event) ? window.event : ""); 
+var key3 = evt.keyCode?evt.keyCode:evt.which;
+
+
+    if(key3 == 38){   
+       thisSelectIndex1--;
+	     if(thisSelectIndex1<0)
+		  {
+			  thisSelectIndex1=lilen2-1
+		  }
+               isExe2=true;
+         }   
+		 else if(key3==40)
+		 {isExe2=true;
+			 thisSelectIndex1++;
+			 if(thisSelectIndex1>=lilen2)
+			 thisSelectIndex1=0
+                  
+		 }else if(key3!=13)
+               {
+           
+                 isExe2=false;
+                }
+
+ if(key3==13 && isExe2)
+		 {
+			 $("#searchText").val($("#searchPopuDiv ul li").eq(thisSelectIndex).text())
+                         $("#searchForm").submit();
+                         return;
+			
+		 }
+
+ $("#searchPopuDiv ul li").css("background","none")
+    			 $("#searchPopuDiv ul li").eq(thisSelectIndex1).css("background","#efefef");
+  }
+ function searchDownList(){
+         
+	   $("#searchPopuDiv ul li ").each(function(e){
+	       $("#searchPopuDiv ul li ").eq(e).hover(function(){
+		   $(this).css({"background":"#efefef"})		
+	    },function(){
+               $(this).css({"background":"none"})
+            })
+               $(this).children().click(function(){
+		    $("#searchText").val($(this).text())
+                    $("#searchForm").submit();
+	      })
+	   })
+           }
+</script>
+
+ <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33904344-1']);
+  _gaq.push(['_setDomainName', 'geekbuying.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div id="topDiv">
+        <div id="topLeftDiv">
+        </div>
+           <div id="topLagerDiv">
+             <div id="topLogin">
+               <div id="freeshipping"> 
+              
+               
+               <a href="/main/signin" style="width:100px;text-align:right">Login</a> <div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div> 
+               <a href="/main/signup" style="margin-left:6px;">Join Free </a>   
+               <div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div>              
+            
+           <a href="/main" style="margin-left:6px;">My Account</a>
+                   <div style="float:left;height:48px;line-height:40px;margin-left:6px">|</div>   
+                <a href="/trackorder" style="margin-left:6px">Order Tracking</a>
+                          
+               
+               
+               
+               
+               
+                        
+               </div>
+               
+               <div class="top">
+               <ul class="left">  		
+               
+                <li class="toplist">
+                  <a href="/help" class="topnav slide"><span class="slideright"></span>English</a>
+                    <ul style="display: none;" class="subnav tophelp">
+                        <li><a href="http://translate.google.com/translate?hl=de&amp;sl=en&amp;tl=de&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Deutsch</a></li>
+                        <li><a href="http://translate.google.com/translate?hl=fr&amp;sl=en&amp;tl=fr&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Français</a></li>    
+                        <li><a href="http://translate.google.com/translate?hl=nl&amp;sl=en&amp;tl=nl&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Nederlands</a></li>
+                        <li><a href="http://translate.google.com/translate?hl=ru&amp;sl=en&amp;tl=ru&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Pyccko</a></li>
+                        <li><a href="http://translate.google.com/translate?hl=es&amp;sl=en&amp;tl=es&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Español</a></li>
+                        <li><a href="http://translate.google.com/translate?hl=it&amp;sl=en&amp;tl=it&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Italiano</a></li>
+                        <li><a href="http://translate.google.com/translate?hl=pt&amp;sl=en&amp;tl=pt&amp;u=http%3a%2f%2fwww.geekbuying.com%2fhelp%2fabout%2fprivacy_notice" target="_top" rel="nofollow">Portuguese</a></li>
+	                    </ul>
+		          </li>
+                 <li class="toplist">
+		    <a href="javascript:void(0);" class="topnav slide"><span class="slideright"></span>
+				<span class="usd">USD</span></a>
+				<ul style="display: none;" class="subnav topcurrency">	                
+	                    <li><a href="/index/changecurrency?currency=USD" class="usd">US Dollar</a></li>
+                        <li><a href="/index/changecurrency?currency=GBP" class="gbp">British Pound</a></li>
+                        <li><a href="/index/changecurrency?currency=EUR" class="eur">Euro</a></li>
+                        <li><a href="/index/changecurrency?currency=AUD" class="aud">Australian Dollar</a></li>
+                        <li><a href="/index/changecurrency?currency=CAD" class="cad">Canadian Dollar</a></li>	
+	            </ul>
+			</li>
+              <li class="toplist" style="float:right">
+                  <a href="javascript:;" class="topnav slide"><span class="slideright"></span><span class="livechat">Live Chat</span></a>
+                    <ul style="display: none;" class="subnav topcart">
+    
+                        <li class="request">
+                            <p class="blod">If you already made a purchase</p>
+                            Contact Customer Service for order status and other after-sales issues.<br>
+                            <a class="blod" href="/help/about/address">Submit a Request</a>
+                        </li>
+                        <li class="chat">
+                            <p class="blod">If you are considering a purchase
+                            
+                            
+                            </p>
+    
+                             chat with Online Sales for more information before your purchase!						
+                               <a class="blod cartlast" href="#start_online_chat" onclick="comm100_147262.openChatWindow(event,265,-1);return false;">Start Online Chat</a>
+                            </li>
+                           
+                        </ul>
+                    </li>
+		        </ul>
+               </div>
+               <div id="shippingcar"> <a href="/shoppingcart"><img src="http://content1.geekbuying.com/images/shoppingcar.jpg" border="0"> <span> <span style="color:#c4755a;font-size:16px;padding-left:4px;padding-right:2px">0</span>  items in your cart now</span></a> </div>
+               <div id="logoDiv"><a href="/"><img src="http://content1.geekbuying.com/images/logo.png"></a></div>
+</div>
+           <div id="topMenuDiv">
+             <div id="homemeneu">
+                <ul>
+                      <li><a href="/newarrival">NEW ARRIVALS </a></li>
+                      <li><a href="/bestselling">BEST SELLING</a></li>
+                      <li><a href="/giftideas">GIFT IDEAS</a></li>
+                      <li><a href="/featured-products">FEATURED</a></li>
+                 <li style="margin-right:0px;"><a href="/under-2-dollars">UNDER $2</a></li>
+                  </ul>
+                 
+              </div>
+              <form action="/search/go" method="post" id="searchForm">
+              
+                    <div id="downListDiv">
+  <div id="listValue"> <a href="#">CATERGORIES</a> </div>
+  <div id="listItemsDiv">
+    <ul>
+                     <li class="toggleLi">
+                          <a href="/category/Apple-Accessories-1183/">Apple Accessories</a>
+                          <ul>
+                          
+     
+      <li><a href="/category/Cases---Bumpers-1184/">Cases &amp; Bumpers</a></li>
+     
+     
+      <li><a href="/category/Cables---Adapters-1185/">Cables &amp; Adapters</a></li>
+     
+     
+      <li><a href="/category/Screen-Protectors-1191/">Screen Protectors</a></li>
+     
+     
+      <li><a href="/category/Mounts---Holders-1192/">Mounts &amp; Holders</a></li>
+     
+     
+      <li><a href="/category/Remotes---Docks-1193/">Remotes &amp; Docks</a></li>
+     
+     
+      <li><a href="/category/Headsets-1187/">Headsets</a></li>
+     
+     
+      <li><a href="/category/Batteries-1189/">Batteries</a></li>
+     
+     
+      <li><a href="/category/Speakers---Micophone-1202/">Speakers &amp; Micophone</a></li>
+     
+     
+      <li><a href="/category/Stylus-Pens-1190/">Stylus Pens</a></li>
+     
+     
+      <li><a href="/category/Repair-Parts---Tools-1204/">Repair Parts &amp; Tools</a></li>
+     
+     
+      <li><a href="/category/Car-Solutions-1201/">Car Solutions</a></li>
+     
+     
+      <li><a href="/category/Accessory-Kits-1354/">Accessory Kits</a></li>
+     
+     
+      <li><a href="/category/Other-Accessories-1188/">Other Accessories</a></li>
+         
+                       
+                       </ul>
+               </li>
+                     <li class="toggleLi">
+                           <a href="/category/Cell-Phones---Accessories-178/">Cell Phones &amp; Accessories</a>
+                           <ul>
+                                                        
+      <li><a href="/category/SmartPhones-315/">SmartPhones</a></li>
+     
+      <li><a href="/category/Watch-Cell-Phones-311/">Watch Cell Phones</a></li>
+     
+      <li><a href="/category/Qwerty-Keyboard-Cell-Phones-480/">Qwerty Keyboard Cell Phones</a></li>
+     
+      <li><a href="/category/Touch-Screen-Cell-Phones-482/">Touch Screen Cell Phones</a></li>
+     
+      <li><a href="/category/Phones-for-Seniors---Kids-226/">Phones for Seniors &amp; Kids</a></li>
+     
+      <li><a href="/category/Discount-Cell-Phones-308/">Discount Cell Phones</a></li>
+     
+      <li><a href="/category/Cell-Phone-Accessories-1223/">Cell Phone Accessories</a></li>
+     
+                           </ul>
+                     </li>
+                     <li class="toggleLi">
+                          <a href="/category/Tablet-PCs---Accessories-971/">Tablet PCs &amp; Accessories</a>
+                           <ul>
+                           
+      <li><a href="/category/Android-Tablet---MID-1146/">Android Tablet &amp; MID</a></li>
+     
+      <li><a href="/category/Windows-Tablet---MID-1147/">Windows Tablet &amp; MID</a></li>
+     
+      <li><a href="/category/Tablet-Accessories-1148/">Tablet Accessories</a></li>
+     
+                           </ul>
+                     </li>
+                   <li class="toggleLi">
+                          <a href="/category/Electronics-177/">Electronics</a>
+                           <ul>
+                             
+                                  <li><a href="/category/Mp3-Player---Accessories-610/">Mp3 Player &amp; Accessories</a></li>
+                                 
+                                  <li><a href="/category/Headphones-869/">Headphones</a></li>
+                                 
+                                  <li><a href="/category/Speaker---Microphone-218/">Speaker &amp; Microphone</a></li>
+                                 
+                                  <li><a href="/category/Camera---Camcorder-467/">Camera &amp; Camcorder</a></li>
+                                 
+                                  <li><a href="/category/Ebook-Readers-846/">Ebook Readers</a></li>
+                                 
+                                  <li><a href="/category/Batteries-1305/">Batteries</a></li>
+                                 
+                                  <li><a href="/category/Projectors-847/">Projectors</a></li>
+                                 
+                                  <li><a href="/category/Personalized-Electronics-216/">Personalized Electronics</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                          <a href="/category/Computers---Networkings-173/">Computers &amp; Networkings</a>
+                           <ul>
+                              
+                                  <li><a href="/category/Laptops---Accessories-490/">Laptops &amp; Accessories</a></li>
+                                 
+                                  <li><a href="/category/Keyboards---Mice-497/">Keyboards &amp; Mice</a></li>
+                                 
+                                  <li><a href="/category/USB-Flash-Drivers-504/">USB Flash Drivers</a></li>
+                                 
+                                  <li><a href="/category/Cables---Connectors-1351/">Cables &amp; Connectors</a></li>
+                                 
+                                  <li><a href="/category/Networking-Products-932/">Networking Products</a></li>
+                                 
+                                  <li><a href="/category/Webcams-492/">Webcams</a></li>
+                                 
+                                  <li><a href="/category/Computer-Components-933/">Computer Components</a></li>
+                                 
+                                  <li><a href="/category/Other-Computer-Accessories-1326/">Other Computer Accessories</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                         <a href="/category/Security-System-215/">Security System</a>
+                           <ul>
+                              
+                                  <li><a href="/category/Interphones-662/">Interphones</a></li>
+                                 
+                                  <li><a href="/category/Security-Cameras-574/">Security Cameras</a></li>
+                                 
+                                  <li><a href="/category/Baby-Monitor---Alarm-360/">Baby Monitor &amp; Alarm</a></li>
+                                 
+                                  <li><a href="/category/Surveillance-DVR-356/">Surveillance DVR</a></li>
+                                 
+                                  <li><a href="/category/Alarm-Systems-664/">Alarm Systems</a></li>
+                                 
+                                  <li><a href="/category/Access-Control-1213/">Access Control</a></li>
+                                 
+                                  <li><a href="/category/Security-System-Accessories-663/">Security System Accessories</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                           <a href="/category/Car-Accessories-439/">Car Accessories</a>
+                           <ul>
+                             
+                                  <li><a href="/category/GPS---Navigations-441/">GPS &amp; Navigations</a></li>
+                                 
+                                  <li><a href="/category/Car-DVD-Players-581/">Car DVD Players</a></li>
+                                 
+                                  <li><a href="/category/Car-Audio-595/">Car Audio</a></li>
+                                 
+                                  <li><a href="/category/Car-Beauty---Care-590/">Car Beauty &amp; Care</a></li>
+                                 
+                                  <li><a href="/category/Car-Inner-Decoration-593/">Car Inner Decoration</a></li>
+                                 
+                                  <li><a href="/category/Air-Refresheners-591/">Air Refresheners</a></li>
+                                 
+                                  <li><a href="/category/Car-Power-Ainverter-868/">Car Power Ainverter</a></li>
+                                 
+                                  <li><a href="/category/Car-Alarms---Security-443/">Car Alarms &amp; Security</a></li>
+                                 
+                                  <li><a href="/category/Car-Monitors-582/">Car Monitors</a></li>
+                                 
+                                  <li><a href="/category/Car-LED-Lights-603/">Car LED Lights</a></li>
+                                 
+                                  <li><a href="/category/Car-DVR-572/">Car DVR</a></li>
+                                 
+                                  <li><a href="/category/OBD-OBD2-Car-Diag--Tools-665/">OBD/OBD2 Car Diag. Tools</a></li>
+                                 
+                                  <li><a href="/category/Car-Parts-596/">Car Parts</a></li>
+                                 
+                                  <li><a href="/category/Car-Cigarette-Power-605/">Car Cigarette Power</a></li>
+                                 
+                                  <li><a href="/category/Bluetooth-Car-Kits-865/">Bluetooth Car Kits</a></li>
+                                 
+                                  <li><a href="/category/Rearview-Mirrors---Cameras-727/">Rearview Mirrors &amp; Cameras</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                       <a href="/category/Home---Office-174/">Home &amp; Office</a>
+                           <ul>
+                               
+                                  <li><a href="/category/Household-Items-1314/">Household Items</a></li>
+                                 
+                                  <li><a href="/category/Home-Decors-1307/">Home Decors</a></li>
+                                 
+                                  <li><a href="/category/Kitchen---Dining-1376/">Kitchen &amp; Dining</a></li>
+                                 
+                                  <li><a href="/category/Tools-1287/">Tools</a></li>
+                                 
+                                  <li><a href="/category/Bathroom-Supplies-1306/">Bathroom Supplies</a></li>
+                                 
+                                  <li><a href="/category/Office-Equipment-1313/">Office Equipment</a></li>
+                                 
+                                  <li><a href="/category/Pet-Supplies-204/">Pet Supplies</a></li>
+                                 
+                                  <li><a href="/category/Baby-Care-1135/">Baby Care</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                         <a href="/category/Health---Beauty-175/">Health &amp; Beauty</a>
+                           <ul>
+                               
+                                  <li><a href="/category/Electronic-Cigarettes-1289/">Electronic Cigarettes</a></li>
+                                 
+                                  <li><a href="/category/Health-Care-228/">Health Care</a></li>
+                                 
+                                  <li><a href="/category/Makeup-Gadgets-229/">Makeup Gadgets</a></li>
+                                 
+                                  <li><a href="/category/Massage-1291/">Massage</a></li>
+                                 
+                                  <li><a href="/category/Medical-Equipment-1290/">Medical Equipment</a></li>
+                                 
+                                  <li><a href="/category/Shaving---Hair-Removal-232/">Shaving &amp; Hair Removal</a></li>
+                                 
+                                  <li><a href="/category/Hair-Care---Salon-230/">Hair Care &amp; Salon</a></li>
+                                 
+                                  <li><a href="/category/Nail-Care---Polish-1299/">Nail Care &amp; Polish</a></li>
+                                 
+                                  <li><a href="/category/Foot-Care-1292/">Foot Care</a></li>
+                                 
+                                  <li><a href="/category/Oral-Care-1293/">Oral Care</a></li>
+                                 
+                                  <li><a href="/category/Other-1296/">Other</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                           <a href="/category/Watches---Jewelry-457/">Watches &amp; Jewelry</a>
+                           <ul>
+                              
+                                  <li><a href="/category/Watches-465/">Watches</a></li>
+                                 
+                                  <li><a href="/category/Jewelry-458/">Jewelry</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                          <a href="/category/Toys---Hobbies-742/">Toys &amp; Hobbies</a>
+                           <ul>
+                             
+                                  <li><a href="/category/Radio-Controlled-Toys-1248/">Radio Controlled Toys</a></li>
+                                 
+                                  <li><a href="/category/Lighters-776/">Lighters</a></li>
+                                 
+                                  <li><a href="/category/Knives---Multi-Tools-777/">Knives &amp; Multi-Tools</a></li>
+                                 
+                                  <li><a href="/category/Intimate-Toys-1129/">Intimate Toys</a></li>
+                                 
+                                  <li><a href="/category/Vehicles---Mechanical-Toys-771/">Vehicles &amp; Mechanical Toys</a></li>
+                                 
+                                  <li><a href="/category/Animation---Model-Toys-770/">Animation &amp; Model Toys</a></li>
+                                 
+                                  <li><a href="/category/Puzzle-Toys-1357/">Puzzle Toys</a></li>
+                                 
+                                  <li><a href="/category/Magic-Supplies-Toys-780/">Magic Supplies Toys</a></li>
+                                 
+                                  <li><a href="/category/Trick-Toys-783/">Trick Toys</a></li>
+                                 
+                                  <li><a href="/category/Stuffed-Animal-Toys-1133/">Stuffed Animal Toys</a></li>
+                                 
+                                  <li><a href="/category/Stress-Relievers-1370/">Stress Relievers</a></li>
+                                 
+                                  <li><a href="/category/Solar-Toys-1128/">Solar Toys</a></li>
+                                 
+                                  <li><a href="/category/Musical-Instruments---Parts-1399/">Musical Instruments &amp; Parts</a></li>
+                                 
+                                  <li><a href="/category/Microscopes---Magnifiers-781/">Microscopes &amp; Magnifiers</a></li>
+                                 
+                                  <li><a href="/category/Keychain-Gadgets-1401/">Keychain Gadgets</a></li>
+                                 
+                                  <li><a href="/category/Personal-Hobbies-Gadgets-779/">Personal Hobbies Gadgets</a></li>
+                                 
+                                  <li><a href="/category/Other-Special-Toys-1400/">Other Special Toys</a></li>
+                                 
+                           </ul>
+                   </li>
+                   <li class="toggleLi">
+                          <a href="/category/Toys---Hobbies-1241/">Sports &amp; Outdoors</a>
+                           <ul>
+                           
+                                  <li><a href="/category/Sunglasses---Sports-Glasses-1256/">Sunglasses &amp; Sports Glasses</a></li>
+                                 
+                                  <li><a href="/category/Camping---Hiking-1262/">Camping &amp; Hiking</a></li>
+                                 
+                                  <li><a href="/category/Bicycle-Supplies-1265/">Bicycle Supplies</a></li>
+                                 
+                                  <li><a href="/category/Outdoor-Sports-Cameras-1283/">Outdoor Sports Cameras</a></li>
+                                 
+                                  <li><a href="/category/Knives---Multi-Tools-1272/">Knives &amp; Multi Tools</a></li>
+                                 
+                                  <li><a href="/category/Exercise---Fitness-1242/">Exercise &amp; Fitness</a></li>
+                                 
+                                  <li><a href="/category/Safety-Goggles-1297/">Safety Goggles</a></li>
+                                 
+                                  <li><a href="/category/Binoculars---Telescopes-1280/">Binoculars &amp; Telescopes</a></li>
+                                 
+                                  <li><a href="/category/Fishing---Golf-1270/">Fishing &amp; Golf</a></li>
+                                 
+                                  <li><a href="/category/Other-Outdoor-Supplies-1268/">Other Outdoor Supplies</a></li>
+                                 
+                           </ul>
+                   </li>
+            
+                   <li class="toggleLi">
+                          <a href="/category/Oversea-Warehouse-1301/">Oversea Warehouse</a>
+                           <ul>
+                             
+                                  <li><a href="/category/US-Warehouse-1302/">US Warehouse</a></li>
+                                 
+                                  <li><a href="/category/Uk-Warehouse-1303/">Uk Warehouse</a></li>
+                                 
+                           </ul>
+                   </li>
+                    
+                 </ul>
+  </div>
+</div>
+
+               
+
+
+
+              <div id="searchDiv">
+                  <div id="findDiv">
+                  
+                  <input id="searchText" type="text" autocomplete="off" name="keywords" value="Search by Keywords or Item Code" onkeyup="return keyNumAll(event)" onkeydown="return keySel(event)" align="absmiddle" autofocus="">
+                  <input type="hidden" name="categoryID" value="0" id="categoryID">	
+                  
+                  </div>
+                 
+                  <div id="searchButton">
+                  <input type="image" src="http://content1.geekbuying.com/images/search.jpg">
+                  </div>
+                  <div id="phoneList" style="color:#fff;font-weight:blod;margin-left:14px;float:left">
+                    <a href="/Search/Advancedsearch" style="color:#eeeeee;text-decoration:underline">Advanced Search</a>
+                 </div>
+              </div>
+              </form>
+           </div>
+       </div>
+        <div id="topRightDiv">
+        </div>
+   </div>
+<div id="searchPopuDiv">
+   <ul>
+      
+   </ul>
+</div>
+   <div style="display:none">
+<div id="longbanner">
+  <a href="http://www.geekbuying.com/item/CUBOT-A8809-Smart-Phone-4-7-Inch-IPS-QHD-Screen-MTK6577-Dual-core-Android-4-0-GPS-3G-WIFI-8-0MP-Camera-311908.html?utm_source=inside-promo&amp;utm_medium=inside-top-banner&amp;utm_campaign=A8809"><img src="http://content1.geekbuying.com/longbanner/A8809.jpg"></a>
+  </div>
+</div>
+<!--[if lt IE 9]><script src=" http://content1.geekbuying.com/media/js/html5shim.js"></script><![endif]-->
+<script type="text/javascript">
+//append "volusion online chat" iframe to body, and
+//exporse livechat method.
+//example:
+//var fn = winodw.launchVolusionChat
+var isser="False";
+ function clearekeywords() {
+        var obj = document.getElementById("keywords");
+        if (obj != null&&isser!="True")
+         {  
+          obj.value = "";
+         
+         }
+   }
+   function Setkeywords() {
+        var obj = document.getElementById("keywords");
+        if (obj != null)
+            if (obj.value.length < 1) obj.value = "Search by Keywords or Item Code";
+        }
+           
+    
+    
+    function cleareEmail() {
+        var obj = document.getElementById("email");
+        if (obj != null)
+         {  
+          obj.value = "";         
+         }
+    }
+    function SetEmail() {
+        var obj = document.getElementById("email");
+        if (obj != null)
+            if (obj.value.length < 1) obj.value = "Enter your e-mail...";
+        }
+    
+function killErrors() {
+    return true;
+}
+window.onerror = killErrors;
+
+
+function SetCategoryID(obj) {
+    $("#categoryID").val(obj.id);
+    var obj_ul = $('#search .scatrgrues');
+    var obj2 = obj_ul.children(0)    
+    if (obj2 == obj)
+        obj2.css("display", "none");
+    else
+        obj2.css("display", "");
+     
+//     var id = $(this).attr('id')
+//    if (id == 0) {
+//        $(this).css("display", "");
+  
+}
+
+function CloseMessage_Test() {
+    var obj = document.getElementById("Message_Test");
+    if (obj != null) {
+        obj.style.display = "none";
+    }
+}
+
+function Test_subscribeTextbox() {
+    var temp = document.getElementById("email");
+    //对电子邮件的验证
+    var myreg = /\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/;
+    if (!myreg.test(temp.value)) {
+        alert('Please enter the correct email address！');
+        temp.value = "";
+        temp.focus();
+        return false;
+    }
+    else return true;    
+}
+
+function OpenSsl()
+{
+   window.open ('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.GeekBuyIng.com&lang=en','newwindow','height=500,width=600,top=0,left=0,toolbar=no,menubar=no,scrollbars=no, resizable=no,location=no, status=no') 
+ 
+}
+ </script>
+ 
+<script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=147262&amp;planId=265&amp;partnerId=-1" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="helpDiv">
+       <div id="helpDivMenu">
+          <a href="/">GeekBuying</a> › <a href="/help">Help Center</a>
+       </div>
+   
+<style>
+#helpMiddle h1
+{
+		position:relative;
+	float:left;
+	padding-left:16px;
+	width:474px;
+	height:29px;
+	line-height:24px;
+	font-family:Arial;
+	color:#FFF;
+	background:url(http://content1.geekbuying.com/images/titlebg.jpg);
+	font-weight:normal;
+	font-family:arial;
+	font-size:14px;
+}
+#helpMiddle
+{
+	margin-left:10px;
+	width:490px;
+	margin-top:14px;
+	float:left;
+	border:1px solid #999;
+}
+#helpMiddle p
+{
+
+	padding:10px; 
+}
+#helpRight
+{
+	margin-top:13px;
+}
+</style>
+<div id="helpLeft" style="z-index:333;">
+         <div class="productTile" style="width:194px">
+                        Browse Help<img src="http://content1.geekbuying.com/images/listImg4.jpg" style="float:right;">
+    </div>
+                  
+        <ul>
+          <li><div class="ullititle"><a href="http://www.geekbuying.com/help/about/address/">Customer Service</a></div>
+              <ul>
+                   <li><a href="http://www.geekbuying.com/help/about/address/">Service Contacts</a></li>
+                            <li><a href="http://www.geekbuying.com/trackorder/">Track My Order</a></li>
+                            <li><a href="http://www.geekbuying.com/help/customer_service/return_policy">Return Policy</a></li>
+                            <li><a href="http://www.geekbuying.com/help/customer_service/why_buy_from_geekbuying">Why Buy From Us</a></li>
+                            <li><a href="http://www.geekbuying.com/help/customer_service/q_and_a">Q&amp;A</a></li>
+            </ul>
+         </li>
+      </ul>
+        <ul>
+          <li><div class="ullititle"><a href="http://www.geekbuying.com/help/product/">Product Quality</a></div>
+              <ul>
+                         <li><a href="http://www.geekbuying.com/help/product/sources">Product Sources</a></li>
+                            <li><a href="http://www.geekbuying.com/help/product/quality_control">Product Quality Control</a></li> 
+            </ul>
+         </li>
+      </ul>
+       
+        <ul>
+          <li>
+            <div class="ullititle" style="font-size:12px"><a href="http://www.geekbuying.com/help/payment_and_shipping/">Payment &amp; Shipping</a></div>
+              <ul style="padding-bottom:10px">
+                            <li><a href="http://www.geekbuying.com/help/payment_and_shipping/methods">Payment Methods</a></li>
+                            <li><a href="http://www.geekbuying.com/help/payment_and_shipping/shipping_guide">Shipping Guide</a></li>
+                            <li><a href="http://www.geekbuying.com/help/payment_and_shipping/taxes_customs_and_duties">Taxes, Customs &amp; Duties</a></li> 
+            </ul>
+         </li>
+      </ul>
+        <ul>
+          <li><div class="ullititle"><a href="http://www.geekbuying.com/help/other_business/">Other Business</a></div>
+              <ul style="padding-bottom:10px">
+                   <li><a href="http://www.geekbuying.com/help/other_business/drop_shipping">Drop Shipping</a></li>
+                            <li><a href="http://www.geekbuying.com/help/other_business/wholesale">Wholesale</a></li>
+            </ul>
+         </li>
+      </ul>     
+        
+                  <ul>
+          <li><div class="ullititle"><a href="http://www.geekbuying.com/help/about/">About GeekBuying.com</a></div>
+              <ul>
+                         <li><a href="http://www.geekbuying.com/help/about/geekbuying">About Us</a></li>
+                            <li><a href="http://www.geekbuying.com/help/about/guarantee">Our Guarantee</a></li>
+                            <li><a href="http://www.geekbuying.com/help/about/terms_of_use">Terms of Use</a></li>
+                            <li><a href="http://www.geekbuying.com/help/about/privacy_notice">Privacy Notice</a></li>
+            </ul>
+         </li>
+       </ul>
+    </div>
+
+    <div id="helpMiddle" style="z-index:333;font-family:arial;line-height:20px">
+      
+    <h1 class="h2_20">Privacy Notice</h1>
+<p>
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+</p>
+<ul style="float:left;padding:10px;">
+  <li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
+  <li>We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.</li>
+  <li>We will only retain personal information as long as necessary for the fulfillment of those purposes.</li>
+  <li>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</li>
+  <li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</li>
+  <li>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
+  <li>We will make readily available to customers information about our policies and practices relating to the management of personal information.</li>
+</ul>
+<p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p>
+
+    </div>
+    
+
+<div id="helpRight" style="z-index:333;">
+         <div class="productTile" style="width:229px;">
+                        FAQ<img src="http://content1.geekbuying.com/images/listImg4.jpg" style="float:right;">
+         </div>
+         <ul>
+             <li> <a href="http://www.geekbuying.com/help/faq/is_buying_from_geekbuying_safe_and_secure">Is Buying from GeekBuying.com Safe and Secure?</a></li>
+            <li><a href="http://www.geekbuying.com/help/faq/does_geekbuying_have_any_difference">Does Geekbuying.com Have Any Difference Compared With Other Online Stores?</a></li>
+            <li><a href="http://www.geekbuying.com/help/FAQ/Does_GeekBuying_com_Support_Cash_on_Delivery">Does GeekBuying.com Support Cash on Delivery?</a></li>
+         </ul>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Right start -->
+
+<!--Right end-->
+  </div>
+
+
+
+
+
+
+<div id="bottomDiv">
+        <div id="bottomMenu">
+           <ul>
+             <li><a href="/help/about/address" rel="nofollow">Customer Service</a></li>
+    <li><a href="/help/about/address" rel="nofollow">About GeekBuying.com</a></li>
+    <li><a href="/help/payment_and_shipping/" rel="nofollow">Payment &amp; Shipping</a></li>
+           </ul>
+        </div>
+        <div id="bottomListItem">
+            <div class="bottomListMenu" style="margin-left:40px;">
+               <ul>
+              <li><a href="/help/about/address" rel="nofollow">Contact Us</a></li>
+    <li><a href="/trackorder" rel="nofollow">Track My Order</a></li>
+    <li><a href="/help/customer_service/q_and_a" rel="nofollow">Q &amp; A</a></li>
+    <li><a href="/help/" rel="nofollow">Help Center</a></li>
+    <li><a href="/help/customer_service/why_buy_from_geekbuying" rel="nofollow">Why Buy From us</a></li>
+           </ul>
+            </div>
+            <div class="bottomListMenu">
+               <ul>
+             <li><a href="/help/about/geekbuying" rel="nofollow">About us</a></li>
+    <li><a href="/help/about/guarantee" rel="nofollow">Our Guarantee</a></li>
+    <li><a href="/help/about/privacy_notice" rel="nofollow">Privacy Notice</a></li>
+           </ul>
+            </div>
+            <div class="bottomListMenu">
+               <ul>
+              <li><a href="/help/payment_and_shipping/shipping_guide" rel="nofollow">Shipping Methods</a></li>
+    <li><a href="/help/payment_and_shipping/methods" rel="nofollow">How to Pay</a></li>
+ <li><a href="/DropShopping/make_money_with_geekbuying_by_drop_shipping">Drop Shopping</a></li>
+           </ul>
+            </div>
+            <div id="emaillAddress">
+            <form onsubmit="javascript:return Test_subscribeTextbox();" action="/Checkout/newsletter" method="post" target="_blank">
+            
+            
+              <input type="text" value="Enter Your Email Address" id="email" name="email">
+           <input type="image" src="http://content1.geekbuying.com/images/letter1.png" style="cursor:pointer;width:111px;height:33px;left:730px;top:88px;background:none">
+
+           
+              </form>
+            </div>
+            <div id="lineDiv">
+            </div>
+            <div id="shareTo">
+               <a href="http://www.twitter.com/geekbuying" rel="nofollow"><img src="http://content1.geekbuying.com/images/twitter.png" border="0" align="absmiddle"> Follow us on Twitter</a>
+               <a href="http://www.facebook.com/geekbuying" rel="nofollow"><img src="http://content1.geekbuying.com/images/facebook.png" border="0" align="absmiddle"> Like us on Facebook</a>
+               <a href="http://www.youtube.com/geekbuying" rel="nofollow"><img src="http://content1.geekbuying.com/images/youtube.png" border="0" align="absmiddle"> Watch us on Youtube</a>
+               <a href="http://blog.geekbuying.com"><img src="http://content1.geekbuying.com/images/blog.png" border="0" align="absmiddle"> Read us on our Blog</a>
+            </div>
+        </div>
+    </div>
+    
+    <div id="copyRightDiv">
+        
+  <div id="copyRightIcon">
+             
+             <img src="http://content1.geekbuying.com/images/paypal.png">
+             
+             <img src="http://content1.geekbuying.com/images/ems.png">
+             <img src="http://content1.geekbuying.com/images/DHL.png">
+             <img src="http://content1.geekbuying.com/images/UPS.png">
+     </div>
+     <div id="copyRightDes">
+     Copyright © 2009-2012 <a href="http://www.GeekBuyIng.com">GeekBuyIng.com</a>. All rights reserved. </div>
+  </div>
+
+
+
+
+
+
+
+</body></html>
