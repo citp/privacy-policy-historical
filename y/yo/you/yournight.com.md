@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yournight.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617202720id_/http%3A//www.yournight.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournight.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116202051id_/http%3A//yournight.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # yournight.com
 
