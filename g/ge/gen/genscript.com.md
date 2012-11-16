@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627175924id_/http%3A//www.genscript.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genscript.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116054832id_/http%3A//www.genscript.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GenScript
 
