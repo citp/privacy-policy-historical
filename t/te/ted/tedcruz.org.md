@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516124007id_/http%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116075147id_/http%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
 
 # Ted Cruz for U.S. Senate - Privacy Policy
 
