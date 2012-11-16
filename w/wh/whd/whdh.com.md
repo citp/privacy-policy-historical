@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whdh.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527232956id_/http%3A//www1.whdh.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whdh.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116073442id_/http%3A//www1.whdh.com/privacypolicy) for the most accurate reproduction.*
 
 # WHDH-TV 7NEWS NBC - Privacy Policy
 
