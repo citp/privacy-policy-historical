@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chooseyourdiet.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035546id_/http%3A//www.chooseyourdiet.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chooseyourdiet.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117004629id_/http%3A//www.chooseyourdiet.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ If you elect to use the "Send-To-A-Friend" service on the Site, we will ask for 
 
   
 **E-Mail Newsletters**   
-If you would like to subscribe to one or more of ChooseYourDiet.com’s newsletters, please visit [http://www.chooseyourdiet.com](http://www.chooseyourdiet.com/) .  If you would like to unsubscribe to any of our newsletters or choose not to receive special offers from ChooseYourDiet.com or our partners, please refer to the instructions in the newsletters or special offer e-mails that you are receiving from us.  Alternatively, you can send us mail at:  ChooseYourDiet c/o Flatiron Media, 175 Fifth Avenue, Suite 805, New York, NY 10010.  
+If you would like to subscribe to one or more of ChooseYourDiet.com’s newsletters, please visit [http://www.chooseyourdiet.com](http://www.chooseyourdiet.com/) .  If you would like to unsubscribe to any of our newsletters or choose not to receive special offers from ChooseYourDiet.com or our partners, please refer to the instructions in the newsletters or special offer e-mails that you are receiving from us.  Alternatively, you can send us mail at:  ChooseYourDiet c/o Flatiron Media, 20 West 22nd Street, Suite 908, New York, NY 10010.  
 
 
   
