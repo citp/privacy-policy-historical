@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggreenegg.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519061358id_/http%3A//www.biggreenegg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggreenegg.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116190800id_/http%3A//www.biggreenegg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Green Egg - The Ultimate Cooking Experience
 
