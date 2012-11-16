@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentbeforeowning.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519065005id_/http%3A//www.rentbeforeowning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentbeforeowning.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116190900id_/http%3A//www.rentbeforeowning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # RentBeforeOwning: Contact Us to find out more about Foreclosure Listings in your area
 
@@ -34,6 +34,11 @@ Disclosure of Personal Information
 We use other reputable companies, agents or contractors to perform services on our behalf. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
 
 RentBeforeOwning.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law or if we reasonably believe disclosure is necessary to establish or exercise legal rights. In the event that RentBeforeOwning.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
+
+Special Notification for California Residents:
+
+Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address: CA Privacy, 5951 Encina Rd. Suite 110 Goleta, CA 93117.  
+This request may be made no more than once per calendar year. 
 
 Contact
 
