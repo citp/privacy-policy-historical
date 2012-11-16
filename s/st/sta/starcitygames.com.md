@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183441id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074129id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
 
 # Where can I view StarCityGames.com's Privacy Statement?
 
@@ -72,16 +72,3 @@ Roanoke, VA 24012
 Phone: (540)767-GAME (4263)  
 E-mail: [Contact us through this link](https://sales.starcitygames.com/contactus/contactform.php?emailid=9)  
 [Category: Security](http://sales.starcitygames.com//FAQ.php?category=security)
-
-|    
-StarCityGames.com  
-5728 Williamson Road N.W, Roanoke, VA, 24012  
-Phone: (540) 767-GAME (4263) Monday-Friday 10am-6pm EST   
-Fax: (540) 265-0544  
-[Contact Us!](https://sales.starcitygames.com/contactus/contactform.php?emailid=11)
-
-[Refund/Return Policy](http://sales.starcitygames.com/FAQ.php?ID=39) \- [Privacy Statement](http://sales.starcitygames.com/FAQ.php?ID=90) \- [Terms and Conditions](http://sales.starcitygames.com/FAQ.php?ID=91)
-
-All content on this page (c) 2011 StarCityGames and may not be reproduced whole [without consent](https://sales.starcitygames.com/contactus/contactform.php?emailid=9). 
-
-Magic the Gathering is TM and copyright Wizards of the Coast, Inc, a subsidiary of Hasbro, Inc. All rights reserved. 
