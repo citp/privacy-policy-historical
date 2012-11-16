@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstpalette.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629032637id_/http%3A//www.firstpalette.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpalette.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116123840id_/http%3A//www.firstpalette.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FirstPalette.com
 
@@ -16,4 +16,4 @@ We use third party advertisements on FirstPalette.com to support our site. These
 
 We may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html "Google Privacy Policy").
+If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/policies/privacy/ads/ "Google Privacy Policy").
