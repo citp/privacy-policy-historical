@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516130707id_/http%3A//www.corelogic.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116061917id_/http%3A//www.corelogic.com/Privacy.aspx) for the most accurate reproduction.*
 
 # CoreLogic - Privacy Policy and European Union Safe Harbor Privacy Policy
 
@@ -107,7 +107,7 @@ To obtain additional information about the privacy practices and policies of Cor
 
 Richard Miller, Compliance and Privacy Officer
 
-4 First American Way, Santa Ana, CA 92707
+40 Pacifica, Ste. 900 Irvine, ca 92618
 
 [richardmiller@corelogic.com](mailto:richardmiller@corelogic.com)
 
@@ -218,8 +218,8 @@ You may also send any questions regarding our Safe Harbor Privacy Policy to the 
 
 CoreLogic, Inc.  
 Attn: Compliance and Privacy Officer  
-4 First American Way  
-Santa Ana, CA 92707  
+40 Pacifica, Ste. 900  
+Irvine, ca 92618  
 United States of America  
 (714) 250-6486
 
