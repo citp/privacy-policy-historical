@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couplemoney.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517233816id_/http%3A//couplemoney.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couplemoney.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117003517id_/http%3A//couplemoney.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
