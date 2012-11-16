@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the liveabroad.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224907id_/http%3A//www.liveabroad.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveabroad.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116015446id_/http%3A//www.liveabroad.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ****Liveabroad.com Privacy Policy Statement****
 
-Thank you for visiting our site, [www.liveabroad.com](http://www.liveabroad.com/). We want you to know that we are committed to protecting and safeguarding your privacy. The purpose of this Privacy Policy Statement is to inform you of the types of information we collect from visitors to our site, how we may use that information and whether we disclose that information to anyone.
+Thank you for visiting our site, [www.liveabroad.com](https://web.archive.org/). We want you to know that we are committed to protecting and safeguarding your privacy. The purpose of this Privacy Policy Statement is to inform you of the types of information we collect from visitors to our site, how we may use that information and whether we disclose that information to anyone.
 
 **What Information We Collect and How We Use It**  
 Information we collect on our site generally falls into the category of Personally Identifiable Information. Personally Identifiable Information means information that lets us know specifically who you are. You can visit our site without telling us who you are or revealing any Personally Identifiable Information. 
 
-Registration at our message board -.You may become an associate member or register to use our message board without disclosing Personally Identifiable Information. If you choose to answer the optional questions (those not marked *), this additional information is seen only by the principals of [www.liveabroad.com](http://www.liveabroad.com/). We do not use this information in soliciting orders for products or services, nor do we share it with any third parties.
+Registration at our message board: you may become an associate member or register to use our message board without disclosing Personally Identifiable Information. If you choose to answer the optional questions (those not marked *), this additional information is seen only by the principals of [www.liveabroad.com](https://web.archive.org/). We do not use this information in soliciting orders for products or services, nor do we share it with any third parties.
 
 Financial transactions \- When you place an order for products or services offered at our site, we collect Personally Identifiable Information (such as name, contact and billing information, credit card and other transaction information). We use this information to process payment, communicate with you about the status of your order and deliver your order. Your delivery information is provided to the carrier, usually the postal department. Credit card information is not retained on our site. 
 
