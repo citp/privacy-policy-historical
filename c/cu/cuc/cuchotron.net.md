@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuchotron.net privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426012630id_/http%3A//www.cuchotron.net/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuchotron.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116231734id_/http%3A//www.cuchotron.net/privacyterms) for the most accurate reproduction.*
 
 # Privacy Policy
 
