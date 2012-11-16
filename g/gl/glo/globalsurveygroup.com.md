@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183430id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074006id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
 
 # GLOBAL SURVEY GROUP: Get invitations to the best paid online surveys
 
@@ -99,6 +99,6 @@ We may sell, brand or share your personal information that you supply to us with
 
 #### Contact Information:
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20120518183430id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20121116074006id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
 
-If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20120518183430id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
+If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20121116074006id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
