@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516103124id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116024422id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,17 +43,18 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.  
-Snap Web:WebHost questionnaires do not use cookies.
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. 
 
-Snap Web:HTML questionnaires will use cookies if either:
+Snap Web: WebHost questionnaires do not use cookies.
+
+Snap Web: HTML questionnaires will use cookies if either:
 
   1. you check the “Try to drop a cookie” box in the Questionnaire Properties / Interview section. The purpose of this is to prevent multiple responses from the same computer.
   2. you use the Save button feature.
 
 
 
-In the case of **[a]** no personally identifiable information is held. For **[b]** , the responses to the questionnaire to date are held which _may_ include personably identifiable data. Both uses are essential to the functioning of the particular options and both are choices made by the questionnaire designer/publisher.
+In the case of **[a]** no personally identifiable information is held. For **[b]** , the responses to the questionnaire to date are held which _may_ include personally identifiable data. Both uses are essential to the functioning of the particular options and both are choices made by the questionnaire designer/publisher.
 
 ### Third Party Cookies
 
@@ -99,7 +100,7 @@ To summarize our Privacy Policy, any information you supply via our website will
 
 ### Links to Other Sites
 
-If you click on a link to a third party site, including on an advertisement] you will leave our site go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.snapsurveys.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to our site, you should read that site’s privacy statement before providing any personally identifiable information.
+If you click on a link to a third party site, including on an advertisement you will leave our site go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.snapsurveys.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to our site, you should read that site’s privacy statement before providing any personally identifiable information.
 
 If you have any questions about our Privacy Policy, please contact Snap Surveys Ltd at one of the following addresses:
 
@@ -116,4 +117,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
   
-Last Updated on 08/03/2012
+Last Updated on 22/05/2012
