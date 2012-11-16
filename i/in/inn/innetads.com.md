@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the innetads.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516125712id_/http%3A//www.innetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innetads.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116201611id_/http%3A//www.innetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # INNetAds.com - Privacy Policy
+
+### Privacy Policy
 
 **General**
 
