@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmania.biz privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201303id_/http%3A//cp.shopmania.com/privacy/biz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmania.biz privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116190727id_/http%3A//cp.shopmania.com/privacy/biz) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -54,7 +54,7 @@ From time to time, our site requests information from users via surveys or sweep
 
 _**Security**_
 
-ShopMania BIZ takes every precaution to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs) encryption software. While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access. 
+ShopMania BIZ takes every precaution to protect our users' information. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access. All transactions are made using payment processors, that secure, encrypt and do not store credit card information. 
 
 _**Special Offers**_
 
