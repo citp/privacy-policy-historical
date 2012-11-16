@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the hotproperty.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603131325id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotproperty.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116052215id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
-# Zoopla Privacy policy
+# Zoopla Privacy policy - Zoopla
 
 ## Our commitment to you
 
-Zoopla Ltd ('Zoopla') respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Ltd.
+Zoopla.co.uk is operated by Zoopla Property Group Limited. Zoopla Property Group Limited respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Property Group Limited.
 
 ## Information we collect
 
-When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed. We use this information only in response to your requests and to provide the Services.
+When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.
 
 When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services.
 
 ## How we use information
 
-We use the information we collect to provide the Services and to communicate with you. We do not rent or sell personal information and will only share your information in the following circumstances:
+We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
 
   * When you have consented or directed us to share the information.
   * With service providers or affiliate companies who perform services on our behalf.
@@ -23,11 +23,11 @@ We use the information we collect to provide the Services and to communicate wit
 
 
 
-We may share with third parties aggregate information or information that does not personally identify individuals.
+We may share with third parties aggregate information or information that does not personally identify you.
 
 ## Communicating with you
 
-If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla](https://web.archive.org/myzoopla/).
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla](https://web.archive.org/myaccount/).
 
 ## Third parties
 
@@ -43,4 +43,4 @@ We reserve the right to change this privacy policy at any time without prior not
 
 If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
 
-This policy was last updated on 19th February, 2009
+This policy was last updated on 28th September, 2012
