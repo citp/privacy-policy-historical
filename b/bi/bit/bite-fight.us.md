@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bite-fight.us privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518003139id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26special%3D%26%26f_text%3DC00C0C%26f_text_hover%3DFF0000%26f_text_h%3D220202%26f_text_hr%3D220202%26f_text_hrbg%3D220202%26f_text_hrborder%3DC00C0C%26f_text_font%3Dtahoma%26f_bg%3D220202) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bite-fight.us privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116015600id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26special%3D%26%26f_text%3DC00C0C%26f_text_hover%3DFF0000%26f_text_h%3D220202%26f_text_hr%3D220202%26f_text_hrbg%3D220202%26f_text_hrborder%3DC00C0C%26f_text_font%3Dtahoma%26f_bg%3D220202) for the most accurate reproduction.*
 
 # Gameforge
 
