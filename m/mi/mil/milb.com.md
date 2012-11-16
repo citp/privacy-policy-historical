@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milb.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618103942id_/http%3A//www.milb.com/milb/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milb.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116091215id_/http%3A//www.milb.com/milb/info/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | MiLB.com Official Info | The Official Site of Minor League Baseball
 
@@ -88,7 +88,7 @@ Contact Us; Privacy Administrator
 
 **
 
-If you have questions or concerns about this Privacy Policy, you can contact us at: **[privacy@website.milb.com](https://web.archive.org/web/20120618103942id_/http%3A//www.milb.com/milb/info/privacy@website.milb.com)**.
+If you have questions or concerns about this Privacy Policy, you can contact us at: **[privacy@website.milb.com](https://web.archive.org/web/20121116091215id_/http%3A//www.milb.com/milb/info/privacy@website.milb.com)**.
 
 **
 
