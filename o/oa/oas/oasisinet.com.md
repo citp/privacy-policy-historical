@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasisinet.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501095246id_/http%3A//www.oasisinet.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasisinet.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116232028id_/http%3A//oasisinet.com/policy.aspx) for the most accurate reproduction.*
 
 # :: Oasisinet :: The Official Oasis website and fan community
 
