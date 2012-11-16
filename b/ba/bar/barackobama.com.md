@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barackobama.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625003512id_/http%3A//www.barackobama.com/privacy-policy%3Fsource%3Dfooter-nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barackobama.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116020904id_/http%3A//www.barackobama.com/privacy-policy%3Fsource%3Dfooter-nav) for the most accurate reproduction.*
 
 # Web Site Privacy Policy — Barack Obama
 
