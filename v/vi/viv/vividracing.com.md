@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the vividracing.com privacy policy that was archived on 2012-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120404213320id_/http%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividracing.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116085727id_/http%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.*
 
 # VividRacing Shipping & Return Policy
 
-Vivid Racing respects your privacy and has worked hard to earn our customers respect and trust. We are aware of the confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online.   
+Vivid Racing respects your privacy and has worked hard to earn our customers respect and trust. We are aware of the confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online.
+
 If you have any questions or concerns about our Privacy Policy, please call us at: 1-866-448-4843; e-mail us at [info@vividracing.com](mailto:info@vividracing.com); or send a letter to us: [View Address Info](http://www.vividracing.com/catalog/contact_us.php). 
 
 **VividRacing.com Privacy Policy  
