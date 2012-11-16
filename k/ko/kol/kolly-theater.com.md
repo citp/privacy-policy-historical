@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kolly-theater.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629083327id_/http%3A//www.kollytalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolly-theater.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116182733id_/http%3A//www.kollytalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - KOLLY TALK,Tamil Cinema Portal
 
 ## **Effective Sep, 2010**
 
