@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183750id_/http%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116193845id_/http%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iThemes
+# Privacy Policy
 
 iThemes Media takes your privacy seriously.
 
@@ -11,5 +11,3 @@ iThemes Media takes your privacy seriously.
 
 
 If you have any questions about our privacy policy, please [contact us directly](http://ithemes.com/contact/).
-
-[](http://pluginbuddy.com/backupbuddy-3-0-features-list/)
