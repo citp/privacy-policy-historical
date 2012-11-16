@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518165906id_/http%3A//standardbredcanada.ca/content/privacy-agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbredcanada.ca privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116073129id_/http%3A//standardbredcanada.ca/content/privacy-agreement.html) for the most accurate reproduction.*
 
 # Privacy Agreement | Standardbred Canada
 
-### Privacy Agreement
-
-  
 **Privacy Agreement**
 
 When you apply for, or renew, your membership with Standardbred Canada, you agree that: 
@@ -50,5 +47,4 @@ Standardbred Canada is a non-profit organization and, in order to defray its cos
 
 It is, however, the policy of Standardbred Canada to preserve the confidentiality of personal information, except when disclosure of that information is reasonably necessary in the fulfillment of its mandate. 
 
-Standardbred Canada often receives inquiries from members, and other interested parties, including commercial interests who wish to provide goods and services, for contact information about its members, including telephone numbers or addresses. When responding to such inquiries is not directly related to Standardbred Canada’s mandate, members are entitled to control the release of information and specific consent is required.  
-
+Standardbred Canada often receives inquiries from members, and other interested parties, including commercial interests who wish to provide goods and services, for contact information about its members, including telephone numbers or addresses. When responding to such inquiries is not directly related to Standardbred Canada’s mandate, members are entitled to control the release of information and specific consent is required.
