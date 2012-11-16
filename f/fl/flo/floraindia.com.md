@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628065244id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116035708id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
 
 # Send Privacy Policy India - FloraIndia.com - Online Florist - Flowers, Cakes and Sweets Delivery Service
 
@@ -77,4 +77,34 @@ In addition, if you would like notice of changes to the Privacy Policy or Terms 
 
 **Your Comments**
 
-FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to serve@floraindia.com. 
+FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to serve@floraindia.com.   
+  
+Send FREE **Roli, Tikka & Rice** with all Bhai Dooj Orders. Click here to find out more.
+
+Please note delivery confirmation email of all Diwali orders will be sent on 14th November due to heavy rush of Diwali orders.
+
+_Forthcoming Occasions:_ **Thanksgiving Day** : 22 Nov    **Christmas** : 25 Dec   
+
+Save on your purchase by making a combo of your choice. Click here to know  
+about **Combo Price** and **AutoCombo** _!_  
+  
+| **Power Points** |  | **Testimonials** |   
+---|---|---|---|---  
+|  **All** major credit cards accepted.  
+**Verisign** secure payment gateway.  
+**Free Shipping** in 300 cities in India.  
+Fresh Flowers are **Hand Delivered**.  
+**No** extra or hidden **charges**.  
+Orders for **Sunday and Holiday also accepted** , at no extra charges.  
+**Same day delivery** in all major towns and cities of India.  
+**Hand picked** fresh indian and exotic flowers at the best prices.  
+|  |  Thank you so much!!   
+Your site was very helpful and ur service is excellent 
+
+**Swapna, Bangalore, Karnataka**  
+  
+**Send Fresh Flowers, Cakes and Sweets to India. Quality delivery network all over India.**
+
+[Home](http://www.floraindia.com/index.cfm) | [My Choice](http://www.floraindia.com/mychoice.cfm) | [Order Tracking](http://www.floraindia.com/trackorders.cfm) | [Reminders](http://www.floraindia.com/reminders.cfm) | [Customer Service](http://www.floraindia.com/customers.cfm) | [Custom Orders](http://www.floraindia.com/custom.cfm) | [Ask Florist](http://www.floraindia.com/askflorist.cfm)  
+[About Us](http://www.floraindia.com/about.cfm) | [FAQs](http://www.floraindia.com/faq.cfm) | [Delivery Information](http://www.floraindia.com/delivery.cfm) | [Substitution Policy](http://www.floraindia.com/policy.cfm) | [Customized Products](http://www.floraindia.com/customproducts.cfm) |[Tell A Friend](http://www.floraindia.com/recommend.cfm)  
+[Contact Us](http://www.floraindia.com/contact.cfm)| [Corporate Gifting](http://www.floraindia.com/corporate.cfm)| [Career With Us](http://www.floraindia.com/career.cfm)| [Feedback](http://www.floraindia.com/feedback.cfm)
