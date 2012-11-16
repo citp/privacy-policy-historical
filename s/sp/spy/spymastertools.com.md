@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spymastertools.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521022131id_/http%3A//www.spymastertools.com/Privacy-Policy_ep_37-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spymastertools.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116044310id_/http%3A//www.spymastertools.com/Privacy-Policy_ep_37-1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
