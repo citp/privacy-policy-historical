@@ -1,48 +1,39 @@
-> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233327id_/http%3A//www.livingrichwithcoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116183324id_/http%3A//www.livingrichwithcoupons.com/2009/05/living-rich-with-coupons-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for Living Rich With Coupons
+# Living Rich With Coupons Privacy Policy | Living Rich With CouponsLiving Rich With Coupons
 
-At www.livingrichwithcoupons.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.livingrichwithcoupons.com and how it is used.
+_**Our Commitment to Privacy:**_
 
-We will not sell, disseminate, disclose, transmit, transfer, share, lease, or rent any personally identifiable information to any third party not specifically authorized by you to receive your information except as we have disclosed to you in this Privacy Policy.
+This section summarizes what personally identifiable information Living Rich With Coupons may collect, if any, and how I might use this information. This policy also describes other important topics relating to your privacy. Living Rich With Coupons reserves the right to modify this privacy policy at any time. I will promptly reflect any such modifications in these Web pages. _  
+**  
+Cookies and Web Beacons:**_
 
-**Log Files**  
-Like many other Web sites, www.livingrichwithcoupons.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Living Rich With Coupons may use cookies to store information about visitors’ preferences or other information that visitors send via their browser.
 
-**Cookies and Web Beacons**  
-www.livingrichwithcoupons.com does not use cookies.
+Some of my advertising partners may use cookies and web beacons on my site. My advertising partners include, but are not limited to, Google Adsense, Juice Box Jungle, Glam and Coupons.com.
 
-**Posts or Comments**  
-We have no control over who reads your postings, or what other users may do with the information you voluntarily post, so please use caution when posting any personal information or comments.
+These third-party ad servers or ad networks sponsor advertisements and links on Living Rich With Coupons that are sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.livingrichwithcoupons.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.livingrichwithcoupons.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Living Rich With Coupons has no access to or control over these cookies that are used by third-party advertisers.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include and are not limited to ….  
-Google Adsense  
-Burst Media  
-AOL/Advertising  
-Glam Media  
-Kontera
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt out of certain practices. Living Rich With Coupons’ privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.livingrichwithcoupons.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-www.livingrichwithcoupons.com has no access to or control over these cookies that are used by third-party advertisers.
+_**Children:**_
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.livingrichwithcoupons.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+_I will not collect any information from children under 18.  
+**  
+Information Collection:**_
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  on third party sites.
+There are occasions when I will ask for personal information, such as when you enter a giveaway. In these cases, I will only collect personally identifiable information (such as name, address, telephone number, or e-mail address) that you voluntarily provide through my Website or via email correspondence.
 
-**Questions**  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us:
+I will not sell or exchange your personal information at any time. I will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve my Website and better meet your needs.  
+_**  
+Use of Information:**_
 
-Living Rich Media, LLC  
-PO Box 2281  
-Livingston, NJ 07039  
-cindy@livingrichwithcoupons.com.
+_Before I collect any personally identifiable information, I will provide an explanation for the possible use of your data. For example, the information you supply might be used by Living Rich With Coupons to respond to your inquiries or supply you with requested information. It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. If you have submitted personal information to me electronically and would like it removed or modified, please contact me. I will use every possible reasonable effort to comply with your request.  
+**  
+Links:**_
 
-_Updated: 9/21/11_
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.livingrichwithcoupons.com%2F2009%2F04%2Fprivacy-policy-for-living-rich-with-coupons.html&media=&description=Privacy+Policy+for+Living+Rich+With+Coupons)
+While Living Rich With Coupons is highly selective about which sites we provide links to, I do not control these web sites, nor do I endorse or otherwise accept responsibility for the content or privacy policies of those sites. I encourage you to review the privacy policies posted on third party sites.
