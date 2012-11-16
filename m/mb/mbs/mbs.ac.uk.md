@@ -1,15 +1,54 @@
-> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517131757id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116135149id_/http%3A//mbs.ac.uk/help/privacy) for the most accurate reproduction.*
 
-# Privacy (The University of Manchester)
+# Privacy policy - Manchester Business School
 
-Personal data (eg name, email address) is not stored or captured through The University of Manchester website without the prior knowledge and consent of users. When you provide this information, you will be asked whether you wish to receive any further communication from The University of Manchester. We will ensure that all personal data supplied is held in accordance with the Data Protection Act 1998. The University of Manchester does not sell or otherwise transfer personal data to any third parties unless you have consented to this or this is so permitted by law.
+###   
+How we use your information
 
-Continuous logs are maintained of The University of Manchester web server activity. These log files include the details of your IP address, browser type, page last visited etc. Log files are used to analyse usage of The University of Manchester website, and may be kept in an anonymised form for historical records.
+This privacy notice tells you what to expect when Manchester Business School collects personal information. It applies to information we collect about:
 
-Some parts of The University of Manchester website use cookies for security purposes (eg to save the user from having to re-enter their details for every page in a section of the site). Cookies are not used to capture or store personal information for any other purpose, and all cookies are deleted as soon as a session is ended. You may choose to refuse cookies by disabling them using your web browser.
+  * Visitors to our websites 
+  * Visitors who use our services, e.g. who subscribe to our newsletter or request a brochure from us.
 
-If you email us to ask a question, report a fault etc, we will only use the personal data you provide to reply to your message. We do not keep this information, or share it with any third party unless you have consented to this or this is so permitted by law.
 
-This privacy statement applies to centrally maintained University of Manchester web pages. If the user leaves this website and visits a website operated by a third party, The University of Manchester cannot be held responsible for the protection and privacy of any information which users have provided while visiting such websites. Accordingly, users should exercise caution and review the privacy statement applicable to the website in question.
 
-Back to menus
+### Visitors to our websites
+
+When someone visits www.mbs.ac.uk we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone.   
+We do not make any attempt to find out the identities of those visiting our websites.  
+We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it. 
+
+### Search engine
+
+The search engine on our website is designed to be as powerful and easy to use as the popular search engine Google. The search is made possible by a piece of hardware (a search 'appliance') supplied by Google that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party, including Google.
+
+### Complaints or queries
+
+MBS tries to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
+
+This privacy notice was drafted with brevity and clarity in mind. It does not provide exhaustive detail of all aspects of MBS's collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below.
+
+### Links to other websites
+
+This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit. 
+
+### How to contact us
+
+Requests for information about our policies can be emailed to The University of Manchester or by writing to:
+
+Data Guardian  
+Manchester Business School  
+Booth Street West  
+Manchester  
+M15 6PB, UK
+
+### Terms of Service Agreement
+
+By using this web site, you are agreeing to comply and be bound by the following terms of service and use. Please review the following terms in their entirety and ensure their comprehension before using and viewing this web site.
+
+The terms "us", "we", "our", or "owners" refers to Manchester Business School and administrative operators of the web sites using the mbs.ac.uk domain. "You" refers to the user or viewer of these web sites.
+
+Manchester Business School (MBS) is a school within the Faculty of Humanities, which is a faculty of The University of Manchester. We are a Royal Charter corporation registered in England and Wales under number RC000797 and an exempt charity with our registered office at Oxford Road, Manchester, M13 9PL.   
+Our VAT number is GB 849 7389 56.
+
+One of our departments within MBS is responsible for international higher education and as such is registered as Manchester Business School WorldWide Limited, Company No. 04666867. This is also registered in England and Wales at Oxford Road, Manchester, M13 9PL. This department is also referred to as our Global MBA programme. 
