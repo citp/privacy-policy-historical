@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517133014id_/http%3A//www.qtmsoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116131742id_/http%3A//www.qtmsoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Qualiteam Privacy Policy
 
@@ -28,7 +28,7 @@ Consultation on small modifications of the software: possible if the required ch
 
 Consultation on medium modifications of the software: possible if the required changes take about an hour to describe
 
-Application of a patch fixing a bug in X-Cart/LiteCommerce store (patches themselves are [provided for free](https://web.archive.org/web/20120517133014id_/http%3A//www.qtmsoft.com/support/bug-fixing-policy.html))
+Application of a patch fixing a bug in X-Cart/LiteCommerce store (patches themselves are [provided for free](https://web.archive.org/web/20121116131742id_/http%3A//www.qtmsoft.com/support/bug-fixing-policy.html))
 
 Additional services costing more than the other tasks or not included into original tech support duties
 
@@ -166,7 +166,7 @@ Within this service the following will be checked:
 
 As a result you'll be given a piece of advice on how to re-design your site in order to improve the load speed.
 
-This Privacy Policy describes the types of information Qualiteam Corp ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services ("Products or Services") and do not access the Qualiteam's websites located at [http://www.qtmsoft.com](http://www.qtmsoft.com/), [http://www.x-cart.com](http://www.x-cart.com/), [http://www.litecommerce.com](http://www.litecommerce.com/) ("Site", "Sites"). 
+This Privacy Policy describes the types of information Qualiteam software LLC ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services ("Products or Services") and do not access the Qualiteam's websites located at [http://www.qtmsoft.com](http://www.qtmsoft.com/), [http://www.x-cart.com](http://www.x-cart.com/), [http://www.x-shops.com](http://www.x-shops.com/), [http://www.litecommerce.com](http://www.litecommerce.com/) ("Site", "Sites"). 
 
 ## Information We Collect
 
