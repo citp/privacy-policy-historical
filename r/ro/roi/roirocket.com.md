@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513075609id_/http%3A//www.roirocket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116191537id_/http%3A//www.roirocket.com/privacy.htm) for the most accurate reproduction.*
 
 # ROIRocket - Privacy Policy
 
@@ -44,7 +44,7 @@ ROI Rocket has a strict Anti-Spam policy in place and does not intentionally sen
 
 ### Opt Out/Modify
 
-ROI Rocket provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do 
+ROI Rocket provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do
 
   1. Email: [Click Here](mailto:publishers@roirocketcorp.com)
   2. Website: http://www.roirocket.com
