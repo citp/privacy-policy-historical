@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183737id_/http%3A//www.redbalcony.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbalcony.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116075005id_/http%3A//www.redbalcony.com%3Ffeed%3Dprivacy) for the most accurate reproduction.*
 
 # RedBalcony > Privacy Plicy
 
@@ -39,6 +39,15 @@ Some contests, sweepstakes and other promotions that will appear on the Redbalco
 
  Affiliates and advertisers, product and service providers may also use their own cookies when you interact with their sites and you should be aware of this as you do so. 
 
+**THIRD PARTY ADVERTISING**
+
+ We use third-party advertising companies to serve ads when you visit our Web site. Specifically, this site uses the services of a variety of advertisers, rep firms and networks, including but not limited to: ValueClick, DoubleClick, AdGoto and/or other various independent advertisers and/or networks for serving and/or targeting of ads, promotions and other marketing messages when you visit our Web site. More particularly, the third-party advertising technology that we and our advertising partners use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here http://www.networkadvertising.org/optout_nonppii.asp. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize certain of our our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," of the use of such Web beacons used by ad providers utilizing Doubleclick/Boomerang, please click here. http://www.doubleclick.com/privacy/index.aspx. You can also visit http://www.valueclickmedia.com/legal/privacy/display-member for ValueClick advertisments legal policy. 
+
+**LOG FILES**
+
+ Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, and report aggregate information to our advertisers, our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf. IP addresses, etc. are not linked to personally identifiable information, nor do we compile session activity reports by IP address.
+
+  
 **NOTICE REGARDING CHILDREN**
 
  We at Redbalcony.com take the online safety of children very seriously. Redbalcony.com website and services are directed to adults. We do not allow children under the age of 14 to obtain User Names, and we do not intentionally collect any personal information from children under 14. 
