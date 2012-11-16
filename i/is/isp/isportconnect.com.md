@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the isportconnect.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515230719id_/http%3A//www.isportconnect.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4%26Itemid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isportconnect.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116194802id_/http%3A//www.isportconnect.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4%26Itemid%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**  
 This privacy policy governs the collection, storage and use of personal data collected by isportconnect.com. It provides you with details about the personal data we collect from you, how we use your personal data and your rights to control personal data we hold about you. Please read this privacy policy carefully – by accessing or browsing this website and network (the "Services"), you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use the Services.   
-This privacy policy was last updated on May 4, 2010. Please check back regularly to keep informed of updates to this privacy policy. 
+This privacy policy was last updated on May 1, 2012. Please check back regularly to keep informed of updates to this privacy policy. 
 
 **Who we are**  
-This social networking website is made available to you by Glitzier UK Ltd. We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws.   
+This social networking website is made available to you by iSportconnect UK Ltd. We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws.   
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please contact us. 
 
 **An important note about children**
