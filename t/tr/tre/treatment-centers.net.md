@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617174639id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116185402id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Treatment-Centers.net
 
 ADMISSIONS/INQUIRIES  
 To talk with us please call the phone number listed on the top of all pages of the website or our main number at 408-210-4910.  
@@ -132,6 +132,6 @@ FOR MORE KNOWLEDGE ABOUT PROTECTED HEALTH INFORMATION OR TO REPORT A PROBLEM
   
 If have questions and would like additional information, you may contact Treatment-Centers.net Corporate Compliance Officer at: 408-210-4910.
 
-If you believe your privacy rights have been violated, you can file a complaint with the Department of Health and Human Services/ Office for Civil Rights (HHS/OCR) by email at [ocrcomplaint@hhs.gov](mailto:ocrcomplaint@hhs.gov) or by calling the national Office at 202-205-8725 and asking for the OCR Health Information Privacy Complaint Form and/or for the appropriate Regional OCR Office.
+If you believe your privacy rights have been violated, you can file a complaint with the Department of Health and Human Services/ Office for Civil Rights (HHS/OCR) by email at [info@hhs.gov](mailto:ocrcomplaint@hhs.gov) or by calling the national Office at 202-205-8725 and asking for the OCR Health Information Privacy Complaint Form and/or for the appropriate Regional OCR Office.
 
 However, communications that are sent directly to the Department of HHS/OCR are maintained by them for historical purposes, as required by law. Those communications are archived on a monthly basis, but are also protected by the Privacy Act, which restricts their use while permitting certain disclosures. There will be no retaliation for filing a complaint.
