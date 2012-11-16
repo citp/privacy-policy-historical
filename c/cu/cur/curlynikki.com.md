@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603171702id_/http%3A//www.texturemediainc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116034322id_/http%3A//www.texturemediainc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TextureMedia℠, Inc.
+# Privacy Policy | TextureMedia®
 
 ## Privacy Policy
 
