@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318164705id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116035718id_/http%3A//www.careerstructure.com/privacy-policy) for the most accurate reproduction.*
 
-# CareerStructure.com
+# Privacy policy
 
-[Home](https://web.archive.org/)Privacy policy
+[Home](https://web.archive.org/) Privacy policy
 
 At CareerStructure.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site. 
 
 You can remove any of the information that CareerStructure.com stores about you, at any time, by logging in to your 'My CareerStructure' account and choosing to close the account. 
 
-Privacy policy update (Last updated 19 September 2011) 
+Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
+
+Privacy policy update (Last updated 17 May 2012) 
 
 ## Registration details
 
@@ -34,20 +36,6 @@ If you choose to create a profile and upload a CV to our database, we rely on yo
 
 Please note that CareerStructure.com reserves the right to remove from our database, CVs which include any content that we consider to be illegal or offensive. 
 
-## Cookies 
-
-Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access the CareerStructure.com web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of our site (see **Statistical information** below). 
-
-There is no personally identifiable information held on cookies. An example of a cookie is below. 
-
-10.20.25.21- 2020212848.29592612::413EA8A33A38AC8CCE09CC624E8B4758
-
-You have the option to decline or accept these cookies, but if you decline you will not be able to access the personalised areas of the site. This means you will not be able to access your candidate profile, register your CV or set up any Jobs By Emails. 
-
-**[Accept cookie](https://web.archive.org/)       [Decline cookie](https://web.archive.org/)**
-
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/en/cookie_opt-out.html), [Emediate](http://www.emediate.dk/privacy.html), [Webtrends](https://ondemand.webtrends.com/privacypolicy.asp), [Criteo](http://www.criteo.com/en/privacy-policy), [Google](http://www.google.co.uk/intl/en/privacy/ads/) and [Epsilon](http://www.epsilon.com/Privacy-Policy/p42-l1). 
-
 ## IP address information
 
 Like many websites, we routinely capture your IP address information to determine your location. This helps us work out whether you are visiting the site from within the UK, EU or rest of the world, and means we can show you content that's specific to your location and ask the right questions about your eligibility to work in the UK or EU should you wish to apply for a job on CareerStructure.com. 
@@ -61,6 +49,3 @@ We provide aggregate statistical information about site visitors and users to re
 ## Security
 
 The site is protected against unauthorised access using the latest security devices and 'firewalls'. 
-
-  
-
