@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trannytube.net privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129133023id_/http%3A//www.trannytube.net/%3Fview%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannytube.net privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116075254id_/http%3A//www.trannytube.net/privacy) for the most accurate reproduction.*
 
-# Shemale, Tranny Porn Movies, Free Shemale Sex Tube, Tranny Tube XXX Videos - Privacy policy
+# Privacy policy
 
 rn
 
