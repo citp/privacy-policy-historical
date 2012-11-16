@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the poba.co.in privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116073511id_/http%3A//www.poba.co.in/privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy | Poba! India Free Classifieds
+
+Intentarget Media Inc. (hereinafter referred to as the "Company") maintains a strict privacy policy on all personal data submitted by you via poba.co.in and its sub-domains (referred to below as "Sites") and the Company's policy is that it will not release such information to anyone without your prior consent. Please note that this Privacy Policy does not apply to the practices of companies or entities that are not within our control or to people that we do not employ or manage. We may amend this Privacy Policy from time to time. Any substantial changes to this Privacy Policy will be posted on the Site, and you agree that such posting shall constitute sufficient and adequate notice to you of such changes. For the purposes of this Privacy Policy, "Personal Data" shall include, where applicable, to your name, your company name, your contact details, your user identification and password to the Site, and all other information which may identify you or you as a class of persons. 
+
+##### Collection Of Personal Data
+
+We collect your Personal Data when you register with the Company through the Site as well as, your IP address and cookie information. Once you register with us and sign in, you are identifiable to us and our servers will record information on you including your IP address and the sub-domains you visit. The purpose of collecting Personal Data from you is for, amongst others, the provision of the services offered by the Company through the Site and the marketing of the services and special events of the Company and its affiliates. We endeavour to ensure that our officers, directors, employees, agents and/or contractors will exercise their prudence and due diligence to prevent any misuse, unauthorized access, disclosure, or modification of the information you submit. This also applies to our processing or disposal of your Personal Data. Notwithstanding anything herein to the contrary and unless you have indicated in writing to us otherwise, you, by posting any materials on the Site, expressly give the Company permission to provide your email address to any potential purchasers in order that they may interact with you electronically. The Company may provide your personal data to its agents, contractors or service provider which provides online payment verification or other related services. The Company engages third party service provider to provide online payment gateway services on the Sites. When you sign up for such services, the service provider will collect additional information (e.g., credit card numbers) from you as necessary for them to provide the online payment services. 
+
+##### Transfer Of Data
+
+Personal Data collected via the Site may be stored and processed in any country in which the Company, whether through its affiliates or otherwise, operates, and by using the Site, you consent to such storage and processing of your Personal Data as well as the transfer of Personal Data outside of your country.
+
+##### Access to Personal Data
+
+You are entitled to access your own Personal Data upon satisfactory verification of your identity and you may edit or amend your own Personal Data at any time except that the India Identity Card number or passport number or business registration certificate number cannot be amended unless such data is proved to the satisfaction of the Company to be inaccurate and such inaccuracy did not arise from the provision of inaccurate information by you.
+
+##### Retention of Personal Data
+
+Subject to applicable law and regulations, your Personal Data will be retained by the Company until you formally request for the Personal Data to be removed from the database of the Company whereupon such Personal Data may be removed. For any queries, please contact our Customer Service.
