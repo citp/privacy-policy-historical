@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626225854id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116034040id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
 
 # Privacy – AMC
 
@@ -6,11 +6,11 @@
 
 _NOTE:_ In our previous Privacy Policy, we agreed that we would notify you, and provide you the opportunity to opt out, if we decided in the future to share personal information collected on our Web site with our affiliates, including our parent company, CSC Holdings, Inc. and other entities that may control us, be controlled by us, or are under common control with us. We would now like to share information you may have provided through this Website, such as your name, address, telephone number, and/or email address, with our affiliated companies in order to better serve you. Our affiliates may use that information to contact you about their products and services and those of their advertisers, to market products that may be of interest to you, to improve their services and offerings, and for other reasons consistent with their privacy policies and ours. To see a representative list of affiliates, please [_click here_](http://www.cablevision.com/about/index.jsp).
 
-If you If you have submitted personal information through our Website prior to November 30, 2009 and would like to opt out of this information sharing, you may do so by sending an email to [amc_registration AT AMC-Networks DOT com](mailto:amc_registration@amcnetworks.com) from the email address that we have on file for you. Please note that Company may still use your information in other ways permitted by our Privacy Policy, and that any information collected subsequent to this notice is subject to our new Privacy Policy. Our new Privacy Policy is set forth below. It takes effect on December (30 days from now).
+If you have submitted personal information through our Website prior to November 30, 2009 and would like to opt out of this information sharing, you may do so by sending an email to [amc_registration AT AMC-Networks DOT com](mailto:amc_registration@amcnetworks.com) from the email address that we have on file for you. Please note that Company may still use your information in other ways permitted by our Privacy Policy, and that any information collected subsequent to this notice is subject to our new Privacy Policy. Our new Privacy Policy is set forth below. It takes effect on December (30 days from now).
 
-AMERICAN MOVIE CLASSICS COMPANY LLC
+AMC NETWORK ENTERTAINMENT LLC.
 
-Thank you for visiting this website (the "Website"). Your patronage means a lot to us. At American Movie Classics Company LLC ("Company"), we understand that privacy is an important issue for visitors to our websites and we are committed to providing you clear information about how we treat information provided to us. This Privacy Policy ("Policy") describes the information we collect, what we do with it and the safeguards we have in place to protect it. 
+Thank you for visiting this website (the "Website"). Your patronage means a lot to us. At AMC Network Entertainment LLC ("Company"), we understand that privacy is an important issue for visitors to our websites and we are committed to providing you clear information about how we treat information provided to us. This Privacy Policy ("Policy") describes the information we collect, what we do with it and the safeguards we have in place to protect it. 
 
 Your use of any part of the Website indicates your acceptance of this Policy and of the collection, use and disclosure of your personal information in accordance with this Policy. Please note that this Policy applies only to personal information collected on the Website. It does not apply to any other information collected or obtained by any other means by Company, its parents, affiliates, or subsidiaries.
 
@@ -30,7 +30,7 @@ We may also use cookies and other technologies to learn about how you interact w
 INFORMATION USE
     
 
-By providing information on the Website, you agree that personal information that you provide may be used by Company, its parents, affiliates, and subsidiaries to communicate with you for the purposes of: offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, and similar purposes. For a current list of Company’s affiliates, [please click here](http://www.cablevision.com/about/index.jsp).
+By providing information on the Website, you agree that personal information that you provide may be used by Company, its parents, affiliates, and subsidiaries to communicate with you for the purposes of: offering discounts, promoting services and products, informing you about new services and products, providing news on upcoming sporting and entertainment events, providing programming schedules, conducting surveys, marketing special gift or discount offerings, offering ticket discounts, conducting contests and sweepstakes, and similar purposes. For a current list of Company’s affiliates, [please click here](http://www.amcnetworks.com/).
 
 From time to time, we may provide access to information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to companies providing services to us, including billing, sales and marketing, market research, fulfillment, data storage, analysis and processing, and legal services. We may also provide access to third parties who assist us in providing targeted advertising. Third parties who have such access may not use the information for any other purpose, including their own marketing.
 
@@ -49,7 +49,7 @@ This Website is controlled, operated and administered entirely within the United
 YOUR CHOICES REGARDING MARKETING AND OPTING OUT 
     
 
-If you have provided personally identifiable information on one of our Websites and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at [amc_registration AT rainbow-media DOT com](mailto:amc_registration@rainbow-media.com); or (iii) writing us at American Movie Classics Company LLC, 11 Penn Plaza, New York, NY 10001. Attention: Clayton Neuman.
+If you have provided personally identifiable information on one of our Websites and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at [amc_registration AT AMC-Networks DOT com](mailto:amc_registration@amcnetworks.com); or (iii) writing us at AMC Network Entertainment LLC., 11 Penn Plaza, New York, NY 10001. Attention: Clayton Neuman.
 
 UPDATING YOUR INFORMATION
     
@@ -64,9 +64,9 @@ You should note that the Website has business relationships with (and may provid
 COOKIES
     
 
-Data is gathered through the use of Internet server logs and cookies. A web server log is a file where website activity is stored. A cookie is a small piece of information that a website sends to a visitor's computer, which is stored on his or her hard drive. Company uses cookies to track repeat visits to our website. These cookies do not store personally identifiable information, although information in cookies may be combined with other identifiable information that we maintain. You can disable cookies within your browser, although some portions of the Website may not function properly if you do so.
+Data is gathered through the use of Internet server logs and cookies. A web server log is a file where website activity is stored. A cookie is a small piece of information that a website sends to a visitor's computer, which is stored on his or her hard drive. Company uses cookies to track repeat visits to our website and to identify our customers on other websites. These cookies do not store personally identifiable information, although information in cookies may be combined with other identifiable information that we maintain. You can disable cookies within your browser, although some portions of the Website may not function properly if you do so.
 
-Company and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information. For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or [click here](http://www.networkadvertising.org/) to link to Network Advertising Initiatives.
+Company and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and other websites and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information. For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or [click here](http://www.networkadvertising.org/) to link to Network Advertising Initiatives.
 
 CHILDREN’S PRIVACY POLICY 
     
@@ -86,11 +86,11 @@ Please do not hesitate to contact us with any questions, concerns, requests or c
 Writing to us at:  
 
 
-**American Movie Classics Company LLC**  
+**AMC Network Entertainment LLC**  
 11 Penn Plaza  
 New York, NY 10001  
 **Attention: AMCC Privacy Coordinator**  
-[amc_registration AT rainbow-media DOT com](mailto:amc_registration@rainbow-media.com)
+[amc_registration AT AMC-Networks DOT com](mailto:amc_registration@amcnetworks.com)
 SECURITY
     
 
@@ -103,6 +103,6 @@ GOVERNING LAW
 
 This Policy and the use of this Website are governed by New York law. Any claim related to this Policy shall be brought in a federal or state court in New York counties, New York, within one year after the claim arises. You agree that no such claim may be brought as a class action. Users of this Website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this Policy.
 
-Copyright © 2009 American Movie Classics Company LLC
+Copyright © 2012 AMC Network Entertainment LLC.
 
-Version: December 2009
+Version: September 2012
