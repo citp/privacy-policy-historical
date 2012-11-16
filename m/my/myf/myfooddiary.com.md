@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621015104id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116104636id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
 
 # My Food Diary :: Privacy Policy
 
@@ -94,7 +94,7 @@ Security
 
 The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our membership or order forms, we encrypt that information using 128-bit Secure Socket Layer (SSL) technology.
 
-[](https://verify.hackersafe.com/RatingVerify?ref=www.myfooddiary.com) In addition to the encryption technology that we employ, we also participate in a daily security audit system provided by ScanAlert.  ScanAlert monitors our system for any known vulnerabilities and alerts us to the problem immediately.
+In addition to the encryption technology that we employ, we also participate in daily security audits provided by multiple 3rd parties.  These systems monitor our system for any known vulnerabilities and alert us immediately if a weakness is found.
 
 Business Transitions
 
@@ -114,4 +114,6 @@ MyFoodDiary.com
 651 Perimeter Drive, Ste. 620  
 Lexington, KY 40517
 
-Last Updated on 1/13/2012
+Last Updated on October 16, 2012  
+  
+© 2003-2012 MyFoodDiary.com. All Rights Reserved.
