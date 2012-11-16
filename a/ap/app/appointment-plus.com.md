@@ -1,114 +1,38 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128001041id_/https%3A//privacy-policy.truste.com/verified-policy/www.appointment-plus.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116063730id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy for www.appointment-plus.com
+# Appointment Scheduling Software | Online Appointment Scheduling Program | Privacy Policy
 
-Effective on December 5, 2011 
+Privacy Policy
 
-This privacy statement describes how Appointment-Plus collects and uses the personal information you provide on our Web site: [www.appointment-plus.com ](https://www.appointment-plus.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+**StormSource Software, Inc. dba Appointment-Plus** ("Appointment-Plus") respects your privacy and the privacy of your customers. The following Privacy Statement outlines how Appointment-Plus will treat information as you use our software as a service scheduling solutions. Please direct any questions that you may have regarding our Privacy Statement at any time to info@appointment-plus.com.
 
-**TRUSTe**
+Personally-identifiable Information  
+When you first register for a free trial to use our services, we gather some basic information about you such as your name, business type or occupation, email address, and other contact information. We request this information so that we may register you for our service, and customize our application to meet the specific needs of your business or profession. In addition, we use such information as a mailing list to periodically provide you information to assist you in setting up and utilizing Appointment-Plus.
 
-Appointment-Plus is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+By collecting some information about you, we are able to deliver relevant information to you about Appointment-Plus services (never third party services). You have the option of opting out of any Appointment-Plus mailings such as the Appointment-Plus monthly newsletter. Appointment-Plus may disclose or access account information in the event the law requires such disclosure and for administrative or related purposes to maintain and improve our services to you. Appointment-Plus will never share personally-identifiable information about you, your business or your customers with any third party without receiving your permission, unless required to do so by law.
 
-If you have questions or concerns regarding this policy, you should first contact us at [info@stormsource.com ](mailto:info@stormsource.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Appointment-Plus requires all of our clients (and their staff) to log into their Appointment-Plus accounts before they are permitted to gain access to their account information. You must enter your unique Appointment-Plus username and enter your personal password in order to log into your Appointment-Plus account. Ultimately, you are responsible for keeping your password secret, which means that you should not tell anyone what your password is. We recommend that you change you and your staff members' passwords regularly by going, at anytime, to the Staff Member section of site administration and entering new passwords.
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+Non-Personally-Identifiable Information Automatically Collected  
+At times, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the Web site and/or Internet Service Provider from which you linked to our site. In addition, we may collect user statistics that we may provide to prospective advertisers or partners. This information is provided in the aggregate only and will not include any personally identifiable information about any individual users.
 
-## Collection and Use of Personal Information
+Cookies  
+When you log into Appointment-Plus, we use cookies to provide customizable and personalized services, such as changing your personal profile. By modifying your browser preferences, you may accept all cookies, be notified when a cookie is set, or reject all cookies. Even if you reject the use of cookies, you will still be able to use our services.
 
-We collect the following personal information from you
+Scheduling and Appointment Confidentiality  
+Appointment-Plus never shares client information with anyone. For persons scheduling appointments with a service provider, Appointment-Plus will not share their personal schedule information with anyone except the service provider with whom they make an appointment. All scheduling and appointment information will be confidential. Each service provider can view only information relating to his or her appointments or such information as you allow.
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Unique Identifiers such as user name, account number, password
+Customer and Employee Confidentiality  
+Appointment-Plus also holds your customer and employee information in strictest confidence. StormSource Software does not disclose your personal information to companies or organizations not affiliated with us. Although the Appointment-Plus is a self-directed scheduling system, a technical support person at Appointment-Plus or its affiliates may use your personal information to help you with a technical problem or provide support services. All Appointment-Plus employees are based domestically in the United States. Appointment-Plus or its affiliates may also use your personal information to communicate with you about services that you have expressed an interest in or that we believe may be of interest to you. In addition, we may, as permitted by law and without your prior permission, provide personal information about you contained in our records or files to persons or organizations such as: persons who perform a business function for us, regulatory or law-enforcement authorities, or our affiliated companies.
 
+Children  
+Children should request permission from their parent or guardian prior to sending personal information online. Appointment-Plus does not intend to collect any personally-identifiable information from individuals under the age of 13. If a child has provided Appointment-Plus with personally-identifiable information, a parent or guardian of that child should contact us if they would like such information deleted from our records. We will use reasonable efforts to delete the child's personally-identifiable information from the existing files.
 
+Security  
+Our Web site has high security measures in place to protect against the loss, misuse, and alteration of the information under our control. These security measures include state-of-the-art firewall, high physical protection in the data center, nightly backup procedures, and Secure Socket Layer (SSL) to protect your data and financial information during Internet transmission. Notwithstanding, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. We cannot absolutely ensure the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure of such information. You acknowledge that you provide your personal information at your own risk.
 
-We also collect the following information from you
+Credit Card Transactions  
+Credit card transactions are processed by third party gateways such as Authorize.net, Merchant Ware, Linkpoint, Paypal, etc. which have confidentiality of transactions covered by their privacy policies. These gateways offer secure encrypted credit card transactions for thousands of companies and have stringent security measures in place.
 
-  * Information about your business such as company name, company size, business type
-  * Demographic information such as age, education, gender, interests and zip code
-
-
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
-
-We use this information to
-
-  * Fulfill your order
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-
-
-
-**Choice/Opt-Out**
-
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@stormsource.com ](mailto:info@stormsource.com).
-
-**Information Obtained from Third Parties**
-
-We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
-
-## Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Appointment-Plus is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
-
-
-
-## Cookies and Other Tracking Technologies
-
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
-
-_Web beacons_
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Appointment-Plus. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-## Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can contact us at [info@stormsource.com ](mailto:info@stormsource.com)
-
-## Additional Policy Information
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [info@stormsource.com ](mailto:info@stormsource.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Appointment-Plus 
-
-13951 N. Scottsdale Rd 
-
-Scottsdale, AZ, United States 85254
-
-Phone: 4804831199
+Communication of Changes  
+Protecting your privacy and information is a top priority of Appointment-Plus. We will make reasonable efforts to communicate any changes to our Privacy Statement to our customers, but in any event our Privacy Statement may change from time to time and we invite you to review this Policy online at any time.
