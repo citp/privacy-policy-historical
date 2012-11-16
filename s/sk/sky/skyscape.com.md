@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523045653id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116132941id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,4 +98,7 @@ The headings of sections of this Privacy Policy Statement are for convenience an
 
 PIH websites may contain links to and from other websites, products or services. These other sites are not covered by this Privacy Policy Statement, and we are not responsible for the privacy practices or the content of these other sites. 
 
-Privacy Policy Statement updated on August 25, 2010.
+Privacy Policy Statement updated on August 25, 2010.  
+  
+Copyright ©2012 Skyscape.com, Inc. Skyscape® is the registered trademark of Skyscape.com, Inc.  
+All other trademarks, service marks and registrations are the intellectual properties of their respective owners. 
