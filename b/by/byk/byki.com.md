@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byki.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507095053id_/http%3A//www.byki.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byki.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116021150id_/http%3A//www.byki.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ Here at Byki.com we want you to enjoy our content and enjoy interacting with oth
 
 ###### Subscriptions, Registrations, and Other Requests for Information
 
-There are areas on the site that will ask you for your email address to register for a service (like List of the Week). We do this to register your request and maintain the capability to communicate with you regarding that service. Registrants may unsubscribe from subscriptions or services by clicking the unsubscribe link in the email they receive. In some instances, service registrations are accompanied by check boxes that indicate your desire to receive information on special content and product offers. For those people who choose to receive such offers, they may unsubscribe from receiving such offers at any time by clicking on the unsubscribe link within the email offer itself.
+There are areas on the site that will ask you for your email address to register for a service. We do this to register your request and maintain the capability to communicate with you regarding that service. Registrants may unsubscribe from subscriptions or services by clicking the unsubscribe link in the email they receive. In some instances, service registrations are accompanied by check boxes that indicate your desire to receive information on special content and product offers. For those people who choose to receive such offers, they may unsubscribe from receiving such offers at any time by clicking on the unsubscribe link within the email offer itself.
 
 ###### Sharing Lists Through Byki.com—You and Your Friends Are Safe
 
@@ -28,7 +28,7 @@ Our parent company's privacy policy:**
 
 At Transparent Language, Inc. (“TL”), we take your privacy seriously. We developed this privacy policy to explain our information collection and use practices. We respect the confidentiality of personal information that identifies you and treat that information responsibly. As described below, we do not authorize the selling or renting of your personal information to third parties for their business purposes.
 
-By using our web site, you accept the practices that are described in this Privacy Statement, which is effective as of September 1, 2009, and is part of the [Web Site General Terms and Conditions](https://web.archive.org/web/20120507095053id_/http%3A//www.byki.com/terms.html) governing use of this site. We may change or add to this statement from time to time. When that happens, we will post the revised statement here. Your use of our site after changes to this Privacy Statement have been made constitutes acceptance of those changes going forward.
+By using our web site, you accept the practices that are described in this Privacy Statement, which is effective as of September 1, 2009, and is part of the [Web Site General Terms and Conditions](https://web.archive.org/web/20121116021150id_/http%3A//www.byki.com/terms.html) governing use of this site. We may change or add to this statement from time to time. When that happens, we will post the revised statement here. Your use of our site after changes to this Privacy Statement have been made constitutes acceptance of those changes going forward.
 
 TL is not responsible for the privacy policies or practices of the websites from which you access our site, sites to which we link, or any sites that are linked to our site.
 
