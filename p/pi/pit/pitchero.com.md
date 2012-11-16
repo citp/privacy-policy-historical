@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170137id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074258id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
 
 1. General
 
@@ -120,16 +118,27 @@
 
 2. A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
-3. The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. You can find more information about the individual cookies we use and the purposes for which we use them in the table below:  Cookie Name | Purpose  
+3. The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. You can find more information about the individual cookies we use and the purposes for which we use them in the table below: 
+
+Cookie Name
+
+| 
+
+Purpose  
+  
 ---|---  
+  
 From Pitchero  
+  
 locale[language_code] | This cookie enables us to customise our site to provide you with content in your own language.  
 locale[region_code] | This cookie enables us to customise our site to provide you with content specific to your geographical location.  
 PHPSESSID | This cookie is essential for our site to maintain your login session. The login session allows us to identify you and your account.  
 shop_collection | This cookie is used to that our shop facility upon checkout knows whether your intend to collect your order or have it delivered.  
 shop_cookie_id | Allow you to use our site in a way that makes your browsing experience more convenient by allowing you to store items in an electronic shopping basket between visits.  
 cookieToken | Recognise you when you return to our site and automatically log you in.  
+  
 From Google Analytics  
+  
 Please click on the following link for further information. <http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet>  
 __utma | This cookie is used to determine unique visitors to our site and it is updated with each page view.  
 __utmb | This cookie is used to establish and continue a user session with our website.  
