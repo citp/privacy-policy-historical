@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the articley.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517022148id_/http%3A//www.articley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articley.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116124356id_/http%3A//www.articley.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Articley
 
 [](http://www.articley.com/)
 
 Welcome to our **Article Directory**!   
-We have **161** published articles and **122** registered authors. [Sign up](http://www.articley.com/default/wp-login.php?action=register) now 
-
-## Privacy Policy
+We have **173** published articles and **476** registered authors. [Sign up](http://www.articley.com/default/wp-login.php?action=register) now 
 
 **General**. Articley places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which Articley collects, uses, and discloses the personal information provided by you as a result of the use of Articley’s Web Site and the content, information and services provided through the Web Site by Articley.
 
