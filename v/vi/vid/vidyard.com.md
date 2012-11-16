@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511194515id_/https%3A//secure.vidyard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116164536id_/https%3A//secure.vidyard.com/privacy) for the most accurate reproduction.*
 
 # Business Video Hosting & Analytics
 
