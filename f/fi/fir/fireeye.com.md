@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518095244id_/http%3A//www.fireeye.com/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116135209id_/http%3A//www.fireeye.com/website/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -92,4 +92,4 @@ _Servers_
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@fireeye.com.](mailto:%20info@fireeye.com)
 
-To learn more about FireEye, visit the "Company" section, sign up for an Event, email us or call 1.877.FIREEYE (877-347-3393).
+[Learn more about FireEye.](https://web.archive.org/web/20121116135209id_/http%3A//www.fireeye.com/company/ "Learn more about FireEye")
