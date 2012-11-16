@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519091856id_/http%3A//loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116193905id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LoginTo.org
+# Loginto.org Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact/). At loginto.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by loginto.org and how it is used.
 
@@ -29,15 +29,15 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Latest Login Searches
 
-  * [kuaiwan.com Login](https://web.archive.org/kuaiwan.com-login)
-  * [seowhy.com Login](https://web.archive.org/seowhy.com-login)
-  * [gamebabylon.com Login](https://web.archive.org/gamebabylon.com-login)
-  * [tvmovie.de Login](https://web.archive.org/tvmovie.de-login)
-  * [bet.com Login](https://web.archive.org/bet.com-login)
-  * [iibux.com Login](https://web.archive.org/iibux.com-login)
-  * [aljayyash.net Login](https://web.archive.org/aljayyash.net-login)
-  * [pinterest.com Login](https://web.archive.org/pinterest.com-login)
-  * [pinterest Login](https://web.archive.org/pinterest-login)
-  * [instapaper.com Login](https://web.archive.org/instapaper.com-login)
+  * [4teachers.org Login](https://web.archive.org/4teachers.org-login)
+  * [xilinx.com Login](https://web.archive.org/xilinx.com-login)
+  * [adt.com Login](https://web.archive.org/adt.com-login)
+  * [watchthewater.org Login](https://web.archive.org/watchthewater.org-login)
+  * [home.org Login](https://web.archive.org/home.org-login)
+  * [zenfolio.com Login](https://web.archive.org/zenfolio.com-login)
+  * [dealer.com Login](https://web.archive.org/dealer.com-login)
+  * [grosbill.com Login](https://web.archive.org/grosbill.com-login)
+  * [terra.cl Login](https://web.archive.org/terra.cl-login)
+  * [charityvillage.com Login](https://web.archive.org/charityvillage.com-login)
 
 
