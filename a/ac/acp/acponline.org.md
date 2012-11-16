@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615174421id_/http%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116121625id_/https%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
 
 # ACP - ACP Privacy Policy
 
