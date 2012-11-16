@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504081528id_/http%3A//www.metacdn.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116061343id_/http%3A//www.metacdn.com/privacy.jsp) for the most accurate reproduction.*
 
 # MetaCDN - Privacy Policy
 
-The privacy of your personal information is important to MetaCDN. This document describes how we handle your personal information. This Privacy Policy is incorporated into and is subject to the MetaCDN Terms and Conditions. By entering into the Agreement, you expressly consent to MetaCDN's use and disclosure of your personal information in accordance with this Privacy Policy.
+### Introduction
+
+This Privacy Policy is incorporated into and is subject to the MetaCDN Terms and Conditions. By entering into the Agreement, you expressly consent to MetaCDN's use and disclosure of your personal information in accordance with this Privacy Policy.
 
 ### Use of Personal Information
 
