@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519043758id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116183440id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
 
 # Privacy policy - Help - TES
 
@@ -55,7 +55,7 @@ We may use ’cookies’ to identify you and your use of Sites when you visit th
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you reject all cookies, you will not be able to use products or services that require you to "sign in" and you may not be able to take full advantage of offerings or use on all TSL Sites. 
 
-For further information please see our Cookie Policy and for more independent information about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+For further information please see our [Cookie Policy ](http://www.tes.co.uk/article.aspx?storyCode=6229959)and for more independent information about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 #### Use of personal information
 
