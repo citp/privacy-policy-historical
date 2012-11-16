@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518165717id_/http%3A//www.perthnow.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116073031id_/http%3A//www.perthnow.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Perth Now
 
@@ -8,7 +8,7 @@ News Digital Media (News) recognises the importance of protecting the privacy o
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
-### Personal Information
+**Personal Information**
 
 We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.
 
