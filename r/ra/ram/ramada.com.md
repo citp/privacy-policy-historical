@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramada.com privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107063810id_/http%3A//www.ramada.com/terms-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramada.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116010029id_/http%3A//www.ramada.com/terms-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Ramada
 
@@ -12,11 +12,11 @@ Revised October 2008
 
 We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues.
 
-[Privacy Notice to California Customers](https://web.archive.org/web/20120107063810id_/http%3A//www.ramada.com/terms-policy/california_privacy_rights)
+[Privacy Notice to California Customers](https://web.archive.org/web/20121116010029id_/http%3A//www.ramada.com/terms-policy/california_privacy_rights)
 
-[Canadian Privacy Policy](https://web.archive.org/web/20120107063810id_/http%3A//www.ramada.com/terms-policy/canadian-privacy-policy)
+[Canadian Privacy Policy](https://web.archive.org/web/20121116010029id_/http%3A//www.ramada.com/terms-policy/canadian-privacy-policy)
 
-[Politique de confidentialité](https://web.archive.org/web/20120107063810id_/http%3A//www.ramada.com/terms-policy/canadian_french_privacy_policy)
+[Politique de confidentialité](https://web.archive.org/web/20121116010029id_/http%3A//www.ramada.com/terms-policy/canadian_french_privacy_policy)
 
 **Application**. This policy applies to residents of the United States, hotels of our Brands located in the United States, and Loyalty Program activities in the United States only. We do not accept the jurisdiction of any other laws over the above. This policy also applies only to our Customers. We have a separate policy governing any internet sites or extranet sites accessible only to the Franchisees and/ or Brands.
 
@@ -44,7 +44,7 @@ Our Web site uses third party service providers to serve and host our advertisem
 
 These third parties may place cookies on your computer if you click on or access the advertising. The third party cookies are used to track whether the site was accessed from the advertisement. The cookies generated from the advertisements do not contain personally identifiable information. We do not control these cookies and they may not follow the rules we have set for our own cookies.
 
-We and our third party ad server also use invisible pixels, sometimes called web beacons, on our Web site to count how many people visit certain web pages. Information collected from invisible pixels is used and reported in the aggregate without the use of a Customer's personally identifiable information. This information may be used to improve marketing programs and content and to target our Internet advertisements on our site and other Web sites. For more information about our third party ad server, or to learn your choices about not having this non-personal information used to serve ads to you, please [read a brief overview of our third party ad server's Privacy Policy.](http://www.google.com/intl/en/privacy/privacy-policy.html)
+We and our third party ad server also use invisible pixels, sometimes called web beacons, on our Web site to count how many people visit certain web pages. Information collected from invisible pixels is used and reported in the aggregate without the use of a Customer's personally identifiable information. This information may be used to improve marketing programs and content and to target our Internet advertisements on our site and other Web sites. For more information about our third party ad server, or to learn your choices about not having this non-personal information used to serve ads to you, please [read a brief overview of our third party ad server's Privacy Policy.](http://www.mediaplex.com/legal/mojo-privacy-statement)
 
 **The Information We Collect.** . If you make a reservation through our central reservation center or a Brand Web site or if you join one of our Loyalty Programs, we will collect and store your name, address and other basic information about you for the purpose of reserving the hotel accommodations or making the Loyalty Program benefits available to you. If you make a hotel reservation directly with a Brand Franchisee, state law in many states requires the hotel operator to collect and retain your name, address, telephone number and other basic information solicited on the hotel registration card and make it available to law enforcement officers. Our hotel operators send this information, as well as e-mail address and transaction detail (what goods and services were charged on the hotel bill) to our enterprise data warehouse or other data storage facility for collection and storage (the "Data Warehouse"). In addition, we obtain personally identifiable information from third party sources that are obligated to comply with applicable privacy laws and append it to the information maintained in the Data Warehouse about you. Credit card numbers used for payment or guarantee are automatically encrypted in our Data Warehouse so that they cannot be easily accessed. We do not collect Social Security or driver's license numbers from Customers.
 
