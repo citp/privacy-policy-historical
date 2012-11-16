@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artsonia.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523144242id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artsonia.com privacy policy that was archived on 2012-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116193540id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Artsonia - Privacy Policy</title>
@@ -12,9 +12,9 @@
 	
 	<link rel="stylesheet" type="text/css" href="/shared/styles/main.css">
 	
-	<link type="text/css" href="/shared/jquery/css/smoothness/jquery-ui-1.7.2.custom.css" rel="Stylesheet">
+	<link type="text/css" href="/shared/jquery/css/smoothness/jquery-ui-1.9.0.custom.css" rel="Stylesheet">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/shared/jquery/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="/shared/jquery/jquery-ui-1.7.2.custom.min.js"></script>
+	<script type="text/javascript" src="/shared/jquery/jquery-ui-1.9.0.custom.min.js"></script>
 	<script type="text/javascript" src="/shared/jquery/jquery.timers-1.2.js"></script>
 	
 	<script type="text/javascript">
@@ -29,64 +29,70 @@
 		})();
 	</script>
 	
+	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+	
 </head>
 
 <body>
 
 
 
-<div id="pageWrapper">
-<div id="page">
 <a name="top"></a>
 
 
 
-<div id="headerWrapper">
-	<div id="headerWrapperBanner">
-		<table width="970" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="146" rowspan="4" align="right" valign="bottom"><a href="http://www.artsonia.com/"><img src="/images/nav/navlogo.gif" width="135" height="68" border="0" alt="Artsonia Kids Art Museum — Just Beyond Imagination!" hspace="0" vspace="5"></a></td>
-				<td width="2"><img src="/images/spacer.gif" width="2" height="33"></td>
-				<td width="822" valign="top" align="right">
-					<table border="0" cellspacing="0" cellpadding="0" style="background:url(/images/nav/navback_authuser.jpg);background-repeat:repeat-x;">
-						<tbody><tr valign="middle">
-							
-							<td><img src="/images/nav/navback_authuser_border.gif" width="1" height="33"></td>
-							<td style="padding:2px 10px;"><font class="textLabel">
-								
-								<font color="#666699">(not logged in)</font>
-								
-							</font></td>
-							
-							<td style="padding-right:15px;"><a href="http://www.artsonia.com/login.asp"><img src="/images/buttons/login_small.gif" border="0" alt="Login" width="50" height="20"></a></td>
-							
-						</tr>
-					</tbody></table>
+<div id="header" style="height:105px;width:100%;background: url('/images/nav/navbar_shadow.jpg');background-repeat: repeat-x;background-color:#fff;">
+	<div style="position:absolute;margin-top:60px;width:100%;height:3px;background-color:#f00;overflow:hidden;">&nbsp;</div>
+	<div style="position:absolute;margin-top:63px;width:100%;height:30px;overflow:hidden;background-color:#ddd;border-top:1px #fff solid;">&nbsp;</div>
+	<div class="headerSubMenuBar" style="position:absolute;margin-top:90px;width:100%;height:15px;overflow:hidden;border-top:1px #aaa solid;">&nbsp;</div>
+	<div style="position:absolute;width:950px;height:100px;left:50%;margin-left:-475px;">
+		<div style="position:absolute;margin-top:60px;margin-left:135px;width:803px;height:3px;"><img src="/images/nav/colors.jpg" width="803" height="3"></div>
+		<div style="position:absolute;margin-top:-13px;margin-left:-30px;width:200px;height:120px;"><a href="http://www.artsonia.com/"><img src="/images/nav/navlogo_new.png" width="200" height="120" border="0"></a></div>
+		<div style="position:absolute;margin-top:3px;height:60px;margin-left:170px;"><table border="0" cellspacing="0" cellpadding="0" height="60"><tbody><tr valign="middle"><td nowrap=""><div class="headerTab"><a href="http://www.artsonia.com/museum/">Art Museum</a></div></td><td nowrap=""><div class="headerTab"><a href="http://www.artsonia.com/gifts/">Gift Shop</a></div></td><td nowrap=""><div class="headerTab"><a href="http://www.artsonia.com/teachers/">Teachers</a></div></td><td nowrap=""><div class="headerTab"><a href="http://www.artsonia.com/parents/">Parents</a></div></td><td><div class="headerTab" style="font-weight:normal;"><a href="http://artsonia.wordpress.com" target="_blank">Blog</a></div></td></tr></tbody></table></div>
+		<div style="position:absolute;margin-top:3px;height:60px;margin-left:690px;">
+			<table border="0" cellspacing="0" cellpadding="0" height="60"><tbody><tr valign="middle">
+				<td><input type="text" name="HeaderSearchText" id="HeaderSearchText" value="" placeholder="enter search text" size="40" maxlength="100" style="width:200px;font-size:14px;" onkeydown="if (event.keyCode == 13) document.getElementById('HeaderSearchBtn').click()"></td>
+				<td style="padding-left:3px;"><input type="button" name="HeaderSearchBtn" id="HeaderSearchBtn" value="search" style="width:60px;font-size:14px;" onclick="headerSearch()"></td>
+			</tr></tbody></table>
+			<script language="javascript">
+				function headerSearch() {
+					var txt = document.getElementById("HeaderSearchText").value;
+					txt = txt.replace(/^\s+|\s+$/g, "");
+					if ( txt == "" ) {
+						alert("You did not type anything into the search box.");
+					}
+					else {
+						location.href = "/search/?qt=" + escape(txt);
+					}
+				}
+			</script>
+		</div>
+		<div style="position:absolute;height:30px;width:500px;margin-top:63px;margin-left:450px;">
+			<table border="0" cellspacing="0" cellpadding="0" height="29" width="500"><tbody><tr valign="middle">
+				<td width="100%"></td>
+				
+				<td>
+					<div class="headerTabActive" style="background:#36f;font-size:9pt;margin-right:0px;padding:2px 7px;"><a href="http://www.artsonia.com/login.asp">Login</a></div>
 				</td>
-			</tr>
-			<tr>
-				<td width="2"><img src="/images/spacer.gif" width="2" height="29"></td>
-				<td width="822" valign="bottom" align="right" nowrap=""><div style="padding-right:15px;"><a href="http://www.artsonia.com/"><img border="0" name="nav_0" src="/images/nav/tabs/home_f3.gif" hspace="0"></a><a href="http://www.artsonia.com/museum/"><img border="0" name="nav_1" src="/images/nav/tabs/museum.gif" hspace="0"></a><a href="http://www.artsonia.com/gifts/"><img border="0" name="nav_2" src="/images/nav/tabs/giftshop.gif" hspace="0"></a><img src="/images/spacer.gif" width="15" height="1"><a href="http://www.artsonia.com/teachers/"><img border="0" name="nav_4" src="/images/nav/tabs/teachers.gif" hspace="0"></a><a href="http://www.artsonia.com/parents/"><img border="0" name="nav_5" src="/images/nav/tabs/parents.gif" hspace="0"></a></div></td>
-			</tr>
-			<tr>
-				<td width="2"><img src="/images/spacer.gif" width="2" height="3"></td>
-				<td width="822"><img src="/images/nav/tabs/home_border.gif" width="822" height="3"></td>
-			</tr>
-			<tr>
-				<td width="2"><img src="/images/spacer.gif" width="2" height="22"></td>
-				<td width="822" align="right" valign="middle"><span id="headerSubNav"><a href="http://www.artsonia.com/" class="hiddenLink">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.artsonia.com/about.asp" class="hiddenLink">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.artsonia.com/privacy.asp" class="hiddenLink">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<b style="color:#000000;"><a href="http://www.artsonia.com/contact.asp" class="hiddenLink" style="color:#006699;">Contact Us</a></b></span></td>
-			</tr>
-											
-		</tbody></table>
+				
+			</tr></tbody></table>
+		</div>
+		<div style="position:absolute;height:30px;margin-top:63px;margin-left:176px;">
+			<table border="0" cellspacing="0" cellpadding="0" height="29"><tbody><tr valign="middle"><td class="textLabel">
+				<span id="headerSubNav"><a href="http://www.artsonia.com/about.asp" class="hiddenLink">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.artsonia.com/privacy.asp" class="hiddenLink">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.artsonia.com/terms.asp" class="hiddenLink">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.artsonia.com/contact.asp" class="hiddenLink">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.artsonia.com/faq.asp" class="hiddenLink">FAQ</a></span>
+			</td></tr></tbody></table>
+		</div>
 	</div>
 </div>
 
+<div id="page">
 
 
-<table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+
+<table width="990" border="0" cellspacing="0" cellpadding="0" align="center" style="border-left:1px #bbb dotted;border-right:1px #bbb dotted;">
 	<tbody><tr valign="top">
-		<td width="10"><img src="/images/spacer.gif" width="10" height="500"></td>
-		<td width="940" align="left">
+		<td width="20"><img src="/images/spacer.gif" width="20" height="500"></td>
+		<td width="950" align="left">
 
 
 
@@ -166,32 +172,41 @@ the utmost care and responsibility.
 </blockquote>
 
 		</td>
-		<td width="10"><img src="/images/spacer.gif" width="10" height="500" <="" td="">
-	</td></tr>
+		<td width="20"><img src="/images/spacer.gif" width="20" height="500"></td>
+	</tr>
 </tbody></table>
 
 <div style="height:50px;">&nbsp;</div>
 
 </div>
-</div>
 
 	
 
-<div id="footerWrapper">
+<div id="footer">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr valign="middle">
-			<td align="left" nowrap=""><font class="textLabel" style="color:#999999;">
-				<a href="http://www.artsonia.com/about.asp"><font color="#444444">about us</font></a> | 
-				<a href="http://www.artsonia.com/contact.asp"><font color="#444444">contact us</font></a> | 
-				<a href="http://www.artsonia.com/terms.asp"><font color="#444444">terms &amp; conditions</font></a> |
-				<a href="http://www.artsonia.com/privacy.asp"><font color="#444444">privacy policy</font></a> | 
-				<a href="http://www.artsonia.com/faq.asp"><font color="#444444">FAQ</font></a>
-				&nbsp;&nbsp;&nbsp;&nbsp;
-			</font></td>
-			<td nowrap="" class="textLabel">&nbsp;&nbsp;<font color="#444444">follow us</font>&nbsp;&nbsp;</td>
-			<td><a href="http://www.facebook.com/artsonia" target="_blank"><img src="/images/icons/facebook_tiny.png" width="20" height="20" border="0"></a></td>
-			<td><a href="http://twitter.com/artsonia" target="_blank"><img src="/images/icons/twitter_tiny.png" width="20" height="20" border="0" hspace="5"></a></td>
-			<td width="100%" align="right"><font class="textLabel" style="color:#444444;">©2000-2012 Artsonia LLC. All rights reserved.</font></td>
+			<td width="50%"><div style="width:20px;height:1px;overflow:hidden;">&nbsp;</div></td>
+			<td width="950">
+				<table width="950" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr valign="middle">
+						<td align="left" nowrap=""><font class="textLabel" style="color:#999999;">
+							<a href="http://www.artsonia.com/about.asp"><font color="#ffffff">about us</font></a> | 
+							<a href="http://artsonia.wordpress.com" target="_blank"><font color="#ffffff">blog</font></a> | 
+							<a href="http://www.artsonia.com/contact.asp"><font color="#ffffff">contact us</font></a> | 
+							<a href="http://www.artsonia.com/terms.asp"><font color="#ffffff">terms &amp; conditions</font></a> |
+							<a href="http://www.artsonia.com/privacy.asp"><font color="#ffffff">privacy policy</font></a> | 
+							<a href="http://www.artsonia.com/faq.asp"><font color="#ffffff">faq</font></a>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						</font></td>
+						<td nowrap="" class="textLabel"><font color="#ffffff">&nbsp;&nbsp;&nbsp;follow us</font>&nbsp;&nbsp;</td>
+						<td><a href="http://www.facebook.com/artsonia" target="_blank"><img src="/images/icons/facebook_tiny.png" width="20" height="20" border="0" style="border:1px #fff solid;"></a></td>
+						<td><a href="http://twitter.com/artsonia" target="_blank"><img src="/images/icons/twitter_tiny.png" width="20" height="20" border="0" hspace="5" style="border:1px #fff solid;"></a></td>
+						<td><a href="http://pinterest.com/artsonia" target="_blank"><img src="/images/icons/pinterest_tiny.png" width="20" height="20" border="0" hspace="0" style="border:1px #fff solid;"></a></td>
+						<td nowrap="" align="right" width="100%"><font class="textLabel" style="color:#ffffff;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;©2000-2012 Artsonia LLC. All rights reserved.</font></td>
+					</tr>
+				</tbody></table>
+			</td>
+			<td width="50%"><div style="width:20px;height:1px;overflow:hidden;">&nbsp;</div></td>
 		</tr>
 	</tbody></table>
 	
