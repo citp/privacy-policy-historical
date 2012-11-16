@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2012-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505023218id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2012-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116013208id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="linux chrome chrome69 webkit webkit5"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="description" content=""> 
         <meta name="keywords" content=""> 
@@ -154,7 +154,33 @@
         <link rel="stylesheet" type="text/css" href="/etc/designs/city/css/ie6-and-lower.css" />
 <![endif]-->
 
+
+<link rel="stylesheet" href="/etc/designs/city/css/browsercheck.css" type="text/css">
+<script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/browsercheck.js"></script>
+<script type="text/javascript">
+ $(document).ready(function() {
+ $.reject({ 
+        reject: { msie7: true,
+                  firefox15: true,
+                  firefox11: true,
+                  firefox7: true,
+                  firefox3: true,
+                  chrome21: true,
+                  chrome20: true,
+                  chrome19: true
+         }, // Reject these browsers  
+        header: 'Dear Web User:', // Header Text  
+        paragraph1: 'This web browser version may limit the quality of your visit to the City of Chicago website. The site is internally tested and best viewed with the browsers listed below, so updating to one of these versions may improve your experience.', // Paragraph 1   
+        paragraph2: 'Select an icon to get to the download page:',
+        display: ['firefox','chrome','msie'], 
+        closeCookie: true, // Once per session
+        closeMessage: ' ', // Message below close window link 
+        closeURL: '#notification'
         
+    }); // Customized Browsers
+    return false;
+ });
+    </script>  
     </head>
     <body>
         <div class="background-image-holder" align="center">
@@ -164,7 +190,7 @@
  
 
 
-
+ 
 
  
 
@@ -253,28 +279,28 @@ a.lan:hover, a.lan:active {
     
     <script type="text/javascript">
 
-	$(document).ready(function() {
+    $(document).ready(function() {
 
-		
-		$( ".auto-search" ).autocomplete({
-			source: "/content/city/en.SuggestProxy.html", 
-			select: function( event, ui ) {
-				$(this).attr("value",ui.item.value);
-				var inputId = $(this).attr("id");
-				if(inputId != "findServicesBigSearchInput" && inputId != "city-service-search-cmp") {
-					$('#site-search').val($('#site-search').val().trim());
-					if($('#keyword').length) {
-						$('#keyword').val($('#keyword').val().trim());
-					}
-					$(this).closest("form").submit();
-				}
-			}
-		});
-		
-		if($('#site-search').val() == "Keyword") {
+        
+        $( ".auto-search" ).autocomplete({
+            source: "/content/city/en.SuggestProxy.html", 
+            select: function( event, ui ) {
+                $(this).attr("value",ui.item.value);
+                var inputId = $(this).attr("id");
+                if(inputId != "findServicesBigSearchInput" && inputId != "city-service-search-cmp") {
+                    $('#site-search').val($('#site-search').val().trim());
+                    if($('#keyword').length) {
+                        $('#keyword').val($('#keyword').val().trim());
+                    }
+                    $(this).closest("form").submit();
+                }
+            }
+        });
+        
+        if($('#site-search').val() == "Keyword") {
             $('#site-search').css('color','#809DB9');
         }
-	});
+    });
     
     </script>
     
@@ -294,10 +320,11 @@ a.lan:hover, a.lan:active {
     });
     $('#Go').click(function(){
         if($('#site-search').val() == "" || $('#site-search').val() == "Keyword") {
-        	$('#site-search').focus();
-        	return false;
+            $('#site-search').focus();
+            return false;
         }
         $('#site-search').val($('#site-search').val().trim());  
+        
     });
     </script>
 </div>
@@ -323,7 +350,7 @@ a.lan:hover, a.lan:active {
                                 <ul>
                                     <li><a href="/city/en/svcs/find.html" title="City Services Search">City Services Search</a></li>
                                     <li><a href="/city/en/svcs/servicedirectory.html" title="Service Directory (A-Z)">Service Directory (A-Z)</a></li>
-                                    <li><a href="/city/en/svcs/helpfulsvcs.html" title="Helpful Services This Time of Year">Helpful Services This Time of Year</a></li>
+                                    <li><a href="/city/en/depts/311/supp_info/request_service.html" title="Request a 311 Service">Request a 311 Service</a></li> 
                                 </ul>
                             </div>
                         </div>
@@ -446,6 +473,7 @@ a.lan:hover, a.lan:active {
                                 <ul>
                                     <li><a href="/city/en/progs/inspectionspermitting.html" title="Inspections, Permitting &amp; Licensing">Inspections, Permitting &amp; Licensing</a></li>
                                     <li><a href="/city/en/progs/emp.html" title="Jobs">Jobs</a></li>
+                                    <li><a href="/city/en/progs/municipal_marketing.html" title="Municipal Marketing">Municipal Marketing</a></li>
                                     <li><a href="/city/en/progs/recovery_reinvest.html" title="Recovery &amp; Reinvestment (Stimulus)">Recovery &amp; Reinvestment (Stimulus)</a></li>
                                     <li><a href="/city/en/progs/safety.html" title="Safety">Safety</a></li>
                                     <li><a href="/city/en/progs/tax.html" title="Taxes">Taxes</a></li>
@@ -521,7 +549,8 @@ a.lan:hover, a.lan:active {
                         <div class="megacolumn">
                             <div class="megacolumn-content">
                                 <ul>
-                                    <li><p>&nbsp;</p></li>                             
+                                    <li><p>&nbsp;</p></li>    
+				    <li><a href="/city/en/depts/olig.html" title="Legislative Inspector General">Legislative Inspector General</a></li>                          
                                     <li><a href="/city/en/depts/lac.html" title="License Appeal Commission">License Appeal Commission</a></li>
                                     <li><a href="/city/en/depts/mopd.html" title="People with Disabilities">People with Disabilities</a></li>
                                     <li><a href="/city/en/depts/cpd.html" title="Police">Police</a></li>
@@ -584,8 +613,8 @@ a.lan:hover, a.lan:active {
 
 <div id="content-container">
     <div id="left-column">
-        <div class="left-module"> 
-            
+    	<div class="left-module"> 
+    		
 
 
 <div class="dotted-white"></div>
@@ -602,7 +631,7 @@ a.lan:hover, a.lan:active {
 </ul>
 
 <div class="dotted-white"></div>
-        </div>
+    	</div>
     </div>
     
     <div id="two-column-top"></div>
