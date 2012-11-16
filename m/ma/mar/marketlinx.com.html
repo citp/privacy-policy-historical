@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketlinx.com privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516130707id_/http%3A//www.corelogic.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketlinx.com privacy policy that was archived on 2012-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116061917id_/http%3A//www.corelogic.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     
@@ -14,9 +14,12 @@
     <link rel="stylesheet" type="text/css" href="/css/global.css" media="all"><link rel="stylesheet" type="text/css" href="/css/productnav.css" media="all"><link rel="stylesheet" type="text/css" href="/css/print.css" media="print"><link rel="stylesheet" type="text/css" href="/css/jquery.fancybox-1.3.1.css" media="all">
 
     <!-- Default JS -->
-<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript" charset="utf-8"></script>-->
+    <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript" charset="utf-8"></script>-->
     
-    <script type="text/javascript" src="/js/jquery-1.4.min.js"></script>
+    
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+    
+    
     
     <script type="text/javascript" src="/js/swfobject.js"></script>
     
@@ -67,8 +70,8 @@
             <meta name="DCSext.WT_UPID" content="CL-3058">
         
     <!-- /Webtrends -->     
-   
-<meta name="DCSext.WT_FPCID"><meta name="Version Build Date" content="1.0.4497.26842 4/24/2012 3:54 PM"><title>
+
+<meta name="WT.mc_id"><meta name="DCSext.WT_FPCID"><meta name="Version Build Date" content="1.0.4609.28115 8/14/2012 3:37 PM"><title>
 	CoreLogic - Privacy Policy and European Union Safe Harbor Privacy Policy
 </title></head>
 <body>
@@ -81,9 +84,9 @@
     <div id="wrapper">
       
        <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjM0Njk5MDMxZGRfSuhKuFg1P6jJROy/D4vFXLSBbetDsbe+PzuVd92dYA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjM0Njk5MDMxZGSJDeYdqa/lLI4Mxd1iCuHyMXp3GbiTMsH5F6fZEszWSQ==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALvqae3CgKxu+H/BAKamJOwCAKx3o+TDP1TpDEreBivxoLXFDJUePrHutcVWcrzomN609m2Ifml">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK6+oXeCAKxu+H/BAKamJOwCAKx3o+TDPs6/eObqaRtF+WmW7yF2jOg6W2mmKF27TEO5aPXnjkT">
       
         <div id="sub-wrapper">
             <div id="header">
@@ -121,26 +124,61 @@
 
 
 
-            
-                
-                 <div id="ctl00_SiteSearch_Panel">
-	
-                    <fieldset id="site-search">
-                        <legend class="accessibility">Site Search</legend>
-                        <label for="ctl00_SiteSearch_txtSearch" id="ctl00_SiteSearch_Label">Search</label>
-                        <div id="divAutoComplete">
-                            <input name="ctl00$SiteSearch_txtSearch" type="text" id="ctl00_SiteSearch_txtSearch">
-                            <div id="divContainer"></div>
-                        </div>
-                        <button value="Go" type="submit" name="ctl00$btnGo" id="ctl00_btnGo">Go</button>
-                    </fieldset>
 
+<div id="ctl00_SiteSearch_Panel">
+	<fieldset id="site-search"><legend class="accessibility">Site
+Search</legend><label for="ctl00_SiteSearch_txtSearch" id="ctl00_SiteSearch_Label">Search</label><div id="divAutoComplete"><input name="ctl00$SiteSearch_txtSearch" type="text" id="ctl00_SiteSearch_txtSearch"><div id="divContainer"></div></div><button value="Go" type="submit" name="ctl00$btnGo" id="ctl00_btnGo">Go</button></fieldset>
+
+<!-- 
+szSuggestions = ""
+set objList2 = system.createList()
+Do While objList.NextEntry()
+'additional filter rules here
+if objList.item("exclude_from_sitemap") <> "yes" then
+set fields = system.createDictionary()
+fields.add "assetId", objList.item("_cmsId")
+fields.add "assetName", objList.item("_cmsLabel")
+fields.add "assetTemplateId", objList.item("_cmsTemplateId")
+strTemp = asset.getLabel(objList.item("_cmsTemplateId"))
+fields.add "assetTemplateName", strTemp
+'add sort
+if instr(1,strTemp,"Landing Page",1) then
+strSort = "1"
+elseif instr(1,strTemp,"Product",1) and strTemp <> "Product Segmentation" then
+strSort = "2"
+elseif strTemp = "Product Segmentation" or strTemp = "Solution" then
+strSort = "3"
+elseif strTemp = "Research Pages" then
+strSort = "4"
+elseif instr(1,strTemp,"Event",1) then
+strSort = "5"
+else
+strSort = "6"
+end if
+fields.add "sort", strSort
+objList2.addEntry(fields)
+end if
+Loop
             
-            <script type="text/javascript">
-                searchSuggestions = ["2010 Annual Report", "4506-T Direct", "AgentAchieve Training", "Alternative Credit Reporting", "Approved Denied Verified", "Authenticate Plus - An Intelligent Identity Checking Solution", "Automotive Credit Reporting", "Careers", "Celebrate the season of giving", "Changes in the Way Social Security Numbers Are Assigned Will Effect Some Aspects of CoreLogic Teletrack Reporting", "ChexSystems data now available in combination with CoreLogic Teletrack industry-leading credit risk assessment tools", "Collections Alert from CoreLogic SafeRent", "Commercial Market Monitor - Regional", "Commercial Real Estate Data and Analytic Capabilities", "Community Relations", "Consumer Banking Solutions", "Consumer Services - Joint Marketing Program", "Core Collector", "CoreLogic Dorado", "CoreLogic SafeRent", "CoreLogic SafeRent - Client Services", "CoreLogic SafeRent - Colorado Statewide Criminal Search", "CoreLogic SafeRent - CrimSafe Tri-State Maryland-DC-Virginia", "CoreLogic SafeRent - Illinois Criminal Searches", "CoreLogic SafeRent - Indiana Statewide Criminal Search", "CoreLogic SafeRent - Iowa-Nebraska Statewide Criminal Search", "CoreLogic SafeRent - Multi-State Sex Offender Registry Search", "CoreLogic SafeRent - Southern California Multi-County Criminal Search", "CoreLogic SafeRent - Upgrade Bundle for Criminal Screening", "CoreLogic SafeRent - Upgrade Your Criminal Screening Services", "CoreLogic SafeRent Ad Information Request", "CoreLogic SafeRent Email Information Request", "CoreLogic Services, LLC", "CoreLogic Teletrack - Cheklist", "CoreLogic Teletrack - Credit Reports", "CoreLogic Teletrack - Currents", "CoreLogic Teletrack - Welcome", "CoreLogic Teletrack UK", "CoreScore Credit Report from CoreLogic Credco", "CoreScore for Consumers", "CoreScore for Lenders", "Corporate Social Resposibility", "Credit Union Solutions", "Data", "Data & Analytics Licensing", "Default Servicing Platform", "Default Servicing Reform", "Default Servicing Solutions", "DefaultView Home", "DefaultView Overview", "DefaultView Resources", "Direct Marketing Data Solutions", "Direct Marketing Solutions - Non Profits", "Direct Marketing Solutions for Academic Institutions", "Diversity", "Dodd Frank Act Impact on Lenders", "FHA Post-Sale Solution", "Fight Fraud, Lower Costs and Increase Compliance Efficiency", "FinalCheck for Small and Midsize Lenders", "Flood and Tax Solutions for Lenders of Any Volume", "Flood Services", "Flood Services - Newsletters and Alerts", "Fraud and Risk Consulting Services", "Fraud Management", "Freddie Mac Home Value Suite", "Geospatial Partner Solutions", "Getting a clear view of potential portfolio riskbr - is the first step in managing it", "HARP 2.0 - Are you Ready", "HARP 2.0 Services For Ellie Mae", "HARP 2.0 Services For Lenders One", "HOA Code", "Hurricane Irene - Flood Risks Outside FEMA High-Risk Flood Zones", "Hurricane-driven storm surge flooding", "iGetting Smart the Importance of Analytics and Underwriting-i webinar facilitated by the Online Lenders Alliance", "Improve Emergency Planning and Response with County Specific Solution from CoreLogic", "Index", "Individual Residential Tax Reporting Service Order Form", "Industry-Specific Credit Risk Model", "Insurance Solutions", "Intelligent Field Services. Smarter Default Servicing", "Introducing IntelliMods", "Legal entity name change update", "Lending Solutions", "Lien360 Suite", "Mark Fleming's Testimony to Capital Markets and Government Sponsored Enterprises Subcommitee", "Master Page - Custom", "MBA National Mortgage Servicing Conference & Expo", "Mitigate Risk. Reduce Costs. Save Time", "MLS Solutions", "Morganza Spillway", "Mortgage Credit Reporting", "Mortgage Default Management", "New Diligence for Capital Markets", "New Diligence for Due Diligence", "New Diligence for Whole Loans", "OnSite", "OnSite From CoreLogic", "Optimize Lease Performance", "Origination Capacity", "Origination Solutions", "Our Company", "OwnerConnect", "Parcel Data for Utilities", "Pick a Favorite, or Two", "Proactive Short Sales", "products-and-solutions.aspx", "Property and Casualty Insurance", "Property and Casualty Insurance Solutions", "Property Information & Analytics", "Property Tax Services", "Real Estate Analytics", "Real Estate Broker Tool Set", "Rental Screening Analytics", "REO Services Client Portal", "REO-to-Rental Data Offering", "Review of Reporting Requirements", "Section index", "Servicing", "Solutions for Title Company's Clients", "Spatial Solutions", "Supplier Information", "Test Crim Upsell Form Fields", "The Next Generation of Fraud Management", "The True Price of Flipping $310 million", "Title Insurance", "TransUnion Data & Scores Available Through Integration with CoreLogic Teletrack", "Valuation & Collateral Risk", "Verify Borrower Income on Mortgage Builder Now!", "World Class Data Centers for a World Class Company", "3 Day Disclosure Packages", "4506-T Direct", "Accelerated Tax Set-Up", "Account Monitoring", "AgentAchieve", "Anthem Report", "Appraisals", "AppraiserSuite", "ARM Audit & Repair", "Assignment Preparation", "Assignment Services", "Automated Valuation Models (AVM)", "Automotive Credit Disclosures", "Automotive Credit Report", "Automotive OFAC Screening", "Bank Account Validation", "Bank Data for Collections", "Batch and Append Database Services", "Bond Analytics Solutions", "Broker Certification Services", "Broker Document Management Solutions", "Broker Price Opinions (BPO)", "Builder Report", "BuyerID Index", "Capital Markets Services", "CATUM", "Census Tract Data", "Check Cashing Solutions", "Claims Management Services", "CMAX - Claims Processing Software", "Collectibility Models", "Commercial Evaluation Services", "Commercial Tax Payment Services", "Commercial Tax Service Solutions", "Consumer Credit Monitoring", "Consumer Credit Reports", "Consumer Credit Scores", "Contact or Call Center Services", "CoreLogic HPI", "CoreLogic HPI Forecast", "CoreScore Credit Report", "County Natural Hazard Data Sets", "Credit Advantage", "Credit Score Disclosure with Notice to Home Loan Applicant", "CreditMaster", "CreditXpert Credit Tools", "Custom Data Solutions", "Customer Service Dispute Assistance", "Customer Service Retention", "DATA ASSIST and Retro DATA ASSIST", "Data Repository Solutions", "Data Solutions", "DebtorTrace", "Default and REO Valuations", "Desktop Valuations", "Direct Mail Campaigns", "DocPrep Closing Package", "Document Retrieval Services", "Driving Records", "Due Diligence & Advisory Services", "Elevation, Slope and Aspect (10 meter grid data)", "ENCORE", "Enhanced Value Reconciliation Report", "ePostClosing", "ePropertyWatch", "Escrow Reporting (Tax Amount Reporting) - Basic Tax Service", "FEMA Flood Maps", "FHA-Compliant Appraisal Solutions", "FinalCheck", "Fire Station Locations", "FIREbreak+ (Wildland-Urban Interface)", "Flood Compliance Servicing", "Flood Determination Services", "Flood Risk Score", "Fraud Activity Report", "Fraud and Identity Verification", "Fraud Restoration", "GeoAVM Cascade Suite", "GeoAVM Distressed", "Geospatial Databases", "Hail Risk", "Hazard Analytics", "HistoryPro Review", "HomeStandings", "HPA Home Price Analyzer", "Hybrid Valuations", "iClear Electronic Invoicing", "Identity Authentication", "Identity Verification Solutions", "IdentityPro", "IncomeAdvisor", "IncomePro", "Instant Merge", "Instant Merge - SoftTouch", "InstantData", "InstantData for RESPA", "IntelliMods", "Jenark Property Management Software", "Legal and Vesting", "Legal BPO", "Lien Release Preparation and Recordation", "LienWatch", "ListSource", "Loan Modification Solutions", "Loan Production Data Entry and QC", "LoanSafe 2.0", "LoanSafe Appraisal Manager", "LoanSafe Collateral Manager", "LoanSafe Fraud Manager", "LoanSafe Risk Manager Suite", "MapTrak", "Marcellus Shale Data Suite", "Market Trends", "MarketLinx Consumer MLS Websites", "MarketLinx Document and Transaction Managers", "MarketLinx Fusion", "MarketLinx InnoVia", "MarketLinx Matrix", "MarketLinx MLS Data Checker", "MarketLinx MLS Data Co-op", "MarketLinx MLXchange & TEMPO", "MarketLinx Mobile Search & Edit", "MarketLinx Partner InfoNet", "MarketLinx Revenue Programs", "MarketLinx Statistics Professional", "Marketrac", "Match and Append Services", "Merge Plus", "MetroScan Online", "MLS Data-Driven Solutions", "MLX Professional", "Mortgage Rating Only", "Multi-Closing Alert Program", "Municipal Boundaries", "Natural Hazard Databases", "Natural Hazard Reports", "Natural Hazard Risk Solution", "Non-Traditional Credit Report", "Non-Traditional Credit Scoring", "OnSite", "OwnerConnect", "ParcelPoint Technology", "PASS", "PASS Prospector", "PeopleLocation", "PMI Release Outsourcing and Valuations", "Portfolio Credit Review", "Portfolio Risk Audit", "Portfolio Value", "PowerBASE 6", "Precision Marketing Solutions", "PreQual Credit Report", "PreQualPro", "Proactive Short Sales", "Property Inspection Services", "Property Listing Verification", "Property Preservation Services", "ProScan Alert", "ProScan ID", "ProScan Index", "ProScan IQ", "ProScan OFAC", "Prospect Monitoring", "Public Record Data", "PxPoint Geocoder", "Rapid ReCheck", "Realist - Combining Public record and Tax data with MLS Listings", "RealQuest", "Red Flag Manager", "Red Flag Solution", "Red Flag Summary", "Redemption Reporting", "Refinance-Related Loan Determination", "Regulatory Compliance Databases", "REiSource", "REM (Real Estate Market) Reports", "REO Services", "REOWatch", "Residential Evaluation Report", "Residential Mortgage Credit Report (RMCR)", "RETS Professional", "Reverse Mortgage Loan Production", "ReverseAlert", "RiskModel", "SafeRent Benchmarking", "SafeRent Criminal Screening", "SafeRent Lease and Document Generation", "SafeRent Renters Insurance", "SafeRent Resident Screening", "Short Sale Monitoring Solution", "Sinkhole Risk Layer", "Site US Tax", "Special Properties Basic Determination", "SSN Confirm", "Storm Surge", "Surveillance Manager", "Tax Databases", "Tax Outsourcing", "TaxWatch", "TaxWatch for VendorScape", "Third Party Administration Services", "Title Policy Retrieval", "Traditional Credit Reports & Scores", "TrueLTV", "TrueStandings Securities", "TrueStandings Servicing", "U.S. River Flood and Storm Surge Model", "Value Reconciliation", "Value Trends", "ValueMap", "ValuePoint4 (VP4)", "ValueView Inspection", "ValueView Inspection + AVM", "Vector", "Vector Securities", "VendorScape Case Loss Mitigation", "VendorScape Case Management System (VSCMS)", "Verification of Employment (VOE)", "Verification of Military Status", "Win2Data", "Wind and Hail Risk", "Xiance Desktop", "2011 Mortgage Fraud Trends Report", "2011 Natural Hazard Risk Summary and Analysis Report", "2012 Mortgage Fraud Consortium", "Automated Valuation Model Testing", "Automated Valuation Testing", "AVM Cascade White Papers", "Commercial Market Monitor", "Commercial Market Monitor - Midwest", "Commercial Market Monitor - Northeast", "Commercial Market Monitor - Southern", "Commercial Market Monitor - Western", "CoreLogic Distressed Sales Report - April 8 2010", "CoreLogic Economic Market Update - Webinar", "CoreLogic Economic Market Update for Insurance Professionals - Webinar", "CoreLogic HPI Forecasts - Webinar", "CoreLogic Mortgage Fraud Prevention and Detection Resource Guide", "Data Coverage Report", "HOA & Code Negotiation - Whitepaper", "Home Price Index", "How Loan-Level Insight Can Lead the Way to Resolving the RMBS Crisis", "MarketTrends - Emerging Real Estate Market Trends - Webinar", "Multifamily Applicant Risk Index", "National Foreclosure Report", "Navigating the New Secondary Residential Mortgage Market", "Negative Equity Report", "OnSite From CoreLogic - Webinar", "Positive Equity Report", "Real Estate Analytic Suite ListingTrends Market Update Webinar", "RiskModel Webinar Recalibrated for Today's Risks", "RiskSummit 2011 Presentations", "Servicing Management Article by Mark Fleming", "Shadow Inventory", "Short Sale Study", "Solutions for Uncertain Times Webinar", "Spatial Solutions - Managing Wind and Hail Risk", "Spatial Solutions-Oil & Gas Whitepaper", "Spatial Solutions-Tax Whitepaper", "Spatial Solutions-Telecom Whitepaper", "Spatial Solutions-Utilities Whitepaper", "Storm Surge Report 2010", "The 2011 Storm Surge Report", "The AVM Industry", "The MarketPulse", "The State of the Nation's Housing 2011", "The Triage Approach To Estimating Value", "Tornado and Hail Risk Beyond Tornado Alley", "Uncovering Fraud In Non-performing Loans", "Valuation Opinions - Sometimes Less Is More", "Vector Securities Webcast", "Wharton Report - Potential for Private Flood Insurance Market in Texas", "White Paper The Next Generation of Fraud Management", "2011 Boston Symposium", "2011 Charlotte Symposium", "2011 Chicago Symposium", "2011 Cincinnati Symposium", "2011 Dallas Symposium", "2011 MBA Servicing Conference", "2011 Minneapolis Symposium", "2011 National Settlement Services and Compliance Summit", "2011 New York Symposium", "2011 RE-MAX Broker Owner Conference", "2011 Real Estate & Technology Conference - Technology Track", "2011 Real Estate & Technology Conference - Vendor-Broker Track", "2011 Washington DC Symposium", "2012 Association Executives Institute", "2012 InnoVia User Group Summit", "2012 MLS User Group Summit", "2012 Mortgage Fraud Consortium Members' Meeting", "2012 National Association of REALTORS Midyear Trade Expo", "2012 REALTORS Conference & Expo", "ABA Annual Convention", "ABS East", "ABS East 2010", "ACUMA 2011 Fall Conference", "AD&Co's 19th Annual Conference", "ALTA Annual Convention", "Clareity MLS Executive Workshop", "CMLS 2012", "DMA2011", "Events", "Events Archive", "FICO World", "Inman Real Estate Connect", "IRWA - 2011 Annual International Education Conference", "MarketTrends Emerging Real Estate Market Trends", "MBA Annual 2011", "MBA's Mortgage Operations Conference 2011", "MBA's National Mortgage Servicing Conference & Expo", "MBA's National Mortgage Technology and Fraud", "MBA's Quality Assurance & Residential Underwriting Conference 2011", "MBAs CREF-Multifamily Housing Convention & Expo 2012", "MERS 2011 User Conference", "Mortgage Fraud Consortium Spring 2011 Members' Meeting", "NAMIC", "NAR - REALTORS Conference & Expo", "National Secondary Hosted Dinner Reception", "NCSHA 2011 Annual", "Post-Closing & Servicing Symposium", "RiskSummit 2009 Attendees", "RiskSummit 2010", "RiskSummit 2010 Agenda", "RiskSummit 2011", "RiskSummit 2012", "Symposium Series 2010", "Symposium Series 2011", "Symposium Series 2012", "Valuation Expo", "Visit Us at ASF 2012", "Visit Us at National Secondary", "Automotive", "Capital Markets", "Consumer Lending", "Contact Us", "Diversity", "Family of Sites", "Government", "Insurance", "Legal", "Mortgage - Commercial", "Mortgage - Residential", "Oil & Gas", "Real Estate - Commercial", "Real Estate - Multifamily", "Real Estate - Residential", "Research and Trends", "Retail", "Technology", "Telecommunications", "Utilities"];
+objList2.sort "sort asc, assetName asc"
+curItem = ""
+Do While objList2.NextEntry()
+if asset.getLink(objList2.item("assetId")) <> "" and curItem <> objList2.item("assetName") then
+curItem = objList2.item("assetName")
+szSuggestions = szSuggestions & ", """ & Replace(objList2.Item("assetName"), """", "") & """"
+end if
+Loop
+            if Len(szSuggestions) > 0 then 
+                szSuggestions = Right(szSuggestions, Len(szSuggestions) - 2)
+            end if
+Set objList = Nothing
+            Set objFilter = Nothing
+           --><!--
+   <script type="text/javascript">
+                searchSuggestions = [];
 
                 CoreLogic = function() {
-                    var oDS = new YAHOO.util.LocalDataSource(searchSuggestions);
+                 /*   var oDS = new YAHOO.util.LocalDataSource(searchSuggestions);
                     oDS.responseSchema = {
                     fields: ["sugestions"]
                     };
@@ -149,14 +187,12 @@
                     var oAC = new YAHOO.widget.AutoComplete(txtSearch, "divContainer", oDS);
                     return {
                       oDS: oDS,
-                      oAC: oAC
+                      oAC: oAC */
                     };
                   } ();
-              </script>  
-             
-            
+              </script> -->
+
 </div>
-            
             
             </div>
             <!-- /header -->
@@ -171,11 +207,13 @@
             <li class="home-crumb"><a href="/default.aspx">Home</a></li>
                <li>Privacy</li>
         </ol>
-           <ul>
-           
-                <li class="send-to-friend"><a title="share a link to this page via email" href="mailto:?subject=CoreLogic%20Information&amp;body=http://www.corelogic.com/privacy.aspx">Send to Friend</a></li>
-            
-           </ul>
+        
+            <ul>
+                
+                    <li class="send-to-friend"><a title="share a link to this page via email" href="mailto:?subject=CoreLogic%20Information&amp;body=http://www.corelogic.com/privacy.aspx">Send to Friend</a></li>
+                
+            </ul>
+        
     </div>
 			       
 	    <div>
@@ -341,7 +379,7 @@
 
 <p>Richard Miller, Compliance and Privacy Officer</p>
 
-<p>4 First American Way, Santa Ana, CA 92707</p>
+<p>40 Pacifica, Ste. 900 Irvine, ca 92618</p>
 
 <p><a href="mailto:richardmiller@corelogic.com">richardmiller@corelogic.com</a></p>
 
@@ -459,8 +497,8 @@
 
 <p>CoreLogic, Inc.<br>
 Attn: Compliance and Privacy Officer<br>
-4 First American Way<br>
-Santa Ana, CA 92707<br>
+40 Pacifica, Ste. 900<br>
+Irvine, ca 92618<br>
 United States of America<br>
 (714) 250-6486</p>
 
@@ -480,7 +518,7 @@ United States of America<br>
                 <ul class="footer-links">
                     
                         <li>
-                            <a href="/about-us/contact-us.aspx">Contact Us</a>
+                            <a href="/about-us/contact-us.aspx">Contact Us - (800) 426-1466</a>
                         </li>
                     
                         <li>
@@ -606,9 +644,11 @@ United States of America<br>
                                         
                                         <li><a class="" href="/landing-pages/direct-marketing-data-solutions.aspx" target="_self">Direct Marketing</a></li>
                                         
-                                        <li><a class="" href="/products/due-diligence-advisory-services.aspx" target="_self">Due Diligence &amp; Advisory Services</a></li>
+                                        <li><a class="" href="/landing-pages/corelogic-advisory-services.aspx" target="_self">Advisory Services</a></li>
                                         
-                                        <li><a class="" href="/landing-pages/flood-services.aspx" target="_self">Flood Data Services</a></li>
+                                        <li><a class="" href="/landing-pages/flood-services.aspx" target="_self">Flood Services</a></li>
+                                        
+                                        <li><a class="" href="/landing-pages/location-information.aspx" target="_self">Location Information</a></li>
                                         
                                     </ul>
                                 </li>
@@ -626,6 +666,8 @@ United States of America<br>
                                         
                                         <li><a class="" href="/landing-pages/origination-solutions.aspx" target="_self">Mortgage Origination Services</a></li>
                                         
+                                        <li><a class="" href="/landing-pages/natural-hazard-risk.aspx" target="_self">Natural Hazard Risk</a></li>
+                                        
                                         <li><a class="" href="/landing-pages/property-information-analytics.aspx" target="_self">Property Information &amp; Analytics</a></li>
                                         
                                     </ul>
@@ -639,8 +681,6 @@ United States of America<br>
                                         <li><a class="" href="/landing-pages/real-estate-analytics.aspx" target="_self">Real Estate Analytics</a></li>
                                         
                                         <li><a class="" href="/landing-pages/rental-screening-analytics.aspx" target="_self">Rental Screening &amp; Analytics</a></li>
-                                        
-                                        <li><a class="" href="/landing-pages/spatial-solutions.aspx" target="_self">Spatial Analysis</a></li>
                                         
                                         <li><a class="" href="/landing-pages/corescore-credit-report-from-corelogic-credco.aspx" target="_self">Supplemental Credit Data</a></li>
                                         
@@ -686,11 +726,9 @@ United States of America<br>
                                         
                                         <li><a class="" href="/about-us/news.aspx" target="_self">News</a></li>
                                         
-                                        <li><a class="" href="/about-us/research-and-trends.aspx" target="_self">Research and Trends</a></li>
+                                        <li><a class="" href="/about-us/research.aspx" target="_self">Research</a></li>
                                         
                                         <li><a class="" href="/about-us/supplier-information.aspx" target="_self">Supplier Information</a></li>
-                                        
-                                        <li><a class="" href="/about-us/technology.aspx" target="_self">Technology</a></li>
                                         
                                     </ul>
                                 </li>
@@ -750,11 +788,22 @@ United States of America<br>
 
 
 
+         <!--Live Start Demandbase TAG -->
+
+
+            <script type="text/javascript" src="https://dkj2m377b0yzw.cloudfront.net/clients/javascript/demandbase-1.0.0-min.js"></script>
+
+            <script type="text/javascript">
+                var db_client = new DemandbaseClient("2fe6049b3bce143a3d0fca74e9b14e54673a545e");  //instantiate the Demandbase client, passing API key
+                db_client.ip();    //return API key and visitor IP to Demandbase
+            </script>
+
+        <!--Live End Demandbase TAG -->
 
 
 
             <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-            <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=215&amp;ref2=elqNone&amp;tzo=0&amp;ms=282" border="0" width="1" height="1"></layer>
+            <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=215&amp;ref2=elqNone&amp;tzo=0&amp;ms=825" border="0" width="1" height="1"></layer>
             <script type="text/javascript" language="JavaScript"><!--                //
                 var elqPPS = '70';
              //--></script>
@@ -780,33 +829,16 @@ United States of America<br>
               }
             </script>
            
+
+            <!-- The purpose of the iframe is to deal with the delay of the Eloqua cookie retriving function download -->
+           <iframe src="/elqnow/waitForGUID.htm" width="0" height="0"></iframe> 
+
            <script type="text/javascript" language="JavaScript">
-               if (document.getElementById('ctl00_PageContent_InputForm0_hiddenMarketingAddressList0_hidden').value != "") {
-                   function initPage() {
-                       if (this.GetElqCustomerGUID) {
-                           document.getElementById('ctl00_PageContent_InputForm0_elqCustomerGUID0_hidden').value = GetElqCustomerGUID();
-                       }
-                       else {
-
-                           var i = getCookie1("elqCount");
-                           if (i != null && i != "") {
-                               i = parseInt(i);
-                               if (i <= 5) {
-                                   i += 1;
-                                   setCookie1("elqCount", i);
-                                   window.location.reload();
-                               }
-                           }
-                           else {
-                               setCookie1("elqCount", 1);
-                               window.location.reload();
-                           }
-                       }
-
-                   }
-                   window.onload = initPage;
+               function populateEloquaGUID(eloquaGUID) {
+                   document.getElementById('ctl00_PageContent_InputForm0_elqCustomerGUID0_hidden').value = eloquaGUID;
                }
-            </script>
+           </script>
+
         
 
 
