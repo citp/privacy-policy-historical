@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestnigerianjobs.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517004323id_/http%3A//latestnigerianjobs.com/sitemap/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestnigerianjobs.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117132025id_/http%3A//latestnigerianjobs.com/sitemap/privacy) for the most accurate reproduction.*
 
 # Privacy | LatestNigerianJobs.com – Jobs in Nigeria, Vacancies, NaijaHotJobs and Careers Nigeria 2011
 
