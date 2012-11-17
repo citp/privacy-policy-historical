@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519153923id_/http%3A//www.zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117071047id_/http%3A//www.zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# free classified ads, classifieds, post a free ad, buy & sell , online advertising
+# Free Classified Ads, Classifieds Advertising - Free Classifieds
 
 You can change the text for this page by accessing the following menu in the admin panel:  
 Design > Templates > main_page > extra_pages
