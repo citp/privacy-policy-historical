@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazada.com.my privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609005749id_/http%3A//www.lazada.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.com.my privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117020107id_/http%3A//www.lazada.com.my/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lazada.com.my
+# Lazada - Privacy Policy | Lazada.com.my
 
 **Collection of Personal Information**  
 LAZADA does not sell, share or trade customers personal information collected online with third parties.
