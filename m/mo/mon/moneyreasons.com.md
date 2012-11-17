@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyreasons.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622162655id_/http%3A//www.moneyreasons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyreasons.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117070159id_/http%3A//www.moneyreasons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Money Reasons
+# Privacy Policy
 
 ### MoneyReasons.com Privacy Policy
 
@@ -19,5 +19,3 @@ As with most other websites, we collect and use the data contained in log files.
 We also use third party advertisements on Moneyreasons.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-Disclaimer: This site is for informational and entertainment purposes only, and the content herein should not be mistaken for professional financial advice. It is highly recommended that you seek advice from a professional for serious financial matters. This site and its author may be compensated for expressing personal opinions regarding featured products and services. 
