@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117003410id_/http%3A//www.ratestogo.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117164232id_/http%3A//www.ratestogo.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -153,7 +153,7 @@ While being transmitted over the Internet, your credit card details are protecte
 
 We endeavor to ensure that Personal Information is as accurate, complete and current as necessary for the purposes for which we use that information. If you are a Member, we encourage you to visit your member profile tab to review your Personal Information. All Users of the Web Site may request access to, update of correct Personal Information we hold about them by emailing us at privacy@RatesToGo.com.
 
-At any time, RatesToGo Members can view and/or update all the Personal Information in their member profile. To do so, login on the [Membership Homepage](http://www.hotelclub.com/membership.asp) and click on "My Account" to view and/or make the required changes. Should you wish to cancel your membership with RatesToGo, simply notify us by sending an email to our Customer Service Centre.
+At any time, RatesToGo Members can view and/or update all the Personal Information in their member profile. To do so, login on the [Membership Homepage](https://www.ratestogo.com/account/myprofile) and click on "My Account" to view and/or make the required changes. Should you wish to cancel your membership with RatesToGo, simply notify us by sending an email to our Customer Service Centre.
 
 If you request that we remove all of the Personal Information or travel records stored in “My Account”, we will promptly do so. Once required Personal Information is removed, however, you will not be able to use many of the services available on our Web Site to Members, unless you re-register.
 
@@ -199,4 +199,4 @@ If we decide to change this policy in a material way, we will obtain the necessa
 
 If you have any concerns or queries about the Privacy Policy of RatesToGo or would like more information, please contact us on [privacy@RatesToGo.com](mailto:privacy@RatesToGo.com). We will attempt to respond to all reasonable concerns or inquiries sent to this email address within thirty (30) business days of receipt or as required by applicable law. If we receive your request at a different email address, we will respond within a reasonable period of time.
 
-**CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go our [Customer Service Center](http://www.ratestogo.com/faq.asp).
+**CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go our [Customer Service Center](http://faq.ratestogo.com/).
