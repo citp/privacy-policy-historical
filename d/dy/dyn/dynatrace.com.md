@@ -1,188 +1,124 @@
-> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603121928id_/http%3A//www.dynatrace.com/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117055242id_/http%3A//www.compuware.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy - dynaTrace software
+# Privacy Statement | Compuware
 
-_Last Update: September 1st, 2009_
+Compuware Corporation respects your right to privacy and is committed to protecting it.  In order to provide you with relevant information, respond to your requests and increase the benefits you receive when visiting our website(s), we may request information about you. We want you to feel secure when providing such information to us and this Privacy Statement is intended to inform you about the type(s) of information we gather and how we use it.  The Statement applies to information collected by Compuware.
 
-**1\. Scope**
+  * The Collection of Personal Data
+  * How We Use the Information Collected
+  * Cookies
+  * Opt-out
+  * Links to Non-Compuware Websites
+  * Commitment to Data Security
+  * European Union Safe Harbor Certification
+  * Public Forums
+  * Online Job Applications
+  * Issue Resolution
 
-This Privacy Notice applies to all dynaTrace Web sites. dynaTrace’ strategy regarding privacy and personal information is to protect the personally identifiable information (PII) of its customers, business partners, and employees that is in its possession at any given time within its organization. This protection also applies to any PII collected, used or retained by dynaTrace in its dealings with third parties.   
 
 
-dynaTrace has the responsibility to ensure compliance with applicable privacy legislation when identifying purposes, obtaining consent, providing notice, or responding to access requests or complaints regarding the collection, use, or disclosure of personal information.
+### The Collection of Personal Data
 
-dynaTrace will act responsibly while collecting, using, and disclosing personal information, as this is a prerequisite to continued customer, partner, and employee confidence and loyalty.   
+You may visit a Compuware website without identifying yourself or sharing any personal information.  Compuware does collect certain domain information in order to improve and customize your experience on its site(s).  Specifically, Compuware may collect the following types of information when you use any Compuware or Compuware-affiliated website:
 
+  * Information you provide directly, including personally identifiable information, when you complete an online registration form for offers, events, user groups, training, trials, demos, etc. or submit an inquiry via email, direct mail, phone or fax.
+  * Information you provide directly, including personally identifiable information, by submitting an online job application.Usage data, collected via Google Analytics, such as IP address, web browser type/version, operating system and website visit information such as date, time and pages viewed.
+  * Click-through information related to Compuware emails and banner advertisements.
+  * Aggregate, non-personally identifiable information, such as the number of weekly visits or page views to a Compuware website.
 
-In accordance with the Generally Accepted Privacy Principles (GAPP) derived from the Fair Information Practices of the Organization for Economic Co-Operation and Development (OECD), dynaTrace will demonstrate compliance with its privacy policies through the creation and enforcement of such policies and other supporting documentation.   
 
 
-**2\. Collection and Use of Personal Information**
+Top
 
-You may choose to provide personal information through our web sites. Here are the ways in which you may provide the information and the types of information you may submit. We also provide below some information on how we may use the information.   
+### How We Use The Information Collected
 
+**General:**   
 
-**_2.1 Contact Us_**
+Compuware may use usage data in aggregated form to: 
 
-If you communicate with us through the “Contact Us” link on our web sites, we may ask you for information such as your name, email address and telephone number so we can respond to your questions and comments. We also may use the information you provide to evaluate the quality of our products.    
+  * Measure the website's performance and activity as well as improve the website's design and functionality. 
+  * Work with third-party consultants to develop and distribute statistical and general information to best understand how our customers use the website. Investigate and prosecute security violations.
 
 
-**_2.2 Request a Quote_**
 
-If you request a quote from us, we ask you to provide details such as your name, email address, telephone number and details of the relevant product. We use your details to prepare and send you a quote. You may also choose to provide additional comments and requests through our free text box.    
+**Compuware Online Communications:**
 
+Compuware will use personally identifiable information, such as name, title, company, and email or other address, to communicate special promotions, events and announcements. This information may also be used to provide the products or services requested, respond to support needs, and/or provide additional information regarding Compuware products or services. If you do not wish to receive future promotional information and material from Compuware, you are offered the option to opt-out of upcoming communications.
 
-**_2.3 Online Order, Product Registration, Customer Account_**
+Please note that we do not knowingly solicit information from children nor do we knowingly market our products and services to children.
 
-If you submit an order on-line with us, we will ask you for information necessary to complete the transaction – such as your name, address, and credit card number, and to allow you to purchase and download products, obtain access to service and technical support, or otherwise utilize products or services that you have selected, as well as technical data concerning your computer or traffic data incidental to your Internet connection.    
+**Information Sharing and Disclosure:**  
 
+Compuware values your business and strives to protect your privacy.  Compuware will never sell or provide your information to list brokers or similar mass marketing entities. We may, however, provide information about you to our business partners and/or to vendors with whom we have contracted to in order to better serve your interests and/or to support targeted promotions.  Compuware will provide only the information that is necessary for the third party to provide those services we believe will be beneficial to you and we take measures to protect your information.  In such instances, Compuware’s master “opt-out” suppression file will be provided to such third parties in order to prevent unwanted Compuware material from being sent to you. 
 
-Additionally, you may be asked in cases where software is sold pursuant to subscription, to establish an account with us in order to obtain the software, and establish entitlement to upgrades and updates required for the dynaTrace software to provide ongoing protection in accordance with its function. 
+Compuware is a global company with customers and partners all over the world.  Accordingly, the information we collect may be used, stored and/or processed in the USA or in any other country in which Compuware does business.  By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Compuware does business (including those with less adequate levels of protection). 
 
-This information will be used by dynaTrace to ensure your entitlement for renewal, support and other services. The processing and transfer of the data are limited to the following purposes: fulfillment of your order(s)/contract(s), extension/delivering product updates/service-subscriptions or licenses, product registration and activation, customer and technical support as you may request it from time to time, processing license renewals as you may request it from time to time, automatically processing license renewals if you elect automatic renewal of your software license subscription and internal (compliance) audits and fraud prevention.
+### Top 
 
-**_2.4 Technical Support_**
+### Cookies
 
-If you request technical support online, we will ask you for information necessary to complete the transaction – such as your name, address and information about your computer hardware, software and the nature of the problem you are experiencing. Additionally, if required to facilitate support, we may with your permission conduct an interactive session in which a dynaTrace technical support assumes control of your computer. 
+A “cookie” is a small text file that is transferred to your browser and stores information about your interactions with a particular website.  A cookie is then read by the Web server that placed it on your browser.  It works as a sort of identification card, recording your preferences and recalling previously entered information.  By using cookies, your navigation time is reduced and use of a website is simplified.
 
-No information is retained from such sessions beyond information to substantiate that such session(s) took place. Information concerning technical issues may be retained to provide you with continuing support; generally, the information and knowledge obtained from such support, though not linked to you personally, may be made available to technical and product specialists in order to improve our products or provide similar solutions to similar technical issues encountered by other dynaTrace customers.    
+Compuware uses two types of cookies:
 
+  * A “session” cookie is temporary and is deleted once you close your browser. Session cookies are used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., the website of an affiliated company).  Session cookies can also give helpful information.
+  * A “persistent” cookie is more permanent and is stored on the hard drive of your computer.  Persistent cookies are used to customize a website for a user.  They may store passwords, preferences, registration and account information so that users do not have to re-enter this information each time they visit the website.
 
-**_2.5 Web-site Forum or Networking Site_**
 
-dynaTrace operates forums, web sites and related information services to better assist its customers in using its products and services, discuss technical issues, and share experience and knowledge. To permit you to obtain access to these information services, to assist us in creating content that is relevant to you, and to improve your experience on our Web site, including helping you quickly find software, services or product information important to you we collect information on your name and e-mail address, and keep track of your preferences concerning the display or location of relevant information. We utilize the information obtained from these sites to improve our products and services.    
 
+A cookie cannot be executed as code or deliver viruses.  Compuware uses both session and persistent cookies to collect and store information that allows us to offer better customer service and ensure easy navigation through our website(s).  
+You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
 
-**_2.6 Newsletter or Alerts_**
+Top
 
-You may wish to receive information about product upgrades, new products, services, newsletters, informative emails, and research on future product ideas or improvements. If so, you will be asked to provide your name and e-mail address. If there is any use beyond contacting you using such information, you will be advised of the intended uses at the point that you are being asked to provide such contact information.    
+### Opt-out
 
+Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please visit <http://www.compuware.com/unsubscribe> or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com?subject=Unsusbcribe%20) and provide your name, e-mail address and subscription you wish to cancel.
 
-**_2.7 Transactional Emails_**
+### Links to Non-Compuware Websites
 
-We may from time to time send you transactional emails such as order confirmations or information on service related issues. Because these emails are not promotional in nature you are not able to unsubscribe from these transactional emails.    
+Compuware may provide links to Internet sites maintained by others. Compuware does not review such third-party websites in their entirety and is not responsible for the contents of or any products or services offered by such third-party sites.
 
+Compuware encourages you to read the privacy statement of every website you visit whether the site is linked to our or not.
 
-**_2.8 Product or Service Information, Offers or Promotions_**
+Compuware provides these links to you as a convenience and the inclusion of any link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises as a result of your use of the site.
 
-To provide you with promotions or special offers that may be of interest to you, you may be asked to provide us with your name, address and e-mail address information, as well as to confirm that you are of the age of majority in the jurisdiction in which you reside. You may be asked to provide additional information to better understand you and possibly your organizations’ needs and experiences, opinions, as well as your experience or feedback in order to qualify for such contests or promotions. We will also use your personal information to award prizes if applicable. If there is any use beyond contacting you with such information, you will be advised of the intended uses at the point that you are being asked to provide such contact information.   
+Top
 
+### Commitment to Data Security
 
-**_2.9 Feedback or Test Software_**
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-To assist us in creating better products and services to meet your needs, we may solicit your opinions and feedback concerning our software and services; you may be asked to provide e-mail address information, as well as name, postal address, occupation and the name of your organization, if you have not already done so, as well as the opinions and feedback itself.    
+### European Union Safe Harbor Certification
 
+Compuware complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
 
-**_2.10 Careers_**
+### Public forums
 
-You may be able to submit your resume and other information online to apply for a job with dynaTrace. The information you provide in connection with your job search will be maintained in a database that is managed by a third party service provider we have retained to help us conduct recruitment-related activities. 
+This site may make chat rooms, forums, message boards, feedback forms, web logs, "blogs", news groups and/or other public messaging forums available to its users. Please remember that any information you disclose in these areas becomes public information.  You should always exercise caution when deciding to disclose your personal information in these public forums.
 
-Our service provider is authorized to use the information only in connection with hosting, managing and maintaining our resume database. We use the information you submit to evaluate your interest in employment and to contact you regarding possible employment with the company.    
+Top
 
+### Online job applications
 
-**_2.11 Referral Service_**
+Compuware's website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Compuware will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Compuware will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. dynaTrace does not store your friend’s name and email address after sending the one-time email. Note that this is not available in jurisdictions where this method of referral is prohibited, such as the European Union. 
+All open positions offered by Compuware or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
 
-You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction or functionality on the site if the information is essential to complete the transaction or functionality. .   
+**How to Update Your Resume/Personal Information:**
 
+If you have already submitted your resume or curriculum vitae to Compuware and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the [Careers](http://www.compuware.com/careers "Careers website") site to learn more about open positions, candidate eligibility and the interviewing process.
 
-**_2.12 Cookies_**
+**How to Contact Compuware Recruiting Regarding Your Privacy:**
 
-dynaTrace may use cookies from time to time. A cookie is a unique text file that a web site can send to your browser software. Cookies enable a web site to tailor information presented to you based on your browsing preferences. dynaTrace may use cookies to personalize web pages during your visit to our web sites, and/or to remember you for easy navigation and access during your return visits after registering for our products, services and other offers including but not limited to White Papers, Webcasts, events, evaluation software, e-books, etc. For these purposes, some cookies may be tied to your e-mail address.   
+Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com?subject=Compuware%20careers%20website%20inquiry) if you have any concerns regarding your privacy during the recruiting process.
 
+### Issue Resolution
 
-dynaTrace may also use cookies to track your visit to our web sites in order to collect aggregate data. However, this information will only be used for analytical purposes and will be limited to the minimum necessary to perform the analysis. If you do not want dynaTrace to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our Web site.   
+Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue with Compuware, or have suggestions on how we can improve our policies, please contact us at privacy_concerns@compuware.com.
 
+Compuware may modify or update this Privacy Statement at any time without prior notice.  We encourage you to check this Statement often so that you are aware of how we are protecting your personal information.  Your continued use of this website constitutes your consent to the contents of this Privacy Statement.
 
-**_2.13 Web Beacons_**
+Last Updated 10/10/2012
 
-dynaTrace may use Web Beacons (also known as single pixel or clear GIFs) on its web sites to analyze traffic patterns such as the frequency of use of particular parts of the site. The data collected helps us learn what information is of most interest to our customers and what offers our customers would most like to see. If you do not want to assist dynaTrace in improving its Web sites, you can “opt-out” of this web sites analysis by disabling JavaScript on your computer. If you disable JavaScript, some of the features on our web sites will not work.   
-
-
-dynaTrace may also use web beacons in promotional email messages to determine whether the message was opened and acted on. We may use this information on email response to develop future promotions you may enjoy. For these purposes, some of our Web beacons are tied to your e-mail address. Except for the email address you have previously provided, the information we collect does not identify you. 
-
-dynaTrace may also use third party scripts on our sites to optimize the effectiveness of dynaTrace's ads appearing on other parties' sites. The information collected is not personally identifiable and is limited to the minimum information necessary to optimize effectiveness.   
-
-
-**3\. Management of Privacy**
-
-**_3.1 Opt-in and Opt-out_**
-
-In jurisdictions where your consent is required at the point of collection before any sharing of your information can take place, you will be given the option to opt-in before such information is being shared, and to opt-in to the transfer of your contact information to a third party.
-
-In other jurisdictions, we may offer you these choices at the time you give us your information, or subsequently through ‘opt-out’ mechanisms.
-
-**_3.2 Other Privacy Considerations_**
-
-Please remember that information you submit in a discussion groups or forums will be deemed public information and will not be kept as confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are participating in such discussion groups or forums.   
-
-
-**_3.3 Update or Correction of Personal Information_**
-
-We make our best effort to respond to your requests to update or correct your personal information. If you believe that dynaTrace does not have your most current personal information, you can use one of the other communication channels at the bottom of this notice. If requested, and to the extent permissible by applicable law relating to the retention of records or otherwise not required for valid business purposes (such as fulfillment of transactions), you may request that we use our best efforts to remove such data from dynaTrace repositories.   
-
-
-**4\. Transfer and Sharing of Information**
-
-**_4.1 Transfer of Information_**
-
-Since dynaTrace is a global company, we provide company information to our worldwide offices, with information processing taking place in many countries. The personal information that you have provided to us, for the purposes set out above, will be transferred to servers in the United States, and there may be further transfers to other countries in which dynaTrace has operations or to our outside contractors for the collection, transferring, storage and processing of your information. Your consent is required for the provision of the products and services set out above as well as for the collection and transfer of your personal information for the purposes identified above.   
-
-
-When you submit your information via our web sites, you expressly consent to the collection and transfer of your personal information for the purpose identified above, and you understand, if you reside outside the United States, that this information may be transferred to other companies of the dynaTrace group in the United States or to other countries that may have less protective data protection standards than the region in which you are situated (including the European Union), in which case dynaTrace will have taken steps to ensure that the collected information, if transferred, receives an adequate level of protection.   
-
-
-**_4.2 Sharing of Information_**
-
-From time to time, and in jurisdictions where it is permitted, we may provide your information to dynaTrace Partners to communicate to you information or offers about products or services that they believe are important to you or your business. If you prefer that we not provide your information to our business partners, you may let us know using one of the methods described in this policy, dynaTrace provides a number of ways for you to "opt-out" of receiving additional information from us or having us provide your personal information to our partners by "opt-out" options provided at the point of collection, through e-mail notices, or through other preference management that may be available depending on the service or web-site.
-
-If you do not wish to continue receiving our e-mail newsletters or bulletins you can opt-out of receiving these communications by replying to the "unsubscribe" address in the body of the email. In jurisdictions where sharing personal information is prohibited without your "opt-in", no information will be shared without your prior consent.   
-
-
-**_4.3 Third Parties_**
-
-In addition, dynaTrace may retain the services of outside contractors to provide services for us (e.g. ship products, provide technical support, or handle order processing).
-
-If you elect to purchase a software license through one of dynaTrace’ authorized online resellers, your personal data will need to be shared between the dynaTrace reseller (as your vendor) and dynaTrace (as the software manufacturer and licensor). Furthermore, in order to manage purchases and license renewals by dynaTrace customers, dynaTrace will need to share your personal information with a billing system service provider. 
-
-Such service provider will process data of dynaTrace’ customers only on behalf of dynaTrace. (These examples are not exhaustive, and may change from time to time).   
-
-
-We require that all such contractors keep the personal information of our customers secure and confidential. We have contractually bound third parties to such restrictions and require that these contractors provide for appropriate technical and organizational measures to secure the data, that they use personal information only on behalf of dynaTrace and that they do not share personal information with others or use your personal information for their own marketing purposes.   
-
-
-**_4.4 Legal Disclosures_**
-
-Please be advised that in certain instances, it may be necessary for dynaTrace to disclose your personal information to government officials or otherwise as required by applicable law. No personally identifiable information will be disclosed to any law enforcement agency or governmental agency except in response to (i) a subpoena, warrant or other process issued by a court of competent jurisdiction; or (ii) a legal process having the same consequence as a court-issued request for information, in that dynaTrace would be in breach of local law were it to refuse to provide such information, and it or its officers, executive or employees would be subject to liability for failing to honor such legal process, or,
-
-Where such disclosure is necessary for dynaTrace to enforce its legal rights pursuant to the laws of the jurisdiction from which such information was gathered.   
-
-
-**5\. Security of Personal Information**
-
-We have taken appropriate security measures, consistent with international information practices, to protect your personal information. These measures include, on our web sites and Internet-enabled technologies, administrative, technical, physical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction.   
-
-
-**6\. Collection and Use of Non-Personal Information**
-
-We collect certain aggregate and non-personal information when users visit our web sites. Aggregate and non-personal information does not relate to a single, identifiable visitor. It tells us information such as how many users visited our sites and the pages accessed. By collecting this information, we learn how to best tailor our web sites to our visitors. We collect this information either through “cookie” technology or with “web beacons”.
-
-Additionally and through our various tracking methods discussed above and using log files, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout dynaTrace’ Web site. Such information is not correlated with any personal information.   
-
-
-**7\. Links to OTHER WEB SITES**
-
-At the dynaTrace Web sites, there are a number of links to companies with whom we have a relationship. 
-
-dynaTrace is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.   
-
-
-**8\. AMENDMENTS AND CHANGES**
-
-In the event there is a major change to dynaTrace's privacy practices, a prominent notice will be posted on our Web site. If the change involves the use of your personally identifiable information, the notice will contain instructions on how you can opt-out of such use.   
-
-
-**9\. Contact dynatrace**
-
-If you have any questions or comments concerning this notice, or if you would like to change your communication preferences, update or review the personal information we have about you, or withdraw your consent for the collection, use or disclosure of your personal information, please contact us: [**privacy@dynatrace.com**](mailto:privacy@dynatrace.com) 
+Top
