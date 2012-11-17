@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wegif.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516075501id_/http%3A//www.wegif.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegif.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117053248id_/http%3A//www.wegif.com/privacy) for the most accurate reproduction.*
 
-# WeGIF.com - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | WeGif
 
 This Privacy Policy discloses the privacy practices for the WeGIF.com site and various related services (together referred to as the “site”). WeGIF, the provider of the site (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site. You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this site. We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions, or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited, to issuing an e-mail to the e-mail address listed by registered users and posting the revised Policy on this page. You acknowledge and agree that it is your responsibility to maintain a valid e-mail address as a registered user, review this site and this Policy periodically, and to be aware of any modifications. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy. 
 
