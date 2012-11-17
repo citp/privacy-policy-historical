@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509232821id_/http%3A//www.equitymaster.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitymaster.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117030126id_/http%3A//www.equitymaster.com/help/privacy.html) for the most accurate reproduction.*
 
 # Equitymaster.com : Privacy Policy
 
 Privacy Policy  
 
 
-Maintaining the privacy of user's information is important to us. This privacy statement outlines how we collect information from you, when you register as a user at www.Equitymaster.com (site or website) or when you subscribe to our online services and what we do with that information. 
+Maintaining the privacy of user's information is important to us. This privacy statement outlines how we collect information from you, when you register as a user at [www.Equitymaster.com](http://www.equitymaster.com/) (site or website) or when you subscribe to our online services and what we do with that information. 
 
 When you browse through the pages of the website, read or download information, we may collect, note or analyze details about your visit such as: 
 
@@ -64,6 +64,12 @@ Equitymaster may inform advertisers of information on user's behavior and charac
 **Opt-Out**   
 If, at any time after registering for information or subscribing to any of our services, you wish to discontinue receiving information from us or you wish to opt out of our marketing or promotional emails, phone calls or discontinue receiving any other direct communication from us, please either click on the "unsubscribe" link available in the service/promotional/marketing emails or send us your request to unsubscribe at [info@equitymaster.com](mailto:info@equitymaster.com?subject=Privacy%20Policy%20Unsubscribe)
 
+**Policy against advertising Equitymaster website using unsolicited email messages**
+
+Equitymaster ensures that all emails promoting [www.equitymaster.com](http://www.equitymaster.com/) or its services or the domains owned by it are sent only to subscribers who have agreed to receive such messages. Equitymaster prohibits any advertising of its brand and Website using unsolicited email messages. Any non compliance with this policy would cause partnership termination and/or affiliate account termination. 
+
+If you feel that you have received unsolicited emails from Equitymaster and would like to register a compliant, please contact us at [info@equitymaster.com](mailto:info@equitymaster.com?subject=Privacy%20Policy%20Unsubscribe). We will on a best effort basis investigate all complaints related to unsolicited email messages. 
+
 **Security**   
 The user shall cooperate with Equitymaster in order to ensure the security of the information, and we recommend that the users necessarily choose their passwords carefully such that no unauthorized access is made by a third party. The users should undertake not to disclose their password to anyone or keep any written or other record of the password such that a third party could access it. 
 
@@ -93,3 +99,16 @@ Equitymaster reserves the right to modify the whole or some sections of this Pri
   * to 'we', 'us' and 'our' are references to mean individually and collectively Equitymaster, Quantum, Agora & its directors, officers and employees. 
 
 
+
+**Contact**   
+You may contact us at:   
+103, Regent Chambers,   
+Above Status Restaurant,   
+Nariman Point, Mumbai - 400 021,   
+India. 
+
+Telephone: 91-22-6143 4055 
+
+Fax: 91-22-2202 8550 
+
+Email: [info@equitymaster.com](mailto:info@equitymaster.com?subject=Privacy%20Policy%20Unsubscribe)
