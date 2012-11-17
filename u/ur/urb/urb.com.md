@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520152148id_/http%3A//www.urb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urb.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117212649id_/http%3A//www.urb.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal | Privacy Policy | Terms Of Service | URB.COM | URB Magazine :: Music | Style | Culture
+# Legal | Privacy Policy | Terms Of Service | URB | URB Magazine :: Music | Style | Culture
 
 URB Magazine and its parent company (NativeSon Media, Inc.) recognizes the importance of protecting the privacy of all information provided by users of www.urb.com. We created the following policy guidelines with a fundamental respect for our users’ right to privacy and because we value our relationships with our users.
 
