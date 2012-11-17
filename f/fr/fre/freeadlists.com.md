@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519160345id_/http%3A//www.freeadlists.com/index.php%3Fpag%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadlists.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117073751id_/http%3A//www.freeadlists.com/index.php%3Fpag%3Dpolicy) for the most accurate reproduction.*
 
-# Post Free Classified Ads - Other Cities In Mass Other Services Classifieds - Personals, Real Estate, Pets Ads Free Ads
+# Post Free Classified Ads - USA Classifieds - Personals, Real Estate, Pets Ads Free Ads
 
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site ("Customers") and make use of the various services offered by FreeAdLists ("Services"). 
 
