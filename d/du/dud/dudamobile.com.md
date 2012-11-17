@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626080108id_/http%3A//www.dudamobile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117092242id_/http%3A//www.dudamobile.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies | DudaMobile
 
@@ -71,7 +71,7 @@ Any information you choose to provide in a comment or a submission on the Site o
 
 ##### Service Providers.
 
-We may employ third party companies and individuals to facilitate the Service, to provide the Service on our behalf, to assist us in analyzing how the Service is used, and to perform services related to administration of the Service or the Site (including, without limitation, maintenance, payments, hosting and database management services, web analytics and administration). These third parties may have access to your Personal Information so that they may perform these tasks on our behalf; they are obligated to comply with this Policy and may not use Your Information for any other purpose.
+We may employ third party companies and individuals to facilitate the Service, to provide the Service on our behalf, to assist us in analyzing how the Service is used, and to perform services related to administration of the Service or the Site (including, without limitation, maintenance, payments, hosting and database management services, [mobile website analytics](http://www.dudamobile.com/features.html) and administration). These third parties may have access to your Personal Information so that they may perform these tasks on our behalf; they are obligated to comply with this Policy and may not use Your Information for any other purpose.
 
 ##### Affiliates and Partners.
 
