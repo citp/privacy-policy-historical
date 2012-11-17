@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketing-ideas.org privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518133335id_/http%3A//www.marketing-ideas.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-ideas.org privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117021347id_/http%3A//www.marketing-ideas.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 The privacy of my visitors to Marketing-Ideas.org is VERY important to me.
 
-At Marketing-Ideas.org, I understant the privacy of your personal information is important. Here's information on what types of personal information I collect when you use and visit my blog at Marketing-Ideas.org (and how I protect your information). I never sell your personal information to third parties – ever.
+At Marketing-Ideas.org, I understand the privacy of your personal information is important. Here's information on what types of personal information I collect when you use and visit my blog at Marketing-Ideas.org (and how I protect your information). I never sell your personal information to third parties – ever.
 
 **Log Files**   
 As with most other websites, I collect and analyze the data contained in traffic log files. The information in these log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Comcast), the browser you used to visit my site (such as Firefox or Safari), the amount of time you visited my blog (and which blogpages you visited throughout my site).
