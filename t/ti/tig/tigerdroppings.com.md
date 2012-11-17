@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the tigerdroppings.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091438id_/http%3A//www.tigerdroppings.com/rant/message.asp%3Faction%3Ddisplay%26p%3D657121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdroppings.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117050515id_/http%3A//www.tigerdroppings.com/blog/p/35032360/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# General Info - TigerDroppings.com
+# Privacy Policy @ TigerDroppings.com
 
-**TigerDroppings.com Privacy Policy**
+Your privacy is important to us. To protect your privacy we provide this notice explaining our privacy practices and the ways your information is collected and used. 
 
-Your privacy is very important to us. TigerDroppings.com will not share your personal information with any third party. We collect an email address from registered users so that we can communicate important information about the website when necessary. All other information collected in a user's profile is optional information that can be maintained or deleted at any time. In order to be compliant with the Children's Online Privacy Protection Act of 1998 (COPPA), we require that anyone under the age of 13 furnish us with verifiable parental consent before setting up a user profile.
+This notice applies to all information collected from users or submitted by users on our website. The types of personal information collected includes, but is not limited to: 
 
-TigerDroppings.com does work with third-party ad agencies that serve ads to this site. To do this, they may collect anonymous data about your visit to this and other Web sites, typically through the use of cookies. 
+* Email Address   
+* IP Address 
 
-If you have any questions or concerns regarding our privacy policy, please contact us at [tigerdroppings@gmail.com](mailto:tigerdroppings@gmail.com).
+We do not share your email address or IP address with outside parties. This information is used by the moderators of the website to ensure quality control and to communicate with you as necessary. 
 
-You can also find out more information about our third-party ad partners by clicking on the following links:  
-[BURST! Media's Privacy Policy](http://www.burstmedia.com/privacy.asp)
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-Best Regards,  
-TigerDroppings.com Management
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
+
+Should you have other questions or concerns about these privacy policies, please contact us at tigerdroppings@gmail.com.
