@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tippfm.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519155402id_/http%3A//www.tippfm.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tippfm.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118003912id_/http%3A//www.tippfm.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Tipp FM - the number 1 radio station for the premier county
 
