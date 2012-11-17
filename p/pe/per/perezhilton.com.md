@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516090619id_/http%3A//perezhilton.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perezhilton.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117033944id_/http%3A//perezhilton.com/privacy-notice) for the most accurate reproduction.*
 
 # INTERNET PRIVACY NOTICE | PerezHilton.com
 
