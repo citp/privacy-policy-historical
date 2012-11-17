@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biz4security.com privacy policy that was archived on 2012-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517174431id_/http%3A//www.biz4security.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biz4security.com privacy policy that was archived on 2012-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117212222id_/http%3A//www.biz4security.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,18 +19,20 @@ $(function(){
 		var key_word = $('#head_q').val();
 		var list_type = $('#mySle').val();
 		var base_url = "http://www.biz4security.com/";
-		if (key_word != 'Enter keywords') {
-			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+		if (key_word == 'Enter keywords') {
+			key_word = '';
 		}
+		window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
 	});
 	$('#head_q').keydown(function(event){
 		if (event.keyCode==13){
 			var key_word = $('#head_q').val();
 			var list_type = $('#mySle').val();
 			var base_url = "http://www.biz4security.com/";
-			if (key_word != 'Enter keywords') {
-				window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+			if (key_word == 'Enter keywords') {
+				key_word = '';
 			}
+			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
 		}
 	}).focus(function(){
 		$(this).select();
@@ -41,18 +43,20 @@ $(function(){
 		var key_word = $('#foot_q').val();
 		var list_type = $('#mySle2').val();
 		var base_url = "http://www.biz4security.com/";
-		if (key_word != 'Enter keywords') {
-			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+		if (key_word == 'Enter keywords') {
+			key_word = '';
 		}
+		window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
 	});
 	$('#foot_q').keydown(function(event){
 		if (event.keyCode==13){
 			var key_word = $('#foot_q').val();
 			var list_type = $('#mySle2').val();
 			var base_url = "http://www.biz4security.com/";
-			if (key_word != 'Enter keywords') {
-				window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+			if (key_word == 'Enter keywords') {
+				key_word = '';
 			}
+			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
 		}
 	}).focus(function(){
 		$(this).select();
@@ -66,7 +70,8 @@ $(function(){
 
 
 </head>
-<!-- $Rev: 2788 $ --><body>
+<!-- $Rev: 3353 $ -->
+<body>
 <div id="page">
  	<div id="header_top">
 		<div id="header_title">
@@ -144,7 +149,7 @@ Popular Search: <span style="margin-right:20px;">
 <a href="product/list.php?do=search&amp;q=IP Camera" title="IP Camera">IP Camera</a>,&nbsp;
 <a href="product/list.php?do=search&amp;q=Alarm">Alarm</a>
 </span>
-<span>Related Search: <a href="offer/list.php?do=search&amp;q=Night-vision" title="Night-vision">Night-vision</a>, <a href="offer/list.php?do=search&amp;q=Explosion-proof" title="Explosion-proof">Explosion-proof</a>, <a href="offer/list.php?do=search&amp;q=Anti-Wind+pan+tilt" title="Anti-Wind pan tilt">Anti-Wind pan tilt</a></span>
+<span>Related Search: <a href="offer/list.php?do=search&amp;q=%28DA-208G%29" title="(DA-208G)">(DA-208G)</a>, <a href="offer/list.php?do=search&amp;q=GSM%2FPSTN" title="GSM/PSTN">GSM/PSTN</a>, <a href="offer/list.php?do=search&amp;q=%28DA-911A%29" title="(DA-911A)">(DA-911A)</a></span>
 </div>
 <!-- $Rev: 2379 $ -->		</div><!-- end header_nav --->
 	</div><!-- end head_top -->
@@ -152,7 +157,8 @@ Popular Search: <span style="margin-right:20px;">
 
 <div id="main">
 	
-<div class="mune_title"><span>You are here: <em> </em><a href="http://www.biz4security.com/index.php" target="_self" title=""></a> » <a href="http://www.biz4security.com/help/" target="_self" title="Help Center">Help Center</a> » Privacy</span></div>	
+<div class="mune_title"><span>You are here: <a href="product/list.php">Products Search</a>&nbsp;<em> </em><a href="http://www.biz4security.com/index.php" target="_self" title=""></a> » <a href="http://www.biz4security.com/help/" target="_self" title="Help Center">Help Center</a> » Privacy</span></div>
+	
 	<div id=" main_body">
 		<div class="left_list">
 	<div class="left_content">
@@ -271,38 +277,38 @@ $(function(){
 			<h2>More on B4S </h2>
 			<ul>
 				<li><!--<a href="http://www.biz4security.com/company/">Top 100 suppliers</a>--></li>
-				<li><a href="http://www.biz4security.com/news/">Featured news</a></li>
+				<li><a href="http://www.biz4security.com/news/">Featured News</a></li>
 				<li><a href="http://www.biz4security.com/friendlink.php">Link Exchange</a></li>
 			</ul>
 		</div>
 		<div id="footer_help">
 			<h2>Help Info</h2>
 			<ul>
-				<li><a href="http://www.biz4security.com/help/how-to-buy.html">How to buy</a></li>
-				<li><a href="http://www.biz4security.com/help/how-to-sell.html">How to sell</a></li>
+				<li><a href="http://www.biz4security.com/help/how-to-buy.html">How to Buy</a></li>
+				<li><a href="http://www.biz4security.com/help/how-to-sell.html">How to Sell</a></li>
 				<li><a href="http://www.biz4security.com/help/faq.html">FAQ</a></li>
 			</ul>
 		</div>
 		<div id="footer_account">
 			<h2>Account </h2>
 			<ul>
-				<li><a href="#" rel="nofollow">Username recovery</a></li>
-				<li><a href="#" rel="nofollow">Password recovery</a></li>
+				<li><a href="#" rel="nofollow">Username Recovery</a></li>
+				<li><a href="#" rel="nofollow">Password Recovery</a></li>
 							</ul>
 		</div>
 		<div id="footer_support">
 			<h2>Support</h2>
 			<ul>
 				<li><a href="http://www.biz4security.com/help/privacy.html">Privacy</a></li>
-				<li><a href="http://www.biz4security.com/help/terms-of-use.html">Terms of use</a></li>
+				<li><a href="http://www.biz4security.com/help/terms-of-use.html">Terms of Use</a></li>
 							</ul>
 		</div>
 		<div style="width: 182px;" id="footer_support">
 			<h2>About&amp;Contact</h2>
 			<ul>
-				<li><a href="http://www.biz4security.com/help/about-us.html">About us</a></li>
-				<li><a href="http://www.biz4security.com/help/contact-us.html">Contact us</a></li>
-				<li><a href="http://www.biz4security.com/help/advertising-inquiry.html">Advertising inquiry</a></li>
+				<li><a href="http://www.biz4security.com/help/about-us.html">About Us</a></li>
+				<li><a href="http://www.biz4security.com/help/contact-us.html">Contact Us</a></li>
+				<li><a href="http://www.biz4security.com/help/advertising-inquiry.html">Advertising Inquiry</a></li>
 			</ul>
 		</div>
 		
@@ -334,7 +340,7 @@ $(function(){
 
 	</div><!-- end #footer_more -->
 </div><!-- end #footer -->
-<!-- Footer $Rev: 2828 $ -->
+<!-- Footer $Rev: 3380 $ -->
 
 </div><!-- end #page -->
 	<script type="text/javascript">
