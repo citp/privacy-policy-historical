@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greatdaygames.com privacy policy that was archived on 2012-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519083715id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatdaygames.com privacy policy that was archived on 2012-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117042119id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Help - Play Free Online Games on Great Day Games
@@ -13,7 +13,7 @@
 	        var c_name = 'Monetization_UniqCookieName';
 	        if (document.cookie.indexOf(c_name + "=") == -1)
 	        {	           
-	           var value = '26fc2ca4-ed1f-4869-86fe-90455b230fee';
+	           var value = '6fd05526-3825-4491-bc66-77b803a44348';
 	           var expiredays = 365;
 	            var exdate = new Date();
 	            exdate.setDate(exdate.getDate() + expiredays);
@@ -87,10 +87,10 @@
 		    return jQuery;
 		}
 		jQuery(window).load(function() {
-		    jQuery.post('http://www.greatdaygames.com/ajaxServices/Tracker/PageTracker.ashx?action=LoadPage');
+		    jQuery.get('http://www.greatdaygames.com/ajaxServices/Tracker/PageTracker.ashx?action=LoadPage');
 		});
 		jQuery(window).unload(function() {
-		    jQuery.post('http://www.greatdaygames.com/ajaxServices/Tracker/PageTracker.ashx?action=UnLoadPage');
+		    jQuery.get('http://www.greatdaygames.com/ajaxServices/Tracker/PageTracker.ashx?action=UnLoadPage');
 		});
 	</script>
 	<script type="text/javascript">var baseUrl = 'http://www.greatdaygames.com';</script>
@@ -102,10 +102,10 @@
 
 	
 	<div class="bodyDiv">
-	<div id="arkDialog_bg" class="PopUp_Modal_bg" style="display: none; height: 100px;"> <div class="PopUp_Modal_bgAll"> </div> </div>
+	<div id="arkDialog_bg" class="PopUp_Modal_bg" style="display: none;"> <div class="PopUp_Modal_bgAll"> </div> </div>
     <div id="dLoginLock" class="login_lock" style="display: none;"></div>
     <div id="dTCLock" class="TR_lock" style="display: none;"></div>
-	<form name="aspnetForm" method="post" action="../pages/helppages/PrivacyPolicy.aspx" id="aspnetForm">
+	<form name="aspnetForm" method="post" action="../pages/helppages/privacypolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg1MDQ3NDY1M2Rkcrrc3Upugzs6HxfLBAB3kS92ncg=">
 
 
@@ -141,12 +141,11 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
 		</script>
 	</div>		
 		
-     <link type="text/css" rel="stylesheet" href="http://www.greatdaygames.com/css/jquery-ui-1.8.14.custom.css" media="projection, screen">
     <center>
         <div class="LockAll" style="display:block;"></div>
         <div class="home_Header_bg">
             <a class="home_Header_logo" href="http://www.greatdaygames.com"></a>
-            <div class="Home_topAD colr">
+            <div class="Home_topAD colr" id="TopAdID">
                 <span id="ctl00_ctl00_m_ctl06_AD4"><iframe style="margin:0px;padding:0px;" border="0" frameborder="0" scrolling="no" width="728" height="90" src="http://www.greatdaygames.com/ads/adcontent.aspx?IDSID=5617&amp;IRS=0&amp;IRN=True"></iframe></span>
             </div>
             <div class="home_nav_new">
@@ -224,7 +223,7 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
             setTimeout("DoAfterLogin()", 5);
         }
 
-        
+        core.setUser(0);
     }
 
     function addLoadEvent(func) {
