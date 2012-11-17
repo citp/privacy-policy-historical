@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525061829id_/http%3A//www.brewdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewdog.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117010608id_/http%3A//www.brewdog.com/privacy) for the most accurate reproduction.*
 
-# BrewDog | Website Privacy Policy
+# 
 
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
 
@@ -34,4 +34,4 @@ CHANGES TO OUR PRIVACY POLICY
 Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification.
 
 CONTACT  
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to [feedback@brewdog.com](mailto:feedback@brewdog.com "Email"). 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to [feedback@brewdog.com](mailto:feedback@brewdog.com "Email").
