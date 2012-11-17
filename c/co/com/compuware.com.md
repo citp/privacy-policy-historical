@@ -1,106 +1,124 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620043646id_/http%3A//www.compuware.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117055242id_/http%3A//www.compuware.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Compuware
 
-## Our commitment to privacy
+Compuware Corporation respects your right to privacy and is committed to protecting it.  In order to provide you with relevant information, respond to your requests and increase the benefits you receive when visiting our website(s), we may request information about you. We want you to feel secure when providing such information to us and this Privacy Statement is intended to inform you about the type(s) of information we gather and how we use it.  The Statement applies to information collected by Compuware.
 
-Compuware Corporation recognizes your right to confidentiality and is committed to protecting your privacy.  This privacy statement applies solely to information collected by Compuware-owned web sites.
-
-  * The collection of personal data
-  * The use of information collected
-  * The use of cookies
+  * The Collection of Personal Data
+  * How We Use the Information Collected
+  * Cookies
   * Opt-out
-  * Links to non-Compuware web sites
-  * Commitment to data security
+  * Links to Non-Compuware Websites
+  * Commitment to Data Security
   * European Union Safe Harbor Certification
-  * Public forums
-  * Online job applications
+  * Public Forums
+  * Online Job Applications
+  * Issue Resolution
 
 
 
-### The collection of personal data
+### The Collection of Personal Data
 
-You may visit the web site without disclosing any personally identifiable information.   
-Registration: Registration is often required, before issuing special offers, promotions, newsletters, etc.  If you wish to subscribe, we may request such personal information as name, title, company, physical address, phone number, fax number, e-mail address, primary language preference, informational preferences, topics of interest, etc. Compuware will not request more information than is reasonably necessary to provide requested information or services. Compuware assumes all information will be true, accurate, current, non-misleading, consistent and relevant.  
+You may visit a Compuware website without identifying yourself or sharing any personal information.  Compuware does collect certain domain information in order to improve and customize your experience on its site(s).  Specifically, Compuware may collect the following types of information when you use any Compuware or Compuware-affiliated website:
 
-**E-mail a friend or colleague:** Unless otherwise indicated, the names and e-mail addresses provided on "e-mail a friend" forms will be used only to forward the message to the intended recipient and to notify the intended recipient of the sender.  The recipient's e-mail address is not stored unless registration information is received.
+  * Information you provide directly, including personally identifiable information, when you complete an online registration form for offers, events, user groups, training, trials, demos, etc. or submit an inquiry via email, direct mail, phone or fax.
+  * Information you provide directly, including personally identifiable information, by submitting an online job application.Usage data, collected via Google Analytics, such as IP address, web browser type/version, operating system and website visit information such as date, time and pages viewed.
+  * Click-through information related to Compuware emails and banner advertisements.
+  * Aggregate, non-personally identifiable information, such as the number of weekly visits or page views to a Compuware website.
+
+
 
 Top
 
-### The use of information collected
+### How We Use The Information Collected
 
-**General:** Compuware will record and collect information about how you may use the site. This may include such data as a domain name, language, type of browser and operating system, Internet Service Provider, Internet protocol (IP) address, the web site from which you arrived at the site, and the amount of time spent on the site.   Compuware may monitor and use usage data in aggregated form to measure the web site's performance and activity and improve the web site's design and functionality. Compuware may also use usage data in aggregated form to develop, and distribute to third parties, statistical and general information about how the web site is used for other marketing purposes. Compuware may also use usage data in non-aggregated form to investigate and prosecute security violations.
+**General:**   
 
-**Compuware online communications:** Compuware will use personally identifiable data to communicate special promotions, events and announcements. This information may be used for the purpose of providing you with products or services you have requested, servicing you, improving our services, developing and/or informing you of additional products or services provided by Compuware. Should you wish not to receive promotional material from Compuware, you are offered the option to opt-out from future communications.
+Compuware may use usage data in aggregated form to: 
 
-Please note that we do not knowingly solicit information from children and we do not knowingly market our products and services to children.
+  * Measure the website's performance and activity as well as improve the website's design and functionality. 
+  * Work with third-party consultants to develop and distribute statistical and general information to best understand how our customers use the website. Investigate and prosecute security violations.
 
-**Information sharing and disclosure:** Compuware values your business and strives to protect your privacy.  Compuware will not sell or provide your information to list brokers or similar mass marketing entities.  However, we may provide information about you to our business partners in order to better serve your interests and/or to vendors with whom Compuware has contracted in support of targeted promotions.  In those instances, Compuware’s master “opt-out” suppression file will be provided to such vendors to prevent unwanted Compuware material from delivery. 
 
-### 
+
+**Compuware Online Communications:**
+
+Compuware will use personally identifiable information, such as name, title, company, and email or other address, to communicate special promotions, events and announcements. This information may also be used to provide the products or services requested, respond to support needs, and/or provide additional information regarding Compuware products or services. If you do not wish to receive future promotional information and material from Compuware, you are offered the option to opt-out of upcoming communications.
+
+Please note that we do not knowingly solicit information from children nor do we knowingly market our products and services to children.
+
+**Information Sharing and Disclosure:**  
+
+Compuware values your business and strives to protect your privacy.  Compuware will never sell or provide your information to list brokers or similar mass marketing entities. We may, however, provide information about you to our business partners and/or to vendors with whom we have contracted to in order to better serve your interests and/or to support targeted promotions.  Compuware will provide only the information that is necessary for the third party to provide those services we believe will be beneficial to you and we take measures to protect your information.  In such instances, Compuware’s master “opt-out” suppression file will be provided to such third parties in order to prevent unwanted Compuware material from being sent to you. 
+
+Compuware is a global company with customers and partners all over the world.  Accordingly, the information we collect may be used, stored and/or processed in the USA or in any other country in which Compuware does business.  By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Compuware does business (including those with less adequate levels of protection). 
 
 ### Top 
 
- The use of cookies
+### Cookies
 
-  * A "cookie" is a small file that your web browser places on your computer's hard drive to store important data. A cookie cannot be executed as code or deliver viruses. Cookies save you time by enabling your browser to keep track of information such as passwords and account information. In most cases, the cookies that we use will expire after 365 days. In some instances, such as the online job application, the cookies expire as soon as you close your browser. 
-  * Third party vendors, including Google, show our ads on sites on the internet. They use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. 
-  * **Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
+A “cookie” is a small text file that is transferred to your browser and stores information about your interactions with a particular website.  A cookie is then read by the Web server that placed it on your browser.  It works as a sort of identification card, recording your preferences and recalling previously entered information.  By using cookies, your navigation time is reduced and use of a website is simplified.
+
+Compuware uses two types of cookies:
+
+  * A “session” cookie is temporary and is deleted once you close your browser. Session cookies are used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., the website of an affiliated company).  Session cookies can also give helpful information.
+  * A “persistent” cookie is more permanent and is stored on the hard drive of your computer.  Persistent cookies are used to customize a website for a user.  They may store passwords, preferences, registration and account information so that users do not have to re-enter this information each time they visit the website.
 
 
 
-Top
-
-### Opt-out 
-
-We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please visit [www.compuware.com/unsubscribe](http://www.compuware.com/unsubscribe) or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
-
-### Links to non-Compuware web sites
-
-Compuware may provide links to Internet sites maintained by others. Compuware does not review all of such third-party web sites linked to the site and is not responsible for the contents of, or any products or services offered, in such third-party sites. 
-
-We encourage our users to be aware when leaving Compuware web sites and to read the privacy statements of each and every web site that collects personally identifiable information.
-
-Compuware provides these links to you as a convenience, and the inclusion of any link does not imply endorsement or acceptance of responsibility of non-Compuware web sites.
+A cookie cannot be executed as code or deliver viruses.  Compuware uses both session and persistent cookies to collect and store information that allows us to offer better customer service and ensure easy navigation through our website(s).  
+You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
 
 Top
 
-### Commitment to data security
+### Opt-out
+
+Compuware provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please visit <http://www.compuware.com/unsubscribe> or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com?subject=Unsusbcribe%20) and provide your name, e-mail address and subscription you wish to cancel.
+
+### Links to Non-Compuware Websites
+
+Compuware may provide links to Internet sites maintained by others. Compuware does not review such third-party websites in their entirety and is not responsible for the contents of or any products or services offered by such third-party sites.
+
+Compuware encourages you to read the privacy statement of every website you visit whether the site is linked to our or not.
+
+Compuware provides these links to you as a convenience and the inclusion of any link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises as a result of your use of the site.
+
+Top
+
+### Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ### European Union Safe Harbor Certification
 
-Compuware Corporation currently complies with the Safe Harbor certification developed by the U.S. Department of Commerce for the collection, use, and retention of data from the European Union. For more information about the Safe Harbor program please visit <http://www.export.gov/safeharbor>.
+Compuware complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
 
 ### Public forums
 
-This site may make chat rooms, forums, message boards, feedback forms, web logs / "blogs", news groups and / or other public messaging forums available to its users. Please remember any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site may make chat rooms, forums, message boards, feedback forms, web logs, "blogs", news groups and/or other public messaging forums available to its users. Please remember that any information you disclose in these areas becomes public information.  You should always exercise caution when deciding to disclose your personal information in these public forums.
 
 Top
 
 ### Online job applications
 
-Compuware's web site provides the capability for candidates to submit their resume or curriculum vitae online. All resumes received by Compuware will be held in confidence and used only for the purpose of considering the candidate for employment or such other purpose as requested by the candidate. Compuware will not sell, trade, rent or distribute personal information to third parties.
+Compuware's website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Compuware will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Compuware will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
 
 All open positions offered by Compuware or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
 
-**The use of cookies to search and apply for jobs online**
+**How to Update Your Resume/Personal Information:**
 
-Cookies save you time by enabling your browser to keep track of the job numbers that you are interested in applying for online, and remembering your last job search criteria. Learn more about cookies and how Compuware uses them.
+If you have already submitted your resume or curriculum vitae to Compuware and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the [Careers](http://www.compuware.com/careers "Careers website") site to learn more about open positions, candidate eligibility and the interviewing process.
 
-You have the option of setting your browser to reject cookies. If you do not accept the cookie, you are still able to use the site and search for jobs, but you will not be able to utilize the job portfolio/shopping cart feature to apply online.
+**How to Contact Compuware Recruiting Regarding Your Privacy:**
 
-**How to update your personal information**
+Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com?subject=Compuware%20careers%20website%20inquiry) if you have any concerns regarding your privacy during the recruiting process.
 
-If you have already submitted your resume or curriculum vitae to Compuware and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the Careers site to learn more about candidate eligibility and the interviewing process.
+### Issue Resolution
 
-**How to contact Compuware Recruiting regarding your privacy**
+Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue with Compuware, or have suggestions on how we can improve our policies, please contact us at privacy_concerns@compuware.com.
 
-Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com).
+Compuware may modify or update this Privacy Statement at any time without prior notice.  We encourage you to check this Statement often so that you are aware of how we are protecting your personal information.  Your continued use of this website constitutes your consent to the contents of this Privacy Statement.
 
-**Issue Resolution**
-
-Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue you have with Compuware, or have suggestions on how we can improve our policies, please contact us.
+Last Updated 10/10/2012
 
 Top
