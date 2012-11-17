@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519160105id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117073436id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
 
 # Privacy Policies
 
