@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uafs.edu privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604030943id_/http%3A//uafs.edu/university/uafs-web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uafs.edu privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117205729id_/http%3A//uafs.edu/university/uafs-web-privacy-policy) for the most accurate reproduction.*
 
-# UAFS Web Privacy Policy | University of Arkansas - Fort Smith
+# University of Arkansas Fort Smith | UAFS
 
 ## Purpose
 
