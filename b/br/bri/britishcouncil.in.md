@@ -1,25 +1,35 @@
-> *The following text is extracted and transformed from the britishcouncil.in privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219150230id_/http%3A//www.britishcouncil.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishcouncil.in privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117062908id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | british council
+# Privacy | British Council
 
-## [Privacy Policy](http://www.britishcouncil.in/privacy-policy/ "Privacy Policy")
+We regard the lawful and correct treatment of personal information as important to our successful operations and to the maintenance of confidence of those with whom we deal. As such this statement will apply equally to all of our offices irrespective of where they are based.
 
-**Privacy Policy for www.britishcouncil.in**
+We will ensure that our staff and those acting on our behalf obtain, use and disclose personal information lawfully and correctly. To this end we fully endorse and adhere to the principles of data protection, as set out in the UK Data Protection Act 1998 (the "Act"). We shall apply the Act globally, except where part or all of any local law is stronger.
 
-The privacy of our visitors to www.britishcouncil.in is important to us.
+In particular we will:
 
-At www.britishcouncil.in, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.britishcouncil.in, and how we safeguard your information. We never sell your personal information to third parties.
+  * observe the conditions in the Act regarding the fair collection and use of personal information (please see below regarding personal information collected via our website);
+  * meet our legal obligations to specify the purposes for which we process personal information, this information being set out in our data protection notification particulars which can be found on the Information Commissioner’s website at [www.ico.gov.uk](http://www.ico.gov.uk/);
+  * collect and process appropriate personal information, only to the extent that it is needed to fulfil our operational needs or to comply with any legal requirement;
+  * ensure the accuracy of any personal information kept by us;
+  * apply checks to determine the length of time personal information is held by us;
+  * ensure that the rights of people about whom personal information is held, are able to be exercised fully under the Act;
+  * take appropriate technical and organisational security measures to safeguard personal information;
+  * ascertain that personal information is not transferred outside the European Economic Area without suitable safeguards or agreement from the individual.
 
-**Log Files**
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies and Web Beacons**
+If we collect personal information via our website, prior to finally submitting any personal information to our website, we will endeavour to ensure that you are informed as to:
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+  * the purpose for collecting the information
+  * what the information will be used for
+  * the identity of anyone else to whom the information will be given and what they will use it for
+  * how you can request copies of any personal information we hold on you.
 
-We also use third party advertisements on www.britishcouncil.in to support our site. Google, as a third party vendor, uses cookies to serve ads. Google’s use of the DART cookie enables it to serve ads to users based on their visit to sites on the Internet.
 
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes or showing certain ads based on specific sites visited.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Please note that where our website contains links to other websites, we are not responsible for the privacy practices of other websites and this statement applies solely to any personal information collected by our website.
+
+IP addresses are not linked to personally identifiable information. We only use IP addresses to analyze trends, administer our website, track general user movements, and gather broad demographic information for aggregate use.
+
+Furthermore please be aware that we use [cookies ](https://web.archive.org/about/cookie-policy)on our website. We use cookies to track the interests of our users so that we can subsequently enhance their experience on our website. If your browser rejects a cookie, you may still use our website.
