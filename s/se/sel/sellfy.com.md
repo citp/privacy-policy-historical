@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sellfy.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621020657id_/http%3A//sellfy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellfy.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117013918id_/http%3A//sellfy.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Sellfy.com
+# Privacy Policy - Sellfy.com
 
 ## Privacy Policy
 
