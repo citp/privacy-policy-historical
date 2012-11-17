@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madison.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508231118id_/http%3A//host.madison.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madison.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117051930id_/http%3A//host.madison.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Madisondotcom
 
 Welcome to the web sites of the Capital Newspapers. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded.
 
@@ -24,7 +24,7 @@ If your use of a component of the site requires you to register, a cookie will b
 
 This cookie allows us to maintain information containing the products (like photo reprints) or services (such as placing a classified advertisement or signing up for home delivery) you are purchasing while you are online. To limit unauthorized access, this cookie, also called a session cookie, expires whenever you exit a browser session.
 
-Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or to recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons for auditing purposes and to collect information from the websites of certain partners. Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. [**To opt-out of a third parties' use of web beacons please click here.**](http://host.madison.com/content/tncms/live/#optout)
+Like many other commercial sites, our sites may utilize an electronic file called a web beacon to count users who have visited a page or to recognize users by accessing certain cookies. Our site and/or our partner web sites use web beacons for auditing purposes and to collect information from the websites of certain partners. Information recorded through these web beacons is used to report anonymous individual and/or aggregate information about our users from our partners. Aggregate information may include demographic and usage information. No personally identifiable information about you is shared with partners. http://omniture.com/optout','optOut','width=400, height=400, menu=no,toolbar=no,status=yes,resizable=yes');" href="#optout"> **To opt-out of a third parties' use of web beacons please click here.**
 
 ## Information Gathered by Voluntary Submission
 
@@ -34,7 +34,7 @@ The information you supply will help us offer you more personalized features, to
 
 ## Children under the Age of 13
 
-_If you are under the age of 13, do not send us any information about yourself such as your name, address or e-mail address. You may only send us personally identifiable information if your parents have verified to us their consent to the collection of the information._
+ _If you are under the age of 13, do not send us any information about yourself such as your name, address or e-mail address. You may only send us personally identifiable information if your parents have verified to us their consent to the collection of the information._
 
 Because we are a media company, some of our online services and content may be attractive to children. Because we strive to protect the privacy of all users of our site, including children, we endeavor to comply with the Children's Online Privacy Protection Act. Our site:
 
