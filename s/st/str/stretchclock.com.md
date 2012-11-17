@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stretchclock.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519160040id_/http%3A//www.stretchclock.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stretchclock.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117083017id_/http%3A//www.stretchclock.com/about/privacy.htm) for the most accurate reproduction.*
 
 # StretchClock Privacy Policy
 
@@ -112,4 +112,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Contact Us 
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20120519160040id_/http%3A//www.stretchclock.com/about/default.htm).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20121117083017id_/http%3A//www.stretchclock.com/about/default.htm).
