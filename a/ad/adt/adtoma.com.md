@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618070930id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118000039id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Adtoma AB
+# Adtoma AB | Privacy Policy
+
+[ ](https://web.archive.org/)
+
+* * *
+
+  
+
 
 Please note that Adtoma’s privacy practices as described below do not apply to the privacy policies or practices of other Adtoma affiliates.
 
@@ -13,7 +20,7 @@ Adtoma provide business systems for publishers to manage their digital advertisi
 
 Click here for more information about our products and services.
 
-If you have questions regarding this statement about how information is collected and used at this website, you should contact [info@adtoma.com](mailto:info@adtoma.com) by clicking on the link.
+If you have questions regarding this statement about how information is collected and used at this website, you should contact [info@adtoma.com](mailto:info@adtoma.com) by clicking on the link.
 
 Adtoma’s main offices are located at:
 
@@ -37,9 +44,9 @@ You may be asked to provide personal information in certain fields on this websi
 
 The Adtoma.com website uses cookies. A “cookie” is a small text file that contains a string of alphanumeric characters. There are two types of cookies that may be used at the Adtoma.com website: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the “Cookies” folder on your computer and remains in this “Cookies” folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. A session cookie is held temporarily in your computer’s memory and disappears after you close your browser or shut off your computer. The Adtoma.com website may also use Web beacons (also called “clear GIFs” or “pixel tags”) in conjunction with cookies. Web beacons are small strings of code that are placed in a Web page.
 
-If you have arrived at this website by clicking on a banner ad for one of our products or services, a session cookie may be used. This cookie will contain an identification number for the ad that you clicked on, or will contain an identification number for the site that you were visiting when you clicked on the banner ad. This session cookie helps Adtoma’s Marketing Department determine which of our ads attract the most visitors. If, after you arrive at our site, you choose to request further information from us about our products and services, the personal information that you provide in that request will be linked to the information in the session cookie. This also helps Adtoma’s Marketing Department measure the effectiveness of our advertising. This “linking” will not be used to target future advertisements to you or to send you emails about future goods and services. You will receive emails about our products only if you tell us on the product request page that you want us to send them to you. Because this is a session cookie, it will disappear once you have closed your browser. If you return to our site via another one of our ads, you will appear as a new visitor unless and until you provide further personal information.
+If you have arrived at this website by clicking on a banner ad for one of our products or services, a session cookie may be used. This cookie will contain an identification number for the ad that you clicked on, or will contain an identification number for the site that you were visiting when you clicked on the banner ad. This session cookie helps Adtoma’s Marketing Department determine which of our ads attract the most visitors. If, after you arrive at our site, you choose to request further information from us about our products and services, the personal information that you provide in that request will be linked to the information in the session cookie. This also helps Adtoma’s Marketing Department measure the effectiveness of our advertising. This “linking” will not be used to target future advertisements to you or to send you emails about future goods and services. You will receive emails about our products only if you tell us on the product request page that you want us to send them to you. Because this is a session cookie, it will disappear once you have closed your browser. If you return to our site via another one of our ads, you will appear as a new visitor unless and until you provide further personal information.
 
-The Adtoma.com website may use persistent cookies, Web beacons and information collected in our log files (such as Internet Protocol Address, referring URLs, etc.) about your activity at this site to better understand how the website is used, resolve technical problems, and enhance your experience at this site. Information from website analysis cookies or about website usage is not combined with information from any other Adtoma cookie. We use a third-party email technology to send emails that you have agreed to receive. Web beacons are used in those email messages to measure the effectiveness of our advertising.
+The Adtoma.com website may use persistent cookies, Web beacons and information collected in our log files (such as Internet Protocol Address, referring URLs, etc.) about your activity at this site to better understand how the website is used, resolve technical problems, and enhance your experience at this site. Information from website analysis cookies or about website usage is not combined with information from any other Adtoma cookie. We use a third-party email technology to send emails that you have agreed to receive. Web beacons are used in those email messages to measure the effectiveness of our advertising.
 
 In addition, Adtoma may serve ads on this and other websites using our own or third party ad-serving technology. In doing so, one of our ad servers will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on this and other sites. The ad-serving cookie is a persistent cookie.
 
@@ -53,8 +60,13 @@ Adtoma has implemented reasonable security measures in order to protect both per
 
 ## CHANGES TO THIS PRIVACY POLICY
 
-We may amend this privacy policy from time to time as we add new products and services, as we improve our current offerings, and as technologies change. If we make any material or substantive changes in our treatment of information collected at this site ([www.adtoma.com](http://www.adtoma.com/)), we will notify you by posting a clear and conspicuous notice of these changes on our website and in this privacy policy.
+We may amend this privacy policy from time to time as we add new products and services, as we improve our current offerings, and as technologies change. If we make any material or substantive changes in our treatment of information collected at this site ([www.adtoma.com](http://www.adtoma.com/)), we will notify you by posting a clear and conspicuous notice of these changes on our website and in this privacy policy.
 
 ## CHANGES IN CORPORATE STRUCTURE
 
 If all or part of the company is sold, merged or otherwise transferred to another entity, the information that you have provided at this site may be transferred as part of that transaction. However, Adtoma will take reasonable steps to assure that such information is used in a manner consistent with the Adtoma privacy policy under which it was collected.
+
+  
+
+
+* * *
