@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyozou.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626110027id_/http%3A//www.kyozou.com/index.php/main/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyozou.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117043716id_/http%3A//www.kyozou.com/index.php/main/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Kyozou eCommerce Solutions | Kyozou eCommerce Solutions
 
