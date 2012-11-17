@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145210id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117065049id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
 
-# Data Protection and Privacy - Vision-Net - Irish Company Information, Irish Business Info And UK Company Info
+# Data Protection and Privacy - Irish Company Info - Vision-Net
 
 Vision-net.ie is concerned about the protection of privacy and security. We will not disclose your personal information to any other party outside the CFI Group of companies.
 
