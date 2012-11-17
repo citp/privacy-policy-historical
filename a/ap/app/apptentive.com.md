@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517050818id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117235510id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
 
 # Customer communication & feedback is important, as is privacy
 
@@ -85,6 +85,6 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 ## Get Started
 
-## Ratings done right
+## Feedback for Mac Apps
 
-Ratings & reviews should share your excellence. Asking for ratings should be about delighting your customers. [Read More >](https://web.archive.org/ios-app-ratings)
+The Mac App Store is incredible. Make sure you're hearing your rapidly growing customer base. [Read More >](https://web.archive.org/mac-os-x-app-ratings?class=more)
