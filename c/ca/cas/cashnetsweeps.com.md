@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetsweeps.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519154127id_/http%3A//www.cashnetsweeps.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetsweeps.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117071953id_/http%3A//www.cashnetsweeps.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # CashNet Sweepstakes
 
