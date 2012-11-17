@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woojr.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616073020id_/http%3A//www.woojr.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woojr.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117071637id_/http%3A//www.woojr.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Woo! Jr. Kids Activities Network
 
