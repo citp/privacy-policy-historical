@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the compucars.co.uk privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628205739id_/http%3A//www.compucars.co.uk/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the compucars.co.uk privacy policy that was archived on 2012-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117014828id_/http%3A//www.compucars.co.uk/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -230,6 +230,181 @@ Cookies are small text files stored by your web browser used to record informati
 
 </div>
 
+<!--Link to cookies.css should really be in the head - move there if possible-->
+<link href="/dealercommon/global-scripts/cookies/styles/cookies.css" rel="stylesheet" type="text/css">
+
+<div id="changeSettingsDialog" style="display:none; visibility:hidden">
+    <p>
+        Cookies are small text files that are placed on your computer by websites that you visit or certain emails you open. They are widely used in order to make websites work, or work more efficiently, as well as to provide business and marketing information to the owners of the site.
+        For more detailed information about cookies visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a> 
+    </p>
+
+    <ol>
+        <li>
+            <h4>How to control and delete cookies</h4>
+            We do not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
+            Alternatively, you may wish to visit www.aboutcookies.org which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+            Please be aware that restricting cookies may impact on the functionality of websites.
+            We use a number of suppliers who also set cookies on our website on our behalf in order to deliver the services that they are providing. 
+        </li>
+        <li> 
+            <h4>List of the main cookies</h4>
+            Here is a list of some cookies that may be set by us while using our web site
+            <ul>
+                <li>ASPSESSIONID and ASP.NET_SessionID allow us to recognise your requests from page to page. This allows us to remember your previous selections and choices, navigate back to previous pages etc. These cookies are removed when you close your browser.</li>
+                <li>AutoChat may be set if we use live chat on our web site. This is a web site analytic cookie.</li>
+                <li>Google.com provides web site analytics and may set the following cookies __utma, __utmb, __utmc, __utmz</li>
+            </ul>
+
+        </li><li> 
+            <h4>Third Party Cookies</h4>
+            We use a number of suppliers who also set cookies on our website on its behalf in order to deliver the services that they are providing. 
+            We sometimes embed photos, video, social sharing icons and other content from external websites such as YouTube,  Flickr and social networking sites such as Facebook, Twitter and Google+. As a result, when you visit a page with content embedded from one of these sites  you may be presented with cookies from their website.  We do not control the dissemination of these cookies.  You should check the relevant third party website for more information about these. 
+            Here is a list of some cookies that may be set by our third parties while using our web site:-
+            <ul>
+                <li>yahoo.com</li>
+                <li>twitter.com</li>
+                <li>api.twitter.com</li>
+                <li>addthis.com</li>
+                <li>youtube.com</li>
+            </ul>
+        </li>
+        <li> 
+            <h4>Flash Cookies (local shared objects)</h4>
+            From time to time, we may use Adobe's Flash Player to deliver content.  To improve user experience, Local Shared Objects - or Flash Cookies as they are commonly known - are employed to provide features such as auto-resume and for saving your preferences. Flash Cookies are stored on a user's terminal much the same as cookies are, however it is not possible to manage them at browser level in the same way.
+            The Adobe website provides comprehensive information on how to delete or disable Flash cookies either for a specific domain or for all websites - see <a href="http://www.adobe.com/products/flashplayer/security" target="_blank">http://www.adobe.com/products/flashplayer/security</a> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash based applications.
+        </li>
+    </ol>
+</div>
+
+<div id="cookiesDialog" style="display:none; visibility:hidden">
+    <p>
+        The cookie settings on this website are set to allow all cookies in order to give
+        you the best possible experience. If you continue without changing these settings,
+        you consent to this.
+    </p>
+    <p>
+        You will automatically opt-in and this notification will close in <span id="countdown">10</span> seconds
+    </p>
+</div>
+
+<!--Think that jQuery 1.7.2 is conflicting with jQuery LavaLamp Plugin -->
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript">
+
+
+
+    function closeCookieDialog() {
+        $("#cookiesDialog").dialog("close");
+        createCookie("starkwoodMediaGroup_cookies", "true", 365);
+    }
+
+    var i = 15;
+    var interval;
+    function countDown() {
+        $("#countdown").html(i--);
+        if(i == 0)
+        {
+            clearInterval(interval);
+            closeCookieDialog();
+        }
+    }
+
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else var expires = "";
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    function eraseCookie(name) {
+        createCookie(name, "", -1);
+    }
+
+    $(document).ready(function () {
+
+        $("#cookiesDialog").dialog({
+            autoOpen: false,
+            buttons:
+                {
+                    "Accept": function () {
+                        closeCookieDialog();
+                    },
+                    "Change Settings": function () {
+                        //close the dialog
+                        $(this).dialog("close");
+
+                        //reset the auto-close timer
+                        i = 15;
+                        $("#countdown").html(15);
+                        clearInterval(interval);
+
+                        //open the settings dialog
+                        $("#changeSettingsDialog").dialog("open");
+                    }
+                },
+            closeText: '',
+            draggable: false,
+            dialogClass: "cookiesDialog",
+            modal: false,
+            position: ['right', 'bottom'], //POSITION of the dialog
+            resizable: false,
+            title: "Cookies",
+            width: 300,
+            open: function (event, ui) {
+                interval = setInterval("countDown()", 1000);
+            }
+        });
+
+        $("#changeSettingsDialog").dialog({
+            autoOpen: false,
+            buttons:
+            { "Continue & Accept Cookies": function () {
+                $(this).dialog("close");
+                $("#dialog").dialog("open");
+            }
+            },
+            closeText: '',
+            dialogClass: "changeSettingsDialog",
+            resizable: true,
+            title: "Cookie Information",
+            width: 1000,
+            height: 700,
+            modal: true,
+            close: function (event, ui) {
+                //$("#cookiesDialog").dialog("open");
+                closeCookieDialog();
+            }
+        });
+
+        if (readCookie("starkwoodMediaGroup_cookies") != "true") {
+            $("#cookiesDialog").dialog("open");
+        }
+
+        //Remove the styling on the dialog divs.  This styling stops them appearing on the page (for a split second) when the page is initially loading
+        $("#cookiesDialog").css("visibility", "").css("display", "");
+        $("#changeSettingsDialog").css("visibility", "").css("display", "");
+
+        //Forces the dialog to 'stick' to the bottom of the page
+        $(".cookiesDialog.ui-dialog").css({ position: "fixed" });
+    });
+
+</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-7572120-1']);
