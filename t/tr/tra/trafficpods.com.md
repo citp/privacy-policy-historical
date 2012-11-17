@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficpods.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520030201id_/http%3A//trafficpods.com/about_privacy.jsp%3Fref%3DNONE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficpods.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117182318id_/http%3A//www.trafficpods.com/about_privacy.jsp%3Fref%3DNONE) for the most accurate reproduction.*
 
 # Traffic Exchange Evolution - Traffic, Surf, Hits, Free to Join
 
