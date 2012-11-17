@@ -1,86 +1,140 @@
-> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129195731id_/http%3A//www.vovici.com/privacy.aspx%3Fcta%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vovici.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117023911id_/http%3A//www.vovici.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Vovici
+# Privacy Policy - Vovici
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.vovici.com&sealid=101)
+Last revised: May 2012
 
-Vovici Corporation (Vovici) is committed to safe guarding the privacy of our users' information. We have established this privacy statement to demonstrate our firm commitment to online privacy. This privacy statement applies exclusively to the Web site [www.vovici.com](http://www.vovici.com/ "www.vovici.com") . Information obtained from visitors and customers will only be used for internal purposes. Vovici Corporation at no time shall sell, rent, or otherwise share your personal information with any third parties for their promotional purposes. Vovici Corporation is a Licensee of the TRUSTe Privacy program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. Vovici has elected to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe as a testament of our commitment to your privacy. 
+Verint Systems Inc. and its [ subsidiaries](http://www.sec.gov/Archives/edgar/data/1166388/000110465912023217/a12-2869_1ex21d1.htm) (collectively, “Verint”) are concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the "Site") as well as certain information we collect from offline sources, as explained in more detail below. By providing Personal Information (defined below) to us, you agree to the terms and conditions of this Privacy Policy.
 
-**Contact Information  
-**When you register with us, we require that you provide correct contact information, which may include your name, email address, phone number, and other types of information. The information you provide allows us to send you periodic reminders about your account status and contact you regarding technical issues. If you register with Vovici in error, please [contact us](https://web.archive.org/about/contact.aspx "contact us") and we will delete your record from our database. 
+If you apply for a job through the Site, our use of the Personal Information you provide through our Career Center is governed by a separate privacy policy, not this Privacy Policy. Please click <http://verint.com/corporate/careers_list.cfm> to review our privacy policy for job seekers who apply for jobs through the Site.
 
-You may contact Vovici concerning this privacy policy and our privacy practices at the following: 
+Verint complies with the U.S. - E.U. and US- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Information regarding the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. A copy of Verint's Safe Harbor policy can be found at: <http://www.vovici.com/safeharbor.aspx>.
 
-**Mailing Address:**  
-Vovici Corporation  
-45365 Vintage Park Plaza  
-Ste 250  
-Dulles, Virginia 20166 USA
+**Personal Information We Collect**  
+"Personal Information" is information that identifies you as an individual, such as:
 
-| 
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Organization and job title or function
+  * Login ID, PIN or other Password for access to certain content on the Site
 
-**Phone Numbers:**  
-1.800.941.0904  
-+1.703.481.9326
 
-**Email Address:**  
-[privacy@vovici.com ](mailto:privacy@vovici.com "privacy@vovici.com ")  
-  
----|---  
-  
-We **do not sell, share, or distribute any information** you provide during the registration process or in discussions with our survey advisors. Additionally, we use a double opt-in registration process to further assure the security of your contact information. Any attempt to circumvent or abuse our system through multiple registrations, entering someone else's contact information or falsifying any data will result in immediate deletion of any and all records and accounts for that user.
 
-In the event that your inquiry goes unaddressed within a reasonable time expectation, or hasn't been addressed to your satisfaction, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url= "TRUSTe") who shall then work as a liaison in assisting us to resolve your concerns.
+We may merge Personal Information collected through the Site with Personal Information that we collect about you offline, such as business contact information that we receive in connection with sales presentations, your e-mails to us or your purchases from us, information gathered when you attend a trade show, seminar or other business event, or information provided by your employer if your company enrolls you in a training event. All such merged Personal Information will be treated in accordance with this Privacy Policy.
 
-**Safe Harbor  
-**[We self-certify compliance with](https://www.export.gov/safehrbr/list.aspx "We self-certify compliance with")   
-[](http://www.export.gov/safeharbor)
+We use third-party payment services ("Payment Service") to collect payments for purchases made through the Site. If you wish to make a payment through the Site, you will be directed to a webpage that is hosted by the Payment Service (or the Payment Service's service providers) and not by Verint. Any Personal Information that you provide through the Payment Service's webpage will be collected by Payment Service and not by us, and will be subject to Payment Service's privacy policy, rather than this Privacy Policy. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH PAYMENT SERVICES.
 
-**Newsletters  
-**When you provide your email address to receive our newsletter or indicate on your registration form that you would like to receive our newsletter, we will use your email address to send our newsletter. You may opt-out of receiving our newsletter at any time by following the unsubscribe instructions provided with it, updating your user profile, or by contacting the Vovici Webmaster via email at [privacy@vovici.com](mailto:privacy@vovici.com "privacy@vovici.com"). We will process your request as soon as possible.
+**How We Use Personal Information**  
+We may use Personal Information:
 
-**Tell-A-Friend Email  
-**If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Vovici does not store this information, or use it for any other purposes beyond those disclosed above.
+  * To respond to your inquiries and fulfill your requests, such as to send you e-mail alerts, white papers or information about our company, products and services.
+  * To send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
+  * To complete and fulfill your purchase, for example, to have your order delivered to you, to provide you with the products and services you request, to communicate with you regarding your purchase and provide you with related customer service.
+  * To allow you to register for or take advantage of various opportunities, such as enrolling in online and classroom training; submitting online tickets for support or other services; participating in forums, blogs or other interactive features; or applying for your organization to become a Verint Systems partner.
+  * To send you marketing communications that we believe may be of interest to you.
+  * To allow you to provide feedback in a customer satisfaction survey or for market research purposes.
+  * To personalize your experience on the Site by presenting products and offers tailored to you.
+  * To administer and develop our business relationship with you and the organization you represent, if you represent one of our customers, business partners or prospective customers or partners.
+  * For our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-We also provide widgets on the Web site to users as a courtesy allowing you to share data on third party platforms. These widgets do not collect, or store any of your personal information submitted to us on the Web site.
 
-**Requesting/Updating Your Information  
-**Registered users with Vovici may request a copy of their information on file with Vovici by contacting the company via phone at 1.800.941.0904 or +1.703.481.9326.
 
-Registered users may update their information on file with Vovici by either a) contacting Vovici at the phone numbers listed above, or b) filling out a form on the Web site with their new contact information within their account settings. 
+**How Personal Information is Disclosed**  
+Your Personal Information may be disclosed:
 
-**Log Files  
-**As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.
+  * To our [ affiliates](http://www.sec.gov/Archives/edgar/data/1166388/000110465912023217/a12-2869_1ex21d1.htm) for the purposes described in this Privacy Policy. Verint Systems Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services and other similar services to enable them to provide services.
+  * To business partners, if you choose to purchase products and services from us that include or require products and services of our business partners (such as integration services), to enable them to provide the applicable products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR THE USE OF YOUR PERSONAL INFORMATION BY SUCH BUSINESS PARTNERS.
+  * To identify you to anyone to whom you send messages through the Site.
+  * To third party distributors that we ask to follow-up on requests from you.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Site.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
-We do not link this automatically-collected data to personally identifiable information.
 
-**Cookies  
-**A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+**Other Information We Collect**  
+"Other Information" is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
 
-We use both temporary and persistent cookies to maintain your session with our website and provide website usage statics. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. More information about cookie technology can be found on the Microsoft® website at: <http://www.microsoft.com/info/cookies.mspx>.
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. As some of our promotions or surveys may be targeted towards responses to a particular marketing program, if the persistent cookie for that program is not present due to visitor deletion, you may not be invited to participate in the corresponding survey or promotion. We may also employ the use of one pixel images embedded within our web pages (web beacons) to track and analyze user preferences and page traffic in improving our offerings. These images are not tied to personal information.
 
-Third Party Cookies: We may from time to time employ the services of a third party agent in tracking non-personal, statistical and aggregated data about our user base. This third party agent may make use of cookies and web beacons to which Vovici has no access to this end. We use this information to understand and improve our Web site offerings.
 
-**Security Measures  
-**If you have questions about security on our Web site, you can send us an email at [privacy@vovici.com](mailto:privacy@vovici.com "privacy@vovici.com").
+**How We Collect Other Information**  
+We and our third party service providers may collect Other Information in a variety of ways, including:
 
-**Surveys  
-**When you publish your survey on our servers, we will provide you with a unique URL to display your survey. We will not provide this URL to any other person or entity, but we will provide your survey to any web browser requesting your unique URL. We may review your survey contents for violations of our Use Policy. If we determine your survey is in violation of our [Use Policy](https://web.archive.org/terms-of-use.aspx "Use Policy"), we will attempt to contact you and reserve the right to delete your survey and results from our systems.
+  * **Through your browser:** Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version and Internet browser type and version. We use this information to ensure that our Site functions properly.
+  * **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Site, pages visited, language preferences and Verint services visitors choose to use. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while visiting the Site, as well as for online tracking purposes. We can recognize your computer to assist your use of the Site. We also gather statistical information about the usage of the Site in order to continually improve the design and functionality, understand how customers use the Site and to assist us with resolving questions regarding the Site.
 
-**Survey Results  
-**It's your data. We will not attempt to read your survey results at any time unless explicitly instructed to do so by you, except that, solely with respect to any use of the EFM for CRM Module, we do review, process and provide analysis in aggregate form with respect to the results of specific format questions developed by Vovici regarding the likelihood of a survey respondent to refer others to the applicable products and/or services of an organization. We only disclose this information in aggregate form with respect to the survey results to these questions for the applicable organization for the EFM for CRM Module and not in any way that personally identifies you or your specific response to the questions in the survey. We do not own the contents of the data for your survey. Except for the limited analysis performed by us on the specific responses to the EFM for CRM Module, we only have access to your surveys for purposes of backup and troubleshooting. When your survey results are received by us, we will store them in a secure location. We will only allow your survey results to be downloaded directly into our desktop software or accessed through our online web interface. We have security measures in place to protect your results while stored on our servers and we will prosecute any attempt to access this information without authorization to the fullest extent of the law.
+You can refuse to accept these cookies by configuring your web browser settings to automatically reject cookies or to prompt you to accept cookies; for more information about how to do this, please refer to your browser's Help documentation. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Site.
 
-**E-Mail Notification System  
-**Our e-mail notification system stores your e-mail addresses on our server in a secured location. These e-mail addresses are kept on the server for tracking and click notification purposes. Much like survey data, these addresses are yours, not the property of Vovici Corporation. Vovici technical support and development may examine these lists for support and troubleshooting purposes. We will not use or sell these e-mail addresses to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted to the fullest extent of the law.
+  * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Site pages and HTML-formatted email messages to, among other things, track the actions of Site users and email recipients, measure the success of our marketing campaigns and compile statistics about Site usage and response rates.
+  * **IP Address:** Your "IP Address" is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
+  * **From you:** Information such as your location, as well as other information, such as your preferred means of communication or areas of interest, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Site.
+  * **By aggregating information:** Aggregated Personal Information does not personally identify you or any other user of the Site, (for example, we may aggregated Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, please feel free to contact us through the contact information listed at the top of this page.
+**How We Use and Disclose Other Information**  
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then, in addition to the uses listed in the "How We Collect Other Information" section above, we may use and disclose Other Information for all the purposes for which we use and disclose Personal Information.
 
-We post customer testimonials on the Web site. These testimonials may on occasion include the user's name. We obtain our users' consent to include this personal information with their testimonial prior to posting on our Web site.
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+**Third Party Sites**  
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
+
+**Security**  
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
+
+**Choices and Access**
+
+**Your Choices Regarding Our Use and Disclosure of Your Personal Information**  
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
+
+  * **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the instructions contained in the email or by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com).
+  * **Our sharing of your Personal Information with affiliates for their marketing purposes:** If you would prefer that we do not share your Personal Information on a going-forward basis with our affiliates for their marketing purposes, you may opt-out of this sharing by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com).
+  * **Our sharing of your Personal Information with unaffiliated third parties for their marketing purposes:** If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at [opt-out@verint.com](mailto:opt-out@verint.com).
+
+
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our affiliates or unaffiliated third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+**How You Can Access, Change or Suppress Your Personal Information**
+
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us at [privacy@verint.com](mailto:privacy@verint.com) or at the addresses listed below in "Contacting Us".
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
+
+**Retention Period**  
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+**Use of Site by Minors**  
+The Site is not directed to individuals under the age of eighteen (18), and we request that these individuals do not provide Personal Information through the Site.
+
+**Cross-Border Transfer**  
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our Site you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
+
+**Sensitive Information**  
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise to us.
+
+**Information We Handle as a Service Provider**  
+In the course of providing goods and services to our customers, Verint may receive information from our customers and distributors about their own customers. Verint acts only in accordance with our customer’s or distributor’s instructions with respect to such information, and its collection, use and disclosure is governed by the privacy policy and practices of the customer or distributor concerned and not by this Privacy Policy.
+
+**Updates to this Privacy Policy**  
+We may change this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+
+**Contacting Us**  
+If you have any questions about this Privacy Policy, please contact us by email at [privacy@verint.com](mailto:privacy@verint.com), or please write to the following address:
+
+Verint Systems Inc.  
+Attn: Legal Department/Privacy Policy  
+330 South Service Road  
+Melville, NY 11747 USA
+
+Please note that email communications are not always secure, so please do not include credit card information or sensitive information in your emails to us.
