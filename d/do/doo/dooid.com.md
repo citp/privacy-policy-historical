@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dooid.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325025438id_/http%3A//dooid.com/home/html/privacy.php%3Flang%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooid.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117140808id_/http%3A//dooid.me/home/html/privacy.php) for the most accurate reproduction.*
 
-# dooid - who are you?
+# 
 
 **We will collect no personal information about you unless the information is voluntarily provided by you.**
 
@@ -37,6 +37,6 @@ For information about your personal information collection and its use or to off
 
 **DooID  
 Per Schmitz  
-Calle el Cano 3, p2, 2ºb  
-38 612 El Médano, S/C de Tenerife  
+Calle el Cano 3, p2, 2Âºb  
+38 612 El MÃ©dano, S/C de Tenerife  
 Spain **
