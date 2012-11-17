@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519134132id_/http%3A//www.bill4time.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117063057id_/http%3A//www.bill4time.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bill4Time
 
-This policy was last modified on May 12, 2011.
+_Last updated on May 12, 2011._
 
 ### What information do we collect?
 
@@ -50,11 +50,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[http://www.bill4time.com](http://www.bill4time.com/)  
-16301 NE 8th Street, Suite 231  
-Bellevue, WA 98008  
-USA  
-[support@bill4time.com](mailto:support@bill4time.com)  
-(877) 245-5484
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20121117063057id_/http://www.bill4time.com/time-management-software-support/).
