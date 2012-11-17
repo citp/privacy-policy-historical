@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videobrewery.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518083744id_/http%3A//www.videobrewery.com/public/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobrewery.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117010354id_/http%3A//www.videobrewery.com/public/legal) for the most accurate reproduction.*
 
-# Video Brewery | Legal
+# Legal | Video Brewery
 
 We respect and value your privacy. This Privacy Policy describes the information we collect from you when you visit our website DemoDuck.com (“Website”), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us. This Privacy Policy should be read in conjunction with the Terms of Use located on the Website.
 
