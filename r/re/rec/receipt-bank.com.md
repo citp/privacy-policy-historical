@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520233539id_/http%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117134107id_/http%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
 
 # Receipt Bank - privacy policy
 
@@ -30,7 +30,7 @@
   10. Passive information is automatically generated. Receipt Bank will only use this information on an aggregated level for software and website improvement or for statistical information. 
   11. Receipt Bank uses cookies to enable the site to recognize your browser and relay traffic data back to our servers. Receipt Bank cookies do not collect personal information, and information from cookies is not combined with other personal information to identify specific users' browsing frequency or actions. 
   12. You are strongly encouraged to keep your cookie settings enabled, because they allow you to fully experience many of Receipt Bank features. 
-  13. Some of Receipt Bank partners, especially site analyzers, use cookies on http://www.receipt-bank.com, but we do not use, access or control those cookies or their uses. 
+  13. Some of Receipt Bank partners, especially site analyzers, use cookies on http://app.receipt-bank.com, but we do not use, access or control those cookies or their uses. 
   14. Receipt Bank uses credit card processors to provide our Receipt Mail-In service. When you sign up for Receipt Mail-In, your name and payment and mailing information will be sent as necessary to these processors to provide the service. These processors are prohibited from using your personally identifiable information for any other purpose than processing your payment of Receipt Mail-In as directed by Receipt Bank. 
   15. The information users provide to Receipt Bank is integral to the functioning of the website. We will not rent or sell your personal information to anyone. We share such data only in certain circumstances, as listed below: 
     1. Receipt Bank employees, consultants and contracted workers may use or come into contact with user information during the course of their normal working duties for Receipt Bank. 
