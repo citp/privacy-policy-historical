@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetmarketingnigeria.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102022402id_/http%3A//www.internetmarketingnigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingnigeria.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117232012id_/http%3A//www.netprofitszone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Marketing Nigeria News
+# Privacy Policy | Net Profits Zone
 
 Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
@@ -15,6 +15,6 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of Internet Marketing Nigeria then you may [contact us](http://www.internetmarketingnigeria.com/contact-us/ "contact us") at loriimn@internetmarketingnigeria.com 
+If you have any questions regarding the privacy policy of Internet Marketing Nigeria then you may contact us at loriimn@internetmarketingnigeria.com 
 
 Last updated Wed, 16 Jun 2010 00:16
