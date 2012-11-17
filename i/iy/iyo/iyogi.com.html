@@ -1,494 +1,701 @@
-<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2011-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501110305id_/http%3A//www.iyogi.net/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2012-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117010553id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy - iYogi</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="css/inner-page.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="css/video_banner.css" type="text/css">
-<link rel="stylesheet" type="text/css" href="css/superfish.css" media="screen">
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Privacy: iYogi</title>
 
+                <meta name="description" content="iYogi privacy policy explains how the company collects, uses, &amp; discloses information it receives while providing support services. Dial 1- 800-237-3901 to get iYogi tech support.
+">
+                <meta name="keywords" content="privacy, privacy policy, company policy">
+<meta name="msvalidate.01" content="A881FCF9C0EC2CEC04980D86E45C41DE">
+<link rel="shortcut icon" href="http://www.iyogi.com/wp-content/themes/iyogicom/images/favicon.ico">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197824260332760"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.iyogi.com/wp-includes/js/jquery/jquery.js"></script>
+<link rel="alternate" type="application/rss+xml" title="iYogi.com RSS2 Feed" href="http://www.iyogi.com/feed">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.iyogi.com/wp-content/themes/iyogicom/style.css">
+<link rel="pingback" href="http://www.iyogi.com/xmlrpc.php">
+<script type="text/javascript" src="http://www.iyogi.net/common_content/tracking/pagetracking.js"></script>
 
-<script type="text/javascript" src="js/longtail.js"></script>
-<script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="js/superfish.js"></script>
+<!--[if lt IE 9]>
+ <script src="http://www.iyogi.com/wp-content/themes/iyogicom/js/html5.js" type="text/javascript"></script>
+<![endif]-->  
 <script type="text/javascript">
-// <![CDATA[
-		// initialise plugins
-		jQuery(function(){
-			jQuery('ul.sf-menu').superfish();
-		});
-// ]]>
-		</script>
-<script src="js/jquery.pngFix.js" language="javascript" type="text/javascript"></script>
-<script language="javascript" type="text/javascript">
-// <![CDATA[
-    $(document).ready(function(){
-        $(document).pngFix();
-    });
-// ]]>
+// For GEO 
+function showHint()
+{
+
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+		var text = xmlhttp.responseText;
+		if(text != 'http://www.iyogi.com') {
+			document.location = text;
+		}
+    //document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","http://www.iyogi.com/wp-content/themes/iyogicom/gethint.php",true);
+xmlhttp.send();
+}
+showHint();
+
+
 </script>
-<script type="text/javascript" language="javascript" src="http://www.iyogi.net/js/iyogi_function.js"></script>
-<script src="http://www.iyogi.net/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="http://www.iyogi.net/js/scroller.js" language="javascript" type="text/javascript"></script>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body>
-<!-- Yahoo! Web Analytics - All rights reserved --> <script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"> </script> <script type="text/javascript"> var YWATracker = YWA.getTracker("1000110951862"); YWATracker.submit(); </script> <noscript>
-  <div><img src="http://a.analytics.yahoo.com/p.pl?a=1000110951862&amp;js=no" width="1" height="1" alt="" /></div> </noscript>
-<!-- End of Yahoo! Web Analytics Code -->
+
+<!-- Function to apply mobile the according to the screen resolution-->
 <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-465227-1']);
-    _gaq.push(['_trackPageview']);
-  </script>
+function formobile() {
+	dataString = "";
+	if (screen.width <= 699) {
+		$.ajax
+		({
+						type: "get",
+						url: "http://www.iyogi.com/mobile_settings.php",
+						data: dataString,
+						cache: false,
+						success: function(html);
+		});
+	}
+}
 
-<div id="container">
-  <div id="header" class="h_height">
-    <div id="h_t_p">
-      <div id="logo"><a href="http://www.iyogi.net/"><img src="images/iyogi_logo.gif" alt="Technical Support-iYogi Logo" title="Technical Support-iYogi Logo"></a></div>
-      
-      <div id="tfn"><strong>Call</strong>&nbsp;&nbsp;+800 237 3901</div>
-<div class="flag">
-         <p>Select Your Country</p>
-          <ul>
-            <li><a href="http://www.iyogi.net" class="active" target="_blank"><img src="http://www.iyogi.co.uk/images/us.jpg" border="0"></a></li>
-            <li><a href="http://www.iyogi.co.uk" target="_blank"><img src="http://www.iyogi.co.uk/images/uk.jpg" border="0" style="opacity:0.4;filter:alpha(opacity=40)" onmouseover="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseout="this.style.opacity=0.4;this.filters.alpha.opacity=40"></a></li>
-            <li><a href="http://www.iyogi.net.au" target="_blank"><img src="http://www.iyogi.co.uk/images/au.jpg" border="0" style="opacity:0.4;filter:alpha(opacity=40)" onmouseover="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseout="this.style.opacity=0.4;this.filters.alpha.opacity=40"></a></li>
-            <li><a href="http://www.iyogi.ca" target="_blank"><img src="http://www.iyogi.co.uk/images/ca.jpg" border="0" style="opacity:0.4;filter:alpha(opacity=40)" onmouseover="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseout="this.style.opacity=0.4;this.filters.alpha.opacity=40"></a></li>
-          </ul>
-      </div>
-      <div class="mcafee_logo">
-      <!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.iyogi.net"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.iyogi.net/63.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-<!-- END SCANALERT CODE -->      
-      </div> 
-    </div>
-    <!-- top header end -->
-    <div class="t_nav_bg">
-      <div class="main_menu">
-        <ul class="sf-menu sf-js-enabled sf-shadow">
-          <li class="tab menu_divider"><a href="#" class="sf-with-ul"><span>Services</span><span class="sf-sub-indicator"> »</span></a>
-            <ul style="display: none; visibility: hidden;">
-              <li class="nav_arrow"><a href="#" class="sf-with-ul">Virus &amp; Spyware Removal<span class="sf-sub-indicator"> »</span></a>
-                <ul style="display: none; visibility: hidden;">
-                  <li><a href="http://www.iyogi.net/virus-removal.html">Virus Removal</a></li>
-                  <li><a href="http://www.iyogi.net/spyware-removal.html">Spyware/Malware Removal</a></li>
-                </ul>
-              </li>
-              <li class="nav_arrow"><a href="#" class="sf-with-ul">Fast Setup &amp; Install<span class="sf-sub-indicator"> »</span></a>
-                <ul style="display: none; visibility: hidden;">
-                  <li><a href="http://www.iyogi.net/setup-install.html">Computer</a></li>
-                  <li><a href="http://www.iyogi.net/setup-install-laptop-netbook.html">Laptops/Netbooks</a></li>
-                  <li><a href="http://www.iyogi.net/antivirus/">Antivirus</a></li>
-                  <li><a href="http://www.iyogi.net/antispyware/">Antispyware</a></li>
-                  <li><a href="http://www.iyogi.net/networking/">Wireless Networking</a></li>
-                  <li><a href="http://www.iyogi.net/internet/">Internet</a></li>
-                  <li><a href="http://www.iyogi.net/digital-camera-support.html">Digital Camera</a></li>
-                  <li><a href="http://www.iyogi.net/mp3-player-support.html">MP3 Player</a></li>
-                  <li><a href="http://www.iyogi.net/printers/">Printer</a></li>
-                  <li><a href="http://www.iyogi.net/software/">Software</a></li>
-                  <li><a href="http://www.iyogi.net/hardware/">Hardware</a></li>
-                </ul>
-              </li>
-              <li class="nav_arrow"><a href="#" class="sf-with-ul">Instant Help &amp; Repair<span class="sf-sub-indicator"> »</span></a>
-                <ul style="display: none; visibility: hidden;">
-                  <li><a href="http://www.iyogi.net/computer-repair.html">Computer Repair</a></li>
-                  <li><a href="http://www.iyogi.net/repair/laptop-repair.html">Laptop Repair</a></li>
-                  <li><a href="http://www.iyogi.net/microsoftoperatingsystem.html">Operating System</a></li>
-                  <li><a href="http://www.iyogi.net/repair/computer-software-repair.html">Software Repair</a></li>
-                  <li><a href="http://www.iyogi.net/repair/index.html">Hardware Repair</a></li>
-                  <li><a href="http://www.iyogi.net/repair/computer-printer-repair.html">Printer Repair</a></li>
-                </ul>
-              </li>
-              <li><a href="http://www.iyogi.net/optimize.html">Optimize PC</a></li>
-              <li><a href="http://www.iyogi.net/data-backup.html">Data Backup</a></li>
-              <li class="nav_arrow"><a href="#" class="sf-with-ul">Internet  Networking<span class="sf-sub-indicator"> »</span></a>
-                <ul style="display: none; visibility: hidden;">
-                  <li><a href="http://www.iyogi.net/internet/">Internet</a></li>
-                  <li><a href="http://www.iyogi.net/networking/">Wireless &amp; Networking</a></li>
-                </ul>
-              </li>
-              <li class="nav_arrow"><a href="http://www.supportdock.com" target="_blank" class="sf-with-ul">Support Dock<span class="sf-sub-indicator"> »</span></a>
-                <ul style="display: none; visibility: hidden;">
-                  <li><a href="http://www.supportdock.com/green-pc/" target="_blank">Green PC</a></li>
-                  <li><a href="http://www.supportdock.com/optimize/" target="_blank">PC Optimization</a></li>
-                  
-                  <li><a href="http://www.supportdock.com/home-network-manager/" target="_blank">Home Network Manager</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li class="tab menu_divider"><a href="#" class="sf-with-ul"><span>We Support</span><span class="sf-sub-indicator"> »</span></a>
-            <ul style="display: none; visibility: hidden;">
-              <li><a href="http://www.iyogi.net/computer-support.html">Computer/Desktops</a></li>              
-              <li><a href="http://www.iyogi.net/laptop/">Laptops/Netbooks</a></li>
-              <li><a href="http://www.iyogi.net/printer-support.html">Printers</a></li>      
-              <li class="nav_arrow"><a href="#" class="sf-with-ul">Security<span class="sf-sub-indicator"> »</span></a>
-                <ul style="display: none; visibility: hidden;">
-                  <li><a href="http://www.iyogi.net/antivirus/antivirus-support.html">Antivirus</a></li>
-                  <li><a href="http://www.iyogi.net/antispyware/">Antispyware</a></li>
-                  <li><a href="http://www.iyogi.net/firewall-configure.html">Firewall</a></li>
-                </ul>
-              </li>              
-              <li><a href="http://www.iyogi.net/email/">Email</a></li>
-              <li><a href="http://www.iyogi.net/cd-dvd-burning-and-copying.html">CD DVD Burning</a></li>
-              <li><a href="http://www.iyogi.net/microsoft-support.html">Microsoft</a></li>
-              <li><a href="http://www.iyogi.net/compression-and-zip-support.html">Compression and Zip</a></li>
-              <li><a href="http://www.iyogi.net/internet-browser.html">Internet Browsers</a></li>
-              <li><a href="http://www.iyogi.net/software/multimedia/">Multimedia</a></li>
-              <li><a href="http://www.iyogi.net/microsoft-office-support.html">Office and Productivity</a></li>    
-              <li class="nav_arrow"><a href="#" class="sf-with-ul">Peripherals<span class="sf-sub-indicator"> »</span></a>
-                    <ul style="display: none; visibility: hidden;">
-                        <li><a href="http://www.iyogi.net/networking/">Networking</a></li>
-                        <li><a href="http://www.iyogi.net/mp3-player-support.html">MP3 Players</a></li>
-                        <li><a href="http://www.iyogi.net/digital-camera-support.html">Digital Camera</a></li>
-                   </ul>
-                  </li>
-            </ul>
+formobile();
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="iYogi.com » Privacy Policy Comments Feed" href="http://www.iyogi.com/privacy.html/feed">
+<link rel="stylesheet" id="wp-customer-reviews-css" href="http://www.iyogi.com/wp-content/plugins/wp-customer-reviews/wp-customer-reviews.css?ver=2.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.iyogi.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://www.iyogi.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://www.iyogi.com/wp-content/plugins/wp-customer-reviews/wp-customer-reviews.js?ver=2.4.5"></script>
+<script type="text/javascript" src="http://www.iyogi.com/wp-content/themes/iyogicom/js/MediaTicker.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.iyogi.com/wp-content/themes/iyogicom/js/flexcroll.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.iyogi.com/wp-content/themes/iyogicom/js/longtail.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.iyogi.com/wp-content/themes/iyogicom/js/bxslider.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.iyogi.com/wp-content/themes/iyogicom/js/iyogi_function.js?ver=3.4.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.iyogi.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.iyogi.com/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Terms of Use" href="http://www.iyogi.com/terms.html">
+<link rel="next" title="Disclaimer" href="http://www.iyogi.com/disclaimer.html">
+<meta name="generator" content="WordPress 3.4.1">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.iyogi.com/xmlrpc.php?rsd"> 
+<!--<link href="http://www.iyogi.net/whoson_chat/css/style.css" rel="stylesheet" type="text/css" />
+<script src="http://www.iyogi.net/whoson_chat/js/chat_pops.js"></script>-->
+
+<script>
+$(document).ready(function() {
+ $('#menu-item-229 a').attr('target', '_blank');     
+})
+</script>
+
+
+<!-- google anylitic code start-->
+
+<script type="text/javascript"> 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19302266-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })(); 
+</script>
+
+</head>
+
+<body>
+<!-- wrapper start -->
+<div class="wrapper">
+
+    <!-- header start -->
+    <header>
+        
+        <!-- nav start -->
+        <nav>
+            <div class="home"><a href="http://www.iyogi.com/">iYogi</a></div>
+             <div class="menu-header"><ul id="access" class="menu"><li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://www.iyogi.com/digital-home/">Digital Home Plan</a></li>
+<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-319"><a href="http://www.iyogi.com/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://www.iyogi.com/services/secure-protect/">Secure &amp; Protect</a></li>
+	<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="http://www.iyogi.com/services/speed-up-optimization/">Speed-up &amp; Optimization</a></li>
+	<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://www.iyogi.com/services/diagnosis-repair/">Diagnosis &amp; Repair</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://www.iyogi.com/services/setup-installation/">Setup &amp; installation</a></li>
+</ul>
+</li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://www.iyogi.com/local-us/">Onsite Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-1168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1168"><a href="http://www.iyogi.com/local/">Computer Repair Services</a></li>
+	<li id="menu-item-1002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1002"><a href="http://www.iyogi.com/onsite-support/onsite-home-theater-support-services.html">Home Theater Support Services</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1006"><a href="http://www.iyogi.com/onsite-support/onsite-home-theater-installation-services-for-any-brand.html">Home Theater Installation Services</a></li>
+		<li id="menu-item-1005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1005"><a href="http://www.iyogi.com/onsite-support/onsite-home-theater-repair-services-for-any-brand.html">Advanced Repair Services</a></li>
+		<li id="menu-item-1004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004"><a href="http://www.iyogi.com/onsite-support/onsite-tv-installation-services-for-any-brand.html">TV Installation Services</a></li>
+		<li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003"><a href="http://www.iyogi.com/onsite-support/onsite-tv-repair-services-for-any-brand.html">Basic Repair Services</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229"><a href="http://www.iyogiinsights.com/">Insights</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://www.iyogi.com/tech-expert/">Tech Expert</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://www.iyogi.com/good-karma/">Good Karma</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.iyogi.com/about-us/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://www.iyogi.com/about-us/leadership/">Leadership</a></li>
+	<li id="menu-item-576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-576"><a href="http://www.iyogi.com/news">News</a></li>
+	<li id="menu-item-1076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1076"><a href="http://www.iyogi.com/contact-us">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-1154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1154"><a href="http://www.iyogiblog.com/">Blog</a></li>
+</ul></div>            <div class="moresite_nav">
+            <ul class="moreiyogi" id="nav">            
+                <li class="special none"><a href="javascript:void(0)"><span><small>USA</small></span></a>
+                    <ul class="sub_menu">
+                    <li>
+                    <span class="level_01">AMERICA</span>
+                    <span class="level_02"><a href="http://www.iyogi.ca" target="_blank">CANADA</a></span>
+                    <span class="level_03"><a href="http://www.iyogi.net/" target="_blank">USA</a></span>
+                    </li>
+                    <li>
+                    <span class="level_01">EUROPE</span> 
+                    <span class="level_02"><a href="http://fi.iyogi.com" target="_blank">Finland</a></span>
+                    <span class="level_02"><a href="http://gr.iyogi.com" target="_blank">Greece</a></span>
+                    <span class="level_02"><a href="http://fr.iyogi.com" target="_blank">France</a></span>
+                    <span class="level_02"><a href="http://it.iyogi.com" target="_blank">Italy</a></span>
+                    <span class="level_02"><a href="http://es.iyogi.com" target="_blank">Spain</a></span>
+                    <span class="level_02"><a href="http://www.iyogi.co.uk" target="_blank">UK</a></span>
+                    </li>
+                    <li class="last">
+                    <span class="level_01">OCEANIA</span>
+                    <span class="level_02"><a href="http://www.iyogi.net.au" target="_blank">AUSTRALIA</a></span>
+                    </li>
+                    </ul>
+                </li>
+                
+                            </ul>
+             </div>
+            <div class="iYogi_logo"> <a href="http://www.iyogi.com/"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/iYogi_logo.png" alt="" width="91" height="39"></a> </div>
+           
+        </nav>
+        <!-- nav end -->
+        
+         <!-- tfn start -->
+<script>
+jQuery(window).scroll(function(){
+ 
+	var topmargin = 220;
+ 
+
+	if  (jQuery(window).scrollTop() > topmargin){
+		jQuery('#tfnaction').animate({'top':'-50px'},400);
+	}else if(jQuery(window).scrollTop() < (topmargin -50)){ 
+		jQuery('#tfnaction').stop(true).animate({'top':'49px'},200);	
+	}
+});
+</script>
+        <div class="tfnBox" id="tfnaction">
+        
+        	<div class="centerCntr">
+           <div>
+             <div class="bbb_container"><a title="iYogi, Inc. BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/computers-hardware-software-and-services/iyogi-inc-in-new-york-ny-99062/#bbbonlineclick" target="_blank"><img alt="iYogi, Inc. BBB Business Review" style="border: 0;" src="http://seal-newyork.bbb.org/seals/blue-seal-96-50-iyogi-inc-99062.png"></a></div>	
+             </div>
+               <span class="l_spacing"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/2million.png" alt="two million"></span> <span class="left_spacing">Call for Great <h1 class="h_text h_text1">Tech Support</h1> <span class="tfn_text tfn_text_smaller">1- 800 237 3901</span></span>
             
-          </li>
-          <li class="tab menu_divider"> <a href="http://www.iyogi.net/tech-experts.html"><span>Our Tech Experts</span></a></li>
-          <li class="tab menu_divider"> <a href="http://www.iyogi.net/customerreviews"><span>Customer Reviews</span></a></li>
-          <li class="tab"> <a href="http://www.iyogi.net/good-karma.html"><span>Good Karma</span></a></li>
-        </ul>
-      </div>
-      <div id="chat"><a href="http://59.165.202.183/chat/chatstart.htm?domain=www.iyogi.net" target="_blank"><img src="http://www.iyogi.net/images/chat_now_button.png" alt="Chat Support" title="Chat Support" width="94" height="37" hspace="12" border="0"></a></div>      <div class="facebook"><a href="http://twitter.com/iyogi" target="_blank"><img src="http://www.iyogi.net/images/twitter.gif" width="29" height="29" border="0" alt=""></a><a href="http://www.facebook.com/iYogi.techsupport" target="_blank"><img src="http://www.iyogi.net/images/facebook.gif" width="30" height="29" border="0" alt=""></a></div>
-</div>
-    <div class="header2">
-      <div id="l_panle">
-        <h1>Privacy Policy</h1>
-        <h4>Next-generation remote-computer tech support for consumers and small businesses</h4>
-
-      </div>
-      <div id="r_panle"> Call +800 237 3901<br>
-        <p>Get instant computer help from<br>
-          iYogi Certified Technicians</p>
-      </div>
-    </div>
-  </div>  <div class="content_bg">
-  <div class="banner_botton_info"></div>
-    <div class="content_left margin_left40">
-     <div class="breadcrumb">
-        <ul>
-          <li><a href="http://www.iyogi.net/"> Computer Support </a></li>
-          <li class="active_page_b">Privacy Policy&gt;</li>
-        </ul>
-        <div class="share">
-          <div class="addthis_toolbox addthis_default_style"> <a class="addthis_button_facebook"></a> <a class="addthis_button_email"></a> <a class="addthis_button_favorites"></a> <a class="addthis_button_print"></a> <span class="addthis_separator">|</span> <a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=ashishcv" class="addthis_button_expanded">More</a></div>
-          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=ashishcv"></script>
+            </div>
+            
         </div>
-      </div>
-      <div class="d_c_line"></div>
-      <div class="space4"></div>
-      <h2><span class="bold_gray_font">Privacy Policy </span></h2>
-      <p>This privacy policy discloses the practices for iYogi Inc (“iYogi”)  to protect privacy for users of its “Toolbar” beta users. From herein,  the "Service" is defined as the user support services owned and  operated by iYogi and the “iYogi Toolbar” or “Toolbar” is defined as  the desktop toolbar supplied by iYogi to identified users during the  Beta Testing phase. Submitting your information on our website or  through the toolbar constitutes acceptance of this privacy Policy.</p>
-      <p>1) INFORMATION COLLECTION AND USE iYogi is the sole owner of the  information collected through the web site/phone/e-mail. We will not  sell or rent this information to others in ways different from what is  disclosed in this policy. iYogi collects information from the users at  several different points through our toolbar.</p>
-      <p>a) Personal Information We will ask you when we need information  that personally identifies you (personal information) or allows us to  contact you. In order to use the iYogi Service and the toolbar user  must first complete the registration form. During registration user is  required to give user contact information (such as First and Last name,  E-mail address, Postal address, Personal identifier etc.). iYogi will  use your contact details to contact you regarding the product and/or  services you have requested. This includes re-registration/renewal  notifications, special offers, and surveys on improving our service. </p>
-      <p>b) Payment Information If user registers to use the Service provided  by iYogi, we will collect credit card information, and other payment  information necessary to complete a payment from user. iYogi may use a  third party to process and verify credit cards for billing purposes.  This requires us to share user name, credit card number, expiration  date and billing address with the credit card processing company. When  processing a payment transaction, iYogi will also obtain information  regarding the amount of the payment and other transaction data. We may  transfer or disclose this payment information to a third party only to  the extent necessary in order to complete the payment processing.</p>
-      <p>c) Computer System Information</p>
-      <p>i) Subscriber Computer -We may also ask for information related to  your computer. This may include: information about the date of purchase  of your computer, type of computer, identification number of your  computer, make and model of your computer and/or any computer hardware,  software or peripherals attached to it, condition of the computer,  system and registry data about software installations and hardware  configurations, and error tracking files. Generally, this information  is required to provide personalized technical support to you, and to  help us update our support tools and enhance our supported products  list.</p>
-      <p>ii) Remote Access - While requesting support you may request for the  problem to be resolved by taking control of your computer. iYogi uses  qualified tools which allow user to grant control of user computer to  an Expert remotely over the Internet, so that the Expert can diagnose  or correct problems. Experts are not allowed to use the Remote Access  software until and unless they have received adequate training in its  use, and user have consented to grant control. In addition, Experts  will not use Remote Access tools to obtain confidential or sensitive  information stored on user computer or network, deliberately destroy  information on user computer or network, or cause user to experience  system problems.</p>
-      <p>iii) Diagnostic Tool -Some iYogi online diagnoses application may  collect a wide variety of useful information about the state of a  computer system and the applications on it. This information is  packaged into a document containing all the essential details needed by  iYogi and is sent securely over the Internet to the iYogi server or a  third party server appointed by iYogi. iYogi analyzes this information  to help diagnose and solve end-user problems. Information collected by  the iYogi application will not contain any sensitive information such  as Web sites visited, e-mail messages, e-mail addresses sent to,  passwords, profiles, etc.</p>
-      <p>Use of the Remote Access and Diagnoses applications is also subject  to the terms of use in the respective software license agreements.</p>
-      <p>d) Live Help Session Records iYogi reserves the right to monitor  on-line and off-line sessions between user and a Technical Support  Executive for quality control of the Service provided to the Customer  by Technical Support Executive. In addition, we may record on-line and  off-line sessions conducted on the Web site for user reference and to  assist in resolution of disputes and/or potential complaints. The  session records will also be used to improve the Service, build a  support knowledge base, and/or conduct internal market research.  Session record data will not be correlated with personally identifiable  data about individual customers.</p>
-      <p>e) Cookies A cookie is a message given to a Web browser by a Web  server. The browser stores the message in a text file. The main purpose  of cookies is to identify users and possibly prepare customized Web  pages for them. Usage of a cookie is in no way linked to any personally  identifiable information while on our site and cannot infringe the  privacy of our customers.</p>
-      <p>f) Log Files We use IP addresses to analyze trends, administer the  site, track user movement, and gather broad demographic information for  aggregate use.</p>
-      <p>g) Sharing:  We will share aggregated demographic information with our  partners and advertisers. This is usually not linked to any personal  information that can identify any individual person, unless  specifically required to allow use of specific widgets within the  toolbar. h) Surveys &amp; Contests From time-to-time our toolbar  requests information from user via surveys or contests. Participation  in these surveys or contests is completely voluntary and user therefore  has a choice whether or not to disclose this information. Information  requested may include contact information (such as name and shipping  address), and demographic information (such as zip code). Contact  information will be used to notify the winners and award prizes. Survey  information will be used for purposes of monitoring or improving the  use and satisfaction of this toolbar and the iYogi service.</p>
-      <p>i) Children's Online Policy No part of our website is structured to  attract anyone under the age of 13. Consistent with the Children's  Online privacy Protection Act, we do not collect or maintain  information at our website from or sell products to those we actually  know are under the age of 13. Please ask your parent or guardian to  assist you in using our services if you are under the age of 13.<br>
-      </p>
-      <p>2) SECURITY This Web site takes every precaution to protect information of users. When user submits sensitive information via the Web site, user information is protected both on-line and off-line. When our registration form asks User to enter sensitive information (such as credit card number), the information is encrypted and is protected with the best of the encryption software. While on a secure page, such as our registration form, the lock icon on the bottom of Web browsers such as Microsoft® Internet Explorer® becomes locked, as opposed to un-locked, or open, when User is just 'surfing'. While we use encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. In situations that are required by law, we may disclose some information about our users to law-enforcing officers.</p>
-      <p>3) SUPPLEMENTATION OF INFORMATION In order for this toolbar to  properly fulfill its obligation to our customers, it is necessary for  us to supplement the information we receive with information from Third  party sources. For example, to determine our user's creditworthiness,  we may use their name and other related information to request a credit  report. Once we determine user creditworthiness, this document is  destroyed.</p>
-      <p>a) Special Offers - We send all new members a welcoming e-mail to  verify password and logon name. Established members will occasionally  receive information on products, services, special deals, and  newsletters.</p>
-      <p>b) Correction/Updating Personal Information -If User personally  identifiable information changes (such as user zip code), or if User no  longer desire the Service, we will Endeavour to provide a way to  correct, update or remove User personal data provided to us. This can  be done at the Profile page.      </p>
-      <p>c) Notification of Changes -iYogi reserves the right to update this  privacy Policy at any time by posting changes online without notice to  you. The most current version of the privacy Policy can be reviewed by  clicking on the "privacy Policy" hypertext link located on our Web site  http://www.iyogi.net. It is your responsibility to refer to this  privacy Policy before submitting any information on the website.  Submitting your information after such changes to the privacy Policy  constitutes acceptance of those posted changes.</p>
-      <p>d) If at any point we decide to use personally identifiable  information in a manner different from that stated at the time it was  collected, we will notify user via e-mail. We will use information in  accordance with the privacy policy under which the information was  collected.</p>
-      <p>If user has any questions about the privacy Policy at our Web site, user can e-mail user inquiries to <a href="mailto:feedback@iyogi.net" class="more">feedback@iyogi.net</a></p>
-      <div class="space2"></div>
-    </div>
-    <div class="content_right">
-      <div class="space2"></div>
-      <div class="disclaimer_right"><iframe frameborder="0" scrolling="no" src="http://www.iyogi.net/right_disclaimer.html" width="100%" height="100"></iframe>
-			<a href="#dis_last" id="disclaimer_link_right">IYOGI RECOMMENDS READING THE FULL DISCLAIMER</a></div>
-       <div class="tfn2"><strong> Call</strong> +800 237 3901</div>
-       <div class="right_tech_support">Annual Unlimited Tech Support for just <span>$169</span><sup>99</sup></div>     
-      
-    
-      <div class="box_b_l"></div>
-       <div align="center">
-        <script type="text/javascript">
-AC_FL_RunContent( 'id','player','name','player','width','260','height','220','src','player','allowscriptaccess','always','allowfullscreen','true','flashvars','file=http://www.iyogi.net/video/mix/iYogi-Complilation_27-04-10.mp4&image=http://www.iyogi.net/video/mix/complete_customer.jpg','movie','player' ); //end AC code
-    </script>
-	<noscript>
-	<object id="player" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" name="player" width="260" height="220">
-	  <param name="movie" value="http://www.iyogi.net/video/mix/player.swf" />
-	  <param name="allowfullscreen" value="true" />
-	  <param name="allowscriptaccess" value="always" />
-	  <param name="flashvars" value="http://www.iyogi.net/video/mix/iYogi-Complilation_27-04-10.mp4&image=http://www.iyogi.net/video/mix/complete_customer.jpg" />
-	  <embed
-			type="application/x-shockwave-flash"
-			id="player2"
-			name="player"
-			src="http://www.iyogi.net/video/mix/video/player.swf" 
-			width="260" 
-			height="220"
-			allowscriptaccess="always" 
-			allowfullscreen="true"
-			flashvars="http://www.iyogi.net/video/mix/iYogi-Complilation_27-04-10.mp4&image=http://www.iyogi.net/video/mix/complete_customer.jpg" 
-		/>    
-</object>
-	</noscript>
-       </div>
-  </div>
-    
-  </div>
-  <img src="images/content_bottom_bg02.jpg" alt="">
-  <div class="content_bg2">
-            <div class="expert">
-            <div class="heading2">Speak to a tech expert</div>
-             <div class="partik">
-                <img src="http://www.iyogi.net/images/iyogiman.jpg" alt="Global tech expert" width="102" height="98" align="left">
-                
-                 <p class="black_small2">Global tech expert</p>
-                 <p><span class="orangebold" style="padding:0px; margin:0px;">Partik Bhatia</span><br></p>
-                  <p><img src="http://www.iyogi.net/images/speak_icon.jpg" alt="Speak to a tech expert" width="10" height="9" style="float:left;">&nbsp;&nbsp;(pr. Par-tic)</p>
-                   <p class="button_border2"></p>
-                  <p><a href="http://59.165.202.183/chat/chatstart.htm?domain=www.iyogi.net"><img src="http://www.iyogi.net/images/chatnow.jpg" width="91" height="29" border="0" class="chat_now"></a></p>
-                
-                <div class="clear"></div>
-                <div class="speak_tfn"> <span>Call</span> +800 237 3901</div>
+        <!-- tfn end -->       
+        <!-- video start -->
+        <div class="videoBox">
+            
+            <div class="vdo">
+                <div class="video">
+                    <div id="featdisplay1" class="FLVMovie">
+                    <div id="jwplayer" class="jwplayer video_link" style="background-color:#fff; height:100%; width: 100%;"></div>
+                    <script type="text/javascript">
+                    // <![CDATA[
+                    function showVid(player_id, mp4, image, auto_start){
+                        var so = new SWFObject('http://www.iyogi.com/wp-content/themes/iyogicom/player.swf?' + Math.round(Math.random() * 1000),'mp1','100%','400','9');
+                        so.addVariable('width','100%');
+                        so.addVariable('height','400px');
+                        so.addParam('allowscriptaccess','always');
+                        so.addParam('wmode','transparent');
+                        so.addParam('allowfullscreen','true');
+                        so.addParam('stretching','exactfit');
+                        so.addParam('flashvars','&file='+ mp4 +'&stretching=fill&image='+image+'&autostart=' + auto_start);
+                        so.write(player_id);
+                    }	
+                    // ]]>				
+                    </script>
+                    </div>
+                </div>
+                <div class="videoclosed">X</div>
+                <div class="thumBox">
+                    <ul>
+                        <li class="video_link"><a id="vid0" href="javascript:void(0)"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/videos/thumbs/Animation_Promotional_Video.jpg" alt=""></a></li>
+                        <li class="video_link"><a id="vid1" href="javascript:void(0)"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/videos/thumbs/Abby.jpg" alt=""></a></li>
+                        <li class="video_link"><a id="vid2" href="javascript:void(0)"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/videos/thumbs/about-iYogi.jpg" alt=""></a></li>
+                    </ul>
                 </div>
             </div>
+            
+        </div>
+		<div class="clear"></div>
+        <!-- video start -->
+        
+        <!-- banner start -->
+        <div class="bannerBoxinner">
+        
+        	<div class="centerCntr topvideo">
+                
+                <!-- play start -->
+                <div class="playBoxInner" id="ply0">
+                	
+                    <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/play-iconsmall.png" height="67" width="66" alt="play">
+                    
+                </div>
+            	<!-- play start -->
+            
+            	<!-- plan start -->
+                <div class="planBoxInner">
+                	
+                    <div class="left hometheater">
+                    	<h2>Annual unlimited PC support</h2>
+                        <p>Great Tech Support is only a phone call away<br>
+&nbsp;</p>
+                        <div class="tfn"> Only <span>$169.<sup>99</sup> </span>per year
+                        <div class="redmore"><a href="https://services.iyogi.net/register/subscription/index1.aspx" onclick="_gaq.push(['_trackEvent', 'Digital Home Plan', 'Digital Home Plan', 'www.iyogi.com']);">Buy Now</a></div></div>
+                    </div>
+                    
 
+                    <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/home-theater.png" width="306" height="60" alt="Home Theater">
+                    
+                    <p class="whitebase">Get comprehensive support for computer and its peripherals</p>
+                    
+                </div>
+            	<!-- plan start -->
+                
+            </div>
+            
+        </div>
+        <!-- banner end -->
+        <!-- featured start -->
+        <div class="featuredBox">
+        
+        	<div class="centerCntr">
+            	
+                <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured.jpg" alt="featured">
+            
+            </div>
+            
+        </div>
+        <!-- featured end -->          
 
+          
+    </header>
+    <!-- header end -->    
 
-      <div class="featured">
-        <p class="news">In the News</p>
-            <br>          
-        <div class="marqueecontainer news_scroll" onmouseover="this.marquee.stop();" onmouseout="this.marquee.start();">
-          <div id="tst" style="position:absolute; width: 98%; ">
-             
-            <ul>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/april10/variance-in-tech-experience-release.html">New study shows high...<span>more</span></a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/april10/infinite-enters-strategic-alliance-with-iYogi.html">Infinite Enters Strategic...<span>more</span></a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/april10/ibm-collaborates-with-iyogi-to-power-remote-technical-support-business-growth.html">IBM Collaborates with iYogi...<span>more</span></a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/april10/iyogi-reviews-the-top-5-reasons-for-printer-problems.html">iYogi Reviews: The Top 5 Reasons... <span>more</span></a></strong></li> 
-                  <li><strong><a href="http://www.iyogi.net/press-releases/april10/iyogi-reviews-the-top-five-reasons-for-slow-pc-performance.html">iYogi Reviews the Top... <span>more</span></a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/march10/iyogi-named-to-lead411-hot-125-new-york.html">iYogi Named to Lead411's Hot.. <span>more</span></a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/march10/iyogi-leverages-akamai-to-power-its-global-online-tech-support-platform.html">iYogi Leverages Akamai to... <span>more</span> </a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/march10/verizon-business-networking.html">Verizon Business Networking...<span>more</span></a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/press-releases/feb10/iyogi-goes-mobile.html">iYogi Goes Mobile... <span>more</span></a></strong></li>
-                  <li><strong><a href="http://www.iyogi.net/walmart.html" target="_parent">iYogi's PC Setup... <span>more</span></a></strong></li>
+<!-- section start -->
+    <section class="internalCntr">
+        <!-- main container start -->
+        <div class="mainCntr">       
+            <div class="centerCntr">
 
+<div class="breadcrumbs">
+  <!-- Breadcrumb NavXT 4.0.2 -->
+<a title="Go to Home." href="http://www.iyogi.com">Home</a> &gt; Privacy Policy</div>         
+            <!-- inner section start -->
+            <section class="leftCntr">
+            
+                <article class="virousBox">
+                
+		                            <h1>Privacy Policy</h1>
+                                <p>This privacy policy explains how iYogi Inc (“iYogi”) collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the “Services”) in accordance with the Terms of Use (http://www.iyogi.net/terms.html). When you submit information through our website, email, chat session, provide it to our technicians or, use the Services, you(the “user”) agree to our use of this information consistent with this privacy policy.</p>
+<h6>HOW IYOGI COLLECTS INFORMATION</h6>
+<p>We provide user support services to consumers using web-based tools and software as well as through telephone support of our users. These tools may include software that enables us to remotely access and control a user’s computer with their permission. We require certain information and permissions from you to provide the Services.</p>
+<p>Some information we collect may be provided by the user directly such as when requested by a form or on the phone by a technician. Other technical information might be collected or accessed by or through our diagnostic and related tools as our computers work with yours to provide the Services.</p>
+<h6>TYPES OF INFORMATION IYOGI COLLECTS</h6>
+<p>Information You Provide</p>
+<h6>PERSONAL INFORMATION:</h6>
+<p>We will ask you when we need information that personally identifies you (“personal information”) or allows us to contact you. In order to use the Services, the user must first typically register or provide certain identifying information. For online registration, we ask you to provide contact details (such as First and Last name, E-mail address, Postal address, Personal identifier etc.). iYogi uses this information to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, special offers, and surveys on improving our Services.</p>
+<h6>PAYMENT INFORMATION:</h6>
+<p>If you register for the Services, iYogi may collect credit card information, and other payment information. Like many companies, iYogi may use third party payment processing, payment gateways transactions to process and verify credit cards on our behalf. iYogi uses payment information to complete your transactions.</p>
+<p><em>Computer and System Information</em></p>
+<h6>SUBSCRIBER( USER) COMPUTER INFORMATION:</h6>
+<p>We may also ask for information related to your (user) computer to provide the Service. As examples, this information may include:</p>
+<ul>
+<li>information about the date of purchase of your computer,</li>
+<li>type of computer</li>
+<li>identification number of your computer</li>
+<li>make and model of your computer and/or any computer hardware,</li>
+<li>software installed or peripherals attached to it,</li>
+<li>condition of the computer,</li>
+<li>system and registry data about software installations and hardware configurations, and<br>
+error tracking files.</li>
+</ul>
+<p>Generally, this information is required to provide personalized technical support to you, and to help us update our support tools and enhance our supported products lists.</p>
+<h6>REMOTE ACCESS:</h6>
+<p>While requesting support you may request for the problem to be resolved by enabling iYogi technicians to have access to and take control of your computer. iYogi uses software tools which enable you to grant control of your computer to an iYogi technician remotely over the Internet. This allows the iYogi technician to diagnose or correct problems without ever coming to the location of your computer.</p>
+<p>iYogi does not use the Remote Access software to access and control your computer without your consent and we request that you remain present when our technicians are doing so.</p>
+<p>iYogi technicians are trained in the use of this software and we take steps to limit access to confidential or sensitive information stored on user computer or network, avoid deliberate destruction of information on user computers or networks, and help avoid system problems. iYogi maintains specific internal policy and technical controls to limit how and whether our remote access tools may be used to assist you.</p>
+<h6>DIAGNOSTIC TOOL:</h6>
+<p>iYogi uses some online diagnostic tolls that may collect a wide variety of useful information about the state of a computer system and your applications. This information is communicated to Yogi using security technologies over the Internet. iYogi analyzes this information to help diagnose and solve end-user problems. The iYogi diagnostic application is not designed to collect sensitive information including information such websites visited, e-mail messages, e-mail addresses sent to, passwords, profiles, etc.</p>
+<p>Use of the Remote Access and Diagnostic applications may be subject to the terms and conditions of the respective software license agreements.</p>
+<h6>LIVE HELP SESSION RECORDS:</h6>
+<p>iYogi reserves the right to monitor and record on-line and off-line sessions between users and iYogi technicians for quality control and service-related purposes. Some uses of this type of information include improving the Service, building a support knowledge base and conducting internal market research. We do not correlate session record data used for these purposes with personal information.</p>
+<h6>COOKIES:</h6>
+<p>We may use cookies and similar technologies to provide you with more personal service on our website and as you interact with iYogi. Cookies are small pieces of information stored by your browser on your computer’s hard drive or on your device. Cookies help us keep track of the preferences you specify. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you prefer not to store the information for future use. Each browser is different, so please check the help menu of your browser.</p>
+<h6>LOG FILES:</h6>
+<p>We use IP addresses to analyze trends, administer the website, track user movement, and gather broad demographic information for aggregate use.</p>
+<h6>SUPPLEMENTATION OF INFORMATION</h6>
+<p>In order to protect iYogi from fraud and otherwise ensure the integrity of our services and manage risk we may supplement personal information we collect with information we may get from others. For example, in connection with determining creditworthiness, we may use your name and other related information to request a credit report as permitted by law.</p>
+<h6>SHARING AND INFORMATION DISCLOSURE</h6>
+<p>We may share aggregated and de-identified information with our partners. This sharing is usually not linked to any personal information that can identify any individual person, unless specifically required to allow use of specific widgets within the Services.</p>
+<p>We may also share, disclose, or transfer your personal information as follows:</p>
+<ul>
+<li>To iYogi affiliates and subsidiaries to support business operations and sales, marketing, and customer support processes;</li>
+<li>To third party service providers and suppliers acting on our behalf to provide products or services to you; and</li>
+<li>To other third parties for purposes you have allowed.</li>
+</ul>
+<p>Additionally, we may also disclose your personal information as we determine reasonably necessary to (a) comply with applicable law, regulations, legal processes, or enforceable governmental requests, (b) respond as necessary to actual or potential lawsuits, or (c) protect the rights and property of iYogi or others.</p>
+<p>We reserve the right to retain, use, and disclose aggregate or anonymous information developed from personal information at any time.</p>
+<p>If we merge with, or are acquired by another company, or sell all or substantially all of our relevant assets, or file for bankruptcy, we may disclose and transfer personal information with the company or asset. We will seek appropriate protection for personal information disclosed or transferred in such transactions consistent with applicable law.</p>
+<h6>INTERNATIONAL USERS</h6>
+<p>Because iYogi operates globally, we make information we gather available to our worldwide business units. If you are in the European Economic Area, please note that the personal information you provide will be transferred outside the European Economic Area for use by iYogi and its affiliates and subsidiaries for any of the purposes described in this privacy policy. By using the the iYogi website, using the Services, or otherwise providing us with your personal information, you consent to the transfer and processing of your personal information.</p>
+<h6>SECURITY</h6>
+<p>We use a variety of security technologies, as well as administrative, managerial, and physical safeguards, to help protect personal information and other data we receive from unauthorized access, use, or disclosure. No data transmissions, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot fully eliminate all security risks associated with personal information and technical mistakes are possible. Therefore, we do not ensure or warrant the security of any data or information you transmit to us and you do so at your own risk.</p>
+<h6>SURVEYS</h6>
+<p>From time-to-time we may request information from users via surveys. Participation in these surveys is completely voluntary and users have a choice whether or not to participate. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Survey information will be used for purposes of monitoring or improving the use and satisfaction of Services.</p>
+<h6>CONTESTS</h6>
+<p>iYogi may offer contests, sweepstakes or other promotions. These promotions will be governed by applicable rules. Personal information collected through such promotions will be used as described at the time of collection.</p>
+<h6>CHILDREN</h6>
+<p>Our Services are not intended for use by anyone under the age of 13. Consistent with the Children’s Online Privacy Protection Act, we do not collect or maintain information at our website from or sell products to those we actually know are under the age of 13.</p>
+<h6>CORRECTION/UPDATING PERSONAL INFORMATION</h6>
+<p>If a user’s personal information changes (such as user zip code), or if a user no longer desires to use the Service. User may correct, update or remove user personal information provided to us through our website.</p>
+<h6>NOTIFICATION OF CHANGES</h6>
+<p>We reserve the right to change our privacy policy. Please check our website periodically for changes so that you are aware of our latest privacy practices. For changes that are materially less restrictive or protective of your personal information than the privacy policy in place at the time of collection, we will notify before implementing any such change.</p>
+<h6>QUESTIONS</h6>
+<p>If you have any questions about our privacy policy you may email questions or inquiries to <a href="mailto://feedback@iyogi.net">feedback@iyogi.net</a> or <a href="mailto://cpo@iyogi.com">cpo@iyogi.com</a></p>
+<div id="wpcr_respond_1"></div>                              
+                        
+        
+        
+                          
+                    
+                     <div class="box">
+                    
+                     <div class="heading">Annual Unlimited Subscription Plan</div>
+                        
+                        <div class="left"><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/price-permonth.png" width="150" height="55" alt="price"></div>
+                        <div class="mid">Available 24/7, anytime, anywhere</div>
+                        <div class="right-side"> <a class="buynow" href="https://services.iyogi.net/register/subscription/index1.aspx" onclick="_gaq.push(['_trackEvent', 'New Annual Unlimited Subscription Plan', 'Annual Unlimited Subscription Plan', 'www.iyogi.com']);">Buy now</a></div>
+                        
+                        <div class="clear"></div>
+                        
+                        <p>Comprehensive virus removal support for your PC, connected devices, peripherals and over 100 software applications including:</p>
+                        
+                        <ul class="orange">
+                            <li>Diagnostic &amp; repair for your technologies.</li>
+                            <li>Troubleshooting software errors.</li>
+                            <li>Updating drivers and security to protect against online threats.</li>
+                            <li>Connecting to the Internet, devices and peripherals.</li>
+                            <li>Optimizing your PC's speed and performance.</li>
+                        </ul>
+                        
+                        <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/pc.png" width="107" height="105" alt="pc" class="right">
+                    
+                    </div>
+                    
+                                   
+                
+                </article>
+                
+            </section>
+            <!-- inner section end -->
+            
+			<!-- aside start -->
+<aside>
+
+    <div class="homeBox inner">
+    
+    <p><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/thirty.png" alt="iYogi">Get a <strong>FREE</strong><br> one-on-one consultation upto with a tech expert.</p>
+    
+    <div class="heading">Free Diagnostics</div>
+    
+    <ul>
+        <li>No card on file!</li>
+        <li>No obligation to buy!</li>
+        <li>No charge, completely free!</li>
+    </ul>
+    
+    </div>
+    
+    <div class="homeBox inner">
+    
+    <p class="gap">Figure out the problem affecting your device and get the best solution</p>
+    
+    <ul class="icon">
+        <li><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/icon1.png" alt="iYogi"><span>Computer</span></li>
+        <li><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/icon2.png" alt="iYogi"><span>Tablet</span></li>
+        <li><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/icon3.png" alt="iYogi"><span>Printers</span></li>
+        <li><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/icon4.png" alt="iYogi"><span>Routers</span></li>
+        <li><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/icon5.png" alt="iYogi"><span>Mp3 Players</span></li>
+    </ul>
+    
+    </div>
+    
+    <div class="homeBox inner">
+    
+        <p class="fasteasy">Fast and Easy</p>
+        <ul>
+            <li>Connect with a Tech Expert</li>
+            <li>Diagnosis conducted remotely</li>
+            <li>Identifies the problem</li>
+            <li>Recommends a solution</li>
+        </ul>
+    
+    <div class="heading-tfn"><span>Call toll-free</span> 1- 800 237 3901</div>
+    
+    </div>
+
+</aside>
+<!-- aside end -->        
+         </div>
+            
+        </div>
+        <!-- main container start -->
+    
+        <!-- homeserviceBox start -->
+        <div class="homeserviceBox inner">
+        
+            <div class="centerCntr">
+            
+                <h3>Services</h3>
+    
+                <ul>
+                <li>
+                    <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/secure-protection.png" alt="iYogi">
+                    <div class="heading">Secure &amp; Protect</div>
+                    <p>If your PC is not safe, you are living dangerously. </p>
+                    <a href="http://www.iyogi.com/services/secure-protect/">Read more...</a>
+                </li>
+                <li>
+                    <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/speed-optimize.png" alt="iYogi">
+                    <div class="heading">Speed Up &amp; Optimize</div>
+                    <p>You won't believe its the same old computer. </p>
+                    <a href="http://www.iyogi.com/services/speed-up-optimization/">Read more...</a>
+                </li>
+                <li>
+                    <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/dignostic-repair.png" alt="iYogi">
+                    <div class="heading">Diagnosis &amp; Repair</div>
+                    <p>Expert computer issue diagnosis and repair</p>
+                    <a href="http://www.iyogi.com/services/diagnosis-repair/">Read more...</a>
+                </li>
+                <li>
+                    <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/set-installation.png" alt="iYogi">
+                    <div class="heading">Setup &amp; Install</div>
+                    <p>Let our Tech Experts assist you. </p>
+                    <a href="http://www.iyogi.com/services/setup-installation/">Read more...</a>
+                </li>
+							    <li>
+                    <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/onsite_support.png" alt="iYogi">
+                    <div class="heading">Onsite Support</div>
+                    <p>Fast on-ground tech support at your place.</p>
+                    <a href="http://www.iyogi.com/local-us/">Read more...</a>
+                </li>
+                
             </ul>
+            
+            </div>
+            
+        </div>
+        <!-- homeserviceBox end -->
+    
+    </section>
+<!-- section end -->
+
+<!-- footer starts here... -->
+<footer>
+    
+    <div class="footer_toggle">
+        <div class="toogle_up"></div>
+        <div class="toogle_block">
+            <div class="toggle_container">
+            <div class="toggle_row">
+              <div class="box">
+                <div class="toggle_col">
+                  <div class="flexcroll"><div class="title">Discover iYogi</div><div class="menu-discover-iyogi-container"><ul id="menu-discover-iyogi" class="menu"><li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="http://www.iyogi.com/dell-support.html">Dell® Support</a></li>
+<li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="http://www.iyogi.com/digital-home/">Digital Home Plan</a></li>
+<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="http://www.iyogi.com/hp-support.html">HP Support</a></li>
+<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://www.iyogi.com/microsoft-support.html">Microsoft® Support</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="http://www.iyogi.com/support-for-apple.html">Support for Apple</a></li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="http://www.iyogi.com/support-for-windows.html">Support for Windows ®</a></li>
+<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="http://www.iyogi.com/virus-removal-support.html">Virus Removal Support</a></li>
+<li id="menu-item-745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-745"><a href="http://search.iyogi.com">iYogi Search</a></li>
+</ul></div></div>                </div>
+              </div>
+              <div class="box">
+                <div class="toggle_col">
+                  <div class="flexcroll"><div class="title">About iYogi</div><div class="menu-about-iyogi-container"><ul id="menu-about-iyogi" class="menu"><li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="http://www.iyogi.com/tech-expert/">Tech Expert</a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a target="_blank" href="http://www.iyogi.com/about-us/company-profile/">Company Profile</a></li>
+<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="http://www.iyogi.com/about-us/leadership/">Leadership</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="http://www.iyogi.com/media-center.html">Media Center</a></li>
+<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="http://www.iyogi.com/good-karma/">Good Karma</a></li>
+<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="http://www.iyogi.com/local-us/">Onsite Support</a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="http://www.iyogi.com/about-us/">About us</a></li>
+<li id="menu-item-1095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1095"><a href="http://www.iyogi.com/contact-us">Contact Us</a></li>
+<li id="menu-item-955" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-955"><a href="http://www.iyogi.com/category/iyogi-faqs">iYogi Faqs</a></li>
+<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://www.iyogi.com/disclaimer.html">Disclaimer</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-296 current_page_item menu-item-306"><a href="http://www.iyogi.com/privacy.html">Privacy Policy</a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="http://www.iyogi.com/terms.html">Terms of Use</a></li>
+</ul></div></div>                  
+                </div>
+              </div>
+              <div class="box">
+                <div class="toggle_col">
+                  <div class="flexcroll"><div class="title">More iYogi Site</div>
+	<ul class="xoxo blogroll">
+<li><a href="http://supportforacer.iyogi.com" target="_blank">Acer® Support</a></li>
+<li><a href="http://antivirus.iyogi.com" target="_blank">Antivirus Support</a></li>
+<li><a href="http://supportforasus.iyogi.com" target="_blank">ASUS® Support</a></li>
+<li><a href="http://browser.iyogi.com" target="_blank">Browser Support</a></li>
+<li><a href="http://supportfordell.iyogi.com" target="_blank">Dell® Support</a></li>
+<li><a href="http://driver.iyogi.com/" target="_blank">Driver support</a></li>
+<li><a href="http://supportforfujitsu.iyogi.com" target="_blank">Fujitsu® Support</a></li>
+<li><a href="http://supportforhp.iyogi.com" target="_blank">HP Support</a></li>
+<li><a href="http://www.iyogi.co.uk/" target="_blank">iYogi UK</a></li>
+<li><a href="http://videos.iyogi.com/" target="_blank">iYogi Videos</a></li>
+<li><a href="http://supportforlenovo.iyogi.com" target="_blank">Lenovo® Support</a></li>
+<li><a href="http://supportformicrosoft.iyogi.com" target="_blank">Microsoft® Support</a></li>
+<li><a href="http://office-2010.iyogi.com" target="_blank">Office 2010 Support</a></li>
+<li><a href="http://printers.iyogi.com" target="_blank">Printers Support</a></li>
+<li><a href="http://router.iyogi.com" target="_blank">Router Support</a></li>
+<li><a href="http://supportforsamsung.iyogi.com" target="_blank">Samsung® Support</a></li>
+<li><a href="http://supportforsony.iyogi.com" target="_blank">Sony® Support</a></li>
+<li><a href="http://top5.iyogi.com/" target="_blank">Top Five iYogi</a></li>
+<li><a href="http://supportfortoshiba.iyogi.com" target="_blank">Toshiba® Support</a></li>
+<li><a href="http://windows7.iyogi.com/" target="_blank">Windows® 7 Support</a></li>
+<li><a href="http://windows8.iyogi.com/" target="_blank">Windows® 8 Support</a></li>
+
+	</ul>
+</div>
+  
+                  
+                </div>
+              </div>
+              <div class="box">
+                <div class="toggle_col">
+                  <div class="title">News &amp; Events</div>
+                  <div class="toggle_details">
+
+           
+
+
+		<div class="news">
+                          <div class="sub_title"> <strong>iYogi Insights Research R...</strong> <span>October 26th, 2012</span> </div>
+
+                          <p>A new study conducted by iYogi Insights, the research division of leading independent provider of on... <a href="http://www.iyogi.com/news/news-release/iyogi-insights-research-reveals-that-windows-8-will-ride-the-small-business-route-to-success.html">Read More</a></p>
+        </div>	
+
+		<div class="news">
+                          <div class="sub_title"> <strong>Asia to become focal poin...</strong> <span>October 12th, 2012</span> </div>
+
+                          <p>SINGAPORE: Asia’s growing middle class has lifted the region’s image from a low-cost man... <a href="http://www.iyogi.com/news/latest-news/asia-to-become-focal-point-for-gauging-worldwide-consumer-behaviour.html">Read More</a></p>
+        </div>	
+                             
+                    
+                  </div>
+                </div>
+              </div>
+              
+            </div>
           </div>
         </div>
-             
-      </div>
-            
-            <div class="get">
-              <p><strong>Get comprehensive</strong></p>
-              <div class="tech_support">24/7 technical support for <br>just <span>$169</span><sup>99</sup> a year </div>
-              <div>
-              <ul>
-               <li>Unlimited  24/7 access all year long</li>
-               <li>Antivirus &amp;  antispyware support</li>
-               <li>Securing your data in a safe medium</li>
-               <li>Tools  to keep your PC  running fast</li>
-               </ul>
-              </div>
-              <p class="button_border2"></p>
-                <p class="clear"></p>
-             <p>  <a href="http://www.iyogi.net/consumer-services.html"><img src="images/get_online_support2.png" width="145" height="33" border="0"></a></p><br>
-
-      </div>
-    <div class="clear"></div>
-  </div>
-  <div class="footer">
-    <div class="f_top_l"><a href="http://www.iyogi.net/mediacenter.html"><img src="http://www.iyogi.net/images/solution_featuredin.png" alt="Featured" width="949" height="55" border="0"></a></div>
-    <div class="f_bottom_l">
-      <div class="f_box" style="width:130px;">
-        <ul>
-          <li><a href="http://www.iyogi.net.au/" target="_blank">Australia Site </a></li>
-          <li><a href="http://www.iyogi.co.uk/">UK Site</a></li>
-          <li><a href="http://www.iyogi.ca/" target="_blank">Canada Site </a></li>
-          <li><a href="http://windows7.iyogi.net/" target="_blank">Windows® 7</a></li>
-          <li><a href="http://office-2010.iyogi.net/" target="_blank">Microsoft® Office® 2010</a> </li>
-          <li><a href="http://antivirus.iyogi.net/" target="_blank">Antivirus Support</a> </li>
-          <li>
-            <h4><a href="http://printers.iyogi.net/" target="_blank">Printer Support</a></h4>
-          </li>
-          <li> <a href="http://www.supportdock.com" target="_blank">Support DockSM</a> </li>
-          <li> <a href="http://www.iyogiblog.com/" target="_blank">Our Blog</a> </li>
-          <li> <a href="http://techgenie.com/" target="_blank">Techgenie™</a> </li>
-          <li><a href="http://videos.iyogi.net" target="_blank">iYogi videos</a></li>
-          <li><a href="http://www.iyogi.net/press-releases/">Press Releases</a></li>
-        </ul>
-      </div>
-      <div class="f_box" style="width:165px;">
-        <ul>
-          <li><a href="http://www.iyogi.net/annual-plan.html">Annual Plan</a></li>
-          <li> <a href="http://www.iyogi.net/repair/"> Repair</a></li>
-          <li><a href="http://www.iyogi.net/email/">E-mail</a></li>
-          <li><a href="http://www.iyogi.net/laptop/">Laptop</a></li>
-          <li><a href="http://www.iyogi.net/security/">Security</a></li>
-          <li><a href="http://www.iyogi.net/hardware/"> Hardware</a></li>
-          <li>
-            <h3><a href="http://www.iyogi.net/hp-support.html">Support for HP Computers</a> </h3>
-          </li>
-          <li>
-            <h3><a href="http://www.iyogi.net/dell-support.html">Support for Dell® Computers </a></h3>
-          </li>
-          <li>
-            <h4><a href="http://www.iyogi.net/data-backup/">Data Backup</a></h4>
-          </li>
-          <li>
-            <h3><a href="http://www.iyogi.net/tech-support.html">Tech Support</a></h3>
-          </li>
-          <li>
-            <h4><a href="http://www.iyogi.net/virus-removal.html">Virus Removal</a></h4>
-          </li>
-          <li>
-            <h4><a href="http://www.iyogi.net/computer-repair.html">Computer Repair</a></h4>
-          </li>
-        </ul>
-      </div>
-      <div class="f_box" style="width:155px;">
-        <ul>
-          <li><a href="http://www.iyogi.net/solutions/">Solutions</a></li>
-          <li><a href="http://www.iyogi.net/how-to/">How To</a></li>
-          <li><a href="http://www.iyogi.net/internet/">Internet</a></li>
-          <li><a href="http://www.iyogi.net/reviews/">Reviews</a></li>
-          <li><a href="http://www.iyogi.net/antivirus/">Antivirus</a></li>
-          <li><a href="http://www.iyogi.net/software/">Software</a></li>
-          <li><a href="http://www.iyogi.net/antispyware/">Antispyware</a></li>
-          <li><a href="http://www.iyogi.net/tech/">Tech Search Query</a></li>
-          <li><a href="http://www.iyogi.net/bad-commands/">Bad Commands</a></li>
-          <li><h3><a href="http://www.iyogi.net/technical-support/">Technical Support</a></h3></li>
-          <li><a href="http://www.iyogi.net/technical-complaints/">Technical Complaints</a></li>
-          <li><a href="http://www.iyogi.net/internet-security-frauds/">Internet Security Frauds</a></li>
-          <li><a href="http://www.iyogi.net/good-customer-services/">Good Customer Services</a></li>
-        </ul>
-      </div>
-      <div class="f_box" style="width:240px;">
-        <ul>
-          <li><a href="http://www.iyogi.net/support/">Support</a></li>
-          <li><a href="http://www.iyogi.net/microsoft/">Microsoft®</a></li>
-          <li><a href="http://www.iyogi.net/microsoft-help.html">Tech Help for Microsoft® Products </a></li>
-          <li><h4><a href="http://www.iyogi.net/microsoft-support.html">Support for Microsoft® Products </a></h4></li>
-          <li><h4><a href="http://www.iyogi.net/microsoft-office-support.html">Support for Microsoft® Office</a></h4></li>
-          <li><a href="http://www.iyogi.net/microsoft/microsoft-outlook-support.html">Support for Microsoft® Outlook® </a></li>
-          <li><a href="http://www.iyogi.net/microsoft/microsoft-technical-support.html">Technical Support for Microsoft® Products </a></li>
-          <li><a href="http://www.iyogi.net/microsoft-software-support.html">Support for Microsoft® Software </a></li>
-          <li><a href="http://www.iyogi.net/microsoft-windows-xp-support.html">Support for Microsoft® Windows® XP </a></li>
-          <li><a href="http://www.iyogi.net/microsoft-windows-98-support.html">Support for Microsoft® Windows® 98 </a></li>
-          <li><a href="http://www.iyogi.net/microsoft-windows-vista-support.html">Support for Microsoft® Windows Vista® </a></li>
-          <li><a href="http://www.iyogi.net/microsoftoperatingsystem.html">Support for Microsoft® Operating System </a></li>
-        </ul>
-      </div>
-      <div class="f_box" style="width:120px;">
-        <ul>
-          <li><a href="http://www.iyogi.net/dell/">Dell®</a></li>
-          <li><a href="http://www.iyogi.net/aol/">AOL®</a></li>
-          <li><a href="http://www.iyogi.net/hp/">HP</a></li>
-          <li><a href="http://www.iyogi.net/sony/">Sony</a></li>
-          <li><a href="http://www.iyogi.net/lbc/">LBC</a></li>
-          <li><a href="http://www.iyogi.net/lenovo/">Lenovo®</a></li>
-          <li><a href="http://www.iyogi.net/panasonic/">Panasonic</a></li>
-          <li><a href="http://www.iyogi.net/compaq/">Compaq</a></li>
-          <li><a href="http://www.iyogi.net/acer/">Acer®</a></li>
-          <li><a href="http://www.iyogi.net/toshiba/">Toshiba</a></li>
-          <li><a href="http://www.iyogi.net/printers/">Printers</a></li>          
-          <li><a href="http://www.iyogi.net/windows/">Windows®</a></li>
-        </ul>
-      </div>
-      <div class="f_box" style="width:122px;">
-        <ul>
-          <li><a href="http://www.iyogi.net/sitemap.html">Sitemap</a></li>
-          <li><a href="http://iyogi.directtrack.com/" target="_blank">Affiliates</a></li>
-          <li><a href="http://www.iyogi.net/investors.html">Investors</a></li>
-          <li><a href="http://www.iyogi.net/siteterms.html">Site Terms</a></li>
-          <li><a href="http://www.iyogi.net/factsheet.html"> Fact Sheet</a></li>
-          <li><a href="http://www.iyogi.net/mediacenter.html">Media Center</a></li>
-          <li><a href="http://www.iyogi.net/research/variance/">Tech Support Survey</a></li>
-          <li><a href="http://www.iyogi.net/customervideo.html">Video Testimonial</a></li>
-          <li><a href="http://www.iyogi.net/management.html">The Management</a></li>
-          <li><a href="http://www.iyogi.net/customerreviews">Customer Reviews</a></li>
-          <li><a href="http://www.iyogi.net/demo/" target="_blank">iYogi Benefits</a></li>
-        </ul>
-      </div>
-      <div class="clear"></div>
     </div>
-    <div class="f_top_l">
-      <div class="f_top_left">
-        <div class="horz_ul">
+    <div class="footer_featured">
+        <div class="featured_left">
+          <p>FEATURED IN:</p>
+          <div class="featured_scroll">
+            <div id="mycrawler2">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_01.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_02.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_03.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_04.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_05.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_06.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_07.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_08.gif" alt="">
+              <img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/featured_logo_09.gif" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="featured_right">
           <ul>
-            <li>Copyright© 2005, 2010, iYogi and/or its affiliates. All rights reserved.</li>
-            <li>|</li>
-            <li><a href="http://www.iyogi.net/aboutus.html">About iYogi</a></li>
-            <li>|</li>
-            <li><a href="http://www.iyogi.net/techsupport.html">Technologies Supported</a></li>
-<li>|</li>
-<li><a href="http://www.iyogi.net/faq.html">FAQs</a></li>
-            <li>|</li>
-            <li><a href="http://www.iyogi.net/contactus.html">Contact Us</a></li>
-            <li>|</li>
-            <li><a href="http://www.iyogi.net/terms.html">Terms of Use</a></li>
-            <li>|</li>
-            <li><a href="http://www.iyogi.net/privacy-policy.html">Privacy Policy</a></li>
+           <!-- <li><a class="click_chat" href="javascript:void(0)"><small><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/chat_icon.png" alt=""/></small><span>Start a Chat</span></a></li>-->
+            <li><a href="mailto:customerservice@iyogi.net"><small><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/mail_icon.png" alt=""></small><span>Send an Email</span></a></li>
+            <li><small><img src="http://www.iyogi.com/wp-content/themes/iyogicom/images/call_icon.png" alt=""></small><span>Call: 1- 800 237 3901</span></li>
           </ul>
         </div>
-        <div class="paypal"> <img src="http://www.iyogi.net/images/paypallogo.png" width="189" height="24" style="margin-right:10px" alt="">
-          <!-- START SCANALERT CODE -->
-          <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.iyogi.net"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.iyogi.net/63.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-          <!-- END SCANALERT CODE -->
-          <div class="sitemap"><a href="http://www.iyogi.net/sitemap.xml">Sitemap</a> | <a href="http://www.iyogi.net/rss/feed.xml"><img src="http://www.iyogi.net/images/footre_rss.gif" width="34" height="12" border="0" align="absmiddle" alt="rss"></a></div>
-        </div>
-        <div class="clear"></div>
-      </div>
-      <div class="f_top_left">
-        <div class="f_top_left f_top_left20">
-          <div id="dis_more">iYogi is an independent provider of remote tech support services for software, hardware, and peripherals. <a class="readmore" href="#dis_last" id="disclaimer_link">Read more...</a></div>
-          <div style="display: none;" id="disclaimer">
-            <iframe frameborder="0" scrolling="no" src="http://www.iyogi.net/footer_disclaimer.html" width="100%" height="300"></iframe>
-            <a class="readmore" href="javascript:void(0);" id="dis_hide">Hide</a>
-            <div id="dis_last"></div>
-          </div>
-        </div>
-      </div>
     </div>
-  </div>
+    <div class="footer_media">
+        <div class="footer_media_left">
+          <p>© 2012 iYogi Limited. All Rights Reserved  &nbsp;|&nbsp; <a href="http://www.iyogi.com/disclaimer.html">Affiliation of any organization with iYogi, Inc is not implied, unless expressly stated. </a></p>
+        </div>
+        <div class="footer_media_right">
+        
+        <div class="addthis_toolbox addthis_default_style ">
+          <ul>
+		    <li><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></li>
+            <li><span>|</span></li>
+            <li><a class="addthis_button_tweet"></a></li>
+            <li><span>|</span> </li>
+            <li class="last">
+            <div class="fb"><strong><span>iYogi</span> on Facebook</strong></div>
+            <div id="fb-root" style="width: 100px !important;"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=197824260332760";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.facebook.com/iYogi" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div></li>
+            
+            
+            
+          </ul>
+          <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e5ce58614d04bd2"></script>
+        </div>
+        </div>
+    </div>
+    
+</footer>
+<!-- footer ends here... -->
 
-
-
-
-<!-- Google Code for Visitors Remarketing List -->
-<script type="text/javascript">
-<!--
-var google_conversion_id = 1068570312;
-var google_conversion_language = "en";
-var google_conversion_format = "1";
-var google_conversion_color = "666666";
-var google_conversion_label = "YUwXCMLYsgEQyK3E_QM";
-var google_conversion_value = 0;
-//-->
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1068570312/?label=YUwXCMLYsgEQyK3E_QM&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript>
-<!-- End Google Code for Visitors Remarketing List -->
+<!-- wrapper end -->
+<!-- CHAT START 
+<div class="chat_min"><a href="#"><img src="http://www.iyogi.net/whoson_chat/images/chat_min.png" alt="" /></a></div>
+<div class="chat_pop">
+  <div class="top_sec"><img src="http://www.iyogi.net/whoson_chat/images/iyogi_pop_logo.png" alt="iYogi" align="left" />
+    <div class="btns"><a href="#" class="min_btn"><img src="http://www.iyogi.net/whoson_chat/images/min_btn.png" alt="" /></a><a href="#" class="close_btn"><img src="http://www.iyogi.net/whoson_chat/images/close_btn.png" alt="" /></a></div>
+  </div>
+  <div class="mid_sec">
+    <iframe src="https://services.iyogi.net/iyogichat/whosonchat.aspx?domain=www.seo.iyogi.com&source=www.iyogi.com&description=Asia to become focal point for gauging worldwide consumer behaviour" frameborder="0" width="100%" height="320" scrolling="no"></iframe>
+  </div>
+  <div class="bot_sec"></div>
+</div>
+ CHAT END -->
 
 
-
- <script type="text/javascript">
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-  </script>
-
-</div></body></html>
+</body></html>
