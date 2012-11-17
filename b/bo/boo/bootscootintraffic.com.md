@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootscootintraffic.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501235301id_/http%3A//www.bootscootintraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootscootintraffic.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117092254id_/http%3A//www.bootscootintraffic.com/privacy.php) for the most accurate reproduction.*
 
 # BootScootinTraffic.com
 
