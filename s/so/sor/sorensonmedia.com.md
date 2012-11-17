@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520041031id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117184002id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
 
 # About Sorenson Media - Sorenson Media - The Global Leader in Video Compression
 
