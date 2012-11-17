@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijagists.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517164233id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijagists.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117093937id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Nollywood Gossips, News in Nigerian Newspapers Today
 
@@ -26,4 +26,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
  **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to [info@naijagists.com](mailto:info@naijagists.com "mailto:info@naijagists.com")   for further clarification.
+Concerns or questions about this privacy policy can be directed to [epalava@gmail.com](mailto:epalava@gmail.com "mailto:epalava@gmail.com") for further clarification.
