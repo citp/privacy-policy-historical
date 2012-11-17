@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520155124id_/http%3A//www.wiscnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117210038id_/http%3A//www.wiscnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
