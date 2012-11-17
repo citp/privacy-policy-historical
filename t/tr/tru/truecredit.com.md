@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513111032id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecredit.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117094023id_/http%3A//tui.transunion.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.*
 
 # Credit Scoring, Online Credit Checks & ID Fraud-Watch
 
