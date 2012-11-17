@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabonestore.co.nz privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517123744id_/http%3A//www.grabonestore.co.nz/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabonestore.co.nz privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117173632id_/http%3A//www.grabonestore.co.nz/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GrabOne
 
@@ -49,7 +49,7 @@ Failure to provide necessary personal information when requested may result in c
   8. Changes to Policy back to top
     1. We reserve the right to change this policy at any time by notifying users of the existence of a revised policy by updating the "last updated" notice beside the link to this policy. By continuing to use the Website, you agree to be bound by the amended policy. You should check from time to time to see if the policy has changed or not.
   9. Holding, Correcting and Updating back to top
-    1. Any personal information that you provide to us will be collected and held by us at **GrabOne Ltd.** , Level 2, 109 Carlton Gore Road, Newmarket, Auckland 1023, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold.
+    1. Any personal information that you provide to us will be collected and held by us at **GrabOne Ltd, Level 2, 109 Carlton Gore Road, Newmarket, Auckland 1023, New Zealand**. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold.
     2. Although we take reasonable steps to ensure that all data we use is accurate, we depend on our users to update or correct their personal information whenever necessary. We offer the ability for users to correct or change their personal information online at any time and as often as necessary.
     3. If you have any questions about how our services work or regarding this statement, [Contact Us](https://web.archive.org/contact-us).
     4. For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [click here.](http://www.privacy.org.nz/the-privacy-act-and-codes/)
