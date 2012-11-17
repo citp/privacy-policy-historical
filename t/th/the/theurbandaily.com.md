@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610225037id_/http%3A//theurbandaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theurbandaily.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117233357id_/http%3A//theurbandaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Urban Daily
 
@@ -18,7 +18,7 @@ The Company Sites are not directed to children under the age of thirteen (13). I
 
 ## INFORMATION WE COLLECT AND HOW WE USE IT
 
-  
+   
 Whether you are a Company Site visitor or a registered member, we take certain steps to protect your information. Collection of information is usually grouped into two categories: Personal Information, which is information that is personally identifiable to a specific member (further defined below), and aggregate information, which is general demographic information that does not identify any individual member. We may use or disclose aggregate information for any purpose.
 
 The Company adheres to the Self-Regulatory Principles for Online Behavioral Advertising (the “Principles”), developed by leading industry associations to apply consumer-friendly standards to online behavioral advertising across the Internet.  To learn more about the Principles, please go to [www.aboutads.info](http://www.aboutads.info/).
