@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501044419id_/http%3A//ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117023720id_/http%3A//ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
 
 # eBrandon.ca - Brandon, Manitoba's Online Community
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 **Policy Overview**
 
-eBrandon.ca is owned and operated by Sobkow Technologies. We are very concerned about the protection of online privacy for all our website visitors. This policy is intended to provide an overview of our philosophy and procedures concerning this issue. This policy applies to the website www.ebrandon.ca. 
+eBrandon.ca is privately owned and operated by Sobkow Technologies of Brandon, Manitoba without affiliation with or endorsement by the City of Brandon. We are very concerned about the protection of online privacy for all our website visitors. This policy is intended to provide an overview of our philosophy and procedures concerning this issue. This policy applies to the website www.ebrandon.ca. 
 
 **Information we collect**
 
@@ -16,7 +16,7 @@ We use "cookie" technology (where our servers deposit special codes on a visitor
 
 Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-If at any time you wish to have your member account removed, please visit the [contact us](https://web.archive.org/web/20120501044419id_/http%3A//ebrandon.ca/contact.aspx) page and explicitly request it. Please note that submitting this request means you are requesting that your account, along with all profile data, be removed. 
+If at any time you wish to have your member account removed, please visit the [contact us](https://web.archive.org/web/20121117023720id_/http%3A//ebrandon.ca/contact.aspx) page and explicitly request it. Please note that submitting this request means you are requesting that your account, along with all profile data, be removed. 
 
 We track and store user IP addresses each time a forum message, photo, video, classified ad, classified ad web form submission or private message are posted/sent. Combined with information from your internet provider, this information may personally identify you. This information will **only** be used in the event of a dispute between yourself and eBrandon or another third party in which the law is perceived to have been violated. 
 
