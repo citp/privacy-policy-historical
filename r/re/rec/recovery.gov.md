@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recovery.gov privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229065833id_/http%3A//www.recovery.gov/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recovery.gov privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118000023id_/http%3A//www.recovery.gov/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ If you do not wish to have session or persistent cookies placed on your computer
 Instructions for disabling or opting out of cookies in the most popular browsers are located at http://www.usa.gov/optout_instructions.shtml. Please note that by following the instructions to opt out of cookies, you will disable cookies from all sources, not just those from Recovery.gov.
 
 **Children's privacy  
-** Recovery.gov complies with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. Recovery.gov does not knowingly contact or collect personal information from children under 13. The site is not intended to solicit information of any kind from children under 13.  It is possible that by fraud or deception, Recovery.gov may receive information pertaining to children under 13. If notified of this, as soon as the information is verified, the parents are contacted for consent or the information is deleted from the servers. 
+** Recovery.gov complies with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation that protects the privacy of children using the Internet. Recovery.gov does not knowingly contact or collect personal information from children under 13. The site is not intended to solicit information of any kind from children under 13.  It is possible that by fraud or deception, Recovery.gov may receive information pertaining to children under 13. If notified of this, as soon as the information is verified, the parents are contacted for consent or the information is deleted from the servers. 
 
 **Security  
 ** Recovery.gov maintains a variety of physical, electronic, and procedural safeguards to protect personal information, for example, commercially reasonable tools and techniques to protect against unauthorized access to the site's systems. Personal Information is restricted to those who need such access in the course of their duties for Recovery.gov. 
