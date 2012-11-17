@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitneybank.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610000331id_/http%3A//www.whitneybank.com/home/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitneybank.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117070304id_/http%3A//whitneybank.com/home/privacy-policy.asp) for the most accurate reproduction.*
 
 # Whitney Bank: Privacy Policy
 
@@ -144,7 +144,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for e-Banking.** Please refer to [e-Banking FAQ](https://web.archive.org/web/20120610000331id_/http%3A//www.whitneybank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with e-Banking. 
+* **Except for e-Banking.** Please refer to [e-Banking FAQ](https://web.archive.org/web/20121117070304id_/http%3A//whitneybank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with e-Banking. 
 
 **Use of Information Collected**  
 Whitney Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Whitney Bank products. The information collected also is used to provide a record of communications between Whitney Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
@@ -153,7 +153,7 @@ Whitney Bank uses the information collected from visitors to its Web sites to ad
 Certain Whitney Bank employees will be provided with a visitor's information in order to respond to that visitor's needs and provide the visitor with information regarding specific products in which the visitor may have an interest. Whitney Bank employees are instructed to use strict standards of care in handling the personal, confidential information of Whitney Bank customers, and the handling of such information is dealt within Whitney Bank's Code of Conduct. Whitney Bank employees who do not conform to Whitney Bank's confidentiality rules are subject to disciplinary sanctions that include dismissal. 
 
 **Keeping Information Accurate**  
-Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or email [customer service](https://web.archive.org/web/20120610000331id_/http%3A//www.whitneybank.com/home/home-contact.asp). We will correct the information as quickly as possible. 
+Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or email [customer service](https://web.archive.org/web/20121117070304id_/http%3A//whitneybank.com/home/home-contact.asp). We will correct the information as quickly as possible. 
 
 **Visitors**  
-Visitors having specific questions regarding any information may [e-mail](https://web.archive.org/web/20120610000331id_/http%3A//www.whitneybank.com/home/home-e-mail.asp) Whitney Bank.
+Visitors having specific questions regarding any information may [e-mail](https://web.archive.org/web/20121117070304id_/http%3A//whitneybank.com/home/home-e-mail.asp) Whitney Bank.
