@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermoncentral.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033350id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermoncentral.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117232759id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
