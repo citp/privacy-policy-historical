@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the momandabused.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504203838id_/http%3A//momandabused.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33081%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momandabused.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118003613id_/http%3A//momandabused.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33045%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # Mom & Abused
 
-[](https://web.archive.org/join.php?s=19396|33081|2686|15|wide|0&lg=us)
+[](https://web.archive.org/join.php?s=19396|33045|2686|15|wide|0&lg=us)
 
-[Home](https://web.archive.org/index.php?s=19396|33081|2686|15|wide|0&lg=us) | [Search](https://web.archive.org/search.php?s=19396|33081|2686|15|wide|0&lg=us) | [Join](https://web.archive.org/join.php?s=19396|33081|2686|15|wide|0&lg=us) | [Take The Tour](https://web.archive.org/tour.php?s=19396|33081|2686|15|wide|0&lg=us) | [Members](https://web.archive.org/members.php?s=19396|33081|2686|15|wide|0&lg=us) | [Support](https://web.archive.org/support.php??s=19396|33081|2686|15|wide|0&lg=us)  
+[Home](https://web.archive.org/index.php?s=19396|33045|2686|15|wide|0&lg=us) | [Search](https://web.archive.org/search.php?s=19396|33045|2686|15|wide|0&lg=us) | [Join](https://web.archive.org/join.php?s=19396|33045|2686|15|wide|0&lg=us) | [Take The Tour](https://web.archive.org/tour.php?s=19396|33045|2686|15|wide|0&lg=us) | [Members](https://web.archive.org/members.php?s=19396|33045|2686|15|wide|0&lg=us) | [Support](https://web.archive.org/support.php??s=19396|33045|2686|15|wide|0&lg=us)  
 ---|---|---|---|---|---  
 ---  
 |  | Privacy Policy  
