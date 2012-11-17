@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disinfo.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515065109id_/http%3A//www.disinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disinfo.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117092926id_/http%3A//www.disinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Disinformation
 
@@ -6,7 +6,7 @@
 
 **Revision Date: October 14, 2009**
 
-The Disinformation Company Ltd. (“Disinformation”) values the users of our website (the “Website”). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information (”Personal Information”) that we collect when you use the Website and the services offered on the Website (”Disinformation Services”). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us using our [Contact Form](http://www.disinfo.com/contact).
+The Disinformation Company Ltd. (“Disinformation”) values the users of our website (the “Website”). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information (“Personal Information”) that we collect when you use the Website and the services offered on the Website (“Disinformation Services”). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us using our [Contact Form](http://www.disinfo.com/contact).
 
 **Does Disinformation Ever Make Changes to its Privacy Policy?**
 
@@ -16,7 +16,7 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 
 **Personal Information.** We and/or our service provider partners may collect any Personal Information that you provide to us, such as your name, mailing address, phone number, email address, and credit card number, as well as the Internet protocol (IP) Address from which you post stories and/or comments to the Website.
 
-**Non-Personal Information.** We do not currently collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP or operating system (”Non-Personal Information”). Non-Personal Information cannot be easily used to personally identify you.
+**Non-Personal Information.** We do not currently collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP or operating system (“Non-Personal Information”). Non-Personal Information cannot be easily used to personally identify you.
 
 **How and When Does Disinformation Collect This Information?**
 
