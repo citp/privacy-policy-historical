@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505013306id_/http%3A//www.symplicity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117055715id_/http%3A//www.symplicity.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Symplicity Corporation
 
@@ -85,3 +85,7 @@ Symplicity may deem it necessary or appropriate from time to time to modify this
 ## QUESTIONS OR CONCERNS
 
 If you have any questions, concerns, or complaints regarding this Privacy Policy or privacy issues relating to the Site, you can contact us.
+
+## SAFE HARBOR
+
+Symplicity Corporation complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Symplicity Corporation adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Symplicity Corporation's certification, please visit <http://www.export.gov/safeharbor/>
