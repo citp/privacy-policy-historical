@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613233328id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117225942id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
 
 # Science Photo Library
 
