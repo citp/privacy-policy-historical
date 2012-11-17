@@ -1,24 +1,33 @@
-> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150854id_/http%3A//www.plantronics.com/us/privacy/%3FWT.svl%3DfooterNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantronics.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117232632id_/http%3A//www.plantronics.com/us/privacy) for the most accurate reproduction.*
 
-# Plantronics | Privacy Policy
+# Plantronics | Privacy Policy | Plantronics
+
+[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.plantronics.com/seal_m "TRUSTe online privacy certification")
 
 ## Plantronics Privacy Policy
 
-Last Updated Aug 28, 2009
+#### Last Updated November 8, 2012
+
+  * **UPDATE (Nov 8, 2012):** added section to third-party cookies with FlashTalking information
+  * **UPDATE (Nov 8, 2012):** updated cookies section by adding link to Network Advertising Initiative with opt-out information
+
+
 
 Plantronics, Inc. ("Plantronics") is committed to protecting the privacy of consumers visiting our websites and purchasing our products. Plantronics wishes to maintain a safe and secure environment for all users of our online products and services. Please read the following Privacy Statement to understand how your personal information is treated. From time to time Plantronics may offer new products and/or services online which may affect this policy, which will be updated as needed. Please check back with us periodically.
 
-This privacy statement covers WWW.PLANTRONICS.COM (herein after "Websites"). If you have questions or concerns regarding this statement, you should contact the Plantronics Privacy Administrator by email at [privacy@plantronics.com](mailto:privacy@plantronics.com).
+Plantronics, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-Plantronics complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+This privacy statement covers WWW.PLANTRONICS.COM and any other PLANTRONICS.COM subdomains (herein after "Websites"). If you have questions or concerns regarding this statement, you should contact the Plantronics Privacy Administrator by email at [privacy@plantronics.com](mailto:privacy@plantronics.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this Web site.
+
+Plantronics complies with the U.S.-EU & U.S.-Swiss Safe Harbor frameworks as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Information regarding the U.S.-EU & U.S.-Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>.
 
 This Privacy Statement answers the following questions for you regarding your online privacy protection:
 
   * What Information Does Plantronics Collect?
-  * Does the Plantronics Website Use "Cookies or Clear GIFs"?
   * Do I Have to Register With www.plantronics.com?
   * How Does Plantronics Use My Information?
   * Does Plantronics Disclose My Personal Information?
+  * Public Forums
   * What About Security of Data Transmission?
   * Can I Correct/Update the Information Collected About Me?
   * Will You Notify Me in the Event of Changes to this Privacy Policy?
@@ -29,6 +38,12 @@ This Privacy Statement answers the following questions for you regarding your on
     * Links
     * How Do I Contact Plantronics?
     * Legal Disclaimer
+  * Plantronics' Cookie Information
+    * Does the Plantronics Website Use "Cookies or Clear GIFs"?
+    * How to Control and Delete Cookies
+    * Types of Plantronics Cookies
+    * Third party Cookies
+    * Plantronics' Web Sites
 
 
 
@@ -60,20 +75,6 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personally identifiable information.
 
-### Does the Plantronics Website Use "Cookies or Clear GIFs"?
-
-We use cookies on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Additionally, we use cookies to track our online advertising efforts. Usage of a cookie is in no way linked to any personally identifiable information on our site, though cookies may be used in the online career center to share personally identifiable information with Taleo to accommodate the hiring process.
-
-Plantronics may use the following types of cookies:
-
-  * "Session" cookies expire upon exiting our site and closing all browser sessions.
-  * "Non-session" cookies expire after 30 days after using our site.
-  * "Third-party" cookies, in particular Click-Track cookies, are used to track a user session. The information collected is not linked to the user's personal information.
-
-
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "How Can I Opt-In/Opt-Out"
-
 ### Do I have to Register?
 
 All users can access the Websites without being a registered user. However, you will not be able to access certain areas or purchase our products online if you are not a registered online user.
@@ -95,11 +96,19 @@ Users will receive such promotional materials and be contacted by our business p
 
 We may also use personal information collected to contact users in connection with the inappropriate use of the Websites.
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@plantronics.com](mailto:privacy@plantronics.com) We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 ### Does Plantronics Disclose My Personal Information?
 
 From time to time, we may disclose your personal information to organizations that perform services for or on behalf of Plantronics, for example to provide customer service, deliver products, ship items, process credit cards, for research, marketing, data processing, and to measure the use of our Site. We will share with these companies only that personal information which they need to work on our behalf. Some of these service providers may be located in other countries. Your personal information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Plantronics, and under the instructions of Plantronics, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy.
 
 If you have opted-in to receive direct marketing contact from our Premier Plantronics Only Distributors, Plantronics will disclose your personal information to such distributors. Your personal information will be provided to our Premier Plantronics Only Distributors only if they agree to act in a manner consistent with the relevant principles articulated in this Policy. However, Plantronics recommends that you review the Premier Plantronics Only Distributors privacy policy as their privacy practices are not monitored or controlled by Plantronics.
+
+If Plantronics is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+### Public Forums
+
+Our Web site offers publicly accessible blogs, forums, and user reviews. You should be aware that any information you provide in these public forums may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at [privacy@plantronics.com](mailto:privacy@plantronics.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### What About Security of Data Transmission
 
@@ -109,15 +118,15 @@ Please note that at www.plantronics.com there is a form where you can transmit c
 
 You have the right to correct/update or delete any inaccuracies to the personal information collected about you at www.plantronics.com. You can make changes to your personal profile at any time by going to the "Customer Sign In" page on our website. You will need your Logon ID (user name) and password in order to access your personal information.
 
-You may also contact us via email at [privacy@plantronics.com](mailto:privacy@plantronics.com) to request changes to your profile. Requests received via email will be acknowledged and responded to within 30 days of receipt
+You may also contact us via email at [privacy@plantronics.com](mailto:privacy@plantronics.com) to request changes to your profile. Requests received via email will be acknowledged and responded to within 30 days of receipt.
 
 All access requests will be acknowledged and responded to within 30 days of receipt.
 
 ### Will You Notify Me in the Event of Changes to this Privacy Policy?
 
-Plantronics reserves the right to make changes to this Privacy Policy. Any changes in the policy will be posted directly on the Plantronics website at [www.plantronics.com/privacy/](https://web.archive.org/privacy/). In the event of a material change in the site's data collection and handling practices, Plantronics will post a prominent notice on the web site for 30 days.
+Plantronics reserves the right to make changes to this Privacy Policy. Any changes in the policy will be posted directly on the Plantronics website at [www.plantronics.com/privacy](https://web.archive.org/privacy/).In the event of a material change in the site's data collection and handling practices, Plantronics will post a prominent notice on the web site for 30 days prior to the changes taking effect.
 
-We encourage you to review our Privacy Policy whenever you visit the Websites. If you have any questions or concerns on the Plantronics Privacy Policy, please contact[ privacy@plantronics.com](mailto:privacy@plantronics.com).
+We encourage you to review our Privacy Policy whenever you visit the Websites. If you have any questions or concerns on the Plantronics Privacy Policy, please contact [ privacy@plantronics.com](mailto:privacy@plantronics.com).
 
 ### Contests/Sweepstakes
 
@@ -153,3 +162,72 @@ USA
 ### Legal Disclaimer
 
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our site.
+
+## Plantronics' Cookie Information
+
+#### Last Updated November 8, 2012
+
+  * **UPDATE (Nov 8, 2012):** added section to third-party cookies with FlashTalking information
+  * **UPDATE (Nov 8, 2012):** updated cookies section by adding link to Network Advertising Initiative with opt-out information
+
+
+
+### Does the Plantronics Website Use "Cookies or Clear GIFs"?
+
+We, and our third party partners, use cookies on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Additionally, we use cookies to track our online advertising efforts. Usage of a cookie is in no way linked to any personally identifiable information on our site, though cookies may be used in the online career center to share personally identifiable information with Taleo to accommodate the hiring process.
+
+Our third party partners employ a software technology called clear GIFs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear GIFs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear GIFs to our customers' personally identifiable information.
+
+We use clear GIFs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "How Can I Opt-In/Opt-Out"
+
+### How to Control and Delete Cookies
+
+Plantronics will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block cookies set by Plantronics' web sites, or any other web site, you may do this by adjusting your browser settings. Consult the Help function of your browser for instructions.
+
+To opt out from behavioural advertising by networks adhering to the Network Advertising Initiative, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+You may also wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which contains comprehensive information on how to restrict or block cookies for a variety of different browsers. This site also describes how to delete cookies from your computer and other general information about cookies.
+
+Please be aware that restricting cookies may affect the functionality of Plantronics' web sites.
+
+Plantronics uses a number of suppliers who also set cookies on Plantronics' web sites on our behalf in order to deliver services provided. If you would like more information about the cookies used by these suppliers, as well as information on how to opt-out, please see section 3 below.
+
+### Types of Plantronics Cookies
+
+**Cookie Types**
+
+Session Cookies(sessionid, PHPSESSID, jsessionid)
+
+User Preferences Cookies(locale, culture, etc.)
+
+**Purpose**
+
+Generates a cookie that only exists for the duration of the visitor's time spent on a Plantronics' web property. 
+
+These types of cookies have varying ages and are used to store the visitor's preferences when interacting with Plantronics' web properties.
+
+### Third Party Cookies
+
+Plantronics uses a number of suppliers who also set cookies on its websites on its behalf in order to deliver services provided. If you would like further information about the cookies used by these suppliers, as well as information on how to opt-out, please see the supplier's individual privacy policies.
+
+WebTrends
+
+Google Analytics
+
+DoubleClick (Floodlight)
+
+Eloqua
+
+Equimedia
+
+FlashTalking
+
+SilverPop
+
+AdRoll(openx.net, apnxs.com, adbrite.com, aol.com)
+
+Easy2
+
+AddThis
+
+ForeSee
