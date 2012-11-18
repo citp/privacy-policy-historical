@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516044648id_/http%3A//www.kinesissurvey.com/%3Fpage_id%3D735) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118182943id_/http%3A//www.kinesissurvey.com/%3Fpage_id%3D735) for the most accurate reproduction.*
 
 # Kinesis - website privacy policy | Kinesis Survey Technologies - online and mobile survey software for market research
 
-This privacy policy is effective July 1, 2010.
+This privacy policy is effective May 25, 2012.
 
 **Purpose and Scope**  
-This policy discloses what information we gather about you when you visit kinesissurvey.com. It describes how we use that information and how you can control it. It does NOT pertain to information gathered within survey instruments or by joining survey panels that may utilize our software.  For information about how the data in a particular survey or panel is being used, please contact email support for that particular site/project.
+This policy discloses what information Kinesis Survey Technologies LLC gathers about you when you visit kinesissurvey.com. It describes how we use that information and how you can control it. It does NOT pertain to information gathered within survey instruments or by joining survey panels that may utilize our software.  For information about how the data in a particular survey or panel is being used, please contact email support for that particular site/project.
 
 **Information About What Kinesis Survey Technologies LLC Gathers and Tracks**  
 Kinesis Survey Technologies LLC collects two kinds of information about users:
@@ -16,7 +16,7 @@ Kinesis Survey Technologies LLC collects two kinds of information about users:
 **Personal Information**  
 We use the personal information you provide voluntarily to send information you’ve requested. The specific use of your personal information varies, depending on how you contact us:
 
-  * When you subscribe to Kinesis Survey Technologies mailing lists to receive Kinesis Survey Technologies news and product information, you must provide an email address. We never sell or rent the email address you provide when subscribing to our lists.
+  * When you subscribe to Kinesis Survey Technologies LLC mailing lists to receive Kinesis news and product information, you must provide an email address. We never sell or rent the email address you provide when subscribing to our lists.
   * When you enter a contest or survey, we may ask for your name, address, and email address so we can administer the contest and notify winners.
 
 
@@ -61,28 +61,22 @@ Kinesis Survey Technologies, LLC licenses software to businesses that conduct ma
 
 The companies that license the Kinesis software can program and deploy online and mobile surveys and manage online panels. They invite individuals to give their opinions on a wide variety of research subjects. The invitees may come from an established research panel, a customer list, a purchased email list, banner ads, or other recruiting methods. Personal data such as name, email and physical address, age, gender, profession, income, and other demographic data are often collected in order to support research conclusions about certain subsets of survey respondents and to be able to fulfill rewards for participation that are often a part of the research process.
 
-The Kinesis software is most often hosted in the US at a secure data center in Austin, TX. Kinesis has arranged for this hosting as part of the service customers receive when licensing Kinesis software. Therefore, EU citizens that participate in research panels and surveys prepared and managed by companies that license Kinesis may have personal data stored on servers located in the US at the Austin, TX data center.
+The Kinesis software is most often hosted in the US at a secure data center in Austin, TX. Kinesis Survey Technologies LLC has arranged for this hosting as part of the service customers receive when licensing Kinesis software. Therefore, EU citizens that participate in research panels and surveys prepared and managed by companies that license Kinesis software may have personal data stored on servers located in the US at the Austin, TX data center.
 
 When licensees deploy surveys and panels we will not access or allow unauthorized access to licensee created data or provide it to any third parties unless specifically requested by the licensee or required to by law.
 
-Kinesis utilizes a PCI level 1 compliant with SAS70 type 2 certification data center and extensive hardware and managerial procedures to protect from unauthorized access, copying, manipulation, or forwarding of data stored on our servers. We require our licensees to comply with CAN-SPAM and other professional standards when using Kinesis services and software. Kinesis reserves the right to suspend access should it come to our attention that a licensee is violating US or other country privacy or other laws of which we are aware (such as EU safe harbor principals) in its use of Kinesis software. Kinesis cannot be held responsible should it not discover or become aware that its software use by a licensee may violate US or other country laws.
+Kinesis Survey Technologies LLC utilizes a PCI level 1 compliant with SAS70 type 2 certification data center and extensive hardware and managerial procedures to protect from unauthorized access, copying, manipulation, or forwarding of data stored on our servers. We require our licensees to comply with CAN-SPAM and other professional standards when using Kinesis services and software. Kinesis Survey Technologies LLC reserves the right to suspend access should it come to our attention that a licensee is violating US or other country privacy or other laws of which we are aware (such as EU safe harbor principals) in its use of Kinesis software. Kinesis Survey Technologies LLC cannot be held responsible should it not discover or become aware that its software use by a licensee may violate US or other country laws.
 
 **US/EU Safe Harbor Adherence**
 
-| **Kinesis adheres to the Safe Harbor framework developed by the Department of Commerce in coordination with the European Commission**. The Safe Harbor framework promotes data security and privacy protection and includes procedures to insure that the terms and conditions are adhered to and supported by those companies who have agreed to the terms and conditions of Safe Harbor and have formally certified as such. Kinesis has secured the services of The Better Business Bureaus (BBB EU Safe Harbor Program) to provide an independent recourse mechanism should a complaint remain unresolved regarding Kinesis’ compliance with the standards set forth in the safe harbor framework.  
+|  **Kinesis Survey Technologies LLC adheres to the Safe Harbor framework developed by the Department of Commerce in coordination with the European Commission**. The Safe Harbor framework promotes data security and privacy protection and includes procedures to insure that the terms and conditions are adhered to and supported by those companies who have agreed to the terms and conditions of Safe Harbor and have formally certified as such. Kinesis Survey Technologies LLC has secured the services of The Better Business Bureaus (BBB EU Safe Harbor Program) to provide an independent recourse mechanism should a complaint remain unresolved regarding Kinesis Survey Technologies LLC’s compliance with the standards set forth in the safe harbor framework.   In compliance with the US-EU and US-Swiss Safe Harbor Principles, Kinesis Survey Technologies LLC commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Kinesis Survey Technologies LLC via our online [Contact Us](http://www.kinesissurvey.com/company/contact-us/) form, or call +001 512 590 8300.   Kinesis Survey Technologies LLC has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. **If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Kinesis Survey Technologies LLC, please visit the BBB EU SAFE HARBOR web site at[www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.**  
 ---|---  
   
-The BBB EU Safe Harbor Program can be reached at:
+Kinesis Survey Technologies has certified its compliance with the Safe Harbor rules and can be found on the US Department of Commerce list of companies certifying at: [ http://web.ita.doc.gov/safeharbor/SHList.nsf/WebPages/Texas](http://web.ita.doc.gov/safeharbor/SHList.nsf/WebPages/Texas)
 
-Council of Better Business Bureaus, Inc.  
-4200 Wilson Boulevard, suite 800  
-Arlington, VA 22203-1838
+Kinesis Survey Technologies is also listed on the Better Business Business Bureaus EU/US Safe Harbor Participants site at [http://us.bbb.org](http://us.bbb.org/)
 
-Kinesis has certified its compliance with the Safe Harbor rules and can be found on the US Department of Commerce list of companies certifying at :
-
-[ http://web.ita.doc.gov/safeharbor/SHList.nsf/WebPages/Texas](http://web.ita.doc.gov/safeharbor/SHList.nsf/WebPages/Texas)
-
-Kinesis is also listed on the Better Business Business Bureaus EU/US Safe Harbor Participants site at [http://us.bbb.org](http://us.bbb.org/)
+EU and Swiss consumers with any BBB EU Safe Harbor privacy complaints may access the complaint form here: [**www.bbb.org/us/safe-harbor-complaints**](http://www.bbb.org/us/safe-harbor-complaints).
 
 **Contacting the Web Site**  
 If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, you can [Contact Us](http://www.kinesissurvey.com/?page_id=167).
