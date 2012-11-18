@@ -1,81 +1,116 @@
-> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209071550id_/http%3A//store.teradek.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118075219id_/http%3A//www.teradek.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Teradek, LLC Shopping Cart
+# Privacy Policy | Teradek, LLC | Wireless HD Video
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+Teradek LLC knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Teradek.com, you are accepting the practices described in this Privacy Notice.**
 
-At Teardek, LLC we recognize that privacy is important. This Privacy Policy applies to all of the products, services, and website offered by Teardek, LLC or its subsidiaries or affiliated companies. If you have any questions about this Privacy Policy, please feel free to 
+**What Personal Information About Customers Does Teradek Gather?**
 
-through our website or write to us at
+The information we learn from customers helps us personalize and continually improve your experience. Here are the types of information we gather.
 
-Teradek, LLC 34B Mauchly Irvine, CA 92618 USA
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. See below for examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
 
-Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other web sites, please review the privacy policies posted at those sites.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Teradek.com or advertisements and other content served by or on behalf of Teradek.com on other Web sites. See below for examples of the information we receive.
 
-Information we collect and how we use it
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Teradek if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your communication preferences.
 
-In order to provide our full range of services, we may collect the following types of information:
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. 
 
-Information you provide – When you sign up for a Beta program or other Teradek service or promotion that requires registration, we ask you for personal information (such as your name, email address and physical address).
+  *   
 
-Cookies – The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors.
 
-Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
-User communications – When you send email or other communications to Teradek, LLC, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
-Teradek, LLC only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services.
+**What About Cookies?**
 
-Choices for personal information
+  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features and storage of items in your Shopping Cart between visits.
 
-When you sign up for a particular program or service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Teradek.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Teradek products and services that require you to sign in.
 
-If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
 
-You can decline to submit personal information to any of our services, in which case Teradek may not be able to provide those services to you.
 
-Information sharing
+**Does Teradek.com Share the Information It Receives?**
 
-Teradek only shares personal information with other companies or individuals outside of Teradek in the following limited circumstances:
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Teradek, LLC controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, these businesses operate stores similar to Teradek or sell offerings to you similar to Teradek. In other cases, we may operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
 
-We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * **Third-Party Service Providers:** We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Teradek, its users or the public as required or permitted by law.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Teradek.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust communication preferences.
 
-If Teradek becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Teradek LLC, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
-Please contact us at the address below for any additional questions about the management or use of personal data.
+  * **Protection of Teradek.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Sale and other agreements; or protect the rights, property, or safety of Teradek, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
-Information security
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-We restrict access to personal information to Teradek employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-Data integrity
 
-Teradek processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-Accessing and updating personal information
+**How Secure Is Information About Me?**
 
-When you use Teradek services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-Enforcement
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-Teradek regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Teradek’s treatment of personal information by contacting us through this web site or by writing to us at
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-Teradek, LLC 34B Mauchly Irvine, CA 92618 USA
 
-When we receive formal written complaints at this address, it is Teradek’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Teradek and an individual.
 
-Changes to this Privacy Policy
 
-Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+**What About Third-Party Advertisers and Links to Other Websites?**
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at
+Our site may include third-party advertising and links to other Web sites. 
 
-Teradek, LLC 34B Mauchly Irvine, CA 92618 USA
+**Which Information Can I Access?**
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+Teradek gives you access to a broad range of information about your account and your interactions with Teradek.com for the limited purpose of viewing and, in certain cases, updating that information. 
+
+**What Choices Do I Have?**
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of Teradek.com features.
+
+  * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section. When you update information, we usually keep a copy of the prior version for our records.
+
+  * If you do not want to receive e-mail or other mail from us, please adjust your communication preferences. (If you do not want to receive Terms of Sale, Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Teradek.com, and it is your responsibility to review them for changes.)
+
+  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Teradek.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Teradek products and services that require you to Sign in.
+
+
+
+
+**Are Children Allowed to Use Teradek.com?**
+
+Teradek.com does not sell products for purchase by children. If you are under 18, you may use Teradek.com only with the involvement of a parent or guardian. 
+
+**Conditions of Use, Notices, and Revisions**
+
+If you choose to visit Teradek.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Teradek.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+**Examples of Information Collected**
+
+**Information You Give Us**
+
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Teradek.com or one of our third-party sellers; provide information in your account (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services; participate in discussion forums or other community features; provide and rare reviews; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; content of reviews and e-mails to us; personal description; and financial information, including Social Security and driver's license numbers.
+
+**Automatic Information**
+
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create new feautures; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+
+**Mobile**
+
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, consult your device manual. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.
+
+**Information from Other Sources**
+
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through Web search features offered by third parties; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+
+**Co-branded and Joint Offerings**
+
+Examples of businesses with which we offer joint or co-branded products and other offerings include Verizon Wireless, Sprint, T-Mobile, AT&T, and others.
+
+**Information You Can Access**
+
+Examples of information you can access easily at Teradek.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, and address book); payment settings (including credit card information); e-mail notification settings (including Product Availability Alerts and newsletters); seller accounts; and your profile.
