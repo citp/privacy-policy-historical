@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520151722id_/http%3A//www.salemnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052747id_/http%3A//www.salemnews.com/privacy) for the most accurate reproduction.*
 
 # Inside index
 
