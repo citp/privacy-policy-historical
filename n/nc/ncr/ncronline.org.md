@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601005206id_/http%3A//ncronline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118180503id_/http%3A//ncronline.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Catholic Reporter
-
-Effective February 12, 2009
 
 The National Catholic Reporter Publishing Co., Inc. (“NCR”) is committed to protecting your privacy. By visiting NCRonline.org, you agree that your use of our site, and any dispute over privacy, is governed by this Privacy Policy.
 
 **The Information We Collect and How We Use It**  
-The information we collect falls into two categories: (1) personal information that you provide to us when you register for an e-mail alert, and (2) certain anonymous information that we collect as you navigate through the NCRonline.org pages. 
+The information we collect falls into two categories: (1) personal information that you provide to us when you register for an e-mail alert, and (2) certain anonymous information that we collect as you navigate through the NCRonline.org pages.
 
 We may use information: (a) for the purposes for which you specifically provided the information, (b) to send you e-mails only from NCR, (c) to enhance existing features or develop new features, products and services, and (d) to provide advertisers and other third parties with aggregate (non-personally identifiable) information about our user base and usage patterns.
 
