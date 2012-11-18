@@ -1,24 +1,29 @@
-> *The following text is extracted and transformed from the moneyctl.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183809id_/http%3A//moneyctl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyctl.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118144407id_/http%3A//moneyctl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MoneyCTL.com
+# Privacy PolicyMoneyCTL.com
 
-**Our Commitment**  
-_**moneyctl.com**_ is strongly committed to your right to privacy and to keeping your personal and financial information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
+**Our commitment**
 
-**Information collected by** __**moneyctl.com**_ ****_ ****_****_**and how it is used**  
-_****___**moneyctl.com**_ ****_ only collects the necessary personally identifiable information in order to respond to your requests for our customized products and services. Personally identifiable information includes, but is not limited to, first and last name, physical address, e-mail address, phone number, birth date, and any other information that itself identifies or when tied to the above information, may identify you as a specific individual.
+_moneyctl.com_ is strongly committed to your right to privacy and keeps your personal information secure. Please go through our privacy statement to understand what types of personal information we collect and how we use this information.
 
-This website does not collect personally identifiable information about you except when you specifically and knowingly provide it.  _ ****_ _ _ **moneyctl.com**_ ****_and its service partners use your personally identifiable information to operate the sites and services and to inform you of new features, services, and products from   _ ****___**moneyctl.com**_ ****_and its affiliates.
+**Information collected by MoneyCTL.com and how it is used**
 
-_money **control.com**_ may also carefully select other companies to send you information about their products or services which are related to the site’s service but are not necessary to its operation (an “Extended Service”). If _ **  moneyctl.com**_ _ ****_ _ ****_intends to use personally identifiable information for an Extended Service, the   _ ****_ _ _ **moneyctl.com**_ ****_site will provide you with the ability and requisite instructions to decline this service. You may also stop the delivery of informational or promotional mail from   _ ****___**moneyctl.com**_ ****_ by following the instructions on the mail.
+__moneyctl.com_ _only collects the necessary personal information to respond to your requests. Personally identifiable information includes, but is not limited to, first and last name, physical address, e-mail address, phone number, birth date, and any other information that itself identifies or when tied to the above information, may identify you as a specific individual.
 
-_****___**moneyctl.com**_ ****_ may disclose personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (i) conform to the edicts of the law or comply with legal process served on the site or its owners; (ii) protect and defend the rights or property of the site-owners, the site or the users of _  _ **moneyctl.com**__ and (iii) act under exigent circumstances to protect the personal safety of users of _**moneyctl.com**_ _ ****_ _ ****_, the site, its owners, or the public.
+This website does not collect personally identifiable information about you except when you specifically and knowingly provide it.
 
-**User/member interaction features**  
-_****___**moneyctl.com**_ ****_ has many features that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (e.g. e-mail address) by you through these features are at your sole risk and _ **moneyctl.com**_ _ ****_ accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail at [privacy@moneyctl.com](mailto:privacy@moneycontrol.com).
+__If _  moneyctl.com_ __ __intends to use personally identifiable information for an Extended Service, the   _ ****_ _ _moneyctl.com__ site will provide you with the ability and requisite instructions to decline this service. You may also stop the delivery of informational or promotional mail from  _ ****___moneyctl.com_ ****_ by following the instructions on the mail.
 
-**Other Websites**  
-The  _ **moneyctl.com**_ _ ****_ site contains links to other websites. __**moneyctl.com**_ ****__****_is not responsible for the privacy practices or the content of such websites.
+_****___moneyctl.com_ ****_ may disclose personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (i) conform to the edicts of the law or comply with legal process served on the site or its owners; (ii) protect and defend the rights or property of the site-owners, the site or the users of _  _moneyctl.com__ and (iii) act under exigent circumstances to protect the personal safety of users of _moneyctl.com_ _ ****_ _ ****_, the site, its owners, or the public.
 
-**Notify Us**  
-If at any time you believe that  _ **moneyctl.com**_ _ ****_or its users/members have not adhered to these principles, please notify   _ ****_ _ _ **moneyctl.com**_ ****_by e-mail at[privacy@moneyctl.com](mailto:privacy@moneycontrol.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+**User/Member interaction features**
+
+__moneyctl.com_ ****_ has comments feature that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (e.g. e-mail address) by you through these features are at your sole risk and _moneyctl.com_ _ ****_ accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail at _mymoneyctl@gmail.com_
+
+**Other websites**
+
+The  _moneyctl.com_ _ ****_ site also contains links to other websites. __moneyctl.com__ _****_is not responsible for the privacy practices or the content of such websites.
+
+**Notify us**
+
+If at any time you believe that  _moneyctl.com_ _ ****_or its users/members have not adhered to these principles, please notify   _ ****_ _ _moneyctl.com_ ****_by e-mail at _mymoneyctl@gmail.com_ and we will use all commercially reasonable efforts to promptly determine and correct the problem.
