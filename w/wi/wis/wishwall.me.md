@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishwall.me privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603072519id_/http%3A//www.wishwall.me/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishwall.me privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118180627id_/http%3A//www.wishwall.me/privacy_policy) for the most accurate reproduction.*
 
 # Wish | Privacy Policy
 
@@ -89,6 +89,6 @@ If we change our privacy policies and procedures, we will post those changes on 
 
 Your California Privacy Rights 
 
-California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. As stated in this Privacy Policy, ContextLogic will not sell or share your Personal Information with non-ContextLogic companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at [privacy@ContextLogic.com](mailto:privacy@ContextLogic.com), or write to us at ContextLogic Privacy Policy, 111 Pine Street, Suite 1615, San Francisco, 94111. 
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. As stated in this Privacy Policy, ContextLogic will not sell or share your Personal Information with non-ContextLogic companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at privacy@ContextLogic.com or write to us at ContextLogic Privacy Policy, 20 California St. 4th Floor, San Francisco, CA 94111. 
 
 Last Updated: Dec 1, 2011 
