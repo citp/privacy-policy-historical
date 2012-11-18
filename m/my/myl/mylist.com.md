@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylist.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629202231id_/http%3A//mylist.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylist.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118102648id_/http%3A//mylist.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # myList: Privacy Policy
 
@@ -89,7 +89,7 @@ Our Application contains links to other websites. If you choose to leave the myL
 
 Our Policy Toward Children
 
-You are required to log in to Facebook in order to use myList. As an application within Facebook, myList is not available to children under the age of 13.  We do not knowingly collect PII from children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with PII without their consent, he or she should contact us at privacy@mylist.com.  
+You are required to log in to Facebook in order to use myList. As an application within Facebook, myList is not available to children under the age of 13\.  We do not knowingly collect PII from children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with PII without their consent, he or she should contact us at privacy@mylist.com.  
 
 Contacting Us
 
