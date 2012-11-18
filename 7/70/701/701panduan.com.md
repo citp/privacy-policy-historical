@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514113155id_/http%3A//www.701panduan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118074101id_/http%3A//www.701pages.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Malaysia Business Directory | Malaysia Travel Guide | Malaysia Lifestyle | Malaysia Deals | 701Panduan
+# Restaurants, Travel, Education, Businesses, Home & Living | 701Pages
 
-[701Panduan Sdn Bhd ](http://www.701panduan.com/)("701Panduan") collects information from users for a number of reasons.
+[701Panduan Sdn Bhd ](http://www.701pages.com/)("701Panduan") collects information from users for a number of reasons.
 
 Please read carefully our policy below on data collection and use of the data collected. This policy applies to web sites and services that are owned and/or operated by 701Panduan. We do not exercise control over the sites displayed as search results or links from within our various sites or services and assume no responsibility for their content or privacy policies. A link from our site to another site does not imply endorsement of that site.
 
@@ -10,16 +10,16 @@ We may amend this policy from time to time, and we will post any such amended po
 
 _**When is information collected from you?**_
 
-  * When you register for any of [701Panduan](http://www.701panduan.com/)'s services on websites owned and/or operated by [701Panduan](http://www.701panduan.com/), when you take part in any contest, survey or promotion conducted by [701Panduan](http://www.701panduan.com/) and/or its business partners and/or when you register as a member of websites hosted by [701Panduan](http://www.701panduan.com/) on behalf of its business partners or use services on such websites, we may ask you for personal information (including, without limitation, your name, email address, account password, gender, phone number, physical address, occupation, preferences, photos, etc.). We may combine the information you submit under your account with information from other [701Panduan](http://www.701panduan.com/) services, or publicly available information.
+  * When you register for any of [701Panduan](http://www.701pages.com/)'s services on websites owned and/or operated by [701Panduan](http://www.701pages.com/), when you take part in any contest, survey or promotion conducted by [701Panduan](http://www.701pages.com/) and/or its business partners and/or when you register as a member of websites hosted by [701Panduan](http://www.701pages.com/) on behalf of its business partners or use services on such websites, we may ask you for personal information (including, without limitation, your name, email address, account password, gender, phone number, physical address, occupation, preferences, photos, etc.). We may combine the information you submit under your account with information from other [701Panduan](http://www.701pages.com/) services, or publicly available information.
   * We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to 701Panduan in order to deliver the service. We process such information in accordance with this policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
-  * When you visit [701Panduan](http://www.701panduan.com/)’s websites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * When you visit [701Panduan](http://www.701pages.com/)'s websites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
   * We may present links in a format that enables us to keep track of whether these links have been followed.
 
 
 
 _**What is the information used for?**_
 
-  * To provide goods and services by [701Panduan](http://www.701panduan.com/) or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto.
+  * To provide goods and services by [701Panduan](http://www.701pages.com/) or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto.
   * To verify and process payment when you purchase goods and services from our sites.
   * For verification and record of your personal particulars, including comparing it with information from other sources, and using the information to communicate with you.
   * To conduct statistical analysis of the users of our sites, including the number of users, the frequency of use, profile of users, and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us.
@@ -31,7 +31,7 @@ _**What is the information used for?**_
 
 _**Will your personal information be shared with anyone?**_
 
-As a general rule, we do not disclose specific information about our users to any third parties, save for the purposes set out above. However, in the event that:
+in the event that:
 
   * you participate in contests or other promotional programs on our site sponsored or organized by third parties;
   * you purchase goods and services offered by third parties or offer goods and services to third parties on our sites;
@@ -40,16 +40,20 @@ As a general rule, we do not disclose specific information about our users to an
 
 
 
-your information may be disclosed to and used by such third parties. Although we are committed to safeguarding your privacy, we cannot ensure or warrant the security of any information you submit to us, or to or from our sites or services.
+your information may be disclosed to and used by such third parties.
 
 _**Can you change and update your particulars?**_
 
-We encourage you to change or update your particulars, if the same are inaccurate or not updated, and you may do so at [Information Updates](http://www.701panduan.com/enquiry-form.php?type=submit)  page.
+If you wish to correct, change or update your particulars, you may do so at [Information Updates](http://www.701pages.com/enquiry-form.php?type=submit)  page.
 
-_**How your data is protected**_
+_**How your confidential data is protected**_
 
-[701Panduan](http://www.701panduan.com/) will take commercially reasonable steps to ensure that personal data are protected from unauthorised access.
+[701Panduan](http://www.701pages.com/) will take commercially reasonable steps to ensure that personal data are protected from unauthorised access.
 
 Access to your data is password protected. Thus, no other party, including employees of 701Panduan, can change the information. However, you must remember to log off from your account and close the browser window and clear your cache after use so that no unauthorised party can have access. You must not, at any time, divulge your password to any third party.
 
 All information gathered by 701Panduan is stored in systems that may only be accessed by authorised staff of 701Panduan Sdn Bhd using assigned user ids and passwords.
+
+_**Can you opt out of promotional emails?**_
+
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via [email](mailto:info@701pages.com?subject=Unsubscribe%20from%20701Pages.com) us
