@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520150705id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118051546id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Terms and Conditions, Themes and Mods
 
@@ -30,7 +30,7 @@ While actual use of any information collected may be used quite conservatively, 
 
 When visiting ThemesAndMods.com, visitors agree to the Terms of Service as mentioned on this page. We reserve the right to update, revise or append the Terms of Service at any time by posting such modifications for public view.
 
- **External Links:** ThemesAndMods.com has affiliated links to other websites. We are not responsible for those websiteÃ¢â‚¬â„¢s contents or their privacy practices.
+ **External Links:** ThemesAndMods.com has affiliated links to other websites. We are not responsible for those website’s contents or their privacy practices.
 
  **Statement of Liability and Basic Disclaimer:** All products, services, information and content is furnished to you “as is” with none guaranteed. ThemesAndMods.com will not assume liability for any damages (including residual, special, consequential or indirect) that may result from the use of the materials provided through the use of this website, even if ThemesAndMods.com has previously been informed that the potential for such damages exist.
 
