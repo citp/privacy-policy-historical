@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413120541id_/http%3A//www.suunto.com/global/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suunto.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118172858id_/http%3A//www.suunto.com/global/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Suunto
 
@@ -81,7 +81,7 @@ Please note that Suunto may need to identify you and to ask for additional infor
 
 **The Controller of Your Personal Data and Contact Details**
 
-Suunto Oy, Valimotie7, 01510 Vantaa, Finland is the controller of your personal data.
+Suunto Oy, Valimotie 7, 01510 Vantaa, Finland is the controller of your personal data.
 
 In matters pertaining to Suunto’s privacy practices you may also contact us at:
 
