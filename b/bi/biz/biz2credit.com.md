@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624053457id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118025759id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Biz2credit
 
