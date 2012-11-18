@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniactools.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520210335id_/http%3A//www.maniactools.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniactools.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119002700id_/http%3A//www.maniactools.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,25 +8,25 @@ This document explains what information we collect from our users and visitors o
 
 No cookies or other sorts of identifiers are used to track visitors of maniactools.com. However, we may collect the information provided by your system automatically, such as IP address, system language, browser type.
 
-### Uninstall feedbacks
+##### Uninstall feedbacks
 
 When you uninstall our program, an uninstall feedback form is shown. All fields of the form are optional, you can provide as much or as little information about yourself and your reason to uninstall as you wish. If you do not wish to share any information, just leave the uninstall feedback page or close your browser.
 
 The program you uninstall may send its name and version number to our server.
 
-### Support requests
+##### Support requests
 
 If you have any questions about our product, site, or company, you can contact us using the support forms on the site. In this situation we need some information from you in order to be able to send our reply. The collected information include: your name, email address, your registration status, computer experience level, program you want to ask about, version of the program, your operating system, your comments (description of the problem etc.). You provide the information by entering text or selecting values of the corresponding fields of the form.
 
 If you are a registered user and open the support form from your registered copy of our program, for your convenience your registration name will be sent to our server and filled into the corresponding field. If you prefer to fill out all fields manually, just visit our site and open the support form using the "Contact us" section instead of opening it from the program.
 
-### Registration
+##### Registration
 
 You can purchase a license to our software using the buy links available on our site. The links will lead you to a secure site of our e-commerce provider. All information that you provide on the site is processed by the e-commerce provider according to its privacy policy (a link to the privacy policy of the e-commerce provider can be found directly on the ordering page).
 
 After purchasing a license you will receive your registration data. The data consists of the name that you provided when purchasing and a special key generated to the name. This information is used to unlock the program on your computer, your registration name may be sent to our server at the first run of the registered version as a part of the request that retrieves the page informing you about successful registration. When you use the registered version of the program, your registration name may be sent to our server exclusively in the situations described by this document.
 
-### Applications
+##### Applications
 
 Some our programs may send certain information to our server, as described below. This information is used to improve quality of our services.
 
