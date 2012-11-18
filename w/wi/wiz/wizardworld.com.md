@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizardworld.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314070525id_/http%3A//www.wizardworld.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizardworld.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118233500id_/http%3A//www.wizardworld.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
