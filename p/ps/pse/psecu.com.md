@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209234105id_/http%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118194415id_/http%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
 
 # PSECU - Privacy Act Policy
+
+**_Board Approval 9/11/2012_**
 
 A. Policy Statement:
     
 
 The Gramm-Leach-Bliley Act sets specific requirements for financial institutions to protect customer-member nonpublic personal information. It also required NCUA to issue regulations to implement its provisions. As a result, NCUA issued Part 716 of its Rules and Regulations entitled Privacy of Consumer Financial Information. This requires all federally insured credit unions to comply with NCUA's Part 716 of its Rules and Regulations.
 
-In compliance with Congress' requirement that each financial institution has an affirmative and continuing obligation to respect the privacy of its customers/members and to protect the security and confidentiality of those customers/members' nonpublic personal information, the Board of Directors of the Pennsylvania State Employees Credit Union (PSECU) has adopted the following Privacy Policy, which is further detailed in PSECU's privacy notice ( _See Attachment A_ ).
+In compliance with Congress' requirement that each financial institution has an affirmative and continuing obligation to respect the privacy of its customers/members and to protect the security and confidentiality of those customers/members' nonpublic personal information, the Board of Directors of the Pennsylvania State Employees Credit Union (PSECU) has adopted the following Privacy Policy, which is further detailed in PSECU's privacy disclosure ( _See Attachment A_ ).
 
 The Privacy Officer, who is the Corporate Compliance Officer, is responsible for the overall effectiveness of the Privacy program and works in conjunction with all PSECU staff to ensure compliance.
 
@@ -16,39 +18,39 @@ B. Goals:
 
 The specific goals of the Privacy Act Policy are:
 
-  * To provide internal controls for ongoing compliance. 
-  * To have a written board approved privacy policy. 
-  * To provide privacy notices to all members initially and annually. 
+  * To provide internal controls for ongoing compliance.
+  * To have a written board approved privacy policy.
+  * To provide privacy notices to all members initially and annually.
   * To designate an individual who will be responsible for overall effectiveness to ensure compliance. 
-  * To determine if and what information is shared to any party not affiliated with the PSECU. 
-  * To provide an opportunity for members to "opt out" of information sharing.* 
-  * To provide initial training and ongoing training as needed. 
-  * To provide annual independent testing for compliance. 
+  * To determine if and what information is shared to any party not affiliated with the PSECU.
+  * To provide an opportunity for members to "opt out" of information sharing.*
+  * To provide initial training and ongoing training as needed.
+  * To provide annual independent testing for compliance.
 
 
 
-PSECU does not share member nonpublic personal information; therefore an opt out option is not necessary.
+*PSECU does not share member nonpublic personal information; therefore an opt out option is not necessary.
 
 C. Internal Controls:
     
 
 The following internal controls are in place to ensure compliance with NCUA's Part 716 of its Rules and Regulations entitled Privacy of Consumer Financial Information.
 
-  * PSECU has a written board approved policy. New members are provided a copy of PSECU's privacy notice. 
-  * Annual notices are provided with the July statements to all members, as well as being available on psecu.com See attachment A for a copy of PSECU's privacy notice. 
-  * PSECU designated the Corporate Compliance Officer as Privacy Officer, who is responsible for the overall effectiveness and PSECU's adherence to the Privacy Act. 
-  * All third party contracts are required to include a confidentiality clause, if any member nonpublic information is available to that third party. 
-  * All requests for member information are granted only by the member's written permission, court order, subpoena, or government enforcement authority. 
-  * PSECU's Staff Development sends a refresher on the Privacy Policy once a year to all employees. 
+  * PSECU has a written board approved policy. New members are provided a copy of PSECU's privacy notice.
+  * Annual notices are provided with the July statements to all members, as well as being available on psecu.com [See attachment B](https://web.archive.org/lib/pdf/4200.pdf) for a copy of PSECU's privacy notice.
+  * PSECU designated the Corporate Compliance Officer as Privacy Officer, who is responsible for the overall effectiveness and PSECU's adherence to the Privacy Act.
+  * All third party contracts are required to include a confidentiality clause, if any member nonpublic information is available to that third party.
+  * All requests for member information are granted only by the member's written permission, court order, subpoena, or government enforcement authority.
+  * PSECU's Staff Development sends a refresher on the Privacy Policy once a year to all employees.
 
 
 D. On-going Monitoring:
     
 
-  * Corporate Compliance conducts annual compliance reviews on high profile regulations and risk sensitive compliance issues. 
-  * Risk Assessments are performed by Corporate Compliance on high profile regulations and risk sensitive compliance issues. 
-  * Member complaints are tracked, monitored, and responded to by Corporate Compliance. 
-  * Corporate Compliance monitors the current environment and advises management and PSECU's Security staff of potential breach or violation of our privacy initiatives. 
+  * Corporate Compliance conducts annual compliance reviews on high profile regulations and risk sensitive compliance issues.
+  * Risk Assessments are performed by Corporate Compliance on high profile regulations and risk sensitive compliance issues.
+  * Member complaints are tracked, monitored, and responded to by Corporate Compliance.
+  * Corporate Compliance monitors the current environment and advises management and PSECU's Security staff of potential breach or violation of our privacy initiatives.
 
 
 E. Staff Training:
@@ -61,9 +63,9 @@ F. Independent Testing:
 
 Internal Audit Services (IAS) conducts an annual comprehensive compliance audit of PSECU's compliance to the Privacy laws and adherence to PSECU's Privacy Policy.
 
-## Attachment A: PSECU's Privacy Notice & Disclosure
+## Attachment A: PSECU's Privacy Policy
 
-PSECU's mission is "To continually strive to maintain a progressive and financially stable credit union that gives PSECU members control over their finances. To provide members with a variety of high quality traditional and innovative financial products and services, which are convenient, with superior pricing and available through self-service delivery channels."
+PSECU's mission is _"To safely and securely provide the best value to our members throughout their lives."_
 
 PSECU uses the latest technology to deliver our products and services to all members, which often translates into use of the various technologies for service delivery. PSECU's primary delivery channel is the Internet. A logical concern arising from the rapidly changing world of technology and specifically the Internet is your right to conduct business with us in confidence and your right to maintain privacy over your financial matters.
 
@@ -77,7 +79,7 @@ In addition, the Board of Directors has adopted a Confidentiality of Member Info
 
 We invite you to review our Privacy Policy and contact us with any questions you may have.
 
-R. Brian Wilbur, Chair, Board of Directors Gregory A. Smith, President
+Joseph Sassano, Chair, Board of Directors Gregory A. Smith, President
 
 ## Our Policy Regarding the Collection, Use and Disclosure of Your Information...
 
@@ -86,11 +88,11 @@ What Information We Collect...
 
 We collect nonpublic personal information about you from the following sources:
 
-  * Information we receive from you on applications and other forms. 
-  * Information about your transactions with our affiliates or us. 
-  * Information obtained when verifying the information you provide to us. This may be obtained from your current or past employers, or from other financial transactions, credit reporting agencies, and other sources. 
-  * We also collect information for non-member pre-approved mailings. This may be obtained from credit reporting agencies and other sources. 
-  * We may disclose all of the information we collect, as described by law. 
+  * Information we receive from you on applications and other forms.
+  * Information about your transactions with our affiliates or us.
+  * Information obtained when verifying the information you provide to us. This may be obtained from your current or past employers, or from other financial transactions, credit reporting agencies, and other sources.
+  * We also collect information for non-member pre-approved mailings. This may be obtained from credit reporting agencies and other sources.
+  * We may disclose all of the information we collect, as described by law.
 
 
 What Information We Disclose...
@@ -98,7 +100,7 @@ What Information We Disclose...
 
 We may disclose nonpublic personal information about you to the following types of third parties:
 
-  * **Financial service providers** , such as insurance companies, mortgage service companies, and broker-dealers. 
+  * **Financial service providers** , such as insurance companies, mortgage service companies, and broker-dealers.
   * **Non-financial companies** , such as consumer reporting agencies, data processors, check printers, financial statement publishers, retailers, plastic card processors, and government agencies (with court orders/subpoenas/member written consent), or any third party with a valid court order, warrant or subpoena.
 
 
@@ -123,9 +125,9 @@ Confidentiality and Security of Your Information...
 Some of the measures PSECU established to protect your personal financial information are:
 
   * PSECU employees are governed by various policies that include the Code of Conduct, Confidentiality of Member Information policies and Information Security policies. These policies include the responsibility to protect the confidentiality of members' financial and other personal information. This prohibits your credit union Board and Staff from disclosing your personal financial information. This prohibition is in place even after the employment or board relationship is terminated or ends.
-  * PSECU is subject to several examinations of our financials, records, policies and procedures. The Pennsylvania Department of Banking and the National Credit Union Administration (NCUA), both perform examinations. In addition we have an outside independent accounting firm conduct an annual audit. PSECU also maintains a professionally trained Internal Audit staff to provide ongoing monitoring of our system of control. 
-  * PSECU protects and secures both member and employee information at its facility by restricting access to sensitive areas. Electronic badges and PINs are required to gain access to the internal PSECU areas. Additionally, procedures and electronic monitoring are in place in the event of unusual activity, robbery, or fire. We continually evaluate our current physical security measures and monitor new technology as it develops. 
-  * PSECU has extensive computer system security controls. Our operational and data processing functions are in a secure environment that protects member information from being accessed inappropriately. Our employees have limited access to member information based on their job function. We maintain physical, electronic, and procedural safeguards. Employees are educated on implementing PSECU's policies and security principles and practices. 
+  * PSECU is subject to several examinations of our financials, records, policies and procedures. The Pennsylvania Department of Banking and the National Credit Union Administration (NCUA), both perform examinations. In addition we reserve the right to contract with an outside independent accounting firm to conduct an annual audit. PSECU also maintains a professionally trained Internal Audit staff to provide ongoing monitoring of our system of control.
+  * PSECU protects and secures both member and employee information at its facility by restricting access to sensitive areas. Electronic badges and PINs are required to gain access to the internal PSECU areas. Additionally, procedures and electronic monitoring are in place in the event of unusual activity, robbery, or fire. We continually evaluate our current physical security measures and monitor new technology as it develops.
+  * PSECU has extensive computer system security controls. Our operational and data processing functions are in a secure environment that protects member information from being accessed inappropriately. Our employees have limited access to member information based on their job function. We maintain physical, electronic, and procedural safeguards. Employees are educated on implementing PSECU's policies and security principles and practices.
   * PSECU has sophisticated online banking and Internet security measures in place.
 
 
@@ -142,7 +144,7 @@ PSECU recognizes the importance of maintaining a presence on the World Wide Web 
 Visiting Us Online...
     
 
-We may gather information about which sites our visitors browse while they are on any PSECU owned site or affiliated site. This enables us to track how a visitor navigates through the site areas in which they show interest. We gather information such as number of hits to the site, page visits, and length of user sessions. This is similar to a traffic report: it tracks trends and behaviors of members/users in general, but does not identify individuals in particular. We use this information to better serve you and it helps keep our site relevant and useful.
+We may gather information about which sites our visitors browse while they are on any PSECU owned site or affiliated site. This enables us to track how a visitor navigates through the site areas in which they show interest. We gather information such as number of hits to the site, page visits, and length of user sessions. This is similar to a traffic report: it tracks trends and behaviors of members/users in general, but does not identify individuals in particular. We use this information to better serve you and it helps keep our site relevant and useful. 
 
 Our Use of Cookies...
     
@@ -159,7 +161,7 @@ Online Security...
 
 We will maintain industry standard security controls to ensure that member information stored in our files and on the computers are protected. Where appropriate, we will use security-coding techniques, like encryption, to protect against unauthorized access and the integrity of communications and transactions, and protect member confidentiality. PSECU uses 128-bit encryption technology, the strongest industry standard encryption available as of October 2007.
 
-We also use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. PSECU analyzes traffic coming into and out of our firewalls, which would indicate hacking activity and other computer threats. We also regularly monitor our logs and scan our systems for known vulnerabilities. PSECU contracts with third party security specialists to regularly penetrate our network and to evaluate the security of our online banking application. PSECU has implemented layered security within psecu@home®. Layered security provides an additional means of authentication beyond traditional user names and passwords. Further, PSECU's on-line presence is subject to regular reviews and tests by independent security providers.
+We also use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. PSECU analyzes traffic coming into and out of our firewalls, which would indicate hacking activity and other computer threats. We also regularly monitor our logs and scan our systems for known vulnerabilities. PSECU contracts with third party security specialists to regularly penetrate our network and to evaluate the security of our online banking application. PSECU has implemented layered security within psecu@home ®. Layered security provides an additional means of authentication beyond traditional user names and passwords. Further, PSECU's on-line presence is subject to regular reviews and tests by independent security providers.
 
 Protecting Children's Online Privacy...
     
@@ -178,19 +180,21 @@ PSECU does not disclose nonpublic personal information about you to nonaffiliate
 
 Once we would receive your request, we will have a reasonable amount of time to stop the disclosures. You may always contact us for assistance if you wish to later revoke your opt-out election.
 
-PSECU has an e-mail marketing service. PSECU will periodically send e-mails promoting our products and services, or those of our affiliates, to members for whom we have recorded e-mail addresses. All members who receive the marketing e-mails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button. As always, all members can opt out by contacting us using the methods described in this policy.
+PSECU has an e-mail marketing service. PSECU will periodically send e-mails promoting our products and services, or those of our affiliates, to members for whom we have recorded e-mail addresses. All members who receive the marketing e-mails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button. As always, all members can opt out by contacting us using the methods described in this policy. 
 
 What You as a Member Can Do to Help...
     
 
 PSECU is committed to protecting the privacy of our members. Members can help by following some simple suggestions:
 
-  * Protect your account numbers, plastic card numbers, PINs and passwords. Never keep your PIN with your card. 
-  * Use caution when disclosing your account numbers, Social Security numbers, etc. to other persons. If you receive a telephone call from someone claiming to be from the credit union, and that unknown person asks for account numbers, or other identifying information, do not give that information. 
-  * PSECU staff will have access to your information and will not need to ask for it.   
-Keep your information with us current. If your address or telephone number changes, please let us know promptly. It is important that we have current information as to how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately. 
-  * After you complete your online session, log out of psecu.com before surfing other sites. It is suggested that you do not surf other sites during your online banking session. As this could allow a cookie to be attached and possibly compromise your information. 
-  * Review your account statements as soon as possible after receiving them. Contact us immediately regarding any discrepancies. 
-  * Let us know if you have any questions concerning this notice or your account or any services we provide. Please do not hesitate to contact us. We are here to serve you! 
+  * Protect your account numbers, plastic card numbers, PINs and passwords. Never keep your PIN with your card.
+  * Use caution when disclosing your account numbers, Social Security numbers, etc. to other persons. If you receive a telephone call from someone claiming to be from the credit union, and that unknown person asks for account numbers, or other identifying information, do not give that information.
+  * PSECU staff will have access to your information and will not need to ask for it. Keep your information with us current. If your address or telephone number changes, please let us know promptly. It is important that we have current information as to how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately.
+  * After you complete your online session, log out of psecu.com before surfing other sites. It is suggested that you do not surf other sites during your online banking session. As this could allow a cookie to be attached and possibly compromise your information.
+  * Review your account statements as soon as possible after receiving them. Contact us immediately regarding any discrepancies.
+  * Use Rapport to protect your Web browser sessions with any Website that contains private or personal information. Rapport is a security software application developed by Trusteer, Ltd. that provides online identity theft and online transaction protection for consumers.
+  * Let us know if you have any questions concerning this notice or your account or any services we provide. Please do not hesitate to contact us. We are here to serve you!
 
 
+
+Board Approval 9/11/2012
