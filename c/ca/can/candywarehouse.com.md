@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518153304id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118041416id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CandyWarehouse.com Online Candy Store
 
@@ -16,7 +16,7 @@ CandyWarehouse.com recommends that if you are providing information on behalf of
 
 1\. We collect contact information from you, such as your name, email address, and phone number on our website when you use the "Contact Us" or "Track" forms on our website. We use this information to directly respond to your inquiries or to track and show you the status of your placed order.
 
-2\. When making a purchase, signing up for our newsletter, or joining our Candy Blog the following information is generally collected from you: contact information, such as name, email address, billing and shipping address and phone numbers; and financial information, such as credit card number. We work with a number of third party service providers to facilitate these functions on behalf of our website. Please be aware that when utilizing these features you will be submitting your information directly to these third party websites. Please see "Information Sharing and Disclosure" sections below for further information. This information is used for billing purposes and to fulfill orders, to subscribe you to our newsletter and our Candy Blog. In providing this personally identified information to the above 3rd parties but these companies do not have any independent right to share this information. Therefore, CandyWarehouse.com governs the collection and use of this type of shared information.
+2\. When making a purchase, signing up for our newsletter, or joining our Candy Blog, the following information is generally collected from you: contact information such as name, email address, billing and shipping address and phone numbers; and financial information such as credit card number. We work with a number of third party service providers to facilitate these functions on behalf of our website. Please be aware that when utilizing these features you will be submitting your information directly to these third party websites. Please see "Information Sharing and Disclosure" sections below for further information. This information is used for billing purposes and to fulfill orders, to subscribe you to our newsletter and our Candy Blog. In providing this personally identified information to the above 3rd parties but these companies do not have any independent right to share this information. Therefore, CandyWarehouse.com governs the collection and use of this type of shared information.
 
 When making a purchase, additional information may be requested if you are sending an order to someone other than yourself. For example, if you are sending a shipment to a friend, you will be providing that friend’s shipping address and phone number so that we may fulfill this request. The friend’s information is not used for any secondary purposes.
 
@@ -32,11 +32,9 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 If you wish to opt-out of any of our newsletters or promotional emails, please see the "Choice and Opt-Out" section below.
 
-**Customer Service**
+**Customer Care**
 
 Based upon the personally identifiable information you provide us, we will send you order confirmation and order shipment status emails. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. As these communications are service related, and not promotional in nature, generally you may not opt-out of these emails.
-
-The Yahoo Merchant Solutions system has an internal rating system that can be sent to the consumer after a candy purchase on CandyWarehouse.com. This consumer rating template is standardized and consists of 5 quality performance parameters and body text. It is only sent to the consumer if they check the box on the order form that states "would you like Yahoo to send you an email asking you to rate this merchant?" The consumer rating form is a one time email from Yahoo.
 
 **Information Sharing and Disclosure**
 
@@ -52,7 +50,7 @@ We DO NOT Share Personally Identifiable Information with Third Parties for their
 We use a credit card processing company to bill you for goods and services and a shipping agent to fulfill delivery of goods. Other service providers include our web hosting company that provides the blog on our site, and an email service provider that facilitates our newsletter e-mailings. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
 **Legal Disclaimer:**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 **Choice/Opt-out**
 
@@ -68,14 +66,9 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent credit card fraud.
 
-We are hosted by Yahoo! Merchant Solutions that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate. The information collected provides us with website usage and volume statistics so that we can improve our overall website design.
+We are hosted by American Eagle that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate. The information collected provides us with website usage and volume statistics so that we can improve our overall website design.
 
-**Third-Party Web Beacons**
-
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, 
-
-[click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
-
+  
 ** Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
@@ -104,7 +97,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at customercare@candywarehouse.com
+If you have any questions about security on our Web site, you can send email us at customercare@candywarehouse.com.
 
 **Business Transitions**
 
