@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606112024id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118142933id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # StanJames.com - Help: Privacy Policy
 
