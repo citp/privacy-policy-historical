@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605123652id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119001139id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice
 
-**Last updated: 1st June 2012**
+**Last updated: 30 October 2012**
 
 Whenever you shop or make an enquiry with us, you may share personal information with us. This Privacy and Cookie Policy (referred to in this document as the “Policy”) sets out how we collect this information and what we do to make sure it is safe in our hands. TK Maxx and HomeSense are trading names of TJX UK, a company incorporated and registered in England and Wales with company registration number 03094828 and registered address at 50 Clarendon Road, Watford WD17 1TX. For the purposes of the Data Protection Act 1998, TJX UK is the data controller of any personal information you provide to us. 
 
@@ -42,6 +42,7 @@ The sort of information we collect depends on what you need us to do for you, or
   * Other personal details such as date of birth, gender and shopping habits appropriate to a specific promotion or competition. 
   * Footage of you that is captured on CCTV when you are on our premises. We use CCTV for the purposes of health and safety and for the prevention and detection of crime. 
   * Your contact details if you enter a competition. Your signature and other appropriate information when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft and fraud. 
+  * Your name, contact details and card details upon purchase of a product online to validate this information against third party databases for purposes of fraud prevention.
 
 
 
@@ -63,11 +64,11 @@ You may request a copy of the personal information held about you, and you have 
 
 ## Our mailing list - getting on and getting off!
 
-When you use our website, receive an email from us, place an order or enter a competition you will get the opportunity to subscribe to our mailing list for our email newsletters – TK Maxx Email Newsletter and HomeSense Email Newsletter which keep you up to date with new and exciting products arriving in our stores and online. To subscribe, simply follow the instructions provided.
+When you use our website, receive an email from us, place an order or enter a competition you will get the opportunity to subscribe to our mailing list for our email newsletters - TK Maxx Email Newsletter and HomeSense Email Newsletter which keep you up to date with new and exciting products arriving in our stores and online. To subscribe, simply follow the instructions provided.
 
 If you no longer wish to receive our emails there are several ways you can unsubscribe: 
 
-  * Click on the "Unsubscribe" link at the bottom of every TK Maxx Email Newsletter and HomeSense Email Newsletter email. This will open a new page and you will need to make sure that the email address on this page is the same as the one you used to sign up. Once you are happy that this is the case, click "Unsubscribe"." 
+  * Click on the "Unsubscribe" link at the bottom of every TK Maxx Email Newsletter and HomeSense Email Newsletter email. This will open a new page and you will need to click "Yes, unsubscribe me".
   * Use the My Account area of our website – you may have an online account with us, or you may have set up a profile in the Careers page. On both pages you can opt out of receiving our emails by going to your preferences and un-ticking the box for the TK Maxx Email Newsletter and HomeSense Email Newsletter 
   * Contact Us and we will remove you from the list. [Click here for contact details](http://www.tkmaxx.com/page/contact/).
 
@@ -83,6 +84,7 @@ We do use third parties to perform some services on our behalf and in such cases
   * When you buy Store Gift cards via our website. Our store gift cards are provided by Voucher Express who will ask for the relevant details to take payment for a gift card and send it to the recipient. 
   * When you apply for a job with us online. How do we Protect your Information when you Apply for a Job?
   * When we ask you to give us independent feedback on our products and services 
+  * Your name, contact details and card details upon purchase of a product online to validate this information against third party databases for purposes of fraud prevention.
 
 
 
@@ -95,6 +97,7 @@ In addition we may disclose information:
   * If we are required to do so by law or legal process; 
   * To law enforcement agencies; 
   * When we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or suspected or actual illegal activity; or 
+  * To selected third parties for the purpose of prevention and detection of criminal activity (including, without limitation, fraud); or 
   * If TK Maxx or HomeSense merges, sells or disposes of any part of its business or assets, which includes customer information.
 
 
@@ -145,6 +148,7 @@ Tkmaxx.com cookies
 
   * referid 
   * httprefer 
+  * newsSignupPopup
 
 
 
@@ -165,7 +169,8 @@ data.coremetrics.eu (IBM Coremetrics)
   
 _utma  
 _utmb  
-_utmc
+_utmc  
+_utmz
 
 | 
 
@@ -243,10 +248,7 @@ facebook.com (Facebook)
 Only placed when using Facebook functionality via tkmaxx.com.  
   
 Pinterest_sess  
-_utma  
-_utmb  
-_utmc  
-_utmz
+
 
 | 
 
