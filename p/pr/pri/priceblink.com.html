@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the priceblink.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520055525id_/http%3A//www.priceblink.com/webcpns/page.php%3Fsp_id%3D7) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the priceblink.com privacy policy that was archived on 2012-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118053607id_/http%3A//www.priceblink.com/webcpns/page.php%3Fsp_id%3D7) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -109,10 +109,10 @@ var showClosebutton = true;
             <p>e.g. target.com,  ae.com,  jcp.com,  turbotax.com</p>           </form>
         </div>				<span class="RightBg"></span> </div>
 			</div>
-				<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+				
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
-
-  window.fbAsyncInit = function() {
+	  window.fbAsyncInit = function() {
     FB.init({
 			appId: '147842788604095',
 			oauth: true,
@@ -135,9 +135,8 @@ var showClosebutton = true;
 						var closeWindow = false;
 						eval(data);
 						return;
-						
-
 						var PageToShow = 'http://www.priceblink.com/webcpns/page.php?sp_id=7';
+						
 						if (PageToShow.trim() != '') {
 														//alert(PageToShow);
 							window.location.href = 'http://www.priceblink.com/webcpns/page.php?sp_id=7';
@@ -160,10 +159,9 @@ var showClosebutton = true;
 				//alert('logged in and connected user, someone you know');
 				// logged in and connected user, someone you know
 			} else {
-				
 				//alert('no user session available, someone you dont know');
 				// no user session available, someone you dont know
-			}
+							}
 	});
 	 };
 	  (function() {
@@ -171,8 +169,7 @@ var showClosebutton = true;
 		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
 		document.getElementById('fb-root').appendChild(e);
 	  }());
-
-	function setCookie(c_name,value,exdays)
+		function setCookie(c_name,value,exdays)
 	{
 			var exdate=new Date();
 			if (exdays != '') {
@@ -187,7 +184,7 @@ var showClosebutton = true;
 	var hasReturnUrl = null;
 	function myFunc() {
 		window.parent.location.reload();
-		parent.$.fn.fancybox.close();		//alert("I'm a function in the parent window"); 
+		parent.$.fn.fancybox.close();		
 	}
 	//to actually open the window..
 
@@ -609,6 +606,13 @@ function ExtractUrl(data) {
 	}
 }
 $(document).ready(function(){	
+	// Add below keypress activity for task https://app.asana.com/0/1512490363930/1966133147261
+	$("#txtsearch").keypress(function(event) {
+	  if ( event.which == 13 ) {
+		 document.searchfrm.submit();
+	   }
+	});
+	
 	if (document.getElementById('txtsearch')) {	
 		$("#txtsearch").autocomplete({
 		url: 'ajax.php?with_link=false',
@@ -653,6 +657,9 @@ $(document).ready(function(){
 		*/
 	});
 	}
+	
+	
+
 });
 
 </script>
