@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engelvoelkers.com privacy policy that was archived on 2012-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120225011711id_/http%3A//www.engelvoelkers.com/com/en/Footer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engelvoelkers.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045548id_/http%3A//www.engelvoelkers.com/com/en/Footer/privacy.php) for the most accurate reproduction.*
 
 # Privacy ENGEL & VÖLKERS - Your real estate agency for villas, houses, apartments, penthouses and other properties in Europe and worldwide
 
