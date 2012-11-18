@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501191952id_/http%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telestream.net privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118140303id_/http%3A//www.telestream.net/company/privacy.htm) for the most accurate reproduction.*
 
 # Telestream Company - Privacy Policy
 
@@ -18,4 +18,4 @@ At any time you may contact Telestream with any privacy questions or concerns yo
 
 **e-mail:**         [ info@telestream.net](mailto:info@telestream.net)
 
-If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20120501191952id_/http%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
+If you own a Telestream product, visit our [Support Center](https://web.archive.org/web/20121118140303id_/http%3A//www.telestream.net/telestream-support/overview.htm) for the latest software updates and product information.
