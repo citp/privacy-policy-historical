@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624232257id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118203324id_/http%3A//www.gmo-registry.com/en/privacy) for the most accurate reproduction.*
 
-# GMO Registry, Inc.｜Privacy Policy
+# 
 
 GMO Registry, Inc. (hereafter GMO Registry) recognizes the importance of protecting personal information in the operation of its Internet domain name registry businesses and the entire company adheres strictly to the Policy regarding the Handling of Personal Information laid out below.
 
