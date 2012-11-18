@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neonlimelight.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061724id_/http%3A//neonlimelight.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neonlimelight.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052201id_/http%3A//neonlimelight.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Neon Limelight - Exclusive Music News, Artist Interviews, Reviews, Photos!
+# Privacy Policy | Neon Limelight - Exclusive Music News, Artist Interviews, Reviews, Photos!
 
 ### Privacy Policy Statement
 
