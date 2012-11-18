@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agora-inc.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525014726id_/http%3A//www.agora-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agora-inc.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045319id_/http%3A//www.agora-inc.com/privacy) for the most accurate reproduction.*
 
 # Agora, Inc Privacy Policy
 
@@ -82,7 +82,7 @@ The Agora, Inc. web site uses cookies only to compile statistics on the use of t
 
 ## E-Mail Privacy Policy
 
-Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (”opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us.
+Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us.
 
 If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to abuse@agora-inc.com for review.
 
