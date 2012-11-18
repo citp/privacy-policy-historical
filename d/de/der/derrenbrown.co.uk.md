@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619082226id_/http%3A//derrenbrown.co.uk/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118074757id_/http%3A//derrenbrown.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Derren Brown
-
-[](http://derrenbrown.co.uk/tour-dates/svengali/)
+# Privacy policy | Derren Brown
 
 #### **PRIVACY POLICY for www.derrenbrown.co.uk**
 
 At The Derren Brown site we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by [website privacy policy](http://www.legalcentre.co.uk/ecommerce/privacy-policy-template/) provider LegalCentre.co.uk.
 
-This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
+This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.
 
 We do update this Policy from time to time so please do review this Policy regularly.
 
@@ -23,17 +21,17 @@ iii. Information provided to us when you communicate with us for any reason.
 
 #### **Store**
 
-All merchandise on the store is created in association with Objective Talent Management. The copyright of all material is created under the licence of the respective owners. 
+All merchandise on the store is created in association with Objective Talent Management. The copyright of all material is created under the licence of the respective owners.
 
 #### **Use of Cookies**
 
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers. 
+On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
 
 Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and the service that we provide to you. 
+Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and the service that we provide to you.
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website. 
+All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
@@ -44,21 +42,21 @@ i. To provide you with information requested from us, relating to our products o
 ii. To meet our contractual commitments to you.  
 iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
 
-If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you. 
+If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
 
 Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
 
-If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for. 
+If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for.
 
 If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
 
-Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
+Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors.
 
 #### **Storing Your Personal Data**
 
 We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
 
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety. 
+Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety.
 
 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
@@ -73,7 +71,7 @@ iii. To assist fraud protection and minimise credit risk.
 
 #### **Third Party Links**
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
+You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 #### **Access To Information**
 
