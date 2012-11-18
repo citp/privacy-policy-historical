@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504055820id_/http%3A//www.aandesigners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118061314id_/http%3A//www.aandesigners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
