@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nuzcom.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129022700id_/http%3A//www.nuzcom.com/node/127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuzcom.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118060100id_/http%3A//nuzcom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nuzcom
+# Privacy Policy
 
 **Last modified: March 15 th, 2009**
 
