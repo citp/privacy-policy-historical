@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603030115id_/http%3A//cashmoneylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneylife.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118062047id_/http%3A//cashmoneylife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cash Money Life
 
