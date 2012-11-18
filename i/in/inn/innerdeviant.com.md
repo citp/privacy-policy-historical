@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innerdeviant.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620005042id_/http%3A//innerdeviant.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerdeviant.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118044634id_/http%3A//innerdeviant.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » innerdeviant.com - let your inner deviant out
+# Privacy Policy » innerdeviant.com - show us your id
 
 **What information do we collect?**
 
