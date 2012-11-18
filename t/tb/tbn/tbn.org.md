@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbn.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627022437id_/http%3A//www.tbn.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbn.org privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118124317id_/http%3A//www.tbn.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,11 +39,11 @@ TBN is committed to ensuring the security of your personal information. To preve
 
 Removing your name from our data base
 
-Our Web site provides a way to remove your name and personal information from our data base so that you do not receive any future communications from our ministry. If you desire to remove your name, use our “[Contact Us](https://web.archive.org/)” form. 
+Our Web site provides a way to remove your name and personal information from our data base so that you do not receive any future communications from our ministry. If you desire to remove your name, use our “[Contact Us](http://www.tbn.org/contact/contact-form)” form. 
 
 Modifying your personal information on our data base.
 
-If you determine that information in our database is inaccurate or it has changed, you may modify the previously provided information by using our “[Contact Us](https://web.archive.org/)” form. 
+If you determine that information in our database is inaccurate or it has changed, you may modify the previously provided information by using our “[Contact Us](http://www.tbn.org/contact/contact-form)” form. 
 
 Changes in our Privacy Notice and Conditions:
 
@@ -51,4 +51,4 @@ Our business changes constantly, and our Privacy Notice and the Conditions of Us
 
 Contacting Us
 
-If you have comments or questions about our privacy policy, please use our “[Contact Us](https://web.archive.org/)” form. 
+If you have comments or questions about our privacy policy, please use our “[Contact Us](http://www.tbn.org/contact/contact-form)” form. 
