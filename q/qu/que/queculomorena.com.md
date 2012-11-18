@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the queculomorena.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605020941id_/http%3A//support.herroundbrownass.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2768%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queculomorena.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118133025id_/http%3A//www.queculomorena.com/privacy) for the most accurate reproduction.*
 
-# Her Round Brown Ass
+# Qué Culo Morena
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
