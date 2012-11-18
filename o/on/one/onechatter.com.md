@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onechatter.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516182658id_/http%3A//www.onechatter.com/pt/Privacy-Policy/page.htm%3Fb%3D1%26page%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onechatter.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118145459id_/http%3A//onechatter.com/pt/Privacy-Policy/page.htm%3Fb%3D1%26page%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
 
 # OneChatter - Privacy Policy
 
