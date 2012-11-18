@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgetsdna.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183745id_/http%3A//www.gadgetsdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsdna.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118083847id_/http%3A//www.gadgetsdna.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gadgets DNA
+# Privacy Policy
 
 The privacy of our visitors to GadgetsDNA.com is important to us. At GadgetsDNA.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit GadgetsDNA.com, and how we safeguard your information. We never sell your personal information to third parties.
 
