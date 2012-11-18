@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loyal3.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527123102id_/http%3A//www.loyal3.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyal3.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118195922id_/http%3A//www.loyal3.com/privacy_policy) for the most accurate reproduction.*
 
 # LOYAL3: Own What You Love
 
-## LOYAL3® Privacy Policy & Security Practices
+## LOYAL3® Privacy Policy & Security Practices[](https://web.archive.org/images/privacy_policy.pdf)
 
 **May 23, 2012**
 
@@ -34,7 +34,7 @@ We share your information to provide the Service related to your participation i
 
 ###### Information sharing with companies
 
-We provide your name, contact information, and other information about you to those companies in whose CSOP you have enrolled as a customer-owner unless you elect not to allow that type of sharing. Those companies will use your information in accordance with their own independent privacy policies, which may include delivering promotional messages directly to you. You may make opt out of this sort of information sharing with the companies in whose CSOP you have enrolled either when you enroll in a CSOP or by changing your choice on “My LOYAL3 Account.” Please be aware that even after you have opted out of allowing us to share your information, you might continue to receive promotional materials from your companies unless and until you duly register your opt-out request with each company in question. LOYAL3 also provides analytics for companies about their CSOP participants as their customers. Such analytics are provided by LOYAL3 on an aggregate basis only. If you opt out of information-sharing with the companies, we will not share your identity with your companies to obtain information from them for LOYAL3 to perform the analytics. In any case, LOYAL3 will not provide access to any of your personal information to any companies offering CSOPs other than those in which you are a shareholder. We also will not share the following information, including with a company in whose CSOP you have enrolled: password, occupation, employer, employer’s address, checking account information, and Social Security number. CSOP offerings by certain companies are contingent on both LOYAL3 and the company knowing the identity of the customer and certain information about the customer. This may be the case with a CSOP in which a company, for example, (a) makes offers involving the granting of shares or a discount for consumer commitments or purchases, (b) offers consumer discounts based on the purchase of CSOP shares, (c) grants shares or discounts to certain customers or other persons, or (d) offers shares for customer affinity points. In such cases, by enrolling in the offer, you permit the company and LOYAL3 to share information required to effect the intended transactions. 
+We provide your name, contact information, and other information about you to those companies in whose CSOP you have enrolled as a customer-owner unless you elect not to allow that type of sharing. Those companies will use your information in accordance with their own independent privacy policies, which may include delivering promotional messages directly to you. You may opt out of this sort of information sharing with the companies in whose CSOP you have enrolled either when you enroll in a CSOP or by changing your choice on “My LOYAL3 Account.” Please be aware that even after you have opted out of allowing us to share your information, you might continue to receive promotional materials from your companies unless and until you duly register your opt-out request with each company in question. LOYAL3 also provides analytics for companies about their CSOP participants as their customers. Such analytics are provided by LOYAL3 on an aggregate basis only. If you opt out of information-sharing with the companies, we will not share your identity with your companies to obtain information from them for LOYAL3 to perform the analytics. In any case, LOYAL3 will not provide access to any of your personal information to any companies offering CSOPs other than those in which you are a shareholder. We also will not share the following information, including with a company in whose CSOP you have enrolled: password, occupation, employer, employer’s address, checking account information, and Social Security number. CSOP offerings by certain companies are contingent on both LOYAL3 and the company knowing the identity of the customer and certain information about the customer. This may be the case with a CSOP in which a company, for example, (a) makes offers involving the granting of shares or a discount for consumer commitments or purchases, (b) offers consumer discounts based on the purchase of CSOP shares, (c) grants shares or discounts to certain customers or other persons, or (d) offers shares for customer affinity points. In such cases, by enrolling in the offer, you permit the company and LOYAL3 to share information required to effect the intended transactions. 
 
 ###### Promotional messages delivered by LOYAL3
 
@@ -108,38 +108,3 @@ Questions regarding this Privacy Policy and Security should be directed to LOYAL
 **State Laws:** If your address is in Vermont, we will not share information we collect about you with non-affiliated entities, except as permitted by Vermont law, such as to service your account and according to your consent. 
 
 ©2012 LOYAL3 Securities, Inc. 
-
-**Important Notice for California Residents**
-
-**Important Privacy Choice for Consumers**
-
-**You have the right to control whether we share some of your personal information. Please read the following information carefully before you make your choice below.**
-
-###### Your Rights
-
-You have the following rights to restrict the sharing of personal and financial information with our affiliates (companies we own or control) and outside companies that we do business with. Nothing in this form prohibits the sharing of information necessary for us to follow the law, as permitted by law, or to give you the best service on your accounts with us. This includes sending you information about some other products or services. 
-
-###### Your Choice
-
-Restrict Information Sharing with companies whose Customer Stock Ownership Plan™ shares you own and have purchased from a direct offer by them: Unless you say "No," we may share personal and contact information about you with those companies. 
-
-(_) NO, please do not share personal and contact information with outside companies in whose Customer Stock Ownership Plan I participate. 
-
-–––––––––––––––––––––––––––––– –––––––––––––––––––––––––––––– ––––––––––––––––––––––––––––––
-
-###### Time Sensitive Reply
-
-You may make your privacy choice at any time. Your choice marked here will remain unless you state otherwise. However, if we do not hear from you we may share some of your information with outside companies in whose Customer Stock Ownership Plan I participate. 
-
-Name: ______________________________ 
-
-Email Address:____________________________________ 
-
-Signature: ___________________________________________________ 
-
-To exercise your choice do one of the following and provide the information requested above: 
-
-  * Call this toll-free number: 855-2LOYAL3 (855-256-9253)
-  * Reply electronically by logging into your account and using the email function. 
-
-
