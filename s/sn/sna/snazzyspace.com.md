@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510210135id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snazzyspace.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118070813id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.*
 
 # SnazzySpace.com - Privacy Policy!
 
@@ -28,10 +28,8 @@ If you have any questions regarding our privacy policy, terms of use, or anythin
 
 Tumblr Cursors
 
-[ ](http://www.snazzyspace.com/cursor-code/justin-bieber-head-png "Justin Bieber Head Tumblr Cursor")
+[ ](http://www.snazzyspace.com/cursor-code/3d-moustache-png "3d Moustache Tumblr Cursor")
 
-[ ](http://www.snazzyspace.com/cursor-code/lol-face-png "Lol Face Tumblr Cursor")
+[ ](http://www.snazzyspace.com/cursor-code/mickey-hand-png "Mickey Hand Tumblr Cursor")
 
-[ ](http://www.snazzyspace.com/cursor-code/pink-moustache-png "Pink Moustache Tumblr Cursor")
-
-[ ](http://www.snazzyspace.com/cursor-code/skull-and-crossbones-png "Skull And Crossbones Tumblr Cursor")
+[ ](http://www.snazzyspace.com/cursor-code/one-direction-png "One Direction Tumblr Cursor")
