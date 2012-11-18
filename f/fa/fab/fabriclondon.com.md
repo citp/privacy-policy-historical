@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630061117id_/http%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045129id_/http%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
 
 # fabric nightclub, london ~ podcast
 
