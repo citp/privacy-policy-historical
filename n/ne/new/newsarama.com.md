@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsarama.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514014404id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsarama.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118221409id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechMediaNetwork
 
@@ -70,7 +70,7 @@ Site Administrator
 TechMediaNetwork  
 2425 Lincoln Ave.  
 Ogden, UT 84401  
-[**Contact Us**](https://web.archive.org/web/20120514014404id_/http%3A//www.techmedianetwork.com/contact/advertising.html) ****
+[**Contact Us**](https://web.archive.org/web/20121118221409id_/http%3A//www.techmedianetwork.com/contact/advertising.html) ****
 
 **
 
