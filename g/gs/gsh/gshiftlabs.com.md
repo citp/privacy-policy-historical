@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520204935id_/http%3A//www.gshiftlabs.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118201253id_/http%3A//www.gshiftlabs.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Presence Optimization Software | gShift Labs Inc.
+# Privacy Policy | Web Presence Optimization Software | SEO Software for Agencies and Marketers
 
   
 gShift Labs Inc. respects the privacy of visitors to this website. 
