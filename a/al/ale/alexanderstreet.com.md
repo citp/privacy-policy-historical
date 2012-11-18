@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexanderstreet.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427112220id_/http%3A//alexanderstreet.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexanderstreet.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118121031id_/http%3A//alexanderstreet.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Alexander Street Press
 
@@ -32,4 +32,4 @@ By using our Site, you acknowledge acceptance of this Privacy Statement in effec
 
  **Contact Us**
 
-If you have any concerns about our use of your information or about this Privacy Statement, please send an e-mail to product [dot] support [at] quixtar [dot] com. We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
+If you have any concerns about our use of your information or about this Privacy Statement, please send an e-mail to info [at] alexanderstreet [dot] com. We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
