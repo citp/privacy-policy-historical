@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145347id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045152id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
-# My Pet Chicken: Privacy Policy
+# Privacy Policy - My Pet Chicken
 
 We are committed to protecting your privacy and ensuring that your experience on our website is positive. This notice outlines the types of personal information we collect and some of the steps we take to safeguard information. We hope this helps you make an informed decision about sharing personal information with us. 
 
