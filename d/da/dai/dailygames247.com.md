@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailygames247.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622105042id_/http%3A//www.dailygames247.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygames247.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118132229id_/http%3A//www.dailygames247.com/page/2.html) for the most accurate reproduction.*
 
-# Daily Games - Free Games - Play Free Online Flash Games at DailyGames247.com - Privacy Policy
+# Daily Games - Play Free Online Flash Games at DailyGames247.com - Privacy Policy
 
 Privacy Policy for http://www.dailygames247.com 
 
@@ -17,5 +17,7 @@ Registration is not required to enter our site. However, subscription to certain
 **Google and the DoubleClick DART cookie:**
 
 * Google, as a third party vendor, uses cookies to serve ads on this site. * Google's use of the DART cookie enables it to serve ads to users based on their visit and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/privacy_ads.html)
+
+**To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[networkadvertising.org](http://www.networkadvertising.org/)**.
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
