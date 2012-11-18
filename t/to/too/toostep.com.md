@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toostep.com privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326000033id_/http%3A//toostep.com/help/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toostep.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118221915id_/http%3A//toostep.com/help/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -82,7 +82,7 @@ We may provide aggregated data about the usage of our services to third-parties 
 
 
 
-We will transfer information about you if TooStep is acquired by or merged with another company. In this event, TooStep will notify you by email or by putting a prominent notice on the TooStep web site before information about you is transferred and becomes subject to a different privacy policy.
+We will transfer information about you if TooStep is transferred to, acquired by or merged with another company. In this event, your information becomes subject to a different privacy policy as defined by new owners of this service. 
 
 
 
