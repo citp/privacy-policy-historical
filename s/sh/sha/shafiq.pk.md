@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509145522id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118160904id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | shafiq.pk
+# Privacy Policy | Random Acts of Reality
 
 shafiq.pk values our fellow bloggers and readers privacy, however for maintaining visitors stats and keeping away the shitty spammers, we need to collect and preserve small piece of visitors information in the form of cookies.
 
