@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629171514id_/http%3A//www.australianopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118010217id_/http%3A//www.australianopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
 
-# Australian Open 2011 - Official Site presented by IBM - Privacy Statements
+# Privacy - Australian Open Tennis Championships 2012 - Official Site by IBM
 
-**Tennis Australia and Your Personal Information**
+[Home](https://web.archive.org/en_AU/index.html?promo=breadcrumb) > Privacy Statements
+
+ **Tennis Australia and Your Personal Information**
 
 Tennis Australia is committed to the protection of your personal information. In general you can view this site without revealing any information about yourself. A copy of the Privacy Policy is available on request. 
 
@@ -25,18 +27,17 @@ This site will from time to time contain links to other web sites. Tennis Austra
 
 Other information may be sent to your computer in the form of an internet cookie to allow our web server to better serve files to you by tailoring information. The cookie is stored on your hard drive. Our server may request that your computer may return a cookie to it. These return cookies do not contain any information supplied by you or any personally identifiable information about you. Cookies must be enabled for you to make purchases through this web site. 
 
-At anytime, you may also notify us if you do not wish to receive marketing materials or other communications from Tennis Australia. Please put this request in writing addressed to The Marketing Manager, Australian Open and send to the address below or telephone Tennis Australia on (61-3) 9286 1177. 
+At anytime, you may also notify us if you do not wish to receive marketing materials or other communications from Tennis Australia. Please put this request in writing addressed to the Marketing Department, and send to the address below or telephone Tennis Australia on +61 3 9914 4000.
 
-Should your contact details or address change, please inform us.
+If you have any queries or concerns about the treatment of your personal information by Tennis Australia, please send the details of your query or concern in writing or via email to:
 
-If you have any queries or concerns about the treatment of your personal information by Tennis Australia, please send the details of your query or concern in writing to: 
-
-**General Manager Business and Legal  
+Privacy Officer  
 Tennis Australia  
 Private Bag 6060  
 Richmond South  
-VICTORIA 3121  
-Australia  
-t: +61 3 9286 1177  
-f: +61 9650 2743  
-e: [privacy@tennisaustralia.com.au](mailto:privacy@tennisaustralia.com.au)**
+Victoria 3121  
+Australia
+
+Phone: +61 3 9914 4000  
+Fax: +61 3 9650 2743  
+Email: [privacy@tennis.com.au](mailto:privacy@tennis.com.au)
