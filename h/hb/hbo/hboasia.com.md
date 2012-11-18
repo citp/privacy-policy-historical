@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520061857id_/http%3A//www.hboasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hboasia.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118142643id_/http%3A//www.hboasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.*
 
 # Welcome to HBO Asia
 
