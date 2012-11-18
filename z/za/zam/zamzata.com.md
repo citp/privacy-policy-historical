@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzata.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505035435id_/http%3A//www.zamzata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzata.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118112846id_/http%3A//www.zamzata.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzata Privacy Policy
 
