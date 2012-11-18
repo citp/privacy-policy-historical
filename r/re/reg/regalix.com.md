@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalix.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605230714id_/http%3A//www.regalix.com/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalix.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118053411id_/http%3A//www.regalix.com/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Regalix
 
@@ -25,11 +25,10 @@ What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping.
-  * We may use the information to improve our services.
-  * We may periodically send promotional emails about industry trends, news, new offerings or other information which we think you may find
-  * interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * Internal record keeping
+  * We may use the information to improve our services
+  * We may periodically send promotional emails about industry trends, news, new offerings or other information which we think you may find interesting using the email address which you have provided
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail
   * We may use the information to customize the website according to your interests.
 
 
@@ -42,7 +41,7 @@ Please be advised that we do not reveal information about identifiable individua
 
 Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical,electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 How we use cookies
 
@@ -60,9 +59,12 @@ Our website may contain links to other websites of interest. However, once you h
 
 Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information in the following ways:  
-Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us
+
+
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
@@ -76,4 +78,4 @@ We welcome any queries, comments or requests you may have regarding this Privacy
 
 Your Consent
 
-By using this site, you consent to the collection and use of information as outlined in the above documentation. If we decide to change our privacy policy,we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using this site, you consent to the collection and use of information as outlined in the above documentation. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
