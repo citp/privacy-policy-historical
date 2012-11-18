@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the richnspect.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520164716id_/http%3A//www.richnspect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richnspect.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119001618id_/http%3A//www.richnspect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RichNSpect
+
+Privacy Policy Effective and Last Updated: January 1, 2010 This website is owned and operated by RichNSpect.com. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other [...]
 
 Privacy Policy
 
@@ -69,7 +71,7 @@ We provide mechanisms for updating and correcting your personal information for 
 
 If you no longer wish to receive updates or notifications you may opt-out of receiving these communications by changing your “email notification” settings in your “account settings.” 
 
-Children’s Privacy and Parental Controls
+8) Children’s Privacy and Parental Controls
 
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
