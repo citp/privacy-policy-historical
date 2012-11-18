@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421222626id_/http%3A//www.publishersweekly.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119001310id_/http%3A//www.publishersweekly.com/pw/corp/privacypolicy.html) for the most accurate reproduction.*
 
-# Publishers Weekly
+# Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
 
-_Last Revised: November 2007_
+_Last Revised: April 2010_
 
 Our site visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
-This Privacy Policy describes the policies of Reed Business Information (" ** _RBI_** " or " ** _we_** "), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
+This Privacy Policy describes the policies of PWXyz (" ** _PWXyz_** " or " ** _we_** " regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you (" ** _you_** " or " ** _User_** ") visit the [Publishers Weekly](https://web.archive.org/common/jumplink.php?target=http%3A//www.publishersweekly.com "Publishers Weekly") web site (this "Site").
+  * Information obtained when you (" ** _you_** " or " ** _User_** ") visit the [_Publishers Weekly_](http://www.publishersweekly.com/ "Publishers Weekly") web site (this "Site").
   * Information obtained through e-mail communications with you related to the Site.
 
 
@@ -27,7 +27,7 @@ The information we collect may include information from which you may be persona
 
 When you visit this Site, we may collect the IP address of your computer. We also use [automatic data collection](https://web.archive.org/info/automatic_data_collection.php "automatic data collection") technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit [http://www.networkadvertising.org/optout_nonppii.asp](https://web.archive.org/common/jumplink.php?target=http%3A//www.networkadvertising.org/optout_nonppii.asp "www.networkadvertising.org/optout_nonppii.asp"). You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.doubleclick.com/privacy/](https://web.archive.org/common/jumplink.php?target=http%3A//www.doubleclick.com/privacy/ "www.doubleclick.com/privacy/").
+Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.doubleclick.com/privacy/](http://www.doubleclick.com/privacy/ "www.doubleclick.com/privacy/").
 
 * * *
 
@@ -45,9 +45,9 @@ We use Personally Identifiable Information collected on this Site for the follow
 
 We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.
 
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI and our affiliates. These communications may include e-mail newsletters, as well as offers for other RBI and Reed Elsevier services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
+We may use the information you provide us to send you e-mail, fax and other communications on behalf of PWXyz and our affiliates. These communications may include e-mail newsletters, as well as offers for other PWXyz services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com "privacy manager") with the subject line " ** _opt out - third party._** "
+We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [admin@publishersweekly.com](mailto:admin@publishersweekly.com "privacy manager") with the subject line " ** _opt out - third party._** "
 
 * * *
 
@@ -58,7 +58,7 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
   * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services.
   * Portions of this Site may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User's registration information with the Premium or Sponsored content's sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com "privacy manager") with the subject line: " **do not disclose.** "
+  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [admin@publishersweekly.com](mailto:admin@publishersweekly.com "privacy manager") with the subject line: " **do not disclose.** "
   * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
   * When disclosure is necessary to accomplish the purpose for which you provide it.
@@ -76,7 +76,7 @@ We use reasonable safeguards to protect Personally Identifiable Information we c
 
 ## Right to Access and Change Information
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to subsmail@reedbusiness.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to service@publishersweekly.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
 
 * * *
 
@@ -85,7 +85,7 @@ You may view and update information that you previously submitted to this Site b
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
 
 **_This Site is operated by:_**  
-Reed Business Information  
-360 Park Avenue South  
-New York, NY 10010-1710  
-Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com "privacy manager")
+PWXyz  
+71 W. 23rd St.  
+New York, NY 10010  
+Email: [admin@publishersweekly.com](mailto:admin@publishersweekly.com "privacy manager")
