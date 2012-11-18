@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamsanywhere.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621071419id_/http%3A//www.gamsanywhere.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamsanywhere.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118055335id_/http%3A//www.gamsanywhere.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Online Games
+# Privacy | GamsAnyWhere.com
 
 [GamsAnyWhere.com](http://www.gamsanywhere.com/) respects the privacy of our users. This privacy document highlights what information is collected about users and how it is used.
 
