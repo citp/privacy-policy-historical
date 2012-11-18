@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621220841id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118051817id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Customers - DonBest.com
 
@@ -82,8 +82,11 @@ We generally keep user data on our server or in our archives for as long as we r
 
 If you do not want us to share your Personal Information with our Partners for marketing purposes, or if you do not want to receive certain communications and offers from us you can "opt out" of such sharing, communications by contacting us via email at [webmaster@donbest.com](mailto:webmaster%40donbest.com) , or write us at:  
 Don Best Sports  
-1311 Howe Street, Suite 401  
-Vancouver, British Columbia V6Z 2P3  
+Akara Bldg  
+24 De Castro Street, Wickhams Cay 1  
+Road Town  
+Tortola  
+British Virgin Islands  
 If you believe that any Personal Information collected by us about you is not correct or has changed, please send an e-mail message to [webmaster@donbest.com](mailto:webmaster%40donbest.com) explaining the correction or change and providing any relevant confirmation or reference number.
 
 **DISCLOSURE OF PRIVACY PROVISIONS SPECIFIC TO CANADIAN RESIDENTS**
@@ -113,8 +116,11 @@ Subject: Privacy Policy Inquiry
 [webmaster@donbest.com](mailto:webmaster%40donbest.com)   
 or write the CPO at  
 Don Best Sports  
-1311 Howe Street, Suite 401  
-Vancouver, British Columbia V6Z 2P3  
+Akara Bldg  
+24 De Castro Street, Wickhams Cay 1  
+Road Town  
+Tortola  
+British Virgin Islands  
 Attention: Chief Privacy Officer
 
 **CHANGES TO THIS PRIVACY POLICY**
@@ -129,10 +135,13 @@ Or write to:
 
 Customer Service  
 Don Best Sports  
-1311 Howe Street, Suite 401  
-Vancouver, British Columbia V6Z 2P3
+Akara Bldg  
+24 De Castro Street, Wickhams Cay 1  
+Road Town  
+Tortola  
+British Virgin Islands
 
-**DATE LAST MODIFIED: September 30, 2009**
+**DATE LAST MODIFIED: September 19, 2012**
 
 Big Stick Media Corporation. All Rights Reserved.
 
