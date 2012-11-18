@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520210442id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118233506id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rockwell Trading
 
-We respect your privacy and appreciate the confidence you have placed in Rockwell Trading Services LLC as your primary source of day trading education. We are committed to protecting your privacy and preserving your trust.
+We respect your privacy and appreciate the confidence you have placed in Rockwell Trading Services LLC as your primary source of day trading education. We are committed to protecting your privacy and preserving your trust. 
 
 **What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
@@ -63,7 +63,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.rockwelltrading.com](https://web.archive.org/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.rockwelltrading.com](http://www.rockwelltrading.com/)
 
 **Your Consent**
 
@@ -86,4 +86,11 @@ Austin, TX 78729
 United States of America  
 [Email:    
 ](mailto:%73%75%70%70%6f%72%74%40%72%6f%63%6b%77%65%6c%6c%74%72%61%64%69%6e%67%2e%63%6f%6d)[support@rockwelltrading.com](mailto:support@rockwelltrading.com)866-467-0747  
+ 
+
+  
+    
+ 
+
+  
  
