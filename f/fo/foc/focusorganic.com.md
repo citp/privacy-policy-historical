@@ -1,18 +1,49 @@
-> *The following text is extracted and transformed from the focusorganic.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519034429id_/http%3A//www.greenster.com/magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusorganic.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118060214id_/http%3A//www.greenster.com/magazine/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Greenster Inc.
+# Privacy Policy | Greenster.com
 
-information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. 
+**PRIVACY POLICY**  
+This privacy policy applies to users of the Greenstertribe.com website (the “Site”) which is a part of Greenster Inc. (collectively “Greenster”). This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+
+**1\. Scope**  
+This privacy policy applies only to the Site. It does not apply to information collected through any other website or to the practices of companies that Greenster does not control. Please note that the Site may contain links to other websites. If you click on a link to another website, this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
+
+**2\. What information the Site collects**  
+We limit the personal information that we collect to what is necessary for the purposes that we have identified. The types of information that we collect include:  
+**Information you provide directly to us:**  
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
+
+  * Registration and contact information, such as name, email address, postal address, phone number, and mobile number; 
+  * username and password; 
+  * information posted in community discussions and other interactive online features; 
+  * search queries conducted on the Site; and 
+  * correspondence you send to us. 
+
+
+
+**Information automatically collected when you visit and interact with the Site:**  
+When you visit and interact with the Site, certain information may be collected automatically, including:
+
+  * your computer’s Internet Protocol (IP) address; 
+  * your browser type and operating system; 
+  * the web pages you were visiting immediately before and after you came to the Site; 
+  * activities within community discussions; 
+  * web pages and advertisements that you view, and links that you click on, within the Site; 
+  * information about the searches you perform on the Site and how you use the results of those searches; 
+  * information about the services that you use on the Site, how frequently you use them; and your responses to the offerings and advertisements presented on the Site, including those available through third party websites 
+  * your bandwidth speed and information about the software programs that are installed on your computer; 
+  * aggregated data about email click-through rates and user video viewing; 
+  * location data and other information about mobile devices used to access and interact with the Site; 
+  * standard server log information; and 
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. 
 
 **Information we collect from other sources:**  
 We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
-  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services; 
-  * demographic data, such as age range, gender, and interests; 
-  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and 
-  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law. 
-
-
+    * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services; 
+    * demographic data, such as age range, gender, and interests; 
+    * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and 
+    * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law. 
 
 Please note that the Site may combine the information that we collect with information we obtain from third-party sources.
 
@@ -44,15 +75,13 @@ We may use the information that we collect to meet legal and regulatory requirem
 **4\. Information Sharing**  
 The Greenstertribe.com Site values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
 
-  * We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site. 
-  * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf. 
-  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions. 
-  * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy. 
-  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s Terms and Conditions, or as otherwise required by law. 
-  * We may share information about you to respond to court orders, search warrants, judicial proceedings, subpoenas, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims. 
-  * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent. 
-
-
+    * We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site. 
+    * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf. 
+    * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions. 
+    * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy. 
+    * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s Terms and Conditions, or as otherwise required by law. 
+    * We may share information about you to respond to court orders, search warrants, judicial proceedings, subpoenas, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims. 
+    * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent. 
 
 Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on cookies and other technologies and third party advertising.
 
@@ -61,13 +90,11 @@ To customize your experience on the Site and to simplify the Site’s registrati
 
 When you allow us to access your data through a third-party service to create a Site profile, we may use this data for several purposes, including:
 
-  * Creating relationships automatically within our system. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site. 
-  * Suggesting relationships. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic; you must affirmatively choose to become a fan of these suggested users. 
-  * Populating a list of potential friends to whom you can send emails. When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message. 
-  * Populating a list of potential friends to whom you can send service-specific messages. For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow. 
-  * To enhance and personalize your experience on the Site. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site. 
-
-
+    * Creating relationships automatically within our system. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site. 
+    * Suggesting relationships. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic; you must affirmatively choose to become a fan of these suggested users. 
+    * Populating a list of potential friends to whom you can send emails. When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message. 
+    * Populating a list of potential friends to whom you can send service-specific messages. For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow. 
+    * To enhance and personalize your experience on the Site. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site. 
 
 In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.
 
@@ -79,10 +106,8 @@ You can deactivate your account at any time by visiting the preferences page for
 **Cookies and Other Technologies**  
 As discussed in the sections on cookies and other technologies and third party advertising, some information is collected about you automatically through cookies and other technologies to customize your online experience. You can opt out of the use of your information for targeting purposes through the following procedures:
 
-  * Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioural advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit http://networkadvertising.org/managing/opt_out.asp. 
-  * Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser. 
-
-
+    * Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioural advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit http://networkadvertising.org/managing/opt_out.asp. 
+    * Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser. 
 
 If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.  
 Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. 
@@ -107,3 +132,6 @@ We have implemented policies and practices to give effect to this policy, includ
 support at greenstertribe
 
 Effective Date: August 1, 2011
+
+
+
