@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520151115id_/http%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118051929id_/http%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Association of Boards of Pharmacy® (NABP®)
 
@@ -35,7 +35,7 @@ You may request changes to information previously provided to NABP, or notify NA
 1\. E-mail: custserv@nabp.net   
 2\. Phone: 847/391-4406   
 3\. Fax: 847/391-4501  
-4\. Regular mail: 1600 Feehanville Drive, Mount Prospect, IL 60056
+4\. Regular mail: 1600 Feehanville Dr, Mount Prospect, IL 60056
 
 When notifying NABP of a change in sensitive information (such as Social Security number and/or credit card information), we request that you call or write to NABP Customer Service.
 
@@ -46,7 +46,7 @@ If you prefer that NABP not contact you with information about the Association o
 1\. E-mail: custserv@nabp.net  
 2\. Phone: 847/391-4406   
 3\. Fax: 847/391-4501  
-4\. Regular mail: 1600 Feehanville Road, Mount Prospect, IL 60056
+4\. Regular mail: 1600 Feehanville Dr, Mount Prospect, IL 60056
 
 Please note that your opt-out choices do not apply to communications from NABP related to registrations, services, or materials that you purchase through the Site.
 
