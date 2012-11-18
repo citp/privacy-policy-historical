@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617005352id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052053id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Camping and Caravanning Club
 
@@ -32,7 +32,7 @@ The Club will use the information you provide to us in order to:
 
 The Club will also use this information to service your membership including providing you with your monthly magazine. We may also occasionally wish to use this data to send you information which may be of interest to you. This will only come from us or our dedicated Member Service providers. Any correspondence you receive will also give you the opportunity to opt-out at any point if you would prefer not to continue receiving information. 
 
-### Does the Club share personal details?
+### Does the Club share personal details? 
 
 No, the Club has a policy to not provide your personal data to any third parties other than dedicated Member Service providers, a full list of these providers is available on request. 
 
