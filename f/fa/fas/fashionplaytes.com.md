@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the fashionplaytes.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611024242id_/http%3A//www.fashionplaytes.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionplaytes.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118195711id_/http%3A//www.fashionplaytes.com/content/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective Date: 9/27/11 
+Effective Date: 11/1/12 
 
-This Privacy Policy outlines FashionPlaytes, Inc.’s policy regarding our online collection of personal information and how we use and share that information. FashionPlaytes is committed to creating a safe website and protecting the privacy of our users. Please read our Privacy Policy below in order to fully understand our approach to user safety and the collection and use of personal information. 
+This Privacy Policy outlines FashionPlaytes, Inc.’s policy regarding our online collection of personal information and how we use and share that information. FashionPlaytes is committed to creating a safe website and protecting the privacy of our users. Please read our Privacy Policy below in order to fully understand our approach to user safety and the collection and use of personal information.
 
-We strive to ensure that the FashionPlaytes, Inc.’s website, Privacy Policy and information collection procedures comply with the guidelines and rules published in the United States Children’s Online Privacy Protection Act (COPPA). We encourage you to visit <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html> to find out more about the policy and children’s privacy protection. 
+We strive to ensure that the FashionPlaytes, Inc.’s website, Privacy Policy and information collection procedures comply with the guidelines and rules published in the United States Children’s Online Privacy Protection Act (COPPA). We encourage you to visit  <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html> to find out more about the policy and children’s privacy protection. 
 
-Anyone can design and explore on FashionPlaytes.com. It is free and registration is not required. Some areas of the site, however, are reserved for registered users who have obtained their parents permission to use the site. 
-
-FashionPlaytes has been awarded TRUSTe’s Children’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements#Child) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [customercare@fashionplaytes.com](mailto:customercare@fashionplaytes.com) If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+Anyone can design and explore on FashionPlaytes.com. It is free and registration is not required. Some areas of the site, however, are reserved for registered users who have obtained their parents’ permission to use the site. 
 
 ## Privacy Summary
 
 We neither sell nor share your information with outside companies or third parties. When you purchase from our online store, we collect your name, billing and shipping addresses, phone number, e-mail address, and credit card information. You provide this information so we can process and ship your order. We respect your privacy by not selling or sharing this information. 
 
-We do encourage you to sign-up for our mailing list. These emails provide you with advanced notice of sales, new merchandise, and other events. But, of course, you have the freedom to add or remove your name from our list at any time. 
+We do encourage designers & parents to sign-up for our mailing list. These emails provide you with advanced notice of sales, new merchandise, and other events. But, of course, you have the freedom to add or remove your name from our list at any time. 
 
 ## Who needs to register?
 
@@ -26,33 +24,34 @@ Registering is only required for those designers who want to save a garment to t
 
 FashionPlaytes.com does not collect more personal information than is reasonably necessary to permit a child to participate in activities on the site. 
 
-FashionPlaytes, Inc. may collect personal information that is voluntarily provided by you when you order a product, enter a promotion, answer our polls or surveys, register as a member on the site, sign up for additional services on our Websites, or communicate with us by mail, telephone or electronically.
+FashionPlaytes, Inc. may collect personal information that is voluntarily provided by you when you order a product, enter a promotion, answer our polls or surveys, register as a member on the site, sign up for additional services on our Websites, or communicate with us by mail, telephone or electronically. 
 
-When a visitor to FashionPlaytes.com wants to post something on the site (such as photos or comments in our gallery), we ask designers to provide info that is not personally identifiable (first name only, anonymous user name, age and the state and country where they live). This information is included with their posted content and not used for any other purposes. All postings to FashionPlaytes.com are screened by adult staff members before appearing on the site to help ensure children’s online safety and privacy. Users are not allowed to post any personally identifiable information. 
+When a visitor to FashionPlaytes.com wants to post something on the site (such as photos or comments in our gallery), we ask designers to provide info that is not personally identifiable. This information is included with their posted content and not used for any other purposes. All postings to FashionPlaytes.com are screened by adult staff members before appearing on the site to help ensure children’s online safety and privacy. Users are not allowed to post any personally identifiable information. 
 
 When a designer wants to register on FashionPlaytes.com, we ask for the following information: 
 
-  * Designer’s first name and username
+  * Designer’s first name, last initial and username/display name
+  * Designer’s password, secret question and answer
   * Designer’s email address
-  * Designer’s date of birth
+  * Designer’s day of birth and age
   * Designer’s city, state, zip code, and country
   * Parent or guardian’s e-mail address
 
 
 
-This information is requested regardless of the age of the designer. 
+This information is requested regardless of the age of the designer. 
 
 ## Use and Disclosure of Information
 
-We use birth dates to validate ages. Birthdates, city, state, zip code and country are collected to help us develop the most appropriate content for our visitors. None of this information is sold or rented to any third parties. E-mail addresses are used to communicate with members and their parents about activities on the site and other features. We send requested information to your email addresses as well, including the FashionPlaytes newsletter and information about specific FashionPlaytes events. 
+We use birth dates to validate ages. Birthdates, city, state, zip code and country are collected to help us develop the most appropriate content for our visitors. None of this information is sold or rented to any third parties. E-mail addresses are used to communicate with members and their parents about activities on the site and other features. With consent of a parent, we send requested information to both the children’s and parent’s email addresses as well, including the FashionPlaytes newsletter and information about specific FashionPlaytes events. 
 
-FashionPlaytes may share personal information with third party vendors engaged by us to perform various administrative, technical, and processing functions. These service providers are not permitted to use personal information for other purposes and are required to maintain it in confidence. In addition, we may share personal information with third parties to the extent reasonably necessary to: protect the security and integrity of our website; establish, assert, or defend our legal rights and those of others; respond to judicial process; provide information to law enforcement agencies or for an investigation related to public safety; or, to the extent permitted or required under applicable law 
+FashionPlaytes may share personal information with third party vendors engaged by us to perform various administrative, technical, and processing functions. These service providers are not permitted to use personal information for other purposes and are required to maintain it in confidence. In addition, we may share personal information with third parties to the extent reasonably necessary to: protect the security and integrity of our website; establish, assert, or defend our legal rights and those of others; respond to judicial process; provide information to law enforcement agencies or for an investigation related to public safety; or, to the extent permitted or required under applicable law. 
 
 We encourage parents to be involved with all of their child’s online activities. 
 
 ## Important Information for Parents
 
-Under the Children’s Online Privacy Protection Act, FashionPlaytes is permitted to collect the email address of a child under 13 in order to respond to a one-time request by them for information, – for example, sending an email about our website being launched. We use this information to respond to the one request only, and delete your child’s email address from our system after doing so. Only users over the age of 13 can subscribe to our newsletters. 
+Under the Childre’s Online Privacy Protection Act, FashionPlaytes is permitted to collect the email address of a child under 13 in order to respond to a one-time request by them for information, — for example, sending an email about our website being launched. We use this information to respond to the one request only, and delete your child’s email address from our system after doing so. Only users over the age of 13 can subscribe to our newsletters. 
 
 ## Which areas on FashionPlaytes.com require Designer registration?
 
@@ -64,9 +63,9 @@ There are several places on FashionPlaytes.com where kids can send an email or S
 
 ## Links to Other Sites and Additional Site Features
 
-Some pages (i.e. our games and chat areas) may have the look and feel of being on our, however the information collected on these pages may not be covered under our privacy statement. All information collected on those sites is owned and controlled by that companies privacy statement. Our privacy statement does apply to the information collected on these co-branded sites. You should read the privacy statement of our co-branded partner. 
+Some pages (e.g. our games and chat areas) may have the look and feel of being on our site, however the information collected on these pages may not be covered under our privacy statement. All information collected on those sites is owned and controlled by that company’s privacy statement. Our privacy statement does apply to the information collected on these co-branded sites. You should read the privacy statement of our co-branded partner. 
 
-Our Site includes links to other Web sites (such as our blog) whose privacy practices may differ from those of FashionPlaytes. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other Websites (such as our blog) whose privacy practices may differ from those of FashionPlaytes. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Website you visit. 
 
 ## Does FashionPlaytes use cookies?
 
@@ -80,7 +79,7 @@ We use a third-party tracking service, which uses cookies to track non-personall
 
 ## Log Data
 
-FashionPlaytes' web servers automatically collect log data about visitors to our site. This data typically includes the URL of the web site you are coming from, the Internet Protocol address, browser type, browser language, the date and time of the visit, and one or more cookies that may uniquely identify your browser. FashionPlaytes uses this information to learn about how our web site is used, and to improve the site. We may share aggregated log data and/or log data that does not identify you personally with third parties.
+FashionPlaytes’ web servers automatically collect log data about visitors to our site. This data typically includes the URL of the website you are coming from, the Internet Protocol address, browser type, browser language, the date and time of the visit, and one or more cookies that may uniquely identify your browser. FashionPlaytes uses this information to learn about how our website is used, and to improve the site. We may share aggregated log data and/or log data that does not identify you personally with third parties. 
 
 ## Web Beacons (Clear Gifs)
 
@@ -90,11 +89,11 @@ Our third party tracking utility company employs a software technology called cl
 
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [customercare@fashionplaytes.com](mailto:customercare@fashionplaytes.com)
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [customercare@fashionplaytes.com](mailto:customercare@fashionplaytes.com)
 
 ## How can parents update and delete info?
 
-Designers and parents can view, correct, update and delete personal information provided in the registration process at any time. They will need the registered child's first name, username, date of birth and password. Parents can prevent further collection or use of their child’s personal information by deleting that child’s registration or by unsubscribing the child from the FashionPlaytes [customercare@fashionplaytes.com](mailto:customercare@fashionplaytes.com). 
+Designers and parents can view, correct, update and delete personal information provided in the registration process at any time. They will need the registered child’s first name, username, date of birth and password. Parents can prevent further collection or use of their child’s personal information by deleting that child’s registration or by unsubscribing the child from the FashionPlaytes [customercare@fashionplaytes.com](mailto:customercare@fashionplaytes.com). 
 
 ## Changes in this Privacy Statement
 
@@ -108,4 +107,8 @@ If you have any questions, comments, or concerns regarding FashionPlaytes’ pri
 
 FashionPlaytes, Inc. 500 Cummings Center, Suite 4100, Beverly, MA 01915  
 1-800-277-2318   
-Email: [support@fashionplaytes.com](mailto:support@fashionplaytes.com)
+Attn: Privacy Director  
+Email: [support@fashionplaytes.com](mailto:support@fashionplaytes.com)   
+PRIVO™’s Privacy Assurance Program (“PPAP”)
+
+[](http://www.privo.com/fashionplaytes.htm "Privo Privacy Certified") FashionPlaytes is a participant in PRIVO™’s Privacy Assurance Program (“PPAPs”). As part of  participating in the PPAP, FashionPlaytes adheres to the strict information collection, use and  disclosure requirements. PRIVO is an independent, third party organization committed to safeguarding children’s personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. The certification seal posted on this page indicates that FashionPlaytes has established privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at FashionPlaytes toll free 1-800- 277-2318 or privacy@fashionplaytes.com. If you have further concerns after you have contacted FashionPlaytes, you can contact  PRIVO directly at[ privacy@PRIVO.com](mailto:privacy@PRIVO.com). 
