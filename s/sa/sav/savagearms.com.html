@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the savagearms.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531035235id_/http%3A//www.savagearms.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savagearms.com privacy policy that was archived on 2012-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118174637id_/http%3A//www.savagearms.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Savage Arms</title>
 
-<link rel="stylesheet" href="/css/main.css" type="text/css">
+<link rel="stylesheet" href="/css/main.css" type="text/css" media="all">
 <meta name="keywords" content="Savage,Savage Arms,Privacy,Policy,Rifle,Accurate,Accuracy,Centerfire,Rimfire,Muzzleloader,Shotgun">
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" media="all" href="/css/ie6.css"/> 
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <link href="/css/custom-theme/jquery-ui-1.8.17.custom.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/global.print.css" media="print" rel="stylesheet" type="text/css">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script><script type="text/javascript">
 	(function($) {
@@ -27,19 +28,20 @@
 	        return b;
 	    })(window.location.search.substr(1).split('&'))
 	})(jQuery);
-	$(window).load(function() {
-		var ddoffset=-1;
-		$("#nav li").each(function(i){
-			if($('div[id="'+$(this).attr("id")+'_dd"]').position()){
-				if($(this).attr("id")=="More"){
-					$('div[id="'+$(this).attr("id")+'_dd"]').css("right",(999-ddoffset)-$(this).width());
-				}else{
-					$('div[id="'+$(this).attr("id")+'_dd"]').css("left",ddoffset);
-				}
-			}
-			ddoffset=ddoffset+$(this).width();
-		});
-	});
+	//$(window).load(function() {
+//	$(document).ready(function(){
+//		var ddoffset=-1;
+//		$("#nav li").each(function(i){
+//			if($('div[id="'+$(this).attr("id")+'_dd"]').position()){
+//				if($(this).attr("id")=="More"){
+//					$('div[id="'+$(this).attr("id")+'_dd"]').css("right",(999-ddoffset)-$(this).width());
+//				}else{
+//					$('div[id="'+$(this).attr("id")+'_dd"]').css("left",ddoffset);
+//				}
+//			}
+//			ddoffset=ddoffset+$(this).width();
+//		});
+//	});
 	$(document).ready(function(){
 		var effect = 'blind';
 		$("body").click(function(e){
@@ -49,6 +51,15 @@
 			this.value=""
 		});
 		$("#nav li").click(function(e){
+
+			if($('div[id="'+$(this).attr("id")+'_dd"]').position()){
+				if($(this).attr("id")=="More"){
+					$('div[id="'+$(this).attr("id")+'_dd"]').css("right",(1001-$(this).position().left)-$(this).width());
+				}else{
+					$('div[id="'+$(this).attr("id")+'_dd"]').css("left",$(this).position().left);
+				}
+			}
+
 			switch($(this).attr("id")){
 				case"Home":
 					location.href=$(this).find("a").attr("href");
@@ -150,7 +161,11 @@
 	</div></div>
 	<div id="Multimedia_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
 		<div class="h_navigation_main"><a href="/accuracy/">» Our Accuracy Technology</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/">» Savage Outdoors</a></div>
+		<div class="h_navigation_main"><a href="/multimedia/">» Our Products On TV</a></div>
+		<div class="h_navigation_main"><a href="/multimedia/savageoutdoors/">» Savage Outdoors</a></div>
+		<div class="h_navigation_main"><a href="/multimedia/keithwarren/">» Keith Warren</a></div>
+		<div class="h_navigation_main"><a href="/multimedia/outlanders/">» Outlanders</a></div>
+		<div class="h_navigation_main"><a href="/multimedia/radicalhunter/">» The Radical Hunter</a></div>
 	</div></div>
 	<div id="Customer_Service_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
 		<div class="h_navigation_main"><a href="/customerservice/">» Savage Customer Service</a></div>
@@ -230,7 +245,8 @@ the confidentiality of personal information is protected and maintained.</p>	</s
 	
 			<h2>Social, Etc.</h2>
 			<ul>
-				<li><a href="http://facebook.com/SavageArms" rel="external">facebook</a></li>
+				<li><a href="http://twitter.com/savagearms" rel="external">Twitter</a></li>
+				<li><a href="http://facebook.com/SavageArms" rel="external">Facebook</a></li>
 				<li><a href="http://en.wikipedia.org/wiki/Savage_Arms" rel="external">Wikipedia</a></li>
 			</ul>
 		</div><!-- /.social -->
