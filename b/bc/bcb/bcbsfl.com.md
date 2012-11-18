@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbsfl.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515025020id_/http%3A//www3.bcbsfl.com/wps/portal/bcbsfl/content%3FWCM_GLOBAL_CONTEXT%3D/wps/wcm/connect/www_content/SI_BCBSFL/SA_General/CT_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsfl.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118065009id_/http%3A//www3.bcbsfl.com/wps/portal/bcbsfl/content%3FWCM_GLOBAL_CONTEXT%3D/wps/wcm/connect/www_content/SI_BCBSFL/SA_General/CT_Privacy) for the most accurate reproduction.*
 
 # Internet Privacy Statement | BCBSF
 
@@ -24,6 +24,14 @@ When communicating personal information through the BCBSF website, you will be p
 We may use and disclose to others information about you and your use of the website by which you are not identified, such as the type of browser you use, the files you request, the URL (Uniform Resource Locator) and geographic location from which you request information, the URL that you came from and go to and similar information, and information compiled in the form of statistical, demographic, or aggregated information about visitors generally to the website. This information is referred to in this document as "Non-Personal Information."
 
 We utilize technical mechanisms such as cookies and pixel tags (also called clear gifs) to gather non-personal site usage information. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Most web browsers automatically accept cookies, but you can usually change your browser to prevent the use of cookies. If you turn off cookies in your browser, however, some portions of our site may not be available to you. Pixel tags are imbedded in the web page and note visits to certain site locations. They may also be used in email communications to note if you have received and opened email communications from us.
+
+  
+Non-Personal Information may also be used by our advertising service providers to support Online Behavioral Advertising, or Interest-based advertising as it is sometimes called. If you would like to learn more about Online Behavioral Advertising, please visit the "[For Consumers](http://www3.bcbsfl.com/wps/portal/bcbsfl/disclaimer?targetURL=http://www.aboutads.info/consumers)" page on the AboutAds website. If you prefer that our advertising service providers do not know which pages you viewed on our website, you can opt-out on the "[Consumer Choice Page](http://www3.bcbsfl.com/wps/portal/bcbsfl/disclaimer?targetURL=http://www.aboutads.info/choices/)" also located on the AboutAds website.
+
+Note: If you opt out of Online Behavioral Advertising, you may still receive online advertising from BCBSF. Opting out from a specific advertising provider means that the ads you do receive will not be based on your preferences or behavior.
+
+Also, In order for Online Behavioral Advertising opt-outs to work, your browser must be set to accept cookies. Because the opt-out is registered for the specific computer and browser you use when submitting the opt-out, you will need to opt-out again if you delete the cookies from your computer, buy a new computer, access our website from a different computer, login under a different screen name, or change web browsers.  
+
 
 ### Mobile
 
