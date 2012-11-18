@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lsoft.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520031105id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lsoft.com privacy policy that was archived on 2012-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118050621id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,8 +10,10 @@
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="image_src" href="http://www.lsoft.com/lsoft.png">
-<link rel="stylesheet" type="text/css" href="/css/superfish.css">
+
 <link rel="stylesheet" type="text/css" href="/css/site.css">
+
+<link rel="stylesheet" type="text/css" href="/css/navbar.css">
 <link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.css">
 <link rel="alternate" type="application/rss+xml" title="LISTSERV at Work Newsletter" href="http://community.emailogy.com/scripts/wa-COMMUNITY.exe?RSS&amp;L=LISTSERV-AT-WORK&amp;v=2.0">
 <link rel="alternate" type="application/rss+xml" title="L-Soft Product Updates" href="http://community.emailogy.com/scripts/wa-COMMUNITY.exe?RSS&amp;L=LSOFT-UPDATES&amp;v=2.0">
@@ -23,22 +25,29 @@
 <link rel="alternate" type="application/rss+xml" title="LISTSERV Lite Support Forum" href="http://peach.ease.lsoft.com/scripts/wa.exe?RSS&amp;L=LISTSERV-LITE&amp;v=2.0">
 <link rel="alternate" type="application/rss+xml" title="EASE Home Support Forum" href="http://home.ease.lsoft.com/scripts/wa.exe?RSS&amp;L=EASE-HOME&amp;v=2.0">
 <script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/superfish.js"></script>
 <script type="text/javascript" src="/js/site.js"></script>
 <script type="text/javascript" src="/js/bxSlider.js"></script>
 <script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-$("#home").hover(function() { $(this).attr("src","/images/nav_home_on.png"); }, function() { $(this).attr("src","/images/nav_home_off.png"); });
-$("#software").hover(function() { $(this).attr("src","/images/nav_software_on.png"); }, function() { $(this).attr("src","/images/nav_software_off.png"); });
-$("#services").hover(function() { $(this).attr("src","/images/nav_services_on.png"); }, function() { $(this).attr("src","/images/nav_services_off.png"); });
-$("#download").hover(function() { $(this).attr("src","/images/nav_download_on.png"); }, function() { $(this).attr("src","/images/nav_download_off.png"); });
-$("#support").hover(function() { $(this).attr("src","/images/nav_support_on.png"); }, function() { $(this).attr("src","/images/nav_support_off.png"); });
-$("#corporate").hover(function() { $(this).attr("src","/images/nav_corporate_on.png"); }, function() { $(this).attr("src","/images/nav_corporate_off.png"); });
-$("#customers").hover(function() { $(this).attr("src","/images/nav_customers_on.png"); }, function() { $(this).attr("src","/images/nav_customers_off.png"); });
-$("#news").hover(function() { $(this).attr("src","/images/nav_news_on.png"); }, function() { $(this).attr("src","/images/nav_news_off.png"); });
-$("#contact").hover(function() { $(this).attr("src","/images/nav_contact_on.png"); }, function() { $(this).attr("src","/images/nav_contact_off.png"); });
-$('ul.sf-menu').superfish();
+$("#home").hover(function()          { $(this).attr("src","/images/nav_home_on.png"); }, function() { $(this).attr("src","/images/nav_home_off.png"); });
+$("#sitemap").hover(function()       { $(this).attr("src","/images/nav_sitemap_on.png"); }, function() { $(this).attr("src","/images/nav_sitemap_off.png"); });
+$("#software").hover(function()      { $("#software").attr("src","/images/nav_software_on.png"); $("#software-sub").css( { "display": "block" } ); }, function() { $("#software").attr("src","/images/nav_software_off.png"); $("#software-sub").css( { "display": "none" } ); });
+$("#software-sub").hover(function()  { $("#software").attr("src","/images/nav_software_on.png"); $("#software-sub").css( { "display": "block" } ); }, function() { $("#software").attr("src","/images/nav_software_off.png"); $("#software-sub").css( { "display": "none" } ); });
+$("#services").hover(function()      { $("#services").attr("src","/images/nav_services_on.png"); $("#services-sub").css( { "display": "block" } ); }, function() { $("#services").attr("src","/images/nav_services_off.png"); $("#services-sub").css( { "display": "none" } ); });
+$("#services-sub").hover(function()  { $("#services").attr("src","/images/nav_services_on.png"); $("#services-sub").css( { "display": "block" } ); }, function() { $("#services").attr("src","/images/nav_services_off.png"); $("#services-sub").css( { "display": "none" } ); });
+$("#download").hover(function()      { $("#download").attr("src","/images/nav_download_on.png"); $("#download-sub").css( { "display": "block" } ); }, function() { $("#download").attr("src","/images/nav_download_off.png"); $("#download-sub").css( { "display": "none" } ); });
+$("#download-sub").hover(function()  { $("#download").attr("src","/images/nav_download_on.png"); $("#download-sub").css( { "display": "block" } ); }, function() { $("#download").attr("src","/images/nav_download_off.png"); $("#download-sub").css( { "display": "none" } ); });
+$("#support").hover(function()       { $("#support").attr("src","/images/nav_support_on.png"); $("#support-sub").css( { "display": "block" } ); }, function() { $("#support").attr("src","/images/nav_support_off.png"); $("#support-sub").css( { "display": "none" } ); });
+$("#support-sub").hover(function()   { $("#support").attr("src","/images/nav_support_on.png"); $("#support-sub").css( { "display": "block" } ); }, function() { $("#support").attr("src","/images/nav_support_off.png"); $("#support-sub").css( { "display": "none" } ); });
+$("#corporate").hover(function()     { $("#corporate").attr("src","/images/nav_corporate_on.png"); $("#corporate-sub").css( { "display": "block" } ); }, function() { $("#corporate").attr("src","/images/nav_corporate_off.png"); $("#corporate-sub").css( { "display": "none" } ); });
+$("#corporate-sub").hover(function() { $("#corporate").attr("src","/images/nav_corporate_on.png"); $("#corporate-sub").css( { "display": "block" } ); }, function() { $("#corporate").attr("src","/images/nav_corporate_off.png"); $("#corporate-sub").css( { "display": "none" } ); });
+$("#customers").hover(function()     { $("#customers").attr("src","/images/nav_customers_on.png"); $("#customers-sub").css( { "display": "block" } ); }, function() { $("#customers").attr("src","/images/nav_customers_off.png"); $("#customers-sub").css( { "display": "none" } ); });
+$("#customers-sub").hover(function() { $("#customers").attr("src","/images/nav_customers_on.png"); $("#customers-sub").css( { "display": "block" } ); }, function() { $("#customers").attr("src","/images/nav_customers_off.png"); $("#customers-sub").css( { "display": "none" } ); });
+$("#news").hover(function()          { $("#news").attr("src","/images/nav_news_on.png"); $("#news-sub").css( { "display": "block" } ); }, function() { $("#news").attr("src","/images/nav_news_off.png"); $("#news-sub").css( { "display": "none" } ); });
+$("#news-sub").hover(function()      { $("#news").attr("src","/images/nav_news_on.png"); $("#news-sub").css( { "display": "block" } ); }, function() { $("#news").attr("src","/images/nav_news_off.png"); $("#news-sub").css( { "display": "none" } ); });
+$("#contact").hover(function()       { $("#contact").attr("src","/images/nav_contact_on.png"); $("#contact-sub").css( { "display": "block" } ); }, function() { $("#contact").attr("src","/images/nav_contact_off.png"); $("#contact-sub").css( { "display": "none" } ); });
+$("#contact-sub").hover(function()   { $("#contact").attr("src","/images/nav_contact_on.png"); $("#contact-sub").css( { "display": "block" } ); }, function() { $("#contact").attr("src","/images/nav_contact_off.png"); $("#contact-sub").css( { "display": "none" } ); });
 });
 </script>
 </head>
@@ -46,106 +55,273 @@ $('ul.sf-menu').superfish();
 <div id="container">
 	<div id="header">
 		<div id="logo"><a href="/default.asp"><img src="/images/lsoft.png" alt="L-Soft" title="L-Soft" border="0"></a></div>
-		<div id="contactinfo"><img src="/images/icon_telephone.png" alt="L-Soft Phone Number" title="L-Soft Phone Number"> 1.800.399.5449</div>
 		<div id="navbar">
 			<div id="menu">
-				<ul class="sf-menu">
-					<li><a href="/default.asp"><img src="/images/nav_home_off.png" alt="Home" title="Home" id="home" border="0"></a>
-					</li><li><img src="/images/nav_divider.png" alt="" border="0"></li>
-					<li><a href="/products/products.asp"><img src="/images/nav_software_off.png" alt="Software" title="Software" id="software" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/products/products.asp">Software</a></li>
-						<li class="sub"><a href="/products/listserv.asp">LISTSERV</a></li>
-						<li class="sub"><a href="/products/maestro.asp">LISTSERV Maestro</a></li>
-						</ul>
-					</li>
-					<li><a href="/products/services.asp"><img src="/images/nav_services_off.png" alt="Services" title="Services" id="services" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/products/services.asp">Services</a></li>
-						<li class="sub"><a href="/products/listplex.asp">ListPlex</a></li>
-						<li class="sub"><a href="/products/listplex_maestro.asp">ListPlex Maestro</a></li>
-						<li class="sub"><a href="/products/ease.asp">EASE</a></li>
-						<li class="sub"><a href="/products/ease_maestro.asp">EASE Maestro</a></li>
-						<li class="sub"><a href="http://www.kayvu.com" target="_blank">Kayvu (Beta)</a></li>
-						<li class="sub"><a href="/products/tcservices.asp">Training &amp; Consulting</a></li>
-						</ul>
-					</li>
-					<li><img src="/images/nav_divider.png" alt="" border="0"></li>
-					<li><a href="/download/download.asp"><img src="/images/nav_download_off.png" alt="Download" title="Download" id="download" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/download/download.asp">Download Evaluation</a></li>
-						<li class="sub"><a href="/download/listserv.asp">LISTSERV</a></li>
-						<li class="sub"><a href="/download/listservlite.asp">LISTSERV Lite</a></li>
-						<li class="sub"><a href="/download/listservfree.asp">LISTSERV Lite Free Edition</a></li>
-						<li class="sub"><a href="/download/maestro.asp">LISTSERV Maestro</a></li>			
-						</ul>
-					</li>
-					<li><a href="/resources/resources.asp"><img src="/images/nav_support_off.png" alt="Support" title="Support" id="support" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/resources/resources.asp">Resource Center</a></li>
-						<li class="sub"><a href="/resources/support.asp">Technical Support</a></li>
-						<li class="sub"><a href="/resources/techcheck.asp">Tech Check</a></li>
-						<li class="sub"><a href="/resources/manuals.asp">Manuals</a></li>			
-						<li class="sub"><a href="/resources/whitepaper.asp">White Papers</a></li>
-						<li class="sub"><a href="/resources/techtip.asp">Tech Tips</a></li>
-						<li class="sub"><a href="/resources/renewals.asp">Renewals</a></li>
-						<li class="sub"><a href="/resources/faq.asp">FAQs</a></li>
-						<li class="sub"><a href="/resources/glossary.asp">Glossary of Email Terms</a></li>
-						<li class="sub"><a href="/resources/optinlaws.asp">Opt-In Laws in USA, EU</a></li>
-						<li class="sub"><a href="/resources/emailmarketingcode.asp">Code of Email Marketing</a></li>
-						<li class="sub"><a href="/resources/listserv-community.asp">LISTSERV Community</a></li>			
-						</ul>
-					</li>
-					<li><img src="/images/nav_divider.png" alt="" border="0"></li>
-					<li><a href="/corporate/corporate.asp"><img src="/images/nav_corporate_off.png" alt="Corporate" title="Corporate" id="corporate" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/corporate/corporate.asp">About L-Soft</a></li>
-						<li class="sub"><a href="/corporate/management.asp">Management Bios</a></li>
-						<li class="sub"><a href="/corporate/history.asp">History of L-Soft</a></li>
-						<li class="sub"><a href="/corporate/history_listserv.asp">History of LISTSERV</a></li>
-						<li class="sub"><a href="/corporate/jobs.asp">Jobs at L-Soft</a></li>
-						<li class="sub"><a href="/corporate/community.asp">Community Relations</a></li>
-						<li class="sub"><a href="/corporate/legal.asp">Legal</a></li>
-						<li class="sub"><a href="/corporate/trademark.asp">Trademark Usage</a></li>
-						<li class="sub"><a href="/corporate/privacypolicy.asp">Privacy Policy</a></li>
-						</ul>
-					</li>
-					<li><a href="/customers/customers.asp"><img src="/images/nav_customers_off.png" alt="Customers" title="Customers" id="customers" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/customers/customers.asp">Customer List</a></li>
-						<li class="sub"><a href="/customers/casestudies.asp">Case Studies</a></li>
-						<li class="sub"><a href="/customers/testimonials.asp">Testimonials</a></li>
-						</ul>
-					</li>
-					<li><a href="/news/news.asp"><img src="/images/nav_news_off.png" alt="News" title="News" id="news" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/news/news.asp">News Center</a></li>
-						<li class="sub"><a href="/news/newsletter.asp">L-Soft Newsletter</a></li>
-						<li class="sub"><a href="/news/releases.asp">Press Releases</a></li>
-						<li class="sub"><a href="/news/articles.asp">Press Articles</a></li>
-						<li class="sub"><a href="/news/choiceawards.asp">LISTSERV Choice Awards</a></li>
-						</ul>
-					</li>
-					<li><img src="/images/nav_divider.png" alt="" border="0"></li>
-					<li><a href="/contact/contact.asp"><img src="/images/nav_contact_off.png" alt="Contact" title="Contact" id="contact" border="0"></a>
-						<ul>
-						<li class="sub"><a href="/contact/contact.asp">Contact L-Soft</a></li>
-						<li class="sub"><a href="/contact/econtact.asp?id=sales">Request Information</a></li>
-						<li class="sub"><a href="/contact/optin.asp">L-Soft's Opt-In Center</a></li>
-						<li class="sub"><a href="/contact/rss.asp">L-Soft's RSS Feeds</a></li>
-						<li class="sub"><a href="/contact/sitemap.asp">L-Soft Site Map</a></li>
-						</ul>
-					</li>
-					<li><img src="/images/nav_divider.png" alt="" border="0"></li>
-				</ul>		
+				<a href="/default.asp"><img src="/images/nav_home_off.png" alt="Home" title="Home" id="home" border="0"></a><img src="/images/nav_divider.png" alt=""><a href="/products/products.asp"><img src="/images/nav_software_off.png" alt="Software" title="Software" id="software" border="0"></a><a href="/products/services.asp"><img src="/images/nav_services_off.png" alt="Services" title="Services" id="services" border="0"></a><img src="/images/nav_divider.png" alt=""><a href="/download/download.asp"><img src="/images/nav_download_off.png" alt="Download" title="Download" id="download" border="0"></a><a href="/resources/resources.asp"><img src="/images/nav_support_off.png" alt="Support" title="Support" id="support" border="0"></a><img src="/images/nav_divider.png" alt=""><a href="/corporate/corporate.asp"><img src="/images/nav_corporate_off.png" alt="Corporate" title="Corporate" id="corporate" border="0"></a><a href="/customers/customers.asp"><img src="/images/nav_customers_off.png" alt="Customers" title="Customers" id="customers" border="0"></a><a href="/news/news.asp"><img src="/images/nav_news_off.png" alt="News" title="News" id="news" border="0"></a><img src="/images/nav_divider.png" alt=""><a href="/contact/contact.asp"><img src="/images/nav_contact_off.png" alt="Contact" title="Contact" id="contact" border="0"></a><img src="/images/nav_divider.png" alt="">
 			</div>
-			<div id="search">
-				<form action="/scripts/search.asp" method="get">
-				<div id="searchbox"><input type="hidden" name="a" value="1"><input type="hidden" name="b" value="1"><input type="hidden" name="c" value="1"><input type="hidden" name="d" value="1"><input type="hidden" name="e" value="1"><input type="hidden" name="f" value="1"><input type="text" name="search" value="Search" size="15" class="searchinput" id="searchinput" onfocus="startSearch()"></div>
-				<div id="searchbutton"><input type="image" src="/images/button_go.png" alt="Go" title="Go"></div>
-				</form>
-			</div>
+			<div id="map"><a href="/contact/sitemap.asp"><img src="/images/nav_sitemap_off.png" alt="Site Map" title="Site Map" id="sitemap" border="0"></a></div>
 		</div>
+
+		<div id="software-sub">
+		<div class="span-1">
+		<ul class="nav">
+		<li class="top"><a href="/products/listserv.asp">LISTSERV<br><span class="desc">Email List Software</span></a></li>
+		<li class="sub"><a href="/products/listserv_features.asp">Features &amp; Benefits</a></li>
+		<li class="sub"><a href="/products/listserv_checklist.asp">Feature Checklist</a></li>
+		<li class="sub"><a href="/products/listserv_os.asp">Operating Systems</a></li>
+		<li class="sub"><a href="/products/listserv_hardware.asp">Hardware Requirements</a></li>
+		<li class="sub"><a href="/products/listserv_license.asp">License Sizes &amp; Pricing</a></li>
+		<li class="sub"><a href="/products/listserv_support.asp">Maintenance &amp; Support</a></li>
+		<li class="sub"><a href="/products/listserv_remoteinstall.asp">Remote Installation</a></li>
+		</ul>
+		</div>
+		<div class="span-2">
+		<ul class="nav">
+		<li class="top"><a href="/products/maestro.asp">LISTSERV Maestro<br><span class="desc">Email Marketing Software</span></a></li>
+		<li class="sub"><a href="/products/maestro_features.asp">Features &amp; Benefits</a></li>
+		<li class="sub"><a href="/products/maestro_checklist.asp">Feature Checklist</a></li>
+		<li class="sub"><a href="/products/maestro_os.asp">Operating Systems</a></li>
+		<li class="sub"><a href="/products/maestro_hardware.asp">Hardware Requirements</a></li>
+		<li class="sub"><a href="/products/maestro_license.asp">License Sizes &amp; Pricing</a></li>
+		<li class="sub"><a href="/products/maestro_support.asp">Maintenance &amp; Support</a></li>
+		<li class="sub"><a href="/products/maestro_remoteinstall.asp">Remote Installation</a></li>
+		</ul>
+		</div>
+		<div class="span-3">
+		<a href="/products/listserv_flash_demo.asp"><img src="/images/navthumb_listservdemo.png" alt="LISTSERV Demo" title="LISTSERV Demo" border="0"></a>
+		<a href="/products/maestro_flash_demo.asp"><img src="/images/navthumb_maestrodemo.png" alt="LISTSERV Maestro Demo" title="LISTSERV Maestro Demo" border="0"></a>
+		</div>
+		<div class="span-4">
+		<a href="/products/listserv_hpo.asp"><img src="/images/navthumb_hpo.png" alt="LISTSERV HPO Special Offer" title="LISTSERV HPO Special Offer" border="0"></a>
+		</div>
+		</div>
+
+		<div id="services-sub">
+		<div class="span-5">
+		<ul class="nav">
+		<li class="top"><a href="/products/listplex.asp">ListPlex<br><span class="desc">Email List Service</span></a></li>
+		<li class="sub"><a href="/products/listplex_features.asp">Features &amp; Benefits</a></li>
+		<li class="sub"><a href="/products/listplex_checklist.asp">Feature Checklist</a></li>
+		<li class="sub"><a href="/products/listplex_pricing.asp">Service Options &amp; Pricing</a></li>
+		<li class="sub"><a href="/products/listplex_support.asp">Support Options</a></li>
+		<li class="sub"><a href="/products/listplex_flash_demo.asp">ListPlex Demo</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="/products/ease.asp">EASE</a></li>
+		<li class="sub"><a href="/products/ease_features.asp">Features &amp; Benefits</a></li>
+		<li class="sub"><a href="/products/ease_checklist.asp">Feature Checklist</a></li>
+		<li class="sub"><a href="/products/ease_pricing.asp">Service Options &amp; Pricing</a></li>
+		<li class="sub"><a href="/products/ease_support.asp">Support Options</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="/products/ease_home.asp">EASE Home</a></li>
+		</ul>
+		</div>
+		<div class="span-6">
+		<ul class="nav">
+		<li class="top"><a href="/products/listplex_maestro.asp">ListPlex Maestro<br><span class="desc">Email Marketing Service</span></a></li>
+		<li class="sub"><a href="/products/listplex_maestro_features.asp">Features &amp; Benefits</a></li>
+		<li class="sub"><a href="/products/listplex_maestro_checklist.asp">Feature Checklist</a></li>
+		<li class="sub"><a href="/products/listplex_maestro_pricing.asp">Service Options &amp; Pricing</a></li>
+		<li class="sub"><a href="/products/listplex_maestro_support.asp">Support Options</a></li>
+		<li class="sub"><a href="/products/listplex_maestro_flash_demo.asp">ListPlex Maestro Demo</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="/products/ease_maestro.asp">EASE Maestro</a></li>
+		<li class="sub"><a href="/products/ease_maestro_features.asp">Features &amp; Benefits</a></li>
+		<li class="sub"><a href="/products/ease_maestro_checklist.asp">Feature Checklist</a></li>
+		<li class="sub"><a href="/products/ease_maestro_pricing.asp">Service Options &amp; Pricing</a></li>
+		<li class="sub"><a href="/products/ease_maestro_support.asp">Support Options</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="http://www.kayvu.com" target="_blank">Kayvu (Beta)</a></li>
+		</ul>
+		</div>
+		<div class="span-3">
+		<ul class="nav">
+		<li class="top"><a href="/products/tcservices.asp">Training &amp; Consulting</a></li>
+		<li class="sub"><a href="/products/training.asp">Training Services</a></li>
+		<li class="sub"><a href="/products/consulting.asp">Consulting Services</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<a href="/resources/techcheck.asp"><img src="/images/navthumb_techcheck.png" alt="Tech Check" title="Tech Check" border="0"></a>
+		</div>
+		</div>
+
+		<div id="download-sub">
+		<div class="span-1">
+		<ul class="nav">
+		<li class="top"><a href="/download/download.asp">Download Evaluation</a></li>
+		<li class="sub"><a href="/download/listserv.asp">LISTSERV</a></li>
+		<li class="sub"><a href="/download/listservlite.asp">LISTSERV Lite</a></li>
+		<li class="sub"><a href="/download/listservfree.asp">LISTSERV Lite Free</a></li>
+		<li class="sub"><a href="/download/maestro.asp">LISTSERV Maestro</a></li>
+		</ul>
+		</div>
+		<div class="span-8">
+		<div class="spacer"></div>
+		<a href="/resources/manuals.asp"><img src="/images/navthumb_documentation.png" alt="Documentation &amp; Manuals" title="Documentation &amp; Manuals" border="0"></a>
+		<div class="spacer"></div>
+		<a href="/resources/whitepaper.asp"><img src="/images/navthumb_whitepapers.png" alt="White Papers" title="White Papers" border="0"></a>
+		</div>
+		<div class="span-4">
+		<a href="/contact/econtact.asp?id=sales"><img src="/images/navthumb_productinfo.png" alt="Request Product Information" title="Request Product Information" border="0"></a>
+		</div>
+		</div>
+
+		<div id="support-sub">
+		<div class="span-1">
+		<ul class="nav">
+		<li class="top"><a href="/resources/resources.asp">Resource Center</a></li>
+		<li class="top"><a href="/resources/support.asp">Technical Support</a></li>
+		<li class="top"><a href="/resources/techcheck.asp">Software Tune-Up</a></li>
+		<li class="top"><a href="/resources/manuals.asp">Manuals</a></li>
+		<li class="top"><a href="/resources/whitepaper.asp">White Papers</a></li>
+		<li class="top"><a href="/resources/remoteinstall.asp">Remote Installation</a></li>
+		<li class="top"><a href="/resources/renewals.asp">Renewals</a></li>
+		</ul>
+		</div>
+		<div class="span-2">
+		<ul class="nav">
+		<li class="top"><a href="/resources/techtip.asp">Tech Tips</a></li>
+		<li class="sub"><a href="/resources/techtip.asp?filter=listserv">LISTSERV Tips</a></li>
+		<li class="sub"><a href="/resources/techtip.asp?filter=listserv-maestro">LISTSERV Maestro Tips</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="/resources/faq.asp">FAQs</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="/resources/listserv-community.asp">LISTSERV Community</a></li>
+		</ul>
+		</div>
+		<div class="span-3">
+		<div class="spacer"></div>
+		<a href="/resources/glossary.asp"><img src="/images/navthumb_glossary.png" alt="Glossary of Email Terms" title="Glossary of Email Terms" border="0"></a>
+		<div class="spacer"></div>
+		<a href="/resources/emailmarketingcode.asp"><img src="/images/navthumb_emailmarketingcode.png" alt="The Code of Email Marketing" title="The Code of Email Marketing" border="0"></a>
+		<div class="spacer"></div>
+		<a href="/resources/stellaremailtips.asp"><img src="/images/navthumb_stellartips.png" alt="12 Tips for Stellar Email Lists" title="12 Tips for Stellar Email Lists" border="0"></a>
+		</div>
+		<div class="span-4">
+		<a href="/resources/optinlaws.asp"><img src="/images/navthumb_optinlaws.png" alt="Opt-In Laws in the United States and EU" title="Opt-In Laws in the United States and EU" border="0"></a>
+		</div>
+		</div>
+
+		<div id="corporate-sub">
+		<div class="span-1">
+		<ul class="nav">
+		<li class="top"><a href="/corporate/corporate.asp">About L-Soft</a></li>
+		<li class="top"><a href="/corporate/management.asp">Management Bios</a></li>
+		<li class="top"><a href="/corporate/history.asp">History of L-Soft</a></li>
+		<li class="top"><a href="/corporate/history-listserv.asp">History of LISTSERV</a></li>
+		<li class="top"><a href="/corporate/jobs.asp">Jobs at L-Soft</a></li>
+		<li class="top"><a href="/corporate/community.asp">Community Relations</a></li>
+		<li class="top"><a href="/corporate/trademark.asp">Trademark Usage</a></li>
+		<li class="top"><a href="/corporate/privacypolicy.asp">Privacy Policy</a></li>
+		</ul>
+		</div>
+		<div class="span-8">
+		<div class="spacer"></div>
+		<a href="/news/listserv25years.asp" target="_blank"><img src="/images/navthumb_listserv25years.png" alt="LISTSERV 25th Anniversary" title="LISTSERV 25th Anniversary" border="0"></a>
+		</div>
+		<div class="span-4">
+		<a href="/corporate/legal.asp"><img src="/images/navthumb_trademark.png" alt="LISTSERV is a Registered Trademark" title="LISTSERV is a Registered Trademark" border="0"></a>
+		</div>
+		</div>
+
+		<div id="customers-sub">
+		<div class="span-7">
+		<ul class="nav">
+		<li class="top"><a href="/customers/customers.asp">Customer List</a></li>
+		<li class="top"><a href="/customers/casestudies.asp">Case Studies</a></li>
+		<li class="top"><a href="/customers/testimonials.asp">Testimonials</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<a href="/contact/econtact.asp?id=testimonial"><img src="/images/navthumb_feedback.png" alt="Talk to Us" title="Talk to Us" border="0"></a>
+		</div>
+		</div>
+
+		<div id="news-sub">
+		<div class="span-1">
+		<ul class="nav">
+		<li class="top"><a href="/news/news.asp">News Center</a></li>
+		<li class="top"><a href="/news/releases.asp">Press Releases</a></li>
+		<li class="top"><a href="/news/articles.asp">Press Articles</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="http://www.facebook.com/listserv" target="_blank">LISTSERV on Facebook</a></li>
+		<li class="top"><a href="http://twitter.com/#!/LSoftLISTSERV" target="_blank">L-Soft on Twitter</a></li>
+		<li class="top"><a href="http://www.youtube.com/LSoftLISTSERV" target="_blank">L-Soft on YouTube</a></li>
+		</ul>
+		</div>
+		<div class="span-2">
+		<ul class="nav">
+		<li class="top"><a href="/news/choiceawards.asp">The Mailys 2012 Awards</a></li>
+		<li class="sub"><a href="/news/choiceawards.asp">Overview</a></li>
+		<li class="sub"><a href="/news/choicevote.asp">Voting</a></li>
+		<li class="sub"><a href="/news/choicerules.asp">Rules</a></li>
+		<li class="sub"><a href="/news/choicefaq.asp">FAQ</a></li>
+		<li class="sub"><a href="/news/choicewinners.asp">Hall of Fame</a></li>
+		</ul>
+		</div>
+		<div class="span-3">
+		<ul class="nav">
+		<li class="top"><a href="/news/newsletter.asp">Customer Newsletter</a></li>
+		<li class="sub"><a href="/news/issue3-2012.asp" target="_blank">Issue 3, 2012</a></li>
+		<li class="sub"><a href="/news/issue2-2012.asp" target="_blank">Issue 2, 2012</a></li>
+		<li class="sub"><a href="/news/issue1-2012.asp" target="_blank">Issue 1, 2012</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<a href="/news/issue3-2012.asp" target="_blank"><img src="/images/navthumb_newsletter.png" alt="LISTSERV at Work" title="LISTSERV at Work" border="0"></a>
+		</div>
+		<div class="span-4">
+		<a href="/news/choiceawards.asp"><img src="/images/navthumb_mailys2012.png" alt="The Mailys 2012" title="The Mailys 2012" border="0"></a>
+		</div>
+		</div>
+
+		<div id="contact-sub">
+		<div class="span-1">
+		<ul class="nav">
+		<li class="top"><a href="/contact/contact.asp">Contact L-Soft</a></li>
+		<li class="sub"><a href="/contact/econtact.asp?id=sales">Sales</a></li>
+		<li class="sub"><a href="/contact/econtact.asp?id=support">Technical Support</a></li>
+		<li class="sub"><a href="/contact/econtact.asp?id=training">Training</a></li>
+		<li class="sub"><a href="/contact/econtact.asp?id=consulting">Consulting</a></li>
+		<li class="sub"><a href="/contact/econtact.asp?id=pressinfo">Public Relations</a></li>
+		<li class="sub"><a href="/contact/econtact.asp?id=webmaster">Webmaster</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="/contact/sitemap.asp">L-Soft Site Map</a></li>
+		</ul>
+		</div>
+		<div class="span-8">
+		<ul class="nav">
+		<li class="top"><a href="/contact/optin.asp">L-Soft's Opt-In Center</a></li>
+		<li class="sub"><a href="/listserv-at-work" target="_blank">LISTSERV at Work</a></li>
+		<li class="sub"><a href="/lsoft-updates" target="_blank">L-Soft Product Updates</a></li>
+		<li class="sub"><a href="/lsoft-news" target="_blank">L-Soft News</a></li>
+		<li class="sub"><a href="/emailbits" target="_blank">EmailBits Microblog</a></li>
+		<li class="sub"><a href="/emailrules" target="_blank">EmailRules Community</a></li>
+		<li class="sub"><a href="/resources/support.asp">Technical Support Forums</a></li>
+		</ul>
+		<div class="spacer"></div>
+		<ul class="nav">
+		<li class="top"><a href="/contact/rss.asp">L-Soft's RSS Feeds</a></li>
+		</ul>
+		</div>
+		<div class="span-4">
+		<a href="/contact/econtact.asp?id=sales"><img src="/images/navthumb_productinfo.png" alt="Request Product Information" title="Request Product Information" border="0"></a>
+		</div>
+		</div>
+
 	</div>
 	<div id="content">
 		<div id="inmainarea">
@@ -324,8 +500,7 @@ pageTracker._trackPageview();
 
 		<a href="privacypolicy.asp">Privacy Policy</a>
 		</p></div>
-		<br>
-		<div style="margin-left:42px"><a href="/news/listserv25years.asp" onmouseover="showDescLeft('LISTSERV 25th Anniversary','Visit the LISTSERV 25th Anniversary party room to join the September 15 online celebration, discover special software offers, get commemorative items and more.')" onmouseout="hideDesc()"><img src="/images/listserv25years.png" alt="LISTSERV 25th Anniversary" title="LISTSERV 25th Anniversary" border="0"></a></div>
+
 		</div>
 	</div>
 	<div id="footer">
