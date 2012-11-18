@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520031216id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045323id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Koolred - Connect, Meet and Discover
 
