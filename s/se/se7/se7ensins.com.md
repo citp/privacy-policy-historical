@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002722id_/http%3A//www.se7ensins.com/forums/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119002717id_/http%3A//www.se7ensins.com/forums/pages/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Se7enSins Gaming Community
 
 Collapse Sidebar
-
-Hello Guest! **Don't like ads?** We don't either, but they help Se7enSins to maintain our costs to provide free content. Once you register and become a member, we provide the option for users to support us by purchasing a [Premium Membership](http://www.se7ensins.com/forums/pages/premium/), where we've disabled all ads for you and give you many other benefits.
 
 Se7enSins Privacy Policya
 
@@ -46,3 +44,5 @@ Se7enSins Privacy Policya
   * **This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes.**
 
 
+
+[ ](http://www.se7ensins.com/forums/)
