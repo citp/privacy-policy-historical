@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avios.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518165414id_/http%3A//www.avios.com/about-us/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avios.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045055id_/http%3A//www.avios.com/about-us/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # Avios privacy | Personal data policy and more | Avios
 
@@ -49,7 +49,7 @@ To improve our picture of your interests we may link the data that you give us w
 
 ## Cookies
 
-Please visit our Security Policy for a detailed description of how we use Cookies and how you can disable them. If you disable the Cookies, Avios eStore may be unable to track your transaction through to the retailer's website and may not be able to award Avios for purchases of goods or products made on an Avios estore affiliated retailer's website.
+Please visit our Cookies Policy for a detailed description of how we use Cookies and how you can disable them. If you disable the Cookies, Avios eStore may be unable to track your transaction through to the retailer's website and may not be able to award Avios for purchases of goods or products made on an Avios estore affiliated retailer's website.
 
 www.avios.com uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users and to enable traffic monitoring. Visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile.
 
