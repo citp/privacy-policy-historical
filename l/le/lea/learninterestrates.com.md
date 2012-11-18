@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learninterestrates.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625181350id_/http%3A//learninterestrates.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninterestrates.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118130825id_/http%3A//learninterestrates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn Interest Rates
 
