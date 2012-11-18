@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623164925id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118051631id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,6 @@ A “cookie” is a small snippet of text that is stored on your web browser.  
 ##### Collection of Personal Information
 
 When accessing our site, small bits of information such as the IP address used to access the site will be logged along with the dates and times of access may be collected.  This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use.
+
+  
+ 
