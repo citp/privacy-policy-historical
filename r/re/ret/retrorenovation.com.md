@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014008id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118040834id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Retro Renovation
 
@@ -51,10 +51,14 @@ Legal Disclaimer
 
 We reserve the right to disclose personally identifiable information as required by law, if we believe disclosure is necessary to protect our rights, or to comply with a judicial proceeding, court order, or other legal process.
 
+We reserve the right to disclose your email address if we believe you are a spammer trying to leave text-url links, in order to alert companies that may be victim to such unethical marketing schemes. In such cases, we will send you an email letting you know we are doing so and give you 12 hours to clarify your relationship to your comment before we contact the company involved.
+
 Questions?
 
 If you have any questions or concerns, our contact information is as follows:
 
 retrorenovation (at) gmail (dot) com
 
-This privacy policy was last updated on August 14, 2011.
+Updates:  
+June 6, 2012: Update regarding potential disclosure of email addresses from believed spam comments.  
+This privacy policy was updated on August 14, 2011.
