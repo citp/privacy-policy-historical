@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520040503id_/http%3A//www.lounge.belloflostsouls.net/faq.php%3Ffaq%3Dprivparent%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118050630id_/http%3A//www.lounge.belloflostsouls.net/faq.php%3Ffaq%3Dprivparent%23faq_privacy) for the most accurate reproduction.*
 
-# Warhammer 40k, Fantasy, Wargames & Miniatures Forum: Bell of Lost Souls Lounge - FAQ: Privacy Policy
+# Privacy Policy
 
 Because BELLOFLOSTSOULS.NET gathers certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
@@ -106,4 +106,4 @@ Cookies are a technology which can be used to provide you with tailored informat
 
 Our site makes use of cookies. Cookies are used for the following purposes: 
 
-1.User targeting 2.Research and development
+1.User targeting 2.Research and development 
