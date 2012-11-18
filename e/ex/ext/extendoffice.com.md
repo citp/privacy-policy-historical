@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519204855id_/http%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118234940id_/http%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
