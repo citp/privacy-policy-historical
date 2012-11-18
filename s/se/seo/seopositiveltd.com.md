@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seopositiveltd.com privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227160200id_/http%3A//www.seopositiveltd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopositiveltd.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118011726id_/http%3A//www.seo-positive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # SEO Positive Privacy Policy
 
-SEO Positive Limited (“we”) are committed to protecting and preserving the privacy of our visitors when visiting our website www.seopositiveltd.com (“our website”) or communicating electronically with us.
+SEO Positive Limited (“we”) are committed to protecting and preserving the privacy of our visitors when visiting our website www.seo-positive.co.uk (“our website”) or communicating electronically with us.
 
-This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit our website www.seopositiveltd.com (“our website”). Our Privacy Policy should be read in conjunction with our [terms of website use](http://www.seopositiveltd.com/company/downloads/).
+This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit our website www.seo-positive.co.uk (“our website”). Our Privacy Policy should be read in conjunction with our [terms of website use](http://www.seo-positive.co.uk/company/downloads/).
 
 We do occasionally update this Policy so please do return and review this Policy from time to time.
 
