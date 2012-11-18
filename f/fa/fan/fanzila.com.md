@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanzila.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606031210id_/http%3A//www.fanzila.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanzila.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118062659id_/http%3A//www.fanzila.com/en/privacy) for the most accurate reproduction.*
 
 # Fanzila - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last updated: September, 2011
 
-This Privacy Policy (" **Privacy Policy** ") describes the policies and practices of **Dex Technologies Ltd.** (" **we** ," " **us** ," or " **Fanzila** ") with respect to all information collected or used by us in connection with this Website at [www.fanzila.com](https://web.archive.org/web/20120606031210id_/http%3A//www.fanzila.com/en/www.fanzila.com) (" **Website** ") as well as the Fanzila Service, a service offered via the Website which enables the establishment, management and maintenance of a community site with Facebook (" **Fanzila Service** "; the Website and the Fanzila Services shall hereinafter be referred to collectively as the " **Service** "). The purpose of this Privacy Policy is to enable you to understand how we collect and use information relating to you. Please review carefully this Privacy Policy before making any use of the Service. Each use of the Service by you constitutes your consent to the collection, transfer, storage, disclosure and other uses of your personal information as described in this Privacy Policy.
+This Privacy Policy (" **Privacy Policy** ") describes the policies and practices of **Dex Technologies Ltd.** (" **we** ," " **us** ," or " **Fanzila** ") with respect to all information collected or used by us in connection with this Website at [www.fanzila.com](https://web.archive.org/web/20121118062659id_/http://www.fanzila.com/en/privacy/www.fanzila.com) (" **Website** ") as well as the Fanzila Service, a service offered via the Website which enables the establishment, management and maintenance of a community site with Facebook (" **Fanzila Service** "; the Website and the Fanzila Services shall hereinafter be referred to collectively as the " **Service** "). The purpose of this Privacy Policy is to enable you to understand how we collect and use information relating to you. Please review carefully this Privacy Policy before making any use of the Service. Each use of the Service by you constitutes your consent to the collection, transfer, storage, disclosure and other uses of your personal information as described in this Privacy Policy.
 
 Please be advised that your use of Facebook in general and your relationship with Facebook are subject to Facebook’s own privacy policy and Facebook’s other terms and policies, which we strongly recommend that you review before you start using the Service. We do not control and are not responsible for Facebook’s processing of your information. 
 
@@ -54,7 +54,7 @@ Subject to applicable law we provide you with access to the User Information we 
 ### Opt-Out Options and Unsubscribing
 
 Fanzila may send you from time to time, through the Facebook application, email communications with news and updates about the Service or other products as well as other marketing communications and promotional offers. If you do not wish to receive from us such marketing communications, you can opt-out, at any time, by following the procedures set forth in the communications sent to you. Please be sure to include your full name and email address and indicate what type of marketing communications you do not wish to receive any longer. We will take appropriate steps to fulfill your request, however, it may take a few days or longer to process your request during which you may still receive marketing communications from us. Fanzila reserves the right to send you notices about your account, even if you opt-out of all email notifications.  
-If you decide to terminate your account with us, you may do so by removing the application through Facebook or by sending us an email to [support@fanzila.com](https://web.archive.org/web/20120606031210id_/http%3A//www.fanzila.com/en/support@fanzila.com) specifying your request and providing us with your name and email address. If you terminate your account, your profile will be removed from the Service, however, deletion may not be immediate and Fanzila may continue keeping your personal information in its records for audits and other administrative purposes. If you have granted us access to your Facebook account information you can request deletion of your Facebook information by dissociating the Fanzila application from your Facebook account via Facebook’s Application Settings page. 
+If you decide to terminate your account with us, you may do so by removing the application through Facebook or by sending us an email to [support@fanzila.com](https://web.archive.org/web/20121118062659id_/http://www.fanzila.com/en/privacy/support@fanzila.com) specifying your request and providing us with your name and email address. If you terminate your account, your profile will be removed from the Service, however, deletion may not be immediate and Fanzila may continue keeping your personal information in its records for audits and other administrative purposes. If you have granted us access to your Facebook account information you can request deletion of your Facebook information by dissociating the Fanzila application from your Facebook account via Facebook’s Application Settings page. 
 
 ### Links
 
@@ -74,7 +74,7 @@ Fanzila may occasionally revise this Privacy Policy to reflect changes in its Se
 
 ### How to Contact Us
 
-If you have any questions or comments regarding this Privacy Policy, you can contact us by email at [support@fanzila.com.](https://web.archive.org/web/20120606031210id_/http%3A//www.fanzila.com/en/support@fanzila.com)
+If you have any questions or comments regarding this Privacy Policy, you can contact us by email at [support@fanzila.com.](https://web.archive.org/web/20121118062659id_/http://www.fanzila.com/en/privacy/support@fanzila.com)
 
 ### General
 
