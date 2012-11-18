@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatecamz.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520040652id_/http%3A//camworldvip.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatecamz.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118055039id_/http%3A//camworldvip.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
 
 # Live Adult Webcams - Free Memberships
 
