@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addlinksuggest.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520144605id_/http%3A//directory.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addlinksuggest.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118192417id_/http%3A//directory.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
 
 # AddLinkSuggest::Privacy Policy
 
