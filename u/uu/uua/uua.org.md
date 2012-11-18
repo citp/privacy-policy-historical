@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606161645id_/http%3A//uua.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052303id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # UUA: UUA Privacy and Data Security Policy
 
@@ -12,7 +12,7 @@ This policy addresses the collection, use, and safeguarding of data about indivi
     * Subscribers to _UU World_ magazine.
     * People who have registered with the UUA for various services such as receiving notifications when publications are available.
     * People who have a relationship with a congregation but who are not an official member.
-    * Each congregation's elected board members, staff, and lay leaders.
+    * Each congregation's elected board members, staff, lay leaders, and volunteers.
     * Ministers and professional religious leaders, active and retired.
     * District staff and consultants.
     * UUA Board members and members of Board appointed committees.
@@ -58,12 +58,13 @@ This policy addresses the collection, use, and safeguarding of data about indivi
     * Each congregation may appoint up to four authorized persons who can view, change and download basic contact and position information (name, address, phone, email, positions held) about the congregation and its members, leaders and staff. Those authorized persons cannot access information about other congregations or their leaders and members.
     * District staff members can view, but not change, basic contact and position information about the leaders and staff of the congregations within their own District. That information may also be included in online Directory listings maintained by a District or Regional office and visible only to authorized persons within the jurisdiction.
     * In the future, each congregation can elect to have an online directory of its own members and leaders. (Individuals can opt out of the online directory altogether, or they can indicate whether to exclude their address, phone number, and/or email address.) Only members and leaders of a congregation can view the online directory.
-    * In the future, each member of a congregation can view and change only their own information.  
+    * In the future, each member of a congregation can view and change only their own information.
+    * Contact information for matriculants of the UU seminaries may be shared with the seminary where they studied. Contact information for ministers is shared with the Church of the Larger Fellowship for sending the Quest newsletter.  
  
   7. What about mailing lists and email addresses?  
  
     * UUA departments and Districts use postal addresses and email addresses to stay in contact with constituents for a variety of purposes, including periodical mailings, email newsletters, and fund raising appeals, for example.
-    * Mailing lists, but NOT email addresses, are occasionally shared with qualified organizations such as the UUSC and with Announced Candidates for President of the UUA under [strict guidelines](https://web.archive.org/directory/data/18489.shtml) for one-time use only. No one outside the UUA can get those mailing addresses for individual congregation members other than those in leadership positions without first obtaining the permission of each congregation to which those members belong.  
+    * Mailing lists, but NOT email addresses, are occasionally shared with qualified organizations such as the UUSC and with Announced Candidates for President of the UUA under [strict guidelines](https://web.archive.org/directory/data/18489.shtml) for one-time use only. No one outside the UUA can get those mailing addresses for individual congregation members other than those in leadership positions without first obtaining the permission of each congregation to which those members belong. Mailing addresses and e-mail addresses of ministers and matriculants of the UU seminaries may be shared according to the policy outlined above in #6.  
  
   8. What do we use the data for?  
  
@@ -119,6 +120,6 @@ For more information contact [data_services @ uua.org](mailto:data_services@uua.
 
 This work is made possible by the generosity of individual donors. Please consider [making a donation](http://giving.uua.org/page.aspx?pid=419) today.
 
-Last updated on Wednesday, December 7, 2011. 
+Last updated on Wednesday, September 26, 2012. 
 
 Sidebar Content, Page Navigation
