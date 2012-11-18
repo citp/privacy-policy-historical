@@ -1,0 +1,490 @@
+<!--The following is the downloaded HTML source of the adfa.st privacy policy that was archived on 2012-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118034644id_/http%3A//adfa.st/en/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="adfast, adf.st, short links, tinyurl, earn money, link advertising, tiny url, url shortener, advertise, get paid">
+<meta name="description" content="FREE url shortener service. Get paid sharing your short link on the Internet!">
+<meta name="Author" content="IMPRESSION WebStudio">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="audience" content="all">
+<meta name="rating" content="General">
+<meta name="revisit-after" content="2 Day">
+<meta name="resource-type" content="document">
+<meta name="robots" content="All">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/styles/style.css">
+<link rel="stylesheet" type="text/css" href="/scripts/owl/main.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.floating_popup.min.js"></script>
+<script type="text/javascript" src="/scripts/showLoading.js"></script>
+<script type="text/javascript" src="/scripts/owl/notification.js"></script>
+<script type="text/javascript" src="/scripts/script.js"></script>
+
+<link href="/scripts/validation/jquery.validate.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/scripts/validation/jquery.validate.js"></script>
+<script type="text/javascript" src="/scripts/validation/jquery.validation.functions.js"></script>
+
+<script type="text/javascript">
+            /* <![CDATA[ */
+            jQuery(function(){
+	            //************** login authentication form ****************//
+	            jQuery(document).on('submit', "#login_form", function(){
+	            	jQuery("#l_email").validate({
+		            	expression: "if (VAL.match(/^[^\\W][a-zA-Z0-9\\_\\-\\.]+([a-zA-Z0-9\\_\\-\\.]+)*\\@[a-zA-Z0-9_]+(\\.[a-zA-Z0-9_]+)*\\.[a-zA-Z]{2,4}$/)) return true; else return false;",
+		                message: "Please, enter valid email"
+		            });
+		            jQuery("#l_pass").validate({
+		                expression: "if (VAL.length > 5 && VAL) return true; else return false;",
+		                message: "Please, enter valid password"
+		            });
+	            	jQuery('#login_form').validated(function(){
+		            	login();
+					});
+	            	return false;
+	            });
+	            //************** login authentication form ****************//
+
+		        //************** registration form ****************//
+            	jQuery(document).on('submit', "#reg_form", function(){
+            		jQuery("#r_name").validate({
+    	            	expression: "if (!VAL.match(/[^a-zA-Z \-]+/) && VAL && VAL.length > 3) return true; else return false;",
+    	                message: "Please, enter your real name"
+    	            });
+            		jQuery("#r_email").validate({
+    	            	expression: "if (VAL.match(/^[^\\W][a-zA-Z0-9\\_\\-\\.]+([a-zA-Z0-9\\_\\-\\.]+)*\\@[a-zA-Z0-9_]+(\\.[a-zA-Z0-9_]+)*\\.[a-zA-Z]{2,4}$/)) return true; else return false;",
+    	                message: "Please, enter valid email"
+    	            });
+                	jQuery("#r_pass").validate({
+     	                expression: "if (VAL.length > 5 && VAL) return true; else return false;",
+     	                message: "Please, enter valid password"
+     	            });
+                    jQuery("#r_re_pass").validate({
+                         expression: "if ((VAL == jQuery(\'#r_pass\').val()) && VAL) return true; else return false;",
+                         message: "Please, confirm password, field doesn't match the password field"
+                    });
+                    jQuery("#capt").validate({
+    	                expression: "if (VAL.length > 1 && VAL) return true; else return false;",
+    	                message: "Please, enter security code"
+    	            });
+                    jQuery("#r_agree").validate({
+                    	expression: "if (jQuery('#r_agree').is(':checked')) return true; else return false;",
+                    	message: "You must agree the terms and conditions to continue"
+                    });
+            		jQuery('#reg_form').validated(function(){
+    	            	registration();
+    				});
+            		return false;
+            	});
+	            //************** registration form ****************//
+	            
+	            //************** forgot form ****************//
+	            jQuery(document).on('submit', "#forgot_form", function(){
+		            jQuery("#f_email").validate({
+		            	expression: "if (VAL.match(/^[^\\W][a-zA-Z0-9\\_\\-\\.]+([a-zA-Z0-9\\_\\-\\.]+)*\\@[a-zA-Z0-9_]+(\\.[a-zA-Z0-9_]+)*\\.[a-zA-Z]{2,4}$/)) return true; else return false;",
+		                message: "Please, enter valid email"
+		            });
+		            jQuery("#secure").validate({
+		                expression: "if (VAL.length > 1 && VAL) return true; else return false;",
+		                message: "Please, enter security code"
+		            });
+	
+		            jQuery('#forgot_form').validated(function(){
+		            	forgot();
+					});
+		            return false;
+	            });
+		        //************** forgot form ****************//
+		        
+		        //************** reset password code form ****************//
+		        jQuery(document).on('submit', "#recover_form", function(){
+		            jQuery("#f_code").validate({
+		                expression: "if (VAL.match(/^[a-zA-Z0-9]+$/) && VAL) return true; else return false;",
+		                message: "Please enter only letters and numbers"
+		            });
+		            
+		            jQuery('#recover_form').validated(function(){
+		            	resetPassCode();
+					});
+		            return false;
+		        });
+		        //************** reset password code form ****************//
+	            
+		        //************** new password ****************//
+		        jQuery(document).on('submit', "#new_pass_form", function(){
+		            jQuery("#f_pass").validate({
+		                expression: "if (VAL.length > 5 && VAL) return true; else return false;",
+		                message: "Please, enter valid password"
+		            });
+	                jQuery("#f_re_pass").validate({
+	                    expression: "if ((VAL == jQuery(\'#f_pass\').val()) && VAL) return true; else return false;",
+	                    message: "Please, confirm password, field doesn't match the password field"
+	                });
+	
+	                jQuery('#new_pass_form').validated(function(){
+		            	newPass();
+					});
+	                return false;
+		        });
+		        //************** new password ****************//
+		        
+		        //************** profile password form ****************//
+				jQuery(document).on('submit', "#profile_form", function(){
+					jQuery("#r_old_pass").validate({
+						expression: "if (VAL.length >=5 && VAL) return true; else return false;",
+						message: "Please, enter your old password"
+					});
+					jQuery("#r_pass").validate({
+						expression: "if (VAL.length > 5 && VAL) return true; else return false;",
+						message: "Please, enter valid password"
+					});
+					jQuery("#r_re_pass").validate({
+						expression: "if ((VAL == jQuery(\'#r_pass\').val()) && VAL) return true; else return false;",
+						message: "Please, confirm password, field doesn't match the password field"
+					});
+					
+					jQuery('#profile_form').validated(function(){
+						profileChangePass();
+					});
+					return false;
+				});
+				//************** profile password form ****************//
+		        
+				//************** create campaign form ****************//
+	            jQuery(document).on('submit', "#campaign_form", function(){
+	            	jQuery("#c_country").validate({
+		            	expression: "if (VAL.length == 2) return true; else return false;",
+		                message: "Invalid country value passed"
+		            });
+	            	jQuery("#c_url").validate({
+		            	expression: "if (validateUrl(VAL)) return true; else return false;",
+		                message: "Please, enter valid url"
+		            });
+		            jQuery("#c_name").validate({
+		            	expression: "if (VAL.match(/^[a-zA-Z0-9 _\-]+$/) && VAL) return true; else return false;",
+		                message: "Only letter, numbers and ( _ - ) charachters can be entered"
+		            });
+		            jQuery("#c_total_hits").validate({
+		            	expression: "if (!VAL || (VAL && VAL.match(/^[0-9]+$/))) return true; else return false;",
+		                message: "please, enter only numbers"
+		            });
+		            jQuery("#c_daily_hits").validate({
+		            	expression: "if (!VAL || (VAL && VAL.match(/^[0-9]+$/))) return true; else return false;",
+		                message: "please, enter only numbers"
+		            });
+		            jQuery("#c_cpc").validate({
+		            	expression: "if (VAL.match(/^[0-9]+$/) && VAL && VAL != 1) return true; else return false;",
+		                message: "please, enter only numbers"
+		            });
+	            	jQuery('#campaign_form').validated(function(){
+		            	createCampaign();
+					});
+	            	return false;
+	            });
+	            //************** create campaign form ****************//
+				
+	            //************** edit campaign form ****************//
+	            jQuery(document).on('submit', "#campaign_edit_form", function(){
+	            	jQuery("#c_ed_country").validate({
+		            	expression: "if (VAL.length == 2) return true; else return false;",
+		                message: "Invalid country value passed"
+		            });
+		            jQuery("#c_ed_name").validate({
+		            	expression: "if (VAL.match(/^[a-zA-Z0-9 _\-]+$/) && VAL) return true; else return false;",
+		                message: "Only letter, numbers and ( _ - ) charachters can be entered"
+		            });
+		            jQuery("#c_ed_total_hits").validate({
+		            	expression: "if (!VAL || (VAL && VAL.match(/^[0-9]+$/))) return true; else return false;",
+		                message: "please, enter only numbers"
+		            });
+		            jQuery("#c_ed_daily_hits").validate({
+		            	expression: "if (!VAL || (VAL && VAL.match(/^[0-9]+$/))) return true; else return false;",
+		                message: "please, enter only numbers"
+		            });
+		            jQuery("#c_ed_cpc").validate({
+		            	expression: "if (VAL.match(/^[0-9]+$/) && VAL && VAL != 1) return true; else return false;",
+		                message: "please, enter only numbers"
+		            });
+	            	jQuery('#campaign_edit_form').validated(function(){
+		            	editCampaign();
+					});
+	            	return false;
+	            });
+	            //************** edit campaign form ****************//
+				
+	            //************** profile payment account form ****************//
+            	jQuery(document).on('submit', "#profile_payment_accounts_form", function(){
+            		jQuery("#p_paypal_email").validate({
+    	            	expression: "if ((VAL && VAL.match(/^[^\\W][a-zA-Z0-9\\_\\-\\.]+([a-zA-Z0-9\\_\\-\\.]+)*\\@[a-zA-Z0-9_]+(\\.[a-zA-Z0-9_]+)*\\.[a-zA-Z]{2,4}$/)) || !VAL) return true; else return false;",
+    	                message: "Please, enter valid email"
+    	            });
+                	jQuery("#p_payza_email").validate({
+     	                expression: "if ((VAL && VAL.match(/^[^\\W][a-zA-Z0-9\\_\\-\\.]+([a-zA-Z0-9\\_\\-\\.]+)*\\@[a-zA-Z0-9_]+(\\.[a-zA-Z0-9_]+)*\\.[a-zA-Z]{2,4}$/)) || !VAL) return true; else return false;",
+     	                message: "Please, enter valid email"
+     	            });
+                    jQuery("#p_act_code").validate({
+                         expression: "if (VAL.match(/^[a-zA-Z0-9]+$/) && VAL) return true; else return false;",
+                         message: "Incorrect action code"
+                    });
+            		jQuery('#profile_payment_accounts_form').validated(function(){
+    	            	userPaymanetDataChange();
+    				});
+            		return false;
+            	});
+	            //************** profile payment account form ****************//
+	            
+	            //************** profile payment account form ****************//
+            	jQuery(document).on('submit', "#profile_forgot_action_code", function(){
+            		jQuery("#capt").validate({
+    	            	expression: "if (VAL.match(/^[a-zA-Z0-9]+$/) && VAL) return true; else return false;",
+    	                message: "Please, enter security code"
+    	            });
+            		jQuery('#profile_forgot_action_code').validated(function(){
+    	            	sendUserActionCode();
+    				});
+            		return false;
+            	});
+	            //************** profile payment account form ****************//
+	            
+		        //************** add site form ****************//
+	            /* jQuery("#l_title").validate({
+	                expression: "if ((VAL.match(/^[a-zA-Z0-9 _]*$/) && VAL  && jQuery(\'#l_type\').val()!=3 && jQuery(\'#l_type\').val()!=7 && jQuery(\'#l_type\').val()!=11) || jQuery(\'#l_type\').val()==3 || jQuery(\'#l_type\').val()==7 || jQuery(\'#l_type\').val()==11 || jQuery(\'#l_type\').val()==12 || jQuery(\'#l_type\').val()==13 || jQuery(\'#l_type\').val()==14) return true; else return false;",
+	                message: "Please enter only letters and numbers"
+	            });
+	            // if (VAL.match(/^(http)(:\/\/))?([a-zA-Z0-9]+[.]{1}){2}[a-zA-z0-9]+(\/{1}[a-zA-Z0-9]+)*\/?/)) return true; else return false;
+	            jQuery("#l_url").validate({
+	                //expression: "var url_pattern = new RegExp('((http|https)(:\/\/))?([a-zA-Z0-9]+[.]{1}){2}[a-zA-z0-9]+(\/{1}[a-zA-Z0-9]+)*\/?', 'i'); if(url_pattern.exec(VAL) == null || url_pattern.exec(VAL).index > 0) return false; else return true;",
+	                expression: "if ((isUrl(VAL) && jQuery(\'#l_type\').val()!=3 && jQuery(\'#l_type\').val()!=9) || ((jQuery(\'#l_type\').val()==3 || jQuery(\'#l_type\').val()==9 || jQuery(\'#l_type\').val()==5 || jQuery(\'#l_type\').val()==6 || jQuery(\'#l_type\').val()==7 || jQuery(\'#l_type\').val()==8 || jQuery(\'#l_type\').val()==12 || jQuery(\'#l_type\').val()==13 || jQuery(\'#l_type\').val()==14) && VAL.match(/^[a-zA-Z0-9 _\-\]*$/) && VAL) || (jQuery(\'#l_type\').val()==11 && VAL.match(/^[a-zA-Z0-9 _\.\-\]*$/) && VAL)) return true; else return false;",
+	                message: ""
+	            }); 
+	            jQuery("#l_type").validate({
+                    expression: "if (VAL != \'0\') return true; else return false;",
+                    message: ""
+                });
+	           
+	            jQuery("#l_cpc").validate({
+	                expression: "if (VAL.match(/^[0-9]*$/) && VAL!=1 && VAL<11) return true; else return false;",
+	                message: ""
+	            });
+
+	            jQuery('#link_form').validated(function(){
+	            	addSite();
+				}); */
+		        //************** add site form ****************//
+			});
+            /* ]]> */
+</script> 
+
+
+<script type="text/javascript">
+var cookieStatus = are_cookies_enabled();
+if(cookieStatus == false){
+	window.location.href="/en/condition/turn_cookie_on.html"
+}
+</script>
+
+
+<title>AdFa.st - Privacy</title>
+
+
+<!--[if lt IE 9]>
+<style>
+	.type_field input{margin-top:15px;}
+</style>
+<![endif]-->
+
+
+<script type="text/javascript" async="" src="http://widgets.amung.us/a_pro.js"></script></head>
+<body>
+<noscript>
+    <meta http-equiv="refresh" content="0; url=/en/condition/turn_js_on.html" />
+</noscript>
+<div class="wrapper  thrcol">
+	<div class="header">
+		<div class="header_block">
+					<!--header header BEGIN--><ul class="top_nav">
+	<li class="langs_wrap">
+				<div class="nav_item"><a href="#">English</a></div>
+		<div class="nav_block langs">
+			<div class="lang_block">
+									<a href="/en/privacy.html" class="act_lang">English</a>
+									<a href="/fr/privacy.html">Français</a>
+							</div>
+			<div class="lang_block">
+									<a href="/it/privacy.html">Italiano</a>
+							</div>
+		</div>
+			</li>
+	<li class="sign_in">
+				<div class="nav_item"><a href="#">Sign In</a></div>
+		<div class="nav_block" id="login-block">
+			<form method="post" action="#" class="sign_form" id="login_form">
+				<div class="form_item">
+	<label>Email</label>
+	<div class="sign_input_wrap">
+		<input type="text" name="email" value="" id="l_email">
+	</div>
+</div>
+<div class="form_item">
+	<label>Password</label>
+	<div class="sign_input_wrap">
+		<input type="password" name="password" value="" id="l_pass">
+	</div>
+</div>
+<div class="form_item">
+	<input type="checkbox" name="remember" value="1" id="l_rem"> Remember me
+</div>
+<div class="form_item2">
+	<div class="btn3">
+		<div class="btn3_l"></div>
+		<div class="btn3_c">
+			<input type="submit" value="Sign In">
+		</div>
+		<div class="btn3_r"></div>
+	</div>
+	<label><a href="#" class="l_registration">Registration</a><a href="#" class="l_forgot">Forgot Password?</a></label>
+</div>			</form>
+					</div>
+			</li>
+</ul>
+<h1 class="logo" title="AdFa.st"><a href="/en/home.html"><img src="/images/layout/logo2.jpg" alt="AdFa.st" title="AdFa.st"></a></h1>
+
+<div class="type_block">
+	<div class="type_field">
+		<div class="inp_l"></div>
+		<div class="inp_c">
+			<input type="text" name="url" value="Type url here" id="shorten-url">
+		</div>
+		<div class="inp_r"></div>
+	</div>
+	<div class="type_btn" id="button-shorten">
+		<input type="submit" value="Shorten">
+	</div>
+	<input type="hidden" name="shorten_error" value="Error notification">
+	<input type="hidden" name="shorten_url_error" value="The url you entered is incorrect format. Please type a valid url.">
+</div>
+
+
+<div class="head_part2">
+</div><!--header header END-->
+				</div>
+	</div>
+	<div class="main">
+		<div class="main_block">
+			<div class="sidebar">
+		    				<!--right side BEGIN-->
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4594145490627651";
+/* adfast 16x600 */
+google_ad_slot = "6806929566";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<!--right side END-->
+						</div>   
+			<div class="primary">
+		    				<!--main content BEGIN--><div class="content">
+	<h2 class="title">Privacy</h2>
+	<div class="content_text">
+                    <div><p style="font-size: 11pt; color: #000000;"><span style="font-size: 13.5pt; color: #555555;">LEGAL PRIVACY POLICY for A</span><span style="font-size: 13.5pt; color: #555555;" lang="HY">d</span><span style="font-size: 13.5pt; color: #555555;">Fa.</span><span style="font-size: 13.5pt; color: #555555;" lang="HY">st<br><br></span></p>
+<p style="font-size: 11pt; color: #000000;"><i><span style="font-size: 8.5pt; color: black;">This statement was last updated<span class="Apple-converted-space">&nbsp;</span></span></i><i><span style="font-size: 8.5pt; color: black;" lang="HY">on 11 June, 2012</span></i><span style="font-size: 8.5pt; color: black;" lang="HY"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;"><br>We respect the privacy of our visitors and are<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">obliged</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>to pr</span><span style="font-size: 8.5pt; color: black;" lang="HY">otect</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">your online safety by<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">keeping</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>your privacy at anytime you visit</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">our site.</span><span style="font-size: 12pt;"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">Our<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">Privacy Policy and<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">Terms of Use<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">suggests</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>you<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">clear</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>explanation re</span><span style="font-size: 8.5pt; color: black;" lang="HY">ferring to</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>your personal data provided to us or any data we may collect from you.</span><span style="font-size: 8.5pt; color: black;" lang="HY"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">This Privacy Policy is updated</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>periodically</span><span style="font-size: 8.5pt; color: black;">;<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">so<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">y</span><span style="font-size: 8.5pt; color: black;" lang="HY">ou should<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">review</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>it from time to time.</span></p>
+<p style="font-size: 11pt; color: #000000;"><b><span style="font-size: 8.5pt; color: black;"><br>1.<span class="Apple-converted-space">&nbsp;</span></span></b><b><span style="font-size: 8.5pt; color: black;" lang="HY">Gathered</span></b><b><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>Information</span></b><span style="font-size: 8.5pt; color: black;"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;" lang="HY">During the operations of our website a data information can be collected and handled by means of the following actions</span><span style="font-size: 8.5pt; color: black;">:</span></p>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;">Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information.</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;">Any forms you filled out on our site<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">let</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>us<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">gather</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>data such as registering for information or when you complete a purchase.<br><br></span></li>
+<li><span style="font-size: 8.5pt; color: black;">If for any reason you co</span><span style="font-size: 8.5pt; color: black;" lang="HY">ntact to</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>our<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">administration, support</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>or site we may collect information.</span></li>
+</ul>
+<p style="font-size: 11pt; color: #000000;"><b><span style="font-size: 8.5pt; color: black;"><br>2.<span class="Apple-converted-space">&nbsp;</span></span></b><b><span style="font-size: 8.5pt; color: black;" lang="HY">Use of cookies</span></b><span style="font-size: 8.5pt; color: black;" lang="HY"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">There<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">can be cases when</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>we may use cookies to</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>collect</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>information regarding our services in a mathematical collection for our website and our advertisers.</span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">No personal details will be shared that could identify you.</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">Any information collected is statistical data about our visitors and how they have used our site.</span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">We may<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">collect</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>information about your common internet use with a cookie file.</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>T</span><span style="font-size: 8.5pt; color: black;">he cookies are</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">automatically downloaded to your computer</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>and are kept</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>on the hard drive</span><span style="font-size: 8.5pt; color: black;" lang="HY">.<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">The<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">required<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">data by the cookie helps us improve our website</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>and services suggested<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">you.</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>You have the opportunity to decline cookies by setting your browser options to decline all cookies. But remember: if you decline the download of cookies some features of our site may not work.</span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;" lang="HY">Note: o</span><span style="font-size: 8.5pt; color: black;">ur advertisers may download cookies to which we have no control.</span><span style="font-size: 8.5pt; color: black;" lang="HY"></span></p>
+<p style="font-size: 11pt; color: #000000;"><b><span style="font-size: 8.5pt; color: black;"><br>3.</span></b><b><span style="font-size: 8.5pt; color: black;" lang="HY">The<span class="Apple-converted-space">&nbsp;</span></span></b><b><span style="font-size: 8.5pt; color: black;">&nbsp;Use of Your Information</span></b><span style="font-size: 8.5pt; color: black;"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">Information<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">assembled<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">re</span><span style="font-size: 8.5pt; color: black;" lang="HY">ferring to<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">you helps us improve and offer services you need.</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>You can see<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">how we m</span><span style="font-size: 8.5pt; color: black;" lang="HY">ay</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>use your data</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>in the list below:</span></p>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;">Any request you make of our site</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>let</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>us</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">use information you provided us with,</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">relating to the products or services we have.<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">If we have your permission w</span><span style="font-size: 8.5pt; color: black;">e may also send information on products or services you may be interested in</span><span style="font-size: 8.5pt; color: black;" lang="HY">.</span><span style="font-size: 8.5pt; color: black;"></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;">Changes or Improvements made to the site can<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">guarantee<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">use of your information, with regard to notification of such changes.</span></li>
+<li><span style="font-size: 8.5pt; color: black;">We may use data or<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">let<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">&nbsp;third parties</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">use information that is not related to goods or services you may be interested in.<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">This can be done only in the case of your permission.</span><span style="font-size: 8.5pt; color: black;"></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;" lang="HY">If you don't want</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>to give consent for our site or third party<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">you can<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">use the opportunity to decline.<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">If you decline once we will remove your details from any third party communications or mailings.</span><span style="font-size: 8.5pt; color: black;"><br>&nbsp;</span></li>
+<li><span style="font-size: 8.5pt; color: black;" lang="HY">The<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">Information we<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">have about you</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>will be stored on secure servers. Transaction data is encrypted for your safety.</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;" lang="HY">Note :</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>data via online transmission is not<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">entirely</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>secure. We cannot<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">warrant</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">total<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">protection and security data,</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">we<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">only<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk.</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>The<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">&nbsp;responsib</span><span style="font-size: 8.5pt; color: black;" lang="HY">ility</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>for the passwords safety and confidentiality</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>is your own.</span><span style="font-size: 8.5pt; color: black;"></span></li>
+</ul>
+<p style="font-size: 11pt; color: #000000;"><b><span style="font-size: 8.5pt; color: black;"><br>4. Information<span class="Apple-converted-space">&nbsp;</span></span></b><b><span style="font-size: 8.5pt; color: black;" lang="HY">Exposer</span></b><span style="font-size: 8.5pt; color: black;" lang="HY"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">At times we may<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">reveal</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>personal information to persons in our group. This can<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">include</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>subsidiaries, holding companies or any other if applicable.</span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">Third Party disclosure may<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">happen<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">&nbsp;for the following reasons:</span></p>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;" lang="HY">In the case of s</span><span style="font-size: 8.5pt; color: black;">elling any or all of our business to a third party</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">your information</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>may be shared</span><span style="font-size: 8.5pt; color: black;"></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;" lang="HY">W</span><span style="font-size: 8.5pt; color: black;">hen we are legally required to we may disclose information about you and your visits to our sites.</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 8.5pt; color: black;" lang="HY">In order to prevent<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">fraud</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">we may<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">also<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">disclose information.</span></li>
+</ul>
+<p style="font-size: 11pt; color: #000000;"><b><span style="font-size: 8.5pt; color: black;"><br>5. Third Party Links</span></b><span style="font-size: 8.5pt; color: black;"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;">Third party links may be<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;" lang="HY">found</span><span style="font-size: 8.5pt; color: black;"><span class="Apple-converted-space">&nbsp;</span>on our site. These third party links have their own privacy policy</span><span style="font-size: 8.5pt; color: black;" lang="HY">. By clicking on the link<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">you agree to</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>their privacy policy to which we have no control and we are not responsible for third party links.<br><br></span></p>
+<p style="font-size: 11pt; color: #000000;"><b><span style="font-size: 8.5pt; color: black;">6. Contact</span></b><b><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>Information</span></b><span style="font-size: 8.5pt; color: black;" lang="HY"></span></p>
+<p style="font-size: 11pt; color: #000000;"><span style="font-size: 8.5pt; color: black;" lang="HY">For questions, further information,<span class="Apple-converted-space">&nbsp;</span></span><span style="font-size: 8.5pt; color: black;">requests or comments</span><span style="font-size: 8.5pt; color: black;" lang="HY"><span class="Apple-converted-space">&nbsp;</span>please feel free to contact us via <a target="_blank" title="AdFa.st - Support Centre" href="http://support.adfa.st">support centre</a>.</span><span style="font-size: 8.5pt; color: black;"></span></p></div>
+        	</div>
+</div><!--main content END-->
+						</div>
+		</div>
+	</div>
+	<input type="hidden" name="curlng" value="1">
+	<input type="hidden" name="curlngcode" value="en">
+</div>
+<div class="footer">
+	<!--footer footer BEGIN--><div class="footer_block">
+	<div class="copyright"><span>adfa.st</span> © Copyright 2012</div>
+	<div class="foot_menu">
+						        	<a href="/en/home.html">Home</a>
+	        	        |						        	<a href="/en/advertising.html">Advertising</a>
+	        	        |						        	<a href="/en/payout_rates.html">Payout</a>
+	        	        |						        	<a href="/en/privacy.html">Privacy</a>
+	        	        |						        	<a href="/en/terms.html">Terms &amp; Conditions</a>
+	        	        |						        	<a href="http://support.adfa.st" target="_blank">Support</a>
+	        	        |						        <a href="http://forum.adfa.st/" target="_blank">Forum</a>
+	        	        			</div>
+</div>
+
+<script type="text/javascript" id="wau_scr_cc44c428">
+    var wau_p = wau_p || []; wau_p.push(["sccr", "cc44c428", false]);
+    (function() {
+        var s=document.createElement("script"); s.type="text/javascript";
+        s.async=true; s.src="http://widgets.amung.us/a_pro.js";
+        document.getElementsByTagName("head")[0].appendChild(s);
+    })();
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26531328-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--footer footer END-->
+</div>
+<div id="popup_content" style="display:none;"></div>
+
+
+</body></html>
