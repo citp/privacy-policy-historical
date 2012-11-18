@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520044639id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052446id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Moneymagpie - Free tips on Debt, Shopping, Credit Cards and more!
+# Privacy Statement & Cookies | Moneymagpie - Free tips on Debt, Shopping, Credit Cards and more!
 
-Privacy Statement
+Privacy Statement & Cookies
 
 ### Privacy Policy
 
@@ -20,12 +20,13 @@ Privacy Statement
 
 ### Cookies
 
-Cookies are small amounts of data that are sent to your browser from our web server and are stored on your computer’s hard drive, not on our site. The Moneymagpie website implements 3rd party services by Google which generate cookies that allow us to track site usage anonymously, in order to monitor and improve our web services. Our site uses Cookie Control (the triangle in the bottom left of our website) that allows you to prevent our site issuing these tracking cookies. However some cookies are essential for how our site operates ( _ **signup_split**_ and _**Cart66DBSID**_ ) and these will always be issued.
+Cookies are small amounts of data that are sent to your browser from our web server and are stored on your computer’s hard drive, not on our site. The Moneymagpie website implements 3rd party services by Google which generate cookies that allow us to track site usage anonymously, in order to monitor and improve our web services. If you do not wish to accept cookies on to your machine you can disable them by adjusting the settings on your browser. However this will affect the functionality of the websites you visit.
 
 ### Cookies that are required for the site to function properly
 
 Cookie Name | Expires After | Purpose  
 ---|---|---  
+wordpress_test_cookie | When you quit your browser | Tests whether WordPress is able to set cookies on your browser so the software can adjust accordingly  
 signup_split | After 6 months | Used to allow us to make tweaks to the layout of our signup form and track which design versions are most effective  
 Cart66DBSID | When you quit your browser | Used by our shopping cart system to keep track of the items in your basket.  
   
@@ -36,13 +37,4 @@ Cookie Name | Expires After | Purpose
 ___utma | 2 years from set/update. | Google Analytics: This cookie is typically written to the browser upon the first visit to your site from that web browser. If the cookie has been deleted by the browser operator, and the browser subsequently visits your site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to your site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.  
 ___utmb | 30 minutes from set/update. | Google Analytics: This cookie is used to establish and continue a user session with your site. When a user views a page on your site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on your site, this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on your site for longer than 30 minutes.  
 ___utmc | When you quit your browser | Google Analytics: Used in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user.  
-___utmz | 6 months from set/update. | Google Analytics: This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within your own site. The cookie is updated with each page view to your site. **These Google Analytics cookies are set only after the user has given consent to us to use cookies.**  
-civicAllowCookies & civicShowCookieIcon | 3 months from set/update. | When you click “I’m happy with this…” on the Cookie Control user interface, a cookie is set in order to remember your preference. **These cookies are set only after the user has given consent to us to use cookies.**  
-  
-### Cookies set if you submit comments to our site
-
-Cookie Name | Expires After | Purpose  
----|---|---  
-comment_author | 347 days from set/update. | This cookie is set if you submit a comment on one of our articles and it keeps track of the name you enter so that field is autocompleted when you next look to submit a comment.  
-comment_author_email | 347 days from set/update. | This cookie is set if you submit a comment on one of our articles and it keeps track of the email you enter so that field is autocompleted when you next look to submit a comment.  
-comment_author_url | 347 days from set/update. | This cookie is set if you submit a comment on one of our articles and it keeps track of the website address you enter so that field is autocompleted when you next look to submit a comment.
+___utmz | 6 months from set/update. | Google Analytics: This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within your own site. The cookie is updated with each page view to your site.
