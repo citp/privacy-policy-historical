@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shureasia.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518012200id_/http%3A//www.shureasia.com/en/meta_en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shureasia.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118110313id_/http%3A//www.shureasia.com/en/meta_en/privacy) for the most accurate reproduction.*
 
 # Shure Asia | Shure Privacy Statement
 
