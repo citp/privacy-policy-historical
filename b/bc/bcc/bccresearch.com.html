@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2012-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517012316id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2012-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118011257id_/http%3A//bccresearch.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -38,14 +38,14 @@ To see this page as it is meant to appear, please use
 a JavaScript enabled browser.</div></noscript>
 <!-- Added by sunil to print the flash messanger on 02-09-2011  -->
 <!--[if IE 9]>
-		<link rel="stylesheet" type="text/css" href="/public/css/IE9.css" />
+<link rel="stylesheet" type="text/css" href="/public/css/IE9.css" />
 <![endif]-->
 <!--[if IE 8]>
-		<link rel="stylesheet" type="text/css" href="/public/css/IE8.css" />
+<link rel="stylesheet" type="text/css" href="/public/css/IE8.css" />
 <![endif]-->
-
-
-
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/public/css/IE7.css" />
+<![endif]-->
 
 
 <!-- Javascript to enable launching for the Login Modal Windows -->
@@ -231,11 +231,8 @@ $(document).ready(function() {
 	});
 });
 </script>
-
-
-
-<!-- Javascript to enable launching for the Advanced Search Modal Windows -->
-<link href="/public/css/date.css" rel="stylesheet" type="text/css">
+    <!-- Javascript to enable launching for the Advanced Search Modal Windows -->
+    <link href="/public/css/date.css" rel="stylesheet" type="text/css">
 <link href="/public/css/blue.calendar.css" rel="stylesheet" type="text/css">
 <script src="/public/js/drupal.js" type="text/javascript"></script>
 <script src="/public/js/calender.js" type="text/javascript"></script>
@@ -412,9 +409,9 @@ $(document).ready(function() {
                         <div id="collapsible_search">
                             <div class="roundcrnr_box_row">
                                 <label for="" class="lbl" style="width: 125px;">Match:</label>
-                                <input type="radio" name="word" value="1" class="radiodiv"><div class="floatlt">&nbsp;any search words</div>
-                                <input type="radio" name="word" checked="checked" value="2" class="radiodiv"><div class="floatlt">&nbsp;all search words</div>
-                                <input type="radio" name="word" value="3" class="radiodiv"><div class="floatlt">&nbsp;exact match</div>
+                                                                <input type="radio" name="word" value="3" class="radiodiv" checked="checked"><div class="floatlt">&nbsp;exact search results</div>
+								<input type="radio" name="word" value="2" class="radiodiv"><div class="floatlt">&nbsp;all search results</div>
+                                
                             </div>
                             <!-- end of modification  -->
                             <div class="">
@@ -435,8 +432,8 @@ $(document).ready(function() {
                                     <div class="floatlt" id="highTxt">&nbsp;Report Hightlights</div>
                                     <input type="checkbox" class="radiodiv" name="scope" value="yes" id="adv_scope" onclick="enableField()">
                                     <div class="floatlt" id="scopeTxt">&nbsp;Report Scope</div>
-                                    <input type="checkbox" class="radiodiv" name="related_report" value="yes" id="related_report" onclick="enableField()">
-                                    <div class="floatlt" id="relatedTxt">&nbsp;Related report</div>
+                                    <input type="checkbox" class="radiodiv" name="related_report" value="yes" id="related_report" onclick="enableField()" style="display:none;">
+                                    <div class="floatlt" id="relatedTxt" style="display:none;">&nbsp;Related report</div>
                                 </div>
                                 <div class="roundcrnr_box_row" style="margin: 5px 0 0;">
                                     <label for="" class="lbl" style="width: 166px; *width: 173px;">&nbsp;</label>
@@ -450,7 +447,7 @@ $(document).ready(function() {
                                 <div class="roundcrnr_box_row" id="report_chapter" style="display:none; margin: 5px 0 0;">
                                     <label for="" class="lbl" style="width: 166px; *width: 173px;">&nbsp;</label>
                                     <input type="checkbox" class="radiodiv" name="topic_title" value="yes" id="topic_title">
-                                    <div class="floatlt" id="reportTxt" style="font-size: 11px;">&nbsp;Chapter Title</div>
+                                    <div class="floatlt" id="reportTxt" style="font-size: 11px;">&nbsp;Chapter &amp; Topic Title</div>
                                     <input type="checkbox" class="radiodiv" name="topic_content" value="yes" id="topic_content">
                                     <div class="floatlt" id="reportTxt" style="font-size: 11px;">&nbsp;Chapter Content</div>&nbsp;
                                 </div>
@@ -492,49 +489,67 @@ $(document).ready(function() {
     </div>
     <div id="adv_mask"></div>
 </div>
-<!--END: Advance Search Popup -->
+<!--END: Advance Search Popup --><!--STARTS: Outer Container -->
+<div id="outer_container" align="center">
+    <!--STARTS: Top New Navigation Bar Container -->
+    <div id="hdr_top_bar">
+        <div class="lt_div">
+                 
+        </div>
+        
+        <div class="rt_div">
+                         <ul>
+                <li><a title="About Us" href="/about.php">About Us</a></li>
+                <li><a title="Contact Us" href="/aboutus/contactus/">Contact Us</a></li>
+                <li><a href="/careers/" title="Careers">Careers</a></li>
+            </ul>
+            <div class="basket"><a href="/cart/index/detail/">View Cart</a></div>
+                    </div>
+    </div>
+    <!--END: Top New Navigation Bar Container -->
 
+    <!--STARTS: Inner Container -->
+    <div id="container">
 
-
-<div align="center" style="width:100%;">
-	<div id="container">
-
-
-
-
-		<!--STARTS: Header Container -->
-		<div id="top_hdr_container">
-			<div class="left">
-				<a href="/" title="BCC Research">
-					<img src="/public/images/logo.jpg" alt="" class="hdr_logo"></a>
-				 <img src="/public/images/home_header_call_sales.png" style="margin-top: 14px; *margin-top: 10px;margin-left: 190px;">
-			</div>
-			<div class="right">
-				<a href="/subs/index" title="Sign Up for email updates">Sign Up for email updates</a>
-				<div class="carticon">
-					<img src="/public/images/icon_cart.gif" alt="" style="float: left;">
-					<a href="/cart/index/detail/">View Cart</a>
-				</div>
-
-				<form name="search" method="post" action="/index/advancedsearch">
-					<div class="header_srch">
-						<div class="floatlt"><img src="/public/images/icon_srch.gif" alt="" width="30" height="26"></div>
-						<input id="search_keyword_header" name="search_keyword" type="text" value="Search...." onfocus="blank(this)" onblur="unblank(this)" class="txtfld" style="height:26px; *height:26.5px;">
-						<input type="hidden" name="word" id="word" value="2">
-						<input type="hidden" name="all" id="all" value="yes">
-						<div class="floatlt">
-							<a href="javascript:searchText();"><img src="/public/images/btn_srch_go.gif" alt="" border="0"></a>
-						</div>
-					</div>
-				</form>
-				<div class="advSearch"><a title="Advanced Search" href="javascript:advsearch_formpopup();">Advanced Search</a></div>
-			</div>
-		</div>
-		<!--END: Header Container -->
-		<!--STARTS: Top Menu Container -->
-		<div align="center" style="width:996px;">
-			<div id="main_menu_bg">
-				<ul>
+        
+        <!--STARTS: Header Container -->
+        <div id="top_hdr_container">
+            <div class="left">
+                <a href="/" title="BCC Research">
+                    <img src="/public/images/logo.jpg" alt="" title="BCC Research" class="hdr_logo"></a>
+            </div>
+			
+			<div class="floatlt" style="margin:7px 0 0 160px;">
+				<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
+				<div id="citWUl" style="z-index:100;position:absolute"></div>
+				<div id="sctWUl" style="display:inline"></div>
+				<div id="sdtWUl" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0aebys2g7845w1clgktg2r352z/safe-standard.js?ps_h=tWUl&amp;ps_t=1580400159468"></script></div>
+					<script type="text/javascript">var setWUl=document.createElement("script");setWUl.type="text/javascript";var setWUls=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/0aebys2g7845w1clgktg2r352z/safe-standard.js?ps_h=tWUl&ps_t="+new Date().getTime();setTimeout("setWUl.src=setWUls;document.getElementById('sdtWUl').appendChild(setWUl)",1)
+					</script><noscript>
+					<div style="display:inline"><a href="http://www.providesupport.com?messenger=0aebys2g7845w1clgktg2r352z">Live Customer Service</a></div></noscript>
+					<!-- END ProvideSupport.com Graphics Chat Button Code -->
+            </div>
+			
+            <div class="right">
+                <div class="callnow">
+                    Direct (781) 489-7301,&nbsp;&nbsp;Toll Free (866) 285-7215
+                </div>
+                <div class="floatrt"><img src="/public/images/icon_call.gif" alt=""></div>
+				<div class="clboth"></div>
+                <div class="callnow">
+                    <a href="mailto:help@bccresearch.com">help@bccresearch.com</a>
+                </div>
+                <div class="floatrt margintp5"><img src="/public/images/icon_email.gif" alt=""></div>
+            </div>
+        </div>
+        <!--END: Header Container -->
+		<div class="clboth"></div>
+        <!--STARTS: Top Menu Container -->
+		<div id="main_menu_bg">
+			<ul>
+									<li class="">
+						<a href="/" title="BCC Research">Home</a>
+					</li>
 					<li class="">
 						<a title="View Existing Reports" href="/index/categorylisting/">Reports</a>
 					</li>
@@ -551,42 +566,70 @@ $(document).ready(function() {
 						<a title="Drug Database" href="/aboutus/drug-database">Drug Database</a>
 					</li>
 					<li class="">
-						<a title="Conferences" href="/conference/">Conferences</a>
+						<a title="Conferences" href="/conference/flame">Conferences</a>
 					</li>
-				</ul>
-			</div>
+					<li class="">
+						<a title="Press Room" href="/pressroom/">Press Room</a>
+					</li>
+			</ul>
 		</div>
-		<!--ENDS: Top Menu Container -->
+                		<div class="login_btn" onclick="launchModal('#loginModalContent', '#loginModalMask');"><img title="Login" src="/public/images/hdr_login_btn.jpg" alt=""></div>
+                		
+
+        
 
 
 
 
-		<!--STARTS: Main Menu Container -->
-		<div id="menu_bg">
-			<a title="Contact Us" href="/aboutus/contactus/">Contact Us</a>
-			<a title="BCC in the News" href="/pressroom/bccnews/">BCC in the News</a>
-			<a title="Press Room" href="/pressroom/">Press Room</a>
-			<a title="Testimonials" href="/aboutus/testimonials">Testimonials</a>
-			<a title="About Us" href="/about.php">About Us</a>
-			<a title="Client List" href="/aboutus/ourclients">Client List</a>
-			<a title="Newsletters" href="/aboutus/newsletters/">Newsletters</a>
-			<a href="" onclick="launchModal('#loginModalContent', '#loginModalMask'); return false;" title="Login">Login</a>
-			<style type="text/css">
-			#menu_bg a{
-				width: 12.48%;
-			}
-			</style>
+        <div class="body_container_div">
+            <!--middle container start-->
+            <div id="middle_container">
+                <style type="text/css">
+/* Easy CSS Tooltip - by Koller Juergen [www.kollermedia.at] */
+
+a.tooltip:hover {background:#ffffff; text-decoration:none;} /*BG color is a must for IE6*/
+a.tooltip span {display:none; top:170px;
+        left:65%;
+        margin:0 0 0 -5px; width:350px;
+        padding: 10 10 10 20;
+        }
+a.tooltip span li{ margin-bottom: 5px;
+        }        
+a.tooltip:hover span{display:inline; position:absolute; border:1px solid #cccccc; background:#ffffff; color:#6c6c6c; z-index: 2000;}
+</style>
+
+<div class="search_div">
+	<div class="lt_img"></div>
+	<div class="main_srch">
+		<h4>Search</h4>
+        <form name="search" method="post" action="/index/advancedsearch">
+		<div class="srch_box_txt">
+			<div class="lt_srch"><img src="/public/images/srch_lt.jpg" alt=""></div>
+			<input type="text" value="Search...." class="srch_txt" id="search_keyword_header" name="search_keyword" onfocus="blank(this)" onblur="unblank(this)">
+            <div class="floatlt"><a title="Search" href="javascript:searchText();"><img src="/public/images/srch_btn.jpg" alt="Search"></a></div>
 		</div>
-		<!--END: Main Menu Container -->
+                    
+				
+     		<a href="javascript:advsearch_formpopup();" class="btn_img" title="Advance Search">
+			<img src="/public/images/btn_search.gif" alt="">
+		</a>
+                      
+                    
+                </form>   
+	</div>
+	<div class="rt_img"></div>
+</div>
+
+<div class="search_shadow"><img src="/public/images/srch_shadow.gif" alt=""></div>
+<!-- END: Search Container -->
 
 
 
 
 
 
-	<div class="body_container_div">
-		<!--middle container start-->
-		<div id="middle_container"><!--STARTS: Report Heading Container -->
+
+<!--STARTS: Report Heading Container -->
 <div class="sub_page_heading">Privacy Policy</div>
 <!--END: Report Heading Container -->
 
@@ -623,38 +666,71 @@ $(document).ready(function() {
 </div>
 <!--END: Content Div -->
 
-  </div>
-  <!--middle container end-->
+			</div>
+			<!--middle container end-->
+		</div>
+	</div>
 </div>
 
-<!--footer start New-->
-<div id="footer">
-				<div class="lt">
-			All transactions on our web site are conducted on a Secure SSL Server.<br>
-			<a href="/about.php" title="About Us">About us</a> | <a href="/pressroom/" title="Press Room">
-			Press Room</a> | <a title="View Analysts Profiles" href="/aboutus/bccanalysts">View Analysts Profiles</a> |
-			<a href="/careers/" title="Careers">Careers</a> | <a href="/aboutus/contactus/" title="Contact Us">
-			Contact Us</a> | <a href="/faq/" title="FAQs">FAQs</a> | <a href="/sitemap.php" title="Sitemap">Sitemap</a>
-			| <a href="/privacypolicy/" title="Privacy Policy">
-			Privacy Policy</a></div>
-	
-	<div class="rt">
-		Connect with BCC Research on<br>
-		<a href="http://www.linkedin.com/company/62171?trk=tyah" title="Linkedin" target="_blank">
-			<img src="/public/images/icon_linkedin.gif" alt="" title="Linkedin" class="icon"></a>
-		<a href="http://twitter.com/bccresearch" title="Twitter" target="_blank">
-			<img src="/public/images/icon_twiter.gif" alt="" title="Twiter" class="icon"></a>
-		<a href="http://bccresearch.blogspot.com/" title="Blogger" target="_blank">
-			<img src="/public/images/icon_blog.gif" alt="" title="Blog" class="icon"></a>
-		<a href="http://bccresearch.wordpress.com/" title="Wordpress" target="_blank">
-			<img src="/public/images/icon_wordpress.gif" alt="" title="Wordpress" class="icon"></a>
-		<a href="http://www.facebook.com/pages/BCC-Research/335800481703" title="Facebook" target="_blank">
-			<img src="/public/images/icon_facebook.gif" alt="" title="Facebook" class="icon"></a>	
-   </div>
+
+<!--STARTS: Footer Outer -->
+<div id="footer_outer">
+    	<div id="footer_inner" align="center">
+		<div id="footer" align="center">
+			
+			<!-- For not displaying the footer when logged in. Sumantto, March 16th'12 -->
+			
+			<ul style="width:200px; margin-left:10px;">
+				<li><a href="/aboutus/bccanalysts/" title="BCC Analysts">BCC Analysts</a></li>
+				<li><a href="/aboutus/bccmanagement/" title="BCC Management">BCC Management</a></li>
+				<li><a href="/aboutus/ourclients/" title="Our Clients">Our Clients</a></li>
+				<li><a href="/aboutus/testimonials/" title="Testimonials">Testimonials</a></li>
+				<li><a href="/aboutus/bccanalysts" title="View Analysts Profiles">View Analysts Profiles</a></li>
+			</ul>
+			
+			<ul style="width:200px;">
+				<li><a href="/aboutus/contactus/" title="Contact Us">Contact Us</a></li>
+				<li><a href="/aboutus/newsletters/" title="Newsletters">Newsletters</a></li>
+				<li><a href="/faq/" title="FAQs">FAQs</a></li>
+				<li><a href="/sitemap.php" title="Sitemap">Sitemap</a></li>
+				<li><a href="/privacypolicy/" title="Privacy Policy">Privacy Policy</a></li>
+			</ul>
+			
+			<ul style="width:200px;">
+				<li><a href="/pressroom/" title="Press Room">Press Room</a></li>
+				<li><a href="/pressroom/bccnews/" title="BCC in the News">BCC in the News</a></li>
+				<li><a href="/pressroom/media/" title="Media Contact">Media Contact</a></li>
+				<li><a href="/pressroom/releasearchive/" title="Release Archive">Release Archive</a></li>
+				<li><a href="/pressroom/newsarchive/" title="News Archive">News Archive</a></li>
+			</ul>
+			
+			<div class="rt">
+				<div class="paypal"><img src="/public/images/paypal-logo.png" alt=""></div>
+				All transactions on our web site are PayPal verified. All major cards accepted. No PayPal account needed.
+				<div class="ftr_social">
+					<div class="icontxt">Connect with BCC</div>
+					<div class="icondiv"><a href="http://www.linkedin.com/company/62171?trk=tyah" title="Linkedin" target="_blank">
+						<img src="/public/images/icon_linkedin.gif" alt="" title="Linkedin"></a></div>
+					<div class="icondiv"><a href="http://twitter.com/bccresearch" title="Twitter" target="_blank">
+						<img src="/public/images/icon_twiter.gif" alt="" title="Twiter"></a></div>
+					<div class="icondiv"><a href="http://bccresearch.blogspot.com/" title="Blogger" target="_blank">
+						<img src="/public/images/icon_blog.gif" alt="" title="Blog"></a></div>
+					<div class="icondiv"><a href="http://bccresearch.wordpress.com/" title="Wordpress" target="_blank">
+						<img src="/public/images/icon_wordpress.gif" alt="" title="Wordpress"></a></div>
+					<div class="icondiv"><a href="http://www.facebook.com/pages/BCC-Research/335800481703" title="Facebook" target="_blank"><img src="/public/images/icon_facebook.gif" alt="" title="Facebook"></a></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+         	<!--footer new end-->
+	<div id="footer_btm_outer">
+		<div id="footer_btm" align="center">
+			<div class="infotxt">BCC Research LLC, 49 Walnut Park, Building 2, Wellesley, MA 02481, USA     |     Tel: 866-285-7215     |     Fax: 781-489-7308     |     Email: <a href="mailto:help@bccresearch.com">help@bccresearch.com</a></div>
+		</div>
+	</div>
 </div>
-<!--footer new end-->
-</div>
-</div>
+<!--END: Footer Outer -->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -665,6 +741,7 @@ var pageTracker = _gat._getTracker("UA-1570823-1");
 pageTracker._setVar("Bccresearch");
 pageTracker._initData();
 pageTracker._trackPageview();
-</script> 
+</script>
+
 
 </body></html>
