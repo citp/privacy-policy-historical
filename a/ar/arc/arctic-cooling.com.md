@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arctic-cooling.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511173526id_/http%3A//www.arctic.ac/en/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arctic-cooling.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118042900id_/http%3A//www.arctic.ac/en/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy · Arctic Cooling
 
