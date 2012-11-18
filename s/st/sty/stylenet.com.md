@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322060141id_/http%3A//stylenet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118073527id_/http%3A//stylenet.com/privacy.php) for the most accurate reproduction.*
 
 # StyleNet Customer Privacy and Billing Privacy
 
@@ -8,7 +8,7 @@
 Our mission is to make it easier, faster and more cost effective for Salon Owners to promote and grow their business utilizing technology and the Internet. It is also our mission to provide a service that is safe, secure, and worry free. Therefore, we regard our members‟ privacy and “No Contract Billing” as one of our most important values. 
 
 **Billing**  
-If at any time you decide to cancel your StyleNet subscription, simply call us at 615-465-8178 or [contact us online](https://web.archive.org/web/20120322060141id_/http%3A//stylenet.com/contactus.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet. 
+If at any time you decide to cancel your StyleNet subscription, simply call us at 615-465-8178 or [contact us online](https://web.archive.org/web/20121118073527id_/http%3A//stylenet.com/newContactus.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet. 
 
 **Privacy Policy**  
 We collect only information necessary in order to satisfactorily process and complete customer transactions. Customer payment transactions are processed through a highly secure server. All customer information is nonpublic and will NEVER be shared or forwarded in any way to anyone not involved strictly in the process of completing our customers' transaction.
@@ -27,7 +27,7 @@ When our order form asks users to enter sensitive information (such as credit ca
 
 **Domain Name Ownership**
 
-Domain Names (a/k/a URL's) registered on behalf of active StyleNet clients are legally owned by the client. In the event a client wishes to terminate their StyleNet subscription, upon request, StyleNet will release control of the Domain Name to the client. ****
+Domain Names (a/k/a URL's) registered on behalf of active StyleNet clients are legally owned by Stylenet. Domain names may also be transferred to Stylenet for convenience of managing DNS setting and email accounts. In the event that a client wishes to manage their own domain through a domain registrar of their choice, Stylenet will provide the required DNS information in order to activate the website, thus holding the client liable for renewing the domain registration, managing email accounts associated with the domain name, and any downtime of their website due to domain related complications. In the event a client wishes to terminate their StyleNet subscription, upon request, StyleNet will release control of the Domain Name to the client if the domain was previously registered elsewhere, then transferred to Stylenet. In the event a client wishes to terminate their StyleNet subscription where Stylenet has registered a domain name on the client's behalf, a transfer-out fee may apply. ****
 
 **
 
@@ -39,7 +39,7 @@ If users have any questions or suggestions regarding our policy, please contact:
 
 Michael D. Reader   
 CEO Niche Media, LLC D/B/A StyleNet   
-1014 Fulton Greer Lane, Ste 4   
-Franklin, TN 37064   
+512 Autumn Springs Ct, Ste 104E   
+Franklin, TN 37067   
 Office Phone: 888-595-0676   
 Email: michael@stylenet.com 
