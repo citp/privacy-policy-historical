@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042817id_/http%3A//magicvalley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119070222id_/http%3A//magicvalley.com/privacy) for the most accurate reproduction.*
 
-# Privacy : Twin Falls, Idaho news, sports, entertainment, jobs, classifieds and advertising
+# Privacy
 
 Welcome to the web sites of the Times-News. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
