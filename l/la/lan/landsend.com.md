@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606084934id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119201818id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Legal Policies | Privacy
 
@@ -28,7 +28,7 @@ We ask you for certain kinds of personal information in order to provide you wit
 
 In addition, our site utilizes 'cookies.' Cookies do not gather any of your personally identifiable information. They do allow us to provide you with a more personalized shopping experience and enable you to fully interact with and complete your transaction on our site.
 
-Lands' End shares its customer information with its affiliated companies, including Sears® and Kmart®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.)
+Lands' End shares its customer information with its affiliated companies, including SearsÂ® and KmartÂ®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.)
 
 In addition, Lands' End cooperates in advertising member networks with other consumer entities where we may communicate your personal information so that select members may inform you about products or services that might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.).
 
@@ -36,7 +36,7 @@ If you first became a Lands' End customer through a transaction with our parent 
 
 For more about your privacy at Lands' End, please call us toll-free at 1-800-800-5800 or email us, including your name and mailing address, at [myprivacy@landsend.com](mailto:myprivacy@landsend.com).
 
-Along with respecting your privacy, Lands' End diligently strives to keep your personal information safe and secure. (Please see our [Security Policy.)](https://web.archive.org/web/20120606084934id_/http%3A//www.landsend.com/customerservice/security/index.html)
+Along with respecting your privacy, Lands' End diligently strives to keep your personal information safe and secure. (Please see our [Security Policy.)](https://web.archive.org/web/20121119201818id_/https://www.landsend.com/customerservice/legal_policies/security/)
 
 #### What are cookies?
 
