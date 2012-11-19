@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042130id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119055920id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement : Hard Hat Hosting – Managed VPS Hosting | Managed Dedicated Servers
 
