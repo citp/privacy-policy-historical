@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119013524id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Silverpop
 
-**Effective as of February 22, 2009 ([click here](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy-old.html) to see the previous version of our Privacy Policy)**
+**Effective as of February 22, 2009 ([click here](https://web.archive.org/web/20121119013524id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy-old.html) to see the previous version of our Privacy Policy)**
 
-At [Silverpop](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/company-overview.html), we respect and protect the privacy of our clients and visitors to our Web site. This Privacy Policy explains how visitors’ and clients’ personal information is collected and used. This Privacy Policy applies to the Silverpop Web site and our products and services. Visitors and clients can update their personal information by visiting one of our personal preference pages: 
+At [Silverpop](https://web.archive.org/web/20121119013524id_/http%3A//www.silverpop.com/marketing-company/company-overview.html), we respect and protect the privacy of our clients and visitors to our Web site. This Privacy Policy explains how visitors’ and clients’ personal information is collected and used. This Privacy Policy applies to the Silverpop Web site and our products and services. Visitors and clients can update their personal information by visiting one of our personal preference pages: 
 
 [Preference Center](https://web.archive.org/preferences/index.html)[](https://web.archive.org/preferences/index_b2b.html)
 
@@ -24,7 +24,7 @@ If an individual no longer wishes to subscribe to Silverpop newsletters and prom
 
  **SPAM**
 
-Silverpop is an industry leader in permission-based [email marketing](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-solutions/email-marketing.html). Click [here](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/anti-spam.html) to read our Anti-Spam Policy. 
+Silverpop is an industry leader in permission-based [email marketing](https://web.archive.org/web/20121119013524id_/http%3A//www.silverpop.com/marketing-solutions/email-marketing.html). Click [here](https://web.archive.org/web/20121119013524id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/anti-spam.html) to read our Anti-Spam Policy. 
 
 **Children's Online Privacy Protection Act (“COPPA”)**
 
