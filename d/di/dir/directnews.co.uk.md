@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directnews.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218164905id_/http%3A//www.directnews.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directnews.co.uk privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155533id_/http%3A//www.directnews.co.uk/Privacy) for the most accurate reproduction.*
 
-# DirectNews - Privacy
+# Contact DirectNews for further information including pricing
 
 ### www.directnews.co.uk - Privacy policy 3rd September 2007
 
