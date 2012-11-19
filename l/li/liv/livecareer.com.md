@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602095141id_/http%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119043033id_/http%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: About LiveCareer: LiveCareer
 
