@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwsentosa.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122005943id_/http%3A//www.rwsentosa.com/LinkClick.aspx%3Flink%3D166%26tabid%3D249%26language%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwsentosa.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119092337id_/http%3A//www.rwsentosa.com/LinkClick.aspx%3Flink%3D166%26tabid%3D249%26language%3Den-US) for the most accurate reproduction.*
 
 # Resorts World Sentosa- Privacy Policy
 
