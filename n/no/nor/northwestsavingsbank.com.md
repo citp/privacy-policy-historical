@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627203251id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119182712id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
 
 # Northwest Savings Bank :: Privacy Policy
 
