@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the carsoup.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620080345id_/http%3A//www.carsoup.com/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carsoup.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119235602id_/http%3A//www.carsoup.com/about/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head><title>
 	about | Used | Cars Trucks Autos | All DMAs | US National
-</title>
+</title><meta name="HandheldFriendly" content="True"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
 	<style type="text/css">
 		.privheader
 		{
@@ -18,50 +18,47 @@
 		
 		
 	</style>
-<link href="/about/privacy.aspx" rel="canonical"><meta name="keywords" content="about, Used, Cars Trucks Autos, All DMAs, US National, CarSoup"><meta name="description" content="about | Used | Cars Trucks Autos | All DMAs | US National"><link type="text/css" rel="stylesheet" href="http://www.carsoup.com/includes/CarSoup.css?xt=20120430"><link type="text/css" rel="stylesheet" href="http://www.carsoup.com/includes/Widget.css?xt=20120430"><script src="http://www.carsoup.com/includes/CarSoup.js?xt=20120430" type="text/javascript"></script><script src="http://www.carsoup.com/includes/CarSoup.Dialog.js?xt=20120430" type="text/javascript"></script><script src="http://www.carsoup.com/includes/incJavascriptGeneric.js?xt=20120430" type="text/javascript"></script><script src="http://www.carsoup.com/includes/quickSearch.js?xt=20120430" type="text/javascript"></script><script src="https://js.revsci.net/gateway/gw.js?csid=H05525&amp;auto=t&amp;xt=20120430" defer="" type="text/javascript"></script><script src="http://www.carsoup.com/revsci.js?xt=20120430" defer="" type="text/javascript"></script>
+<link href="/about/privacy.aspx" rel="canonical"><meta name="keywords" content="about, Used, Cars Trucks Autos, All DMAs, US National, CarSoup"><meta name="description" content="about | Used | Cars Trucks Autos | All DMAs | US National"><link type="text/css" rel="stylesheet" href="http://www.carsoup.com/includes/CarSoup.css?xt=20121115"><link type="text/css" rel="stylesheet" href="http://www.carsoup.com/includes/Widget.css?xt=20121115"><link type="text/css" rel="stylesheet" href="http://www.carsoup.com/includes/autocomplete/preSRPCSS.css?xt=20121115"><link type="text/css" rel="stylesheet" href="http://www.carsoup.com/includes/autocomplete/hpSearchBox.css?xt=20121115"><link type="text/css" rel="stylesheet" href="http://www.carsoup.com/includes/autocomplete/jquery-ui-1.8.23.custom.css?xt=20121115"><script type="text/javascript" async="" src="https://widget.uservoice.com/jEZbSC8fMVaxktjhLlwqQ.js"></script><script src="http://www.carsoup.com/includes/carsoup.js?xt=20121115" type="text/javascript"></script><script src="http://www.carsoup.com/includes/carsoup.ads.js?xt=20121115" type="text/javascript"></script><script src="http://www.carsoup.com/includes/carsoup.dialog.js?xt=20121115" type="text/javascript"></script><script src="http://www.carsoup.com/includes/incjavascriptgeneric.js?xt=20121115" type="text/javascript"></script><script src="http://www.carsoup.com/includes/quicksearch.js?xt=20121115" async="" type="text/javascript"></script><script src="http://code.jquery.com/jquery-latest.js?xt=20121115" type="text/javascript"></script><script src="http://www.carsoup.com/includes/autocomplete/jquery.leanmodal.min.js?xt=20121115" type="text/javascript"></script><script src="http://www.carsoup.com/includes/zipcodevalidation.js?xt=20121115" type="text/javascript"></script><script src="http://www.carsoup.com/includes/autocomplete/jquery-ui-1.8.23.custom.min.js?xt=20121115" type="text/javascript"></script><script src="https://js.revsci.net/gateway/gw.js?csid=H05525&amp;auto=t&amp;xt=20121115" defer="" type="text/javascript"></script><script src="http://www.carsoup.com/revsci.js?xt=20121115" defer="" type="text/javascript"></script>
 <script type="text/javascript">//<!--
 	function initialize(){
 
-			
-					dojo.query("a.authStatus").onclick(function(e) {
-						e.preventDefault();
-						if (!CarSoup.cookie("userID")) {
-							var linkURL = e.currentTarget.href;
-							var startNdx = linkURL.indexOf(location.host) + location.host.length;
-							var endNdx = linkURL.indexOf("#");
-							linkURL = linkURL.substring(startNdx, endNdx);
-							if (location.pathname + location.search != linkURL) {
-								linkURL = "&returnURL=" + escape(e.currentTarget.href);
-							}
-							else {
-								linkURL = "&returnURL=" + escape(window.location.href);
-							}
-							var srch = window.location.pathname.toLowerCase();
-							if (srch.indexOf("login.aspx") < 0) {
-								var loginDlg = new CarSoup.Dialog("loginDialog", { style: "width:305px" });
-								loginDlg.src = '/Widget.aspx?getWidget=CSLogin&outputmethod=3&targetid=loginModal&uwb=1&isModal=1' + linkURL;
-								loginDlg.onExecute = authenticateUser;
-								loginDlg.show();
-							}
-							//toggleXhrModal('loginModal', 'modalDialog', '/Widget.aspx?getWidget=CSLogin&outputmethod=4&targetid=loginModal&uwb=1&isModal=1' + linkURL);
-						}
-						else {
-							var loutDlg = new CarSoup.Dialog("logoutDialog", { style: "width: 350px" });
-							var loutDlgContent = dojo.create("div", { className: "wModule" }, loutDlg.domNode);
-							dojo.create("h3", { innerHTML: "Logout" }, loutDlgContent);
-							dojo.create("div", { className: "content", innerHTML: "Please wait while you are logged out of Carsoup.com..." }, loutDlgContent);
-							loutDlg.show();
-							CarSoup.xhrGet({
-								url: "/default.aspx?logout=1",
-								load: function() {
-									location.reload(true);
-								},
-								error: function(data) { }
-							});
+	
+			var $jQ = jQuery.noConflict();
+			$jQ(document).ready(function() {
+				$jQ('a[rel*=preSRPModal]').leanModal({ top: 350, closeButton: ".preSRPModalClose" });
+			});
+	
+    
+
+		var $x = jQuery.noConflict();
+		$x(document).ready(function() {
+			$x.ajax({
+				url: "/qsSearchList.xml",
+				dataType: "xml",
+				success: function( xmlResponse ) {
+					var data = $x( "Item", xmlResponse ).map(function() {
+						return {
+							value: $x( "Value", this ).text(),
+							id: $x( "ID", this ).text(),
+						};
+					}).get();
+					$x( "#csSearchBox" ).autocomplete({
+						source: data,
+						minLength: 2,
+						autoFocus: true,
+						select: function( event, ui ) {
+							$x("input#AutoCompleteID").val(ui.item.id);
 						}
 					});
-			
-			
+				}
+			});
+		});
+ 
+
+							
+									CarSoup.Tools.login();
+							
+							
 	}
 	 dojo.addOnLoad(initialize);
 var _d_rawURL="/about/privacy.aspx";
@@ -140,19 +137,20 @@ var _d_rawURL="/about/privacy.aspx";
 			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
 		})();
 		function urchinTracker(gaCarSoupURL) { _gaq.push(['_trackPageview', '' + gaCarSoupURL + ''], ['u._trackPageview', '' + gaCarSoupURL + '']); }
-		function trkGAE(cat, act, lbl, navTo) {
+		function trkGAE(cat, act, lbl, obj) {
+			var result = true;
 			try {
-				_gat._getTrackerByName()._trackEvent(cat, act, lbl);	//default
-				_gat._getTrackerByName('u')._trackEvent(cat, act, lbl);	//urchin
-				if(navTo){
-					setTimeout('window.location = "' + navTo + '"', 100);
+				_gaq.push(["_trackEvent", cat, act, lbl],
+							["u._trackEvent",cat, act, lbl]);
+				if (obj && obj.href){
+					setTimeout('document.location = "' + obj.href + '"', 100);
+					result = false;
 				}
 			}
-			catch(ex){
-				console.log(ex);
-				alert(ex);
+			catch(e){
+				console.log(e);
 			}
-			finally { return true; }
+			finally { return result; }
 		}
 
 //-->
@@ -164,9 +162,93 @@ var _d_rawURL="/about/privacy.aspx";
 	<div class="container">
     <div id="carsoup" class="carsoup">
 		<div class="affiliateArea">
-			<form class="quick-search" action="/about/privacy.aspx" method="post" onsubmit="return QuickSearchWidgetCheck('main', '', '/');">
-	<input type="image" src="/images/search-btn.jpg"><input id="QSusedvehicleid" name="" type="text" onclick="javascript:document.getElementById('QSusedvehicleid').value=''" value="Quick Search #" title="Quick Search #"><a href="/QuickSearchInfo.aspx" class="help" title="Learn how our Quick Search tool can help you find vehicles easily">?</a>
-</form>
+			<widget id="AutoCompleteWidget">
+	
+  
+    
+
+
+
+
+<style>
+	.ui-autocomplete .ui-state-hover {
+		background:rgb(230,230,230);
+		color:rgb(204,0,0);
+		border-radius:0px;
+		-webkit-border-radius:0px;
+		-moz-border-radius:0px;
+		margin-left:0px !important;
+	}
+	.ui-autocomplete {
+		border:1px solid rgb(90,90,90);
+		border-radius:5px;
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		-moz-box-shadow: 0px 0px 5px #000000;
+		-webkit-box-shadow: 0px 0px 5px #000000;
+		box-shadow: 0px 0px 5px #000000;
+		max-height:300px;
+		overflow-y:auto;
+		overflow-x:hidden;
+		font-size:13px;
+	}
+	.ui-autocomplete-input { outline:none; }
+	
+	#frmAutoComplete input, #frmAutoComplete input[type="password"], #frmAutoComplete input[type="search"], #frmAutoComplete isindex {
+		border:0;
+		box-shadow: none !important;
+	}
+	/* For Testing Purposes Only */
+	.testCity {
+	    color:#ffffff;
+	    margin-left:53px;
+	    margin-top:3px;
+	    width:250px;
+	}
+	
+  </style>
+  
+    <!--[if IE 9]>
+    <style>
+      input#csSearchBoxSubmit {
+        margin-left:-37px;
+        margin-top:-1px;
+      }
+    </style>
+  <![endif]-->
+  
+  <!--[if IE 8]>
+    <style>
+      input#csSearchBox {
+        margin-left:7px;
+        height: 25px;
+      }
+      input#searchLogo {
+        position:absolute;
+        margin-top:-8px;
+      }
+      input#csSearchBoxSubmit {
+        margin-left:-25px;
+        margin-top: -1px;
+      }
+    </style>
+  <![endif]-->
+<form action="/QuickSearch/QSProcessor.aspx" method="post" id="frmAutoComplete">
+		  
+	<div class="hpSearchBox">
+	  <input type="image" id="searchLogo" src="/images/autocomplete/searchLogo.png">
+	  <input id="csSearchBox" name="SearchText" placeholder="What are you looking for?">
+	  <input type="submit" id="csSearchBoxSubmit">
+	  <input type="hidden" id="AutoCompleteID" name="AutoCompleteID">
+	  <input type="hidden" id="MarketingURL" name="MarketingURL">
+	  <p class="testCity">in <a rel="preSRPModal" class="hpSearchBoxModalLink" href="#preSRPModalInfo">, </a></p>
+	</div>
+
+	</form>
+
+
+</widget>
+			
 			
 		</div>
     	
@@ -176,20 +258,21 @@ var _d_rawURL="/about/privacy.aspx";
 			
 				<span class="greeting">
 					
+							
 							<a class="authStatus" rel="nofollow" href="/about/privacy.aspx#login">Sign In</a>
 						
 					| <span style="white-space:nowrap"><a class="authStatus" rel="nofollow" href="/garage/">My Garage</a></span>
 				</span>
 
 			<div class="menu">
-				<a class="gradientItem active" href="/Nationwide/">Cars &amp; Trucks</a> 
-				<a class="gradientItem" href="http://motorcycles.carsoup.com/Nationwide/">Motorcycles</a>
-				<a class="gradientItem" href="http://atvs.carsoup.com/Nationwide/">ATVs</a>
-				<a class="gradientItem" href="http://boats.carsoup.com/Nationwide/">Boats</a>
-				<a class="gradientItem" href="http://watercraft.carsoup.com/Nationwide/">Watercraft</a>
-				<a class="gradientItem" href="http://snowmobiles.carsoup.com/Nationwide/">Snowmobiles</a>
-				<a class="gradientItem" href="http://rvs.carsoup.com/Nationwide/">RVs &amp; Campers</a>
-				<a class="gradientItem" href="http://classics.carsoup.com/Nationwide/">Classics</a>
+				<a class="gradientItem active" href="/">Cars &amp; Trucks</a> 
+				<a class="gradientItem" href="http://motorcycles.carsoup.com/">Motorcycles</a>
+				<a class="gradientItem" href="http://atvs.carsoup.com/">ATVs</a>
+				<a class="gradientItem" href="http://boats.carsoup.com/">Boats</a>
+				<a class="gradientItem" href="http://watercraft.carsoup.com/">Watercraft</a>
+				<a class="gradientItem" href="http://snowmobiles.carsoup.com/">Snowmobiles</a>
+				<a class="gradientItem" href="http://rvs.carsoup.com/">RVs &amp; Campers</a>
+				<a class="gradientItem" href="http://classics.carsoup.com/">Classics</a>
 			</div>
 
 			<div>
@@ -198,42 +281,42 @@ var _d_rawURL="/about/privacy.aspx";
 					
 					<ul>
 		<li>			
-			<a href="/new-vehicles/Nationwide/">New Cars</a>
+			<a href="/new-vehicles/">New Cars</a>
 						
 		</li>
 	
 		<li>			
-			<a href="/used-vehicles/Nationwide/">Used Cars</a>
+			<a href="/used-vehicles/">Used Cars</a>
 						
 		</li>
 	
 		<li>			
-			<a href="/research-vehicles/Nationwide/">Research Cars</a>
+			<a href="/research-vehicles/">Research Cars</a>
 						
 		</li>
 	
 		<li>			
-			<a href="/sell-your-vehicle/Nationwide/">Sell, Trade or Donate</a>
+			<a href="/sell-your-vehicle/">Sell, Trade or Donate</a>
 						
 		</li>
 	
 		<li>			
-			<a href="/services/Souper-Deals/Nationwide/">Find Souper Deals</a>
+			<a href="/shops-and-services/">Service Specials</a>
 						
 		</li>
 	
 		<li>			
-			<a href="/dealers/Nationwide/">Find Local Dealers</a>
+			<a href="/dealers/">Find Local Dealers</a>
 						
 		</li>
 	
 		<li>			
-			<a href="/shops-and-services/financing/services/Nationwide/">Get Financing</a>
+			<a href="/shops-and-services/financing/services/">Get Financing</a>
 						
 		</li>
 	</ul>
 				</div>
-				<a class="logo" href="/"><img id="homeLogo" src="/images/new/nav_major_carsoup.gif" style=""></a>
+				<a class="logo" href="/"><img id="homeLogo" src="/images/new/nav_major_carsoup.gif" alt="CarSoup.com" style=""></a>
 				
 				<div class="clear"></div>
 			</div>			
@@ -553,78 +636,79 @@ var _d_rawURL="/about/privacy.aspx";
 </form>
 		<div class="col">
 			<h3>Search For Cars</h3>
-			<a href="/new-vehicles/Nationwide/">New Cars</a><br>
-			<a href="/used-vehicles/Nationwide/">Used Cars</a><br>
-			<a href="/certified/Nationwide/">Certified Pre-Owned</a><br>
-			<a href="/search/Nationwide/?allasu=1">Souped Up Vehicles</a><br>
-			<a href="/services/Souper-Deals/Nationwide/">Souper Deals</a><br>
-			<a href="/services/Must-Go-Souper-Deals/Nationwide/">Must Go!</a><br>
-			<a href="/services/Thrifty-Souper-Deals/Nationwide/">Thrifties - Under $7,500</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'New Cars', this)" href="/new-vehicles/">New Cars</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Used Cars', this)" href="/used-vehicles/">Used Cars</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Certified Pre-Owned', this)" href="/certified/">Certified Pre-Owned</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Souped Up Vehicles', this)" href="/search/?allasu=1">Souped Up Vehicles</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'New Car Specials', this)" href="/search/new/specials/">New Car Specials</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Used Car Specials', this)" href="/search/used/specials/">Used Car Specials</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Must Go!', this)" href="/search/used/?bl=1">Must Go!</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Thrifties - Under $7,500', this)" href="/search/used/?maxprice=7500">Thrifties - Under $7,500</a><br>
 			<h3>More Vehicles</h3>
-			<a href="http://motorcycles.carsoup.com/Nationwide/">Motorcycles</a><br><a href="http://atvs.carsoup.com/Nationwide/">All Terrain Vehicles</a><br><a href="http://snowmobiles.carsoup.com/Nationwide/">Snowmobiles</a><br><a href="http://watercraft.carsoup.com/Nationwide/">Personal Watercraft</a><br><a href="http://rvs.carsoup.com/Nationwide/">Recreational Vehicles</a><br><a href="http://boats.carsoup.com/Nationwide/">Boats</a><br><a href="http://classics.carsoup.com/Nationwide/">Vintage/Classics</a><br>			
+			<a onclick="return trkGAE('SiteFooter','Click', 'VehicleType', this)" href="http://motorcycles.carsoup.com/">Motorcycles</a><br><a onclick="return trkGAE('SiteFooter','Click', 'VehicleType', this)" href="http://atvs.carsoup.com/">All Terrain Vehicles</a><br><a onclick="return trkGAE('SiteFooter','Click', 'VehicleType', this)" href="http://snowmobiles.carsoup.com/">Snowmobiles</a><br><a onclick="return trkGAE('SiteFooter','Click', 'VehicleType', this)" href="http://watercraft.carsoup.com/">Personal Watercraft</a><br><a onclick="return trkGAE('SiteFooter','Click', 'VehicleType', this)" href="http://rvs.carsoup.com/">Recreational Vehicles</a><br><a onclick="return trkGAE('SiteFooter','Click', 'VehicleType', this)" href="http://boats.carsoup.com/">Boats</a><br><a onclick="return trkGAE('SiteFooter','Click', 'VehicleType', this)" href="http://classics.carsoup.com/">Vintage/Classics</a><br>			
 		</div>
 		<div class="col">
 			<h3>Selling Your Vehicle</h3>
-			<a href="/sell-your-vehicle/Nationwide/">List on CarSoup</a><br>
-			<a href="/used-vehicles/market-value-estimator/Nationwide/">Trade for New<br></a>
-			<a href="/sell-your-vehicle/sell-it-now/Nationwide/">Sell to a Dealer</a><br>
-			<a href="/donate/KidneyCars.aspx">Donate to Charity</a><br>
-			<a href="/sell-your-vehicle/Nationwide/">Pricing &amp; Packages</a><br>
-			<a href="/sell-your-vehicle/tips/Nationwide/">Selling Tips</a><br>
-        	<a href="/help/faq/Nationwide/">Selling FAQs</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'List on CarSoup', this)" href="/sell-your-vehicle/">List on CarSoup</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Trade for New', this)" href="/used-vehicles/market-value-estimator/">Trade for New<br></a>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Sell to a Dealer(Sell Your Vehicle)', this)" href="/sell-your-vehicle/sell-it-now/">Sell to a Dealer</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Donate to Charity', this)" href="/donate/KidneyCars.aspx">Donate to Charity</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Pricing &amp; Packages', this)" href="/sell-your-vehicle/">Pricing &amp; Packages</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Selling Tips', this)" href="/sell-your-vehicle/tips/">Selling Tips</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Selling FAQs', this)" href="/help/faq/">Selling FAQs</a><br>
 			<h3>Shopping Tools</h3>
         	<a href="/CarDetectiveInfo.aspx">Car Detective - Auto Search</a><br>
         	<a rel="nofollow" href="http://www.carfax.com/cfm/general_check.cfm?partner=PSC_5" target="_blank">CARFAX Vehicle History Reports</a><br>
-        	<a href="/used-vehicles/market-value-estimator/Nationwide/">Market Value Estimator</a><br>
-        	<a href="/shops-and-services/financing/Nationwide/">Payment Calculator</a><br>
-           	<a href="/shops-and-services/Nationwide/2215/?vehicletypeid=1">Car Inspections</a><br>
+        	<a href="/used-vehicles/market-value-estimator/">Market Value Estimator</a><br>
+        	<a href="/shops-and-services/financing/">Payment Calculator</a><br>
+           	<a onclick="return trkGAE('SiteFooter','Click', 'Car Inspections', this)" href="/shops-and-services/2215/Car-Inspections/">Car Inspections</a><br>
 	    </div>
 		<div class="col">
 			<h3>Local Dealers</h3>
-        	<a href="/new-vehicles/Nationwide/">New Vehicle Express Quote</a><br>
-        	<a href="/dealers/Nationwide/?tabMode=By-Make">Search for Dealer by Make</a><br>
-        	<a href="/dealers/By-City/Nationwide/">Search for Dealer by City</a><br>
-        	<a href="/dealers/By-Name/Nationwide/">Search for Dealer by Name</a><br>
-			<a href="/sell-your-vehicle/sell-it-now/Nationwide/">Sell to a Dealer</a><br>
-			<a href="/shops-and-services/Nationwide/">Service Specials<br></a>
-			<a href="/shops-and-services/schedule-service/Nationwide/">Online Service Scheduler<br></a>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'New Vehicle Express Quote', this)" href="/new-vehicles/">New Vehicle Express Quote</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Search for Dealer by Make', this)" href="/dealers/Nationwide/">Search for Dealer by Make</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Search for Dealer by City', this)" href="/dealers/By-City/Nationwide/">Search for Dealer by City</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Search for Dealer by Name', this)" href="/dealers/By-Name/Nationwide/">Search for Dealer by Name</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Sell to a Dealer(Local Dealers)', this)" href="/sell-your-vehicle/sell-it-now/">Sell to a Dealer</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Service Specials', this)" href="/shops-and-services/">Service Specials<br></a>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Online Service Scheduler', this)" href="/shops-and-services/schedule-service/">Online Service Scheduler<br></a>
 			<h3>My Garage</h3>
-        	<a rel="nofollow" href="/garage/">Manage Listings</a><br>
-        	<a rel="nofollow" href="/garage/messages.aspx?viewmode=MessagesList">View Messages</a><br>
-        	<a rel="nofollow" href="/garage/default.aspx?viewmode=SavedStuff">Saved Vehicles</a><br>
-        	<a href="/CarDetectiveInfo.aspx">Car Detective Searches</a><br>
-        	<a rel="nofollow" href="/garage/default.aspx?viewmode=SavedStuff">Service Vehicles</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Manage Listings', this)" rel="nofollow" href="/garage/">Manage Listings</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'View Messages', this)" rel="nofollow" href="/garage/messages.aspx?viewmode=MessagesList">View Messages</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Saved Vehicles', this)" rel="nofollow" href="/garage/default.aspx?viewmode=SavedStuff">Saved Vehicles</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Car Detective Searches', this)" href="/CarDetectiveInfo.aspx">Car Detective Searches</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'Service Vehicles', this)" rel="nofollow" href="/garage/default.aspx?viewmode=SavedStuff">Service Vehicles</a><br>
 		</div>
 		<div class="col">
 			<h3>Service Specials</h3>
-			<a href="/shops-and-services/save-10-on-service/Nationwide/">Save $10 On Service</a><br>
-			<a href="/shops-and-services/Nationwide/?catid=208">Oil Changes</a><br>
-			<a href="/shops-and-services/Nationwide/?catid=417">Routine Maintenance</a><br>
-			<a href="/shops-and-services/Nationwide/?catid=198">Vehicle Detailing</a><br>
-			<a href="/shops-and-services/Nationwide/?catid=1610">Tires &amp; Wheels</a><br>
-			<a href="/shops-and-services/Nationwide/?catid=204">Vehicle Accessories</a><br>
-			<a href="/shops-and-services/schedule-service/Nationwide/">Schedule Service Online</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Save $10 On Service', this)" href="/shops-and-services/save-10-on-service/">Save $10 On Service</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Oil Changes', this)" href="/shops-and-services/?catid=208">Oil Changes</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Routine Maintenance', this)" href="/shops-and-services/?catid=417">Routine Maintenance</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Vehicle Detailing', this)" href="/shops-and-services/?catid=198">Vehicle Detailing</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Tires &amp; Wheels', this)" href="/shops-and-services/?catid=1610">Tires &amp; Wheels</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Vehicle Accessories', this)" href="/shops-and-services/?catid=204">Vehicle Accessories</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Schedule Service Online', this)" href="/shops-and-services/schedule-service/">Schedule Service Online</a><br>
 			<h3>Financing</h3>
-			<a href="/shops-and-services/financing/pre-approved/Nationwide/">Get Pre-Approved</a><br>
-			<a href="/shops-and-services/financing/bad-credit/Nationwide/">Bad Credit Specialty Dealers</a><br>
-			<a href="/shops-and-services/financing/private-financing/Nationwide/">Private Seller Financing</a><br>
-			<a rel="nofollow" href="http://www.rsptrack.com/click.track?CID=161838&amp;AFID=136062&amp;type=homepage" target="_blank">Get Your Credit Report</a><br>
-			<a href="/services/Souper-Deals/rebates-incentives/Nationwide/">Rebates &amp; Incentives</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Get Pre-Approved', this)" href="/shops-and-services/financing/services/">Get Pre-Approved</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Bad Credit Specialty Dealers', this)" href="/shops-and-services/financing/bad-credit/">Bad Credit Specialty Dealers</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Private Seller Financing', this)" href="/shops-and-services/financing/private-financing/">Private Seller Financing</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Get Your Credit Report', this)" rel="nofollow" href="http://www.rsptrack.com/click.track?CID=161838&amp;AFID=136062&amp;type=homepage" target="_blank">Get Your Credit Report</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Rebates &amp; Incentives', this)" href="/Rebates-Incentives/">Rebates &amp; Incentives</a><br>
 		</div>
 		<div class="col">
 			<h3>About CarSoup</h3>
-			<a href="mailto:customerservice@carsoup.com">Submit Feedback</a><br>
-			<a href="/help/contact/Nationwide/">Contact Us</a><br>
-			<a id="mobLnk" href="/MobileSignUp.aspx">Mobile Site</a><br>
-			<a href="/help/request-info/Nationwide/">Become a CarSoup Dealer</a><br>
-		    <a href="/help/request-info/Nationwide/a/">Advertise With Us</a><br>
-			<a href="/ChangeHomeZip.aspx">CarSoup Markets</a><br>
-			<a href="/help/Nationwide/">Help</a><br>
-			<a href="/about/legal.aspx">Legal</a><br>
-			<a href="/about/privacy.aspx">Privacy</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Submit Feedback', this)" href="javascript:window.UserVoice.showPopupWidget();">Submit Feedback</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Contact Us', this)" href="/help/contact/">Contact Us</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Mobile Site', this)" id="mobLnk" href="/MobileSignUp.aspx">Mobile Site</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Become a CarSoup Dealer', this)" href="/help/request-info/">Become a CarSoup Dealer</a><br>
+		    <a onclick="return trkGAE('SiteFooter','Click', 'Advertise With Us', this)" href="/help/request-info/a/">Advertise With Us</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'CarSoup Markets', this)" rel="nofollow" href="/ChangeHomeZip.aspx">CarSoup Markets</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Help', this)" href="/help/">Help</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Legal', this)" href="/about/legal.aspx">Legal</a><br>
+			<a onclick="return trkGAE('SiteFooter','Click', 'Privacy', this)" href="/about/privacy.aspx">Privacy</a><br>
             
             <h3>¿Habla Español?</h3>
-        	<a href="/dealers/Nationwide/espanol/">Conéctese con los distribuidores de autos</a><br>
+        	<a onclick="return trkGAE('SiteFooter','Click', 'MultiLingual Dealers', this)" href="/dealers/Nationwide/espanol/">Conéctese con los distribuidores de autos</a><br>
    			
    			<span class="navCopyright">© 2012 CarSoup</span><br>
 
@@ -683,6 +767,39 @@ var _d_rawURL="/about/privacy.aspx";
 	<!-- End Retarget Tag -->
 
     
+	
+	
+<script type="text/javascript">
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/jEZbSC8fMVaxktjhLlwqQ.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
+
+	<!-- modal -->
+    <div id="preSRPModalInfo" style="display:none;">
+      <div id="preSRPModalHeader">
+        <h3>Change Location &amp; Search Radius</h3>
+        <a class="preSRPModalClose" href="#"></a>
+      </div>      
+         <widget id="NewDistanceSearchForm">
+	<form action="/about/privacy.aspx" method="get" onsubmit="return validateZip('zipcode', this.id, '')" id="NewDistanceSearchForm">
+		
+        
+        <span>&nbsp;</span>
+	     
+	    <input id="zipcode" name="zipcode" type="text" maxlength="5" style="width:50px;" placeholder="Enter zip here">
+	<input type="submit" style="line-height: 14px;" value="Go" onclick="return trkGAE('SRP', 'Search Radius and Zip', 'GO')">
+	<input name="form_type" type="hidden" value="4:SummaryZip">
+
+	</form>
+
+</widget>
+      
+    </div>
+    <!-- modal -->
 
 
 </body></html>
