@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlfileserve.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420073324id_/http%3A//dlfileserve.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlfileserve.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119054816id_/http%3A//dlfileserve.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Fileserve Search Engine
 
