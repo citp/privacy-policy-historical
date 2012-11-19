@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohloh.net privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520195255id_/http%3A//meta.ohloh.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohloh.net privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120004322id_/http%3A//meta.ohloh.net/privacy) for the most accurate reproduction.*
 
 # Ohloh Meta | Ohloh Privacy Policy
 
