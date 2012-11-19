@@ -1,41 +1,82 @@
-> *The following text is extracted and transformed from the ecenglish.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204072436id_/http%3A//www.ecenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecenglish.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119065732id_/http%3A//www.ecenglish.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | EC English
+# Privacy Policy
 
-This is the web site of EC.
+**What information do we collect?**
 
-Our postal address is  
-EC Central ‘Paolo Court’ Giuseppe Cali Street, Ta’ Xbiex, XBX1423. Malta
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-We can be reached via e-mail at [study@ecenglish.com](mailto:study@ecenglish.com) or you can reach us by telephone at +(356) 23 790000
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the email address (where possible).
+**What do we use your information for?**
 
-We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+Any of the information we collect from you may be used in one of the following ways: 
 
-The information we collect is used to improve the content of our Website, used by us to contact consumers for marketing purposes.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**With respect to cookies:** We use cookies to record session information, such as items that consumers add to their shopping cart.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-From time to time, we make our customer email list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organisations, please let us know by or sending us e-mail at [privacy@ecenglish.com](mailto:privacy@ecenglish.com). 
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by or sending us e-mail at [privacy@ecenglish.com](mailto:privacy@ecenglish.com). 
+; To process transactions
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organisations.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+; To administer a contest, promotion, survey or other site feature
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
+; To send periodic emails
 
-**With respect to Ad Servers:** We do not partner with or have special relationships with any ad server companies.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Website periodically.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them.
+ **How do we protect your information?**
 
-Consumers can have this information corrected by sending an email to [privacy@ecenglish.com](mailto:privacy@ecenglish.com). 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-**With respect to security  
-**When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-If you feel that this site is not following its stated information policy, you may contact us on the above addresses or phone number.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing, disclaimers, and limitations of liability <http://www.ecenglish.com/terms-and-conditions>
+
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.ecenglish.com  
+EC Central - St Julians Business Centre  
+Paceville, St Julians STJ 3153STJ 3153  
+Malta  
+[study@ecenglish.com](mailto:study@ecenglish.com)
