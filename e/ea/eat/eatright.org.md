@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520032400id_/http%3A//www.eatright.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8664) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155859id_/http%3A//www.eatright.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8664) for the most accurate reproduction.*
 
 # Online Privacy Policy - From the Academy
 
