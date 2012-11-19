@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beachhouse.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520150501id_/http%3A//www.beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beachhouse.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119042809id_/http%3A//www.beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/v2.dwt.asp" codeOutsideHTMLIsLocked="true" --><head>
   
@@ -82,18 +82,67 @@ function Open_Window(btn_type)
         <div class="gOuter" align="center">
     <div class="gHeader"> <a href="/"> <img style="border: 0px; " src="/images/v2/header.gif" height="80" width="963" border="0" alt="Vacation Rentals."> </a> <!-- InstanceBeginEditable name="header" --><!-- InstanceEndEditable --></div>
     
+	<script src="/IncludeJS/ui/jquery.ui.core.js"></script>
+	<script src="/IncludeJS/ui/jquery.ui.widget.js"></script>
+	<script src="/IncludeJS/ui/jquery.ui.position.js"></script>
+	<script src="/IncludeJS/ui/jquery.ui.autocomplete.js"></script>
+    
+    <style>
+	.ui-autocomplete-loading { background: white url('/images/frontpage/ui-anim_basic_16x16.gif') right center no-repeat; }
+	</style>
+    <script>
+	$(function() {
+		function log( message ) {
+			$( "<div/>" ).text( message ).prependTo( "#log" );
+			$( "#log" ).scrollTop( 0 );
+		}
+
+		$( "#city" ).autocomplete({
+			
+			source: function( request, response ) {
+				$.ajax({
+					url: "/includejs/json/search_jason.asp?query=" + request.term,
+				   	dataType: "json", 
+					data: "",
+					success: function( data ){ 
+						response( $.map( data, function( item ) {
+							return {
+								label: item.citylabel,
+								value: item.cityvalue
+							}
+						}));
+					}
+				});
+			},
+			minLength: 3,
+			select: function( event, ui ) {
+			
+				log( ui.item ?
+					"Selected: " + ui.item.label :
+					"Nothing selected, input was " + this.value);
+			},
+			open: function() {
+				$( this ).removeClass( "ui-corner-all" ).addClass( "ui-corner-top" );
+			},
+			close: function() {
+				$( this ).removeClass( "ui-corner-top" ).addClass( "ui-corner-all" );
+			}
+		});
+	});
+	</script>
+
   <div class="gMenug" style="padding-left:10px;padding-right:10px;height:20px"> 
   
 	<div id="search-container" style="float:right;width:240px;margin-right:-10px;">
       
       <form action="/search/index.asp" method="get">
         <label for="search" style="float:left;border-style:collapse;margin-top:4px;padding-top:1px;color:#2A1F00">Search: </label>
-        <input type="text" name="search" id="search" style="width:170px;padding-right:20px;float:left" onblur="this.value=(this.value=='') ? prompt : this.value;" onfocus="this.value=(this.value==prompt) ? '' : this.value;" value="">
+        <input type="text" name="search" id="city" style="width:170px;padding-right:20px;float:left" onblur="this.value=(this.value=='') ? prompt : this.value;" onfocus="this.value=(this.value==prompt) ? '' : this.value;" value="">
         <input type="image" src="/images/v2/search.png" style="float:left;padding-right:4px;margin-left:-17px;margin-top:6px" alt="Search">
       </form>
       <script type="text/javascript">
-        var prompt = "Destination or Listing # ";
-        var el = document.getElementById("search");
+        var prompt = "HouseID or Listing City";
+        var el = document.getElementById("city");
         if (el.value == '') el.value = prompt;
       </script>
     </div>
@@ -123,17 +172,16 @@ function Open_Window(btn_type)
 										  });
 										}
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-   <a class="gAds" href="/23241.htm" title=" "><b>Vacation Rental of the Week</b><br><img class="fPic" src="/23241-6" height="110" width="160" alt=" Beach Cottage On The Sand With Hot Tub.. Private Beach (221) - Capistrano Beach, California"><br> Beach Cottage On The Sand With Hot Tub.. Private Beach (221)<br>California<br></a>
-<a class="gAds" href="/15926.htm" title="Luxurious Beach House in   Encinitas, California">Luxurious Beach House in <br> San Diego County <br> Encinitas, California<br><img class="fPic" src="/15926-2" height="110" width="125" alt="Deck and view - San Diego - Encinitas Beach Front Vacation House"><br>Breathtaking, Modern, Incomparable Oceanfront Home!<br>Encinitas California<br>United States<br></a>
-<a class="gAds" href="/5700.htm" title=" "><b>BIGGEST Last Minute SALE ever !!<br> ONLY $ 2,000/week*<br>*Including truck &amp; boat<br>Good for bookings in Jan or Feb 2012</b><br><img class="fPic" src="/5700-1" height="110" width="125" alt="Beautiful inside amp; out!"><br>Oceanfront Home-Truck Amp; Boat Included!<br>Pelican Point Grand Bahama Island<br>Bahamas<br></a>
-<a class="gAds" href="/4811.htm" title="North Captiva Island Vacation Rental">North Captiva Island Vacation Rental<br><img class="fPic" src="/4811-1" height="110" width="125" alt="Houses Faces Gulf of Mexico"><br><b>The Compass Rose<br>Professionally-Decorated<br>Luxury Beach House<br>Just 50 Yards From The Beach!!</b><br>North Captiva Island Florida<br>United States<br></a>
-<a class="gAds" href="/9427.htm" title="Vacation Rental in Carmel">Vacation Rental in Carmel<br><img class="fPic" src="/9427-1" height="110" width="125" alt="Sea Swept - Carmel, California"><br>Sea Swept<br>Carmel California<br>United States<br></a>
-<a class="gAds" href="/22448.htm" title="Spring Break Special! Inquire now!">Spring Break Special! Inquire now!<br><img class="fPic" src="/22448-1" height="110" width="125" alt="9 bedroom great home for weddings &amp; reunions"><br>June  Last Minute 3500 Dollars<br>Navarre Beach Florida<br>United States<br></a>
-<a class="gAds" href="/12845.htm" title="15% discount in January and February, 2013">15% discount in January and February, 2013<br><img class="fPic" src="/12845-1" height="110" width="125" alt=" Premier Oceanfront Retreat - Newport Beach, California"><br> Premier Oceanfront Retreat<br>Newport Beach California<br>United States<br></a>
-<a class="gAds" href="/16364.htm" title=" "><font color="red" siz="3">NEWLY ADDED</font><br>in<br> <b>Beach House Tour Guides</b><br><img class="fPic" src="/16364-1" height="110" width="125" alt="View of outside of Luxury home "><br>Ocean House <br>Long Beach  California<br>United States<br></a>
-<a class="gAds" href="/15407.htm" title=" "><b>Large 4br/Pool and Tennis Court</b><br><img class="fPic" src="/15407-1" height="110" width="125" alt="Front of house facing the gulf of Mexico"><br>July 8-15 Available<br>Navarre Beach  Florida<br>United States<br></a>
-<a class="gAds" href="/4759.htm" title=" Heated Private Pool - 4 Bedroom, 2 Bath"><b>Special - Week of May 26th - $2700</b> <br>Heated Private Pool - 4 Bedroom, 2 Bath<br><img class="fPic" src="/4759-1" height="110" width="125" alt="Sand Castle Too - Panama City Beach, Florida"><br>Sand Castle Too<br>Panama City Beach Florida<br>United States<br></a>
-<a class="gAds" href="/3163.htm" title=""><br><img class="fPic" src="/3163-1" height="110" width="125" alt="View of the House from the Dock"><br>Bayview Luxury<br>Fort Myers Beach Florida<br>United States<br></a>
+   <a class="gAds" href="/27995.htm" title=" "><b>Vacation Rental of the Week</b><br><img class="fPic" src="/27995-4" height="110" width="160" alt="Infinity Pool with gorgeous view to the Atlantic Ocean, Coral Reef, St. Barths, Dawn Beach in St. Maarten Dutch Caribbean"><br>Caribbean Beach Paradise<br>St. Martin<br></a>
+<a class="gAds" href="/15926.htm" title="Luxurious Beach House in   San Diego County">Luxurious Beach House in <br> San Diego County<br><img class="fPic" src="/15926-2" height="110" width="125" alt="Deck and view - San Diego - Encinitas Beach Front Vacation House"><br><br>Encinitas, California<br></a>
+<a class="gAds" href="/5700.htm" title=" "><b>Last minute specials available for $ 2,200/wk. !!<br> For remaining August dates <br>(Sat. to Sat.)</b><br><img class="fPic" src="/5700-1" height="110" width="125" alt="Beautiful inside amp; out!"><br><br>Pelican Point, Grand Bahama Island<br></a>
+<a class="gAds" href="/4811.htm" title="North Captiva Island Vacation Rental">North Captiva Island Vacation Rental<br><img class="fPic" src="/4811-1" height="110" width="125" alt="Houses Faces Gulf of Mexico"><br><br>North Captiva Island, Florida<br></a>
+<a class="gAds" href="/9427.htm" title="Vacation Rental in Carmel">Vacation Rental in Carmel<br><img class="fPic" src="/9427-1" height="110" width="125" alt="Sea Swept - Carmel, California"><br><br>Carmel, California<br></a>
+<a class="gAds" href="/22448.htm" title="Spring Break Special! Inquire now!">Spring Break Special! Inquire now!<br><img class="fPic" src="/22448-1" height="110" width="125" alt="9 bedroom great home for weddings &amp; reunions"><br><br>Navarre Beach, Florida<br></a>
+<a class="gAds" href="/12845.htm" title="15% discount in January and February, 2013">15% discount in January and February, 2013<br><img class="fPic" src="/12845-1" width="125" alt=" Premier Oceanfront Retreat - Newport Beach, California"><br><br>Newport Beach, California<br></a>
+<a class="gAds" href="/14697.htm" title="Great Specials!">Great Specials!<br><img class="fPic" src="/14697-1" height="110" width="125" alt="Atlantic Ocean Beachfront House"><br><br>Abaco Islands, Bahamas<br></a>
+<a class="gAds" href="/15407.htm" title=" "><b>Large 4br/Pool and Tennis Court</b><br><img class="fPic" src="/15407-1" height="110" width="125" alt="Front of house facing the gulf of Mexico"><br><br>Navarre Beach , Florida<br></a>
+<a class="gAds" href="/4759.htm" title=" Heated Private Pool - 4 Bedroom, 2 Bath"><b>Special - Week of June 17 - $4400</b> <br>Heated Private Pool - 4 Bedroom, 2 Bath<br><img class="fPic" src="/4759-1" height="110" width="125" alt="Sand Castle Too - Panama City Beach, Florida"><br><br>Panama City Beach, Florida<br></a>
   
             </td> 
    
@@ -182,19 +230,16 @@ Logo type is  ("NETSB")
                 <img class="gNav1" align="middle" border="0" style="border-color:#FFFFFF;padding-bottom:5px;padding-top:5px" onclick="Open_Window(1);" onmouseover="this.style.cursor='pointer';" src="../images/Social_Media/Facebook-Button.jpg" width="20px" height="21px" alt="Follow BeachHouse.com Vacation Rentals">
                 <img class="gNav1" align="middle" border="0" style="border-color:#FFFFFF;padding-bottom:5px;padding-top:5px" onclick="Open_Window(2);" onmouseover="this.style.cursor='pointer';" src="../images/Social_Media/Youtube-Button.jpg" width="60px" height="21px" alt="Watch BeachHouse.com Videos">
           </a>
-             <a class="gAds" href="/9519.htm" title="Exquisite Beachfront Villa With Private Pool">Exquisite Beachfront Villa With Private Pool<br><img class="fPic" src="/9519-1" height="110" width="125" alt="Private Heated Swimming Pool"><br>Gulf Side Villa<br>Longboat Key Florida<br>United States<br></a>
-<a class="gAds" href="/14697.htm" title="Great Special">Great Special<br><img class="fPic" src="/14697-1" height="110" width="125" alt="Atlantic Ocean Beachfront House"><br>Reef-Freshing<br>Abaco Islands Bahamas<br>Caribbean Islands<br></a>
-<a class="gAds" href="/5283.htm" title=" 5 Bedroom, 4 1/2 Baths"><b>Special - $3000 for April</b><br>Private Pool - Golf Cart<br>5 Bedroom, 4 1/2 Baths<br><img class="fPic" src="/5283-1" height="110" width="125" alt="Front of House"><br>Destin's Lighthouse<br>Destin Florida<br>United States<br></a>
-<a class="gAds" href="/36771.htm" title="Enjoy Free Golf With Every Rental! Don’t miss out on this great Miramar Beach Home!">Enjoy Free Golf With Every Rental! Don’t miss out on this great Miramar Beach Home!<br><img class="fPic" src="/36771-1" height="110" width="125" alt="2492 Bungalo - Miramar Beach, Florida"><br>2492 Bungalo<br>Miramar Beach Florida<br>United States<br></a>
-<a class="gAds" href="/13951.htm" title=" Surrounded by Wilderness"><b>*Beachfront - Pet Friendly*</b><br>Hot Tub - 2 Night Minimum<br>Surrounded by Wilderness<br><img class="fPic" src="/13951-3" height="110" width="125" alt="View from the Tower Deck of Lake Michigan.
-This house has stunning views!
-You can almost feel the mist from the waves breaking on the shore!"><br>Miami, On The Beach: Pet Friendly, Surrounded By Wildernes - 5 Star - Hot Tub &amp; Steam Room - Pets Allowed!<br>Michigan City Indiana<br>United States<br></a>
-<a class="gAds" href="/3156.htm" title=" "><b>San Diego Oceanfront Masterpiece</b><br><img class="fPic" src="/3156-1" height="110" width="125" alt="Stunning architecture and Ocean Views"><br>Magnificent 5br Oceanfront Retreat *rooftop Deck, Private Spa*<br>Encinitas California<br>United States<br></a>
-<a class="gAds" href="/19053.htm" title=""><br><img class="fPic" src="/19053-1" height="110" width="125" alt="Beautiful Steps Away From The Sand!  - Capistrano Beach, California"><br>Beautiful Steps Away From The Sand! <br>Capistrano Beach California<br>United States<br></a>
-<a class="gAds" href="/16558.htm" title="*   *">* <b>Five star villa with full staff </b>*<br>* <b>Special package deals</b> *<br><img class="fPic" src="/16558-1" height="110" width="125" alt="5 Star Ocean Front Villa"><br>Casa Bella Villa<br>Cabrera Dominican Republic<br>Caribbean Islands<br></a>
-<a class="gAds" href="/6635.htm" title=""><br><img class="fPic" src="/6635-1" height="110" width="125" alt="VIEW OF OCEAN DIRECTLY FROM BALCONY"><br>Direct Ocean Front Well Maintained, Great View<br>Myrtle Beach South Carolina<br>United States<br></a>
-<a class="gAds" href="/40288.htm" title="Introductory Offer! Mention Beachhouse.com and save $200 in May!">Introductory Offer! Mention Beachhouse.com and save $200 in May!<br><img class="fPic" src="/40288-1" height="110" width="125" alt="Cruzan Sands Villa! New Beachfront villa on St. Croix, US Virgin Islands!"><br>Cruzan Sands Villa - St Croix Beachfront!<br>Columbus Landing St. Croix<br>Caribbean Islands<br></a>
-<a class="gAds" href="/16739.htm" title="Book 6 nights and stay the 7th night FREE!">Book 6 nights and stay the 7th night FREE!<br><img class="fPic" src="/16739-1" height="110" width="125" alt="Vista de la Luz Entrance "><br>Vista De La Luz<br>Isla Mujeres Yucatan Peninsula<br>Mexico<br></a>
+             <a class="gAds" href="/9519.htm" title="Exquisite Beachfront Villa with Private Pool &amp; Stunning Gulf Views!">Exquisite Beachfront Villa with Private Pool &amp; Stunning Gulf Views!<br><img class="fPic" src="/9519-1" height="110" width="125" alt="Private Heated Swimming Pool"><br><br>Longboat Key, Florida<br></a>
+<a class="gAds" href="/19053.htm" title=""><br><img class="fPic" src="/19053-1" height="110" width="125" alt="Beautiful Steps Away From The Sand!  - Capistrano Beach, California"><br><br>Capistrano Beach, California<br></a>
+<a class="gAds" href="/3156.htm" title=" "><b>San Diego Oceanfront Masterpiece</b><br><img class="fPic" src="/3156-1" height="110" width="125" alt="Stunning architecture and Ocean Views"><br><br>Encinitas, California<br></a>
+<a class="gAds" href="/6635.htm" title="CONDO IS PET FRIENDLY FOR WELL BEHAVED PETS FROM OCTOBER TO APRIL.">CONDO IS PET FRIENDLY FOR WELL BEHAVED PETS FROM OCTOBER TO APRIL.<br><img class="fPic" src="/6635-1" height="110" width="125" alt="VIEW OF OCEAN DIRECTLY FROM BALCONY"><br><br>Myrtle Beach, South Carolina<br></a>
+<a class="gAds" href="/16558.htm" title="*   *">* <b>Five star villa with full staff </b>*<br>* <b>Special package deals</b> *<br><img class="fPic" src="/16558-1" height="110" width="125" alt="5 Star Ocean Front Villa"><br><br>Cabrera, Dominican Republic<br></a>
+<a class="gAds" href="/19555.htm" title="Professionally Managed By: Naples FL Vacation Homes LLC">Professionally Managed By: Naples FL Vacation Homes LLC<br><img class="fPic" src="/19555-1" height="110" width="125" alt="Exterior"><br><br>Naples, Florida<br></a>
+<a class="gAds" href="/40288.htm" title="Introductory Offer! Mention Beachhouse.com and save $200!!">Introductory Offer! Mention Beachhouse.com and save $200!!<br><img class="fPic" src="/40288-1" height="110" width="125" alt="Cruzan Sands Villa! New Beachfront villa on St. Croix, US Virgin Islands!"><br><br>Columbus Landing, St. Croix<br></a>
+<a class="gAds" href="/33002.htm" title=""><br><img class="fPic" src="/33002-1" height="110" width="125" alt="Hayley House - Orange Beach, Alabama"><br><br>Orange Beach, Alabama<br></a>
+<a class="gAds" href="/36771.htm" title="Enjoy Free Golf With Every Rental! Don’t miss out on this great Miramar Beach Home!">Enjoy Free Golf With Every Rental! Don’t miss out on this great Miramar Beach Home!<br><img class="fPic" src="/36771-1" height="110" width="125" alt="2492 Bungalo - Miramar Beach, Florida"><br><br>Miramar Beach, Florida<br></a>
+<a class="gAds" href="/5283.htm" title="Private Pool - Golf Cart 5 Bedroom, 4 1/2 Baths">Private Pool - Golf Cart<br>5 Bedroom, 4 1/2 Baths<br><img class="fPic" src="/5283-2" height="110" width="125" alt="Private Pool"><br><br>Destin, Florida<br></a>
 
    </td> 
 
