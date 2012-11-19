@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the allanimemovies.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605010832id_/http%3A//support.allanimemovies.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2916%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allanimemovies.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119070025id_/http%3A//www.allanimemovies.com/privacy) for the most accurate reproduction.*
 
 # All Anime Movies
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
