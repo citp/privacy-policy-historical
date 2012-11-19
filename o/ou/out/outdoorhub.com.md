@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outdoorhub.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041701id_/http%3A//www.outdoorhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorhub.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119041520id_/http%3A//www.outdoorhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - OutdoorHub.com
 
 _Effective January 17, 2012._
 
