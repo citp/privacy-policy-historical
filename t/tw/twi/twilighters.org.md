@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twilighters.org privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221153838id_/http%3A//twilighters.org/site/twilighters-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilighters.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119045132id_/http%3A//twilighters.org/site/twilighters-privacy-policy) for the most accurate reproduction.*
 
-# Twilighters.org: Twilighters.org Privacy Policy
+# Twilighters.org Privacy Policy - Twilighters
 
   
 **Privacy Policy for Twilighters.org**
