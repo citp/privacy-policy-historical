@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521162919id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119160312id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy
 
