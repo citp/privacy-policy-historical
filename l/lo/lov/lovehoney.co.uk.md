@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042714id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119064508id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -16,7 +16,7 @@ Personal information you provide is used by us only for the following purposes:
 
 ## We hate junk mail too
 
-We will only email you to process your order and afterwards if you have given your consent. Will never pass on your email address or personal information to a third party.
+We will only email you to process your order and afterwards if you have given your consent. We will never pass on your email address or personal information to a third party.
 
 ## Data protection
 
@@ -28,8 +28,8 @@ The personal information which we hold will be held securely in accordance with 
 
 ## Cookies
 
-We use cookies to keep track of your current shopping session so that you may retrieve your shopping basket at any time, and to personalise the contents our website as well as to ensure a consistent experience. We also use cookies to track how visitors interact with our website to monitor how we are performing. No personally identifiable information is stored in these cookies
+We use cookies to keep track of your current shopping session so that you may retrieve your shopping basket at any time, and to personalise the contents our website as well as to ensure a consistent experience. We also use cookies to track how visitors interact with our website to monitor how we are performing. No personally identifiable information is stored in these cookies.
 
-If you wish to remove these cookies, please refer to your browser documentation.
+For the full techy explanation, read more about [which cookies are used on the Lovehoney website](http://www.lovehoney.co.uk/help/cookies/). 
 
 Please [contact us](https://www.lovehoney.co.uk/help/contact-us/) if you have any questions about our Privacy Policy.
