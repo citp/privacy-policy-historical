@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522000837id_/http%3A//www.vandykes.com/privacy-policy/a/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119234616id_/http%3A//www.vandykes.com/privacy-policy/a/2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Van Dyke's Restorers®
 
 Updated 11-01-2010 - Important Policy Changes that apply to all vandykes.com Customers
 
@@ -21,8 +21,8 @@ In order to operate this Web site and in order to provide you with the products 
 If you are a registered user of the Web site, you can manage many aspects of your registration information. For security reasons, however, some parts of your personal information may not be changed online and may require you to call or write to us in order to verify your identity before such changes can be made. The online registration area will also permit you to exercise control over the use of your email address, allowing you to opt-out of future email messages from this Web site. Unfortunately, due to various legal and recordkeeping requirements, we may be required to maintain records about your purchases or other activities on this website. However, you will always be permitted to opt-out of any marketing uses of information stored about you. If you prefer to manage your personal information via other means, you may contact us by postal mail at:
 
 Van Dyke's Restorers  
-PO Box 52  
-Louisiana MO 63353 
+P.O. Box 52  
+Louisiana MO 63353
 
 Or by emailing us at [customerservice@vandykes.biz.](mailto:customerservice@vandykes.biz)
 
@@ -52,9 +52,9 @@ Vandykes.com values your business and is committed to doing everything possible 
 
 Any credit card information you enter on our site is strongly encrypted by industry-standard protocol, SSL (Secure Sockets Layer). The vandykes.com website uses SSL to communicate with secure browsers like Netscape and Internet Explorer. These browsers encrypt your credit card and personal information in a way that makes it extremely difficult for anyone to intercept and misuse while being transmitted between your computer and our server. Don't worry if your browser is secure or not - if it is nonsecure, you will not be able to purchase on our online store. Once you have completed your order online, our security procedures do not end. We take appropriate precautions to protect the security and privacy of the information stored on our computer networks. Many of the systems which store your personal information are not connected to the Internet, reducing the likelihood of security breaches. Our systems are also housed in secure facilities, and access to your data by our employees is limited to a "need to know" basis, controlled by password protected systems, and monitored for abuse. If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance, please call vandykes.com at 1-800-558-1234 in the US or Canada. Or, send your order to:
 
-Van Dyke's Restorers P O Box 52  
-Louisiana, MO 63353  
-
+Van Dyke's Restorers  
+P.O. Box 52  
+Louisiana, MO 63353
 
 If you have any further question regarding your online security, please contact us at 1-800-558-1234 or e-mail Customer Service at [customerservice@vandykes.com.](mailto:customerservice@vandykes.com)
 
