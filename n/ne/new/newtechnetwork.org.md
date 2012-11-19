@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518010113id_/http%3A//newtechnetwork.org/node/127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119031955id_/http%3A//www.newtechnetwork.org/node/127) for the most accurate reproduction.*
 
 # Privacy Statement | New Tech Network
 
