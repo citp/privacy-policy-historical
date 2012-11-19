@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the streema.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623110505id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streema.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119155935id_/http%3A//streema.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
   
   <title>Privacy Policy - Streema - Free Online Radio Stations</title>
 
@@ -12,7 +12,7 @@
     <meta name="robots" content="INDEX,FOLLOW">
   
 
-  <link href="http://d2kvtqb4z47ggs.cloudfront.net/stylesheets/main_compressed.r1339793106.css" rel="stylesheet" type="text/css">
+  <link href="http://d2kvtqb4z47ggs.cloudfront.net/stylesheets/main_compressed.r1352829184.css" rel="stylesheet" type="text/css">
   <!--[if IE]>
    <link href="http://d2kvtqb4z47ggs.cloudfront.net/stylesheets/ie_compressed.r1336421481.css" rel="stylesheet" type="text/css" />
    <![endif]-->
@@ -36,7 +36,8 @@
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-2531061-1']);
 	
-   
+  
+  
 	_gaq.push(['_trackPageview']);
 	_gaq.push(['_trackPageLoadTime']);
 
@@ -90,6 +91,10 @@
           
           <div id="panelUser">
             <a id="userAccount" href="/account/register">Register</a>
+            <a rel="nofollow" href="/social/login/facebook/" title="Click to login using your Facebook account">
+  <img src="http://d2kvtqb4z47ggs.cloudfront.net/images/facebook-login-button.png" alt="facebook login" title="Click to login using your Facebook account">
+</a>
+
             <button id="userLogin">Log in</button>
           </div>
           
@@ -101,7 +106,7 @@
           </div>
 
           <form id="siteSearch" name="siteSearch" action="#" method="get">
-          	<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="5e56d0ca37ad411fd20b7e6075a25b4a"></div>
+          	<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="ecb7bf94b33437de169dc4cb1574658d"></div>
             <label for="siteSearchBox">Search</label>
             <input type="text" id="siteSearchBox" name="q" value="Station Name, City, Country, Genre...">
             <div id="searchButtonContainer">
@@ -263,7 +268,7 @@ is to discontinue using the Site</p>
         </div>
 
         <div id="footer-copyright" class="title">
-          © 2011 Streema, Inc. All rights reserved. - <a href="/about/terms/" class="black">Terms of Service / Privacy Policy</a>
+          © 2012 Streema, Inc. All rights reserved. - <a href="/about/terms/" class="black">Terms of Service / Privacy Policy</a>
         </div>
         <div style="clear: both"></div>
       </div> <!-- commonFooter -->
@@ -277,23 +282,24 @@ is to discontinue using the Site</p>
 </div> <!-- middleBorder -->
 </div> <!-- outerBorder -->
   
+  
+  
+  
+  
   <script type="text/javascript">
-    window.onerror=function(msg, url, line){
-        //$("body").attr("JSError", msg);
-        var elem = document.createElement("jserror");
-        elem.innerHTML = msg;
-        document.body.appendChild(elem);
+    if (window.ST === undefined){
+      window.ST = {};
     }
+    ST.user = {
+      userIsAuthenticated:false
+    };
+    ST.settings = {"spotDefaultMiddleColumn": "wall", "trackJsErrors": false, "storePlayerStats": true, "trackTunein": true, "facebookAppId": "6623458155", "socialPluginsEnabled": true, "wallEnabled": true};
   </script>
-  <script type="text/javascript" src="http://d2kvtqb4z47ggs.cloudfront.net/javascripts/main_compressed.r1340049185.js" charset="utf-8"></script>
+
+  <script type="text/javascript" src="http://d2kvtqb4z47ggs.cloudfront.net/javascripts/main_compressed.r1352829225.js" charset="utf-8"></script>
   
   <!-- User information -->
-  <script type="text/javascript">
-	ST.user = {
-		userIsAuthenticated:true
-		};
-	ST.settings = {"spotDefaultMiddleColumn": "wall", "socialPluginsEnabled": true, "trackTunein": true, "wallOpeningEnabled": true, "storePlayerStats": true};
-  </script><jserror>Uncaught ReferenceError: ST is not defined</jserror>
+  
   
   
 <script type="text/javascript">
@@ -307,14 +313,14 @@ is to discontinue using the Site</p>
          search: false
      });
   });
-</script><jserror>Uncaught TypeError: window.addEvent is not a function</jserror>
+</script>
 
 
 
 
   
  
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","8aa7a91407",354657,"MlYAMkQCD0ICB0NQXgscJBNYABVYDAoYXVsEXQUJGBUIVBQXGV1UA1IXCkIQW0ECA1JmXwpHPQBZFg9V",0,101,new Date().getTime()])</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","8aa7a91407","354657","MlYAMkQCD0ICB0NQXgscJBNYABVYDAoYXVsEXQUJGBUIVBQXGV1UA1IXCkIQW0ECA1JmXwpHPQBZFg9V",0,110,new Date().getTime(),"","","","",""]);</script>
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
