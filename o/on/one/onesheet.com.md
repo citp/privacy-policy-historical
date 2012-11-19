@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the onesheet.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521104926id_/http%3A//onesheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesheet.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119103707id_/http%3A//onesheet.com/privacy) for the most accurate reproduction.*
 
 # Onesheet | Privacy Policy
 
 Onesheet, LLC (“Company”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the http://onesheet.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-## WHAT DOES THIS PRIVACY POLICY COVER?
+### WHAT DOES THIS PRIVACY POLICY COVER?
 
 This Privacy Policy covers Company’s treatment of personally identifiable information (“Personal Information”) that Company gathers when you access the Website and when you use Company’s services. This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
 
-## WHAT PERSONAL INFORMATION DOES COMPANY COLLECT?
+### WHAT PERSONAL INFORMATION DOES COMPANY COLLECT?
 
 The information we gather from customers enables us to personalize and improve our services, and allows our users to set up a user account and profile that can be used to personalize their experience on the Website. We collect the following types of information from our customers:
 
@@ -35,7 +35,7 @@ We may receive a confirmation when you open an email from Company if your comput
 
 
 
-## WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
+### WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
 
 Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below. 
 
@@ -55,7 +55,7 @@ Protection of Company and Others: We may release Personal Information when we be
 
 With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-## IS PERSONAL INFORMATION ABOUT ME SECURE?
+### IS PERSONAL INFORMATION ABOUT ME SECURE?
 
 Your Company account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer (or other device) and browser by signing off after you have finished accessing your account.
 
@@ -63,7 +63,7 @@ Company endeavors to protect user information to ensure that user account inform
 
 The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website. 
 
-## WHAT PERSONAL INFORMATION CAN I ACCESS?
+### WHAT PERSONAL INFORMATION CAN I ACCESS?
 
 Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating or deleting that information. This list will change as the Website changes. 
 
@@ -73,7 +73,7 @@ Company allows you to access the following information about you for the purpose
 
 
 
-## WHAT CHOICES DO I HAVE?
+### WHAT CHOICES DO I HAVE?
 
   * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of or register for certain features of the Website and services.
   * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
@@ -82,11 +82,11 @@ Company allows you to access the following information about you for the purpose
 
 
 
-## CHANGES TO THIS PRIVACY POLICY
+### CHANGES TO THIS PRIVACY POLICY
 
 Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
-## QUESTIONS OR CONCERNS
+### QUESTIONS OR CONCERNS
 
 If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at support@onesheet.com. We will make every effort to resolve your concerns.
 
