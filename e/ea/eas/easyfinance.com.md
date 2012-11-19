@@ -1,159 +1,125 @@
-> *The following text is extracted and transformed from the easyfinance.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfinance.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120004213id_/http%3A//www.easyfinance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# EasyFinance.com Privacy Policy for Consumers - EasyFinance.com
 
-Privacy Policy  
+**Your Privacy Rights**
 
+**Last Updated: 5/16/2012**
 
-  
-Updated September 30, 2004  
-Version 2.4
+This website is owned and operated by EasyFinance.com. We want you to understand what information we gather about you; how we use it and the safeguards we have in place to protect it.  This Privacy Policy applies to information collected through this website and otherwise.   This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “Site”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy.  
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
+Who We Are and What We Do
+
+EasyFinance.com (“EasyFinance”) operates a prospective customer database ("Service") by which it compiles, sorts and sells contact information to businesses on behalf of individual consumers who have shown an interest in applying for a business' products or services and has affirmatively asked to be contacted by a representative of a product or service business. EasyFinance.com utilizes third party vendors, third party affiliates, and a variety of media advertisements to promote the Site to consumers interested in completing an online application at our Site or to supplement our database by purchasing their database of consumers who have completed applications on websites other than EasyFinance's and have affirmatively requested receipt of information about product or service offerings similar to those offered on EasyFinance's Site. 
+
+EasyFinance also promotes its product and service offerings via e-mail or telephone to consumers who requested that they be contacted either through our online application opt-in process via our Site or through an Opt-In process on one of our many vendor or affiliate sites (List Members). List Members will then receive email or telephone contacts.html only for so long as they wish to continue to receive such contacts.html. 
+
+List Members can get off our telephone and e-mail contact lists at any time, no questions asked. You can remove yourself from further contact from EasyFinance by clicking on the OPT-Out link contained in each e-mail, or by sending in your OPT-Out request via e-mail to office@easyfinance.com. 
+
+If you choose to remove yourself from our contact list, if applicable, we will also forward your name and contact information to the specific vendor or affiliate marketer who provided your informational request to us so that they can include your name on their do-not-contact list too. Please bear in mind that if your information was purchased commercially from a third party vendor, EasyFinance may not be the only data EasyFinance your contact information was sold to. Additionally, our third party vendor or affiliate may have purchased your contact information from someone else and thus you may continue to receive contacts.html from those companies as well. EasyFinance is not responsible for stopping all unwanted contacts.html from sources beyond our immediate control. 
+
+Your Privacy is Our Concern
+
+We recognize the importance of protecting your personal information. We collect and retain information about you to communicate with you, to process your requests for products and services, and to inform you about other financial services that may be of interest to you through our newsletter. Except as explained here in our Privacy Policy, we do not sell nonpublic personal information about current or former customers, nor do we share this type of information with anyone other than our affiliates. The examples in this Privacy Policy are illustrative only and are not intended to be exclusive. 
+
+We want consumers to feel comfortable using the Site and participating in the Service, so we have created this Privacy Policy to let you know what information we may collect from you on the Site and through the Service and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site and participating in the Service, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or participate in the Service. 
+
+Minors
+
+This website is a general audience site and we do not knowingly collect personal information from children under the age of 13. 
+
+General Information Collection and Use
+
+EasyFinance.com collects information through the Site from our prospective and existing customers at several different points on our web sites. We use contact information to send information about EasyFinance and to service existing accounts. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Contact and Financial information that is collected is used for verifying your name, address and other information. Not all information asked for on our site is required when you fill out our forms. Only Name, City, State, Address, Zip Code, Work Phone, Home Phone, Email Address, House Type, Current Value, Loan Amount Desired, 1st Mortgage Balance, Current Interest Rate, Current Payment, Are you Behind on Payments, Credit Rating, Place of Employment, Years Employed, Yearly Income, Loan Desired, and Best Time to Call. Information about your computer hardware and software is automatically collected by EasyFinance.com and may be shared in aggregate with third parties whose services are used for traffic analysis purposes. This information includes: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by EasyFinance.com to maintain and improve the quality of the service and to generate statistics regarding use of the EasyFinance.com site.  EasyFinance.com does not use third party databases to correct or update the information you submit to us for any reason. 
+
+To maximum friendly our site usage you don't need to complete any registration forms. Also we will not send you any information such newsletters or updates without your personal request. 
+
+Choice/Opt-Out.
+
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners as previously described above. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+
+You can send e-mail to office@EasyFinance.com.
+
+You can send mail to the following postal address: 
+
+EasyFinance.com
+
+3450 Sacramento Street
+
+San Francisco, CA 94118
+
+Please note that participation in certain activities on our web site may be limited if personally identifiable information is not submitted for the user. E-mail addresses and phone numbers received in an opt-out request will be added to our internal Do-Not-Contact registry within ten (10) Business days following receipt. 
+
+Cookies
+
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site however without cookies the user may not have access to certain features on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. All cookies served on the domain, both session and persistent are tied to the Personally Identifiable Information you provide. 
+
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies once set on our site. 
+
+Links
+
+This web site contains links to other sites. Please be aware that EasyFinance is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by EasyFinance even in cases where we may frame another site with our own. From time to time we may co-brand certain services with third parties. It will be clear at the point of collection who is collecting such information and whose privacy statement governs. For example, without limiting the foregoing, we co-brand with insurance brokers, credit reporting agencies and, automotive companies. 
+
+Security
+
+We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+
+Disclosure
+
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Agreement. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances as required by law, third parties may unlawfully intercept or access transmissions or private communications. 
+
+In addition, as noted above, if you opt-out of future contact from EasyFinance by using the opt-out mechanism provided in each e-mail we send to you on behalf of a third party service provider other than EasyFinance, we will provide your email address to the third party service provider so that the third party service provider can add your name and contact information to its own do-not-contact list. 
+
+As EasyFinance grow, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that EasyFinance or all of its assets are acquired, customer information, including any visitor information collected through the Site, would be one of the transferred assets. For more information see our Notification of Changes section below. 
+
+Finally, EasyFinance reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) EasyFinance’s rights or property, other visitors, members, or anyone else that could be harmed by such activities. EasyFinance also reserves the right to disclose visitor or member information when we believe in good faith that the law requires it. 
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+
+Sharing Information with Affiliates
+
+When you submit your request for information or quote, you are granting permission to be contacted by EasyFinance.com or affiliated third parties. We share the contact and loan request data you submit on the Quote Request form and EasyFinance.com account number information with affiliated companies such as banks, commercial lenders and licensed loan brokers to fulfill information requests we receive from you, to provide you with superior service, inform you of product and service opportunities that may be of interest to you, and for other business purposes, we may disclose all of the information we collect, as described above, to the following types of affiliated companies: financial service providers, such as mortgage and life insurance agencies, title service companies, debt & credit services companies and auto finance companies. An affiliate company is a company under legal contract with EasyFinance.com to fulfill services or is a company owned in whole or in part by EasyFinance.com. 
+
+Sharing Information with Co-Branded Partners
+
+We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, outbound calls and or robo-dialing, and direct mail) marketing programs. By filling out or submitting a registration form or partial registration form you are consenting to receive offers from us and third marketers via email, telemarketing postal mail and or SMS text message wireless or other mobile offering to your cell phone. You understand that your wireless carrier’s standard charges and rates apply to these messages. For SMS text messages, you may remove our information by replying “STOP”, “END”, OR “QUIT” to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
+
+Some of the services offered on our website are co-branded with contracted partners. Co-Branded offerings will be identified directly on the Quote Request form for the product or service you choose prior to you having to submit the Quote Request. Where a co-branded product or service provider is identified your Personally Identifiable information will be provided directly to that providers website, not EasyFinance.com. The Product or Service provider shall control your data once submitted to them. For purposes of identification and tracking, your contact information (name, Address, Phone, e-mail address, etc.) is shared with EasyFinance.com. 
+
+We may use personal information to provide the services you've requested, including services that display customized content and advertising. In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence. You may opt-out and remove your SMS information by sending "STOP," "END," "QUIT" to the SMS text message you have received. If you remove your SMS information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by EasyFinance.com or third parties to send promotional correspondence to you. 
+
+Do Not Call Registry Compliance
+
+By submitting personal contact and/or financial information, the user hereby grants written permission to EasyFinance.com, its affiliated sites, and its business partners for contact via telephone, mail, and/or e-mail. Further, by registering at EasyFinance.com you are consenting to receive phone calls from EasyFinance.com, its affiliated sites, and its business partners for contact via telephone, including but not limited to lenders that may contact you regarding a loan and thereby registrants waive their right to file a claim with the FTC or any other agency in reference to these calls or contacts. 
+
+Our Former Customers
+
+We treat information about our former customers in the same manner as we treat information about our current customers. 
+
+Confidentiality and Security
+
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information against unauthorized access or use. 
+
+Maintaining the accuracy of your information is a shared responsibility. We maintain the integrity of the information you provide us and will update your records when you notify us of a change. Please contact us at the address or phone number listed below when information concerning you changes. 
+
+Site and Service Updates
+
+We will send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We also communicate with user to provide requested services and in regards to issues relating to the account via e-mail or telephone when requested. 
+
 Notification of Changes
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will prominently post a notice on the website for 30 days. We may also make a reasonable effort to notify users by way of an email. Users have a choice as to whether or not we use their information in this materially different manner. 
 
-**This Privacy Policy protects your privacy by:**
+Correct/Update Information
 
-**Informing you about:**
+If you would like to verify any data that we have received from you, make any corrections or disable the use of your personal information, please contact us at office@EasyFinance.com
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+Our address: 
 
-**Empowering you to choose:**  
+EasyFinance.com
 
+3450 Sacramento Street
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
+San Francisco, CA 94118
 
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
-
-
-
-
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
-
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+office@EasyFinance.com
