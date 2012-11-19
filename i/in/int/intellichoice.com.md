@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520211724id_/http%3A//www.intellichoice.com/info/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellichoice.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119022628id_/http%3A//www.intellichoice.com/info/privacy_statement.html) for the most accurate reproduction.*
 
 # New Car Prices, Used Cars for Sale, Car Reviews, and Quotes at IntelliChoice.com
 
@@ -67,7 +67,7 @@ We believe that choice in how and when you are contacted is key to customer sati
   * You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message. 
   * If you do not wish to have your personal information shared with third parties or with other entities in the Source corporate family, please [click here.](http://www.emailremove.org/)
   * You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Source Interlink Companies, Inc., Attn: Privacy Coordinator, 6420 Wilshire Blvd., Los Angeles, CA 90048 In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us. 
-  * You may also contact us at [privacypolicy@sorc.com](https://web.archive.org/web/20120520211724id_/http%3A//www.intellichoice.com/info/privacypolicy@sorc.com) for any inquiry or request regarding our privacy policy or the handling of your personal information. 
+  * You may also contact us at [privacypolicy@sorc.com](mailto:privacypolicy@sorc.com) for any inquiry or request regarding our privacy policy or the handling of your personal information. 
 
 
 
@@ -87,7 +87,7 @@ In the event that you provide personal information to any third party via any So
 
 ### XI. YOUR CALIFORNIA PRIVACY RIGHTS
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [yourcaliforniaprivacyrights@sorc.com](https://web.archive.org/web/20120520211724id_/http%3A//www.intellichoice.com/info/yourcaliforniaprivacyrights@sorc.com) and please include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request. 
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [yourcaliforniaprivacyrights@sorc.com](mailto:yourcaliforniaprivacyrights@sorc.com) and please include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request. 
 
 ### XII. VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES
 
@@ -101,7 +101,7 @@ We will occasionally update this Privacy Policy as necessary to protect our user
 
 ### XIV. CONTACT INFORMATION
 
-If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [ privacypolicy@sorc.com](https://web.archive.org/web/20120520211724id_/http%3A//www.intellichoice.com/info/privacypolicy@sorc.com). Please include the URL of the Web site and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to [yourcaliforniaprivacyrights@sorc.com](https://web.archive.org/web/20120520211724id_/http%3A//www.intellichoice.com/info/yourcaliforniaprivacyrights@sorc.com) and include the information noted in Your California Privacy Rights. 
+If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [ privacypolicy@sorc.com](mailto:privacypolicy@sorc.com). Please include the URL of the Web site and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to [yourcaliforniaprivacyrights@sorc.com](mailto:yourcaliforniaprivacyrights@sorc.com) and include the information noted in Your California Privacy Rights. 
 
 Or you can contact us by mail at: 
 
