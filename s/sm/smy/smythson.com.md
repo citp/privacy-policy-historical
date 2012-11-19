@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smythson.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622014746id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smythson.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119092750id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security
+
+### Privacy Policy
 
 Frank Smythson Ltd. are registered in England and Wales No. 3594597  
 Registered Office: 40 New Bond Street, London, W1S 2DE
@@ -54,7 +56,7 @@ The main purposes for which we collect and store your personal information are a
 • Promoting our offers and products  
 • Improving the website and our service to you
 
-We will contact you with marketing information where relevant if you have opted in to receive such communications. By registering on our site, you consent to the addition of your details to our email and postal (including catalogue) distribution list unless you have previously opted-out. You may opt-out of our communications at any time, although it may take a short time for any changes to become effective. Logging in will give you access to your account options where you can update your details.
+We will contact you with marketing information where relevant if you have opted in to receive such communications. By registering on our site or for our complimentary wifi, you consent to the addition of your details to our email and postal (including catalogue) distribution list unless you have previously opted-out. You may opt-out of our communications at any time, although it may take a short time for any changes to become effective. Logging in will give you access to your account options where you can update your details.
 
 From time to time, we may contact you by telephone for the purposes of market research, marketing our products (and for telemarketing) where you have consented to us doing so.
 
@@ -76,23 +78,17 @@ If you access our website using a link from one of our partners’ websites, you
 
 In the event that Smythson is sold, some of its assets transferred to a third party or in the case of liquidation or administration, your personal information, as a valuable asset of the company, may also be transferred. Use of your personal information will remain subject to this Privacy Policy.
 
-If you have any questions or concerns, please contact Smythson Customer Service:
+For further enquiries, please contact Customer Services:
 
-From the UK call: 0845 873 2435  
-From the USA call: +1 877 769 8476  
-From elsewhere call: +44 (0)845 873 2435
+Tel: (0845) 873 2435  
+Email: returns@smythson.com  
+Mail: Customer Services dept, Smythson, 2 Oaktree Business Centre, Hunt’s Rise, Swindon, SN3 4TX, UK
 
-The lines are open from 9am to 5.30pm (GMT), Monday-Friday. A message service operates outside these hours.
-
-Or write to:
-
-Smythson Direct  
-2 Oak Tree Business Centre  
-Hunts Rise  
-South Marston  
-Wiltshire SN3 4TX  
-United Kingdom
-
+Mon – Fri  | 9am – 10pm  
+---|---  
+Sat | 9am – 6pm  
+Sun | Closed  
+  
 Frank Smythson Ltd. are registered in England and Wales No. 3594597  
 Registered Office: 40 New Bond Street, London, W1S 2DE.
 
