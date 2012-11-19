@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indigenousfoodsystems.org privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041003id_/http%3A//www.indigenousfoodsystems.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigenousfoodsystems.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119043056id_/http%3A//indigenousfoodsystems.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Indigenous Food Systems Network
 
