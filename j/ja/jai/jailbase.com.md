@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jailbase.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619043303id_/http%3A//www.jailbase.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jailbase.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119221306id_/http%3A//www.jailbase.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | JailBase
 
