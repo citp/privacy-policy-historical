@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialanxietysupport.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521045027id_/http%3A//www.socialanxietysupport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialanxietysupport.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119071014id_/http%3A//www.socialanxietysupport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Anxiety Support
 
 SocialAnxietySupport.com is committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
 
-It is our policy, except as noted below, not to sale, trade, lease, give away or otherwise release your personal information, which includes your name, physical address (business or home), home or business telephone number and your e-mail address. 
+It is our policy, except as noted below, not to sale, trade, lease, give away or otherwise release your personal information, which includes your name, physical address (business or home), home or business telephone number, your e-mail address and IP address. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
   
 
@@ -15,6 +15,7 @@ Possible exceptions to our policy include the following circumstances, and as in
 
   * If a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.
   * If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter.
+  * When we believe release is appropriate to comply with the law or to protect our, your or others' rights, property, or safety.
 
 
 
@@ -167,4 +168,4 @@ We may, from time to time, send you emails regarding our general service so that
 
 Please [contact us](https://web.archive.org/forum/sendmessage.php) if you should have any questions, comments or concerns about this privacy policy.
 
-_Last modified October 26th, 2009._
+_Last modified June 1st, 2012._
