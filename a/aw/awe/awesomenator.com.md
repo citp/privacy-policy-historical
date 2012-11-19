@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomenator.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629173740id_/http%3A//awesomenator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomenator.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119035704id_/http%3A//awesomenator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | | Awesomenator - Super Hero of the Internets
 
