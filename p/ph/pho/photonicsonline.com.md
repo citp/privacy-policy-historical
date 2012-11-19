@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521040611id_/http%3A//www.photonicsonline.com/Static.mvc/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119044610id_/http%3A//www.photonicsonline.com/Static.mvc/Privacy) for the most accurate reproduction.*
 
-# Photonics Online -display components,optical components & fabrication
+# Photonics Online: Display components,optical components & fabrication
 
 **PRIVACY STATEMENT**  
 Your privacy on the Internet is important to us. Because we gather certain types of information about the users of VertMarkets' network of sites and services, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
