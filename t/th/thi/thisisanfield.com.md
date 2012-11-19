@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617214514id_/http%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119022458id_/http%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | This Is Anfield
 
