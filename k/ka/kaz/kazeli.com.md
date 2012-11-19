@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kazeli.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522032420id_/http%3A//www.kazeli.com/index.cfm/id/58/lang/english/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazeli.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155933id_/http%3A//www.kazeli.com/index.cfm/id/58/lang/english/privacypolicy) for the most accurate reproduction.*
 
 # Kazeli Web Office: Simple CRM, Website Design and Builder, Online File Storage, Business Network, Automatic Follow Up, Cloud Computing - Privacy Policy
 
