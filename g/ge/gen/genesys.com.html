@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the genesys.com privacy policy that was archived on 2012-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503211529id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genesys.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119212750id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 184 - published by Open Text Web Solutions 10 - 10.0.1.90 - 30893 -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,7 +11,7 @@
 <link href="/includes/mainStyles.css" rel="stylesheet" type="text/css">
 
 
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0337.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/includes/Utilities.js" language="javascript" type="text/javascript"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0337.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="/elqNow/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/includes/Utilities.js" language="javascript" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -28,25 +28,37 @@ var dropdownPos=265;
 <script type="text/javascript" src="http://www.intercall.com/common/js/effects.blind.js"></script>
 <script type="text/javascript" src="http://www.intercall.com/common/js/fancybox/jquery.fancybox-1.3.1.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.intercall.com/common/css/jquery.fancybox-1.3.1.css" media="screen">
+
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '1354']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '/elqNow/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load); 
+    })();
+</script>
 <script type="text/javascript">
 $(document).ready(function(){
     adjustLayout();
 
- // G.A. tracking extensions
- $("a[href$=.pdf]").click(function(){
-  pageTracker._trackPageview($(this).attr("href"));
- });
- $("a[href$=.exe]").click(function(){
-  pageTracker._trackPageview($(this).attr("href"));
- });
- $("a[href$=.msi]").click(function(){
-  pageTracker._trackPageview($(this).attr("href"));
- });
- $(".eventtrack").click(function(){
-  var info = $(this).attr("title").split("|");
-  pageTracker._trackEvent(info[0], info[1], info[2]);
- });
-  });
+ // G.A. event tracking extensions 2012-05-01
+$("a[href$=.pdf]").click(function(){
+  _gaq.push(['_trackEvent', 'PDF', 'Download', $(this).attr("href")]);
+});
+$("a[href$=.exe]").click(function(){
+ _gaq.push(['_trackEvent', 'exe', 'Download', $(this).attr("href")]);
+});
+$("a[href$=.msi]").click(function(){
+ _gaq.push(['_trackEvent', 'msi', 'Download', $(this).attr("href")]);
+});
+});
 </script>
 <script type="text/javascript">
   $(document).ready(function() {
@@ -106,7 +118,7 @@ $(document).ready(function(){
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu32_3" onmouseover="showThirdNav('dropmenu32_3', 'products&amp;services', 'dropmenu32', '32_3') ;" onmouseout="hideAllNav('dropmenu32_3', '32_3', 'products&amp;services');">
-<li><a href="/services/webcasting/index.php"><span>Webcasting</span></a></li><li><a href="/services/virtual-environments/index.php"><span>Virtual Environments</span></a></li><li><a href="/services/operator-assisted/index.php"><span>Operator Assisted</span></a></li><li><a href="/services/operator-assisted/direct-event.php"><span>Direct Event</span></a></li><li><a href="/services/web-event-services/index.php"><span>Web Event Services</span></a></li>
+<li><a href="/services/webcasting/index.php"><span>Webcasting</span></a></li><li><a href="/services/virtual-environments/index.php"><span>Virtual Environments</span></a></li><li><a href="/services/corporateTube.php"><span>CorporateTube</span></a></li><li><a href="/services/operator-assisted/index.php"><span>Operator Assisted</span></a></li><li><a href="/services/operator-assisted/direct-event.php"><span>Direct Event</span></a></li><li><a href="/services/web-event-services/index.php"><span>Web Event Services</span></a></li>
 
     </ul>
 
@@ -116,11 +128,11 @@ $(document).ready(function(){
     </ul>
 
     <ul class="dropDownMenu secondNav" id="dropmenu33">
-        <li><a id="33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideThirdNav('dropmenu33_1', '33_1');" class="flyout" href="/solutions/industries/index.php"><span>By Industry</span></a></li><li><a id="33_2" onmouseover="showThirdNav('dropmenu33_2', 'solutions', 'dropmenu33', '33_2') ;" onmouseout="hideThirdNav('dropmenu33_2', '33_2');" class="flyout" href="/solutions/job-functions/index.php"><span>By Job Function</span></a></li><li><a id="33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideThirdNav('dropmenu33_3', '33_3');" class="flyout" href="/solutions/uses/index.php"><span>By Use</span></a></li><li><a href="/solutions/global-conferencing/index.php"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php"><span>Mobile Solutions</span></a></li><li><a href="/solutions/travel-reduction.php"><span>Travel Reduction</span></a></li><li><a href="/solutions/voip.php"><span>VOIP Solutions</span></a></li>
+        <li><a id="33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideThirdNav('dropmenu33_1', '33_1');" class="flyout" href="/solutions/industries/index.php"><span>By Industry</span></a></li><li><a id="33_2" onmouseover="showThirdNav('dropmenu33_2', 'solutions', 'dropmenu33', '33_2') ;" onmouseout="hideThirdNav('dropmenu33_2', '33_2');" class="flyout" href="/solutions/job-functions/index.php"><span>By Job Function</span></a></li><li><a id="33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideThirdNav('dropmenu33_3', '33_3');" class="flyout" href="/solutions/uses/index.php"><span>By Use</span></a></li><li><a href="/solutions/case-studies.php"><span>Case Studies</span></a></li><li><a href="/solutions/global-conferencing/index.php"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php"><span>Mobile Solutions</span></a></li><li><a href="/solutions/travel-reduction.php"><span>Travel Reduction</span></a></li><li><a href="/solutions/voip.php"><span>VOIP Solutions</span></a></li>
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideAllNav('dropmenu33_1', '33_1', 'solutions');">
-<li><a href="/solutions/industries/investing.php"><span>Investing / IR</span></a></li><li><a href="/solutions/industries/learning.php"><span>Learning</span></a></li><li><a href="/solutions/industries/legal-conferencing.php"><span>Legal</span></a></li><li><a href="/solutions/industries/medical.php"><span>Medical / Pharma</span></a></li><li><a href="/solutions/industries/technology.php"><span>Technology</span></a></li><li><a href="/solutions/industries/government.php"><span>Government</span></a></li>
+<li><a href="/solutions/pharmaceutical.php"><span>Pharmaceutical</span></a></li><li><a href="/solutions/industries/healthcare.php"><span>Health Care</span></a></li><li><a href="/solutions/industries/government.php"><span>Government</span></a></li><li><a href="/solutions/industries/finance.php"><span>Finance</span></a></li><li><a href="/solutions/industries/training.php"><span>Training</span></a></li><li><a href="/solutions/industries/legal-conferencing.php"><span>Legal</span></a></li><li><a href="/solutions/industries/hightech.php"><span>High Tech</span></a></li>
 
     </ul>
 
@@ -225,7 +237,7 @@ tabdropdown.initializetabmenu("topNav")
 
 
 
-<img src="/images/photo-asianLadyGlasses.jpg" alt="Text" border="0" title="">
+<img src="/images/photo-noleftnav.jpg" alt="Text" border="0" title="">
 
 <img src="/images/background/spacer.gif" alt="" border="0">
     </div>
@@ -455,6 +467,8 @@ InterCall, Inc. is a leading provider of conferencing and collaboration services
 </div>
 <div class="footerColumns">
     SALES: <br><span style="FONT: bold 18px Arial">800.820.5855</span> <br><br>CUSTOMER SERVICE: <span style="FONT: bold 18px Arial">800.374.2441</span>
+<!--LIVE CHAT FOR FOOTER --><a style="DISPLAY: none" id="liveagent_button_online_57360000000Kyja-2" onclick="liveagent.startChat('57360000000Kyja')" href="javascript://Chat"><img style="MARGIN: 8px 0px 0px -7px; DISPLAY: block" src="http://www.intercall.com/images/btn-footer-liveChat.png"></a> 
+<div style="DISPLAY: none" id="liveagent_button_offline_57360000000Kyja-2"><img src="http://www.intercall.com/images/btn-footer-liveChat-inactive.png"></div><!--END LIVE PERSON CHAT FOR FOOTER -->
 </div>
   
   <div class="divider"></div>
@@ -500,19 +514,22 @@ InterCall, Inc. is a leading provider of conferencing and collaboration services
 </div>
 <!--END FOOTER* * * * * * * * * * * * * * * * * * * -->
 <!--END FOOTER* * * * * * * * * * * * * * * * * * * -->
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1807&amp;ref2=elqNone&amp;tzo=0&amp;ms=921" border="0" width="1" height="1"></layer>
+&nbsp;
 
 <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+var _gaq = _gaq || [];
+  _gaq.push(
+    ['_setAccount', 'UA-1368063-1'],
+    ['_setDomainName', '.intercall.com'],
+    ['_setAllowLinker', true],
+    ['_trackPageview']);
+</script>
 <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-1368063-1");
-    pageTracker._setDomainName('.intercall.com');
-    pageTracker._setAllowLinker(true);
-    pageTracker._setAllowHash(false);
-    pageTracker._trackPageview();
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 <!-- Start BZ tag -->
@@ -541,5 +558,28 @@ a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script> 
 <!-- End Crazy Egg -->
+
+
+<!-- START LIVE PERSON CHAT--> 
+<script type="text/javascript"> 
+if (document.getElementById('liveagent_button_offline_57360000000Kyja')) { 
+//add a live chat button to right columns 
+if (!window._laq) { window._laq = []; } 
+window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja')); 
+liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja')); 
+}); 
+} 
+if (document.getElementById('liveagent_button_online_57360000000Kyja-2')) { 
+//add a live chat button in footer 
+if (!window._laq) { window._laq = []; } 
+window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja-2')); 
+liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja-2'));
+$('.footerColumns').css({'height' : '145px'}); 
+}); 
+} 
+</script> 
+<script type="text/javascript" src="https://c.la4.salesforceliveagent.com/content/g/deployment.js"></script> 
+<script type="text/javascript"> liveagent.init('https://d.la4.salesforceliveagent.com/chat', '57260000000KyjB', '00D300000000FAQ'); </script> 
+<!--END LIVE PERSON CHAT-->
 
 </body></html>
