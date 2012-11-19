@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibooking.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041011id_/http%3A//www.ibooking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibooking.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042736id_/http%3A//www.ibooking.com/privacy) for the most accurate reproduction.*
 
 # Online Ticketing and Booking Solutions from iBooking.com
 
