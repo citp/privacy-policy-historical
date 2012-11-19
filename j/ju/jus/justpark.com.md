@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justpark.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312214607id_/http%3A//www.justpark.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justpark.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119052056id_/http%3A//www.justpark.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Just Park](https://web.archive.org/web/20120312214607id_/http%3A//www.justpark.com/index.html) takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
+[Just Park](https://web.archive.org/web/20121119052056id_/http%3A//www.justpark.com/index.html) takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
 **Routine Information Collection**
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 **Contact Information**
 
-Concerns or questions about this privacy policy can be directed to us via our [contact page](https://web.archive.org/web/20120312214607id_/http%3A//www.justpark.com/contact-us.html) for further clarification.
+Concerns or questions about this privacy policy can be directed to us via our [contact page](https://web.archive.org/web/20121119052056id_/http%3A//www.justpark.com/contact-us.html) for further clarification.
