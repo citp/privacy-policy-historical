@@ -1,53 +1,99 @@
-> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008005559id_/http%3A//investingchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119100215id_/http%3A//investingchannel.com/policy) for the most accurate reproduction.*
 
-# Privacy
+# InvestingChannel.com Marketplace
 
-InvestingChannel, Inc. is committed to protecting your privacy. The following statement describes InvestingChannel’s privacy policy as it relates to InvestingChannel's services, including ad placements, advertising, marketing and lead generation.
+## 1\. POLICY
 
-### User Information
+InvestingChannel, Inc. (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of www.investingchannel.com (“the Site”). We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
-Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual. InvestingChannel may collect non-personally identifiable information while you are visiting an InvestingChannel Web site or the Web site of one of InvestingChannel’s customers, including advertisers and Web publishers. With each advertising impression served, InvestingChannel collects information such as the time of day, URL visited, browser type, browser language, and IP address. InvestingChannel analyzes certain web pages of those publisher websites within our network. InvestingChannel may use page content, form data and URL parameters in order to improve its service to the users. In addition, the visited URL is sent to InvestingChannel's servers from the browser so that InvestingChannel may retrieve the applicable page content from the publisher's servers. 
+You acknowledge that this Privacy Policy is also a part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If at any time you find these terms and conditions unacceptable, you must immediately leave the Site and cease all use of the Site.
 
-As part of our on-going efforts to ensure the best possible experience, we may use any number of features, including Web beacons and cookies, to collect non-personally identifiable information. Web beacons, also known as clear gif technology or action tags, are small colorless image files placed on a Web page for the purpose of tracking the completion of transactions and the submittal of applications, which, in turn, enhances the online experience for our users. 
+* * *
 
-Similarly, a Cookie is a file that the Internet browser places on your computer's hard drive. It is not a virus and cannot erase your hard drive or otherwise damage your computer. A cookie controls the delivery rate of ads to Web browsers such that the number of times a Web browser receives any one advertisement is limited to ensure the best online experience for our users. A cookie also allows InvestingChannel reporting system to estimate the total reach of an ad campaign so that our advertisers can determine with greater accuracy the composition of the audience they reach.
+## 2\. INFORMATION COLLECTION PRACTICES
 
-Neither Web beacons nor cookies provide InvestingChannel with an email address or any other personally-identifiable information, and InvestingChannel does not and cannot use Web beacons or cookies to recover such information from the computers of our users. Again, InvestingChannel simply collects non-personally identifiable information for the limited purpose of optimizing the operation of InvestingChannel services, maintaining the quality and integrity of the services, and providing general statistics regarding our users. Although cookies enhance the online experience, Web users always have the option of blocking the use of the same by altering a setting in their browser. Please see your browser supplier's Web site for details on how this may be done if you object to the collection of non-personally identifiable information. 
+### 2.1. TYPES OF INFORMATION COLLECTED
 
-InvestingChannel may place advertisements of third-party advertisers on Web sites that you are visiting. If you choose to click on an advertisement, InvestingChannel may provide non-personally identifiable information to the advertiser and Web publisher. Also, the Web publisher or InvestingChannel’s other partners may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their Web sites. The information they collect is governed by their individual privacy policies, not InvestingChannel’s.
+#### (a) TRAFFIC DATA COLLECTED
 
-### Submission of Personally Identifiable Information
+We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use “cookies” to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, and to store your password so you do not have to re-enter it each time you visit the Site.
 
-When using services offered through InvestingChannel or its customers and affiliates, you may choose to enter your name, contact information, and other personal information. You will have clear notification that we are collecting this information so that you can choose not to provide it. Users may also provide contact information while visiting investingchannel.com to request information.
+#### (b) PERSONAL INFORMATION COLLECTED
 
-### Use of the Information We Collect
+In order for you to access certain services and to purchase products that we offer via the Site, we may require you to provide us with certain information that personally identifies you (“Personal Information”). We do not collect any Personal Information about you unless you voluntarily provide it to us.
 
-### Use of Non-Personally Identifiable Information
+Personal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address); (2) Financial Data (such as your credit card information); and 3) Demographic Data (such as your zip code, age, and income). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or contest entries, any information provided in such communication may be collected as Personal Information.
 
-InvestingChannel may use non-personally identifiable information collected to improve the quality of InvestingChannel services, for example, by increasing ad placements on Web sites that are receiving more Web traffic and presenting you with ads that we think you would be interested in viewing. InvestingChannel may market its services by sharing Web surfing data with business partners in such a way that you are not identified. InvestingChannel also may provide your non-personally identifiable information to companies so that they can perform services for us.
+### 2.2. USES OF INFORMATION COLLECTED
 
-### Use of Personally Identifiable Information
+#### (a) COMPANY USE OF INFORMATION
 
-InvestingChannel does not provide personally identifiable information to third parties except under the following conditions. If you provide personally identifiable information as part of an inquiry about products or services provided by one of our business partners, we will provide that information only to that business partner so that they may attempt to provide you with information regarding the products or services you inquired about.
+We may use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, or to facilitate the renewal of your subscription, or to improve our Site, or to contact you when necessary. We may use your Demographic Data to customize and tailor your experience on the Site; displaying content that we think you might be interested in and according to your preferences.
 
-InvestingChannel may use the personally identifiable information provided by users or business partners at investingchannel.com for internal purposes, such as sales, human resources, marketing, and administration (e.g., billing, newsletters and communicating with our business partners and maintaining their account information). We may share this information with third parties who provide InvestingChannel with administrative services. If InvestingChannel shares any of the information collected from you with a third party, their use of that information will be governed by the third party's privacy policy.
+We may also use Contact Data for lead generation purpose by sending you information about products or services, or promotional material of other third party companies.
 
-### Advertising Content
+We only collect but will not use your Financial Data for any purpose. Our third party business partner will use your Financial Data to process your credit card payment.
 
-InvestingChannel's services display links to other sites in the form of "contextual advertising." InvestingChannel has no control over the content presented in such advertisements; third party advertisers provide them. The content of these advertisements is intended to show a high degree of relevance to the content you view. InvestingChannel parses the content of the URL visited, determines the relevant context and keywords and passes this information to the third party to obtain the advertisement to display.
+#### (b) SHARING OR TRANSFERRING OF PERSONAL INFORMATION
 
-### Child Protection
+By voluntarily registering and agreeing to (checked box opting into receiving marketing during registration) you are giving us your express consent to share your Personal Information with third parties in the ways described in this Privacy Policy.
 
-InvestingChannel does not offer services to, or target, persons under the age of 18. In compliance with the Children's Online Privacy Protection Act, any information we receive from people we believe to be minors will be purged from our database.
+We may share Demographic Data with advertisers and other third parties.
 
-### Contacting the Web Site
+We may also share Contact Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Site.
 
-If you have questions or concerns regarding this policy, you should contact InvestingChannel by sending email to [privacy@investingchannel.com](mailto:privacy@investingchannel.com) with "Privacy" in the subject line, or by writing to Privacy, InvestingChannel, Inc., 52 E. 13th St., Suite 5D, New York, New York 10003. 
+When you provide us with your Financial Data, it will immediately be transferred to and stored with our third party payment-processing partner (i.e. Paypal). We will not retain any of your Financial Data in our database.
 
-### Acceptance of Privacy Statement
+We maintain a procedure for you to review and request changes to your Personal Information; this procedure is described in Section 3.1, below.
 
-Your use of our Web site is subject to this privacy policy. BY USING OUR WEB SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY. We reserve the right to modify this privacy policy at any time by posting the changes on this page. Please check the effective date at the bottom of this page to determine if the privacy policy has been modified since you last reviewed it. Your continued use of our Web site following posting of the updated privacy policy will constitute your acceptance of the changes.
+You acknowledge that once your Personal Information is shared with or transferred to third parties as provided herein, the use of your Personally Information will then be governed by the privacy policies of those third parties and is not subject to our control. If contacted by those third parties, you should directly inquire them about the use of your Personal Information by them.
 
-### Effective Date
+#### (c) USER CHOICE REGARDING COLLECTION, USE, AND DISTRIBUTION OF PERSONAL INFORMATION
 
-The privacy policy was last revised on April 2, 2008.
+You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information.
+
+* * *
+
+## 3\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION
+
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Service. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
+
+### 3.1. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION
+
+We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may log onto your account or contact us to update your Personal Information.
+
+### 3.2. LOST OR STOLEN INFORMATION
+
+You must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly.
+
+### 3.3. PUBLIC INFORMATION
+
+The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We may also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+
+* * *
+
+## 4\. PRIVACY POLICIES AND DATA COLLECTION AT THIRD PARTY SITES
+
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other third-party companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of their cookies or other tracking technologies, which may include delivering targeted advertisements and marketing messages based upon the third party websites that you visit, or other purposes. We cannot control this collection of information and are not responsible for the privacy policies and data collection, use and disclosure practices of these third party advertisers. You should contact these third party advertisers directly if you have any questions about their use of the information that they collect from you.
+
+* * *
+
+## 5\. CHILDREN UNDER THE AGE OF 13
+
+In compliance with Children’s Online Privacy Protection Act (“COPPA”), this Site is not directed at children under the age of 13 and we do not intend to collect any personal identifiable information, such as name, home address, e-mail address, telephone number, or social security number, from children under the age of 13. If you are under the age of 13, please do not provide us with your personal identifiable information. If you have any reason to believe that a child under the age of 13 has provided us with his or her personal identifiable information, please contact us immediately for removal of that information from our databases.
+
+* * *
+
+## 6\. UPDATES AND CHANGES TO PRIVACY POLICY
+
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter or email to:
+
+InvestingChannel, Inc.
+
+151 W. 25th St, 4th Floor
+
+New York, NY, 10001
+
+You may also contact us by e-mail at [info@investingchannel.com](mailto:info@investingchannel.com)
