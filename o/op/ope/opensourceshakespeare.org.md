@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourceshakespeare.org privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521171057id_/http%3A//www.opensourceshakespeare.org/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourceshakespeare.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119170638id_/http%3A//www.opensourceshakespeare.org/info/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy :|: Open Source Shakespeare
 
@@ -22,6 +22,6 @@ We may share the traffic reports mentioned above with third parties from time to
 
 **Questions?**
 
-If you have any questions about the privacy policy, please e-mail [oss@opensourceshakespeare.com](mailto:oss@opensourceshakespeare.com). 
+If you have any questions about the privacy policy, please e-mail [mail@opensourceshakespeare.org](mailto:mail@opensourceshakespeare.org). 
 
 **[Back to the main page](https://web.archive.org/)**
