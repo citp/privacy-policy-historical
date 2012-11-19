@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the nintendo.com.au privacy policy that was archived on 2012-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120530200953id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nintendo.com.au privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119042644id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>
 Privacy - 
  
@@ -17,17 +18,26 @@ Nintendo.com.au
 <meta name="location" content="Australia">
 
 <link rel="shortcut icon" href="/template_images/favicon.ico" type="image/x-icon">
-<link href="/templates/nintendo.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/templates/nintendo.css?20120917" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE 7]> 
 <link href="/templates/nintendo-ie7.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
+<link href="/flash/3ds-video-tour/tile.css" media="screen" rel="stylesheet" type="text/css">
+
 <script type="text/javascript" src="/templates/scripts/jquery-1.6.4.min.js"></script>
+
+
 <script type="text/javascript" src="/templates/scripts/nintendo_ui.js"></script>
+
 <script type="text/javascript" src="/templates/flash/flowplayer/flowplayer-3.2.6.min.js"></script>
+<script type="text/javascript" src="/templates/scripts/flexslider.js"></script>
+
+
 
 <script type="text/javascript" src="/templates/jquery.jfontsizer.min.js"></script>
 <script type="text/javascript" src="/templates/jquery.jfontsizer.config.js"></script>
+
 
 <script src="/templates/cufon-yui.js" type="text/javascript"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
 <script src="/templates/Arial-Rounded_400.font.js" type="text/javascript"></script>
@@ -57,10 +67,8 @@ Nintendo.com.au
 <script src="templates/pngfix.js" type="text/javascript"></script>
 <![endif]-->
 
+<script type="text/javascript">
 
-<!--UNCOMMENT THIS WHEN NEXT TAKEOVER IS WANTED-->
-	<script type="text/javascript">
-		
 function mycarousel_initCallback(carousel)
 {
 	var clicked=false;
@@ -98,9 +106,10 @@ function mycarousel_initCallback(carousel)
 	
 };
 
+
+
 function mycarousel_itemFirstInCallback(carousel){
 	carousel.options.auto=5;
-	//console.log('its 5');
 };
 
 function replace_carousel_flash(carousel,li,index,state) {
@@ -115,10 +124,10 @@ function replace_carousel_flash(carousel,li,index,state) {
 		return;
 	} 
 	//console.debug("rebuild");
-		//var flashObj=$("object",li);
+	//var flashObj=$("object",li);
 		
-		//console.debug(window.flashparams[li.rel]['movie']);
-		build_carousel_flash(li);
+	//console.debug(window.flashparams[li.rel]['movie']);
+	build_carousel_flash(li);
 	
 }
 
@@ -140,21 +149,20 @@ var default_flash_params={
 };
 var flashparams=new Array();
     $(document).ready(function() {
-		//not starting the carousel on page load because of the 3ds takeover
+    			//not starting the carousel on page load because of the 3ds takeover
 		//updating the code
       if (document.getElementById("mycarousel")) {
 	       $('#mycarousel').attr("style","");
 	       $('#mycarousel').jcarousel({
-				buttonNextEvent:'click',
+								buttonNextEvent:'click',
 				buttonPrevEvent:'click',
 				scroll:1,
-				auto: 8,
+				auto: 10,
 				visible:1,
 				wrap:"both",
 				initCallback: mycarousel_initCallback,
 				itemFirstInCallback: mycarousel_itemFirstInCallback,
-				itemVisibleOutCallback: replace_carousel_flash
-			});
+				itemVisibleOutCallback: replace_carousel_flash			});
 		}
 		//collect config info on page load
 		
@@ -189,47 +197,36 @@ var flashparams=new Array();
     </script>
 
 
+
 <script type="text/javascript">
-function disp_confirm1()
-{
+function disp_confirm1() {
 var r=confirm("You are now leaving nintendo.com.au to an external website. Some product information may not be relevant to Australia and New Zealand. \n \n If this link does not work, please disable popup blocking on your web browser.");
-if (r==true)
-  {
+if (r==true) {
   open("http://www.wii.com");
-  }
-else
-  {
+} else {
   return false;
   }
 }
-</script>
-<script type="text/javascript">
-function disp_confirm2()
-{
+
+function disp_confirm2() {
 var r=confirm("You are now leaving nintendo.com.au to an external website. Some product information may not be relevant to Australia and New Zealand. \n \n If this link does not work, please disable popup blocking on your web browser.");
-if (r==true)
-  {
+if (r==true) {
   open("http://www.nintendo.co.uk/NOE/en_GB/iwata_asks_11504.html");
-  }
-else
-  {
+} else   {
   return false;
   }
 }
-</script>
-<script type="text/javascript">
-function disp_confirm_flash()
-{
+
+function disp_confirm_flash() {
 var r=confirm("You are now leaving nintendo.com.au to an external website. Some product information may not be relevant to Australia and New Zealand. \n \n If this link does not work, please disable popup blocking on your web browser.");
-if (r==true)
-  {
+if (r==true) {
   open("http://www.wii.com");
   }
 }
 </script>
 
 
-	
+
 
 <!--[if IE 6]>
 		<script src="templates/DD_belatedPNG_0.0.8a-min.js"></script>
@@ -256,22 +253,90 @@ if (r==true)
 			DD_belatedPNG.fix('.game_page_footer, img');
     	</script>
 		<![endif]-->
-  
 
+		
 
+<link rel="stylesheet" href="/templates/css/eb_games_slider_v3.css?20120925" type="text/css">
+<!-- sliding comments -->
+<script type="text/javascript">
+	$(document).ready(function(){
+		var noeb = {
+			init:function(){
+				noeb.slider('.caption_v3');
+			},
+			slider:function(elem){
+				$(elem).flexslider({
+					animation: "slide",
+					controlNav: false,
+					animationDuration: 1000,
+					slideshowSpeed: 8000,
+					pauseOnHover: false
+				});
+			}
+		};
+		noeb.init();
+	});
+</script>
 
 
 	<!--  sub page takeover code -->
 
 
-	
+<link rel="stylesheet" type="text/css" href="/templates/css/carousel-skin.css?20121114">	
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    jQuery('#mycarousel1').jcarousel({ //wii, 3ds, ds main page carousels
+        wrap: 'circular',
+        initCallback: mycarousel_initCallback
+    });
+    jQuery('.gamesites-carousel').jcarousel({
+        wrap: 'circular',
+		scroll:4,
+        initCallback: mycarousel_initCallback
+    });
+    jQuery('.ticker-carousel').jcarousel({
+    	wrap: 'circular',
+		auto: 6,
+		scroll:1
+    });
+    jQuery('#mycarousel5').jcarousel({ //gamesite - home page
+        wrap: 'circular',
+		scroll:4,
+        initCallback: mycarousel_initCallback
+    });
+});
+    $(function() {
+		$(".car_link").hover(function(){
+		var brand_name=	$(this).attr('rel');
+		brand_name=	brand_name.replace("Type:","<b>Type:</b>").replace("Rating:","<b>Rating:</b>");
+		var title =	 $(this).attr('title');	  
+		$('#gm_title').html(title);
+		$('#gm_brand').html(brand_name);
+		$("#img_info" ).show();
+	},
+	function(){
+		$("#img_info" ).hide();
+	});
+});
+</script>
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6429023-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </head>
 <body>
-	
-	<div id="outerwrapper" class=""> 
+                <div id="outerwrapper" class=""> 
 	<div id="innerwrapper"><a name="top"></a>
-    		<div class="global_nav_holder">
+		<div class="global_nav_holder">
 			<div class="logo_nav"><a title="Nintendo.com.au - Home" href="/index.php">
 
              <img src="/template_images/logo_nav_nintendo.jpg" alt="Nintendo.com.au" width="130" height="50">
@@ -282,51 +347,97 @@ if (r==true)
             </div>
 			<div id="global_nav">
 			<ul>
+				<li>
+					<a target="_top" href="/wiiu/" title="Wii U"><cufon class="cufon cufon-canvas" alt="Wii " style="width: 29px; height: 16px;"><canvas width="43" height="17" style="width: 43px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Wii </cufontext></cufon><cufon class="cufon cufon-canvas" alt="U" style="width: 13px; height: 16px;"><canvas width="19" height="17" style="width: 19px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>U</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/wii" title="Wii"><cufon class="cufon cufon-canvas" alt="Wii" style="width: 25px; height: 16px;"><canvas width="38" height="17" style="width: 38px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Wii</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/nintendo-3ds" title="Nintendo 3DS"><cufon class="cufon cufon-canvas" alt="Nintendo " style="width: 78px; height: 16px;"><canvas width="91" height="17" style="width: 91px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Nintendo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="3DS" style="width: 34px; height: 16px;"><canvas width="41" height="17" style="width: 41px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>3DS</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/nintendo-ds" title="Nintendo DS, Nintendo DS Lite"><cufon class="cufon cufon-canvas" alt="Nintendo " style="width: 78px; height: 16px;"><canvas width="91" height="17" style="width: 91px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Nintendo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="DS" style="width: 24px; height: 16px;"><canvas width="31" height="17" style="width: 31px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>DS</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/catalogue/nintendo-games/" title="Games"><cufon class="cufon cufon-canvas" alt="Games" style="width: 57px; height: 16px;"><canvas width="66" height="17" style="width: 66px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Games</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/news" title="News"><cufon class="cufon cufon-canvas" alt="News" style="width: 45px; height: 16px;"><canvas width="54" height="17" style="width: 54px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>News</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/members" title="Members"><cufon class="cufon cufon-canvas" alt="Members" style="width: 75px; height: 16px;"><canvas width="84" height="17" style="width: 84px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Members</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/club-nintendo" title="Club Nintendo"><cufon class="cufon cufon-canvas" alt="Club " style="width: 42px; height: 16px;"><canvas width="56" height="17" style="width: 56px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Club </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Nintendo" style="width: 73px; height: 16px;"><canvas width="82" height="17" style="width: 82px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Nintendo</cufontext></cufon></a>
+				</li>
+				<li>
+					<a target="_top" href="/support" title="Support"><cufon class="cufon cufon-canvas" alt="Support" style="width: 65px; height: 16px;"><canvas width="78" height="17" style="width: 78px; height: 17px; top: 0px; left: -1px;"></canvas><cufontext>Support</cufontext></cufon></a>
+				</li>						
 			
-											<li>
-					<a href="/index.php?sectionID=1&amp;pageID=2" title="Wii"><cufon class="cufon cufon-canvas" alt="Wii" style="width: 19px; height: 12px;"><canvas width="29" height="13" style="width: 29px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Wii</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=366" title="Nintendo 3DS"><cufon class="cufon cufon-canvas" alt="Nintendo " style="width: 59px; height: 12px;"><canvas width="70" height="13" style="width: 70px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Nintendo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="3DS" style="width: 26px; height: 12px;"><canvas width="31" height="13" style="width: 31px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>3DS</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=3" title="Nintendo DS, Nintendo DS Lite"><cufon class="cufon cufon-canvas" alt="Nintendo " style="width: 59px; height: 12px;"><canvas width="70" height="13" style="width: 70px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Nintendo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="DS" style="width: 18px; height: 12px;"><canvas width="24" height="13" style="width: 24px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>DS</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=4" title="Games"><cufon class="cufon cufon-canvas" alt="Games" style="width: 44px; height: 12px;"><canvas width="50" height="13" style="width: 50px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Games</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=5" title="Nintendo Touch Generation"><cufon class="cufon cufon-canvas" alt="Touch! " style="width: 45px; height: 12px;"><canvas width="55" height="13" style="width: 55px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Touch! </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Generations" style="width: 76px; height: 12px;"><canvas width="82" height="13" style="width: 82px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Generations</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=6" title="News"><cufon class="cufon cufon-canvas" alt="News" style="width: 35px; height: 12px;"><canvas width="41" height="13" style="width: 41px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>News</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=7" title="Members"><cufon class="cufon cufon-canvas" alt="Members" style="width: 57px; height: 12px;"><canvas width="64" height="13" style="width: 64px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Members</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=8" title="Club Nintendo"><cufon class="cufon cufon-canvas" alt="Club " style="width: 32px; height: 12px;"><canvas width="42" height="13" style="width: 42px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Club </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Nintendo" style="width: 56px; height: 12px;"><canvas width="62" height="13" style="width: 62px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Nintendo</cufontext></cufon></a>
-					</li>
-														<li>
-					<a href="/index.php?sectionID=1&amp;pageID=9" title="Support"><cufon class="cufon cufon-canvas" alt="Support" style="width: 50px; height: 12px;"><canvas width="59" height="13" style="width: 59px; height: 13px; top: 0px; left: -1px;"></canvas><cufontext>Support</cufontext></cufon></a>
-					</li>
-												</ul>
+					
+					<a href="/index.php?sectionID=&amp;pageID=" title=""></a>
+					
+			</ul>
 			<div class="eshoplogo">
 			<a href="http://www.nintendo.com.au/nintendo-3ds-eshop"><img src="http://www.nintendo.com.au/template_images/header/nin_eshop-logo.png"></a></div>
 			
 			</div>
             <div class="page_tools">
                         <div id="signup_login"><a href="/index.php?pageID=58">Sign Up</a> &nbsp; | &nbsp; <a href="/index.php?pageID=54">Login</a></div>
-                     
+                    
+          
+			<script type="text/javascript">
+            	// Moving CSS to allow for logged in user
+				$(document).ready(function() {
+									});
+            </script>
+            
+            <div id="search-header-form">
+                <form action="/index.php" method="GET" name="search">
+                    <input type="hidden" name="action" value="sitesearch">
+                    <input type="hidden" name="si" value="2">
+                    <input class="search-input" type="text" name="q" size="20" value="Search">
+                    <input class="search-submit" type="submit" value="GO">
+                </form>
+            </div>
+			
           </div>
 		</div>
-				<div>
-	<!-- Banner starts-->		
-    	<div class="relative">
+		
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+<!-- 
+path details 
+$path[1].id: 10
+$path|@count: 3
+$nin_banner: 10_subheader.html
+//-->
+
+
+	<div>
+	<!-- Banner starts - 10-->	
+		    	<div class="relative">
 												<div class="banner_default"><img src="/template_images/29_banner.jpg" alt="Banner" width="990" height="205"></div>
 										  		
 		</div>
-	
+			
 		<!-- Banner ends-->
 		
 		<div class="subsection_holder">
@@ -339,110 +450,121 @@ if (r==true)
 						<div class="subsection_columns_holder">
 							<div class="page_main_column">
 								<h1 class="subsection_title">Online Privacy Policy</h1>
-								                                                                                                                                                                                                        																	<h1 class="subsection_title">
-  <br>
-</h1>
+								                                                                                                                                                                                    
+																	<h1 class="subsection_title">
+	&nbsp;</h1>
 <div class="main_column_left">
-  <h2 class="content_title">Nintendo Australia Pty Ltd Web Site Privacy Policy
-  </h2>
-  <p>Nintendo Australia Pty Ltd ACN 060 566 083 (Nintendo) is committed to preserving and respecting the privacy of visitors to this website.&nbsp;
-  </p>
-  <p>Nintendo is not a party to an approved privacy code, but complies with the Privacy Act 1982 (the Act) and the National Privacy Principles (NPP’s) in relation to the collection, use, security of and access to Personal Information. In this Policy, 'Personal Information' has the same meaning as in the Act.
-  </p>
-  <p>There are no exemptions under the Act which apply to collection of Personal Information on this web site.
-    <br>This policy only relates to Personal Information collected on this website.
-  </p>
-  <p> <strong>Please read this policy carefully before you use this website or provide any Personal Information.</strong>
-  </p> <a name="what_information"></a>
-  <h2 class="content_title">What information is collected?
-  </h2>
-  <p> Nintendo will only collect Personal Information from our online visitors to the website for (1) contest registration; (2) newsletter registration; (3) surveys; (4) registration for games or special game-specific promotion participation; (5) and to enable you to join specific groups such as Club Nintendo. Personal Information collected may include your name, nickname, e-mail address, mobile phone number and birth date. We do not generally require this information to allow access to this website; however, there may be some areas of the site that you will not be able to access unless you register. For example, "Members Only" areas will require you to register before you can access them.
-  </p>
-  <p>Nintendo also may collect demographic information from visitors, such as age, gender, geographic location, game genre interests, what platforms you own and stores you usually purchase Nintendo products from. This information helps us improve our online offerings and allows us to tailor information to your preferences.
-  </p>
-  <p>Normally, Nintendo does not collect Sensitive Information (as defined in the Act). If Nintendo does collect Sensitive Information, it will only do so as specifically permitted by NPP 10.1.
-  </p>
-  <h2 class="content_title">What happens to the information provided?
-  </h2>
-  <p>The Personal Information you provide will allow us to alert you to new products, features and enhancements; special offers; upgrade opportunities; and contests and events of interest.
-  </p>
-  <p>From time to time, Nintendo is approached by companies and organizations that provide products or services that we believe may be of interest to you, and we may send out notices on behalf of these companies. We see this as a value-added service helping you to find useful products or services. We strive to limit use of the information you provide to those offers that we think you would appreciate receiving.&nbsp; You may opt out if you do not wish to receive such material.
-  </p>
-  <p>We may use your Personal Information for internal demographic studies, so we can improve our web sites and products to better meet our visitors' needs. In some cases, we may merge your Personal Information with data collected from other sources.
-  </p>
-  <p>Nintendo occasionally uses outside agencies for market research, and may provide these companies with your Personal Information. These companies will be required to comply with Nintendo's privacy practices, the Act and the NPP's in handling this information.
-  </p>
-  <p>Nintendo may also disclose Personal Information to other organisations with which Nintendo has a business relationship (including other companies within the Nintendo Group where such organisations have agreed to treat the Personal Information in accordance with the Act and the NPP's.</p>
-  <p><a class="top_link" href="#top"></a>
-  </p>
-  <p><a class="top_link" href="#top">Back to top</a> <a name="special_note"></a>
-  </p>
-  <h2 class="content_title">A special note about children 13 years old and under
-  </h2>
-  <p> Nintendo encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet. We recognise a special obligation to protect Personal Information obtained from young children. In order for children 13 years old and under to participate in online activities that require registration, we require prior permission from a parent or guardian.
-  </p> <a class="top_link" href="#top">Back to top</a> <a name="about_cookies"></a>
-  <h2 class="content_title">What about cookies?
-  </h2>
-  <p>Cookies are files downloaded to your computer to track movements to within web sites.
-  </p>
-  <p>This web site may use cookies to keep track of your choices, or to keep track of the fact that you have signed in so you don't have to continually enter your username and password. Also, we use cookies to deliver content specific to your interest and for other purposes.
-  </p>
-  <p><a class="top_link" href="#top">Back to top</a>
-    <br>
-  </p>
-  <h2 class="content_title">E-mail correspondence to Nintendo
-  </h2>
-  <p> Nintendo may respond to e-mail correspondence if such correspondence includes a return e-mail address. It will retain your email address and other Personal Information contained in any email you send, for that purpose.
-  </p>
-  <p><a class="top_link" href="#top">Back to top</a>
-  </p> <a name="access_personal_info"></a>
-  <h2 class="content_title">Access to and correction of Personal Information
-  </h2>
-  <p>Nintendo will take all reasonable steps to ensure that your Personal Information which Nintendo collects, uses or discloses is accurate, complete and up-to-date.
-  </p>
-  <p>You can obtain details of the Personal Information (such as contact details) that Nintendo hold about you by contacting the numbers below.&nbsp; If you wish to access the information Nintendo holds about you, please send an email or write to our privacy compliance officer (see contact details below) and Nintendo will respond to you within 30 days.
-  </p>
-  <p>You can also request that Nintendo correct or delete Personal Information which it holds about you and in some cases you may be able to change contact details yourself on the website.
-  </p>
-  <p>You can also request details about the way in which Nintendo manages Personal Information.
-  </p>
-  <p><a class="top_link" href="#top">Back to top</a>
-  </p>
-  <h2 class="content_title">Safeguarding your personally identifiable information
-  </h2>
-  <p>Nintendo will take reasonable steps to ensure the security, integrity and privacy of the Personal Information which it collects. This includes appropriate measures to protect electronic materials and materials in hard copy.
-  </p>
-  <p>Nintendo will take reasonable steps to ensure that third parties to whom Nintendo transfers any Personal Information will provide sufficient protection of that Personal Information.
-  </p>
-  <p><a class="top_link" href="#top">Back to top</a>
-    <br>
-  </p>
-  <h2 class="content_title">Changes to this Policy</h2>
-  <p>Nintendo reserves the right to make changes in or to update this Policy at any time to reflect changes in its business requirements, changes in the law or technological developments.
-  </p>
-  <p>If you would like a copy of this policy, have any questions, complaints or comments regarding it, or wish to take any of the steps listed in Section 7, please contact Privacy Compliance Officer, Nintendo Australia, 804 Stud Road, Scoresby, Victoria, 3179, ph +61 3 9730 9900
-    <br>
-  </p>
-  <p><a class="top_link" href="#top">Back to top</a>
-  </p>
+	<h2 class="content_title">
+		Nintendo Australia Pty Ltd Web Site Privacy Policy</h2>
+	<p>
+		Nintendo Australia Pty Ltd ACN 060 566 083 (Nintendo) is committed to preserving and respecting the privacy of visitors to this website.&nbsp;</p>
+	<p>
+		Nintendo is not a party to an approved privacy code, but complies with the Privacy Act 1982 (the Act) and the National Privacy Principles (NPP’s) in relation to the collection, use, security of and access to Personal Information. In this Policy, 'Personal Information' has the same meaning as in the Act.</p>
+	<p>
+		There are no exemptions under the Act which apply to collection of Personal Information on this web site.<br>
+		This policy only relates to Personal Information collected on this website.</p>
+	<p>
+		<strong>Please read this policy carefully before you use this website or provide any Personal Information.</strong></p>
+	<a name="what_information"></a>
+	<h2 class="content_title">
+		What information is collected?</h2>
+	<p>
+		Nintendo will only collect Personal Information from our online visitors to the website for (1) contest registration; (2) newsletter registration; (3) surveys; (4) registration for games or special game-specific promotion participation; (5) and to enable you to join specific groups such as Club Nintendo. Personal Information collected may include your name, nickname, e-mail address, mobile phone number and birth date. We do not generally require this information to allow access to this website; however, there may be some areas of the site that you will not be able to access unless you register. For example, "Members Only" areas will require you to register before you can access them.</p>
+	<p>
+		Nintendo also may collect demographic information from visitors, such as age, gender, geographic location, game genre interests, what platforms you own and stores you usually purchase Nintendo products from. This information helps us improve our online offerings and allows us to tailor information to your preferences.</p>
+	<p>
+		Normally, Nintendo does not collect Sensitive Information (as defined in the Act). If Nintendo does collect Sensitive Information, it will only do so as specifically permitted by NPP 10.1.</p>
+	<h2 class="content_title">
+		<a name="what_happens"></a>What happens to the information provided?</h2>
+	<p>
+		The Personal Information you provide will allow us to alert you to new products, features and enhancements; special offers; upgrade opportunities; and contests and events of interest.</p>
+	<p>
+		From time to time, Nintendo is approached by companies and organizations that provide products or services that we believe may be of interest to you, and we may send out notices on behalf of these companies. We see this as a value-added service helping you to find useful products or services. We strive to limit use of the information you provide to those offers that we think you would appreciate receiving.&nbsp; You may opt out if you do not wish to receive such material.</p>
+	<p>
+		We may use your Personal Information for internal demographic studies, so we can improve our web sites and products to better meet our visitors' needs. In some cases, we may merge your Personal Information with data collected from other sources.</p>
+	<p>
+		Nintendo occasionally uses outside agencies for market research, and may provide these companies with your Personal Information. These companies will be required to comply with Nintendo's privacy practices, the Act and the NPP's in handling this information.</p>
+	<p>
+		Nintendo may also disclose Personal Information to other organisations with which Nintendo has a business relationship (including other companies within the Nintendo Group where such organisations have agreed to treat the Personal Information in accordance with the Act and the NPP's.</p>
+	<p>
+		<a class="top_link" href="#top">Back to top</a></p>
+	<h2 class="content_title">
+		<a name="special_note"></a>A special note about children 13 years old and under</h2>
+	<p>
+		Nintendo encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet. We recognise a special obligation to protect Personal Information obtained from young children. In order for children 13 years old and under to participate in online activities that require registration, we require prior permission from a parent or guardian.</p>
+	<a class="top_link" href="#top">Back to top</a> <a name="about_cookies"></a>
+	<h2 class="content_title">
+		What about cookies?</h2>
+	<p>
+		Cookies are files downloaded to your computer to track movements to within web sites.</p>
+	<p>
+		This web site may use cookies to keep track of your choices, or to keep track of the fact that you have signed in so you don't have to continually enter your username and password. Also, we use cookies to deliver content specific to your interest and for other purposes.</p>
+	<p>
+		<a class="top_link" href="#top">Back to top</a></p>
+	<a name="email_correspondence"></a>
+	<h2 class="content_title">
+		E-mail correspondence to Nintendo</h2>
+	<p>
+		Nintendo may respond to e-mail correspondence if such correspondence includes a return e-mail address. It will retain your email address and other Personal Information contained in any email you send, for that purpose.</p>
+	<p>
+		<a class="top_link" href="#top">Back to top</a></p>
+	<a name="access_personal_info"></a>
+	<h2 class="content_title">
+		Access to and correction of Personal Information</h2>
+	<p>
+		Nintendo will take all reasonable steps to ensure that your Personal Information which Nintendo collects, uses or discloses is accurate, complete and up-to-date.</p>
+	<p>
+		You can obtain details of the Personal Information (such as contact details) that Nintendo hold about you by contacting the numbers below.&nbsp; If you wish to access the information Nintendo holds about you, please send an email or write to our privacy compliance officer (see contact details below) and Nintendo will respond to you within 30 days.</p>
+	<p>
+		You can also request that Nintendo correct or delete Personal Information which it holds about you and in some cases you may be able to change contact details yourself on the website.</p>
+	<p>
+		You can also request details about the way in which Nintendo manages Personal Information.</p>
+	<p>
+		<a class="top_link" href="#top">Back to top</a></p>
+	<a name="safeguarding"></a>
+	<h2 class="content_title">
+		Safeguarding your personally identifiable information</h2>
+	<p>
+		Nintendo will take reasonable steps to ensure the security, integrity and privacy of the Personal Information which it collects. This includes appropriate measures to protect electronic materials and materials in hard copy.</p>
+	<p>
+		Nintendo will take reasonable steps to ensure that third parties to whom Nintendo transfers any Personal Information will provide sufficient protection of that Personal Information.</p>
+	<p>
+		<a class="top_link" href="#top">Back to top</a></p>
+	<a name="policy_changes"></a>
+	<h2 class="content_title">
+		Changes to this Policy</h2>
+	<p>
+		Nintendo reserves the right to make changes in or to update this Policy at any time to reflect changes in its business requirements, changes in the law or technological developments.</p>
+	<p>
+		If you would like a copy of this policy, have any questions, complaints or comments regarding it, or wish to take any of the steps listed in Section 7, please contact Privacy Compliance Officer, Nintendo Australia, 804 Stud Road, Scoresby, Victoria, 3179, ph +61 3 9730 9900</p>
+	<p>
+		<a class="top_link" href="#top">Back to top</a></p>
 </div>
 <div class="main_column_right">
-  <h3 class="nav_title">Privacy Overview
-  </h3>
-  <ul class="sub_side_nav">
-    <li><a href="#what_information">What information is collected?</a></li>
-    <li><a href="#what_happens">What happens to the information provided?</a></li>
-    <li><a href="#special_note">A special note about children 13 years old and under</a></li>
-    <li><a href="#about_cookies">What about cookies?</a></li>
-    <li><a href="#email_correspondence">E-mail correspondence to Nintendo</a></li>
-    <li><a href="#access_personal_info">Access to and correction of Personal Information</a></li>
-    <li><a href="#safeguarding">Safeguarding your personally identifiable information</a></li>
-    <li><a href="#policy_changes">Changes to this Policy</a></li>
-  </ul>
-</div>							
+	<h3 class="nav_title">
+		Privacy Overview</h3>
+	<ul class="sub_side_nav">
+		<li>
+			<a href="#what_information">What information is collected?</a></li>
+		<li>
+			<a href="#what_happens">What happens to the information provided?</a></li>
+		<li>
+			<a href="#special_note">A special note about children 13 years old and under</a></li>
+		<li>
+			<a href="#about_cookies">What about cookies?</a></li>
+		<li>
+			<a href="#email_correspondence">E-mail correspondence to Nintendo</a></li>
+		<li>
+			<a href="#access_personal_info">Access to and correction of Personal Information</a></li>
+		<li>
+			<a href="#safeguarding">Safeguarding your personally identifiable information</a></li>
+		<li>
+			<a href="#policy_changes">Changes to this Policy</a></li>
+	</ul>
+</div>
+							
 									<div class="main_column_right">
-									  
-	
+									  	
                     	
                     	
                     	
@@ -451,8 +573,8 @@ if (r==true)
                     	
                     	
                     	
-                    	
-                    											</div>
+                    		
+									</div>
 															</div>
 					   
 			   			 
@@ -483,15 +605,16 @@ if (r==true)
 <div class="promo_holder">
   <div class="promo">
     <div class="promo_image" style="background-image: url('/web_images/promotions/17/Latest-Games-1.jpg');">
-      <div class="promo_tag_outnow"><a href="http://www.nintendo.com.au/index.php?action=catalogue&amp;pageID=4&amp;sectionID=1&amp;prodcat_id=43">&nbsp;</a></div>
+      <div class="promo_tag_outnow"><a href="/catalogue/nintendo-games/">&nbsp;</a></div>
     </div>
-    <div class="promo_title"><a href="http://www.nintendo.com.au/index.php?action=catalogue&amp;pageID=4&amp;sectionID=1&amp;prodcat_id=43">Latest Games for Wii, Nintendo DS and Nintendo 3DS!</a></div>
+    <div class="promo_title"><a href="/catalogue/nintendo-games/">Latest Games for Wii, Nintendo DS and Nintendo 3DS!</a></div>
 
     <p>Looking for your favourite game or new releases - search the Nintendo.com.au games section for the latest games on the Wii, Nintendo DS and Nintendo 3DS!</p>
-    <p><a href="http://www.nintendo.com.au/index.php?action=catalogue&amp;pageID=4&amp;sectionID=1&amp;prodcat_id=43">Click here for the latest news</a></p>
+    <p><a href="/catalogue/nintendo-games/">Click here for the latest news</a></p>
   </div>
 </div>
 </div>
+
 										
 						
 						
@@ -501,7 +624,8 @@ if (r==true)
 									<div class="sub_footer"></div>
 									</div>
 	</div>
-	<div style="clear:both; display:block; font-size:0;"></div>
+
+                <div style="clear:both; display:block; font-size:0;"></div>
 <!--START HOMEPAGE FOOTER -->
 <div class="footer_wrapper_subpage">
 	<div class="footer_header"></div>
@@ -513,7 +637,6 @@ if (r==true)
               <li><a href="/index.php?pageID=13">History</a></li>
               <li><a href="/index.php?pageID=14">Parents</a></li>
               <li><a href="http://www.nintendo.co.jp/corporate/en/csr/">CSR</a></li>
-              <li><a href="#" onclick="disp_confirm2()">Iwata Asks Nintendo DSi</a></li>
               <li><a href="/index.php?sectionID=1&amp;pageID=173">Legal</a></li>
 			  <li><a href="/pdfs/Nintendo_APC_Action_Plan_2010-2015.pdf">Nintendo APC Action Plan</a></li>
             </ul>
@@ -521,25 +644,24 @@ if (r==true)
           <div class="footer_list">
             <p class="list_title">Related Sites</p>
             <ul>
-              <li><a href="http://touchgenerations.nintendo.com.au/">Touch! Generations</a></li>
               <li><a href="/index.php?sectionID=1&amp;pageID=357">Wi-Fi connection</a></li>
               <li><a href="#" onclick="disp_confirm1()">Wii</a></li>
-			  <li><a href="http://www.nintendo3ds.com.au">Nintendo 3DS</a></li>
+			  <li><a href="http://www.nintendo3ds.com.au/site">Nintendo 3DS</a></li>
               <li><a href="http://gamesites.nintendo.com.au/DSi/">Nintendo DSi</a></li>
               <li><a href="http://gamesites.nintendo.com.au/ONM"> Official Nintendo Magazine</a></li>
-                            <li><a href="http://www.melbourne.nintendoexperience.com.au"> Melb. Nintendo Experience</a></li>
+				<li><a href="/nintendodirect/">Nintendo Direct</a></li>
             </ul>
           </div>
           <div class="footer_list">
             <p class="list_title">Systems</p>
             <ul>
-              <li><a href="/index.php?sectionID=32&amp;pageID=66">Wii</a></li>
-			   <li><a href="/index.php?sectionID=1&amp;pageID=366">Nintendo 3DS</a></li>
-              <li><a href="http://dslite.nintendo.com.au/">Nintendo DSi</a></li>
-              <li><a href="/index.php?sectionID=46&amp;pageID=71">Nintendo DS</a></li>
-              <li><a href="http://gamesites.nintendo.com.au/nintendo-dsi-xl/">Nintendo DSi XL </a><br>
-              </li>
-              <li><a href="/index.php?pageID=23">Classic systems</a></li>
+				<li><a href="/index.php?sectionID=32&amp;pageID=66">Wii</a></li>
+				<li><a href="http://www.nintendo3ds.com.au">Nintendo 3DS XL</a></li>
+				<li><a href="/index.php?sectionID=1&amp;pageID=366">Nintendo 3DS</a></li>
+				<li><a href="http://dslite.nintendo.com.au/">Nintendo DSi</a></li>
+				<li><a href="/index.php?sectionID=46&amp;pageID=71">Nintendo DS</a></li>
+				<li><a href="http://gamesites.nintendo.com.au/nintendo-dsi-xl/">Nintendo DSi XL </a></li>
+				<li><a href="/index.php?pageID=23">Classic systems</a></li>
             </ul>
           </div>
           <div class="footer_list">
@@ -558,9 +680,11 @@ if (r==true)
 		  <div class="footer_list_ctas">
             <ul>
 				<li class="fli_preorder">
-				    
-					<a rel="footer:buy-now" href="/index.php?pageID=325&amp;prevpage=Nintendo|Home|Footer|Online Privacy Policy&amp;intcmp=Nintendo|Home|Footer|Online Privacy Policy:footer:buy-now" title="Buy now" id="logo-footer-buy">
-										Pre-order or Buy now
+				
+					 
+                    
+					<a rel="footer:buy-now" href="/index.php?pageID=325" title="Buy now" id="logo-footer-buy">
+									Pre-order or Buy now
 					</a>
 				</li>
 				<li class="fli_channel"><a href="http://www.youtube.com/nintendoau" id="logo-footer-youtube">www.youtube.com/nintendoau - Channel</a></li>
@@ -600,67 +724,14 @@ if (r==true)
 
 </div></div>
 
-<!--END HOMEPAGE FOOTER -->		
+
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6429023-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+	</script>
 
-	
-	<!-- live -->
-    			
-<!--The Below needs to be have proper suite id before going live -->	
-<script type="text/javascript" src="templates/s_code.js"></script>
-<script type="text/javascript">
-<!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-
-s.pageName="Nintendo|Home|Footer|Online Privacy Policy";
-s.server="charlie";
-s.channel="";
-s.pageType="pages";
-
-s.prop2="";
-s.prop3="";
-s.prop4="";
-s.prop5="";
-s.prop6="";
-
-/* Conversion Variables */
-s.campaign="";
-s.state="";
-s.zip="";
-s.events=""
-s.products="";
+<!--END HOMEPAGE FOOTER -->
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","24fe916fc1","684515","NlxRNktYXBEABRBRXw8WcBdKTV0PTgULSlUFV1JNW1VdAQpJFEpfDFZHC1ZXQU0GAxBIQg5UXBZQVlwR",0,313,new Date().getTime()]);</script>
 
 
-s.purchaseID="";
-s.eVar1="";
-s.eVar2="";
-s.eVar3="";
-s.eVar4="";
-s.eVar5="";
-s.eVar6="";
-/* Hierarchy Variables */
-s.hier1="Nintendo|Home|Footer|Online Privacy Policy";
 
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! (NEEDS TO BE UPDATED BEFORE GOING LIVE) **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://bwired.122.2o7.net/b/ss/bwirednintendostaging/1/H.22.1--NS/0?[AQB]&cdp=3&[AQE]"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. -->		
-	
-
-
-</body></html>
+            <script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
