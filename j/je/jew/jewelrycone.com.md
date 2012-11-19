@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jewelrycone.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418012308id_/http%3A//www.jewelrycone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrycone.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119015617id_/http%3A//www.jewelrycone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Jewelry from Kay Jewelers, the Jewelry Store jewelrycone.com
 
 Discount Printing for an Etsy Jewelry Catalog?
 
-[(Go) »](https://web.archive.org/web/20120418012308id_/http%3A//www.jewelrycone.com/discount-printing-for-an-etsy-jewelry-catalog)
+[(Go) »](https://web.archive.org/web/20121119015617id_/http://www.jewelrycone.com/privacy-policy/discount-printing-for-an-etsy-jewelry-catalog)
 
 
 
