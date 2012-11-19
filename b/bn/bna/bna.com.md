@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507221931id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119225720id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
 
 # Privacy Policy | Bloomberg BNA
 
@@ -73,7 +73,7 @@ The primary reason that we collect and maintain Customer Information and other P
 
 
 
-5\. **Our Policies Regarding the Use and Disclosure of Information.**  
+5\. **Our Policies Regarding the Use and Disclosure of Information.**
 
 > a) **Information Use and Sharing.** We may use and share the Customer Information and other Personally Identifiable Information that we collect among various departments within BNA and its subsidiaries that perform functions such as servicing User accounts, preparing reports regarding Product use, market research, and promotional activities. The reasons that we share this Customer Information and other Personally Identifiable Information include the following:
 > 
@@ -130,7 +130,7 @@ The primary reason that we collect and maintain Customer Information and other P
 > 
 > b) **User IDs and Passwords**. Each User is responsible for maintaining the confidentiality of his or her User ID and password, and are responsible for all Product activities that occur under his or her User ID and password, including, without limitation, all related Customer Information and other Personally Identifiable Information. Each User agrees to immediately notify BNA of any unauthorized use of his or her User ID or password or of his or her Customer Information and other Personally Identifiable Information or any other breach of security regarding the Products or his or her Customer Information and other Personally Identifiable Information. BNA will not be liable for any Loss whatsoever arising from a User's failure to comply with these security requirements and each User agrees to hold BNA harmless from any and all Losses that arise from that failure to so comply.
 
-7\. **Tips To Help You Protect Customer Information**. If any User suspects that someone has had unauthorized access to his or her BNA account, or access to his or her Customer Information and other Personally Identifiable Information, such as his or her User ID or password, the User should contact BNA so we can take appropriate action to protect the User and his or her Customer Information and other Personally Identifiable Information. Please contact the BNA Customer Contact Center: 1-800-372-1033 (U.S. and Canada), 703-341-3500 (International callers), Monday - Friday, 8:30 a.m. to 7:00p.m. ET, or submit an on-line support form at [www.bna.com/contact](http://www.bna.com/contact).
+7\. **Tips To Help You Protect Customer Information**. If any User suspects that someone has had unauthorized access to his or her BNA account, or access to his or her Customer Information and other Personally Identifiable Information, such as his or her User ID or password, the User should contact BNA so we can take appropriate action to protect the User and his or her Customer Information and other Personally Identifiable Information. Please contact the BNA Customer Contact Center: 1-800-372-1033 (U.S. and Canada), 703-341-3500 (International callers), Monday - Friday, 8:00 a.m. to 8:00 p.m. ET, or submit an on-line support form at [www.bna.com/contact](http://www.bna.com/contact).
 
 In addition, Users may want to consider if it is important to report the crime to local law enforcement agencies and to the Federal Trade Commission (FTC). To speak with a trained FTC telephone counselor, call toll-free 1-877-IDTheft (1-877-438-4338). Or, to enter information about any complaint into a secure FTC online database, sign onto [www.consumer.gov/idtheft](http://www.consumer.gov/idtheft). The site also provides links to numerous consumer education materials.
 
