@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackingtrick.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052646id_/http%3A//www.hackingtrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackingtrick.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119060902id_/http%3A//www.hackingtrick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hacking tricks
 
@@ -35,5 +35,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 #### Incoming search terms:
 
-[hackingtricks com](http://www.hackingtrick.com/privacy-policy/ "hackingtricks com") (17)[www Hacking Trick com](http://www.hackingtrick.com/privacy-policy/ "www Hacking Trick com") (11)
+[hackingtricks com](http://www.hackingtrick.com/privacy-policy/ "hackingtricks com") (20)[www Hacking Trick com](http://www.hackingtrick.com/privacy-policy/ "www Hacking Trick com") (11)
 
