@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greatnonprofits.org privacy policy that was archived on 2012-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609125553id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatnonprofits.org privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119040848id_/http%3A//greatnonprofits.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -10,7 +10,6 @@
 <meta name="description" content="Find and review charities, nonprofits and volunteering and donation opportunities. Want to donate or volunteer? Find the best local non-profit or charity."><meta name="keywords" content="nonprofits, non-profits, not for profits, volunteer, donate, donation, volunteering, ratings, rate, best non-profits, best nonprofits, best charities, top nonprofits, top charities, top non-profits, charitable giving, giving to nonprofits">
 <!-- for FB share --> 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title id="htitle">GreatNonprofits: Find non-profits and charities to review, donate, or volunteer.</title>
 
 <link rel="shortcut icon" href="/favicon.ico">
@@ -18,7 +17,7 @@
 <link rel="alternate" type="application/atom+xml" title="GNP Blog" href="http://greatnonprofits.org/atom2/">
 <link rel="alternate" type="application/atom+xml" title="Recent Reviews" href="http://greatnonprofits.org/rss-reviews/">
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
 <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
 <script type="text/javascript" src="/js/jquery-impromptu.min.js"></script>
@@ -58,7 +57,7 @@
 -->
 
 <!-- TJ: redesign additions -->
-  <link rel="stylesheet" type="text/css" href="/css/home.css">
+  <link rel="stylesheet" type="text/css" href="/css/home.css?cb=2">
   <link rel="stylesheet" type="text/css" href="/fonts/urbano.css">
   <script type="text/javascript">
     $('html').addClass('js');
@@ -75,8 +74,8 @@
 <div id="page"> 
 
 	  						
-			<cake:nocache>
-			<cake:nocache>
+			
+
 
 
 <ul id="global"> 
@@ -91,17 +90,17 @@
     <li><a href="http://greatnonprofits.org/about/" title="About Us">About Us</a></li>
     <li><a href="http://greatnonprofits.org/nonprofitnews/" title="Blog">Blog</a></li>
     <li><a href="/contact-us" title="Contact">Contact</a></li>
+    <li><a href="/write-a-review" title="Write a Review">Write a Review</a></li>
     <li class="last social">
       Follow us: <a class="follow-fb" href="http://www.facebook.com/greatnonprofits" title="Follow us on Facebook">Facebook</a><a class="follow-tw" href="https://twitter.com/GreatNonprofits" title="Follow us on Twitter">Twitter</a>
     </li>
   </ul>
   <div class="clear"></div>
-<cake:nocache>  
+  
   
 
 
 
-			</cake:nocache>
 
 		 
 
@@ -140,39 +139,35 @@
       <li class="expand"><a href="/organizations/find">ZIP CODE</a>        <div class="popup wide">
         	<h4>Browse by Zip Code</h4>
 			<div class="find-section">
-								
-	 <form id="browse-filters-top" method="post" action="/organizations/browse" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div> 
-      <input type="hidden" name="data[Filter][keep_filters]" value="1" id="FilterKeepFilters">		        
+		
+	 <form id="browse-filters-top" method="post" action="/organizations/browse" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>      <input type="hidden" name="data[Filter][keep_filters]" value="1" id="FilterKeepFilters">		        
 		      <table class="text-input">
-		      <tbody><tr>
-		      <td>
-		      <label for="FilterSearch">Find: </label>		      </td>
+		      <tbody><tr style="background-color:#f0f0f0;">
+		        <td style="width: 110px;">
+              <label for="FilterSearch" style="font-weight:800;">Nonprofit Name: </label>		      </td>
 		      <td>
 	        <div class="input text"><input name="data[Filter][search]" type="text" size="25" value="Name, keyword, or EIN" id="FilterSearch"></div>	         <input type="hidden" name="data[Filter][new_search]" value="1" id="FilterNewSearch">		      </td>
+		      <td style="width: 135px;padding-left:20px;">
+		      		<button class="smallbutton" type="submit" style="margin:0;">Search</button>
+		      </td>
 		      </tr>
 	         
-	         <tr>
-	         <td>
-			    <label class="bold">Near:</label> 
-	         </td>
-	         <td>
-		      <input name="data[Filter][location]" type="text" size="25" value="Zipcode or City, State" id="FilterLocation">	         </td>
-	         <td>
-		      <label for="FilterRadius"> within: </label>	         </td>
-	         <td>
-		      <select name="data[Filter][radius]" id="FilterRadius">
+	         <tr style="background-color:#F8F1DE;border-top:1px solid #bdbdbd;">
+	         <td colspan="3" class="optional">
+			    <label class="bold"><span style="font-weight:800;">Optional:</span></label>
+	            <label for="FilterRadius"> Search within </label>                <select name="data[Filter][radius]" id="FilterRadius">
+<option value="1">1 mile</option>
+<option value="2">2 miles</option>
 <option value="5">5 miles</option>
 <option value="10">10 miles</option>
 <option value="20">20 miles</option>
 <option value="30">30 miles</option>
 <option value="50">50 miles</option>
-</select>	         </td>
+</select>	            <label for="FilterLocation"> of </label>		        <input name="data[Filter][location]" type="text" size="25" value="Zipcode or City, State" id="FilterLocation">	         </td>
 	         </tr>
-		      </tbody></table>  
+		      </tbody></table>
 		         
     
-						        
-				<button class="smallbutton" type="submit" style="margin:15px 0;">Search</button> 
 				
 			</form>
 	<div class="clear"></div>			
@@ -182,39 +177,35 @@
       <li class="expand"><a href="/organizations/find">CITY/STATE</a>        <div class="popup wide">
         	<h4>Browse by City/State</h4>
 			<div class="find-section">
-								
-	 <form id="browse-filters-top" method="post" action="/organizations/browse" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div> 
-      <input type="hidden" name="data[Filter][keep_filters]" value="1" id="FilterKeepFilters">		        
+		
+	 <form id="browse-filters-top" method="post" action="/organizations/browse" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>      <input type="hidden" name="data[Filter][keep_filters]" value="1" id="FilterKeepFilters">		        
 		      <table class="text-input">
-		      <tbody><tr>
-		      <td>
-		      <label for="FilterSearch">Find: </label>		      </td>
+		      <tbody><tr style="background-color:#f0f0f0;">
+		        <td style="width: 110px;">
+              <label for="FilterSearch" style="font-weight:800;">Nonprofit Name: </label>		      </td>
 		      <td>
 	        <div class="input text"><input name="data[Filter][search]" type="text" size="25" value="Name, keyword, or EIN" id="FilterSearch"></div>	         <input type="hidden" name="data[Filter][new_search]" value="1" id="FilterNewSearch">		      </td>
+		      <td style="width: 135px;padding-left:20px;">
+		      		<button class="smallbutton" type="submit" style="margin:0;">Search</button>
+		      </td>
 		      </tr>
 	         
-	         <tr>
-	         <td>
-			    <label class="bold">Near:</label> 
-	         </td>
-	         <td>
-		      <input name="data[Filter][location]" type="text" size="25" value="Zipcode or City, State" id="FilterLocation">	         </td>
-	         <td>
-		      <label for="FilterRadius"> within: </label>	         </td>
-	         <td>
-		      <select name="data[Filter][radius]" id="FilterRadius">
+	         <tr style="background-color:#F8F1DE;border-top:1px solid #bdbdbd;">
+	         <td colspan="3" class="optional">
+			    <label class="bold"><span style="font-weight:800;">Optional:</span></label>
+	            <label for="FilterRadius"> Search within </label>                <select name="data[Filter][radius]" id="FilterRadius">
+<option value="1">1 mile</option>
+<option value="2">2 miles</option>
 <option value="5">5 miles</option>
 <option value="10">10 miles</option>
 <option value="20">20 miles</option>
 <option value="30">30 miles</option>
 <option value="50">50 miles</option>
-</select>	         </td>
+</select>	            <label for="FilterLocation"> of </label>		        <input name="data[Filter][location]" type="text" size="25" value="Zipcode or City, State" id="FilterLocation">	         </td>
 	         </tr>
-		      </tbody></table>  
+		      </tbody></table>
 		         
     
-						        
-				<button class="smallbutton" type="submit" style="margin:15px 0;">Search</button> 
 				
 			</form>
 	<div class="clear"></div>			
@@ -237,7 +228,9 @@
 	
 		
 		
-		
+	
+
+	
 <div id="main" class=" press">
   <a name="top"></a>
   <div class="column-center">
@@ -289,7 +282,7 @@
   </div>
 </div> <!-- footer -->
  
-</cake:nocache></cake:nocache></div> <!-- page -->
+</div> <!-- page -->
 
 	<script type="text/javascript">
   (function(d){
@@ -404,6 +397,6 @@
 </script>
 <!-- end analytics --> 
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","19823124f1",508645,"b1ZXZ0NYCkVZBxJeC1YcdFBFUAtYFxMWGAVaXEBH",0,779,new Date().getTime()]);</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum.js"></script></body></html>
+
+</body></html>
