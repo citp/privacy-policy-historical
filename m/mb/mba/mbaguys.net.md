@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbaguys.net privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520024909id_/http%3A//www.mbaguys.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbaguys.net privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119074604id_/http%3A//www.mbaguys.net/privacy.php) for the most accurate reproduction.*
 
 # MBAGuys.net privacy policy - MBA Guys
 
