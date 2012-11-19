@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041731id_/http%3A//www.atlantamagazine.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119063903id_/http%3A//www.atlantamagazine.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Atlanta Magazine
 
@@ -40,7 +40,7 @@ You should note that while we take steps to protect your privacy and security th
 
 If you have any concerns about privacy procedures at our website or wish to access or modify your Personally Identifiable Information collected at the Site:
 
-* E-mail us your privacy concerns: awilson@atlantamag.emmis.com   
+* E-mail us your privacy concerns: online@atlantamag.emmis.com   
 * Write us at: Attn: Privacy/ 260 Peachtree Street, Suite 300 Atlanta, GA 30303  
 * Call us at: 404-527-5500  
 * Fax us at: 404-527-5575
