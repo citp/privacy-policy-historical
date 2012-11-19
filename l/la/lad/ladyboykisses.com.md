@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the ladyboykisses.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521070343id_/http%3A//www.ladyboykisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboykisses.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119204209id_/http%3A//www.ladyboykisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
 
 # LadyboyKisses
 
-|   |  | 
-
-International Dating Service  
-for men seeking ladyboys
-
-|  |   
----|---|---  
-   
-| | |   
+|  | | |   
 ---|---|---  
 |  |    
   
@@ -102,5 +94,5 @@ The author intended not to use any copyrighted material for the publication or, 
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
 | |   
-[Hotel Thailand](https://web.archive.org/hotel_thailand.php) | | [Learn Tagalog Filipino](https://web.archive.org/learn_thai.php?language=tagalog&l=en) | [Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en)|  | [Freeware](https://web.archive.org/web/20120521070343id_/http%3A//www.ladyboykisses.com/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20120521070343id_/http%3A//www.ladyboykisses.com/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20120521070343id_/http%3A//www.ladyboykisses.com/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20120521070343id_/http%3A//www.ladyboykisses.com/agb.php?l=en&randm=3&randw=5)  
+[Hotel Thailand](https://web.archive.org/hotel_thailand.php) | | [Learn Tagalog Filipino](https://web.archive.org/learn_thai.php?language=tagalog&l=en) | [Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en)|  | [Freeware](https://web.archive.org/web/20121119204209id_/http%3A//www.ladyboykisses.com/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20121119204209id_/http%3A//www.ladyboykisses.com/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20121119204209id_/http%3A//www.ladyboykisses.com/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20121119204209id_/http%3A//www.ladyboykisses.com/agb.php?l=en&randm=3&randw=5)  
 ---|---|---|---|---|---
