@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the silverpop.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silverpop.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119013524id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -13,14 +13,149 @@
 
 
 <!-- BEGIN Engage Web Tracking Code -->
-     <meta name="com.silverpop.brandeddomains" content="www.pages05.net,customer.silverpop.com,pages.silverpop.com,placepunch.com,silverpop.com">
+     <meta name="com.silverpop.webtrackingoptin" content="true">
+     <meta name="com.silverpop.brandeddomains" content="www.pages05.net,customer.silverpop.com,pages.silverpop.com,placepunch.com,silverpop.com,www.silverpop.com">
      <script src="http://content.mkt51.net/lp/static/js/iMAWebCookie.js?1a8b3ca-1267bb7dbd6-c6f842ded9e6d11c5ffebd715e129037&amp;h=www.pages05.net" type="text/javascript"></script>
      <!-- END Engage Web Tracking Code -->
 <script src="http://apis.google.com/js/plusone.js" type="text/javascript"></script>
-
+<link href="/silverpop-favicon.ico" rel="icon" type="image/png">
 </head>
 
 <body>
+
+     <div id="sp_banner_container" style="display: none;">
+        <script>
+        var require_opt_in_countries = ['Austria', 'Belgium', 'Bulgaria', 'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Malta', 'Netherlands', 'Poland', 'Portugal', 'Romania', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'United Kingdom'];
+        var sp_ip_country = '';
+        </script>
+        <script src="http://www.silverpop.com/geo/get_country.js.php"></script>
+        <script>
+        var in_country_requiring_opt_in = false;
+        sp_ip_country = sp_ip_country.toLowerCase();
+        for (var i = 0; i < require_opt_in_countries.length; i++) {
+                if (require_opt_in_countries[i].toLowerCase() == sp_ip_country) {
+                        in_country_requiring_opt_in = true;
+                        break;
+                }
+        }
+        function dismissBannerAcceptCookies() {
+            var element = document.getElementById("sp_accept_cookies");
+            if (element && element.checked) {
+                createCookie(getAcceptCookieName(), "true", true);
+                document.location = document.location + ((isExternalWebTrackSite()) ? '' : getReferringURLParams());
+            }
+        }
+
+        function getAcceptCookieName() {
+            var cookieName = "com.silverpop.iMA.accept_cookies";
+            if (!isExternalWebTrackSite()) {
+                cookieName += "%%SITE_COOKIE_URI%%";
+            }
+            return cookieName;
+        }
+
+        function isExternalWebTrackSite() {
+            var m = document.getElementsByTagName('meta');
+            for (var i = 0; i < m.length; i++) {
+                if (m[i].name.toLowerCase() == "com.silverpop.brandeddomains") {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        function createCookie(name, value, isPermanentCookie) {
+            if (cookiesEnabled()) {
+                var date = new Date();
+                var ttl = isPermanentCookie ? 86400000000 : 1200000;
+                date.setTime(date.getTime() + ttl);
+                var ttl = "; expires=" + date.toGMTString();
+                var batter = name + "=" + value + ttl + "; path=/";
+                document.cookie = batter;
+            }
+        }
+
+        function cookiesEnabled() {
+            if (navigator && navigator.cookieEnabled) {
+                return true;
+            }
+
+            return false;
+        }
+
+        function readCookie(cookiename) {
+            var cookies = document.cookie ? document.cookie.split('; ') : [];
+            for (var i = 0; i < cookies.length; i++) {
+                if (cookies[i].indexOf(cookiename) == 0) return cookies[i].split('=')[1];
+            }
+            return '';
+        }
+
+        function getReferringURLParams() {
+            var params = '';
+            if (!document.referrer || document.referrer.length == 0)
+                return params;
+
+            if (document.location.href.indexOf('?') == -1)
+                params = '?sp_referrer=' + encodeURIComponent(document.referrer);
+            else
+                params = '&sp_referrer=' + encodeURIComponent(document.referrer);
+            return params;
+        }
+
+    </script>
+        <table border="1" width="100%" style="border-bottom: #000000 thin; border-left: #000000 thin; margin-left: 0px; border-top: #000000 thin; margin-right: 0px; border-right: #000000 thin">
+            <tbody>
+                <tr>
+                    <td>
+                    <div style="padding-bottom: 10px; background-color: #ffffff; padding-left: 5px; padding-right: 5px; padding-top: 10px">
+                    <div style="font-family: Arial; font-size: 11px">To enable certain features and improve your experience with us, this site requires cookies to be stored on your computer. Please check the box and click <span><strong>Continue</strong></span> to provide your authorization and permanently remove this message. To find out more about the cookies we use, please see our <a href="http://www.silverpop.com/marketing-company/trust/privacy/privacy.html">privacy notice</a>.</div>
+                    <div>
+                    <table width="100%" style="margin-top: 5px">
+                        <tbody>
+                            <tr style="font-style: normal; font-family: Arial; font-size: 10px; vertical-align: middle">
+                                <td><input id="sp_accept_cookies" type="checkbox" value="on"></td>
+                                <td style="white-space: nowrap; vertical-align: middle">I accept cookies from this site.</td>
+                                <td style="padding-left: 5px"><button onclick="javascript:dismissBannerAcceptCookies();" style="width: 100px; font-family: Arial; font-size: 10px">Continue</button></td>
+                                <td width="100%" style="padding-left: 10px">&nbsp;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                    </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <script>
+        function checkQSForWebTrackingOptInParam() {
+            var h, args = {}, q = location.search.substring(1).split('&');
+            for (var i = 0; i < q.length; i++) {
+                h = q[i].split("=");
+                if (h[0].toLowerCase() == "spwebtrackingoptin")
+                    return h[1];
+            }
+
+            return "";
+        }
+
+        var suppressBanner = checkQSForWebTrackingOptInParam();
+        var cookie = readCookie(getAcceptCookieName());
+
+        // When Page loads lets check to see if browser cookies are turned on and if there is a accept_cookies cookie
+        if (cookiesEnabled() && (cookie != "" || suppressBanner != "" || !in_country_requiring_opt_in)) {
+            if ((suppressBanner != "" || !in_country_requiring_opt_in) && cookie != "true") {
+                createCookie(getAcceptCookieName(), (suppressBanner == "1" || !in_country_requiring_opt_in) ? "true" : "false", false);
+            }
+
+            var element = document.getElementById("sp_banner_container");
+            if (element)
+                element.style.display = "none";
+        }
+    </script></div>
+
+     
 <div id="pageTop">
     <div id="pageTopContent">
         <div class="logotxt">EMAIL.MARKETING.AUTOMATION.</div><div class="loginbtn">
@@ -32,22 +167,22 @@
   <!--BEGIN:: INNER CONTENT CONTAINER-->
   <div id="innerContainer"> 
     <!--BEGIN:: HEADER-->
-    <div id="header"><div class="logoRegion"><div class="logo"><a href="../../../index.html" id="logo"><img alt="Silverpop" border="0" src="../../../images/template/logo.jpg"></a></div><div class="SEOText"><div class="SEOTitle">Email and Marketing Automation</div><div class="SEOContent">Get more personal by getting more automated. Increase relevance and engage customers and prospects with messages that drive revenue.</div></div></div><div id="topmenu"><div class="topmenuLeft"><ul><li><a href="http://portal.silverpop.com/Portal/www/login.php" onclick="javascript: pageTracker._trackPageview('/outgoing/Support');">Support</a></li><li><a href="../../../contact-us/index.html">Contact</a></li><li><a href="../../index.html">About Us</a></li><li><a href="../../../news/events/index.html">Events</a></li><li><a href="http://www.silverpop.com/demo" onclick="javascript: pageTracker._trackPageview('/outgoing/Demo');">Demo</a></li></ul></div><div id="topsearch"><div class="label">Search</div><form action="http://www.picosearch.com/cgi-bin/ts.pl" method="get"><input name="index" type="hidden" value="300010"><input name="calln" type="hidden" value="2"><input name="lastq" type="hidden" value="email"><input id="topsearchbox" name="query" onfocus="this.value=''"><input alt="Go" id="topsearchsubmit" name="submit" src="../../../images/bg_submit.jpg" type="image"></form></div></div></div>
+    <div id="header"><div class="logoRegion"><div class="logo"><a href="../../../index.html" id="logo"><img alt="Silverpop" border="0" src="../../../images/template/logo.jpg"></a></div><div class="SEOText"><div class="SEOTitle">Get more personal by becoming more automated</div><div class="SEOContent">Increase relevance and drive revenue with Silverpop, the best of marketing automation, social, email and mobile.</div></div></div><div id="topmenu"><div class="topmenuLeft"><ul><li><a href="http://portal.silverpop.com/Portal/www/login.php" onclick="javascript: pageTracker._trackPageview('/outgoing/Support');">Support</a></li><li><a href="../../../contact-us/index.html">Contact</a></li><li><a href="../../index.html">About Us</a></li><li><a href="../../../news/events/index.html">Events</a></li><li><a href="http://www.silverpop.com/demo" onclick="javascript: pageTracker._trackPageview('/outgoing/Demo');">Demo</a></li></ul></div><div id="topsearch"><div class="label">Search</div><form action="http://www.picosearch.com/cgi-bin/ts.pl" method="get"><input name="index" type="hidden" value="300010"><input name="calln" type="hidden" value="2"><input name="lastq" type="hidden" value="email"><input id="topsearchbox" name="query" onfocus="this.value=''"><input alt="Go" id="topsearchsubmit" name="submit" src="../../../images/bg_submit.jpg" type="image"></form></div></div></div>
     <!--END:: HEADER-->
     <div class="clear"></div>
     <!--BEGIN:: DROPDOWN NAVIGATION-->
-	<div id="menu"><a id="skipToTopNav" name="skipToTopNav" style="padding:0;"></a><div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a class="qmparent" href="../../../marketing-solutions/index.html" target="_top" title="Solutions">Solutions</a><div style="z-index: 21;"><a href="../../../marketing-solutions/email-marketing.html" target="_top">Email Marketing</a><a href="../../../marketing-solutions/lead-management.html" target="_top">Lead Management</a><a href="../../../marketing-solutions/lead-scoring.html" target="_top">Lead and Contact Scoring</a><a href="../../../marketing-solutions/lead-nurturing.html" target="_top">Lead Nurturing</a><a href="../../../marketing-solutions/lead-generation.html" target="_top">Lead Generation</a><a href="../../../marketing-solutions/marketing-automation.html" target="_top">Marketing Automation</a><a href="../../../marketing-solutions/reporting-and-analytics.html" target="_top">Reporting and Analytics</a><a href="../../../marketing-solutions/data-list-management.html" target="_top">Data and List Management</a><a href="../../../marketing-solutions/CRM-integration.html" target="_top">Integration</a><a href="../../../marketing-solutions/multichannel-marketing.html" target="_top">Multichannel Marketing</a><a href="../../../marketing-solutions/survey.html" target="_top">Surveys</a><a href="../../../marketing-solutions/landing-pages.html" target="_top">Landing Pages</a><a href="../../../marketing-solutions/transactional-emails.html" target="_top">Transactional Emails</a><a href="../../../marketing-solutions/social-connect.html" target="_top">Social Connect</a><a href="../../../marketing-solutions/location-based-marketing.html" target="_top">Location-Based Marketing </a></div><a class="qmparent" href="../../../marketing-services/index.html" target="_top" title="Services">Services</a><div style="z-index: 21;"><a href="../../../marketing-services/product-advisory-services.html" target="_top">Product Advisory Services</a><a href="../../../marketing-services/email-deliverability.html" target="_top">Deliverability</a><a href="../../../marketing-services/integration.html" target="_top">Integration</a><a href="../../../marketing-services/account-services.html" target="_top">Account Services</a><a href="../../../marketing-services/strategy.html" target="_top">Strategy</a><a href="../../../marketing-services/support-services.html" target="_top">Support Services</a><a href="../../../marketing-services/analytics.html" target="_top">Analytics</a></div><a class="qmparent" href="../../../marketing-resources/index.html" target="_top" title="Resources">Resources</a><div style="z-index: 21;"><a href="../../../marketing-resources/white-papers/index.html" target="_top">White Papers &amp; Tip Sheets</a><a href="../../../marketing-resources/webinars/index.html" target="_top">Webinars</a><a href="../../../marketing-resources/case-studies/index.html" target="_top">Case Studies</a><a href="/blogs/email-marketing/index.html" target="_top">Blog</a><a href="../../../marketing-resources/newsletters/index.html" target="_top">Newsletter</a><a href="../../../marketing-resources/glossary/index.html" target="_top">Glossary</a><a href="../../../marketing-resources/faq/index.html" target="_top">FAQ</a><a href="../../../marketing-resources/client-communities/index.html" target="_top">Client Resources</a></div><a class="qmparent" href="../../../clients/index.html" target="_top" title="Clients">Clients</a><div style="z-index: 21;"><a href="../../../clients/video-testimonials.html" target="_top">Video Testimonials</a><a href="../../../marketing-resources/case-studies/index.html" target="_top">Case Studies</a><a href="../../../clients/client-quotes.html" target="_top">Client Quotes</a></div><a class="qmparent qmactive topNavOn last" href="../../index.html" target="_top" title="About">About</a><div style="z-index: 21;"><a href="../../company-overview.html" target="_top">Company Overview</a><a href="../../leadership-team.html" target="_top">Leadership Team</a><a href="../../board-of-directors.html" target="_top">Board of Directors</a><a href="../../investors.html" target="_top">Investors</a><a href="../../../partners/index.html" target="_top">Partners</a><a href="../../../news/index.html" target="_top">News &amp; Events</a><a href="../index.html" target="_top">Trust</a><a href="../../locations.html" target="_top">Locations</a><a href="../../careers/index.html" target="_top">Careers</a></div><span class="qmclear">&nbsp;</span></div></div><!--menu--><script src="../../../global/dropmenu/settings.js" type="text/javascript"></script>
+	<div id="menu"><a id="skipToTopNav" name="skipToTopNav" style="padding:0;"></a><div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a class="qmparent" href="../../../marketing-solutions/index.html" target="_top" title="Solutions">Solutions</a><div style="z-index: 21;"><a href="../../../marketing-solutions/email-marketing.html" target="_top">Email Marketing</a><a href="../../../marketing-solutions/lead-management.html" target="_top">Lead Management</a><a href="../../../marketing-solutions/lead-scoring.html" target="_top">Lead and Contact Scoring</a><a href="../../../marketing-solutions/lead-nurturing.html" target="_top">Lead Nurturing</a><a href="../../../marketing-solutions/lead-generation.html" target="_top">Lead Generation</a><a href="../../../marketing-solutions/marketing-automation.html" target="_top">Marketing Automation</a><a href="../../../marketing-solutions/reporting-and-analytics.html" target="_top">Reporting and Analytics</a><a href="../../../marketing-solutions/data-list-management.html" target="_top">Data and List Management</a><a href="../../../marketing-solutions/CRM-integration.html" target="_top">Integration</a><a href="../../../marketing-solutions/multichannel-marketing.html" target="_top">Multichannel Marketing</a><a href="../../../marketing-solutions/survey.html" target="_top">Surveys</a><a href="../../../marketing-solutions/landing-pages.html" target="_top">Landing Pages</a><a href="../../../marketing-solutions/transactional-emails.html" target="_top">Transactional Emails</a><a href="../../../marketing-solutions/social-connect.html" target="_top">Social Connect</a><a href="../../../marketing-solutions/location-based-marketing.html" target="_top">Location-Based Marketing </a></div><a class="qmparent" href="../../../marketing-services/index.html" target="_top" title="Services">Services</a><div style="z-index: 21;"><a href="../../../marketing-services/product-advisory-services.html" target="_top">Product Advisory Services</a><a href="../../../marketing-services/email-deliverability.html" target="_top">Deliverability</a><a href="../../../marketing-services/integration.html" target="_top">Integration</a><a href="../../../marketing-services/account-services.html" target="_top">Account Services</a><a href="../../../marketing-services/strategy.html" target="_top">Strategy</a><a href="../../../marketing-services/support-services.html" target="_top">Support Services</a><a href="../../../marketing-services/analytics.html" target="_top">Analytics</a></div><a class="qmparent" href="../../../marketing-resources/index.html" target="_top" title="Resources">Resources</a><div style="z-index: 21;"><a href="../../../marketing-resources/white-papers/index.html" target="_top">White Papers &amp; Tip Sheets</a><a href="../../../marketing-resources/webinars/index.html" target="_top">Webinars</a><a href="../../../marketing-resources/case-studies/index.html" target="_top">Case Studies</a><a href="/blogs/email-marketing/index.html" target="_top">Blog</a><a href="../../../marketing-resources/newsletters/index.html" target="_top">Newsletter</a><a href="../../../marketing-resources/glossary/index.html" target="_top">Glossary</a><a href="../../../marketing-resources/faq/index.html" target="_top">FAQ</a><a href="../../../marketing-resources/client-communities/index.html" target="_top">Client Resources</a></div><a class="qmparent" href="../../../clients/index.html" target="_top" title="Clients">Clients</a><div style="z-index: 21;"><a href="../../../clients/video-testimonials.html" target="_top">Video Testimonials</a><a href="../../../marketing-resources/case-studies/index.html" target="_top">Case Studies</a><a href="../../../clients/client-quotes.html" target="_top">Client Quotes</a></div><a class="qmparent qmactive topNavOn last" href="../../index.html" target="_top" title="About">About</a><div style="z-index: 21;"><a href="../../company-overview.html" target="_top">Company Overview</a><a href="../index.html" target="_top">Security, Privacy &amp; Trust</a><a href="../../leadership-team.html" target="_top">Leadership Team</a><a href="../../board-of-directors.html" target="_top">Board of Directors</a><a href="../../investors.html" target="_top">Investors</a><a href="../../careers/index.html" target="_top">Careers</a><a href="../../../partners/index.html" target="_top">Partners</a><a href="../../../news/index.html" target="_top">News &amp; Events</a><a href="../../locations.html" target="_top">Locations</a></div><span class="qmclear">&nbsp;</span></div></div><!--menu--><script src="../../../global/dropmenu/settings.js" type="text/javascript"></script>
     <!--END:: DROPDOWN NAVIGATION--> 
     <!--BEGIN::CONTENT--> 
     
     <!--BEGIN:: CONTENT LEFT-->
-    <div id="ContentLeftColumn"> <div class="LeftNav"><div class="leftNav1Off"><a href="../../company-overview.html">Company Overview</a></div><div class="leftNav1Off"><a href="../../leadership-team.html">Leadership Team</a></div><div class="leftNav1Off"><a href="../../board-of-directors.html">Board of Directors</a></div><div class="leftNav1Off"><a href="../../investors.html">Investors</a></div><div class="leftNav1Off"><a href="../../../partners/index.html">Partners</a></div><div class="leftNav1Off"><a href="../../../news/index.html">News &amp; Events</a></div><div class="leftNav1On"><a href="../index.html">Trust</a></div><div class="leftNav2Container"><div class="leftNav2Off"><a href="../reliability.html">Reliability</a></div><div class="leftNav2Off"><a href="../security.html">Security</a></div><div class="leftNav2Off"><a href="../associations.html">Industry Associations</a></div><div class="leftNav2Off"><a href="../technology.html">Technology Partners</a></div><div class="leftNav2On"><a href="index.html">Privacy Policy &amp; Legal </a></div><div class="leftNav3On"><a href="privacy.html">Privacy Policy</a></div><div class="leftNav3Off"><a href="anti-spam.html">Anti-Spam Policy</a></div><div class="leftNav3Off"><a href="EU_safeharbor.html">Safe Harbor Privacy Policy</a></div><div class="leftNav3Off"><a href="siteterms.html">Site Terms of Service</a></div></div><div class="leftNav1Off"><a href="../../locations.html">Locations</a></div><div class="leftNav1Off"><a href="../../careers/index.html">Careers</a></div></div> </div>
+    <div id="ContentLeftColumn"> <div class="LeftNav"><div class="leftNav1Off"><a href="../../company-overview.html">Company Overview</a></div><div class="leftNav1On"><a href="../index.html">Security, Privacy &amp; Trust</a></div><div class="leftNav2Container"><div class="leftNav2Off"><a href="../reliability.html">Reliability</a></div><div class="leftNav2Off"><a href="../security.html">Security</a></div><div class="leftNav2Off"><a href="../associations.html">Industry Associations</a></div><div class="leftNav2Off"><a href="../technology.html">Technology Partners</a></div><div class="leftNav2On"><a href="index.html">Privacy Policy &amp; Legal </a></div><div class="leftNav3On"><a href="privacy.html">Privacy Policy</a></div><div class="leftNav3Off"><a href="anti-spam.html">Anti-Spam Policy</a></div><div class="leftNav3Off"><a href="EU_safeharbor.html">Safe Harbor Privacy Policy</a></div><div class="leftNav3Off"><a href="siteterms.html">Site Terms of Service</a></div><div class="leftNav3Off"><a href="sms-terms.html">SMS Terms &amp; Conditions</a></div></div><div class="leftNav1Off"><a href="../../leadership-team.html">Leadership Team</a></div><div class="leftNav1Off"><a href="../../board-of-directors.html">Board of Directors</a></div><div class="leftNav1Off"><a href="../../investors.html">Investors</a></div><div class="leftNav1Off"><a href="../../careers/index.html">Careers</a></div><div class="leftNav1Off"><a href="../../../partners/index.html">Partners</a></div><div class="leftNav1Off"><a href="../../../news/index.html">News &amp; Events</a></div><div class="leftNav1Off"><a href="../../locations.html">Locations</a></div></div> </div>
     <!--END:: CONTENT LEFT--> 
     
     <!--BEGIN:: CONTENT MIDDLE-->
     <div id="ContentMain">
       <div id="contentNav">
-        <div class="breadcrumbs"><a href="../../../index.html">Home</a> &gt; <a href="../../index.html">About</a> &gt; <a href="../index.html">Trust</a> &gt; <a href="index.html">Privacy Policy &amp; Legal </a></div>
+        <div class="breadcrumbs"><a href="../../../index.html">Home</a> &gt; <a href="../../index.html">About</a> &gt; <a href="../index.html">Security, Privacy &amp; Trust</a> &gt; <a href="index.html">Privacy Policy &amp; Legal </a></div>
         <div class="formats"><a class="white" href="mailto:?body=Check out what I found online:%20http://www.silverpop.com/marketing-company/trust/privacy/privacy.html&amp;subject=Check out this Silverpop page">Email</a>
 			|
          	<a class="white" href="privacy.htm">Print</a></div>
@@ -80,7 +215,7 @@ Silverpop's certification, please visit <a href="http://www.export.gov/safeharbo
     <div id="ContentRightColumn">
 	<div class="block1"><div><a href="../../../contact-us/index.html"><img alt="Contact Us" src="../../../images/template/contactUs.jpg"></a></div></div>
         <div class="block2"><div style="padding-bottom:25px;"><a href="http://www.silverpop.com/demo/index.html"><img alt="See Silverpop in Action - Check out our demo now!" border="0" src="../../../images/demo.jpg"></a></div></div>
-        <div class="block3"><div style="padding-bottom:25px;"><a href="http://www.silverpop.com/marketing-resources/white-papers/download/social-marketing-trends.html"><img alt="White Papers - Download the latest and greatest resources" border="0" src="../../../images/template/whitepapers.jpg"></a></div></div>
+        <div class="block3"><div style="padding-bottom:25px;"><a href="http://www.silverpop.com/marketing-resources/white-papers/download/leveraging-buyer-behaviors.html"><img alt="White Papers - Download the latest and greatest resources" border="0" src="../../../images/template/whitepapers.jpg"></a></div></div>
         <div class="block4"><a href="../../../marketing-resources/newsletters/index.html"><img alt="Subscribe to our newsletter for exclusive news and best practices" border="0" src="../../../images/template/newsletter.jpg"></a></div>        
         <div class="block5"></div>
         <div class="block6"></div>
@@ -94,7 +229,14 @@ Silverpop's certification, please visit <a href="http://www.export.gov/safeharbo
   <div class="clear"></div>
   <div class="footerDivider"></div>
   <div id="footer">
-  	<div class="footerWrapper"><div id="column1"><div class="WorldMap"><img alt="Silverpop Worldwide" height="91" src="../../../images/template/worldwide.jpg" width="151"></div><div class="subColumn"><div class="columnTitle">Worldwide</div><ul><li><a href="../../../au/index.html">Australia</a></li><li><a href="../../../de/index.html">Germany</a></li><li><a href="../../../index.html">North America</a></li><li><a href="../../../uk/index.html">United Kingdom</a></li><li><a href="../../../za/index.html">South Africa</a></li></ul></div></div><div id="column2"><div class="subColumn" style="width:80px;"><div class="columnTitle">More Info</div><ul><li><a href="../../../contact-us/index.html">Contact</a></li><li><a href="../../../news/index.html">Press Room</a></li><li><a href="../../careers/index.html">Careers</a></li><li><a href="../../../partners/index.html">Partners</a></li><li><a href="siteterms.html">Terms of Use</a></li><li><a href="privacy.html">Privacy Policy</a></li></ul></div><div class="subColumn" style="width:135px;"><div class="columnTitle">Solutions</div><ul><li><a href="../../../marketing-solutions/email-marketing.html">Email Campaigns</a></li><li><a href="../../../marketing-solutions/marketing-automation.html">Marketing Automation</a></li><li><a href="../../../marketing-solutions/lead-management.html">Lead Management</a></li><li><a href="../../../marketing-solutions/lead-nurturing.html">Lead Nurturing</a></li><li><a href="../../../marketing-solutions/lead-scoring.html">Lead Scoring</a></li><li><a href="../../../marketing-services/email-deliverability.html">Email Deliverability</a></li><li><a href="../../../marketing-solutions/CRM-integration.html">CRM Integration</a></li><li><a href="../../../marketing-solutions/landing-pages.html">Landing Pages</a></li><li><a href="../../../marketing-solutions/social-connect.html">Social Connect</a></li></ul></div><div class="subColumn" style="width:80px;"><div class="columnTitle">Social</div><ul><li><a href="http://www.silverpop.com/blogs/email-marketing/index.html" target="_blank" title="Blog- This link will open in a new window.">Blog</a></li><li><a href="http://www.twitter.com/silverpop" target="_blank" title="Twitter- This link will open in a new window.">Twitter</a></li><li><a href="http://www.facebook.com/Silverpop" target="_blank" title="Facebook- This link will open in a new window.">Facebook</a></li><li><a href="http://www.youtube.com/silverpop" target="_blank" title="YouTube- This link will open in a new window.">YouTube</a></li><li><a href="http://www.slideshare.net/silverpop" target="_blank" title="Slideshare- This link will open in a new window.">Slideshare</a></li><li><a href="http://www.linkedin.com/company/silverpop" target="_blank" title="LinkedIn- This link will open in a new window.">LinkedIn</a></li></ul></div></div><div id="column3"><div class="subColumn"><p>Silverpop is the only marketing technology provider offering email marketing software and marketing automation. In today’s customer-driven marketplace, one in which marketers must reach their target audience more often, via more channels and with more relevant messages than ever, this combination is ideal and unique.&nbsp; Silverpop’s marketing automation and email marketing services are designed for marketing departments across a variety of industries, that want to increase revenue, improve ROI, and operate more efficiently.<br></p><div class="copyright">Copyright 2012 Silverpop. All Rights Reserved.</div></div></div></div>
+  	<div class="footerWrapper"><div id="column1"><div class="WorldMap"></div><div class="subColumn"><div class="columnTitle">Worldwide</div><ul><li><a href="../../../au/index.html">Australia</a></li><li><a href="../../../de/index.html">Germany</a></li><li><a href="../../../index.html">North America</a></li><li><a href="../../../uk/index.html">United Kingdom</a></li><li><a href="../../../za/index.html">South Africa</a></li></ul></div></div><div id="column2"><div class="subColumn" style="width:80px;"><div class="columnTitle">More Info</div><ul><li><a href="../../../contact-us/index.html">Contact</a></li><li><a href="../../../news/index.html">Press Room</a></li><li><a href="../../careers/index.html">Careers</a></li><li><a href="../../../partners/index.html">Partners</a></li><li><a href="siteterms.html">Terms of Use</a></li><li><a href="privacy.html">Privacy Policy</a></li></ul></div><div class="subColumn" style="width:135px;"><div class="columnTitle">Solutions</div><ul><li><a href="../../../marketing-solutions/email-marketing.html">Email Campaigns</a></li><li><a href="../../../marketing-solutions/marketing-automation.html">Marketing Automation</a></li><li><a href="../../../marketing-solutions/lead-management.html">Lead Management</a></li><li><a href="../../../marketing-solutions/lead-nurturing.html">Lead Nurturing</a></li><li><a href="../../../marketing-solutions/lead-scoring.html">Lead Scoring</a></li><li><a href="../../../marketing-services/email-deliverability.html">Email Deliverability</a></li><li><a href="../../../marketing-solutions/CRM-integration.html">CRM Integration</a></li><li><a href="../../../marketing-solutions/landing-pages.html">Landing Pages</a></li><li><a href="../../../marketing-solutions/social-connect.html">Social Connect</a></li><li><a href="../../../marketing-solutions/location-based-marketing.html">Location-Based Marketing</a></li></ul></div><div class="subColumn" style="width:80px;"><div class="columnTitle">Social</div><ul><li><a href="http://www.silverpop.com/blogs/email-marketing/index.html" target="_blank" title="Blog- This link will open in a new window.">Blog</a></li><li><a href="http://www.twitter.com/silverpop" target="_blank" title="Twitter- This link will open in a new window.">Twitter</a></li><li><a href="http://www.facebook.com/Silverpop" target="_blank" title="Facebook- This link will open in a new window.">Facebook</a></li><li><a href="http://www.youtube.com/silverpop" target="_blank" title="YouTube- This link will open in a new window.">YouTube</a></li><li><a href="http://www.slideshare.net/silverpop" target="_blank" title="Slideshare- This link will open in a new window.">Slideshare</a></li><li><a href="http://www.linkedin.com/company/silverpop" target="_blank" title="LinkedIn- This link will open in a new window.">LinkedIn</a></li></ul></div></div><div id="column3"><div class="subColumn"><p>Silverpop is the only digital
+marketing technology provider that unifies marketing automation, email, mobile,
+and social. Its customers achieve superior Return on Relationship by uniquely
+engaging each individual based on their behaviors and then automating
+personalized experiences that increase revenue, improve ROI, and deepen brand
+loyalty. Silverpop's commitment is to offer a platform that is complete, not
+complex-so that marketers from any size organization can easily achieve digital
+marketing success.</p><div class="copyright">Copyright 2012 Silverpop. All Rights Reserved.</div></div></div></div>
   </div>
   <!--END:: FOOTER--> 
 </div>
@@ -105,18 +247,40 @@ Silverpop's certification, please visit <a href="http://www.export.gov/safeharbo
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+var pageTracker = false;
 try {
-var pageTracker = _gat._getTracker("UA-7346219-1");
+if (document.getElementById("sp_banner_container").style.display == 'none') {
+    pageTracker =_gat._getTracker("UA-7346219-1");
 
         // Distilled first touch tracking
         distilledFirstTouch(pageTracker); 
 
-
-pageTracker._trackPageview();
+	pageTracker._trackPageview();
+}
 
 } catch(err) {}</script><!-- END Google Analytics Code -->
 
      <img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=b7d3a7ab_NDM_cs=retargeting_unconverted[720]&amp;betq=14022=440549[720]" width="1" height="1" border="0">
+     
+
+     
+
+<script type="text/javascript">
+
+var google_conversion_id = 1037482894;
+var google_conversion_label = "KXlyCKKv8gUQjvfa7gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1037482894/?value=0&amp;label=KXlyCKKv8gUQjvfa7gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
      
 
 </body></html>
