@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recordonline.com privacy policy that was archived on 2012-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120601174751id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recordonline.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119065724id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 		<title>recordonline.com - Times Herald-Record – Privacy Policy</title>	
@@ -42,7 +42,7 @@
 <script type="text/javascript" src="http://www.trumba.com/scripts/spuds.js"></script>
 <script language="JavaScript" type="text/javascript">
 			<!--
-				OAS_SET_PARMS("www.thr.com/HelpDesk", "x59,x40,Middle", "")
+				OAS_SET_PARMS("www.thr.com/HelpDesk", "Top,x40,Middle", "")
 			//-->
 </script>
 		<script type="text/javascript" language="JavaScript1.1">
@@ -101,6 +101,9 @@
 		
 	}
 	var welcomeMsgViewed = "";
+	var userSingleSale = "";
+	var userStoriesViewed = "";
+	var returnurl = "%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm";
 </script>
 
 
@@ -136,14 +139,6 @@
 	    var ymnow = new Date;
 	    var rv = ymnow.getFullYear() * 100 + ymnow.getMonth() + 1;
 	    return rv;
-		}
-		
-		function toggleMiniLogin() {
-			var mlfrm=document.getElementById('miniLogin');
-			mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
-			if (mlfrm.style.display=='block') {
-				document.getElementById('user').focus();
-			}
 		}
 		
 		YAHOO.util.Event.onDOMReady(function() { 
@@ -197,64 +192,100 @@
 				});
 			}
 		});
-				
-	</script>
+		function toggleMiniLogin() {
+			var mobileFull = YAHOO.util.Cookie.get("sitePref");
 
+			if (mobileFull == "full")
+			{
+				window.location.href = "/apps/pbcs.dll/misc?url=/misc/mobile/login.pbs&returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&cid=lb_login"
+			}
+			else
+			{
+				//not a mobile user viewing full site
+				var mlfrm=document.getElementById('miniLogin');
+				mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
+				if (mlfrm.style.display=='block') {
+					document.getElementById('user').focus();
+				}
+			}
+		}				
+	</script>
 
 <div id="loginBar" class="loggedOut">
 <div class="noindex">
 
-	<div id="loginBarLeft"><a href="/subscribe" title="Subscribe">Welcome to Recordonline.com  Get Started</a></div>
-		<div id="loginBarCenter" style="line-height: 14px;">
-		<a href="/subscribe" title="Subscribe">Subscribe Today. See our Special Offers.</a><br>
-		<a href="/activate" title="Activate your account">Current Print Subscribers, activate your online access.</a>
-	</div>
-	<div id="loginBarRight"><a href="http://www.recordonline.com/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;returndest=" title="Log In" onclick="this.blur();toggleMiniLogin();return false;">Log In</a> | <a href="/register" title="Register">Register</a> | <a href="/subscribe" title="Subscribe">Subscribe</a></div>
-	<div id="miniLogin" style="display:none;">
-		<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
-		<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm" method="post" name="login_form" id="login_form">
-			<label for="username">Username *</label>
-			<input type="text" name="user" value="" id="user" maxlength="64" class="text">
-			<span style="font-size:.9em;color:#666; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
-			<label for="pass">Password *</label>
-			<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
-			<div class="ctl submit">
-				<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://static.djlmgdigital.com/thr/recordonline/graphics/paywall/btn_login.gif" value="">
-			</div>
-		</form>
-		<div class="miniLoginFooter">
-			<a href="http://www.recordonline.com/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
-		</div>
-	</div>
-
-
 	<div id="networkNav">
 		<div id="networkNavLeft">
-			<div class="brand1"><a href="http://www.recordonline.com">&nbsp;</a></div>
-			<div class="brand2"><a href="http://www.hudsonvalley.com">&nbsp;</a></div>
-			<div class="brand3"><a href="http://www.hudsonvalley.com/jobs">&nbsp;</a></div>
-			<div class="brand4"><a href="http://www.hudsonvalley.com/cars">&nbsp;</a></div>
-			<div class="brand5"><a href="http://www.hudsonvalley.com/homes">&nbsp;</a></div>
-			<div class="brand6"><a href="http://www.recordonline.com/varsity845">&nbsp;</a></div>
+			<div class="brand1"><a href="/apps/pbcs.dll/frontpage?cid=bb1_home">&nbsp;</a></div>
+			<div class="brand2"><a href="http://www.hudsonvalley.com?cid=bb2_localsearch">&nbsp;</a></div>
+			<div class="brand3"><a href="http://www.recordjobs.com?cid=bb3_jobs">&nbsp;</a></div>
+			<div class="brand4"><a href="http://autos.hudsonvalley.com/apps/pbcs.dll/section?Category=CARS10&amp;cid=bb4_cars">&nbsp;</a></div>
+			<div class="brand5"><a href="http://realestate.hudsonvalley.com?cid=bb5_homes">&nbsp;</a></div>
+			<div class="brand6"><a href="/apps/pbcs.dll/section?Category=SPORTS31&amp;cid=bb6_varsity">&nbsp;</a></div>
 			<div class="brandMore" onmouseout="document.getElementById('brandMoreDrop').style.display='none';" onmouseover="document.getElementById('brandMoreDrop').style.display='block';">
-				<a href="http://www.recordonline.com/apps/pbcs.dll/misc?url=/static/siteMap.htm">&nbsp;</a>
+				<a href="/apps/pbcs.dll/misc?url=/static/siteMap.htm&amp;cid=bb7_more">&nbsp;</a>
 				<ul class="brandMoreDrop" id="brandMoreDrop" style="display:none;">
-					<li><a href="http://www.recordonline.com/apps/pbcs.dll/section?Category=MARKET" title="Record Marketplace">Classifieds</a></li>
-					<li><a href="http://www.orangemagazineny.com/" title="Orange Magazine">Orange Magazine</a></li>
-					<li><a href="http://www.pointerview.com/" title="Pointer View">Pointer View</a></li>
-					<li><a href="http://www.recordonline.com/apps/pbcs.dll/section?Category=COMM011101" title="The Gazette">The Gazette</a></li>
+					<li><a href="http://www.recordonline.com/apps/pbcs.dll/section?Category=MARKET&amp;cid=bb8_market" title="Record Marketplace">Classifieds</a></li>
+					<li><a href="http://www.orangemagazineny.com?cid=bb9_orangeMag" title="Orange Magazine">Orange Magazine</a></li>
+					<li><a href="http://www.pointerview.com?cid=bb10_pointer" title="Pointer View">Pointer View</a></li>
+					<li><a href="/apps/pbcs.dll/section?Category=COMM011101&amp;cid=bb11_gazette" title="The Gazette">The Gazette</a></li>
 				</ul>
 			</div>
 		</div>
 		<div id="networkNavRight">
 			<form id="form_recordonline" method="post" onsubmit="return submitSearch(search_news.value);">
 				  	<input class="input_text" type="text" name="search_news" id="search_news" value="Search recordonline.com" onfocus="if(this.value=='Search recordonline.com'){this.value='';}" onblur="if(this.value==''){this.value='Search recordonline.com';}">
-				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/thr/recordonline/graphics/searchSubmit.gif">
+				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/scn/seacoastonline/graphics/2012-searchSubmit.gif">
 			</form>
 		</div>
 	</div>
 </div>
+</div>	
+<div id="loginBarBtm" class="loggedOut">
+<div class="noindex">
+	<div id="subscriberBar">
+
+		<div id="loginBarLeft">
+			
+				<a href="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" title="Log In" onclick="this.blur();toggleMiniLogin();return false;" class="loginBtn"></a>
+				<div class="btmLinks">
+					<span class="key">0 of 3 Premium Clicks used this month</span>
+				</div>
+			
+		</div>
+	
+		<div id="loginBarRight">
+			
+			
+				<div class="subscribe"><a href="/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html&amp;cid=lb_subscribe" title="Subscribe">SUBSCRIBE</a></div>
+				<span class="txtLinks">
+					<a href="/apps/pbcs.dll/misc?url=/misc/activate.pbs&amp;cid=lb_activate" title="Activate">Print + Online Subscriber Activation</a>&nbsp;|&nbsp;
+					<a href="/apps/pbcs.dll/misc?url=/misc/register.pbs&amp;cid=lb_register" title="Register">Register</a>
+				</span>	
+			
+		</div>
+		
+		<div id="miniLogin" style="display:none;">
+			<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
+			<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" method="post" name="login_form" id="login_form">
+				<label for="username">Username *</label>
+				<input type="text" name="user" value="" id="user" maxlength="64" class="text">
+				<span style="font-size:.9em;color:#333; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
+				<label for="pass">Password *</label>
+				<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
+				<div class="ctl submit">
+					<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://static.djlmgdigital.com/scn/seacoastonline/graphics/paywall/btn_login.gif" value="">
+				</div>
+			</form>
+			<div class="miniLoginFooter">
+				<a href="/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs&amp;cid=lb_forgotpw" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
+			</div>
+		</div>
+
+	</div>
 </div>
+</div>	
+
 		<div id="sCode">
 			<script language="JavaScript" type="text/javascript"><!--
 				setProp(s); 	
@@ -262,46 +293,38 @@
 		</div>	
 		<div id="outerWrapper">
 			<div id="header">
-				<div class="mastBar">
-	<div class="leftHead">
-		<a href="/" title="Record Online Sitemap" id="mastHead"><img src="http://static.djlmgdigital.com/thr/recordonline/graphics/thLogoNEW.gif" alt="Record Online"></a>
-	</div>
-	<div class="centHead">
-		<!-- START SEARCH -->
-		<div class="rotatingNewsWrap searchWidget">
-			<div class="nlRotate tabFive" id="search1">
-				<form id="form_recordonline" method="post" onsubmit="return submitSearch(search_news.value);">
-			  	<input class="input_text" type="text" name="search_news" id="search_news" value="Search Stories, Videos and more..." onfocus="if(this.value=='Search Stories, Videos and more...'){this.value='';}" onblur="if(this.value==''){this.value='Search Stories, Videos and more...';}">
-			  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/thr/recordonline/graphics/icons/icon_search.gif">
-				</form>
-			</div><!-- END search1 -->
-		</div><!-- END searchWidget -->
-		<div id="linkBar">
-				<div id="weathHead">
-					<span class="hdrDate">Friday, June 1, 2012<br>1:29 pm EDT</span>	
-						 		<script type="text/javascript">
-								if (wcurrent.dailyforecast.Icon!=null){
-									document.writeln("<div style=\"display:inline;\"><img src=\"http://static.djlmgdigital.com/thr/recordonline/graphics/weather/medium/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"/><\/div>");
-								}
-									
-									document.writeln("<div style=\"display:inline;padding-left:5px\">" + wcurrent.dailyforecast.TemperatureF + "\&#176;&nbsp;&nbsp;\<a href=\"\/apps\/pbcs.dll\/section?Category=NEWS13\">Forecasts | Radar\<\/a>\<\/div>");											
-								</script>		 	
-				</div><!-- END weathHead -->
-		</div><!-- END linkBar -->
-	</div><!-- END centHead -->
-	<div class="rightHead">
-		<div id="topAd">
-				<div id="x59">
-					<script language="JavaScript" type="text/javascript">
-					<!--
-						OAS_AD('x59');
-					//-->
-					</script>
+				<div id="header">
+	<div class="mastBar">
+		<a href="/" title="RecordOnline.com" id="mastHead">&nbsp;</a>
+		<div id="mastWeather">
+			<div id="mastWeatherLeft">
+				<div class="todaysDate">Monday, November 19, 2012</div>
+				<div id="weathPredict">
+					<div class="currTemp">               
+						<script type="text/javascript">
+							document.writeln("<img src=\"http://static.djlmgdigital.com/corp/global/graphics/weather/small/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"\">");
+						</script>
+					
+						<script type="text/javascript">
+			                	document.writeln(Math.round(wcurrent.dailyforecast.TemperatureF) + "&#176;");
+						</script>	
+					</div>
+					<div class="weatherLinks">
+						<a href="/apps/pbcs.dll/section?category=NEWS13" title="Click here for more weather details.">Forecast | Radar</a>
+					</div>
 				</div>
+			</div>												
+		</div>
+		<div id="Top">
+			<script language="JavaScript" type="text/javascript">
+			<!--
+				OAS_AD('Top');
+			//-->
+			</script>
 		</div>
 	</div>
-</div><!-- END mastBar -->
-<div id="browserBar" style="clear:both;display:none;float:left;margin:3px 0px;height:56px;padding:2px;background-color:#b4b4b2;"></div>
+</div>
+<div id="browserBar" style="clear:both;display:none;float:left;margin:3px 2px;height:56px;padding:2px;background-color:#b4b4b2;"></div>
 				<script type="text/javascript" src="http://static.djlmgdigital.com/thr/recordonline/udm-resources/udm-dom.js"></script>
 			<div id="topNav">
 				<ul id="udm" class="udm">
@@ -778,9 +801,7 @@
 			    <a href="/apps/pbcs.dll/section?Category=LIFE05" title="Horoscope">Horoscope</a>
 			  </li>
 
-			  <li>
-			    <a href="/apps/pbcs.dll/section?Category=LIFE06" title="Comics">Comics</a>
-			  </li>
+			
 			  <li>
 			    <a href="http://www.recordonline.com/apps/pbcs.dll/section?Category=LIFE07" title="Sudoku" target="_blank">Sudoku</a>
 			  </li>
@@ -912,6 +933,11 @@
 			  	<a href="http://recordmarketplace.com/classifieds/" title="Advertise">Place an Ad Now</a></li>
 <li>
 			  	<a href="http://orangemagazineny.com/" title="Orange Magazine">Orange Magazine</a></li>
+			  
+				<li>
+
+</li><li>
+			  	<a href="http://ulstermagazine.com/" title="Ulster Magazine">Ulster Magazine</a></li>
 			  
 				<li>
 			  	<a href="http://www.recordonline.com/apps/pbcs.dll/section?Category=HELP03" title="Contact">Contact Us</a>
@@ -1197,9 +1223,6 @@ and include your name and the address to which you would like us to respond.
 
 <div id="rghtCol">
 	<div class="noindex">
-
-<div class="rightSubscribe"><a href="/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html&amp;cid=baob">&nbsp;</a></div>
-
 	<div class="adMiddle">
 							<!-- OAS AD 'Middle' begin -->
 							<script language="JavaScript" type="text/javascript">
@@ -1285,116 +1308,120 @@ and include your name and the address to which you would like us to respond.
 		<div class="djDOW_wrap">
 			<div class="djDOW_Head"><div style="display:block;text-align:center;width:100%;">COUPON OF THE WEEK</div></div>
 			<ul class="djDowList">
-				
+				<li id="ctl00_djCpnF_Repeater_ctl00_djCpnF_Item" class="djCpnF_Odd">
+      <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=572&amp;siteId=37820" id="ctl00_djCpnF_Repeater_ctl00_djCpnF_HeadlineUrl" class="djCpnF_HeadlineUrl" title="Coupon offered by Jones Services Company">NEED A GENERATOR? BUY NOW -</a>
+      <span id="ctl00_djCpnF_Repeater_ctl00_djCpnF_Body" class="djCpnF_Body">-Licensed Electrical Contractor -Elite Generac Dealer -Factory Certified...</span>       
+      <a href="http://hudsonvalley.com/sp?aff=1&amp;skin=0&amp;wId=37820" id="ctl00_djCpnF_Repeater_ctl00_djCpnF_Biz" class="djCpnF_Biz" title="Coupon offered by Jones Services Company">Jones Services Company</a>      
+   </li>
 			</ul>
 		</div>
 		<!-- COUPONS -->
 		<div id="ctl00_djCpnW_Panel" class="djCpnW_Panel"> 
    
            <div class="djCpnW_Head">
-                 <a href="http://hudsonvalley.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">66 Coupons Online Today</a>
+                 <a href="http://hudsonvalley.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">33 Coupons Online Today</a>
                  <a href="http://hudsonvalley.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_More" class="djCpnW_More" target="_blank">More &gt;&gt;</a>
            </div>       
            <ul class="djCpnW_Results">
            
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1615&amp;siteId=985237" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">Get 1 Free Cupcake on your first visit to Eat This! Bakery</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Eat This! Bakery</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1662&amp;siteId=996660" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">$29.99 vibration special</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Wash En Tire Auto</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=794&amp;siteId=906635" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">10% off any repair</a>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1660&amp;siteId=996660" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">4 Free Car Washes</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Wash En Tire Auto</span>    
+             </li>
+             
+             <li>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=333&amp;siteId=428607" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">40% off on all Starkey Digital Multi-channel Programmable Hearing Aids</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">AVC Hearing Aid Center Inc</span>    
+             </li>
+             
+             <li>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=585&amp;siteId=61575" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">Audiologist's Choice-$1.00 Off</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Avc Hearing Aid Center Inc</span>    
+             </li>
+             
+             <li>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=793&amp;siteId=906635" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">Free case with purchase!!!!</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Laptop Shack</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=547&amp;siteId=61837" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">30% Off</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Sterling Optical</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1661&amp;siteId=996660" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">$10.00 off Synthetic or Blend Hi Mileage Oil Change</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Wash En Tire Auto</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1621&amp;siteId=985240" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">Enroll in our Summer Camp Porgram and Receive Free Registration and Tuition Credit!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Little Flowers Child Care</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1559&amp;siteId=906635" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">10% Student discount</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Laptop Shack</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1544&amp;siteId=966397" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">10% off Lunch</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Aroma Buffet</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1654&amp;siteId=990754" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">Buy 1 Get 1   1/2 Off!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">The Tuxedo Junction Inn</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1626&amp;siteId=985250" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">EVERY WEDNESDAY 5-9PM</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Black Forest Mill</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1656&amp;siteId=990754" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">$5 - 12" Pizza OR/ Buy 1 Lg Pizza &amp; get the 2nd 1/2 off!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">The Tuxedo Junction Inn</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1612&amp;siteId=985235" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">Recieve 10% a 2nd visit on any parts/repairs from Perry Plumbing Heating and Cooling</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Perry Plumbing Heating and Cooling</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=572&amp;siteId=37820" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">NEED A GENERATOR? BUY NOW - PAY LATER 6 MONTHS SAME-AS-CASH FIANNCING</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Jones Services Company</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1613&amp;siteId=712764" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">Turn your favorite photos into an unique gift</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Blanket Boss</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1655&amp;siteId=990754" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">$5 Burger!!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">The Tuxedo Junction Inn</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1535&amp;siteId=877994" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Tour for Two at GILLINDER GLASS Factory</a>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=585&amp;siteId=428607" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">Audiologist's Choice-$1.00 Off</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">AVC Hearing Aid Center Inc</span>    
+             </li>
+             
+             <li>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1476&amp;siteId=916476" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">Paying up to 50% Higher for Gold and Silver</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Malek Gold Buyers</span>    
+             </li>
+             
+             <li>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1132&amp;siteId=916476" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">Paying up to 50% Higher for Gold and Silver</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Malek Gold Buyers</span>    
+             </li>
+             
+             <li>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1670&amp;siteId=998516" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">Free Eyebrow Wax</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Shear Edge LLC</span>    
+             </li>
+             
+             <li>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1076&amp;siteId=877994" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">$1.00 off One Factory Tour</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Gillinder Glass Store</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=778&amp;siteId=842667" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">$800 Off any complete Roof job</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Hudson Valley Roofing</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1183&amp;siteId=419213" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">10% Discount off list price for payment by cash or personal check</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Serrano II, Inc.</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1631&amp;siteId=988046" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">10% off New deck or deck repairs /facelift for both</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Sal's Contracting CO</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=508&amp;siteId=428607" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">Starkey CIC Hearing Aid - $500 Off Each</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">AVC Hearing Aid Center Inc</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1215&amp;siteId=922996" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">WE BUY GOLD SILVER  DIAMONDS &amp; MORE</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Hudson Valley Pawn a division of Fort Knox II Gold Buyers</span>    
-             </li>
-             
-             <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1123&amp;siteId=46944" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">Free Consultation/Tour</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">The Carlucci Home</span>    
-             </li>
-             
-             <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=549&amp;siteId=906389" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">10% Off Jewelry</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Helen Morrell Boutique</span>    
-             </li>
-             
-             <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=793&amp;siteId=906635" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">Free case with purchase!!!!</a>
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=794&amp;siteId=906635" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">10% off any repair</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Laptop Shack</span>    
              </li>
              
              <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=761&amp;siteId=126074" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">Prime Rib - $13.95</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Loughran's Irish Pub</span>    
-             </li>
-             
-             <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1628&amp;siteId=980767" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">Free Auto Chlorinator &amp; Auto Vacuum with pool &amp; package purchase.</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Pool It</span>    
-             </li>
-             
-             <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1559&amp;siteId=906635" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">10% Student discount</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Laptop Shack</span>    
-             </li>
-             
-             <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1598&amp;siteId=984205" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Tee-Shirt</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Rosmarins Day Camp</span>    
-             </li>
-             
-             <li>
-                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1545&amp;siteId=966397" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">$5 off $40 or more!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Aroma Buffet</span>    
+                  <a href="http://hudsonvalley.com/sp?p=/includes/print_coupon&amp;adSiteId=1665&amp;siteId=996685" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">ONE FREE FITNESS CONSULTATION AND PLAN WITH A PERSONAL TRAINER</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Cameron Fitness, Inc.</span>    
              </li>
          
             </ul>   
@@ -1407,7 +1434,7 @@ and include your name and the address to which you would like us to respond.
                         var rnd = Math.floor(Math.random() * chs.length);
                         str += chs.substring(rnd,rnd+1);}
                         var myImg = new Image();
-                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=TH&w=985237:1615,906635:794,61837:547,985240:1621,966397:1544,985250:1626,985235:1612,712764:1613,877994:1535,842667:778,988046:1631,922996:1215,46944:1123,906389:549,906635:793,126074:761,980767:1628,906635:1559,984205:1598,966397:1545&b='+str;                                       
+                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=TH&w=996660:1662,996660:1660,428607:333,61575:585,906635:793,996660:1661,906635:1559,990754:1654,990754:1656,37820:572,990754:1655,428607:585,916476:1476,916476:1132,998516:1670,877994:1076,419213:1183,428607:508,906635:794,996685:1665&b='+str;                                       
                     </script>
                 
             
