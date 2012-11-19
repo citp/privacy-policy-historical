@@ -1,235 +1,978 @@
-<!--The following is the downloaded HTML source of the nexenta.org privacy policy that was archived on 2008-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080909003836id_/http%3A//www.nexenta.org/os/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nexenta.org privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119080901id_/http%3A//nexenta.org/corp/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<meta name="robots" content="index,nofollow">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<meta property="og:title" content="The Nexenta Website">
+<meta property="og:type" content="text/html">
+<meta property="og:url" content="http://nexenta.com/">
+<meta property="og:image" content="http://nexenta.com/corp/images/M_images/logos/nexenta_emblem_logo_tag.png">
+<meta property="image" content="http://nexenta.com/corp/images/M_images/logos/nexenta_emblem_logo_tag.png">
+<meta property="og:description" content="Nexenta, the Leader in Software-defined Storage, delivers Enterprise class storage for everyone.">
 
-<title>PrivacyPolicy - Nexenta Project Wiki</title>
-<script type="text/javascript" src="/wiki/common/js/common.js"></script>
+	  <base href="http://nexenta.org/corp/privacy">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Nexenta, software-defined storage, OpenSolaris, OpenStorage, ZFS, Sun Microsystems, Storage, Software, NexentaStor, deduplication, primary storage, NAS, SAN, iSCSI, ZFS storage, VMware, L2ARC, ZIL, Hyper-V, Xen, Virtualization, Virtualisation, Plugin, Open Source, Illumos">
+  <meta name="title" content="Privacy">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="Nexenta, the leader in Software-defined Storage, delivers Enterprise class storage for everyone. Download a free trial from Nexenta.Com today.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Privacy</title>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/corp/plugins/system/mtupgrade/mootools.js"></script>
 
+	<link href="/corp/templates/nexenta_tpl/css/main.css" rel="stylesheet" type="text/css" media="all">
+    <!--[if !IE 7]>
+    	<style type="text/css">
+    		#container {display:table;height:100%}
+    	</style>
+    <![endif]-->
+    <link rel="shortcut icon" href="/corp/templates/nexenta_tpl/images/favicon.ico">
+
+    <script type="text/javascript" src="/corp/templates/nexenta_tpl/js/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript">jQuery.noConflict();</script>
+    <script type="text/javascript" src="/corp/templates/nexenta_tpl/js/jquery.hoverIntent.js"></script>
+    <script type="text/javascript" src="/corp/templates/nexenta_tpl/js/menu.js"></script>
+    <script type="text/javascript" src="/corp/templates/nexenta_tpl/js/sections.js"></script>
+
+
+    <link href="/corp/components/com_nexentatv/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" media="screen">
+    <script type="text/javascript" src="/corp/components/com_nexentatv/js/jyoutube.js"></script>
+    <script type="text/javascript" src="/corp/components/com_nexentatv/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <script type="text/javascript" src="/corp/components/com_nexentatv/fancybox/video.js"></script>
+
+    <script type="text/javascript" src="/corp/templates/nexenta_tpl/js/validate-trial-registration.js"></script>
+    <script type="text/javascript" src="/corp/templates/nexenta_tpl/js/validate-whitepapers.js"></script>
+    <script type="text/javascript" src="/corp/templates/nexenta_tpl/js/downloads.js"></script>
+
+    <script>
+		hackMenu(32);
+		openResourcesLibraryTab('0');
+	</script>
 <script type="text/javascript">
-<!--// common functions
-
-// We keep here the state of the search box
-searchIsDisabled = false;
-
-function searchChange(e) {
-    // Update search buttons status according to search box content.
-    // Ignore empty or whitespace search term.
-    var value = e.value.replace(/\s+/, '');
-    if (value == '' || searchIsDisabled) { 
-        searchSetDisabled(true);
-    } else {
-        searchSetDisabled(false);
+jQuery(document).ready(function() {
+  function initMunchkin() {
+    Munchkin.init('816-HFB-859');
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = document.location.protocol + '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
     }
-}
+  };
+  s.onload = initMunchkin;
+  jQuery(document).ready(function() {
+     document.getElementsByTagName('body')[0].appendChild(s);
+  });
 
-function searchSetDisabled(flag) {
-    // Enable or disable search
-    document.getElementById('fullsearch').disabled = flag;
-    document.getElementById('titlesearch').disabled = flag;
-}
+});
 
-function searchFocus(e) {
-    // Update search input content on focus
-    if (e.value == 'Search') {
-        e.value = '';
-        e.className = '';
-        searchIsDisabled = false;
-    }
-}
-
-function searchBlur(e) {
-    // Update search input content on blur
-    if (e.value == '') {
-        e.value = 'Search';
-        e.className = 'disabled';
-        searchIsDisabled = true;
-    }
-}
-
-function actionsMenuInit(title) {
-    // Initialize action menu
-    for (i = 0; i < document.forms.length; i++) {
-        var form = document.forms[i];
-        if (form.className == 'actionsmenu') {
-            // Check if this form needs update
-            var div = form.getElementsByTagName('div')[0];
-            var label = div.getElementsByTagName('label')[0];
-            if (label) {
-                // This is the first time: remove label and do buton.
-                div.removeChild(label);
-                var dobutton = div.getElementsByTagName('input')[0];
-                div.removeChild(dobutton);
-                // and add menu title
-                var select = div.getElementsByTagName('select')[0];
-                var item = document.createElement('option');
-                item.appendChild(document.createTextNode(title));
-                item.value = 'show';
-                select.insertBefore(item, select.options[0]);
-                select.selectedIndex = 0;
-            }
-        }
-    }
-}
-//-->
 </script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-d0e89eb1-8740-2e98-d54-e8e9a61993bf"}); </script>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=62322000"></script></head>
+<body class="privacy">
 
-
-<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/wiki/nexenta/css/common.css">
-<link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="/wiki/nexenta/css/screen.css">
-<link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="/wiki/nexenta/css/print.css">
-<link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="/wiki/nexenta/css/projection.css">
-
-<!-- css only for MSIE browsers -->
-<!--[if IE]>
-   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/wiki/nexenta/css/msie.css">
-<![endif]-->
-
-
-
-<link rel="Start" href="/os/Home">
-<link rel="Alternate" title="Wiki Markup" href="/os/PrivacyPolicy?action=raw">
-<link rel="Alternate" media="print" title="Print View" href="/os/PrivacyPolicy?action=print">
-<link rel="Search" href="/os/FindPage">
-<link rel="Index" href="/os/TitleIndex">
-<link rel="Glossary" href="/os/WordIndex">
-<link rel="Help" href="/os/HelpOnFormatting">
-</head>
-
-<body lang="en" dir="ltr">
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2870138-3");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
 
 <div id="container">
-<div id="header">
-<table class="header">
-<tbody><tr><td valign="center">
-<div id="logo"><a href="/os/Home"><img src="/wiki/nexenta/img/transparent.png" alt="Nexenta Logo"></a></div>
-</td>
-<td valign="center" width="100%">
-<span id="title">Nexenta</span><br>
-<span id="subtitle">get an aptitude for OpenSolaris</span><br>
-<span id="subsubtitle">Power of OpenSolaris with usability of Linux!</span><br>
-</td>
-<td valign="top">
+	<div id="main">
+		<div class="header">
+			<div class="left_content">
+				<div id="main_logo">
+							<div class="module">
+			<div>
+				<div>
+					<div>
+											<p><a href="/corp/index.php" title="Nexenta"><img src="/corp/images/stories/logo.jpg" border="0"></a></p>					</div>
+				</div>
+			</div>
+		</div>
+	
+				</div>
+			</div>
+			<div class="right_content">
+				<div id="search">
+							<div class="modulenxserch_">
+			<div>
+				<div>
+					<div>
+											<form action="index.php" method="post">
+	<div class="searchnxserch_">
+		<input name="searchword" id="mod_search_searchword" maxlength="30" alt="Search" class="inputboxnxserch_" type="text" size="30" value="Search..." onblur="if(this.value=='') this.value='Search...';" onfocus="if(this.value=='Search...') this.value='';">	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="32">
+</form>					</div>
+				</div>
+			</div>
+		</div>
+	
+				</div>
+				<div id="small_menu">
+							<div class="module">
+			<div>
+				<div>
+					<div>
+											<ul class="menu" id="menu_top"><li class="item240"><a href="http://nexentastor.org?utm_source=nexenta&amp;utm_medium=referral"><span>Community</span></a></li><li class="item18"><a href="/corp/partners"><span>Partners</span></a></li><li class="item239"><a href="http://blog.nexenta.com"><span>Blog</span></a></li><li class="item400"><a href="/corp/live-chat"><span>Live Chat</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+	
+				</div>
+				<div class="clear"></div>
+				<div id="banner">
+					<div id="banner_back">
+						<a href="/corp/downloads">Get a Free Trial</a>
+					</div>
+										
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="menu">
+					<div class="module_mainmenu">
+			<div>
+				<div>
+					<div>
+											<ul id="ddmenu-topnav">
+	<li>
+		<a href="/corp/products">Products</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+					
+						<ul>
+				<div class="hspacer_big"></div>
+				<li>
+					<h2>
+						<a href="/corp/products/what-is-openstorage">What is OpenStorage?</a>
+					</h2>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/what-is-software-defined-storage">Software-defined Storage</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/nexentastor">NexentaStor</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/nexentavsa-for-view">NexentaVSA for View</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/cloud-archive-plugin">Cloud Archive Plugin</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/nexenta-products-plug-ins">Nexenta Plug-ins</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/namespace-cluster-plugin">Namespace Cluster Plug-in</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/symantec-plugin">Symantec Plugin</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/product-demos">Product Demos</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/download-nexentastor-free-trial">Try NexentaStor Free for 45 Days</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/developer-resources">Developer Resources</a>
+					<div class="clear"></div>
+				</li>
+			
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/products/what-is-openstorage/zfs-info-center">ZFS Info Center</a>
+					<div class="clear"></div>
+				</li>
+			
+							</ul>
+						
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
 
-<form id="searchform" method="get" action="">
-<div>
-<input type="hidden" name="action" value="fullsearch">
-<input type="hidden" name="context" value="180">
-<label for="searchinput" style="display: none;">Search:</label>
-<input id="searchinput" type="text" name="value" value="" size="20" onfocus="searchFocus(this)" onblur="searchBlur(this)" onkeyup="searchChange(this)" onchange="searchChange(this)" alt="Search" class="disabled">
-<input id="titlesearch" name="titlesearch" type="submit" value="Titles" alt="Search Titles" disabled="">
-<input id="fullsearch" name="fullsearch" type="submit" value="Text" alt="Search Full Text" disabled="">
+		</div>
+		
+	</li>
+	
+	<li>
+		<a href="/corp/solutions">Solutions</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+					<ul>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/solution-guides">Solution Guides</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/cisco-ucs-and-nexenta">Cisco UCS and Nexenta</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/cloud">Cloud</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/solid-state-disks">Solid State Disks</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/openstack">OpenStack</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/virtualization">Virtualization</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/vdi">VDI</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/video-surveillance">Video Surveillance</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/archiving-backup-a-recovery">Archiving / Backup &amp; Recovery</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/disaster-recovery-a-business-continuity">Disaster Recovery &amp; Business Continuity</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/federal-government">Federal Government</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/solutions/hardware-supported-list">Hardware Supported List</a>
+					<div class="clear"></div>
+				</li>
+						</ul>
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
+
+		</div>
+		
+	</li>
+	
+	<li>
+		<a href="/corp/downloads">Downloads</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+					<ul>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/nexentastor-download">NexentaStor</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/nexentavsa-for-view">NexentaVSA for View</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/case-studies">Case Studies</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/whitepapers">White Papers</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/datasheets">Data Sheets</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/tech-briefs">Tech Briefs</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/zfs-education">ZFS Education</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/register-your-trial-license">Register Your NexentaStor Trial</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/register-your-nexentavsa-trial">Register Your NexentaVSA Trial</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/register-community-download">Register Your Community Download</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/downloads/download-community-edition">Download Community Edition</a>
+					<div class="clear"></div>
+				</li>
+						</ul>
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
+
+		</div>
+		
+	</li>
+	
+	<li>
+		<a href="/corp/store">Buy Now</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+					<ul>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/store/buy-online">Buy Nexenta Products Online</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/store/nexenta-certified-solutions">Nexenta Certified Solutions</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/store/resellers-search?view=reseller">Find a Nexenta Reseller</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="http://info.nexenta.com/BecomeAReseller_Input.html&amp;Itemid=279">Become A Reseller</a>
+					<div class="clear"></div>
+				</li>
+						</ul>
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
+
+		</div>
+		
+	</li>
+	
+	<li>
+		<a href="/corp/support">Support</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+				
+									<ul>
+				<div class="hspacer_big"></div>
+									
+				<li>
+					<h2>
+						<a href="/corp/support/support-overview">Support Overview</a>
+					</h2>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/support-overview/account-management">Support Portal Login</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/support-overview/product-documentation">Product Documentation</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/support-overview/knowledge-base">Knowledge Base</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/support-overview/hardware-compatibility-list">Hardware Compatibility List</a>
+					<div class="clear"></div>
+				</li>
+								
+									
+												
+				<li>
+					<h2>
+						<a href="/corp/support/resources">Resources</a>
+					</h2>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/resources/faq">FAQs</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/resources/nexenta-certified-solutions">Certified Solutions</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/resources/developer-resources">Developer Resources</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/resources/eula">EULA</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/resources/nexperts-program">NExperts Program</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/resources/support-policies">Support Policies</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/resources/product-documentation">Product Documentation</a>
+					<div class="clear"></div>
+				</li>
+								
+									
+													<div class="clear"></div>
+				<div class="menuorangeline" style="margin-top: 14px;"></div>
+			</ul>
+			<ul>
+				<div class="hspacer_big"></div>
+						
+				<li>
+					<h2>
+						<a href="/corp/support/services">Services</a>
+					</h2>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/services/nexenta-professional-services">Nexenta Professional Services</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/services/nexenta-beta-program">Nexenta Beta Program</a>
+					<div class="clear"></div>
+				</li>
+								<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/support/services/customerpartner-training">Customer/Partner Training</a>
+					<div class="clear"></div>
+				</li>
+								
+									
+					
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
+
+		</ul></div>
+		
+	</li>
+	
+	<li>
+		<a href="/corp/partners">Partners</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+					<ul>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/partners/find-a-reseller?view=reseller">Find a Reseller</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/partners/partners">Become a Reseller</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/partners/nexenta-ecosystem-alliance-program-nesa">Nexenta EcoSystem Alliance Program (NESA)</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/partners/partnercustomer-training">Partner/Customer Training</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/partners/partner-resources-page">Partner Resources Page</a>
+					<div class="clear"></div>
+				</li>
+						</ul>
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
+
+		</div>
+		
+	</li>
+	
+	<li>
+		<a href="/corp/media/recent-news?view=news&amp;Itemid=192">Media</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+					<ul>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/media/recent-news?view=news">Recent News</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/media/events?view=events">Events</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="http://blog.nexenta.com?utm_source=main-menu&amp;Itemid=195">Nexenta Blog</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/media/newsletters">Newsletters</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/media/nexenta-tv?view=video">Nexenta TV</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/media/successful-customers-case-studies">Successful Customers: Case Studies</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="http://info.nexenta.com/ReportWebsiteProblem_Input.html?&amp;Itemid=288">Webmaster</a>
+					<div class="clear"></div>
+				</li>
+						</ul>
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
+
+		</div>
+		
+	</li>
+	
+	<li>
+		<a href="/corp/about-us">About Us</a>
+		
+		<img src="/corp/images/stories/navbar_back_devider.gif">
+		<div class="sub">
+		<div class="trianglemenu"></div>
+					<ul>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/overview">About Us: Overview</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/management-team">Management Team</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/press-releases?view=news">Press Releases</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/contact-us">Contact Us</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/awards-and-recognition">Awards &amp; Recognition</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/careers">Careers</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="http://nexentastor.org?utm_source=nexenta&amp;utm_medium=referral&amp;Itemid=241">Community</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/investors">Investors</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/board-of-advisors">Board of Advisors</a>
+					<div class="clear"></div>
+				</li>
+							<div class="hspacer_big"></div>
+				<li>
+					<div class="square"></div>
+					<a href="/corp/about-us/sitemap?sitemap=1">Sitemap</a>
+					<div class="clear"></div>
+				</li>
+						</ul>
+				<div class="clear"></div>
+		<div class="hspacer_big"></div>
+		<div class="menuorangeline"></div>
+		
+
+		</div>
+		
+	</li>
+	
+</ul>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	
+            <div class="clear"></div>
+		</div>
+		<div class="orange_line"></div>
+		<div class="center">
+			<div id="sidebar_left">
+				
+				<span class="st_sharethis_large" displaytext="ShareThis"></span>
+        <span class="st_facebook_large" displaytext="Facebook"></span>
+        <span class="st_twitter_large" displaytext="Tweet"></span>
+        <span class="st_linkedin_large" displaytext="LinkedIn"></span>
+        <span class="st_email_large" displaytext="Email"></span>
+			</div>
+			<div id="content">
+				<table class="contentpaneopen">
+<tbody><tr>
+		<td class="contentheading" width="100%">
+					Privacy			</td>
+				
+		
+					</tr>
+</tbody></table>
+
+<table class="contentpaneopen">
+
+
+
+<tbody><tr>
+<td valign="top">
+<div id="nex_content">
+<p><b>Privacy Policy</b></p>
+	<p><b>Parters</b></p>
+		<p>Nexenta has aligned with recognized leaders in the digital and direct marketing industry and hopes to influence how practices are shaped in the future. Please contact us at <a href="mailto:privacy@nexenta.com">privacy@Nexenta.com</a> to learn more.</p>
+	<p><b>Non-Personally Identifiable Information</b></p>
+		<p>When you are on one of the Nexenta partner websites, Nexenta collects certain Non-Personally Indentifiable Information (PII), including but not limited to your browser type and your operating system. In addition, the sites in the network collect information about your browsing behavior, such as the date and time you visit the websites, the ads that were on pages you visited, and other click-stream data, none of which includes personal information about you. Finally, Nexenta may collect Non-PII about your IP address, such as where your computer is located or what domain it is using to access the internet.</p>
+	<p><b>How Nexenta Uses and Protects Your Personal Information</b></p>
+	<p><b>Scope</b></p>
+		<p>This privacy policy describes how we handle the personal information that you supply to us and/or concerning your use of our services available through the <a href="http://www.nexenta.com">www.Nexenta.com</a> Web site (the “Site”) and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.</p>
+		<p>This Privacy Policy is effective on August 1, 2006 for any current users, and upon acceptance for all new users.</p>
+	<p><b>Collection of Personal Information</b></p>
+		<p>You can browse the Nexenta site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States.</p>
+		<p>We may collect and store the following information:</p>
+			<ul>
+        		<li>email address, physical contact information, and, depending on the requirements of the service used financial information, such as credit card or payment methods;</li>
+            	<li>transactional information based on your activities on the Site (including but not limited to purchases you make, purchase content, and searches conducted, as related to your account activity); </li>
+            	<li>billing and other information you provide to access our site and/or content;</li>
+            	<li>correspondence through the Site, and correspondence sent to us;</li>
+            	<li>computer sign-on data, statistics on page views, traffic to and from the Site, ad data and other information, including IP addresses and standard Web log information; and supplemental information from third parties.</li>
+			</ul>
+	<p><b>Marketing</b></p>
+    	<p>We don't sell or rent the personal information we collect from your using our Site to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize the services provided to you. If you don't wish to receive marketing communications from us, simply "unsubscribe" located at the end of all marketing communication.</p>
+    <p><b>Use of Information</b></p>
+    	<p>Our primary purpose in collecting personal information is to provide you with an efficient and customized experience. You agree that we may use your personal information to:</p>
+        	<ul>
+            	<li>provide the services and customer support you request;</li>
+                <li>resolves disputes, collect fees, and troubleshoot problems;</li>
+                <li>prevent prohibited or illegal activities, and enforce our User Agreement;</li>
+                <li>customize, measure, and improve our services and the Site's content and layout;</li>
+                <li>share service updates, and promotional offers based on your communication preferences.</li> 
+            </ul>
+    <p><b>Our Disclosure of Your Information</b></p>
+    		<ul>
+        		<li>we may disclose personal information as required to respond to legal matters, enforce our policies, or protect individual rights, property, or safety;</li>
+            	<li>to employees and agents of Nexenta in order to help detect and prevent prohibited or illegal acts;</li>
+            	<li>to service providers under contract who help with our business operations;</li>
+            	<li>to other third parties to whom you explicitly ask us to send your information;</li>
+            	<li>to those serving apparently valid subpoenas;</li>
+            	<li>to other business entities, should we plan to merge with, or be acquired by that business entity.</li>
+        	</ul>
+		<p>Without limiting the above, in an effort to respect your privacy we will not otherwise disclose your personal information except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.</p>
+    <p><b>Cookies</b></p>
+    	<p>We use "cookies" (small files placed on your hard drive) on certain pages of the Nexenta Site to help analyze our Web page flow, customize our services, measure promotional effectiveness, and promote trust and safety. We use cookies to provide services to you.</p>
+        <p>A few important things you should know about cookies:</p>
+        	<ul>
+            	<li>we use cookies to help identify you and maintain your signed-in status;</li>
+                <li>most cookies are "session cookies" meaning that they are automatically deleted from your hard drive at the end of a session;</li>
+                <li>you are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site.</li>
+            </ul>
+        <p>Cookies allow:</p>
+        	<ul>
+            	<li>you to enter your password less frequently during your use of the Site;</li>
+                <li>us to provide information that is targeted to your interests;</li>
+                <li>us to promote and enforce trust and safety;</li>
+                <li>us to offer certain features that are only available through the use of cookies;</li>
+                <li>us to measure promotional effectiveness;</li>
+                <li>us to analyze our Web page flow.</li>
+            </ul>
+        <p>You are always free to decline cookies if your browser permits. However, if you decline cookies, you may not be able to use certain features on the Site, and you may be required to reenter your password more frequently while using the Site.</p>
+        <p>When you are on one of the Nexenta partner websites, we do not collect cookies nor use them for ad serving.</p>
+    <p><b>Account Protection</b></p>
+    	<p>Your password is the key to your account. We recommend the use of unique numbers, letters, and special characters in combination and that you not disclose your Demandbase password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password.</p>
+    <p><b>Accessing, Reviewing and Changing Your Personal Information</b></p>
+    	<p>You can see, review and change most of your personal information by logging into the Site. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with applicable law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with investigations, enforce our User Agreement, and take other actions permitted by law with respect to the account maintenance and management.</p>
+    <p><b>Security</b></p>
+    	<p>Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use certain tools (including but not limited to encryption, passwords, and physical security) to protect you personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we take all reasonable steps to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.</p>
+    <p><b>Phishing</b></p>
+    	<p>In order to protect yourself from third parties unlawfully seeking your personal information through email that appears to be from Nexenta, you should never provide any personal information directly in response to an email you believe you have received from us. Rather, you should always close any such email, open your browser, log directly in to the Nexenta Site and change, update or modify and such personal information only using our Site. In the event that you believe that you have received a request for personal information in an email message that is made to appear that it was sent by us, please inform us immediately.</p>
+    <p><b>General</b></p>
+    	<p>We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms automatically take effect 30 days after they are initially posted on the Site.</p>
 </div>
-</form>
-<script type="text/javascript">
-<!--// Initialize search form
-var f = document.getElementById('searchform');
-f.getElementsByTagName('label')[0].style.display = 'none';
-var e = document.getElementById('searchinput');
-searchChange(e);
-searchBlur(e);
-//-->
-</script>
 
 </td>
 </tr>
+
 </tbody></table>
-</div><!-- header -->
-<div id="topbar">
-<ul class="editbar"><li><span class="disabled">Immutable Page</span></li><li><a href="/os/PrivacyPolicy?action=info">Info</a></li><li><a href="/os/PrivacyPolicy?action=AttachFile">Attachments</a></li><li>
-<form class="actionsmenu" method="get" action="">
-<div>
-    
-    <select name="action" onchange="if ((this.selectedIndex != 0) &amp;&amp;
-                      (this.options[this.selectedIndex].disabled == false)) {
-                this.form.submit();
-            }
-            this.selectedIndex = 0;">
-        <option value="show">More Actions:</option><option value="raw">Raw Text</option>
-<option value="print">Print View</option>
-<option value="RenderAsDocbook">Render as Docbook</option>
-<option value="refresh">Delete Cache</option>
-<option value="show" disabled="" class="disabled">------------</option>
-<option value="SpellCheck">Check Spelling</option>
-<option value="LikePages">Like Pages</option>
-<option value="LocalSiteMap">Local Site Map</option>
-<option value="show" disabled="" class="disabled">------------</option>
-<option value="RenamePage" disabled="" class="disabled">Rename Page</option>
-<option value="DeletePage" disabled="" class="disabled">Delete Page</option>
-<option value="show" disabled="" class="disabled">------------</option>
-<option value="MyPages">My Pages</option>
-<option value="SubscribeUser">Subscribe User</option>
-<option value="show" disabled="" class="disabled">------------</option>
-<option value="Despam">Remove Spam</option>
-<option value="PackagePages">Package Pages</option>
-    </select>
-    
+<span class="article_separator">&nbsp;</span>
+<div style="text-align:left"><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:''});</script><span class="st_facebook_large" displaytext="Facebook" st_url="" st_title="Privacy"></span><span class="st_twitter_large" displaytext="Tweet" st_url="" st_title="Privacy"></span><span class="st_email_large" displaytext="Email" st_url="" st_title="Privacy"></span><span class="st_sharethis_large" st_url="" st_title="Privacy" displaytext="ShareThis"></span></div>
+			</div>
+			<div id="sidebar_right">
+				
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+    <div id="push"></div>
 </div>
+<div id="down"></div>
+<div class="footer footeralter">
+		<div class="gray_line"></div>
+		<div id="footer_menu_a">
+					<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Nexenta</h3>
+											<ul class="menu"><li class="item20"><a href="/corp/about-us-overview"><span>About Us</span></a></li><li class="item21"><a href="/corp/contact-us"><span>Contact Us</span></a></li><li class="item22"><a href="/corp/careers"><span>Careers</span></a></li><li class="item23"><a href="/corp/forums-overview"><span>Forums</span></a></li><li class="item24"><a href="/corp/hardware-partners"><span>Partners</span></a></li><li class="item118"><a href="/corp/developer-resources"><span>Developer Resources</span></a></li><li class="item25"><a href="/corp/partners"><span>Become a Reseller</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+	
+		</div>
+		<div id="footer_menu_b">
+					<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Media</h3>
+											<ul class="menu"><li class="item28"><a href="http://nexenta.org/corp/news"><span>News</span></a></li><li class="item27"><a href="http://nexenta.org/corp/events"><span>Events</span></a></li><li class="item29"><a href="/corp/index.php?Itemid=29&amp;option="><span>Nexenta Blog</span></a></li><li class="item26"><a href="/corp/nexenta-tv"><span>Nexenta TV</span></a></li><li class="item30"><a href="/corp/resource-library"><span>Resource Library</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+	
+		</div>
+		<div id="footer_social">
+			<div id="social_icons">
+				
+			</div>
+			<div class="clear"></div>
+			<div id="copyright">
+				<p>© 2008 - 2012 Nexenta Systems, Inc.<br>All Rights Reserved</p>
+			</div>
+			<div class="clear"></div>
+			<div id="terms">
+						<div class="module">
+			<div>
+				<div>
+					<div>
+											<ul class="menu"><li class="item296"><a href="http://info.nexenta.com/ReportWebsiteProblem_Input.html"><span>Webmaster</span></a></li><li class="item297"><span class="separator"><span>|</span></span></li><li class="item31"><a href="/corp/terms-of-use"><span>Terms of Use</span></a></li><li class="item84"><span class="separator"><span>|</span></span></li><li id="current" class="active item32"><a href="/corp/privacy"><span>Privacy</span></a></li></ul>					</div>
+				</div>
+			</div>
+		</div>
+	
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear">
+                </div>
+
+	</div>
+
+<!-- Begin: Google Analytics -->
 <script type="text/javascript">
-<!--// Init menu
-actionsMenuInit('More Actions:');
-//-->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2870138-1']);
+  _gaq.push(['_setDomainName', 'nexenta.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
-</form>
-</li></ul>
+<!-- End: Google Analytics -->
 
-<ul id="username"><li><a href="/os/PrivacyPolicy?action=login" id="login">Login</a></li></ul>
-<div style="clear: both"></div></div><!-- topbar -->
-<table id="pagetable">
-<tbody><tr><td valign="top">
-<div id="sidemenu">
-<ul class="sidemenu">
-<li><a href="/Home">Home</a></li>
-<li><a href="/Download">Download</a></li>
-<li><a href="/Documentation">Documentation</a></li>
-<li><a href="/Community">Community</a></li>
-<li><a href="/GettingInvolved">Getting Involved</a></li>
-<li><a href="/Sponsors">Sponsors</a></li>
-<li><a href="http://archive.nexenta.org">Packages</a></li>
-</ul>
-</div>
-<p>
-</p><div id="sidemenu" style="padding-left: 0.5em; padding-right: 0.5em;">
-<a href="http://www.nexenta.com/products">
-<img border="0" src="/nexenta-banner.gif">
-</a></div>
-</td><td valign="top">
+<!-- BEGIN LivePerson Monitor. -->
+<script language="javascript"> 
+var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "62322000",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
+</script>
+<!-- END LivePerson Monitor. -->
 
-
-<div id="page" lang="en" dir="ltr">
-<div dir="ltr" id="content" lang="en"><span class="anchor" id="top"></span>
-<span class="anchor" id="line-3"></span><span class="anchor" id="line-4"></span><ul><li style="list-style-type:none"><p class="line891"><strong>Effective Date of Current Policy: December 12, 2007</strong> <span class="anchor" id="line-5"></span><span class="anchor" id="line-6"></span></p></li></ul><p class="line867">
-</p><h1 id="head-58ad826d30ee5ccd5d44d451b863f2346adb8d97">Privacy Policy</h1>
-<span class="anchor" id="line-7"></span><span class="anchor" id="line-8"></span><p class="line874">We will take all reasonable steps to protect your personal information. <span class="anchor" id="line-9"></span><span class="anchor" id="line-10"></span></p><p class="line862">We will <strong>not</strong> distribute your personal information (including email address) to any third party. <span class="anchor" id="line-11"></span><span class="anchor" id="line-12"></span></p><p class="line874">IRC channels, forums, blogs, and wiki pages are available to our community. Any information that you disclosed in these areas becomes public information. Please exercise caution when deciding to disclose any personal information in those areas. <span class="anchor" id="line-13"></span><span class="anchor" id="line-14"></span></p><p class="line874">We may from time to time update this Policy. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the "Effective Date of Current Policy" legend at the top of the Policy. <span class="anchor" id="line-15"></span><span class="anchor" id="line-16"></span></p><p class="line862">We may use your IP address to administer our website, or to gather broad demographic information. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will <strong>not</strong> be shared with third parties. This information can be used for statistical analysis. <span class="anchor" id="line-17"></span><span class="anchor" id="bottom"></span></p></div><div id="pagebottom"></div>
-</div>
-
-</td></tr>
-</tbody></table>
-<div id="footer">
-
-
-Copyright © 2005 - 2008 The Nexenta Project. All Rights Reserved.<br>
-
-Nexenta and NexentaOS are trademarks(tm) of <a href="http://www.nexenta.com">Nexenta Systems Inc</a> and are used<br>
-by The Nexenta Project with the permission of the <a href="http://www.nexenta.com">Nexenta Systems Inc</a><br>
-
-Powered by <a href="http://moinmoin.wikiwikiweb.de/">MoinMoin</a>. Valid <a href="http://validator.w3.org/check/referer">XHTML</a> and <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>.
-
-</div><!-- footer -->
-</div><!-- container -->
-
+<!-- Start of HubSpot Logging Code  -->
+<script type="text/javascript" language="javascript">
+var hs_portalid=170030; 
+var hs_salog_version = "2.00";
+var hs_ppa = "nexenta.app12.hubspot.com";
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://nexenta.app12.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->
 
 </body></html>
