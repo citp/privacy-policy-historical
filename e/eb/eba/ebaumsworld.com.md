@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630175543id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaumsworld.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119040351id_/http%3A//www.ebaumsworld.com/pages/privacy) for the most accurate reproduction.*
 
 # Funny Videos, Funny Pictures, Flash Games, Jokes
 
-Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, Dorks.com, HolyLemon.com, YourDailyMedia.com, FunMansion.com and Unoriginal.co.uk (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information. 
+Viumbe, LLC. ("Viumbe") respects your privacy. This policy explains the privacy practices of Viumbe website and the following websites owned and operated by Viumbe and included therein: EbaumsWorld.com, YourDailyMedia.com, and Celebremix.com (together will be referred to as: "Viumbe Websites") and Viumbe's products, software, data feeds, and services offered to you on, from or through the Viumbe Websites (collectively the "Service"). It describes the ways Viumbe collects and uses your personal information on the Service and the rights and options available to you with respect to your information. 
 
 This policy is incorporated to the Service's [Terms of Service](https://web.archive.org/pages/terms) (the "Terms of Service" or the "Terms"). 
 
@@ -115,4 +115,4 @@ Viumbe, LLC
 1550 Bryant St., Suite 535  
 San Francisco, CA 94103.
 
-Last updated: March 31, 2011.
+Last updated: March 31, 2011. 
