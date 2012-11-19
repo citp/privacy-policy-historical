@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205355id_/http%3A//ssa.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042947id_/http%3A//ssa.gov/privacy.html) for the most accurate reproduction.*
 
 # Social Security's Internet Privacy Policy
 
@@ -20,7 +20,13 @@ We can provide a better experience for you if we understand how you use the site
 
 We use Tier 2 technology to help us analyze site use by identifying you as a new or returning visitor; this does nothing other than distinguish whether you have been to our site before.  Our web measurement applications compare the behavior of new and returning visitors in the aggregate to help us identify work flows and trends and also resolve common problems on our site. We do not use this technology to identify you or any other person.
 
-We use Tier 2 technology on our Open Government page hosted by IdeaScale to make your login easier, prevent anonymous abuse of the service, and ensure fair voting. We also maintain pages on Facebook and YouTube, both of which use Tier 2 technology. We will update our policy as necessary should we extend our use of these technologies in other similar services.
+We use Tier 2 web measurement technology to improve our website and provide a better user experience for our customers. This technology anonymously tracks how visitors interact with socialsecurity.gov, including where they came from, what they did on the site, and whether they completed any pre-determined tasks while on the site.
+
+This technology is provided by Google Analytics and the information collected is used to optimize our website; helping us determine top tasks, improve our user interface and diversify our content offerings to meet the needs of our customers. No personally identifiable information is collected, so the anonymity of the end user is protected.  The measurement data that is collected is only retained for as long as is needed for proper analysis and optimization of the website and is accessible only to employees whose position necessitates it.
+
+Since disabling this web measurement technology requires modifying individual browser settings it is enabled by default. If you wish to opt-out, you can find step-by-step instructions for changing your settings at <http://www.usa.gov/optout_instructions.shtml>. Google also provides a browser plug-in that will allow you to opt-out of all Google Analytics measurements, which you can find at <http://tools.google.com/dlpage/gaoptout>. Please note that opting-out in no way effects your access to content within socialsecurity.gov or how you see the site. 
+
+We also use Tier 2 technology on our Open Government page hosted by IdeaScale to make your login easier, prevent anonymous abuse of the service, and ensure fair voting. We also maintain pages on Facebook and YouTube, both of which use Tier 2 technology. We will update our policy as necessary should we extend our use of these technologies in other similar services.
 
 In the future, we plan to make it possible for you to customize your online experience with us by saving your website preferences.  While we are not presently offering such an option, Tier 2 technology is the usual way of providing for such a service.
 
@@ -74,28 +80,6 @@ We may share the information you provide with our employees or representatives w
 Throughout our website, we will let you know if the information we ask you to provide is voluntary or required.  By providing your personal information, you give us consent to use the information only for the purpose for which it was collected.  We describe those purposes when we collect information.  We will ask for your consent before using the information you provide for any secondary purpose other than those required by Federal law. 
 
 We are especially concerned about protecting children’s privacy.  Therefore, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA).  COPPA and its accompanying Federal Trade Commission regulation establish United States Federal law that protects the privacy of children using the Internet.  We encourage parents and teachers to involve themselves in children’s Internet explorations.  We do not intentionally collect information from children under the age of 13.  Our “Kids’ Place” page does not require children to provide any information that could personally identify them.  If, however, a child chooses to provide personally identifying information to us, through an e-mail or otherwise, we will only use it to respond to the inquiry and we will not retain it. 
-
-The Internet was originally designed as an open system with no built-in security; however, we are required to protect the information we collect and maintain about you and will not use the Internet to do business with you unless we can do so in a secure manner.  We will take reasonable precautions to maintain the security, confidentiality, and integrity of the information we collect at this site.  We take the following steps to secure the information we collect. 
-
-  * Employ internal access controls to ensure that the only people who see your information are those with a need to do so to perform their official duties.
-  * Train appropriate personnel on our privacy and security policies to know requirements for compliance.
-  * Secure the areas where we retain paper copies of the information we collect online.
-  * Perform regular backups of the information we collect online to ensure against loss.
-  * Use technical controls to secure the information we collect online including, but not limited to: 
-    * Secure Socket Layer (SSL)
-    * Encryption
-    * Firewalls
-    * Password protections
-  * Periodically test our security procedures to ensure personnel and technical compliance.
-  * Employ external access safeguards to identify and prevent unauthorized tries of outsiders to “hack” into, or cause harm to, the information contained in our systems.
-
-
-
-When we use contractors to perform various website and database functions.  We make sure that the agreement language with the contractor ensures the security, confidentiality, and integrity of any personal information the contractor may have access to in the course of contract performance. 
-
-We suggest that you do not send personal information to us via email.  We will only send you general information via email. 
-
-Electronic mail messages that meet the definition of records in the Federal Records Act (44 U.S.C. 3101 et seq.) are covered under the same disposition schedule as all other Federal records.  This means that emails you send us will be preserved and maintained for varying periods of time if those emails meet the definition of Federal records.  Electronic messages that are not records are deleted when no longer needed. 
 
 Our website contains links to international agencies, private organizations, and some commercial entities.  These websites are not within our control and may not follow the same privacy, security, or accessibility polices.  Once you link to another site, you are subject to the policies of that site.  All Federal websites, however, are subject to the same Federal policy, security, or accessibility mandates. 
 
