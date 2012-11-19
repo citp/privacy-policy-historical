@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520151816id_/http%3A//www.csgi.com/privacy-policy/overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119170959id_/http%3A//csgi.com/privacy-policy/overview) for the most accurate reproduction.*
 
 # CSG International | Privacy Policy
 
@@ -41,4 +41,4 @@ Telephone: 312-660-5627
 If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact:
 
 Web Site Administrator/Web Master  
-You can also send email to [webmaster@csgsi.com](mailto:webmaster@csgsi.com).
+You can also send email to [webmaster@csgi.com](mailto:webmaster@csgi.com).
