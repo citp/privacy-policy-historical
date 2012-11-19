@@ -1,89 +1,227 @@
-> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302094101id_/http%3A//www.unisfair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119212750id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Unisfair
+# InterCall Privacy Policy | Conference Call Company
 
-Unisfair, Inc. values the privacy of our users, members, sponsors, and others (individually or collectively, **“User”** or **“Users”** ) that organize, participate in and contribute to virtual events hosted on Unisfair’s proprietary platform (events.unisfair.com), and that otherwise use www.unisfair.com and its associated websites, products, and services (collectively, the **“Service”** ).  This Privacy Policy details Unisfair’s information-handling practices with respect to information you provide to us or that we learn from your use of the Service and tells you how we may collect, use, and in some instances share this information.  This Privacy Policy is incorporated into and is subject to the Unisfair [Terms of Use](http://events.unisfair.com/terms/TermsOfUse.html "Terms of Use").  Your use of the Service and any personal information you provide on the Service are subject to the terms of this Privacy Policy and the [Terms of Use](http://events.unisfair.com/terms/TermsOfUse.html).
+InterCall, Inc. is a leading provider of conferencing and collaboration services. We value the privacy of our customers, users, and any individual that accesses or uses the InterCall websites, products, and services (collectively, the "Services"). This Policy discloses InterCall's practices with respect to the collection, processing, use and disclosure of user information collected through the access and use of InterCall Services. This Privacy Policy applies to all Personal Information collected and processed by InterCall whether in electronic, paper or verbal format. The virtual event Service allows certain third party organizers and contributors to host virtual events (each, a "Sponsor"). InterCall collects the information described below on behalf of such Sponsors. You should consult the privacy policies of each relevant Sponsor to determine how they may handle your information. 
 
-Please note that the Service allows certain third party organizers and contributors to host virtual events (each, a **“Sponsor”** ).  Unisfair hosts these virtual events and collects the information described below on behalf of such Sponsors.  The practices below describe how Unisfair treats your information, BUT YOU SHOULD CONSULT THE PRIVACY POLICIES OF EACH RELEVANT SPONSOR TO DETERMINE HOW THEY MAY HANDLE YOUR INFORMATION.
+## Definitions
 
-## The Information Unisfair Collects
+"Personal Information" or "Information" means information that (1) is transferred from the European Economic Area ("EEA") or Switzerland to the United States or maintained in the United States; (2) is recorded in any form; (3) is about, or pertains to, a specific individual; and (4) can be linked to that individual.
 
-**User Provided Information** : You may provide to Unisfair what is generally called “personally identifiable” information when you register for or use the Service, such as your name, user name, address, company name, telephone number, business contact information, and email address. Sponsors of virtual events can customize the Service and may thus require additional information.
+"Sensitive Personal Information" means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual's health. 
 
-Please be aware that any information that you choose to share on any publicly available portion of the Service or with third parties, including without limitation your personal page, chat messages, forum posts, blogs, job applications, business cards, or any other information that you provide to Sponsors or other attendees, may be collected and used by others without restriction. In addition, depending on the type of event, some of the following fields may be displayed throughout the Service: first and last name, company, User ID, and User avatar/image. The Sponsor may enable attendees to search for and find other attendees based on a User’s registration information. If you associate your actual name or other personally identifiable information with your User ID, the people to whom you have revealed such information will be able to personally identify your activities on the Service.
+## Collection and Use of Personal Information
 
-**“Cookies” Information** : When you access the Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer.  Unisfair may use both session cookies and persistent cookies.  A session cookie disappears after you close your browser.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Service.  Persistent cookies can be removed.  Please review your web browser “Help” file to learn the best way to modify your cookie settings.  Please note that disabling cookies may prevent you from accessing some of the functionality available via the Service.
+In connection with the access and use of InterCall Services, we may ask you to provide us with Personal Information when, among other things, you register on the InterCall website, use one of our Services, fill out a survey, make a request for information, or enter a sweepstakes or contest through the InterCall website. We may also capture your telephone number when you use our conferencing Services. Please be aware that any information you choose to share on any publicly available portion of the Services or with third parties, including without limitation your personal page, chat messages, forum posts, blogs, resumes, job applications, business cards, or any other information that you provide to Sponsors or other attendees, may be collected and used by others without restriction. We will use the Personal Information you provide us in these circumstances to operate the InterCall website, to the extent required for the delivery of the InterCall Services, to satisfy InterCall's legitimate business interests (such as customer analysis and internal marketing study and analysis), and to provide information you request from the InterCall website ("Primary Use"). 
 
-**“Automatically Collected” Information** : When you visit the Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology, including “clear gifs” or “web beacons”.  This “automatically collected” information may include your Internet Protocol address ( **“IP Address”** ), web browser properties, information regarding plug-ins, bandwidth metrics, the web pages or sites that you visit just before or just after visiting the Service, the pages you view on our site, and the dates and times that you visit.
+Important Notes Regarding Virtual Events: For virtual events, depending upon the type of event, some of the following fields may be displayed throughout the event: first and last name, company, User ID, and User avatar/image. The Sponsor may enable attendees to search for and find other attendees based on a User's registration information. If you associate your actual name or other personally identifiable information with your User ID, the people to whom you have revealed such information will be able to personally identify your activities on the event. In addition, any information you choose to share on any publicly available portion of a virtual event may be collected and used by others without restriction. résumés that you have posted to or within a virtual event may be available to all Sponsors of any booth, even if you have not filed a job application with such Sponsor. You should consult the respective privacy policies of these Sponsors to determine how they will handle your information. InterCall's Privacy Policy does not apply to such Sponsors or their use of your information. InterCall does not control Sponsors' use of your information. If you would prefer that InterCall not disclose your personal information to any such Sponsor, please contact us at [privacy@intercall.com](mailto:privacy@intercall.com). Please be reminded, however, that any information you publicly display or share or that is accessible through the event may already be in such Sponsor's possession, despite such opt-out choice.
 
-**Payment Information:** When payment is required the payment is processed by PayPal.  Unisfair does not collect or process sensitive payment information.
+Unless you instruct us not to do so, InterCall may also use the Personal Information you provide us to contact you regarding additional or new services and features offered by InterCall, special offers by InterCall, or important information regarding InterCall ("InterCall Secondary Use"). In addition, with your permission, we may provide your Personal Information to other companies who may contact you regarding products, services, and offers that may be of interest to you, but that are not directly related to InterCall or the InterCall website ("Third Party Secondary Use").
 
-## The Way Unisfair Uses Information
+InterCall may provide your Personal Information to vendors that assist InterCall in processing such Information or in case you purchase services of Third Parties from InterCall ("Third Party Services"). InterCall requires such vendors to enter into agreements with InterCall prohibiting disclosure of the information to others and restricting its use to providing the contracted services of InterCall.
 
-Unisfair uses the information that we collect to host virtual events on behalf of Sponsors and to provide to you all of the features and services found on the Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major site updates.
+## Choice
 
-Unisfair may use all of the information that we collect from our Users to understand the usage trends and preferences, to improve the way the Service works and looks, to improve our marketing and promotional efforts, and to create new features and functionality.
+As we noted above, we will not use your Personal Information or Sensitive Personal Information for any Third Party Secondary Uses unless you affirmatively choose to participate in such Secondary Uses. You may also stop delivery of informational or promotional mail from us by following the instructions included in the informational or promotional mail itself. 
 
-Unisfair may use automatically collected information and cookies information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you use the Service; (b) provide custom, personalized advertisements, content, and information; (c) monitor the effectiveness of our marketing campaigns; and (d) monitor aggregate usage metrics such as total number of visitors and pages viewed.
+## Access
 
-Unisfair will not use your email address or other personally identifiable information to send promotional or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.
+When you register to use any of the Services offered by InterCall, InterCall will send you a confirmation of your registration showing the Personal Information we obtained from your registration. Also, we will take reasonable steps to give you the opportunity to correct inaccuracies in the Personal Information we retain concerning you and delete Personal Information concerning you upon your request, unless the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of persons other than you would be violated. 
 
-## When Unisfair Discloses Information
+## International transfers and the U.S.-E.U. Safe Harbor and the U.S.-Swiss Safe Harbor
 
-Except as otherwise noted in this Privacy Policy, Unisfair does not share personal information about Users with third parties unless doing so is appropriate to carry out a User’s request or it reasonably believes that doing so is legally required or is in Unisfair’s interest to protect its property or other legal rights or the rights or property of others.
+By accessing and using the Services and providing us with the requested Personal Information, you consent to the collection and use of the information in accordance with this Privacy Policy including transfers from the EEA and Switzerland to the United States or elsewhere where privacy protections may not have been deemed "adequate" by the EEA or Switzerland. Individuals who do not consent to the collection, use, or disclosure of their personal information as outlined in this Policy should not provide any Personal Information through the InterCall Services and website. 
 
-We do not share User information with other third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.
+In accordance with our commitment to protect personal privacy, InterCall adheres to the Safe Harbor Frameworks concerning the transfer of Personal Information from the EEA and Switzerland to the United States. Accordingly, we follow the Safe Harbor Principles and the fifteen FAQs that make up the E.U. Safe Harbor Framework and the Swiss Safe Harbor Framework published by the U.S. Department of Commerce (the "Principles") with respect to all such Personal Information. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles shall govern. This Privacy Policy outlines our general policy and practices for implementing the Principles, including the types of Information we gather, how we process and use it and the notice and choice affected individuals have regarding our use of and their ability to correct that Information.
 
-**Important Note Regarding Sponsors**. Please note that Unisfair hosts the events on behalf of Sponsors, and Sponsors therefore have access to all information collected through the Service. You should consult the respective privacy policies of these Sponsors to determine how they will handle your information. Unisfair’s Privacy Policy does not apply to such Sponsors or their use of your information, and we do not control Sponsors’ use of your information. If you would prefer that Unisfair not disclose your personal information to any such Sponsor, please contact us at privacy@unisfair.com. Please be reminded, however, that any information that you publicly display or share or that is accessible through the Service may already be in such Sponsors’ possession, despite such opt-out choice.
+## Transfers
 
-Unisfair may disclose both personally identifiable and automatically collected information to affiliated companies or other businesses or persons to process such information on our behalf, to provide website maintenance and security, to offer certain features, to assist us in improving the way the Service works and looks, and to create new features. We require that these parties agree to process such information in compliance with our Privacy Policy, we use reasonable efforts to limit their use of such information, and we require these parties to use any other appropriate confidentiality and security measures. ****
+Unless you have already consented to such disclosure, prior to disclosing Personal Information to a third party, InterCall shall notify you of such disclosure and allow you to opt out of such disclosure. InterCall shall ensure that any third party for which Personal Information may be disclosed subscribes to the Principles or are subject to law providing the same level of privacy protection as is required by the Principles and agree in writing to provide an adequate level of privacy protection.
 
-We may share automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist them in understanding usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Service.
+## Security
 
-## Access and Your Choices
+InterCall shall take reasonable steps to protect your Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. The Personal Information we collect from you is stored in operating environments that employ reasonable security measures and that are not available to the general public. InterCall is not responsible for unauthorized access to such Information by hackers or others that obtain access through illegal measures, in the absence of negligence on the part of InterCall. Further, the other websites you may access through the InterCall website may have different security practices and you should familiarize yourself with those practices. InterCall cannot guarantee the security of Information transmitted via the Internet.
 
-You may, of course, decline to share your personally-identifiable information with Unisfair, in which case Unisfair will not be able to provide to you some or all of the features and functionality found on the Service. You have access to and may update, correct, or delete your information and preferences at any time by going to the Account Settings Section of the Service. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+You are responsible for the confidentiality and security of passwords InterCall issues to you. If you believe a third party has obtained your password in an unauthorized manner, please notify us promptly.
 
-## International Users and the U.S.-E.U. Safe Harbor
+## Data Integrity
 
-By accessing the Services of Unisfair and voluntarily providing us with the requested personally identifiable information Users consent to the collection and use of the information in accordance with this Privacy Policy including transfers from the European Economic Area (EEA) to the United States or elsewhere where privacy protections may not have been deemed “adequate” by the European Union. Individuals who do not consent to the collection, use, or disclosure of their personal information as outlined in this policy should not provide any personally identifiable information through the Service. If a User has provided personally identifiable information to Unisfair through the Service, and no longer consents to its use or disclosure as described in this policy, please visit the Account Settings Section of the Service.  Note:  Deletion of any account information held by Unisfair will not stop the processing of any such information by event Sponsors on whose behalf Unisfair has processed such information.  You should contact any such Sponsors directly regarding any such processing.
+InterCall shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, InterCall shall take reasonable steps to ensure the Personal Information is accurate, complete, current and reliable for its intended use.
 
-In accordance with our commitment to protect personal privacy, Unisfair adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission. The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute the Safe Harbor privacy framework. These principles and FAQs may be found at: http://www.export.gov/safeharbor.
+## Enforcement/Complaints
 
-## Oversight/Enforcement
+InterCall uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. 
 
-Unisfair has a Privacy Officer who is responsible for Unisfair’s compliance with and enforcement of this Policy. Unisfair’s Privacy Officer is available to any of its employees, customers, vendors, business partners, or others who may have questions concerning this Privacy Policy or data security practices. Unisfair’s Privacy Officer may be contacted by email at privacy@unisfair.com.
+If at any time you believe we have acted contrary to this Privacy Policy, please notify us by e-mail at [privacy@intercall.com](mailto:privacy@intercall.com) and we will take steps to investigate and will use reasonable measures to remedy the problem. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using BBB EU Safe Harbor as a third party resolution provider for disputes arising with regard to privacy in the EEA and Switzerland. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
-If you have any concerns over how we store or use your data you can contact us and we’ll do our best to resolve your query. If, for any reason, you are not satisfied with how we deal with your query you can raise a formal dispute through [eTrust](http://www.etrust.org/ "eTrust"), they will work impartially to ensure that your query is properly investigated and resolved.
+## Disclosure for Legal Purposes
 
-## Children
+We may disclose Personal Information if required to do so by law or in the good-faith belief such action is necessary: (a) to conform to the edicts of the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or those of our customers and their users; (c) to protect the personal safety of our customers and their users or the public; or (d) in connection with a merger, consolidation or sale of substantial assets of InterCall. As we continue to develop our business, we might buy or sell assets related to our business. In such transactions Personal Information generally is one of the transferred business assets. Also, in the event InterCall or substantially all of its assets are acquired, Personal Information will be one of the transferred assets. 
 
-Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent, and no part of the Service is directed to persons under 13. Any person who provides their personal information to Unisfair represents that they are 13 years of age or older.
+## Anonymous Information
 
-## Third-Party Services
+Please understand, in addition to collecting Personal Information, InterCall will also gather information that does not personally identify you regarding your use of the InterCall website ("Anonymous Information"). The Anonymous Information we collect regarding your use of the InterCall website may be used by us to measure the effectiveness of marketing efforts on the InterCall website, for improving the services we offer to you, or to improve the InterCall website. Generally, you will not be aware when such Anonymous Information is being collected about you. It may be collected in various ways, such as through traffic data or direct surveys of our customers and may entail the use of, among other things, cookies, IP addresses, or other numeric codes used to identify the computer or other device used to access our website. 
 
-The Service may contain links to websites and services provided by third parties (including those of Sponsors). Any information you provide on third-party sites or services is provided directly to that third party and is subject to that party’s policies. We are not responsible for the content or practices and policies of third-party sites or services to which links are displayed on the Service. We encourage you to learn about third parties’ privacy and security policies before providing them with any information. ****
+## Cookies 
 
-## Our Commitment to Data Security
+We use cookies to provide you with better service. Cookies are pieces of information a website transfers to your computer's hard disk for recordkeeping purposes. Cookies can make the Web more useful by storing information about your preferences for a particular website. The use of cookies is an industry standard, and many major websites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of the functionality of the InterCall website or Services if you do so. 
 
-We use secure server software and firewalls to protect your personally identifiable information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and secure server software.
+## Venturing off the InterCall website
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems.
+The InterCall website may contain hyperlinks that can take you to websites run by third parties ("Third-Party Websites"). Any hypertext or other links to Third-Party Websites from the InterCall website are provided solely as a convenience to you. If you use these links, you will leave the InterCall website. InterCall has not reviewed all of these Third-Party Websites and does not control and is not responsible for any of these websites or their content or practices. Thus, InterCall does not endorse or make any representations about them, or any information, software, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the Third-Party Websites linked to the InterCall website, you do this entirely at your own risk. 
 
-If Unisfair learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Unisfair may post a notice on the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at security-notice@unisfair.com.
+Remember, this Privacy Policy only applies to InterCall. When you are no longer on the InterCall website, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new website. 
 
-If Unisfair should ever file for bankruptcy or have its assets sold to or merge with another entity, information Unisfair receives through the Service will be treated as a Unisfair asset and may be transferred in accordance with applicable legal limitations.
+## Modifications
 
-## Changes and Updates to this Privacy Policy
+InterCall reserves the right to modify the Privacy Policy at any time. Please review the Privacy Policy each time you access and use the InterCall website, as your continued use of the InterCall website and the InterCall Services signifies your assent to such modifications. 
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” section below. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will use commercially reasonable efforts to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the information we collect. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates.
+## Contact Us
 
-## Contacting Unisfair
+If at any time you believe InterCall has not followed the above Policy, or if you have questions, comments, or complaints regarding InterCall's Policy, please contact us via e-mail at [privacy@intercall.com](mailto:privacy@intercall.com). By mail, we can be contacted at: 
 
-If you have any questions, comments, or concerns about this Privacy Policy, please contact us at privacy@unisfair.com or write to us at: Privacy Matters — Unisfair, 149 Commonwealth Drive  
-Menlo Park, CA 94025 USA. We will attempt to respond to your inquiry within 30 days of its receipt.
+InterCall, Inc.  
+ATTN: Safe Harbor Support  
+1239 OG Skinner Drive  
+West Point, GA 31833
 
-**Effective Date/Last Updated: June 29, 2010**
+* * *
 
-**[](http://www.etrust.org/cert/897656.html)  
-**
+## HIPAA PRIVACY NOTICE
+
+**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
+
+**INTRODUCTION**
+
+West Corporation and its affiliates are required by law to maintain the privacy of “protected health information.” “Protected health information” includes any identifiable information we obtain from you or others that relates to your physical or mental health, the health care you have received, or payment for your health care.
+
+As required by law, this notice provides you with information about your rights and our legal duties and privacy practices with respect to the privacy of protected health information. This notice also discusses the uses and disclosures we will make of your protected health information. We must comply with the provisions of this notice, although we reserve the right to change the terms of this notice from time to time and to make the revised notice effective for all protected health information we maintain. You can always request a copy of the most current privacy notice from our Privacy and Security Official.
+
+This Notice applies to the following organizations that are affiliated as part of West Corporation and share similar information practices:
+
+  * West Corporation 
+  * 760 Northlawn Drive, LLC 
+  * A Better Conference, Inc. 
+  * Asset Direct Mortgage, LLC 
+  * BuyDebtCo, LLC 
+  * Cosmosis Corporation 
+  * Holly Connects, Inc. 
+  * InterCall, Inc. 
+  * InterCall Telecom Ventures, LLC 
+  * Intrado, Inc. 
+  * Intrado Command Systems, Inc. 
+  * Intrado Communications Inc. 
+  * Intrado Communications of Virginia Inc. 
+  * Intrado Information Systems Holdings, Inc. 
+  * Intrado International, LLC 
+  * Intrado Systems Corp. 
+  * Northern Contact, Inc. 
+  * Stargate Management LLC 
+  * Stream57 Corporation 
+  * TeleVox Software, Incorporated 
+  * The Debt Depot, LLC 
+  * TuVox Incorporated 
+  * Twenty First Century Communications, Inc. 
+  * Twenty First Century Communications of Canada, Inc. 
+  * Twenty First Century Crisis Communications, LLC 
+  * Twenty First Century International Services LLC 
+  * Unisfair, LLC 
+  * West Asset Management, Inc. 
+  * West Asset Purchasing, LLC 
+  * West At Home, LLC 
+  * West Business Services, LLC 
+  * West Communications, Inc. 
+  * West Customer Management Group, LLC 
+  * West Direct, LLC 
+  * West Direct II, Inc. 
+  * West Education Foundation 
+  * West Facilities, LLC 
+  * West Interactive Corporation 
+  * West International Corporation 
+  * West Language Services, LLC 
+  * West Notifications Group, Inc. 
+  * West Professional Services, Inc. 
+  * West Receivables LLC 
+  * West Receivables Holdings LLC 
+  * West Receivables Purchasing, LLC 
+  * West Receivables Services, Inc. 
+  * West UC Solutions, LLC 
+  * West UC Solutions Holdings, Inc. 
+  * Worldwide Asset Purchasing, LLC
+
+
+
+* * *
+
+**PERMITTED USES AND DISCLOSURES**
+
+The affiliates of West Corporation (“West”) listed above are Business Associates of Covered Entities with which you may do business. These Covered Entities would include, for example, your insurance company, your dentist, your pharmacy, etc. In the capacity of Business Associate, the Covered Entity you use may provide access to a portion of your protected health information to West. We intend to use or disclose your protected health information for the purposes of fulfilling our obligations to the Covered Entity. These uses or disclosures may include, but are not limited to, the following categories and examples:
+
+**Treatment** – We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.
+
+**Payment** – We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.
+
+**Healthcare operations** – We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.
+
+* * *
+
+**OTHER USES AND DISCLOSURES OF PROTECTED HEALTH INFORMATION**
+
+We may contact you, on behalf of your Covered Entity, to provide appointment reminders or information about health-related benefits and services that may be of interest to you.
+
+We may disclose your protected health information at the direction of your Covered Entity and only as permitted by applicable law. This may include disclosure of your protected health information to your family or friends or any other individual identified by you when they are involved in your care or the payment of your care. We will only disclose the protected health information directly relevant to their involvement in your care or payment. We may also use or disclose your protected health information to notify, or assist in the notification of, a family member, a personal representative, or another person responsible for your care of your location, general condition or death. If you are available, we will give you an opportunity to object to these disclosures, and we will not make these disclosures if you object. If you are not available, we will determine whether a disclosure to your family or friends is in your best interest, and we will disclose only the protected health information that is directly relevant to their involvement in your care.
+
+When permitted by law, we may coordinate our uses and disclosures of protected health information with public or private entities authorized by law or by charter to assist in disaster relief efforts.
+
+We may contact you on behalf of your Covered Entity as part of their marketing efforts as permitted by applicable law.
+
+* * *
+
+**SPECIAL SITUATIONS**
+
+Except for the special situations set forth below and the general uses and disclosures described above, we will not use or disclose your protected health information for any other purposes unless you provide a written authorization to your Covered Entity.
+
+**Worker’s Compensation** – We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.
+
+**Public Health** – When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.
+
+**Specialized Government Functions** – We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.
+
+**Health Oversight Agencies** – We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.
+
+**Law Enforcement** – We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
+
+**Judicial and Administrative Proceedings** – We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
+
+**Food and Drug Administration (“FDA”)** – We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.
+
+**Disclosures Required by Law** – We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.
+
+* * *
+
+**YOUR RIGHTS REGARDING HEALTH INFORMATION ABOUT YOU**
+
+You have a right to expect your protected health information will be kept secure and used only for legitimate purposes.
+
+  * You have a right to understand how your protected health information may be used and disclosed by West. 
+  * You have a right to access this privacy notice that tells you how your protected health information may be used or disclosed. 
+  * You have a right to ask questions about any health privacy issue and have those questions clearly and promptly answered. 
+  * You have a (limited) right to know who has seen your health information, and for what purpose. If you make additional requests for such an accounting during any 12-month period, we may charge you a reasonable, cost-based fee. 
+  * You have a right to see, and to keep a copy of, all of your health records except psychotherapy notes and information compiled in reasonable anticipation of, or for use in, a civil, criminal, or administrative action or proceeding. Your request for a copy of your record must be in writing. 
+  * You have a right to ask for correction or inclusion of a statement of disagreement for anything in your records you feel is in error. Your request must be submitted in writing and include supporting documentation. 
+  * You have a right to authorize, or refuse, additional uses of your protected health information, such as for fundraising, marketing, or research. 
+  * You have a right to request extra protections for protected health information you consider especially sensitive, and to request we communicate with you by alternative means.
+
+
+
+* * *
+
+**COMPLAINTS**
+
+If you believe your privacy rights have been violated, you should immediately contact our Privacy and Security Official. We will not take any action against you for filing a complaint. You may also file a complaint with the Secretary of Health and Human Services.
+
+**CONTACT PERSON**
+
+If you have any questions or would like further information about this notice, please contact Alain Zarinelli, West Corporation Privacy and Security Official, at (402) 963-1200 or by mail at 11808 Miracle Hills Drive, Omaha, NE 68154.
+
+ 
