@@ -1,24 +1,67 @@
-> *The following text is extracted and transformed from the coast2coastmixtapes.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121021308id_/http%3A//coast2coastmixtapes.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coast2coastmixtapes.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119215742id_/http%3A//coast2coastmixtapes.com/privacy.aspx) for the most accurate reproduction.*
 
 # Coast 2 Coast Mixtapes | Magazine | DJ Coalition | Radio | Videos | Music Promotion | Audio | Artists | DJs
 
-## This is the web site of Lil Fats, Inc.   
-DBA Coast 2 Coast Mixtapes & Magazine.
+**Privacy Policy**
 
-Our postal address is:  
-1233 SE 122nd Ave   
-Portland, OR 97233
+Lil Fats, Inc. (d/b/a Coast 2 Coast Mixtapes & Magazine) is committed to protecting the integrity of personal information submitted by or collected from the users of our site, and we have provided this Privacy Policy to help users understand our practices in collecting, maintaining, and sharing this information.  In using our site, you consent to the collection and use of your personal information in the ways described below.
 
-We can be reached via e-mail at lilfats@hirollerz.com or you can reach us by telephone at 503.841.5443. 
+**I.           Information We Collect**
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail. The information we collect is used for internal review and is then discarded and. With respect to cookies: We do not set any cookies. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above. 
+**1.          User-Submitted Information: **When you choose to purchase our products or services, submit your music or other material to us, sign up to become a member, or engage in various other interactions with our site you may be requested to provide personal information, such as your name, email address, mailing address, telephone number, website URL, biographical information, links to your social networking profiles, and credit card number or other payment-related information.   We will never ask for your social security number.
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above. If you supply us with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. Persons who supply us with their telephone numbers on-line sending us e-mail at the above address. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations. 
+**             **You should be aware that we cannot guarantee the integrity of any personal information which you choose to post publicly on our site, and we advise that you use care in publicly disclosing your personal information.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+**2.          Information Collected Automatically: **Our servers may also automatically collect certain information related to your use of our site, including your domain name.  However, we do not utilize any cookies, web beacons, or other tools to collect or track your online activities beyond your use of our site.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. Upon request we provide site visitors with access to a description of information that we maintain about them. 
+**II.         Use of Collected Information**
 
-Consumers can access this information by e-mail us at the above address. Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us e-mail at the above address. 
+**1.          Internal Use: **The personal information which you submit to us helps us to communicate with you regarding our products and services, your submissions, and other topics relevant to our site.  We also use this information, as well as automatically-collected user information, for a variety of internal purposes.
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+**2.          Third-Party Use: **If you submit your email address to us, we may share it from time to time with third-party entities whose products or services we feel may be of interest to you.  You may opt out of receiving emails from our site and or from these third-party entities for no fee by sending a request to us at the address provided below. 
+
+We may also share your personal information with third parties in the event that we are part of a merger, acquisition, or bankruptcy and the personal information of our users becomes relevant to such a transaction.
+
+**3.**          **Partners & Service Providers: **We may share your personal information with our partners and service providers, such as manufacturers, shipping carriers, and payment processers, to assist us in fulfilling orders that you have placed for our goods or services, as well as for other customer service-related purposes.
+
+**4.**          **Legally Compelled Disclosure:** We may disclose your personal information when we have a good-faith belief that we are required by law to do so or that such disclosure is necessary to assert, enforce, or defend or own legal rights.
+
+**III.        Protection of Personal Information**
+
+We take precautions to protect the integrity of information which is submitted by or collected from the users of our site.  If you submit certain sensitive data to us, such as credit card or other payment information, you will be redirected to a secure server and will receive a “pop-up” notification of such.
+
+However, while we have employed the practices described herein to protect personal information submitted by or collected from you on our site, the integrity of any information submitted online or through other means can never be fully guaranteed. ****
+
+**IV.        Links to Third-Party Sites**
+
+We make no representation as to the privacy policies employed by third-party websites linked to or from our site, or with whom we have shared your email address, and we suggest that you contact such third-party sites directly if you wish to obtain more information about their privacy policies.
+
+**V.         Review, Revision, & Removal of Personal Information**
+
+You may send a request to us at the contact information provided below to review, revise, or delete any personal information which has been submitted by or collected from you on our site.  A request must include your legal name and a mailing address, telephone number, and email address where you can be reached, and a detailed description of the personal information you would like to review, revise, or delete.  We will take action to accommodate and respond to these requests within a reasonable period of time and will not require a fee to do so.
+
+**VI.        Children**
+
+Our site is not intended for use by children under the age of 13.  If you are under the age of 13, you may be required to provide consent from a parent or guardian prior to using our site and or submitting any personal information to us.
+
+**VII.      Changes to Our Privacy Policy**
+
+This Privacy Policy was last updated October 26, 2012 and is effective as of that date.  We may make changes to this Privacy Policy from time to time, and accordingly, we advise you to visit this page periodically so that you may be aware of any such changes.
+
+**VIII.     Contact Us**
+
+If you have any questions or concerns regarding our Privacy Policy, you may contact us at:
+
+            Online Privacy Policy Request
+
+            Lil Fats, Inc. (d/b/a Coast 2 Coast Mixtapes & Magazine)
+
+            1233 SE 122nd Avenue
+
+            Portland, Oregon 97233
+
+            Telephone: (786)953-6522
+
+            Fax: (786)513-0201
+
+            Email: coast2coastmixtapes@gmail.com
