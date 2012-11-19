@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615234402id_/http%3A//www.hardcoreware.net/about/%23Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119221041id_/http%3A//www.hardcoreware.net/about/%23Privacy_Statement) for the most accurate reproduction.*
 
-# About
+# About hardCOREware - Established in 1999
 
 ## About HCW – BS Free since 1999
 
@@ -25,7 +25,7 @@ We also cover video games from the unique perspective of someone who needs to kn
 
 #### Quick Facts:
 
-  * HCW runs on a cloud server, at Rackspace Cloud.
+  * HCW currently runs on what’s known as a “hybrid” VPS server, at WiredTree in Chicago.
   * The current web design was done by by Carl Nelson. The framework is based on [Theme Hybrid](http://themehybrid.com/themes/hybrid) by Justin Tadlock
   * The previous two designs were done by [Apaja Designs](http://www.apaja.com/) in Finland
   * Our first review was of the Creative Labs GeForce DDR, Carl’s personal video card at the time
@@ -57,7 +57,7 @@ _Senior Editor_
   * Runs several HCW sponsored LAN events, including Hardcore War and LANsomnia
   * Favourite games of all time: Mike Tyson’s Punch Out, Fifa RTWC 98, Wolfenstein: Enemy Territory
   * Location: Eastern Canada
-  * Personal blog: [http://www.trefly.com](http://www.trefly.com/)
+  * Personal blog: http://www.trefly.com
 
 
 
@@ -67,31 +67,39 @@ _Software Engineer_
   * Wrote HCW’s custom CMS backend
   * Favourite games of all time: Quake 3, Unreal Tournament 2004, Drakan
   * Location: Austria
-  * Personal blog: [http://morgh.us](http://morgh.us/)
+  * Personal blog: http://morgh.us
 
 
 
-### Privacy Statement
+### Privacy Policy
 
-**Information Collection and Use**  
-hardCOREware is the sole owner of the information collected on this site. We will not sell this information to others in ways different from what is disclosed in this statement. hardCOREware collects information from our users at several different points on our website.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at carl@hardcoreware.net.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
-
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.
+At www.hardcoreware.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hardcoreware.net and how it is used.
 
 **Log Files**  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Like many other Web sites, www.hardcoreware.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Links**  
-This web site contains links to other sites. Please be aware that we [hardCOREware] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**Cookies and Web Beacons**  
+www.hardcoreware.net does use cookies to store information when visitors comment on articles. This is purely a convenience, so that the visitor won’t need to re-type all their information again when they want to leave another comment. This feature is optional.
 
-**Newsletter**  
-Readers may join our newsletter by using the form at the top of the page. By joining the newsletter, you may receive solicited announcements from hardCOREware directly. Your email address will never be sold or lent to another party for advertising purposes, solicited or otherwise. Everyone who joins our forum is automatically subscribed to the HCW Newsletter. You may still participate in the forum even if you unsubscribe.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.hardcoreware.net.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.hardcoreware.net and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Kontera  
+Tribal Fusion
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.hardcoreware.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.hardcoreware.net has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.hardcoreware.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 ### Credits
 
