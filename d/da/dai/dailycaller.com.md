@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120025801id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119070452id_/http%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Caller
 
@@ -12,7 +12,7 @@ This Privacy Policy (Policy) is about the information that THE DC collects, uses
 
 DailyCaller.com is operated entirely within the United States. If you are located outside of the United States, please note that any information – including personal data – you provide to us will be transferred to and processed in the United States. You hereby consent to these transfers.
 
-This Policy is incorporated by reference into our [Terms of Use Agreement](http://dailycaller.com/terms-of-use/).
+This Policy is incorporated by reference into our [Terms of Use Agreement](https://web.archive.org/footer/terms-of-use/).
 
 **I. WHAT TYPES OF INFORMATION DO WE COLLECT?**
 
