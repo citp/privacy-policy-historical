@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petronas.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520194559id_/http%3A//www.petronas.com.my/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petronas.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120001859id_/http%3A//www.petronas.com.my/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PETRONAS
 
