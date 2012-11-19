@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggermint.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530070743id_/http%3A//www.bloggermint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggermint.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119215421id_/http%3A//www.bloggermint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bloggermint
 
