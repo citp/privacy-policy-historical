@@ -1,0 +1,1384 @@
+<!--The following is the downloaded HTML source of the modicare.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119052551id_/http%3A//www.modicare.com/privacy-policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	
+        :: Modicare ::
+</title>
+
+
+    <script type="text/javascript" src="scripts/jquery.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="scripts/ddsmoothmenu.css">
+
+    <script type="text/javascript" src="scripts/jquery.min.js"></script>
+
+    <script type="text/javascript" src="scripts/ddsmoothmenu.js"></script>
+
+    <script type="text/javascript">
+
+        ddsmoothmenu.init({
+            mainmenuid: "smoothmenu1", //menu DIV id
+            orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+            classname: 'ddsmoothmenu', //class added to menu's outer DIV
+            //customtheme: ["#1c5a80", "#18374a"],
+            contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+        })
+
+    </script>
+
+    <script type="text/javascript" src="scripts/tooltip.js"></script>
+
+    <!-- product colors -->
+    <link href="colors/stylesheet.css" rel="stylesheet" type="text/css"><link href="colors/flexcrollstyles.css" rel="stylesheet" type="text/css">
+
+    <script language="JavaScript" src="colors/jquery.min.js"></script>
+
+    <script language="JavaScript" src="colors/flexcroll.js"></script>
+
+    <!-- end product colors -->
+    <link rel="stylesheet" type="text/css" href="scripts/m-styles.css"><link rel="stylesheet" href="bubbleslideshow/jquery.bubbleSlideshow.css"><link rel="stylesheet" href="scripts/slideshow.css" type="text/css" media="screen">
+
+    <script type="text/javascript" src="scripts/jquery.js"></script>
+
+    <script type="text/javascript" src="scripts/woocommerce_plugins.js"></script>
+
+    <script type="text/javascript" src="scripts/avia.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="footer-menu/bottom-menu.css">
+
+    <script type="text/javascript" src="footer-menu/jquery.js"></script>
+
+    <script language="javascript">
+        highlightMenu('test');
+        function hide(obj) {
+
+            var el = document.getElementById(obj);
+
+            el.style.display = 'none';
+
+        }
+        function highlightMenu() {
+            var sPath = window.location.pathname;
+            //var sPage = sPath.substring(sPath.lastIndexOf('\\') + 1);
+            //var sPath = window.fileName;//window.location.host;
+            //var sPath = window.location.host;
+            var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+            var sAnchor = document.getElementsByTagName('a').href
+            //alert(sPage.toLower());
+        }
+    </script>
+
+    <script>
+
+        $(function() {
+            $('#bottom_menu li a').click(function(e) {
+                e.preventDefault();
+                animateSlider(this.hash);
+            });
+            function animateSlider(hash) {
+                if (!$('#container div.open').length) {
+                    if (hash == '#signin') {
+                        openPopup(hash);
+                    }
+                    if (hash == '#language') {
+                        openPopup(hash);
+                    }
+                    if (hash == '#shop') {
+                        openPopup(hash);
+                    }
+                    if (hash == '#viewcart') {
+                        openPopup(hash);
+                    }
+                } else {
+                    if (hash == '#signin') {
+                        openAndClose(hash)
+                    }
+                    if (hash == '#language') {
+                        openAndClose(hash)
+                    }
+                    if (hash == '#shop') {
+                        openAndClose(hash)
+                    }
+                    if (hash == '#viewcart') {
+                        openAndClose(hash)
+                    }
+                }
+            }
+            function openPopup(hash) {
+                $(hash + '_popup').slideToggle().addClass('open');
+            }
+            function openAndClose(hash) {
+                if ($(hash + '_popup').hasClass('open')) {
+                    $($(hash + '_popup')).slideToggle().removeClass();
+                } else {
+                    $('#container div.open').slideToggle().removeClass();
+                    $(hash + '_popup').slideToggle().addClass('open');
+                }
+            }
+        });
+
+        function MM_swapImgRestore() {
+            var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+        }
+
+        function MM_preloadImages() {
+            var d = document; if (d.images) {
+                if (!d.MM_p) d.MM_p = new Array();
+                var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                    if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
+            }
+        }
+
+        function MM_findObj(n, d) {
+            var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+                d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
+            }
+            if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+            for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+            if (!x && d.getElementById) x = d.getElementById(n); return x;
+        }
+
+        function MM_swapImage() {
+            var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+                if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+        }
+
+    </script>
+
+    <link href="scripts/default.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" language="javascript" src="scripts/header.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="scripts/chromestyle.css">
+
+    <script type="text/javascript" src="scripts/chrome.js"></script>
+
+    <script type="text/JavaScript">
+
+        function openssfeedback() {
+            var targeturl = "http://www.smartsoft.in/ssfeedback.asp?from=www.modicare.com"
+            newwin = window.open("", "", "scrollbars=no | resizable=no")
+            if (document.all) {
+                newwin.moveTo((screen.width - 600) / 2, (screen.height - 530) / 2)
+                newwin.resizeTo(600, 530)
+
+            }
+            newwin.location = targeturl
+        }
+
+    </script>
+
+    <script type="text/javascript" src="footer-slide/jquery_008.js"></script>
+
+    <script type="text/javascript" src="footer-slide/jquery_010.js"></script>
+
+    <script type="text/javascript" src="footer-slide/jquery_007.js"></script>
+
+    <link rel="stylesheet" href="footer-slide/roundabout.css" type="text/css"><link rel="stylesheet" href="scripts/style.css" type="text/css" media="screen">
+
+    <script>
+
+        // When the document loads do everything inside here ...
+        $(document).ready(function() {
+
+            // When a link is clicked
+            $("a.tab").click(function() {
+
+
+                // switch all tabs off
+                $(".active").removeClass("active");
+
+                // switch this tab on
+                $(this).addClass("active");
+
+                // slide all content up
+                $(".content").slideUp();
+
+                // slide this content up
+                var content_show = $(this).attr("title");
+                $("#" + content_show).slideDown();
+
+            });
+
+        });
+    </script>
+
+    <script>
+        function PopupCenter(pageURL, title, w, h) {
+            var left = (screen.width / 2) - (w / 2);
+            var top = (screen.height / 2) - (h / 2);
+            var targetWin = window.open(pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+        } 
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="images/gallery/scripts/style.css" media="screen">
+    <style type="text/css">
+        a#vlb
+        {
+            display: none;
+        }
+    </style>
+
+    <script src="scripts/animatedcollapse.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        animatedcollapse.addDiv('link1', 'fade=0,speed=400,group=dm ')
+        var i = 0;
+        for (i = 2; i <= 500; i++) {
+            animatedcollapse.addDiv('link' + i.toString(), 'fade=0,speed=400,group=dm ,persist=1,hide=1 ');
+        }
+        animatedcollapse.init();
+
+        function MM_swapImage() { //v3.0
+            var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+                if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+        }
+
+    </script>
+
+    <script>
+        function PopupCenter(pageURL, title, w, h) {
+            var left = (screen.width / 2) - (w / 2);
+            var top = (screen.height / 2) - (h / 2);
+            var targetWin = window.open(pageURL, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+        } 
+    </script>
+
+    <link href="scripts/product141211_v1.css" rel="stylesheet" type="text/css">
+
+    <script language="javascript" type="text/javascript" src="scripts/product061211.js"></script>
+
+    <script language="javascript" type="text/javascript" src="scripts/item061211.js"></script>
+
+    <link href="scripts/skin1.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="scripts/jquery.min.js"></script>
+
+    <script type="text/javascript" language="javascript">
+        var currentcontent = 'cont-1-1';
+        var currentimage = 'link1-o.png';
+        var preimage = 'link1.png'
+        var currenttab = 'cont-1';
+
+        function showcontent(ids, ims, ims1, cont) {
+            //old
+            document.getElementById(currenttab).src = "images/header/" + preimage;
+            document.getElementById(currentcontent).className = "hide";
+            //present
+            document.getElementById(ids).src = "images/header/" + ims;
+            document.getElementById(cont).className = "tabcontent";
+
+            currentcontent = cont;
+            currentimage = ims;
+            currenttab = ids;
+            preimage = ims1;
+
+        }
+
+        function onloads() {
+            document.getElementById(currenttab).src = "images/header/" + currentimage;
+            document.getElementById('indexmenu').className = 'selectedmenu';
+        }
+    </script>
+
+    <!--zoom Images-->
+    <link href="scripts/zoomin.css" type="text/css" rel="stylesheet">
+
+    <script src="scripts/zoomin.js" type="text/javascript"></script>
+
+    <link href="scripts/menu.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #vtab
+        {
+            margin: auto;
+            width: 100%;
+            height: 100%;
+        }
+        #vtab > ul > li
+        {
+            width: 144px;
+            background-color: #DDDDDD !important;
+            list-style-type: none;
+            display: block;
+            text-align: left;
+            margin: auto;
+            padding: 8px;
+            border: 0px solid #fff;
+            border-bottom: 1px solid #fff; /*border-left:3px solid #000;*/
+            position: relative;
+            border-right: none;
+            cursor: pointer;
+            font: bold 12px Arial;
+        }
+        #vtab > ul > li.selected
+        {
+            opacity: 1;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+            filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+            border: 1px solid #ddd;
+            border-right: none;
+            z-index: 10;
+            background-color: #fafafa !important;
+            position: relative;
+            color: #02569C;
+        }
+        #vtab > ul
+        {
+            float: left;
+            width: 160px;
+            text-align: left;
+            display: block;
+            margin: auto 0;
+            padding: 0;
+            position: relative;
+            top: 30px;
+        }
+        #vtab > div
+        {
+            background-color: #fafafa;
+            margin-left: 160px;
+            border: 1px solid #ddd;
+            min-height: 250px;
+            padding: 12px;
+            position: relative;
+            z-index: 9;
+        }
+    </style>
+    <!-- TABs-->
+    
+    <!--[if IE 7]>
+    <style type="text/css">
+        #vtab > ul > li.selected{
+            border-right: 1px solid #fff !important;
+        }
+        #vtab > ul > li {
+            border-right: 1px solid #ddd !important;
+        }
+        #vtab > div { 
+            z-index: -1 !important;
+            left:1px;
+        }
+    </style>
+    <![endif]-->
+
+    <script type="text/javascript">
+        $(function() {
+            var $items = $('#vtab>ul>li');
+            $items.click(function() {
+                $items.removeClass('selected');
+                $(this).addClass('selected');
+
+                var index = $items.index($(this));
+                $('#vtab>div').hide().eq(index).show();
+            }).eq(0).click();
+        });
+    </script>
+
+    <link type="text/css" href="bottom-bar/jx.stylesheet.css" rel="stylesheet">
+
+    <script src="bubbleslideshow/jquery.min.js"></script>
+
+    <script type="text/javascript" src="bottom-bar/jquery.jixedbar.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#demo-bar").jixedbar();
+        });
+    </script>
+
+    <link type="text/css" href="images/slides/diapo.css" rel="stylesheet">
+
+    <script type="text/javascript" src="images/slides/jquery.mobile-1.0rc2.customized.min.js"></script>
+
+    <script type="text/javascript" src="images/slides/jquery.easing.1.3.js"></script>
+
+    <script type="text/javascript" src="images/slides/jquery.hoverIntent.minified.js"></script>
+
+    <script type="text/javascript" src="images/slides/diapo.js"></script>
+
+</head>
+<body id="top" onload="MM_preloadImages('images/header/submit-o.jpg');">
+    <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWCAIHDxYCHgdWaXNpYmxlaGQCCQ88KwAJAQAPFgQeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50AgpkFhRmD2QWBGYPFQEjU3ViQ2F0ZWdvcmllcy5hc3B4P0NhdD1HMWx1UVhNNFVBUT1kAgEPDxYCHgRUZXh0BR5OdXRyaXRpb24sIEhlYWx0aCBhbmQgV2VsbG5lc3NkZAIBD2QWBGYPFQEjU3ViQ2F0ZWdvcmllcy5hc3B4P0NhdD1mcGUxZ1RZWmhKOD1kAgEPDxYCHwMFHTRBY3RpdiBNYWcgVGVxLVBsdXMgQnJhY2VsZXRzZGQCAg9kFgRmDxUBI1N1YkNhdGVnb3JpZXMuYXNweD9DYXQ9a2VGenhGTXZQUEE9ZAIBDw8WAh8DBQlTa2luIENhcmVkZAIDD2QWBGYPFQEjU3ViQ2F0ZWdvcmllcy5hc3B4P0NhdD1wZ1owWDAzbGR5bz1kAgEPDxYCHwMFD0NvbG9yIENvc21ldGljc2RkAgQPZBYEZg8VASNTdWJDYXRlZ29yaWVzLmFzcHg/Q2F0PWE3amF2RGpodUQ0PWQCAQ8PFgIfAwUNUGVyc29uYWwgQ2FyZWRkAgUPZBYEZg8VASNTdWJDYXRlZ29yaWVzLmFzcHg/Q2F0PTF2OHd3V1EybVk0PWQCAQ8PFgIfAwUJSG9tZSBDYXJlZGQCBg9kFgRmDxUBI1N1YkNhdGVnb3JpZXMuYXNweD9DYXQ9b2xXbkFMZk5reU09ZAIBDw8WAh8DBQxMYXVuZHJ5IENhcmVkZAIHD2QWBGYPFQEjU3ViQ2F0ZWdvcmllcy5hc3B4P0NhdD1qYm1waWJWZ002Zz1kAgEPDxYCHwMFD0Zvb2QgJiBCZXZlcmFnZWRkAggPZBYEZg8VASNTdWJDYXRlZ29yaWVzLmFzcHg/Q2F0PTNweC81V0dqR2Q0PWQCAQ8PFgIfAwUNIEFncmljdWx0dXJlIGRkAgkPZBYEZg8VASNTdWJDYXRlZ29yaWVzLmFzcHg/Q2F0PWo1YlJhTjVWRXBZPWQCAQ8PFgIfAwUJQXV0byBDYXJlZGQCCw8WAh4JaW5uZXJodG1sBfYcPHVsIGNsYXNzPSdwcmVsb2FkaW5nIHNsaWRlc2hvdyBhZGFwdGF2aWEnIGRhdGEtYXV0b3JvdGF0aW9uPSd0cnVlJyBkYXRhLWF1dG9yb3RhdGlvbi10aW1lcj0nNyc+PGxpIGRhdGEtYW5pbWF0aW9uPSdvcmlnaW5hbC1vcmRlcicgY2xhc3M9J2ZlYXR1cmVkIGZlYXR1cmVkX2NvbnRhaW5lciAwIGNhcHRpb25fbGVmdCBjYXB0aW9uX2xlZnRfZnJhbWVkJz48aW1nIHNyYz0naW1hZ2VzL0NhdGVnb3J5QmFubmVyLzIwMTI2NDIyODE0LmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDEgY2FwdGlvbl9sZWZ0IGNhcHRpb25fbGVmdF9mcmFtZWQnPjxpbWcgc3JjPSdpbWFnZXMvQ2F0ZWdvcnlCYW5uZXIvMjAxMjY0MjI4MjcuanBnJyB3aWR0aD0nOTU4JyBoZWlnaHQ9JzIzMScgLz48L2xpPjxsaSBkYXRhLWFuaW1hdGlvbj0nb3JpZ2luYWwtb3JkZXInIGNsYXNzPSdmZWF0dXJlZCBmZWF0dXJlZF9jb250YWluZXIgMiBjYXB0aW9uX2xlZnQgY2FwdGlvbl9sZWZ0X2ZyYW1lZCc+PGltZyBzcmM9J2ltYWdlcy9DYXRlZ29yeUJhbm5lci8yMDEyNjQyMjgzOC5qcGcnIHdpZHRoPSc5NTgnIGhlaWdodD0nMjMxJyAvPjwvbGk+PGxpIGRhdGEtYW5pbWF0aW9uPSdvcmlnaW5hbC1vcmRlcicgY2xhc3M9J2ZlYXR1cmVkIGZlYXR1cmVkX2NvbnRhaW5lciAzIGNhcHRpb25fbGVmdCBjYXB0aW9uX2xlZnRfZnJhbWVkJz48aW1nIHNyYz0naW1hZ2VzL0NhdGVnb3J5QmFubmVyLzIwMTI2MTIxNTU4MzcuanBnJyB3aWR0aD0nOTU4JyBoZWlnaHQ9JzIzMScgLz48L2xpPjxsaSBkYXRhLWFuaW1hdGlvbj0nb3JpZ2luYWwtb3JkZXInIGNsYXNzPSdmZWF0dXJlZCBmZWF0dXJlZF9jb250YWluZXIgNCBjYXB0aW9uX2xlZnQgY2FwdGlvbl9sZWZ0X2ZyYW1lZCc+PGltZyBzcmM9J2ltYWdlcy9DYXRlZ29yeUJhbm5lci8yMDEyNjEyMTcyODQyLmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDUgY2FwdGlvbl9sZWZ0IGNhcHRpb25fbGVmdF9mcmFtZWQnPjxpbWcgc3JjPSdpbWFnZXMvQ2F0ZWdvcnlCYW5uZXIvMjAxMjYxMjE1MjEwLmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDYgY2FwdGlvbl9sZWZ0IGNhcHRpb25fbGVmdF9mcmFtZWQnPjxpbWcgc3JjPSdpbWFnZXMvQ2F0ZWdvcnlCYW5uZXIvMjAxMjYxMjE1MjE0LmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDcgY2FwdGlvbl9sZWZ0IGNhcHRpb25fbGVmdF9mcmFtZWQnPjxpbWcgc3JjPSdpbWFnZXMvQ2F0ZWdvcnlCYW5uZXIvMjAxMjA2MDcxNDQwLmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDggY2FwdGlvbl9sZWZ0IGNhcHRpb25fbGVmdF9mcmFtZWQnPjxpbWcgc3JjPSdpbWFnZXMvQ2F0ZWdvcnlCYW5uZXIvMjAxMjYxMjE2MzIzLmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDkgY2FwdGlvbl9sZWZ0IGNhcHRpb25fbGVmdF9mcmFtZWQnPjxpbWcgc3JjPSdpbWFnZXMvQ2F0ZWdvcnlCYW5uZXIvMjAxMjYxMjE2MzIxMS5qcGcnIHdpZHRoPSc5NTgnIGhlaWdodD0nMjMxJyAvPjwvbGk+PGxpIGRhdGEtYW5pbWF0aW9uPSdvcmlnaW5hbC1vcmRlcicgY2xhc3M9J2ZlYXR1cmVkIGZlYXR1cmVkX2NvbnRhaW5lciAxMCBjYXB0aW9uX2xlZnQgY2FwdGlvbl9sZWZ0X2ZyYW1lZCc+PGltZyBzcmM9J2ltYWdlcy9DYXRlZ29yeUJhbm5lci8yMDEyNjY1NDU1Mi5qcGcnIHdpZHRoPSc5NTgnIGhlaWdodD0nMjMxJyAvPjwvbGk+PGxpIGRhdGEtYW5pbWF0aW9uPSdvcmlnaW5hbC1vcmRlcicgY2xhc3M9J2ZlYXR1cmVkIGZlYXR1cmVkX2NvbnRhaW5lciAxMSBjYXB0aW9uX2xlZnQgY2FwdGlvbl9sZWZ0X2ZyYW1lZCc+PGltZyBzcmM9J2ltYWdlcy9DYXRlZ29yeUJhbm5lci8yMDEyNjI2MTYzMDAuanBnJyB3aWR0aD0nOTU4JyBoZWlnaHQ9JzIzMScgLz48L2xpPjxsaSBkYXRhLWFuaW1hdGlvbj0nb3JpZ2luYWwtb3JkZXInIGNsYXNzPSdmZWF0dXJlZCBmZWF0dXJlZF9jb250YWluZXIgMTIgY2FwdGlvbl9sZWZ0IGNhcHRpb25fbGVmdF9mcmFtZWQnPjxpbWcgc3JjPSdpbWFnZXMvQ2F0ZWdvcnlCYW5uZXIvMjAxMjYxNTE2MjMxNy5qcGcnIHdpZHRoPSc5NTgnIGhlaWdodD0nMjMxJyAvPjwvbGk+PGxpIGRhdGEtYW5pbWF0aW9uPSdvcmlnaW5hbC1vcmRlcicgY2xhc3M9J2ZlYXR1cmVkIGZlYXR1cmVkX2NvbnRhaW5lciAxMyBjYXB0aW9uX2xlZnQgY2FwdGlvbl9sZWZ0X2ZyYW1lZCc+PGltZyBzcmM9J2ltYWdlcy9DYXRlZ29yeUJhbm5lci8yMDEyNjE1MTYyMzQ2LmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDE0IGNhcHRpb25fbGVmdCBjYXB0aW9uX2xlZnRfZnJhbWVkJz48aW1nIHNyYz0naW1hZ2VzL0NhdGVnb3J5QmFubmVyLzIwMTI2MTUxNjI0MC5qcGcnIHdpZHRoPSc5NTgnIGhlaWdodD0nMjMxJyAvPjwvbGk+PGxpIGRhdGEtYW5pbWF0aW9uPSdvcmlnaW5hbC1vcmRlcicgY2xhc3M9J2ZlYXR1cmVkIGZlYXR1cmVkX2NvbnRhaW5lciAxNSBjYXB0aW9uX2xlZnQgY2FwdGlvbl9sZWZ0X2ZyYW1lZCc+PGltZyBzcmM9J2ltYWdlcy9DYXRlZ29yeUJhbm5lci8yMDEyNjQ1MjI1LmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDE2IGNhcHRpb25fbGVmdCBjYXB0aW9uX2xlZnRfZnJhbWVkJz48aW1nIHNyYz0naW1hZ2VzL0NhdGVnb3J5QmFubmVyLzIwMTI2MTUxNjI1OC5qcGcnIHdpZHRoPSc5NTgnIGhlaWdodD0nMjMxJyAvPjwvbGk+PGxpIGRhdGEtYW5pbWF0aW9uPSdvcmlnaW5hbC1vcmRlcicgY2xhc3M9J2ZlYXR1cmVkIGZlYXR1cmVkX2NvbnRhaW5lciAxNyBjYXB0aW9uX2xlZnQgY2FwdGlvbl9sZWZ0X2ZyYW1lZCc+PGltZyBzcmM9J2ltYWdlcy9DYXRlZ29yeUJhbm5lci8yMDEyNjE1MTYyNTE1LmpwZycgd2lkdGg9Jzk1OCcgaGVpZ2h0PScyMzEnIC8+PC9saT48bGkgZGF0YS1hbmltYXRpb249J29yaWdpbmFsLW9yZGVyJyBjbGFzcz0nZmVhdHVyZWQgZmVhdHVyZWRfY29udGFpbmVyIDE4IGNhcHRpb25fbGVmdCBjYXB0aW9uX2xlZnRfZnJhbWVkJz48aW1nIHNyYz0naW1hZ2VzL0NhdGVnb3J5QmFubmVyLzIwMTI2MTUxNjI1MjkuanBnJyB3aWR0aD0nOTU4JyBoZWlnaHQ9JzIzMScgLz48L2xpPjwvdWw+ZAIjDzwrAAkAZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUSY3RsMDAkSW1hZ2VCdXR0b24xBRBjdGwwMCRzdWJtaXRfYnRuUb+l3ZrywGwSIsjh2squr8wpzTk=">
+
+
+<script src="/ScriptResource.axd?d=aFGEwFCBmnTaRl-rI8F_ct4GgpycKXRNk0OTIG4sNTQggKieUcOUMInVTRd8lO9TTqaga87o-funBDES2NNfFSIyaxyHMjnKolAaDYdLhqumUe6pDlf-jOZT8KUP9Ci2XLASSYPhBtvYs1LNptDbivquhs_lEQrOz_pbfbJRQTt5gsnM0&amp;t=ffffffffb71e5769" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=RPk9mMNBR2ZM5n0fYaDse3OdmK7JUVuYocVbWFlz83ouhF9brRjKY9wTqfQYJkVVgDh4dma8l1ZwyPE8ezCmyjPtEnExvpZyhO0tHNyE-a35iouBRfMivFIJm6146S74IEgB1A75nlyXtZMVa0Iw196krsg1&amp;t=1975d447" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1nfyUoAJwxt0oExJQCwllgzKQDhNQK_jkQPV-O5KTmmDg31Ph6xhgqg01Fx-FUS0rK2c-P7fZWDEwCq57xykDYL7-hmO2aYAGHY8AQOkj14yHotiUjL0jg0entC-GX3s7DXKaPT2o0kmAM7tpX_NjTkjq0Y1&amp;t=1975d447" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6-a6fS_DV8myqcirb70qahOb_ujBUZpvfmUpHBBJNhHekOyNvauEPdbjm87-V0qnZV7ZRULcKYa6HMC3a3qn8D6ShoUesXYUI3F_iSzeHZ_pq_yUvN9emqeePpWadi6qrcTC3axSYUsY7sWN_I5nSKwR8lI9hDynoOIvftsuGKOL2-Je0&amp;t=1975d447" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDwLkrJzECwK9idqcAQLU/JL2BQL9+rLoDgLck+O5CQKS5p39AgLssvLQAwKgr/eZBQLJ2r/zAQLg3J/tCgL3/IDPAwL3vrfjCQKT5p39AgKSqt3vDAKV5scqywQxRST/FV4mUWneCIpbLBsCVzE=">
+    
+    <div>
+        <div id="light" class="white_content">
+            <table width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td height="30" align="left" valign="middle" background="images/header/heading-bg2.jpg" class="white">
+                        <table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td align="left" valign="middle">
+                                    Login
+                                </td>
+                                <td align="right" valign="middle">
+                                    <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15121','','images/close-o.png',1)">
+                                        <img src="images/close.png" alt="Close" name="Image15121" width="20" height="20" border="0" id="Image15121"></a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td height="150" align="center" valign="top" bgcolor="#FFFFFF">
+                        <table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#EAEAEA">
+                            <tbody><tr>
+                                <td align="center" background="images/header/login-logo.jpg" style="background-repeat: no-repeat;" bgcolor="#EEEEEE">
+                                    <table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td align="left" valign="top">
+                                                &nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="130" align="center" valign="top">
+                                                <table id="ctl00_BottomLogin" width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td height="35" align="left" valign="top" class="blue-text">
+                                                            Login
+                                                        </td>
+		<td align="left" valign="top" class="blue-text">
+                                                            :
+                                                        </td>
+		<td align="left" valign="top">
+                                                            <select name="ctl00$ddllogintype1" id="ctl00_ddllogintype1">
+			<option value="">-- Select Login --</option>
+			<option value="Consultant">Modicare Consultant</option>
+			<option value="Customer">Customer</option>
+
+		</select>
+                                                            
+                                                        </td>
+	</tr>
+	<tr>
+		<td width="100" height="35" align="left" valign="top" class="blue-text">
+                                                            User Name
+                                                        </td>
+		<td width="50" align="left" valign="top" class="blue-text">
+                                                            :
+                                                        </td>
+		<td width="299" align="left" valign="top">
+                                                            <input name="ctl00$TxtUname2" type="text" id="ctl00_TxtUname2" class="input-box4">
+                                                            
+                                                        </td>
+	</tr>
+	<tr>
+		<td height="35" align="left" valign="top" class="blue-text">
+                                                            Password
+                                                        </td>
+		<td align="left" valign="top" class="blue-text">
+                                                            :
+                                                        </td>
+		<td align="left" valign="top">
+                                                            <input name="ctl00$TxtPwd2" type="password" id="ctl00_TxtPwd2" class="input-box4">
+                                                            
+                                                        </td>
+	</tr>
+	<tr>
+		<td height="30" align="left" valign="top">
+                                                            &nbsp;
+                                                        </td>
+		<td align="left" valign="top">
+                                                            &nbsp;
+                                                        </td>
+		<td height="35" align="left" valign="middle">
+                                                            
+                                                            
+                                                            <input type="image" name="ctl00$ImageButton1" id="ctl00_ImageButton1" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','images/header/submit-o.jpg',1)" src="images/header/submit.jpg" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImageButton1&quot;, &quot;&quot;, true, &quot;Toplogin1&quot;, &quot;&quot;, false, false))">
+                                                            &nbsp;&nbsp; <a href="forgot-password.aspx" class="forgot" style="position: relative;
+                                                                top: -10px;">Forgot Password?</a>
+                                                        </td>
+	</tr>
+	<tr>
+		<td align="left" valign="top">
+                                                            &nbsp;
+                                                        </td>
+		<td align="left" valign="top">
+                                                            &nbsp;
+                                                        </td>
+		<td align="left" valign="middle">
+                                                            &nbsp;
+                                                        </td>
+	</tr>
+</tbody></table>
+
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td height="3" align="left" valign="top" bgcolor="#7F7F7F">
+                    </td>
+                </tr>
+                <tr>
+                    <td height="13" align="left" valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td align="left" valign="top">
+                                    &nbsp;
+                                </td>
+                                <td align="right" valign="top">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <div id="fade" class="black_overlay">
+        </div>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+                <td align="center" valign="top">
+                    <table width="978" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td align="center" valign="top">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                        <td height="130" align="center" valign="top">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody><tr>
+                                                    <td width="177" align="left" valign="top">
+                                                        <a href="default.aspx">
+                                                            <img src="images/header/modicare-logo.jpg" width="177" height="130" border="0"></a>
+                                                    </td>
+                                                    <td align="right" valign="top">
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                            <tbody><tr>
+                                                                <td align="right" valign="top">
+                                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                        <tbody><tr>
+                                                                            <td align="left" valign="top">
+                                                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="top">
+                                                                                            &nbsp;
+                                                                                        </td>
+                                                                                        <td width="70" align="left" valign="top">
+                                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                                <tbody><tr>
+                                                                                                    <td width="11" align="left" valign="top">
+                                                                                                        <img src="images/header/top-links-left.jpg" width="11" height="31">
+                                                                                                    </td>
+                                                                                                    <td width="150" align="center" valign="middle" background="images/header/top-links-bg.jpg">
+                                                                                                        <a href="default.aspx" class="top-links">Home</a>
+                                                                                                    </td>
+                                                                                                    <td width="11" align="center" valign="middle">
+                                                                                                        <img src="images/header/top-links-right.jpg" width="11" height="31">
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody></table>
+                                                                                        </td>
+                                                                                        <td width="10" align="left" valign="top">
+                                                                                            &nbsp;
+                                                                                        </td>
+                                                                                        <td width="160" align="left" valign="middle">
+                                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                                <tbody><tr>
+                                                                                                    <td width="11" align="left" valign="top">
+                                                                                                        <img src="images/header/top-links-left.jpg" width="11" height="31">
+                                                                                                    </td>
+                                                                                                    <td width="150" align="left" valign="middle" background="images/header/top-links-bg.jpg">
+                                                                                                        <div id="smoothmenu1" class="ddsmoothmenu">
+                                                                                                            <ul>
+                                                                                                                <li><a href="#">
+                                                                                                                    <img src="images/header/arrow1.png" width="7" height="5" border="0">&nbsp;&nbsp;Languages&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/header/india.png" width="16" height="11" vspace="5" align="absmiddle" border="0">&nbsp;&nbsp;&nbsp;India</a>
+                                                                                                                    <ul class="ddsmoothmenu1">
+                                                                                                                        <li><a href="#english" class="english">
+                                                                                                                            <img src="images/header/arrow3.png" width="6" height="6" border="0" style="padding-left: 10px;">
+                                                                                                                            English</a></li>
+                                                                                                                        <li><a href="#hindi" class="english">
+                                                                                                                            <img src="images/header/arrow3.png" width="6" height="6" border="0" style="padding-left: 10px;">
+                                                                                                                            हिन्दी</a></li>
+                                                                                                                        <li><a href="#kannada" class="english">
+                                                                                                                            <img src="images/header/arrow3.png" width="6" height="6" border="0" style="padding-left: 10px;">
+                                                                                                                            ಕನ್ನದ</a></li>
+                                                                                                                    </ul>
+                                                                                                                </li>
+                                                                                                            </ul>
+                                                                                                        </div>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody></table>
+                                                                                        </td>
+                                                                                        <td width="11" align="left" valign="top">
+                                                                                            <img src="images/header/top-links-right.jpg" width="11" height="31">
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+                                                                            <td width="10" align="left" valign="top">
+                                                                                &nbsp;
+                                                                            </td>
+                                                                            <td width="182" align="left" valign="top">
+                                                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                    <tbody><tr>
+                                                                                        <td width="5" align="left" valign="top">
+                                                                                            <img src="images/header/top-links-left.jpg" width="11" height="31">
+                                                                                        </td>
+                                                                                        <td align="left" valign="middle" background="images/header/top-links-bg.jpg">
+                                                                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                                <tbody><tr>
+                                                                                                    <td align="center" valign="middle" class="div">
+                                                                                                        Follow Us
+                                                                                                    </td>
+                                                                                                    <td width="26" align="left" valign="middle">
+                                                                                                        <a href="https://twitter.com/Modicare_India" target="_blank" onmouseover="MM_swapImage('Image164','','images/header/twitter-icon-o.png',1)" onmouseout="MM_swapImgRestore()">
+                                                                                                            <img src="images/header/twitter-icon.png" alt="Twitter" title="Twitter" name="Image164" width="22" height="22" border="0" id="Image164"></a>
+                                                                                                    </td>
+                                                                                                    <td width="26" align="left" valign="middle">
+                                                                                                        <a href="http://www.facebook.com/pages/Modicare-India/258900117510385" target="_blank" onmouseover="MM_swapImage('Image16','','images/header/facebook-icon-o.jpg',1)" onmouseout="MM_swapImgRestore()">
+                                                                                                            <img src="images/header/facebook-icon.jpg" alt="Facebook" title="Facebook" name="Image16" width="22" height="22" border="0" id="Image16"></a>
+                                                                                                    </td>
+                                                                                                    <td align="left" valign="middle">
+                                                                                                        <a href="http://www.linkedin.com/in/modicareindia" target="_blank" onmouseover="MM_swapImage('Image163','','images/header/linked-in-o.png',1)" onmouseout="MM_swapImgRestore()">
+                                                                                                            <img src="images/header/linked-in.png" alt="LinkedIn" title="LinkedIn" name="Image163" width="22" height="22" border="0" id="Image163"></a>
+                                                                                                    </td>
+                                                                                                    <td align="left" valign="middle">
+                                                                                                        <a href="http://www.youtube.com/user/ModicareIndia" target="_blank" onmouseover="MM_swapImage('Image1636','','images/header/youtube-o.png',1)" onmouseout="MM_swapImgRestore()">
+                                                                                                            <img src="images/header/youtube.png" alt="YouTube" title="YouTube" name="Image1636" width="22" height="22" border="0" id="Image1636"></a>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody></table>
+                                                                                        </td>
+                                                                                        <td width="10" align="left" valign="top">
+                                                                                            <img src="images/header/top-links-right.jpg" width="11" height="31">
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td id="ctl00_TdLogin" height="64" align="right" valign="middle">
+                                                                    <table width="100%">
+                                                                        <tbody><tr>
+                                                                            <td align="right">
+                                                                                <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'" class="accept" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','images/header/login-o.jpg',1)">
+                                                                                    <img src="images/header/login.jpg" alt="Login" name="Image18" width="80" height="30" border="0" id="Image18"></a><a href="register.aspx" style="position: relative;
+                                                                                            left: -5px;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images/header/register-o.jpg',0)"><img src="images/header/register.jpg" alt="Register" name="Image19" width="94" height="30" border="0" id="Image19"></a> &nbsp;&nbsp;
+                                                                            </td>
+                                                                            <td width="110" height="30" background="images/header/view-cart-bg.jpg" style="background-repeat: no-repeat;
+                                                                                background-position: center top" align="left" valign="top">
+                                                                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="ViewCart.aspx" class="product-link1" style="line-height: 28px;">Cart (<span id="ctl00_lblCartcnttop"><font color="#F1880F">0</font></span>)</a>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+
+                                                                
+                                                            </tr>
+                                                            <tr>
+                                                                <td height="30" align="right" valign="bottom">
+                                                                    <div class="chromestyle" id="chromemenu">
+                                                                        <ul>
+                                                                            <li><a id="lnkHome" href="default.aspx">Home</a></li>
+                                                                            <li><a id="lnkModic" href="modi-conglomerate.aspx" rel="dropmenu2">About Us</a></li>
+                                                                            <li><a id="lnkBOP" href="business-opportunity.aspx" rel="dropmenu4">Business Opportunity</a></li>
+                                                                            <li><a id="lnkPCat" href="ProductCategory.aspx" rel="dropmenu1">Product Categories</a></li>
+                                                                            <li><a id="lnkKModiS" href="print-coverage.aspx?MediaType=VjnE1DD36Ac=" rel="dropmenu3">
+                                                                                Media Room</a></li>
+                                                                            <li><a id="lnkContact" href="contact-us.aspx">Contact Us</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                    <!--1st drop down menu -->
+                                                                    <div id="dropmenu1" class="dropmenudiv2" style="width: 200px;">
+                                                                        <table id="ctl00_DataListCategory" cellspacing="0" align="Left" border="0">
+	<tbody><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=G1luQXM4UAQ=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl00_lblCat" style="vertical-align: middle;">Nutrition, Health and Wellness</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=fpe1gTYZhJ8=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl01_lblCat" style="vertical-align: middle;">4Activ Mag Teq-Plus Bracelets</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=keFzxFMvPPA=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl02_lblCat" style="vertical-align: middle;">Skin Care</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=pgZ0X03ldyo=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl03_lblCat" style="vertical-align: middle;">Color Cosmetics</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=a7javDjhuD4=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl04_lblCat" style="vertical-align: middle;">Personal Care</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=1v8wwWQ2mY4=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl05_lblCat" style="vertical-align: middle;">Home Care</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=olWnALfNkyM=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl06_lblCat" style="vertical-align: middle;">Laundry Care</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=jbmpibVgM6g=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl07_lblCat" style="vertical-align: middle;">Food &amp; Beverage</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=3px/5WGjGd4=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl08_lblCat" style="vertical-align: middle;"> Agriculture </span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr><tr>
+		<td align="left" valign="middle">
+                                                                                <table width="100%" align="left" border="0" cellspacing="0" cellpadding="0" style="vertical-align: middle;
+                                                                                    border-collapse: collapse;">
+                                                                                    <tbody><tr>
+                                                                                        <td align="left" valign="middle" width="100%" style="padding-left: 5px">
+                                                                                            
+                                                                                            <a href="SubCategories.aspx?Cat=j5bRaN5VEpY=" style="text-decoration: none;">
+                                                                                                <span id="ctl00_DataListCategory_ctl09_lblCat" style="vertical-align: middle;">Auto Care</span></a>
+                                                                                            
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody></table>
+                                                                            </td>
+	</tr>
+</tbody></table>
+                                                                        
+                                                                    </div>
+                                                                    <!--2nd drop down menu -->
+                                                                    <div id="dropmenu2" class="dropmenudiv2" style="width: 150px;">
+                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody><tr>
+                                                                                <td align="left" valign="middle" width="50%">
+                                                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                        <tbody><tr>
+                                                                                            <td align="left" valign="middle" width="70">
+                                                                                                <a href="modi-conglomerate.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Modi Conglomerate</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="kkmodi-story.aspx" style="vertical-align: middle; text-decoration: none;">KK
+                                                                                                    Modi Story</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="kkmodi-message.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    KK Modi Message</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="samirmodi-story.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Samir Modi Story</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="samirmodi-message.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Samir Modi Message</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="modicare-foundation.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Modicare Foundation</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle" width="70">
+                                                                                                <a href="modicare-vision.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Vision</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td width="70" align="left" valign="middle">
+                                                                                                <a href="modicare-mission.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Mission</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle" width="70">
+                                                                                                <a href="modicare-values.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Values</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody></table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </div>
+                                                                    <!--3rd drop down menu -->
+                                                                    <div id="dropmenu3" class="dropmenudiv2" style="width: 150px;">
+                                                                        
+                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody><tr>
+                                                                                <td align="left" valign="middle" width="50%">
+                                                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                        <tbody><tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="print-coverage.aspx?MediaType=VjnE1DD36Ac=" style="vertical-align: middle;
+                                                                                                    text-decoration: none;">Print Coverage</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="print-coverage.aspx?MediaType=dvVtCdIaeac=" style="vertical-align: middle;
+                                                                                                    text-decoration: none;">Press Releases</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="video-room.aspx" style="vertical-align: middle; text-decoration: none;">Video
+                                                                                                    Room</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="images/magazine/index.html" target="_blank" style="vertical-align: middle;
+                                                                                                    text-decoration: none;">Contact Magazine</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody></table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </div>
+                                                                    <!--4th drop down menu -->
+                                                                    <div id="dropmenu4" class="dropmenudiv2" style="width: 230px;">
+                                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                            <tbody><tr>
+                                                                                <td align="left" valign="middle" width="50%">
+                                                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                                                        <tbody><tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="b_WhyModicare.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Why Modicare</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="b_7way.aspx" style="vertical-align: middle; text-decoration: none;">7 ways
+                                                                                                    of Earning</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="b_MaximizerPlan.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Maximizer Plan (Compensation Plan)</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="bsuccess.aspx" style="vertical-align: middle; text-decoration: none;">Success
+                                                                                                    Stories</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="LevelAchiever.aspx" style="vertical-align: middle; text-decoration: none;">
+                                                                                                    Level Achiever</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="left" valign="middle">
+                                                                                                <a href="b_rewards.aspx" style="vertical-align: middle; text-decoration: none;">Rewards
+                                                                                                    And Recognition</a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody></table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+    
+
+    <script type="text/javascript">
+
+        cssdropdown.startchrome("chromemenu")
+
+    </script>
+
+    </td> </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr>
+    <tr>
+        <td height="251" align="center" valign="top" class="inner-body" style="position: relative;
+            height: 235px;">
+            <table width="958" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td align="left" valign="middle" height="251">
+                        <div id="ctl00_div1" class="slideshow_container  dynamic_el_2"><ul class="preloading slideshow adaptavia" data-autorotation="true" data-autorotation-timer="7"><li data-animation="original-order" class="featured featured_container 0 caption_left caption_left_framed"><img src="images/CategoryBanner/20126422814.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 1 caption_left caption_left_framed"><img src="images/CategoryBanner/20126422827.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 2 caption_left caption_left_framed"><img src="images/CategoryBanner/20126422838.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 3 caption_left caption_left_framed"><img src="images/CategoryBanner/2012612155837.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 4 caption_left caption_left_framed"><img src="images/CategoryBanner/2012612172842.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 5 caption_left caption_left_framed"><img src="images/CategoryBanner/201261215210.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 6 caption_left caption_left_framed"><img src="images/CategoryBanner/201261215214.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 7 caption_left caption_left_framed"><img src="images/CategoryBanner/201206071440.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 8 caption_left caption_left_framed"><img src="images/CategoryBanner/201261216323.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 9 caption_left caption_left_framed"><img src="images/CategoryBanner/2012612163211.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 10 caption_left caption_left_framed"><img src="images/CategoryBanner/20126654552.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 11 caption_left caption_left_framed"><img src="images/CategoryBanner/201262616300.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 12 caption_left caption_left_framed"><img src="images/CategoryBanner/2012615162317.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 13 caption_left caption_left_framed"><img src="images/CategoryBanner/2012615162346.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 14 caption_left caption_left_framed"><img src="images/CategoryBanner/201261516240.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 15 caption_left caption_left_framed"><img src="images/CategoryBanner/2012645225.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 16 caption_left caption_left_framed"><img src="images/CategoryBanner/201261516258.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 17 caption_left caption_left_framed"><img src="images/CategoryBanner/2012615162515.jpg" width="958" height="231"></li><li data-animation="original-order" class="featured featured_container 18 caption_left caption_left_framed"><img src="images/CategoryBanner/2012615162529.jpg" width="958" height="231"></li></ul></div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+        <td height="10" align="center" valign="top">
+        </td>
+    </tr>
+    
+    <tr>
+            <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+               
+                <td align="center" valign="top" class="inner-body"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                
+                  <tbody><tr>
+                    <td align="center" valign="middle" class="titles"><table width="97%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td><a href="default.aspx" class="product-link1">Home</a>  »&nbsp; <span class="blue-text3">Privacy Policy</span></td>
+                      </tr>
+                    </tbody></table></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top"><table width="97%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td align="left" valign="top">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td width="86%"><table width="98%" border="0" align="right" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td align="left" valign="middle" class="main-text"><div align="justify">At <strong class="blue1">Modicare</strong>, we respect every individual's right to privacy. Our relationship with you is our most valuable asset and is the very basis of our name and reputation.<br>
+                                  <br>
+                                  We understand the importance you place on the privacy and security of information that personally identifies you or your account information. We refer to and treat this information as "personal information".<br>
+                                    <br>
+                                  We do reserve the right to disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under law, to cooperate with regulators or law enforcement authorities, or to protect our rights or property.<br>
+                                  <br>
+                                  We use personal information in ways that are compatible with the purposes for which we originally requested it. For example, we will use the information you give us to process your requests and transactions, to provide you with additional information about products and services, or to evaluate your financial needs. To do so, we may share personal information with an agent or affiliate.<br>
+                                  <br>
+                                  We limit the collection and use of personal information to what is necessary to administer our business and to deliver superior service to you. This may include advising you about our products or services, those of our affiliates, and other opportunities that we believe may interest you. To serve you better, we may combine information you give us on the Web or through other channels.<br>
+                                  <br>
+                                  When we share personal information with an agent or affiliate, we protect that personal information with a strict confidentiality agreement. Companies that we hire to provide support services or act as our agent must conform to our privacy standards.<br>
+                                  <br>
+                                  <strong class="blue1">Modicare</strong> corporate policies require that employees with access to confidential customer information may not use or disclose the information except for business use. All employees are required to safeguard such information, as specified in their confidentiality agreements with <strong class="blue1">Modicare</strong>.<br>
+                                  <br>
+                                  On occasions we may assist a company that is not affiliated with <strong class="blue1">Modicare</strong> in providing or offering a product or service to you. In such circumstances, marketing materials will include instructions on how you can request not to receive those communications in the future. In all cases your personal information is protected by a strict confidentiality agreement. We do not allow any non-affiliated company to retain your personal information longer than necessary to provide the product, service, or information, unless you affirmatively grant us permission to do so.<br>
+                                  <br>
+                                  We continue to evaluate our efforts to protect personal information and make every effort to keep your personal information accurate and up to date.<br>
+                                  <br>
+                                  If you identify any error in your personal information or need to make a change to that information, please contact us and we will promptly update our records.<br>
+                                  <br>
+                                  If you have any questions or concerns, please contact us by e-mail at <br>
+                                  <a href="mailto:support-modicare@modicare.com" class="product-link1">support-modicare@modicare.com</a> or call us at <strong class="blue1">Modicare</strong> <strong>HO</strong>.<br>
+                                  <br>
+                                  <span class="blue2">Cookies</span><br>
+                                  To personalize your experience on our Web site or with one of our promotions, we may assign your computer browser a unique random number, called a "cookie." Cookies enhance the <strong class="blue1">Modicare</strong> web site performance in several important ways: they personalize your experience on our site, and they make your visit to our site more convenient for you.<br>
+                                  <br>
+                                  Your privacy and security are not compromised when you accept a cookie from our Web site. We do not use cookies to collect personal information. Cookies can't read data from your computer's hard disk or read cookie files from other Web sites. In addition, companies we may hire to evaluate our Web promotions may set cookies to assist with such an evaluation. Again, neither <strong class="blue1">Modicare</strong> nor companies acting on our behalf use cookies to collect personal information.</div></td>
+                              </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                              </tr>
+                            </tbody></table></td>
+                            </tr>
+                        </tbody></table></td>
+                      </tr>
+                      <tr>
+                        <td height="25" align="left" valign="middle">&nbsp;</td>
+                      </tr>
+                    </tbody></table></td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          
+
+    <tr>
+        <td align="center" valign="top">
+            &nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td width="12%" align="center" valign="middle">
+                        <a href="terms-conditions.aspx" class="fotter-link2">Terms &amp; Conditions</a>
+                    </td>
+                    <td width="10" align="center" valign="middle">
+                        <img src="images/header/footer-div.jpg" width="1" height="30">
+                    </td>
+                    <td width="10%" align="center" valign="middle">
+                        <a href="privacy-policy.aspx" class="fotter-link2">Privacy Policy</a>
+                    </td>
+                    <td width="10" align="center" valign="middle">
+                        <img src="images/header/footer-div.jpg" width="1" height="30">
+                    </td>
+                    <td width="7%" align="center" valign="middle">
+                        <a href="disclaimer.aspx" class="fotter-link2">Disclaimer</a>
+                    </td>
+                    <td width="10" align="center" valign="middle">
+                        <img src="images/header/footer-div.jpg" width="1" height="30">
+                    </td>
+                    <td width="15%" align="center" valign="middle">
+                        <a href="http://www.modi.com" target="_blank" class="fotter-link2">Corporate Website</a>
+                    </td>
+                    <td width="10" align="center" valign="middle">
+                        <img src="images/header/footer-div.jpg" width="1" height="30">
+                    </td>
+                    
+                    <td width="6%" align="center" valign="middle">
+                        <a href="career.aspx" class="fotter-link2">Career</a>
+                    </td>
+                    <td width="10" align="center" valign="middle">
+                        <img src="images/header/footer-div.jpg" width="1" height="30">
+                    </td>
+                    <td width="5" align="left" valign="middle" class="fotter-bold">
+                        &nbsp;
+                    </td>
+                    <td align="left" valign="middle" class="fotter-bold">
+                        © 2012 Modicare Limited. All Rights Reserved.
+                    </td>
+                    <td align="right" valign="middle" class="fotter-bold">
+                        &nbsp;
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top" height="40">
+            &nbsp;
+        </td>
+    </tr>
+    </tbody></table> </td> </tr> </tbody></table>   
+    <div id="container">
+        <!--signin_popup-->
+        <div id="signin_popup" style="display: none; left: 752px;">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td width="15" align="left" valign="top">
+                        &nbsp;
+                    </td>
+                    <td align="left" valign="middle">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td height="25" align="left" valign="top">
+                                    <label>
+                                        <select name="ctl00$ddlLogintype" id="ctl00_ddlLogintype">
+	<option value="">-- Select Login --</option>
+	<option value="Consultant">Modicare Consultant</option>
+	<option value="Customer">Customer</option>
+
+</select>
+                                        
+                                    </label>
+                                </td>
+                                <td width="45" rowspan="4" align="right" valign="top">
+                                    <ul id="bottom_menu" style="list-style: none; margin: 0px; padding: 0px;">
+                                        <li><a href="#signin">
+                                            <img src="images/header/close1.png" width="32" height="32" border="0"></a></li></ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="40" align="left" valign="middle">
+                                    <label>
+                                        <input name="ctl00$TxtUname1" type="text" id="ctl00_TxtUname1" class="input-box">
+                                        
+                                        <input type="hidden" name="ctl00$txtwateruser_ClientState" id="ctl00_txtwateruser_ClientState">
+                                    </label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="40" align="left" valign="middle">
+                                    <input name="ctl00$TxtPwd1" type="password" id="ctl00_TxtPwd1" class="input-box">
+                                    
+                                    <input type="hidden" name="ctl00$TextBoxWatermarkExtender_ClientState" id="ctl00_TextBoxWatermarkExtender_ClientState">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="30" align="left" valign="middle">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody><tr>
+                                            <td align="left" width="87">
+                                                
+                                                
+                                                <input type="image" name="ctl00$submit_btn" id="ctl00_submit_btn" src="images/header/signin.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$submit_btn&quot;, &quot;&quot;, true, &quot;UserLogin&quot;, &quot;&quot;, false, false))" border="0">
+                                            </td>
+                                            <td align="left" class="user">
+                                                <a href="forgot-password.aspx" class="forgot">Forgot Password?</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="20" align="left" valign="middle">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <!--language_popup-->
+        <div id="language_popup">
+            <table width="90%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td align="left" valign="middle" height="25">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td align="left" valign="middle">
+                                    &nbsp;&nbsp;Language
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <img src="images/header/shop-shadow.png">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td align="right" valign="middle" height="25" width="20">
+                                    <img src="images/header/arrow4.png">
+                                </td>
+                                <td valign="middle">
+                                    &nbsp;&nbsp;<a href="#english" class="forgot">English</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="right" valign="middle" height="25" width="20">
+                                    <img src="images/header/arrow4.png">
+                                </td>
+                                <td valign="middle">
+                                    &nbsp;&nbsp;<a href="#hindi" class="forgot">हिन्दी</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="right" valign="middle" height="25" width="20">
+                                    <img src="images/header/arrow4.png">
+                                </td>
+                                <td valign="middle">
+                                    &nbsp;&nbsp;<a href="#kannada" class="forgot">ಕನ್ನದ</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        &nbsp;
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <!--shop_popup-->
+        <div id="shop_popup">
+            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td align="left" valign="middle" height="25">
+                        Product Catagory
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <img src="images/header/shop-shadow.png">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left">
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <!--viewcart_popup-->
+        <div id="viewcart_popup">
+            <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
+                <tbody><tr>
+                    <td align="left" valign="middle" height="25">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td align="left" valign="middle">
+                                    &nbsp;&nbsp;View Cart
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="images/header/shop-shadow2.png">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td align="right" valign="middle" height="25" width="20">
+                                    <img src="images/header/cart-icon.png">
+                                </td>
+                                <td valign="middle">
+                                    &nbsp;&nbsp;<a href="ViewCart.aspx" class="forgot">Cart</a>
+                                </td>
+                                <td valign="middle" style="font: bold 13px Arial; color: #000000;">
+                                    (<a href="ViewCart.aspx"><span id="ctl00_lblcartcount"></span>)
+                                </a></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        &nbsp;
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+    
+    <div id="ctl00_BottomMenu">
+        <div id="demo-bar" style="z-index: 999999">
+            <ul id="bottom_menu">
+                <div style="width: 58%;">
+                </div>
+                <li id="ctl00_LiLogin"><a href="#signin">Log In</a></li>
+                <li>
+                    <div style="margin: 0; padding: 0; background: url(images/header/india1.png) no-repeat right;">
+                        <a href="#language">Languages &nbsp;&nbsp;&nbsp;&nbsp; India</a></div>
+                </li>
+                <li><a href="#viewcart">View Cart</a></li>
+            </ul>
+            <span class="jx-separator-right"></span>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="scripts/adaptavia.js"></script>
+
+    </div> 
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_txtwateruser_ClientState","WatermarkCssClass":"input-box","WatermarkText":"User Name","id":"ctl00_txtwateruser"}, null, null, $get("ctl00_TxtUname1"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_TextBoxWatermarkExtender_ClientState","WatermarkCssClass":"input-box","WatermarkText":"Password","id":"ctl00_TextBoxWatermarkExtender"}, null, null, $get("ctl00_TxtPwd1"));
+});
+//]]>
+</script>
+</form>
+
+
+</body></html>
