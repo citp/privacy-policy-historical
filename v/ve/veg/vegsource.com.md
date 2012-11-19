@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520152845id_/http%3A//www.vegsource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119052529id_/http%3A//vegsource.com/privacy.html) for the most accurate reproduction.*
 
 # VegSource.com Privacy Policy - Vegsource.com
 
