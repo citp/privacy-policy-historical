@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521162844id_/http%3A//www.build.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119160227id_/http%3A//www.build.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Build.com: Security & Privacy
 
@@ -7,8 +7,8 @@
 Build.com is a website of Build.com, Inc. Our corporate website can be viewed here. 
 
 Our postal address is:  
-282 Convair Ave.  
-Chico, CA 95973
+P.O. Box 7990  
+Chico, CA 95927
 
 We can be reached online through our online Customer Service center and via phone at (800) 375-3403, which is our customer service call center.
 
@@ -57,3 +57,9 @@ Information about our customers is an important part of our business, and we are
 ## Conditions of Use, Notices, and Revisions
 
 If you choose to visit Build.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Build.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
+
+## Does Build.com Participate in the Safe Harbor Program?
+
+Build.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/) or view our [Safe Harbor Privacy Policy](https://web.archive.org/index.cfm?page=help:safeharborprivacypolicy)
+
+**Copyright © 2000-2012 Build.com, Inc. All Rights Reserved.**
