@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utcourts.gov privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611153905id_/http%3A//www.utcourts.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utcourts.gov privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042846id_/http%3A//www.utcourts.gov/privacy) for the most accurate reproduction.*
 
 # Utah State Courts - Privacy Policy and Disclaimer
 
@@ -46,7 +46,7 @@ No other information is collected unless provided by the user. If you email us p
 
 If a user of this website is involved in litigation, public information regarding that litigation, including a user's personally identifiable information, may be publicly available on this website.
 
-The operator of this website is the Web Publisher, who may be contacted at: [info@email.utcourts.gov](mailto:info@email.utcourts.gov). 
+The operator of this website is the Web Publisher, who may be contacted at: [info@utcourts.gov](mailto:info@utcourts.gov). 
 
 Since the Utah state courts do not collect or maintain personally identifiable information from website users, there is no procedure to access or correct one's personally identifiable information.
 
