@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchindia.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520040745id_/http%3A//www.searchindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchindia.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119094031id_/http%3A//www.searchindia.com/privacy.html) for the most accurate reproduction.*
 
 # SearchIndia.com - Search Engine on India
 
