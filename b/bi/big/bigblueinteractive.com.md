@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521163358id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119170913id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
 # Big Blue Interactive » BigBlueInteractive.com Privacy Policy
 
@@ -28,7 +28,7 @@ If you would like more information about this practice and to know your choices 
   * [ContextWeb](http://www.contextweb.com/privacy_policy)
   * [Tribal Fusion](http://www.tribalfusion.com/TribalFusion/privacy.html)
   * [Burst Media](http://www.burstmedia.com/privacy.asp)
-  * [Fantasy Sports Ventures](http://fantasysportsventures.com/site/privacy.html)
+  * [BigLeadSports (USA Today Sports Media Group)](http://www.thebiglead.com/index.php/privacy-policy/)
   * [Amazon](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
   * [GoTickets](http://www.gotickets.com/privacy_policy.php)
 
@@ -62,8 +62,8 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 **Questions/Comments:**
 
-If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com). If you wish your communication to remain private, please label it as such.
+If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com).
 
-_This Document Was Last Updated on January 26, 2012_
+_This Document Was Last Updated on August 9, 2012_
 
 [](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page")
