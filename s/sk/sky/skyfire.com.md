@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011024906id_/http%3A//www.skyfire.com/about/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119023626id_/http%3A//skyfire.com/about/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,10 +106,10 @@ Note:  Some users may have more restrictive privacy policies based on specific 
 
 | 
 
-[Site Terms of Use](http://www.skyfire.com/about/terms-of-use)
+[Site Terms of Use](http://skyfire.com/about/terms-of-use)
 
-[Browser Terms of Use](http://www.skyfire.com/about/browser-terms)
+[Browser Terms of Use](http://skyfire.com/about/browser-terms)
 
-[Privacy Policy](http://www.skyfire.com/about/privacy-and-security)
+[Privacy Policy](http://skyfire.com/about/privacy-and-security)
 
-[VideoQ Privacy Policy](http://www.skyfire.com/about/videoq-privacy)
+[VideoQ Privacy Policy](http://skyfire.com/about/videoq-privacy)
