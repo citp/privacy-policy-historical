@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the littleblackbag.com privacy policy that was archived on 2012-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613171923id_/http%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the littleblackbag.com privacy policy that was archived on 2012-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119013317id_/http%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# lbbprod: http://ogp.me/ns/fb/lbbprod#">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,41 +13,90 @@
 <meta property="fb:app_id" content="204180859599969">
 <meta property="og:site_name" content="Little Black Bag">
 <meta property="og:image" content="http://d1xm0g4k30x72n.cloudfront.net/images/logos/LBB_Logo2.png">
-<link rel="stylesheet" type="text/css" href="http://d2zcey0ly5qqlb.cloudfront.net/cb/css/310/0/base/lbb.privacy/lbb.landinglayout/footer/lbb.forms.errors/lbb.login">
-<script type="text/javascript">if(top.location!=self.location){var newLoc=self.location.href;var getRidOf=newLoc.match(/(?:&|\?)(rf=[^&]*)/);if(getRidOf!=null){newLoc=newLoc.replace(getRidOf[1],'');}
-top.location=newLoc;}
-var LBBConstants=new Object();LBBConstants.userId=0;LBBConstants.fbogNamespace='lbbprod';LBBConstants.fbogAppToken='204180859599969|7I3uOWsDCVkgMIADTdKH7uCgHMo';LBBConstants.fbId='';LBBConstants.abGroupId=0;</script>
-</head>
-<body>
+<script type="text/javascript">
+var LBBFull = "Full";
+var LBBMobile = "Mobile";
+var LBBSite = LBBFull;
+var LBBC = new Object();
+LBBC.fOGInfo = false;
+LBBC.userId = 0;
+LBBC.appDomain = 'http://www.littleblackbag.com';
+LBBC.dynCdnDomain = 'http://d2zcey0ly5qqlb.cloudfront.net';
+LBBC.fbAppId = '204180859599969';
+LBBC.fbogNamespace = 'lbbprod';
+LBBC.fbogAppToken = '204180859599969|7I3uOWsDCVkgMIADTdKH7uCgHMo';
+LBBC.fbId = '';
+//ask for these privs + let FB pick login layout (no display specified)
+LBBC.fbLoginDfltOptions = {scope: 'email,publish_actions,publish_stream,user_birthday,friends_birthday'};
+LBBC.isiPad = false;
+LBBC.page = 'privacy';
+LBBC.userLoginCookie = false;
+LBBC.galleryUrl = '/gallery';
+</script>
+
+<link rel="stylesheet" type="text/css" href="http://d2zcey0ly5qqlb.cloudfront.net/cb/css/555/0/base/lbb.privacy/lbb.landinglayout/layout.dropmenu/footer/lbb.login/lbb.forms.errors">
+<!--
+<script type="text/javascript">
+//iframe buster
+//note: if , remove all params to process referrals correctly except utm_ params
+if(top.location != self.location) {
+  var newLoc = self.location.href;
+  var getRidOf = newLoc.match(/(?:&|\?)(rf=[^&]*)/);
+  if(getRidOf != null) {
+    newLoc = newLoc.replace(getRidOf[1], '');
+  }
+  top.location = newLoc;
+}
+</script>
+//-->
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="fullsite">
 <div id="floatMenu" class="wrapper_navigation">
   <div class="main_cont">
     <div class="navigation">
-      <a href="landing" class="logo"></a>
+      <a href="/" class="logo"></a>
       <div id="menu_wrapper">
 			
 
-    <div class="top_nav">
-			<ul>
-						<li class="boxmenu">
-			<a onclick="trackClick('Home', 'Gifts');" href="gifts/landing" id="boxmenu_gifts" rel="boxmenu_gifts">
-			    <div class="box_icon"></div>
-			    <div class="title">Gifts</div>
-			  </a>
-			</li>
-			<li class="boxmenu">
-        <a id="boxmenu_howto" onclick="trackClick('Home', 'How It Works');" href="howItWorks">
-        	<div class="box_icon" id="box_menu_howitworks"></div>
-        	<div class="title">How To</div>
-        </a>
-    	</li>
-    	<li class="boxmenu last">
-    		<a class="Login" id="boxmenu_login" onclick="trackClick('Home', 'Login');" href="#">
-    			<div class="box_icon" id="box_menu_login"></div>
-    			<div class="title">Login</div>
-    		</a>
-    	</li>
-	</ul>
-	  </div>
+<div class="top_nav">
+  <ul>
+    <li class="boxmenu">
+      <a onclick="trackClick('Home', 'Gifts');" href="/gifts/landing" id="boxmenu_gifts" rel="boxmenu_gifts">
+        <div class="box_icon"></div>
+        <div class="title">Gifts</div>
+      </a>
+    </li>
+
+
+<!-- Video Menu Item -->
+<!-- End Video Menu Item -->
+
+
+    <li class="boxmenu">
+      <a id="boxmenu_howto" onclick="trackClick('Home', 'How It Works');" href="/howItWorks">
+        <div class="box_icon" id="box_menu_howitworks"></div>
+        <div class="title">How To</div>
+      </a>
+    </li>
+
+<!-- Video Menu Item 
+    <li class="boxmenu">
+      <a onClick="trackClick('Top Nav', 'Video');" href="/video"   id="boxmenu_video" rel="boxmenu_video"
+    >
+    <div class="box_icon"></div>
+    <div class="title">Video</div>
+  </a>
+</li>
+ End Video Menu Item -->
+
+    <li class="boxmenu last">
+      <a class="Login" id="boxmenu_login" onclick="trackClick('Home', 'Login');" href="#">
+        <div class="box_icon" id="box_menu_login"></div>
+        <div class="title">Login</div>
+      </a>
+    </li>
+  </ul>
+</div>
       </div>
     </div>
   </div>
@@ -218,7 +267,7 @@ var LBBConstants=new Object();LBBConstants.userId=0;LBBConstants.fbogNamespace='
 		<p>To protect your privacy and security, we take reasonable steps (such as requesting a password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your password and account information at all times. Certain features on our Website may allow you to share your information with others by publicly posting that information on the Website and/or sharing that information by other external communication methods including (without limitation) email, Facebook or Twitter. You are responsible for what information, if any, you choose to share by external communication methods.  To the extent that you choose to share any such information by or through external communication methods, it is no longer considered Personal Information and is not covered by this Privacy Policy.</p>
 	</div>
 	<div class="privacy_content_blk">
-		<p>You may exercise your controls and choices, request access to your Personal Information, or send any questions you have regarding the specific Personal Information about you that we process or retain, by contacting us at <a href="mailto:help@littleblackbag.com">help@littleblackbag.com</a> or 2332 Cotner Avenue, Suite 201, Los Angeles, CA  90064 or following instructions provided in communications sent to you by LBB.</p>
+		<p>You may exercise your controls and choices, request access to your Personal Information, or send any questions you have regarding the specific Personal Information about you that we process or retain, by contacting us at <a href="mailto:help@littleblackbag.com">help@littleblackbag.com</a> or 10951 West Pico Blvd, Suite 120, Los Angeles, CA  90064 or following instructions provided in communications sent to you by LBB.</p>
 	</div>
 	<div class="privacy_content_blk">
 		<p><strong>Our Commitment To Data Security</strong></p>
@@ -260,50 +309,52 @@ var LBBConstants=new Object();LBBConstants.userId=0;LBBConstants.fbogNamespace='
 		<p><strong>Contact Information</strong></p>
 	</div>
 	<div class="privacy_content_blk">
-		<p>Please contact us at <a href="mailto:help@littleblackbag.com">help@littleblackbag.com</a> or 2332 Cotner Avenue, Suite 201, Los Angeles, CA  90064 with any questions or comments about this Privacy Policy or the Website.</p>
+		<p>Please contact us at <a href="mailto:help@littleblackbag.com">help@littleblackbag.com</a> or 10951 West Pico Blvd, Suite 120, Los Angeles, CA  90064 with any questions or comments about this Privacy Policy or the Website.</p>
 	</div>
 </div>	<div id="footer">
 
-<a href="howItWorks" onclick="trackClick('Bottom Nav', 'How It Works');">
+<a href="/howItWorks" onclick="trackClick('Bottom Nav', 'How It Works');">
 <div class="subhead">
-    <img alt="How it works: 1-2-3" src="images/home/landing2/Subhead_HowitWorks.png" width="500" height="25">
+    <img alt="How it works: 1-2-3" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Subhead_HowitWorks.png">
 </div>
 <div class="footer_wrap" id="footer_howitworks">
     <div class="footer_block shop">
-        <div class="desc"><span>Choose the first item</span> from personalized style picks (Yep, there's a quiz). Our stylists give you <span>1-3 more we think you'll love.</span></div>
+        <div class="desc"><span>Pick the 1<sup>st</sup> item</span> from our <sup>$</sup>49.95 or <sup>$</sup>29.95 gallery. Our stylists will surprise you with extra items based on your style.</div>
     </div>
+
     <div class="footer_block swap">
-        <div class="desc"><span>Switch any of your items</span> with other members - just <span>offer to trade</span> by clicking on any product image - this is the fun part!</div>
+        <div class="desc"><span>Trading is where the fun is.</span> Swap any of your items with other members on the site for up to 3 to 7 days based on your bag price.</div>
     </div>
+
     <div class="footer_block ship noborder">
-        <div class="desc"><span>We ship your bag</span> full of brand name luxury items when you are happy.</div>
+        <div class="desc">Ship your bag when you're ready. Easy exchanges and refunds. <span>Happiness guaranteed!</span></div>
     </div>
 </div>
 </a>
-<a onclick="trackClick('Bottom Nav', 'Our Brands');" href="ourbrands">
+<a onclick="trackClick('Bottom Nav', 'Our Brands');" href="/ourbrands">
 <div class="subhead">
-    <img alt="Just a few of our hundreds of brands" src="images/home/landing2/Subhead_OurBrands.png" width="500" height="25">
+    <img alt="Just a few of our hundreds of brands" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Subhead_OurBrands.png">
 </div>
 <div class="footer_wrap" id="footer_ourbrands">
-    <img alt="Badgeley Mischka" src="images/home/landing2/Logo_Bagley.jpg" width="165" height="45">
-    <img alt="BCBGeneration" src="images/home/landing2/Logo_BCBGen.jpg" width="165" height="45">
-    <img alt="Betsey Johnson" src="images/home/landing2/Logo_Betsey.jpg" width="165" height="45">
-    <img alt="Big Buddha" src="images/home/landing2/Logo_BigBuddha.jpg" width="165" height="45">
-    <img alt="Kenneth Jay Lane" src="images/home/landing2/Logo_KennethJayLane.jpg" width="165" height="45">
-    <img class="noborder" alt="Linea Pelle" src="images/home/landing2/Logo_LineaPelle.jpg" width="165" height="45">
+    <img alt="Badgeley Mischka" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Logo_Bagley.jpg">
+    <img alt="BCBGeneration" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Logo_BCBGen.jpg">
+    <img alt="Betsey Johnson" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Logo_Betsey.jpg">
+    <img alt="Big Buddha" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Logo_BigBuddha.jpg">
+    <img alt="Kenneth Jay Lane" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Logo_KennethJayLane.jpg">
+    <img class="noborder" alt="Linea Pelle" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Logo_LineaPelle.jpg">
 
 </div>
 </a>
 
 <div class="subhead">
-    <img alt="Good ideas? Yep, we've got 'em" src="images/home/landing2/Subhead_GoodIdeas.png" width="500" height="25">
+    <img alt="Good ideas? Yep, we've got 'em" src="http://d1xm0g4k30x72n.cloudfront.net/images/home/landing2/Subhead_GoodIdeas.png">
 </div>
 <div class="footer_wrap" id="footer_goodideas">
     <div class="footer_block rewards">
         <div class="desc small"><span>Win Win.</span> When you bring in friends you get free items. It's as simple as that. It's more fun with friends anyway...</div>
     </div>
     <div class="footer_block gifts">
-    	<a href="gifts/landing" onclick="trackClick('Bottom Nav', 'Gifts', 'Landing Footer');">
+    	<a href="/gifts/landing" onclick="trackClick('Bottom Nav', 'Gifts', 'Landing Footer');">
         <div class="desc small"><span>It's more than just stuff.</span> It's an experience. There's no better gift than the fun and promise of excitement and discovery (not to mention massive savings on brand name accessories).</div>
     	</a>
     </div>
@@ -316,47 +367,48 @@ var LBBConstants=new Object();LBBConstants.userId=0;LBBConstants.fbogNamespace='
 
 
 <div class="footer_wrap">
-  <div class="wearesocial bottom">
-    <ul>
-      <li class="fb_holder"> </li>
-      <li id="tw_holder"></li>
-      <li id="pinterest_holder">
-      <script>LBBConstants.pinterestUrl='http%3A%2F%2Fwww.littleblackbag.com%3Frf%3DYWxsIGdyZWF0IHNpdGVzIGRlc2VydmUgYSBncmVhdCBsYXVuY2g1LbbsePpnLbbsePLbbsePLbbsePLbbsePLbbsePLbbseP%26utm_medium%3DPinterestU%26utm_campaign%3DUserReferral%26utm_content%3DFooter%26utm_source%3Dpinterest.com';LBBConstants.pinterestMedia='http%3A%2F%2Fd1xm0g4k30x72n.cloudfront.net%2Fimages%2Fsharing%2FPInterest_BottomNav.jpg';LBBConstants.pinterestDescription='Discover+a+whole+new+way+to+shop+at+littleblackbag.com.+Sometimes+the+fun+is+in+the+unexpected%21';</script>
-      </li> 
-    </ul>
-  </div>
 <div class="footer_misc"> 
+    <div class="wearesocial bottom">
+      <ul>
+        <li class="fb_holder"> </li>
+        <li id="tw_holder"></li>
+        <li id="pinterest_holder">
+          <a target="blank" onclick="trackClick('Top Nav', 'Follow on Pinterest');" href="http://pinterest.com/littleblackbag/"></a>
+        </li>
+        <li id="yt_holder">
+        <a target="blank" onclick="trackClick('Top Nav', 'Subscribe to YouTube');" href="http://www.youtube.com/user/littleblackbagteam/videos"></a>
+        </li> 
+      </ul>
+    </div>
   <div class="footer_toplinks">
-        <a onclick="trackClick('Bottom Nav', 'Buy');" href="quiz">Buy</a>
-        <a onclick="trackClick('Bottom Nav', 'Gifts');" href="gifts/landing">Gifts</a>
-    <a onclick="trackClick('Bottom Nav', 'Shipping');" href="shipping">Shipping</a>                 
-    <a onclick="trackClick('Bottom Nav', 'Returns');" href="returns">Returns</a>                  
-    <a onclick="trackClick('Bottom Nav', 'Contact Us');" href="contactus">Contact Us</a> 
-  	<a onclick="trackClick('Bottom Nav', 'Our Brands');" href="ourbrands">Our Brands</a>
-    <a onclick="trackClick('Bottom Nav', 'About Us');" href="aboutus">About</a>
+        <a onclick="trackClick('Bottom Nav', 'Buy');" href="/quiz">Buy</a>
+        <a onclick="trackClick('Bottom Nav', 'Gifts');" href="/gifts/landing">Gifts</a>
+    <a onclick="trackClick('Bottom Nav', 'Shipping');" href="/shipping">Shipping</a>                 
+    <a onclick="trackClick('Bottom Nav', 'Returns');" href="/returns">Returns</a>                  
+    <a onclick="trackClick('Bottom Nav', 'Contact Us');" href="/contactus">Contact Us</a> 
+  	<a onclick="trackClick('Bottom Nav', 'Our Brands');" href="/ourbrands">Our Brands</a>
+    <a onclick="trackClick('Bottom Nav', 'About Us');" href="/aboutus">About</a>
 
-    <a onclick="trackClick('Bottom Nav', 'Help');" href="help">Help</a>
+    <a onclick="trackClick('Bottom Nav', 'Help');" href="/help">Help</a>
   </div>
   	
 
   <p class="footer_btmlink">
-    <a onclick="trackClick('Bottom Nav', 'Terms');" target="blank" class="first" href="terms">Terms</a>
-    •<a onclick="trackClick('Bottom Nav', 'Privacy');" target="blank" href="privacy">Privacy</a>
+    <a onclick="trackClick('Bottom Nav', 'Terms');" target="blank" class="first" href="/terms">Terms</a>
+    •<a onclick="trackClick('Bottom Nav', 'Privacy');" target="blank" href="/privacy">Privacy</a>
+    •<a onclick="trackClick('Bottom Nav', 'Truste Privacy');" href="http://privacy-policy.truste.com/verified-policy/www.littleblackbag.com" target="_blank">Privacy Policy by TRUSTe</a>
     •<span>© Little Black Bag, Inc</span>
     •<span>Patent Pending</span>
   </p>
 </div>
 </div>
 </div>
-
-
-
 </div>
 <div id="loginoutercontainer"></div>
   	
   <div id="logincontainer">
-    <h1>Already a member?</h1>
-    <h2>Login below</h2>
+    <div class="header1">Already a member?</div>
+    <div class="header2">Login below</div>
     <div id="loginCloseButton"></div>
   			
     
@@ -364,7 +416,7 @@ var LBBConstants=new Object();LBBConstants.userId=0;LBBConstants.fbogNamespace='
     	<div id="fbcontainer">
     		<div class="formLeft"></div>
 			<div class="formRight">
-				<div class="facebookConnectButton">
+				<div class="facebookConnectButton" data-redirectargs="%3Fparam%3Dlove">
 				<a href="#"></a>
 				</div>
 			</div>
@@ -393,6 +445,7 @@ var LBBConstants=new Object();LBBConstants.userId=0;LBBConstants.fbogNamespace='
 			<div class="formRight">
 				<a class="forgot" href="#" rel="/forgotpassword">forgot password?</a>
 		    	<input type="hidden" name="userLoginSubmit" value="1">
+		    	<input type="hidden" name="param" value="">
 		    	<input type="submit" class="loginsubmit">
 								<input type="hidden" name="r" value="">
 				  	
@@ -402,19 +455,53 @@ var LBBConstants=new Object();LBBConstants.userId=0;LBBConstants.fbogNamespace='
 	</div>
 	<div class="pg_divider"></div>
 			<div id="registerTitle">
-			Don't have an account yet? <a onclick="trackClick('Home', 'Start Quiz', 'Login');" href="quiz">Get started</a>
+			Don't have an account yet? <a onclick="trackClick('Home', 'Start Quiz', 'Login');" href="/quiz">Get started</a>
 	    </div>
 	  </div>
 	
-<script type="text/javascript" src="http://d2zcey0ly5qqlb.cloudfront.net/cb/js/310/0/jquery_1.5.2.min/jquery.lazyload.min/jquery-ui-1.8.17.custom.min/jquery.text-overflow/lbb.global/lbb.utils/lbb.analytics/jquery.cookie/lbb.startquiz/lbb.landinglayout/jquery-ui-effects/footer"></script>
-<script type="text/javascript">$(window).load(function(){LBB.loadJSFile("http://connect.facebook.net/en_US/all.js");LBB.kickoffFacebook(0);});</script>
-<script type="text/javascript">LBB.init("\/api.php");LBB.initFacebook("204180859599969","en_US","http:\/\/www.littleblackbag.com\/fblogin?r=");$(window).load(function(){LBB.injectJSCode('var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-22213941-6"]);_gaq.push(["_trackPageview"]);var ga = document.createElement("script");ga.type = "text/javascript"; ga.async = false;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);var useKissMetrics = 1; var useMixPanel = 1;');});</script>
+<script type="text/javascript" src="http://d2zcey0ly5qqlb.cloudfront.net/cb/js/555/0/jquery-1.7.2.min/jquery.lazyload.min/jquery-ui-1.8.17.custom.min/jquery.text-overflow/lbb.global/lbb.utils/lbb.analytics/jquery.cookie/lbb.startquiz/lbb.landinglayout/layout.dropmenu/jquery-ui-effects/footer"></script>
+<script type="text/javascript">
+$(window).load(function(){
+	LBB.loadJSFile("http://connect.facebook.net/en_US/all.js");
+	LBB.kickoffFacebook(0);
+});
+</script>
+
+<script type="text/javascript">
+LBB.init("\/api.php");
+LBB.userFavoritesUrl = '/user/getFavorites';
+LBB.initFacebook("204180859599969", "en_US", "http:\/\/www.littleblackbag.com\/fblogin?r=");//lazy-load content
+$(window).load(function() {
+    LBB.injectJSCode('var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-22213941-6"]);_gaq.push(["_trackPageview"]);var ga = document.createElement("script");ga.type = "text/javascript"; ga.async = false;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);var useKissMetrics = 1; var useMixPanel = 1;');
+});
+</script>
+
+
+<script type="text/javascript">
+adroll_adv_id = "KQY7LF7ADZDDRPWBC5JQME";
+adroll_pix_id = "FYQIO3KZ5FAOHOXAWPCMTZ";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+<script type="text/javascript">
+//lazy-load content
+$(window).load(function() {
+});
+</script>
 
 	
-
-
-
-
 
 
 </body></html>
