@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the match.ca privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522040155id_/http%3A//www.match.ca/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.ca privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120150749id_/http%3A//www.match.ca/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
 # Privacy Statement
 
-#### Last Updated: May 9, 2012
+#### Last Updated: November 5, 2012
 
 Match.com, L.L.C., as regards users originating from within the United States, and Match.com Global Services Limited, as regards users originating from outside the United States (“Match.com”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.  We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
@@ -39,8 +39,9 @@ We may use information that we collect about you to:
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
   * enforce or exercise any rights in our terms and conditions; 
   * manage our business; 
-  * provide Match.com advertisements to you when you visit other sites; and 
-  * perform functions as otherwise described to you at the time of collection. 
+  * provide Match.com advertisements to you when you visit other sites; 
+  * perform functions as otherwise described to you at the time of collection; and
+  * register you with and display your profile on other online dating and other social websites owned by IAC, such as websites operated by People Media, [chemistry.com](http://www.chemistry.com/) and [okcupid.com](http://www.okcupid.com/).
 
 
 
@@ -56,7 +57,7 @@ We do not share your personal information with others except as indicated below 
 
   * **Service providers:** We may share your personal information, which may include your name and contact information (including email address) with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
   * **Business partners:** When you register or make purchases on our website or click-through our advertisements offered on third party websites, we may share personal information with the businesses with which we partner to offer you the applicable products, services or any advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>.
-  * **Other IAC businesses.** We are part of the IAC family of businesses (go to [www.iac.com](http://www.iac.com/) for a listing of these businesses). We may share information we collect, including personal information such as your name and contact information, interests, activities and transactions on our site, with the IAC companies. All IAC companies comply with the IAC [Consumer Privacy](http://www.iac.com/privacy-policy/) statement. 
+  * **Other IAC businesses.** We are part of the IAC family of businesses (go to [www.iac.com](http://www.iac.com/) for a listing of these businesses). IAC’s businesses include the online dating websites [match.com](http://www.match.com/), [chemistry.com](http://www.chemistry.com/), [okcupid.com](http://www.okcupid.com/), [singlesnet.com](http://singlesnet.com/), [datehookup.com](http://www.datehookup.com/) and the websites operated by People Media ([ourtime.com](http://www.ourtime.com/), senior [peoplemeet.com](http://www.peoplemeet.com/), [blackpeoplemeet.com](http://www.blackpeoplemeet.com/) and other sites listed on [www.peoplemedia.com](http://www.peoplemedia.com/)). We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with the IAC companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by IAC. All IAC companies comply with the IAC Consumer [Privacy statement](http://www.iac.com/privacy-policy/). 
   * **Other Situations.** We also may disclose your information, including personal information: 
     * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
     * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies. 
