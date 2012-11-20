@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the gdgt.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617103912id_/http%3A//gdgt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gdgt.com privacy policy that was archived on 2012-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120140355id_/http%3A//gdgt.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" class="" lang="en" dir="ltr"><head prefix="og: http://ogp.me/ns#">
+<!DOCTYPE html><html lang="en" dir="ltr" class=""><head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
     <title>Privacy policy - gdgt</title>
     <meta name="description" content="Our privacy policy is designed to help you understand how we collect and use the personal information you decide to share.">    
@@ -15,8 +15,10 @@
     <link rel="dns-prefetch" href="//platform.twitter.com">
     <link rel="dns-prefetch" href="//static.chartbeat.com">
     <link rel="publisher" href="https://plus.google.com/116672282660593772448">
-    <meta property="fb:app_id" content="132746074315">
-    <meta property="og:site_name" content="gdgt">
+    <meta property="http://ogp.me/ns/fb#app_id" content="132746074315">
+          <meta name="twitter:site" content="@gdgt">
+      <meta name="twitter:site:id" content="15738725">
+        <meta property="og:site_name" content="gdgt">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="http://media.gdgt.com/assets/img/site/gdgt-logo-red.png">
 <meta property="og:image:height" content="68">
@@ -31,8 +33,9 @@
     <link rel="apple-touch-icon" type="image/png" sizes="57x57" href="http://media.gdgt.com/assets/img/site/apple-touch-icon-low.png">
     <link rel="shortcut icon" type="image/png" href="http://media.gdgt.com/assets/img/site/favicon.png" sizes="16x16">
 
-    
-    <link type="text/css" rel="stylesheet" href="http://media.gdgt.com/assets/css/master-1d5e0.css" media="screen">
+            
+    <link type="text/css" rel="stylesheet" href="http://media.gdgt.com/assets/css/master-67cf9.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://media.gdgt.com/assets/css/master2-81a17.css" media="screen">
 
     <!--[if IE 7]>
       <link type="text/css" rel="stylesheet" href="http://media.gdgt.com/assets/css/ie7-f003a.css" media="screen" />
@@ -50,7 +53,10 @@
     <script type="text/javascript" src="http://media.gdgt.com/assets/fonts/typekit-4.js"></script>
     <script type="text/javascript">
       try {
-        Typekit.load();
+        Typekit.load({
+          active: function() {
+                    }
+        });
       } catch(e) {}
     </script>
     
@@ -85,23 +91,39 @@
           WANT: 4,
           HAD:  1,
           WATCH: 5
+        },
+        discussion: {
+          LARGE_IMAGE_WIDTH_MAX: 500,
+          SMALL_IMAGE_WIDTH_MAX: 300,
+          IMAGE_HEIGHT_MAX: 500
         }
       };
     </script>
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://media.gdgt.com/assets/js/compiled_core_head-7aef4.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://media.gdgt.com/assets/js/compiled_core_head-7b629.js"></script>
 
     <!--[if lt IE 9]>
-      <script type="text/javascript" src="http://media.gdgt.com/assets/js/provisionals/ie-f2c6a.js"></script>
+      <script type="text/javascript" src="http://media.gdgt.com/assets/js/provisionals/ie-ee086.js"></script>
 
     <![endif]-->
 
     <script type="text/javascript">
       jQuery.ajaxSetup({cache:true});
-      var _kmq = [];
-      var _gaq = [["_setAccount", "UA-818999-3"],["b._setAccount", "UA-818999-10"],["_setDomainName", ".gdgt.com"],["_setAllowHash", false],["_trackPageview"],["b._trackPageview"],["_setCustomVar", "Logged in", "Yes", 2]];
+      var _kmq = [],
+          _gaq = _gaq || [];
+
+      _gaq.push(
+        ["_setAccount", "UA-818999-3"],
+        ["b._setAccount", "UA-818999-10"],
+        ["_setDomainName", ".gdgt.com"],
+        ["b._setDomainName", ".gdgt.com"],
+        ["_setCustomVar", 5, "Logged in", "Yes", 2],
+        ["b._setCustomVar", 5, "Logged in", "Yes", 2],
+                ["_trackPageview"],
+        ["b._trackPageview"]
+      );
 
       jQuery.getScript("http://i.kissmetrics.com/i.js");
       jQuery.getScript("http://doug1izaerwt3.cloudfront.net/663b0cfa53f5e21cc9fa20fb09f7ef7e68902f19.1.js");
@@ -109,12 +131,15 @@
     </script>
 
     
+    <script type="text/javascript" src="//cdn.optimizely.com/js/35116570.js"></script>
     <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
 jQuery.getScript( "http://www.googletagservices.com/tag/js/gpt.js" );
 googletag.cmd.push(function() {
-  googletag.defineUnit("/1009686/ca-pub-6479905897636233/gdgt_leaderboard", [728, 90], "top-ad").
+  googletag.defineUnit("/1009686/gdgt_leaderboard", [728, 90], "top-ad").
+    addService(googletag.pubads());
+  googletag.defineSlot('/1009686/gdgt_say_spotlight_3x9', [300, 900], 'say-spotlight-right').
     addService(googletag.pubads());
 googletag.enableServices();
 });
@@ -125,7 +150,7 @@ googletag.enableServices();
     
     <div id="notifier">
       <div class="wrapper">
-        <a rel="nofollow" href="#" id="notifier-dismiss" title="Close">Close</a>
+        <a href="#" id="notifier-dismiss" title="Close" rel="nofollow">Close</a>
         <span id="notifier-message"></span>
               </div>
     </div>
@@ -154,28 +179,33 @@ googletag.enableServices();
       </div>
     </div>
 
+   
+
     <div id="container">
       
             
       
 
-      <header id="header" class="clearfix" role="banner">
+      <header id="header" class="clearfix" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
         <div class="wrapper">
           <h1>
             <a href="http://gdgt.com/">gdgt</a>
           </h1>
 
-          <nav>
+          <nav itemscope="" itemtype="http://schema.org/SiteNavigationElement">
             <div id="search" role="search">
               <input type="search" placeholder="search products and companies">
             </div>
 
-            <ul id="top-nav">
+            <ul id="top-nav" role="navigation">
               <li>
-                <a href="http://gdgt.com/reviews/">Reviews <span class="arrow"></span></a>
+                <a href="http://gdgt.com/reviews/">Find products <span class="arrow"></span></a>
               </li>
               <li>
                 <a href="http://gdgt.com/best/gadgets/">Best gadgets</a>
+              </li>
+              <li>
+                <a href="http://gdgt.com/best/apps/">Best apps</a>
               </li>
             </ul>
           </nav>
@@ -191,46 +221,11 @@ googletag.enableServices();
           cellphones
         </a>
       </li>
-          <li class="cameras">
-        <a href="http://gdgt.com/reviews/cameras/">
-          <span></span>
-          
-          cameras
-        </a>
-      </li>
-          <li class="gaming-consoles-home">
-        <a href="http://gdgt.com/reviews/gaming-consoles-home/">
-          <span></span>
-          
-          consoles (home)
-        </a>
-      </li>
-          <li class="gaming-consoles-portable">
-        <a href="http://gdgt.com/reviews/gaming-consoles-portable/">
-          <span></span>
-          
-          consoles (portable)
-        </a>
-      </li>
           <li class="laptops">
         <a href="http://gdgt.com/reviews/laptops/">
           <span></span>
           
           laptops / portables
-        </a>
-      </li>
-          <li class="desktops">
-        <a href="http://gdgt.com/reviews/desktops/">
-          <span></span>
-          
-          desktops
-        </a>
-      </li>
-          <li class="portable-media-players">
-        <a href="http://gdgt.com/reviews/portable-media-players/">
-          <span></span>
-          
-          portable media players
         </a>
       </li>
           <li class="tablets">
@@ -240,11 +235,25 @@ googletag.enableServices();
           tablets
         </a>
       </li>
-          <li class="e-book-readers">
-        <a href="http://gdgt.com/reviews/e-book-readers/">
+          <li class="headphones">
+        <a href="http://gdgt.com/reviews/headphones/">
           <span></span>
           
-          e-book readers
+          headphones
+        </a>
+      </li>
+          <li class="cameras">
+        <a href="http://gdgt.com/reviews/cameras/">
+          <span></span>
+          
+          cameras
+        </a>
+      </li>
+          <li class="routers">
+        <a href="http://gdgt.com/reviews/routers/">
+          <span></span>
+          
+          routers
         </a>
       </li>
           <li class="hdtvs-televisions">
@@ -254,11 +263,32 @@ googletag.enableServices();
           hdtvs / televisions
         </a>
       </li>
-          <li class="routers">
-        <a href="http://gdgt.com/reviews/routers/">
+          <li class="portable-media-players">
+        <a href="http://gdgt.com/reviews/portable-media-players/">
           <span></span>
           
-          routers
+          portable media players
+        </a>
+      </li>
+          <li class="fitness">
+        <a href="http://gdgt.com/reviews/fitness/">
+          <span></span>
+          
+          fitness devices
+        </a>
+      </li>
+          <li class="e-book-readers">
+        <a href="http://gdgt.com/reviews/e-book-readers/">
+          <span></span>
+          
+          e-book readers
+        </a>
+      </li>
+          <li class="digital-media-players">
+        <a href="http://gdgt.com/reviews/digital-media-players/">
+          <span></span>
+          
+          digital media players
         </a>
       </li>
       </ul>
@@ -275,33 +305,16 @@ googletag.enableServices();
           
       <li>
         <div class="product-list-mini-left">
-          <a href="http://gdgt.com/dell/xps/one/27/" class="product-image" title="Dell XPS One 27">
-            <span class="new-gdgt-score mini light-green">87</span>
-            <img src="http://media.gdgt.com/img/products/464/9y5u/9y5u-50.jpg" alt="Dell XPS One 27" width="50" height="50">
-          </a>
-        </div>
-
-        <div class="product-list-mini-right">
-          <a href="http://gdgt.com/dell/xps/one/27/" class="product-name" title="Dell XPS One 27">
-            Dell
-            <span class="model">XPS One 27</span>
-          </a>
-        </div>
-        <div class="clear"></div>
-      </li>
-          
-      <li>
-        <div class="product-list-mini-left">
-          <a href="http://gdgt.com/apple/macbook/air/13-inch-mid-2012/" class="product-image" title="Apple Macbook Air 13-inch (mid 2012)">
+          <a href="http://gdgt.com/nest/learning-thermostat/2nd-gen/" class="product-image" title="Nest Learning Thermostat 2nd-gen">
             <span class="new-gdgt-score mini green">95</span>
-            <img src="http://media.gdgt.com/img/products/465/9yzt/9yzt-50.jpg" alt="Apple Macbook Air 13-inch (mid 2012)" width="50" height="50">
+            <img src="http://media.gdgt.com/img/products/472/a4c4/a4c4-50.jpg" alt="Nest Learning Thermostat 2nd-gen" width="50" height="50">
           </a>
         </div>
 
         <div class="product-list-mini-right">
-          <a href="http://gdgt.com/apple/macbook/air/13-inch-mid-2012/" class="product-name" title="Apple Macbook Air 13-inch (mid 2012)">
-            Apple
-            <span class="model">Macbook Air 13-inch (mid 2012)</span>
+          <a href="http://gdgt.com/nest/learning-thermostat/2nd-gen/" class="product-name" title="Nest Learning Thermostat 2nd-gen">
+            Nest
+            <span class="model">Learning Thermostat 2nd-gen</span>
           </a>
         </div>
         <div class="clear"></div>
@@ -309,16 +322,33 @@ googletag.enableServices();
           
       <li>
         <div class="product-list-mini-left">
-          <a href="http://gdgt.com/apple/macbook-pro/with-retina-display/mid-2012/" class="product-image" title="Apple MacBook Pro with Retina display (mid 2012)">
-            <span class="new-gdgt-score mini green">92</span>
-            <img src="http://media.gdgt.com/img/products/465/9z53/9z53-50.jpg" alt="Apple MacBook Pro with Retina display (mid 2012)" width="50" height="50">
+          <a href="http://gdgt.com/apple/ipad/mini/" class="product-image" title="Apple iPad mini">
+            <span class="new-gdgt-score mini green">93</span>
+            <img src="http://media.gdgt.com/img/products/473/a5di/a5di-50.jpg" alt="Apple iPad mini" width="50" height="50">
           </a>
         </div>
 
         <div class="product-list-mini-right">
-          <a href="http://gdgt.com/apple/macbook-pro/with-retina-display/mid-2012/" class="product-name" title="Apple MacBook Pro with Retina display (mid 2012)">
+          <a href="http://gdgt.com/apple/ipad/mini/" class="product-name" title="Apple iPad mini">
             Apple
-            <span class="model">MacBook Pro with Retina display...</span>
+            <span class="model">iPad mini</span>
+          </a>
+        </div>
+        <div class="clear"></div>
+      </li>
+          
+      <li>
+        <div class="product-list-mini-left">
+          <a href="http://gdgt.com/apple/ipad/4th-gen/" class="product-image" title="Apple iPad 4th-gen">
+            <span class="new-gdgt-score mini green">97</span>
+            <img src="http://media.gdgt.com/img/products/473/a5f4/a5f4-50.jpg" alt="Apple iPad 4th-gen" width="50" height="50">
+          </a>
+        </div>
+
+        <div class="product-list-mini-right">
+          <a href="http://gdgt.com/apple/ipad/4th-gen/" class="product-name" title="Apple iPad 4th-gen">
+            Apple
+            <span class="model">iPad 4th-gen</span>
           </a>
         </div>
         <div class="clear"></div>
@@ -330,16 +360,16 @@ googletag.enableServices();
           
       <li>
         <div class="product-list-mini-left">
-          <a href="http://gdgt.com/ihealth/blood-pressure-dock/" class="product-image" title="iHealth Blood Pressure Dock">
-            <span class="new-gdgt-score mini light-green">81</span>
-            <img src="http://media.gdgt.com/img/products/464/9yaw/9yaw-50.jpg" alt="iHealth Blood Pressure Dock" width="50" height="50">
+          <a href="http://gdgt.com/htc/one/xplus/" class="product-image" title="HTC One X+">
+            <span class="new-gdgt-score mini green">93</span>
+            <img src="http://media.gdgt.com/img/products/472/a4d5/a4d5-50.jpg" alt="HTC One X+" width="50" height="50">
           </a>
         </div>
 
         <div class="product-list-mini-right">
-          <a href="http://gdgt.com/ihealth/blood-pressure-dock/" class="product-name" title="iHealth Blood Pressure Dock">
-            iHealth
-            <span class="model">Blood Pressure Dock</span>
+          <a href="http://gdgt.com/htc/one/xplus/" class="product-name" title="HTC One X+">
+            HTC
+            <span class="model">One X+</span>
           </a>
         </div>
         <div class="clear"></div>
@@ -347,16 +377,16 @@ googletag.enableServices();
           
       <li>
         <div class="product-list-mini-left">
-          <a href="http://gdgt.com/withings/blood-pressure-monitor/" class="product-image" title="Withings Blood Pressure Monitor">
-            <span class="new-gdgt-score mini light-green">84</span>
-            <img src="http://media.gdgt.com/img/products/464/9yb1/9yb1-50.jpg" alt="Withings Blood Pressure Monitor" width="50" height="50">
+          <a href="http://gdgt.com/sling-media/slingbox/500/" class="product-image" title="Sling Media Slingbox 500">
+            <span class="new-gdgt-score mini yellow">78</span>
+            <img src="http://media.gdgt.com/img/products/472/a4sk/a4sk-50.jpg" alt="Sling Media Slingbox 500" width="50" height="50">
           </a>
         </div>
 
         <div class="product-list-mini-right">
-          <a href="http://gdgt.com/withings/blood-pressure-monitor/" class="product-name" title="Withings Blood Pressure Monitor">
-            Withings
-            <span class="model">Blood Pressure Monitor</span>
+          <a href="http://gdgt.com/sling-media/slingbox/500/" class="product-name" title="Sling Media Slingbox 500">
+            Sling Media
+            <span class="model">Slingbox 500</span>
           </a>
         </div>
         <div class="clear"></div>
@@ -364,16 +394,16 @@ googletag.enableServices();
           
       <li>
         <div class="product-list-mini-left">
-          <a href="http://gdgt.com/nokia/lumia/610/" class="product-image" title="Nokia Lumia 610">
-            <span class="new-gdgt-score mini yellow">65</span>
-            <img src="http://media.gdgt.com/img/products/457/9tcm/9tcm-50.jpg" alt="Nokia Lumia 610" width="50" height="50">
+          <a href="http://gdgt.com/samsung/galaxy/s/relay-4g/" class="product-image" title="Samsung Galaxy S Relay 4G (SGH-t699)">
+            <span class="new-gdgt-score mini yellow">72</span>
+            <img src="http://media.gdgt.com/img/products/470/a2pp/a2pp-50.jpg" alt="Samsung Galaxy S Relay 4G (SGH-t699)" width="50" height="50">
           </a>
         </div>
 
         <div class="product-list-mini-right">
-          <a href="http://gdgt.com/nokia/lumia/610/" class="product-name" title="Nokia Lumia 610">
-            Nokia
-            <span class="model">Lumia 610</span>
+          <a href="http://gdgt.com/samsung/galaxy/s/relay-4g/" class="product-name" title="Samsung Galaxy S Relay 4G (SGH-t699)">
+            Samsung
+            <span class="model">Galaxy S Relay 4G (SGH-t699)</span>
           </a>
         </div>
         <div class="clear"></div>
@@ -385,34 +415,34 @@ googletag.enableServices();
       <div id="category-list-cellphones">
           <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
       </div>
-  <div id="category-list-cameras">
-          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
-      </div>
-  <div id="category-list-gaming-consoles-home">
-          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
-      </div>
-  <div id="category-list-gaming-consoles-portable">
-          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
-      </div>
   <div id="category-list-laptops">
-          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
-      </div>
-  <div id="category-list-desktops">
-          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
-      </div>
-  <div id="category-list-portable-media-players">
           <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
       </div>
   <div id="category-list-tablets">
           <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
       </div>
-  <div id="category-list-e-book-readers">
+  <div id="category-list-headphones">
+          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
+      </div>
+  <div id="category-list-cameras">
+          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
+      </div>
+  <div id="category-list-routers">
           <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
       </div>
   <div id="category-list-hdtvs-televisions">
           <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
       </div>
-  <div id="category-list-routers">
+  <div id="category-list-portable-media-players">
+          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
+      </div>
+  <div id="category-list-fitness">
+          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
+      </div>
+  <div id="category-list-e-book-readers">
+          <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
+      </div>
+  <div id="category-list-digital-media-players">
           <img src="http://media.gdgt.com/assets/img/site/indicator-large.gif" width="32" height="32" alt="Loading" class="category-list-loading">
       </div>
 
@@ -428,8 +458,8 @@ googletag.enableServices();
               </div>
 
                               <div id="login-dialog">
-                  <a href="#" class="close-dialog" rel="nofollow" title="Close"><span>Close</span></a>
-                  <form name="login_form" method="post" action="http://gdgt.com/login/" data-framework="true" data-uniqid="4fddb3d02dfcc" id="login-form"><input type="hidden" name="_login_form" value="1"><input type="hidden" name="_login_form_rules" value="{&quot;username&quot;:&quot;required&quot;,&quot;password&quot;:&quot;required&quot;}">
+                  <a href="#" class="close-dialog" title="Close" rel="nofollow"><span>Close</span></a>
+                  <form name="login_form" method="post" action="http://gdgt.com/login/" data-framework="true" data-uniqid="50ab8dca54f71" id="login-form"><input type="hidden" name="_login_form" value="1"><input type="hidden" name="_login_form_rules" value="{&quot;username&quot;:&quot;required&quot;,&quot;password&quot;:&quot;required&quot;}">
     <p id="login-reason" class="dialog-message" data-text-auth-prompt="You need to log in or register before you can do that."></p>
 
   <div id="login-left">
@@ -475,6 +505,8 @@ googletag.enableServices();
                 </div>
                           
             
+
+            
                         <a href="http://gdgt.com/compare/" class="action compare" title="Compare gadgets">
               <div class="icon-box">
                 <span class="icon"></span>
@@ -517,7 +549,7 @@ googletag.enableServices();
       
       
       <div id="page">
-        <div class="wrapper clearfix" role="main" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/WebPageElement">
+        <div class="wrapper clearfix" role="main">
           <!-- google_ad_section_start -->
             <div id="privacy" class="static">
   <div class="col-left">
@@ -664,6 +696,8 @@ googletag.enableServices();
           <ul>
             <li><a href="/">Home</a></li>
             <li><a href="http://gdgt.com/reviews/">Reviews</a></li>
+            <li><a href="http://gdgt.com/best/gadgets/">Best gadgets</a></li>
+            <li><a href="http://gdgt.com/best/apps/">Best apps</a></li>
             <li><a href="http://gdgt.com/answers/">Answers</a></li>
             <li><a href="http://gdgt.com/discuss/">Discuss</a></li>
           </ul>
@@ -674,7 +708,7 @@ googletag.enableServices();
         <div id="footer-pane">
           <ul>
             <li class="heading">gdgt</li>
-            <li><a href="http://gdgt.com/discuss/topic/gdgt/" channel="gdgt">feedback</a></li>
+            <li><a href="http://gdgt.com/discuss/topic/gdgt/">feedback</a></li>
             <li><a href="http://blog.gdgt.com/">blog</a></li>
             <li><a href="http://events.gdgt.com/">events</a></li>
             
@@ -748,8 +782,8 @@ googletag.enableServices();
       </div>
     </noscript>
 
-    <script type="text/javascript" src="http://media.gdgt.com/assets/js/compiled_core_foot-a69fc.js"></script>
-<script type="text/javascript" src="http://media.gdgt.com/assets/js/core/rewrite-469ae.js"></script>
+    <script type="text/javascript" src="http://media.gdgt.com/assets/js/compiled_core_foot-f9cf5.js"></script>
+<script type="text/javascript" src="http://media.gdgt.com/assets/js/core/rewrite-fc152.js"></script>
 
 
     
@@ -774,6 +808,8 @@ googletag.enableServices();
     <noscript>
       <img src="http://b.scorecardresearch.com/p?c1=2&c2=12937072&cv=2.0&cj=1" />
     </noscript>
+
+    
 
     
   
