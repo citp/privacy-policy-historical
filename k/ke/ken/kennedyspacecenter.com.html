@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the kennedyspacecenter.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523090134id_/http%3A//www.kennedyspacecenter.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kennedyspacecenter.com privacy policy that was archived on 2012-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120144434id_/http%3A//www.kennedyspacecenter.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="pagehead"><!-- PageID 318 - published by Open Text Web Solutions 10.1 - 10.1.0.470 - 30299 -->
     <!-- googleoff: index -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <!-- googleon: index -->
     <title>
-	Privacy Policy - Kennedy Space Center
-</title><meta name="description" content="Find information about the DNC Parks &amp; Resorts at Kennedy Space Center website privacy policy at KennedySpaceCenter.com."><meta name="keywords" content="default keywords">
+	Privacy Policy
+</title><meta name="description" content="Find information about the DNC Parks &amp; Resorts at Kennedy Space Center website privacy policy at KennedySpaceCenter.com."><meta name="keywords">
     <!-- googleoff: index -->
     <link rel="stylesheet" type="text/css" href="/files/style.css" media="screen"><link rel="stylesheet" type="text/css" href="/files/print_style.css" media="print">
 <!--[if lt IE 7]>
@@ -26,6 +26,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/files/js_common.js"></script>
 
+<script type="text/javascript" src="/files/galleria-1.2.8.min.js"></script>
 <script type="text/javascript" src="/files/swfobject.js"></script>
 <script type="text/javascript" src="/files/superfish.js"></script>
 
@@ -44,31 +45,60 @@
             return false;
         });
         $('a[href*="ksctickets.com"]').attr('onclick', function () { return '_gaq.push(["_link", "' + $(this).attr("href") + '"]); return false;' });
+    var urlParams = {};        
+(function () {
+        var match,
+        pl = /\+/g,
+        search = /([^&=]+)=?([^&]*)/g,
+        decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+        query = window.location.search.substring(1);
+        while (match = search.exec(query))
+            urlParams[decode(match[1])] = decode(match[2]);
+    })();
+    $('iframe[src*="clicksquared"]').attr('src', function () { return $(this).attr("src") + urlParams["email"]; return false; });
+    $("#twitter #twitter_m #twitter_container ul li").prepend("<a href=\"http://www.twitter.com/ExploreSpaceKSC\" class=\"twitter-username\" target=\"_blank\">@ExploreSpaceKSC</a>");
+   
+if ($('#galleria').length) {
+    Galleria.loadTheme('/files/galleria.classic.js');
+    $('#galleria').css('display', 'block');
+    $('#galleria').galleria({
+        autoplay: 3000,
+        carousel: "false",
+        thumbnails: "false",
+        height: 325
     });
+}
+
+ });
 </script>
- 
+<!--[if lte IE 8]>
+<style type="text/css">
+   .galleria-info-text { background: transparent url('images/kennedy-bg-trans.png') repeat !important; }
+</style>
+<![endif]--> 
  
 
 <!-- Google Analytics-->
      <script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-7828869-28']);
-            _gaq.push(['_setDomainName', 'kennedyspacecenter.com']);
-            _gaq.push(['_setAllowLinker', true]);
-            _gaq.push(['_trackPageview']);
-       (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();   
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-7828869-28']);
+         _gaq.push(['_setDomainName', 'kennedyspacecenter.com']);
+         _gaq.push(['_setAllowLinker', true]);
+         _gaq.push(['_trackPageview']);
+         (function () {
+             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();   
  </script>
     
     <!-- googleon: index -->
 </head>
 <body id="intwide"><form name="form1" method="post" action="privacy-policy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDQ4Nzc5OTcPZBYCAgEPZBYEZg9kFgICAg8PFgIeB1Zpc2libGVoZGQCAQ9kFgJmDw9kFgIeCW9ua2V5ZG93bgUqa2V5UHJlc3MoZXZlbnQsICdoZWFkZXJzZWFyY2gxX2J0blNlYXJjaCcpZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUXaGVhZGVyc2VhcmNoMSRidG5TZWFyY2gFHUZvbnRTaXplckhlYWRlcjEkbXZTdHlsZVNoZWV0Dw9kZmRZIL+/eyWSPADyulFJkCY9kiJOfg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk3NjI2ODcxOA9kFgICAQ9kFgJmD2QWAmYPD2QWAh4Jb25rZXlkb3duBSprZXlQcmVzcyhldmVudCwgJ2hlYWRlcnNlYXJjaDFfYnRuU2VhcmNoJylkGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRdoZWFkZXJzZWFyY2gxJGJ0blNlYXJjaAUdRm9udFNpemVySGVhZGVyMSRtdlN0eWxlU2hlZXQPD2RmZKl99l8zqMvTCD/ZAGdOhj3pNvQ4">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKzsvLYCwKJks3rAwKtsqKfDgKtsrrlBQLT6YjSCAKLwJaCAfTIywjToVXFGz3qjbievxTEAtI3">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKn5p+lBQLT6YjSCAKLwJaCAREiUFqAGFgyw4hh2aCgPMyqPExw">
+
     <!-- googleoff: index -->
     <!-- Web Accessibility Initiative links -->
     <ul id="wai-links">
@@ -80,18 +110,17 @@
         <div class="printonly" id="headerprint"><img src="/images/structure/printbanner.jpg" alt="Kennedy Space Center" border="0" width="650" height="54"></div>
         <div id="header">
             <div id="logo"><a href="/"><img src="/images/structure/logo.gif" alt="Kennedy Space Center Visitor Complex" border="0" width="137" height="61"></a></div>
-            <ul class="linklist"><li class="first followlink" onmouseout="showDrop('followdrop', 'hide', this);" onmouseover="showDrop('followdrop', 'show', this);"><a href="/follow-us.aspx">Follow Us</a><ul class="followdrop"><li class="lnkfacebook"><a href="http://www.facebook.com/KennedySpaceCenterVisitorComplex" target="_blank">Facebook</a></li><li class="lnktwitter"><a href="http://www.twitter.com/ExploreSpaceKSC" target="_blank">Twitter</a></li><li class="lnkyoutube"><a href="http://www.youtube.com/explorespaceksc" target="_blank">Youtube</a></li></ul></li><li><a href="/interactive-map.aspx">Interactive Map</a></li><li><a href="/buy-tickets.aspx">Admission &amp; Hours</a></li><li><a href="/driving-directions.aspx">Driving Directions</a></li><li><input type="hidden" name="FontSizer1$EyeColor" id="FontSizer1_EyeColor">Font Size <a id="FontSizer1_lnkFontSizeNormal" class="lnknormal lnkcurrent">A</a>&nbsp;<a id="FontSizer1_btnFontSizeLarge" class="lnklarge" href="javascript:__doPostBack('FontSizer1$btnFontSizeLarge','')">A</a>&nbsp;<a id="FontSizer1_btnFontSizeLarger" class="lnklarger" href="javascript:__doPostBack('FontSizer1$btnFontSizeLarger','')">A</a>
-
-</li></ul>
-<div class="visitors">Visitors Welcome Daily - <a href="/driving-directions.aspx">Just East of Orlando</a></div>
+            <ul class="linklist"><li class="first followlink" onmouseout="showDrop('followdrop', 'hide', this);" onmouseover="showDrop('followdrop', 'show', this);"><a href="/follow-us.aspx">Follow Us</a><ul class="followdrop"><li class="lnkfacebook"><a href="http://www.facebook.com/KennedySpaceCenterVisitorComplex" target="_blank">Facebook</a></li><li class="lnktwitter"><a href="http://www.twitter.com/ExploreSpaceKSC" target="_blank">Twitter</a></li><li class="lnkyoutube"><a href="http://www.youtube.com/explorespaceksc" target="_blank">Youtube</a></li></ul></li><li><a href="/interactive-map.aspx">Interactive Map</a></li><li><a href="http://www.kennedyspacecenter.com/buy-tickets-admission-hours.aspx">Admission &amp; Hours</a></li><li><a href="/driving-directions.aspx">Driving Directions</a></li><li><a href="/translations.aspx">Language Translations</a></li></ul>
+<!-- <div class="visitors">Visitors Welcome Daily - <a href="/driving-directions.aspx">Just East of Orlando</a></div> -->
             <div class="searchblock"><div id="searchform">
 
 <label for="headersearch1_txtSearch">Search</label>
 <input name="headersearch1$txtSearch" type="text" id="headersearch1_txtSearch" onkeydown="keyPress(event, 'headersearch1_btnSearch')">
 <input type="image" name="headersearch1$btnSearch" id="headersearch1_btnSearch" class="imgbutton" src="/images/structure/b_go_search.gif" alt="go" border="0">
 <!-- /images/structure/b_go_search.gif --></div></div>
+            <div class="buttons-header"><a href="http://www.ksctickets.com/estore/"><img src="/images/structure/updated-KSC-Access-btn.png" border="0" width="145" height="40"></a><a href="http://www.ksctickets.com/estore/Content/Commerce/Products/DisplayProducts.aspx?ProductGroupCode=300&amp;ProductCategoryCode=38"><img src="/images/structure/updated-KSC-BuyTix-btn.png"></a><a href="http://www.thespaceshop.com/"><img src="/images/structure/btn_kscShop.png"></a></div>
             <div class="clearfix"></div>
-            <div id="mainnav"><ul class="sf-menu"><li class="item1 "><a href="/buy-tickets.aspx" class="buytix" target="_self">Buy Tickets</a><ul><li class="item1 navli"><a href="/buy-tickets-admission-hours.aspx" class="navlink" target="_self">Admission &amp; Hours</a></li><li class="item2 "><a href="/special-offers.aspx" class="navlink" target="_self">Special Offers</a></li><li class="item3 "><a href="/1920.aspx" class="" target="_blank">Vacation Packages</a></li><li class="item4 "><a href="/annual-pass-offer.aspx" class="navlink" target="_self">50th Anniversary Limited Time Offers</a></li></ul></li><li class="item2 "><a href="/visit-us.aspx" class="navlink" target="_self">Visit Us</a><ul><li class="item1 "><a href="/interactive-map.aspx" class="navlink" target="_self">Interactive Map</a></li><li class="item2 "><a href="/1506.aspx" class="" target="_blank">Plan Your Visit</a></li><li class="item3 "><a href="/1256.aspx" class="" target="_self">Admission &amp; Hours</a></li><li class="item4 "><a href="/driving-directions.aspx" class="navlink" target="_self">Driving Directions</a></li><li class="item5 "><a href="/visitor-photo-gallery.aspx" class="navlink" target="_self">Visitor Photo Gallery</a><ul></ul></li><li class="item6 "><a href="/nearby-attractions.aspx" class="navlink" target="_self">Nearby Attractions</a></li><li class="item7 "><a href="/area-hotels.aspx" class="navlink" target="_self">Area Hotels</a></li><li class="item8 "><a href="/park-dining.aspx" class="navlink" target="_self">Park Dining</a></li><li class="item9 "><a href="/contact-us.aspx" class="navlink" target="_self">Contact Us</a></li><li class="item10 "><a href="/follow-us.aspx" class="navlink" target="_self">Follow Us</a><ul></ul></li><li class="item11 "><a href="/1763.aspx" class="navlink" target="_self">Ask an Astronaut</a></li><li class="item12 "><a href="/visit-us-faqs.aspx" class="navlink" target="_self">FAQs</a></li></ul></li><li class="item3 navli"><a href="/attractions.aspx" class="navlink" target="_self">Attractions</a><ul><li class="item1 feature"><a href="/shuttle-launch-experience.aspx" class="navlink" target="_self"><img src="/images/nav_shuttle.jpg" alt="Shuttle Launch Experience®">Shuttle Launch Experience®<div class="clearfix"></div></a></li><li class="item2 feature"><a href="/ksc-tours.aspx" class="navlink" target="_self"><img src="/images/nav_ksc_tours.jpg" alt="KSC Tours">KSC Tours<div class="clearfix"></div></a><ul></ul></li><li class="item3 feature"><a href="/imax-films.aspx" class="navlink" target="_self"><img src="/images/nav_imax_films.jpg" alt="IMAX® Films">IMAX® Films<div class="clearfix"></div></a></li><li class="item4 feature"><a href="/astronaut-encounter.aspx" class="navlink" target="_self"><img src="/images/nav_astronaut_encounter.jpg" alt="Astronaut Encounter">Astronaut Encounter<div class="clearfix"></div></a></li><li class="item5 feature"><a href="/exploration-space.aspx" class="navlink" target="_self"><img src="/images/nav_explorers.jpg" alt="Exploration Space">Exploration Space<div class="clearfix"></div></a></li><li class="item6 feature"><a href="/astronaut-hall-of-fame.aspx" class="navlink" target="_self"><img src="/images/nav_hall_of_fame.jpg" alt="U.S. Astronaut Hall of Fame®">U.S. Astronaut Hall of Fame®<div class="clearfix"></div></a></li><li class="item7 expandlink"><a href="/other-shows.aspx" class="" target="_self">Other Shows and Exhibits</a></li><li class="item8 exnav"><a href="/rocket-garden.aspx" class="navlink" target="_self">Rocket Garden</a></li><li class="item9 exnav"><a href="/apollo-saturn-v-center.aspx" class="navlink" target="_self">Apollo / Saturn V Center</a></li><li class="item10 exnav"><a href="/lc-39-observation-gantry.aspx" class="navlink" target="_self">LC 39 Observation Gantry</a></li><li class="item11 exnav"><a href="/astronaut-memorial.aspx" class="navlink" target="_self">Astronaut Memorial</a></li><li class="item12 exnav"><a href="/childrens-play-dome.aspx" class="navlink" target="_self">Children’s Play Dome</a></li><li class="item13 exnav"><a href="/early-space-exploration.aspx" class="navlink" target="_self">Early Space Exploration</a></li><li class="item14 exnav"><a href="/hubble-telescope-exhibit.aspx" class="navlink" target="_self">Hubble Telescope Exhibit</a></li></ul></li><li class="item4 navli"><a href="/special-programs.aspx" class="navlink" target="_self">Special Programs</a><ul><li class="item1 "><a href="/guided-tours.aspx" class="navlink" target="_self">Guided Tours</a><ul></ul></li><li class="item2 navli"><a href="/lunch-with-an-astronaut.aspx" class="navlink" target="_self">Lunch With an Astronaut</a><ul></ul></li><li class="item3 navli"><a href="/annual-pass.aspx" class="navlink" target="_self">Annual Pass</a></li><li class="item4 navli"><a href="/astronaut-training-experience.aspx" class="navlink" target="_self">ATX® - Astronaut Training Experience®</a><ul></ul></li><li class="item5 navli"><a href="/sp-camp-kennedy-space-center.aspx" class="navlink" target="_self">Camp Kennedy Space Center®</a></li><li class="item6 navli"><a href="/events-launches.aspx" class="navlink" target="_self">Rocket Launch Schedule &amp; Information</a></li></ul></li><li class="item5 navli"><a href="/events.aspx" class="navlink" target="_self">Events</a><ul><li class="item1 "><a href="/50-year-milestones.aspx" class="navlink" target="_self">Celebrating 50 Years of KSC</a></li><li class="item2 "><a href="/events-calendar.aspx" class="" target="_self">Events Calendar</a></li><li class="item3 "><a href="/1879.aspx" class="" target="_self">Rocket Launch Gallery</a></li><li class="item4 "><a href="/event-sign-up.aspx" class="navlink" target="_self">Launch &amp; Event Email Sign Up</a></li></ul></li><li class="item6 navli"><a href="/groups.aspx" class="navlink" target="_self">Groups</a><ul><li class="item1 navli"><a href="/youth-education.aspx" class="navlink" target="_self">Youth / Education</a><ul></ul></li><li class="item2 navli"><a href="/meetings-events.aspx" class="navlink" target="_self">Private Events</a><ul></ul></li><li class="item3 navli"><a href="/military.aspx" class="navlink" target="_self">Military</a><ul></ul></li><li class="item4 "><a href="/international-groups.aspx" class="navlink" target="_self">International </a><ul></ul></li><li class="item5 "><a href="/request-astronaut-appearance.aspx" class="navlink" target="_self">Request an Astronaut Appearance</a></li></ul></li><li class="item7 navli"><a href="/space-gifts.aspx" class="navlink" target="_self">Space Gifts</a><ul><li class="item1 "><a href="/shop-online.aspx" class="" target="_blank">Shop for Space Gifts Online</a></li><li class="item2 "><a href="/shop-at-ksc.aspx" class="" target="_self">Shop at KSC</a></li></ul></li><li class="item8 nomain"><a href="/about-us.aspx" class="navlink" target="_self">About Us</a><ul><li class="item1 "><a href="/about-dnc.aspx" class="navlink" target="_self">About DNC</a></li><li class="item2 "><a href="/wildlife-refuge.aspx" class="navlink" target="_self">Wildlife Refuge</a></li><li class="item3 "><a href="/ada-information.aspx" class="navlink" target="_self">ADA Information</a></li><li class="item4 navli"><a href="/jobs.aspx" class="navlink" target="_self">Jobs</a><ul></ul></li><li class="item5 "><a href="/press-room.aspx" class="" target="_blank">Press Room</a></li></ul></li></ul>
+            <div id="mainnav"><ul class="sf-menu"><li class="item1 "><a href="/visit-us.aspx" class="navlink" target="_self">Visit Us</a><ul><li class="item1 "><a href="/1256.aspx" class="" target="_self">Admission &amp; Hours</a></li><li class="item2 "><a href="/1506.aspx" class="" target="_blank">Plan Your Visit</a></li><li class="item3 "><a href="/interactive-map.aspx" class="navlink" target="_self">Interactive Map</a></li><li class="item4 "><a href="/park-dining.aspx" class="navlink" target="_self">Park Dining</a><ul></ul></li><li class="item5 "><a href="/driving-directions.aspx" class="navlink" target="_self">Driving Directions</a></li><li class="item6 "><a href="/2441.aspx" class="" target="_self">ADA Accessibility</a></li><li class="item7 "><a href="/nearby-attractions.aspx" class="navlink" target="_self">Nearby Attractions</a></li><li class="item8 "><a href="/area-hotels.aspx" class="navlink" target="_self">Area Hotels</a></li><li class="item9 "><a href="/contact-us.aspx" class="navlink" target="_self">Contact Us</a></li><li class="item10 "><a href="/1920.aspx" class="" target="_blank">Vacation Packages</a></li></ul></li><li class="item2 navli"><a href="/experiences.aspx" class="navlink" target="_self">Experiences</a><ul><li class="item1 feature"><a href="/atlantis.aspx" class="navlink" target="_self"><img src="/images/Nav_Atlantis.jpg" alt="Atlantis - Coming Summer 2013">Atlantis - Coming Summer 2013<div class="clearfix"></div></a><ul></ul></li><li class="item2 feature"><a href="/lunch-with-an-astronaut.aspx" class="navlink" target="_self"><img src="/images/Nav_LWA-mobile.jpg" alt="Lunch With an Astronaut">Lunch With an Astronaut<div class="clearfix"></div></a><ul></ul></li><li class="item3 feature"><a href="/astronaut-training-experience.aspx" class="navlink" target="_self"><img src="/images/Nav_ATX-Fam.gif" alt="Astronaut Training Experience®">Astronaut Training Experience®<div class="clearfix"></div></a><ul></ul></li><li class="item4 feature"><a href="/shuttle-launch-experience.aspx" class="navlink" target="_self"><img src="/images/nav_shuttle.jpg" alt="Shuttle Launch Experience®">Shuttle Launch Experience®<div class="clearfix"></div></a></li><li class="item5 feature"><a href="/imax-films.aspx" class="navlink" target="_self"><img src="/images/nav_imax_films.jpg" alt="IMAX® Films">IMAX® Films<div class="clearfix"></div></a></li><li class="item6 feature"><a href="/apollo-saturn-v-center.aspx" class="navlink" target="_self"><img src="/images/nav_ksc_tours.jpg" alt="Apollo / Saturn V Center">Apollo / Saturn V Center<div class="clearfix"></div></a></li><li class="item7 feature"><a href="/exploration-space.aspx" class="navlink" target="_self"><img src="/images/nav_explorers.jpg" alt="Exploration Space">Exploration Space<div class="clearfix"></div></a></li><li class="item8 feature"><a href="/rocket-garden.aspx" class="navlink" target="_self"><img src="/images/Nav_RocketGarden.gif" alt="Rocket Garden">Rocket Garden<div class="clearfix"></div></a></li><li class="item9 feature"><a href="/astronaut-encounter.aspx" class="navlink" target="_self"><img src="/images/nav_astronaut_encounter.jpg" alt="Astronaut Encounter">Astronaut Encounter<div class="clearfix"></div></a></li><li class="item10 feature"><a href="/astronaut-hall-of-fame.aspx" class="navlink" target="_self"><img src="/images/nav_hall_of_fame.jpg" alt="U.S. Astronaut Hall of Fame®">U.S. Astronaut Hall of Fame®<div class="clearfix"></div></a></li><li class="item11 feature"><a href="/astronaut-memorial.aspx" class="navlink" target="_self"><img src="/images/Nav_AstroMem.jpg" alt="Astronaut Memorial">Astronaut Memorial<div class="clearfix"></div></a></li><li class="item12 feature"><a href="/childrens-play-dome.aspx" class="navlink" target="_self"><img src="/images/Nav_PlayDome.jpg" alt="Children’s Play Dome">Children’s Play Dome<div class="clearfix"></div></a></li><li class="item13 feature"><a href="/early-space-exploration.aspx" class="navlink" target="_self"><img src="/images/Nav_ESE.jpg" alt="Early Space Exploration">Early Space Exploration<div class="clearfix"></div></a></li><li class="item14 feature"><a href="/hubble-telescope-exhibit.aspx" class="navlink" target="_self"><img src="/images/Nav_Hubble.jpg" alt="Hubble Telescope Exhibit">Hubble Telescope Exhibit<div class="clearfix"></div></a></li></ul></li><li class="item3 navli"><a href="/Groups-and-Tours.aspx" class="navlink" target="_self">Groups &amp; Tours</a><ul><li class="item1 "><a href="/ksc-tours.aspx" class="navlink" target="_self">KSC Tours</a><ul></ul></li><li class="item2 navli"><a href="/meetings-events.aspx" class="navlink" target="_self">Corporate Groups and Private Events</a><ul></ul></li><li class="item3 navli"><a href="/military.aspx" class="navlink" target="_self">Military Groups</a><ul></ul></li><li class="item4 "><a href="/international-groups.aspx" class="navlink" target="_self">International Groups</a><ul></ul></li></ul></li><li class="item4 navli"><a href="/events.aspx" class="navlink" target="_self">Events</a><ul><li class="item1 "><a href="/2513.aspx" class="" target="_self">Atlantis - Coming Summer 2013</a></li><li class="item2 "><a href="/50-year-milestones.aspx" class="navlink" target="_self">Celebrating 50 Years of KSC</a></li><li class="item3 "><a href="/events-calendar.aspx" class="" target="_self">Events Calendar</a></li><li class="item4 "><a href="/1879.aspx" class="" target="_self">Rocket Launch Gallery</a></li><li class="item5 "><a href="/event-sign-up.aspx" class="navlink" target="_self">Launch &amp; Event Email Sign Up</a></li></ul></li><li class="item5 navli"><a href="/education.aspx" class="navlink" target="_self">Education</a><ul><li class="item1 navli"><a href="/field-trips.aspx" class="navlink" target="_self">Field Trips</a></li><li class="item2 navli"><a href="/groups-camp-kennedy-space-center.aspx" class="navlink" target="_self">Camp Kennedy Space Center®</a></li><li class="item3 navli"><a href="/overnight-adventures.aspx" class="navlink" target="_self">Overnight Adventures</a></li><li class="item4 navli"><a href="/salute-to-scouts.aspx" class="navlink" target="_self">Salute to Scouts</a></li><li class="item5 navli"><a href="/home-school.aspx" class="navlink" target="_self">Homeschool</a></li><li class="item6 navli"><a href="/salute-to-science.aspx" class="navlink" target="_self">Salute to Science</a></li><li class="item7 navli"><a href="/student-atx.aspx" class="navlink" target="_self">Student ATX®</a></li><li class="item8 "><a href="/2512.aspx" class="" target="_self">International Groups</a></li><li class="item9 navli"><a href="/performing-groups.aspx" class="navlink" target="_self">Performing Groups</a></li><li class="item10 navli"><a href="/educator-study-pass.aspx" class="navlink" target="_self">Educator Study Pass</a></li><li class="item11 "><a href="/educational-resources.aspx" class="navlink" target="_self">Educational Resources</a><ul></ul></li><li class="item12 navli"><a href="/program-inquiry.aspx" class="navlink" target="_self">Program Inquiry</a></li><li class="item13 "><a href="/request-astronaut-appearance.aspx" class="navlink" target="_self">Request an Astronaut Appearance</a></li></ul></li><li class="item6 navli"><a href="/nasa-now.aspx" class="navlink" target="_self">NASA Now</a><ul><li class="item1 "><a href="/nasa-now-launch-services.aspx" class="navlink" target="_self">Rocket Launches</a></li><li class="item2 "><a href="/nasa-now-commercial-crew.aspx" class="navlink" target="_self">A New Era of Space Travel</a></li><li class="item3 "><a href="/nasa-now-ground-operations.aspx" class="navlink" target="_self">21st Century Launch Complex</a></li><li class="item4 "><a href="/nasa-now-international-space-station.aspx" class="navlink" target="_self">International Space Station News</a></li><li class="item5 "><a href="/2448.aspx" class="navlink" target="_self">Mars News</a></li></ul></li><li class="item7 nomain"><a href="/about-us.aspx" class="navlink" target="_self">About Us</a><ul><li class="item1 "><a href="/about-dnc.aspx" class="navlink" target="_self">About DNC</a></li><li class="item2 "><a href="/wildlife-refuge.aspx" class="navlink" target="_self">Wildlife Refuge</a></li><li class="item3 "><a href="/ada-information.aspx" class="navlink" target="_self">ADA Information</a></li><li class="item4 navli"><a href="/jobs.aspx" class="navlink" target="_self">Jobs</a><ul></ul></li><li class="item5 "><a href="/press-room.aspx" class="" target="_blank">Press Room</a></li></ul></li></ul>
             </div>
         </div>        
         <div id="main">             
@@ -104,14 +133,17 @@
                  <!-- googleon: index -->
                 <div class="contentblock"><div class="content">
     <div id="pagefn">
-    <ul><li onmouseover="showDrop('fndrop', 'show', this);" onmouseout="showDrop('fndrop', 'hide', this);" class="lnkbookmark"><a href="#">Bookmark</a><div class="droparea fndrop">
+    <ul><li class="ask-astronaut"><a href="/Ask-an-Astronaut.aspx">Ask An Astronaut</a></li>
+    <li onmouseover="showDrop('fndrop', 'show', this);" onmouseout="showDrop('fndrop', 'hide', this);" class="lnkbookmark"><a href="#">Bookmark</a><div class="droparea fndrop">
     <p>Select a bookmarking site</p>
     <ul class="bookmarklist"><li class="lnkbuzz"><a target="_blank" href="http://buzz.yahoo.com/buzz?targetUrl=http://www.kennedyspacecenter.com/privacy-policy.aspx">Buzz</a></li><li class="lnkdelicious"><a target="_blank" href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;">delicious</a></li><li class="lnkdigg"><a target="_blank" href="http://digg.com/submit?url=http://www.kennedyspacecenter.com/privacy-policy.aspx" onclick="window.open('http://digg.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'digg','toolbar=no,width=950,height=690'); return false;">Digg It</a></li><li class="lnkfacebook"><a onclick="popUp(this, 300, 650); return false;" target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.kennedyspacecenter.com/privacy-policy.aspx">Facebook</a></li><li class="lnkmixx"><a target="_blank" href="http://www.mixx.com/submit/story?page_url=http://www.kennedyspacecenter.com/privacy-policy.aspx" onclick="window.open('http://www.mixx.com/submit/story?page_url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'mixx','toolbar=no,width=990,height=690'); return false;">Mixx</a></li><li class="lnkmyspace"><a href="javascript:void(window.open('http://www.myspace.com/Modules/PostTo/Pages/?u='+encodeURIComponent(document.location.toString()),'ptm','height=450,width=440').focus())">MySpace</a></li><li class="lnkreddit"><a target="_blank" href="http://reddit.com/submit?url=http://www.kennedyspacecenter.com/privacy-policy.aspx" onclick="window.open('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'reddit','toolbar=no,width=770,height=600'); return false;">Reddit</a></li><li class="lnkstumbleupon"><a target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.kennedyspacecenter.com/privacy-policy.aspx" onclick="window.open('http://www.stumbleupon.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'stumbleupon','toolbar=no,width=950,height=690'); return false;">StumbleUpon</a></li><li class="lnktwitter"><a target="_blank" href="http://twitter.com/home?status=Currently reading http://www.kennedyspacecenter.com/privacy-policy.aspx">Twitter</a></li><li class="lnkbookmarkit"><a href="#" onclick="bookmark(location.href,document.title); return false;">Create a browser bookmark</a></li></ul></div></li><li class="lnkemail"><a href="mailto:?body=http://www.kennedyspacecenter.com/privacy-policy.aspx" target="_blank">Email Page</a></li><li class="lnkprint"><a href="javascript:printit();">Print</a></li></ul>
 </div>
     
     
     
+    
     <div class="contentarea"><h1>Privacy Policy</h1></div>    
+    
     
     
     
@@ -195,9 +227,9 @@
         var soCountdown = new SWFObject("/flash/countdown_mini.swf", "countdown", "187", "26", "9", "#000");
         soCountdown.addParam("wmode", "transparent");
         soCountdown.addVariable("fv_mainCopy", "Next Rocket Launch");
-        soCountdown.addVariable("fv_buy_bt_link", "/buy-tickets.aspx");
-        soCountdown.addVariable("fv_launchDate", "2012,06,18,01,00,00");
-        soCountdown.addVariable("fv_currentDate", "2012,05,23,05,01,31");
+        soCountdown.addVariable("fv_buy_bt_link", "");
+        soCountdown.addVariable("fv_launchDate", "2012,11,27,11,30,00");
+        soCountdown.addVariable("fv_currentDate", "2012,11,20,09,44,33");
         soCountdown.write("launchflashsidesmall");    
         // ]]>
     </script>
@@ -222,9 +254,9 @@
             <a href="http://www.visitnasa.com/" alt="NASA" target="_blank"><img src="/images/NASAVisitorCenters3.jpg" alt="NASA" border="0" width="90" height="75"></a>  
         </li>
     </ul>
-    <ul class="linklist"><li class="first"><a href="/contact-us.aspx">Contact Us</a></li><li><a href="/cancellation-policy.aspx">Cancellation Policy</a></li><li><a href="/visit-us-faqs.aspx">FAQs</a></li><li><a href="/security-information.aspx">Security Information</a></li><li><a href="/ada-information.aspx">ADA Information</a></li><li><a href="/site-map.aspx">Site Map</a></li></ul>
-    <ul class="linklist"><li class="first"><a href="/about-us.aspx">About Us</a></li><li><a href="http://media.kennedyspacecenter.com/" target="_blank">Press Room</a></li><li><a href="/jobs.aspx">Jobs</a></li><li><a href="/corporate-partners.aspx">Partnerships</a></li></ul>
-    <ul class="linklist countrylist"><li class="first lnkespanol"><a href="/spanish.aspx">Español</a></li><li class="lnkportugues"><a href="/portuguese.aspx">Português</a></li><li class="lnkfrancais"><a href="/french.aspx">Français</a></li><li class="lnkdeutsch"><a href="/german.aspx">Deutsch</a></li><li class="lnkitaliano"><a href="/italian.aspx">Italiano</a></li></ul>
+    <ul class="linklist"><li class="first"><a href="/contact-us.aspx">Contact Us</a></li><li><a href="/235.htm">Corporate Events and Catering</a></li><li><a href="/visit-us-faqs.aspx">FAQs</a></li><li><a href="/security-information.aspx">Security Information</a></li><li><a href="/ada-information.aspx">ADA Information</a></li></ul>
+    <ul class="linklist"><li class="first"><a href="/about-us.aspx">About Us</a></li><li><a href="http://media.kennedyspacecenter.com/" target="_blank">Press Room</a></li><li><a href="/jobs.aspx">Jobs</a></li><li><a href="/corporate-partners.aspx">Partnerships</a></li><li><a href="/site-map.aspx">Site Map</a></li></ul>
+    <ul class="linklist countrylist"><li class="first lnkespanol"></li><li class="lnkportugues"></li><li class="lnkfrancais"></li><li class="lnkdeutsch"></li><li class="lnkitaliano"></li></ul>
     <p>
     
     
@@ -235,8 +267,8 @@
 </div>
  
 <div id="printfooter">
-    May 23, 2012<br>
-    <p><em>Kennedy Space Center Visitor Complex is open every day of the year, except December 25 and certain launch days. Kennedy Space Center is a working spaceflight facility. Tours, films and exhibits may be altered or closed due to operational requirements. Certain items are not permitted on NASA property. Please review our security information before your visit.</em></p>
+    November 20, 2012<br>
+    <p><em>Kennedy Space Center Visitor Complex is open edaily. Kennedy Space Center is a working spaceflight facility. Tours, films and exhibits may be altered or closed due to operational requirements. Certain items are not permitted on NASA property. Please review our security information before your visit.</em></p>
     
     <div id="contactinfo">
         <p><em>Fla. Seller of Travel Reg. No. KO4241502-363 <br></em>KennedySpaceCenter.com<br>SR 405, Kennedy Space Center, FL, 32899 (866) 737-5235</p>
@@ -253,5 +285,14 @@
 <!-- i2a tracking code-->
 <script type="text/javascript" src="/files/i2a.js">
 </script><!-- googleon: index -->
+<div id="google_translate_element" style="display:none;"></div><script>
+                                             function googleTranslateElementInit() {
+                                                 new google.translate.TranslateElement({
+                                                     pageLanguage: 'en',
+                                                     includedLanguages: 'zh-CN,zh-TW,nl,fr,de,it,ja,ko,pt,es',
+                                                     layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                                                 }, 'google_translate_element');
+                                             }
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 </body></html>
