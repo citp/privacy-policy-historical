@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancytuning.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629122840id_/http%3A//fancytuning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancytuning.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120023056id_/http%3A//fancytuning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Car Tuning
 
@@ -17,7 +17,7 @@ www.fancytuning.com does use cookies to store information about visitors prefere
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.fancytuning.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.fancytuning.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
