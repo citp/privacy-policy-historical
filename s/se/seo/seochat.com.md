@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the seochat.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615021407id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seochat.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120070855id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.*
 
-# Developer Shed - Privacy Policy
+# Developer Shed : Privacy Policy
 
-Privacy Policy
+#### DevShed, LLC Privacy Statement 
 
- **DEVELOPER SHED INC. PRIVACY STATEMENT**  
 Developer Shed, ("DEVELOPER SHED,"), comprised of the Internet sites Developer Shed, developershed.com, devshed.com, aspfree.com, devarticles.com, scripts.com, devhardware.com, devarchives.com, seochat.com, devmechanic.com, and webhosters.com (the "DEVELOPER SHED, Sites"), is committed to protecting the privacy of users of the DEVELOPER SHED, Sites. At DEVELOPER SHED, we do our best to provide as much security as possible concerning personal information and registration data. As part of the normal operation of the DEVELOPER SHED, Sites, we collect information from you. This Privacy Statement describes the information we collect and how that information may be used.
 
-INFORMATION GATHERED THROUGH THE DEVELOPER SHED, SITES:  
+#### Information Gathered Through the Developer Shed sites:
+
 DEVELOPER SHED, will track the domains from which people visit the DEVELOPER SHED, Sites in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, DEVELOPER SHED, ay use accumulated aggregate data for several purposes including, but not limited to, marketing analysis, evaluation of DEVELOPER SHED, services, and business planning.
 
 Currently, DEVELOPER SHED, uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the DEVELOPER SHED, Sites (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on the DEVELOPER SHED, Sites. When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum.
@@ -40,9 +40,10 @@ THIRD PARTY ADVERTISING
 We use several third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp.
 
 UPDATES TO THE PRIVACY STATEMENT  
-To update the Privacy Statement, we will post both the changed version and its effective date at http://www.DeveloperShed.com/privacy.php.  
-  
-NO GUARANTEES FOR FACTORS BEYOND DEVELOPER SHED, CONTROLWhile this Privacy Statement expresses DEVELOPER SHED, standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond DEVELOPER SHED, control that may result in disclosure of data. As a consequence, DEVELOPER SHED, disclaims any warranties or representations relating to maintenance or nondisclosure of private information.
+To update the Privacy Statement, we will post both the changed version and its effective date at http://www.DeveloperShed.com/privacy.php.
 
-  
+NO GUARANTEES FOR FACTORS BEYOND DEVELOPER SHED, CONTROL
 
+While this Privacy Statement expresses DEVELOPER SHED, standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond DEVELOPER SHED, control that may result in disclosure of data. As a consequence, DEVELOPER SHED, disclaims any warranties or representations relating to maintenance or nondisclosure of private information.
+
+Last modified: 09/24/12
