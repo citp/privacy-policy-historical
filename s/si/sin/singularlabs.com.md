@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singularlabs.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628200946id_/http%3A//singularlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singularlabs.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120051909id_/http%3A//singularlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SingularLabs
 
@@ -42,4 +42,4 @@ Server-side analytics containing non-identifiable information, such as IP addres
 
 SingularLabs frequently publishes programs for download freely on this and other websites. Our programs do not track any usage patterns or gather statistical information, and are completely free from Spyware. All outbound communication with the internet performed by our software will first require user permission or voluntary interaction.
 
-[](http://www.softpedia.com/get/System/File-Management/System-Ninja.shtml)[](http://www.soft82.com/download/windows/system-ninja/)
+[](http://www.webutation.net/go/review/singularlabs.com)[](http://www.softpedia.com/get/System/File-Management/System-Ninja.shtml)[](http://www.freewarefiles.com/System-Ninja_program_57641.html)
