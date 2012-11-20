@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the denvergov.org privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522031516id_/http%3A//www.denvergov.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denvergov.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120013349id_/http%3A//www.denvergov.org/privacy) for the most accurate reproduction.*
 
 # DenverGov Privacy Policy
 
 The City and County of Denver is committed to protecting user privacy online. We believe that greater protection of personal privacy on the Web will not only protect users, but also increase user confidence and ultimately their participation in online activities. At www.denvergov.org, we intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. The following is the privacy policy for this site (all pages starting with www.denvergov.org). 
 
-If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that E-mails us this information, we will only use the personally identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. 
+If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that E-mails us this information, we will only use the personally identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. 
 
 We collect some information that is used for analysis and statistical purposes that help us manage the DenverGov site. 
 
@@ -12,7 +12,7 @@ We collect some information that is used for analysis and statistical purposes t
 We automatically collect electronically generated information about your visit to our site, such as the date, type of browser used, and technical Internet protocol data. We collect this information about each user session from our user logs, and refer to it for statistical purposes. 
 
 2) **Information that you provide us when using our interactive forms and functions**  
-This information may include such things as name, address, telephone number, and other personal and business data. 
+Whether requested or volunteered, any information you submit to the City and County of Denver may be subject to release under the Colorado Open Records Act (CORA). To learn more about CORA, visit <http://www.colorado.gov/dpa/doit/archives/open/10openrec.htm>. This information may include such things as name, address, telephone number, and other personal and business data. 
 
 3) **Opting-out**  
 At any time while assessing our site(s), any user while online may "opt-out" of further E-mail contact from us (while still allowing access to our sites). For further information about opting-out, contact us at the E-mail address, postal address, or telephone number below, under Site Comments. 
