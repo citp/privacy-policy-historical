@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankfashion.co.uk privacy policy that was archived on 2012-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521070439id_/http%3A//www.bankfashion.co.uk/customer-service/privacy/%3Fcm_re%3DGlobal-_-Footer-_-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankfashion.co.uk privacy policy that was archived on 2012-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120070922id_/http%3A//www.bankfashion.co.uk/customer-service/privacy/%3Fcm_re%3DGlobal-_-Footer-_-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -134,6 +134,10 @@
 
 
 
+<!-- needed -->
+
+
+
 
 
 
@@ -210,6 +214,13 @@
 
 
  
+
+
+
+
+
+
+
 
 
 
@@ -302,9 +313,6 @@
 
 
 <script type="text/javascript" src="/js/jd_scripts.js"></script>
-<!-- Maxymiser script start -->
-<script type="text/javascript" src="//maxymiser.hs.llnwd.net/o36/jdsports/js/mmcore.js"></script>
-<!-- Maxymiser script end -->
 <script>
 
 
@@ -316,6 +324,7 @@ function trim(str) {
 
 function submitSearch(formName)
 {
+var pluForCm ="";
 var form = eval(formName);
 var RegularExpression = /^[Ss]*[0-9]{5,6}$/;
 var cssExpression1 = /</;
@@ -333,10 +342,13 @@ if(RegularExpression.test(searchCriteria))
 	{
 	form.action ='/webapp/wcs/stores/servlet/ExtProductDisplayCmd';
 	form.mfpartNumber.value = searchCriteria.replace("S","").replace("s","");
+	pluForCm  = form.mfpartNumber.value;
 	}
 	
 form.freeText.value = searchCriteria.replace(new RegExp( "\'", "g" ),'');
-
+var searchTag ="";
+var targetUrl = form.action+'?cm_re='+searchTag+'&storeId='+11251+'&catalogId='+12051+'&langId='+-1+'&mfpartNumber='+pluForCm +'&freeText='+searchCriteria; 
+cmCreateManualLinkClickTag(targetUrl,null,null);
 form.submit()	
 
 }
@@ -358,6 +370,7 @@ form.submit()
 
 								
 							
+
 				
       
                                     
@@ -377,10 +390,13 @@ form.submit()
 <div id="header">     
 	<a href="http://www.bankfashion.co.uk/home" id="logo" accesskey="M"><img src="/images/logo.png" title="Bank Fashion" alt="Bank Fashion"></a>
 	<form action="/webapp/wcs/stores/servlet/CatalogSearchResultView" method="get" id="search" name="headerSearch" onsubmit="javascript:submitSearch('document.headerSearch')">
+        <input type="hidden" name="cm_re" value=""> 
         <input type="hidden" name="storeId" value="11251">
         <input type="hidden" name="catalogId" value="12051">
         <input type="hidden" name="langId" value="-1">
         <input type="hidden" name="mfpartNumber" value="">
+	 
+
             <label>Search site</label>
 	    <input name="freeText" type="text" value="Enter your search here" onblur="if(this.value=='') this.value='Enter your search here';" onfocus="if(this.value=='Enter your search here') this.value='';">
 	    <button onclick="javascript:submitSearch('document.headerSearch')" title="Search" accesskey="]"><span>search</span></button>
@@ -513,6 +529,7 @@ form.submit()
 
 
  
+
 
 
 
@@ -714,7 +731,7 @@ form.submit()
       
       
          
-            <li><span><a id="homeLink" class="home" href="http://www.bankfashion.co.uk/home" accesskey="M">HOME</a></span></li>         
+            <li><span><a id="homeLink" class="home" href="http://www.bankfashion.co.uk/home?cm_re=" accesskey="M">HOME</a></span></li>         
          
          
          
@@ -953,24 +970,25 @@ form.submit()
 <dd>
 <ul>
 
-<li><a href="/women/womens-clothing/latest/"><strong>New In</strong></a></li>
+<li><a href="/women/womens-clothing/latest/?cm_re=Global-_-Header-_-DD-womens+clothing-new+in"><strong>New In</strong></a></li>
 
-<li><a href="/women/womens-clothing/t-shirts-and-vests/">T-Shirts &amp; Vests</a></li>
-<li><a href="/women/womens-clothing/shorts/">Shorts</a></li>
-<li><a href="/women/womens-clothing/day-dresses/">Day Dresses</a></li>
-<li><a href="/women/womens-clothing/evening-dresses/">Evening Dresses</a></li>
-<li><a href="/women/womens-clothing/tops/">Tops</a></li>
-<li><a href="/women/womens-clothing/swimwear/">Swimwear</a></li>
-<li><a href="/women/womens-clothing/shirts-and-blouses/">Shirts &amp; Blouses</a></li>
-<li><a href="/women/womens-clothing/skirts/">Skirts</a></li>
-<li><a href="/women/womens-clothing/jeans-and-trousers/">Jeans &amp; Trousers</a></li>
-<li><a href="/women/womens-clothing/jumpsuits-and-playsuits/">Jumpsuits and Playsuits</a></li>
-<li><a href="/women/womens-clothing/track-bottoms-and-leggings/">Track Bottoms &amp; Leggings</a></li>
-<li><a href="/women/womens-clothing/hoodies/">Hoodies</a></li>
 <li><a href="/women/womens-clothing/jackets-and-coats/">Jackets &amp; Coats</a></li>
 <li><a href="/women/womens-clothing/knits/">Knits</a></li>
+<li><a href="/women/womens-clothing/evening-dresses/">Evening Dresses</a></li>
+<li><a href="/women/womens-clothing/day-dresses/?cm_re=Global-_-Header-_-DD-womens+clothing-day+dresses">Day Dresses</a></li>
+<li><a href="/women/womens-clothing/tops/">Tops</a></li>
 <li><a href="/women/womens-clothing/gilets/">Gilets</a></li>
-
+<li><a href="/women/womens-clothing/sweatshirts/">Sweatshirts</a></li>
+<li><a href="/women/womens-clothing/blazers/">Blazers</a></li>
+<li><a href="/women/womens-clothing/jeans-and-trousers/">Jeans &amp; Trousers</a></li>
+<li><a href="/women/womens-clothing/track-bottoms-and-leggings/">Track Bottoms &amp; Leggings</a></li>
+<li><a href="/women/womens-clothing/hoodies/">Hoodies</a></li>
+<li><a href="/women/womens-clothing/t-shirts-and-vests/?cm_re=Global-_-Header-_-DD-womens+clothing-t-shirts+vests">T-Shirts &amp; Vests</a></li>
+<li><a href="/women/womens-clothing/shirts-and-blouses/">Shirts &amp; Blouses</a></li>
+<li><a href="/women/womens-clothing/skirts/">Skirts</a></li>
+<li><a href="/women/womens-clothing/jumpsuits-and-playsuits/">Jumpsuits and Playsuits</a></li>
+<li><a href="/women/womens-clothing/shorts/?cm_re=Global-_-Header-_-DD-womens+clothing-shorts">Shorts</a></li>
+<li><a href="/women/womens-clothing/swimwear/">Swimwear</a></li>
 			
 				
 
@@ -981,7 +999,7 @@ form.submit()
 						
 				
 					<li>
-<a class="dropMenuSale" href="/women/womens-clothing/sale/">
+<a class="dropMenuSale" href="/women/sale/latest/?cm_re=Global-_-Header-_-DD-womens+clothing-sale">
 <b>Sale</b>
 </a>
 </li>
@@ -1003,35 +1021,34 @@ form.submit()
 <ul>
 <li><a href="/women/womens-footwear/latest"><strong>New In</strong></a></li>
 
-<li><a href="/women/womens-footwear/canvas-and-plimsoles/">Canvas &amp; Plimsolls</a></li>
-<li><a href="/women/womens-footwear/heels/">Heels</a></li>
-<li><a href="/women/womens-footwear/flats/">Flats</a></li>
-<li><a href="/women/womens-footwear/flip-flops-and-sandals/">Flip-Flops &amp; Sandals</a></li>
-<li><a href="/women/womens-footwear/hi-tops/">Hi-Tops</a></li>
-<li><a href="/women/womens-footwear/trainers/">Trainers</a></li>
-<li><a href="/women/womens-footwear/boots/">Boots</a></li>
 <li><a href="/women/womens-footwear/sheepskin-boots/">Sheepskin Boots</a></li>
-
+<li><a href="/women/womens-footwear/boots/">Boots</a></li>
+<li><a href="/women/womens-footwear/heels/">Heels</a></li>
+<li><a href="/women/womens-footwear/hi-tops/">Hi-Tops</a></li>
+<li><a href="/women/womens-footwear/flats/">Flats</a></li>
+<li><a href="/women/womens-footwear/canvas-and-plimsoles/">Canvas &amp; Plimsolls</a></li>
+<li><a href="/women/womens-footwear/flip-flops-and-sandals/">Flip-Flops &amp; Sandals</a></li>
+<li><a href="/women/womens-footwear/trainers/">Trainers</a></li>
 <li><a href="/women/womens-footwear/slippers/">Slippers</a></li>
-<li><a class="dropMenuSale" href="/women/womens-footwear/sale/"><b>Sale</b></a></li>
+<li><a class="dropMenuSale" href="/women/womens-footwear/sale/latest/"><b>Sale</b></a></li>
 
 <li><br></li>
 <li style="font-weight:bold; font-size:1.1em;  color:#000000; border-top:1px solid #000; padding-top:22px;"><a href="/women/womens-accessories/">Womens Accessories</a></li>
 <li><a href="/women/womens-accessories/latest/"><strong>New In</strong></a></li>
-<li><a href="/women/womens-accessories/bags-and-purses/">Bags &amp; Purses</a></li>
-<li><a href="/women/womens-accessories/beauty/">Beauty</a></li>
-<li><a href="/women/womens-accessories/sunglasses/">Sunglasses</a></li>
-<li><a href="/women/womens-accessories/jewellery-and-gifts/">Jewellery &amp; Gifts</a></li>
-<li><a href="/women/womens-accessories/belts/">Belts</a></li>
+<li><a href="/women/womens-accessories/bags/">Bags</a></li>
+<li><a href="/women/womens-accessories/purses/">Purses</a></li>
 <li><a href="/women/womens-accessories/gloves-and-scarves/">Gloves &amp; Scarves</a></li>
 <li><a href="/women/womens-accessories/hats/">Hats</a></li>
-<li><a href="/women/womens-accessories/socks-and-tights/">Socks &amp; Tights </a></li>
+<li><a href="/women/womens-accessories/socks-and-lingerie/">Socks &amp; Lingerie </a></li>
+<li><a href="/women/womens-accessories/beauty/">Beauty</a></li>
+<li><a href="/women/womens-accessories/jewellery-and-gifts/">Jewellery &amp; Gifts</a></li>
+<li><a href="/women/womens-accessories/belts/">Belts</a></li>
 <li><a href="/women/womens-accessories/nightwear/">Nightwear </a></li>
-<li><a class="dropMenuSale" href="/women/womens-accessories/sale/"><b>Sale</b></a></li>
+<li><a href="/women/womens-accessories/sunglasses/">Sunglasses</a></li>
+<li><a class="dropMenuSale" href="/women/womens-accessories/sale/latest/"><b>Sale</b></a></li>
 </ul>
 </dd>
 </dl>
-
 			
 				
 
@@ -1045,33 +1062,32 @@ form.submit()
 <dt class="menMenuHeading"><a href="/women/offers/">Womens Offers</a></dt>
 <dd>
 <ul>
-<li><a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=11251&amp;catalogId=12051&amp;categoryId=37734&amp;langId=-1&amp;sectionId=women&amp;top=Y&amp;categoryName=category^root&amp;subCategoryName=women&amp;category=37734&amp;sortfield=Recommended&amp;changedAttr=categoryMenu&amp;position=1&amp;allResults=true&amp;OfferCode=59">20% off Selected items</a></li>
-<li><a href="/women/search/womens+offer+socks">3 for £8 Socks</a></li>
-
-<li><a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=11251&amp;catalogId=12051&amp;categoryId=37734&amp;langId=-1&amp;sectionId=women&amp;top=Y&amp;categoryName=category^root&amp;subCategoryName=women&amp;category=37734&amp;sortfield=Recommended&amp;changedAttr=categoryMenu&amp;position=1&amp;allResults=true&amp;OfferCode=40">2 for £20</a></li>
+<li><a href="/women/Blonde-and-Blonde-Offer/?fredhopperUrl=fh_location=//catalog01/en_GB/offer_code=44&amp;preview_advanced=true&amp;canned_result=true">2 for £30 Blonde + Blonde</a></li>
+<li><a href="/women/brand/emu/">£50 off all EMU Boots</a></li>
+<li><a href="/women/3-for-2-socks/?fredhopperUrl=fh_location=//catalog01/en_GB/sku_stock_allocation&gt;0/offer_code=65/categories&lt;{catalog01_ct37734_ct37755_ct37748}&amp;fh_refview=home&amp;fh_reftheme=3268531e-0b45-4be7-baec-e0909a3456f7%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;preview_advanced=true&amp;canned_result=true">3 for 2 Socks</a></li>
+<!--<li><a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=11251&catalogId=12051&categoryId=37734&langId=-1&sectionId=women&top=Y&categoryName=category^root&subCategoryName=women&category=37734&sortfield=Recommended&changedAttr=categoryMenu&position=1&allResults=true&OfferCode=40">2 for £20</a></li>-->
 <!--<li><a href="/search/sheepskin+boots+offer/">2 for £20</a></li>-->
 <!--<li><a href="/search/featured+womens+jackets+and+knitwear+offer/">20% Off selected Jackets & Knitwear</a></li>-->
-<!--<li><a href="/search/sheepskin+boots+offer/">20% off selected Sheepskin Boots</a></li>-->
-<!--<li><a href="/search/womens+superdry+thirty+offer/">Up to 30% off Superdry</a></li>-->
-
 <!--<li><a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=11251&catalogId=12051&categoryId=37734&langId=-1&sectionId=women&top=Y&categoryName=category^root&subCategoryName=women&category=37734&sortfield=Recommended&changedAttr=categoryMenu&position=1&allResults=true&OfferCode=43">Buy One Get One Half Price</a></li>-->
 <li><br></li>
-<li><a href="/search/featured+womens+returning+stock">Back in Stock</a></li>
+<li><a href="/women/Back-In-Stock/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid&lt;{058985,045354,003152,043822,035371,029961,040264,033351}&amp;fh_refview=home&amp;fh_reftheme=b33370aa-000e-4dfa-88be-3024edfa2725%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;preview_advanced=true&amp;canned_result=true">Back in Stock</a></li>
 <li><br></li>
 <li style="font-weight:bold;"><a href="/page/bank-gift-card/">Bank Gift Card</a></li>
 <li><br></li>
 <li style="font-weight:bold;"><a href="/women/top-10/">Women′s Top 10s</a></li>
 <li><br></li>
 <li style="font-weight:bold; color:#000000; border-top:1px solid #000; padding-top:25px;"><a href="/women/brands/">Shop By Women′s Brands...</a></li>
-<li><a href="/page/pauls-boutique-womens">Pauls Boutique</a></li>
-<li><a href="/page/womens-converse">Converse</a></li>
-<li><a href="/page/blonde-and-blonde-womens">Blonde + Blonde</a></li>
-<li><a href="/women/brand/lipsy/">Lipsy</a></li>
-<li><a href="/women/brand/ribbon/">Ribbon</a></li>
-<li><a href="/women/brand/superdry/">Superdry</a></li>
-<li><a href="/women/brand/voi-jeans/">Voi Jeans</a></li>
+<li><a href="/women/brand/tulisa-tfb/">Tulisa TFB</a></li>
+<li><a href="/page/little-mistress/">Little Mistress</a></li>
+<li><a href="/page/pauls-boutique-womens/">Pauls Boutique</a></li>
+<li><a href="/page/womens-converse/">Converse</a></li>
+<li><a href="/page/vans-womens/">Vans</a></li>
+<li><a href="/page/blonde-and-blonde-womens/">Blonde + Blonde</a></li>
+<li><a href="/page/ribbon-womens/">Ribbon</a></li>
+<li><a href="/page/superdry-womens/">Superdry</a></li>
+<li><a href="/page/glamorous-womens/glamorous-womens.html">Glamorous</a></li>
 <li><br></li>
-<li><a class="dropMenuSale" href="/women/sale/"><b>All Women′s Sale</b></a></li>
+<li><a class="dropMenuSale" href="/women/sale/latest/"><b>All Women′s Sale</b></a></li>
 <li><br></li>
 </ul>
 </dd>
@@ -1090,20 +1106,25 @@ form.submit()
 <dt class="menMenuHeading">Featured</dt>
 <dd>
 <ul class="featuredhover">
-<li><a href="/page/celebs-spotted/"><img src="/lib/FeaturedMenu/celebs-spotted.png" width="120" height="25" alt="Celeb Spotted" style="padding-bottom:0px; padding-top:0px"></a></li>
-<li><a href="/page/as-seen-in/"><img src="/lib/FeaturedMenu/as-seen-in.png" width="120" height="25" alt="As Seen In" style="padding-bottom:0px; padding-top:0px"></a></li>
-<li><a href="/search/Featured+Womens+London+Calling/"><img src="/lib/FeaturedMenu/london-calling.png" width="135" height="24" alt="London Calling" style="padding-bottom:0px; padding-top:0px"></a></li>
-<li><a href="/search/featured+womens+spring+showers/"><img src="/lib/FeaturedMenu/spring-showers.png" width="129" height="28" alt="Womens Spring Showers" style="padding-bottom:2px;"></a></li>
-<li><a href="/search/Featured+Womens+Dip+Hem/"><img src="/lib/FeaturedMenu/dip-hem.png" width="119" height="38" alt="Womens Dip Hem" style="padding-bottom:2px;"></a></li>
-<li><a href="/search/Featured+Womens+Techno+Tribal/"><img src="/lib/FeaturedMenu/techno-tribal.png" width="117" height="23" alt="Womens Techno Tribal" style="padding-bottom:2px;"></a></li>
-<li><a href="/search/featured+womens+tropicana/"><img src="/lib/FeaturedMenu/tropicana.png" width="93" height="29" alt="Womens Tropicana" style="padding-bottom:2px;"></a></li>
-<li><a href="/search/featured+womens+style+staples/"><img src="/lib/FeaturedMenu/stylestaples.png" width="118" height="28" alt="Style-staples" style="padding-bottom:2px;"></a></li>
-<li><a href="/search/featured+womens+prom+dresses/"><img src="/lib/FeaturedMenu/prom-dresses.png" width="115" height="12" alt="Womens Prom Dresses" style="padding-bottom:2px;"></a></li>
-<li><a href="/search/featured+womens+americana/"><img src="/lib/FeaturedMenu/americana.png" width="114" height="20" alt="Americana" style="padding-bottom:2px;"></a></li>
-<li><a href="/search/featured+womens+monochrome/"><img src="/lib/FeaturedMenu/monochrome-12-03-19.jpg" width="98" height="20" alt="Monochrome" style="padding-bottom:6px;"></a></li>
-<li><a href="/search/featured+womens+fashion+fest/"><img src="/lib/FeaturedMenu/fashion-fest.jpg" width="102" height="23" alt="Fashion Fest" style="padding-bottom:6px;"></a></li>
-<li><a href="/search/womens+online+only/"><img src="/lib/FeaturedMenu/online-only.png" width="104" height="12" alt="Online Only" style="padding-bottom:6px;"></a></li>
-<li><a href="/search/featured+womens+holiday+shop/"><img src="/lib/FeaturedMenu/holiday-shop.png" width="101" height="12" alt="Holiday Shop" style="padding-bottom:6px;"></a></li>
+<li><a href="/page/celebs-spotted/">Celebs Spotted</a></li>
+<li><a href="/page/as-seen-in/">As Seen In</a></li>
+<li><a href="/women/Online-Exclusives/?fredhopperUrl=fh_location=//catalog01/en_GB/categories&lt;{catalog01_ct37734}/exclusive&gt;{exclusive}&amp;fh_reffacet=exclusive&amp;fh_refpath=facet_8&amp;fh_eds=ß&amp;fh_refview=lister&amp;preview_advanced=true">Online Only</a></li>
+<li><a href="/page/Ribbon-Lookbook-AW12">Ribbon Luxe</a></li>
+<li><a href="/tulisa">TFB by Tulisa</a></li>
+<li><a href="/women/featured/New-Womens-Brands/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{051156,030505,060204,029279,060118,060145,000914,000011,038634,000324,030527,059871,030512,060180,038691,001251,038734,060016,013758,013798}&amp;fh_reftheme=6b06ed00-f8ac-4728-a609-7315dd9d2e5d%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;fh_refview=home&amp;preview_advanced=true&amp;canned_result=true">#newbrands</a></li>
+<li style="background-color:rgb(255,255,255) !important;"><br></li>
+</ul>
+</dd>
+<dt class="menMenuHeading">Trends</dt>
+<dd>
+<ul class="featuredhover">
+<li><a href="/women/featured/Baroque-and-Roll-Trend/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{026235,035987,016821,048035,080610,045646,069922,033205,080529,027540,035847,017562,080490,012325,012247,042994,036068,012526,046555}&amp;fh_reftheme=5a6c01df-c74e-45e3-a7da-2fcaaecb3938%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;fh_refview=home&amp;preview_advanced=true&amp;canned_result=true">Baroque and Roll</a></li>
+<li><a href="/women/featured/Girly-Grunge-Trend/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{007364,006148,016456,045370,045599,015646,034560,023572,048566,050276,045273,000458,034967,012284,042241,003751,045066,000242,034972,034974}&amp;fh_reftheme=dff93ec2-2be9-499e-8a24-38c47d878c18%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{026235%2C035987%2C016821%2C048035%2C080610%2C045646%2C069922%2C033205%2C080529%2C027540%2C035847%2C017562%2C080490%2C012325%2C012247%2C042994%2C036068%2C012526%2C046555}&amp;fh_refview=lister&amp;preview_advanced=true&amp;canned_result=true">Girly Grunge</a></li>
+<li><a href="/women/featured/Dress-to-Impress-Trend/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{043615,085252,035843,030008,032726,078663,035918,002541,030108,066729,070952,023024,011053,012601,069922,040717,036671,034079,030297,022723}&amp;fh_reftheme=82bd8b3a-6ff5-4ca1-9c00-d824837a76de%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{007364%2C006148%2C016456%2C045370%2C045599%2C015646%2C034560%2C023572%2C048566%2C050276%2C045273%2C000458%2C034967%2C012284%2C042241%2C003751%2C045066%2C000242%2C034972%2C034974}&amp;fh_refview=lister&amp;preview_advanced=true&amp;canned_result=true">Dress to Impress</a></li>
+<li><a href="/women/featured/The-Onesie/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{050247,045123,044304,013850}&amp;fh_reftheme=bdba8204-4444-4e3d-ad50-8d0c6aac9d20%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{043615%2C085252%2C035843%2C030008%2C032726%2C078663%2C035918%2C002541%2C030108%2C066729%2C070952%2C023024%2C011053%2C012601%2C069922%2C040717%2C036671%2C034079%2C030297%2C022723}&amp;fh_refview=lister&amp;preview_advanced=true&amp;canned_result=true">'The Onesie'</a></li>
+<li><a href="/women/featured/Heritage-Trend/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{020399,034967,040381,006148,084054,055464,036968,055449,020915,049811,040335,010413,049634,030568,084059,083774,037602,010011,085479}&amp;fh_reftheme=1a1b4f09-4523-4684-ac65-1979300f9766%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{050247%2C045123%2C044304%2C013850}&amp;fh_refview=lister&amp;preview_advanced=true&amp;canned_result=true">Heritage</a></li>
+
+
 </ul>
 </dd>
 
@@ -1119,9 +1140,21 @@ form.submit()
 				
 					<div class="menupromobanner">
 <ul>
-<li><a href="/page/womens-lookbook-ss12/"><img src="/lib/FeaturedMenu/loobookss12.jpg" width="160" height="135" border="0" alt="Shop all Sale" style="padding-bottom:3px; list-style:none;"></a></li>
+<li><a href="/page/aw2012-lookbook/"><img src="/lib/FeaturedMenu/AW-banner-sd.png" width="159" height="138" border="0" alt="AW12" style="padding-bottom:5px; list-style:none;"></a>
+</li>
 </ul>
 </div>
+
+<div class="menupromobanner">
+<ul>
+<li><a href="/page/student-discount/"><img src="/lib/FeaturedMenu/small-banner-sd.png" width="159" height="138" border="0" alt="Student Discount" style="padding-bottom:0px; list-style:none;"></a>
+</li></ul>
+ 
+<ul>
+<li><a href="http://www.company.co.uk/fashion-awards" target="_blank"><img src="/lib/FeaturedMenu/FashionAwards.jpg" width="159" height="138" border="0" alt="Student Discount" style="padding-bottom:0px; list-style:none;"></a>
+</li>
+ 
+</ul></div>
 			
 				
 
@@ -1376,20 +1409,20 @@ form.submit()
 
 <li><a href="/men/mens-clothing/latest/"><strong>New In</strong></a></li>
 
+<li><a href="/men/mens-clothing/jackets-and-coats">Jackets &amp; Coats</a></li>
+<li><a href="/men/mens-clothing/knits">Knits</a></li>
+<li><a href="/men/mens-clothing/gilets/">Gilets</a></li>
 <li><a href="/men/mens-clothing/t-shirts/">T-Shirts</a></li>
-<li><a href="/men/mens-clothing/polo-shirts/">Polo Shirts</a></li>
 <li><a href="/men/mens-clothing/chinos/">Chinos</a></li>
-<li><a href="/men/mens-clothing/shorts/">Shorts</a></li>
-<li><a href="/men/mens-clothing/jeans">Jeans</a></li>
+<li><a href="/men/mens-clothing/polo-shirts/">Polo Shirts</a></li>
+<li><a href="/men/mens-clothing/sweatshirts/">Sweatshirts</a></li>
 <li><a href="/men/mens-clothing/hoodies/">Hoodies</a></li>
-<li><a href="/men/mens-clothing/sweats/">Sweats</a></li>
-<li><a href="/men/mens-clothing/swimwear/">Swimwear</a></li>
+<li><a href="/men/mens-clothing/jeans">Jeans</a></li>
 <li><a href="/men/mens-clothing/shirts/">Shirts</a></li>
 <li><a href="/men/mens-clothing/track-tops">Track Tops</a></li>
-<li><a href="/men/mens-clothing/knits">Knits</a></li>
-<li><a href="/men/mens-clothing/jackets-and-coats">Jackets &amp; Coats</a></li>
-<li><a href="/men/mens-clothing/gilets/">Gilets</a></li>
 <li><a href="/men/mens-clothing/track-bottoms">Track Bottoms</a></li>
+<li><a href="/men/mens-clothing/shorts/">Shorts</a></li>
+<li><a href="/men/mens-clothing/swimwear/">Swimwear</a></li>
 			
 				
 
@@ -1399,7 +1432,7 @@ form.submit()
 			
 						
 				
-					<li><a class="dropMenuSale" href="/men/mens-clothing/sale"><b>Sale</b></a></li>
+					<li><a class="dropMenuSale" href="/men/mens-clothing/sale/latest/"><b>Sale</b></a></li>
 
 </ul>
 </dd>
@@ -1418,24 +1451,25 @@ form.submit()
 <dd>
 <ul>
 <li><a href="/men/mens-footwear/latest/"><strong>New In</strong></a></li>
-<li><a href="/men/mens-footwear/canvas-and-plimsoles">Canvas &amp; Plimsolls</a></li>
-<li><a href="/men/mens-footwear/hi-tops/">Hi-Tops</a></li>
-<li><a href="/men/mens-footwear/trainers/">Trainers</a></li>
-<li><a href="/men/mens-footwear/flip-flops-and-sandals/">Flip-Flops &amp; Sandals</a></li>
 <li><a href="/men/mens-footwear/boots-and-shoes/">Boots &amp; Shoes</a></li>
-<li><a class="dropMenuSale" href="/men/mens-footwear/sale/"><b>Sale</b></a></li>
+<li><a href="/men/mens-footwear/trainers/">Trainers</a></li>
+<li><a href="/men/mens-footwear/hi-tops/">Hi-Tops</a></li>
+<li><a href="/men/mens-footwear/canvas-and-plimsoles">Canvas &amp; Plimsolls</a></li>
+<li><a href="/men/mens-footwear/flip-flops-and-sandals/">Flip-Flops &amp; Sandals</a></li>
+<li><a class="dropMenuSale" href="/men/mens-footwear/sale/latest/"><b>Sale</b></a></li>
 
 <li><br></li>
 <li style="font-weight:bold; border-top:1px solid #000; padding-top:25px; font-size:1.1em; color:#000000;"><a href="/men/mens-accessories/">Mens Accessories</a></li>
 <li><a href="/men/mens-accessories/latest/"><strong>New In</strong></a></li>
 <li><a href="/men/mens-accessories/caps-and-beanies/">Caps &amp; Hats</a></li>
-<li><a href="/men/mens-accessories/bags-and-wallets/">Bags/Wallets</a></li>
-<li><a href="/men/mens-accessories/sunglasses/">Sunglasses</a></li>
-<li><a href="/men/mens-accessories/underwear-and-socks/">Underwear &amp; Socks</a></li>
-<li><a href="/men/mens-accessories/belts/">Belts</a></li>
 <li><a href="/men/mens-accessories/gloves-and-scarves/">Gloves &amp; Scarves</a></li>
+<li><a href="/men/mens-accessories/bags-and-wallets/">Bags  &amp; Wallets</a></li>
+<li><a href="/men/mens-accessories/underwear-and-socks/">Underwear &amp; Socks</a></li>
+<li><a href="/men/mens-accessories/headphones/">Headphones</a></li>
+<li><a href="/men/mens-accessories/belts/">Belts</a></li>
+<li><a href="/men/mens-accessories/sunglasses/">Sunglasses</a></li>
 <li><a href="/men/mens-accessories/miscellaneous">Miscellaneous</a></li>
-<li><a class="dropMenuSale" href="/men/mens-accessories/sale/"><b>Sale</b></a></li>
+<li><a class="dropMenuSale" href="/men/mens-accessories/sale/latest/"><b>Sale</b></a></li>
 </ul>
 </dd>
 </dl>
@@ -1452,29 +1486,28 @@ form.submit()
 <dt class="menMenuHeading"><a href="/men/offers/">Mens Offers</a></dt>
 <dd>
 <ul>
-<li><a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=11251&amp;catalogId=12051&amp;categoryId=37701&amp;langId=-1&amp;sectionId=men&amp;top=Y&amp;categoryName=category^root&amp;subCategoryName=Men&amp;category=37701&amp;sortfield=Recommended&amp;changedAttr=categoryMenu&amp;position=1&amp;allResults=true&amp;OfferCode=55">30% off Shorts</a></li>
-<li><a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=11251&amp;catalogId=12051&amp;categoryId=37701&amp;langId=-1&amp;sectionId=men&amp;top=Y&amp;categoryName=category^root&amp;subCategoryName=Men&amp;category=37701&amp;sortfield=Recommended&amp;changedAttr=categoryMenu&amp;position=1&amp;allResults=true&amp;OfferCode=47">2 for £35</a></li>
-<li><a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?storeId=11251&amp;catalogId=12051&amp;categoryId=37701&amp;langId=-1&amp;sectionId=men&amp;top=Y&amp;categoryName=category^root&amp;subCategoryName=Men&amp;category=37701&amp;sortfield=Recommended&amp;changedAttr=categoryMenu&amp;position=1&amp;allResults=true&amp;OfferCode=51">2 for £25</a></li>
-<li><a href="/search/mens+offer+socks/">3 for £8 Socks</a></li>
-<li><a href="/search/featured+mens+denim+and+chino+mailer+offer/">30% off selected Men's Denim &amp; Chinos</a></li>
+<li><a href="/men/promoMens-Offer-2-for-25/?fredhopperUrl=fh_location=//catalog01/en_GB/offer_code=51">2 for £25</a></li>
+<li><a href="/men/3-for-2-Socks/?fredhopperUrl=fh_location=//catalog01/en_GB/sku_stock_allocation%3E0/offer_code=65/categories%3C{catalog01_ct37701_ct37726_ct37716}&amp;fh_refview=home&amp;fh_reftheme=1217f57f-0f63-439a-955c-73c602759ad4%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;preview_advanced=true&amp;canned_result=true">3 for 2 Socks</a></li>
+<li><a href="/men/promotion:/30percent-off-selected-Denim-and-Chinos/?fredhopperUrl=fh_location=//catalog01/en_GB/sku_stock_allocation%3E0/categories%3C{catalog01_ct37701_ct37702_ct37713,catalog01_ct37701_ct37702_ct75206}&amp;fh_reftheme=1e447a6c-2276-4a7e-a969-a010acb39748%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;canned_result=true">20% off selected Men's Denim &amp; Chinos</a></li>
 <li><br></li>
-<li><a href="/search/featured+mens+returning+stock/">Back in Stock</a></li>
+<li style="font-weight:bold;"><a href="/men/featured/Back-in-Stock/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{012184,045286,049506,049625,049653,049939,045231,082025}&amp;fh_reftheme=1ea98931-a9d5-45f6-9d4e-b7c9a845ea3c%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB&amp;canned_result=true">Back in Stock</a></li>
 <li><br></li>
 <li style="font-weight:bold;"><a href="/page/bank-gift-card/">Bank Gift Card</a></li>
 <li><br></li>
 <li style="font-weight:bold;"><a href="/men/top-10/">Men′s Top 10s</a></li>
 <li><br></li>
-<li style="font-weight:bold;border-top:1px solid #000; padding-top:25px; "><a href="/men/brands/">Shop By Men′s Brands…</a></li>
-<li><a href="/page/vans-mens">Vans</a></li>
-<li><a href="/page/mens-converse">Converse</a></li>
-<li><a href="/men/brand/superdry/">Superdry</a></li>
-<li><a href="/page/nanny-state-mens">Nanny State</a></li>
-<li><a href="/men/brand/voi-jeans/">Voi Jeans</a></li>
-<li><a href="/men/brand/rivington/">Rivington</a></li>
-<li><a href="/men/brand/jack-and-jones/">Jack &amp; Jones</a></li>
-<li><a href="/men/brand/g-star/">G-Star Raw</a></li>
+<li style="font-weight:bold;border-top:1px solid #000; padding-top:25px; "><a href="/men/brands/">Shop By Men′s BrandsÃÂ¢ÃÂÃÂ¦</a></li>
+<li><a href="/page/superdry-mens/">Superdry</a></li>
+<li><a href="/page/vans-mens/">Vans</a></li>
+<li><a href="/page/jack-and-jones-mens/">Jack &amp; Jones</a></li>
+<li><a href="/page/mens-voi-jeans">Voi Jeans</a></li>
+<li><a href="/page/mens-converse/">Converse</a></li>
+<li><a href="/page/outcast-mens">Outcast</a></li>
+<li><a href="/page/nanny-state-mens/">Nanny State</a></li>
+<li><a href="/page/rivington-mens/">Rivington</a></li>
+<li><a href="/page/mens-fenchurch">Fenchurch</a></li>
 <li><br></li>
-<li><a class="dropMenuSale" href="/men/sale/"><b>All Men′s Sale</b></a></li>
+<li><a class="dropMenuSale" href="/men/sale/latest/"><b>All Men′s Sale</b></a></li>
 </ul>
 </dd>
 </dl>
@@ -1492,20 +1525,22 @@ form.submit()
 <dt class="menMenuHeading">Featured</dt>
 <dd>
 <ul class="featuredhover">
-<li><a href="/search/featured+american+boy/"><img src="/lib/FeaturedMenu/american-boy.png" width="116" height="22" alt="Men's American Boy"></a></li>
-<li><a href="/search/featured+mens+ibiza+rocks/"><img src="/lib/FeaturedMenu/mens-ibiza-rocks.png" width="142" height="25" alt="Men's Ibiza Rocks"></a></li>
-<li><a href="/search/featured+mens+spring+showers/"><img src="/lib/FeaturedMenu/spring-showers.png" width="129" height="28" alt="Men's Spring Showers"></a></li>
-<li><a href="/search/featured+mens+festival+fix/"><img src="/lib/FeaturedMenu/12-03-21-mens-festival-fix.png" width="110" height="23" alt="Men's Festival Fix"></a></li>
-<li><a href="/search/Featured+Mens+Bright+Idea/"><img src="/lib/FeaturedMenu/bright-idea.png" width="97" height="17" alt="Men's Bright Idea" style="padding-bottom:6px;"></a></li>
-<li><a href="/search/featured+mens+graphic+images/"><img src="/lib/FeaturedMenu/Graphics-image.png" width="120" height="16" alt="Graphic Images" style="padding-bottom:6px;"></a></li>
-<li><a href="/search/featured+mens+old+school+crew/"><img src="/lib/FeaturedMenu/old-skool.png" width="113" height="32" alt="Old School Crew" style="padding-bottom:6px;"></a></li>
-<li><a href="/search/mens+online+only/"><img src="/lib/FeaturedMenu/online-only.png" width="104" height="12" alt="Online Only" style="padding-bottom:5px;"></a></li>
-<li><a href="/men/search/Featured+chinos/"><img src="/lib/FeaturedMenu/chinos.png" width="54" height="12" alt="chinos" style="padding-bottom:5px;"></a></li>
-<li><a href="/search/Featured+Mens+Holiday+Shop/"><img src="/lib/FeaturedMenu/holiday-shop.png" width="101" height="12" alt="Holiday Shop"></a></li>
-<li><a href="/search/featured+mens+basics/"><img src="/lib/FeaturedMenu/mens-must-haves.png" width="132" height="27" alt="Men's Must Haves"></a></li>
+<li><a href="/men/featured?fredhopperUrl=fh_location=//catalog01/en_GB/categories%3C{catalog01_ct37701}/exclusive%3E{exclusive}&amp;fh_reffacet=exclusive&amp;fh_refview=lister&amp;fh_eds=%C3%9F&amp;canned_result=true">Online Only</a></li>
+<li style="background-color: rgb(255,255,255) !important;"><br></li>
 </ul>
 </dd>
 
+<dt class="menMenuHeading">Trends</dt>
+<dd>
+<ul class="featuredhover">
+<li><a href="/men/featured/Mens-Heritage-Trend/?fredhopperUrl=fh_location=%2F%2Fcatalog01%2Fen_GB|secondid%3C{045426%2C073119%2C019510%2C007068%2C032890%2C001960%2C015273%2C045234%2C051934%2C024495%2C031475%2C015450%2C050845%2C045633%2C044523%2C016750%2C030715%2C052066%2C007072%2C001959%2C015330%2C073521%2C032990%2C012726%2C052069%2C045232%2C059184%2C032949%2C045244%2C012184%2C027340%2C035246%2C045726%2C052049%2C029171%2C045290%2C044684%2C059191%2C074034}&amp;fh_reftheme=8db5a105-6a94-42b6-9592-c2b47add73c0%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{045873%2C012846%2C020932%2C050719%2C049506%2C072412%2C055195%2C049680%2C024724%2C035821%2C045244%2C026788%2C012454%2C035856%2C024728%2C055201%2C081190%2C045981%2C045232}&amp;canned_result=true">Heritage</a></li>
+<li><a href="/men/featured/Mens-American-Boy-Trend/?fredhopperUrl=fh_location=%2F%2Fcatalog01%2Fen_GB|secondid%3C{045873%2C012846%2C020932%2C050719%2C049506%2C072412%2C055195%2C049680%2C024724%2C035821%2C045244%2C026788%2C012454%2C035856%2C024728%2C055201%2C081190%2C045981%2C045232}&amp;fh_reftheme=bdddfbee-d30b-4f75-a04a-2a4baf175788%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{045873%2C012846%2C020932%2C050719%2C049506%2C072412%2C055195%2C049680%2C024724%2C035821%2C045244%2C026788%2C012454%2C035856%2C024728%2C055201%2C081190%2C045981%2C045232}&amp;canned_result=true">American Boy</a></li>
+<li><a href="/men/featured/Mens-Grunge-Aesthetic-Trend/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{054055,082874,017797,009429,008031,017940,056740,014801,023148,017766,003691,034993,007979,023118,050133}&amp;fh_reftheme=c3797b02-f76d-44fc-93ab-aa6a7f16b0ce%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{045873%2C012846%2C020932%2C050719%2C049506%2C072412%2C055195%2C049680%2C024724%2C035821%2C045244%2C026788%2C012454%2C035856%2C024728%2C055201%2C081190%2C045981%2C045232}&amp;canned_result=true">Grunge Aesthetic</a></li>
+<li><a href="/men/featured/Mens-Trawlermen-Trend/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{044469,029065,007068,051898,045484,048403,029022,032890,030806,050548,065234,038587,001959,045232,022553,086000,067917,023444,045244,001008}&amp;fh_reftheme=7811ec07-4d48-4fb5-a8d6-d98adba69b27%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{054055%2C082874%2C017797%2C009429%2C008031%2C017940%2C056740%2C014801%2C023148%2C017766%2C003691%2C034993%2C007979%2C023118%2C050133}&amp;canned_result=true">Trawlermen</a></li>
+<li><a href="/men/featured/The-Onesie/?fredhopperUrl=fh_location=//catalog01/en_GB|secondid%3C{056462,076784}&amp;fh_reftheme=37b37c12-3c1c-4fdc-a2c4-c3de55cbb688%2Cseeall%2C%2F%2Fcatalog01%2Fen_GB|secondid%3C{044469%2C029065%2C007068%2C051898%2C045484%2C048403%2C029022%2C032890%2C030806%2C050548%2C065234%2C038587%2C001959%2C045232%2C022553%2C086000%2C067917%2C023444%2C045244%2C001008}&amp;canned_result=true">'The Onesie'</a></li>
+
+</ul>
+</dd>
 </dl>
 			
 				
@@ -1518,9 +1553,18 @@ form.submit()
 				
 					<div class="menupromobanner">
 <ul>
-<li><a href="/page/mens-lookbook-ss12/"><img src="/lib/FeaturedMenu/loobookss12-men.jpg" width="160" height="135" border="0" alt="Shop all Sale" style="padding-bottom:3px; list-style:none;"></a></li>
+<li><a href="/page/aw2012-lookbook/"><img src="/lib/FeaturedMenu/AW-banner-sd.png" width="159" height="138" border="0" alt="AW12" style="padding-bottom:5px; list-style:none;"></a></li>
 </ul>
 </div>
+<div class="menupromobanner">
+<ul>
+<li><a href="/page/student-discount/"><img src="/lib/FeaturedMenu/small-banner-sd.png" width="159" height="138" border="0" alt="Student Discount" style="padding-bottom:0px; list-style:none;"></a></li></ul>
+<ul><li><a href="/page/student-discount/"><img src="/lib/FeaturedMenu/small-banner-sd.png" width="159" height="138" border="0" alt="Student Discount" style="padding-bottom:3px; list-style:none;"></a></li></ul>
+ 
+<ul>
+<li><a href="http://www.company.co.uk/fashion-awards" target="_blank"><img src="/lib/FeaturedMenu/FashionAwards.jpg" width="159" height="138" border="0" alt="Student Discount" style="padding-bottom:0px; list-style:none;"></a></li>
+ 
+</ul></div>
 			
 				
 
@@ -1645,7 +1689,11 @@ form.submit()
 			
 						
 				
-					<div class="banner">
+					<ul id="cookieLink">
+<li><a href="/page/cookies">Cookies</a></li>
+</ul>
+
+<div class="banner">
            <div class="delivery-banner">
             <p>
 <a href="/customer-service/deliveryinfo/?cm_re=HomeMain-_-DeliveryHeader-_-FreeUkDelivery" style="font-size: 1.3em;">FREE UK HOME DELIVERY</a>
@@ -1653,11 +1701,11 @@ form.submit()
 <!-- - <a href="/customer-service/deliveryinfo/">Find out more</a>  --></p>
             </div>
           <div class="social-top">  <a target="_blank" href="http://www.facebook.com/BANKofficial">
-            	<img title="Follow BANK Fashion on facebook" alt="Follow BANK Fashion on facebook" src="http://www.bankfashion.co.uk/lib/socialnet/facebook-icon-top-new.png"></a>
+            	<img title="Follow BANK Fashion on facebook" alt="Follow BANK Fashion on facebook" src="https://www.bankfashion.co.uk/lib/socialnet/facebook-icon-top-new.png"></a>
 					<a target="_blank" href="http://twitter.com/bankfashion">
-				<img title="Follow BANK Fashion on twitter" alt="Follow BANK Fashion on twitter" src="http://www.bankfashion.co.uk/lib/socialnet/twitter-icon-top-new.png"></a>
+				<img title="Follow BANK Fashion on twitter" alt="Follow BANK Fashion on twitter" src="https://www.bankfashion.co.uk/lib/socialnet/twitter-icon-top-new.png"></a>
 					<a target="_blank" href="http://www.youtube.com/user/BankFashionOfficial">
-                <img title="YouTube" alt="Bank Fashion on YouTube" src="http://www.bankfashion.co.uk/lib/socialnet/you-tube-icon-top-new.png"></a>
+                <img title="YouTube" alt="Bank Fashion on YouTube" src="https://www.bankfashion.co.uk/lib/socialnet/you-tube-icon-top-new.png"></a>
    
 		</div>
         </div>
@@ -1683,18 +1731,21 @@ form.submit()
 	    
 	    
 	    
-    		<li><a href="http://www.bankfashion.co.uk/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11251&amp;catalogId=12051" accesskey="x">Login</a></li>
-    		<li><a href="http://www.bankfashion.co.uk/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11251&amp;catalogId=12051" accesskey="z">Create Account</a></li>
+    		<li><a href="http://www.bankfashion.co.uk/webapp/wcs/stores/servlet/LogonForm?cm_re=&amp;langId=-1&amp;storeId=11251&amp;catalogId=12051">Login</a></li>
+    		<li><a href="http://www.bankfashion.co.uk/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11251&amp;catalogId=12051?cm_re=">Create Account</a></li>
 	       
 	     
-        <li><a href="http://www.bankfashion.co.uk/store-finder" accesskey="f">Store Finder</a></li>
-        <li class="lastItem"><a href="http://www.bankfashion.co.uk/customer-service/faqs" accesskey="=">Customer Service</a></li>
-    </ul>
+        <li><a href="http://www.bankfashion.co.uk/store-finder?cm_re=">Store Finder</a></li>
+       <li class="lastItem"><a href="http://www.bankfashion.co.uk/customer-service/faqs?cm_re=">Customer Service</a></li>
+            </ul>
     
     </div>
     
+   
+
 </div>
 <!-- /header -->
+
 
 
 
@@ -1960,6 +2011,10 @@ form.submit()
 
 
 
+<!-- needed -->
+
+
+
 
 
 
@@ -2046,6 +2101,13 @@ form.submit()
 
 
 
+
+
+
+
+
+
+
            
            
            
@@ -2130,10 +2192,12 @@ form.submit()
 
 
 
+ 
  
   
  
  
+
 
 
 <h1>Privacy Policy</h1>
@@ -2346,6 +2410,10 @@ enclosing a cheque for £10.</p>
 
 
 
+<!-- needed -->
+
+
+
 
 
 
@@ -2432,6 +2500,13 @@ enclosing a cheque for £10.</p>
 
 
 
+
+
+
+
+
+
+
            
            
            
@@ -2516,77 +2591,239 @@ enclosing a cheque for £10.</p>
 
 
 
+ 
  
   
  
  
 
 
-<div class="footerMain" style="padding-bottom:60px;">
-    <div class="footNewsletter">
-        <div class="signUp">
-			<h3><span>Sign up for our newsletter and be the first to know about exclusive offers &amp; style:</span></h3>
-			    <form name="signUp" id="signUp" method="get" action="/webapp/wcs/stores/servlet/LogonForm">
-                <label>Please enter your email here...</label>
-                <input type="text" onfocus="if(this.value=='Please enter your email here...') this.value='';" onblur="if(this.value=='') this.value='Please enter your email here...';" value="Please enter your email here..." name="logonId" id="logonId">
-                <input type="hidden" value="11251" name="storeId">
-                <input type="hidden" value="12051" name="catalogId">
-                <input type="hidden" value="-1" name="langId">
-                <input type="hidden" value="/home" name="URL">
-                <button name="submit" type="submit"><span>Sign up</span></button>
-       		 	</form>
-		</div>
-    </div><!-- /newsletter -->
-    
-    <div class="linkCol social">
-            <a href="http://www.facebook.com/BANKofficial" target="_blank"><img src="/lib/home/main/facebook.png" alt="Follow BANK Fashion on facebook" title="Follow BANK Fashion on facebook"></a>
-            <a href="http://twitter.com/bankfashion" target="_blank"><img src="/lib/home/main/twitter.png" alt="Follow BANK Fashion on twitter" title="Follow BANK Fashion on twitter"></a>
-            <a href="http://www.youtube.com/user/BankFashionOfficial" target="_blank"><img src="/lib/home/main/you-tube.png" alt="Bank Fashion on YouTube" title="YouTube"></a>
-            <div id="cards"><img src="/lib/home/main/cards.png"></div>
-        </div>
-    
-    <div class="linkCol">
-        <ul>
-        <li><a href="http://www.voucherexpress.co.uk/verse/bank">Bank Giftcard</a></li>
-        <li><a href="/men/brand/g-star/?cm_re=Global-_-Footer-_-G-Star">G-Star Raw</a></li>
-        <li><a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11251&amp;catalogId=12051/?cm_re=Global-_-Footer-_-NewsletterSignUp">Newsletter sign up</a></li>
-        <li><a href="/competitions/?cm_re=Global-_-Footer-_-Competitions">Competitions</a></li>
-        <!--<li><a href="/page/christmas?cm_re=Global-_-Footer-_-Christmas">Christmas</a></li>-->
-        </ul>
-    </div><!-- /linkCol -->
-    
-    <div class="linkCol">
-        <ul>
-        <li><a href="/customer-service/contactus/?cm_re=Global-_-Footer-_-ContactUs">Contact BANK</a></li>
-        <li><a href="/customer-service/sizechart/?cm_re=Global-_-Footer-_-sizechart">Size Guides</a></li>
-        <li><a href="/customer-service/faqs/?cm_re=Global-_-Footer-_-faqs">FAQs</a></li>
-        <li><a href="/customer-service/howtoshop/?cm_re=Global-_-Footer-_-howtoshop">How to Shop</a></li>
-        </ul>
-    </div><!-- /linkCol -->
-                
-    <div class="linkCol">
-        <ul>
-        <li><a href="/customer-service/ordertracking/?cm_re=Global-_-Footer-_-order-tracking">Order Tracking</a></li>
-        <li><a href="/customer-service/deliveryinfo/?cm_re=Global-_-Footer-_-delivery">Delivery</a></li>
-        <li><a href="/customer-service/returningitems/?cm_re=Global-_-Footer-_-Returning-your-order">Returning your order</a></li>
-        <li><a href="/store-finder/">Store Finder</a></li>
-        </ul>
-    </div><!-- /linkCol -->
-                
-    <div class="linkCol">
-        <ul>
-        <li><a href="/customer-service/termsandconditions/?cm_re=Global-_-Footer-_-tersandconditions">Terms &amp; Conditions</a></li>
-        <li><a href="/customer-service/privacy/?cm_re=Global-_-Footer-_-privacy">Privacy</a></li>
-        <li><a href="/customer-service/sitesecurity/?cm_re=Global-_-Footer-_-site-security">Site Security</a></li>
-        <li><a href="http://www.jdplc.com/careers-at-bank.html" target="_blank">Careers at BANK</a></li>
-        </ul>
-    </div><!-- /linkCol -->
-	<div style="clear:both;"></div>
-    <div class="copyright">
-    	Copyright © 2011 JD Sports Fashion Plc, All rights reserved. Visit our corporate website at <a href="http://www.jdplc.com" target="_blank">www.jdplc.com</a>
-    </div><!-- /copyright -->
-    
-  <!-- <div id="FreeDeliveryFooterBanner" style="background-color: #00aef1;"><img src="/lib/home/footer/12-04-25-delivery.gif" alt="Free Next Day Delivery on orders over &pound;100" border="0" title="" >  </div>-->
+
+
+				<div class="footerMain">
+				
+					<p>
+						<span style="width:340px;">Get the Latest Bank Fashion</span>
+						<span style="width:185px;">Follow Us On</span>
+						<span style="width:160px;">Customer Services</span>
+						<span style="width:163px;">Your Account</span>
+						<span>Useful Info</span>
+					</p>
+
+					<hr style="margin-bottom:10px;">
+
+					<div class="signUp">
+					    <form action="/webapp/wcs/stores/servlet/LogonForm" method="get" id="signUp" name="signUp">
+			                <label>Please enter your email here...</label>
+			                <input type="text" id="logonId" name="logonId" value="Enter your email address" onblur="if(this.value=='') this.value='Enter your email address';" onfocus="if(this.value=='Enter your email address') this.value='';">
+			                <input type="hidden" name="storeId" value="11251">
+			                <input type="hidden" name="catalogId" value="12051">
+			                <input type="hidden" name="langId" value="-1">
+			                <input type="hidden" name="URL" value="/home">
+			                <button type="submit" name="submit"><img src="lib/images/landing/rightArrow.gif"></button>
+		       		 	</form>
+					</div>
+
+					<div class="linkCol social">
+						<a href="https://www.facebook.com/BANKofficial" target="_blank"><img src="/lib/home/main/facebook.png"></a>
+						<a href="http://twitter.com/bankfashion" target="_blank"><img src="/lib/home/main/twitter.png"></a>
+						<a href="http://www.youtube.com/user/BankFashionOfficial" target="_blank"><img src="/lib/home/main/youtube.png"></a>
+						<a href="http://pinterest.com/source/bankfashion.co.uk/" target="_blank"><img src="/lib/home/main/pinterest.png"></a>
+						<a href="http://ipv6.statigr.am/bankfashion" target="_blank"><img src="/lib/home/main/instagram.png"></a>
+					</div>
+
+
+
+					<div class="linkCol">
+						<ul>
+							<li><a href="/customer-service/deliveryinfo/?cm_re=Global-_-Footer-_-delivery">Delivery Information</a></li>
+							<li><a href="/customer-service/contactus/?cm_re=Global-_-Footer-_-ContactUs">Contact Us</a></li>
+							<li><a href="/customer-service/faqs/?cm_re=Global-_-Footer-_-faqs">FAQs</a></li>
+                          
+							<!-- <li><a href="#">About Us</a></li> -->
+						</ul>
+					</div>
+
+					<div class="linkCol">
+						<ul>
+							<li><a href="/webapp/wcs/stores/servlet/LogonForm">My Account</a></li>
+							<li><a href="/customer-service/ordertracking/?cm_re=Global-_-Footer-_-order-tracking">Track an Order</a></li>
+							<!-- <li><a href="#">Your Orders</a></li> -->
+							<li><a href="/customer-service/returningitems/?cm_re=Global-_-Footer-_-Returning-your-order">Request a Return</a></li>
+						</ul>
+					</div>
+
+					<div class="linkCol linkColLast">
+						<ul>
+							<li><a href="#">About Us</a></li>
+							<li><a href="/customer-service/sitesecurity/?cm_re=Global-_-Footer-_-site-security">Site Security</a></li>
+							<li><a href="/customer-service/privacy/?cm_re=Global-_-Footer-_-privacy">Privacy Policy</a></li>
+							<li><a href="/customer-service/termsandconditions/?cm_re=Global-_-Footer-_-termsandconditions">Terms &amp; Conditions</a></li>
+                              <li><a href="http://careers.bankfashion.co.uk/pb3/corporate/JD_Sports/BANK/advertlisting.php">Careers</a></li>
+						</ul>
+					</div>
+
+					<div class="copyright">
+					    <p>Copyright © 2012 BANK Fashion, All rights reserved.</p>
+					</div>
+
+
+<!--<div id="FreeDeliveryFooterBanner" style="background-color:#f6992e;">
+<a href="http://www.bankfashion.co.uk/women/sale/"><img border="0" title="" alt="Women's Mid Season Sale" src="/lib/home/footer/12-10-04-sale.gif"></a>
+</div>
+
+  <div id="FreeDeliveryFooterBanner" style="background-color: #f6992e;"><img src="/lib/home/footer/12-10-04-sale.gif" alt="Women's Mid-Season Sale up to 50% off" border="0" title="" >  </div>-->
+  
+  
+    	</div><!-- #FooterMain -->
+
+
+
+
+
+
+
+
+
+
+<div style="height:0; width:0; display:none;" id="newLinks">
+
+<li><span><a accesskey="3" href="#" class="women" id="newLink">New In</a></span>
+  <ul id="newMenuItemsContainer" style="width:638px;">
+    <li>
+      <ul id="newMenuItems">
+        <!--[if lte IE 6]><iframe src="javascript:false;"></iframe><![endif]-->
+        <li> 
+          <!-- needed -->
+          <div style="float:left; margin-right:10px; width:auto;">
+            <dl class="menuCol">
+              <dt class="newMenuHeading"><a href="#">Womens New In</a></dt>
+              <dd>
+                <ul>
+                  <li><a href="/women/womens-clothing/latest/?cm_re=Global-_-Header-_-DD-new+in-womens-clothing">New Womens Clothing</a></li>
+                  <li><a href="/women/womens-footwear/latest">New Womens Footwear</a></li>
+                  <li><a href="/women/womens-accessories/latest/">New Womens Accessories</a></li>
+                </ul>
+              </dd>
+            </dl>
+            <dl class="menuCol">
+              <dt class="newMenuHeading"><a href="#">Mens New In</a></dt>
+              <dd>
+                <ul>
+                  <li><a href="/men/mens-clothing/latest/">New Mens Clothing</a></li>
+                  <li><a href="/men/mens-footwear/latest/">New Mens Footwear</a></li>
+                  <li><a href="/men/mens-accessories/latest/">New Mens Accessories</a></li>
+                </ul>
+              </dd>
+            </dl>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+<li><span><a accesskey="4" href="#" class="women" id="brandsLink">Brands</a></span>
+  <ul id="brandsMenuItemsContainer" style="width:638px;">
+    <li>
+      <ul id="brandsMenuItems">
+        <!--[if lte IE 6]><iframe src="javascript:false;"></iframe><![endif]-->
+        <li> 
+          <!-- needed -->
+          <div style="float:left; margin-right:10px; width:auto;">
+            <dl class="menuCol">
+              <dt class="brandswMenuHeading"><a href="/women">Featured Womens Brands</a></dt>
+              <dd>
+                <ul>
+                    <li><a href="/women/brand/tulisa-tfb/">TFB by Tulisa</a></li>                
+                    <li><a href="/page/blonde-and-blonde-womens/">Blonde + Blonde</a></li>
+                    <li><a href="/page/womens-converse/">Converse</a></li>
+                    <li><a href="/page/glamorous-womens/glamorous-womens.html">Glamorous</a></li>
+                    <li><a href="/page/little-mistress/">Little Mistress</a></li>
+                    <li><a href="/page/pauls-boutique-womens/">Paul's Boutique</a></li>
+                    <li><a href="/page/ribbon-womens/">Ribbon</a></li>
+                    <li><a href="/page/superdry-womens/">SuperDry</a></li>
+                    <li><a href="/page/vans-womens/">Vans</a></li>
+                    <li><a href="/women/brands/"><strong>All Womens Brands</strong></a></li>                    
+                </ul>
+              </dd>
+            </dl>
+            <dl class="menuCol">
+              <dt class="brandsMenuHeading"><a href="/men">Featured Mens Brands</a></dt>
+              <dd>
+                <ul>
+                    <li><a href="/page/mens-converse/">Converse</a></li>
+                    <li><a href="/page/mens-fenchurch">Fenchurch</a></li>
+                    <li><a href="/page/jack-and-jones-mens/">Jack &amp; Jones</a></li>
+                    <li><a href="/page/nanny-state-mens/">Nanny State</a></li>
+                    <li><a href="/page/outcast-mens">Outcast</a></li>
+                    <li><a href="/page/rivington-mens/">Rivington</a></li>
+                    <li><a href="/page/superdry-mens/">SuperDry</a></li>
+                    <li><a href="/page/vans-mens/">Vans</a></li>
+                    <li><a href="/page/mens-voi-jeans">Voi Jeans</a></li>
+                    <li><a href="/men/brands/"><strong>All Mens Brands</strong></a></li>
+                </ul>
+              </dd>
+            </dl>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+
+<li><span><a accesskey="5" href="http://blog.bankfashion.co.uk" class="women" id="styleLink">The Style BANK</a></span></li>
+
+
+<li><span><a accesskey="6" href="http://www.bankfashion.co.uk/page/grab-it-before-it-goes" style="color:#AE2B42; font-weight:bold;" class="saleLink women" id="saleLink">Sale</a></span>
+  <ul id="saleMenuItemsContainer" style="width:638px;">
+    <li>
+      <ul id="saleMenuItems">
+        <!--[if lte IE 6]><iframe src="javascript:false;"></iframe><![endif]-->
+        <li> 
+          <!-- needed -->
+          <div style="float:left; margin-right:10px; width:auto;">
+            <dl class="menuCol">
+              <dt class="saleMenuHeading"><a href="/women/sale/latest/">All Womens Sale</a></dt>
+              <dd>
+                <ul>
+                    <li><a href="/women/womens-clothing/sale/latest/">Womens Sale Clothing</a></li>
+                    <li><a href="/women/womens-footwear/sale/latest/">Womens Sale Footwear</a></li>
+                    <li><a href="/women/womens-accessories/sale/latest/">Womens Sale Accessories</a></li>
+                </ul>
+              </dd>
+            </dl>
+            <dl class="menuCol">
+              <dt class="saleMenuHeading"><a href="/men/sale/latest/">All Mens Sale</a></dt>
+              <dd>
+                  <ul>
+                    <li><a href="/men/mens-clothing/sale/latest/">Mens Sale Clothing</a></li>
+                    <li><a href="/men/mens-footwear/sale/latest/">Mens Sale Footwear</a></li>
+                    <li><a href="/men/mens-accessories/sale/latest/">Mens Sale Accessories</a></li>
+                </ul>
+              </dd>
+            </dl>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
   
 <script>window.jQuery || document.write("<script src='/js/jquery.js'>\x3C/script>")</script><script src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/scripts.js"></script> 
@@ -2596,7 +2833,6 @@ enclosing a cheque for £10.</p>
 
 
 
-</div><!-- /footerMain -->
 
 
     <!--[if IE]></div><![endif]-->
@@ -2604,13 +2840,20 @@ enclosing a cheque for £10.</p>
     <!--/page-->
 
 <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script> 
+<script language="JavaScript1.1" type="text/JavaScript">
+cmSetupOther({"cm_TrackImpressions":""}); 
+</script> 
 <script language="JavaScript1.1" type="text/JavaScript" src="/wcsstore/coremetrics/cmcustom.js"></script>
 <script language="JavaScript1.1" type="text/JavaScript">
 <!--
          cmSetClientID("90227248",true,"data.coremetrics.com","bankfashion.co.uk");
+           cmSetupNormalization("krypto-_-krypto");
 	  //cmSetProduction();
 //-->
-</script><script language="JavaScript1.1" type="text/JavaScript">
+</script>
+			<script type="text/javascript" src="/js/optimost_global_body1.js"></script>
+			<script type="text/javascript" src="/js/optimost_global_body2.js"></script>            
+            <script language="JavaScript1.1" type="text/JavaScript">
 <!--
 cmCreatePageviewTag("Help\/Privacy ", "HELP", null, null, 11251);
 //-->
