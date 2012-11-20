@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613183912id_/http%3A//prima-coffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120052132id_/http%3A//prima-coffee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Security is our Priority | Prima Coffee
 
 ##  Prima Coffee: Privacy Policy
 
-Welcome! You are most likely visiting this page for one of two reasons: (1) you want to know what type of information we collect and how it is used, if this is you then congrats you are in the right place, please keep reading, or (2) you are lost, in which case you can click the following link to find [ Coffee and espresso equipment](http://prima-coffee.com/).
+Welcome! You are most likely visiting this page for one of two reasons: (1) you want to know what type of information we collect and how it is used, if this is you then congrats you are in the right place, please keep reading, or (2) you are lost, in which case you can click the following link to find [ Quality Coffee and Espresso Equipment](http://prima-coffee.com/).
 
 Prima Coffee is committed to the privacy of your personal, identifiable information. We, like you, don’t like it when people sell or trade personal information in order to make a few bucks. In order to establish and maintain a trusting relationship with you, we are careful to protect all information you supply through our website and through our customer service team. This privacy policy works in conjunction with our internal corporate practices to protect you and your personal information from misuse. Please review our policy and contact our office with questions or concerns.
 
