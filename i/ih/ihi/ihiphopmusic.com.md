@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609010419id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiphopmusic.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120044106id_/http%3A//www.ihiphopmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -90,8 +90,9 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Covanant LLC  
-3450 Breckinridge BLVD  
-Duluth, GA 30096  
+http://www.ihiphopmusic.com/
+
+45 Grant Ave  
+Brentwood, New York 11717  
 Untied States  
-contact@covanant.net
+chozen@digitalswagg.com
