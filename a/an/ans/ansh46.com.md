@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618024356id_/http%3A//www.ansh46.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120023227id_/http%3A//ansh46.com/privacy) for the most accurate reproduction.*
 
 # ANSH46.COM | Privacy and Security
 
