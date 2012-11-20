@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617082841id_/http%3A//www.the3dstudio.com/legal_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120152050id_/http%3A//www.the3dstudio.com/legal_privacy.aspx) for the most accurate reproduction.*
 
 # 3D Models & Stock Photos
 
