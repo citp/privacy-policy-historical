@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the filepost.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520073301id_/http%3A//filepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepost.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120105402id_/http%3A//filepost.com/privacy) for the most accurate reproduction.*
 
 # FilePost.com: Free online storage - fast & secure, userfriendly & reliable!
 
-FilePost.com is a provider of online file storage service. Your use of the [www.filepost.com](https://filepost.com/) site is governed by FilePost Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
+FilePost.com is a provider of online file storage service. Your use of the [www.filepost.com](http://filepost.com/) site is governed by FilePost Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
 FilePost.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.
 
@@ -62,4 +62,4 @@ Blog at our site is an area for communication where users can leave comments. If
 
 #### Contact information
 
-Should you have any questions or concerns regarding this Privacy Policy, please [contact us](https://filepost.com/support/).
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](http://filepost.com/support/).
