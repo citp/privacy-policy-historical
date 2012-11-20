@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505104942id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120074151id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for kenable.co.uk
 
@@ -7,6 +7,10 @@
   
 Here at kenable we **value your privacy**. The following privacy policy applies to the kenable website (www.kenable.co.uk) 
 
+  * **COOKIE USAGE**
+    * We only use cookies for our shopping basket. The cookie only holds details of the items in your basket. 
+    * We do not use cookies for advertising or passing information to other sites. 
+    * If you do not agree in us using cookies for holding information regarding your shopping basket, please close the site. 
   * **INFORMATION WE STORE ABOUT YOU**
     * If you have bought something from us we will have your email address, phone number, address and details of your purchase. If you choose to have items delivered to a third-party we will have their name and address. Information is only used to help us deliver the parcels and contact you. 
     * We also maintain an order history of your purchases. This allows you and us to track your deliveries and review your past purchases. 
