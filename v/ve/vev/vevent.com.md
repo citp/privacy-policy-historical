@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vevent.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526112645id_/http%3A//engage.vevent.com/microsite/ext/privacypol_unisfair.jsp%3Feid%3D140%26seid%3D467%26lc%3Den%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vevent.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120091532id_/http%3A//engage.vevent.com/microsite/ext/privacypol_unisfair.jsp%3Feid%3D140%26seid%3D467%26lc%3Den%26cc%3DUS) for the most accurate reproduction.*
 
 # None
 
