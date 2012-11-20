@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522062351id_/http%3A//www.manticoretechnology.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120150923id_/http%3A//www.manticoretechnology.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy, Data Collection Practices - Manticore Technology
+# Privacy Policy - Sales Engine International
 
 The following information is intended specifically for Manticore Technology clients who visit the Manticore Technology web site and other visitors to the Manticore Technology web site. This policy covers how Manticore Technology treats personal information that we collect and receive from our site only. If you are looking for information regarding the software that we produce, how this software enables our clients to collect personal information and the privacy issues relating to the information that our clients gather, please see **"For visitors to the website of clients of Manticore Technology"** below.
 
@@ -74,13 +74,13 @@ When you visit Manticore Technology's web site or the website of a client of Man
 
 Manticore Technology also employs web beacons, which are anonymous objects embedded in a web site that enables the owner of the site to track who has read the site or what portion of the site was read. Manticore Technology uses web beacons in conjunction with cookies in order to improve the quality of our web site and the web sites of our clients. 
 
-Neither cookies nor web beacons contain any personal identifiable information, but they do facilitate the general functionality of Manticore Technology�s online reporting tool. 
+Neither cookies nor web beacons contain any personal identifiable information, but they do facilitate the general functionality of Manticore Technology's online reporting tool. 
 
 ### Questions, Complaints and Enforcement
 
 Manticore Technology participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. Manticore Technology has certified that it adheres to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. You may visit the U.S. Department of Commerce's Safe Harbor web site for more information about the Safe Harbor. 
 
-If you have a question or complaint regarding Manticore Technology�s privacy policy or Manticore Technology's use of personal information, you may contact Manticore Technology through this web site or by writing us at the following address: 
+If you have a question or complaint regarding Manticore Technology's privacy policy or Manticore Technology's use of personal information, you may contact Manticore Technology through this web site or by writing us at the following address: 
 
 Privacy Officer  
 Manticore Technology Corporation  
