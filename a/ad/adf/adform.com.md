@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522043517id_/https%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121003220id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Adform privacy policy statement : Adform
 
@@ -35,6 +35,8 @@ Using the cookies’ random identification numbers, Adform collects and stores i
   * facts about interactions with advertisements (such as number of clicks or views).
 
 
+
+During web requests to Adform web-servers, our system is exposed to the IP addresses from internet users. Adform is in full compliance with local data privacy laws and is anonymising the data according to local regulations. Adform does not pass this data to any third party or use this data for any other purposes than analysis on behalf of the site owners.
 
 ###  Usage of Collected Data for Advertisements
 
