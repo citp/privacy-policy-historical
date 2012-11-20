@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502125241id_/http%3A//www.hagerty.com/Hagerty-corporate/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120043316id_/http%3A//www.hagerty.com/Hagerty-corporate/Privacy-policy) for the most accurate reproduction.*
 
 # Hagerty Privacy Policy
 
