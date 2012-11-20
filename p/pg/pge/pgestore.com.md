@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531060237id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgestore.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120094943id_/http%3A//www.pgestore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # eStore Retail Services | eStore Retail Services Privacy Policy
 
@@ -154,5 +154,5 @@ We will remain committed to protecting your privacy online. We may change this P
 Questions regarding this Policy should be directed to [privacy@estoreretailservices.com](mailto:privacy@estoreretailservices.com) or may also be sent directly to the following address:
 
 PFSweb Retail Connect, Inc.  
-500 N. Central Expressway, Ste. 500  
-Plano, TX 75074
+505 Millennium Drive  
+Allen, TX 75013
