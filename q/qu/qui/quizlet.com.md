@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601022830id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120054959id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quizlet
 
@@ -53,9 +53,9 @@ Parents/guardians can review information their children have contributed to Quiz
 
 A child's participation or access to an activity on Quizlet cannot be conditioned on him or her providing more information than is reasonably necessary for that activity, or any personally identifiable information. Quizlet does not collect personally identifiable information from children under 13, without a parent or guardian's consent.
 
-### Group Discussions and Dashboards
+### Class Discussions and Profile
 
-Certain activity on Quizlet may be displayed to other users, such as posts to Quizlet discussion boards or our blog, or the information on your Quizlet Dashboard. This information includes your username, group names, and statistics.
+Certain activity on Quizlet may be displayed to other users, such as posts to Quizlet discussion boards or our blog, or the information on your Quizlet Profile. This information includes your username, class names, and statistics.
 
 You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at [quizlet.com/feedback](http://quizlet.com/feedback/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
