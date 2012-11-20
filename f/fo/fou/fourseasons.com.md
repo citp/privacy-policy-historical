@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourseasons.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629194614id_/http%3A//www.fourseasons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourseasons.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120145742id_/http%3A//www.fourseasons.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -37,7 +37,7 @@ _A. On Our Web Site_
 
 If you decide that you would like to make a reservation at any of our hotels or resorts, you will be linked to our reservation service site. Although it appears to be part of our site, the reservation site is, in fact, provided by Amadeus Travel Distribution, SA which provides an automated reservations and distribution system to the travel industry. We pass your computer ID number on to Amadeus, but they are unfamiliar with you. You can search for rates and availability at our hotels and resorts without providing any Personal Information.
 
-Visitors to fourseasons.com who elect to make reservations online will be required to complete a reservation profile the first time they make a reservation. When you create a reservation profile you will be asked to provide specific Personal Information, including your name, address and contact information, as well as certain guarantee and deposit information to secure your reservation, such as your credit card number. Your transmittal of your Personal Information shall constitute your acknowledgment and agreement to the terms and conditions contained in this Privacy Policy.
+Visitors to [fourseasons.com](http://www.fourseasons.com/) who elect to make reservations online will be required to complete a reservation profile the first time they make a reservation. When you create a reservation profile you will be asked to provide specific Personal Information, including your name, address and contact information, as well as certain guarantee and deposit information to secure your reservation, such as your credit card number. Your transmittal of your Personal Information shall constitute your acknowledgment and agreement to the terms and conditions contained in this Privacy Policy.
 
 Your credit card number will be verified using a checking sequence, but we do not authorize any payments at this point. Once your reservation is confirmed, Four Seasons will be sent all of the reservation information. From this point the information is sent to the selected hotel in exactly the same way as if you called us directly or if your travel agent made the reservation
 
