@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityscapeglobal.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214032628id_/http%3A//www.iirme.com/Content-Pages1/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityscapeglobal.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120071945id_/http%3A//www.iirme.com/iirme/Privacy-Policy) for the most accurate reproduction.*
 
 # Conferences, Training, Managed Events, Exhibitions in Dubai - Privacy Policy
 
@@ -74,5 +74,5 @@ In order to keep up with changing legislation and best practice, we may revise t
 
 **Contact Us**
 
-If you have any questions about this privacy policy or feel that your privacy has been compromised, please contact us at +971 4 4072538 or alternatively, at [lucy.mountain@iirme.com](mailto:lucy.mountain@iirme.com).   
+If you have any questions about this privacy policy or feel that your privacy has been compromised, please contact us at +971 4 4072538.   
 
