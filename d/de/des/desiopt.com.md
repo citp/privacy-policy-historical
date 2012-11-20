@@ -1,33 +1,108 @@
-> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508230438id_/http%3A//www.desiopt.com/include/themes/custom/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiopt.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120074949id_/http%3A//www.desiopt.com/include/themes/custom/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
-**Privacy Policy**
+**What information do we collect?**
 
-By accessing Company’s web site, you acknowledge and fully understand Company’s Privacy Policy and freely consent to the information collection and use practices described in this web site Privacy Policy.
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
-Related services and offerings with links from this web site, including vendor sites, may have their own privacy policies that can be viewed by clicking on the corresponding links within each respective web site. Online merchants and others who participate in Company’s services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. Since we do not have direct control over the policies or practices of participating merchants and other third parties, however, we are not responsible for the privacy practices of those persons or their web sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
-Company reserves the right to update this Privacy Policy occasionally. When we do, We encourage you to periodically review this Privacy Policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy and any updates.
+**What do we use your information for?**
 
-Company collects certain information from and about its users three ways: directly from our web server logs; information you give to us; and with cookies.
+Any of the information we collect from you may be used in one of the following ways: 
 
-When you visit our web site, we may track information to administer the site and analyze its usage. Examples of information we may track include:
+腹To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-\- Your Internet protocol address.  
-\- The kind of browser or computer you use.  
-\- Number of links you click within the site.  
-\- State or country from which you accessed the site.  
-\- Date and time of your visit.  
-\- Name of your Internet service provider, etc
+腹To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Company may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+腹To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission, except to the extent necessary, including:
+腹To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-\- To respond to legal process or comply with law; or  
-\- In connection with a merger, acquisition or liquidation of the company. 
+腹To send periodic emails
 
-\- To fulfill your requests for services 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-\- To protect ourselves from liability 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+腹To administer a contest, promotion, survey or other site feature
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
+
+These security measures include: password protected directories and databases to safeguard your information or Trusted Site Scanners like SiteLock.com. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+We also use web beacons in conjunction with cookies to help us gather additional information about your visit to our website.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.desiopt.com/include/themes/custom/terms.php.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+DesiOPT.com  
+support[at]desiopt.com
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please email support[at]desiopt.com or fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+
+Respectfully,   
+DesiOPT.com
