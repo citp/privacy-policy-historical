@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptech.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501210221id_/http%3A//scriptech.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptech.net privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120151648id_/http%3A//scriptech.net/privacy-policy) for the most accurate reproduction.*
 
 # Provacy Policy | Wordpress, Software and Scripts for Internet Marketing, SEO and Website Building
 
@@ -18,4 +18,6 @@ Our website may contain links to other websites of interest. However, once you h
 
 **How to contact us**
 
-If you have any questions or concerns regarding our privacy policy, please contact us at admin@scriptech.net
+If you have any questions or concerns regarding our privacy policy, please contact us at **kivansag@postafiok.hu**
+
+Last updated by at September 12, 2012.
