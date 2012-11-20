@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycouponteacher.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522004913id_/http%3A//www.mycouponteacher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycouponteacher.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120094129id_/http%3A//www.mycouponteacher.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 Updated 7/22/11
 
@@ -32,5 +32,7 @@ http://www.mycouponteacher.com has no access to or control over these cookies th
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.mycouponteacher.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 I [disclose](http://www.mycouponteacher.com/disclosure-privacy-policies/) : There may be affiliate links in this post.
