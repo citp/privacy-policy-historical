@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511170344id_/http%3A//insanehomefatloss.com/nv_privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120232148id_/http%3A//insanehomefatloss.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Lose Belly Fat - Insane Home Fat Loss
 
@@ -63,7 +63,7 @@ This online privacy policy applies only to information collected through our web
 * * *
 
 **Re-Marketing Cookies And Information Collection**   
-When you visit SixPackShortcuts.com, MikeChangFitness.com, our YouTube channel, or any of our other sites you may be tagged with a "re-marketing" cookie. We use this technology with our advertising partners to serve you relevant, useful and helpful ads.   
+When you visit SixPackShortcuts.com, MikeChangFitness.com, insanehomefatloss.com, our YouTube channel, or any of our other sites you may be tagged with a "re-marketing" cookie. We use this technology with our advertising partners to serve you relevant, useful and helpful ads.   
 **Your Consent**
 
 By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
@@ -74,10 +74,16 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.sixpackshortcuts.com  
-14413 American Kestrel  
+http://www.insanehomefatloss.com  
+11011 Domain Drive #8148  
 Austin, TX 78738  
 USA  
-mike@sixpackshortcuts.com  
-671-697-6529  
+mike@sixpackshortcuts.com
 
+### **512-201-4651**
+
+if you calling within the US or 
+
+### **1(800) 655-8576**
+
+for outside of the US.
