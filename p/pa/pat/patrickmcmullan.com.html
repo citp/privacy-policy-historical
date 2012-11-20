@@ -1,21 +1,245 @@
-<!--The following is the downloaded HTML source of the patrickmcmullan.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216032743id_/http%3A//www.patrickmcmullan.com/site/help.aspx%3Ft%3D19) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patrickmcmullan.com privacy policy that was archived on 2012-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120111236id_/http%3A//www.patrickmcmullan.com/site/help.aspx%3Ft%3D19) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_header"><title>
 	Patrick McMullan Company
-</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="verify-v1" content="/yoIABeLHxlO0W8FWqcbnQPdC2ZyMbjRC9sDr9xo34g="><meta name="robots" content="noimageindex"><link rel="stylesheet" type="text/css" href="../css/custom.css"><link rel="stylesheet" type="text/css" href="../css/print.css" media="print">
-    <script type="text/javascript" src="../js/popup.js"></script>
+</title><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="verify-v1" content="/yoIABeLHxlO0W8FWqcbnQPdC2ZyMbjRC9sDr9xo34g="><meta name="robots" content="noimageindex"><link rel="stylesheet" type="text/css" href="../css/custom.css"><link rel="stylesheet" type="text/css" href="../css/print.css" media="print"><link href="../css/twitter-style.css" rel="stylesheet" type="text/css" media="screen"><link href="../css/Imagepreview.css" rel="stylesheet" type="text/css" media="screen">
+    <script id="facebook-jssdk" src="//connect.facebook.net/es_LA/all.js#xfbml=1&amp;appId=314629981909489"></script><script type="text/javascript" src="../js/popup.js"></script>
     <script type="text/javascript" src="../js/showhide.js?1.2"></script>
     <script type="text/javascript" src="../js/calendar.js"></script>
     <script type="text/javascript" src="../js/jquery-1.2.3.pack.js"></script>
     <script type="text/javascript" src="../js/test.js"></script>     
-   
+    
+    <script src="../js/preview.js" type="text/javascript"></script>   
+
+<!-- tweeter -->
+<script src="http://platform.twitter.com/anywhere.js?id=WvNqm6moOBWCPMjsSzzww&amp;v=1" type="text/javascript"></script> 
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="../js/twitter-widget.js"></script>
+<!--script type="text/javascript" src="http://benalman.com/code/projects/jquery-dotimeout/jquery.ba-dotimeout.js"></script-->
+
+ <!--end - tweeter -->
+
+    
+    <script type="text/javascript">
+
+        
+
+        
+        function wait(msecs) {
+            var start = new Date().getTime();
+            var cur = start
+            while (cur - start < msecs) {
+                cur = new Date().getTime();
+            }
+        }
+
+
+
+        $(function() {
+            try {
+
+
+                var counter = 0;
+                var i = 0;
+
+                var tweet = document.getElementById("tweet2");
+
+                if (tweet != null) {
+                    var divs = tweet.getElementsByTagName("div");
+                    var div1;
+                    var div2;
+                    var targetHeight;
+
+
+                    setInterval(function() {
+                        showDiv(); // show next div
+                    }, 1 * 500); // do this every 10 seconds
+
+
+
+                    function showDiv() {
+
+                        var tweetOriginal = null;
+                        var previous;
+
+
+                        var t = false;
+
+
+                        if (counter <= 0 && divs.length > 0) {
+                            counter = divs.length - 1;
+
+
+                            //if (t) alert(1);
+                        }
+
+
+
+                        i++;
+                        if (i <= 9 && div1 != null && div2 != null) {
+
+
+
+                            if (i <= 1) {
+
+                                div2.style.height = targetHeight + 'px';
+
+
+
+                            }
+                            else if (i == 2) {
+                                /*if (document.getElementById("tweet") != null) {
+                                document.getElementById("tweet").firstChild.style.opacity = 1;
+                                div1.style.opacity = 1;
+                                }*/
+
+                                div1.style.opacity = 1;
+                                div2.style.opacity = 1;
+
+                                /*
+                                div2.style.visibility = 'visible';
+                                div2.style.display = 'block';
+                                div2.style.opacity = 1;
+
+                            //div1.style.visibility = 'visible';
+                                //div1.style.display = 'block';
+                                div1.style.opacity = 1;
+                                */
+
+                            }
+
+
+                        }
+                        else {
+                            i = 0;
+
+                            if (divs.length > 0 && counter >= 0) {
+
+                                tweetOriginal = document.getElementById("tweet");
+                                previous = div2;
+
+                                if (previous != null) {
+
+                                    /*
+
+                                var newdiv = document.createElement('div');
+                                    newdiv.innerHTML = "<p>&nbsp </p>";
+                                    tweetOriginal.insertBefore(newdiv, previous);
+                                    wait(100);
+                                    var newdiv1 = document.createElement('div');
+                                    newdiv1.innerHTML = "<p>&nbsp </p>";
+                                    tweetOriginal.insertBefore(newdiv1, previous);
+                                    wait(100);
+                                    var newdiv2 = document.createElement('div');
+                                    newdiv2.innerHTML = "<p>&nbsp </p>";
+                                    tweetOriginal.insertBefore(newdiv2, previous);
+
+
+                                    tweetOriginal.removeChild(tweetOriginal.firstChild);
+                                    tweetOriginal.removeChild(tweetOriginal.firstChild);
+                                    tweetOriginal.removeChild(tweetOriginal.firstChild);*/
+                                }
+
+                                div1 = divs[counter];
+                                counter--;
+                                div1.style.display = 'block';
+                                div1.style.opacity = 0;
+
+                                div2 = divs[counter];
+                                counter--;
+                                div2.style.display = 'block';
+                                div2.style.opacity = 0;
+                                targetHeight = div2.offsetHeight;
+                                div2.style.height = '0px';
+
+                                /*wait(100);
+                                div2.style.height = '80px';
+                                wait(100);
+                                div2.style.height = '120px';
+                                wait(100);
+                                div2.style.height = '140px';
+                                */
+                                //div2.style.height = 0;
+
+                                //previous.style.margin = "300px 0px 0px 0px;";
+                                //alert(previous.style.margin);
+
+
+
+                                if (previous != null) {
+
+                                    //previous.style.margin = "50px 0px 0px 0px";                                    
+                                    //previous.style.opacity = 0;
+
+                                    //tweetOriginal.firstChild.style.opacity = 1;
+                                    //wait(200);
+
+                                    //alert('a');
+
+                                    //var newdiv = document.createElement('div');
+                                    //newdiv.innerHTML = "<p></p>";
+                                    //tweetOriginal.insertBefore(newdiv, previous);
+
+                                    //previous.display = 'none';
+                                    tweetOriginal.insertBefore(div2, previous);
+                                    //previous.display = 'block';
+                                    //alert('b');
+                                }
+                                else {
+                                    tweetOriginal.appendChild(div2);
+                                }
+                            }
+
+                        }
+
+                    }; // function to loop through divs and show correct div
+
+
+                    showDiv();
+                }
+
+            } catch (e) {
+                alert(e); //works 
+            }
+        });
+        </script>
+
+
+<script type="text/javascript" charset="utf-8">
+    // starting the script on page load
+    $(document).ready(function() {
+        
+        imagePreview();
+        
+
+
+    });
+			</script>
+			
+			
+
     
 </head>
 <body>
+
+<!-- facebook code -->
+<div id="fb-root"></div>
+<script>    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=314629981909489";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
+    <!--end facebook code -->
+
+    
 <a name="top"></a>
 <form name="aspnetForm" method="post" action="help.aspx?t=19" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMjI1NTA1MTUPZBYCZg9kFgICAw9kFgoCAg9kFgJmDxYCHgdWaXNpYmxlZ2QCAw9kFgJmD2QWBGYPEGQPFgxmAgECAgIDAgQCBQIGAgcCCAIJAgoCCxYMEAUHSmFudWFyeQUBMWcQBQhGZWJydWFyeQUBMmcQBQVNYXJjaAUBM2cQBQVBcHJpbAUBNGcQBQNNYXkFATVnEAUESnVuZQUBNmcQBQRKdWx5BQE3ZxAFBkF1Z3VzdAUBOGcQBQlTZXB0ZW1iZXIFATlnEAUHT2N0b2JlcgUCMTBnEAUITm92ZW1iZXIFAjExZxAFCERlY2VtYmVyBQIxMmdkZAIBDxBkDxYmZgIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhECEgITAhQCFQIWAhcCGAIZAhoCGwIcAh0CHgIfAiACIQIiAiMCJAIlFiYQBQQxOTc1BQQxOTc1ZxAFBDE5NzYFBDE5NzZnEAUEMTk3NwUEMTk3N2cQBQQxOTc4BQQxOTc4ZxAFBDE5NzkFBDE5NzlnEAUEMTk4MAUEMTk4MGcQBQQxOTgxBQQxOTgxZxAFBDE5ODIFBDE5ODJnEAUEMTk4MwUEMTk4M2cQBQQxOTg0BQQxOTg0ZxAFBDE5ODUFBDE5ODVnEAUEMTk4NgUEMTk4NmcQBQQxOTg3BQQxOTg3ZxAFBDE5ODgFBDE5ODhnEAUEMTk4OQUEMTk4OWcQBQQxOTkwBQQxOTkwZxAFBDE5OTEFBDE5OTFnEAUEMTk5MgUEMTk5MmcQBQQxOTkzBQQxOTkzZxAFBDE5OTQFBDE5OTRnEAUEMTk5NQUEMTk5NWcQBQQxOTk2BQQxOTk2ZxAFBDE5OTcFBDE5OTdnEAUEMTk5OAUEMTk5OGcQBQQxOTk5BQQxOTk5ZxAFBDIwMDAFBDIwMDBnEAUEMjAwMQUEMjAwMWcQBQQyMDAyBQQyMDAyZxAFBDIwMDMFBDIwMDNnEAUEMjAwNAUEMjAwNGcQBQQyMDA1BQQyMDA1ZxAFBDIwMDYFBDIwMDZnEAUEMjAwNwUEMjAwN2cQBQQyMDA4BQQyMDA4ZxAFBDIwMDkFBDIwMDlnEAUEMjAxMAUEMjAxMGcQBQQyMDExBQQyMDExZxAFBDIwMTIFBDIwMTJnZGQCBQ9kFgICAQ8WAh4EVGV4dAUOUHJpdmFjeSBQb2xpY3lkAgYPDxYCHwBoZBYOZg8WAh8AaBYEAgEPEGQQFQAVABQrAwAUKwEAZAIDDxBkZBQrAQBkAgEPZBYEAgEPEGRkFCsBAGQCAw8QZGQUKwEAZAICD2QWBgIBDxBkZBQrAQBkAgMPEGRkFCsBAGQCBQ8QZGQUKwEAZAIDDxBkDxYHZgIBAgICAwIEAgUCBhYHEAUCMTYFAjE2ZxAFAjI0BQIyNGcQBQIzMgUCMzJnEAUCNDAFAjQwZxAFAjQ4BQI0OGcQBQI1NgUCNTZnEAUCNjQFAjY0ZxQrAQECBmQCBQ8PFgYeCENzc0NsYXNzBQhpbmFjdGl2ZR4HRW5hYmxlZGgeBF8hU0ICAmRkAgYPEGRkFgBkAgcPDxYGHwIFCGluYWN0aXZlHwNoHwQCAmRkAggPDxYCHwBoZBYOZg8WAh8AaBYEAgEPEGQQFQAVABQrAwAUKwEAZAIDDxBkZBQrAQBkAgEPZBYEAgEPEGRkFCsBAGQCAw8QZGQUKwEAZAICD2QWBgIBDxBkZBQrAQBkAgMPEGRkFCsBAGQCBQ8QZGQUKwEAZAIDDxBkDxYHZgIBAgICAwIEAgUCBhYHEAUCMTYFAjE2ZxAFAjI0BQIyNGcQBQIzMgUCMzJnEAUCNDAFAjQwZxAFAjQ4BQI0OGcQBQI1NgUCNTZnEAUCNjQFAjY0ZxQrAQECBmQCBQ8PFgYfAgUIaW5hY3RpdmUfA2gfBAICZGQCBg8QZGQWAGQCBw8PFgYfAgUIaW5hY3RpdmUfA2gfBAICZGRk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 
 <input type="submit" name="ctl00$defBtn" value="" onclick="Search(); return false;" id="ctl00_defBtn" style="display:none;">
 <input type="submit" name="ctl00$defBtn2" value="" onclick="JS_Login(); return false;" id="ctl00_defBtn2" style="display:none;">
@@ -24,7 +248,7 @@
 
 <div class="promo">
 <div id="ctl00_siteHeader_bannerAd" class="content">	
-	<a href="http://pmc-mag.com/" target="_blank"><img src="../pmc_images/imguploads/adprefs/634547386621322500.jpg" border="0"></a>	
+	<a href="http://www.fiskerli.com/" target="_blank"><img src="../pmc_images/imguploads/adprefs/634647341348618750.jpg" border="0"></a>	
 </div>
 
 </div>
@@ -33,7 +257,7 @@
 
 <div id="sitetop">
 <div class="content">
-	<div id="logo" class="ct"><a href="../site/index.aspx"><img src="../pmc_images/imguploads/adprefs/634454591843025000.gif" alt="Patrick McMullan Company" width="968" height="119" border="0"></a></div>
+	<div id="logo" class="ct"><a href="../site/index.aspx"><img src="../pmc_images/imguploads/adprefs/634695610815512500.gif" alt="Patrick McMullan Company" width="968" height="119" border="0"></a></div>
 	<div class="lefthalf">
 		<div id="userlinks">							    
 		    		        
@@ -44,7 +268,7 @@
 	</div>
 	<div class="righthalf">
 		<div class="right">
-			<div id="toplinks"><a href="../blogs/index.aspx?blogId=28">PMc Blog</a> • <a href="../blogs/index.aspx?blogId=29">"subtitles" by Anita Sarko</a></div>
+			<!--div id="toplinks"><a  href="../blogs/index.aspx?blogId=28">PMc Blog</a> &#149; <a  href="../blogs/index.aspx?blogId=29">"subtitles"</a></div-->
 			
 		</div>
 	</div>
@@ -57,14 +281,14 @@
 	<ul class="tablist">
 		<li><a href="http://www.patrickmcmullan.com/site/index.aspx">Home</a></li>
 		<li><a href="http://www.patrickmcmullan.com/site/archive.aspx">Event Archive</a></li>
-		<li><a href="http://www.patrickmcmullan.com/products/index.aspx">Products</a></li>
+		<li><a href="http://www.patrickmcmullan.com/products/index.aspx">Store</a></li>
 		<li><a href="http://www.patrickmcmullan.com/studio/index.aspx">Studio</a></li>
-		<li><a href="http://www.patrickmcmullan.com/fineart/index.aspx">Fine Art</a></li>
+		<li><a href="http://www.patrickmcmullan.com/fineart/index.aspx">Gallery</a></li>
 		<li><a href="http://www.patrickmcmullan.com/about/index.aspx">About</a></li>
 		<li><a href="http://www.patrickmcmullan.com/press/index.aspx?press=1">Press</a></li>
-		<li><a href="http://www.patrickmcmullan.com/blogs/index.aspx">Blogs</a></li>
+		<li><a href="http://www.patrickmcmullan.com/blogs/index.aspx?blogId=28">Blogs</a></li>
 		<li><a id="whoAmI" href="http://www.patrickmcmullan.com/whoami/index.aspx">(Who Am I?)</a></li>
-		<li><a href="http://www.patrickmcmullan.com/media.aspx">Media</a></li>
+		<li><a href="http://www.patrickmcmullan.com/media.aspx">Video</a></li>
 	</ul>
 </div>
 <div class="right">
@@ -87,20 +311,43 @@
 		<tbody><tr>
 		
 
+
+
 <script type="text/javascript">
-function Search(){
-    if(window.location.href.indexOf('/users/login.aspx') != -1) return false;
-    var s = $2('searchTxt').value;
-    var searchBy = $2('searchBy').value;
-    if(s == null || s.length == 0 || s == 'Enter Name'){ alert('Enter a search term.'); return false; }
-    if(s.trim().length < 2){ alert('Enter at least 2 characters.'); return false; }
-    var url = '../site/search.aspx?t=' + searchBy + '&s=' + escape(s);    
-    window.location = url;
-    return true;
-}
+
+
+    function Search() {
+        if (window.location.href.indexOf('/users/login.aspx') != -1) return false;
+        var s = $2('searchTxt').value;
+        var searchBy = $2('searchBy').value;
+        if (s == null || s.length == 0 || s == 'Enter Name') { alert('Enter a search term.'); return false; }
+        if (s.trim().length < 2) { alert('Enter at least 2 characters.'); return false; }
+        var url = '../site/search.aspx?t=' + searchBy + '&s=' + escape(s);
+        window.location = url;
+        return true;
+    }
 </script>
 
     
+    
+<script type="text/javascript">
+    twttr.anywhere(function(T) {
+        T.bind("authComplete", function(e, user) {
+            // triggered when auth completed successfully
+        });
+
+        T.bind("signOut", function(e) {
+            // triggered when user logs out
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    twttr.anywhere(function(T) {
+        T("#tweet").hovercards({ expanded: true });
+    });
+</script>
+
     
 <td class="col">
 <div id="search">
@@ -133,8 +380,8 @@ function ChangeDate()
 	<option value="8">August</option>
 	<option value="9">September</option>
 	<option value="10">October</option>
-	<option value="11">November</option>
-	<option selected="selected" value="12">December</option>
+	<option selected="selected" value="11">November</option>
+	<option value="12">December</option>
 </select>
 	<select name="ctl00$leftCol$cal$ddlYear" id="ctl00_leftCol_cal_ddlYear" class="short" onchange="ChangeDate();">
 	<option value="1975">1975</option>
@@ -173,8 +420,9 @@ function ChangeDate()
 	<option value="2008">2008</option>
 	<option value="2009">2009</option>
 	<option value="2010">2010</option>
-	<option selected="selected" value="2011">2011</option>
-	<option value="2012">2012</option>
+	<option value="2011">2011</option>
+	<option selected="selected" value="2012">2012</option>
+	<option value="2013">2013</option>
 </select>
 </p>
 <div id="date">   
@@ -254,18 +502,13 @@ function ChangeDate()
 </div>     
 </div>
 <span id="ctl00_leftCol_featuredBooks">
-
 <div id="colfeature" align="center">
-    <div class="buttons"><a href="../whoami/index.aspx" title="Who Am I?"><img src="../images/btn_whoami.gif" alt="Who Am I?" class="btnWhoAmI"></a></div>    
-    <div class="adlabel" style="text-align:center;">Advertisement</div><div style="text-align:center;"><a href="http://www.patrickmcmullan.com/media.aspx"><img src="../pmc_images/imguploads/adprefs/634547390786658850.gif" border="0"></a></div><br><div style="text-align:center;"><a href="http://www.hamptonsrealestate.com/"><img src="../pmc_images/imguploads/adprefs/634557627875682600.gif" border="0"></a></div><br><div style="text-align:center;"><a href="http://fashionetc.com"><img src="../pmc_images/imguploads/adprefs/634326959180781350.gif" border="0"></a></div><br><div style="text-align:center;"><a href="http://www.alexandravonfurstenberg.com"><img src="../pmc_images/imguploads/adprefs/634267356089895100.jpg" border="0"></a></div><br><div style="text-align:center;"><a href="http://www.letwist.biz/"><img src="../pmc_images/imguploads/adprefs/634284774756295100.jpg" border="0"></a></div><br>
+    <!--div class="buttons"><a href="../whoami/index.aspx" title="Who Am I?"><img src="../images/btn_whoami.gif" alt="Who Am I?" class="btnWhoAmI" /></a></div-->    
+    <div class="adlabel" style="text-align:center;">Advertisement</div><div style="text-align:center;"><a href="http://www.pmc-mag.com"><img src="../pmc_images/imguploads/adprefs/634823951745832514.JPG" border="0"></a></div><br><div style="text-align:center;"><a href="http://www.bergdorfgoodman.com/store/user/sweepstakesRegEmail.jhtml"><img src="../pmc_images/imguploads/adprefs/634825353849581350.jpg" border="0"></a></div><br><div style="text-align:center;"><a href="http://fashionetc.com"><img src="../pmc_images/imguploads/adprefs/634326959180781350.gif" border="0"></a></div><br><div style="text-align:center;"><a href="http://www.alexandravonfurstenberg.com"><img src="../pmc_images/imguploads/adprefs/634267356089895100.jpg" border="0"></a></div><br><div style="text-align:center;"><a href="http://www.letwist.biz"><img src="../pmc_images/imguploads/adprefs/634888712120012600.jpg" border="0"></a></div><br>
     
-
 <p class="bold">Featured Products</p>
 
 <div class="ads" align="center">
-
-    
-    
             
 
 <script type="text/javascript" src="../js/jquery-1.2.3.pack.js"></script>
@@ -302,7 +545,11 @@ function ChangeDate()
     
         
 </div>
+
 </span>
+
+
+
 
 
 
@@ -447,7 +694,7 @@ $(document).ready(function(){
 <a href="../about/contact.aspx">Contact Us</a> | <a href="http://www.datagram.com" target="_blank">Hosted by Datagram</a>
 </div>
 <p></p>
-<p></p><p>Copyright © 2011 Patrick McMullan Company, Inc. All Rights Reserved.</p>
+<p></p><p>Copyright © 2012 Patrick McMullan Company, Inc. All Rights Reserved.</p>
 <p></p>
 </div>
 </div>
