@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606131146id_/http%3A//www.comicbookresources.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120075258id_/http%3A//www.comicbookresources.com/misc/privacy) for the most accurate reproduction.*
 
 # Comic Book Resources > Privacy Policy
 
@@ -63,7 +63,7 @@ This site gives users the following options for removing their information from 
   1. You can send email to [support@comicbookresources.com](mailto:support@comicbookresources.com)
   2. You can register by visiting the following URL: <http://forums.comicbookresources.com/register.php>
   3. You can send mail to the following postal address:  10153 1/2 Riverside Dr., #604, Toluca Lake, CA 91602 
-  4. You can call the following telephone number: 818-985-6688 
+  4. You can call the following telephone number: 323-306-0636 
 
 
 
