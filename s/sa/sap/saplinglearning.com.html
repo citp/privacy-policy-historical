@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the saplinglearning.com privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513032336id_/http%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saplinglearning.com privacy policy that was archived on 2012-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120115302id_/https%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Sapling Learning</title>
-<link rel="shortcut icon" href="http://www.saplinglearning.com/image/ico_sapling.png">
-<link rel="apple-touch-icon" href="http://www.saplinglearning.com/image/ico_sapling.png">
+<link rel="shortcut icon" href="https://www.saplinglearning.com/image/ico_sapling.png">
+<link rel="apple-touch-icon" href="https://www.saplinglearning.com/image/ico_sapling.png">
 <meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
-	var pathURL = "http://www.saplinglearning.com";
+	var pathURL = "https://www.saplinglearning.com";
 </script><link href="css/saplinglearning.css" rel="stylesheet" type="text/css">
 <link href="css/howIt_Works.css" rel="stylesheet" type="text/css">
 <link href="css/ezmark.css" rel="stylesheet" type="text/css">
@@ -22,14 +22,8 @@
 <script type="text/javascript" src="js/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
 <script type="text/javascript" src="js/ROCK_400-ROCK_700-ROCK_italic_700.font.js"></script>
 <script src="js/sapling.js" type="text/javascript"></script>
-<script src="http://www.google.com/jsapi"></script><script>google.load("mootools", "1.2.1");</script>	
-<script src="js/MenuMatic_0.68.3.js" type="text/javascript"></script>
-<script type="text/javascript">
-		window.addEvent('domready', function() {			
-			var myMenu = new MenuMatic();
-		});		
-	</script>
-<script type="text/javascript" src="js/demo.js"></script>
+
+<script type="text/javascript" src="/js/demo.js"></script>
 <script src="js/shadowbox.js" type="text/javascript"></script>
 <script type="text/javascript">
 Shadowbox.init({
@@ -64,14 +58,16 @@ Shadowbox.init({
 	<div id="top">
     <h1><a href="http://www.saplinglearning.com" title="Sapling Learning"></a></h1>
     <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" href="http://www.saplinglearning.com/css/style_ie7.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.saplinglearning.com/css/style_ie7.css" />
 <![endif]-->
+<script src="https://www.saplinglearning.com/js/jquery-1.4.4.min.js"></script>
 <div id="fb-root"></div>
 <script src="https://connect.facebook.net/en_US/all.js"></script>
-<script src="http://www.saplinglearning.com/ibiscms/lib/userlog/AC_OETags.js" language="javascript"></script>
+<script src="https://www.saplinglearning.com/ibiscms/lib/userlog/AC_OETags.js" language="javascript"></script>
 <script>
-    var fb_server_path = "http://www.saplinglearning.com";
+    var fb_server_path = "https://www.saplinglearning.com";
     var help_server_path = "";
+    var disableEnter = false;
 
     function hasAccountLinked(FB_userid, linked){
 
@@ -85,13 +81,13 @@ Shadowbox.init({
             type: 'post',
             success: function(data) {
                 if(data == 'true'){
-                    jQuery.getJSON("http://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
+                    jQuery.getJSON("https://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
                         replaceLoginFacebook(FB_userid, json);
                     });
                 }
                 else {
                     if(linked == 1){
-                        jQuery.getJSON("http://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
+                        jQuery.getJSON("https://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
                             location.replace(fb_server_path+'/ibiscms/auth/facebook/link_account.php');
                         });
                     }
@@ -106,13 +102,13 @@ Shadowbox.init({
     function replaceLoginFacebook(FB_userid, json){
         if(FB_userid != 0){
             var htmlShow = '<div id="password">';
-            htmlShow += '<div style="float:left; border:2px solid #E0E0E0; width:50px; margin-right:10px;"><img src="http://graph.facebook.com/'+FB_userid+'/picture" /></div>';
+            htmlShow += '<div style="float:left; border:2px solid #E0E0E0; width:50px; margin-right:10px;"><img src="https://graph.facebook.com/'+FB_userid+'/picture" /></div>';
             htmlShow += '<div style="float:left; width:230px;">';
             htmlShow += '<p style="padding-top:10px;"><strong>Facebook Account Linked</strong></p>';
             htmlShow += '<p style="padding-top:1px;">Name: <a href="'+json.link+'" target="_blank">'+json.name+'</a></p>';
             htmlShow += '</div>';
             htmlShow += '<div style="float:left; width:35px; padding-top:5px;"><a class="go-fb" href="javascript:doLoginWithFacebook()"></a><a class="logout-fb" href="javascript:doLogout()"></a></div>';
-            htmlShow += '<div style="float:left;"class="div-help-border"><a class="help-fb" href="'+help_server_path+'/" title="help">help</a></div>';
+            htmlShow += '<div style="float:left;"class="div-help-border"><a class="help-fb" href="/help" title="help">help</a></div>';
             htmlShow += '</div>';
             jQuery('#us').hide().html(htmlShow).fadeIn('slow');
         }
@@ -138,9 +134,9 @@ Shadowbox.init({
         var htmlShow = '<form id="login" name="login" method="post" action="'+fb_server_path+'/ibiscms/login/index.php">';
         htmlShow += '<ul>';
         htmlShow += '<li class="facebook_bt"><fb:login-button scope="email,user_location,user_hometown" onlogin="replaceLoginFacebook(\'\', \'\')"></fb:login-button></li>';
-        htmlShow += '<li><div><label>username</label><input name="username" id="username"type="text" onKeypress="if (event.keyCode==13)javascript:document.login.submit()" tabindex=1 /><a href="'+fb_server_path+'/ibiscms/login/signup.php" title="create account" tabindex=4>create account</a></div></li>';
-        htmlShow += '<li class="borderright"><div><label>password</label> <input class="password" name="password" type="password" onKeypress="if (event.keyCode==13)javascript:document.login.submit()" tabindex=2 /> <a class="go" href="javascript:document.login.submit()" tabindex=3></a><a href="'+fb_server_path+'/ibiscms/login/forgot_password.php" title="forgot it?" tabindex=5>forgot password?</a></div></li>';
-        htmlShow += '<li><a class="help" href="'+help_server_path+'/"title="help">help</a></li>';
+        htmlShow += '<li><div><label>username</label><input name="username" id="loginUser" type="text" onKeypress="doSubmitLoginReturn()" tabindex=1 /></div></li>';
+        htmlShow += '<li class="borderright"><div><label>password</label> <input id="loginPass" name="password" class="password" type="password" onKeypress="doSubmitLoginReturn()" tabindex=2 /> <a class="go" href="javascript:document.login.submit()" tabindex=3></a><a href="'+fb_server_path+'/ibiscms/login/forgot_password.php" title="forgot it?" tabindex=5>forgot password?</a></div></li>';
+        htmlShow += '<li><a class="help" href="/help"title="help">help</a></li>';
         htmlShow += '</ul>';
         htmlShow += '</form>';
         jQuery('#password').hide().html(htmlShow).fadeIn('slow');
@@ -156,21 +152,37 @@ Shadowbox.init({
             });
         }
     }
+    
+    function doSubmitLogin(){
+        
+        if(jQuery('#loginPass').val() == ''){
+            jQuery('#loginPass').focus();
+            return false;
+        }
+        if(jQuery('#loginUser').val() == ''){
+            jQuery('#loginUser').focus();
+            return false;
+        }
+        if(disableEnter == false){
+            document.login.submit();
+            disableEnter = true;
+        }
+    }
 </script>
 <ul id="login-tabs" class="tabs-login">
-    <li class="active"><a href="#us"><img src="http://www.saplinglearning.com/image/login_us_icon.png" width="16" border="0" align="absmiddle">&nbsp; US Higher Ed</a></li>
-    <li><a href="javascript:showBox('1', 'http://www.saplinglearning.ca')"><img src="http://www.saplinglearning.com/image/login_ca_icon.png" width="18" border="0" align="absmiddle">&nbsp; Canada</a></li>
-    <li><a href="javascript:showBox('2', 'http://hs.saplinglearning.com')"><img src="http://www.saplinglearning.com/image/login_hs_icon.png" width="18" border="0" align="absmiddle">&nbsp; High School</a></li>
+    <li class="active"><a href="#us"><img src="https://www.saplinglearning.com/image/login_us_icon.png" width="16" border="0" align="absmiddle">&nbsp; US Higher Ed</a></li>
+    <li><a href="javascript:showBox('1', 'http://www.saplinglearning.ca')"><img src="https://www.saplinglearning.com/image/login_ca_icon.png" width="18" border="0" align="absmiddle">&nbsp; Canada</a></li>
+    <li><a href="javascript:showBox('2', 'http://hs.saplinglearning.com')"><img src="https://www.saplinglearning.com/image/login_hs_icon.png" width="18" border="0" align="absmiddle">&nbsp; High School</a></li>
 </ul>
 <div class="tab_container-login">
     <div id="us" class="tab_content-login" style="display: block;">
         <div id="password">
-            <form id="login" name="login" method="post" action="http://www.saplinglearning.com/ibiscms/login/index.php">
+            <form id="login" name="login" method="post" action="https://www.saplinglearning.com/ibiscms/login/index.php">
                 <ul>
                     <li class="facebook_bt"><fb:login-button scope="email,user_location,user_hometown" onlogin="replaceLoginFacebook('', '')" width="100"></fb:login-button></li>
-                    <li><div><label>username</label><input name="username" id="username" type="text" onkeypress="if (event.keyCode==13)javascript:document.login.submit()" tabindex="1"><a href="http://www.saplinglearning.com/ibiscms/login/signup.php" title="create account" tabindex="4">create account</a></div></li>
-                    <li class="borderright"><div><label>password</label> <input class="password" name="password" type="password" onkeypress="if (event.keyCode==13)javascript:document.login.submit()" tabindex="2"> <a class="go" href="javascript:document.login.submit()" tabindex="3"></a><a href="http://www.saplinglearning.com/ibiscms/login/forgot_password.php" title="forgot it?" tabindex="5">forgot password?</a></div></li>
-                    <li><a class="help" href="/" title="help">help</a></li>
+                    <li><div><label>username</label><input id="loginUser" name="username" type="text" tabindex="1"></div></li>
+                    <li class="borderright"><div><label>password</label> <input id="loginPass" name="password" class="password" type="password" tabindex="2"> <a class="go" href="javascript:doSubmitLogin()" tabindex="3"></a><a href="https://www.saplinglearning.com/ibiscms/login/forgot_password.php" title="forgot it?" tabindex="5">forgot password?</a></div></li>
+                    <li><a class="help" href="/help" title="help">help</a></li>
                 </ul>
                 <input type="hidden" name="flashversion" id="flashversion">
             </form>
@@ -184,6 +196,12 @@ Shadowbox.init({
     </div>
 </div>
 <script>
+    $("#loginUser, #loginPass").keypress(function(evt) {
+        if (evt.keyCode == 13){  
+            doSubmitLogin();
+        }
+    });
+    
     function showBox(id, url){
         jQuery(".tab_content-login").hide(); 
         jQuery("ul.tabs-login li:eq("+id+")").addClass("active").show();
@@ -217,20 +235,18 @@ Shadowbox.init({
         <div class="title-box-form">
         	<div>
             	<ul id="nav">
-    <li><a href="http://www.saplinglearning.com/students/">students</a></li>
-    <li><a href="http://www.saplinglearning.com/instructors/">instructors</a></li>
-    <li><a href="http://www.saplinglearning.com/courses/">try it</a></li>
-    <li><a href="#">courses served</a>
+    <li><a href="https://www.saplinglearning.com/">home</a>
+    </li><li><a href="#">courses served</a>
         <ul>
-            <li><a href="http://www.saplinglearning.com/courses/analytical_chemistry/">Analytical Chemistry</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/general_chemistry/">General Chemistry</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/gob/">General, Organic, and Biochemistry (GOB)</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/biochemistry/">Biochemistry</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/chemical_engineering/">Intro to Chemical Engineering</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/intro_chemistry/">Introduction to Chemistry</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/organic_chemistry/">Organic Chemistry</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/physics/">Physics</a></li>
-            <li><a href="http://www.saplinglearning.com/courses/economics/">Principles of Economics</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/analytical_chemistry/">Analytical Chemistry</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/general_chemistry/">General Chemistry</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/gob/">General, Organic, and Biochemistry (GOB)</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/biochemistry/">Biochemistry</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/chemical_engineering/">Intro to Chemical Engineering</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/intro_chemistry/">Introduction to Chemistry</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/organic_chemistry/">Organic Chemistry</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/physics/">Physics</a></li>
+            <li><a href="https://www.saplinglearning.com/courses/economics/">Principles of Economics</a></li>
         </ul>
     </li>
 </ul>
@@ -294,20 +310,21 @@ Shadowbox.init({
           <h1>Contact us:</h1>
           <p>We appreciate your trust that we will only use your personal information in a responsible manner. If you have any questions about this Policy or are concerned about how information collected from you is being used, please contact us at the postal or email addresses below.</p>
           <p>Postal Address: 2815 Exposition Boulevard, Austin, Texas 78703, U.S.A.</p>
-          <p>Email: support@saplinglearning.com</p>
+          <p>Email: <a href="mailto:support@saplinglearning.com">support@saplinglearning.com</a></p>
       </div>
 
           
 	<!-- # End content -->
     <div id="footer">
 	<ul>
-    	<li><a href="http://www.saplinglearning.com/partners/">partners</a></li>
-    	<li><a href="http://www.saplinglearning.com/about_us/#careers">careers</a></li>
-        <li><a href="http://www.saplinglearning.com/about_us/">about us</a></li>
-        <li><a href="http://www.saplinglearning.com/PrivacyPolicy.php">privacy policy</a></li>
-        <li><a href="http://www.saplinglearning.com/ServiceAgreement.php">terms &amp; conditions</a></li>
-        <li><a href="http://www.saplinglearning.com/contact">contact us</a></li>
-        <li style="background: url(http://www.saplinglearning.com/image/ico_highschool.jpg) no-repeat; padding-left:23px; margin-left:5px;" class="last"><a href="http://hs.saplinglearning.com" target="_blank">high school</a></li>
+    	<li><a href="https://www.saplinglearning.com/about_us/">about us</a></li>
+    	<li><a href="http://saplinglearning.catsone.com/careers/" target="_blank">careers</a></li>
+    	<li><a href="https://www.saplinglearning.com/partners/">partners</a></li>
+        <li><a href="https://www.saplinglearning.com/PrivacyPolicy.php">privacy policy</a></li>
+        <li><a href="https://www.saplinglearning.com/ServiceAgreement.php">terms &amp; conditions</a></li>
+        <li><a href="https://www.saplinglearning.com/contact">contact us</a></li>
+        <li><a href="http://blog.saplinglearning.com/" target="_blank">blog</a></li>
+        <li class="last"><a href="/help">help</a></li>
     </ul>
 </div>
 <p id="copyright">Copyright © 2011 Sapling Learning, Inc.</p>    </div>
@@ -315,4 +332,4 @@ Shadowbox.init({
 </div>
 
 
-<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
+</body></html>
