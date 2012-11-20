@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestsportsfans.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520223644id_/http%3A//www.midwestsportsfans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestsportsfans.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120234757id_/http%3A//www.midwestsportsfans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,8 +66,6 @@ This Privacy Policy is effective as of 12/20/10 and last updated 12/20/10.
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact jerod@midwestsportsfans.com, or by mail to Midwest Sports Fans, 13601 Preston Road – Carillon Towers 250E, Dallas, TX, 75240.
-
-* * *
 
 * * *
 
