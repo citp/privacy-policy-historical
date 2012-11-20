@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629214847id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120015336id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This post may contain affiliate links. Read my disclosure policy [here](http://www.pennypinchinmom.com/disclosure-policy/).
 
 ## Privacy Policy for PennyPinchinMom.com
 
@@ -24,5 +22,3 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-Make sure you sign up for our [daily email alerts](http://feedburner.google.com/fb/a/mailverify?uri=pennypinchinmom/UGQP&loc=en_US), deals via [RSS reader](http://feeds.feedburner.com/pennypinchinmom/UGQP) or even by following us on [Facebook](http://www.facebook.com/PennyPinchinMom) and never miss a deal again!
