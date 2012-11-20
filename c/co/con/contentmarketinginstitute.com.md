@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the contentmarketinginstitute.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522040256id_/http%3A//www.contentmarketinginstitute.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentmarketinginstitute.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120150716id_/http%3A//www.contentmarketinginstitute.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Content Marketing Institute
-
-### PRIVACY POLICY
 
 The Content Marketing Institute (CMI) (a division of Junta42 and Z Squared Media, LLC) collects registration and other information (including e-mail addresses) on many of its web sites. This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from CMI and appropriate third parties.
 
