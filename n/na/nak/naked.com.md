@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naked.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520195503id_/http%3A//www.naked.com/support/privacy.htm%3Fck%3Dsc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naked.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120094206id_/http%3A//naked.com/support/privacy.htm%3Fck%3Dsc) for the most accurate reproduction.*
 
 # Naked Live Girls on home web cams. The best live cam site for amateur girls and housewives
 
