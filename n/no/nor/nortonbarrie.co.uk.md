@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nortonbarrie.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509015517id_/http%3A//www.nortonbarrie.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nortonbarrie.co.uk privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120184728id_/http%3A//www.nortonbarrie.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mens Designer Clothes | Oliver Sweeney, Hugo Boss, Cryuff, Antony Morato
 
