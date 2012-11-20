@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524121033id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120225534id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
 
 # Recharge Free Mobile & Send Free SMS to India Mobile
 
