@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523041811id_/http%3A//www.blendswap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120134727id_/http%3A//www.blendswap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blend Swap
 
-This Privacy Policy governs the manner in which Blendswap collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.blendswap.com](http://www.generateprivacypolicy.com/account/policies/edit/www.blendswap.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blendswap.
+This Privacy Policy governs the manner in which Blend Swap, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.blendswap.com](http://www.generateprivacypolicy.com/account/policies/edit/www.blendswap.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blend Swap, LLC.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Blendswap collects and uses Users personal information for the following purposes:
+Blend Swap, LLC collects and uses Users personal information for the following purposes:
 
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -57,7 +57,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-Blendswap has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Blend Swap, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
