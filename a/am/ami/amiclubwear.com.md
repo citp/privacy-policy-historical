@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the amiclubwear.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616105330id_/http%3A//www.amiclubwear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiclubwear.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120085656id_/http%3A//www.amiclubwear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the Yahoo! Privacy Policy for more information about how Yahoo! uses this information.
-
-Your privacy is important to us.
+### Your privacy is important to us.
 
 To better protect your privacy, we provide this notice explaining our online information practices. To make this notice easy to find, we make it available on our homepage.
 
