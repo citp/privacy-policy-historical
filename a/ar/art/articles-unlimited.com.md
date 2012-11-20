@@ -1,37 +1,11 @@
-> *The following text is extracted and transformed from the articles-unlimited.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007124411id_/http%3A//www.articles-unlimited.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles-unlimited.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140528id_/http%3A//www.articles-unlimited.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Articles Unlimited
+# articles-unlimited.com
 
-**Your Privacy**  
-We respect your privacy. We only use the information we collect about you process article submission and to provide a personalized experience. 
+Privacy Policy
 
-**What information do we collect?**  
-When you register with us, you submit your name, email address and mailing address. This information allows us to maintain your account and to contact you if the need arises. All customer information stored on our servers about you can be accessed or modified by you at any time by logging into My Account with your email address and password.
+SmartName.com (or NameMedia) collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from SmartName.com and appropriate third parties.
 
- **Will you disclose this Information?**   
-No! Never! Your private information is too precious to share with anyone. Information gathered on this site is NEVER made available to third party vendors and NEVER sold to mailing list distributors.
+SmartName.com (or NameMedia) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with SmartName.com's standards for integrity and objectivity. Email originating at SmartName.com contains clear and efficient instructions for opting out of future emails of its kind.
 
- **Email Notifications**  
-When you register with us, you will receive an automated email containing your log-in details.  
-When you submit an article with us , you will receive an automated receipt by email. You will also receive automated emails when your article is approved or denied. We only email you in person if we need to clarify details about your order or if we are responding to your questions or queries.
-
- **Email Communications and Newsletters**  
-We send out occasional email newsletters to our customers. Our newsletters contain information about new products, special promotions, product updates, discounts and unique offers.  
-By maintaining an active membership at Articles-Unlimited.com, you agree to receive these occassional emails.
-
- **3rd Party Advertisers and Linked Sites**  
-Articles-Unlimited.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.Articles-Unlimited.com page, certain content that is actually created or hosted by a third party. Also, through Articles-Unlimited.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Articles-Unlimited.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
-
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Articles-Unlimited.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
-
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Articles-Unlimited.com and this policy. 
-
-**Cookie Usage, Security and Safe Shopping**  
-This website uses cookies to store information on your local computer. These cookies do NOT contain any of your private information; they serve only to recognize you as a registered member when you Log In or access your Account.  
-This prevents unauthorized users from accessing your private information.
-
- **Children**
-
-Articles-Unlimited.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Articles-Unlimited.com has any information from or about anyone under 13, please contact us at the address listed below. 
-
-We reserve the right to modify these policies for any reason at any time.
+SmartName.com (or NameMedia) or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. To learn more, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
