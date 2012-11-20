@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520033323id_/http%3A//aten-usa.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120094825id_/http%3A//aten-usa.com/about/privacy.php) for the most accurate reproduction.*
 
 # KVM Switch Solutions Provider, ATEN
 
