@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarshower.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613182014id_/http%3A//www.dollarshower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarshower.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120151119id_/http%3A//www.dollarshower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
