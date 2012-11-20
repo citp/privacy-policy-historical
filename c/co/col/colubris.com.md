@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the colubris.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629071102id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colubris.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120132738id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
 
-# Online privacy statement | HP
+# Online Privacy Statement | HP
 
 ## HP respects your privacy
 
-HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every HP Web page.
+HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every HP Web page
 
 HP was a founding sponsor of the Council of Better Business Bureau’s Online Privacy Program and is a BBB Accredited Business. HP privacy practices are consistent with the BBB Code of Business Practices and we proudly display the BBB seal.
 
@@ -68,6 +68,9 @@ HP collects, exports, and uses personal information to better serve you and pers
 
 HP may collect personal information from you to complete various transactions, such as:
 
+  
+
+
   * product or service orders, activations, and registrations
   * profile creation
   * information requests
@@ -79,6 +82,9 @@ HP may collect personal information from you to complete various transactions, s
 
 
 The types of personal information you provide to us may include:
+
+  
+
 
   * contact information, such as your name, address, telephone number, and email address
   * financial information, such as your credit card number
@@ -101,7 +107,7 @@ HP also collects information from commercially available sources that it deems c
 
 ## 3\. How we use your information
 
-The information HP collects to understand your needs and interests helps HP deliver a consistent and personalized experience. For example, HP may use your information to 
+The information HP collects to understand your needs and interests helps HP deliver a consistent and personalized experience. For example, HP may use your information to
 
   * assist you in completing a transaction or order
   * prevent and detect security threats, fraud or other malicious activity
@@ -149,10 +155,9 @@ HP does not knowingly collect information from children under the age of 13 and 
 
 ## 6\. Your choices and selecting your privacy preferences
 
-HP gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive HP general communications. We give you a choice regarding delivery of HP general communications by postal mail, email, telephone, and mobile device. 
+HP gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive HP general communications. We give you a choice regarding delivery of HP general communications by postal mail, email, telephone, and mobile device.
 
-You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature.   
-
+You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature.
 
 The communications that you receive from HP will be provided in accordance with this statement. Some communications may utilize automatic data collection tools. To learn more, read How HP uses automatic data collection tools.
 
@@ -162,6 +167,9 @@ The communications that you receive from HP will be provided in accordance with 
 ## Subscription communications
 
 Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods: 
+
+  
+
 
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email subscription communication.
   * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
@@ -182,6 +190,9 @@ HP general communications provide information about products, services, and/or s
 You will often be able to use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?hpappid=privacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
 
 If you are unable to use HP Passport, you may opt out of receiving these general communications by using one of the following methods: 
+
+  
+
 
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
   * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
@@ -266,12 +277,18 @@ The following sections provide additional information about commonly-used web te
 
 A “cookie” is a small data file transferred by a website to your computer’s hard drive. HP or its service providers send cookies when you surf our site or sites where our ads appear, make purchases, request or personalize information, or register yourself for certain services. Accepting the cookies used on our site, sites that are “powered by” another company on HP’s behalf, or sites where our ads appear may give us access to information about your browsing behavior, which we may use to personalize your experience. Cookies are typically classified as either “session” cookies or “persistent” cookies. 
 
+  
+
+
   * Session cookies do not stay on your computer after you close your browser.
   * Persistent cookies remain on your computer until you delete them or they expire. Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly.
 
 
 
 You can find information on popular browsers and how to adjust your cookie preferences at the following websites: 
+
+  
+
 
 From time to time, HP will use Flash local shared objects (LSOs) to store Flash content information and preferences. LSOs perform similar functions to HTML browser cookies and deposit small files on your computer, which are commonly called Flash cookies. Flash cookies are different from browser cookies and cookie management tools provided by your browser may not remove Flash cookies. To learn more about Flash Cookies and how to manage the related privacy and storage settings, please visit the [Adobe Systems website ](http://www.adobe.com/). 
 
@@ -295,10 +312,14 @@ Emails from HP, Internet keyboard keys preconfigured by HP, and promotional icon
 
 In emails, such web links may also allow HP to determine whether you have clicked a link in an email, and this information about the interaction may be connected to your personal identity. If you do not want HP to collect information about the links that you click, you can: 
 
+  
+
+
   * change your choice about how you receive communications from HP (i.e. choose a text-based version of the message where available) or choose not to click links in an email that HP sends
   * delete the promotional icons preinstalled by HP on your PC desktop or choose not to click on those
   * reconfigure the Internet keyboard keys on certain PC models to launch a destination URL of your choice by using the instructions provided with your PC
 
+  
 
 
 ## HP ads and offerings on third-party websites
@@ -314,8 +335,13 @@ You can learn more about network advertising and how to opt out by visiting [htt
 
 In addition to the collection and usage practices described in the HP Online Privacy Statement, this information applies to webOS and the software and services associated with webOS. HP collects and uses webOS-specific information in the following ways: 
 
+  
+
+
   * **Account Set-Up.** If you set up an account to receive services we provide through your webOS device, we will collect your name, phone number, email address and account settings to process your registration and provide those services. 
   * **On-Device Services.** If you use services we provide through your webOS device, we will collect information relevant to providing the services and as you designate. For example:
+  
+
     * **Device Diagnostics, Analytics and Updates.** In order to improve our product and service offerings, your webOS device includes remote diagnostics, analytics, and software update services. Your webOS device collects technical information related to your device (including serial number, unique device identifier, diagnostic information, usage and crash logs, application configurations, etc.) as required to help identify and troubleshoot issues, and to provide and improve service.
     * **Back-up and Restore.** When you use a back-up and restore service for data stored on your device, we will automatically and regularly collect information related to your contacts, calendar, tasks, email and messaging, including online account usernames; account credentials and settings; memos; text/MMS/IM messages and conversations; phone call logs; web bookmarks and cookies; installed App Catalog applications; and preferences, including Location Service preferences to help enable retrieval of that data when restoring or replacing your device. Additional details, including how to turn “off’ the feature can be found at Using Backup.
     * **Location-Based Services.** When you use location-based services, we will collect, transmit, maintain, process, and use your location and usage data (including both real time geographic information and information that can be used to approximate location) in order to provide location-based and related services, and to enhance your device experience.
