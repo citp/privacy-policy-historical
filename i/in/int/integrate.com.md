@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603101956id_/http%3A//integrate.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120023943id_/http%3A//integrate.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Integrate
 
@@ -86,10 +86,10 @@ In the unlikely event of a bankruptcy, assignment for the benefit of creditors, 
 **Contact Information**  
 You may contact Integrate Customer Service at:
 
-Integrate, LLC  
+Integrate, Inc.  
 Attention: Customer Service  
-588 Sutter St. #350  
-San Francisco, CA 94102  
+4900 N. Scottsdale Rd. #4000  
+Scottsdale, AZ 85251  
 Email: [info@integrate.com](mailto:info@integrate.com)  
 Direct Dial (International): (1)866-478-0326
 
