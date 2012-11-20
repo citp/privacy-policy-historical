@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623192856id_/http%3A//www.dinodirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120150657id_/http%3A//www.dinodirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DinoDirect.com
 
 Privacy Policy
 
 We are committed to making your experience at DinoDirect.com enjoyful and rewarding.  
-The following Privacy Policy applies only to DinoDirect.com and information of our customers collected online through DinoDirect.com. Your privacy is very important to us and definitely confidencial. 
+The following Privacy Policy applies only to DinoDirect.com and information of our customers collected online through DinoDirect.com. Your privacy is very important to us and definitely confidential. 
 
 DinoDirect respects and protects the privacy of its visitors. In this document, we explain how we use the information you supply us. If we update our Privacy Policy, all revisions will be posted on this page. We reserve the right to change the privacy policy any time. 
 
