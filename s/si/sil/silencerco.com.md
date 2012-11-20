@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silencerco.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529054749id_/http%3A//www.silencerco.com%3Fpage%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silencerco.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120083018id_/http%3A//www.silencerco.com%3Fpage%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # Gun Silencers And Gun Suppressors from Silencerco
 
