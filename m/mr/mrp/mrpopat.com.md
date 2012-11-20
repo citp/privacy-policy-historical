@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrpopat.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617143911id_/http%3A//mrpopat.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrpopat.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120105741id_/http%3A//mrpopat.com/privacypolicy.php) for the most accurate reproduction.*
 
-# MrPopat.com |Privacy Ploicy |Privacy Ploicy Document of MrPopat.com |Privacy Ploicy Doc of MrPopat.com |Read Privacy Ploicy Document of MrPopat.com |Safe Browsing |Safe Yourself|
+# Privacy Ploicy - MrPopat.com | Privacy Ploicy Document of MrPopat.com | Privacy Ploicy Doc of MrPopat.com | Read Privacy Ploicy Document of MrPopat.com | Safe Browsing | Safe Yourself
 
 mrpopat.com is a website owned by [ANJU INFOTECH.](http://anjuinfotech.com/) Wherever the term MrPopat.com is used it represents the company ANJU INFOTECH and the services provided through MrPopat.com. MrPopat takes your privacy seriously. Please read the following to learn more about our privacy policy. What This Privacy Policy Covers
 
