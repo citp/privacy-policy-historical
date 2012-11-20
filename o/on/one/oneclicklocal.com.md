@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneclicklocal.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427222615id_/http%3A//www.oneclicklocal.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneclicklocal.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120233758id_/http%3A//www.oneclicklocal.com/page/privacy) for the most accurate reproduction.*
 
 # OneClickLocal.com | Privacy Policy
 
