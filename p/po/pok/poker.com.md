@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poker.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508073041id_/http%3A//www.poker.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poker.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120130146id_/http%3A//www.poker.com/terms.htm) for the most accurate reproduction.*
 
 # Poker.com - Terms
 
