@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwatchonline.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121093229id_/http%3A//iwatchonline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwatchonline.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120094253id_/http%3A//www.iwatchonline.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Watch Movies and TV Show Online
+# Privacy policy
 
 senddown! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
