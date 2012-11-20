@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvixevps.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628053229id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixevps.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120093856id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
@@ -41,5 +41,7 @@ It should be noted that there are programs, such as key-loggers and viruses, tha
 Arvixe has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU and Switzerland Safe Harbor Program, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Arvixe, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 **Questions:** Questions regarding the Arvixe Privacy Policy may be directed to **privacy@arvixe.com**.
+
+**Contact Us:** Feel free to contact us by calling our toll free number 1-888-927-8493 or at our physical location at 3801 Calabasas Rd # 2005 Calabasas, CA 91302.
 
 **Updated:** April 3rd, 2012
