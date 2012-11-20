@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekbusiness.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520210653id_/http%3A//www.geekbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekbusiness.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120131958id_/http%3A//www.geekbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - | Geek Business
 
