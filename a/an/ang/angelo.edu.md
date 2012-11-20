@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526061206id_/http%3A//www.angelo.edu/welcome/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelo.edu privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120124151id_/http%3A//www.angelo.edu/welcome/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,8 +17,8 @@ For site management functions, information is collected for analysis and statist
 Angelo State University utilizes server logs and log analysis tools to create summary statistics about the use of the Web site. The summary statistics are used for purposes such as assessing what information is of most interest to users, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis: 
 
   * **User/client hostname** \- The hostname (or IP address, if DNS is disabled) of the user/client requesting access. 
-  * **HTTP header, "user-agent"** \- The user-agent information includes the type of browser used, the browser version, and the operating system it is running on. 
-  * **HTTP header, "referrer"** \- The referrer specifies the page from which the user/client accessed the current page. 
+  * **HTTP header, “user-agent”** \- The user-agent information includes the type of browser used, the browser version, and the operating system it is running on. 
+  * **HTTP header, “referrer”** \- The referrer specifies the page from which the user/client accessed the current page. 
   * **System date** \- The date and time of the user/client request. 
   * **Full request** \- The exact request the user/client made. 
   * **Status** \- The status code the server returned to the user/client. 
