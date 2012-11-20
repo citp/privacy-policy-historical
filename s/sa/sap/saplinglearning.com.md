@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saplinglearning.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513032336id_/http%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saplinglearning.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120115302id_/https%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Sapling Learning
 
@@ -68,6 +68,6 @@ We appreciate your trust that we will only use your personal information in a re
 
 Postal Address: 2815 Exposition Boulevard, Austin, Texas 78703, U.S.A.
 
-Email: support@saplinglearning.com
+Email: [support@saplinglearning.com](mailto:support@saplinglearning.com)
 
 Copyright © 2011 Sapling Learning, Inc.
