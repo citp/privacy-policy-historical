@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523143355id_/http%3A//spredfast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120232049id_/http%3A//www.spredfast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spredfast
 
@@ -58,7 +58,7 @@ Spredfast does not control the content posted by public users to our sites and,
 
 Although most changes are likely to be minor, Spredfast may change its Privacy Policy from time to time, and in Spredfast’s sole discretion. Spredfast encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-### **Safe Harbor Compliance Statement**
+**Safe Harbor Compliance Statement**
 
 Definitions as it pertains to Safe Harbor:
 
@@ -68,16 +68,16 @@ Definitions as it pertains to Safe Harbor:
 
 • “Data Processor” means an entity that processes Personal Information on behalf of a Data Controller in accordance with the Data Controller’s instructions.
 
-Spredfast’s Privacy Policy Statement conforms to the seven Safe Harbor Principles developed by the Department of Commerce in coordination with European Commission: Notice, Choice, Security, Data Integrity, Access, & Enforcement. Spredfast is complies fully with the Safe Harbor regulations and enforcement to provide adequate protection for personal data from Europe as required by the European Union’s Directive on Data Protection.
+Spredfast’s Privacy Policy Statement conforms to the U.S.-EU and U.S.-Swiss Safe Harbor Privacy Principles developed by the U.S. Department of Commerce in coordination with European Commission and the Federal Data Protection and Information Commissioner of Switzerland: Notice, Choice, Security, Data Integrity, Access, and Enforcement. Spredfast complies fully with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks to provide adequate protection for personal data from Europe as required by the European Union’s Directive on Data Protection and by Switzerland’s Federal Act on Data Protection.
 
-For more details, go to: <http://www.export.gov/safeharbor/SH_Privacy.asp>
+To learn more about the Safe Harbor program, and to view Spredfast’s certification, please visit <http://www.export.gov/safeharbor/>
 
-**  
-How to Contact Us**
+How to Contact Us
 
 Please address any questions or concerns regarding this Policy or Spredfast’s practices concerning Personal Information by:
 
-Contacting Spredfast’s Chief Privacy Officer  by email at [CSO@spredfast.com ](mailto:cso@spredfast.com), or by contacting us through our website: [www.spredfast.com](http://www.spredfast.com/)  
+Contacting Spredfast’s Chief Privacy Officer  by email at [CSO@spredfast.com](http://CSO@spredfast.com/) , or by contacting us through our website: [www.spredfast.com](http://www.spredfast.com/)
+
 **  
 You may also write to:**
 
