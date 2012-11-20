@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622084733id_/http%3A//www.ehost.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehost.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120031812id_/http%3A//www.ehost.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # eHost's Privacy Policy
 
@@ -62,7 +62,7 @@ To ensure you receive the information you need to manage your account and protec
 
   
 
-  17. **Where to Direct Questions About eHost's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, eHost, 70 Blanchard Road 3rd Floor, Burlington, MA 01803 or support@ehost-inc.com.
+  17. **Where to Direct Questions About eHost's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, eHost, 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@ehost-inc.com.
   
 
   18. **Unsubscribe**
@@ -80,4 +80,4 @@ Please note: eHost reserves the right to send you email communications that rela
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20120622084733id_/http%3A//www.ehost.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20121120031812id_/http%3A//www.ehost.com/legal/legal_privacy.bml?showchanges=1)
