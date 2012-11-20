@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617180022id_/http%3A//www.subaru.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120061102id_/http%3A//www.subaru.com/company/privacy.html) for the most accurate reproduction.*
 
 # Subaru of America Company Privacy and Terms
 
 Your privacy is important to Subaru of America, Inc. ("Subaru"). This Privacy Policy explains how Subaru collects, uses, shares and endeavors to protect your information.
 
-Subaru reserves the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting to this Web site. Under certain circumstances (for example, in connection with certain material changes), we may also notify you of changes or updates to our Privacy Policy.
+Subaru reserves the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting to this Web site. We suggest periodically visiting the page to review our policy.
 
 This Privacy Policy applies when Subaru collects both personal information and non-personal information from and about individuals, including through Subaru-controlled websites or applications, and through Subaru-controlled applications accessed or used on a mobile, handheld or other device (a "Website" or "Application"). It also applies to information individuals voluntarily provide to us "offline," such as at events.
 
@@ -38,7 +38,7 @@ At the end of your visit, session cookies used by Subaru are removed. However, i
 
 Our service providers or vendors may also use cookies and related technologies in order to personalize your experiences and adapt a particular Subaru Website or Application's functionality to your preferences and for purposes such as those listed above. You may set your browser to notify you when you receive a cookie or to refuse receiving it. You should be aware that this may interfere with or make you unable to use certain functionality on websites using cookies. For example, many websites will ask your permission to use a cookie that will enable you to automatically log onto the website. Disabling or removing cookies may require you to manually log on each time you wish to visit that website.
 
-**Online Behavioral Advertising.** Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites.
+**Online Behavioral Advertising.** Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements.  You'll be directed to an opt-out page where you'll be able to select your data preferences.  The page will also contain further instruction if additional questions remain.
 
 ### WHEN SUBARU MAY SHARE INFORMATION
 
@@ -48,7 +48,7 @@ In addition, Subaru may disclose and share users’ Personal Information with th
 
 **Service Providers, Vendors and Suppliers.** Service providers, vendors and suppliers are companies who perform services for Subaru and its dealers, including in connection with the functionality of the Websites and Applications. To the extent it is necessary for these entities to provide their products and services to us and provide products and services you have requested, these third parties may have access to your Personal Information, but they are not permitted by us to use your Personal Information on their own behalf. Subaru may sometimes permit authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related Website or Application information. These transfers of aggregate statistics do not include your Personal Information.
 
-**Dealers.** Certain requests or questions that you direct to us are more appropriately answered by a dealer, such as a request for a price quote on a particular vehicle. In those instances, we will provide your Personal Information, along with your request or question, to a dealer or dealers for a response. The dealer(s) will have the right to use your Personal Information for purposes of responding to your request and for its/their own marketing purposes. Dealers' use of your Personal Information will be subject to the dealers' own privacy policies.
+**Dealers.** Certain requests or questions that you direct to us are more appropriately answered by a dealer, such as a request for a price quote on a particular vehicle. In those instances, we will provide your Personal Information, along with your request or question, to a dealer or dealers for a response. The dealer(s) will have the right to use your Personal Information for purposes of responding to your request and for its/their own marketing purposes that may not relate to your requests or questions. Dealers' use of your Personal Information will be subject to the dealers' own privacy policies.
 
 **Marketing.** Subaru occasionally partners with trusted third parties for promotions, events and other activities, and may share your Personal Information with such third parties for Subaru's marketing purposes and for the third parties' own marketing purposes if you consent to such sharing. The use of your Personal Information by such third parties will be subject to their own privacy policies.
 
@@ -62,7 +62,7 @@ In addition, Subaru may disclose and share users’ Personal Information with th
 
 Subaru makes good faith efforts to provide individuals with reasonable access to Personal Information that they have provided to us and the reasonable ability to review and correct it, or ask for its deletion, if it is not otherwise required to be retained by law or retained for legitimate business purposes. Please note we may retain server/backup copies of all such data, and that we may decline to process change or deletion requests that we deem to be unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others.
 
-If you are a registered user of MySubaru, you may change or delete certain information in your profile by logging on to [http://www.subaru.com/my-subaru/account.html](https://web.archive.org/my-subaru/account.html) or you may disable your account by going to the "[Contact Us](https://web.archive.org/contactus/)" form at Subaru.com. All other users may change or delete the Personal Information that is stored by Subaru by contacting the Subaru Customer Service Department at 1-800-782-2783 or by logging on to [Subaru.com//contactus](https://web.archive.org/contactus/).
+If you are a registered user of MySubaru, you may change or delete certain information in your profile by logging on to [http://www.subaru.com/my-subaru/account.html](https://web.archive.org/my-subaru/account.html) or you may disable your account by going to the "[Contact Us](https://web.archive.org/contactus/)" form at Subaru.com. All other users may change or delete the Personal Information that is stored by Subaru by contacting the Subaru Customer Service Department at 1-800-782-2783 or by logging on to [Subaru.com/contactus](https://web.archive.org/contactus/).
 
 All users may opt-out of receiving marketing emails and newsletters at any time by changing their preferences (if registered), or by contacting the Subaru Customer Service Department at 1-800-782-2783 or by using the opt-out link located at the bottom of our emails.
 
@@ -94,4 +94,4 @@ Under California Civil Code Section 1798.83, also known as California's "Shine t
 
 ### QUESTIONS?
 
-We are committed to protecting your privacy and to being transparent about how we use your information. We use the information we gather from this site to enhance your overall experience with Subaru. If you have any questions or concerns about our Privacy Policy, please contact us at 1-800-782-2783 or [Subaru.com//contactus](https://web.archive.org/contactus/) and we'll be happy to help in any way we can.
+We are committed to protecting your privacy and to being transparent about how we use your information. We use the information we gather from this site to enhance your overall experience with Subaru. If you have any questions or concerns about our Privacy Policy, please contact us at 1-800-782-2783 or [Subaru.com/contactus](https://web.archive.org/contactus/) and we'll be happy to help in any way we can.
