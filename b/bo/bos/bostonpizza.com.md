@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonpizza.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315125743id_/http%3A//www.bostonpizza.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonpizza.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120031948id_/http%3A//bostonpizza.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Boston Pizza
 
@@ -60,9 +60,9 @@ Former Users – If you stop using the Website or your permission to use the Web
 
 Boston Pizza’s Privacy Officer may be contacted by mail, facsimile or email at:  
 Boston Pizza International Inc.  
-5500 Parkwood Way  
+100 – 10760 Shellbridge Way  
 Richmond, British Columbia  
-V6V 2M4  
+V6X 3H1  
 Facsimile No.: 604-270-1041  
 Email: [privacy@bostonpizza.com](mailto:privacy@bostonpizza.com)  
 Attention: Privacy Officer  
