@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504100813id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120102326id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
 
@@ -9,13 +9,13 @@ InboxDollars® reserves the right to modify this Privacy Policy at any time. The
 
 The column on the right provides a short explanation of the privacy policy and is not legally binding.
 
-Last Updated: _March 28, 2012 9:00 a.m. CST_
+Last Updated: _September 7, 2012 2:00 p.m. CST_
 
 ## I. INFORMATION COLLECTION
 
   1. #### Information Collected
 
-All Users must provide the following information in order to join InboxDollars®: name, mailing address, phone number, email address, and password. Users may be required to provide subsequent demographic information in order to receive Signup Bonus(es) and/or qualify for other promotions. Demographic information includes, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household. 
+All Users must provide the following information in order to join InboxDollars®: name, mailing address, phone number, email address, and password. Users may be required to provide subsequent demographic information in order to receive Signup Bonus(es) and/or qualify for other promotions. Demographic information includes, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household. We may also ask you to provide on an optional and voluntary basis information regarding health and wellness issues relevant to you or your family. 
 
   2. #### Means of Collection
 
