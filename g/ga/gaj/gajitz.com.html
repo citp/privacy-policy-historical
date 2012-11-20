@@ -1,17 +1,25 @@
-<!--The following is the downloaded HTML source of the gajitz.com privacy policy that was archived on 2012-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522040541id_/http%3A//gajitz.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gajitz.com privacy policy that was archived on 2012-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120150901id_/http%3A//gajitz.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<!-- urb -->    
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">if(document.referrer.search(/google\.*/i) != -1 && top!=self){top.location.replace(self.location.href+'?ref=search');};</script>
+        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+            if(document.referrer.search(/google\.*/i) != -1 && top!=self) {
+                top.location.replace(self.location.href+'?ref=search&utm_campaign=googimages&utm_source=images&utm_medium=other');
+            }  
+        </script>
+ 
 
-
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
     
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-	<link rel="shortcut icon" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/favicon.ico">
+    	<link rel="shortcut icon" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/gajapple114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/gajapple114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/gajapple144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/gajapple144.png">
 
-	<link href="http://cdn.gajitz.com/wp-content/themes/gajitz/style.css?v=20.14" rel="stylesheet" type="text/css">
+
+	<link href="http://cdn.gajitz.com/wp-content/themes/gajitz/style.css?v=20.14001" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]><style type="text/css">#middleCenter{width:161px;overflow:hidden;margin-right:3px;}#middleRight{width:300px;overflow:hidden;margin:0px 0px 0px 15px;}.middleRightThumb{padding:3px 3px 3px 3px;margin:0px 0px 3px 0px;}.middleRightThumb:hover{padding:3px 3px 3px 3px;margin:0px 0px 3px 0px;}.middleRightThumbCenter{margin:0px 3px 0px 3px;}.middleRightThumbCenter:hover{margin:0px 3px 0px 3px;}.sidebarTitle{height:26px;padding:3px 0px 0px 0px;}.socialBox li{display:inline;float:left;overflow:hidden;}.postTitle{padding:0px;margin:0px;}#posting{padding-top:0px;margin-top:0px;}.socialBox{height:34px;line-height:0px;}#socialWrapper{height:22px;line-height:0px;margin-top:-12px;}#headerSearchCont{padding:0px;margin:0px;}#headerMenuSearch{padding:0px 0px 0px 4px;}#sign_up_content{height:33px;}#mainPageRelatedStuff{height:259px;)</style><![endif]-->
 
@@ -40,23 +48,27 @@
 	var googCat = "nocat"; // tests for category
 	var googRef = "noref"; // tests for referrer conditions
 	var googTest = "notest"; // uses ?googtest="" query string
+    var googImg = "noimg"; // uses utm_source for image search refs
     var googOzh = "noozh"; // tests for age, currently month
     var googGeo = "nogeo"; // tests for country code
     // geoplugin_countryCode() returns "XX" country code
-    var googLincoln = 0;
 
     if (typeof geoplugin_countryCode === 'undefined') {googGeo = "nogeoscript";}
     else {googGeo = geoplugin_countryCode();}
 
+    googImg = 'nomedium';
+
 	googTest = 'nokey';
 
-	// set googAge to age of page
+	// set googAge to array of age details
 	postDate = new Date('September 19, 2009');
-        tday = new Date();
-        msPerDay = 24*60*60*1000;
-		//if ((tday-postDate) > (msPerDay*365)) { googAge.push("year"); }
-        if ((tday-postDate) > (msPerDay*10)) { googAge = "ten"; }
-        else { googAge = "zero"; }
+    tday = new Date();
+    msPerDay = 24*60*60*1000;
+    googAge = new Array();
+    googAge.push("year" + postDate.getFullYear() );
+    if ((tday-postDate) > (msPerDay*30)) { googAge.push("month"); }
+    if ((tday-postDate) > (msPerDay*10)) { googAge.push("ten"); }
+    else { googAge.push("zero"); }
 
     //var ozhDate = new Date(2011,10,13); // 2011Nov13 (not Oct)
     if ((tday-postDate) > (msPerDay*30)) { googOzh = 1; }
@@ -76,7 +88,7 @@
 	testnetwork = RegExp("http://weburbanist.com|http://webecoist.com|http://dornob.com");
 	testself = RegExp("http://gajitz.com");
 	testmisc = RegExp("darkroastedblend.com|leenks.com|i-am-bored.com|neatorama.com|asylum.com|2leep.com|huffingtonpost.com|news.us.marketgid.com|us.marketgid.com|marketgid.com|mgid.com");
-	testsocial = RegExp("reddit.com|stumbleupon.com|twitter.com|facebook.com|pinterest.com");
+	testsocial = RegExp("pinterest.com|reddit.com|stumbleupon.com|twitter.com|facebook.com|pinterest.com");
 	if (testsearch.test(document.referrer)) {googRef = "search"; }
 	else if (testnetwork.test(document.referrer.substring(0, 32))) { googRef = "network"; }
 	else if (testself.test(document.referrer.substring(0, 32))) { googRef = "self"; }
@@ -84,64 +96,57 @@
 	else if (testsocial.test(document.referrer)) { googRef = "social"; }
 	else { googRef = "nomatch"; }
 
-    // set test for lincoln site skin here
-    googLincoln = (googAge == "ten") ? 1 : 0;
-    googLincoln = (googTest == "lincoln") ? 1 : googLincoln; 
-
     </script>
 
-<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js">
-</script>
 <script type="text/javascript">
-  googletag.defineUnit('/1018129/ca-pub-8097212468498640/Gajitz-160x600', [160, 600],
-       'Gajitz-160x600')
-    .addService(googletag.pubads());
-  googletag.defineUnit('/1018129/ca-pub-8097212468498640/Gajitz-300x250', [300, 250],
-       'Gajitz-300x250')
-    .addService(googletag.pubads());
-  googletag.defineUnit('/1018129/ca-pub-8097212468498640/Gajitz-728x90', [728, 90],
-       'Gajitz-728x90')
-    .addService(googletag.pubads());
-  googletag.defineUnit('/1018129/ca-pub-8097212468498640/Gajitz-MPU', [300, 250],
-       'Gajitz-MPU')
-    .addService(googletag.pubads());
-  googletag.defineUnit('/1018129/ca-pub-8097212468498640/Gajitz-BTF-160x600', [160, 600],
-       'Gajitz-BTF-160x600')
-    .addService(googletag.pubads());
-  googletag.defineUnit('/1018129/ca-pub-8097212468498640/Gajitz-BTF-300x250', [300, 250],
-       'Gajitz-BTF-300x250')
-    .addService(googletag.pubads());
-  googletag.defineUnit('/1018129/ca-pub-8097212468498640/Gajitz-BTF-728x90', [728, 90],
-       'Gajitz-BTF-728x90')
-    .addService(googletag.pubads());
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>                                                                                                                                        
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+  googletag.defineSlot('/1018129/Gajitz-160x600', [160, 600],'Gajitz-160x600').addService(googletag.pubads());
+  googletag.defineSlot('/1018129/Gajitz-300x250', [300, 250],'Gajitz-300x250').addService(googletag.pubads());
+  googletag.defineSlot('/1018129/Gajitz-728x90', [728, 90],'Gajitz-728x90').addService(googletag.pubads());
+  googletag.defineSlot('/1018129/Gajitz-Image-Script', [1, 1],'Gajitz-Image-Script').addService(googletag.pubads());
  googletag.pubads().setTargeting("age", googAge);
  googletag.pubads().setTargeting("type", googType);
  googletag.pubads().setTargeting("cat", googCat);
  googletag.pubads().setTargeting("tag", googTag);
  googletag.pubads().setTargeting("ref", googRef);
  googletag.pubads().setTargeting("test", googTest);
- googletag.pubads().enableSyncRendering();
- // disabled to avoid bug with ?google_console=1 known bug sept-07-2011
- //googletag.pubads().enableSingleRequest();
+ googletag.pubads().enableSingleRequest();
  googletag.enableServices();
+});
 </script>
 
 <!-- begin google analytics async -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['b._setAccount', 'UA-12439679-2']);
-  _gaq.push(['b._trackPageview',document.location.pathname]);
+  _gaq.push(['b._trackPageview']);
   _gaq.push(['_setAccount', 'UA-1472145-38']);
-  if (googLincoln) {
-    _gaq.push(['_setCustomVar',1,'lincoln',googAge+':'+googRef,3]); // page level
-  } else {
-    _gaq.push(['_setCustomVar',1,'nolincoln',googAge+':'+googRef,3]);
-  }
-  _gaq.push(['_setCustomVar',2,'timeofday','22',3]); // page level
-  _gaq.push(['_setCustomVar',3,'timeofhour','04',3]); // page level
+  _gaq.push(['_setCustomVar',2,'timeofday','23',3]); // page level
+  _gaq.push(['_setCustomVar',3,'timeofhour','22',3]); // page level
   _gaq.push(['_setCustomVar',4,'geo_visitor',googGeo,1]); // visitor level
   _gaq.push(['_setCustomVar',5,'geo_page',googGeo,3]); // page level
-  _gaq.push(['_trackPageview',document.location.pathname]);
+  _gaq.push(['_trackPageview'],document.location.pathname+document.location.search.toLowerCase() ); //toLower reduces dupes
+
+if (window.history && history.replaceState && location.search.match(/utm_|ref=/)) {
+    _gaq.push(function(){
+            history.replaceState({}, "", location.pathname); //drop query string in location bar and history
+    });
+}
 
 // Evil Robot Detection
 // http://stkywll.com/2012/04/27/annoying-robots-a-solution-for-google-analytics/
@@ -191,7 +196,7 @@
 var guardAd = '%3C%21--%20START%20GUARDIAN%20ONLINE%20BEHAVIOURAL%20TARGETING%20CODE%20--%3E%20%0A%3C%21--%20START%20QUANTCAST%20AD%20TAG%20--%3E%0A%3Cscript%20type%3D%22text/javascript%22%3E%0Avar%20quantSegs%3D%22%22%3B%0Avar%20quant_segs_beg%20%3D%20document.cookie.indexOf%28%27quant_segs%27%29%3B%0Aif%20%28quant_segs_beg%20%3E%3D%200%29%20%7B%0Aquant_segs_beg%20%3D%20document.cookie.indexOf%28%27%3D%27%2C%20quant_segs_beg%29%20+%201%3B%0Aif%20%28quant_segs_beg%20%3E%200%29%20%7B%0Avar%20quant_segs_end%20%3D%20document.cookie.indexOf%28%27%3B%27%2C%20quant_segs_beg%29%3B%0Aif%20%28quant_segs_end%20%3D%3D%20-1%29%20quant_segs_end%20%3D%20document.cookie.length%3B%0AquantSegs%20%3D%20unescape%28document.cookie.substring%28quant_segs_beg%2C%20quant_segs_end%29%29%3B%0A%7D%0A%7D%0A%0Afunction%20qc_results%28result%29%20%7B%0Avar%20qc%20%3D%20%22%22%3B%0Afor%20%28var%20i%20%3D%200%3B%20i%20%3C%20result.segments.length%3B%20i++%29%20%7B%0A%20%20%20%20%20qc%20+%3D%20%22qc%3D%22%20+%20result.segments%5Bi%5D.id%20+%20%22%26%22%3B%20//customizable%20per%20your%20ad%20server%0A%20%20%7D%0A%0A%20%20document.cookie%20%3D%20%22quant_segs%3D%22%20+%20escape%28qc%29%3B%0A%7D%0A%0A%3C/script%3E%0A%3C%21--%20END%20QUANTCAST%20AD%20TAG%20--%3E%0A%3C%21--%20AUDIENCESCIENCE%20AD%20TAG%20CODE%20--%3E%0A%3Cscript%20type%3D%22text/javascript%22%3E%0A%3C%21--%0Avar%20rsi_segs%20%3D%20%5B%5D%3B%0Avar%20segs_beg%3Ddocument.cookie.indexOf%28%27rsi_segs%3D%27%29%3B%0Aif%20%28segs_beg%3E%3D0%29%7B%0Asegs_beg%3Ddocument.cookie.indexOf%28%27%3D%27%2Csegs_beg%29+1%3B%0Aif%28segs_beg%3E0%29%7B%0Avar%20segs_end%3Ddocument.cookie.indexOf%28%27%3B%27%2Csegs_beg%29%3B%0Aif%28segs_end%3D%3D-1%29%20segs_end%3Ddocument.cookie.length%3B%0Arsi_segs%3Ddocument.cookie.substring%28segs_beg%2Csegs_end%29.split%28%27%7C%27%29%3B%0A%0A%7D%0A%7D%0Avar%20segLen%3D100%3B%0AsegQS%3D%22%22%3B%0Aif%20%28rsi_segs.length%3CsegLen%29%7BsegLen%3Drsi_segs.length%7D%0Afor%20%28var%20i%3D0%3Bi%3CsegLen%3Bi++%29%7B%0AsegQS+%3D%28%22a%22+%22%3D%22+rsi_segs%5Bi%5D%29%0A%7D%0A//--%3E%0A%3C/script%3E%0A%0A%3Cscript%20type%3D%22text/javascript%22%3E%0A%0Avar%20gsegQS%20%3D%20%22%22%3B%0AgsegQS%3DsegQS.replace%28/E0/g%2C%27%26a%3DE0%27%29.replace%28%22a%3D%26%22%2C%22%22%29+%27%26%27%3B%0A%0A%3C/script%3E%0A%3C%21--%20END%20AUDIENCESCIENCE%20AD%20TAG%20CODE%20--%3E%0A%3C%21--%20END%20GUARDIAN%20ONLINE%20BEHAVIOURAL%20TARGETING%20CODE%20--%3E';
 
 if (googTest == 'guard') { document.write(unescape(guardAd)); }
-else if (geoplugin_countryCode() == 'GB') { 
+else if ((geoplugin_countryCode() == 'GB') && (googAge == "ten")) { 
     document.write(unescape(guardAd)); 
 }
 
@@ -248,13 +253,10 @@ else if (geoplugin_countryCode() == 'GB') {
 <!-- ca-pub-8097212468498640/Gajitz-728x90 -->
 <div id="Gajitz-728x90" ;="" style="width: 728px; height: 90px">
  <script type="text/javascript">
-   googletag.display('Gajitz-728x90');
+   googletag.cmd.push(function() { googletag.display('Gajitz-728x90'); });
  </script>
 </div>
 
-							<!--<a href="http://gajitz.com/advertise">
-								<img src="http://cdn.gajitz.com/wp-content/themes/gajitz/images/leaderboard.jpg" />
-							</a>-->
 						</div>
 					</div>
 				</div>
@@ -293,9 +295,19 @@ else if (geoplugin_countryCode() == 'GB') {
     <input type="submit" value="Search" style="background:#444444;color:#fff;border:solid 1px #000000;margin:0px;float:left;margin:0px;">
 </form>
 
-					</div>
-				</div>
-</div>
+					</div> 
+				</div> <!-- /#headerMenuSearch -->
+</div> <!-- /#headerMenu -->
+<script type="text/javascript">
+
+var guardAd = '%3Cdiv%20class%3D%22gsuperhead%22%3E%0A%3C%21--%20Guardian%20Select%3A%20Technology%20%26%20Media%20Tag%20Begins%20--%20Superheader%20--%3E%20%0A%3Cscript%20src%3D%22http%3A//resource.guim.co.uk/global/adcode/generate%3Fpartner%3Dgajitz.com%26n%3Dtechandmedia%26s%3Dbusinessandtechnology%26slot%3Dx26%22%3E%3C/script%3E%0A%3C%21--%20Guardian%20Select%3A%20Technology%20%26%20Media%20Tag%20Ends%20--%20Superheader%20--%3E%20%0A%3C/div%3E';
+
+if (googTest == 'guard') { document.write(unescape(guardAd)); }
+else if (geoplugin_countryCode() == 'GB') {
+    document.write(unescape(guardAd)); 
+}
+
+</script>
                 
 
 
@@ -419,13 +431,6 @@ else if (geoplugin_countryCode() == 'GB') {
 	</div>
 </div>
 
-<div id="Gajitz-BTF-728x90" class="lijit dfp" style="display:none;margin-top:10px;">
-  <!-- Gajitz-BTF-728x90 -->
-  <script type="text/javascript">
-    googletag.display('Gajitz-BTF-728x90');
-  </script>
-</div>
-
 <div id="footerText">
 <center>
 <a href="http://gajitz.com/">Gajitz</a> - 
@@ -510,47 +515,16 @@ qacct:"p-b0QGrEweW3QWc"
 
 </center>
 
-<!-- halogen in use mar12 -->
-<script src="http://publishers.halogennetwork.com/audience/Gajitz.js" type="text/javascript"></script>
+
 <script src="http://www.lijit.com/blog_wijits?json=0&amp;id=trakr&amp;uri=http%3A%2F%2Fwww.lijit.com%2Fusers%2Fmisnamed%2F1&amp;js=1"></script>
+<script>
+var ozhimages = "%3Cscript%20type%3D%22text/javascript%22%20src%3D%22http%3A//gajitz.us.intellitxt.com/intellitxt/front.asp%3Fipid%3D46498%22%3E%3C/script%3E";
 
-<!-- martini lincoln site skin -->
-<script type="text/javascript" id="martinilincoln">
-
-var encodedAd = '%3Cscript%20type%3D%27text/javascript%27%3E%0Avar%20page_count%20%3D%20%22off%22%3B%20%20%20%20%20%20%20%20%20%20%20%0Aif%20%28typeof%20OAS_rdl%20%3D%3D%20%22undefined%22%29%20%7B%0Adocument.write%28%22%3Cscr%22%20+%20%22ipt%20type%3D%27text/javascript%27%20src%3D%27http%3A//oasc12.247realmedia.com/Scripts/oas_analytics.js%27%3E%3C/scr%22%20+%20%22ipt%3E%22%29%3B%20%0Apage_count%20%3D%20%22on%22%3B%7D%0Avar%20MMI_ClickURL%20%3D%20%22%22%3B%20%0Avar%20OAS_searchterms%20%3D%20%22%22%3B%0Avar%20OAS_taxonomy%20%3D%22muid%3D0%22%3B%0Avar%20MMI_RNS%20%3D%20%20%28new%20String%28Math.random%28%29%29%29.substring%282%2C%2011%29%3B%0Avar%20MMI_URL%3D%22http%3A//msite.martiniadnetwork.com/index/%3Fpid%3D13312202224de6c06528f37%26sid%3D2052776014df14831d6074%26loc%3D%22+%20encodeURIComponent%28window.location.toString%28%29%29%20+%20%22%26rnd%3D%22%20+%20MMI_RNS%3B%0AMMI_ClickURL%20+%3D%20%28%28MMI_ClickURL.split%28%22/%22%29.length%20-%201%29%20%25%202%20%29%3F%20%20%22/%22%3A%20%22%22%3B%0Aif%20%28document.referrer%20%21%3D%20%22%22%29%20MMI_URL%20+%3D%20%22%26ref%3D%22%20+%20encodeURIComponent%28document.referrer.substring%280%2C255%29%29%3B%0Adocument.write%28%22%3Cscript%20type%3D%27text/javascript%27%20src%3D%27%22%20+%20MMI_URL%20+%20%22%27%3E%3C/scr%22%20+%20%22ipt%3E%22%29%3B%0Aif%28typeof%28OAS_pubclick%29%20%3D%3D%20%22undefined%22%29%0Avar%20OAS_pubclick%20%3D%20%27http%3A//msite.martiniadnetwork.com/action/track/type/0/pid/13312202224de6c06528f37/sid/2052776014df14831d6074/loc/%27%20+%20encodeURIComponent%28window.location.toString%28%29.substring%280%2C255%29%29%20+%20%27/pubclick/%27%20+%20MMI_ClickURL%3B%0A%0Avar%20OAS_sitepage%20%3D%20%22gajitz.com/Lincoln/SiteSkin%22%3B%0Avar%20OAS_pos%20%3D%20%22x94%22%3B%0Avar%20OAS_RNS%20%3D%20%28new%20String%28Math.random%28%29%29%29.substring%282%2C%2011%29%3B%0AOAS_searchterms%20%3D%3D%20%22%22%20%3F%20OAS_searchterms%20%3D%20%22%22%20%3A%20OAS_searchterms%20+%3D%20%22%26%22%3B%0Aif%20%28page_count%20%21%3D%20%22on%22%29%20%7BOAS_taxonomy%20+%3D%20%22%26oas_pv%3Dno_analytics%26%22%3B%7D%0Aif%20%28typeof%20OAS_rdl%20%3D%3D%20%22undefined%22%29%20%7B%20var%20OAS_rdl%20%3D%20%22%22%3B%20var%20OAS_CA%20%3D%20%22%22%3B%7D%0AOAS_query%20%3D%20%22_RM_HTML_CLICK_%3D%22%20+%20OAS_pubclick%20+%20%22%26%22%20+%20OAS_searchterms%20+%20%22XE%26%22%20+%20OAS_taxonomy%20+%20%22%26%22%20+%20OAS_rdl%20+%20%22%26if_nt_CookieAccept%3D%22%20+%20OAS_CA%20+%20%22%26XE%22%3B%0Adocument.write%28%22%3Cscr%22%20+%20%22ipt%20type%3D%27text/javascript%27%20src%3D%27http%3A//oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/%22%20+%20OAS_sitepage%20+%20%22/1%22%20+%20OAS_RNS%20+%20%22@%22%20+%20OAS_pos%20+%20%22%3F%22%20+%20OAS_query%20+%20%22%27%3E%3C/scr%22%20+%20%22ipt%3E%22%29%3B%0Adocument.write%28%22%3Cscr%22%20+%20%22ipt%20type%3D%27text/javascript%27%20src%3D%27http%3A//oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/%22%20+%20OAS_sitepage%20+%20%22/1%22%20+%20OAS_RNS%20+%20%22@x96%3FXE%26oas_pv%3Dno_analytics%26XE%27%3E%3C/scr%22%20+%20%22ipt%3E%22%29%3B%0Aif%20%28typeof%20MMI_AdScript%20%3D%3D%20%22function%22%29%20MMI_AdScript%281%2C%22x94%22%29%3B%0A%3C/script%3E';
-
-// if (googTest == "lincoln") { write_jswsa('encodedAd'); }
-if (googLincoln) { write_jswsa('encodedAd'); }
-
+if ( (googTest == "images") || ( (googType == "single") && (googAge.indexOf("ten") >= 0) ) ) {
+    document.write(unescape(ozhimages));
+}
 </script>
-<!-- end martini liconln -->
-
-<!-- luminate test 2012-04-26 -->
-<script type="text/javascript" id="pixazzadiv">
-
-var encodedAd = '%3Cscript%20type%3D%22text/javascript%22%3E%0A%28function%28%29%20%7B%0A%20%20%20%20%20%20var%20a%2C%20s%20%3D%20document.getElementsByTagName%28%22script%22%29%5B0%5D%3B%0A%20%20%20%20%20%20%20%20a%20%3D%20document.createElement%28%22script%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20a.type%3D%22text/javascript%22%3B%20%20a.async%20%3D%20true%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20a.src%20%3D%20%22http%3A//www.luminate.com/widget/async/99ab10c920/%22%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20s.parentNode.insertBefore%28a%2C%20s%29%3B%0A%7D%29%28%29%3B%0A%3C/script%3E';
-
-// search and single only
-if (googTest == "luminate") {
-        jQuery("#singleContent img").addClass("pixazza");
-        jQuery("#mainPageMainColumnsLeft img").addClass("pixazza");
-        write_jswsa('encodedAd');
-    }
-if ((googType == "single") && (googRef == "search")) {
-  if ((googAge == "ten") && (googType == "single")) {
-          jQuery("#singleContent img").addClass("pixazza");
-          write_jswsa('encodedAd');
-          }
-  // never hits in test but can trigger same with googTest
-  else if (googType == "category") {
-          jQuery("#mainPageMainColumnsLeft img").addClass("pixazza");
-          write_jswsa('encodedAd');
-          }
-  }
-</script>
-<!-- end luminate -->
 
 
 
-
-<!--Cached by Gajitz Cache on: May 21, 2012 10:04:59 pm--></body></html>
+<!--Cached by Gajitz Cache on: November 19, 2012 11:22:57 pm--></body></html>
