@@ -1,0 +1,248 @@
+<!--The following is the downloaded HTML source of the schoolsbroadband.co.uk privacy policy that was archived on 2012-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120070041id_/http%3A//www.schoolsbroadband.co.uk/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy | Schools Broadband</title>
+<meta name="description" content="We take privacy concerns seriously.&amp;nbsp; That's why we've designed our site so that you can browse freely without revealing your name or any other">
+<meta name="google-site-verification" content="wv2UU0u3sdkfIWkJYhMG77liWRcrgbmFwUJHlCjehak">
+<link href="http://www.schoolsbroadband.co.uk/template/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.schoolsbroadband.co.uk/template/css/css.php" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/tools/jquery/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/includes/tools/jquery/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="/template/includes/slidingGallery.js"></script>
+<script type="text/javascript" src="/template/includes/jquery.flow.1.1.min.js"></script>
+<script type="text/javascript">
+function lastPostFunc(){
+	var last_id = $(".child_item:last").attr("id")
+	data = $('#ajax_info').serialize();
+	$.post("/includes/ajax/get-next-children.php?current_pos="+last_id, data, function(msg){
+		if (data != "") {
+			$(".child_item:last").after(msg);           
+		}
+	});
+}
+$(window).scroll(function(){
+	if  ($(window).scrollTop() > $('#page_center').height() - $(window).height()){
+	   lastPostFunc();
+	}
+});
+$(document).ready( function () {	
+	$('#quick_contact').click(function() {
+		$('#quick_contact_form').slideToggle('slow');
+		return false;
+	});
+});
+</script>
+<script type="text/javascript">
+    function process_login() {
+        $.post('/widgets/includes/acl-ajax.php', $('#acl_login_form').serialize(), function (data) {
+            result = $.parseJSON(data);
+            if (result) {
+               document.location = "/";
+            } else {
+               alert("incorrect login");
+            }
+        });
+    }
+    $(document).ready(function(){
+        if ($('#acl_login_form')) {
+            $("#acl_username").keyup(function(e) {
+                if (e.keyCode == 13) {
+                    $("#acl_password").focus();
+                    $("#acl_password").select();
+                    e.preventDefault();
+                    return false;
+                }
+            });
+            $("#acl_password").keypress(function(e) {
+                if (e.keyCode == 13) {
+                   process_login();
+                   return false;
+                } 
+            });
+        }
+        if ($('#acl_logout_link')) {
+            $('#acl_logout_link').click(function() {
+                $.post('/widgets/includes/acl-ajax.php?action=user_logout', '', function(data) {
+		    document.location = "/";
+		});
+                return false;
+            });
+        }
+    });
+    function forgotpass() {
+	$.post('/widgets/includes/acl-ajax.php', {action: 'forgot_pass', email: $('#passwordresetemail').val()}, function(data) {
+	    var success = JSON.parse(data);
+	    if (!success) {
+		$('#errorpassreset').html('No user by that email found!');
+		$('#errorpassreset').show();
+	    } else {
+		$('#content').html('<h1>Password reset email sent</h1><p>Click on the link in your email to reset your password.  Remember to check your junk mail folders as well.</p>');
+	    }
+	});
+    }
+</script>	<script type="text/javascript">
+	function contactFormSubmit( elem, via_ajax ) {
+		submitted = elem;
+		errors = false;
+		submitted.find('.form_field').each( function () {
+			field_box = $(this).parent();
+			field_val = $(this).val();
+			field_req = field_box.hasClass('form_required');
+			field_box.children().removeClass('form_error');
+			if(field_val=='' && field_req == true){
+				field_box.children().addClass('form_error');
+				errors = true;
+			}
+		});
+		if(errors){
+			submitted.parent().find('.form_error_text').remove();
+			submitted.parent().append('<p class=\"form_error form_error_text\">Please fill in required fields.</p>')
+			return false;
+		} else {
+			if(via_ajax==1){
+				data = submitted.serialize();
+				$.post('ajaxprocessform', data, function(msg){
+					if(msg=='true'){
+						submitted.parent().html('<p class=\"form_success\">Thank you. Your request has been submitted successfully!</p>');
+						if(jQuery('#colorbox').css('display') != 'none') {
+							$.colorbox.resize();
+							setTimeout($.colorbox.close, 3000);
+						}
+					} else {
+						submitted.parent().children('#security_wrapper').children().addClass('form_error');
+					}
+				});
+				return false;
+			} else {
+				return true;
+			}
+		}
+	}
+	</script>
+	</head>
+<body class="body" id="page_body">
+<!--[if lte IE 6]>
+<script src="http://www.schoolsbroadband.co.uk/template/includes/js/ie6.js"></script><script>window.onload=function(){e("/template/images/")}</script><![endif]--><div id="wrapper">
+	
+
+<div id="header">
+	<div id="header_logo">
+		<a href="http://www.schoolsbroadband.co.uk/" class="all" title="Schools Broadband">
+			<img src="http://www.schoolsbroadband.co.uk/template/images/logo.png" alt="Schools Broadband" border="0">
+		</a>
+	</div>
+    <div class="call_us">Call us on: <span class="number">01133 222 333</span></div>
+	<div class="social_links">
+		<a href="http://www.facebook.com/" target="_blank">
+			<img src="http://www.schoolsbroadband.co.uk/template/images/facebook-icon.png" alt="" border="0">
+		</a>
+		<a href="http://www.twitter.com/schoolbroadband" target="_blank">
+			<img src="http://www.schoolsbroadband.co.uk/template/images/twitter-icon.png" alt="schoolbroadband" border="0">
+		</a>
+		<a href="http://www.linkedin.com/" target="_blank">
+			<img src="http://www.schoolsbroadband.co.uk/template/images/linkedin-icon.png" alt="" border="0">
+		</a>
+		<a href="http://www.schoolsbroadband.co.uk/rss" target="_blank">
+			<img src="http://www.schoolsbroadband.co.uk/template/images/rss-icon.png" alt="Schools Broadband" border="0">
+		</a>
+	</div>
+    
+	<div id="top_nav">
+		<ul class="navigation_block level1"><li class="dormantlink firstlink"><a href="http://www.schoolsbroadband.co.uk/">Home</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/about-us">About Us</a></li><li class="dormantlink parentlink"><a href="http://www.schoolsbroadband.co.uk/our-services">Our Services</a></li><li class="dormantlink parentlink"><a href="http://www.schoolsbroadband.co.uk/blog">Our Blog</a></li><li class="dormantlink lastlink"><a href="http://www.schoolsbroadband.co.uk/contact">Contact Us</a></li></ul>		<div class="search">
+			<form action="http://www.schoolsbroadband.co.uk/search" name="searchform" method="get">
+			<input type="hidden" name="action" value="search_site">
+			<input type="hidden" name="search_context" value="all" id="context-all">
+			<input type="text" id="Search" value="" class="s all f-left" name="search-site">
+			<input type="submit" value=" " class="b all f-left"><br>
+			
+			</form>
+		</div>
+	</div>
+</div>	<div id="page_wrapper">
+		<div id="page_top"></div>
+		<div id="page">
+			<div id="page_left">
+	<div class="sidebar_top"></div>
+		<div id="leftnav" class="sidebar_block">
+			<ul class="navigation_block level1"><li class="dormantlink parentlink firstlink"><a href="http://www.schoolsbroadband.co.uk/our-services">Our Services</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/broadband-costs">Broadband Costs</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/content-filtering">Content Filtering</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/contention-ratios">Contention Ratios</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/remote-working">Remote Working</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/testimonials">Testimonials</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/useful-links">Useful Links</a></li><li class="dormantlink lastlink"><a href="http://www.schoolsbroadband.co.uk/case-studies">Case Studies</a></li></ul>		</div>
+	<div class="sidebar_base"></div>
+</div>
+
+
+
+
+
+			<div id="page_center" class="">
+            	<div id="content_top"></div>
+				
+
+<div id="content">
+	<div id="breadcrumb"><a href="/">Home</a> » Privacy</div>
+	<div class="list1"><h1>Privacy</h1><div id="summary" class="page-summary page-summary-6"><p><strong><br>We take privacy concerns seriously.&nbsp; That's why we've designed our site so that you can browse freely without revealing your name or any other information about yourself - unless you choose to do so.</strong></p></div><p>Schools Broadband is a specialist division of Talk Straight.&nbsp; Talk Straight monitors the number of visits and time spent on this website to provide an indication of the helpfulness of this website (see below) and includes contact forms which contain fields for collecting the name, address, phone number and e-mail address of visitors. This information may be used to respond to any enquiries or complaints and process orders.</p>
+<p>We may, in future, allow existing customers to access online billing through the Talk Straight or Schools Broadband websites.&nbsp; Any information entered here may be used by Talk Straight, its associated companies, subsidiaries, agents and business partners for the purposes of managing your account.&nbsp; It may also be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing Talk Straight’s compliance with any regulatory rules/codes.</p>
+<p>This information may also be used for offering contract renewals, research and statistical purposes and crime prevention. It may be transferred to any country, including countries outside the European Economic Area for any of these purposes and for systems administration. Where this happens, we will ensure that anyone to whom we pass your information agrees to treat your information with the same level of protection as if we were dealing with it.</p>
+<p>If you give us information about another person, in doing so you confirm that they have given you permission to provide it to us to be able to process their personal data and also that you have told them who we are and what we will use their data for, as set out in this notice.</p>
+<p>The Talk Straight and Schools Broadband&nbsp;websites may contain links to other websites. However, Talk Straight is not responsible for the privacy, practices or content of these other sites.</p>
+<p>&nbsp;</p></div>				<div class="child_item">
+								<div class="child_body ">
+					<h2><a href="cookies">Cookies</a></h2>
+					<p class="light_grey">We make it a policy to always have the best quality tea and coffee in our office kitchen.&nbsp; And now we have a top quality cookie policy too.&nbsp; Sadly for our staff, this is not a policy that...</p>
+					<a href="cookies" class="read_more">Read More</a>
+				</div>
+			</div>
+		</div>                <div id="content_base"></div>
+			</div>
+					</div> 
+		<div id="page_base"></div> 
+	</div> 
+	<div id="footer">
+			            <img src="http://www.schoolsbroadband.co.uk/template/images/homepage-partners.png" alt="Schools Broadband" border="0" align="left" class="clear f-left">
+        	    <div id="footer_address">
+			<p>Schools Broadband,&nbsp;
+			Suite 4,&nbsp;Dalesway House,&nbsp;Ilkley,&nbsp;Leeds,&nbsp;LS29 9LA&nbsp;
+            Tel: 01133 222 333</p>
+    	</div>
+        <div class="social_links">
+            <a href="http://www.linkedin.com/" target="_blank">
+                <img src="http://www.schoolsbroadband.co.uk/template/images/linkedin-icon.png" alt="" border="0">
+            </a>
+            <a href="http://www.twitter.com/schoolbroadband" target="_blank">
+                <img src="http://www.schoolsbroadband.co.uk/template/images/twitter-icon.png" alt="schoolbroadband" border="0">
+            </a>
+            <a href="http://www.facebook.com/" target="_blank">
+                <img src="http://www.schoolsbroadband.co.uk/template/images/facebook-icon.png" alt="" border="0">
+            </a>
+            <a href="http://www.schoolsbroadband.co.uk/rss" target="_blank">
+                <img src="http://www.schoolsbroadband.co.uk/template/images/rss-icon.png" alt="Schools Broadband" border="0">
+            </a>
+            
+        </div>
+		<div id="footer_links">
+
+			<ul class="navigation_block level1"><li class="dormantlink firstlink"><a href="http://www.schoolsbroadband.co.uk/">Home</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/terms-conditions">Terms &amp; Conditions</a></li><li class="activelink parentlink"><a href="http://www.schoolsbroadband.co.uk/privacy">Privacy Policy</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/sitemap">Sitemap</a></li><li class="dormantlink lastlink"><a href="http://www.schoolsbroadband.co.uk/contact">Contact Us</a></li></ul>
+		</div>
+		<div class="ice_info"><p>Copyright © 2012. All rights reserved. Design &amp; Development by <a href="http://www.iceinnovation.co.uk/" target="_blank">ICE Innovation</a> | <a href="http://www.iceinnovation.co.uk/brand-design-management" target="_blank">Branding</a> | <a href="http://www.iceinnovation.co.uk/website-design-development" target="_blank">Web Design</a> | <a href="http://www.iceinnovation.co.uk/online-marketing" target="_blank">Internet Marketing</a></p></div>
+</div>
+
+
+
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25692106-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body></html>
