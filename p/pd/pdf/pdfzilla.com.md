@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfzilla.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521221348id_/http%3A//www.pdfzilla.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfzilla.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120073027id_/http%3A//www.pdfzilla.com/privacy.html) for the most accurate reproduction.*
 
 # PDFZilla - Privacy
 
@@ -17,7 +17,7 @@ During purchase process, we collect user information. This information is collec
 
 We (PDFZilla Software) do not know users' credit card numbers and other sensitive payment information - this data is only available to the secure service of Avangate during the purchase process and they deal with it safely. 
 
-**NOTE:** Are you a webmaster, blogger, Magazine Editor or internet columnist? We will present a **FREE License** of PDFZilla to you if you write reviews of PDFZilla on your own website, blog space, Magazine or column! [Click here >>](https://web.archive.org/web/20120521221348id_/http%3A//www.pdfzilla.com/review.html)
+**NOTE:** Are you a webmaster, blogger, Magazine Editor or internet columnist? We will present a **FREE License** of PDFZilla to you if you write reviews of PDFZilla on your own website, blog space, Magazine or column! [Click here >>](https://web.archive.org/web/20121120073027id_/http%3A//www.pdfzilla.com/review.html)
 
   
 
