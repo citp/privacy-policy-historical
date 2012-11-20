@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605102719id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantearth.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140601id_/http%3A//www.brilliantearth.com/security-and-privacy-policies/%23privacy) for the most accurate reproduction.*
 
 # Brilliant Earth: Security Policy & Privacy Policy
 
@@ -22,7 +22,7 @@ We are able to process approval of your credit card within 24 hours, which exped
 
 **Telephone**
 
-If you prefer not to use your credit card over the Internet, you can give us a call at 800-691-0952 to place your order, or follow the instructions from Your Shopping Bag to complete your order via Telephone. It is our pleasure to have one of our experienced representatives assist you.
+If you prefer not to use your credit card over the Internet, you can give us a call at 800-691-0952 to place your order, or follow the instructions from Your Shopping Bag to complete your order via telephone. It is our pleasure to have one of our experienced representatives assist you.
 
 **Signature Requirements for Delivery**
 
