@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happycog.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617173401id_/http%3A//happycog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happycog.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120060452id_/http%3A//happycog.com/privacy-policy) for the most accurate reproduction.*
 
 # Web design, web development, mobile & content strategy by Happy Cog
 
