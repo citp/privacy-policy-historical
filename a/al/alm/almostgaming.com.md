@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610130320id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120102804id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Important:** If you want to learn the best ways to make gold I highly recommend you **[visit this site](http://fwgold.secretgg.hop.clickbank.net/?tid=goldtop)** to learn how to maximize your farming, increase your gold making with your professions, and learn the secrets to making 5,000+ gold an hour.
 
 This is the web site of Almost Gaming. We can be reached via e-mail at [webmaster@almostgaming](mailto:webmaster@almostgaming.com).
 
@@ -11,3 +13,5 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart. You will not receive an e-mail from us unless you sign up for our newsletter.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google Adsense.
+
+**Important:** If you want to learn the best ways to make gold I highly recommend you **[visit this site](http://fwgold.secretgg.hop.clickbank.net/?tid=goldbot)** to learn how to maximize your farming, increase your gold making with your professions, and learn the secrets to making 5,000+ gold an hour.
