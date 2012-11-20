@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620132634id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120041027id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Privacy notice - Information Commissioner's Office - ICO
+# Privacy Notice - Information Commissioner's Office - ICO
 
 ## How we use your information
 
@@ -40,6 +40,20 @@ The table below explains the cookies we use and why.
   
 ---|---|---|---  
   
+ICO site cookie acceptance
+
+| 
+
+ICOCookiesAccepted
+
+| 
+
+This cookie is used to record if a user has accepted the use of cookies on the ICO website.
+
+| 
+
+To withdraw your consent after accepting this cookie, delete the ICOCookiesAccepted cookie. Find out how at [www.aboutcookies.org](http://www.aboutcookies.org/)  
+  
 Google Analytics
 
 | 
@@ -49,15 +63,14 @@ _utmb
 _utmc  
 _utmz
 
-| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | 
+| 
 
-[Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
+These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+| 
+
+[Click here for an overview of privacy at Google](http://www.google.com/intl/en_uk/analytics/privacyoverview.html "External link")  
   
-ICO site cookie acceptance | 
-
-ICOCookiesAccepted
-
-| This cookie is used to record if a user has accepted the use of cookies on the ICO website. |   
 Online notification form cookie | 
 
 ASP.NET_SessionId
@@ -72,17 +85,17 @@ This cookie is essential for the online notification form – the form that data
   
 Content Management System cookie | 
 
-ico62#sc_wede
+ico62#sc_wede youth#sc_wede
 
 | 
 
-This cookie is set by our content management system on a small number of browsers, upon arrival to the ICO site. It is not used by the ICO for any purpose. This cookie is deleted when a user closes their browser.
+One or both of these cookies may be set by our content management system on a small number of browsers, upon arrival to the ICO site or young people's pages. Neither is used by the ICO for any purpose. These cookies are deleted when a user closes their browser.
 
 | 
 
 The supplier of our content management system (the software we use to update our website) is working to remove this cookie from their product.  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
 
@@ -93,6 +106,10 @@ We embed videos from our official YouTube channel using YouTube’s privacy-enha
 ### Search engine
 
 The search engine on our website is designed to be as powerful and easy to use as the popular search engine Google. The search is made possible by a piece of hardware (a search ‘appliance’) supplied by Google that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party, including Google.
+
+### E-newsletter
+
+We use a third party provider, Adestra, to deliver our monthly e-newsletter. We gather statistics around email opening and clicks using industry standard technologies including clear gifs to help us monitor and improve our e-newsletter. For more information, please see [Adestra’s privacy notice](http://www.adestra.com/home/privacy-policy/ "External link").
 
 ## People who call our helpline
 
@@ -116,7 +133,7 @@ When we take enforcement action against someone, we may publish the identity of 
 
 ## People who use ICO services
 
-The ICO offers various services to the public. For example, we send out publications and distribute an electronic newsletter. We use a third party to deal with some publication requests, but they are only allowed to use the information to send out the publications.
+The ICO offers various services to the public. We use a third party to deal with some publication requests, but they are only allowed to use the information to send out the publications.
 
 We have to hold the details of the people who have requested the service in order to provide it. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use information about people who have requested a publication to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this. 
 
@@ -178,7 +195,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 11 June 2012.
+We keep our privacy notice under regular review. This privacy notice was last updated on 31 August 2012.
 
 ## How to contact us
 
@@ -191,4 +208,4 @@ Wilmslow
 Cheshire  
 SK9 5AF
 
-[Read more in our guide to information](https://web.archive.org/tools_and_resources/publication_scheme_compliance.aspx)
+[Read more in our guide to information](https://web.archive.org/global/page_not_found.aspx?item=web%3a%7bBA61DFDD-9278-4FC6-BC06-CA80CB75BFAD%7d%40en)
