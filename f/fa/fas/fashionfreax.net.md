@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionfreax.net privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119024834id_/http%3A//www.fashionfreax.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfreax.net privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120075629id_/http%3A//www.fashionfreax.net/en/privacy) for the most accurate reproduction.*
 
-# privacy | Fashionfreax | Street Style & Social Fashion Community | Blog & forum
+# privacy | Fashionfreax | Social Fashion Community for Apparel, Streetwear & Style | Blog
 
 "fashionfreax.net" constitutes the services set forth in this contract and/or the FashionFreax GmbH. This Privacy Policy supplements the "Terms of Use of the fashionfreax.net". Delicate and responsible handling of the individual-related data of all users is an issue of extreme importance to fashionfreax.net. All laws and regulations regarding privacy are meticulously complied with by fashionfreax.net. These data privacy laws mainly include the data privacy regulations of the TMG (German Act for Telemedia Services), the BDSG (Federal Data Protection Act), the data privacy regulations of the TKG §§ 85 ff. (German Telecommunications Act) and the legal provisions specified by the EU. The following Privacy Policy gives information about how the protection and the security of all individual-related data at fashionfreax.net is ensured according to the currently effective statutory regulations.
 
