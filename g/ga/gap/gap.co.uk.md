@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gap.co.uk privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314101108id_/http%3A//www.gap.co.uk/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.co.uk privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120094809id_/http%3A//www.gap.co.uk/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,3 +21,81 @@ GAP is committed to implementing measures designed to protect the privacy of tho
 If you submit a Request For Information, the information you submit will only be used by GAP. Our lists are private and are never sold to any third parties.
 
 If you have any queries concerning this policy, please [contact us](https://web.archive.org/contact_us.aspx). 
+
+  
+
+
+This policy sets out our policy on the privacy of the individual. GAP Limited takes your privacy seriously and information will be used in accordance with the Data Protection Act 1998.
+
+**Your consent**
+
+Your use of this website signifies your consent to us collecting and using personal data about you as specified below in accordance with this policy statement. Should we choose to change these terms for any reason, the changes will be posted here so that you are always kept informed about the collection and use of your personal information, and when we disclose it.
+
+**How do we collect personal information about you and how is it used?**
+
+You may provide personal information when communicating with us. 
+
+You may use our services and give your name and e-mail address to make a comment about our services or Web site. 
+
+If you enter a competition or promotion we will ask your name, address and e-mail address. 
+
+We will collect information about your tastes and preferences, both when you tell us and by analysis of customer traffic, including using "cookies". 
+
+It may be that some of the personal information you give us (for example, about your health and age) is sensitive personal data within the meaning of the Data Protection Act 1998. Such information ("sensitive information") will only be disclosed with your express consent.   
+It may be that you provide us details of credit or debit cards or bank accounts in making payment to us. Any such information (confidential financial information) will be disclosed only in accordance with the disclosure policy below. 
+
+We may use personal information collected about you to help us develop the layout of our website to ensure that our site is as useful and enjoyable as possible.
+
+We may use personal information collected about you to let you know about functions on our Web site or changes to our terms and conditions of use.
+
+**Traffic data**
+
+We may provide aggregate statistics about sales, customers, traffic patterns and information to third parties, but these statistics will not include any information that identifies you.
+
+**Disclosure policy**
+
+We reserve the right to access and disclose individually identifiable information to enable us to comply with applicable laws and lawful government requests to operate its systems and to protect itself or its users.
+
+**How do we protect your information?**
+
+We have strict security procedures covering the storage of your information in order to prevent unauthorised access and to comply with the terms of the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity or for other personal information before we can process your call or enquiry further.
+
+**What are cookies and how do we deal with them?**
+
+A cookie is a piece of information that is stored on your computer's hard drive. It is normally sent by a web server to you and enables the server to collect information back from your site visit.
+
+**What is a cookie?**
+
+Cookies are small text files that are placed on your computer by websites that you visit. These pieces of information are used to make the website work or improve services for you through, for example
+
+enabling a service to recognise your device so you don't have to give the same information several times during one task
+
+recognising that you may already have given a username and password so you don't need to do it for every web page requested
+
+measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast   
+We sometimes embed photos and video content from websites such as YouTube and Flickr. As a result, when you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. We do not control the dissemination of these cookies. You should check the relevant third party website for more information about these.
+
+**Can I control or delete cookies?**
+
+All recent versions of popular browsers (such as Internet Explorer, Google Chrome or Mozilla Firefox) allow you to control cookies. Typically, you can set your browser to accept or reject all, or certain cookies. You might, for example, be happy to accept a cookie that allows you to log in to a website, but prefer to reject any which are used to build a profile of your internet usage. You should also be able to set your browser to prompt you each time a cookie is offered.
+
+Please be aware that restricting cookies may impact on the functionality of this website.
+
+For more detailed instructions on how to control or delete cookies on different browsers, please visit[ www.aboutcookies.org](https://web.archive.org/www.aboutcookies.org)
+
+**Third Party Cookies**
+
+GAP uses several suppliers who also set cookies on our website in order to deliver the services they are providing. If you would like more information about the cookies used by these suppliers, as well as information on how to opt-out, please see their individual privacy policies listed below.
+
+**Google Analytics**
+
+This is a web analytics service provided by Google. GAP uses this service to measure how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast.
+
+**Google's Privacy Policy**   
+How to opt out of Google Analytics 
+
+**Twitter**
+
+GAP displays a feed of our recent tweets on our home page. 
+
+**Twitter's Privacy Policy**
