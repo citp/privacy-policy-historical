@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the milfcocklovers.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602012739id_/http%3A//support.milfcocklovers.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2740%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfcocklovers.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120015633id_/http%3A//www.milfcocklovers.com/privacy) for the most accurate reproduction.*
 
-# Big Black Cocks on Blondes
+# Milf Cock Lovers
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
