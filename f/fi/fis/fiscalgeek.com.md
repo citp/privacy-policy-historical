@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiscalgeek.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521114808id_/http%3A//www.fiscalgeek.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiscalgeek.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120064841id_/http%3A//www.fiscalgeek.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FiscalGeek
 
@@ -24,3 +24,16 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%20for%20fiscalgeek.com%0D%0AThe%20privacy%20of%20our%20visitors%20to%20fiscalgeek.com%20is%20important%20to%20us.%0D%0AAt%20fiscalgeek.com%2C%20we%20recognize%20that%20privacy%20of%20your%20personal%20information%20is%20important.%20Here%20is%20information%20on%20what%20types%20of%20personal%20information%20we "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&srcTitle=FiscalGeek+Personal+Finance+for+Geeks+from+the+Debt+Snowball+to+Homemade+Air+Conditioners "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy&source=FiscalGeek+Personal+Finance+for+Geeks+from+the+Debt+Snowball+to+Homemade+Air+Conditioners&summary=Privacy%20Policy%20for%20fiscalgeek.com%0D%0AThe%20privacy%20of%20our%20visitors%20to%20fiscalgeek.com%20is%20important%20to%20us.%0D%0AAt%20fiscalgeek.com%2C%20we%20recognize%20that%20privacy%20of%20your%20personal%20information%20is%20important.%20Here%20is%20information%20on%20what%20types%20of%20personal%20information%20we "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.fiscalgeek.com%2Fpolicies%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
