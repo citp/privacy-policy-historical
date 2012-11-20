@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soleilselene.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508230109id_/http%3A//www.soleilselene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soleilselene.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120231546id_/http%3A//www.soleilselene.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy │ Soleil Selene®
 
@@ -25,5 +25,3 @@ We may, occasionally, include links to third party sites have separate and indep
 The contents of this policy may be updated at any time. If we decide to change our privacy policy, we will post those changes on this page.
 
 If you have any questions regarding this policy, you may email us at leilani@soleilselene.com
-
-[](http://www.shareasale.com/r.cfm?b=202502&u=462466&m=24570&urllink=&afftrack=)
