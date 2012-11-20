@@ -1,27 +1,7 @@
-> *The following text is extracted and transformed from the hotlib.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523014017id_/http%3A//www.hotlib.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlib.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120151432id_/http%3A//www.hotlib.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement at hotlib.com Freeware and shareware software download - Windows and Mac - antivirus, multimedia, games, business, mobile and web design software
 
-Useful resources:  
----  
-  
-[Best Freeware Software](http://www.piggysoft.com/ "Best Freeware Software")  
-  
-[Movie kills action videos](http://www.moviekills.com/ "Movie kills action videos")  
-  
-[ ](http://twitter.com/hotlib)
-
-  
-
-
-**C:** \ **Home**  
-
-
-| 
-
-Programs listed: **26088**  
-  
----|---  
   
 
 
@@ -105,7 +85,7 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20120523014017id_/http%3A//www.hotlib.com/contact.php).
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20121120151432id_/http%3A//www.hotlib.com/contact.php).
 
   
 
