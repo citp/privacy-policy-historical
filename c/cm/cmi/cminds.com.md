@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the cminds.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121003749id_/http%3A//www.cminds.com/privacy) for the most accurate reproduction.*
+
+# Privacy | Creative Minds
+
+The following Privacy Policy statement is meant to comply with applicable federal and state laws.  This statement is meant to help the user of this website understand how the website collects, uses, and safeguards personal information that the user may provide; and the user’s voluntary disclosure of personal information on the website will constitute consent to the Privacy Policy.  If the Privacy Policy undergoes change, such change will be prominently noted within this statement.  This website may contain links to other websites and it is not responsible for the content or for the privacy or security policies and practices of these third-party websites.
+
+When a user visits this website, the website will automatically collect and store (a) the internet protocol address and domain name of the user’s internet service provider, (b) the type of browser or operating system used, (c) the date and time of the visit, (d) the web pages and services that were accessed, (e) the address of the previously accessed website, and (f) any download from this website.  None of the foregoing information is deemed “personal information,” meaning information about a natural person that can be used to identify the person. 
+
+However, certain transactions that the user may voluntarily initiate on the website, such as an Contat request will require the user to submit items of personal information.  (This website does not intentionally collect personal information about children aged 13 or younger and will promptly remove such information upon notification by any user of the website.)  In addition, when the user initiates such a transaction, the website may transfer simple text files, or “cookies,” to the user’s computer in order to facilitate subsequent aspects of the transaction.  The user may limit the operation of these “cookies,” though doing so may limit the ability of the website to further the transaction.    
+
+The website will use personal information only to further the purposes for which it has been requested or for the purpose of maintaining and improving the security and functioning of this website.  This website generally will disclose the information only to their employees, consultants, and agents with a legitimate need for the information and will not disclose such information to any third party for commercial purposes..
+
+The website have implemented procedures to safeguard the personal information collected on this website, including, but not limited to, authentication, monitoring, and encryption.  If a user has any questions about the Privacy Policy or security measures of this website, the user should contact david@cminds.com
+
+Why Us
+
+ _“Very professional and interesting to work with CreativeMinds. Turns working on a project into a learning experience for understanding users, their needs and expectations. CreativeMinds' experience is felt every step of the way from laying the foundation for the project, planning the tasks at hand, reviewing concepts with the team and providing results according to planned milestones."_
+
+Shahar Ohad, Product Manager at Amadesa Ltd.
+
+[](https://web.archive.org/testimonials/ "More")
+
+Case Studies
+
+  * Rutgers DSAP
+  * Aternity's Knowledge Repository
+  * Aternity's FPI Platform Redesign
+
+
+
+[](https://web.archive.org/casestudies/ "More")
