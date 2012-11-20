@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webgameroom.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109073404id_/http%3A//webgameroom.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgameroom.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120070643id_/http%3A//webgameroom.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Web Game Room
+# Web Game Room
 
 Privacy Policy
 
@@ -43,51 +43,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. 
 
 If you feel that this site is not following its stated information policy, you may contact us via email or at the above addresses or phone number. 
-
-Top Players
-
-[](http://webgameroom.com/profile/avadmin)
-
-Top Rated Games
-
-Most Popular Games
-
-Gwen, Gabriella, and Grace are…
-
-[](http://webgameroom.com/other/girls-go-christmas-dress-up "<div class='tooltip_title'>Girls Go Christmas Dress Up</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>395194</span>
-				</div><br>
-				<div class='tooltip_desc'>Gwen, Gabriella, and Grace are having a little Christmas party and can't wait for you to dress them up!</div>")
-
-Play as the Quarterback in thi…
-
-[](http://webgameroom.com/sport/ultimate-football "<div class='tooltip_title'>Ultimate Football</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>220013</span>
-				</div><br>
-				<div class='tooltip_desc'>Play as the Quarterback in this America Football game, throw passes to your teammates.</div>")
-
-Clone of the arcade fighting g…
-
-[](http://webgameroom.com/action/superfighter "<div class='tooltip_title'>Superfighter</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>216366</span>
-				</div><br>
-				<div class='tooltip_desc'>Clone of the arcade fighting game - Super Fighter</div>")
-
-[](http://webgameroom.com/sport/ski-run "<div class='tooltip_title'>Ski Run</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>202287</span>
-				</div><br>
-				<div class='tooltip_desc'>Ski between the flags</div>")
-
-You need no ESP to dress this …
-
-[](http://webgameroom.com/other/mystic-make-up-girl "<div class='tooltip_title'>Mystic Make-Up Girl</div><br>
-				<div class='tooltip_options'>
-					Total Plays : <span style='color:#FFF;'>88377</span>
-				</div><br>
-				<div class='tooltip_desc'>You need no ESP to dress this visionary vixen!</div>")
-
-Log-in to save favourites
