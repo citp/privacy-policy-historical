@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the counseling.org privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605164322id_/http%3A//www.counseling.org/PressRoom/PressReleases.aspx%3FAGuid%3Db96defea-f794-4e51-820d-2a1717b18808) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counseling.org privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121102250id_/http%3A//www.counseling.org/PressRoom/PressReleases.aspx%3FAGuid%3Db96defea-f794-4e51-820d-2a1717b18808) for the most accurate reproduction.*
 
 # Press Releases
 
