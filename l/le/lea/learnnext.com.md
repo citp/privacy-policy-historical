@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315033400id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121100025id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
 
 # CBSE TuTorial's Online, CBSE Maths, CBSE Science -Class X, Class IX, Class VIII , Class VII, Class VI
 
@@ -95,14 +95,13 @@ By using our Web site you consent to our collection and use of your personal inf
 If you would like to contact us for any reason regarding our privacy practices, Please contact us at :
 
 **Address**  
-**LearnNext**   
-C/o **[Next Education India Private Limited ](http://www.nexteducation.in/)**  
+**LearnNext**  
+**[ Next Education India Private Limited](http://www.nexteducation.in/) **  
 Sri Nilaya Cyber Spazio,  
 8-2-269/A/2/1-6, 1st floor, East Wing,  
 Road # 2, Beside Annapurna Studios  
 Banjara Hills,  
-Hyderabad - 500033.  
-
+Hyderabad - 500033. 
 
 ##### Revisions to this policy:
 
