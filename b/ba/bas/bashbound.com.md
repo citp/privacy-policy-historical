@@ -1,18 +1,13 @@
-> *The following text is extracted and transformed from the bashbound.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522221010id_/http%3A//bashbound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bashbound.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231237id_/http%3A//bashbound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BashBound
-
-[Cash Wall - Offers and Surveys](http://bashbound.com/survey_wall) | [Offerwall Offers!](http://bashbound.com/offerwall) | [Join Websites](http://bashbound.com/member_ptsu) | [Do Reviews](http://bashbound.com/member_ptrv) | [Take Surveys](http://bashbound.com/member_ptts) | [Instant Cash Surveys](http://bashbound.com/instant_cash) | [Partner Deals](http://bashbound.com/partner_deals) |   
----|---|---|---|---|---|---|---  
-  
-## BashBound's Privacy Policy
 
 (Last update: Feb 2012)
 
 ### Information we gather
 
 The following information may be gathered from our website visitors:  
-IP address and user agent (browser).  We also collect and track additional anonymous user data.  You may opt out of anonymous data tracking if you wish by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
+IP address and user agent (browser).  We also collect and track additional anonymous user data.  You may opt out of anonymous data tracking if you wish by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).  More opt out information can be found [here](http://www.revmountain.com/optout.html).
 
 ### How we use the information we gather
 
@@ -39,3 +34,5 @@ Google, as a third party vendor, uses cookies to serve ads.
 Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We, or a data provider we have engaged, may place a unique cookie on your browser - cookies enable you to receive customized ads, content or services.   We or our data providers may also read/recognize the cookies on your browser as well.  The cookies may contain demographic data, or other data, linked to information that you voluntarily submitted to us, e.g., your email address.
