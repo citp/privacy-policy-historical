@@ -1,58 +1,107 @@
-> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031933id_/http%3A//www.jaunt.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaunt.ca privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133744id_/http%3A//www.jaunt.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy| Unique getaways within reach | Jaunt.ca
 
-Last Updated: July 26, 2011
+#### Our commitment to privacy
 
-Jaunt knows that you care about how information about you is used. We appreciate your trust and will use information about you carefully and sensibly. This notice describes our privacy policy. By visiting Jaunt, you are accepting the practices described in this Privacy Policy.
+Jaunt Inc. ("Jaunt") knows that protecting the privacy and confidentiality of your personal information is important. Collection, use and disclosure of personal information by Jaunt is governed by the _Personal Information Protection and Electronic Documents Act_ (the "Act"), and any applicable provincial legislation. This Privacy Code explains what personal information is collected from users of Jaunt and how it is used. It also explains how you can ask questions, make suggestions, and complain about our privacy practices. This Privacy Code applies to personal information (see below) collected by Jaunt. Be aware that Jaunt may contain links to other websites provided and maintained exclusively by third parties not subject to this Privacy Code. Please review the privacy policies on any external websites to determine their information handling practices. Jaunt will not be liable under any circumstances for any damages whatsoever, direct or indirect, resulting from any use of Jaunt or any other third party website linked to Jaunt, whether or not we are advised of the possibility of such damages. 
 
-#### What Personal Information About Users Does Jaunt Gather?
+This Privacy Code is available to the public in electronic form via [info@jaunt.ca](mailto:info@jaunt.ca) and in paper form from Jaunt's office at 590 King Street West, Suite 400, Toronto, M5V 1M3. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability. Please read this Privacy Code carefully and check back periodically as we update it from time to time. By submitting your personal information to Jaunt and by visiting Jaunt, you signify your agreement to the terms and conditions of this Privacy Code. 
 
-The information we learn from users helps us personalize and continually improve your experience using Jaunt. Here are the types of information we gather.
+#### What is personal information?
 
-  * Information You Give Us: We may receive and store any information you enter on our Web site or give us in any other way. You provide most such information when you register; provide account details; participate in a contest or questionnaire; interact with a merchant from whom you have purchased something through our website; or communicate with customer service. You can choose not to provide certain information, however, you might not be able to take advantage of certain features of our website. We use the information you provide for such purposes as customizing your experience, improving our website, communicating with you, ensuring that purchases that you may make are handled properly, and preventing counterfeiting.
-  * Automatic Information: We receive and store certain types of information whenever you interact with us. Examples of the information we may collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information, such as browser type, version and timezone setting, browser plug-in types and versions, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; pages you viewed; and the telephone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+Personal information is any information about an identifiable individual. Personal information does not include the name, title, business address or telephone number of an employee of an organization. Information used solely for journalistic purposes is exempted from the Act. 
+
+Jaunt is responsible for personal information under its control. Our employees are informed about the importance of privacy and receive periodic information to update them about our Privacy Code and related policies. In addition, Torstar Corporation, Jaunt's parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of Jaunt.
+
+#### Children
+
+Children under 18 are not eligible to use Jaunt unsupervised. If you are under 18, be sure to obtain your parent or guardian's permission before you send any personal information to us, or anyone else, over the Internet. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating. 
+
+#### What personal information do we collect, and why?
+
+Jaunt collects personal information for specific, limited purposes. Information is collected by fair and lawful means.
+
+  * We collect contact information (for example, name, address, email address, and telephone numbers) when you register at Jaunt.ca. This information is used to complete your Jaunt transactions and respond to your inquires.
+  * Jaunt also collects credit card information as needed to process payments for Jaunt Vouchers that you buy. We do not permanently store your credit card information.
+  * If you enter a contest or other promotion, we use your personal contact information to administer the contest or promotion including contacting, announcing and promoting prizewinners. 
+  * We collect purchase history and a list of promotions offered to you ("history"), in order to gain a better understanding of your interests so that we may develop better products and services and to determine eligibility for our products and services. 
+  * We collect, use and store your location history to establish your location, improve your experience and from time to time to send you information, such as offers, that are most relevant to your geographic location.
+  * We may also use personal contact and history information from time to time to contact you about changes, enhancements or other notices related to Jaunt vouchers that you have purchased or about Jaunt's business. In addition, if you have given us your prior consent, we may use this information to send you offers or information from us, our affiliates and from selected sponsors or advertisers ("Marketing Offers"). If you do not wish to receive Marketing Offers, you may opt-out at any time by following the procedure set out in our opt-out policy (see below). 
+  * We keep notes and special instructions on file for advertisers and subscribers to help us fulfill your request and provide customer service. 
+  * If you choose to opt-out of any use of your personal information in accordance with our opt-out policy, we keep your contact information on a list so that your request can be honoured. If you complain to any of our departments, we collect your contact information and the nature of your complaint, for the purpose of investigating and responding to you. 
+  * If you are a freelancer, or other service provider, we collect your social insurance number for tax reporting purposes and your contact information in order to pay you. We may also collect financial information (for example, banking details and credit history) from our freelancers, other service providers or advertisers, to assess credit risk, sales data to prepare royalty reports and other information to help us evaluate services. 
+  * Purposes for the collection, use or disclosure of personal information, which are not set out in this Privacy Code, will be set out at the time of collection. You will be given a reasonable opportunity to opt-out of any additional purposes no later than the time of collection. 
+  * We also collect certain non-personal information, like internet cookies and data for market research: 
+
+Internet Cookies: An internet cookie is a small piece of information that a website stores on your internet browser. We use cookies to better understand how you use our websites and to improve your experience. For example, a cookie may recall a set of preferences you have set for our website. Storing cookies on your web browser allows us to present you with custom web pages and other content that are tuned with your preferences. These activities are invisible to you, and are generally intended to improve your internet surfing convenience. Unless you have set your preferences so that you will be alerted when a cookie is being stored on your computer, you won't know about it.
+
+If you are concerned about cookies, it is possible to turn them off in your web browser preferences. However, please be aware that by disabling cookies, you may not be able to use all portions of our websites and may not have the optimal experience.
+
+  * You may manage how your mobile device and mobile browser share location information with Jaunt, as well as how your mobile browser handles cookies and related technologies by adjusting your mobile device privacy and security settings. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings. 
+  * You may also manage the sharing of certain personal information with us when you connect with us through a social media platform or application, such as through Facebook Connect. Please refer to the privacy settings of the social media website or application to determine how you may adjust our permissions and manage the interactivity between Jaunt and your social media account or your mobile device.
+  * We may place advertising or other links on our sites that originate from outside advertisers. If you view these ads, the advertisers may assign a cookie. Jaunt does not control these cookies, nor is it responsible for any marketing or other use of your name by these advertisers.
+  * Market research: Occasionally, we ask our customers to complete market research surveys. Survey results are aggregated and shared with our advertisers, sponsors and affiliates in a manner that does not disclose personal information.
 
 
 
-#### Use of Cookies
+#### To whom does Jaunt disclose personal information, and why?
 
-Jaunt may store cookies on your computer to facilitate and customize your experience. Cookies are alphanumeric identifiers that enable our systems to recognize your browser and to provide certain features. We use cookies because they save you time while navigating the Site and help us track and target User interests in order to provide a better, more customized experience. Cookies also allow us to collect Automatic Information from you, like which pages you visit and what links you click. Most browsers automatically accept cookies, however, it is possible to change your browser settings so that your browser declines cookies. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. If you decline to accept cookies it is possible that some parts of the Site may not work properly.
+Jaunt may disclose your personal information under the following circumstances: 
 
-#### Does Jaunt Share the Information It Receives?
+  * Jaunt shares some of your personal information with merchants from whom you have purchased something or from whom you have registered for something to allow them to provide the products or services to the correct individuals and to allow them to keep track of what they have provided. We provide as much information to the merchant as is necessary. Sharing this information will allow these merchants to contact you directly should they choose to do so. We will only share personal information with a merchant if you purchase something or register for something relating to that particular merchant.
+  * In order to provide you with Marketing Offers (see above), if you have provided consent, Jaunt may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive any further Marketing Offers, you may opt-out at any time by following the procedure set out in our opt-out policy (see below).
+  * Jaunt may also disclose or share non-personally identifiable information with partners, advertisers, merchants and/or prospective merchants to help explain our business and the effectiveness of our business or for promotional purposes. For example, we may disclose aggregated demographic information which does not include any personally identifiable information.
+  * Jaunt may transfer your personal information to service providers acting on its behalf in order to perform processing and other specialized services, for example, prize fulfillment of our contests, collection of overdue accounts, product delivery, or credit card processing. 
+  * When Jaunt needs to disclose your personal information to unrelated parties, for example, if we find you have violated any stated terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities and other legal reasons. 
+  * Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Code and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
+  * Jaunt may disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this Privacy Code and to use and disclose it only for the purposes for which it was collected.
 
-Except with your consent and as set out below, we will not sell, license, trade or rent your personal information to or with others.
 
-We facilitate the provision of products or services and offers for products or services by various types of merchants (such as restaurants and other retail merchants). We share some of your personally identifiable information with merchants from whom you have purchased something to allow them to provide the products or services to the correct individuals and to allow them to keep track of what they have provided. Sharing this information will allow these merchants to contact you directly should they choose to do so. We will only share personally identifiable information with a merchant if you purchase something relating to that particular merchant.
 
-We may disclose or share non-personally identifiable information with partners, advertisers, merchants and/or prospective merchants to help explain our business and the effectiveness of our business or for promotional purposes. For example, we may disclose aggregated demographic information which does not include any personally identifiable information.
+#### Consent and opt-out policy
 
-Jaunt may disclose personal information to third party providers of Jaunt, including third parties engaged to assist us in providing services (including but not limited to software development, website development and hosting, data processing, transaction processing services, document management and office administration) to you or to carry out one or more of the uses described above. These service providers are prohibited from using your personal information for any purpose other than to provide this assistance and are required to protect personal information disclosed by Jaunt and to comply with the general privacy principles describes in this Privacy Policy.
+In general, Jaunt seeks consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, Jaunt obtains your express opt-in consent to use or disclose sensitive personal information. 
 
-Jaunt reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so.
+If you do not wish to receive Marketing Offers, you may opt-out at any time by doing any of the following: 
 
-Jaunt also reserves the right to disclose and / or transfer personal information to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Jaunt or of any of the business or assets or shares of Jaunt or a division thereof.
+  * Follow the instructions at the bottom of any email Marketing Offer you receive. Inform your telemarketer at the time you are called with a Marketing Offer. 
+  * Call Client Services at (416) 687-5848 in the GTA or toll free at (855) 492-4524 and request that your personal information not be used for Marketing Offers. 
+  * Email [privacy@jaunt.ca](mailto:privacy@jaunt.ca) and request that your personal information not be used for Marketing Offers. 
+  * We reserve the right to use and disclose your personal information without consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests.
 
-#### How Secure Is Information About Me?
 
-We protect the security of your sensitive information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you enter on certain pages of the Site that handle sensitive information.
 
-It is important for you to protect against unauthorized access to your password and your computer. It is recommended that you do not share your password(s) with anyone and are sure to sign off when you have finished using a shared computer.
+#### Safeguards
 
-#### Which Information Can I Access?
+Jaunt maintains personal information in a combination of paper and electronic files. We take technical, contractual, administrative and physical security measures to protect your personal information. Not all Jaunt interactions require that credit card information be provided. If you provide credit card information to us, we work to help protect the security of your credit card information by using industry standard secure sockets layer (SSL) encryption technology. 
 
-If you request access to your personal information, subject to certain exceptions, Jaunt will inform you of the existence, use and disclosure of your personal information and will provide you with a summary of that information. If Jaunt determines not to provide you access to your personal information, we will provide an explanation.
+Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, or includes information such as your credit card number, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure. Materials posted to online forums such as bulletin boards or chat rooms are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other internet users.
 
-You can help us maintain the accuracy of your personal information by notifying us of any changes to this information. You may log into your account and update your personal information or [contact us here](https://web.archive.org/web/20120524031933id_/http%3A//www.jaunt.ca/contact) to request access to or to make a correction or update to your personal information
+#### How to access and correct your personal information
 
-#### Are Children Allowed to Use Jaunt?
+Jaunt provides you with the means to access, update, edit or delete certain subscriber and registration information you have provided at any time by going to the appropriate page on [www.Jaunt.ca](http://www.jaunt.ca/), and changing or deleting such information as desired. 
 
-Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use Jaunt in conjunction with and under the supervision of a parent or guardian.
+If you want to close your account or have other questions or requests, please contact us. While we are ready to assist you in closing your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on our site for financial reporting and compliance reasons.
 
-We will never knowingly collect the personal information of minors.
+We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
 
-#### Conditions of Use, Notices, and Revisions
+#### How to challenge our privacy practices
 
-If you choose to visit Jaunt, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the province of Ontario. If you have any concern about privacy at Jaunt, please [contact us](https://web.archive.org/web/20120524031933id_/http%3A//www.jaunt.ca/contact), and we'll try to resolve it.
+Jaunt encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning Jaunt's Privacy Code, would like a copy, or if you have a complaint, please contact Client Services at: 
 
-Our business may change or adapt and our Privacy Policy and the Terms of Use will change also. You should check our Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We reserve the right to change our Privacy Policy and such changes will take effect immediately upon being posted to the Site, however, we stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected users.
+590 King Street West, Suite 400   
+Toronto, Ontario   
+M5V 1M3   
+[info@jaunt.ca](mailto:info@jaunt.ca)
+
+Client Services can successfully deal with many issues. If you prefer, or if after contacting Customer Service, your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation's Chief Privacy Officer in writing as follows:
+
+Chief Privacy Officer   
+Torstar Corporation   
+One Yonge Street, 6th floor   
+Toronto ON   
+M5E 1E6   
+Fax: (416) 869-4183 
+
+Updated: August 1, 2012
