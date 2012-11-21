@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416060044id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121103420id_/http%3A//www.fastrology.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy policy
-
-### Fastrology Privacy Policy Statement
+# Astrology & Horoscopes, including Star Signs, Daily & Free Horoscopes
 
 This Privacy Policy Statement explains the data processing practices of fastrology.co.uk. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail via our [online form](https://web.archive.org/contact)
 
-### Eligibility
-
 This service is open to anyone based in the UK who is over the age of 18. 
-
-### Registration & Information Collected
 
 We collect personal information from you through the use of enquiry and registration forms and each time you e-mail us your details. We also collect information automatically about your visit to our site. This information, which includes demographic data and browsing patterns, is collected via the use of cookies (see below) and session file information. 
 
@@ -26,6 +20,7 @@ We use personal information collected via fastrology.co.uk to:
   * help other companies profile and extend their databases
   * facilitate communication between yourself and others
   * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from Marketing Craze Ltd and Premium Genie.
+  * provide third party offers which may include premium rate SMS and telephone charges. Check terms for details and obtain permission from the bill payer before using these services.
 
 
 
@@ -33,8 +28,18 @@ We currently only keep "sensitive data", as defined by the Data Protection Act 1
 
 ### Use of cookies
 
-We use "cookies" to identify you when you visit the fastrology.co.uk site and to build up a profile of our regular users. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. Our use of cookies also allows members to be presented with a personalised version of the site. We will only read cookies from your cookie file placed there through your web browser's interaction with the fastrology.co.uk site. [ aboutcookies.org ](http://www.aboutcookies.org/)
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [ www.aboutcookies.org ](http://www.aboutcookies.org/) . 
 
+Below is a table of cookies placed by data media and research on your computer, and their purpose. 
+
+Cookie | Name | Purpose | More information  
+---|---|---|---  
+Google Analytics | _utma  
+_utmb  
+_utmc  
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited. | [Click here for an overview of privacy at Google](http://www.google.com/analytics/learn/privacy.html)  
+PHP session cookie | PHPSESSID | This cookie is used to preserve certain data across subsequent accesses. This enables us to build more customized applications and increase the functionality of our web site. | [Click here for more information about PHP Sessions](http://www.php.net/manual/en/book.session.php)  
+  
 ### Use of session files
 
 We use session files, along with cookies, to log your browsing patterns and so identify the areas of the site which have been of interest to you, allowing us to personalise the fastrology.co.uk site for you. We also use information in aggregate form (in other words, no individual user is identified) to: 
