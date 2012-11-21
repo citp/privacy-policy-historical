@@ -1,133 +1,80 @@
-> *The following text is extracted and transformed from the babes.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619034710id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babes.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121185538id_/http%3A//www.babes.com/assets/policy/pp.php%3Fsite%3Dbb) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# PRIVACY POLICY
 
-## About Us
+PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). DDC allows Magnetic to monitor DDC affiliated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about DDC users. For further information about Magnetic's search re-targeting product, Magnetic's homepage on the Web is located at [http://www.magnetic.is](http://privacy.magnetic.is/). The full text of Magnetic's privacy policy is available on the Web at [http://privacy.magnetic.is](http://privacy.magnetic.is/). Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to <http://privacy.magnetic.is/w3c/optout.html> for information on how to opt-in or opt-out of use of their information by Magnetic and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third party tracking. 
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (?you?) and members of Babes.com network. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+## USE
 
-## Dispute Resolution and Privacy Seals
+This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice or delay. 
 
-We have no privacy seals or other assurance mechanisms. 
+## INFORMATION COLLECTED FROM SUBSCRIBERS
 
-## Additional Information
+Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber's name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address (es), referring website information, browser information, and other related data may be collected.
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+## USE OF PERSONAL SUBSCRIBER INFORMATION
 
-## Data Collection
+If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database. 
 
-* * *
+The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. 
 
-### Group "Basic information"
+## DISCLAIMER
 
-We collect the following information: 
+By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site. 
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties. 
 
+All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site. 
 
+The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites. 
 
-This data will be used for the following purposes:
+Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals. 
 
+A subscriber�s IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites. 
 
+## SECURITY OF INFORMATION COLLECTED BY THE SITE
 
-This data will be used by ourselves and our agents. 
+The site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site. 
 
-The following explanation is provided for why this data is collected:
+While the website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
 
-> Data collected from all Web users: access logs, and search strings (if entered).
+Unfortunately, the transmission of information via the Internet is not completely secure. The website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information.
 
-* * *
+## FINANCIAL INFORMATION
 
-### Group "Cookies"
+All financial data will only be shared with the sites third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions. 
 
-At the user's option, we will collect the following data: 
+Subscribers e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. 
 
-  * HTTP cookies
+## "OPT-IN" & "OPT-OUT" PROVISIONS 
 
+"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber�s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
 
+"OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
-This data will be used for the following purposes:
+## CHANGES/MODIFICATIONS TO PRIVACY POLICY
 
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
+This privacy policy may be changed, modified or edited at any time. It is the subscriber�s responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise. 
 
+## TERMS AND CONDITIONS OF MEMBERSHIP
 
+Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers. 
 
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
+## "OPT-IN" & "OPT-OUT" USER COMMUNICATION 
 
-The following explanation is provided for why this data is collected:
+"OPT-IN" -- Subscriber�s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber�s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber�s personal information, including its email address and data may be used for that matter or disclosed to third-parties.
 
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
+"OPT-OUT" -- Subscriber�s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber�s personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
-* * *
+### Terms and Conditions:
 
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
   
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
 
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
