@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winentrance.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312061235id_/http%3A//www.winentrance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winentrance.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121104452id_/http%3A//winentrance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Winentrance.com, Visits Traffic ,Cookies , Electronic Newsletters, Personal Information, Contact Us,Privacy Policy
 
@@ -26,8 +26,6 @@ Note: The use of the term “Personal Information” in this privacy statement r
 
 **Contacting Us**
 
-We welcome your suggestions or feedback to improve our service and request that any error found may kindly be brought to our [notice](https://web.archive.org/admission_notification/ "notice") or the practices of this site or your dealings with this website contact Genuine InfoTech Private Limited. Thanks for visiting our site.
+We welcome your suggestions or feedback to improve our service and request that any error found may kindly be brought to our notice or the practices of this site or your dealings with this website contact Genuine InfoTech Private Limited. Thanks for visiting our site.
 
-Releated Keyword : 
-
-Posted In Career Course : 
+Posted In career course : 
