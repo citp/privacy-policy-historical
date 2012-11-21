@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523185101id_/http%3A//www.bart.gov/siteinfo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121232033id_/http%3A//www.bart.gov/siteinfo/privacy.aspx) for the most accurate reproduction.*
 
 # BART - Privacy Policy
 
