@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127205623id_/http%3A//pacific.edu/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacific.edu privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121192031id_/http%3A//www.pacific.edu/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Master Privacy Statement
 
