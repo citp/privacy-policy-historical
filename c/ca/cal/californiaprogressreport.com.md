@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiaprogressreport.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605005533id_/http%3A//www.californiaprogressreport.com/site/%3Fq%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiaprogressreport.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121075002id_/http%3A//www.californiaprogressreport.com/site/%3Fq%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | California Progress Report
 
