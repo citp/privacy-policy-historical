@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mddionline.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072127id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mddionline.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121062113id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
 
 # UBM Canon - Privacy Policy
 
@@ -99,7 +99,7 @@ Back to top
 
 #### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes.  As this policy explains, in the absence of a written request from you (including an email request) that we do not use your personal data for that purpose, we intend to market to you and share your data with our customers interested in marketing to you.  If you wish to exercise your opt out from sharing your personal data for these purposes please ensure that you check certain boxes on the forms which we use to collect your information.  Alternatively please contact us in writing (including by email) as provided under “Contact” below.
+You have the right to ask us not to process your personal data for marketing purposes. As this policy explains, in the absence of a written request from you (including an email request) that we do not use your personal data for that purpose, we intend to market to you and share your data with our customers interested in marketing to you. If you wish to exercise your opt out from sharing your personal data for these purposes please contact us in writing (including by email) as provided under “Contact” below.
 
 Our site, and other electronic correspondence, may from time to time contain links to and from the websites of our third party partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and we do not accept any responsibility or liability for those policies.  Please check those policies before you submit any personal data to those websites.
 
