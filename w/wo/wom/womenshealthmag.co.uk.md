@@ -1,169 +1,143 @@
-> *The following text is extracted and transformed from the womenshealthmag.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211132816id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthmag.co.uk privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121014520id_/http%3A//www.womenshealthmag.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Your Privacy Policy | Rodale Inc
+# Women's Health Magazine :: Women's Health UK » Privacy Policy
 
-## About Us
+Hearst – means The National Magazine Company Limited, trading as Hearst Magazines UK  Limited is committed to protecting your privacy and we have prepared this Privacy Policy to describe to you our practices regarding the Personal Data we collect from users of our services.
 
-December 7, 2010
+Who are we and how to contact us?
 
-Protecting Your Privacy and Servicing Your Needs
+Hearst – Rodale Limited has its head office at:  
+72, Broadwick Street, London, W1F 9EP.
 
-Rodale is a global media company with a heritage, mission, and authority dedicated to the health and wellness of the individual, community, and planet. Through a broad portfolio of leading media properties Rodale reaches more than 70 million people around the world through multiple distribution channels, including magazines, books, online, e-commerce, direct-to-consumer, and video:
+The company is registered in England **00519122** , VAT Registration **GB 626 914 329**. If you would like to contact us for any reason, please email us at [dp@Hearsts.co.uk](mailto:dp@natmags.co.uk) and we will do our best to answer your questions.
 
-[](http://www.menshealth.com/) | [](http://www.prevention.com/) | [](http://www.womenshealthmag.com/)  
----|---|---  
-[](http://www.runnersworld.com/) | [](http://www.runningtimes.com/) | [](http://www.bicycling.com/)  
-[](http://www.biggestloserclub.com/) | [](http://www.organicgardening.com/) | [](http://www.rodaleinc.com/products/books)  
-[](http://www.rodale.com/) | [](http://eatthis.menshealth.com/home) |   
-  
-The company publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , _Mountain Bike_ , _and Organic Gardening_ , and is the largest independent book publisher in the United States, with a collection of bestselling titles. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. We're a family-run business that values integrity. and we are deeply committed to protecting your privacy and the security of the information you share with us.
+[1.What information do we collect from you?](http://www.womenshealthmag.co.uk/privacy-policy#1)
 
-We believe you have the right to know everything regarding the information we collect about you... how this information benefits you... and how you can say "no" to the use of any of this information.
+[1.1 How we collect Personal Data](http://www.womenshealthmag.co.uk/privacy-policy#1-1)
 
-This policy explains what we do with your information and what you can expect from Rodale. By using this site (the "Site"), you indicate your acceptance of Rodale's Privacy Policy.
+[1.2 Anonymous data collected via technology](http://www.womenshealthmag.co.uk/privacy-policy#1-2)
 
-TABLE OF CONTENTS:
+[1.3 Personal Data that we collect from you about others](http://www.womenshealthmag.co.uk/privacy-policy#1-3)
 
-  1. Children Under 13
-  2. Information Collection and Changes
-  3. Your Privacy Rights/Transfers of Information
-  4. Mobile Devices
-  5. Cookies/Web Beacons/Links
-  6. Policy Changes/Data Security
-  7. Rules for Submissions and Member Conduct
-  8. Rights/Copyrights
-  9. Contact Us
+[2.How will we use the information we collect?](http://www.womenshealthmag.co.uk/privacy-policy#2)
 
+[3.Do we share your Personal Data with other companies?](http://www.womenshealthmag.co.uk/privacy-policy#3)
 
+[4.Changing your mind about marketing messages and keeping your details up-to-date](http://www.womenshealthmag.co.uk/privacy-policy#4)
 
-**Children Under 13:**
+[5.Other websites](http://www.womenshealthmag.co.uk/privacy-policy#5)
 
-We care about the safety of children. We won't knowingly allow anyone under 13 to provide us any personal identifying information. Children should always get permission from their parents before sending any information about themselves (such as, their names, e-mail addresses, and phone numbers) over the Internet to us or to anyone else. We encourage you to become involved in your children's on-line experience and to share your interest in our sites with your young ones.
+[6.Where is your information processed and how do we keep your Personal Data secure?](http://www.womenshealthmag.co.uk/privacy-policy#6)
 
-**What information do you collect about me?**
+[7.Access to your Personal Data](http://www.womenshealthmag.co.uk/privacy-policy#7)
 
-Rodale collects personal identifying information ("PII") from you only if you voluntarily submit such information to us on website(s) and through e-mail. We also collect PII during transactions, sponsored events, mobile marketing campaigns, and contests/sweepstakes. When visiting one of our online sites, we collect user-specific information on what pages are visited and volunteered information such as survey information and/or site registrations. PII includes your name, postal address, e-mail address, telephone and cell phone numbers, wireless service provider, and all other information you provide to us.
+[8.Questions regarding this Privacy Policy](http://www.womenshealthmag.co.uk/privacy-policy#8)
 
-We may collect information about your interaction with Rodale sites and services. For example, we may use Web site analytics tools on our site to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser's width and height. We may also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on our sites and services. Additionally, we may collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+[9.Changes to this Privacy Policy ](http://www.womenshealthmag.co.uk/privacy-policy#9)
 
-When you receive newsletters or promotional e-mail from Rodale, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
+**1 What information do we collect from you?**
 
-In order to offer you a more consistent and personalized experience in your interactions with Rodale, information collected through one Rodale site or service may be combined with information obtained through other Rodale sites or services. We may also supplement the information we collect with information obtained from other companies.
+Hearst – Rodale Limited collects Personal Data and Anonymous Data from you when you visit our sites or when you send us information or communications. “Personal Data” means data that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, e-mail address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data.
 
-**What's in it for me?**
+“Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
 
-Plenty! The information we collect allows us to customize the content and/or layout of our page for each visitor. Plus, it enables us to notify you about updates to our Website... contact you with special offers of interest... and customize your Website experience. In addition, information is shared with reputable organizations that may contact you with special offers of possible interest.
+**1.1 How we collect Personal Data**
 
-**May I update my account and contact information?**
+We collect Personal Data from you, such as your name, contact details, country of residence, zip code or post code, gender, and/or birth date when you register on one of our sites or when you choose to use the various services we provide on our sites. We also collect other types of Personal Data that you provide to us voluntarily, when, for instance, you make a purchase, respond to surveys and questionnaires, or enter a competition. If you provide us feedback regarding our sites or services via e-mail, we will collect your name and e-mail address in order to send you a reply.
 
-Yes! Upon request, we will update your personal account information (e.g., customer number)... access your account status (outstanding balance)... and update your contact information (i.e., name, address, phone number). For more information or to update an account please visit <http://www.rodaleinc.com/customer-service>. If you prefer, you may write to us at Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+In order to improve our services to you, we may ask you to voluntarily complete confidential surveys. We do not ask you to provide us any personally identifiable data in association with these surveys although we do associate your responses with Personal Data. If you do not wish to participate in a survey, however, simply decline to participate when asked.
 
-**Your Privacy Rights**
+**1.2 Anonymous Data Collected via Technology**
 
-From time to time, we make your PII available to other reputable businesses whose products or services might be of value to you. If you do not want us to share your PII with other companies or organizations, please let us know by accessing the form at <http://www.rodale.com/cs/privacy.html>, by calling us at 866-387-0509, or writing to us at Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+To make our services more useful to you, we use technological means to collect Personal Data from you, including the Uniform Resource Locator (URL) you just came from, the URL you go to next, your browser type, and your Internet Protocol (IP) address. We also use cookies or clear GIFs to collect Personal Data from you about your use of our sites or e-mails we send you. You expressly consent to our use of cookies and clear GIFs when you use our services.
 
-**What if I don't want commercial/promotional e-mail from Rodale?**
+An “IP Address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet access provider, your IP address probably varies from session to session. We track IP addresses solely in conjunction with session cookies to analyse our Web page flow.
 
-Easy. If you do not want to receive commercial/promotional e-mail from Rodale, please let us know by updating your email preferences at ([preferences.rodale.com](http://preferences.rodale.com/pc/pcp/index)), by utilizing the unsubscribe option available on e-mail communications , by calling us at 866-387-0509, or by writing to us at: Customer Service, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+“Cookies” are small pieces of information that a Web site sends to your computer’s hard drive while you are viewing a Web site. Hearst – Rodale Limited uses both session cookies (which expire once you close your Web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can disable this function by changing the cookie profile on your computer’s Web browser. If you disable your cookies, however, you will not have access to certain features of our sites such as “Remember My Password” or interactive quizzes. We do not store any Personal Data in cookies on your computer (other than the cookie itself). For more information on cookies please visit <http://www.allaboutcookies.org/>
 
-**Transfers of Information for Legal Purposes**
+“Clear GIFs” are clear electronic images that are used to track your movements on our sites. They help us to determine whether content on our sites is effective. We also use clear GIFs in HTML-based e-mails to let us know which e-mails have been opened and acted upon by recipients (including any persons to which the e-mails have been forwarded). Clear GIFs on our sites collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the clear GIF resides. This information helps us assess the effectiveness of certain communications and marketing campaigns.
 
-Rodale Inc. may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, in the course of a legal proceeding or in response to a law enforcement agency request. If there is a change of control in Rodale's business (whether by merger, sale, or otherwise) or a sale or transfer of its assets, customer information could be sold or transferred as part of that transaction and your PII potentially used by the Purchaser or other recipient of said customer information.
+**1.3 Personal Data That We Collect from You About Others**
 
-You acknowledge that Rodale is located in the United States of America ("U.S.") and will process and store your information in the U.S., and that as a result, U.S. governments, courts or law enforcement or regulatory agencies may be able to obtain disclosure of your information through the laws of the U.S.
+If you decide to invite a friend or family member to join any of our services, we will collect your name and e-mail address as well as your friend’s or family member’s e-mail address in order to send their e-mail. We will always ask your permission to mention your name when contacting your friend or family member. This information is used once only and is not saved in our database, unless they have entered a competition or other promotion in which case their e-mail address is stored only for that purpose. If you decide to invite a friend or family member to become involved we will collect and save their e-mail address into our database, along with their contact preferences, as we would for anyone who registers on our sites.
 
-**Mobile Devices/Third Party Fees**
+**2 How will we use the information we collect?**
 
-From time to time, Rodale may deploy mobile marketing campaigns and may allow you to register for services that involve messages and/or e-mails being sent to your mobile device. You are responsible for obtaining access to the mobile device services and that access may involve third-party fees, including mobile carrier, text messaging, or airtime charges. You are solely responsible for those fees, including any and all fees associated with the delivery of the messages, e-mails or other materials to your mobile device. Please consult your mobile service provider's pricing plan prior to registering for any such service to determine the charges for sending and receiving text messages from/to your mobile device. You will be given the opportunity to opt-out of receiving text messages or emails to your mobile device at the time you register and with each message or email you receive.
+Hearst – Rodale Limited uses your Personal Data to provide you with a customised Web experience and to provide services to you. Such services include sending you marketing messages if you have given us permission to do so, processing your answers to quizzes, and sending electronic newsletters and promotional e-mails to you. We also use Personal Data for customer service messages, to notify you about updates to our services and to respond to your requests.
 
-Mobile marketing campaigns may involve your sending an e-mail from your mobile device to Rodale or a third-party campaign operator. An e-mail or other response will then be sent to your mobile device. Opting to participate in a campaign is 100% your choice. When you engage in these mobile marketing campaigns, Rodale and the third-party campaign operator collect your cell phone number, the name of your wireless service provider, images that you send using your cell phone as part of the campaign, and other relevant information.
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to perform statistical analyses of users’ aggregate behaviour so that we may enhance the content of our services and improve site navigation. Hearst – Rodale Limited reserves the right to use and disclose Anonymous Data to third parties at its discretion, in aggregate form.
 
-**What are "cookies" and what do they do for me?**
+If you elect to receive communications from us we may periodically send you free newsletters and e-mails that directly promote the use of our sites or the purchase of our products or services and may contain advertisements for third parties.
 
-In order to provide better service when you return to our site, Rodale may use cookies to store your preferences and information about such things as items added to your shopping cart, purchases you have made with us, what pages you visit, and past activity at a site. "Cookies" are tiny pieces of information stored by your browser on your computer's hard drive. Cookies are also used to ensure that you are not repeatedly sent the same banner ads and to customize Webpage content based on your browser type (Netscape or Microsoft Explorer, for example). Most browsers are initially set to accept cookies.
+**3 Do we share your Personal Data with other companies?**
 
-If you want to disable cookies, there is a simple procedure in most Internet browsers that allows you to turn off cookies. Please remember, however, that cookies may be required to allow you to use certain features of our sites.
+Except as otherwise stated in this Privacy Policy and in our Privacy Notices where you give us your consent, we do not sell, trade, or rent the Personal Data collected from our services to third parties. However, we will share your Personal Data with our third party suppliers who need to process your data in order to fulfil your request, such as to charge your credit card (if authorised by you), fill your order, and deliver promotional e-mails. These third parties are required under contract not to use your Personal Data other than to provide the services requested by Hearst – Rodale Limited and to guarantee to our satisfaction that they have sufficient processes in place to ensure the security of your data whilst it is in their care.
 
-We may also use third-party advertising, data analytics and online targeting companies to serve ads when you visit the Sites. When online advertisements are displayed to you, one or more persistent cookies may be placed on your computer. Some of these companies may use anonymous information (not including PII) about your visits to this Site and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice and the third party companies we currently might be using, click [here](http://www.rodaleinc.com/third-party-advertising). To opt-out of this practice please click [here](http://www.networkadvertising.org/). 
+You expressly consent to the sharing of your Personal Data with our contractors and third party service providers for the purpose of providing services to you.
 
-**Use of Web Beacons**
+If you send a testimonial or comment to us, we may post it on our site or use it in advertising materials. We will attribute your testimonial to you by posting your first and last initial or your first name and last initial next to your testimonial on our site or advertising materials, if provided. Regardless of any choices you make regarding your Personal Data (as described below), Hearst – Rodale Limited may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) protect or defend the rights or property of Hearst – Rodale Limited or users of our services.
 
-Rodale Website pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
+Hearst – Rodale Limited is a company with subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”). These affiliates include, but are not limited to, Hearst-Rodale, netdoctor.com, handbag.com. We may share some or all of your Personal Data with these affiliates, in which case we will require our affiliates to honour this Privacy Policy. If an affiliate or another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy and the terms under which you submitted your data.
 
-Rodale may also employ Web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our sites.
+If you provide Hearst – Rodale Limited with your contact details and agree to receive promotional messages, we may share your details with our affiliates or other third-party businesses that offer goods or services that we believe may be of interest to our customers. Many customers appreciate the offerings they receive from such third parties; however, we allow you to opt out at any time of having your Personal Data shared with affiliated or unaffiliated third parties for the purpose of sending you relevant information.
 
-**Links**
+If you would like to cease receiving these communications, you may unsubscribe by logging into Edit My Profile and updating your preferences.
 
-Rodale sites may, on occasion, contain links to other sites with information gathering practices different from our own. Visitors should consult privacy policies for all other sites, as Rodale has no control over information submitted to or collected by such third parties.
+**4 Changing your mind about marketing messages and keeping your details-up-to-date**
 
-Rodale sites sometimes offer contest, sweepstakes, or promotions sponsored or co-sponsored by third parties. These third parties may obtain PII that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Rodale has no control over the third-party sponsor's use of this information. The Rodale site will notify you at the time of requesting PII if third-party sponsors will be provided with such information.
+We offer you choices regarding the collection, use, and sharing of your Personal Data. You may proactively make such choices by visiting Edit My Profile. When you register on one of our sites, we will ask you if you want to receive future communications from us. You may indicate consent to receipt of these communications by ticking the box located on the registration form. Should you decide to stop receiving further communications from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by going to My Profile. If at any time you wish to subscribe to any communications from us, login to your account. Despite your indicated e-mail preferences, we may send you notice of any updates to our Terms of Use or Privacy Policy.
 
-**Changes...**
+You may change any of your contact information in your account online by visiting Edit My Profile.
 
-Rodale may need to change this privacy policy from time to time in order to address new issues, evolving technologies, changes on our sites, or business practices. Rodale will post those changes so you will always know what information we gather and how we might use that information. Please refer back to this policy regularly.
+Be sure to include your full name and address in your opt-out request, in order to allow us to process your request.
 
-**What about data security?**
+Note that we may retain changed or deleted information in our archives.
 
-To ensure the security of your data - including address information and credit card numbers - Rodale always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse, or alteration of information that we have collected from you.
+**5 Other websites**
 
-**Rules for Submissions and Messages**
+Except as otherwise expressly provided in this Privacy Policy or on this website, only Hearst – Rodale Limited and its affiliate companies collect Personal Data through the services provided solely by Hearst – Rodale Limited ; this Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our services.
 
-Responsibility for what is posted in the discussion groups or other public forums lies with each user - you alone are responsible for the content of your messages and the consequences of any such messages. We cannot and do not review every submission a user may make. We neither endorse nor guarantee the accuracy or propriety of any submission. We do, however, reserve the right but do not assume the obligation to restrict or prohibit your use of our sites if we believe you are violating any of the terms of the agreement and to remove, edit, or relocate any submission as we see fit whether for legal or other reasons.
+When you click on advertisements or links on Hearst – Rodale Limited sites, you will leave that site and go to another site. During this process, a third party (including a third party advertising service that may provide services to an advertiser) may collect Personal Data or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to, these other companies, sites, or content, or to any collection of data after you click on an advertisement of or link to a third party.
 
-**Member Conduct**
+**6 Where is your information processed and how do we keep your Personal Data secure?**
 
-You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that you, and not Rodale Inc., are entirely responsible for all Content that you upload, post, or otherwise transmit. Rodale does not control the Content posted and, as such, does not guarantee the accuracy, integrity, or quality of such Content. You understand that by using a Rodale site, you may be exposed to Content that is offensive, indecent or objectionable.
+Your Personal Data may be processed both in and outside of your own country. When you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the UK Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on any of our sites.
 
-**You agree to not use the Rodale sites in order to:**
+We may need to transfer your data outside the UK (and possibly to places outside the European Economic Area) and by using Hearst – Rodale Limited sites you consent to us transferring any such data in this way. However any company outside the EEA to whom we transfer data is contractually bound to protect your personal data.
 
-  * upload, post, or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; 
-  * harm minors in any way;
-  * impersonate any person or entity, including, but not limited to, a Rodale official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity; 
-  * forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service or develop restricted or password-only access pages, or hidden pages or images (those not linked to from another accessible page); 
-  * upload, post, or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
-  * upload, post, or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party; 
-  * upload, post, or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation, except in those areas of the Service that are designated for such purpose;
-  * upload, post, or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
-  * interfere with or disrupt the servers or networks connected to the Rodale site, or disobey any requirements, procedures, policies or regulations of networks connected to the site;
-  * intentionally or unintentionally violate any applicable local, state, national or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange or the NASDAQ, and any regulations having the force of law;
-  * "stalk" or otherwise harass another; 
-  * collect or store personal data about other users; 
-  * promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals; 
-  * use your home page (or directory) as storage for remote loading or as a door or signpost to another home page; or
-  * engage in commercial activities without the express written consent of Rodale Inc. This includes, but is not limited to, the following activities: 
-    * offering for sale any products or services;
-    * soliciting for advertisers or sponsors;
-    * conducting raffles or contests that require any type of entry fee;
-    * displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services 
-    * displaying banners for services that provide cash or cash-equivalent prizes to users in exchange for hyperlinks to their websites. 
+Hearst – Rodale Limited and affiliates are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorised access, use, or disclosure.
 
+On most of our sites, Hearst – Rodale Limited enables the use of Secure Sockets Layer (SSL) technology and Verisign Site ID, the industry leaders in providing secure communication over the Internet. We also offer industry-standard secured-server transactions that encrypt your Personal Data when collecting your credit card information for online purchases. To verify that you have a secure server connection, look for the locked padlock symbol at the bottom of your browser window or the HTTPS-prefix in the URL.
 
+Hearst – Rodale Limited has implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a computer firewall, a barrier designed to prevent outsiders from accessing our servers. We may also require you to enter a password to access your account information. In addition, Hearst – Rodale Limited protects your Personal Data from unauthorised physical access by storing your Personal Data in a controlled facility. Except as provided elsewhere in this Privacy Policy, Hearst – Rodale Limited limits access to Personal Data in electronic databases to those persons (including employees and contractors) in Hearst – Rodale Limited’s organisation who have a business need for such access and those persons are under contract to keep your data secure.
 
-**Rights**
+Even though Hearst – Rodale Limited has taken significant steps to ensure that your Personal Data is not intercepted, accessed, used, or disclosed by unauthorised persons, you should know that Hearst – Rodale Limited cannot eliminate security risks associated with Personal Data.
 
-You acknowledge that we acquire all Rights to use any posted materials as described above so that we do not violate any Rights you may have in materials you post. By submitting content to or through our sites, you grant us the non-exclusive right to reproduce, modify, and distribute it as we see fit in any medium and for any purpose in any form, media, or technology now known or later developed. You also permit any other user to access, display, and print such content for personal use. You vouch that any material you submit does not violate, plagiarize, or infringe upon the right of any third party, including copyright, trademark, or proprietary rights. If non-original content is included in your posting, you must obtain permission from the content owner and attribute it.
+**7 Access to your Personal Data**
 
-**Copyrights and Copyright Agent**
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to see the information we hold about you, please contact us in writing:
 
-Rodale respects the rights of all copyright holders. If you believe that your work has been copied and used on one of our Sites in a way that constitutes copyright infringement, please provide Rodale's Copyright Agent the following information required by Section 512 of the Digital Millennium Copyright Act:
+The Data Protection Compliance Officer  
+Hearst – Rodale Limited  
+72 Broadwick Street,  
+London, W1F 9EP
 
-  * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; 
-  * Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single on-line site are covered by a single notification, a representative list of such works at that site; 
-  * Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; 
-  * Information reasonably sufficient to permit uetnt.gifs to contact the complaining party;
-  * A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and 
-  * A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. We are also legally obliged to request you to provide us with identification so that we can be certain that you are entitled to receive the requested data.
 
+**8 Questions Regarding this Privacy Policy**
 
+Hearst – Rodale Limited welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at: [dp@Hearsts.co.uk](mailto:dp@natmags.co.uk).
 
-Rodale's Copyright Agent may be contacted at: Copyright Agent, Rodale Inc., 400 South 10th Street, Emmaus PA 18098-0099.
+Dispute Resolution
 
-**We appreciate the opportunity to serve you!**
+If you believe that Hearst – Rodale Limited has not adhered to this Privacy Policy, please contact us by e-mail at [dp@Hearsts.co.uk](mailto:dp@natmags.co.uk).
 
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 400 South 10th Street, Emmaus, PA 18098, and we can be reached via e-mail at: <http://www.rodale.com/cs/index.html>. You can reach customer service by telephone at 866-387-0509.
+We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
 
-Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices, the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](http://www.ftc.gov/).
+**9 Changes to this Privacy Policy**
 
-Note: This privacy policy applies to all of Rodale's owned and operated websites and to Rodale's other information gathering activities.
+We may amend this Privacy Policy from time to time. If we make material changes in the way we collect, use, and/or share your Personal Data, we may notify you by sending you an e-mail to the last e-mail address you provided to us, by writing to your last known postal address and/or by prominently posting notice of the changes on our sites. Any material changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our sites.
 
-Rodale complies with all the stringent standards of ethical conduct set forth by the Direct Marketing Association.
+These changes will be effective immediately for new users of our services. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail and postal address. In the event that the last e-mail or postal address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our despatch of the e-mail or letter containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.
+
+November 2010.
