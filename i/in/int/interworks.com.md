@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interworks.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530163918id_/https%3A//www.interworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interworks.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121162210id_/https%3A//www.interworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InterWorks, Inc.
 
