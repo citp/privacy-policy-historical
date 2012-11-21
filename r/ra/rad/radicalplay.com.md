@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radicalplay.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192902id_/http%3A//radicalplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radicalplay.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121193111id_/http%3A//radicalplay.com/privacy.html) for the most accurate reproduction.*
 
 # R A D I C A L - P L A Y - from gamers to gamers || Our privacy policy
 
@@ -21,4 +21,4 @@ Cookies are very small text files that get stored on your computer through your 
 Cookies are also used on this site (by us Radicalplay.com) to save your **game progress** information (to be able to save your last played game and continue it another time or day).  
 This is present in games: Need For Madness, Radical Aces and The Flowering Nose.
 
-Thank You.  Copyright � RadicalPlay.com 
+Thank You.  Copyright © RadicalPlay.com 
