@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613234537id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122005910id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 We, ZeoBIT LLC (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the data protection law of California, United States, regarding your personal information. Our privacy policy applies to:
 
   * using the Company’s products and services,
-  * visiting the [http://MacKeeper.com](http://mackeeper.com/) or [http://MacKeeper.ZeoBIT.com](http://mackeeper.zeobit.com/) websites,
+  * visiting the [http://MacKeeper.ZeoBIT.com](http://mackeeper.zeobit.com/) website,
   * visiting any other linked pages or application services offered by the Company.
 
 
@@ -31,7 +31,21 @@ You will be required to provide your Personal Information at our website or in a
 
 
 
+Information provided by you will be used only for:
+
+  * creation of account where you will be able to manage ZeoBIT product licenses,
+  * customer support CRM system,
+  * emails informing about news, updates etc.  
+Note: Information collected by the Anti-Theft service is not used by ZeoBIT LLC for any purpose. This information can be accessed only by the user in their ZeoBIT account.
+
+
+
 This data enables fast and efficient rendering of our products and services to our customers. In addition, it is used for communication purposes, such as notifying you about product updates or special offers.
+
+The user is able to hide their personal data when creating a ZeoBIT account as well as deactivate the Anti-Theft service in their ZeoBIT account.
+
+User information is not complemented by information from other sources.  
+The user is able to correct material inaccuracies in Personally Identifiable Information, such as account or contact information, in their ZeoBIT account.
 
 ##### Information Collected Automatically
 
@@ -43,6 +57,8 @@ In addition to information you enter yourself, we collect technical data such as
 
 
 
+During registration of a ZeoBIT account we will also collect such information as name, email and phone number.
+
 This data is used for the following purposes:
 
   * Finding out how many people visit our website and how frequently,
@@ -51,6 +67,8 @@ This data is used for the following purposes:
   * Collecting some other statistical information.
 
 
+
+In case of enabled Anti-Theft service we will automatically collect the computer's IP address and its geographical position every hour. In case the computer is STOLEN we will collect IP address, track location, trace route and make snapshots using the built-in iSight camera or any external camera every five minutes.
 
 Automatically gathered data is completely anonymous. Therefore even if it is revealed to some third parties, this won’t affect your privacy.
 
@@ -91,7 +109,7 @@ We are open to any questions on this Privacy Policy. Please address all your con
 Call us 24/7 with any questions.  
 Toll free.
 
-**Live chat**
+**Live Chat**
 
 Our representative will be happy to  
 answer any questions about MacKeeper
