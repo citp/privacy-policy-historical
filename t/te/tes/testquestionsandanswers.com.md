@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034629id_/http%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testquestionsandanswers.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121234934id_/http%3A//www.testquestionsandanswers.com/privacy.html) for the most accurate reproduction.*
 
 # Test Questions and Answers - Privacy Policy
+
+[details](https://web.archive.org/popup/guarantee.html "Money Back Gaurantee")
 
 Thanks for visiting the **TestQuestionsAndAnswers.com** website and reviewing our privacy policy! Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information.
 
@@ -62,4 +64,22 @@ The information posted on the **TestQuestionsAndAnswers.com** website includes h
 
 While the information and recommendations contained in the this website including courses, tests, publications, and newsletters have been compiled from sources believed to be reliable, **TestQuestionsAndAnswers.com** makes no guarantee as to, and assumes no responsibility for, the correctness, sufficiency, or completeness of such information or recommendations. Other or additional safety measures may be required under particular circumstances.
 
-Information contained within **TestQuestionsAndAnswers.com** 's website is the property of **TestQuestionsAndAnswers.com**. Permission for re-publication in any form must be obtained in writing from: **TestQuestionsAndAnswers.com** , PO Box 3359, Ponte Vedra Beach, FL 32004-3359. Fax (904) 280-2037. E-mail: [support@TestQuestionsAndAnswers.com](mailto:support@TestQuestionsAndAnswers.com)
+Information contained within **TestQuestionsAndAnswers.com** 's website is the property of **TestQuestionsAndAnswers.com**. Permission for re-publication in any form must be obtained in writing from: **TestQuestionsAndAnswers.com** , PO Box 3359, Ponte Vedra Beach, FL 32004-3359. Fax (904) 280-2037.
+
+Over  
+ **1,000,000**  
+DMV Written Exams Passed
+
+I would like to thank you for your wonderful CDL practice test course. I passed the General Knowledge CDL test beautifully, with no problems.
+
+My wife and I recently moved to Missouri from Australia. The DMV practice tests were a great way to quickly learn the rules and regulations for our driving tests.
+
+P.T., Kansas City, MO
+
+I just want to say how easy and pain-free it was to take your course on the DMV handbook over the internet! I passed the driver's license test at the DMV the first time. 
+
+Elizabeth, Louisville, KY
+
+[See more testimonials](https://web.archive.org/popup/testimonials.html "Testimonials")
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.testquestionsandanswers.com)
