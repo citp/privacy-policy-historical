@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524215723id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231946id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Compare Mobile Tariff Plans - Reduce Mobile Phone Bills |YourBillBuddy
 
 ## Know your Best Plan & Save Money!
 
 Watch our patented recommendation engine show the best mobile plans in a few seconds. Now. FREE!
+
+Call: **9014525666**
 
 ## Upload Mobile Bill
 
@@ -18,7 +20,7 @@ Don't have an e-bill? Enter your outgoing call/SMS details:
 
 ## Enter Call Details
 
-Enter your outgoing call/SMS details:
+Enter your outgoing call/SMS/3G details:
 
 **Introduction**
 
