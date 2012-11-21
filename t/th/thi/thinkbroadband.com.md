@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170335id_/http%3A//www.thinkbroadband.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121232929id_/http%3A//www.thinkbroadband.com/privacy_policy.html) for the most accurate reproduction.*
 
 # thinkbroadband :: The UK's largest independent Broadband / ADSL troubleshooting website (incorporating news, reviews and comparisons)
 
@@ -12,7 +12,7 @@ Please bear in mind that any personal information that you submit through forums
 
 ## Email 
 
-We may send e-mails to users who have registered with us, and we use this and other information you provide for demographic purposes. We do not give our user list out to other parties and we only e-mail registered users. We do not approve of unsolicited e-mail and do not believe e-mailing users against their wishes is respectable. To that end we keep all e-mails to a minimum, unless a regular update is specifically and explicitly requested by the user. You can remove yourself from all our lists automatically by following instructions. To cancel your forum account, please contact [team@thinkbroadband.com](mailto:team@thinkbroadband.com). We request that any information you provide us is kept up-to-date so that if you fill in any of our surveys, we may contact you to gather more information. 
+We may send e-mails to users who have registered with us, and we use this and other information you provide for demographic purposes. We do not give our user list out to other parties and we only e-mail registered users. We do not approve of unsolicited e-mail and do not believe e-mailing users against their wishes is respectable. To that end we keep all e-mails to a minimum, unless a regular update is specifically and explicitly requested by the user. You can remove yourself from all our lists automatically by following instructions at our [unsubscribe page](https://web.archive.org/unsubscribe.html). To cancel your forum account, please contact [team@thinkbroadband.com](mailto:team@thinkbroadband.com). We request that any information you provide us is kept up-to-date so that if you fill in any of our surveys, we may contact you to gather more information. 
 
 ## Registration 
 
