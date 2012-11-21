@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522150824id_/http%3A//www.information-age.com/corporate/816152/privacy-policy.thtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121041512id_/http%3A//www.information-age.com/corporate/816152/privacy-policy.thtml) for the most accurate reproduction.*
 
-# Information Age for IT business professionals | Privacy policy
+# Privacy policy
 
 We respect the privacy of every individual who visits this site. Our policy on the collection and use of personal data is outlined below.
 
@@ -25,7 +25,7 @@ We will not disclose any personally identifiable information about you without y
 
 We may also give the information that you supply to us to a third party (including third parties that are based outside the EU, for example in the US) or to our associated companies to enable them to send you information that may be of interest to you. 
 
-**They may use this information for:**
+### **They may use this information for:**
 
   1. Market research
   2. Sending you information about their products and services
@@ -35,14 +35,17 @@ We may also give the information that you supply to us to a third party (includi
 
 If you do not want to receive mailings from us or from third parties, please refer to the opt-out details on the subscription form. 
 
-**Non-personal details**  
+### **Non-personal details**
+
 We may automatically collect non-personal information about you, such as the type of browsers you use or the website from which you linked to us. This information is only used to assist us in providing an effective service on this website. We may, from time to time, supply the owners and operators of third-party websites that have a link to our site with information about the number of users linking to our site from their website. You cannot be identified from any of this information.   
 **  
-What Personally Identifiable Information Does Information-Age.com   Collect? **
+**
+
+### **What Personally Identifiable Information Does Information-Age.com   Collect? **
 
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive our revenue mainly from advertising, collecting information is essential to keeping our services free to users. We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for an e-mail newsletter, when you use certain products or services, such as commenting on articles. Once you register with one of our sites you are no longer anonymous to us.
 
-**How Does Information-Age.Com Use The Information?**
+###  **How Does Information-Age.Com Use The Information?**
 
 >To customise the advertising and content you see.  
 >To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you.
@@ -51,6 +54,7 @@ Our primary goal in collecting personal information is to provide you with the b
 
 >To send you information you agree to receive about topics we think will be of interest to you 
 
+###   
 **How Does Information-Age.com Share The Information?**
 
 Personally Identifiable Information Information-Age.com may make your personally identifiable information available to other companies or people when:
@@ -63,8 +67,35 @@ Personally Identifiable Information Information-Age.com may make your personally
 
 >We respond to injunctions, court orders or legal process; or we believe that your actions violate applicable laws or any usage guidelines for specific products or services, or threaten the rights, property or safety of our company, our users, or other.
 
-**Cookies**  
-We may store some information (commonly known as a 'cookie') on your computer when you look at our site. This information facilitates your use of our website and ensures that you do not need to re-enter your details on each visit. You can set up your browser to notify you when you are sent a cookie, which allows you to choose whether or not to accept it (your help screen or manual should tell you how to do this). 
+### What personal information we collect about you and your use of this website?
+
+We collect personal information including your name, email address, payment details and user profile information where applicable through our site registration and via our order and registration forms. Where the information is compulsory, in order to enable us to provide a service to you, this is clearly marked on the forms and within the registration. In other cases the provision of information is voluntary but, if given, will help us to provide you with better or more personalised service.
+
+### How do we use cookies?
+
+A cookie is a small piece of information which is stored on your computer’s hard drive by your browser. We use cookies to give you access to the sites and collect information about your use of the sites for certain purposes outlined in this policy. These purposes **do not** include targeting or advertising based on your personal details, or the way you use the site. 
+
+The International Chamber of Commerce (ICC) has released guidelines on how different types of cookies must be used, and the consent that must be obtained. Further details of our policy in relation to each type of cookie are below. 
+
+### Category 1: strictly necessary cookies
+
+These cookies enable services you have specifically asked for. We use these cookies for purposes such as allowing you to access secure areas of the website. 
+
+### Category 2: performance cookies
+
+These cookies collect anonymous information on the pages visited. They do not collect information that identifies you as a visitor to our website. We only use this information to improve how our website works and not to target you with advertising. We may use these cookies to assess the effectiveness of pay-per-click affiliate advertising, but we do not use them to pass your personal information to advertisers or to target you for advertising. 
+
+### Category 3: functionality cookies
+
+These cookies remember choices you make (such as your user name, language or the region you are in) to provide enhanced, more personal features. We use these cookies to remember changes you have made to text size and other parts of web pages you can customise. 
+
+### Category 4: targeting cookies or advertising cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests. **We do not use these cookies on our websites.**
+
+You can delete cookies previously sent by us from your computer and set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Information on how to do this can be accessed via the help function on your browser. 
+
+Please note that if you change your privacy settings to reject cookies we may not be able to provide you with subscription services that have a log-in procedure. [To find out more about cookies click here. ](http://www.international-chamber.co.uk/components/com_wordpress/wp/wp-content/uploads/2012/04/icc_uk_cookie_guide.pdf)
 
 **Accuracy**  
 We aim to keep our records as accurate as possible. If you would like to review or amend the details that you have supplied to us at any time, please contact us as set out below. 
