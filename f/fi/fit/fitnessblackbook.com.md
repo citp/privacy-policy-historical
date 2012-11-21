@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitnessblackbook.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502000817id_/http%3A//fitnessblackbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessblackbook.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121073035id_/http%3A//fitnessblackbook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fitness Black Book
+# Privacy Policy - Fitness Black Book
 
 PRIVACY POLICY
 
@@ -46,9 +46,3 @@ This policy and the use of this Site are governed by Washington law. If a disput
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Washington, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 FitnessBlackBook.com is controlled, operated and administered entirely within Washington. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Ffitnessblackbook.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
-
-Get My Free Video Course for 2011!
-
-Enter your email to get immediate access to "Abs Blueprint 1.0"
