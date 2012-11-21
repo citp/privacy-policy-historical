@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tourjourney.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616055055id_/http%3A//www.tourjourney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourjourney.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133534id_/http%3A//www.tourjourney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Travel advice, tips and destination information to inspire you
-
-##  Privacy Policy « 
 
 ### [Privacy Policy](http://www.tourjourney.com/privacy-policy/)
 
@@ -13,9 +11,3 @@ As you explore our website, you will come across places in which we ask you to p
 At other places in this site, we ask for your feedback, opinion or suggestions, and provide you with a link for e-mailing us your response. We may also ask for your zip code or city of residence to gather geographical information about the visitors to our site. If you send your e-mail to us, it will include your e-mail address in the “From” line. But again, as in the case of subscriptions and contests, we promise to use the e-mail address we receive in this manner only for the purpose of responding to your questions or suggestions, and will not approach you with unsolicited offers or provide your e-mail address to anyone else.
 
 One last area in which we ask for your name is on bulletin boards or forums–places on the site where you can participate in a discussion of a particular subject by posting written comments which are then entirely public. We ask for a name simply so that other people reading a string of comments will be able to determine which comments come from the same person. You may, therefore, provide a nickname or alias, if you prefer, so that your identity is not disclosed. You should be aware that if you do voluntarily disclose personal information (e.g. user name, e-mail address) on the bulletin boards or forums, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. If you choose to participate anonymously, you should remember that you are still legally liable for the material you post, including claims of libel, invasion of privacy and copyright infringement.
-
-[ ](http://www.tourjourney.com/five-days-trip-in-sydney/)
-
-### [Five days trip in Sydney](http://www.tourjourney.com/five-days-trip-in-sydney/)
-
-From glamorous beaches and great nights, to the sublime Blue Mountains, pack in the best this city has to offer...
