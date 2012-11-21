@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crydev.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523152929id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crydev.net privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121225304id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Crydev.net • User Control Panel • Privacy Policy
 
