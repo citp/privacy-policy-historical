@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403112854id_/http%3A//www.the-amazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121074901id_/http%3A//www.the-amazing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amazing Funny Photos and Science News
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. thebizzare.com is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.the-amazing.com/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
