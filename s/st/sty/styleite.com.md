@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleite.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527151918id_/http%3A//www.styleite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleite.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133410id_/http%3A//www.styleite.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Styleite
 
@@ -19,6 +19,8 @@ Styleite, Inc., offers email newsletters. Users who subscribe to the Styleite ne
 To sign up to receive regular emails, users must submit information including a valid email address. Styleite does not share contact or personal information with any other organization.
 
 This information can be used in aggregate form to assess general user interest in various internal and third-party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
+
+Styleite, LLC. may periodically e-mail you messages about products and services that we think may be of interest to you. We may also produce contests, sweepstakes and special events with the support of promotional partners. Information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. In the instance that there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. You can choose not to receive such messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
 
 **Cookies**
 
@@ -51,6 +53,17 @@ Some of our business partners (e.g. advertisers), may use cookies on our site. S
 **Third-Party Advertising**
 
 The advertisements appearing on this Web site are delivered to users by Google, among other services. Information about a user’s visit to Styleite.com, such as number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+
+**Information Collected Through Third-Party Sources**
+
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any personally identifying information. This type of information includes but is not limited to:
+
+  * Demographic information (gender, age, HHI, job title, interests, etc.)
+  * Advertising information (clicks, interactions, post-impression performance data)
+  * Social networking information (Facebook, Twitter, LinkedIn, etc.)
+  * Research information (data collected from partners)
+
+
 
 **Notification of Changes**
 
