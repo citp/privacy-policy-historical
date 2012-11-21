@@ -1,64 +1,102 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523172633id_/http%3A//www.jacksonandperkins.com/privacy-statement/a/534) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121145038id_/http%3A//www.jacksonandperkins.com/privacy-statement/a/534) for the most accurate reproduction.*
 
 # Privacy Policy | Jackson and Perkins
 
-Effective: October 15, 2003
+This website ("jacksonandperkins.com") is owned by JPPA, Inc. It is our policy to protect your personal information and to use it in accordance with this Privacy Policy. Please take a few moments to review our Privacy Policy. 
 
-**Information Collection and Use  
-**Jacksonandperkins.com collects information from our shoppers at several different points on our website and in our customer service center, and is the sole owner of this information. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+**Information Collection and Use**
 
-**Registration  
-**
+Jackson & Perkins asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Policy. 
 
-To enjoy all the services of Jacksonandperkins.com, including a quicker checkout, access to order history and a personalized address book, you must first complete the registration form.
+The information you provide may include information provided during the registration process, including contact information, such as your name, address and email address, and financial information, such as a credit card number, if you order products or services through the website. This information will be used to process your order and if necessary, to contact you regarding the status of your order. 
 
-**Order  
-**We request information from you on our order form. Here we request you provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, this contact information is used to get in touch with you.
+Information that you provide is the property of Jackson & Perkins Company, Inc. All of the information that you provide may be used by Jackson & Perkins to better serve you. Jackson & Perkins may also use this information to contact you about new specials, catalogs, products and other opportunities. Ways we use information include: 
 
-**Our "Remember Me" Service  
-**Our "Remember Me" service allows a registered member access to their personal account features without having to log in each time they visit. If you select this service, log-in to our site is automatic; you'll have access to your account information when you return to our site: 
+You can contact Jackson & Perkins directly with questions or comments regarding the services by using the Jackson & Perkins contact inquiry form. This contact inquiry form asks you for certain identifying information so that Jackson & Perkins may respond to your inquiry. 
 
-  * **Your personal Giftlist**
-  * **Order history and tracking**
-  * **Address book**
+Jackson & Perkins may use your contact information to get in touch with you regarding the status of your registration or any orders you may place. You may also be contacted by us regarding additional services and features or requesting your feedback about your experience with jacksonandperkins.com. 
+
+Jacksonandperkins.com may provide you with bulletin boards and chat rooms for your use. In the event you voluntarily disclose personally identifiable information using such services, that information, along with any content in your communication or post, can be collected, correlated and used by third parties. This may result in unsolicited messages from third parties. Such activities are beyond the control of Jackson & Perkins. Jackson & Perkins does not assume any duty to monitor or review the contents of any bulletin board or chat room. 
+
+Where technically feasible, the domain names of visitors to jacksonandperkins.com are automatically recognized by our server. Jackson & Perkins may use this information to track the number of visitors to the jacksonandperkins.com website and to see which pages and services on jacksonandperkins.com are visited most often. 
+
+The jacksonandperkins.com optional on-line survey generally asks for demographic information like your gender, age, etc. to help us get to know you and better understand your gardening needs. This data is used to personalize your experience at jacksonandperkins.com by displaying content according to your preferences. We hope this will enhance your experience with the jacksonandperkins.com site. 
+
+Jackson & Perkins may provide links on jacksonandperkins.com to other sites of interest. Jackson & Perkins does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites is subject to the terms and conditions and privacy policies of the providers of those sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each website that collects identifying information. 
+
+Please note that your use of the jacksonandperkins.com website and services is subject to jacksonandperkins.com's [Terms and Conditions.](http://www.jacksonandperkins.com/540/a/540)
+
+**Sharing Your Information**
+
+Jackson & Perkins recognizes that gardeners may want products other than the high-quality roses, plants, bulbs, and accessories that we offer. Therefore, from time to time, Jackson & Perkins may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Jackson & Perkins endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us at 1-800-292-4769 to speak to a customer service representative, email us at [service@jacksonandperkins.com](mailto:service@jacksonandperkins.com), or send a postcard to: Mailing Address Don't Share, Jackson & Perkins Company, 2 Floral Avenue, Hodges, SC 29653. Be sure to include your own mailing address on your postcard or email. 
+
+**Other Uses of Information**
+
+The only other instances in which Jackson & Perkins discloses your identifying information to third parties are:  
+when it is required by law; when it is necessary to distribute materials that you request; and when you expressly request that your information be disclosed.
+
+**Business Transfers**
+
+We may buy or sell operating divisions, companies, or other business assets or be acquired by another company. In such transactions, customer information generally is one of the transferred business assets. 
+
+**Use of Cookies**
+
+The use of cookies enables Jackson & Perkins to enhance your visits to the jacksonandperkins.com website. Cookies enable jacksonandperkins.com systems to recognize your browser and provide features that are tailored to your gardening needs. For example, cookies enable us to record the items in your shopping cart. Jackson & Perkins uses this information to monitor product sales which help us to plan future offerings. 
+
+**Accessing and Updating Your Information**
+
+You can always choose not to provide information, to opt-out of receiving communications from us or to update your information at any time. Jacksonandperkins.com gives users the following options: 
+
+  1. Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us.
+  2. Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page.
+  3. Send an e-mail to our friendly Customer Service representatives at [service@jacksonandperkins.com](mailto:service@jacksonandperkins.com).
+  4. Call our Customer Service representatives toll free at (800) 292-4769 .
+  5. Drop us a line. Send mail to the following postal address: Jackson & Perkins, 2 Floral Avenue, Hodges, SC 29653.
 
 
 
-When a visitor registers with us and chooses this option, we'll remember their information. This enables convenient features such as a personal welcome message and a faster checkout. In order to register for this service, a visitor's browser must be configured to accept cookies.
+**Security Measures**
 
-**Cookies  
-**To help us conduct our business and deliver the most relevant products and services available, we gather and analyze information about our customers (among other things, by using cookies). If you would like to deactivate our ability to analyze your browsing, [click here](http://www.jacksonandperkins.com/webapp/wcs/stores/servlet/BECIncludeView?storeId=10053&catalogId=10005&langId=-1&includePage=web_cookies.html)
+We work hard to protect the security of your information by using Secure Socket Layer (SSL) technology, the current standard for secure transactions over the Internet. There are some simple measures that you can take to promote protection of your information. First, to help protect the security of your account, do not share your password with others. Also, remember to "log-off" after using any of our on-line services when you have finished using the website. While Jackson & Perkins strives to protect your information by using SSL and through measures to protect our system, such security cannot be ensured. Consequently, Jackson & Perkins does not ensure or warrant the security of information you transmit, and you do so at your own risk. 
 
-**Log Files  
-**We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad information for aggregate use. IP addresses are not linked to personally identifiable information.
+## 
 
-**Sharing  
-**We may occasionally partner with another party to provide specific services, such as broadcasting email messages. We will only provide contact information necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+Encryption
 
-**Links  
-**Jacksonandperkins.com may occasionally contain links to other sites. Please be aware that Jacksonandperkins.com is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**What is Encryption?**
 
-**Surveys & Contests  
-**From time-to-time we may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). We will use contact information to notify the winners and award prizes. Survey information will assist us in improving our products and services, and in providing you with an enjoyable shopping experience. None of the information from a survey is used on an individual basis. All information is compiled into statistical groupings only and is not retained for any other use.
+Encryption is a process by which we use software to scramble sensitive information while it is in transit to Jackson & Perkins. 
 
-**Security  
-**Jacksonandperkins.com takes every precaution to protect your information. When you submit sensitive information via the website, we protect your information both online and offline. When we request sensitive information (such as credit card, name, address, etc) on our registration/order form, that information is encrypted and is protected with the best encryption software in the industry - SSL. When you’re on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just ”surfing.” While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect your information off-line. All of our users’ information, not just the sensitive information mentioned above, is protected.
+Please take a moment to read about the steps that we have taken to help protect your information and make your online transmissions safer. We also invite you to review the steps you can take to help protect yourself further. 
 
-**Site and Service Updates  
-**We email you to communicate with you about your Internet, telephone and mail orders. You may choose to opt-out of receiving email communications about your orders.
+**How Does Encryption Work?**
 
-**Email Communications  
-**You may choose to receive occasional email communications regarding our site, partner offers, special offers or services, products or newsletters. We will only send you these emails if you give us permission, and you may choose to stop receiving them at any time.
+Encryption is based on a key that has two different parts. The public part and the private part. The public part of the key is distributed to those you want to communicate with. The private part is for the recipient's use only. 
 
-**Choice/Opt-Out  
-**You will always have the opportunity to “opt-out” from receiving email communications from us. Opt-out information is provided with every marketing email.
+When you send personal information to jacksonandperkins.com, you use Jackson & Perkins's public key to encrypt your personal information. That means, if at any point during the transmission your information is intercepted, it is scrambled and very difficult to decrypt. Once Jackson & Perkins receives your encrypted personal information, we use the private part of our key to decode it. 
 
-**Changing or Deleting Information  
-**You may change any contact information you have provided us by accessing the Account Services section located on the My Account link at the top left of each Web page or by writing us at the address provided below.
+**What Kind of Encryption Software Does Jackson & Perkins Use?**
 
-**Notification of Changes** **  
-** If we ever change our privacy policy, we will post those changes on our Customer Service page. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will not do so without first gaining your permission. Please contact us at [service@Jacksonandperkins.com](mailto:service@Jacksonandperkins.com) with any questions or comments about our privacy policy or contact us at: 
+Jackson & Perkins currently uses the industry-standard SSL (Secure Sockets Layer) encryption. But we continue to keep up with the current technologies in order to provide the best security for our customers. 
 
-**Jackson & Perkins  
-2 Floral Avenue   
-Hodges, SC 29653**
+**What Information Does Jackson & Perkins Encrypt?**
+
+Jackson & Perkins encrypts all personal information you give us when you place an order online. Remember, if you feel uncomfortable providing any of this information online, please feel free to call one of our representatives at 1-800-292-4769. 
+
+**How Safe is Encryption Really?**
+
+Providing encrypted information online is as safe as doing it over the phone. 
+
+**Privacy Policy Changes**  
+Jacksonandperkins.com may update this Privacy Policy from time to time to better serve you. We encourage you to review this Privacy Policy periodically. 
+
+**For Further Information**   
+If you choose to visit jacksonandperkins.com, your visit and any dispute over privacy is subject to this Privacy Policy. If you have questions or comments concerning this Privacy Policy, you may contact us at:   
+
+
+> Jackson & Perkins  
+>  2 Floral Avenue  
+>  Hodges, SC 29653  
+>  Phone: (800) 292-4769  
+>  Fax: (800) 242-0329  
+>  E-mail: [service@jacksonandperkins.com](mailto:service@jacksonandperkins.com)
