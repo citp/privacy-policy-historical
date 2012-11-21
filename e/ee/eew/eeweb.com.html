@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the eeweb.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523025746id_/http%3A//www.eeweb.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eeweb.com privacy policy that was archived on 2012-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121181514id_/http%3A//www.eeweb.com/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+    var date = new Date();
+    var ord = date.getTime();
+    </script>
+
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="google-site-verification" content="1bfB43YpuciGLVXIVwKej6YIACwfqmUjsqwQbUuQDTw">
 	
@@ -12,12 +17,58 @@
 	<link rel="stylesheet" type="text/css" href="/css/main/main.css">
 	<!--[if IE 6]><style type="text/css" media="screen">body { padding-top: 0; }</style><![endif]-->
 	<link rel="shortcut icon" href="/pics/site/favicon.ico">
+
 	<link rel="stylesheet" type="text/css" href="/css/sections/static-pages.css" media="screen">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+	<style>
+
+		#wallpaper_image
+		{
+			top: 33px; /* make room for the site toolbar */
+			background-attachment: scroll;
+			background-repeat: no-repeat;
+			background-position: center top;
+			height: 100%;
+			position: absolute;
+			width: 100%;
+			z-index: -1; /* the value of the z-index doesn't matter just that this one is the lowest */
+		}
+
+		#wallpaper_clickthru {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			margin-left: auto;
+			margin-right: auto;
+			top: 33px;
+			left: 0px;
+			z-index: 0; /* middle layer */
+		}
+
+
+		#main
+		{
+			width: 996px; 
+			border: 2px solid #cecece;
+			margin: 0 auto 0 auto;
+			top: 26px; /* this is the position with no wallpaper - it is set to make room for the site toolbar - the ad script will change this value in order for the wallpaper image not to be blocked */
+			z-index: 1 ; /* on top of the middle layer */
+			position: relative;
+			/*box-shadow: 0 0 10px 3px rgba(0, 0, 0, .5);*/
+		}
+		
+	</style>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+			
+			<script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/wallpaper;sz=3x3;dcopt=ist;u=-1;ord='+1476978503+'?"></script>
+			
+		
 	<script type="text/javascript" src="/js/biggerlink/link.js"></script>
 	<script type="text/javascript">
+                    	function toggleDelete() {$('#member_delete_form').toggle();}
+                    
 		$(document).ready(function() {
 			$('ul.feature_item li').biggerlink();
+			$('.biglink').biggerlink();
 		});
 	</script>
 	
@@ -34,7 +85,12 @@
 	<link rel="alternate" type="application/rss+xml" title="Return to Zero Comic" href="/feeds/return-to-zero-comic/">
 </head>
 <body>
+
+<div id="wallpaper_image"></div>
+			
+<div id="main">	
     <div id="site_toolbar">
+
         <div class="container_16">
             <ul>
                                                     <li class="first name"><a href="/register"><span class="name_style">Join Our Community:</span>&nbsp;&nbsp;Sign-Up</a></li>
@@ -42,9 +98,10 @@
                     <li><a href="/login">Login</a></li>
                             </ul>
             <div class="clear"></div>
-        </div>
+                    </div>
     </div>
 	
+
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('.search_components').val('Part Number / Keyword...');
@@ -92,8 +149,7 @@
 		}
 	</script>
 	
-	<div id="page_wrapper_top">&nbsp;</div>
-	<div id="page_wrapper">
+	
 		<div class="header clearfix">
 			<a href="/"><img src="/pics/site/electrical-engineering.png" width="215" height="69" alt="EEWeb Electrical Engineering Home" id="logo"></a>
 			<ul id="member_links">
@@ -160,6 +216,7 @@
 							</ul>
 						</div>
 						<div class="toolbox_c">
+
 							<div class="mm_header"><h3>RF Tools</h3></div>
 							<ul>
 								<li><a href="/toolbox/l-match" class="tool_main">Impedance Circuit Solver</a></li>
@@ -180,21 +237,6 @@
 								<li><a href="/toolbox/microstrip-crosstalk/">Microstrip Crosstalk</a></li>
 								<li><a href="/toolbox/external-pcb-trace-max-current">Stripline Crosstalk</a></li>
 							</ul>         
-						</div>
-						<div class="toolbox_c" style="margin-right:0px;">
-							<div class="mm_header"><h3>Math</h3></div>
-							<ul>
-								<li><a href="#" class="tool_main">Math Sheets</a></li>
-								<li><a href="/toolbox/algebra-reference-sheet">Algebra</a></li>
-								<li><a href="/toolbox/geometry-reference-sheet">Geometry</a></li>
-								<li><a href="/toolbox/trigonometry-definition-reference-sheet">Trig Definition</a></li>
-								<li><a href="/toolbox/trigonometry-laws-and-identities-sheet">Trig Laws &amp; Identities</a></li>
-								<li><a href="/toolbox/calculus-derivatives-and-limits-reference-sheet">Derivatives &amp; Limits</a></li>
-								<li><a href="/toolbox/calculus-integrals-sheet">Integrals</a></li>
-							</ul>
-							<ul>
-								<li><a href="/toolbox/calculator" class="tool_main">Engineering Calculator</a></li>
-							</ul>
 							<div class="mm_header"><h3>Extras</h3></div>
 							<ul>
 								<li><a href="#" class="tool_main">Graph Paper</a></li>
@@ -203,6 +245,27 @@
 								<li><a href="/toolbox/semi-log-graph-paper">Semi-Log</a></li>
 								<li><a href="/toolbox/smith-chart">Smith Chart</a></li>
 							</ul>
+						</div>
+						<div class="toolbox_c" style="margin-right:0px;">
+							<div class="mm_header"><h3>Calculators</h3></div>
+							<ul>
+
+								<li><a href="/toolbox/calculator">Online Scientific Calculator</a></li>
+								<li><a href="/toolbox/basic-calculator">Online Basic Calculator</a></li>
+								<li><a href="/toolbox/download">Desktop Versions</a></li>
+							</ul>
+							<div class="mm_header"><h3>Math</h3></div>
+							<ul>
+								<li><a href="/toolbox/math-help" class="tool_main">Math Help</a></li>
+								<li><a href="/toolbox/algebra-reference-sheet">Algebra</a></li>
+								<li><a href="/toolbox/geometry-reference-sheet">Geometry</a></li>
+								<li><a href="/toolbox/trigonometry-definition-reference-sheet">Trig Definition</a></li>
+								<li><a href="/toolbox/trigonometry-laws-and-identities-sheet">Trig Laws &amp; Identities</a></li>
+								<li><a href="/toolbox/calculus-derivatives-and-limits-reference-sheet">Derivatives &amp; Limits</a></li>
+								<li><a href="/toolbox/calculus-integrals-sheet">Integrals</a></li>
+							</ul>
+							
+							
 						</div>
 					</div>
 				</li>
@@ -224,6 +287,7 @@
         <div id="mega_menu" class="clearfix"></div>
 
 		<div class="menu_wrap clearfix">
+
 			<ul class="main_menu clearfix">
 				<li><a href="/" id="menu_">Home</a></li>
 				<li><a href="/toolbox/" id="menu_toolbox">Tools</a></li>
@@ -232,19 +296,23 @@
 				<li><a href="/community/" id="menu_community">Community</a></li>
 				<li><a href="/articles/" id="menu_articles">Articles</a></li>
 				<li><a href="/projects/" id="menu_projects">Projects</a></li>
+				<li><a href="/companies" id="menu_rtz" style="margin-right:none; width: 119px;">Companies</a></li>
 				<li><a href="/events/" id="menu_events">Events</a></li>
 				<li><a href="/jobs/" id="menu_jobs">Jobs</a></li>
-				<li><a href="/rtz" id="menu_rtz" style="margin-right:none;">Comic</a></li>
 			</ul>
 			<ul class="sub_menu clearfix">
+
 				
 				<li><a href="/analog-design" id="menu_analog-design" style="border-left:none;">Analog Design</a></li>
 				<li><a href="/rf-design" id="menu_rf-design">RF Design</a></li>
 				<li><a href="/power-managment" id="menu_power-managment">Power Management</a></li>
-				<li><a href="/embedded-design" id="menu_embedded-design">Embedded Design</a></li>
+				<li><a href="/digital-ics" id="menu_digital-ics">Digital ICs</a></li>
+				<li><a href="/embedded" id="menu_embedded">Embedded</a></li>
 				<li><a href="/test-and-measure" id="menu_test-and-measure">Test &amp; Measure</a></li>
-				<li><a href="/components" id="menu_components">Components</a></li>
-				<li><a href="/pcb-design" id="menu_pcb-design">PCB Design</a></li>
+
+				<li><a href="/electromechanical" id="menu_electromechanical">Electromechanical</a></li>
+				<li><a href="/passives" id="menu_passives">Passives</a></li>
+
 			</ul>
 
 			<script type="text/javascript">
@@ -258,10 +326,60 @@
 					});
 				});
 			</script>
+								
+				<style>
+					.leaderboard {margin: 10px 7px 0 7px; width: 975px; border-bottom: 1px solid #D5D5D5; height: 100px;}
+					.leaderboard .bl-hover {border-color: #3a7dbe !important;}
+				</style>
+
+				<script type="text/javascript">
+					
+				</script>
+
+		<div class="leaderboard">
+			
+        	<div style="width: 224px; height: 89px; border: 1px solid #ccc; float: left; margin: 0 10px 0 4px; border-radius: 3px;" class="clearfix biglink">
+	        	
+	            
+	            	<a href="/pulse" style="float: left; margin: 3px 4px 0 4px;"><img src="http://s.eeweb.com/resized/images/remote/http_s.eeweb.com/pulse/images/2012/11/1353515370/Pulse-73-Cover_63_82.png" alt="Matt Rogers - Founder and VP of Engineering at Nest" width="63" height="82"></a>
+
+	              	<p style="color: #000; margin: 4px 13px 0 14px; font-size: 13px; font-weight: bold; font-family: helvetica, arial; text-align: center;" href="/pulse"> PULSE Magazine </p>
+	              	<p style="width: 137px; display: block; font-size: 11px; float: right; line-height: 14px; margin-right: 5px; margin-bottom: 6px; height: 40px;">Matt Rogers - Founder and VP of Engineering at Nest</p>
+	              	<p href="/pulse" style="float: right; color: #000; text-decoration: none; font-size: 11px; margin: 0 10px 5px 0; font-family: helvetica, arial;">Read Now</p>
+	            
+	                
+        	</div>
+			<div style="width: 728px; height: 82px; float: left;" class="clearfix">
+				<script type="text/javascript">
+
+			//<![CDATA[
+			document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/;sz=728x90;ord=' + 1476978503 + '?"><\/script>');
+			//]]>
+
+$(document).ready(function() {
+var leaderboard_ad = $('.leaderboard').find('img').last();
+if ($(leaderboard_ad).width() == 1) { $(leaderboard_ad).attr('src', '/pics/home/backup_leaderboard.PNG'); 
+$('.leaderboard').find('a').last().attr('href', 'http://www.digikey.com/schemeit');
+}
+});
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/hbp.eeweb/;sz=728x90;ord=1476978503?"></script>
+			</div>
 		</div>
+		
+				
+			
+					
+				
+
+		</div>
+
+
 		<div class="body_wrap clearfix">
+		
 			<div class="container_16">
 
+		
+			
 
     <div class="static_body static_style">
     
@@ -356,7 +474,7 @@
 
 	<h4>Deleting your Account</h4>
 
-	<p>Members may delete their account by an email request. Requests should be sent to <span id="eeEncEmail_QARqlfPpft"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+	<p>Members may delete their account by an email request. Requests should be sent to <span id="eeEncEmail_E2nksYqzeu"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -365,7 +483,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_QARqlfPpft').innerHTML = output;
+document.getElementById('eeEncEmail_E2nksYqzeu').innerHTML = output;
 //]]>
 </script>.</p>
 
@@ -434,7 +552,7 @@ document.getElementById('eeEncEmail_QARqlfPpft').innerHTML = output;
 	<p><span class="caps">EEW</span>eb<br>
 1020 W Main St. 100K<br>
 Boise ID 83702<br>
-Email: <span id="eeEncEmail_1hkdeiO0Id"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+Email: <span id="eeEncEmail_y3xhHxKCGT"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -443,7 +561,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_1hkdeiO0Id').innerHTML = output;
+document.getElementById('eeEncEmail_y3xhHxKCGT').innerHTML = output;
 //]]>
 </script></p></div>
 
@@ -456,44 +574,48 @@ document.getElementById('eeEncEmail_1hkdeiO0Id').innerHTML = output;
     
     
 			</div> <!-- container_16 -->
-		</div> <!-- body_wrap -->
-
-		<div class="container_16 clearfix" id="main_footer">
-			<div style="float:left;">
-				<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;click=;ord=[timestamp]?">
-				</script>
-				<noscript>
-				<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;ord=[timestamp]?">
-				<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;ord=[timestamp]?" BORDER=0 WIDTH=596 HEIGHT=200 ALT="Advertisement"></A>
-				</noscript>
-			</div>
-
-			<div style="float:left;">
-				<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;click=;ord=[timestamp]?">
-				</script>
-				<noscript>
-				<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;ord=[timestamp]?">
-				<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;ord=[timestamp]?" BORDER=0 WIDTH=380 HEIGHT=85 ALT="Advertisement"></A>
-				</noscript>
-			</div>
-
-			<div style="float:left;">
-				<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;click=;ord=[timestamp]?">
-				</script>
-				<noscript>
-				<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;ord=[timestamp]?">
-				<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;ord=[timestamp]?" BORDER=0 WIDTH=380 HEIGHT=115 ALT="Advertisement"></A>
-				</noscript>
-			</div>
 		</div>
-	</div> <!-- page_wrapper -->
-	<div id="page_wrapper_bot">&nbsp;</div>
-	<div class="container_16 clearfix" id="footer_extras">
+		<div style="background-color: white; width: 996px; margin: 0 auto; padding-bottom: 9px;">
+			<div class="container_16 clearfix" id="main_footer">
+				<div style="float:left;">
+					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;click=;ord=[timestamp]?">
+					</script>
+					<noscript>
+					<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;ord=[timestamp]?">
+					<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.7;sz=596x200;ord=[timestamp]?" BORDER=0 WIDTH=596 HEIGHT=200 ALT="Advertisement"></A>
+					</noscript>
+				</div>
+
+				<div style="float:left;">
+					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;click=;ord=[timestamp]?">
+					</script>
+					<noscript>
+					<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;ord=[timestamp]?">
+					<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.9;sz=380x85;ord=[timestamp]?" BORDER=0 WIDTH=380 HEIGHT=85 ALT="Advertisement"></A>
+					</noscript>
+				</div>
+
+				<div style="float:left;">
+					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;click=;ord=[timestamp]?">
+					</script>
+					<noscript>
+					<A HREF="http://ad.doubleclick.net/jump/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;ord=[timestamp]?">
+					<IMG SRC="http://ad.doubleclick.net/ad/N4481.287806.EEWEB.COM/B5392613.8;sz=380x115;ord=[timestamp]?" BORDER=0 WIDTH=380 HEIGHT=115 ALT="Advertisement"></A>
+					</noscript>
+				</div>
+			</div>
+		</div> 
+	
+	
+	
+	</div>
+	<div id="footer_bottom" style="margin-top: 70px;">
+			<div class="container_16 clearfix" id="footer_extras">
 	    <div class="region_one">
 				
-					<a href="/pulse"><img src="http://s.eeweb.com/resized/images/remote/http_s.eeweb.com/pulse/images/2012/05/1337726272/cover-47_95_123.png" alt="Michael McNamara - Vice President at Cadence" class="region_one_img" width="95" height="123"></a>
+					<a href="/pulse"><img src="http://s.eeweb.com/resized/images/remote/http_s.eeweb.com/pulse/images/2012/11/1353515370/Pulse-73-Cover_95_123.png" alt="Matt Rogers - Founder and VP of Engineering at Nest" class="region_one_img" width="95" height="123"></a>
 					<h3 class="region_one_title">EEWeb Pulse Magazine</h3>
-					<p>Michael McNamara - Vice President at Cadence</p>
+					<p>Matt Rogers - Founder and VP of Engineering at Nest</p>
 					<a href="/register" class="region_one_button button_1">Subscribe</a>
 					<a href="/pulse" class="region_one_button button_2">Latest Issue</a>
 				
@@ -520,9 +642,7 @@ document.getElementById('eeEncEmail_1hkdeiO0Id').innerHTML = output;
 	          <li><a href="/feeds/projects/">EEWeb Projects</a></li>
 	        </ul>
 	    </div>
-	
-	</div>
-	<div id="footer_bottom">
+		</div> <!-- body_wrap -->
 	    <div class="container_16 clearfix">
 	    	<ul class="footer_list" style="float:left;">
 	    		<li><a href="http://www.facebook.com/pages/EEWeb-Electrical-Engineering-Community/167665326588635" target="_blank">Facebook</a></li>
@@ -539,6 +659,16 @@ document.getElementById('eeEncEmail_1hkdeiO0Id').innerHTML = output;
 	    </div>
 	</div>
 	
+	<script>
+	$(document).ready(function() {
+		$.each($('.sad img'), function() {
+			if ($(this).width() == 1) {
+				$(this).css('margin-bottom', '0');
+			}
+		});
+
+	})
+	</script>
 		  <!-- google and doubleclick tracking code -->
 
 
@@ -549,8 +679,9 @@ document.getElementById('eeEncEmail_1hkdeiO0Id').innerHTML = output;
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-19716226-1']);
-  _gaq.push(['_trackPageview']);
+  
 
+  _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -571,10 +702,14 @@ document.getElementById('eeEncEmail_1hkdeiO0Id').innerHTML = output;
       return false;
     });
 
+
+
 	$("#search_bar form, .sub_footer_hwrap form").submit(function() {
 	  _gat._getTrackerByName()._trackEvent("Digi-Key Search", $("input[name=KeyWords]", this).val());
 	  return true;
 	})
+
+  
   });
 </script>  
 	
