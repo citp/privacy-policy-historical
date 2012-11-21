@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dearfoams.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523041308id_/http%3A//www.dearfoams.com/event/page/pageCode/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearfoams.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121142855id_/http%3A//www.dearfoams.com/event/page/pageCode/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Dearfoams
 
