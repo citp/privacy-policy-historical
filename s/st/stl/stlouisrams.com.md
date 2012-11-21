@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510110033id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121111538id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # St. Louis Rams | Privacy Policy
 
@@ -153,7 +153,7 @@ Correcting/Updating personal information
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by the following methods:
 
-  1. Edit your profile online: edit profile [(http://www.stlouisrams.com/reg/login/)](https://web.archive.org/web/20120510110033id_/http%3A//www.stlouisrams.com/community/register/login.html)
+  1. Edit your profile online: edit profile [(http://www.stlouisrams.com/reg/login/)](https://web.archive.org/web/20121121111538id_/http%3A//www.stlouisrams.com/community/register/login.html)
   2. Use an opt out message in a Rams email newsletter
   3. Email us at [webmaster@stlouisrams.com](mailto:webmaster@stlouisrams.com)
   4. Write us at: Website Opt Out, St. Louis Rams, One Rams Way, St. Louis, MO 63045
