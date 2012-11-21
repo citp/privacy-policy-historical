@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192834id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121213102id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy • NFC World
 
@@ -22,6 +22,8 @@ Our cookies do not contain any personal information about you.
 
 We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
 
+Your use of this website constitutes your acceptance of this use of cookies and other tracking or personalisation technologies.
+
 #### Log files and analytics
 
 Log files allow us to record visitors' use of the site. They enable us to make changes to the layout of the site and to the information in it, based on the way that visitors move around it.
@@ -33,6 +35,8 @@ We also use [Google Analytics](http://www.google.com/analytics/) and [Woopra](ht
 #### What data do we collect?
 
 When you subscribe to our mailing lists we necessarily record your email address. We also collect your subscription preferences, which at this time is limited to details of which lists you are subscribed to.
+
+We may also gather other personal information such as your organisation and job title along with general demographic information including your industry sector and country. This information is aggregated to provide general statistics on our audience to inform product planning and marketing activities.
 
 We use a specialist third-party service provider to administer our mailing lists. Information you provide in relation to mailing list subscriptions will be held securely on their servers, which may be physically located outside the European Union.
 
@@ -59,5 +63,3 @@ We do not pass on any personal information you have given us to any other websit
 ### Changes to this privacy policy
 
 If this privacy policy changes we will publish an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-Last updated on March 21st, 2012
