@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timtara.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628152919id_/http%3A//www.timtara.com/news/2/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timtara.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121043741id_/http%3A//www.timtara.com/news/2/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
