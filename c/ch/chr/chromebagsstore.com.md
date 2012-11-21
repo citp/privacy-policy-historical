@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chromebagsstore.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522043504id_/http%3A//www.chromebagsstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromebagsstore.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121192134id_/http%3A//www.chromebagsstore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CHROME | Official Site
+# Privacy Policy | Chrome Industries
 
 At Chrome ("CHROME," "we," or "us"), we are committed to the privacy of our customers. This Privacy Policy ("Policy") describes how personal information is collected from users of the CHROME website at [www.chromebagsstore.com](http://www.chromebagsstore.com/) (the "Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy.
 
