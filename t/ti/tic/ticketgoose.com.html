@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ticketgoose.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630231212id_/http%3A//www.ticketgoose.com/bookbustickets/HTMLRedirectAction.do%3Fevent%3Dredirect%26pageId%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketgoose.com privacy policy that was archived on 2012-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121231809id_/http%3A//www.ticketgoose.com/bookbustickets/HTMLRedirectAction.do%3Fevent%3Dredirect%26pageId%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Ticketgoose Privacy Policy | Reservation of Travels Bus Tickets Online </title>
@@ -2560,8 +2560,6 @@ $.extend( $.ui, {
 <div id="searchResultProcessing" style="position: absolute; display: none; z-index: 9999; left: 533px; top: 304px;"></div>
 <div id="searchResultProcessingMask" style="display: none; position: absolute; width: 1366px; height: 768px;" class="searchResultProcessingMask"></div>
 <div id="chakram" style="position: absolute; top: 384px; left: 683px;"></div>
-
-
 <div id="mask" class="bgmask"></div>
 
 <table width="238" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -2582,11 +2580,12 @@ $.extend( $.ui, {
 
 
   
+
 					
 <table align="center" width="80%" cellpadding="0" cellspacing="0" border="0">
 
 
-	<form name="TravelLoginForm" method="post" action="/bookbustickets/TravelLoginAction.do" onsubmit="passwordCookie()"></form>
+	<form name="LoginForm" method="post" action="/bookbustickets/Login.do" id="loginform"></form>
 		<tbody><tr valign="top">
 			<td align="left" colspan="2">
 				<table cellpadding="0" cellspacing="0" border="0">	
@@ -2595,19 +2594,13 @@ $.extend( $.ui, {
 							<div id="login_panel">
 								<!--<a href="#" class="linkorange" onclick="javascript:document.TravelLoginForm.event.value='NewUser';document.TravelLoginForm.submit();">Sign UP</a> --><br>
 								<div class="login_bg">
-									
-										<input type="text" name="userName" value="username" onblur="javascript:if(trim(document.TravelLoginForm.userName)==''){document.TravelLoginForm.userName.value='username'};" onfocus="javascript:if(document.TravelLoginForm.userName.value=='username'){document.TravelLoginForm.userName.value=''};" class="field_login">									
-									
-									
-									<!--<input type="text" name="userName" class="field_login" value="username" onfocus="javascript:if(document.TravelLoginForm.userName.value=='username'){document.TravelLoginForm.userName.value=''};" onblur="javascript:if(document.TravelLoginForm.userName.value==''){document.TravelLoginForm.userName.value='username'};">-->
+										<input placeholder="UserName" maxlength="40" type="text" name="userName" id="username" class="field_login">
 								</div>
 								<div class="password_bg">
-									<input id="loginpasswordtemp" type="text" name="passwordtemp" class="field_login" value="password" onfocus="javascript:document.getElementById('loginpasswordtemp').style.display='none';document.getElementById('loginpassword').style.display='';document.TravelLoginForm.password.focus()">
-									<input id="loginpassword" style="display: none;" type="password" name="password" class="field_login" value="" onblur="javascript:if(trim(document.TravelLoginForm.password) == ''){document.getElementById('loginpasswordtemp').style.display='';document.getElementById('loginpassword').style.display='none';};">
+									<input placeholder="Password" type="password" name="passWord" id="password" class="field_login">
 								</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 							</div>
 							<input type="hidden" name="event" value="Login">
-							
 						</td>
 						<!-- <td align="left" width="30%" valign="bottom" style="padding-bottom: 2px;">
 							<table cellpadding="0" cellspacing="0" border="0" width="100%">	
@@ -2626,7 +2619,7 @@ $.extend( $.ui, {
 		<tr height="30" valign="top">
 			<td align="right">
 				<a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=forgotpassword" class="link_light_grey">forgot password?</a>&nbsp;
-				<input type="submit" value="" class="submitBtn">&nbsp;&nbsp;&nbsp;
+				<input type="submit" id="loginbtn" class="submitBtn" onclick="return loginval()" value="">&nbsp;&nbsp;&nbsp;
 				<!--<img src="/bookbustickets/imagesn/btn_login.gif" border="0" onclick="javascript:document.TravelLoginForm.event.value='Login';document.TravelLoginForm.submit()">-->								
 				<input type="hidden" name="remember_me"> <!-- <span class="text_light_grey">remember me</span> -->
 			</td>
@@ -2636,7 +2629,6 @@ $.extend( $.ui, {
 	
 </tbody></table> 
 <script type="text/javascript" language="javascript">		
-checkCookie();
 
 function changeType()
 {
@@ -2693,32 +2685,6 @@ function setCookie(c_name,value,expiredays)
 	document.cookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : "; expires="+exdate.toGMTString());
 }
 
-function checkCookie()
-{
-	username=getCookie('username');
-	password=getCookie('password');
-	if (username!=null && username!="" && password!=null && password!="")
-  	{  
-	  	document.getElementById('loginpasswordtemp').style.display='none';
-		document.getElementById('loginpassword').style.display='';
-		document.TravelLoginForm.password.focus();
-		document.TravelLoginForm.userName.value = username;	
-		document.TravelLoginForm.password.value = password;
-		document.TravelLoginForm.remember_me.checked = true;
-  	}
-	else 
-  	{
-  		username=document.TravelLoginForm.userName.value;
-		password=document.TravelLoginForm.password.value;
-		activeflag=document.TravelLoginForm.remember_me.checked;
-  		if (username!=null && username!="" && password!=null && password!="")
-    	{
-	    	setCookie('username',username,365);
-			setCookie('password',password,365);
-			setCookie('activeflag',activeflag,365);
-    	}
-  	}
-}
 
 function passwordCookie()
 {
@@ -2733,6 +2699,30 @@ function passwordCookie()
 	{				 
 		setCookie('username',"",365);
 		setCookie('password',"",365);
+	}
+}
+function loginval(){
+	if($("#username").val()==""){
+		$("#username").focus();
+		return false;
+	}
+	else if($("#password").val()==""){
+		$("#password").focus();
+		return false;
+	}else{
+		setCookie("_uname",$("#username").val(),365);
+		 $("#loginform").submit();
+	}
+}
+function isNull(a) {
+	if (typeof a == "undefined") {
+		return true;
+	} else {
+		if (a == null || a == "") {
+			return true;
+		} else {
+			return false;
+		}
 	}
 }
 </script></td>
@@ -2832,7 +2822,7 @@ function passwordCookie()
 	});
 </script>
 
-<table width="900" height="600" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="990" height="600" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr height="90">
 		<td colspan="5">
 			
@@ -2842,16 +2832,19 @@ function passwordCookie()
     
 
 
-<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+
+
+
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="70" height="80" class="oranage">&nbsp;</td>
+    <td width="85" height="80" class="oranage">&nbsp;</td>
     <td width="260">
 	    <table width="260" border="0" cellspacing="0" cellpadding="0">
 	  		<tbody><tr>
 	    		<td width="260" valign="top">
 				<div style="position:relative;">
 					<div class="logoDIV" id="tgHeaderLogo">
-			    		<a href="http://www.ticketgoose.com" title="India's Leading Bus Ticket Portal"><img border="0" src="/bookbustickets/images/logo.gif" width="260" height="130"></a>
+			    		<a href="http://www.ticketgoose.com" title="India's Leading Bus Ticket Portal"><img border="0" src="/bookbustickets/images/logo_n.gif" width="260" height="125"></a>
 		    		</div>
 	    		</div>
 	    			<script>
@@ -2863,7 +2856,7 @@ function passwordCookie()
 						    	browserVersion = parseFloat(navigator.appVersion.split("MSIE")[1]);
 						   	if(browserVersion==6)
 						   	{
-						   		document.getElementById('tgHeaderLogo').innerHTML='<a href="http://www.ticketgoose.com"><img border="0" alt="India\'s Leading Bus Ticket Portal" src="/bookbustickets/images/logoforIE6.gif" width="260" height="130" /></a>';
+						   		document.getElementById('tgHeaderLogo').innerHTML='<a href="http://www.ticketgoose.com"><img border="0" alt="India\'s Leading Bus Ticket Portal" src="/bookbustickets/images/logo_n.gif" width="260" height="125" /></a>';
 						   	}
 						}
 					</script>
@@ -2871,8 +2864,8 @@ function passwordCookie()
 	  		</tr>
 		</tbody></table>
     </td>
-    <td colspan="2" width="570" valign="bottom" class="green">
-    <table width="570" border="0" cellspacing="0" cellpadding="0">
+    <td colspan="2" width="660" valign="bottom" class="green">
+    <table width="660" border="0" cellspacing="0" cellpadding="0">
     	<tbody><tr>
     		<td colspan="8" align="right">
 				<!--<div style="position: absolute;">
@@ -2880,10 +2873,8 @@ function passwordCookie()
 					<table align="right" height="20" border="0" cellspacing="0" cellpadding="0">
 						<tbody><tr>
 							
-									<td id="signUpTD" align="right" valign="middle"><a href="#" onclick="javascript:document.TravelLoginForm.event.value='NewUser';document.TravelLoginForm.submit();" class="link_green_bold">Sign Up</a></td>
-									<!--<a href="#dialog1" style="text-decoration: none;" name="modal" class="link_green_bold">Sign In</a>-->
+									<td id="signUpTD" align="right" valign="middle"><a href="#" id="signup" class="link_green_bold">Sign Up</a></td>
 									<td id="signInPipeTD" align="right" valign="middle" class="content">&nbsp;|</td>
-									<!-- <td id="signInTD" align="center" valign="middle" width="50"><a id="signInA" href="#" class="signin" style="font-size: 11px; font-weight: bold; color: #398c01; text-decoration:none;" onclick="changeSignIn()">Sign In</a></td>--> 
 									<td id="signInTD" align="center" valign="middle" width="67" height="23"><a id="signInA" name="signInAName" href="#" class="signin" style="font-size: 11px; font-weight: bold; color: #398c01; text-decoration:none; border: 0px;">&nbsp;Sign In&nbsp;<img id="signInIMG" src="/bookbustickets/images/SignInDown.png" height="5" width="7" border="0">&nbsp;</a></td> 
 							
 						</tr>
@@ -2897,9 +2888,9 @@ function passwordCookie()
 		        <td width="175" height="40">&nbsp;</td>
 	        	<td width="50" class="menu_nav"><a href="/bookbustickets/index.htm">Home</a></td>
 	        	<td width="20">&nbsp;</td>
-	        	<td width="100" class="menu_nav"><a href="/bookbustickets/PrintTicketAction.do?event=showPrintTicketPage">Print Ticket</a></td>
+	        	<td width="100" class="menu_nav"><a href="/bookbustickets/PNRStatus.do">Print Ticket</a></td>
 	        	<td width="20">&nbsp;</td>
-	        	<td width="100" class="menu_nav"><a href="/bookbustickets/Cancel.do">Cancel Ticket</a></td>
+	        	<td width="100" class="menu_nav"><a href="/bookbustickets/CancelTicket.do">Cancel Ticket</a></td>
 	        	<td width="20">&nbsp;</td>
 	        	<td width="85" class="menu_nav"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=AgentRegistration">New Agents</a></td>
        		
@@ -2912,6 +2903,10 @@ function passwordCookie()
 $(document).click(function() 
 {
 	status=false;
+	$("#signup").click(function(){
+		var k = "/bookbustickets/TravelLoginAction.do?event=NewUser";
+		 $(location).attr("href", k);
+	});
 });
 </script>
 		</td>
@@ -2920,34 +2915,33 @@ $(document).click(function()
 		<td colspan="5" align="right" style="padding-right:20px;">
 			
 
+<font color="red">
+	 
+	 
+	 
+	<font color="red" face="Verdana"></font> 
+	 
+	 
+	 
+	 
+	 
+	 
+	
+</font> 
 
-
-<font class="errorMessageFailure"> 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-</font>
 		</td>
 	</tr>
 	<tr>
-		<td height="40px" valign="middle" align="right" colspan="4">
+		<td height="40" valign="middle" align="right" colspan="4">
 			
 		</td>
 		<td width="25">&nbsp;</td>
 	</tr>
 	<tr>
-    	<td width="20" height="490">&nbsp;</td>
-    	<td width="200" height="50" valign="top">
+    	<td width="10" height="490">&nbsp;</td>
+    	<td width="220" height="50" valign="top">
     		<div id="bookBusTicketDIV">
-				<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+				<table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
 		          	<tbody><tr>
 		            	<td class="header_text_size2">Book Bus Tickets</td>
 		          	</tr>
@@ -2958,12 +2952,7 @@ $(document).click(function()
 
 
 
-
-
-
-
-
-
+<script type="text/javascript" src="http://www.ticketgoose.com/contents/bjs/OrgStations.js?1214"></script>
 <form name="TravelBkgSearchForm" method="post" action="/bookbustickets/TravelBkgSearchAction.do">
 <input type="hidden" name="calFlag" value="0">
 <table width="188" border="0" cellpadding="0" cellspacing="0">
@@ -2975,2297 +2964,11 @@ $(document).click(function()
 			<table width="181" border="0" cellpadding="2" cellspacing="0">
             	<tbody><tr>
              		<td width="137">
-                		<select name="fromLocation" size="1" onchange="changeToFetch(document.TravelBkgSearchForm.fromLocation,'','','');storeFromSelectedIndex();" style="width:165px" class="tg_listbox_ft"><option value="Select Source">Select Origin</option>
-		     				
-	      						<option value="76">bangalore</option>
-							
-	      						<option value="71">chennai</option>
-							
-	      						<option value="75">coimbatore</option>
-							
-	      						<option value="84">hyderabad</option>
-							
-	      						<option value="295">mumbai</option>
-							
-	      						<option value="296">pune</option>
-							
-	      						<option value="100">trichy</option>
-							
-	      						<option value="72">madurai</option>
-							
-	      						<option value="">-------</option>
-							
-	      						<option value="727">aachara</option>
-							
-	      						<option value="858">achanta</option>
-							
-	      						<option value="1935">adda road</option>
-							
-	      						<option value="860">addavaram</option>
-							
-	      						<option value="1936">adilabad</option>
-							
-	      						<option value="171">adirampattinam</option>
-							
-	      						<option value="862">adoni</option>
-							
-	      						<option value="348">adoor</option>
-							
-	      						<option value="864">agra</option>
-							
-	      						<option value="298">ahmedabad</option>
-							
-	      						<option value="866">ahmednagar</option>
-							
-	      						<option value="867">ahmedpur</option>
-							
-	      						<option value="869">ajanta</option>
-							
-	      						<option value="1230">akberpur</option>
-							
-	      						<option value="872">akividu</option>
-							
-	      						<option value="873">akola</option>
-							
-	      						<option value="1942">alagiyamandapam</option>
-							
-	      						<option value="877">alamuru</option>
-							
-	      						<option value="878">aland</option>
-							
-	      						<option value="1944">alangulam</option>
-							
-	      						<option value="880">alathur</option>
-							
-	      						<option value="2688">alengar katte</option>
-							
-	      						<option value="1093">allahabad</option>
-							
-	      						<option value="882">alleppey(alappuzha)</option>
-							
-	      						<option value="440">almatti</option>
-							
-	      						<option value="1945">alur</option>
-							
-	      						<option value="704">aluva</option>
-							
-	      						<option value="329">alwaye</option>
-							
-	      						<option value="567">amalapuram</option>
-							
-	      						<option value="1295">amaravathi</option>
-							
-	      						<option value="2112">amareshwara camp</option>
-							
-	      						<option value="568">ambajipeta</option>
-							
-	      						<option value="890">ambala</option>
-							
-	      						<option value="178">ambasamudram</option>
-							
-	      						<option value="382">amingad</option>
-							
-	      						<option value="337">ammapattinam</option>
-							
-	      						<option value="1947">ampar</option>
-							
-	      						<option value="896">amravati</option>
-							
-	      						<option value="898">amritsar</option>
-							
-	      						<option value="569">anakapalli</option>
-							
-	      						<option value="708">anakara</option>
-							
-	      						<option value="899">anand</option>
-							
-	      						<option value="1264">anantapur</option>
-							
-	      						<option value="900">anaparthi</option>
-							
-	      						<option value="570">anathavaram</option>
-							
-	      						<option value="901">angallu</option>
-							
-	      						<option value="328">angamaly</option>
-							
-	      						<option value="902">ankleshwar</option>
-							
-	      						<option value="362">ankola</option>
-							
-	      						<option value="571">annavaram</option>
-							
-	      						<option value="903">annavarappadu</option>
-							
-	      						<option value="1954">annur</option>
-							
-	      						<option value="2155">appapuram</option>
-							
-	      						<option value="2894">appikatla</option>
-							
-	      						<option value="1956">aralikottai</option>
-							
-	      						<option value="728">aranthangi</option>
-							
-	      						<option value="332">ariyalur</option>
-							
-	      						<option value="907">armoor</option>
-							
-	      						<option value="738">arumuganeri</option>
-							
-	      						<option value="624">arumugaveni</option>
-							
-	      						<option value="538">aruoor</option>
-							
-	      						<option value="198">aruppukottai</option>
-							
-	      						<option value="625">arupukottai bye pass</option>
-							
-	      						<option value="1098">asansol</option>
-							
-	      						<option value="1965">ashti</option>
-							
-	      						<option value="910">aswapuram</option>
-							
-	      						<option value="2116">athani</option>
-							
-	      						<option value="160">athiyuthu</option>
-							
-	      						<option value="2637">athradi</option>
-							
-	      						<option value="915">attili</option>
-							
-	      						<option value="628">attingal</option>
-							
-	      						<option value="916">aurangabad</option>
-							
-	      						<option value="650">authoor</option>
-							
-	      						<option value="917">avanam</option>
-							
-	      						<option value="2248">aversa</option>
-							
-	      						<option value="572">avidi</option>
-							
-	      						<option value="115">avinashi</option>
-							
-	      						<option value="281">ayyampet</option>
-							
-	      						<option value="2228">b c road</option>
-							
-	      						<option value="2690">babbarya kottya</option>
-							
-	      						<option value="1975">badami</option>
-							
-	      						<option value="1106">badrachalam</option>
-							
-	      						<option value="383">bagalkot</option>
-							
-	      						<option value="2666">baikampady</option>
-							
-	      						<option value="492">bailhongal</option>
-							
-	      						<option value="933">bailur</option>
-							
-	      						<option value="2021">baindur</option>
-							
-	      						<option value="826">bajagoli</option>
-							
-	      						<option value="790">bajpe</option>
-							
-	      						<option value="2043">baliya</option>
-							
-	      						<option value="493">banahatti</option>
-							
-	      						<option value="2886">bandarulanka</option>
-							
-	      						<option value="76">bangalore</option>
-							
-	      						<option value="2691">bannadka</option>
-							
-	      						<option value="941">bantwal</option>
-							
-	      						<option value="942">bapatla</option>
-							
-	      						<option value="946">bareilly</option>
-							
-	      						<option value="784">barkur</option>
-							
-	      						<option value="948">baroda</option>
-							
-	      						<option value="1328">baruch</option>
-							
-	      						<option value="2084">basavakalyan</option>
-							
-	      						<option value="2256">basroor</option>
-							
-	      						<option value="2657">basrur murkai</option>
-							
-	      						<option value="952">batala</option>
-							
-	      						<option value="128">batlagundu</option>
-							
-	      						<option value="2834">beestavaripeta</option>
-							
-	      						<option value="2019">bejai</option>
-							
-	      						<option value="317">belgaum</option>
-							
-	      						<option value="494">bellary</option>
-							
-	      						<option value="792">belman</option>
-							
-	      						<option value="2115">beltangady</option>
-							
-	      						<option value="777">belthangady</option>
-							
-	      						<option value="2261">belur (gadhag)</option>
-							
-	      						<option value="2262">belvai</option>
-							
-	      						<option value="2692">belvai(bannadka)</option>
-							
-	      						<option value="960">bhadrachalam</option>
-							
-	      						<option value="1981">bhadragiri</option>
-							
-	      						<option value="964">bharuch</option>
-							
-	      						<option value="369">bhatkal</option>
-							
-	      						<option value="782">bhatkala</option>
-							
-	      						<option value="194">bhavani</option>
-							
-	      						<option value="2268">bhilai</option>
-							
-	      						<option value="974">bhimadolu</option>
-							
-	      						<option value="573">bhimavaram</option>
-							
-	      						<option value="1107">bhubaneswar</option>
-							
-	      						<option value="978">bhusaval</option>
-							
-	      						<option value="479">bidar</option>
-							
-	      						<option value="2271">bidkalkatte</option>
-							
-	      						<option value="439">bijapur</option>
-							
-	      						<option value="2273">bijoor</option>
-							
-	      						<option value="983">bikkavolu</option>
-							
-	      						<option value="497">bilagi</option>
-							
-	      						<option value="2887">black bridge</option>
-							
-	      						<option value="1280">bobbarlanka</option>
-							
-	      						<option value="1099">bokaro</option>
-							
-	      						<option value="992">brahmanagudem</option>
-							
-	      						<option value="495">brahmavar</option>
-							
-	      						<option value="786">brahmavara</option>
-							
-	      						<option value="998">burhanpur</option>
-							
-	      						<option value="999">buttelanka</option>
-							
-	      						<option value="498">byadgi</option>
-							
-	      						<option value="681">byndoor</option>
-							
-	      						<option value="79">calicut</option>
-							
-	      						<option value="396">canacona</option>
-							
-	      						<option value="1002">chagallu</option>
-							
-	      						<option value="132">chalakudy</option>
-							
-	      						<option value="2284">challakere</option>
-							
-	      						<option value="850">chandigarh</option>
-							
-	      						<option value="2110">chandolu</option>
-							
-	      						<option value="2170">changanassery</option>
-							
-	      						<option value="1014">channarayapatana</option>
-							
-	      						<option value="1984">chattirakkudi</option>
-							
-	      						<option value="833">chavadi</option>
-							
-	      						<option value="1017">chebrolu</option>
-							
-	      						<option value="2244">chehgaon</option>
-							
-	      						<option value="2693">chempi</option>
-							
-	      						<option value="551">chengalpattu</option>
-							
-	      						<option value="467">chengannur</option>
-							
-	      						<option value="71">chennai</option>
-							
-	      						<option value="1820">cheranmahadevi</option>
-							
-	      						<option value="461">cherthala</option>
-							
-	      						<option value="2684">cheruthuruthi</option>
-							
-	      						<option value="167">chidambaram</option>
-							
-	      						<option value="1026">chikhli</option>
-							
-	      						<option value="1027">chikkala</option>
-							
-	      						<option value="2295">chikodi</option>
-							
-	      						<option value="541">chilakaluripet</option>
-							
-	      						<option value="575">chinchwad</option>
-							
-	      						<option value="2770">chinnadharapuram</option>
-							
-	      						<option value="208">chinnamanur</option>
-							
-	      						<option value="1030">chiplun</option>
-							
-	      						<option value="1032">chirala</option>
-							
-	      						<option value="1033">chithode</option>
-							
-	      						<option value="499">chitradurga</option>
-							
-	      						<option value="159">chittarkottai</option>
-							
-	      						<option value="1037">chittoor</option>
-							
-	      						<option value="1040">chotila</option>
-							
-	      						<option value="133">cochin</option>
-							
-	      						<option value="75">coimbatore</option>
-							
-	      						<option value="1995">coonoor</option>
-							
-	      						<option value="1838">coorg</option>
-							
-	      						<option value="123">courtallam</option>
-							
-	      						<option value="2308">cross land</option>
-							
-	      						<option value="811">cuddalore</option>
-							
-	      						<option value="207">cumbam</option>
-							
-	      						<option value="1243">cuttack</option>
-							
-	      						<option value="1048">damalcheruvu</option>
-							
-	      						<option value="500">dandeli</option>
-							
-	      						<option value="1049">dapoli</option>
-							
-	      						<option value="319">davangere</option>
-							
-	      						<option value="2111">de sai camp</option>
-							
-	      						<option value="1062">dehradun</option>
-							
-	      						<option value="303">delhi</option>
-							
-	      						<option value="2734">deralakatte</option>
-							
-	      						<option value="2893">desapeta</option>
-							
-	      						<option value="2151">devadurga</option>
-							
-	      						<option value="139">devakottai</option>
-							
-	      						<option value="1065">devarapalli</option>
-							
-	      						<option value="2750">devarkulam</option>
-							
-	      						<option value="142">devipattinam</option>
-							
-	      						<option value="1101">dhanbad</option>
-							
-	      						<option value="552">dharapuram</option>
-							
-	      						<option value="114">dharmapuri</option>
-							
-	      						<option value="817">dharmasthala</option>
-							
-	      						<option value="843">dharmavaram</option>
-							
-	      						<option value="323">dharwad</option>
-							
-	      						<option value="2099">dhindivanam</option>
-							
-	      						<option value="1086">dhrol</option>
-							
-	      						<option value="1087">dhule</option>
-							
-	      						<option value="1137">dhulia</option>
-							
-	      						<option value="2062">digha</option>
-							
-	      						<option value="127">dindigul</option>
-							
-	      						<option value="325">dindigul by pass</option>
-							
-	      						<option value="1145">dombivli</option>
-							
-	      						<option value="1146">dommeru</option>
-							
-	      						<option value="2896">dowlaiswaram</option>
-							
-	      						<option value="1053">dowleswaram</option>
-							
-	      						<option value="1113">draksharamam</option>
-							
-	      						<option value="1281">duddukuru</option>
-							
-	      						<option value="1102">durgapur</option>
-							
-	      						<option value="1115">dwarapudi</option>
-							
-	      						<option value="712">edapal</option>
-							
-	      						<option value="689">edappally</option>
-							
-	      						<option value="2846">edur</option>
-							
-	      						<option value="574">edurlanka</option>
-							
-	      						<option value="285">eluru</option>
-							
-	      						<option value="1116">elurupadu</option>
-							
-	      						<option value="1994">engapuzha</option>
-							
-	      						<option value="1161">epurupalem</option>
-							
-	      						<option value="1162">erandol</option>
-							
-	      						<option value="473">erattupetta</option>
-							
-	      						<option value="2845">ermal</option>
-							
-	      						<option value="129">ernakulam</option>
-							
-	      						<option value="545">ernakulam bypass</option>
-							
-	      						<option value="92">erode</option>
-							
-	      						<option value="226">erode by pass</option>
-							
-	      						<option value="764">erumapatti</option>
-							
-	      						<option value="1166">erumeli</option>
-							
-	      						<option value="165">ervadi</option>
-							
-	      						<option value="1900">ettayapuram bypass</option>
-							
-	      						<option value="705">ettumanur</option>
-							
-	      						<option value="2865">gabbur</option>
-							
-	      						<option value="501">gadag</option>
-							
-	      						<option value="1171">gadhada</option>
-							
-	      						<option value="1335">gajuwaka</option>
-							
-	      						<option value="1117">ganapavaram</option>
-							
-	      						<option value="502">gangavathi</option>
-							
-	      						<option value="2343">gangoli</option>
-							
-	      						<option value="2718">ganjimutt</option>
-							
-	      						<option value="576">gannavaram</option>
-							
-	      						<option value="2694">gantalkatte</option>
-							
-	      						<option value="1235">gazipur</option>
-							
-	      						<option value="365">gerusoppa</option>
-							
-	      						<option value="2804">giddalur</option>
-							
-	      						<option value="251">goa</option>
-							
-	      						<option value="1185">gobi</option>
-							
-	      						<option value="503">gokak</option>
-							
-	      						<option value="504">gokarna</option>
-							
-	      						<option value="371">gokarna cross</option>
-							
-	      						<option value="2852">goliangadi</option>
-							
-	      						<option value="1118">gollapalem</option>
-							
-	      						<option value="1192">gooty</option>
-							
-	      						<option value="1119">gopalapuram</option>
-							
-	      						<option value="621">gopi chetty palayam</option>
-							
-	      						<option value="1120">gorakhpur</option>
-							
-	      						<option value="1356">govindpur</option>
-							
-	      						<option value="1123">gowripatnam</option>
-							
-	      						<option value="2354">gudde angadi</option>
-							
-	      						<option value="602">gudivada</option>
-							
-	      						<option value="2696">gudmbi</option>
-							
-	      						<option value="686">gudur bypass</option>
-							
-	      						<option value="1415">gulapura</option>
-							
-	      						<option value="480">gulbarga</option>
-							
-	      						<option value="1358">gulberga</option>
-							
-	      						<option value="505">guledgudda</option>
-							
-	      						<option value="1416">gundlupet</option>
-							
-	      						<option value="2356">gundmi ambagilu</option>
-							
-	      						<option value="1404">guntakal</option>
-							
-	      						<option value="93">guntur</option>
-							
-	      						<option value="822">gurupura</option>
-							
-	      						<option value="819">guruvayanakere</option>
-							
-	      						<option value="693">guruvayoor</option>
-							
-	      						<option value="2361">hagaribommanahalli</option>
-							
-	      						<option value="2589">haladi</option>
-							
-	      						<option value="1422">haldwani</option>
-							
-	      						<option value="2368">hale angadi</option>
-							
-	      						<option value="1423">haliyal</option>
-							
-	      						<option value="1425">hampi</option>
-							
-	      						<option value="2035">hanuman junction</option>
-							
-	      						<option value="2667">harappanahalli</option>
-							
-	      						<option value="1266">haridwar</option>
-							
-	      						<option value="318">hariharapura</option>
-							
-	      						<option value="558">haripad</option>
-							
-	      						<option value="2859">harkur</option>
-							
-	      						<option value="2853">harmannu</option>
-							
-	      						<option value="367">haveri</option>
-							
-	      						<option value="783">hebri</option>
-							
-	      						<option value="2592">hemmadi</option>
-							
-	      						<option value="1427">himmatnagar</option>
-							
-	      						<option value="1429">hindupur</option>
-							
-	      						<option value="1430">hiriyadka</option>
-							
-	      						<option value="2601">hiriyur</option>
-							
-	      						<option value="1431">hirur</option>
-							
-	      						<option value="364">honnavar</option>
-							
-	      						<option value="2581">hosangadi</option>
-							
-	      						<option value="2576">hosangadi</option>
-							
-	      						<option value="1434">hosnagar</option>
-							
-	      						<option value="506">hospet</option>
-							
-	      						<option value="77">hosur</option>
-							
-	      						<option value="253">hubli</option>
-							
-	      						<option value="719">humcha</option>
-							
-	      						<option value="507">humnabad</option>
-							
-	      						<option value="1436">hungund</option>
-							
-	      						<option value="2851">hunsemakki</option>
-							
-	      						<option value="84">hyderabad</option>
-							
-	      						<option value="431">ichalkaranji</option>
-							
-	      						<option value="1282">iligantipeta</option>
-							
-	      						<option value="380">ilkal</option>
-							
-	      						<option value="1438">illayangudi</option>
-							
-	      						<option value="301">indore</option>
-							
-	      						<option value="1129">inkollu</option>
-							
-	      						<option value="1315">irinjalakuda</option>
-							
-	      						<option value="1442">islampur</option>
-							
-	      						<option value="1449">jabalpur</option>
-							
-	      						<option value="2867">jadkal</option>
-							
-	      						<option value="839">jagadapatnam</option>
-							
-	      						<option value="1130">jagannapeta</option>
-							
-	      						<option value="2889">jaggampet</option>
-							
-	      						<option value="577">jaggampeta</option>
-							
-	      						<option value="1222">jagganathagiri</option>
-							
-	      						<option value="1452">jagityal</option>
-							
-	      						<option value="1223">jaipur</option>
-							
-	      						<option value="1453">jaisinghpur</option>
-							
-	      						<option value="1226">jakkaram</option>
-							
-	      						<option value="1360">jalgaon</option>
-							
-	      						<option value="1361">jalna</option>
-							
-	      						<option value="510">jamkhandi</option>
-							
-	      						<option value="1461">jammalamadugu</option>
-							
-	      						<option value="1462">jammu</option>
-							
-	      						<option value="2158">jammulapalem</option>
-							
-	      						<option value="1463">jamnagar</option>
-							
-	      						<option value="1465">jangareddigudem</option>
-							
-	      						<option value="1468">jaysingpur</option>
-							
-	      						<option value="511">jewargi</option>
-							
-	      						<option value="2298">jindal power</option>
-							
-	      						<option value="1338">juvvalapalem</option>
-							
-	      						<option value="2847">k.r. nagar</option>
-							
-	      						<option value="2779">k.r.pet</option>
-							
-	      						<option value="110">kadaiyanallur</option>
-							
-	      						<option value="2185">kadaladi</option>
-							
-	      						<option value="1227">kadamanchali</option>
-							
-	      						<option value="556">kadapa</option>
-							
-	      						<option value="1480">kadara</option>
-							
-	      						<option value="654">kadatchapuram</option>
-							
-	      						<option value="844">kadiri</option>
-							
-	      						<option value="1131">kadiyam</option>
-							
-	      						<option value="1482">kadodra</option>
-							
-	      						<option value="376">kadra</option>
-							
-	      						<option value="377">kaiga</option>
-							
-	      						<option value="1132">kaikaluru</option>
-							
-	      						<option value="789">kaikamba</option>
-							
-	      						<option value="2791">kaikaram</option>
-							
-	      						<option value="158">kaikatti</option>
-							
-	      						<option value="2076">kakani</option>
-							
-	      						<option value="578">kakinada</option>
-							
-	      						<option value="2114">kakumanu</option>
-							
-	      						<option value="354">kalady</option>
-							
-	      						<option value="690">kalamassery</option>
-							
-	      						<option value="231">kalayarkoil</option>
-							
-	      						<option value="2832">kalghatagi</option>
-							
-	      						<option value="604">kalidindi</option>
-							
-	      						<option value="1492">kaligiri</option>
-							
-	      						<option value="103">kaliyakkavilai</option>
-							
-	      						<option value="2891">kalla</option>
-							
-	      						<option value="2573">kalladka</option>
-							
-	      						<option value="1821">kallal</option>
-							
-	      						<option value="768">kallidai</option>
-							
-	      						<option value="831">kaloor</option>
-							
-	      						<option value="426">kalpetta</option>
-							
-	      						<option value="1316">kalpetta</option>
-							
-	      						<option value="1499">kalyan</option>
-							
-	      						<option value="2751">kamanayakkanpatti</option>
-							
-	      						<option value="2695">kambadakone</option>
-							
-	      						<option value="1502">kammarpally</option>
-							
-	      						<option value="714">kanchipuram</option>
-							
-	      						<option value="2577">kandalur</option>
-							
-	      						<option value="1229">kandavelli</option>
-							
-	      						<option value="1914">kangayam</option>
-							
-	      						<option value="1506">kanhangad</option>
-							
-	      						<option value="2124">kanjikode</option>
-							
-	      						<option value="360">kanjirapally</option>
-							
-	      						<option value="1507">kankavli</option>
-							
-	      						<option value="2054">kankipadu</option>
-							
-	      						<option value="2697">kannukere</option>
-							
-	      						<option value="2183">kannukudi</option>
-							
-	      						<option value="400">kannur</option>
-							
-	      						<option value="1090">kanpur</option>
-							
-	      						<option value="289">kanyakumari</option>
-							
-	      						<option value="1512">kapu</option>
-							
-	      						<option value="315">karad</option>
-							
-	      						<option value="117">karaikkal</option>
-							
-	      						<option value="145">karaikudi</option>
-							
-	      						<option value="2018">karamchedu</option>
-							
-	      						<option value="1296">karanja</option>
-							
-	      						<option value="2088">karapa</option>
-							
-	      						<option value="514">karatagi</option>
-							
-	      						<option value="2698">karavali</option>
-							
-	      						<option value="780">karkala</option>
-							
-	      						<option value="2700">karkala(kesargadde)</option>
-							
-	      						<option value="1339">karlapalem</option>
-							
-	      						<option value="1317">karunagapilly</option>
-							
-	      						<option value="246">karur</option>
-							
-	      						<option value="252">karwar</option>
-							
-	      						<option value="803">kasargod</option>
-							
-	      						<option value="2799">kashriya ji</option>
-							
-	      						<option value="2658">katapadi(udupi)</option>
-							
-	      						<option value="1283">katavaram</option>
-							
-	      						<option value="788">kateel</option>
-							
-	      						<option value="1284">katheru</option>
-							
-	      						<option value="237">katpadi</option>
-							
-	      						<option value="1524">katra</option>
-							
-	      						<option value="515">katraj</option>
-							
-	      						<option value="277">kattappana</option>
-							
-	      						<option value="2872">kattinamaki</option>
-							
-	      						<option value="338">kattumavadi</option>
-							
-	      						<option value="388">kaup</option>
-							
-	      						<option value="146">kavali</option>
-							
-	      						<option value="2140">kavalkinaru</option>
-							
-	      						<option value="798">kavoor</option>
-							
-	      						<option value="214">kayalpattinam</option>
-							
-	      						<option value="459">kayamkulam</option>
-							
-	      						<option value="1318">kazhakottam</option>
-							
-	      						<option value="1526">kazhakottam</option>
-							
-	      						<option value="1846">kazhgumalai</option>
-							
-	      						<option value="164">keelakarai</option>
-							
-	      						<option value="838">keeranur</option>
-							
-	      						<option value="2842">kerur</option>
-							
-	      						<option value="2699">kesargaddhe</option>
-							
-	      						<option value="1528">kesariyaji</option>
-							
-	      						<option value="1134">khamgaon</option>
-							
-	      						<option value="1533">khamnam</option>
-							
-	      						<option value="1538">kharepaten</option>
-							
-	      						<option value="1539">kharvada</option>
-							
-	      						<option value="791">kinnigoli</option>
-							
-	      						<option value="2864">kirimanjeswar</option>
-							
-	      						<option value="125">kodaikanal</option>
-							
-	      						<option value="701">kodakara</option>
-							
-	      						<option value="713">kodungallur</option>
-							
-	      						<option value="696">koduvally</option>
-							
-	      						<option value="2164">kokkanur</option>
-							
-	      						<option value="785">kokkarne</option>
-							
-	      						<option value="1858">kolathur</option>
-							
-	      						<option value="312">kolhapur</option>
-							
-	      						<option value="1103">kolkata</option>
-							
-	      						<option value="83">kollam</option>
-							
-	      						<option value="841">kollur</option>
-							
-	      						<option value="1247">komaragiripatnam</option>
-							
-	      						<option value="2113">kommuru</option>
-							
-	      						<option value="2735">konaje</option>
-							
-	      						<option value="2702">kondadi school</option>
-							
-	      						<option value="481">kondotty</option>
-							
-	      						<option value="463">konni</option>
-							
-	      						<option value="1563">koothanallur</option>
-							
-	      						<option value="343">koothattukulam</option>
-							
-	      						<option value="2137">kopa byepass</option>
-							
-	      						<option value="516">koppal</option>
-							
-	      						<option value="832">koratty</option>
-							
-	      						<option value="1248">korukollu</option>
-							
-	      						<option value="1565">kota</option>
-							
-	      						<option value="2578">koteshwara</option>
-							
-	      						<option value="1135">kothagudem</option>
-							
-	      						<option value="579">kothapeta</option>
-							
-	      						<option value="1567">kothara</option>
-							
-	      						<option value="2892">kothuru</option>
-							
-	      						<option value="341">kottakara</option>
-							
-	      						<option value="1570">kottakkal</option>
-							
-	      						<option value="227">kottampatti</option>
-							
-	      						<option value="2701">kottamuri</option>
-							
-	      						<option value="840">kottapattinam</option>
-							
-	      						<option value="468">kottarakara</option>
-							
-	      						<option value="344">kottayam</option>
-							
-	      						<option value="1249">kotturu</option>
-							
-	      						<option value="183">kovilpatti</option>
-							
-	      						<option value="619">kovilpatti bye pass</option>
-							
-	      						<option value="1136">kovvuru</option>
-							
-	      						<option value="1195">koyyalagudem</option>
-							
-	      						<option value="351">kozhancherry</option>
-							
-	      						<option value="1320">kozhikode</option>
-							
-	      						<option value="2081">krec</option>
-							
-	      						<option value="192">krishnagiri</option>
-							
-	      						<option value="1363">kudal</option>
-							
-	      						<option value="2400">kukke subramanya temple</option>
-							
-	      						<option value="2082">kulai</option>
-							
-	      						<option value="2685">kulappully</option>
-							
-	      						<option value="288">kulasekaramangalam</option>
-							
-	      						<option value="1297">kulithalai</option>
-							
-	      						<option value="1576">kullu</option>
-							
-	      						<option value="2668">kulur</option>
-							
-	      						<option value="108">kumbakonam</option>
-							
-	      						<option value="560">kumbanad</option>
-							
-	      						<option value="2634">kumbashi</option>
-							
-	      						<option value="278">kumily</option>
-							
-	      						<option value="2654">kumily</option>
-							
-	      						<option value="363">kumta</option>
-							
-	      						<option value="385">kundapura</option>
-							
-	      						<option value="2860">kunjalu</option>
-							
-	      						<option value="694">kunnamangalam</option>
-							
-	      						<option value="1581">kunnamkulam</option>
-							
-	      						<option value="1584">kuppam</option>
-							
-	      						<option value="1586">kuravilangad</option>
-							
-	      						<option value="91">kurnool</option>
-							
-	      						<option value="706">kuruvilangadu</option>
-							
-	      						<option value="2599">kushal nagar</option>
-							
-	      						<option value="517">kushtagi</option>
-							
-	      						<option value="1587">kutiyana</option>
-							
-	      						<option value="462">kuttanad</option>
-							
-	      						<option value="711">kuttippuram</option>
-							
-	      						<option value="1863">kuziparai</option>
-							
-	      						<option value="605">lakkavaram</option>
-							
-	      						<option value="809">lakshmangudi</option>
-							
-	      						<option value="2161">lamjana</option>
-							
-	      						<option value="1364">lanja</option>
-							
-	      						<option value="1592">lankala koderu</option>
-							
-	      						<option value="1591">latur</option>
-							
-	      						<option value="1596">lingsugur</option>
-							
-	      						<option value="1597">loha</option>
-							
-	      						<option value="519">lokapur</option>
-							
-	      						<option value="1336">lonavala</option>
-							
-	      						<option value="1395">loni</option>
-							
-	      						<option value="1091">lucknow</option>
-							
-	      						<option value="2659">mabukala</option>
-							
-	      						<option value="1252">machavaram</option>
-							
-	      						<option value="2089">macherla</option>
-							
-	      						<option value="2193">machilipatnam</option>
-							
-	      						<option value="229">madagupatti</option>
-							
-	      						<option value="845">madanapalle</option>
-							
-	      						<option value="1605">madathukulam</option>
-							
-	      						<option value="1253">madduru</option>
-							
-	      						<option value="1365">madgaon</option>
-							
-	      						<option value="1608">madikeri</option>
-							
-	      						<option value="122">madukkoor</option>
-							
-	      						<option value="72">madurai</option>
-							
-	      						<option value="256">madurai by pass</option>
-							
-	      						<option value="1292">mahableshwar</option>
-							
-	      						<option value="520">mahalingpur</option>
-							
-	      						<option value="457">mahe</option>
-							
-	      						<option value="580">mahipala cheruvu</option>
-							
-	      						<option value="1322">malapuram</option>
-							
-	      						<option value="1382">malda</option>
-							
-	      						<option value="1366">malegaon</option>
-							
-	      						<option value="606">malkipuram</option>
-							
-	      						<option value="1286">mallaiahpeta</option>
-							
-	      						<option value="378">mallapura</option>
-							
-	      						<option value="485">mallapuram</option>
-							
-	      						<option value="339">mallipattinam</option>
-							
-	      						<option value="607">mamidikuduru</option>
-							
-	      						<option value="304">manali</option>
-							
-	      						<option value="340">manamelkudi</option>
-							
-	      						<option value="411">mananthavadi</option>
-							
-	      						<option value="2130">mananthavady</option>
-							
-	      						<option value="793">manchalakatta</option>
-							
-	      						<option value="1626">mandangad</option>
-							
-	      						<option value="157">mandapam</option>
-							
-	      						<option value="1196">mandapet</option>
-							
-	      						<option value="2723">mandapeta</option>
-							
-	      						<option value="2873">mandarthi</option>
-							
-	      						<option value="1197">mandavalli</option>
-							
-	      						<option value="1867">mandharakuppam</option>
-							
-	      						<option value="787">mandharipeta</option>
-							
-	      						<option value="1852">mandya</option>
-							
-	      						<option value="2073">mangalagiri (bye-pass)</option>
-							
-	      						<option value="314">mangalore</option>
-							
-	      						<option value="384">manipal</option>
-							
-	      						<option value="394">manki</option>
-							
-	      						<option value="120">mannargudi</option>
-							
-	      						<option value="1323">mannarkad</option>
-							
-	      						<option value="1646">mannarkkad</option>
-							
-	      						<option value="2660">manoor</option>
-							
-	      						<option value="1651">mantralaya</option>
-							
-	      						<option value="1652">manuguru</option>
-							
-	      						<option value="521">manvi</option>
-							
-	      						<option value="395">mapsa</option>
-							
-	      						<option value="232">maravamangalam</option>
-							
-	      						<option value="2579">maravanthe</option>
-							
-	      						<option value="2674">marayur</option>
-							
-	      						<option value="374">margoa</option>
-							
-	      						<option value="2833">markapuram</option>
-							
-	      						<option value="1198">marteru</option>
-							
-	      						<option value="104">marthandam</option>
-							
-	      						<option value="1654">martur</option>
-							
-	      						<option value="1254">marturu</option>
-							
-	      						<option value="2149">maski</option>
-							
-	      						<option value="2580">masthikatte</option>
-							
-	      						<option value="658">mattancherry</option>
-							
-	      						<option value="1238">mau</option>
-							
-	      						<option value="391">mavingundi</option>
-							
-	      						<option value="190">mayavaram</option>
-							
-	      						<option value="170">mayiladuthurai</option>
-							
-	      						<option value="2378">mecleod ganj</option>
-							
-	      						<option value="1199">medarametla</option>
-							
-	      						<option value="1664">mehkar</option>
-							
-	      						<option value="2672">melkar</option>
-							
-	      						<option value="547">mellur</option>
-							
-	      						<option value="1668">metpally</option>
-							
-	      						<option value="648">mettupalayam</option>
-							
-	      						<option value="193">mettur</option>
-							
-	      						<option value="1670">mijar</option>
-							
-	      						<option value="1671">mimisal</option>
-							
-	      						<option value="1672">miraj</option>
-							
-	      						<option value="1673">mirjan</option>
-							
-	      						<option value="2128">monipally</option>
-							
-	      						<option value="781">moodbidri</option>
-							
-	      						<option value="830">mookambika&nbsp;temple</option>
-							
-	      						<option value="2132">moonupeedika</option>
-							
-	      						<option value="1324">moovattupuzha</option>
-							
-	      						<option value="2199">mothadaka</option>
-							
-	      						<option value="661">mudalur</option>
-							
-	      						<option value="2118">muddebihal</option>
-							
-	      						<option value="2166">muddunoor</option>
-							
-	      						<option value="522">mudhol</option>
-							
-	      						<option value="581">mudinepalli</option>
-							
-	      						<option value="2737">mudipu</option>
-							
-	      						<option value="799">mudrangandi</option>
-							
-	      						<option value="200">mudukalathur</option>
-							
-	      						<option value="1285">muggulla</option>
-							
-	      						<option value="484">mukkam</option>
-							
-	      						<option value="2890">mukkamala</option>
-							
-	      						<option value="2888">muktheswaram</option>
-							
-	      						<option value="2771">mulanur</option>
-							
-	      						<option value="389">mulki</option>
-							
-	      						<option value="2854">mullikatte</option>
-							
-	      						<option value="2661">muloor</option>
-							
-	      						<option value="295">mumbai</option>
-							
-	      						<option value="582">mummidivaram</option>
-							
-	      						<option value="2121">munavali</option>
-							
-	      						<option value="752">mundakayam</option>
-							
-	      						<option value="2617">mundkur</option>
-							
-	      						<option value="583">munganda</option>
-							
-	      						<option value="2730">munirabad</option>
-							
-	      						<option value="276">munnar</option>
-							
-	      						<option value="584">muramalla</option>
-							
-	      						<option value="2703">murathangadi</option>
-							
-	      						<option value="393">murdeshwar</option>
-							
-	      						<option value="707">muringassery</option>
-							
-	      						<option value="2822">murnadu</option>
-							
-	      						<option value="1701">murudeshwar</option>
-							
-	      						<option value="216">muthupettai</option>
-							
-	      						<option value="342">muvattupuzha</option>
-							
-	      						<option value="1697">mydukur</option>
-							
-	      						<option value="443">mysore</option>
-							
-	      						<option value="2131">n.g.o quarters clt</option>
-							
-	      						<option value="1868">nachandupatti</option>
-							
-	      						<option value="1695">nadiad</option>
-							
-	      						<option value="1375">nadiyad</option>
-							
-	      						<option value="118">nagapattinam</option>
-							
-	      						<option value="1703">nagar</option>
-							
-	      						<option value="1704">nagara</option>
-							
-	      						<option value="1842">nagercoil</option>
-							
-	      						<option value="474">nagore</option>
-							
-	      						<option value="1201">nagpur</option>
-							
-	      						<option value="2704">naguru</option>
-							
-	      						<option value="1261">naidupet</option>
-							
-	      						<option value="685">naidupet bypass</option>
-							
-	      						<option value="1706">nainital</option>
-							
-	      						<option value="2005">nakkapalli</option>
-							
-	      						<option value="1708">nakrekal</option>
-							
-	      						<option value="2045">nallapadu</option>
-							
-	      						<option value="663">namagiri pet</option>
-							
-	      						<option value="96">namakkal</option>
-							
-	      						<option value="2090">namburu</option>
-							
-	      						<option value="1202">nanded</option>
-							
-	      						<option value="1713">nandgaon</option>
-							
-	      						<option value="1718">nandyala</option>
-							
-	      						<option value="1714">nanjangood</option>
-							
-	      						<option value="2600">napoklu</option>
-							
-	      						<option value="2147">naragund</option>
-							
-	      						<option value="2198">narakullapadu</option>
-							
-	      						<option value="1203">narasaraopet</option>
-							
-	      						<option value="1204">narayanapuram</option>
-							
-	      						<option value="2106">narsannapeta</option>
-							
-	      						<option value="1206">narsapuram</option>
-							
-	      						<option value="1725">nashik</option>
-							
-	      						<option value="1726">nathdwara</option>
-							
-	      						<option value="1728">navaghadh</option>
-							
-	      						<option value="1729">navsari</option>
-							
-	      						<option value="2705">navunda</option>
-							
-	      						<option value="2610">nayakana hatty</option>
-							
-	      						<option value="664">nazareth</option>
-							
-	      						<option value="361">nedugandam</option>
-							
-	      						<option value="255">nelamangala</option>
-							
-	      						<option value="87">nellore</option>
-							
-	      						<option value="836">nellore bypass</option>
-							
-	      						<option value="2869">neralakatte</option>
-							
-	      						<option value="1925">nerkuppai</option>
-							
-	      						<option value="557">neyveli</option>
-							
-	      						<option value="2141">neyyattinkara</option>
-							
-	      						<option value="1257">nidadavolu</option>
-							
-	      						<option value="2119">nidagundi</option>
-							
-	      						<option value="1205">nidamarru</option>
-							
-	      						<option value="2202">nidimukalla</option>
-							
-	      						<option value="430">nippani</option>
-							
-	      						<option value="779">nitte</option>
-							
-	      						<option value="2731">nittur</option>
-							
-	      						<option value="1752">nizambad</option>
-							
-	      						<option value="2856">noojadi</option>
-							
-	      						<option value="2594">nujari</option>
-							
-	      						<option value="2194">nuzvid</option>
-							
-	      						<option value="241">oddanchathiram</option>
-							
-	      						<option value="88">ongole</option>
-							
-	      						<option value="2053">ongole(by-pass)</option>
-							
-	      						<option value="2706">onthibettu</option>
-							
-	      						<option value="682">ooty</option>
-							
-	      						<option value="2184">opilan</option>
-							
-	      						<option value="1762">orathanadu</option>
-							
-	      						<option value="665">orathanadu</option>
-							
-	      						<option value="1398">osmanabad</option>
-							
-	      						<option value="1881">ottapalam</option>
-							
-	      						<option value="2753">ottapidaram</option>
-							
-	      						<option value="585">p. gannavaram</option>
-							
-	      						<option value="1765">padadhri</option>
-							
-	      						<option value="2662">padu panambur</option>
-							
-	      						<option value="680">padubidri</option>
-							
-	      						<option value="2595">padukone</option>
-							
-	      						<option value="2707">padyarabettu</option>
-							
-	      						<option value="358">pala</option>
-							
-	      						<option value="647">palakkad</option>
-							
-	      						<option value="750">palakkadbyepass</option>
-							
-	      						<option value="586">palakollu</option>
-							
-	      						<option value="1766">palamaner</option>
-							
-	      						<option value="273">palani</option>
-							
-	      						<option value="1207">palavancha</option>
-							
-	      						<option value="1865">palayakayal</option>
-							
-	      						<option value="209">palayam</option>
-							
-	      						<option value="1769">palghat</option>
-							
-	      						<option value="1770">pali</option>
-							
-	      						<option value="487">palladam</option>
-							
-	      						<option value="1772">pallamkuru</option>
-							
-	      						<option value="2727">pallapatti</option>
-							
-	      						<option value="835">pallathur</option>
-							
-	      						<option value="2192">pamarru</option>
-							
-	      						<option value="549">pamba</option>
-							
-	      						<option value="1104">panagarh</option>
-							
-	      						<option value="144">panaikulam</option>
-							
-	      						<option value="2639">panambur</option>
-							
-	      						<option value="1872">panayapatti</option>
-							
-	      						<option value="1376">panchgani</option>
-							
-	      						<option value="1368">panchgini</option>
-							
-	      						<option value="466">pandalam</option>
-							
-	      						<option value="1256">pandithavalluru</option>
-							
-	      						<option value="2663">pangala</option>
-							
-	      						<option value="1208">pangidi</option>
-							
-	      						<option value="375">panjim</option>
-							
-	      						<option value="1780">panruti</option>
-							
-	      						<option value="1388">panvel</option>
-							
-	      						<option value="2180">papanad</option>
-							
-	      						<option value="282">papanasam</option>
-							
-	      						<option value="154">paramakudi</option>
-							
-	      						<option value="666">paramankurichy</option>
-							
-	      						<option value="99">paramathi velur</option>
-							
-	      						<option value="2139">parasala</option>
-							
-	      						<option value="1209">parchur</option>
-							
-	      						<option value="387">parkala</option>
-							
-	      						<option value="1789">parola</option>
-							
-	      						<option value="2755">pasuvanthanai</option>
-							
-	      						<option value="352">pathanamthitta</option>
-							
-	      						<option value="464">pathanapuram</option>
-							
-	      						<option value="119">pattukottai</option>
-							
-	      						<option value="2203">paur</option>
-							
-	      						<option value="668">pavithiram</option>
-							
-	      						<option value="272">pavur chattram</option>
-							
-	      						<option value="2157">pedanandipadu</option>
-							
-	      						<option value="610">peddapuram</option>
-							
-	      						<option value="235">peelamedu</option>
-							
-	      						<option value="94">perambalur</option>
-							
-	      						<option value="2013">peravali</option>
-							
-	      						<option value="1796">peravoorni</option>
-							
-	      						<option value="257">peravurani</option>
-							
-	      						<option value="2027">percherla</option>
-							
-	      						<option value="2619">perdoor</option>
-							
-	      						<option value="476">perinthalmanna</option>
-							
-	      						<option value="187">periyakulam</option>
-							
-	      						<option value="205">perumanallur</option>
-							
-	      						<option value="355">perumbavoor</option>
-							
-	      						<option value="1798">perundurai</option>
-							
-	      						<option value="116">perundurai</option>
-							
-	      						<option value="155">perungulam</option>
-							
-	      						<option value="1913">perunthalmana</option>
-							
-	      						<option value="2017">peruru</option>
-							
-	      						<option value="2870">pethri</option>
-							
-	      						<option value="1799">petnaka</option>
-							
-	      						<option value="2023">piduguralla</option>
-							
-	      						<option value="1804">pileru</option>
-							
-	      						<option value="1212">pippara</option>
-							
-	      						<option value="244">pollachi</option>
-							
-	      						<option value="1869">ponda</option>
-							
-	      						<option value="126">pondicherry</option>
-							
-	      						<option value="359">ponkunnam</option>
-							
-	      						<option value="683">ponnamaravathy</option>
-							
-	      						<option value="1809">ponnur</option>
-							
-	      						<option value="2091">poonamallee</option>
-							
-	      						<option value="587">prathipadu</option>
-							
-	      						<option value="1814">proddutur</option>
-							
-	      						<option value="137">pudukkottai</option>
-							
-	      						<option value="1843">pudukotai</option>
-							
-	      						<option value="161">puduvalasai</option>
-							
-	      						<option value="238">puduwayal</option>
-							
-	      						<option value="1926">puliangudi</option>
-							
-	      						<option value="1258">pulivendula</option>
-							
-	      						<option value="140">puliyal</option>
-							
-	      						<option value="2555">puliyampatti</option>
-							
-	      						<option value="263">puliyankudi</option>
-							
-	      						<option value="1259">pulla</option>
-							
-	      						<option value="2801">pullampet</option>
-							
-	      						<option value="588">pulletikuru</option>
-							
-	      						<option value="2848">pumpwel circle mangalore</option>
-							
-	      						<option value="2764">punaloor</option>
-							
-	      						<option value="296">pune</option>
-							
-	      						<option value="2057">pune(chandni chowk)</option>
-							
-	      						<option value="1818">punganur</option>
-							
-	      						<option value="1244">puri</option>
-							
-	      						<option value="1819">pusad</option>
-							
-	      						<option value="2756">puthiamputhur</option>
-							
-	      						<option value="775">puttur</option>
-							
-	      						<option value="141">r s mangalam</option>
-							
-	      						<option value="523">rabakavi</option>
-							
-	      						<option value="1260">rachuru</option>
-							
-	      						<option value="670">raichoti</option>
-							
-	      						<option value="524">raichur</option>
-							
-	      						<option value="1383">raigunj</option>
-							
-	      						<option value="2000">railway koduru</option>
-							
-	      						<option value="1824">raipur</option>
-							
-	      						<option value="2239">rajam</option>
-							
-	      						<option value="1213">rajampet</option>
-							
-	      						<option value="286">rajamundry</option>
-							
-	      						<option value="1826">rajanagaram</option>
-							
-	      						<option value="111">rajapalayam</option>
-							
-	      						<option value="1369">rajapur</option>
-							
-	      						<option value="1828">rajgarh</option>
-							
-	      						<option value="307">rajkot</option>
-							
-	      						<option value="1830">ramachandrapuram</option>
-							
-	      						<option value="2884">ramdurg</option>
-							
-	      						<option value="149">rameswaram</option>
-							
-	      						<option value="143">ramnad</option>
-							
-	      						<option value="1273">rampur</option>
-							
-	      						<option value="525">ranebennur</option>
-							
-	      						<option value="2095">rangampeta</option>
-							
-	      						<option value="1114">ranigunj</option>
-							
-	      						<option value="1861">ranipet</option>
-							
-	      						<option value="687">ranny</option>
-							
-	      						<option value="98">rasipuram</option>
-							
-	      						<option value="2399">ratlam</option>
-							
-	      						<option value="589">ravulapalem</option>
-							
-	      						<option value="2402">rayachoti</option>
-							
-	      						<option value="2602">rayadurg</option>
-							
-	      						<option value="590">razole</option>
-							
-	      						<option value="2004">rc puram</option>
-							
-	      						<option value="2757">reddiarpatti</option>
-							
-	      						<option value="1342">reddypalem</option>
-							
-	      						<option value="2154">returu</option>
-							
-	      						<option value="2404">rippinpet</option>
-							
-	      						<option value="1873">rishikesh</option>
-							
-	      						<option value="2405">rly. konduru</option>
-							
-	      						<option value="1996">ron</option>
-							
-	      						<option value="1267">roorkee</option>
-							
-	      						<option value="1357">rudrapur</option>
-							
-	      						<option value="259">s p pattinam</option>
-							
-	      						<option value="2007">s.konda</option>
-							
-	      						<option value="2064">s.konda by-pass</option>
-							
-	      						<option value="366">sagara</option>
-							
-	      						<option value="399">sahar</option>
-							
-	      						<option value="2627">saibarakatte</option>
-							
-	      						<option value="2805">sakthinagar</option>
-							
-	      						<option value="2366">salakudi</option>
-							
-	      						<option value="81">salem</option>
-							
-	      						<option value="225">salem bye pass</option>
-							
-	      						<option value="2415">saligrama</option>
-							
-	      						<option value="591">samarlakota</option>
-							
-	      						<option value="2732">sampekatte</option>
-							
-	      						<option value="222">sangagiri</option>
-							
-	      						<option value="1377">sangamner</option>
-							
-	      						<option value="2049">sangli</option>
-							
-	      						<option value="186">sankarankovil</option>
-							
-	      						<option value="429">sankeshwar</option>
-							
-	      						<option value="2709">sanoor karkala</option>
-							
-	      						<option value="2583">sastana</option>
-							
-	      						<option value="316">satara</option>
-							
-	      						<option value="671">sathankulam</option>
-							
-	      						<option value="2029">sathenpalli</option>
-							
-	      						<option value="1856">sathyamangalam</option>
-							
-	      						<option value="184">sattur</option>
-							
-	      						<option value="618">sattur bye pass</option>
-							
-	      						<option value="2144">saundatti</option>
-							
-	      						<option value="2584">savadatti</option>
-							
-	      						<option value="1370">sawantwadi</option>
-							
-	      						<option value="199">sayalkudi</option>
-							
-	      						<option value="168">seerkazhi</option>
-							
-	      						<option value="766">seramadevi</option>
-							
-	      						<option value="267">serenthamaram</option>
-							
-	      						<option value="527">shahapur</option>
-							
-	      						<option value="528">shaktinagar</option>
-							
-	      						<option value="2150">shankaranarayana</option>
-							
-	      						<option value="2849">shankarpura</option>
-							
-	      						<option value="1245">shantiniketan</option>
-							
-	      						<option value="2733">shashidara</option>
-							
-	      						<option value="482">shenkottai</option>
-							
-	      						<option value="2437">shimla</option>
-							
-	      						<option value="370">shimoga</option>
-							
-	      						<option value="392">shirali</option>
-							
-	      						<option value="305">shirdi</option>
-							
-	      						<option value="2511">shiror</option>
-							
-	      						<option value="1400">shirpur</option>
-							
-	      						<option value="1401">shirur</option>
-							
-	      						<option value="1216">shivakodu</option>
-							
-	      						<option value="529">sholapur</option>
-							
-	      						<option value="1880">shornur</option>
-							
-	      						<option value="530">siddapur</option>
-							
-	      						<option value="592">sidhantham</option>
-							
-	      						<option value="1105">siliguri</option>
-							
-	      						<option value="2080">sindagi</option>
-							
-	      						<option value="509">sindhnur</option>
-							
-	      						<option value="228">singampuneri</option>
-							
-	      						<option value="1389">sinnar</option>
-							
-	      						<option value="531">sirguppa</option>
-							
-	      						<option value="2901">siripalli</option>
-							
-	      						<option value="1330">sirkazhi</option>
-							
-	      						<option value="373">sirsi</option>
-							
-	      						<option value="2152">sirwar</option>
-							
-	      						<option value="1287">sitanagaram</option>
-							
-	      						<option value="151">sivagangai</option>
-							
-	      						<option value="134">sivakasi</option>
-							
-	      						<option value="532">sonda</option>
-							
-	      						<option value="249">spic nagar</option>
-							
-	      						<option value="2367">sppattanam</option>
-							
-	      						<option value="721">sri kalahasthi</option>
-							
-	      						<option value="1345">srikakulam</option>
-							
-	      						<option value="797">sringeri</option>
-							
-	      						<option value="715">sriperumbudur</option>
-							
-	      						<option value="320">srirangam</option>
-							
-	      						<option value="112">srivilliputhur</option>
-							
-	      						<option value="608">srungavruksham</option>
-							
-	      						<option value="2463">sullia</option>
-							
-	      						<option value="684">sullrupeta bypass</option>
-							
-	      						<option value="636">sulthan bathery</option>
-							
-	      						<option value="2582">sunkadakatte</option>
-							
-	      						<option value="847">surandai</option>
-							
-	      						<option value="1859">surangudi</option>
-							
-	      						<option value="299">surat</option>
-							
-	      						<option value="794">surathkal</option>
-							
-	      						<option value="1268">suri</option>
-							
-	      						<option value="534">surpur</option>
-							
-	      						<option value="816">t kallupatti</option>
-							
-	      						<option value="593">t p gudem (bye pass)</option>
-							
-	      						<option value="2058">t p gudem (bye-pass)</option>
-							
-	      						<option value="762">t pet</option>
-							
-	      						<option value="185">t.kallupatti</option>
-							
-	      						<option value="620">t.p gudem</option>
-							
-	      						<option value="2200">tadikonda cross road</option>
-							
-	      						<option value="1405">tadipatri</option>
-							
-	      						<option value="283">takala</option>
-							
-	      						<option value="2120">talikoti</option>
-							
-	      						<option value="2470">talluru</option>
-							
-	      						<option value="1217">tanguturu</option>
-							
-	      						<option value="73">tanjore</option>
-							
-	      						<option value="594">tanuku</option>
-							
-	      						<option value="2051">tanuku (by-pass)</option>
-							
-	      						<option value="1246">tarapith</option>
-							
-	      						<option value="2471">tarapur</option>
-							
-	      						<option value="595">tatipaka</option>
-							
-	      						<option value="2598">tb dam</option>
-							
-	      						<option value="2107">tekkali</option>
-							
-	      						<option value="1218">tenali</option>
-							
-	      						<option value="109">tenkasi</option>
-							
-	      						<option value="2020">thadekelapudi</option>
-							
-	      						<option value="679">thalaguppa</option>
-							
-	      						<option value="458">thalassery</option>
-							
-	      						<option value="753">thalayolaparambu</option>
-							
-	      						<option value="2713">thallur</option>
-							
-	      						<option value="637">thamarrassary</option>
-							
-	      						<option value="613">thathagapettai</option>
-							
-	      						<option value="2898">thatiparru</option>
-							
-	      						<option value="280">thekkady</option>
-							
-	      						<option value="188">theni</option>
-							
-	      						<option value="718">thirthahalli</option>
-							
-	      						<option value="211">thiruchenthur</option>
-							
-	      						<option value="173">thirukadyur</option>
-							
-	      						<option value="2181">thirukoshtiyur</option>
-							
-	      						<option value="124">thirumangalam</option>
-							
-	      						<option value="230">thirumayam</option>
-							
-	      						<option value="2363">thirunagar</option>
-							
-	      						<option value="633">thirunallar</option>
-							
-	      						<option value="107">thirunelveli(nellai)</option>
-							
-	      						<option value="89">thirupathi</option>
-							
-	      						<option value="150">thirupathur</option>
-							
-	      						<option value="189">thiruthuraipoondi</option>
-							
-	      						<option value="260">thiruvadanai</option>
-							
-	      						<option value="346">thiruvalla</option>
-							
-	      						<option value="2883">thiruvananthapuram</option>
-							
-	      						<option value="1882">thiruvannamalai</option>
-							
-	      						<option value="166">thiruvarur</option>
-							
-	      						<option value="725">thiruvengadam</option>
-							
-	      						<option value="2182">thittakudi</option>
-							
-	      						<option value="357">thodupuzha</option>
-							
-	      						<option value="2673">thokkottu</option>
-							
-	      						<option value="258">thondi</option>
-							
-	      						<option value="2670">thoranagatte</option>
-							
-	      						<option value="1288">thorredu</option>
-							
-	      						<option value="2715">thrasi</option>
-							
-	      						<option value="294">thrissur</option>
-							
-	      						<option value="2566">thrissur byepass</option>
-							
-	      						<option value="95">thuraiyur</option>
-							
-	      						<option value="1871">thuvarankurichi</option>
-							
-	      						<option value="2174">tindivanam</option>
-							
-	      						<option value="234">tindivanam</option>
-							
-	      						<option value="852">tiruchengode</option>
-							
-	      						<option value="336">tiruchitrampalam</option>
-							
-	      						<option value="2172">tirukadaiyur</option>
-							
-	      						<option value="2897">tirupathi</option>
-							
-	      						<option value="1845">tirupattur</option>
-							
-	      						<option value="85">tirupur</option>
-							
-	      						<option value="1847">tirur</option>
-							
-	      						<option value="180">tisayanvillai</option>
-							
-	      						<option value="615">tnpl velayuthampalayam</option>
-							
-	      						<option value="2097">toranagallu</option>
-							
-	      						<option value="2588">trasi</option>
-							
-	      						<option value="2176">trichur</option>
-							
-	      						<option value="100">trichy</option>
-							
-	      						<option value="703">tripunithura</option>
-							
-	      						<option value="2671">trissur</option>
-							
-	      						<option value="131">trissur byepass</option>
-							
-	      						<option value="82">trivandrum</option>
-							
-	      						<option value="675">tuckalay</option>
-							
-	      						<option value="1402">tuljapur</option>
-							
-	      						<option value="254">tumkur</option>
-							
-	      						<option value="596">tuni</option>
-							
-	      						<option value="2070">tuni (by-pass)</option>
-							
-	      						<option value="326">tuticorin</option>
-							
-	      						<option value="2238">tuvagudibhel</option>
-							
-	      						<option value="2083">uchila</option>
-							
-	      						<option value="2037">udaipur</option>
-							
-	      						<option value="250">udangudi</option>
-							
-	      						<option value="1371">udgir</option>
-							
-	      						<option value="676">udumalai</option>
-							
-	      						<option value="245">udumalapet</option>
-							
-	      						<option value="386">udupi</option>
-							
-	      						<option value="2664">udyavara</option>
-							
-	      						<option value="776">ujire</option>
-							
-	      						<option value="2758">ukkirankotai</option>
-							
-	      						<option value="2531">una</option>
-							
-	      						<option value="1220">undi</option>
-							
-	      						<option value="2797">unguturu</option>
-							
-	      						<option value="2871">uppinakote</option>
-							
-	      						<option value="2206">uppinangadi</option>
-							
-	      						<option value="2489">uppoor</option>
-							
-	      						<option value="2855">uppunda</option>
-							
-	      						<option value="2574">upunda</option>
-							
-	      						<option value="813">usilampatti</option>
-							
-	      						<option value="156">utchipuli</option>
-							
-	      						<option value="334">uthamapalayam</option>
-							
-	      						<option value="2197">v.kota</option>
-							
-	      						<option value="2491">vadachery</option>
-							
-	      						<option value="456">vadakara</option>
-							
-	      						<option value="699">vadakkanchery</option>
-							
-	      						<option value="851">vadalur</option>
-							
-	      						<option value="2794">vadapalli</option>
-							
-	      						<option value="290">vadasery</option>
-							
-	      						<option value="300">vadodara</option>
-							
-	      						<option value="349">vaikam</option>
-							
-	      						<option value="812">vaitheeswarankovil</option>
-							
-	      						<option value="2495">valancheri</option>
-							
-	      						<option value="2236">vallam</option>
-							
-	      						<option value="106">vallioor</option>
-							
-	      						<option value="1911">vallioor byepass</option>
-							
-	      						<option value="1380">valsad</option>
-							
-	      						<option value="2621">vamanjoor</option>
-							
-	      						<option value="2498">vandse</option>
-							
-	      						<option value="2689">vaniamkulam</option>
-							
-	      						<option value="2759">vannikonendal</option>
-							
-	      						<option value="1381">vapi</option>
-							
-	      						<option value="2153">varagani</option>
-							
-	      						<option value="1097">varanasi</option>
-							
-	      						<option value="1390">vashi</option>
-							
-	      						<option value="262">vasudevanallore</option>
-							
-	      						<option value="356">vazhakulam</option>
-							
-	      						<option value="275">vedaranyam</option>
-							
-	      						<option value="616">vedasandur</option>
-							
-	      						<option value="268">veerasigamani</option>
-							
-	      						<option value="597">veeravasaram</option>
-							
-	      						<option value="2056">velangi</option>
-							
-	      						<option value="113">velankanni</option>
-							
-	      						<option value="677">velayuthampalayam</option>
-							
-	      						<option value="1886">vella kovil</option>
-							
-	      						<option value="191">vellore</option>
-							
-	      						<option value="2899">vemavaram</option>
-							
-	      						<option value="726">vembakottai</option>
-							
-	      						<option value="1857">vembur</option>
-							
-	      						<option value="820">venoor</option>
-							
-	      						<option value="1346">vetapalem</option>
-							
-	      						<option value="1883">vethalagundu</option>
-							
-	      						<option value="1878">vettavalam</option>
-							
-	      						<option value="177">vickramasingapuram</option>
-							
-	      						<option value="1289">viggaswaram</option>
-							
-	      						<option value="1124">vijayanagaram</option>
-							
-	      						<option value="2524">vijayanagaram</option>
-							
-	      						<option value="86">vijayawada</option>
-							
-	      						<option value="2900">vilasa</option>
-							
-	      						<option value="1860">vilathikulam</option>
-							
-	      						<option value="102">villupuram</option>
-							
-	      						<option value="333">virudhachalam</option>
-							
-	      						<option value="135">virudhunagar</option>
-							
-	      						<option value="1851">virudhunagar bye pass</option>
-							
-	      						<option value="284">visakapatnam</option>
-							
-	      						<option value="1854">vita</option>
-							
-	      						<option value="2195">vuyyuru</option>
-							
-	      						<option value="1327">vythiri</option>
-							
-	      						<option value="559">vyttila</option>
-							
-	      						<option value="1372">wai</option>
-							
-	      						<option value="2122">walayar</option>
-							
-	      						<option value="1924">wardha</option>
-							
-	      						<option value="1221">washim</option>
-							
-	      						<option value="2543">wayanad</option>
-							
-	      						<option value="2868">yadthare</option>
-							
-	      						<option value="2862">yadur</option>
-							
-	      						<option value="2546">yalamanchilli</option>
-							
-	      						<option value="599">yanam</option>
-							
-	      						<option value="2201">yandraye</option>
-							
-	      						<option value="2145">yaragatti</option>
-							
-	      						<option value="1263">yarravaram</option>
-							
-	      						<option value="1870">yavatmal</option>
-							
-	      						<option value="2550">yedapadavu</option>
-							
-	      						<option value="2895">yedullapalli</option>
-							
-	      						<option value="2009">yelamanchili</option>
-							
-	      						<option value="535">yellapur</option>
-							
-	      						<option value="2072">yemmiganur</option>
-							
-	      						<option value="2665">yermala</option>
-							
-	      						<option value="2156">yetukuru</option>
-							
-	      						<option value="1445">zahirabad</option></select> 
+                		<div id="fromDiv">
+				        	<select tabindex="1" id="fs" size="1" onchange="get_To();" style="width:165px" class="tg_listbox_ft">
+								<option value="Select Origin">Select Origin</option>
+					    	</select>
+				          </div>
 	     			</td>
               	</tr>
      		</tbody></table>
@@ -5280,11 +2983,11 @@ $(document).click(function()
 			<table width="181" border="0" cellpadding="2" cellspacing="0">
 				<tbody><tr>
 					<td width="137">
-					<div id="toDiv">     
-						<select name="toLocation" size="1" style="width:165px" class="tg_listbox_ft" onchange="storeToSelectedIndex();">
+					<div id="toDiv">
+        				<select tabindex="2" id="ts" size="1" style="width:165px" class="tg_listbox_ft">
 							<option value="Select Destination">Select Destination</option>
 						</select>
-					</div>
+        			</div>
 					</td>
 				</tr>
 			</tbody></table>
@@ -5296,11 +2999,10 @@ $(document).click(function()
 	</tr>
 	<tr>
 		<td align="left" valign="middle">
-			<input type="hidden" name="dateHid" value="1/7/2012">                                          
 			<table width="181" border="0" cellpadding="2" cellspacing="0">
 				<tbody><tr>
 					<td width="109" align="left" valign="middle">
-						<input type="text" name="datePickup" value="" readonly="readonly" style="width:145px" class="field_title hasDatepicker" id="dp1580517581782"> 
+						<input type="text" name="datePickup" value="22/11/2012" readonly="readonly" style="width:145px" class="field_title hasDatepicker" id="tdate"> 
 					</td>
 					<td width="32" align="left" valign="middle">
 						<a href="#" title="Select Date"><img src="/bookbustickets/imagesn/icon_caln.gif" width="20" height="20" align="middle" border="0" onclick="$(document.TravelBkgSearchForm.datePickup).focus();" alt="Online Bus Tickets Booking Reservations India" title="Online Bus Tickets Booking Reservations India"></a>
@@ -5316,95 +3018,128 @@ $(document).click(function()
 		</td>
 	</tr>
 </tbody></table>
-<input type="hidden" name="fromSelectedIndex" value="">
-<input type="hidden" name="toSelectedIndex" value="">
-<input type="hidden" name="event" value="">
-<input type="hidden" name="specialFlag" value="0">
 </form>
 <script language="javascript" type="text/javascript">
-if (document.TravelBkgSearchForm.datePickup.value=="")
-{
-	document.TravelBkgSearchForm.datePickup.value = document.TravelBkgSearchForm.dateHid.value;
+$(document).ready(function(){
+	getStations();
+});
+var frlist;
+function getStations() {
+	frlist =fstations;
+	var str = "<option value='Select Origin'>Select Origin</option>";
+	var txt = formstations(fstations, str, "");
+	$("#fs").html(txt);
 }
-if ((document.TravelBkgSearchForm.toSelectedIndex.value == "") && (document.TravelBkgSearchForm.fromSelectedIndex.value == ""))
-{
-	document.TravelBkgSearchForm.fromLocation.selectedIndex=0;
-	document.TravelBkgSearchForm.toLocation.selectedIndex=0;	
-}	
-else
-{
-	document.TravelBkgSearchForm.fromLocation.selectedIndex=document.TravelBkgSearchForm.fromSelectedIndex.value;
-	changeToFetch(document.TravelBkgSearchForm.fromLocation,'',document.TravelBkgSearchForm.toSelectedIndex.value,'');
-	//changeToFetch(document.TravelBkgSearchForm.fromLocation);
-	//document.TravelBkgSearchForm.toLocation.selectedIndex=document.TravelBkgSearchForm.toSelectedIndex.value;
-}
-	
-function storeFromSelectedIndex()
-{
-	document.TravelBkgSearchForm.fromSelectedIndex.value=document.TravelBkgSearchForm.fromLocation.selectedIndex;
-}
-	
-function storeToSelectedIndex()
-{	
-	document.TravelBkgSearchForm.toSelectedIndex.value=document.TravelBkgSearchForm.toLocation.selectedIndex;		
-}
-	
-function getToFetch(obj,gTtid,gTtidIndex,gTSearch)
-{
-	callft("/bookbustickets/jspn/ajxlay/getto.jsp?f="+obj.value,gTtid,gTtidIndex,gTSearch);
-}
-
-function changeToFetch(obj, cTFtid, cTFtidIndex, cTFSearch)
-{
-	getToFetch(obj,cTFtid,cTFtidIndex,cTFSearch)
-}
-function removeAllOption(obj)
-{
-	if (!hasOptions(obj)) 
-	{ 
-		return; 
-	}
-	for (i=obj.options.length-1; i>=0; i--) 
-	{
-		obj.remove(i);
-	}
-}	
-function hasOptions(obj) 
-{
-	if (obj!=null && obj.options!=null) 
-	{ 
-		return true; 
-	}
-	return false;
-}
-function addOption(listbox, value, text)
-{
-	if(value!="" && text!="")
-	{
-		var optn = document.createElement("OPTION");
-		optn.text = text;
-		optn.value = value;
-		listbox.options.add(optn); 
-	}
-}
-function search()
-{
-	if(document.TravelBkgSearchForm.fromLocation.selectedIndex==0)
-	{
-		alert("Please Select Origin");
-	}
-	else
-	{	
-		if(document.TravelBkgSearchForm.toLocation.selectedIndex==0)
-		{
-			alert("Please Select Destination");
+function formstations(data, txt, cId) {
+	if (!isNull(data)) {
+		var len = data.length;
+		if (len != 0) {
+			var f =false;
+			for ( var i = 0; i < len; i++) {
+				var sid = data[i].sid;
+				var sname = data[i].sname;
+				if (sname == "-------") {
+					txt += "<optgroup label=\"-------\"></optgroup>";
+				} else {
+					if (cId != null && cId != "") {
+						if(!f){
+						if (cId == sid) {
+							f=true;
+							txt += "<option selected=\"selected\" value=\""
+									+ sid + "\">" + sname + "</option>";
+						} else {
+							txt += "<option value=\"" + sid + "\">" + sname
+									+ "</option>";
+						}
+						}else{
+							txt += "<option value=\"" + sid + "\">" + sname
+							+ "</option>";
+						}
+					} else {
+						txt += "<option value=\"" + sid + "\">" + sname
+								+ "</option>";
+					}
+				}
+			}
 		}
-		else
-		{
-			document.TravelBkgSearchForm.event.value = "Search";
-			document.getElementById("chakram").innerHTML="<img id=\"chakram1\" src=\"/bookbustickets/images/chakrah.gif\"></img>";
-			document.TravelBkgSearchForm.submit();			
-		}	 	
+		return txt;
+	} else {
+		return txt;
+	}
+}
+function get_To() {
+	var frmId = $("#fs").val();
+	if (!isNull(frmId)) {
+		if (frmId == "Select Origin") {
+			$("#ts").prop('selectedIndex', 0);
+			var str = "<option value='Select Destination'><b>Select Destination<\/b></option>";
+			$("#ts").html(str);
+		} else if (frmId != undefined || frrmId != "") {
+			var Url = "/bookbustickets/DestStations.do?originStationId="
+					+ frmId;
+			$
+					.ajax({
+						url : Url,
+						cache : false,
+						dataType : 'json',
+						type : "GET",
+						async : true,
+						error : function(){
+							var str = "<option value='Select Destination'><b>Select Destination<\/b></option>";
+							var txt = formstations(frlist, str, "");
+							$("#ts").html(txt);
+						},
+						success : function(data) {
+							var str = "<option value='Select Destination'><b>Select Destination<\/b></option>";
+							var txt = formstations(data, str, "");
+							$("#ts").html(txt);
+							$('#ts').focus();
+						}
+					});
+		}
+	}
+}
+function isNull(a) {
+	if (typeof a == "undefined") {
+		return true;
+	} else {
+		if (a == null || a == "") {
+			return true;
+		} else {
+			return false;
+		}
+	}
+}
+function search() {
+	var from = $("#fs").val();
+	var to = $("#ts").val();
+	var dt = $("#tdate").val();
+	if (isNull(from) || from == "Select Origin") {
+		alert("Please Select Origin");
+		$("#fs").focus();
+	} else if (isNull(to) || to == "Select Destination") {
+		alert("Please Select Destination");
+		$("#ts").focus();
+	} else if(isNull(dt)){
+		$("#tdate").focus();
+	} else if("DD/MM/YYYY"==dt){
+		$("#tdate").focus();
+	}
+	else {
+		var findex = $('option:selected', '#fs').index();
+		var tindex = $('option:selected', '#ts').index();
+		var fName = $("#fs option:selected").text();
+		var tName = $("#ts option:selected").text();
+		if (!isNull(fName) && !isNull(tName)) {
+			$("#frStation").val(fName);
+			$("#tStation").val(tName);
+			$("#chakram")
+					.html(
+							"<img id=\"process\" src=\"/bookbustickets/bimg/processing.gif\"><\/img>");
+			var i = "originStationName="+fName+"&destinationStationName="+tName+"&travelDate="+dt+"&originStationId="+from+"&destinationStationId="+to;
+			var k = "/bookbustickets/TravelBkg.do?" + i;
+			$(location).attr("href", k);
+		}
 	}
 }
 </script> 
@@ -5412,27 +3147,28 @@ function search()
 		        	</tr>
 				</tbody></table>
 			</div>
-			<div id="yourSelectionDIV" style="display: none;">
+			<!-- <div id="yourSelectionDIV" style="display: none;">
+		
 			<table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
-	          	<tbody><tr>
+	          	<tr>
 					<td class="header_text_size2">Your Selection</td>
 	          	</tr>
 	          	<tr><td height="8">&nbsp;</td></tr>
 	           	<tr>
 					<td align="left" valign="top">
 						<script type="text/javascript" language="javascript">
-							var selectionDetailsTitle='<table align="left" border="0" cellpadding="3" cellspacing="0" width="100%"><tbody><tr><td align="left"><div class="green_bold"></div></td></tr><tr><td align="left"><div class="content">';
+						var selectionDetailsTitle='<table align="left" border="0" cellpadding="3" cellspacing="0" width="100%"><tbody><tr><td align="left"><div class="green_bold"></div></td></tr><tr><td align="left"><div class="content"  style="text-transform: capitalize;">';
 							var selectionDetailsTitleEnd='</div></td></tr></tbody></table>';
 						</script>
 						<div id="logincontent" style="width:150px;"><br><br></div>
 					</td>
 	        	</tr>
 	        	<tr><td class="content"><div id="selectedSeatDIV" class="content"></div><br><div id="selectedSeatFareDIV" class="content"></div></td></tr>
-        	</tbody></table>
-        	</div>
+        	</table>
+        	</div> -->
     	</td>
     	<td width="20">&nbsp;</td>
-    	<td width="640" valign="top">
+    	<td width="720" valign="top">
     	<table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
       		<tbody><tr>
         		<td height="20">
@@ -5542,7 +3278,7 @@ function search()
       		</tr>
 		</tbody></table>
 		</td>
-		<td width="20">&nbsp;</td>
+		<td width="10">&nbsp;</td>
 	</tr>
 </tbody></table>
 
@@ -5551,7 +3287,7 @@ function search()
     
 
 
-<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
     	<td width="25">&nbsp;</td>
     	<td width="200" height="33" valign="bottom">
@@ -5571,7 +3307,7 @@ function search()
       		</tr>
     		</tbody></table>
 		</td>
-   		<td class="footer_promo" width="675" valign="bottom" align="center">
+   		<td class="footer_promo" width="765" valign="bottom" align="center">
    			Dial a <span class="greenDialaTicket">Ticket</span> 
    			<span class="redDialaTicket">Chennai</span>
    			 : 044 43324337 / 45674570&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -5582,13 +3318,13 @@ function search()
    		</td> 
   	</tr>
 </tbody></table>
-<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
     	<td height="35" class="footer_above_border">
-    		<table width="900" border="0" cellspacing="0" cellpadding="0">
+    		<table width="990" border="0" cellspacing="0" cellpadding="0">
       		<tbody><tr>
 
-	<td width="260" height="35" class="footer_text">&nbsp;</td>
+	<td width="435" height="35" class="footer_text">&nbsp;</td>
 	<td width="55" align="center" class="footer_text"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=aboutus">about us</a></td>
 	<td width="85" align="center" class="footer_text"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=contactus">contact us</a></td>
 	<td width="35" align="center" class="footer_text"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=faq">faq</a></td>
@@ -5596,7 +3332,7 @@ function search()
 	<td width="55" align="center" class="footer_text"><a href="http://www.ticketgoose.com/travels" target="_blank">travels</a></td>
 	<td width="85" align="center" class="footer_text"><a href="http://www.ticketgoose.com/destinations" target="_blank">destinations</a></td>
 	<td width="85" align="center" class="footer_text"><a href="http://www.ticketgoose.com/routes" target="_blank">routes</a></td>
-	<td width="130" align="center" class="footer_text"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=terms">terms and conditions</a></td>
+	<td width="160" align="center" class="footer_text"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=terms">terms and conditions</a></td>
 	<td width="65" align="center" class="footer_text"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=feedback">feedback</a> </td>
 	<td width="85" align="center" class="footer_text"><a href="/bookbustickets/HTMLRedirectAction.do?event=redirect&amp;pageId=privacypolicy">privacy policy</a></td>
 	<td width="15" class="footer_text">&nbsp;</td>
