@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapiro.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606230720id_/http%3A//www.zapiro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapiro.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121232430id_/http%3A//www.zapiro.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -85,3 +85,5 @@ www.zapiro.comhas the discretion to occasionally update this privacy statement. 
 ### 7\. Contacting Us
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us via our [contact form](https://web.archive.org/contact).
+
+**ERROR: Problem rendering tag 'snippet' with attributes {"name"= >"analytics"}. (Snippet not found: analytics)** ([Edit Page](https://web.archive.org/admin/pages/67580/edit))
