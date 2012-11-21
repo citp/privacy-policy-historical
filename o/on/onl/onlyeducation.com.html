@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlyeducation.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523160031id_/http%3A//www.onlyeducation.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlyeducation.com privacy policy that was archived on 2012-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121201600id_/http%3A//www.onlyeducation.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -1382,6 +1382,7 @@ document.getElementById("row_you").style.visibility="hidden"
 
 function validateform2()
 {
+
 /*if(document.form2.Degree.selectedIndex=='')
 		{
 		alert("Please select Degree:");
@@ -1407,24 +1408,9 @@ if(document.form2.Subject.selectedIndex=='' && document.form2.Type1.selectedInde
 		
 if(document.form2.Type1.value=='Campus')
 	{
-		if(document.form2.zip.value=='')
-		{
-		alert("Please Enter Your Zip Code");
-		document.form2.zip.focus();
-		return false;
-		}
-/*if(isNaN(document.form2.zip.value))
-		{
-		alert("Zip Code must be numeric.");
-		document.form2.zip.focus();
-		return false;
-		}*/
-if(document.form2.zip.value.length<5)
-		{
-		alert("Please Enter 5 digits Zip Code.");
-		document.form2.zip.focus();
-		return false;
-		}
+		
+	
+		
 		
 		
 		
@@ -1470,22 +1456,19 @@ if(document.form2.zip.value.length<5)
 		return false;
 		}	
 		
+/*if(document.form2.zip.value!='')
+	{
+		
+  window.opener.location.href="zip_search.asp";
+
+		return false;
+		}*/
+		
 		
 	}		
 		
 		
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
 		
 		
 		
@@ -1504,10 +1487,35 @@ if(document.form2.zip.value.length<5)
   
 
 
+<script language="javascript">
+
+function validateform3()
+{
 
 
-
-
+if(document.form3.zip.value=='')
+		{
+		alert("Please Enter Your Zip Code");
+		document.form3.zip.focus();
+		return false;
+		}
+/*if(isNaN(document.form2.zip.value))
+		{
+		alert("Zip Code must be numeric.");
+		document.form2.zip.focus();
+		return false;
+		}*/
+if(document.form3.zip.value.length<5)
+		{
+		alert("Please Enter 5 digits Zip Code.");
+		document.form3.zip.focus();
+		return false;
+		}
+		
+	return true;
+}		
+		
+</script>
 
 
 
@@ -1528,83 +1536,73 @@ if(document.form2.zip.value.length<5)
     <td align="left" valign="top" class="search_top_panel"></td>
   </tr>
   <tr>
-    <td align="left" valign="top" class="searchform_panel"><form id="form2" name="form2" method="post" action="oesearch.asp" onsubmit="return validateform2();">
+    <td align="left" valign="top" class="searchform_panel">
 	    
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td align="left" valign="top">
-		
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <td align="left" valign="top"><form id="form2" name="form2" method="post" action="oesearch.asp" onsubmit="return validateform2();"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="160" align="left" valign="top">
-		<select name="Degree">
-	
-	<option selected="selected">Select Degree Level </option>
-	<option value="Certificate/Diploma">Certificate/Diploma</option>
-	<option value="Associate’s">Associate’s</option>
-	<option value="Bachelor’s">Bachelor’s</option>
-	<option value="Master’s">Master’s</option>
-	<option value="Doctorate">Doctorate</option>
-	</select></td>
-        <td width="160" align="left" valign="top">
-		<select name="Subject" style="width:150px;">
-	
-	<option selected="selected">Select Subject</option>
-	<option value="Arts">Arts &amp; Humanities</option>
-	<option value="Business">Business &amp; MBA</option>
-	<option value="Computer">Computers &amp; IT</option>
-	<option value="Education">Education &amp; Teaching</option>
-	<option value="HealthCare">Health &amp; Medicine/Nursing</option>
-	<option value="Science">Science &amp; Technology</option>
-	<option value="SocialSciences">Social Sciences/Criminal Justice</option>
-	<option value="Trades">Trades &amp; Careers</option>
-	
-	
-	</select>		</td>
-        <td align="left" valign="top">
-		<select name="Type1" onclick="test()">
-	<option selected="selected">Select Type</option>
-	<option value="Online">Online</option>
-	<option value="Campus">Campus</option>
-
-
-	</select>
-		</td>
+        <td width="160" align="left" valign="top"><select name="Degree">
+          <option selected="selected">Select Degree Level </option>
+          <option value="Certificate/Diploma">Certificate/Diploma</option>
+          <option value="Associate's">Associate's</option>
+          <option value="Bachelor's">Bachelor's</option>
+          <option value="Master's">Master's</option>
+          <option value="Doctorate">Doctorate</option>
+        </select></td>
+        <td width="160" align="left" valign="top"><select name="Subject" style="width:150px;">
+          <option selected="selected">Select Subject</option>
+          <option value="Arts">Arts &amp; Humanities</option>
+          <option value="Business">Business &amp; MBA</option>
+          <option value="Computer">Computers &amp; IT</option>
+          <option value="Education">Education &amp; Teaching</option>
+          <option value="HealthCare">Health &amp; Medicine/Nursing</option>
+          <option value="Science">Science &amp; Technology</option>
+          <option value="SocialSciences">Social Sciences/Criminal Justice</option>
+          <option value="Trades">Trades &amp; Careers</option>
+        </select></td>
+        <td align="left" valign="top"><select name="Type1" onclick="test()">
+          <option selected="selected">Select Type</option>
+          <option value="Online">Online</option>
+          <option value="Campus">Campus</option>
+        </select></td>
         <td align="left" valign="middle"><input type="image" name="imageField2" src="images/search_button.gif"></td>
       </tr>
-    </tbody></table>
-		</td>
-      </tr>
-      <tr>
-        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td align="left" valign="top" style="padding:14px 0 10px 15px;">
-			<table width="300px" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr id="row_how" style="visibility:hidden">
-        <td width="65" align="left" valign="top">Zip Code</td>
-        <td align="left" valign="top"> <input name="zip" type="text" maxlength="7" style="width:84px;"></td>
-      </tr>
-    </tbody></table>
-			</td>
-          </tr>
-          <tr id="row_you" style="visibility:hidden">
-            <td align="left" valign="top" style="padding:0 0 0 12px;">
-			<table width="300px" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="6" align="left" valign="top"><input name="Resident" type="checkbox" value="b"></td>
-        <td width="100" align="left" valign="middle">&nbsp;U.S. Resident</td>
-        <td width="6" align="left" valign="top"><input name="Resident" type="checkbox" value="a"></td>
-        <td width="100" align="left" valign="middle">&nbsp;Canada Resident</td>
-		<td width="6" align="left" valign="top"><input name="Resident" type="checkbox" value="a"></td>
-        <td width="100" align="left" valign="middle">&nbsp;International Resident</td>
-      </tr>
-    </tbody></table>
-			</td>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr id="row_you" style="visibility:hidden">
+        <td height="40" align="left" valign="middle" style="padding:0 0 0 18px;"><table width="500" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr id="row_how" style="visibility:hidden">
+            <td width="6" align="left" valign="top"><input name="Resident" type="checkbox" value="b"></td>
+            <td width="100" align="left" valign="middle">&nbsp;U.S. Resident</td>
+            <td width="6" align="left" valign="top"><input name="Resident" type="checkbox" value="a"></td>
+            <td width="100" align="left" valign="middle">&nbsp;Canada Resident</td>
+            <td width="6" align="left" valign="top"><input name="Resident" type="checkbox" value="a"></td>
+            <td width="100" align="left" valign="middle">&nbsp;International Resident</td>
           </tr>
         </tbody></table></td>
       </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table></form></td>
+      </tr>
+      
+      <tr>
+        <td align="left" valign="top" style="padding:0px 0 0px 15px;">
+		<form id="form3" name="form3" method="post" action="zip_search.asp" onsubmit="return validateform3();"><table width="300px" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="60" align="left" valign="top">Zip Code</td>
+            <td width="100" align="left" valign="top"><input name="zip" type="text" maxlength="7" style="width:84px;"></td>
+            <td align="left" valign="top"><input type="image" name="imageField" src="images/search_button.gif"></td>
+          </tr>
+        </tbody></table></form></td>
+      </tr>
     </tbody></table>
-    </form>
+
     </td>
   </tr>
   <tr>
