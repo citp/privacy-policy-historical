@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524143922id_/http%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231337id_/http%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
 
 # SGI - Privacy statement
 
@@ -261,7 +261,8 @@ Ottawa, ON K1A 1H3
 If you want to:
 
   * Access your personal information or have your information corrected.
-  * Change your consent with respect to how we collect, use or disclose your personal information. **Note:** SGI cannot refuse to disclose your information if we are required by law to provide this information to another 3rd party.
+  * Change your consent with respect to how we collect, use or disclose your personal information.  
+**Note:** SGI cannot refuse to disclose your information if we are required by law to provide this information to another 3rd party.
   * File a complaint about our privacy policies or the manner in which we’ve handled your personal information.
   * Inquire about any other privacy questions or concerns.
 
