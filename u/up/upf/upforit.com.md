@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170221id_/http%3A//www.upforit.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122005528id_/http%3A//www.upforit.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Casual Dating at UpForIt.com
 
@@ -69,7 +69,7 @@ We may share non-personal information we collect under any of the above circumst
 
 We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [](mailto:)
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [admin@upforit.com](mailto:admin@upforit.com)
 
 **Cookies**
 
@@ -98,9 +98,9 @@ The Site may, from time to time, contain links to and from the websites of our p
 
 **Access to information and correction**
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [](mailto:). Please note that we may make a small charge for this service.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [admin@upforit.com](mailto:admin@upforit.com). Please note that we may make a small charge for this service.
 
-We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [](mailto:).
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [admin@upforit.com](mailto:admin@upforit.com).
 
 **Changes to our privacy policy**
 
@@ -108,4 +108,4 @@ We keep our privacy policy under regular review and will post any changes to it 
 
 **Questions**
 
-If you have any questions about this privacy policy then please contact us at [](mailto:).
+If you have any questions about this privacy policy then please contact us at [admin@upforit.com](mailto:admin@upforit.com).
