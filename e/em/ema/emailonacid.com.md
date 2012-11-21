@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505163113id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121234053id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
 
-# Email Testing & Email Preview Tools - View a simulation of your email in the most popular email clients for FREE.
+# Email Testing and Email Preview - Email on Acid
 
 Email on Acid has a strong commitment to providing excellent service to our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses personal information. We have prepared this statement to inform you of the privacy principles that govern [www.emailonacid.com](http://www.emailonacid.com/).
 
@@ -55,4 +55,4 @@ This website was developed and is hosted in the United States and is subject to 
 
 In the future, we may make updates to this privacy statement. Updates will be completed in this document so that you will always be kept aware of the ways in which we gather and use your personal information. 
 
-This privacy statement was last updated on July 14, 2009.
+This privacy statement was last updated on July 14, 2012.
