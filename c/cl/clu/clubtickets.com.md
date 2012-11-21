@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the clubtickets.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513044233id_/http%3A//www.clubtickets.com/info/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubtickets.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121164738id_/http%3A//www.clubtickets.com/info/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Clubtickets.com
-
-[](https://web.archive.org/)
-
-  
-
 
   
 
@@ -37,19 +32,3 @@
 
   
 
-
-[](https://www.clubtickets.com/help/faq/website-security.jsp)
-
-Supported Credit Cards
-
-[](https://www.clubtickets.com/help/faq/supported-credit-cards.jsp)
-
-Powered By
-
-[](http://www.ticketlogic.net/)
-
-  
-
-
-© Clubtickets Ltd 2003-2012.   
-All Rights Reserved
