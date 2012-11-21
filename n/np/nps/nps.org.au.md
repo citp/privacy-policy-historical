@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523180050id_/https%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121183058id_/http%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.*
 
 # Privacy policy: NPS - Better choices, Better health
 
-**This policy was updated 18 October 2010.**  
+**This policy was updated 1 July 2012.**  
 
 
 This document sets out the types of personal information held by National Prescribing Service Limited (NPS) (ABN 61 082 034 393) and how NPS collects, holds, uses and discloses that information as part of our business to provide independent, evidence-based information and services to health professionals, the community and individuals on the quality use of medicines and medical tests.
@@ -132,11 +132,11 @@ NPS operates two phone line services:
 
 
   * Medicines Line for consumers which is operated by NPS in collaboration with _healthdirect Australia_
-  * Adverse Medicine Events Line (AME) for consumers wishing to report adverse experiences with their medicines. This service is currently provided by the Mater Misercordiae Health Services Brisbane Limited (the “Mater”).
+  * Adverse Medicine Events Line (AME) for consumers wishing to report adverse experiences with their medicines.
 
 
 
-In delivering the phone line information services NPS or the Mater may need to collect health information specific to a person in order to deliver the medicines information service requested.
+In delivering the phone line information services NPS may need to collect health information specific to a person in order to deliver the medicines information service requested.
 
 This information may include:  
 
@@ -157,7 +157,7 @@ For consumers wishing to report an adverse drug reaction to the Therapeutic Good
 
 ## Protection and security
 
-NPS has a Privacy Officer and a Risk Committee to oversee the management of personal information in accordance with this policy and privacy legislation.
+NPS has a privacy officer and a Risk Committee to oversee the management of personal information in accordance with this policy and privacy legislation.
 
 NPS maintains the confidentiality and security of personal information by restricting access to only those staff and service providers with a legitimate need to access it. Security measures are in place to prevent the misuse, unauthorised access, modification or disclosure of personal information.
 
@@ -179,7 +179,7 @@ If you believe your personal information is not properly protected, or that ther
 
 NPS takes breaches seriously and has procedures to help identify and resolve a breach, potential breach or complaint as quickly as possible. This includes appropriate escalation processes to the NPS Risk Committee and CEO and notification processes in the event of a breach.
 
-Every complaint is forwarded by the staff member who receives it to the Privacy Officer. You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a suitable resolution negotiated with you.
+Every complaint is forwarded by the staff member who receives it to the privacy officer. You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a suitable resolution negotiated with you.
 
 If you are not satisfied with the resolution of your complaint by NPS you may contact the [Office of the Federal Privacy Commissioner](http://www.privacy.gov.au/contact) (www.privacy.gov.au/contact) who may investigate your complaint and has the power to award compensation against NPS in appropriate circumstances.  
 
