@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipcenter.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611043559id_/http%3A//www.gossipcenter.com/node/333945) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipcenter.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121042935id_/http%3A//gossipcenter.com/node/333945) for the most accurate reproduction.*
 
 # Privacy Policy | GossipCenter - Entertainment News Leaders
 
