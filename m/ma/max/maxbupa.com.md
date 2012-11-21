@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxbupa.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604201636id_/http%3A//www.maxbupa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxbupa.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121035021id_/http%3A//www.maxbupa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Home - Maxbupa
+# Privacy Policy | Max Bupa Health Insurance
 
 Max Bupa is committed to protecting your privacy and information of confidential nature which may become known to it while you visit and/or use this website.
 
