@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwireasia.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521235343id_/http%3A//www.techwireasia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwireasia.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121013350id_/http%3A//www.techwireasia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Wire Asia
 
