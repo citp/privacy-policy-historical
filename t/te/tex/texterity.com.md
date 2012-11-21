@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101835id_/http%3A//www.texterity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121102748id_/http%3A//www.texterity.com/privacy_policy) for the most accurate reproduction.*
 
 # Texterity Online Privacy Policy - Full-Service Digital and Mobile Publishing for Magazines
 
