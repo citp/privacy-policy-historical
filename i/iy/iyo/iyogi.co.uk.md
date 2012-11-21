@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511155412id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121023429id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# iYogi Privacy Policy | Computer Support, Computer Repair, Remote PC Support : iYogi
+# iYogi Privacy Policy | iYogi
+
+**Computer Repair Services, Call Toll Free @ 0 800 635 9644**  
+Get all your computer problems fixed by highly qualified tech experts. Call Today!   
+<http://www.iyogi.co.uk/>
 
 This privacy policy explains how iYogi Inc (“iYogi”) collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the “Services”) in accordance with the Terms of Use (http://www.iyogi.net/terms.html). When you submit information through our website, email, chat session, , provide it to our technicians or, use the Services, you(the “user”) agree to our use of this information consistent with this privacy policy. 
 
