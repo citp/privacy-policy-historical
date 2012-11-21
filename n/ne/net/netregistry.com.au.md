@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192102id_/http%3A//www.netregistry.com.au/legals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121192031id_/http%3A//www.netregistry.com.au/legals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netregistry
 
