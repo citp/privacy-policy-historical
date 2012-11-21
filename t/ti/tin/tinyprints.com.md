@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608082813id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyprints.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121210053id_/http%3A//www.tinyprints.com/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Privacy Policy at Tiny Prints
 
-Last Updated: May 29, 2012
+Last Updated: Sep 21, 2012
 
 Shutterfly and its family of companies, Tiny Prints, Wedding Paper Divas, and Treat, take your privacy seriously. Please read the following to learn more about our privacy policy.
 
-In addition, if you send email invitations to friends or family to allow them to view your pictures, or if you participate in Shutterfly’s share service, those email addresses are personal information and will not be shared or distributed in any way.
+In addition, if you send email invitations to friends or family to allow them to view your pictures, or if you participate in Shutterfly’s share service, those email addresses are personal information.
 
-Also, your Shutterfly, Tiny Prints, Wedding Paper Divas and Treat accounts include an address book, which you can use to store such email addresses, and those emails are personal information and will not be shared or distributed in any way.
+Also, your Shutterfly, Tiny Prints, Wedding Paper Divas and Treat accounts include an address book, which you can use to store such email addresses, and those emails are personal information.
 
 ## Information Collected
 
@@ -18,7 +18,7 @@ You may access and use the Sites solely for your personal, noncommercial use. Ex
 
 ## Cookies
 
-Like many websites, we use cookies to collect anonymous visitor information. Third party vendors, including Google, use cookies to serve the badge and ads based on your prior visits to our Sites. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
+Like many websites, we use cookies to collect anonymous visitor information. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
 
 ## Authorized Third Parties
 
@@ -44,7 +44,7 @@ Please be assured that we do not use the email addresses that you enter through 
 
 Your Shutterfly, Tiny Prints, Wedding Paper Divas, and/or Treat accounts also contain a calendar where you can store birthdays, anniversaries, and other key dates and details about friends and family. You can use this information to help keep in touch with friends and family on important dates. Shutterfly, Tiny Prints, Wedding Paper Divas, and/or Treat may send you email reminders of the personalized dates you have entered in this calendar. Reminder information is highly confidential and will not be shared with any third parties.
 
-When you add personal messages to your greeting cards for Treat, it is secured by Treat. For order fulfillment, an order-processing representative may view your message. Once again, third parties are not allowed to use this information.
+When you add personal messages to your Greeting Cards for Treat, it is secured by Treat. For order fulfillment, an order-processing representative may view your message. Once again, third parties are not allowed to use this information.
 
 We use anonymous information, such as that pertaining to web pages you've viewed, in order to analyze trends, track user's movements, provide a better website experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally. See “Authorized Third Parties.”
 
@@ -60,7 +60,7 @@ If you log in through Facebook Connect, information you provide to us may be sha
 
 ## Opting Out Of Information Sharing
 
-We understand and respect that not all customers may want to allow us to share information with other select companies. If you do not want Shutterfly, Tiny Prints, Wedding Paper Divas and/or Treat to share your customer information, please immediately email us at [info@treat.com](mailto:info@treat.com), the email on the Contact Us pages of any of our brands, or change the preferences of your account at [Shutterfly.com](http://shutterfly.com/), [tinyprints.com](https://web.archive.org/), [weddingpaperdivas.com](http://weddingpaperdivas.com/) and/or [treat.com](http://treat.com/), and we will remove your name from lists we share with other companies as soon as reasonably practicable. When contacting us, please clearly state your request, including your name, mailing address, email address and phone number.
+We understand and respect that not all customers may want to allow us to share information with other select companies. If you do not want Shutterfly, Tiny Prints, Wedding Paper Divas and/or Treat to share your customer information, please immediately email us at [email us](mailto:cmt.support@treat.com "email us"), the email on the Contact Us pages of any of our brands, or change the preferences of your account at [Shutterfly.com](http://shutterfly.com/), [tinyprints.com](http://tinyprints.com/), [weddingpaperdivas.com](http://weddingpaperdivas.com/) and/or [treat.com](http://treat.com/), and we will remove your name from lists we share with other companies as soon as reasonably practicable. When contacting us, please clearly state your request, including your name, mailing address, email address and phone number.
 
 However, under the following circumstances, we may still be required to share your personal information:
 
@@ -77,9 +77,7 @@ We do not target our websites to children, and we will not knowingly collect per
 
 ## Access to Your Account Information and Preferences
 
-You have the right and ability to edit your member account information on any of your websites, including your marketing preferences, at any time. You can opt in or out of receiving future communications of special offers and new product information, or you can unsubscribe by following instructions contained in the messages you receive. We do reserve the right to send you certain communications relating to the services Shutterfly, Tiny Prints, Wedding Paper Divas and Treat provide, such as service announcements and administrative messages, which are considered part of your account membership. We do not offer you the opportunity to opt-out of receiving those messages.
-
-## Confidentiality and Security
+You have the right and ability to edit your member account information on any of your websites, including your marketing preferences, at any time. You can opt in or out of receiving future communications of special offers and new product information, or you can unsubscribe by following instructions contained in the messages you receive. We do reserve the right to send you certain communications relating to the services Shutterfly, Tiny Prints, Wedding Paper Divas and Treat provide, such as service announcements and administrative messages, that are considered part of your account membership. We do not offer you the opportunity to opt-out of receiving those messages.
 
 We use a secure server (SSL) to encrypt all of your personal information. We also have other physical, electronic and procedural safeguards that comply with federal regulations to protect the security and confidentiality of the personal information we have collected, and to prevent unauthorized access to or disclosure of any of your personal information.
 
@@ -97,4 +95,4 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us at [info@tinyprints.com](mailto:info@tinyprints.com "info@tinyprints.com") or (877) 300-9256.
+If you have questions about this Privacy Policy, you can contact us at <http://answers.tinyprints.com/app/ask> or (877) 300-9256.
