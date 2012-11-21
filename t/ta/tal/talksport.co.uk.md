@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043239id_/http%3A//www.talksport.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121143459id_/http%3A//www.talksport.co.uk/about/privacy) for the most accurate reproduction.*
 
 # About: Privacy Policy | Radio talkSPORT
 
