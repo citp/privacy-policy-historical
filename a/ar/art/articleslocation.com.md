@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleslocation.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523152204id_/http%3A//www.articleslocation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleslocation.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121224705id_/http%3A//www.articleslocation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Articles Location
 
 [ArticlesLocation.com](http://articleslocation.com/ "http://ArticlesLocation.com") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
