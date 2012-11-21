@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510154935id_/http%3A//www.beforward.jp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121060736id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.*
 
 # Japanese Used Cars | BE FORWARD | Privacy Policy
 
@@ -14,7 +14,7 @@ Please read our Privacy Policy carefully !
     Purchase Request information: At the time of Purchase Request we collect your contact information including the details of Products you are looking for.
 
 1.3
-    Billing & Payment Information: If you purchase any product or any other service from Be Forward through our website, we or our merchant may collect additional information including billing/shipping information, payment information, delivery options etc.
+     Billing & Payment Information: If you purchase any product or any other service from Be Forward through our website, we or our merchant may collect additional information including billing/shipping information, payment information, delivery options etc. 
 
 1.4
     Statistical Information: In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc.
@@ -29,13 +29,13 @@ Please read our Privacy Policy carefully !
     The Information We Don't Collect
 
 2.1
-    Cookies: We never use COOKIES to collect/store any information in any form (encrypted/non- encrypted). So you can opt not to accept cookies by modifying the parameter settings on your browser. In the event, your visit to our website will not be affected.
+     Cookies: We never use COOKIES to collect/store any information in any form (encrypted/non- encrypted). So you can opt not to accept cookies by modifying the parameter settings on your browser. In the event, your visit to our website will not be affected. 
 
 3.
     How Do We Use Your Information?
 
 3.1
-    General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
+     General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message. 
 
 3.2
     Members information: We shall not disclose your membership information to any third party, other than for legal/relevent reasons.
@@ -44,31 +44,31 @@ Please read our Privacy Policy carefully !
     Purchase Request Information: We use Purchase Request Information to process your request and provide valuable service. This information may be passed on to our accredited dealers, manufacturers and fulfillment partners for completion of the sale pursuant to contractual rights granted by us. Once our accredited dealer receives this information, it becomes the property of the dealership in addition to ours.
 
 3.4
-    Billing & Payment Information: The Billing & Payment Information which we collect shall not be disclosed to any third party, other than for legal reasons implied in the transaction. The billing & payment information you voluntarily give us while purchasing on-line is registered. This information is used to process your order and could later be used for further promotional marketing purposes. As part of our marketing policy to advise you of any other offers of related products or services, we may allow other departments of Be Forward, and the group to which it belongs, to have your name and address and/or email address.
+     Billing & Payment Information: The Billing & Payment Information which we collect shall not be disclosed to any third party, other than for legal reasons implied in the transaction. The billing & payment information you voluntarily give us while purchasing on-line is registered. This information is used to process your order and could later be used for further promotional marketing purposes. As part of our marketing policy to advise you of any other offers of related products or services, we may allow other departments of Be Forward, and the group to which it belongs, to have your name and address and/or email address. 
 
 3.5
     Statistical Information: We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance our Site and services based on the usage pattern data we receive. We may generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We may provide Statistical Information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
 
 3.6
-    Communication Services Information: We may use your Information to provide services that you request or to contact you regarding additional services about which Be Forward determines that you might be interested. Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Information for internal analysis, monitoring and marketing decisions.
+     Communication Services Information: We may use your Information to provide services that you request or to contact you regarding additional services about which Be Forward determines that you might be interested. Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Information for internal analysis, monitoring and marketing decisions. 
 
 4.
     Disclosure of Information
 
 4.1
-    We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of Be Forward, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
+     We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of Be Forward, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities. 
 
 4.2
     We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
 4.3
-    If we have reason to believe that an User is in breach of the Terms of User Agreement or any other agreements with us, then we reserve the right to make public or otherwise disclose such User's Collect Information in order to pursue our claim or prevent further injury to Be Forward or others.
+     If we have reason to believe that an User is in breach of the Terms of User Agreement or any other agreements with us, then we reserve the right to make public or otherwise disclose such User's Collect Information in order to pursue our claim or prevent further injury to Be Forward or others. 
 
 5.
     Privacy of Third Party
 
 5.1
-    Be Forward cannot be held liable for the privacy/confidentiality practices employed by third party to whom we direct our visitors. The privacy policy of such parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites. We recommend that you read the confidentiality declaration on each website you visit.
+     Be Forward cannot be held liable for the privacy/confidentiality practices employed by third party to whom we direct our visitors. The privacy policy of such parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites. We recommend that you read the confidentiality declaration on each website you visit. 
 
 6.
     Security Measures
@@ -83,10 +83,10 @@ Please read our Privacy Policy carefully !
     Changes to Privacy Policy
 
 7.1
-    We reserve the right to modify our Privacy Policy from time to time. We recommend that you consult this Privacy Policy on a regular basis. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Be Forward in writing and specifically request that we return and/or destroy all copies of all or part of your Collected Information in our possession.
+     We reserve the right to modify our Privacy Policy from time to time. We recommend that you consult this Privacy Policy on a regular basis. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Be Forward in writing and specifically request that we return and/or destroy all copies of all or part of your Collected Information in our possession. 
 
 8.
     Your Feedback
 
 8.1
-    Be Forward welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to our email.
+     Be Forward welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to our email. 
