@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043203id_/http%3A//www.yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121143337id_/http%3A//www.yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - - , - Your Life Moments
 
