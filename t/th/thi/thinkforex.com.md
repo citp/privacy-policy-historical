@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523163605id_/http%3A//www.thinkforex.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122005451id_/http%3A//www.thinkforex.com/privacypolicy) for the most accurate reproduction.*
 
 # ThinkForex - Privacy Policy
 
@@ -13,6 +13,10 @@ You voluntarily provide ThinkForex with the majority of the information that we 
 ## The Usage of Your Personal Information
 
 ThinkForex only uses your personal information appropriately to provide you with quality service and security. When you open an account with ThinkForex, you are issued a unique account number, User ID and password. There are only a limited number of ThinkForex employees who have a need to know your account information, and we urge that you not disclose this information. Should you close your ThinkForex account, we will retain your information, but only use it comply with regulatory requirements, and to periodically contact you to offer you the opportunity to reactivate your account or to participate in other valuable offers. ThinkForex does not sell, license, lease or otherwise disclose your personal information to any third-party, for any reason, except as already expressed.
+
+## Re-targeting
+
+Google, a third-party vendor, makes use of cookies to serve ads based on a user's prior visits to this website. Ads for this website will be displayed to users on third-party websites when the users are included in the retargeting audience. For more information on Google's use of cookies for this purpose and how it may affect your privacy, or to opt out of receiving cookies from Google, please visit: <http://www.google.com/policies/privacy/ads/>
 
 ## Opt-Out Information
 
