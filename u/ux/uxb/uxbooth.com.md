@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609234947id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122001947id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UX Booth
+# Privacy Policy - UX Booth | UX Booth
 
 The privacy of our visitors at UXBooth.com is important to us.
 
