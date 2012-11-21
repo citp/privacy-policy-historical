@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601062902id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121014624id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
