@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606051002id_/http%3A//www.yakima.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133842id_/http%3A//yakima.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice
+# Yakima Racks & Carriers › Home › Privacy Notice
 
 ## COPYRIGHT AND TRADEMARK
 
