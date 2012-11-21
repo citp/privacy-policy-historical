@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605123627id_/http%3A//www.restaurants.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121102217id_/http%3A//www.restaurants.com/content/privacy-policy.html) for the most accurate reproduction.*
 
-# Restaurants Guide | Best Restaurants | Restaurants.com
+# Restaurants Guide | Local Restaurants | Restaurants.com
 
 ### What information do we collect?
 
