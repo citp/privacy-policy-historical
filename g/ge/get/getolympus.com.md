@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092512id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp%3Futm_campaign%3Doimafooternav%26utm_medium%3Dweb%26utm_source%3Dolympusamerica.com%26utm_content%3Dprivacy_oimafooternav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121183056id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp%3Futm_campaign%3Doimafooternav%26utm_medium%3Dweb%26utm_source%3Dolympusamerica.com%26utm_content%3Dprivacy_oimafooternav) for the most accurate reproduction.*
 
 # Privacy Policy
 
