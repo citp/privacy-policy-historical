@@ -1,26 +1,55 @@
-> *The following text is extracted and transformed from the orgie.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171538id_/http%3A//www.scoreslive.com/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgie.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121104134id_/http%3A//www.freewebcamsex.com/privacy.html%3FAFNO%3D1-81) for the most accurate reproduction.*
 
-# Information
+# Free Webcam Sex | Privacy
 
-As always, the privacy, discretion and security of your personal information is AYA Entertainment, Inc.'s, and Scores Media Group LLC's (collectively, 'ScoresLive') top priority, and we want you to be aware of how we collect and handle information on our site.
+[Home](http://www.freewebcamsex.com/) / Privacy Policy
 
-ScoresLive collects personal information such as your name, address, and email address, when you knowingly provide it to us. Our site uses cookies to deliver content specific to your interests, and for tracking website navigation. In addition, ScoresLive may collect other information provided by you, such as your credit card number, billing address, and date of birth, when you set up an online account. Our servers automatically collect statistical information about IP addresses, e-mail addresses and which browsers are used to visit our site. None of this information is associated with you as an individual. We use these statistics to monitor our site's performance and to make it easier for you to use. Children under eighteen years of age are not eligible to use our services. We request that children do not submit information to us or navigate our website.
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-We do not sell or rent any personally identifiable information about you to any third party without your permission. We do however disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all. 
+FreeWebcamSex respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use FreeWebcamSex, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the FreeWebcamSex website.
 
-ScoresLive cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
+FreeWebcamSex will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-This site has high-level encryption and security measures in place to protect the loss, misuse, and alteration of the information under our control. We place great emphasis on protecting the privacy of our customers.
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings by sending an e-mail to: privacy@scoreslive.com and request that he or she be removed from our mailing list. Customers may also send a written opt-out request to the following address: Privacy Officer, ScoresLive, 14 Bond Street, Suite 285, Great Neck, New York 11021.
+When you do provide us with personal identifying information, such information will be gathered solely by FreeWebcamSex, and is for use solely by FreeWebcamSex and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-This website may contain links to other websites. ScoresLive is not responsible for the privacy practices or the content of such websites. 
+FreeWebcamSex may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
-If you have any questions about this privacy statement, the website, or your interaction with this website, you can contact us.   
-Email: customerservice@scoreslive.com 
+FreeWebcamSex may request personal identifying information on specific pages that allow users to contact FreeWebcamSex. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-Send mail to the following postal address:  
-Customer Service  
-ScoresLive  
-14 Bond Street, Suite 285  
-Great Neck, New York 11021. 
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of FreeWebcamSex or those of FreeWebcamSex customers or chat hosts, (4) under exigent circumstances to protect the physical safety of FreeWebcamSex, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+
+We may use cookies to:
+
+  * Deliver content specific to your interests.
+  * Save your password so you don’t have to re-enter it each time you visit our sites.
+
+
+
+We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
+
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
+
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. FreeWebcamSex does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
+
+Members areas of FreeWebcamSex may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@freewebcamsex.com](https://web.archive.org/contactsupport.php?AFNO=1-81).
+
+FreeWebcamSex does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from FreeWebcamSex, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?AFNO=1-81).
+
+FreeWebcamSex also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if FreeWebcamSex becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, FreeWebcamSex reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the FreeWebcamSex program, termination of FreeWebcamSex services, and forfeiture of all commissions.
+
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@freewebcamsex.com](https://web.archive.org/contactsupport.php?AFNO=1-81) and provide us with your name, your FreeWebcamSex login name, and any information you feel is important.
+
+The address for correspondence by post is
+
+Streamates Limited  
+c/o Ariel Secretaries Limited  
+196, Arch Makarios Ave, Ariel Corner,  
+1st Flr, Office 102  
+P.O. Box 57528  
+3316 Limassol - Cyprus
