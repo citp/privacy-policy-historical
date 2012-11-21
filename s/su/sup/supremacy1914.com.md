@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supremacy1914.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523195635id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremacy1914.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121143520id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259) for the most accurate reproduction.*
 
-# Supremacy 1914: Privacy Policy
+# Privacy Policy
 
 ### ****Data Privacy Policy of Bytro Labs GmbH****
 
@@ -54,15 +54,15 @@ If you have given us consent to process personal data, you can withdraw this con
 
 **4. **Contact and Data Deletion Requests****
 
-Bytro Labs provides the possibility to directly delete or correct your own personal data at [this location](https://web.archive.org/web/20120523195635id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=62). You have to be logged in to your account to enter the settings menu and then scroll down to the "Delete Account" option to delete your personal data. 
+Bytro Labs provides the possibility to directly delete or correct your own personal data at [this location](https://web.archive.org/web/20121121143520id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=62). You have to be logged in to your account to enter the settings menu and then scroll down to the "Delete Account" option to delete your personal data. 
 
-For any queries about data protection you can also contact us [here](https://web.archive.org/web/20120523195635id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=172) or directly via e-mail to support(at)bytro.com. You can also send your request to us by mail at the following mailing address: 
+For any queries about data protection you can also contact us [here](https://web.archive.org/web/20121121143520id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=172) or directly via e-mail to support(at)bytro.com. You can also send your request to us by mail at the following mailing address: 
 
 Bytro Labs GmbH 
 
-Hopfenmarkt 33 
+Rödingsmarkt 29 
 
-20457 Hamburg 
+20459 Hamburg 
 
 Germany 
 
