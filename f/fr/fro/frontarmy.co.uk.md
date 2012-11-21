@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontarmy.co.uk privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611064114id_/http%3A//www.frontarmy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontarmy.co.uk privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121094935id_/http%3A//www.frontarmy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FRONT – The funniest, sexiest magazine on Earth
 
