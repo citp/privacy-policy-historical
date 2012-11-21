@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cafepress.ca privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522003643id_/http%3A//www.cafepress.ca/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.ca privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121225916id_/http%3A//www.cafepress.ca/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
+
+ENDING SOON! SAVE 25%  on your entire order (plus extra on select tees) USE CODE: 25COUNT  details 
 
 **Effective Date: June 23, 2011**
 
