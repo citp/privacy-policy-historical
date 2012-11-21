@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524020436id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121233311id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosure Info | The Cornerstone
 
@@ -21,5 +21,3 @@ If you have questions or concerns, please contact the webmaster, [Angela Watson]
 ### Amazon
 
 Angela Watson is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fthecornerstoneforteachers.com%2Fabout%2Fprivacy-policy&media=&description=Privacy+Policy%2FDisclosure+Info)
