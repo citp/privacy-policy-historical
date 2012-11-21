@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketgoose.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630231212id_/http%3A//www.ticketgoose.com/bookbustickets/HTMLRedirectAction.do%3Fevent%3Dredirect%26pageId%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketgoose.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231809id_/http%3A//www.ticketgoose.com/bookbustickets/HTMLRedirectAction.do%3Fevent%3Dredirect%26pageId%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Ticketgoose Privacy Policy | Reservation of Travels Bus Tickets Online
 
