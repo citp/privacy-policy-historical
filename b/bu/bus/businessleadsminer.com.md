@@ -1,53 +1,61 @@
-> *The following text is extracted and transformed from the businessleadsminer.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601045728id_/http%3A//www.businessleadsminer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessleadsminer.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121163125id_/http%3A//businessleadsminer.com/legal/privacy.html%3Flightbox%5Bwidth%5D%3D700%26lightbox%5Bheight%5D%3D600) for the most accurate reproduction.*
 
-# Business Leads Finder
+# Privacy Policy
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by businessleadsfinder.com (collectively, "Services") ("Authorized Customers").
+**_Privacy Policy_**
 
-**"Personally Identifiable Information"**  
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+The following describes the Privacy Policy for our website.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+**Your Privacy**
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.  
+**State Law & Accompanying Rights**
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
+Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by businessleadsfinder.com is securely stored and is not accessible to third parties or employees of businessleadsfinder.com except for use as indicated above. 
+**Our Commitment To Children's Privacy**
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [businessleadsminer@gmail.com](mailto:businessleadsminer@gmail.com)
+Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
 
-**How does businessleadsfinder.com use login information?**  
-businessleadsfinder.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+**Collection of Personal Information**
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-businessleadsfinder.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
-Our privacy policy does not cover their collection or use of this information.  
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+Other information may be collected as well, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [businessleadsminer@gmail.com](mailto:businessleadsminer@gmail.com)
+Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [businessleadsminer@gmail.com](mailto:businessleadsminer@gmail.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+A prime example of limited access to our website is where content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private. 
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+**Handling of Personal Information  **
+
+Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That “private” information is now “public,” and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place.
+
+Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.” However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way.
+
+However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
+
+While we are staunch privacy advocates, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
+
+**Google Adsense and the DoubleClick DART Cookie**
+
+Google, as a third party advertisement vendor, may use cookies to serve ads on this website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
+
+**Links to Third Party Websites**
+
+We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+
+CHANGE NOTICE: As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out, in order to protect you and our website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+
+COPYRIGHT WARNING: The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We have paid to license the use of these legal notices and administrative pages for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+
+QUESTIONS/COMMENTS/CONCERNS: If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
