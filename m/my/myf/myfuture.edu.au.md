@@ -1,134 +1,115 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523131027id_/http%3A//www.myfuture.edu.au/en/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122002150id_/http%3A//myfuture.edu.au/en/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
 
 # myfuture: Australia's career information service
 
-  * [Introduction](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Introduction) 
-  * [Collection of personal information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Collection) 
-  * [How we use your personal information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Howweuse) 
-  * [How we disclose your information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Howwedisclose) 
-  * [Personal information on the website](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Personalinformation) 
-  * [Security of your personal information](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Security) 
-  * [When to check this privacy policy](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Whentocheck) 
-  * [How to contact us](http://myfuture.edu.au/Footer%20Items/General/Privacy.aspx#Howtocontact) 
-
-
-
 ##  1\. Introduction
 
-In Australia, collection and handling of personal information is regulated by the Privacy Act 1988. Personal information is basically information or an opinion which can identify you.
+Education Services Australia Limited maintains and hosts this Website for the Commonwealth Department of Education, Employment and Workplace Relations. Where relevant, references to "We" and “Us” in this Privacy Policy include a reference to the Commonwealth Department of Education, Employment and Workplace Relations.
 
-The purpose of this Privacy Statement is to explain how we may collect personal information about you, and how we might use, disclose and handle that personal information.
+All personal information collected by Us is protected by the Privacy Act (Cth) 1988. Information on the Commonwealth Privacy Act 1988 can be found on the Federal Privacy Commissioner's website [privacy.gov.au/](http://www.privacy.gov.au/ "Link opens in a new window").
 
-Education Services Australia Limited maintains and hosts this Site for the Department of Education, Science and Training. Any reference to "We" in this Privacy Statement includes a reference to the Department of Education, Science and Training.
+We are committed to protecting the privacy of personal information. This Privacy Policy explains how We may collect personal information about you, and how We might use, disclose and handle that personal information.
 
-##  2\. Collection of personal information
+##  2\. Information collected when you use this Website
 
-There are 3 ways in which we may collect your personal information. These are explained below:
+### (a) Log information
 
-### (a) User ID
+When you visit this Website our server makes a record of your visit and logs the following information:
 
-In order to access some parts of this Site, you will need to select a User ID and a password.
-
-Your User ID may be any name you choose, and you may change it and your password at any time. The User ID you choose will determine whether or not you can be identified when you use this Site. For privacy reasons, we encourage you to select a User ID which is not your name. That way, it will be difficult to identify who you are, and may mean that we do not collect personal information about you in this way. However, if you use a User ID which is your actual name, this will mean that we may collect personal information about you.
-
-### (b) E-mails and Electronic Forms
-
-You may decide to provide us with your email address. If you do have an email address that might identify who you are, for example where your email address contains your name and where you work, remember that this is personal information when you are sending us emails or providing your email address to us.
-
-### (c) Clickstream Data & Cookies
-
-When you visit this Site our server makes a record of your visit and logs the following information:
-
-  * your server address 
-  * your top level domain name (for example .com, .gov, .au, .net, .edu, etc) 
-  * the time and date of your visit to the website 
-  * the pages and documents you have accessed or viewed 
-  * the type of browser you are using
+  * your server address
+  * your top level domain name (for example .com, .gov, .au, .net, .edu, etc)
+  * the time and date of your visit to the Website
+  * the pages and documents you have accessed or viewed
+  * the type of browser you are using.
 
 
 
-Generally, this information will identify the computer you are using, rather than identifying you.
+### (b) Cookies and Google Analytics
 
-Similarly, sometimes the administration website uses cookies . A cookie is a small amount of information stored on your computer by our server. This information is sent by your web browser to our server whenever you visit it again. Cookies are used to remember your browser between page visits. However, the cookie identifies your browser, not you personally. No personal information is stored within the myfuture.edu.au cookies.
+A cookie is a small amount of information stored on your computer by our server. This information is sent by your web browser to our server whenever you visit it again. Cookies are used to remember your browser between page visits. However, the cookie identifies your browser, not you personally. No personal information is stored within the myfuture.edu.au cookies.
 
-##  3\. How we use your personal information
+This Website uses Google Analytics, a web analytics service provided by Google Inc. Google Analytics uses cookies, which are text files placed on your computer, to help the Website analyse how users use the Website. The information generated by the cookie about your use of the Website (including your IP address) will be transmitted to and stored by Google Inc on servers in the United States.
 
-We will only use your personal information for the purpose for which you provided it to us, except as outlined in this section.
+Google Inc uses this information for the purpose of evaluating your use of the Website, compiling reports on website activity for Us and providing other services relating to website activity and internet usage. Google Inc may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google Inc's behalf. Google Inc will not associate your IP address with any other data held by Google Inc.
 
-We may use, reproduce, adapt, or retrieve your personal information for statistical purposes (eg to calculate how many people are using this Site). These statistics may be published, but not in a way which will identify any individual.
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. When using this Website, you consent to the processing of data about you by Google Inc in the manner and for the purposes set out above.
 
-The reason we collect statistical information about the use of this Site (whether through cookies, or clickstream data, or through aggregating statistics about users) is that we need this information for:
+### (c) Emails and electronic forms
 
-  * website and system administration, including monitoring to prevent security breaches; 
-  * maintaining and improving the website; 
-  * reporting purposes; 
-  * research and development; and 
-  * to produce statistics about the traffic on the website.
+The personal information collected by Us when you send Us an email, will include your email address and may also include some of your personal information. In all cases and at all times, this personal information will only be used for the stated purpose for which it was provided.
 
+We record your email address and personal information when:
 
-
-We will not disclose your personal information without your consent unless authorised or required by law.
-
-##  5\. Personal Information on the website
-
-We will only put your personal information on this Site if it has been collected for this purpose with your knowledge or if you have consented to the disclosure. When giving such consent you should be aware that information put on this Site is accessible to millions of users from all over the world, that it will be indexed by search engines and that it may be copied and used by any web user. This means that, once the information is put on this Site, we will have no control over its subsequent use and disclosure.
-
-##  6\. Security of your Personal Information
-
-We take all reasonable steps to ensure that the information (including personal information) we hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We will continue to hold your personal information but may delete your account and all personal information contained in this account if your account has been inactive for an extended period of time. If you wish us to destroy your personal information you can request us to remove your account [LINK].In accordance with the [Terms and Conditions](http://myfuture.edu.au/Footer%20Items/General/Terms%20and%20Conditions.aspx) of Use of this Site, however, Education Services Australia Limited cannot accept any liability for any loss suffered by you as a result of unauthorised access to this Site.
-
-This Site does not, however, provide facilities for the secure transmission of information across the Internet. You should be aware that there are inherent risks associated with the transmission of personal information via the Internet.
-
-You should also note that if you link to another website from this Site, a different privacy and security statement is likely to apply. Therefore, once you leave this Site, you should check the online privacy and security statements of the new website.
-
-Please be aware that you can also protect the security of information you provide to this Site by not disclosing your User ID and password to any other person.
-
-##  7\. Access to your personal information
-
-In most cases, the Privacy Act gives you the right to gain access to personal information that we hold about you. All requests for access to your personal information will be handled by our privacy access officer, who can be contacted by writing to the address set out below. This is not, however, intended to cover requests for lost or forgotten passwords and is to be limited to genuine requests for the information which you have provided to this Site.
-
-We will deal with all requests for access to personal information as quickly as possible. Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. Please note that we are entitled to charge you the reasonable costs which we incur in complying with such a request for access.
-
-In some cases, consistently with the Privacy Act, we may refuse to give you access to personal information we hold about you. This includes circumstances where giving you access:
-
-  * would have an unreasonable impact on other people's privacy; 
-  * would prejudice negotiations we are having with you; 
-  * would prejudice an investigation of unlawful activity; or 
-  * would prejudice activities carried out by, or for, a law enforcement agency.
+  * you subscribe to any of our publications
+  * you use our contact page to contact Us
+  * you register to attend one of our events.
 
 
 
-If we refuse to give you access we will provide you with reasons for our refusal.
+We will not disclose your personal information to a third party, without your express consent.
 
-Generally, if you request us to do so we will amend any personal information about you held by us which is inaccurate, incomplete or out of date. If we disagree with you about the accuracy, completeness or currency of a record of your personal information held by us, we will take reasonable steps to associate with that record a statement to the effect that you claim this to be the case, if you request us to do so.
+##  3\. Publication of your personal information
 
-##  9\. How to contact us
+We will only publish personal information on this Website if it has been collected for this purpose with your knowledge, or if you have otherwise consented to the disclosure.
 
-We want to develop a long and trusted relationship with you. If at any time you:
+When giving such consent you should be aware that personal information published on this Website is accessible by multiple users from all over the world, that it will be indexed by search engines and that it may be copied and used by any web user. This means that, once personal information is published on this Website, We will have no control over its subsequent use and disclosure.
 
-  * have any questions regarding this Privacy Statement, the practices of this Site or dealings with this Site; or 
+
+
+
+If you want to know what, if any, personal information We hold about you, or wish to correct any personal information We may hold about you, you may access and correct such personal information at any time by contacting Us via the Contact Us page on this Website.
+
+##  5. Information sharing
+
+We only disclose personal information to third parties where:
+
+  * you are reasonable likely to have been aware, or made aware by way of a privacy notice, that your personal information is usually passed to the relevant parties;
+  * you have consented;
+  * We believe on reasonable grounds that the disclosure is necessary to prevent or lessen a serious and imminent threat to your life or health or that of another person;
+  * the disclosure is required by law; or
+  * the disclosure is reasonably necessary for the enforecement of the criminal law or of a law imposing a penalty, or for the protection of the public revenue.
+
+
+
+##  6\. Security of your personal information
+
+We take all reasonable steps to ensure that the information (including personal information) We hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We will destroy or permanently remove your personal information upon your request.
+
+This Website does not, however, provide facilities for the secure transmission of information across the internet. You should be aware that there are inherent risks associated with the transmission of personal information via the internet. If you do not wish to use the internet to transmit personal information you can mail or telephone Us.
+
+You should also note that if you link to a web page from our Website, a different privacy and security statement may apply. Therefore, once you leave this Website, you should check the online privacy and security policies of the new website.
+
+##  7\. Changes to this Privacy Policy
+
+We may make changes to this Privacy Policy from time to time. Therefore We recommend that you regularly check this Privacy Policy.
+
+##  9\. How to contact Us
+
+If at any time you:
+
+  * have any questions regarding this Privacy Statement, the practices of this Website or dealings with this Website; or 
   * if you are concerned that we have breached your privacy and wish to make a complaint,
 
 
 
-please contact us at:
+please contact Us at:
 
-(a) Contact Us; or
+(a) [Contact Us](http://www.myfuture.edu.au/Home/Contact%20Us/Give%20Feedback.aspx); or
 
-(b) Career Services Manager  
+(b) Project Manager, myfuture  
 Education Services Australia Limited  
-182 Fullarton Road  
-DULWICH SA 5065; or
+PO Box 177 Carlton South  
+MELBOURNE VIC 3053; or
 
-(c) Department of Education, Science and Training  
-Director  
-Career Education Section  
-GPO Box 9880  
-16-18 Mort Street  
-CANBERRA ACT 2600; or
+(c) Department of Education, Employment and Workplace RelationsDirector, Career Development Team  
+Youth Attainment and Transitions Branch  
+Location Code: C50MA9  
+PO Box 9880  
+CANBERRA ACT 2601; or  
 
-(d) phone (02) 6240 8111
 
-If you would like to know more about your rights under Australian privacy laws, please see the Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
+(d) phone 1300 363 079
 
-This privacy policy was last updated on 28 August 2003.
+If you would like to know more about your rights under Australian privacy laws, please see the Privacy Commissioner's website at [privacy.gov.au](http://www.privacy.gov.au/ "Link opens in a new window").
+
+This Privacy Policy was last updated in October 2012.
