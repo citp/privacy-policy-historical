@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423010846id_/http%3A//texasguntrader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122002921id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# 
-
-[Home](http://www.texasguntrader.com/classifieds/index.php)
+# New and Used Guns For Sale in Houston, Dallas, San Antonio,Ft. Worth, Austin, EL Paso
 
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
 -U.S. Constitution, 4th amendment.
 
-**Privacy Policy Statement      Created December 9, 2008**
+**Privacy Policy Statement      Created December 9, 2008**
 
-We will take all reasonable steps to protect your personal information. 
+We will take all reasonable steps to protect your personal information.
 
-We will **not** distribute your personal information (including email address) to any third party*. 
+We will  **not**  distribute your personal information (including email address) to any third party*.
 
-IRC channels, classified ads, forums, blogs, wiki pages, RSS feeds, and other components are available to our community. Any information that you disclose(d) in these areas becomes public information. Please exercise caution when deciding to disclose any personal information on this website. 
+IRC channels, classified ads, forums, blogs, wiki pages, RSS feeds, and other components are available to our community. Any information that you disclose(d) in these areas becomes public information. Please exercise caution when deciding to disclose any personal information on this website.
 
-Our servers are located in a highly secure complex, and incorporate all industry standard measures for both physical and data security. 
+Our servers are located in a highly secure complex, and incorporate all industry standard measures for both physical and data security.
 
-We may use your IP address or MAC address information for internal uses such as gathering demographic information. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will **not** be shared with third parties*. This information can be used for statistical analysis. 
+We may use your IP address or MAC address information for internal uses such as gathering demographic information. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will  **not**  be shared with third parties*. This information can be used for statistical analysis.
 
 IP Address, email, and initial user communications are logged and may be reviewed internally for dispute resolution.
 
@@ -26,4 +24,4 @@ We may from time to time update this Policy. We ask that you bookmark and period
 
 **We respect your privacy.**
 
-*In the event of a court ordered criminal investigation Texas Gun Trader will cooperate with law enforcement officials. We will submit only information relevent to the investigation. We support your individual liberties.
+*In the event of a court ordered criminal investigation TexasGunTrader will cooperate with law enforcement officials. We will submit only information relevent to the investigation. We support your individual liberties.
