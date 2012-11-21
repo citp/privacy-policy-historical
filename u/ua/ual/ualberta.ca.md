@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528045630id_/http%3A//www.uofa.ualberta.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122002939id_/http%3A//www.uofa.ualberta.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - University of Alberta
 
@@ -46,6 +46,14 @@ Should you choose to provide us with personal information—as in an email or by
 **Transactions where information enters a system of records**
 
 Where personal information is provided that enters a system of records, it is collected in compliance with section 33(c) of the Alberta Freedom of Information and Protection of Privacy (FOIP) Act. The University of Alberta collects, creates and maintains information for the purposes of admission, registration and other activities directly related to its education programs. Information collected is kept only for the length of time necessary to fulfill the purpose for which it was collected.
+
+**Google Analytics**
+
+The University of Alberta uses Google Analytics to gather statistics on portions of its web site. UAlberta will use the information gathered to improve digital services for its patrons. 
+
+Google Analytics employs cookies to define user sessions , which allows for the collection of important data about how our patrons are using the site. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to the UAlberta’s website domain(s), and UAlberta will only use the collected data and cookies for aggregate and non-individual statistical analysis related to your browsing behaviour.
+
+According to Google, the data collected cannot be altered or retrieved by services from other domains. If you choose, you can opt out by turning off cookies in the preferences settings in your browser. For more information on Google Analytics, please visit [Google’s web site](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies).
 
 **Getting more information**
 
