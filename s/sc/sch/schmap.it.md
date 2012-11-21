@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the schmap.it privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301160251id_/http%3A//www.schmap.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schmap.it privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121164918id_/http%3A//www.schmap.it/privacy) for the most accurate reproduction.*
 
-# Schmaps & Schnaps - privacy policy
-
-## Privacy Policy
+# Privacy Policy
 
 We recognize and respect your desire for privacy: please read the following provisions to learn more about our privacy policy.
 
@@ -28,6 +26,6 @@ We may update this policy from time to time: please check this page for such upd
 
 ### TERMS OF USE
 
-For more information on the terms and conditions that apply to the use of Schmap's web site, please review our [Terms of Use.](https://web.archive.org/terms)
+For more information on the terms and conditions that apply to the use of Schmap's web site, please review our [Terms of Use.](http://www.schmap.it/terms)
 
-Effective: October 12th, 2009
+Effective: October 12th, 2011
