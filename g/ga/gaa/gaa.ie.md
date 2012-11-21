@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaa.ie privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612045900id_/http%3A//gaa.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaa.ie privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121082705id_/http%3A//www.gaa.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | GAA
 
@@ -69,3 +69,7 @@ Welcome to the GAA, website ("gaa.ie"). Your access to and use of gaa.ie is subj
 
 (7) Use of your information and material  
 7.1 When you send us any feedback, suggestions, ideas or other materials in relation to or via gaa.ie, you agree that gaa can use, reproduce, publish, modify, adapt and transmit them to others free of charge and without restriction, subject to our obligations in our Privacy Statement.
+
+* * *
+
+* * *
