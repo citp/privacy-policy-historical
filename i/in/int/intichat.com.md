@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intichat.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523043713id_/http%3A//www.intichat.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intichat.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121213945id_/http%3A//www.intichat.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Where it pays to be social!
 
