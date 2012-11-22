@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612111325id_/http%3A//www.wopg.org/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122182244id_/http%3A//www.wopg.org/en/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Words of Peace Global - Privacy policy
+
+##  [ Privacy Policy](http://www.wopg.org/en/privacypolicy)
 
 **PRIVACY POLICY**
 
