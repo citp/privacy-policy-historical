@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024632id_/http%3A//www.definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122054456id_/http%3A//www.definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DefinitiveDeals.com - Privacy Policy Statement for this website
 
@@ -6,7 +6,7 @@ We respect our user's privacy and make every effort to protect the privacy of th
 
   * 1\. Site Information & Contact
 
-This website is owned and operated by Centeer, Inc. The administrator for this site can be reached via email at [contact@definitivedeals.com](mailto:contact@definitivedeals.com?subject=privacy) All efforts will be made to respond to any e-mail inquires within 48 hours. 
+This website is owned and operated by Eckim.com The administrator for this site can be reached via email at [contact@definitivedeals.com](mailto:contact@definitivedeals.com?subject=privacy) All efforts will be made to respond to any e-mail inquires within 48 hours. 
 
   * 2\. Information that is collected
 
