@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518222452id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122131603id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- iUniverse
 
 [](http://www.addthis.com/bookmark.php)
 
-_Updated: March 29, 2008_
+_Updated: June 13, 2012_
 
 Our privacy policy, as detailed below, answers questions you may have about access, security and control of personal information. It also describes how the information will be used, and whether it will be provided to third parties.
 
@@ -18,7 +18,8 @@ The United States Federal Trade Commission has created a Web site, [Site Seeing 
 [COOKIES](https://web.archive.org/privacypolicy.aspx#Question%204 "COOKIES ")  
 [SECURITY](https://web.archive.org/privacypolicy.aspx#Question%205 "SECURITY ")  
 [YOUR CONSENT AND NOTIFICATION OF CHANGES](https://web.archive.org/privacypolicy.aspx#Question%206 "YOUR CONSENT AND NOTIFICATION OF CHANGES ")  
-[TELL US WHAT YOU THINK](https://web.archive.org/privacypolicy.aspx#Question%207 "TELL US WHAT YOU THINK ")
+[DO NOT CALL POLICY](https://web.archive.org/privacypolicy.aspx#Question%207 "DO NOT CALL POLICY ")  
+[TELL US WHAT YOU THINK](https://web.archive.org/privacypolicy.aspx#Question%208 "TELL US WHAT YOU THINK ")
 
 ### WHAT INFORMATION DO AUTHOR SOLUTIONS COMPANIES COLLECT?
 
@@ -26,11 +27,11 @@ When users visit our Web sites, there are two types of information that may be c
 
 The first type of information is known as “personally identifiable information.” In order to serve your needs and to provide improved products and services, we may from time to time request personal and private information, such as your name or company, address, contact information, education, interests, payment information when you place orders, survey information and/or other information. You may choose to provide this information at your option. Many areas of our site are accessible without providing any personally identifiable information. Personally identifiable information excludes any information you may choose to submit publicly, such as reviews, critiques, editorials, testimonials, documentaries, forum or blog discussions.
 
-You may choose to place orders or to set up an account to obtain additional information or to order products and/or services. If you place an order or set up such an account, certain private information will be needed, such as your name or company, address, contact information and payment arrangements. We will maintain a history of orders and payments via your account for normal accounting and business purposes. ASI does not rent, sell or share personal information about you with other people or non-affiliated companies, period!
+You may choose to place orders or to set up an account to obtain additional information or to order products and/or services. If you place an order or set up such an account, certain private information will be needed, such as your name or company, address, contact information and payment arrangements. We will maintain a history of orders and payments via your account for normal accounting and business purposes. ASI does not rent, sell or share personal information about you with other people or companies that are not our partners or affiliates.
 
 If you choose not to provide private information to this Web site, alternate ordering and payment arrangements can be made by providing the necessary information via telephone, fax or mail, or via another standard method of communication.
 
-To better serve you, Wordclay may share your name and contact information with companies that are part of ASI, which offer products or services desirable or useful to you. ASI companies share aspects of common ownership and control.
+To better serve you, iUniverse may share your name and contact information with companies that are part of ASI, which offer products or services desirable or useful to you. ASI companies share aspects of common ownership and control.
 
 Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, Trafford, AuthorHive and Wordclay.
 
@@ -92,8 +93,32 @@ By using this Web site, products and services, you consent to the terms of this 
 
 _[Back to Top](https://web.archive.org/privacypolicy.aspx#Back%20to%20Top "Back to Top")_
 
+### DO NOT CALL POLICY
+
+Author Solutions Inc. strives to maintain the highest standards of ethical conduct in its marketing activities and is committed to complying with all federal and state legislation.
+
+No employee or agent of Author Solutions Inc. shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulations.
+
+If you do not want to receive sales calls from any imprint of Author Solutions Inc., you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 30 days. You can make this request by phone, email, or mail as follows:
+
+  * Call (800) AUTHORS (288-4677)
+  * Email us at [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com) or
+  * Mail to 1663 Liberty Drive, Bloomington, IN 47403
+
+
+
+When submitting a request, be sure to include all the relevant information that you want added to our Do Not Contact List, i.e., **full name, address, and telephone number(s)**. Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
+
+If you would like us to remove you from our Do Not Call List so that you may receive our telephone solicitations, notify us by contacting Customer Service.
+
+Please note that the Author Solutions Inc., Do Not Call List restricts marketing contacts from specific imprints, so you may continue to receive calls from other imprints where you may have signed up separately. If you would like to add your number to the Global Do Not Call List, you may do so by relaying this request to the Customer Service Representative or via e-mail through [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com) 
+
+Being on the Author Solutions Do Not Call List restricts telephone solicitations only. We may still contact you about service-related issues, surveys, billing, and other topics.
+
+_[Back to Top](https://web.archive.org/privacypolicy.aspx#Back%20to%20Top "Back to Top")_
+
 ### TELL US WHAT YOU THINK
 
 We welcome your questions and comments about privacy. Please [contact](https://web.archive.org/ContactUs/ContactUs.aspx "ContactUs") us.
 
-_[Back to Top](https://web.archive.org/privacypolicy.aspx#Back%20to%20Top "Back to Top")_
+[_Back to Top_](https://web.archive.org/privacypolicy.aspx#Back%20to%20Top "Back to Top")
