@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bluefly.com privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524012101id_/http%3A//www.bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluefly.com privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122083758id_/http%3A//www.bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -10,6 +10,7 @@
 
 
 
+
    
    
    
@@ -20,12 +21,24 @@
    
    
       
+         
+         
          
          <title>
             Bluefly Privacy Policy
          </title>
          <meta name="description" content="">
          
+         <link rel="canonical" href="">
+         
+         
+         	
+            
+         
+         
+         
+         
+         
       
    
    
@@ -48,8 +61,8 @@
 
 
    
-   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
 
 
 
@@ -71,9 +84,9 @@
 <meta property="fb:app_id" content="175011075869854">
 <!-- end facebook meta tags -->
 
-<!--begin global css non-secure media -->
-<link type="text/css" rel="stylesheet" href="http://cdn.media.bluefly.com/min/b=media/css&amp;f=global_120409.css,bluefly_jqui.css&amp;120410">
-<!--end global css non-secure media -->
+<!-- begin global css non-secure media -->
+<link type="text/css" rel="stylesheet" href="http://cdn.media.bluefly.com/min/b=media/css&amp;f=global_121116.css,bluefly_jqui.css&amp;121121">
+<!-- end global css non-secure media -->
        
       
        
@@ -82,9 +95,9 @@
         <!-- Begin CustomPageCSS -->
 <link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/bluefly_jqui.css" type="text/css" media="screen">
 <link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/magiczoomplus.css" type="text/css"> 
-<link rel="stylesheet" type="text/css" href="http://cdn.media.bluefly.com/media/css/preview_101103.css"> 
-<script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/magiczoomplus/mzp-packed.js"></script>
-<link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/custom_111117.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/preview.css?v=5" type="text/css"> 
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/magiczoomplus/mzp-packed.js"></script>
+<link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/custom.css?v=3" type="text/css">
 <link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/bflyMain.css" type="text/css">
 <link href="http://cdn.media.bluefly.com/media/css/quicklogin.css" type="text/css" rel="stylesheet">
 <!-- END CustomPageCSS -->
@@ -107,9 +120,9 @@
        
        
         <!-- begin global js non-secure media -->
-<script type="text/javascript" src="http://cdn.media.bluefly.com/min/b=media/javascript&amp;f=lib/jquery-1.3.2.min.js,lib/jquery-ui.min.js,lib/jquery.validate.min.js,lib/jquery.bgiframe.min.js,lib/jquery.qtip-1.0.0-rc3.min.js,global/global_101123.js&amp;110603"></script>
+<script type="text/javascript" src="http://cdn.media.bluefly.com/min/b=media/javascript&amp;f=lib/jquery-1.3.2.min.js,lib/jquery-ui.min.js,lib/jquery.validate.min.js,lib/jquery.bgiframe.min.js,lib/jquery.qtip-1.0.0-rc3.min.js,global/global_121106.js&amp;121107"></script>
 <script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/lib/jquery.cookie.js"></script>
-<script src="http://platform.twitter.com/anywhere.js?id=OZxqCXvGy8xhiLdgA5mxw&amp;v=1" type="text/javascript"></script>
+
 <!-- begin LivePerson -->
 <script type="text/javascript">
 if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';        
@@ -175,8 +188,403 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
   
 
   
+<script language="JavaScript" type="text/javascript">
+    <!--
+    String.prototype.trim = function() {
+       // skip leading and trailing whitespace and return everything in between
+       var x = this;
+       x = x.replace(/^\s*(.*)/, "$1");
+       x = x.replace(/(.*?)\s*$/, "$1");
+       // strip single and double quotes, percent signs
+       x = x.replace(/'/g, "");
+       x = x.replace(/"/g, "");
+       x = x.replace(/%/g, "");
+       return x;
+    }
 
-  <script language="JavaScript" type="text/javascript">
+    //---------------------------------------------------------------------------
+    // Function used by search form to submit form.
+    //---------------------------------------------------------------------------
+    function submit_search_form(formName) {
+       var terms = document[formName].Ntt.value.trim();
+       var searchURL = "";
+       terms = stripStrangeCharacters(terms);
+       terms = terms.replace('\'', ' ');
+       terms = terms.replace('%', ' ');
+       terms = encodeURIComponent(terms);
+       terms = terms.replace(/%20/g,'+');
+       if (terms.length == 0) {
+          alert("Please enter a search term");
+       }
+       else {
+          var dept = document[formName].N.value;
+          //-- searchURL = searchURL + "&N=" + dept + "&Ntt=" + terms
+          //-- searchURL = searchURL + "&Nrk=all&Nrr=all&Nrt="+terms
+          searchURL = searchURL + "/_/N-" + dept + "/Ntt-" + terms;
+          searchURL = searchURL + "/Nrk-all/Nrr-all/Nrt-"+terms;
+          searchURL = searchURL + "/Ntk-all/Ntx-mode+matchallpartial/search.fly?init=y";
+          document.location.href = searchURL;
+       }
+       return false;
+    }
+
+      //---------------------------------------------------------------------------
+      // Function used to strip out funky characters in search term.
+      //---------------------------------------------------------------------------
+     function stripStrangeCharacters (searchTerm) {
+         var processedTerm = searchTerm;
+         for (i=0; i<processedTerm.length; i++) {
+             if (processedTerm.charAt(i) > '\177') {
+                 processedTerm = processedTerm.replace(processedTerm.charAt(i), '');
+                 i = i-1;
+             }
+         }
+         return processedTerm;
+     }
+
+    //-->
+</script>
+  <header>
+    <div id="topnavBfly">
+      <div id="topnavRow1">
+        <div id="navWelcome">
+           
+              
+              
+              
+              
+              
+           
+              
+              
+              
+              
+              
+                 Welcome to Bluefly, <a title="login" href="/myfly/login.jsp;jsessionid=kGerIJFez1Ct6cMNyrm-Bg**.bluefly_node3">login</a> or register
+                 <a title="register" href="/myfly/login.jsp;jsessionid=kGerIJFez1Ct6cMNyrm-Bg**.bluefly_node3">here</a>
+              
+           
+            <input type="hidden" id="securityStatus" value="0">
+        </div>
+        <div>
+           <ul id="navAccount">
+              
+                 
+                 
+                 
+                 
+              
+                 
+                 
+                 
+                 
+                   <li id="navHome">
+                     <a href="/" title="Home">Home</a>
+                   </li>
+                 
+              
+              <li id="navFlypaper"><a href="http://flypaper.bluefly.com">Flypaper</a></li>
+              <li id="navFlyTV"><a href="/custom/custom.jsp?promoId=m1470194">FlyTV</a></li>
+              <li id="navCS"><a href="/custom/custom.jsp;jsessionid=kGerIJFez1Ct6cMNyrm-Bg**.bluefly_node3?promoId=m480129">Customer Service</a></li>
+              <li id="navMyaccount">
+                <a href="/myfly/my_fly.jsp" rel="nofollow" value="/myfly/my_bluefly_custom.jsp" onclick="checkHeadStat(this);return false;">my fly</a>
+              </li>
+           </ul>
+        </div>
+        <!-- Changing to id="navShopBagFull"  when items are in the shopping bag -->
+
+        
+           
+           
+           
+        
+           
+           
+              <div id="navShopBag">
+                 <a title="shopping bag" href="/cart/cart.jsp;jsessionid=kGerIJFez1Ct6cMNyrm-Bg**.bluefly_node3">
+                  <span id="textShopBag">Shopping Bag</span>
+                 </a>
+              </div>
+           
+           
+        
+
+        
+           
+           
+        
+           
+           
+              <div id="textShopQty">[0]</div>
+           
+        
+      </div> <!-- end topnavRow1 -->
+
+      
+        
+        
+        
+      
+        
+        
+          
+            
+            
+            
+          
+            
+            
+            
+              <!-- begin top navi non-secure m1660014 --> 
+
+<div id="topnavRow2">
+	<div id="navLogo">
+	<a href="/" title="">Bluefly - the ultimate hook-up for the fashion obsessed.</a>
+	</div>
+	<div id="navSearch">
+		<div class="search_box">
+		  <form name="keyword_search_0" method="GET" action="/search/results" onsubmit="return(submit_search_form('keyword_search_0'));">
+			<input type="hidden" name="N" id="NField" value="1aaq">
+			<input type="text" name="Ntt" size="25" class="input" id="searchterms" value="Search Bluefly" onfocus="if (this.value == this.defaultValue) { this.value = ''; }" onblur="if (this.value == '') { this.value = this.defaultValue; }">
+			<input type="submit" name="submit" class="searchbutton" value="">
+		  </form>
+		</div>
+	</div>
+	
+</div><!-- end topnavRow2 -->
+ <!-- MAIN NAV BEGINS -->
+      <div id="main-nav" class="clearfix">
+        <ul id="main-nav-list">
+          <li id="main-nav-woman" class="main-nav-category">
+            <a class="main-nav-link main-nav-link-women" href="/a/women-clothing">Women</a>
+              <div class="subcategory-nav category-nav-women">
+                <ul class="main-nav-dropdown">
+                  <li><a href="/Designer-Activewear/_/N-o0sa/list.fly">Activewear</a></li>
+                  <li><a href="/Designer-Blazers-Jackets-Vests/_/N-ffq/list.fly">Blazers, Jackets &amp; Vests</a></li>
+                  <li><a href="/Designer-Blouses/_/N-fg4/list.fly">Blouses</a></li>
+                  <li><a href="/Designer-Cashmere/_/N-ffs/list.fly">Cashmere</a></li>
+                  <li><a href="/Designer-Coats-Outerwear/_/N-ffu/list.fly">Coats &amp; Outerwear</a></li>
+                  <li><a href="/Designer-Denim-Shop/_/N-bkou/list.fly">Denim</a></li>
+                  <li><a href="/Designer-Dresses/_/N-1ab7/list.fly">Dresses</a></li>
+				  <li><a href="/holiday-dresses">Holiday Dresses</a></li>
+                  <li><a href="/Designer-Intimates-Sleepwear/_/N-fg0/list.fly">Intimates &amp; Sleepwear</a></li>
+                  <li><a href="/Designer-Leggings/_/N-fkg/list.fly">Leggings</a></li>
+                  <li><a href="/Designer-Pants-Leggings/_/N-fg2/list.fly">Pants &amp; Jumpsuits</a></li>
+                  <li><a href="/Designer-Shorts/_/N-fg8/list.fly">Shorts &amp; Rompers</a></li>
+                  <li><a href="/Designer-Skirts/_/N-fga/list.fly">Skirts</a></li>
+                  <li><a href="/Designer-Sweaters/_/N-1pql/list.fly">Sweaters</a></li>
+                  <li><a href="/Designer-Swimwear/_/N-fge/list.fly">Swimwear</a></li>
+                  <li><a href="/Designer-Suits/_/N-oneo/list.fly">Suits</a></li>
+                  <li><a href="/Designer-Tops-Tees/_/N-fgg/list.fly">Tops &amp; Tees</a></li>
+                </ul>
+              </div>
+          </li>
+          <li id="main-nav-shoes" class="main-nav-category">
+            <a class="main-nav-link-shoes main-nav-link" href="/a/shoes">Shoes</a>
+              <div class="subcategory-nav category-nav-shoes">
+                <ul class="main-nav-dropdown">
+                  <li><a href="/Designer-Boots/_/N-fs0/list.fly">Boots</a></li>
+                  <li><a href="/Designer-Loafers-Flats/_/N-fs8/list.fly">Loafers &amp; Flats</a></li>
+                  <li><a href="/Designer-Pumps-High-Heels/_/N-fsa/list.fly">Pumps &amp; High Heels</a></li>
+                  <li><a href="/Designer-Sandals/_/N-fsc/list.fly">Sandals</a></li>
+                  <li><a href="/Designer-Sneakers/_/N-fsg/list.fly">Sneakers</a></li>
+                </ul>                
+              </div>
+          </li>
+          <li id="main-nav-handbags" class="main-nav-category">
+            <a class="main-nav-link-handbags main-nav-link" href="/a/handbags-accessories">Handbags &amp; Accessories</a>
+              <div class="subcategory-nav category-nav-handbags">
+                <ul class="main-nav-dropdown">
+                  <li><h3 class="main-nav-category-header"><a href="/Designer-Handbags/_/N-frg/list.fly">Handbags</a></h3></li>
+                  <li><a href="/Designer-Clutches-Wristlets/_/N-fri/list.fly">Clutches &amp; Wristlets</a></li>
+                  <li><a href="/Designer-Messenger-Cross-body-Bags/_/N-inde/list.fly">Messenger &amp; Crossbody Bags</a></li>
+                  <li><a href="/Designer-Shoulder-Bags-Hobos/_/N-frm/list.fly">Shoulder Bags &amp; Hobos</a></li>
+                  <li><a href="/Designer-Totes-Top-Handles/_/N-fru/list.fly">Totes &amp; Top Handles</a></li>
+                  <li><h3 class="main-nav-category-header"><a href="/Designer-Accessories/_/N-1abe/list.fly">Accessories</a></h3></li>
+                  <li><a href="/Designer-Belts/_/N-fh2/list.fly">Belts</a></li>
+                  <li><a href="/Designer-Hats-Gloves-Scarves/_/N-fh8/list.fly">Hats, Gloves &amp; Scarves</a></li>
+                  <li><a href="/Designer-Small-Goods/_/N-fhc/list.fly">Small Goods</a></li>
+                  <li><a href="/Designer-Sunglasses/_/N-fhe/list.fly">Sunglasses</a></li>
+                  <li><a href="/Designer-Wallets/_/N-fhg/list.fly">Wallets</a></li>
+                </ul>
+              </div>
+          </li>
+          <li id="main-nav-jewelry" class="main-nav-category">
+            <a class="main-nav-link-jewelry main-nav-link" href="/a/jewelry-shop">Jewelry</a>
+              <div class="subcategory-nav category-nav-jewelry">
+                <ul class="main-nav-dropdown">
+                  <li><a href="/Designer-Fashion-Jewelry/_/N-1abg/list.fly">Fashion Jewelry</a></li>
+                  <li><a href="/Designer-Fine-Jewelry/_/N-mq1y/list.fly">Fine Jewelry</a></li>
+                  <li><a href="/Designer-Estate-Jewelry/_/N-w5os/list.fly">Estate Jewelry</a></li>
+                  <li><h3 class="main-nav-category-header"><a href="/Designer-Diamond-Jewelry/_/N-rv6b/list.fly">Shop Diamonds</a></h3></li>
+                  <li><a href="/Designer-Diamond-Bracelets/_/N-rv6d/list.fly">Diamond Bracelets</a></li>
+                  <li><a href="/Designer-Diamond-Earrings/_/N-rv6f/list.fly">Diamond Earrings</a></li>
+                  <li><a href="/Designer-Diamond-Necklaces/_/N-rv6h/list.fly">Diamond Necklaces</a></li>
+                  <li><a href="/Designer-Diamond-Rings/_/N-rv6j/list.fly">Diamond Rings</a></li>
+                </ul>
+              </div>
+          </li>
+          <li id="main-nav-men" class="main-nav-category">
+            <a class="main-nav-link-men main-nav-link" href="/a/men-clothing-shoes-accessories">Men</a>
+              <div class="subcategory-nav category-nav-men">
+                <ul class="main-nav-dropdown">
+                  <li class="multiple-column-dropdown">
+                    <ul class="main-nav-dropdown-column">
+                      <li><h3 class="main-nav-category-header"><a href="/Designer-Mens-Apparel/_/N-v2ug/list.fly">APPAREL</a></h3></li>
+                      <li><a href="/Designer-Mens-Blazers/_/N-7q2/list.fly">Blazers &amp; Jackets</a></li>
+                      <li><a href="/Designer-Mens-Cashmere/_/N-7q4/list.fly">Cashmere</a></li>
+                      <li><a href="/Designer-Mens-Coats-Jackets/_/N-7q6/list.fly">Coats &amp; Outerwear</a></li>
+                      <li><a href="/Designer-Mens-Denim/_/N-fms/list.fly">Denim</a></li>
+                      <li><a href="/Designer-Mens-Pants/_/N-1ab3/list.fly">Pants</a></li>
+                      <li><a href="/Designer-Mens-Shirts-Casual/_/N-7qe/list.fly">Shirts - Casual</a></li>
+                      <li><a href="/Designer-Mens-Shirts-Dress/_/N-1ab1/list.fly">Shirts - Dress</a></li>
+                      <li><a href="/Designer-Mens-Shorts/_/N-7qi/list.fly">Shorts</a></li>
+                      <li><a href="/Designer-Mens-Suits/_/N-7qk/list.fly">Suits</a></li>
+                      <li><a href="/Designer-Mens-Sweaters/_/N-1aay/list.fly">Sweaters</a></li>
+                      <li><a href="/Designer-Mens-Swimwear/_/N-7qo/list.fly">Swimwear</a></li>
+                      <li><a href="/Designer-Mens-T-Shirts/_/N-7qs/list.fly">T-Shirts</a></li>
+                      <li><a href="/Designer-Mens-Track-Jackets-Hoodies/_/N-fn6/list.fly">Track Jackets &amp; Hoodies</a></li>
+                      <li><a href="/Designer-Mens-Underwear/_/N-7qu/list.fly">Underwear</a></li>
+                    </ul>
+                    <ul class="main-nav-dropdown-column">
+                      <li><h3 class="main-nav-category-header"><a href="/Designer-Mens-Shoes/_/N-7qg/list.fly">MENS SHOES</a></h3></li>
+                      <li><a href="/Designer-Mens-Boots/_/N-ftk/list.fly">Boots</a></li>
+                      <li><a href="/Designer-Mens-Loafers-Slip-ons/_/N-ftm/list.fly">Loafers &amp; Slip-ons</a></li>
+                      <li><a href="/Designer-Mens-Oxfords/_/N-fto/list.fly">Oxfords</a></li>
+                      <li><a href="/Designer-Mens-Sandals/_/N-ftq/list.fly">Sandals</a></li>
+                      <li><a href="/Designer-Mens-Sneakers/_/N-fti/list.fly">Sneakers</a></li>
+                      <li><h3 class="main-nav-category-header"><a href="/Designer-Mens-Accessories/_/N-v2ue/list.fly">ACCESSORIES</a></h3></li>
+                      <li><a href="/Designer-Mens-Bags-Briefcases/_/N-7pw/list.fly">Bags &amp; Briefcases</a></li>
+                      <li><a href="/Designer-Mens-Belts/_/N-7q0/list.fly">Belts</a></li>
+                      <li><a href="/Designer-Mens-Hats-Gloves-Scarves/_/N-7qa/list.fly">Hats, Gloves &amp; Scarves</a></li>
+                      <li><a href="/Designer-Mens-Cufflinks/_/N-foy/list.fly">Jewelry &amp; Cufflinks</a></li>
+                      <li><a href="/Designer-Mens-Sunglasses/_/N-7qm/list.fly">Sunglasses</a></li>
+                      <li><a href="/Designer-Mens-Ties/_/N-7qq/list.fly">Ties</a></li>
+                      <li><a href="/Designer-Mens-Wallets/_/N-7qw/list.fly">Wallets</a></li>
+                    </ul>
+                  </li>                  
+                </ul>
+              </div>
+          </li>
+		  <li id="main-nav-kids" class="main-nav-category">
+            <a class="main-nav-link-kids main-nav-link" href="/Designer-Kids/_/N-v2wq/list.fly">Kids</a>
+			<div class="subcategory-nav category-nav-kids">
+               <ul class="main-nav-dropdown">
+                  <li class="multiple-column-dropdown">
+                    <ul class="main-nav-dropdown-column">
+						<li><a href="/Armani-Kids/_/N-1z140jiZv2wq/list.fly">Armani Kids</a></li>
+						<li><a href="/Ballantyne-Kids/_/N-1z140heZv2wq/list.fly">Ballantyne Kids</a></li>
+						<li><a href="/Belstaff-Kids/_/N-1z14036Zv2wq/list.fly">Belstaff Kids</a></li>
+						<li><a href="/Blumarine-Kids/_/N-1z140d7Zv2wq/list.fly">Blumarine Kids</a></li>
+						<li><a href="/Burberry-Kids/_/N-1z14073Zv2wq/list.fly">Burberry Kids</a></li>
+						<li><a href="/Chloe-Kids/_/N-1z13zlnZv2wq/list.fly">Chloe Kids</a></li>
+						<li><a href="/Christian-Dior-Kids/_/N-1z140n0Zv2wq/list.fly">Christian Dior Kids</a></li>
+						<li><a href="/D-G-Kids/_/N-1z13z58Zv2wq/list.fly">D&amp;G Kids</a></li>
+						<li><a href="/Diesel-Kids/_/N-1z140npZv2wq/list.fly">Diesel Kids</a></li>
+						<li><a href="/Dolce-Gabbana-Kids/_/N-1z140l7Zv2wq/list.fly">Dolce &amp; Gabbana Kids</a></li>
+						<li><a href="/Fendi-Kids/_/N-1z13zp3Zv2wq/list.fly">Fendi Kids</a></li>
+						<li><a href="/Fred-Perry-Kids/_/N-1z13ngaZv2wq/list.fly">Fred Perry Kids</a></li>
+						<li><a href="/Gucci-Kids/_/N-1z140oaZv2wq/list.fly">Gucci Kids</a></li>
+						<li><a href="/Hogan-Kids/_/N-1z13yttZv2wq/list.fly">Hogan Kids</a></li>
+						<li><a href="/Hugo-Boss-Kids/_/N-1z1408oZv2wq/list.fly">Hugo Boss Kids</a></li>
+					</ul>
+					<ul class="main-nav-dropdown-column">
+						<li><a href="/J-Brand-Kids/_/N-1z1402aZv2wq/list.fly">J Brand Kids</a></li>
+						<li><a href="/Juicy-Couture-Kids/_/N-1z14055Zv2wq/list.fly">Juicy Couture Kids</a></li>
+						<li><a href="/Marc-Jacobs-Kids/_/N-1z1409uZv2wq/list.fly">Marc Jacobs Kids</a></li>
+						<li><a href="/Missoni-Kids/_/N-1z13z98Zv2wq/list.fly">Missoni Kids</a></li>
+						<li><a href="/Moncler-Kids/_/N-1z140iiZv2wq/list.fly">Moncler Kids</a></li>
+						<li><a href="/Moschino-Kids/_/N-1z13z5bZv2wq/list.fly">Moschino Kids</a></li>
+						<li><a href="/Paul-Frank-Kids/_/N-1z13g67Zv2wq/list.fly">Paul Frank Kids</a></li>
+						<li><a href="/POLO-Ralph-Lauren-Kids/_/N-1z13k7lZv2wq/list.fly">POLO Ralph Lauren Kids</a></li>
+						<li><a href="/Prada-Kids/_/N-1z140m7Zv2wq/list.fly">Prada Kids</a></li>
+						<li><a href="/Ralph-Lauren-Kids/_/N-1z13vphZv2wq/list.fly">Ralph Lauren Kids</a></li>
+						<li><a href="/Scervino-Kids/_/N-1z14060Zv2wq/list.fly">Scervino Kids</a></li>
+						<li><a href="/Timberland-Kids/_/N-1z13g5wZv2wq/list.fly">Timberland Kids</a></li>
+						<li><a href="/Tod-s-Kids/_/N-1z13zpyZv2wq/list.fly">Tod's Kids</a></li>
+						<li><a href="/Tommy-Hilfiger-Kids/_/N-1z13jbsZv2wq/list.fly">Tommy Hilfiger Kids</a></li>
+						<li><a href="/Vilebrequin-Kids/_/N-1z140afZv2wq/list.fly">Vilebrequin Kids</a></li>
+					</ul>
+				</li>
+              </ul>
+            </div>
+		  </li>
+		  <li id="main-nav-gifts" class="main-nav-category">
+            <a class="main-nav-link-gifts main-nav-link" href="/custom/custom.jsp?promoId=m1650564">Gifts</a>
+              <div class="subcategory-nav category-nav-gifts">
+                <ul class="main-nav-dropdown">
+                  <li><h3 class="main-nav-category-header"><a href="/custom/custom.jsp?promoId=m1650564">Gifts for Her</a></h3></li>
+                  <li><a href="/Designer-Under-100/_/N-s2u8/list.fly">Under $100</a></li>
+                  <li><a href="/Designer-Cashmere/_/N-s2tw/list.fly">Cashmere</a></li>
+                  <li><a href="/Designer-Fur-Shearling/_/N-s2ua/list.fly">Fur &amp; Shearling</a></li>
+                  <li><a href="/Designer-Handbags-Small-Goods/_/N-s2tu/list.fly">Handbags &amp; Small Goods</a></li>
+                  <li><h3 class="main-nav-category-header"><a href="/custom/custom.jsp?promoId=m1650563">Gifts for Him</a></h3></li>
+                  <li><a href="/Designer-Under-100/_/N-s2uo/list.fly">Under $100</a></li>
+                  <li><a href="/Designer-Cashmere/_/N-s2uc/list.fly">Cashmere</a></li>
+                  <li><a href="/Designer-Dress-Shirts-Ties/_/N-s2ug/list.fly">Dress Shirts &amp; Ties</a></li>
+                  <li><a href="/Designer-Coats/_/N-s2ue/list.fly">Coats</a></li>
+                </ul>
+              </div>
+          </li>
+          <li id="main-nav-new" class="main-nav-category">
+            <a class="main-nav-link-new main-nav-link" href="/New-Arrivals/_/N-1aaqZapsz/newarrivals.fly">New</a>      
+          </li>
+          <li id="main-nav-sale" class="main-nav-category">
+            <a class="main-nav-link-sale main-nav-link" href="/a/designer-sale">Sale</a>
+          </li>
+          <li id="main-nav-designers" class="main-nav-category">
+            <a class="main-nav-link-designers main-nav-link" href="/designers.fly">Designers</a>
+            <ul class="main-nav-dropdown category-nav-designers">
+              <li><h3 class="main-nav-header">top designers</h3></li>
+              <li class="designerName"><a href="/designer/bcbgmaxazria">BCBGMAXAZRIA</a></li>
+              <li class="designerName"><a href="/designer/christian-louboutin">Christian Louboutin</a></li>
+              <li class="designerName"><a href="/designer/cole-haan">Cole Haan</a></li>
+              <li class="designerName"><a href="/designer/fendi">Fendi</a></li>
+              <li class="designerName"><a href="/designer/gucci">Gucci</a></li>
+              <li class="designerName"><a href="/designer/marc-jacobs">Marc Jacobs</a></li>
+			  <li class="designerName"><a href="/designer/michael-kors">Michael Kors</a></li>
+			  <li class="designerName"><a href="/designer/michael-michael-kors">MICHAEL Michael Kors</a></li>
+              <li class="designerName"><a href="/designer/prada">Prada</a></li>
+			  <li class="designerName"><a href="/designer/salvatore-ferragamo">Salvatore Ferragamo</a></li>
+              <li class="designerName"><a href="/designer/tods">Tod's</a></li>
+			  <li class="designerName"><a href="/designer/tory-burch">Tory Burch</a></li>
+              <li><h3 class="main-nav-header">all designers</h3></li>
+              <li class="designerAlpha"><a href="/designers/designer-0">#</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-A">A</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-B">B</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-C">C</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-D">D</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-E">E</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-F">F</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-G">G</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-H">H</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-I">I</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-J">J</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-K">K</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-L">L</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-M">M</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-N">N</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-O">O</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-P">P</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-Q">Q</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-R">R</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-S">S</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-T">T</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-U">U</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-V">V</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-W">W</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-X">X</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-Y">Y</a></li>
+              <li class="designerAlpha"><a href="/designers/designer-Z">Z</a></li>
+              <li class="designerAlpha textAll"><a href="/designers.fly">ALL</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+     
+      <!-- MAIN NAV ENDS -->
+	  
+<script language="JavaScript" type="text/javascript">
       <!--
       String.prototype.trim = function() {
          // skip leading and trailing whitespace and return everything in between
@@ -231,355 +639,9 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
        }
 
       //-->
-  </script>
+</script>
 
-
-    <div id="topnavBfly">
-      <div id="topnavRow1">
-        <div id="navWelcome">
-           
-              
-              
-              
-              
-              
-           
-              
-              
-              
-              
-              
-                 Welcome to Bluefly, <a title="login" href="/myfly/login.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10">login</a> or register
-                 <a title="register" href="/myfly/login.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10">here</a>
-              
-           
-        </div>
-        <div>
-           <ul id="navAccount">
-              
-                 
-                 
-                 
-                 
-              
-                 
-                 
-                 
-                 
-                   <li id="navHome">
-                     <a href="/" title="Home">Home</a>
-                   </li>
-                 
-              
-              <li id="navFlypaper"><a href="http://flypaper.bluefly.com">Flypaper</a></li>
-              <li id="navFlyTV"><a href="/custom/custom.jsp?promoId=m1470194">FlyTV</a></li>
-              <li id="navCS"><a href="/custom/custom.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10?promoId=m480129">Customer Service</a></li>
-              <li id="navMyaccount">
-                <a href="/myfly/my_fly.jsp" value="/myfly/my_bluefly_custom.jsp" onclick="checkHeadStat(this);return false;">my fly</a>
-              </li>
-           </ul>
-        </div>
-        <!-- Changing to id="navShopBagFull"  when items are in the shopping bag -->
-
-        
-           
-           
-           
-        
-           
-           
-              <div id="navShopBag">
-                 <a title="shopping bag" href="/cart/cart.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10">
-                  <span id="textShopBag">Shopping Bag</span>
-                 </a>
-              </div>
-           
-           
-        
-
-        
-           
-           
-        
-           
-           
-              <div id="textShopQty">[0]</div>
-           
-        
-      </div> <!-- end topnavRow1 -->
-
-      
-        
-        
-        
-      
-        
-        
-          
-            
-            
-            
-          
-            
-            
-            
-              <div id="topnavRow2">
-	<div id="navLogo">
-	<a href="/" title="">Bluefly - the ultimate hook-up for the fashion obsessed.</a>
-	</div>
-	<div id="navSearch">
-	<form name="keyword_search_0" method="GET" action="/search/results" onsubmit="return(submit_search_form('keyword_search_0'));">
-	<input type="hidden" name="N" id="NField" value="1aaq">
-	<input type="text" name="Ntt" size="25" class="input" id="searchterms" value="search bluefly" onfocus="if (this.value == this.defaultValue) { this.value = ''; }" onblur="if (this.value == '') { this.value = this.defaultValue; }">
-	<input type="image" name="submit" src="http://cdn.media.bluefly.com/media/templates/images/topnav/tn_search_button.gif" class="searchbutton">
-	</form>
-	</div>
-	<div id="shipmessage">
-	
-	</div>
-</div><!-- end topnavRow2 -->
- <div id="topnavRow3v1">
-      <ul id="siteNav1">
-          <li id="navWom" class="navCat">
-            <a class="a_navWom a_menuItem" href="/a/women-clothing">Women</a>
-              <div class="navCatSubMenu navWomSub">
-                <ul class="dropDownMenu">
-                  <li><h3 class="mainTitle">Shop Categories</h3></li>
-                  <li><a href="/Designer-Activewear/_/N-o0sa/list.fly">Activewear</a></li>
-                  <li><a href="/Designer-Blazers-Jackets-Vests/_/N-ffq/list.fly">Blazers, Jackets &amp; Vests</a></li>
-                  <li><a href="/Designer-Blouses/_/N-fg4/list.fly">Blouses</a></li>
-                  <li><a href="/a/cashmere-shop">Cashmere</a></li>
-                  <li><a href="/Designer-Coats-Outerwear/_/N-ffu/list.fly">Coats &amp; Outerwear</a></li>
-                  <li><a href="/a/denim-jeans-shop">Denim</a></li>
-                  <li><a href="/a/dress-shop">Dresses</a></li>
-                  <li><a href="/Designer-Intimates-Sleepwear/_/N-fg0/list.fly">Intimates &amp; Sleepwear</a></li>
-                  <li><a href="/Designer-Leggings/_/N-fkg/list.fly">Leggings</a></li>
-                  <li><a href="/Designer-Pants-Leggings/_/N-fg2/list.fly">Pants &amp; Jumpsuits</a></li>
-                  <li><a href="/Designer-Shorts/_/N-fg8/list.fly">Shorts &amp; Rompers</a></li>
-                  <li><a href="/Designer-Skirts/_/N-fga/list.fly">Skirts</a></li>
-                  <li><a href="/Designer-Sweaters/_/N-1pql/list.fly">Sweaters</a></li>
-                  <li><a href="/Designer-Swimwear/_/N-fge/list.fly">Swimwear</a></li>
-                  <li><a href="/Designer-Suits/_/N-oneo/list.fly">Suits</a></li>
-                  <li><a href="/a/tops-tees-shop">Tops &amp; Tees</a></li>
-                  <li><a href="/a/coupons">Bluefly Coupons</a></li>
-                </ul>
-              </div>
-          </li>
-          <li id="navSho" class="navCat">
-            <a class="a_navSho a_menuItem" href="/a/shoes">Shoes</a>
-              <div class="navCatSubMenu navShoesSub">
-                <ul class="dropDownMenu">
-                  <li><h3 class="mainTitle">Shop Categories</h3></li>
-                  <li><h3 class="catTitle"><a href="/Designer-Shoes/_/N-fg6/list.fly">Shoes</a></h3></li>
-                  <li><a href="/a/boots-shop">Boot Shop</a></li>
-                  <li><a href="/Designer-Loafers-Flats/_/N-fs8/list.fly">Loafers &amp; Flats</a></li>
-                  <li><a href="/Designer-Pumps-High-Heels/_/N-fsa/list.fly">Pumps &amp; High Heels</a></li>
-                  <li><a href="/Designer-Sandals/_/N-fsc/list.fly">Sandals</a></li>
-                  <li><a href="/Designer-Sneakers/_/N-fsg/list.fly">Sneakers</a></li>
-                  <li><a href="/a/coupons">Bluefly Coupons</a></li>
-                </ul>                
-              </div>
-          </li>
-          <li id="navHba" class="navCat">
-            <a class="a_navHba a_menuItem" href="/a/handbags-accessories">Handbags &amp; Accessories</a>
-              <div class="navCatSubMenu navHbaSub">
-                <ul class="dropDownMenu">
-                  <li><h3 class="mainTitle">Shop Categories</h3></li>
-                  <li><h3 class="catTitle"><a href="/Designer-Handbags/_/N-frg/list.fly">Handbags</a></h3></li>
-                  <li><a href="/Designer-Clutches-Wristlets/_/N-fri/list.fly">Clutches &amp; Wristlets</a></li>
-                  <li><a href="/Designer-Messenger-Cross-body-Bags/_/N-inde/list.fly">Messenger &amp; Crossbody Bags</a></li>
-                  <li><a href="/Designer-Shoulder-Bags-Hobos/_/N-frm/list.fly">Shoulder Bags &amp; Hobos</a></li>
-                  <li><a href="/Designer-Totes-Top-Handles/_/N-fru/list.fly">Totes &amp; Top Handles</a></li>
-                  <li><h3 class="catTitle"><a href="/Designer-Accessories/_/N-1abe/list.fly">Accessories</a></h3></li>
-                  <li><a href="/Designer-Belts/_/N-fh2/list.fly">Belts</a></li>
-                  <li><a href="/Designer-Hats-Gloves-Scarves/_/N-fh8/list.fly">Hats, Gloves &amp; Scarves</a></li>
-                  <li><a href="/Designer-Small-Goods/_/N-fhc/list.fly">Small Goods</a></li>
-                  <li><a href="/custom/custom.jsp?promoId=m1610037">Sunglass Shop</a></li>
-                  <li><a href="/Designer-Wallets/_/N-fhg/list.fly">Wallets</a></li>
-                  <li><a href="/a/coupons">Bluefly Coupons</a></li>
-                </ul>
-              </div>
-          </li>
-          <li id="navJwl" class="navCat">
-            <a class="a_navJwl a_menuItem" href="/a/jewelry-shop">Jewelry</a>
-              <div class="navCatSubMenu navJwlSub">
-                <ul class="dropDownMenu">
-                  <li><h3 class="mainTitle">Shop Categories</h3></li>
-                  <li><a href="/Designer-Fashion-Jewelry/_/N-1abg/list.fly">Fashion Jewelry</a></li>
-                  <li><a href="/Designer-Fine-Jewelry/_/N-mq1y/list.fly">Fine Jewelry</a></li>
-                  <li><a href="/Designer-Estate-Jewelry/_/N-rv5x/list.fly">Estate Jewelry</a></li>
-                  <li><h3 class="catTitle"><a href="/Designer-Diamond-Shop/_/N-rv6b/list.fly">Shop Diamonds</a></h3></li>
-                  <li><a href="/Designer-Bracelets/_/N-rv6d/list.fly">Diamond Bracelets</a></li>
-                  <li><a href="/Designer-Earrings/_/N-rv6f/list.fly">Diamond Earrings</a></li>
-                  <li><a href="/Designer-Necklaces/_/N-rv6h/list.fly">Diamond Necklaces</a></li>
-                  <li><a href="/Designer-Rings/_/N-rv6j/list.fly">Diamond Rings</a></li>
-                </ul>
-              </div>
-          </li>
-          <li id="navBea" class="navCat">
-            <a class="a_navBea a_menuItem" href="/a/beauty-fragrance">Fragrance</a>
-              <div class="navCatSubMenu navBeaSub">
-                <ul class="dropDownMenu">
-                  <li><h3 class="mainTitle">Shop Categories</h3></li>
-                  <li><h3 class="catTitle"><a href="/Designer-Women/_/N-nd54/list.fly">FOR HER</a></h3></li>
-                  <li><a href="/Designer-Fragrance/_/N-nd5i/list.fly">Fragrance</a></li>
-                  <li><a href="/Designer-Bath-Body/_/N-nd5a/list.fly">Bath &amp; Body</a></li>
-                  <li><h3 class="catTitle"><a href="/Designer-Men/_/N-nd60/list.fly">FOR HIM</a></h3></li>
-                  <li><a href="/Designer-Mens-Fragrance/_/N-nd6c/list.fly">Cologne</a></li>
-                  <li><a href="/Designer-Mens-Shower-Body/_/N-nd64/list.fly">Shower &amp; Body</a></li>
-                </ul>
-              </div>
-          </li>
-          <li id="navMen" class="navCat">
-            <a class="a_navMen a_menuItem" href="/a/men-clothing-shoes-accessories">Men</a>
-              <div class="navCatSubMenu navMenSub">
-                <ul class="dropDownMenu">
-                  <li class="menuMenSub">
-                  <h3 class="mainTitle 2colTitle">Shop Categories</h3>
-                    <ul class="col1">
-                      <li><h3 class="catTitle">APPAREL</h3></li>
-                      <li><a href="/Designer-Mens-Blazers/_/N-7q2/list.fly">Blazers &amp; Jackets</a></li>
-                      <li><a href="/Designer-Mens-Cashmere/_/N-7q4/list.fly">Cashmere</a></li>
-                      <li><a href="/Designer-Mens-Coats-Jackets/_/N-7q6/list.fly">Coats &amp; Outerwear</a></li>
-                      <li><a href="/Designer-Mens-Denim/_/N-fms/list.fly">Denim</a></li>
-                      <li><a href="/Designer-Mens-Pants/_/N-1ab3/list.fly">Pants</a></li>
-                      <li><a href="/Designer-Mens-Shirts-Casual/_/N-7qe/list.fly">Shirts - Casual</a></li>
-                      <li><a href="/Designer-Mens-Shirts-Dress/_/N-1ab1/list.fly">Shirts - Dress</a></li>
-                      <li><a href="/Designer-Mens-Shorts/_/N-7qi/list.fly">Shorts</a></li>
-                      <li><a href="/Designer-Mens-Suits/_/N-7qk/list.fly">Suits</a></li>
-                      <li><a href="/Designer-Mens-Sweaters/_/N-1aay/list.fly">Sweaters</a></li>
-                      <li><a href="/Designer-Mens-Swimwear/_/N-7qo/list.fly">Swimwear</a></li>
-                      <li><a href="/Designer-Mens-T-Shirts/_/N-7qs/list.fly">T-Shirts</a></li>
-                      <li><a href="/Designer-Mens-Track-Jackets-Hoodies/_/N-fn6/list.fly">Track Jackets &amp; Hoodies</a></li>
-                      <li><a href="/Designer-Mens-Underwear/_/N-7qu/list.fly">Underwear</a></li>
-                    </ul>
-                    <ul class="col2">
-                      <li><h3 class="catTitle"><a href="/Designer-Mens-Shoes/_/N-7qg/list.fly">MENS SHOES</a></h3></li>
-                      <li><a href="/Designer-Mens-Boots/_/N-ftk/list.fly">Boots</a></li>
-                      <li><a href="/Designer-Mens-Loafers-Slip-ons/_/N-ftm/list.fly">Loafers &amp; Slip-ons</a></li>
-                      <li><a href="/Designer-Mens-Oxfords/_/N-fto/list.fly">Oxfords</a></li>
-                      <li><a href="/Designer-Mens-Sandals/_/N-ftq/list.fly">Sandals</a></li>
-                      <li><a href="/Designer-Mens-Sneakers/_/N-fti/list.fly">Sneakers</a></li>
-                      <li><h3 class="catTitle">ACCESSORIES</h3></li>
-                      <li><a href="/Designer-Mens-Bags-Briefcases/_/N-7pw/list.fly">Bags &amp; Briefcases</a></li>
-                      <li><a href="/Designer-Mens-Belts/_/N-7q0/list.fly">Belts</a></li>
-                      <li><a href="/Designer-Mens-Hats-Gloves-Scarves/_/N-7qa/list.fly">Hats, Gloves &amp; Scarves</a></li>
-                      <li><a href="/Designer-Mens-Cufflinks/_/N-foy/list.fly">Jewelry &amp; Cufflinks</a></li>
-                      <li><a href="/Designer-Mens-Sunglasses/_/N-7qm/list.fly">Sunglasses</a></li>
-                      <li><a href="/Designer-Mens-Ties/_/N-7qq/list.fly">Ties</a></li>
-                      <li><a href="/Designer-Mens-Wallets/_/N-7qw/list.fly">Wallets</a></li>
-                    </ul>
-                  </li>                  
-                </ul>
-              </div>
-          </li>
-		  <li id="navKids" class="navCat">
-            <a class="a_navKids a_menuItem" href="/Designer-Kids/_/N-v2wq/list.fly">Kids</a>
-			  <div class="navCatSubMenu navKidsSub">
-                <ul class="dropDownMenu">
-                  <li><h3 class="mainTitle">Shop Designers</h3></li>
-                  <li><a href="/Burberry-Kids/_/N-1z14073Zv2wq/list.fly">Burberry Kids</a></li>
-                  <li><a href="/Moncler-Kids/_/N-1z140iiZv2wq/list.fly">Moncler Kids</a></li>
-                  <li><a href="/POLO-Ralph-Lauren-Kids/_/N-1z13k7lZv2wq/list.fly">POLO Ralph Lauren Kids</a></li>
-                  <li><a href="/Gucci-Kids/_/N-1z140oaZv2wq/list.fly">Gucci Kids</a></li>
-				  <li><a href="/Tommy-Hilfiger-Kids/_/N-1z13jbsZv2wq/list.fly">Tommy Hilfiger Kids</a></li>
-				  <li><a href="/D-G-Kids/_/N-1z13z58Zv2wq/list.fly">D&amp;G Kids</a></li>
-                </ul>
-              </div>
-          </li>
-          <li id="navTre" class="navCat">
-            <a class="a_navTre a_menuItem" href="/a/trends">Trends</a>
-          </li>
-          <li id="navNew" class="navCat">
-            <a class="a_navNew a_menuItem" href="/custom/custom.jsp?promoId=m1580093">New Arrivals</a>      
-          </li>
-          <li id="navSal" class="navCat">
-            <a class="a_navSal a_menuItem" href="/a/designer-sale">Sale</a>
-          </li>
-          <li id="navDes" class="navCat">
-            <a class="a_navDes a_menuItem" href="/designers.fly">Designers</a>
-            <ul class="dropDownMenu navDesSub">
-              <li><h3 class="mainTitle">top designers</h3></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/bcbgmaxazria">BCBGMAXAZRIA</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/christian-louboutin">Christian Louboutin</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/cole-haan">Cole Haan</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/fendi">Fendi</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/gucci">Gucci</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/marc-jacobs">Marc Jacobs</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/prada">Prada</a></li>
-			  <li class="designerName"><a href="http://www.bluefly.com/designer/salvatore-ferragamo">Salvatore Ferragamo</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/tods">Tod's</a></li>
-              <li><h3 class="mainTitle">all designers</h3></li>
-              <li class="designerAlpha"><a href="/designers/designer-0">#</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-A">A</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-B">B</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-C">C</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-D">D</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-E">E</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-F">F</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-G">G</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-H">H</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-I">I</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-J">J</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-K">K</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-L">L</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-M">M</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-N">N</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-O">O</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-P">P</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-Q">Q</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-R">R</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-S">S</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-T">T</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-U">U</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-V">V</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-W">W</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-X">X</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-Y">Y</a></li>
-              <li class="designerAlpha"><a href="/designers/designer-Z">Z</a></li>
-              <li class="designerAlpha textAll"><a href="/designers.fly">ALL</a></li>
-            </ul>
-          </li>
-      </ul>
-      </div>
-      <script type="text/javascript">
-	  
-      function makeMenu(){
-		  $(".navCatSubMenu").hide();
-		  var timeout;
-		  
-          jQuery(".navCat").hover(function(){		  
-              var bgPos = jQuery(this).children("a.a_menuItem").css("backgroundPosition");
-              if(bgPos == 'undefined' || bgPos == null){
-                  bgPos = jQuery(this).children("a.a_menuItem").css('background-position-x') + " " + jQuery(this).children("a.a_menuItem").css('background-position-y');
-              }			
-              var bgPoss = bgPos.split(" ");
-              jQuery(this).children("a.a_menuItem").css("backgroundPosition",bgPoss[0]+" -30px");
-			  var menuOver = jQuery(this).children(".navCatSubMenu");
-			  timeout = setTimeout( function() {	
-				menuOver.show();
-			  }, 2500 );
-			  
-          }, 
-		  function(){
-              var bgPos = jQuery(this).children("a.a_menuItem").css("backgroundPosition");
-              if(bgPos == 'undefined' || bgPos == null){
-                  bgPos = jQuery(this).children("a.a_menuItem").css('background-position-x') + " " + jQuery(this).children("a.a_menuItem").css('background-position-y');
-              }
-              var bgPoss = bgPos.split(" ");
-              jQuery(this).children("a.a_menuItem").css("backgroundPosition",bgPoss[0]+" 0px");
-              jQuery(this).children("a.a_menuItem").css("opacity","1");		  
-              jQuery(this).children(".navCatSubMenu").hide();
-			  
-              clearTimeout(timeout);
-			  var menuOver = jQuery(this).children(".navCatSubMenu");
-			  menuOver.hide();
-          });
-      }
-      makeMenu();
-	  
-      </script><!-- end topnavRow3 -->
-
+<!-- end top navi non-secure m1660014 -->      
             
           
         
@@ -593,7 +655,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
   <div id="myfly_rightNav" class="draggable">
     <div id="myfly_rightNav_heading" class="myfly_heading">
       <span class="myfly_heading_titleText">
-            <a href="/myfly/my_fly.jsp" value="/myfly/my_bluefly_custom.jsp" onclick="checkHeadStat(this);return false;">
+            <a href="/myfly/my_fly.jsp" rel="nofollow" value="/myfly/my_bluefly_custom.jsp" onclick="checkHeadStat(this);return false;">
         <span class="rnimg">
           <img src="http://cdn.www.bluefly.com/media/templates/images/mybluefly/myfly-rightnav-logo.PNG">
         </span>
@@ -708,13 +770,44 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
             
             
               <!-- begin global header content -->
-<!-- This is blank -->
+<div id="global-header-promos" class="clearfix">
+     <ul id="rotating-sale-message" class="sale-dynamic-message">
+           <li class="dynamic-message-item">
+               <h2 class="main-sale-message">Cold Weather Sale!</h2>
+               <h3 class="desc-sale-message">Now up to 80% off.</h3>
+               <ul class="link-sale-message">
+                 <li><a href="/custom/custom.jsp?promoId=m2290406">Shop Now</a></li>
+               </ul>
+           </li>
+
+           <li class="dynamic-message-item">
+               <h2 class="main-sale-message">Holiday Gift Guide</h2>
+               <h3 class="desc-sale-message"></h3>
+               <ul class="link-sale-message">
+                 <li><a href="/custom/custom.jsp?promoId=m1650564">Shop Women</a></li>
+                 <li><a href="/custom/custom.jsp?promoId=m1650563">Shop Men</a></li>
+               </ul>
+           </li>
+     </ul>
+   <div class="sale-static-message">
+     <h2 class="main-sale-static-message">
+		<a onclick="window.open('/media/templates/html/popups/freeship_details_over_150.html','popup','width=475,height=580,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=0'); return false" href="/media/templates/html/popups/freeship_details_over_150.html">
+		 Free Shipping on Orders over $150
+		</a>
+		- code <strong>SHIP150</strong>
+	 </h2>
+   </div>
+</div>
 <!-- end global header content -->
+
             
           
           </div>
       
     
+
+</header>
+
 
 
       
@@ -746,8 +839,8 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
 			<div class="help_text">
 	
        <h1>Privacy Notice</h1>
-            <p>This website (the "Website") is owned, operated and distributed by Bluefly, Inc., a Delaware corporation ("Bluefly").  BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE BLUEFLY CONDITIONS OF USE (THE "CONDITIONS OF USE"). <b>IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE WEBSITE.</b> This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are purchasing goods through the Website.</p>
-			<p>Bluefly may, at its sole discretion, modify this Privacy Policy at any time.  By accessing the Website at any time after such modifications, you are agreeing to such modifications.  This Privacy Policy was last modified as of July 27, 2011.</p>
+            <p>This website (the "Website") is owned, operated and distributed by Bluefly, Inc., a Delaware corporation ("Bluefly").  Bluefly also owns the website located at www.belleandclive.com and information provided  to Bluefly on this Website may also be used on www.belleandclive.com as well as other websites owned by Bluefly or its subsidiaries. BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE BLUEFLY CONDITIONS OF USE (THE "CONDITIONS OF USE"). <b>IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE WEBSITE.</b> This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are purchasing goods through the Website.</p>
+			<p>Bluefly may, at its sole discretion, modify this Privacy Policy at any time.  By accessing the Website at any time after such modifications, you are agreeing to such modifications.  This Privacy Policy was last modified as of July 2012.</p>
             <h2>What Personally Identifiable Information Does Bluefly Collect?</h2>
             <p>Bluefly collects the following types of personally identifiable information from you:</p>
 			<ul>
@@ -878,185 +971,175 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
         
         
         
-          <!-- begin footer navi non-secure -->
-<style>
-#social_bar_new{ height:97px; margin:0; padding:0; width:859px; }
-.social_bar_left{ float:left; position:relative; border:1px solid #52a1d5; height:95px; width: 650px; }
-.social_bar_right{ float:right; margin-left:5px; position:relative; }
+          <!-- begin footer navi non-secure m1660015 -->
 
-#social_bar_contents {padding: 2px 5px;}
-#social_bar_contents div {float:left; text-align:left; margin-left:1px;}
-#social_bar_contents img {vertical-align:top; float:left; padding: 0 5px 0 0;}
-#social_bar_contents a {color:#626161; line-height:1.3em; }
-#social_bar_contents iframe {margin-top:8px;}
-#social_bar_contents strong {color:#626161;}
-
-#social_signup{width: 170px;}
-#social_fb_like{ width:175px; }
-#social_twitter { width: 155px; }
-#social_app {width: 130px;}
-</style>
-<div id="footerBflyv1">
-
-	<a href="http://www.belleandclive.com/?partner=bluefly_site&amp;referer=bluefly_site&amp;utm_source=bluefly&amp;utm_medium=site&amp;utm_campaign=takealook&amp;cm_mmc=bluefly-_-Evergreen-_-site-_-takealook" target="_blank" style="display:block; margin-bottom:5px"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/04.26_BC_BrandingBanner_859x139.gif"></a>
-
-
-	<div id="social_bar_new">
-	
-		<div class="social_bar_left">
-		<div id="social_header_img"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/social_footer_header.png" alt="Fly Access" border="0" width="650" height="35"></div>
-		<div id="social_bar_contents"> 
-			<div id="social_signup">
-				<a href="/myfly/partner_email_subscription.jsp?partner=website_registration_footer" alt="Get Bluefly Alerts" title="Get Bluefly Alerts" rel="nofollow"><img src="/media/templates/images/footer/social_new/email-icon.png" alt="Get Bluefly Alerts" border="0">Sign up for Bluefly email alerts &amp; save <strong>$20 off first order</strong></a>
-			</div>
-			<div id="social_fb_like">
-				<a href="http://www.facebook.com/bluefly" alt="Bluefly on Facebook" title="Bluefly on Facebook"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/fb-icon.png" alt="Bluefly on Facebook" border="0">Bluefly on Facebook</a>
-				<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fbluefly&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
-			</div>
-			<div id="social_twitter">
-				<a href="http://www.twitter.com/bluefly_com" alt="Follow us on Twitter" title="Follow us on Twitter"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/twitter-icon.png" alt="Follow us on Twitter" border="0">Bluefly on Twitter</a>
-				<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script><a href="https://twitter.com/bluefly_com" class="twitter-follow-button" data-button="grey" data-width="100px" data-show-count="false">Follow</a>
-			</div>
-			<div id="social_app">
-				<a href="/custom/custom.jsp?promoId=m1640028" alt="Download our iPhone and iPad apps" title="Download our iPhone and iPad apps"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/ios_apps-icon.png" alt="Download our iPhone and iPad apps" border="0">Download: iPhone app <br>iPad app</a>
-			</div>
-			<div class="clearFloat" style="clear:both"></div>
-		</div>
-		</div>
-		<div class="social_bar_right">
-		<a href="http://www.eyefly.com/?utm_source=bluefly&amp;utm_medium=website&amp;utm_term=smallf&amp;utm_content=fyl&amp;utm_campaign=w2012&#10;"><img src="http://cdn.media.bluefly.com/media/promotions/images/eyefly/120120_O_HOME_Eyefly_MarketingBox_1.jpg" width="200" height="97" alt="Eyefly" border="0"></a>
-		</div>
-	</div>
-   <div id="bflyQuickLinks">
-		<div id="bflyQL_header">
-			<span id="bflyQL_head">bluefly quick links:</span>
-		</div>
-
-		<div id="bflyQL_content">
-			<div id="QLfirstCol" class="QLCol">
-				<ul id="bflyQL_dep">
-					<li class="QLlistHead">departments:</li>
-					<li><a href="/a/women-clothing">women</a></li>
-					<li><a href="/a/shoes">shoes</a></li>
-					<li><a href="/a/handbags-accessories">handbags &amp; accessories</a></li>
-					<li><a href="/a/men-clothing-shoes-accessories">men</a></li>
-					<li><a href="/a/trends">trends</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m1580093">new arrivals</a></li>
-					<li><a href="/a/designer-sale">sale</a></li>
-					<li><a href="http://www.eyefly.com/?utm_source=bluefly&amp;utm_medium=website&amp;utm_term=footer&amp;utm_content=creative1&amp;utm_campaign=Spring_2011">eyefly</a></li>
-				</ul>
-				<ul id="bflyQL_men">
-					<li class="QLlistHead"><a href="/a/men-clothing-shoes-accessories">shop men:</a></li>
-
-					<li><a href="/Designer-Mens-Shirts-Casual/_/N-7qe/list.fly">casual shirts</a></li>
-					<li><a href="/Designer-Mens-Coats-Jackets/_/N-7q6/list.fly">coats</a></li>
-					<li><a href="/Designer-Mens-Denim/_/N-fms/list.fly">jeans</a></li>
-					<li><a href="/Designer-Mens-Shoes/_/N-7qg/list.fly">shoes</a></li>
-					<li><a href="/Designer-Mens-Suits/_/N-7qk/list.fly">suits</a></li>
-					<li><a href="/Designer-Mens-Sweaters/_/N-1aay/list.fly">sweaters</a></li>
-
-				</ul>
-			</div>
-			<div id="QLsecondCol" class="QLCol">
-				<ul id="bflyQL_wom">
-					<li class="QLlistHead"><a href="/a/women-clothing">shop women:</a></li>
-					<li><a href="/Designer-Accessories/_/N-1abe/list.fly">accessories</a></li>
-					<li><a href="/a/cashmere-shop">cashmere</a></li>
-					<li><a href="/Designer-Coats-Outerwear/_/N-ffu/list.fly">coats</a></li>
-					<li><a href="/a/dress-shop">dresses</a></li>
-					<li><a href="/Designer-Handbags/_/N-frg/list.fly">handbags</a></li>
-					<li><a href="/a/denim-jeans-shop">jeans</a></li>
-					<li><a href="/a/shoes">shoes</a></li>
-					<li><a href="/Designer-Sweaters/_/N-1pql/list.fly">sweaters</a></li>
-					<li><a href="/a/tops-tees-shop">tops &amp; tees</a></li>
-				</ul>
-				<ul id="bflyQL_blog">
-					<li class="QLlistHead">just for fun:</li>
-					<li><a href="http://flyandmighty.com/">fly &amp; mighty </a></li>
-					<li><a href="/custom/custom.jsp?promoId=m1470194">bluetube</a></li>
-					<li><a rel="nofollow" href="/flyorbye/faceoff.jsp">fly or bye</a></li>
-					<li><a rel="nofollow" href="/roulette/outfitroulette.jsp">outfit roulette</a></li>
-					<li><a href="http://blog.eyefly.com/" title="Eyefly Blog">eye on the street</a></li>
-				</ul>
-			</div>
-			<div id="QLthirdCol" class="QLCol">
-				<ul id="bflyQL_hot">
-					<li class="QLlistHead"><a href="/designers.fly">hot designers:</a></li>
-					<li><a href="/designer/christian-louboutin">christian louboutin</a></li>
-
-					<li><a href="/designer/prada">prada</a></li>
-					<li><a href="/designer/cole-haan">cole haan</a></li>
-					<li><a href="/designer/gucci">gucci</a></li>
-					<li><a href="/designer/michael-kors">michael kors</a></li>
-					<li><a href="/designer/marc-by-marc-jacobs">marc by marc jacobs</a></li>
-					<li><a href="/designer/fendi">fendi</a></li>
-
-					<li><a href="/designer/bcbgmaxazria">bcbgmaxazria</a></li>
-					<li><a href="/designer/stuart-weitzman">stuart weitzman</a></li>
-					<li class="QLBold"><a href="/designers.fly">all designers</a></li>
-				</ul>
-			</div>
-			<div id="QLfourthCol" class="QLCol">
-				<ul id="bflyQL_cust">
-
-					<li class="QLlistHead"><a href="/custom/custom.jsp?promoId=m480129">customer service:</a></li>
-					<li><a href="/myaccount/order_detail_anon.jsp" rel="nofollow">order status</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480232">returns</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480130">shipping</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480128">international</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480132" rel="nofollow">security guarantee</a></li>
-
-					<li><a href="/custom/custom.jsp?promoId=m1930248">privacy policy</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480129">FAQ</a></li>
-					<li class="QLBold"><a href="/custom/custom.jsp?promoId=m480012">contact us</a></li>
-				</ul>
-			</div>
-			<div id="QLfifthCol" class="QLCol">
-				<ul id="bflyQL_about">
-
-					<li class="QLlistHead"><a href="/custom/custom.jsp?promoId=m480134">about bluefly:</a></li>
-
-					<li><a href="/custom/custom.jsp?promoId=m480134">all about bluefly</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480014">what we sell</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480139">careers</a></li>
-					<li><a href="/custom/custom.jsp?promoId=m480136">affiliate program</a></li>
-				</ul>
-
-				<ul id="bflyQL_sty">
-					<li class="QLlistHead">stay connected:</li>
-					<li><a href="http://www.facebook.com/Bluefly">bluefly on facebook</a></li>
-					<li><a href="http://twitter.com/bluefly_com">bluefly on twitter</a></li>
-					<li><a href="/myaccount/email_subscription.jsp?" rel="nofollow">bluefly email</a></li>
-
-				</ul>
-			</div>
-			<div id="QLbotCol" class="QLLongCol">
-				<ul id="bflyQL_link">
-					<li class="QLlistHead">quick links:</li>
-					<li><a href="/Designer-Boots/_/N-fs0/list.fly">designer boots</a>, <a href="/Designer-Dresses/_/N-1ab7/list.fly">designer dresses</a>, <a href="/Designer-Coats-Outerwear/_/N-ffu/list.fly">designer coats</a>, <a href="/designers.fly">designer brands</a>,</li>
-
-					<li><a href="/Designer-Denim-Shop/_/N-bkou/list.fly">designer jeans</a>, <a href="/Designer-Handbags/_/N-frg/list.fly">designer handbags</a>, <a href="/a/shoes">designer shoes</a>, <a href="/Designer-Cashmere/_/N-ffs/list.fly">cashmere sweaters</a>,</li>
-					<li><a href="/a/trends">fashion trends</a>, <a href="/Designer-Little-Black-Dresses/_/N-lfs4/list.fly">little black dress</a>, <a href="/closets/archives">celebrity closets</a>, <a href="http://www.bluefly.com/a/coupons">bluefly coupons </a></li>
-
-				</ul>
-			</div>
-		</div>
-   </div>
-   
-   <div id="footerLegalv1"> 
-      <div class="BflyfooterTextSmall" align="center">
-	  ©1998-<script type="text/javascript">document.write(new Date().getFullYear());</script>2020, Bluefly, Inc. | Bluefly (BFLY) is a NASDAQ SMALLCAP Company | <a href="/custom/custom.jsp?promoId=m480141" rel="nofollow">Conditions of Use</a> | <a href="/custom/custom.jsp?promoId=m480140">Site Index</a></div>
-
-	  <img src="http://cdn.media.bluefly.com/media/templates/images/footer/bluefly_icon.gif" width="28" height="26" alt=""><br>
-   </div>
+<div class="global-footer-promo">
+   <a href="http://www.belleandclive.com/?partner=bluefly_site&amp;referer=bluefly_site&amp;utm_source=bluefly&amp;utm_medium=site&amp;utm_campaign=takealook&amp;cm_mmc=bluefly-_-Evergreen-_-site-_-takealook" target="_blank" onclick="SS.EventTrack.rp('bc_footer_click');"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/04.26_BC_BrandingBanner_859x139.gif"></a>
 </div>
+
+<div id="social-connections" class="clearfix">
+  <h5 class="social-title"><span>Let's Talk Fashion</span></h5>
+  <div class="enewsletter">
+  	<form id="email-subscribe-global" name="emailSubscribeGlobal" action="/emailSignupSweeps.jsp" method="post">
+		<input id="email-address-input" maxlength="40" name="email" value="" class="input textbox" type="text">
+		<a id="female-submit" class="button button-call-to-action" target="_blank" href="">Female</a>
+		<a id="male-submit" class="button button-call-to-action" target="_blank" href="">Male</a>
+		<input name="isSweeps" value="false" class="input hide" type="hidden">
+        <input name="profileCreationSrc" value="Subscriber" class="input hide" type="hidden">
+        <input id="email-gender-input" name="gender" value="Female" class="input hide" type="hidden">
+        <input name="yearOfBirth" value="" class="input hide" type="hidden">
+        <input name="monthOfBirth" value="" class="input hide" type="hidden">
+	</form>
+	<div id="email-validation-errors" class="error-message"></div>
+	<div id="email-signup-success">
+		<p>Thank you for signing up! <span>Your special offer is on its way</span></p>
+	</div>
+	<p id="email-address-placeholder">Enter email &amp; <span>get 25% off your first order!</span></p>
+  </div>
+  
+  <div class="communities">
+  	<ul>
+		<li>
+			<a class="social-icon social-icon-facebook" href="http://www.facebook.com/bluefly" target="_blank">Bluefly on Facebook</a>
+			<iframe class="social-follow-button" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fbluefly&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+		</li>
+		<li>
+			<a class="social-icon social-icon-twitter" href="http://www.twitter.com/bluefly_com" target="_blank">Bluefly on Twiiter</a>
+			<a href="https://twitter.com/bluefly_com" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @bluefly_com</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</li>
+		<li>
+			<a class="social-icon social-icon-pinterest" href="http://pinterest.com/bluefly/" target="_blank">Bluefly on Pinterest</a>
+		</li>
+		<li>
+			<a class="social-icon social-icon-polyvore" href="http://bluefly.polyvore.com/" target="_blank">Bluefly on Polyvore</a>
+		</li>
+	</ul>
+  </div>
+</div><!-- end social-connections -->
+
+<!--- BEGIN QUICKLINKS -->
+<div id="footer-nav" class="clearfix">
+  <h3 class="footer-header">Bluefly Quick Links</h3>
+  <div class="footer-nav-item">
+    <ul>
+      <li><h4 class="footer-nav-category">Departments</h4></li>
+      <li><a href="/a/women-clothing">women</a></li>
+      <li><a href="/a/shoes">shoes</a></li>
+      <li><a href="/a/handbags-accessories">handbags &amp; accessories</a></li>
+      <li><a href="/a/men-clothing-shoes-accessories">men</a></li>
+      <li><a href="/custom/custom.jsp?promoId=m1580093">new arrivals</a></li>
+      <li><a href="/a/designer-sale">sale</a></li>
+    </ul>
+    <ul>
+      <li><h4 class="footer-nav-category"><a href="/a/men-clothing-shoes-accessories">Men</a></h4></li>
+      <li><a href="/Designer-Mens-Shirts-Casual/_/N-7qe/list.fly">casual shirts</a></li>
+      <li><a href="/Designer-Mens-Coats-Jackets/_/N-7q6/list.fly">coats</a></li>
+      <li><a href="/Designer-Mens-Denim/_/N-fms/list.fly">jeans</a></li>
+      <li><a href="/Designer-Mens-Shoes/_/N-7qg/list.fly">shoes</a></li>
+      <li><a href="/Designer-Mens-Suits/_/N-7qk/list.fly">suits</a></li>
+      <li><a href="/Designer-Mens-Sweaters/_/N-1aay/list.fly">sweaters</a></li>
+    </ul>
+  </div>
+  <div class="footer-nav-item">
+    <ul>
+      <li><h4 class="footer-nav-category"><a href="/a/women-clothing">Women</a></h4></li>
+      <li><a href="/Designer-Accessories/_/N-1abe/list.fly">accessories</a></li>
+      <li><a href="/a/cashmere-shop">cashmere</a></li>
+      <li><a href="/Designer-Coats-Outerwear/_/N-ffu/list.fly">coats</a></li>
+      <li><a href="/a/dress-shop">dresses</a></li>
+      <li><a href="/Designer-Handbags/_/N-frg/list.fly">handbags</a></li>
+      <li><a href="/a/denim-jeans-shop">jeans</a></li>
+      <li><a href="/a/shoes">shoes</a></li>
+      <li><a href="/Designer-Sweaters/_/N-1pql/list.fly">sweaters</a></li>
+      <li><a href="/a/tops-tees-shop">tops &amp; tees</a></li>
+    </ul>
+  </div>
+  <div class="footer-nav-item">
+    <ul>
+      <li><h4 class="footer-nav-category"><a href="/designers.fly">hot designers:</a></h4></li>
+      <li><a href="/designer/christian-louboutin">christian louboutin</a></li>
+      <li><a href="/designer/prada">prada</a></li>
+      <li><a href="/designer/cole-haan">cole haan</a></li>
+      <li><a href="/designer/gucci">gucci</a></li>
+      <li><a href="/designer/michael-kors">michael kors</a></li>
+      <li><a href="/designer/marc-by-marc-jacobs">marc by marc jacobs</a></li>
+      <li><a href="/designer/fendi">fendi</a></li>
+      <li><a href="/designer/bcbgmaxazria">bcbgmaxazria</a></li>
+      <li><a href="/designer/stuart-weitzman">stuart weitzman</a></li>
+      <li><a href="/designers.fly" class="footer-nav-subcategory">all designers</a></li>
+    </ul>
+  </div>
+  <div class="footer-nav-item">
+    <ul>
+    <li><h4 class="footer-nav-category"><a href="/custom/custom.jsp?promoId=m480129">customer service:</a></h4></li>
+    <li><a href="/myaccount/order_detail_anon.jsp" rel="nofollow">order status</a></li>
+    <li><a href="/custom/custom.jsp?promoId=m480232">returns</a></li>
+    <li><a href="/custom/custom.jsp?promoId=m480130">shipping</a></li>
+    <li><a href="/custom/custom.jsp?promoId=m480128">international</a></li>
+    <li><a href="/custom/custom.jsp?promoId=m480132" rel="nofollow">security guarantee</a></li>
+    <li><a href="/custom/custom.jsp?promoId=m1930248">privacy policy</a></li>
+    <li><a href="/custom/custom.jsp?promoId=m480129">FAQ</a></li>
+    <li class="QLBold"><a href="/custom/custom.jsp?promoId=m480012" class="footer-nav-subcategory">contact us</a></li>
+    </ul>
+  </div>
+  <div class="footer-nav-item">
+    <ul>
+      <li><h4 class="footer-nav-category"><a href="/custom/custom.jsp?promoId=m480134">about bluefly:</a></h4></li>
+      <li><a href="/custom/custom.jsp?promoId=m480134">all about bluefly</a></li>
+      <li><a href="/custom/custom.jsp?promoId=m480014">what we sell</a></li>
+      <li><a href="/custom/custom.jsp?promoId=m480139">careers</a></li>
+      <li><a href="/custom/custom.jsp?promoId=m480136">affiliate program</a></li>
+    </ul>
+    <ul>
+      <li><h4 class="footer-nav-category">stay connected</h4></li>
+      <li><a href="http://www.facebook.com/Bluefly">bluefly on facebook</a></li>
+      <li><a href="http://twitter.com/bluefly_com">bluefly on twitter</a></li>
+    </ul>
+  </div>
+  <div class="footer-nav-item footer-nav-quicklinks">
+    <ul>
+      <li><h4 class="footer-nav-category">quick links</h4></li>
+      <li><a href="/Designer-Boots/_/N-fs0/list.fly">designer boots</a></li>
+      <li><a href="/Designer-Dresses/_/N-1ab7/list.fly">designer dresses</a></li>
+      <li><a href="/Designer-Coats-Outerwear/_/N-ffu/list.fly">designer coats</a></li>
+      <li><a href="/designers.fly">designer brands</a></li>
+      <li><a href="/Designer-Denim-Shop/_/N-bkou/list.fly">designer jeans</a></li>
+      <li><a href="/Designer-Handbags/_/N-frg/list.fly">designer handbags</a></li>
+      <li><a href="/a/shoes">designer shoes</a></li>
+      <li><a href="/Designer-Cashmere/_/N-ffs/list.fly">cashmere sweaters</a></li>
+      <li><a href="/Designer-Little-Black-Dresses/_/N-lfs4/list.fly">little black dress</a></li>
+      <li><a href="/closets">celebrity closets</a></li>
+      <li><a href="/a/coupons">bluefly coupons </a></li>
+    </ul>
+  </div>
+</div>
+<!--- END QUICKLINKS -->
+   
+<!--- BEGIN LEGAL FOOTER -->
+<div id="footer-legal">
+       <p>
+         ©1998-<script type="text/javascript">document.write(new Date().getFullYear());</script>2020, Bluefly, Inc. | Bluefly (BFLY) is a NASDAQ SMALLCAP Company | <a href="/custom/custom.jsp?promoId=m480141" rel="nofollow">Conditions of Use</a> | <a href="/custom/custom.jsp?promoId=m480140">Site Index</a>
+       </p>
+       <img src="http://cdn.media.bluefly.com/media/templates/images/bluefly_icon.gif" width="28" height="26" alt=""><br>
+     </div>
+<!--- END LEGAL FOOTER -->
+
+
+<!-- jquery cycle plugin -->
+<script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/jquery.cycle.all.min.js"></script>
 
 <!-- Past Loves and Shopsense JS -->
 <script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/list_page/pastloves.js"></script>
-<script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/shopsense.js"></script>
+<script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/shopsense_120717.js"></script>
+<!-- End Past Loves and Shopsense JS -->
+
+<!-- begin sitespect impression tracker -->
+<script src="http://cdn.media.bluefly.com/media/javascript/tracking.js" type="text/javascript"></script>
+<!-- end sitespect impression tracker -->
 
 
-<!-- end footer navi non-secure -->
+<!-- end footer navi non-secure m1660015 -->
         
       
     
@@ -1147,7 +1230,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
   br_data.cat = "";
   br_data.is_paid = "";
   br_data.search_term = "";
-  br_data.session_id = "c3pj-S3tMrbnujvaclJGEA**.bluefly_node10";
+  br_data.session_id = "kGerIJFez1Ct6cMNyrm-Bg**.bluefly_node3";
   br_data.is_conversion = "0";
   br_data.basket_value = "";
   br_data.order_id ="";
@@ -1196,30 +1279,42 @@ cmCreatePageviewTag("Bluefly Privacy Policy", "HOME", "", "");
 
 
 
+
+
+   
+
+
+
+
+
+
+
+
  
-	
-	 
-	 
-	 
-	
-	 
-	 
-	 
-		<!--- Brighttag Start --->
+    
+     
+     
+     
+    
+     
+     
+     
+        <!--- Brighttag Start --->
 <script src="//s.btstatic.com/tag.js">{ site: "hmnELob" }</script>
 <noscript>
 <iframe src="//s.thebrighttag.com/iframe?c=hmnELob" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </noscript>
 <!--- Brighttag End --->
-	 
-	
+     
+    
  
     
- <!-- server: app210:11009 -->
-<!-- SessionID: c3pj-S3tMrbnujvaclJGEA**.bluefly_node10 -->
+ <!-- server: app203:11009 -->
+<!-- SessionID: kGerIJFez1Ct6cMNyrm-Bg**.bluefly_node3 -->
 
     
  
+
  
  <div id="commQuickLoginDialog" class="container"></div>
 
@@ -1268,89 +1363,81 @@ cmCreatePageviewTag("Bluefly Privacy Policy", "HOME", "", "");
 
 <script type="text/javascript">
 
-   jQuery(document).ready(function() {
+    jQuery(document).ready(function() {
     var $ = jQuery;
     $(".commQuickLogin").live('click', function() {
-      var options = $(this).attr("rel").split(",");
-      var dest = "";   
-             
-      for (var i = 0; i < options.length; i++) {
-        var arg = options[i].split(":");
-        for (var j=0; j<arg.length; j++) {
-          key = arg[j++];
-          val = arg[j];
+        var options = typeof $(this).attr("rel") == 'undefined' ? [] : $(this).attr("rel").split(",");
+        var dest = "";
+        var isWishList = false;
+        for (var i = 0; i < options.length; i++) {
+            var arg = options[i].split(":");
+            for (var j = 0; j < arg.length; j++) {
+                key = arg[j++];
+                val = arg[j];
         };
-              
-        if (key == "destURL") {
-          dest = val;
+
+            if (key == "destURL") {
+                dest = val;
+            } else {
+                if (key == "position") {
+                    $("#commQuickLoginDialog").dialog('option', 'position', 'center');
+                } else if (key == "height") {
+                    $("#commQuickLoginDialog").dialog('option', 'height', 'auto');
+                } else if (key == "width") {
+                    $("#commQuickLoginDialog").dialog('option', 'width', 'auto');
+                } else if (key == "draggable") {
+                    if (val == "true") {
+                        $("#commQuickLoginDialog").dialog('option', 'draggable', true);
+                    } else if (val == "false") {
+                        $("#commQuickLoginDialog").dialog('option', 'draggable', false);
+                    }
+                } else if (key == "resizable") {
+                    if (val == "true") {
+                        $("#commQuickLoginDialog").dialog('option', 'resizable', true);
+                    } else if (val == "false") {
+                        $("#commQuickLoginDialog").dialog('option', 'resizable', false);
+                    }
+                } else if (key == "modal") {
+                    if (val == "true") {
+                        $("#commQuickLoginDialog").dialog('option', 'modal', true);
+                    } else if (val == "false") {
+                        $("#commQuickLoginDialog").dialog('option', 'modal', false);
+                    }
+                } else if (key == "wishList") {
+                    isWishList = true;
+                }
+            } //End of IF
+        }
+        ; //End of FOR
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        if (isWishList) {
+            renderLoginDialogContent(dest + "&wishList=" + isWishList, $);
         } else {
-          if (key == "position") {
-          //  if (val == "top") {
-          //    $("#commQuickLoginDialog").dialog('option', 'position', 'top');
-          //  } else if (val == "bottom") {
-          //    $("#commQuickLoginDialog").dialog('option', 'position', 'bottom');
-          //  } else if (val == "left") {
-          //    $("#commQuickLoginDialog").dialog('option', 'position', 'left');
-          //  } else if (val == "right") {
-          //    $("#commQuickLoginDialog").dialog('option', 'position', 'right');
-          //  } else if (val == "center") {
-              $("#commQuickLoginDialog").dialog('option', 'position', 'center');
-          //  }
-          } else if (key == "height") {
-		    //if (val == "auto") {
-			  $("#commQuickLoginDialog").dialog('option', 'height', 'auto');
-			//}
-			//else {
-            //  $("#commQuickLoginDialog").dialog('option', 'height', parseInt(val));
-          } else if (key == "width") {
-            //if (val == "auto") {
-			  $("#commQuickLoginDialog").dialog('option', 'width', 'auto');
-			//}
-			//else {
-			//  $("#commQuickLoginDialog").dialog('option', 'width', parseInt(val));
-          } else if (key == "draggable") {
-            if (val == "true") {
-              $("#commQuickLoginDialog").dialog('option', 'draggable', true);
-            } else if (val == "false") {
-              $("#commQuickLoginDialog").dialog('option', 'draggable', false);
-            }
-          } else if (key == "resizable") {
-            if (val == "true") {
-              $("#commQuickLoginDialog").dialog('option', 'resizable', true);
-            } else if (val == "false") {
-              $("#commQuickLoginDialog").dialog('option', 'resizable', false);
-            }
-          } else if (key == "modal") {
-            if (val == "true") {
-              $("#commQuickLoginDialog").dialog('option', 'modal', true);
-            } else if (val == "false") {
-              $("#commQuickLoginDialog").dialog('option', 'modal', false);
-            }
-          }
-        } //End of IF
-	  }; //End of FOR
-             
-      
+            renderLoginDialogContent(dest, $);
+        }
         
         
-        
-        
-      
-        
-        
-        
-        
-          var uri = "/browse/quickLogin.jsp?destURL="+dest;
-          $("#commQuickLoginDialog").html('<br/><br/><p style="padding:150px 250px 150px 250px">Loading...</p>');
-		  $.get(uri, function(data) {
-            $("#commQuickLoginDialog").html(data);
-          });
-          $("#commQuickLoginDialog").dialog("open");
-        
-      
 
     });
-  });
+});
+    function renderLoginDialogContent(dest, $) {
+        var uri = "/browse/quickLogin.jsp?destURL=" + dest;
+        $("#commQuickLoginDialog").html('<br/><br/><p style="padding:150px 250px 150px 250px">Loading...</p>');
+        $.get(uri, function(data) {
+            $("#commQuickLoginDialog").html(data);
+        });
+        $("#commQuickLoginDialog").dialog("open");
+    }
 </script>
  
 
