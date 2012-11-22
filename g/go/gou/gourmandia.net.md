@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618234106id_/http%3A//www.gourmandia.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122064144id_/http%3A//www.gourmandia.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Gourmandia - Michelin Ranked Recipes, easy french recipes
 
@@ -20,7 +20,9 @@ Similarly, when you register to receive services on Gourmandia.com, we require t
 
 **Cookies.** Gourmandia.com employs cookies to recognize you and your access privileges on the Web site, as well as to track site usage. Subscribers who do not accept cookies from the domain (e.g. "Gourmandia.com") cannot access most areas of Gourmandia.com's Web site. 
 
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml 
+We partner with ValueClick and Real Media Group to serve ads and/or collect certain anonymous information when you visit our website. ValueClick and Real Media Group may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. ValueClick and Real Media Group typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit:   
+<http://valueclickmedia.com/member_privacy.shtml>   
+[http://networkadvertising.org](http://networkadvertising.org/)
 
 This website may use other third party cookies such as but not limited to those set by AOL within the Creatives ( the "AOL Cookies"). For more information about the use of cookies, please refer to [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
@@ -55,3 +57,7 @@ Children are not eligible to use Gourmandia.com's services, and we ask that mino
 ##### Opting Out, Corrections and Cancellations.
 
 Upon request, Gourmandia.com will: (a) remove you and your personal information from our database, thereby canceling your registration; (b) correct personal information that you state is erroneous; or (c) permit you remove your information from being searched, while still allowing access to the site. To request a correction or cancellation, please contact Gourmandia.com.
+
+##### Notice Regarding Online Behavioral Advertising.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](https://web.archive.org/web/20121122064144id_/http%3A//www.gourmandia.net/www.networkadvertising.org).
