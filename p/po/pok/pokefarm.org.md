@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the pokefarm.org privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620002855id_/http%3A//pokefarm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokefarm.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122074057id_/http%3A//pokefarm.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PokéFarm
 
 [](https://web.archive.org/)
 
-4.16M 
-
-+6 
-
 x2 
 
-26.7k 
+3.09M 
 
-677M 
+x1.75 
 
-884 
+67.1k 
+
+378M 
+
+13k 
 
 This Privacy Policy sets out how PokéFarm uses and protects any information that you give PokéFarm when you use this website.
 
