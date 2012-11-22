@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the targetlife.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608014053id_/http%3A//targetlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetlife.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122054214id_/http%3A//targetlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Targetlife
+# Privacy Policy - Targetlife
 
 You can find the latest Changes in Our [Privacy Policy Here. Click here to read our Latest privacy policy.](http://iluvdesi.com/topic1889.html)
 
