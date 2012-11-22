@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606062433id_/http%3A//www.citi-habitats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122030531id_/http%3A//www.citi-habitats.com/privacy.html) for the most accurate reproduction.*
 
 # Citi Habitats Privacy Policy is designed to keep your information confidential
 
-**Citi Habitats**  
-**PRIVACY POLICY**
+**Privacy Policy**
 
 We at **Citi Habitats** (referred to as **"Citi Habitats," "We," "Us," or "Our"** ) recognize the importance of protecting the privacy of certain information collected about the **users and visitors** of Our Web Site (referred to as **"User," "You" or "Your"** ). This Privacy Policy discloses what information We gather, how We use it, and how to correct or change it. At Citi Habitats, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business. 
 
@@ -45,7 +44,7 @@ _Other_ : Citi Habitats may also disclose account information in special cases w
 
 **_How Can You Control The Usage Of Information_**? 
 
-In case You change Your mind or some Personal Information changes (such as Your zip code or e-mail address), We will try to provide a way to correct, update or remove the Personal Information that You give us. We also give You the opportunity to control the communications We direct to You. If a User wishes to update Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: **[webmaster@citi-habitats.com](mailto:webmaster@citi-habitats.com?subject=Privacy%20Policy)**. 
+In case You change Your mind or some Personal Information changes (such as Your zip code or e-mail address), We will try to provide a way to correct, update or remove the Personal Information that You give us. We also give You the opportunity to control the communications We direct to You. If a User wishes to update Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: **[webmaster@citihabitats.com](mailto:webmaster@citi-habitats.com?subject=Privacy%20Policy)**. 
 
 **_What Happens When You Link To A Third Party Site?_**
 
