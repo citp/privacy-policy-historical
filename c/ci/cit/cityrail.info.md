@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrail.info privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524033536id_/http%3A//www.cityrail.info/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrail.info privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122190320id_/http%3A//cityrail.info/general/privacy) for the most accurate reproduction.*
 
 # Privacy - CityRail
 
@@ -14,4 +14,6 @@ If you submit a website feedback form, the details that you submit to CityRail w
 
 ## Disclosure of information
 
-CityRail may share the information it gathers with any business unit within RailCorp, but does not share any information collated through its website with any third party unless otherwise stated.
+We disclose relevant personal information to external organisations that help us provide services. These organisations are bound by confidentiality arrangements.
+
+For further information or inquiries regarding privacy, contact the [RailCorp GIPA/Right to Information & Privacy Office](http://www.railcorp.info/about_railcorp/access_to_information).
