@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524021101id_/http%3A//www.triadretail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122024322id_/http%3A//www.triadretail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Triad Retail Media
 
