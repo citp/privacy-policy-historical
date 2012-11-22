@@ -1,53 +1,85 @@
-> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524033226id_/http%3A//idateasia.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122170024id_/http%3A//idateasia.com/help/privacy.php) for the most accurate reproduction.*
 
 # iDateAsia Club -- Thai girls and Vietnamese women seeking single foreign men for dating, romance, marriage , long-term relationship!
 
-  | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/my/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use iDateAsia. In addition, the following describes our additional privacy practices that are specific to iDateAsia. 
+  | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use iDateAsia.com. The following describes our privacy practices that are specific to iDateAsia.com.
+
+Welcome to iDateAsia.com ("iDateAsia" or the "Site"). Your privacy is important to us. As such, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected, processed, maintained and disposed by iDateAsia, including any services owned, operated or offered by or on behalf of iDateAsia, and by third-party service providers if applicable.
+
+We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. We have developed this Policy to ensure that your privacy is protected while using iDateAsia. We reserve the right to change it at any time, and all changes are effective upon posting with notice to you.
+
+Owing to the global nature of iDateAsia's business conducted over the internet, it is practically impossible for us to comply with all applicable laws / rules / regulations (and the like) as may be prescribed by individual country / region / city. We endeavor to adopt internationally recommended “Best Practices” whilst adhering to the Personal Data (Privacy) Ordinance, laws of Hong Kong which you must agree to as the applicable law in case of dispute arising herefrom.
+
+Operationally we are in compliance with, though not bound to do so, the general requirements imposed by the Data Protection Principles generally recommended by the US-EU US-Swiss Safe Harbor Frameworks, Organisation for Economic Cooperation & Development, and by the Asia Pacific Economic Cooperation. In particular, we carry out Privacy Compliance Assessment exercise periodically to ensure compliance in respect of notice, choice, onward transfer, security, data integrity, access and enforcement.
+
+This Privacy Policy applies to your use of iDateAsia. In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy policy to describe how iDateAsia processes personal information. Please review and agree to those Supplementary Privacy Policy.
 
   
 
-  1. **About iDateAsia and Information We Collect From You**
+  1. **About iDateAsia and Your Information We Collect**
 
-This Site and the Service is an online network/system that provides a powerful tool for the local dating and marriage service providers in different cites in Asia to submit and have their ladies profiles posted online. Also, the functions of this Site enable those service providers to help you and the ladies communicate in an easier way by removing obstacles such as language barrier and cultural differences, ladies' computer illiteracy or unfamiliarity in using the Internet etc. So, you can easily build up a relationship with your favorite lady, which leads to marriage.
+iDateAsia provides you with access to rich collection of resources, including without limitation various communication tools, products, contents, software, forums, services through its network of web sites (collectively "Services"). In order to provide a full range of services, we may ask you to create an iDateAsia Account (the “Account”) to be our member. In the course of these various offerings, we often seek to collect from you various forms of personal information. We may ask you to create a Personal Profile and it generally includes three sets of information :
 
-As a iDateAsia member, your profile can include personal information, such as your gender, first, middle and last names, date of birth, ethnicity, email address and residence country, plus other content such as your relationship status, your ideal match age range. Based on this information, we will send you weekly updates up to the criterion you selected whether receive or not. This information may be accessed and viewed by others, as determined by your privacy settings.
+a) Personal Data  
+This includes your personal data such as your gender, first, middle and last names, date of birth and ethnicity. This information may be accessed and viewed by others, as determined by your agreement on the specific privacy practices with respect to certain Services.
+
+b) Additional Information  
+You may elect to include your additional information, such as your height, weight, smoker or not, alcoholic or not, native / spoken language(s), education level, religion, profession, whether have children or not, current income range, your marital status, your ideal match age range. You may also include other content, such as a narrative description of yourself and photo(s). This information is stored on our systems, and may be displayed in your public profile on iDateAsia, or included in any communication between Members sent via iDateAsia and other Qpid Network Sites.
+
+c) Contact Information  
+It consists of your email address, your postal address such as street address, city, state/province, residence country as well as postal code. Your telephone or fax number are required when filling in the registration form. Contact information will not be shown on your profile or other public places.
 
   2. **How We Use Your Information**
 
-Your email address is used to help us to efficiently operate the Site, to contact you in connection with your transactions, enquiry and other activities on the Site, including confirmation emails, or notification of mails from other members you correspond with, or weekly updates that meet your criteria of ideal match.
+We may use the information you provide about yourself to fulfill your requests for our Services, to respond to your inquiries about our offerings, to offer you other products or services that we believe may be of interest to you, to enforce the legal obligations that govern your use of our Site, to identify problems, to resolve complaint, disputes and/or for the purposes for which you provided the information.
 
-  3. **Our Disclosure of Your Information**
+You agree that we may use your information to improve our marketing and promotional efforts, to analyze the web site usage, improve our content and product offerings, and customize iDateAsia's content, layout, and services. These uses can help us improve our Site and better tailor it to meet your needs.
 
-Qpid Network maintains and processes your personal information and content of your communications in order to provide your iDateAsia membership, access to the Site, and use of iDateAsia services, in addition to the purposes described in the Qpid Network Privacy Policy. Your profile information is displayed according to the preferences you set in the Qpid Network Account.
+  3. **Cookies and Historical Information**
 
-iDateAsia may also share your personal information with other Qpid Network sites, a sponsor or other third party that is interested in serving you ("Third-Party Providers"). You may instruct iDateAsia at any time not to share your personal information with such Third-Party Providers. Please note that this opt-out process may take up to thirty (30) days to complete.
+Each time you access the Services, various information is gathered automatically, such as: domain, computer platform, browser type, IP address and place of origin. We gather this information in order to administer and optimize the Services for you and to diagnose problems with our Services and enhance your user experience.
 
-Further use and/or disclosure of your personal information by Third-Party Providers is not the responsibility of iDateAsia. Rather, such use and/or disclosure is governed by the Third-Party Providers' privacy policies.
+  4. **Your Card Details**
 
-You can choose whether your profile should be visible or hidden on our Site.
+If you pay by card online, to protect your privacy we engage highly secured industry order processing provided by third-party billing companies such as PayPal. Those companies we cooperate enjoy good reputation and reliability in the industry of its kind. With use of the third-party card processors, your card information is processed through secure server(s), and transferred internally with the protection of powerful encryption tool available. Your customer details will not be sold or made available to anyone else and your card details are only known by our order processors.
 
-a)  "Visible", which means your personal data, self-description will be viewed by service providers with whom we cooperate (the "Agencies"), and by the ladies from those service providers. And none of your contact information will be revealed to them.
+  5. **Communications**
 
-b)  "Hidden", which means none of the information contained in your profile will be viewed by those service providers and ladies posted on this Site. Only iDateAsia staff can see your profile.
+If you send us personal correspondence, such as emails or letters, or if other iDateAsia members or third parties send us correspondence about your activities or postings on iDateAsia, we may collect such information that is accessed only by authorized iDateAsia personnel or representatives. We may also collect other members' comments about you.
 
-No matter which profile status you choose, your profile on this Site will not be seen outside iDateAsia and the Agencies office.
+  6. **Our Disclosure and/or Shared Use of Your Information**
 
-  4. **EMF Mails with the ladies on this Site**
+Under no circumstance will iDateAsia sell or transfer for monetary gains your information to any unrelated third party without your permission, but we may disclose your information to affiliates or unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, government administrative request or other due process; (b) to protect the interests, rights, safety, or property of iDateAsia or others; (c) to enforce any terms of service of iDateAsia; (d) to provide you with the services or products requested by you, and to perform other activities related to such services and products, including billing and collection; (e) to provide you with information, special offers, or promotions from iDateAsia to which you consented. iDateAsia makes reasonable efforts to limit its designated service providers' disclosure of your information in the same manner as set forth in this paragraph.
 
-With the use of the phone-informing Email Forwarding (EMF) Service, the content of your mails are forwarded to the ladies on the "AS IS" basis and kept private, only staff in iDateAsia and the staff in the service providers who deal with iDateAsia-related service can see them. All service providers that iDateAsia cooperate with should operate in accordance with our contractual agreement, and should never expose them to any unrelated persons.
+Further use and/or disclosure of your information by third parties is not the responsibility of iDateAsia. Rather, such use and/or disclosure is governed by those parties’ policies.
 
-  5. **Your Credit Card Details**
+As your iDateAsia Account is inter-linked with all our member sites (which means you can activate multiple memberships on those sites when you successfully obtain an Account), we may also share your information with those Sites when they are interested in serving you. You may notify us of your membership preferences any time in our member account settings area. Unless and until you choose to opt-out your membership on iDateAsia, your information may be used by iDateAsia for providing goods and services to you.
 
-If you pay by your credit card online, to protect your privacy we use highly secured industry order processing provided by third-party billing companies (such as 2CheckOut, and PayPal). Those companies we cooperate with enjoy good reputation and reliability in the industry of its kind. With use of the third-party credit card processors, your credit card information is entered using a secure server, and transferred internally using PGP, the most powerful encryption tool available. Your customer details may not be sold or made available to anyone else and your credit card details are only known by our order processors.
+  7. **Updating Your Information**
 
-  6. **Your choices**
+If you want to update or correct inaccuracies in your information, you can login to your account and modify it any time on your own initiative. In the unlikely event of certain information items you do not manage to update through our system, please contact our Customer Support Team for assistance.
 
-Qpid Network provides a number of tools to restrict who can view your profile and other personal information. You may go to the account setting area to limit the viewing of certain information of yourself. If you want to update or correct inaccuracies in your information, you may login to your account and modify it. In case you want to permanently remove profile from our database, you may contact us. You can terminate your membership at any time. If you terminate your membership, your profile, including any messages in your inbox, will be removed from the Site and deleted from iDateAsia servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media.
+  8. **Deleting Your Account**
 
-  7. **More information**
+Gentleman members can reqire account deletion through submitting email request to our customer service team, specifying whether account deletion of iDateAsia or account deletion of the Qpid Network is needed. When iDateAsia account is deleted, members will not be able to log into iDateAsia and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.
 
-Further information about iDateAsia is available [here](https://web.archive.org/help/why_use.php).  
-For more information about our privacy practices, go to [the full privacy policy](http://www.qpidnetwork.com/my/privacy.php). If you have additional questions, please [contact us](https://web.archive.org/help/contact_us.php).
+  9. **Technical and/or Operational Security**
+
+We respect and recognize that personal data are vulnerable to security breach which, if taken place, may cause annoyance or even damages to you (conversely, our business reputation), thus we take reasonably practical measures to protect your personal data. However, given the realistic limitations (e.g. costs / timely delivery of security measures) and rapid revolution of technology, there is always the risk of such breach in which event we cannot be held liable.
+
+iDateAsia has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. We use industry standard efforts to safeguard the confidentiality of your personal identity information such as encryption tools, secure server and firewall. While "absolutely fail-safe security" does not exist, our technical experts work hard to ensure your secure use of our services.
+
+  10. **Cross-border Transfer of Personal Information**
+
+Some of the uses and disclosures mentioned in this Policy may involve the transfer of your information to various areas around the world that may have levels of privacy protection different from that of your residence country. By submitting your information via iDateAsia, you consent to such cross-border transfers notwithstanding the restrictions imposed by applicable law / rule / regulation to the contrary.
+
+  11. **Links To Third-Party Websites**
+
+iDateAsia may provide links to third-party websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those web sites before providing any of your personal information on such sites.
+
+  12. **Your Agreement to This Policy**
+
+By using iDateAsia Services, you understand that this Policy applies solely to information collected by iDateAsia, and you agree to the collection, processing, retention and disposal of your information by iDateAsia as outlined herein.
 
 
 |  
