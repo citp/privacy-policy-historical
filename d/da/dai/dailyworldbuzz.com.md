@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyworldbuzz.com privacy policy that was archived on 2012-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120202151501id_/http%3A//www.dailyworldbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyworldbuzz.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122072424id_/http%3A//www.dailyworldbuzz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily World Buzz
 
