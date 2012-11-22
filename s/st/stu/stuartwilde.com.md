@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stuartwilde.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523082305id_/http%3A//www.stuartwilde.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartwilde.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122182309id_/http%3A//www.stuartwilde.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Stuart Wilde
+# Privacy Statement | Stuart Wilde | The Official Author Website
 
 We appreciate your interest and your visit to this Web site. We respect your privacy and want you to feel comfortable visiting our sites. Any personal information provided by you will be held strictly confidential and will never be given to another party.
 
