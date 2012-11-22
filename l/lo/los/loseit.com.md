@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629130206id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loseit.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122104949id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.*
 
 # Lose It! - Privacy Statement
 
@@ -44,7 +44,7 @@ We use a range of technologies and procedures to protect your personal informati
 
 ### Protection of children's privacy
 
-Loseit.com is a general interest website, and we do not knowingly collect any personal information from children. If you are under 18, you are not permitted to use loseit.com. 
+LoseIt.com is a general interest website, and we do not knowingly collect any personal information from children. If you are under 18, you are not permitted to use loseit.com. 
 
 ### Use of cookies and tracking technology
 
