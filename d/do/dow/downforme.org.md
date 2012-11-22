@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downforme.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524015724id_/http%3A//downforme.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downforme.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122231303id_/http%3A//downforme.org/privacy-policy) for the most accurate reproduction.*
 
-# DownForMe.org Privacy Policy | Learn More About How We Value Your Online Privacy On Our Website
+# Learn More About How We Value Your Online Privacy On Our Website
 
 ## Privacy Policy for downforme.org
 
