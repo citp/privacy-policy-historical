@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpay.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505230151id_/http%3A//www.jpay.com/LegalAgreementsOut.aspx%3FPanel%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpay.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122154135id_/http%3A//www.jpay.com/LegalAgreementsOut.aspx%3FPanel%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Legal Agreements
 
@@ -60,52 +60,3 @@ JPay Inc.
 Attn: Legal Department   
 12864 Biscayne Blvd., #243  
 Miami, FL 33181
-
-**State - Specific Customer Notice Information**
-
-**Colorado Residents**
-
-COLORADO DIVISION OF BANKING   
-COLORADO MONEY TRANSMITTERS ACT   
-CUSTOMER NOTICE
-
-Entities other than FDIC-insured financial institutions that conduct money transmission activities in Colorado, including the sale of money orders, transfer of funds, and other instruments for the payment of money or credit are required to be licensed by the Colorado Division of Banking pursuant to the Money Transmitters Act, Title 12, Article 52, Colorado Revised Statutes. If there are questions or concerns regarding a transaction with a licensee, please contact the Colorado Division of Banking at (303) 894-7575 or by mail at:
-
-Colorado Division of Banking   
-1560 Broadway, Suite 975   
-Denver, Colorado 80202 
-
-Consumer complaints should be in writing, providing as much detail as possible. Please include the following information: 
-
-  * The name of the institution and the name of any person(s) at the institution with whom the complainant has had contact. Include telephone number(s) and addresses. 
-  * A complete description of the complaint and any efforts that have been made to resolve the complaint directly with the institution. 
-  * Copies of any available documentation supporting the complaint and efforts toward resolution. 
-  * Any suggestions regarding a preferred resolution of the complaint. 
-
-
-
-**Maryland Residents**  
-The Commissioner of Financial Regulation for the State of Maryland will accept all questions or complaints from Maryland residents regarding JPay money transmission services at:
-
-Commissioner of Financial Regulation   
-Attention: Complaint Unit   
-500 North Calvert Street, Suite 402   
-Baltimore, Maryland 21202   
-Telephone: 1-888-784-0136 
-
-**Texas Residents**  
-After first contacting JPay, if you still have an unresolved complaint regarding our money transmission activities, please direct your complaint to:
-
-Texas Department of Banking   
-2601 North Lamar Boulevard   
-Austin, Texas 78705   
-Telephone: 1-877-276-5554 (toll free)   
-Website: [www.banking.state.tx.us](http://www.banking.state.tx.us/). 
-
-Después de haberse comunicado con JPay por primera vez, si aún tiene una queja sin resolver relacionada con nuestras actividades de transmisión de dinero, por favor envíe su queja a:
-
-Texas Department of Banking   
-2601 North Lamar Boulevard   
-Austin, Texas 78705   
-teléfono: 1-877-276-5554 (gratuito)   
-[www.banking.state.tx.us](http://www.banking.state.tx.us/). 
