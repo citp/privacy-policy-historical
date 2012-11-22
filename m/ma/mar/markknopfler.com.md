@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523031733id_/http%3A//www.markknopfler.com/info/mk_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122120341id_/http%3A//www.markknopfler.com/info/mk_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - MarkKnopfler.com
-
-## Terms of Use
 
 At MarkKnopfler.com, we respect the privacy concerns of the users and other visitors to our website. We understand that we are responsible for Personal Information under our control. By visiting MarkKnopfler.com, you are accepting the Terms of Use and the practices described in this Privacy Policy ("Privacy Policy").
 
