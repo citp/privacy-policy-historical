@@ -1,67 +1,90 @@
-> *The following text is extracted and transformed from the irb.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524050705id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irb.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122170501id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # International Rugby Board - privacy
 
-The International Rugby Board ("IRB") has created this privacy statement to demonstrate its firm commitment to privacy. The following is a full description of the information gathering and dissemination practices for [www.irb.com](http://www.irb.com/) ("the site").
+The International Rugby Board (including its associated companies) ("IRB", “us”, “our”, or “we”) have created this privacy policy to demonstrate our firm commitment to privacy. The following is a full description of our information collection and dissemination practices for www.irb.com ("the site"). It sets out what information is collected about you when you visit the site, how this information is used, if it is disclosed and the way in which we protect user’s privacy. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
 
- **Collection of Information**
+For the purpose of the Irish Data Protection Acts, 1988 & 2003, as amended or re-enacted from time to time (the “Acts”), the data controller is IRFB Services (Ireland) Limited having its principal place of business at First Floor, Huguenot House, 35-38 St. Stephen's Green, Dublin 2, Ireland. We fully respect your right to privacy, and any personal information which you volunteer to us will be treated with the highest standards of security and confidentiality in accordance with the terms of the Acts.
 
-In general, you can visit the site without providing personal information. However, there may be times when we will request personal information in order that you may participate in the site's activities. Information is typically requested when you wish to enter contests, contact us, or subscribe to the newsletter or other subscription services.
+**Collection of Information**
 
-In common with many other website operators, we may use standard technology called 'cookies' on this site. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. We only use cookies for one purpose: to tell us in what language the site should be presented to you. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored.
+Information is typically requested when you wish to take part in certain activities available on the site, or otherwise to facilitate access to and/or use of certain parts of the site (such as when you register for the IRB Passport, contact us, request particular information, or subscribe to our newsletter services, or other services). If you contact us, we may keep a record of that correspondence.
 
-When you submit personal information to IRB through the site, you agree that your information may be stored and processed by IRB.
+The personal information collected may include, but is not limited to the following: name, involvement in Rugby, age, country of residence, nationality, gender and/or your confirmation that you have read and agree with the Terms and Conditions applicable to the site. 
 
-IRB reserves the right to perform statistical analysis of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to ascertain the number of users that have visited particular web pages. IRB will provide only aggregated data from these analyses to third parties. IRB confirms that in general it will only use the information you provide within IRB. Where we want to pass the information on to someone else we will tell you - refer to the notices on particular web pages that let you know why we are requesting the information and to whom it will be made available. The option will then be yours to submit the information or not.
+In addition, in order to access some services or parts of the site (e.g. via IRB Passport) or to access and/or take advantage of certain services available on the site or other IRB sites (e.g. to receive newsletters or receive information about volunteering and/or tickets), you may be asked to register, or sign in with an e-mail address and to choose a password. In this case your chosen password and other information (including e-mail address) are collected, retained and used to create a unique logon for you to access the services or a particular part of the site.
 
- **How We Use the Information**
+Any personal information collected, is retained only for as long as it is required. For example, we will retain your personal data for as long as is necessary for the required service to be provided to you, or otherwise until such time as you choose to unsubscribe from hearing from us or you wish to correct, modify and/or remove your personal information. 
 
-We collect and use your information in order to give you better service, to provide you with information on the International Rugby Board and its events and on Rugby Union and to make the site more useful to you. The contact information we collect is used to deliver the information you request from us. For example, if you request us to do so, we will contact you when our third party supplier's audio/visual content service is available for you to subscribe to. Your personal information is also used to contact you when necessary (e.g. winners of competitions or games).
+**Our use of cookies**
 
-You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, ensure that you do not tick the "opt in" box which appears where you are submitting your personal data. If you wish, at any time, to be removed from the newsletter list, please send an email with "unsubscribe" in the Subject line to irb@irb.com.
+We use cookies to help to make the site better. To find out more about the cookies we use, please visit our **[COOKIES POLICY. ](https://web.archive.org/cookies/policy.html)**
 
-The organisations to which, with your permission, we will release your personal information are limited to our worldwide partners, tournament sponsors and official suppliers, the IRB and/or its associated companies, and/or the Member Unions of the IRB. IRB will only disclose your personal information without notice when it believes disclosure to be required by law or regulation, or necessary to protect or defend the rights or property of IRB, the safety of the public or the users of the site.
+**How We Use Information**
 
- **Electronic Communications**
+When you submit personal information to IRB through the site, you agree that your information may be stored and processed by and/or on behalf of the IRB.
 
-We comply with the terms of the European Directive on Privacy and Electronic Communications (Directive 2002/58/EC) and, in particular:
+IRB may collect information about your interaction with the site and the services on the site. This may include information about your computer and, where available, your IP address operating system and browser type. In particular, IRB reserves the right to perform statistical analysis of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to ascertain the number of users that have visited particular web pages. IRB will provide only aggregated data from these analyses to third parties and this statistical information does not identify any individual. 
 
-Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.
+We collect and use your information in order to give you a better service, to provide you with information you request, including information about the IRB, its events and activities, and the Game of Rugby Union. Your information is also used to fulfil your requests for certain information and/or services from us or our associated organised (e.g. subscription to our newsletters, to participate in polls, and/or to set language preferences), to participate in certain activities (e.g. to facilitate access to and/or use of parts of the site content, including content of other IRB website content via IRB Passport) and/or to make the site more useful to you (e.g. where you express interest in volunteering and/or tickets for IRB events and for us to provide you with relevant information). Your personal information may be used to contact you when necessary. 
 
- **Children under 16**
+You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, ensure that you do not tick the "opt in" box which appears where you are submitting your personal information. If you wish, at any time, to be removed from our newsletter or distribution list, please send an email with "unsubscribe" in the subject line to **[irb@irb.com.](mailto:irb@irb.com)**
+
+**Who uses information**
+
+IRB confirms that, in general, it will only use the personal information you provide within IRB. Where we want to pass your personal information on to someone else, unless you have already and/or previously given us your permission to do so, we will tell you - refer to the notices on particular web pages that let you know why we are requesting the information and to whom it will be made available. The option will then be yours to submit your personal information or not. The associated organisations to which, with your permission, we will release your personal information are limited to our worldwide partners, tournament sponsors and official suppliers, IRB (including its associated companies), and the Member Unions thereof, organisations associated with us and the organising committees of IRB tournaments. 
+
+We may share the information with our service providers who perform services on our behalf based on our instructions. These service providers are not authorised by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. IRB will only disclose your personal information without notice when it believes disclosure to be required by law or regulation, or necessary to protect or defend the rights or property of IRB, the safety of the public or the users of the site.
+
+**Children under 16**
 
 If you are under 16, you must obtain the approval of a parent or guardian before you send us any of your personal information (such as your name, e-mail address, home address, date of birth etc).
 
- **Changes to this Privacy Policy**
+**Changes to this Privacy Policy**
 
 We reserve the right to change our security and privacy policies at any time. Accordingly, we recommend that you check this page periodically in order to review our current policies.
 
- **Links to Other Sites**
+**Links to Other IRB Websites, or other third party websites**
 
-IRB's site may contain links to other websites whose privacy and information practices may be different to ours. You should consult the other websites' privacy notices. IRB is not responsible for the content or privacy policies of other websites.
+The site may contain links to other websites whose privacy and information practices may be different to ours, including other IRB websites and/or third party websites. IRB is not responsible or liable for the content or privacy policies of websites other than IRB websites. You should be aware of this when you leave the site and we encourage you to read and familiarise yourself with the privacy policies and/or notices on other websites you visit. 
 
- **Security**
+**Security**
 
-We use physical, electronic, and managerial procedures to help safeguard the information we collect from you online. We urge you to take precautions to protect your personal data when you are on the Internet. Keep any passwords safe and make sure you use a secure browser.  
- **  
-Use of your information outside the European Union**
+We are committed to protecting the security of your information. We use a variety of security technologies and procedures to help protect your information from unauthorised access and use. As effective as modern security practices are, no physical or electronic security system is entirely secure. We cannot guarantee the complete security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. We have implemented policies to ensure that your privacy is safeguarded and we will continue to revise policies and implement additional security features as new technologies become available. 
 
-Some of the organisations to which we may disclose your personal information may be situated outside of the European Union. In order to provide you with the products and services you require, we may need to transfer your personal information to these countries some of which do not protect privacy and personal data rights as extensively as in the European Union. If you do not consent to your personal data being sent outside the European Union, please do not send it to us.
+The transmission of information via the internet is not completely secure and may involve the transfer of information to countries outside of the European Economic Area (EEA). Those countries may not provide an adequate level of protection in relation to processing your information. By submitting your personal data, you agree to this transfer, storing and processing.
 
- **Your rights to access your personal information**
+Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted to the site. Any transmission of information is at your own risk. Once we receive your information, we use appropriate security measures to seek to prevent unauthorised access.
 
-You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make. The current fee is £10.00.
+Where we have given you a password which enables you to access certain parts of the site, wee urge you to take precautions to protect your personal information when you are on the Internet. Keep any passwords safe and make sure you use a secure browser.
 
- **Correcting Information/ Contacting the Website**
+**Use of your information outside the European Union**
 
-If you wish to correct any information you have provided to us or if you have any questions about this privacy statement, the practices of this site, or your dealings with the site, you can contact us by emailing us at irb@irb.com or writing to us at the address below.
+Some of the organisations to which we may disclose your personal information may be situated outside of the European Union. In order to provide you with the information and/or services you require, we may need to transfer your personal information to these countries, some of which may not protect privacy and personal information rights as extensively as in the European Union. If you do not consent to your personal information being sent outside the European Union, please do not send it to us.
 
-This privacy policy is subject to change without notice. Last updated 15 July 2009.
+**Your rights to access, correct, modify and/or remove your personal information**
 
-International Rugby Board   
-Huguenot House,   
-35-38 St. Stephen's Green,   
-Dublin 2,   
-IRELAND.
+You have the right to receive a copy of and/or access, correct, modify and/or remove the personal information that we hold about you. 
 
-All Rights Reserved.
+If you wish to receive a copy of the personal information that we hold about you and/or to have the personal information you provided to us removed, or if you no longer wish for your personal information to be processed, stored and/or used, your request shall be in writing and shall be directed to the contact details as set out below. You should include enough information to enable us to satisfy ourselves as to your identity and to determine the nature and scope of your request. We may charge a small fee towards the cost of administering any particular request you make for a copy of such personal information.
+
+If you wish to access, correct or modify any personal information you have provided to us, you have the right to have such information corrected and/or modified. The appropriate method(s) for accessing, correcting and/or modifying your personal information are set out below:
+
+(a) depending on the sites or service you have used, you may have the ability to access, correct and/or modify your personal information online. In order to prevent your personal information from being viewed by others, you will be required to sign and/or log in with your credentials (for example, e-mail address and password);
+
+(b) any request(s) to access, correct and/or modify your personal information shall be in writing and shall be directed to the contact details as set out below and shall include enough information to enable us to satisfy ourselves as to your identity and to process your request.
+
+If you have any questions about this privacy policy, the practices of the site or your dealings with the site, you can contact us at the contact details as set out below.
+
+You can contact us by emailing us at **[irb@irb.com](mailto:irb@irb.com)** or by writing to us at the address set out below. 
+
+This privacy policy is subject to change without notice. 
+
+This privacy policy was last updated on 23rd May 2012.
+
+IRFB Services (Ireland) Limited  
+Huguenot House,  
+35-38 St. Stephen's Green,  
+Dublin 2, Ireland.
+
+Copyright © International Rugby Board 2012. All Rights Reserved.
