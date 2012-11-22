@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525164741id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagra.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122120650id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.*
 
 # Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company
 
@@ -153,7 +153,7 @@ Privacy Officer
 235 East 42nd Street  
 Mailstop 235/25/24  
 New York, NY 10017  
-[Privacy Officer](https://web.archive.org/contact/mail_privacy.jsp)
+[Privacy Officer](https://web.archive.org/contact/email_contact.jsp?inquiry=Privacy+Officer&x=21&y=23)
 
 Top
 
