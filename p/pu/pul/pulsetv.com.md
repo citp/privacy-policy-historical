@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulsetv.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618003604id_/http%3A//www2.pulsetv.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulsetv.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122062621id_/http%3A//www2.pulsetv.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Pulse Direct, Inc.
 
@@ -13,8 +13,8 @@
 > 
 > When you enter personal information in to the Shopping Cart, we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition, 
 > 
->   1. Our First Use of the Shopping Cart at PulseTV.com - We use the information you provide to: automatically place you on our e-mail list to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed; and make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
->   2. Your Subsequent Use of the Shopping Cart at PulseTV.com - If you have purchased a product from a PulseTV.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
+>   1. Our First Use of the Shopping Cart at PulseTV.com - We use the information you provide to: automatically place you on our e-mail list to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed. 
+>   2. Your Subsequent Use of the Shopping Cart at PulseTV.com - If you have purchased a product from a PulseTV.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged. 
 > 
 
 > 
@@ -26,7 +26,7 @@
 > 
 > Information about customers and visitors shared with third parties: 
 > 
-> As described in the section "When you enter personal information into the Shopping Cart", in addition to being placed on our e-mail newsletter list and direct mail/catalog list, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. If you do not want us to share your name and postal address information, simply follow the instructions in any message you recieve. We also share information about our customers and visitors with trusted service providers who provide PulseTV.com with specific services and/or administer activities offered on the PulseTV.com site. (For example, we may provide customer information to companies that analyze our clickstream data in order to help us better design our site.) We also may use non-identifying and aggregate information (as opposed to identifiable individual information) about our customers and/or visitors to better design our website and we may provide it to advertisers and other third parties. 
+> As described in the section "When you enter personal information into the Shopping Cart", in addition to being placed on our e-mail newsletter list and direct mail/catalog list. We also share information about our customers and visitors with trusted service providers who provide PulseTV.com with specific services and/or administer activities offered on the PulseTV.com site. (For example, we may provide customer information to companies that analyze our clickstream data in order to help us better design our site.) We also may use non-identifying and aggregate information (as opposed to identifiable individual information) about our customers and/or visitors to better design our website and we may provide it to advertisers and other third parties. 
 > 
 > Upon completing your purchase, we may present offers on behalf of third party partners on the order confirmation page. If you click on some of these promotional links and accept the offer(s), we will send your personal information to this party to complete the transaction. We do not share this information without your consent. 
 > 
