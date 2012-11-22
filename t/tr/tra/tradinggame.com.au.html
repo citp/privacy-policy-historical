@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tradinggame.com.au privacy policy that was archived on 2012-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525121821id_/http%3A//tradinggame.com.au/webpages/goto.php%3Fg%3DPRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradinggame.com.au privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122225701id_/http%3A//www.tradinggame.com.au/webpages/goto.php%3Fg%3DPRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 	<title>Trading Game Privacy Statement</title>
@@ -122,7 +122,7 @@ var WRInitTime=(new Date()).getTime();
 <li><a href="1_home.php">Home</a>
 </li>
 <li><a href="2_tools.php">Tools</a>
-<ul>
+<ul class="submenu">
 <li><a href="3_shares.php">Shares</a></li>
 <li><a href="4_cfds.php">CFDs</a></li>
 <li><a href="5_options.php">Options</a></li>
@@ -131,7 +131,7 @@ var WRInitTime=(new Date()).getTime();
 </ul>
 </li>
 <li><a href="18_shop.php">Shop</a>
-<ul>
+<ul class="submenu">
 <li><a href="19_specials.php">Specials</a></li>
 <li><a href="20_books.php">Books</a></li>
 <li><a href="21_dvds.php">DVDs</a></li>
@@ -146,17 +146,13 @@ var WRInitTime=(new Date()).getTime();
 </ul>
 </li>
 <li><a href="28_data.php">Data</a>
-<ul>
-<li><a href="29_overview.php">Overview</a></li>
-<li><a href="30_packages.php">Packages</a></li>
-<li><a href="31_information.php">Information</a></li>
-<li><a href="2589_renewing-your-data.php">Renewing Your Data</a></li>
-<li><a href="33_faq.php">FAQ</a></li>
-<li><a href="32_custom-folders.php">Custom Folders</a></li>
+<ul class="submenu">
+<li><a href="2648_beyond-charts-data.php">Beyond Charts+ Data</a></li>
+<li><a href="29_metastock-data.php">Metastock Data</a><ul class="subsubmenu"><li><a href="30_metastock-packages.php">Metastock Packages</a></li><li><a href="31_metastock-information.php">Metastock Information</a></li><li><a href="32_metastock-custom-folders.php">Metastock Custom Folders</a></li><li><a href="33_metatstock-faq.php">Metatstock FAQ</a></li><li><a href="2589_renewing-your-metastock-data.php">Renewing Your Metastock Data</a></li></ul></li>
 </ul>
 </li>
 <li><a href="34_seminars.php">Seminars</a>
-<ul>
+<ul class="submenu">
 <li><a href="35_calendar.php">Calendar</a></li>
 <li><a href="36_trainers.php">Trainers</a></li>
 <li><a href="37_download-notes.php">Download Notes</a></li>
@@ -164,13 +160,13 @@ var WRInitTime=(new Date()).getTime();
 </ul>
 </li>
 <li><a href="39_newsletters.php">Newsletters</a>
-<ul>
+<ul class="submenu">
 <li><a href="42_trading-game-newsletter.php">Trading Game Newsletter</a></li>
 <li><a href="43_podcasts.php">Podcasts</a></li>
 </ul>
 </li>
 <li><a href="17_rave-reviews.php">Rave Reviews</a>
-<ul>
+<ul class="submenu">
 <li><a href="71_rave-reviews.php">Rave Reviews</a></li>
 <li><a href="70_more-rave-reviews.php">More Rave Reviews</a></li>
 <li><a href="1091_even-more-rave-reviews.php">Even More Rave Reviews</a></li>
@@ -180,6 +176,7 @@ var WRInitTime=(new Date()).getTime();
 <li><a href="2341_success-stories.php">Success Stories</a></li>
 <li><a href="2496_more-success-stories.php">More Success Stories</a></li>
 <li><a href="2510_we-are-traders.php">We Are Traders...</a></li>
+<li><a href="2614_if.php">If...</a></li>
 </ul>
 </li>
 <li><a href="16_risk.php">Risk</a>
@@ -187,7 +184,7 @@ var WRInitTime=(new Date()).getTime();
 <li><a href="2421_blog.php">Blog</a>
 </li>
 <li><a href="8_support-faqs.php">Support / FAQs</a>
-<ul>
+<ul class="submenu">
 <li><a href="561_mentor-program-faq.php">Mentor Program FAQ</a></li>
 <li><a href="10_shop.php">Shop</a></li>
 <li><a href="11_privacy.php">Privacy</a></li>
@@ -200,7 +197,7 @@ var WRInitTime=(new Date()).getTime();
 </ul>
 </li>
 <li><a href="15_about-us.php">About Us</a>
-<ul>
+<ul class="submenu">
 <li><a href="72_about-us.php">About Us</a></li>
 <li><a href="49_about-louise.php">About Louise</a></li>
 <li><a href="501_ask-louise.php">Ask Louise</a></li>
@@ -218,12 +215,16 @@ var WRInitTime=(new Date()).getTime();
 <script language="javascript">
 var timeout    = 500;
 var closetimer = 0;
+var timeoutsub    = 200;
+var closetimersub = 0;
 var ddmenuitem = 0;
+var ddsubmenuitem = 0;
 
 function jsddm_open()
 {  jsddm_canceltimer();
-   jsddm_close();
-   ddmenuitem = $(this).find('ul').css('visibility', 'visible');}
+   jsddm_close();   
+   ddmenuitem = $(this).find('.submenu').css('visibility', 'visible');   
+}
 
 function jsddm_close()
 {  if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
@@ -236,9 +237,29 @@ function jsddm_canceltimer()
    {  window.clearTimeout(closetimer);
       closetimer = null;}}
 
+function jsddmsub_open()
+{  jsddmsub_canceltimer();
+   jsddmsub_close();   
+   ddsubmenuitem = $(this).find('.subsubmenu').css('visibility', 'visible');   
+}
+
+function jsddmsub_close()
+{  if(ddsubmenuitem) ddsubmenuitem.css('visibility', 'hidden');}
+
+function jsddmsub_timer()
+{  closetimersub = window.setTimeout(jsddmsub_close, timeoutsub);}
+
+function jsddmsub_canceltimer()
+{  if(closetimersub)
+   {  window.clearTimeout(closetimersub);
+      closetimersub = null;}}
+	  
 $(document).ready(function()
-{  $('#jsddm > li').bind('mouseover', jsddm_open)
-   $('#jsddm > li').bind('mouseout',  jsddm_timer)});
+{  $('#jsddm > li').bind('mouseover', jsddm_open);
+   $('#jsddm > li').bind('mouseout',  jsddm_timer);
+   $('.submenu > li').bind('mouseover',  jsddmsub_open);
+   $('.submenu > li').bind('mouseout',  jsddmsub_timer);  
+});
 
 document.onclick = jsddm_close;
 
@@ -296,7 +317,7 @@ document.onclick = jsddm_close;
 					<td valign="top" class="l s" style="font-size:10px;padding-left:15px;padding-right:15px;text-align:justify;">
 					
 					<strong>General Advice Warning</strong><br>
-                    Louise Bedford, Chris Tate, Art of Trading Pty Ltd, Trading Secrets Pty Ltd and Trading Game Pty Ltd are Authorised Representatives of Ayers Alliance Securities Pty Ltd, Rep No. 418664, AFSL 403070. This information is correct at the time of publishing and may be not be reproduced without formal permission. It is of a general nature and does not take into account your objectives, financial situation or needs. Before acting on any of the information you should consider its appropriateness, having regard to your own objectives, financial situation and needs.                    
+                    Trading Game Unit Trust © 2002 - 2012 (ABN: 18 418 996 042) is an  Authorised Representative of Ayers Alliance Securities Pty Ltd, Rep No. 418664, AFSL 403070. The Trust is affiliated with The Trading Game © (ACN: 099 576 253), Louise Bedford, Chris Tate, Art of Trading Pty Ltd, Trading Secrets Pty Ltd and Trading Game Pty Ltd.  This information is correct at the time of publishing and may be not be reproduced without formal permission. It is of a general nature and does not take into account your objectives, financial situation or needs. Before acting on any of the information you should consider its appropriateness, having regard to your own objectives, financial situation and needs.
 					
 					</td>
 				</tr>
