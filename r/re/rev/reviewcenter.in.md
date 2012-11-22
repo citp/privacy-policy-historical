@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviewcenter.in privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616154516id_/http%3A//www.reviewcenter.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcenter.in privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122230439id_/http%3A//www.reviewcenter.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ReviewCenter.inReview Center
+# Privacy Policy - Review Center India
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at <http://www.reviewcenter.in/contact/>
 
