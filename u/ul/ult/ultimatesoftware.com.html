@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ultimatesoftware.com privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524235359id_/http%3A//www.ultimatesoftware.com/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ultimatesoftware.com privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122202134id_/http%3A//ultimatesoftware.com/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head profile="http://www.w3.org/2005/10/profile">
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -11,15 +11,22 @@
 	<meta name="verify-v1" content="lnPZRfp0sZWjLNzmJeOGL38BKFX8bg4gMRNSMMOlcqU=">
 	<meta name="google-site-verification" content="SGMr36PYbmrPg4tgTF_Z6sH1yIXPbR6zGlNA7cimVLs">
 	<meta name="msvalidate.01" content="1B71286C76146B0B2E2248C548BECCE8">
+	<meta property="og:title" content="Ultimate Software - Ultimate Software Privacy Policy">
+	<meta property="og:description" content="HRMS/Payroll and Talent Management. It's all we do. At Ultimate Software, delivering the best HR and payroll solution to help you improve your human capital management is our exclusive focus. Whether you are looking for HR software, payroll software, or a convenient payroll service, our integrated solutions include flexible human resources management, benefits administration, payroll processing, talent management, and time and attendance functionality, along with a workforce portal, powerful rep">
+	<meta property="og:image" content="http://www.ultimatesoftware.com/images/ultimate_150_by_150.jpg">
+	<meta property="og:image:type" content="image/png">
 	<meta property="fb:page_id" content="29660886831">
 	<meta property="fb:app_id" content="254545457900481">
-	<link rel="stylesheet" href="/css/master.css" type="text/css" media="screen,print" charset="utf-8">
-	<link rel="stylesheet" href="/css/menu.css" type="text/css" media="screen,print" charset="utf-8">
+	<link rel="stylesheet" href="/css/master.css?2012092701" type="text/css" media="screen,print" charset="utf-8">
+	<link rel="stylesheet" href="/css/ui-lightness/jquery-ui-1.8.21.custom.css" type="text/css" charset="utf-8">
+	<link rel="stylesheet" href="/css/menu.css?2012071301" type="text/css" media="screen,print" charset="utf-8">
 	<!--[if lte IE 7]>
 	<style type="text/css">
+		
+
 		#menu .menu-hover-padding
 		{
-			margin-left: -232px;
+			
 			margin-top: -2px;
 			width: 950px;
 
@@ -33,7 +40,13 @@
 
 		#menu .menu-hover-bg {
 			width: 900px;
-            height: 303px;
+			height: 303px;
+		}
+
+		#searchText {
+			padding: 0px !important;
+			height: 22px !important;
+			margin-bottom: 2px !important; 
 		}
 	</style>
 	<![endif]-->
@@ -41,15 +54,13 @@
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/utilities.js"></script>
 	<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
 	<script type="text/javascript" src="/Scripts/CustomFunctions.js"></script>
-	<script type="text/javascript" src="/js/jquery-ui-1.8.17.custom.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"></script>
 	<script type="text/javascript" src="/js/slides.min.jquery.js"></script>
 	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	<script type="text/javascript" language="javascript">
 
-		var sectionSkippedOnce = false;
-		
-		$(function ()
-			{
+
+		$(function () {
 			$("#dialog-message").dialog({
 				modal: true,
 				autoOpen: false,
@@ -59,44 +70,31 @@
 				draggable: true,
 
 				buttons: {
-					Ok: function ()
-					{
+					Ok: function () {
 						$(this).dialog("close");
 					}
 				}
 			});
 		});
 
-		function handleSearchSubmit(txt)
-		{
-			if (document.getElementById('searchText').value != '')
-			{
-				document.getElementById('searchForm').submit();
+		function handleSearchSubmit() {
+			if (	$("#searchText").val() != '' && $("#searchText").val() != '<Search>') {
 				return true;
 			}
-			else
-			{
-				//$("#dialog-message").dialog("open");
+			else {
 				alert("Please enter a search term and try again.");
-				txt.focus();
-
-				//			$( ".selector" ).bind( "dialogclose", function(event, ui) {
-				//...
-				//});
-
-				return false;
+				$("#searcText").focus();
 			}
+			return false;
 		}
 
-		function ChangeCountry(country)
-		{
+		function ChangeCountry(country) {
 			window.location = "/SetCountry/" + country;
 		}
 
 	</script>
 	<script type="text/javascript">
-		$(function ()
-			{
+		$(function () {
 			$('#rotating-banner').slides({
 				preload: true,
 				preloadImage: 'images/loading.gif',
@@ -121,6 +119,14 @@
 
 		$(document).ready(function () {
 			$('img').parent('a').css('border', 'none');
+			$("#searchForm").bind('submit', handleSearchSubmit);
+			$("#searchText").bind('focus', function () { $("#searchText").css('background-image', "none"); });
+			$("#searchText").bind('blur', function () { if ($("#searchText").val() == '') { $("#searchText").css('background-image', "url('/images/top_search_bg.png')"); } });
+			$("#searchButton").bind('click', function () { $("#searchForm").submit(); });
+			if ($("#pageHeaderImg").val() !== undefined && jQuery.trim($("#pageHeaderImg").val()) != '') {
+				$("#headerGraphic").attr("src", $("#pageHeaderImg").val());
+				$("#headerGraphicContainer").show();
+			}
 		});
 	
 	</script>
@@ -130,66 +136,95 @@
 
 </head>
 <body style="">
-	
-	<div id="header">
-		<div id="divLogo" class="noscreen yesprint" style="z-index: 1000; width: 202px; height: 67px">
-			<br>
-			<br>
-			<a href="/Welcome" style="position: relative; z-index: 1000; width: 202px; height: 67px" title="Ultimate Software Home Page">
-				<img src="/images/img_trans.png" class="USLogo" style="width: 202px; height: 67px; z-index: 1000;" alt="Ultimate Software"></a>
-			<br>
-			<br>
+	<div id="dialog-message" title="Message" style="display: none;">
+		<div class="noindex">
+			<p><span class="ui-icon ui-icon-circle-check" style="float: left; margin: 0 7px 50px 0;"></span>Please enter a search term and try again. </p>
 		</div>
-		<div id="header-content" onmouseover="sectionSkippedOnce = true;">
-			<div id="logo" class="noprint" style="z-index: 1000; width: 202px; height: 67px">
+	</div>
+	<div class="noindex">
+		<div id="header">
+			<div id="divLogo" class="noscreen yesprint" style="z-index: 1000; width: 202px; height: 67px">
+				<br>
+				<br>
 				<a href="/Welcome" style="position: relative; z-index: 1000; width: 202px; height: 67px" title="Ultimate Software Home Page">
 					<img src="/images/img_trans.png" class="USLogo" style="width: 202px; height: 67px; z-index: 1000;" alt="Ultimate Software"></a>
+				<br>
+				<br>
 			</div>
-			<div id="details" class="noprint">
-				<div id="country-select">
-					<div style="padding-right: 10px; float: left;">
-						Select Country
-					</div>
-					<!-- Place country drop down here -->
-					<ul id="country" style="z-index: 1001; float: right;">
-						<li>
-							<img src="/images/img_trans.png" class="USA" title="Country - USA">
+			<div id="header-content">
+				<div id="logo" class="noprint" style="z-index: 1000; width: 202px; height: 67px">
+					<a href="/Welcome" style="position: relative; z-index: 1000; width: 202px; height: 67px" title="Ultimate Software Home Page">
+						<img src="/images/img_trans.png" class="USLogo" style="width: 202px; height: 67px; z-index: 1000;" alt="Ultimate Software"></a>
+				</div>
+				<div id="details" class="noprint">
+					<div id="country-select">
+					<span id="currentSelectedCountry" style="display: none">USA</span>
+						<!-- Place country drop down here -->
+						<div id="countryAsPlainText" style="z-index: 1001; width: 300px; margin-left:2px;">
+							Country: 
+								
+																		
+										<a href="javascript:" id="countryUSA" onclick="ChangeCountry('USA')">USA</a>&nbsp;&nbsp;
+																			
+										<a href="javascript:" id="countryCanada" onclick="ChangeCountry('Canada')">Canada</a>&nbsp;&nbsp;
+									
 							
-									<ul>
-								
-									<li><a href="javascript:" onclick="ChangeCountry('USA')">
-										<img class="USA" src="/images/img_trans.png" alt="Country - USA"></a></li>
-								
-									<li><a href="javascript:" onclick="ChangeCountry('Canada')">
-										<img class="Canada" src="/images/img_trans.png" alt="Country - Canada"></a></li>
-								
-									</ul>
-								
-						</li>
-					</ul>
-				</div>
-				<div id="search-box">
-					<form id="searchForm" action="/Search_Results.aspx" method="post" accept-charset="utf-8" onsubmit="return handleSearchSubmit(document.getElementById('searchText'));">
-					<input type="text" name="searchText" value="<Search>" onblur="if (this.value == '') this.value = '<Search>';" onfocus="if (this.value == '<Search>') this.value = '';" id="searchText" maxlength="200">
-					</form>
-				</div>
-				<div id="extra-header-links">
-					<a href="/About_Us_Careers" title="Careers">Careers</a> | <a href="/ContactUs" title="Contact Us">Contact Us</a>
+						</div>
+					</div>
 					
-					
-					<a href="/Customer_Login" id="client-login"><img src="/images/img_trans.png" width="85" height="22" alt="Client Login" id="ClientLogin"></a>
+					<script language="javascript">
 
+						$.ui.autocomplete.prototype._renderMenu = function (ul, items) {
+							var self = this;
+							$.each(items, function (index, item) {
+								if (index < 10) // here we define how many results to show
+								{
+									self._renderItem(ul, item);
+								}
+							});
+						};
+
+						$(function () {
+							var availableTags = ['Address', 'Api', 'App', 'Applicant Tracking', 'Atlanta', 'Benefits', 'Blog', 'Business Intelligence', 'Canada', 'Career', 'Careers', 'Ceo', 'Citrix', 'Classes', 'Cognos', 'Conference', 'Connections', 'Connections Conference', 'Contact', 'Customer Service', 'Demo', 'Direct Deposit', 'Elearning', 'Employee Login', 'Fmla', 'Forms', 'Global', 'Google', 'Hr', 'Human Resources', 'India', 'Integration', 'International', 'Internship', 'Intersourcing', 'Ipad', 'Iphone', 'Iphone App', 'Jobs', 'Las Vegas', 'Leadership', 'Learning', 'Learning Management', 'Lms', 'Location', 'Locations', 'Log In', 'Login', 'Logo', 'Management', 'Mobile', 'Myself', 'Onboarding', 'Open Enrollment', 'Partner', 'Partners', 'Pay Stub', 'Pay Stubs', 'Payroll', 'Paystub', 'Paystubs', 'Peo', 'Pep Boys', 'Pepboys', 'Performance Management', 'Quick Tours', 'Recruitment', 'Saas', 'Safelite', 'Sas 70', 'Sas70', 'Scott Scherr', 'Security', 'Sign In', 'Support', 'Support Services', 'Talent Management', 'Tax', 'Time', 'Time And Attendance', 'Time Clock', 'Time Management', 'Training', 'Training Classes', 'Ulti University', 'Ultimate Experience', 'UltiPro', 'UltiPro Login', 'United States', 'Us', 'Usa', 'User Conference', 'Uta', 'W-2', 'W2', 'Windows 7', 'Year End'];
+							$("#searchText").autocomplete({
+								source: availableTags,
+								open: function () {
+									$(this).autocomplete('widget').css('z-index', 4000);
+									return false;
+								}
+							});
+						});
+				
+					</script>
+					<div id="extra-header-links">
+						<div style="vertical-align: middle">
+							<form style="display: inline" id="searchForm" action="/Search_Results.aspx" method="post" accept-charset="utf-8">
+							<input type="text" name="searchText" value="" id="searchText" maxlength="200" style="width:100px"> <img style="vertical-align: middle;margin-right:10px; margin-top: -3px;" id="searchButton" src="/Images/top_search.png">
+						</form>
+							<a href="/About_Us_Careers" title="Careers">Careers</a> <span class="topMenuSep">|</span> <a href="/ContactUs" title="Contact Us">Contact Us</a> <span class="topMenuSep">|</span> <a href="/Social" id="social-hub" title="Social @ Ultimate">Social</a>
+							
+							<a target="_blank" href="https://login.ultimatesoftware.com" id="client-login" title="Customer Login">
+									<img alt="Customer Login Button" src="/images/img_trans.png" width="85" height="22" id="ClientLogin"></a>
+						</div>
+
+						<br style="clear: both">
+					</div>
 				</div>
-			</div>
-			<div id="navigation" class="clearfix noprint">
-				<script language="javascript">
-					var subMenuActive = false;
+				<div id="navigation" class="clearfix noprint">
+					<script language="javascript" type="text/javascript">
+
+						var subMenuActive = false;
+						var sectionSkippedOnce = false;
+
+						$(document).ready(function () {
 
 
-					$(document).ready(function () {
-						$("#menu > li").hover(
+
+							$("#menu > li").hover(
 							 function () {
-							 	if (this.firstChild.title.replace(" ", "_") == this.firstChild.pathname.replace("/", "") && sectionSkippedOnce == false) {
+							 	// Skip
+							 	var locationName = location.pathname.replace("/", "");
+							 	if ((this.firstChild.title.replace(" ", "_") == locationName || locationName == "ContactUs" || locationName == "Social" || locationName == "Customer_Login") && sectionSkippedOnce == false) {
 							 		sectionSkippedOnce = true;
 							 		return; // skip this first load
 							 	}
@@ -203,111 +238,133 @@
 							 	$(this).find('.menu-hover-padding').css('display', 'block');
 							 	$(this).find('.menu-hover-padding').mouseenter(function () { subMenuActive = true; });
 							 	$(this).find('.menu-hover-padding').mouseleave(function () {
-
+							 		checkSubMenu();
 							 	});
 							 },
 							function () {
+								//subMenuActive = false;
+								//setTimeout("checkSubMenu()", 1000);
+							});
+
+							$("#menu").mouseleave(function () {
 								subMenuActive = false;
-								setTimeout("checkSubMenu()", 1000);
+								checkSubMenu();
+							});
+
+							// Country Select
+							var selectedCountry = $("#currentSelectedCountry").text();
+							var link = $("a[id=country" + selectedCountry + "]");
+							if (link != null) {
+								link.prepend("<img src='/images/top_country.png' style='vertical-align:middle'>");
 							}
-						);
-					});
+						});
 
-					function checkSubMenu() {
-						if (!subMenuActive) {
-							TurnOffButton();
+						function checkSubMenu() {
+							if (!subMenuActive) {
+								TurnOffButton();
+							}
 						}
-					}
 
-					function TurnOffButton() {
-						subMenuActive = false;
-						$("#menu > li").css('background-color', '');
-						$("#menu > li > a.menuLink").css('color', '');
-						$("#menu > li").css('-webkit-border-radius', '');
-						$("#menu > li").css('-moz-border-radius', '');
-						$("#menu > li").css('border-radius', '');
+						function TurnOffButton() {
+							subMenuActive = false;
+							$("#menu > li").css('background-color', '');
+							$("#menu > li > a.menuLink").css('color', '');
+							$("#menu > li").css('-webkit-border-radius', '');
+							$("#menu > li").css('-moz-border-radius', '');
+							$("#menu > li").css('border-radius', '');
+
+							$('#menu li .menu-hover-padding').css('display', 'none');
+
+
+						}
+
+
+					</script>
+					<!--	<input type="button" class="Button1" style="float: right; margin-left: 5px; padding-right: 15px; width: 125px; background-image: url('/images/lock.png'); background-position: 109px; background-repeat: no-repeat;" value="Customer Login" onclick="window.location = '/Customer_Login';"> -->
+					<ul id="menu">
 						
-						$('#menu li .menu-hover-padding').css('display', 'none');
-						
-
-					}
-
-
-				</script>
-				
-			<!--	<input type="button" class="Button1" style="float: right; margin-left: 5px; padding-right: 15px; width: 125px; background-image: url('/images/lock.png'); background-position: 109px; background-repeat: no-repeat;" value="Customer Login" onclick="window.location = '/Customer_Login';"> -->
-
-				<ul id="menu" onmouseover="sectionSkippedOnce = true;">
-					
-							<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Solutions" href="/Solutions">
-								Solutions</a>
-								<div class="menu-hover-padding">
-									<div class="menu-hover-bg clearfix">
-										<div id="topTopLeft">
-											<ul>
-												<li style="margin-left:0px !important"><h2><a class="menu-hover-main-link" title="Solutions" href="/Solutions" target="_top">
-													Solutions</a></h2></li>
-												
-														<li style="margin-left:10px !important"><a title="Enterprise Solutions" href="/Solutions_Enterprise" target="_top">
-															Enterprise Solutions</a></li>
+								<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Solutions" href="/Solutions">
+									Solutions</a>
+									<div class="menu-hover-padding">
+										<div class="menu-hover-bg clearfix">
+											<div id="topTopLeft">
+												<ul>
+													<li style="margin-left: 0px !important"><h2><a class="menu-hover-main-link" title="Solutions" href="/Solutions" target="_top">
+														Solutions</a></h2></li>
 													
-														<li style="margin-left:10px !important"><a title="Workplace Solutions" href="/Solutions_Workplace" target="_top">
-															Workplace Solutions</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Canada Solutions" href="/Solutions_Canada" target="_top">
-															Canada Solutions</a></li>
-													
-														<li style="margin-left:10px !important"><a title="SaaS / Cloud" href="/Solutions_Benefits_of_SaaS" target="_top">
-															SaaS / Cloud</a></li>
-													
-											</ul>
-										</div>
-										<div class="nav-middle spotlight">
-												<h2>Comprehensive People Management</h2>
+															<li style="margin-left: 10px !important"><a title="Enterprise Solutions" href="/Solutions_Enterprise" target="_top">
+																Enterprise Solutions</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Workplace Solutions" href="/Solutions_Workplace" target="_top">
+																Workplace Solutions</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Canada Solutions" href="/Solutions_Canada" target="_top">
+																Canada Solutions</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="SaaS / Cloud" href="/Solutions_Benefits_of_SaaS" target="_top">
+																SaaS / Cloud</a></li>
+														
+												</ul>
+											</div>
+											<div class="nav-middle spotlight">
+												<div class="noindex">
+													<h2>Solution Overview Tour</h2>
+<a title="5-Minute Overview Product Tour" href="/ContactForm/70160000000HX6V?from=menu_spotlight">
+<img src="http://www.ultimatesoftware.com/images/spotlight-tablet-user.jpg" alt="5-Minute Tour"></a>
+<p>Take a quick spin around UltiPro. This is the fastest, most hassle-free test drive you'll ever take to explore a people management solution.
+</p><p><a title="Solution Tours" href="/ContactForm/70160000000HX6V?from=menu_spotlight">Start the Tour</a></p>
+
+												</div>
+											</div>
+											<div class="nav-right spotlight noindex">
+												<div class="noindex">
+														<h2>Comprehensive People Management</h2>
 	<a title="Explore the Comprehensive Features of UltiPro" href="/Solutions?from=?from=menu_spotlight">
 		<img src="http://www.ultimatesoftware.com/images/spotlight-product-wheel-wide.jpg" alt="Explore the Comprehensive Features of UltiPro">
 	</a><p><a title="Explore the Comprehensive Features of UltiPro" href="/Solutions?from=menu_spotlight">Learn More</a></p>
-										</div>
-										<div class="nav-right spotlight">
-											<h2>5-Minute Tour</h2>
-<a title="5-Minute Tour" href="/UltiPro_Solution_Tours?from=menu_spotlight">
-<img src="http://www.ultimatesoftware.com/images/spotlight-solution-tour.jpg" alt="5-Minute 
-
-Tour"></a>
-<p>Take a quick spin around UltiPro. This is the fastest, most 
-
-hassle-free test drive you'll ever take to explore a people management solution.
-</p><p><a title="Solution Tours" href="/UltiPro_Solution_Tours?from=menu_spotlight">Start the Tour</a></p>
+												</div>
+											</div>
 										</div>
 									</div>
-								</div>
-							</li>
-						
-							<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Technology" href="/Technology">
-								Technology</a>
-								<div class="menu-hover-padding">
-									<div class="menu-hover-bg clearfix">
-										<div id="topTopLeft">
-											<ul>
-												<li style="margin-left:0px !important"><h2><a class="menu-hover-main-link" title="Technology" href="/Technology" target="_top">
-													Technology</a></h2></li>
-												
-														<li style="margin-left:10px !important"><a title="SaaS / Cloud" href="/Benefits_Of_SaaS_Technology" target="_top">
-															SaaS / Cloud</a></li>
+								</li>
+							
+								<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Technology" href="/Technology">
+									Technology</a>
+									<div class="menu-hover-padding">
+										<div class="menu-hover-bg clearfix">
+											<div id="topTopLeft">
+												<ul>
+													<li style="margin-left: 0px !important"><h2><a class="menu-hover-main-link" title="Technology" href="/Technology" target="_top">
+														Technology</a></h2></li>
 													
-														<li style="margin-left:10px !important"><a title="Global" href="/Global_Infrastructure_Technology" target="_top">
-															Global</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Mobile" href="/Mobile_Technology" target="_top">
-															Mobile</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Security" href="/Security" target="_top">
-															Security</a></li>
-													
-											</ul>
-										</div>
-										<div class="nav-middle spotlight">
-												<h2>Busting the Myths of HCM Cloud Technology</h2>
+															<li style="margin-left: 10px !important"><a title="SaaS / Cloud" href="/Benefits_Of_SaaS_Technology" target="_top">
+																SaaS / Cloud</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Global" href="/Global_Infrastructure_Technology" target="_top">
+																Global</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Mobile" href="/Mobile_Technology" target="_top">
+																Mobile</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Security" href="/Security" target="_top">
+																Security</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Solution Tour" href="/ContactForm/70160000000HX6V?from=TechnologyNav" target="_top">
+																Solution Tour</a></li>
+														
+												</ul>
+											</div>
+											<div class="nav-middle spotlight">
+												<div class="noindex">
+														<h2>Connecting Your Worldwide Workforce Today...</h2>
+	<a title="Whitepaper: Global HCM" href="/ContactForm/70160000000SjZY?from=menu_spotlight">
+<img src="http://www.ultimatesoftware.com/images/spotlight-ultipro-global.jpg" alt="Whitepaper: Global HCM"></a> <p>...with the HCM solution of tomorrow. Learn how <br>a people management solution can give your leadership team the tools to centralize HR<br>on a global scale.</p>
+<a title="Whitepaper: Global HCM" href="/ContactForm/70160000000SjZY?from=menu_spotlight">Download Whitepaper</a><p></p>
+												</div>
+											</div>
+											<div class="nav-right spotlight noindex">
+												<div class="noindex">
+														<h2>Busting the Myths of HCM Cloud Technology</h2>
 	<a title="Whitepaper: HCM Cloud Technology" href="/ContactForm/70160000000UWKG?from=menu_spotlight">
 <img src="http://www.ultimatesoftware.com/images/spotlight-hcm-cloud-technology.jpg" alt="Whitepaper: HCM Cloud Technology"></a> <p>Get the facts about what SaaS in the cloud will and won't do for your organization's workforce management by reading this no-cost 
 
@@ -315,232 +372,251 @@ whitepaper.
 </p>
 <a title="Whitepaper: HCM Cloud Technology" href="/ContactForm/70160000000UWKG?from=menu_spotlight">Download Whitepaper</a><p></p>
 
-										</div>
-										<div class="nav-right spotlight">
-												<div style="text-align: left;">
-		<h2>Benefits of SaaS for HCM</h2>
-		<a title="Benefits of SaaS for HCM" href="#" onclick="return launchVideo(35, 'menu');">
-			<img src="http://www.ultimatesoftware.com/images/video-spotlight-saas.jpg" alt="Benefits of SaaS for HCM"></a>
-	</div>
-
+												</div>
+											</div>
 										</div>
 									</div>
-								</div>
-							</li>
-						
-							<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Customer Stories" href="/Customer_Stories">
-								Customer Stories</a>
-								<div class="menu-hover-padding">
-									<div class="menu-hover-bg clearfix">
-										<div id="topTopLeft">
-											<ul>
-												<li style="margin-left:0px !important"><h2><a class="menu-hover-main-link" title="Customer Stories" href="/Customer_Stories" target="_top">
-													Customer Stories</a></h2></li>
-												
-														<li style="margin-left:10px !important"><a title="By Industry" href="/Customer_Stories_By_Industry" target="_top">
-															By Industry</a></li>
+								</li>
+							
+								<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Customer Stories" href="/Customer_Stories">
+									Customer Stories</a>
+									<div class="menu-hover-padding">
+										<div class="menu-hover-bg clearfix">
+											<div id="topTopLeft">
+												<ul>
+													<li style="margin-left: 0px !important"><h2><a class="menu-hover-main-link" title="Customer Stories" href="/Customer_Stories" target="_top">
+														Customer Stories</a></h2></li>
 													
-														<li style="margin-left:10px !important"><a title="Customer Quotes" href="/Customer_Stories_Customer_Quotes" target="_top">
-															Customer Quotes</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Customer Videos" href="/Customer_Stories_Videos" target="_top">
-															Customer Videos</a></li>
-													
-														<li style="margin-left:10px !important"><a title="HR Heroes" href="/Customer_Stories_HR_Heroes" target="_top">
-															HR Heroes</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Innovation Awards" href="/Customer_Stories_Innovation_Awards" target="_top">
-															Innovation Awards</a></li>
-													
-											</ul>
-										</div>
-										<div class="nav-middle spotlight">
-											<h2>Customer Case Study Revlon</h2>
-<a title="Customer Case Study Revlon, Inc." href="/Case_Study.aspx?p=20141&amp;c=183&amp;m=48&amp;from=menu_spotlight">
-<img src="http://www.ultimatesoftware.com/images/spotlight-revlon.jpg" alt="Customer Case Study Revlon">
-</a>
-<p>Find out how UltiPro’s highly configurable, cloud-based solution elevated Revlon’s HCM to a new level. </p><p><a title="Customer Case Study Revlon, Inc." href="/Case_Study.aspx?p=20141&amp;c=183&amp;m=48&amp;from=menu_spotlight">Learn More</a></p>
-										</div>
-										<div class="nav-right spotlight">
-											<h2>Pep Boys and Selecting UltiPro</h2>
-	<a title="Video: Pep Boys and selecting UltiPro" href="#" onclick="return launchVideo(67,'menu');">
-	<img src="http://www.ultimatesoftware.com/images/customerlogos/pepboys.jpg" alt="Pep Boys and Selecting UltiPro">	
-	</a>
-	<p><a title="Video: Explore the Unified Features of UltiPro" href="#" onclick="return launchVideo(67, 'menu');">Watch Video</a></p>
-										</div>
-									</div>
-								</div>
-							</li>
-						
-							<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Resources" href="/Resources">
-								Resources</a>
-								<div class="menu-hover-padding">
-									<div class="menu-hover-bg clearfix">
-										<div id="topTopLeft">
-											<ul>
-												<li style="margin-left:0px !important"><h2><a class="menu-hover-main-link" title="Resources" href="/Resources" target="_top">
-													Resources</a></h2></li>
-												
-														<li style="margin-left:10px !important"><a title="Customer Videos" href="/Resources_Customer_Videos" target="_top">
-															Customer Videos</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Whitepapers" href="/Resources_Whitepapers" target="_top">
-															Whitepapers</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Videocasts" href="/Resources_Videocasts" target="_top">
-															Videocasts</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Company Documents" href="/Resources_Company_Documents" target="_top">
-															Company Documents</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Podcasts" href="/Resources_Podcasts" target="_top">
-															Podcasts</a></li>
-													
-											</ul>
-										</div>
-										<div class="nav-middle spotlight">
-											<h2>The Power of UltiPro</h2>
-<div style="float:right;"><a target="_blank" title="Ultimate Software. People First.  - January 2012" href="http://digital.turn-page.com/issue/53179?from=menu_spotlight"><img src="http://www.ultimatesoftware.com/images/spotlight-power-of-ultipro-brochure.jpg" border="0"></a></div>
-We are in the people business. See how UltiPro seamlessly unites people with the information they need.
-										</div>
-										<div class="nav-right spotlight">
-											<h2>Weathering the Storm</h2>
-<a href="/ContactForm/70160000000TiJH?from=menu_spotlight"><img src="http://www.ultimatesoftware.com/images/weathering-the-storm.gif" border="0" alt="Weathering the Talent Management Storm"></a>
-<p>A fun, visual game plan for nurturing your top performers that you'll surely want to pass along to your coworkers!</p><p><a title="Weathering the Storm" href="/ContactForm/70160000000TiJH?from=menu_spotlight">Check it out.</a></p>
+															<li style="margin-left: 10px !important"><a title="By Industry" href="/Customer_Stories_By_Industry" target="_top">
+																By Industry</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Customer Quotes" href="/Customer_Stories_Customer_Quotes" target="_top">
+																Customer Quotes</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Customer Videos" href="/Customer_Stories_Videos" target="_top">
+																Customer Videos</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="HR Heroes" href="/Customer_Stories_HR_Heroes" target="_top">
+																HR Heroes</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Innovation Awards" href="/Customer_Stories_Innovation_Awards" target="_top">
+																Innovation Awards</a></li>
+														
+												</ul>
+											</div>
+											<div class="nav-middle spotlight">
+												<div class="noindex">
+													<h2>Customer Case Study:<br>
+First Horizon</h2>
+<a title="Customer Case Study First Horizon" href="/Case_Study/20141/48/63/?from=menu_spotlight"><img style="margin-left: 0; float:none; !important;" src="http://www.ultimatesoftware.com/images/spotlight-first-horizon.jpg" alt="Customer Case Study First Horizon"></a>
+<p>First Horizon leveraged the power of UltiPro delivered in the cloud to enhance employee communications and streamline people management across the board. </p><p><a title="Customer Case First Horizon" href="/Case_Study/20141/48/63/?from=menu_spotlight">Discover How</a></p>
+												</div>
+											</div>
+											<div class="nav-right spotlight noindex">
+												<div class="noindex">
+													<h2>Customer Case Study:<br>
+Texas Roadhouse</h2>
+<a title="Customer Case Study Texas Roadhouse" href="/Case_Study/20141/48/185/?from=menu_spotlight"><img src="http://www.ultimatesoftware.com/images/spotlight-texas-roadhouse.jpg" alt="Customer Case Study Texas Roadhouse"></a>
+<p>Discover how Texas Roadhouse achieved peak HCM performance with UltiPro's superbly configurable, cloud-based solution. </p><p><a title="Customer Case Texas Roadhouse" href="/Case_Study/20141/48/185/?from=menu_spotlight">Learn More</a></p>
+												</div>
+											</div>
 										</div>
 									</div>
-								</div>
-							</li>
-						
-							<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Events" href="/Events">
-								Events</a>
-								<div class="menu-hover-padding">
-									<div class="menu-hover-bg clearfix">
-										<div id="topTopLeft">
-											<ul>
-												<li style="margin-left:0px !important"><h2><a class="menu-hover-main-link" title="Events" href="/Events" target="_top">
-													Events</a></h2></li>
-												
-														<li style="margin-left:10px !important"><a title="HR Workshops" href="/Events_HR_Workshops" target="_top">
-															HR Workshops</a></li>
+								</li>
+							
+								<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Resources" href="/Resources">
+									Resources</a>
+									<div class="menu-hover-padding">
+										<div class="menu-hover-bg clearfix">
+											<div id="topTopLeft">
+												<ul>
+													<li style="margin-left: 0px !important"><h2><a class="menu-hover-main-link" title="Resources" href="/Resources" target="_top">
+														Resources</a></h2></li>
 													
-														<li style="margin-left:10px !important"><a title="Webcasts" href="/Events_Webcasts" target="_top">
-															Webcasts</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Seminars" href="/Events_Seminars" target="_top">
-															Seminars</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Trade Shows" href="/Events_Trade_Shows" target="_top">
-															Trade Shows</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Podcasts" href="/Events_Podcasts" target="_top">
-															Podcasts</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Videocasts" href="/Events_Videocasts" target="_top">
-															Videocasts</a></li>
-													
-											</ul>
+															<li style="margin-left: 10px !important"><a title="Customer Videos" href="/Resources_Customer_Videos" target="_top">
+																Customer Videos</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Whitepapers" href="/Resources_Whitepapers" target="_top">
+																Whitepapers</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Videocasts" href="/Resources_Videocasts" target="_top">
+																Videocasts</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Company Documents" href="/Resources_Company_Documents" target="_top">
+																Company Documents</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Podcasts" href="/Resources_Podcasts" target="_top">
+																Podcasts</a></li>
+														
+												</ul>
+											</div>
+											<div class="nav-middle spotlight">
+												<div class="noindex">
+													<h2>Future-Proofing Your Business</h2>
+<a href="/ContactForm/70160000000UYQt?from=menu_spotlight"><img src="http://www.ultimatesoftware.com/images/spotlight-future-proofing-infographic.jpg" border="0" alt="Succession Management Infographic"></a>
+<p> Learn some surprising facts about succession management and gain a better understanding of why future-proofing your business is more important than ever.</p><p><a title="Succession Management Infographic" href="/ContactForm/70160000000UYQt?from=menu_spotlight">Download Infographic</a></p>
+												</div>
+											</div>
+											<div class="nav-right spotlight noindex">
+												<div class="noindex">
+													<h2>Whitepaper:<br>HCM Toolkit for&nbsp;Restaurants</h2>
+<p><a title="HCM Toolkit for Restaurants" href="/ContactForm/70160000000Ut1c?from=menu_spotlight"> <img src="http://www.ultimatesoftware.com/images/2012-spotlight-milen2.jpg" alt="HCM Toolkit for&nbsp;Restaurants"></a></p>
+<p><span>From catering to the needs of your customers to ensuring proper management for a huge variety of roles, restaurants rely on effective human capital management (HCM) to get the job done.</span></p>
+<p><a title="HCM Toolkit for&nbsp;Restaurants" href="/ContactForm/70160000000Ut1c?from=menu_spotlight">Read the Whitepaper</a></p>
+												</div>
+											</div>
 										</div>
-										<div class="nav-middle spotlight">
-											<h2>People Management Webcasts</h2>
-	<a title="People Management Webcasts" target="_blank" href="http://www.ultimatesoftware.com/Events_Webcasts?from=menu_spotlight">
-		<img src="http://www.ultimatesoftware.com/images/spotlight-solution-tour.jpg" alt="People Management Webcasts"></a>
+									</div>
+								</li>
+							
+								<li><a onmouseout="subMenuActive = false;" class="menuLink" title="Events" href="/Events">
+									Events</a>
+									<div class="menu-hover-padding">
+										<div class="menu-hover-bg clearfix">
+											<div id="topTopLeft">
+												<ul>
+													<li style="margin-left: 0px !important"><h2><a class="menu-hover-main-link" title="Events" href="/Events" target="_top">
+														Events</a></h2></li>
+													
+															<li style="margin-left: 10px !important"><a title="HR Workshops" href="/Events_HR_Workshops" target="_top">
+																HR Workshops</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Webcasts" href="/Events_Webcasts" target="_top">
+																Webcasts</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Seminars" href="/Events_Seminars" target="_top">
+																Seminars</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Trade Shows" href="/Events_Trade_Shows" target="_top">
+																Trade Shows</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Podcasts" href="/Events_Podcasts" target="_top">
+																Podcasts</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Videocasts" href="/Events_Videocasts" target="_top">
+																Videocasts</a></li>
+														
+												</ul>
+											</div>
+											<div class="nav-middle spotlight">
+												<div class="noindex">
+													<h2>People Management Webcasts</h2>
+	<a title="People Management Webcasts" href="/Events_Webcasts?from=menu_spotlight">
+		<img src="http://www.ultimatesoftware.com/images/image20_present.jpg" alt="People Management Webcasts"></a>
 	<p>Check out our live and archived HR &amp; payroll webcasts on the industry's most pressing issues.</p>
-	<p><a title="People Management Webcasts" target="_blank" href="http://www.ultimatesoftware.com/Events_Webcasts?from=menu_spotlight">Learn More</a> </p>
-										</div>
-										<div class="nav-right spotlight">
-											<h2>One-of-a-Kind HR Workshops</h2>
-<a title="One of a Kind HR Workshops" href="#" onclick="return launchVideo(66, 'menu');">
-<img src="http://www.ultimatesoftware.com/images/video-spotlight-hr-workshops.jpg" alt="One-of-a-Kind HR Workshops">
-</a>
+	<p><a title="People Management Webcasts" href="/Events_Webcasts?from=menu_spotlight">Learn More</a> </p>
 
+												</div>
+											</div>
+											<div class="nav-right spotlight noindex">
+												<div class="noindex">
+													<h2> Live, No-Cost Webcast:<br>Eye on Employment Law 2013 </h2> 
+<p><a title="Eye on Employment Law 2013 Webcast" href="/ContactForm/70160000000UyE4?from=menu_spotlight"> <img src="http://www.ultimatesoftware.com/images/spotlight-gavel.jpg" alt="Eye on Employment Law 2013 "></a></p> 
+<p><span>A fast-paced summary of the latest employment law developments impacting employers.</span></p> Dec. 5th at 2pm ET <br> 
+<p><a title="Eye on Employment Law 2013 Webcast" href="/ContactForm/70160000000UyE4?from=menu_spotlight">Register Today</a></p>
+												</div>
+											</div>
 										</div>
 									</div>
-								</div>
-							</li>
-						
-							<li><a onmouseout="subMenuActive = false;" class="menuLink" title="About Us" href="/About_Us">
-								About Us</a>
-								<div class="menu-hover-padding">
-									<div class="menu-hover-bg clearfix">
-										<div id="topTopLeft">
-											<ul>
-												<li style="margin-left:0px !important"><h2><a class="menu-hover-main-link" title="About Us" href="/About_Us" target="_top">
-													About Us</a></h2></li>
-												
-														<li style="margin-left:10px !important"><a title="Investor Relations" href="/Ultimate_Investor_Relations" target="_top">
-															Investor Relations</a></li>
+								</li>
+							
+								<li><a onmouseout="subMenuActive = false;" class="menuLink" title="About Us" href="/About_Us">
+									About Us</a>
+									<div class="menu-hover-padding">
+										<div class="menu-hover-bg clearfix">
+											<div id="topTopLeft">
+												<ul>
+													<li style="margin-left: 0px !important"><h2><a class="menu-hover-main-link" title="About Us" href="/About_Us" target="_top">
+														About Us</a></h2></li>
 													
-														<li style="margin-left:10px !important"><a title=" Partners" href="/Partners" target="_top">
-															 Partners</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Company News" href="/About_Us_Company_News" target="_top">
-															Company News</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Careers" href="/About_Us_Careers" target="_top">
-															Careers</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Product Leadership" href="/Ultimate_Product_Leadership" target="_top">
-															Product Leadership</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Company Culture" href="/Ultimate_Company_Culture" target="_top">
-															Company Culture</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Green" href="/Ultimate_Green" target="_top">
-															Green</a></li>
-													
-														<li style="margin-left:10px !important"><a title="Social Media" href="/Ultimate_Connect_With_Us" target="_top">
-															Social Media</a></li>
-													
-											</ul>
-										</div>
-										<div class="nav-middle spotlight">
-											<h2>We Are All About People</h2>
-<div style="float:right;"><a title="We Are All About People" target="_blank" href="http://digital.turn-page.com/issue/52601?from=menu_spotlight">
-<img src="http://www.ultimatesoftware.com/images/spotlight-who-we-are-brochure.jpg" alt="We Are All About People"></a></div>
-Read the true stories of our people and discover who Ultimate is in our own words.
-
-										</div>
-										<div class="nav-right spotlight">
-												<h2>We Are Ultimate Software</h2>
-	<a title="We Are Ultimate Software" href="#" onclick="return launchVideo(64, 'menu');">
-		<img src="http://www.ultimatesoftware.com/images/video-spotlight-i-in-ultimate.jpg" alt="We Are Ultimate Software"></a>
+															<li style="margin-left: 10px !important"><a title="Investor Relations" href="/Ultimate_Investor_Relations" target="_top">
+																Investor Relations</a></li>
+														
+															<li style="margin-left: 10px !important"><a title=" Partners" href="/Partners" target="_top">
+																 Partners</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Company News" href="/About_Us_Company_News" target="_top">
+																Company News</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Careers" href="/About_Us_Careers" target="_top">
+																Careers</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Product Leadership" href="/Ultimate_Product_Leadership" target="_top">
+																Product Leadership</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Company Culture" href="/Ultimate_Company_Culture" target="_top">
+																Company Culture</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Green" href="/Ultimate_Green" target="_top">
+																Green</a></li>
+														
+															<li style="margin-left: 10px !important"><a title="Social Media" href="/Ultimate_Connect_With_Us" target="_top">
+																Social Media</a></li>
+														
+												</ul>
+											</div>
+											<div class="nav-middle spotlight">
+												<div class="noindex">
+														<h2>Follow Ultimate on Pinterest</h2>
+	<a title="Follow US on Pinterest" href="https://pinterest.com/ultimatehcm/">
+<img style="padding-top:50px" src="http://www.ultimatesoftware.com/images/pinterest_logo.jpg" alt="Follow US on Pinterest"></a> <p>HR/Payroll inspiration, infographics, case studies, companies we<br>love, and other <br> creative items.</p>
+<a title="Follow US on Pinterest" href="https://pinterest.com/ultimatehcm/">Follow Now</a><p></p>
+												</div>
+											</div>
+											<div class="nav-right spotlight noindex">
+												<div class="noindex">
+													<h2>Ultimate News Room</h2>
+	<a title="Ultimate Software News Room" href="http://news.ultimatesoftware.com/">
+<img src="http://www.ultimatesoftware.com/images/spotlight-newsroom-logo.jpg" alt="Ultimate Software News Room"></a> <p>Check out the Ultimate News Room regularly for<br>up-to-date news releases, company information,<br> videos and much more.</p>
+<a title="Ultimate Software News Room" href="http://news.ultimatesoftware.com/?from=menu_spotlight">Get Informed Now</a><p></p>
+												</div>
+											</div>
 										</div>
 									</div>
-								</div>
-							</li>
-						
-				</ul>
+								</li>
+							
+					</ul>
+				</div>
 			</div>
+			
 		</div>
+		
 	</div>
-	<div id="container" onmouseover="sectionSkippedOnce = true;">
-		<div>
+	<div id="headerGraphicContainer"><img id="headerGraphic" class="content" src="/Images/clear.gif" style="line-height: 0px !important; width:959px; height:auto; margin-bottom:0px"></div>
+	<div id="container">
+		<div>			
 			
 	<div id="container">
 		<div id="banner-inside-wrapper" class="noprint clearfix ">
 			<div id="banner-inside">
-				<ul>
-					<li><a href="/Welcome" title=""><span class="notCurrentSectionMenuItem">
+				<div class="noindex">
+					<ul>
+						<li><a href="/Welcome" title=""><span class="notCurrentSectionMenuItem">
+							
+						</span></a></li>
 						
-					</span></a></li>
-					
-				</ul>
+					</ul>
+				</div>
 			</div>
 			
 			<div id="banner-inside-picture-bar">
-				<h1>
-					Privacy Policy</h1>
-				<img src="http://www.ultimatesoftware.com/images/header-about-us.jpg" alt="Privacy Policy">
+				<div class="noindex">
+					<h1>
+						Privacy Policy</h1>
+						
+								<img src="http://www.ultimatesoftware.com/images/header-about-us.jpg" alt="Privacy Policy">
+						
+				</div>
 			</div>
 			
-		</div>
+			
+		</div>		
 		<div id="content" class="clearfix">
 			<div id="interior-col1-fullwidth">
 				
 				
 				
-					<div id="Div1">
+					<div id="">
 						<div id="cms-content" class="clearfix">
 							
 									<div>
@@ -549,7 +625,7 @@ Read the true stories of our people and discover who Ultimate is in our own word
   <br>
   The Ultimate Software Group, Inc. (“Ultimate Software”) respects the privacy of  our customers, employees, website visitors, and job applicants. We believe it  is important for you to understand the type of information we collect about you  and how that information is used. We recognize the need for appropriate  safeguards and management of Personal Information you provide to us. This Privacy  Policy sets forth the privacy principles Ultimate Software follows with respect  to your Personal Information.<br><br>
 <h2>Safe Harbor</h2>
-Ultimate Software adheres to the Safe Harbor privacy framework developed by the U.S.  Department of Commerce in consultation with the European Commission’s Directive  on Data Protection and the Federal Data Protection  and Information Commission of Switzerland on the transfer of Personal  Information from European Union member countries and Switzerland  to the United States (the “Safe Harbor Agreement”). The Safe Harbor privacy  principles are notice, choice, onward transfer, access, security, data  integrity, and enforcement. More information about the U.S. Department of  Commerce’s Safe Harbor program can be found at <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.
+Ultimate Software adheres to the Safe Harbor privacy frameworks which were developed by the U.S.  Department of Commerce in consultation with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, on the transfer of Personal Information from European Union member countries and Switzerland to the United States (the “U.S.-EU Safe Harbor Framework” and the “U.S.-Swiss Safe Harbor Framework”, collectively the Safe Harbor Frameworks). The Safe Harbor privacy  principles are notice, choice, onward transfer, access, security, data  integrity, and enforcement. More information about the U.S. Department of  Commerce’s Safe Harbor program can be found at <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.
 <br><br>
 <h2>Scope</h2>
 This Privacy Policy applies to all Personal Information received by Ultimate  Software (including its Subsidiaries) in any format including electronic,  paper, or verbal.<br><br>
@@ -557,18 +633,18 @@ This Privacy Policy applies to all Personal Information received by Ultimate  So
 <br><br><h2>Notice</h2>
 <u><strong>How Personal Information is Collected</strong></u>
 <br><br><u>Web Visitors</u><br>
-  Ultimate  Software collects Personal Information about a visitor to our website only  when the visitor chooses to provide such information.&nbsp; On certain pages, for example, a visitor has  the opportunity to provide his/her personal information such as his/her name, company,  address, phone number, and e-mail address.&nbsp;  By supplying such information to Ultimate Software, a visitor can  request details about Ultimate Software, including information about the  company’s product line and investor information, or sign up for company-sponsored  events or use the company’s support website.<br>
+  Ultimate  Software collects Personal Information about a visitor to our website only  when the visitor chooses to provide such information.  On certain pages, for example, a visitor has  the opportunity to provide his/her personal information such as his/her name, company,  address, phone number, and e-mail address.   By supplying such information to Ultimate Software, a visitor can  request details about Ultimate Software, including information about the  company’s product line and investor information, or sign up for company-sponsored  events or use the company’s support website.<br>
   <br>
   <u>Website / Cookies</u><br>
-  In  order to improve the content and format of our site, Ultimate Software uses Web  site&nbsp; tracking software to automatically  capture technical information that is then stored in our server’s log files.  This information may include, but is not limited to, user domain, the type of  Internet browser being used, which of our Web pages is visited, and the amount  of time spent on our site.
-<br><br>In addition, some of Ultimate Software’s Web pages may contain "cookies."&nbsp; A cookie is a small  amount of data which our website stores on your computer, and which we can  later retrieve. The cookie cannot be read by a site other than ours. We use  cookies for a number of administrative purposes; for example, to store your  preferences for certain kinds of information. No cookie will contain  information that will allow anyone to contact you via telephone, e-mail, or any  other means. You can monitor our use of cookies on your computer by setting your  Web browser to inform you when cookies are set, or you can prevent the cookies  from being set entirely. The “help” portion of the toolbar on most browsers  will tell you how to prevent your browser from accepting new cookies, how to  have the browser notify you when you receive a new cookie, or how to disable  cookies altogether. Please understand that if you disable the use of cookies on  your computer, you may be unable to access certain portions or services on our  websites.
+  In  order to improve the content and format of our site, Ultimate Software uses Web  site  tracking software to automatically  capture technical information that is then stored in our server’s log files.  This information may include, but is not limited to, user domain, the type of  Internet browser being used, which of our Web pages is visited, and the amount  of time spent on our site.
+<br><br>In addition, some of Ultimate Software’s Web pages may contain "cookies."  A cookie is a small  amount of data which our website stores on your computer, and which we can  later retrieve. The cookie cannot be read by a site other than ours. We use  cookies for a number of administrative purposes; for example, to store your  preferences for certain kinds of information. No cookie will contain  information that will allow anyone to contact you via telephone, e-mail, or any  other means. You can monitor our use of cookies on your computer by setting your  Web browser to inform you when cookies are set, or you can prevent the cookies  from being set entirely. The “help” portion of the toolbar on most browsers  will tell you how to prevent your browser from accepting new cookies, how to  have the browser notify you when you receive a new cookie, or how to disable  cookies altogether. Please understand that if you disable the use of cookies on  your computer, you may be unable to access certain portions or services on our  websites.
 <br><br><u>Job Applicants and Employees</u><br>
   Ultimate  Software collects Personal Information from its employees and job applicants  for, among other things, legitimate human resource business reasons such as  payroll administration, filling employment positions, maintaining accurate  benefits records, meeting governmental reporting requirements, security, health  and safety management, performance management, company network access, and  authentication.
 <br><br><u>Customers</u><br>
-  Ultimate  Software collects Personal Information from our customers who use our solution.&nbsp; The information may be  collected through our SaaS solution, or by members of our support team who provide support to on-premise customers. The type of Personal  Information collected is similar to the information collected under the “Job Applicants  and Employees” paragraph, above.
+  Ultimate  Software collects Personal Information from our customers who use our solution.  The information may be  collected through our SaaS solution, or by members of our support team who provide support to on-premise customers. The type of Personal  Information collected is similar to the information collected under the “Job Applicants  and Employees” paragraph, above.
 <br><br><h2>Choice</h2>
 <strong><u>Use of Your  Personal Information</u></strong><br>
- We use your Personal Information to provide you with the services which Ultimate  Software is contractually obligated to provide to you, or to assist you in  completing a transaction, or communicate with you about our products or  services. We use Personal Information from website visitors to respond to any  inquiries such visitors make to our website and to provide you with related  information of interest to you.&nbsp; We do not  sell or rent your Personal Information to third parties.<br>
+ We use your Personal Information to provide you with the services which Ultimate  Software is contractually obligated to provide to you, or to assist you in  completing a transaction, or communicate with you about our products or  services. We use Personal Information from website visitors to respond to any  inquiries such visitors make to our website and to provide you with related  information of interest to you.  We do not  sell or rent your Personal Information to third parties.<br>
   <br>
   We  may disclose your Personal Information if we are required to do so by law or we  in good faith believe that such action is necessary to (1) comply with the law  or with legal process; (2) protect and defend our rights and property; (3)  protect against misuse or unauthorized use of our website; or (4) protect the  personal safety or property of our users or the public (among other things,  this means that if you provide false information or attempt to pose as someone  else, information about you may be disclosed as part of any investigation into  your actions). 
 <br><br>Other  than as stated in this Privacy Policy, we will endeavor not to release your  Personal Information to unknown or unaffiliated third parties, and we will not  cross-reference your Personal Information with that of any other customer or  entity.
@@ -577,31 +653,31 @@ This Privacy Policy applies to all Personal Information received by Ultimate  So
   Ultimate  Software may contract with third-party providers to perform certain functions  on our behalf or to enhance our existing product and service offerings.  Examples include providing marketing assistance, product, and service support. 
 <br><br>These  third parties may have access to your Personal Information only to the extent  necessary to permit them to do their jobs, however, they are bound by  confidentiality agreements before any information is provided to them, and they  are restricted from using the information for other purposes.
 <br><br><h2>Links to  Non-Ultimate Software websites and Third Parties</h2>
-Ultimate  Software’s websites may contain links to third-party sites for your  convenience and/or information. If you access those links, you will leave  Ultimate Software’s website and be re-directed to a third-party site.&nbsp; Ultimate Software does not control those sites  or the privacy practices of those third-party sites, which may differ from  Ultimate Software’s privacy practices.&nbsp;  We do not endorse or make any representations about third-party Web  sites, and the personal data you choose to provide to third-party websites is  not covered by this Privacy Policy. We encourage you to review the privacy  policy of any website or company before submitting your Personal Information  to them.
+Ultimate  Software’s websites may contain links to third-party sites for your  convenience and/or information. If you access those links, you will leave  Ultimate Software’s website and be re-directed to a third-party site.  Ultimate Software does not control those sites  or the privacy practices of those third-party sites, which may differ from  Ultimate Software’s privacy practices.   We do not endorse or make any representations about third-party Web  sites, and the personal data you choose to provide to third-party websites is  not covered by this Privacy Policy. We encourage you to review the privacy  policy of any website or company before submitting your Personal Information  to them.
 <br><br><h2>Access</h2>
-Ultimate  Software will take reasonable steps to ensure that your Personal Information is  accurate, complete, and current, to its intended use.&nbsp; We provide individuals with reasonable access  to the Personal Information that they provide to us, as well as the ability to  review and correct such information. <br><br>
-To  protect your privacy and security, we also take reasonable steps to verify your  identity, before granting access to your Personal Information. In addition, we  may limit or deny access to Personal Information where providing such access  would be unreasonably burdensome or expensive in the circumstances, or as  otherwise permitted by the Safe Harbor Agreement.
+Ultimate  Software will take reasonable steps to ensure that your Personal Information is  accurate, complete, and current, to its intended use.  We provide individuals with reasonable access  to the Personal Information that they provide to us, as well as the ability to  review and correct such information. <br><br>
+To  protect your privacy and security, we also take reasonable steps to verify your  identity, before granting access to your Personal Information. In addition, we  may limit or deny access to Personal Information where providing such access  would be unreasonably burdensome or expensive in the circumstances, or as  otherwise permitted by the Safe Harbor Frameworks.
 <br><br><h2>Security</h2>
 To  prevent unauthorized access or disclosure, to maintain data accuracy, and to  allow only the appropriate use of your Personal Information, we utilize  physical, technical, and administrative controls and procedures to safeguard  the information we collect. 
 <br><br>To  protect the confidentiality, integrity, and availability of your Personal  Information, Ultimate Software utilizes a variety of physical and logical  access controls, firewalls, intrusion detection/prevention systems, network and  database monitoring, anti-virus, and backup systems. We use encrypted sessions  when collecting or transferring sensitive data through our websites.
-<br><br>We  limit access to your Personal Information and data to those persons who have a  specific business purpose for maintaining and processing such information.&nbsp; Ultimate Software’s employees who have been  granted physical access to your Personal Information will be made aware of  their responsibilities to protect the confidentiality, integrity, and  availability of that information and have been provided training and  instruction on how to do so. 
+<br><br>We  limit access to your Personal Information and data to those persons who have a  specific business purpose for maintaining and processing such information.  Ultimate Software’s employees who have been  granted physical access to your Personal Information will be made aware of  their responsibilities to protect the confidentiality, integrity, and  availability of that information and have been provided training and  instruction on how to do so. 
 <br><br><h2>Data Integrity</h2>
 Ultimate Software will take reasonable steps to ensure that Personal Information is  accurate, complete, and current, to its intended use. Ultimate Software will  only use Personal Information in ways that are compatible with the purposes for  which it was collected or subsequently authorized by the individual. 
 <br><br><h2>Enforcement and  Verification</h2>
 Ultimate  Software will conduct periodic assessments to validate its continued adherence  to this Privacy Policy. 
 <br><br>Where  Ultimate Software has knowledge that one of Ultimate Software’s employees or  third parties is using or disclosing Personal Information in a manner contrary  to this Policy, Ultimate Software will take reasonable steps to prevent or stop  the use or disclosure. Ultimate Software holds its employees and agents  accountable for maintaining the trust that our customers place in our company.
 <br><br><h2>Contact Information</h2>
-  At  any time you may contact Ultimate Software with questions or concerns about  this Privacy Policy at <a href="mailto:privacy@ultimatesoftware.com">privacy@ultimatesoftware.com</a>.&nbsp; Written responses may also be submitted to:<br>
+  At  any time you may contact Ultimate Software with questions or concerns about  this Privacy Policy at <a href="mailto:privacy@ultimatesoftware.com">privacy@ultimatesoftware.com</a>.  Written responses may also be submitted to:<br>
   <br>
   The  Ultimate Software Group<br>
-  Attention:  Director, Governance, Risk &amp; Compliance<br>
+  Attention:  Vice President of Governance, Risk &amp; Compliance<br>
   1485 North Park Drive<br>
   Weston,  FL 33326 
 <br><br><h2>Dispute Resolution</h2>
-Ultimate  Software will investigate and attempt to resolve complaints and disputes  regarding the use and disclosure of Personal Information in accordance with the  principles contained in this Policy.&nbsp; Ultimate  Software agrees to cooperate with data protection  authorities located in the European Union or authorized representatives  for disputes specific to Human Resource information received from the European  Union and Switzerland. All other disputes that cannot be resolved between  Ultimate Software and the complainant will be handled in accordance with  applicable dispute resolution procedures through the American Arbitration  Association, which are available for review at <a href="http://www.adr.org">www.adr.org</a>.&nbsp; We strongly encourage you to raise any  complaints you may have with regard to this Privacy Policy and/or our  activation of this Policy to us prior to proceeding to the arbitration  procedure described in this paragraph. <br>
+Ultimate  Software will investigate and attempt to resolve complaints and disputes  regarding the use and disclosure of Personal Information in accordance with the  principles contained in this Policy.  Ultimate  Software agrees to cooperate with data protection  authorities located in the European Union or authorized representatives  for disputes specific to Human Resource information received from the European  Union and Switzerland. All other disputes that cannot be resolved between  Ultimate Software and the complainant will be handled in accordance with  applicable dispute resolution procedures through the American Arbitration  Association, which are available for review at <a href="http://www.adr.org">www.adr.org</a>.  We strongly encourage you to raise any  complaints you may have with regard to this Privacy Policy and/or our  activation of this Policy to us prior to proceeding to the arbitration  procedure described in this paragraph. <br>
   <br>
   <h2>Changes to This Privacy Policy</h2>
-The  practices described in this Policy are the current Personal Information  protection policies as of June 29, 2009. Ultimate Software reserves the right  to modify or amend this Policy at any time consistent with the requirements of  the Safe Harbor Principles. Updates will be posted to this site.
+The  practices described in this Policy are the current Personal Information  protection policies as of July 18, 2012. Ultimate Software reserves the right  to modify or amend this Policy at any time consistent with the requirements of  the Safe Harbor Principles. Updates will be posted to this site.
 								
 									</div>
 								
@@ -630,149 +706,142 @@ The  practices described in this Policy are the current Personal Information  pr
 	
 
 			<div id="socialsection" class="noprint">
-				
+				<div class="noindex">
 					
-					<div id="twitter-feed" class="noprint">
-						<!-- Twitter API Javascript goes here -->
-						<div id="twitter-stream">
-							<h2>Twitter Activity</h2><style type="text/css">
-							                         	#TwitterContent
-							                         	{
-							                         		background-image: url(/Images/loading2.gif);
-							                         		background-position: center;
-							                         		background-repeat: no-repeat;
-							                         	}
-							                         	
-							                         	#TwitterLinks a
-							                         	{
-							                         		font-size: 10px;
-							                         	}
-							                         </style>
-							<div id="TwitterContent" style="height: auto; background-image: none; opacity: 0.0442984;">
-							</div>
-							<div id="TwitterLinks" style="opacity: 0;">
-								<a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/UltimateHCM/status/');"><span id="tweetAgo">now</span></a> · <a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/intent/tweet?in_reply_to=');">reply</a> · <a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/intent/retweet?tweet_id=');">retweet</a> · <a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/intent/favorite?tweet_id=');">favorite</a>
-							</div>
-							<script type="text/javascript">
+						
+						<div id="twitter-feed" class="noprint">
+							<!-- Twitter API Javascript goes here -->
+							<div id="twitter-stream">
+								<h2>Twitter Activity</h2><style type="text/css">
+                         									#TwitterContent
+                         									{
+                         										background-image: url(/Images/loading2.gif);
+                         										background-position: center;
+                         										background-repeat: no-repeat;
+                         									}
+								                         	
+                         									#TwitterLinks a
+                         									{
+                         										font-size: 10px;
+                         									}
+                         								</style>
+								<div id="TwitterContent" style="height: auto;">
+								</div>
+								<div id="TwitterLinks" style="display: none">
+									<a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/UltimateHCM/status/');"><span id="tweetAgo">now</span></a> · <a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/intent/tweet?in_reply_to=');">reply</a> · <a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/intent/retweet?tweet_id=');">retweet</a> · <a href="javascript:" onclick="OpenTwitterLink('https://twitter.com/intent/favorite?tweet_id=');">favorite</a>
+								</div>
+								<script type="text/javascript">
 
 
-								var counter = 0;
-								var list = null;
-								var inter = null;
-								var statusId = null;
+									var counter = 0;
+									var list = null;
+									var inter = null;
+									var statusId = null;
 
-								$.ajax({
-									url: "/services/website/twitter.aspx",
-									success: function (d)
-									{
-										if (d != null)
-										{
-											list = $.parseJSON(d);
-											try
-											{
-												if (list.length >= 1 && list[0].Id != '')
-												{
-													ShowTwitterFeed();
-													inter = setInterval(ShowTwitterFeed, 12000);
+									$.ajax({
+										url: "/services/website/twitter.aspx",
+										success: function (d) {
+											if (d != null) {
+												list = $.parseJSON(d);
+												try {
+													if (list.length >= 1 && list[0].Id != '') {
+														ShowTwitterFeed();
+														inter = setInterval(ShowTwitterFeed, 12000);
+													}
+												} catch (ex) {
 												}
-											} catch (ex)
-											{
 											}
 										}
-									}
-								});
-
-								function ShowTwitterFeed()
-								{
-
-									var tweet = list[counter];
-
-									$("#TwitterContent").css("background-image", "none");
-
-									$("#TwitterLinks").fadeTo('slow', 0);
-									$("#TwitterContent").fadeTo('slow', 0, function ()
-									{
-										statusId = tweet.Id;
-										$("#TwitterLinks #tweetAgo").text(tweet.Time);
-										$("#TwitterContent").html(tweet.Html);
-										$("#TwitterContent").fadeTo('slow', 1);
-										$("#TwitterLinks").fadeTo('slow', 1);
 									});
-									if (counter < list.length - 1)
-									{
-										counter++;
-									} else
-									{
-										counter = 0;
+
+									function ShowTwitterFeed() {
+
+										var tweet = list[counter];
+
+										$("#TwitterContent").css("background-image", "none");
+
+										$("#TwitterLinks").fadeTo('slow', 0);
+										$("#TwitterContent").fadeTo('slow', 0, function () {
+											statusId = tweet.Id;
+											$("#TwitterLinks #tweetAgo").text(tweet.Time);
+											$("#TwitterContent").html(tweet.Html);
+											$("#TwitterContent").fadeTo('slow', 1);
+											$("#TwitterLinks").fadeTo('slow', 1);
+										});
+										if (counter < list.length - 1) {
+											counter++;
+										} else {
+											counter = 0;
+										}
 									}
-								}
 
-								function OpenTwitterLink(url)
-								{
-									window.open(url + statusId.toString(), "Twitter");
-								}
+									function OpenTwitterLink(url) {
+										window.open(url + statusId.toString(), "Twitter");
+									}
 
-							</script>
-						</div>
-					</div>
-					<div>
-						<div id="twitter-arrow">
-						</div>
-						<div id="social">
-							<ul class="clearfix">
-								<li><a href="http://twitter.com/#!/Ultimatehcm">
-									<img src="/images/img_trans.png" alt="Twitter" id="Twitter"></a></li>
-								<li><a href="https://www.facebook.com/UltimateHCM">
-									<img src="/images/img_trans.png" alt="Facebook" id="Facebook"></a></li>
-								<li><a href="http://www.linkedin.com/company/ultimate-software">
-									<img src="/images/img_trans.png" alt="LinkedIn" id="LinkedIn"></a></li>
-								<li><a href="http://www.youtube.com/user/ultimatesoftware">
-									<img src="/images/img_trans.png" alt="YouTube" id="YouTube"></a></li>
-								<li><g:plusone size="standard" count="false"></g:plusone></li>
-							</ul>
-							
-							<div id="fb-root"></div>
-<script>	(function (d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-		fjs.parentNode.insertBefore(js, fjs);
-	} (document, 'script', 'facebook-jssdk'));</script>
-
-							<div id="facebook-like">
-								
-							<div class="fb-like" data-send="false" data-layout="button_count" data-width="80" style="display: inline" data-show-faces="true"></div>
-
-							<!--	<iframe src="http://www.facebook.com/plugins/like.php?app_id=254545457900481&href&send=false&layout=button_count&width=80&show_faces=false&action=like&colorscheme=light&font=arial&height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 80px; height: 21px;" allowtransparency="true"></iframe> -->
-							</div>
-							<div id="tweet">
-								<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ultimatehcm">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-							</div>
-							<div id="linkedin-share">
-								<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
-								<script type="IN/Share" data-counter="right"></script>
+								</script>
 							</div>
 						</div>
-					</div>
-					
+						<div>
+							<div id="twitter-arrow">
+							</div>
+							<div id="social">
+								<ul class="clearfix">
+									<li><a href="http://twitter.com/#!/Ultimatehcm">
+										<img src="/images/img_trans.png" alt="Twitter" id="Twitter"></a></li>
+									<li><a href="https://www.facebook.com/UltimateSoftware">
+										<img src="/images/img_trans.png" alt="Facebook" id="Facebook"></a></li>
+									<li><a href="http://www.linkedin.com/company/ultimate-software">
+										<img src="/images/img_trans.png" alt="LinkedIn" id="LinkedIn"></a></li>
+									<li><a href="http://www.youtube.com/user/ultimatesoftware">
+										<img src="/images/img_trans.png" alt="YouTube" id="YouTube"></a></li>
+									<li><g:plusone size="standard" count="false"></g:plusone></li>
+								</ul>
+								<div id="fb-root">
+								</div>
+								<script>									(function (d, s, id) {
+										var js, fjs = d.getElementsByTagName(s)[0];
+										if (d.getElementById(id)) return;
+										js = d.createElement(s); js.id = id;
+										js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+										fjs.parentNode.insertBefore(js, fjs);
+									} (document, 'script', 'facebook-jssdk'));</script>
+								<div id="facebook-like">
+									<div class="fb-like" data-send="false" data-layout="button_count" data-width="80" style="display: inline" data-show-faces="true">
+									</div>
+									<!--	<iframe src="http://www.facebook.com/plugins/like.php?app_id=254545457900481&href&send=false&layout=button_count&width=80&show_faces=false&action=like&colorscheme=light&font=arial&height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 80px; height: 21px;" allowtransparency="true"></iframe> -->
+								</div>
+								<div id="tweet">
+									<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ultimatehcm">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+								</div>
+								<div id="linkedin-share">
+									<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+									<script type="IN/Share" data-counter="right"></script>
+								</div>
+							</div>
+						</div>
+				</div>
+				
 			</div>
 		</div>
-		<div id="legal">
-			
-				<ul>
-					<li>© 2012 Ultimate Software</li>
-					<li><a title="Privacy Policy" href="/Privacy_Policy">Privacy Policy</a></li>
-					<li><a title="Legal Statement" href="/Legal_Statement">Legal Statement</a></li>
-					<li><a title="Website Issues" href="mailto:websupport@ultimatesoftware.com" target="_self">Website Issues</a></li>
-					<li><a title="Site Map" href="/Site_Map">Site Map</a></li>
-				</ul>
-			
+		<div class="noindex">
+			<div id="legal">
+				
+					<ul>
+						<li>© 2012 Ultimate Software</li>
+						<li><a title="Privacy Policy" href="/Privacy_Policy">Privacy Policy</a></li>
+						<li><a title="Legal Statement" href="/Legal_Statement">Legal Statement</a></li>
+						<li><a title="Contact Us" href="ContactUs" target="_self">Contact Us</a></li>
+						<li><a title="Email Preferences" href="http://go.ultimatesoftware.com/managepreferences" target="_self">Email Preferences</a></li>
+						<li><a title="Site Map" href="/Site_Map">Site Map</a></li>
+					</ul>
+				
+			</div>
 		</div>
 	</div>
 	
 		
-	<div id="dialog-modal" title="People First at Ultimate!" style="z-index: 3001;">
+	<div id="dialog-modal" title="People First at Ultimate!" style="z-index: 3001;" class="noindex">
 		<p id="pVideoEmbed" style="z-index: 3001;"></p>
 		<div id="divVideoEmbed" style="z-index: 3001;">
 		</div>
@@ -780,14 +849,21 @@ The  practices described in this Policy are the current Personal Information  pr
 	</div>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
+		var pluginUrl = (('https' == document.location.protocol) ? 'https://ssl.' : 'http://www.') + 'google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);		
 		_gaq.push(['_setAccount', 'UA-766611-1']);
 		_gaq.push(['_setDomainName', 'ultimatesoftware.com']);
-		_gaq.push(['_trackPageview']);
 
-		(function ()
-		{
+		var searchKeyWord = '';
+		if (searchKeyWord != '') {
+			_gaq.push(['_trackPageview', '/Search_Results.aspx?searchkeyword=' + searchKeyWord]);
+		} else {
+			_gaq.push(['_trackPageview']);
+		}
+
+		(function () {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl.' : 'http://www.') + 'google-analytics.com/ga.js';			
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
@@ -811,8 +887,9 @@ The  practices described in this Policy are the current Personal Information  pr
 		</div>
 	</noscript>
 	
+			<script type="text/javascript" language="JavaScript" src="/Scripts/elqNow/elqCfg.js"></script>
+			<script type="text/javascript" language="JavaScript" src="/Scripts/elqNow/elqImg.js"></script>	
+	
 
 
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-dialog-message" style="display: none; z-index: 99999; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-dialog-message">Message</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="dialog-message" style="" class="ui-dialog-content ui-widget-content">
-		<p><span class="ui-icon ui-icon-circle-check" style="float: left; margin: 0 7px 50px 0;"></span>Please enter a search term and try again. </p>
-	</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button">Ok</button></div></div></div></body></html>
+</body></html>
