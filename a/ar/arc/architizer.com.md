@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629142436id_/http%3A//www.architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122130259id_/http%3A//www.architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Architizer
 
