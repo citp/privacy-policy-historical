@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524060833id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscouts.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122204703id_/http%3A//www.girlscouts.org/privacy.asp) for the most accurate reproduction.*
 
 # Girl Scouts of the USA: Privacy Policy
 
@@ -37,6 +37,8 @@ In keeping with CARU's Principle regarding respecting and fostering the parents'
 USE OF COOKIES
 
 Visitors should be aware that non-personal information and data may be automatically collected by the Girl Scouts of the USA Web site through the use of "cookies." "Cookies" are small text files a Web site can use to recognize repeat visitors, facilitate the visitor's ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements. Cookies are not programs that come onto a visitor's system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. Girl Scouts of the USA uses "cookie" technology only to obtain non-personal information from its online visitors in order to improve visitors' online experience and facilitate their visit within our site.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use _non-personally identifiable_ information ( _that is_ , not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you _on this or other websites_. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 LINKS TO OTHER WEB SITES AND SERVICES
 
