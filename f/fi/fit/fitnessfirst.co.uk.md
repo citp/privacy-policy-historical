@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524050831id_/http%3A//www.fitnessfirst.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122192341id_/http%3A//www.fitnessfirst.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Fitness First UK
+# Privacy policy
 
 The following sets out our policy on the privacy of the individual. Fitness First takes your privacy seriously and information will be used in accordance with the Data Protection Act 1998.
 
@@ -40,7 +40,7 @@ We have strict security procedures covering the storage of your information in o
 
 #### 6.0 - What are cookies and how do we deal with them?
 
-A cookie is a piece of information that is stored on your computer's hard drive. It is normally sent by a web server to you and enables the server to collect information back from your site visit.
+A cookie is a piece of information that is stored on your computer's hard drive. It is normally sent by a web server to you and enables the server to collect information back from your site visit. See our [Cookie Policy](https://web.archive.org/about-us/cookie-policy/) for more information.
 
 #### 7.0 - How to contact us
 
