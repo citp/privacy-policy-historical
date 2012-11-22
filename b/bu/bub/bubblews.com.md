@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bubblews.com privacy policy that was archived on 2012-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120408202505id_/http%3A//www.bubblews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bubblews.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122230412id_/http%3A//www.bubblews.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Bubblews
 
