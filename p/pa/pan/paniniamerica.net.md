@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524033351id_/http%3A//paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122190209id_/http%3A//paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
 
-# Panini America formerly Donruss Trading Card Company
+# Panini America, Inc.
 
 At Panini America, Inc., we care most about making the best products for you, our customer. As a valued consumer, you deserve to know what information we obtain about you from our web sites and what we do with that information. With that in mind, Panini America, Inc. is committed to protecting you and your family's privacy on our web sites. It is the intention of Panini America, Inc. to be in compliance with COPPA (the Children's Online Privacy Protection Act), If you would like to know more about COPPA, please visit the Federal Trade Commission's Website: 
 
@@ -66,6 +66,6 @@ Irving, TX 75061
 
 Please note that this number is for questions about the Privacy statement, or for a contact to remove your child from a web-based database. It is not for Customer Service questions. 
 
-[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20120524033351id_/http%3A//paniniamerica.net/custserv.cfm?t=privacy#contact)
+[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20121122190209id_/http%3A//paniniamerica.net/custserv.cfm?t=privacy#contact)
 
 THIS PRIVACY POLICY WAS LAST UPDATED ON 3/28/2008 
