@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchlivetvstreaming.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511120300id_/http%3A//www.watchlivetvstreaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchlivetvstreaming.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122155303id_/http%3A//www.watchlivetvstreaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Live TV
 
@@ -31,10 +31,3 @@ www.watchlivetvstreaming.com has no access to or control over these cookies that
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.watchlivetvstreaming.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
-
-#### Incoming search terms:
-
-  * watchliveTv streaming com
-  * privacy policy for live tv
-
-
