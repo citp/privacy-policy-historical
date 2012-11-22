@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170224id_/http%3A//www.sidroth.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122042930id_/http%3A//www.sidroth.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sid Roth - It's Supernatural
-
-**Privacy Policy**
 
 Sid Roth's Messianic Vision has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.sidroth.org.
 
@@ -16,10 +14,6 @@ In order to fully understand your rights we encourage you to read this Privacy P
 6\. What choices you have regarding collection, use and distribution of your information;   
 7\. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control;   
 8\. and, How you can correct any inaccuracies in your information. 
-
-  
-**Use of "Cookies" ("Remember Me")** :   
-Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
 
 Questions regarding this statement should be directed to Sid Roth's Messianic Vision by sending an email to [info@SidRoth.org](mailto:info@SidRoth.org "E-mail info@SidRoth.org"). Please reference this Privacy Policy in your subject line. 
 
@@ -44,7 +38,7 @@ Our Site contains links to other Web sites. Please note that when you click on o
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
 
 Sid Roth's Messianic Vision   
-P.O. Box 1918  
-Brunswick, GA 31521 
+P.O. Box 39222  
+Charlotte, NC 28278 
 
 You can also send an email to: [info@sidroth.org](mailto:info@sidroth.org "E-mail info@sidroth.org"). 
