@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inasp.info privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520205345id_/http%3A//www.inasp.info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inasp.info privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122211141id_/http%3A//www.inasp.info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_GB" lang="en_GB"><head>
 <title>Privacy policy - INASP</title>
@@ -9,21 +9,72 @@
 <meta name="description" content="The INASP privacy policy">
 <meta name="copyright" content="2012 INASP">
 <meta name="identifier" content="http://www.inasp.info/file/2a53756e2f9c566b685fde2bc5c0c3c3/privacy-policy.html">
-<meta name="date" content="2011-06-28T12:11:13+01:00">
+<meta name="date" content="2012-05-29T14:00:13+00:00">
 <meta name="robots" content="index, follow">
 <link href="http://www.inasp.info/media/www/rss/news.xml" title="RSS: News" rel="alternate" type="application/rss+xml">
 <link rel="icon" href="http://www.inasp.info/favicon.ico?201012021450" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.inasp.info/favicon.ico?201012021450" type="image/x-icon">
- 
+
 <link rel="stylesheet" href="http://www.inasp.info/css/style.css?201012021438" type="text/css">
 <link rel="stylesheet" href="http://www.inasp.info/css/print.css" type="text/css" media="print">
-<script language="javascript" src="http://www.inasp.info/js/scripts.js?20090617" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="http://www.inasp.info/js/scripts.js?20090617" type="text/javascript"></script>
 <script language="javascript" src="http://www.inasp.info/js/menuScripts.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.inasp.info/js/jquery-1.3.2.min.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.inasp.info/js/jquery.tools.min.js" type="text/javascript"></script>
 
 <script language="javascript" src="/js/flashObject.js" type="text/javascript"></script>
-</head>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-2044482-1']);
+  		_gaq.push(['_trackPageview']);
+
+  		(function() {
+    		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  		})();
+
+  		function trackPublicDownload(href){
+  			_gaq.push(['_trackPageview', href]);
+  			_gaq.push(function(){
+  				window.open(href);
+  			});
+  		}
+
+  		function trackProtectedDownload(href, documentid){
+  			$.get( '/ajax/getDocumentName.php', {'documentid' : documentid},
+  		  			function(data, textStatus, jqXHR){
+  					var pathToFile = '/media/www/private/documents/' + data;
+  					_gaq.push(['_trackPageview', pathToFile]);
+  					_gaq.push(function(){
+  		  				window.location = href;
+  		  			});
+  				}
+			);
+  		}
+
+  		$(function(){
+  			$('a').click(function(e) {
+  				var href = this.href;
+  				if(!href || href.match(/^javascript/gi)){
+  					return true;
+  				}
+
+  				if(matches = href.match(/\.(doc|docx|xls|xlsx|csv|txt|pdf|zip|avi|mp4|mov)$/gi)){
+  	  				trackPublicDownload(this.href);
+  					return false;
+  				}
+
+  				if(matches = href.match(/documentid=[0-9|a-z]+/gi)){
+  					trackProtectedDownload(this.href, matches[0].replace(/documentid=/, ''));
+  					return false;
+  				}
+
+  				return true;
+  			});
+  		});
+	</script>
+	</head>
 <body>
 <a name="top"></a>
 	
@@ -58,7 +109,7 @@
 
 
 <li>
-<a href="http://www.inasp.info/file/3d034b8bae0a3f7e1381979aedc356a9/about-inasp.html" title="Information about our organisation">About INASP</a>
+<a href="http://www.inasp.info/file/3d034b8bae0a3f7e1381979aedc356a9/about-inasp.html" title="Information about our organisation">About</a>
 </li>
 
 
@@ -97,8 +148,13 @@
 </li>
 
 
-<li class="last">
+<li>
 <a href="http://www.inasp.info/file/1bfb5e3f6fa3e9e61003d86b8a90c1d3/directory.html" title="INASP Directory of Organisations">Directory</a>
+</li>
+
+
+<li class="last">
+<a href="http://blog.inasp.info" title="Practising Development" target="_blank">Blog</a>
 </li>
 
 
@@ -166,9 +222,8 @@
 <p>INASP<br>60 St Aldates<br>Oxford,&nbsp; OX1 1ST<br>United Kingdom<br><br>If you are concerned about how your information is used, we recommend that you review this privacy statement periodically, as INASP may update it from time to time.</p>
 <p>If you feel that this site is not following its stated&nbsp;privacy policy, you may contact us at <a title="mailto:inasp@inasp.info" href="mailto:inasp@inasp.info">inasp@inasp.info</a>. We will be sure to address your concerns.</p>
 <h3>Cookies</h3>
-<p>A cookie is a small file that contains a unique alphanumeric code selected randomly. This cookie is stored on your computer.&nbsp;Cookies are used, for example, to count the total number of unique users who are accessing a website over a particular period of time, or to see which pages are most frequently viewed.</p>
 <p>INASP's website uses cookies to collect data about its activity. Cookies do not identify the person at the computer, and information gathered is not shared with third parties. It is used to monitor the use of the website and provide us with raw data we can use to judge, and demonstrate, the website's effectiveness.</p>
-<p>The INASP website makes use of Google Analytics. To learn more about how Google Analytics collects and uses information, see the <a href="http://www.google.com/intl/en/analytics/privacyoverview.html" target="_blank">Google Privacy Center</a>. A 'Browser Opt-out' add-on is available to prevent information being sent to Google Analytics.</p>
+<p>To find out more about this, how they are used and how they effect you, visit our <a href="/cookies" target="_self">Cookies</a> page.&nbsp;</p>
 
 	</div>
 </div>
@@ -349,7 +404,17 @@ For information, links and contact details of developmental and supporting organ
         </div>
         
         <br class="clear">
-        <div id="footer">	
+        <div id="footer">
+<div class="footerLogos">
+
+<ul>	
+	<li><a href="http://www.dfid.gov.uk"><img src="/images/uk-aid-logo.gif" alt="UK AID"></a></li>
+	<li><a href="http://www.norad.no"><img src="/images/norad-logo.gif" alt="Norad"></a></li>
+	<li><a href="http://www.sida.se/English/"><img src="/images/sida-logo.gif" alt="Sida"></a></li>
+	</ul>
+	
+	
+	</div>
 	
 <ul class="level1">
 
@@ -410,15 +475,4 @@ For information, links and contact details of developmental and supporting organ
 </div>
 
  
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2044482-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-<script language="javascript" src="http://www.inasp.info/js/gaAddons.js" type="text/javascript"></script>
-
 </body></html>
