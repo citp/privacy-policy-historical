@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523154723id_/http%3A//home.buffalo.com/Pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122021839id_/http%3A//home.buffalo.com/Pages/privacy) for the most accurate reproduction.*
 
 # Buffalo.com - Buffalo entertainment, food, events, sports and style
 
-Buffalo.com Privacy Policy
+**Buffalo.com Privacy Policy**
 
 Your privacy is very important to us. To make use of certain features of our website, visitors need to register and provide certain information as part of the registration process. 
 
