@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comics-toons.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606085311id_/http%3A//www.comics-toons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics-toons.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122023639id_/http%3A//www.comics-toons.com/privacy.html) for the most accurate reproduction.*
 
 # Comics-Toons.com - Privacy Policy
 
