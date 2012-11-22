@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonlovesbusiness.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012411id_/http%3A//www.londonlovesbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonlovesbusiness.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122083920id_/http%3A//www.londonlovesbusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Breaking News | LondonlovesBusiness .com
+# Privacy Policy | Breaking News | LondonlovesBusiness.com
 
 Casis Media Limited (company registration number 07411286), whose registered office is at 56 Buckingham Gate, London SW1 6AE (“the Company” / “We” / “Us”/ “Our”) operates this website. Users of the website (whether a guest to the website or a registered user) shall be subject to these User Terms.
 
