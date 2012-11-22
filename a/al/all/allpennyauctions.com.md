@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allpennyauctions.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524024441id_/http%3A//www.allpennyauctions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpennyauctions.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122084958id_/http%3A//www.allpennyauctions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy � All Penny Auctions.com
+# Privacy Policy - All Penny Auctions.com
 
 This Privacy Policy governs the manner in which AllPennyAuctions.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.allpennyauctions.com](http://www.allpennyauctions.com/www.allpennyauctions.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by AllPennyAuctions.com.
 
