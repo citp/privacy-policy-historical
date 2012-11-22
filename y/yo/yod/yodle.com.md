@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515080334id_/http%3A//www.yodle.com/legal/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123002307id_/http%3A//www.yodle.com/legal/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yodle
 
@@ -56,7 +56,7 @@ Yodle wants you to feel confident using the Site and providing Information to us
 
 ## Account
 
-If you become a Yodle customer, Yodle wants you to see Yodle’s performance and the return you’re getting from your investment.  Yodle provides access to an online dashboard that shows your real-time results.  You will have access to the information by entering a username and password, and your online account information shall be protected by your password. Yodle recommends that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account.  Your use of Yodle’s services is governed by the [Yodle Service Agreement Terms and Conditions](http://www.yodle.com/legal/terms/yodle-service-agreement-terms-and-conditions/).
+If you become a Yodle customer, Yodle wants you to see Yodle’s performance and the return you’re getting from your investment.  Yodle provides access to an online dashboard that shows your real-time results.  You will have access to the information by entering a username and password, and your online account information shall be protected by your password. Yodle recommends that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account.  Your use of Yodle’s services is governed by the [Yodle Service Agreement Terms and Conditions](http://www.yodle.com/legal/terms/yodle-service-agreement-terms-and-conditions/), the [Outrank Advertising Service Agreement](http://www.yodle.com/legal/terms/outrank-advertising-service-agreement/), the [Outrank Plus Advertising Service Agreement](http://www.yodle.com/legal/terms/outrank-plus-advertising-service-agreement/), or the [Yodle Service Agreement National Terms and Conditions](http://www.yodle.com/legal/terms/yodle-service-agreement-national-terms-and-conditions/), as applicable.
 
 ## Children’s Privacy
 
