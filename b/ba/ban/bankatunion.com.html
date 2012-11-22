@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankatunion.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501065617id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankatunion.com privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122212649id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	          
@@ -39,9 +39,24 @@ var noBackToTop = ""=="true"? true: false;
 </script>
 
 
-<!--<script src="/home/diFiles/skins/default/js/jquery.js" type="text/javascript"></script>-->
+<script type="text/javascript">
+if (typeof MstIncGlobal != "object") var MstIncGlobal = {};
+MstIncGlobal.USP = {
+"converted_to_usp": true, // do not change
+"ib_url": "https://www.bankatunion.com/onlineserv/HB", // only change if FI doesn't have https://www.bankatunion.com/onlineserv/HB set in template_head.vm
+// format - https://www.fidomain.com/onlineserv/HB
+"demo_script_url": "/mstinc/web/usp/demo.js", // no need to change for WC sites
+"custom_callback": function(){
+var script = document.createElement( 'script' );script.type = 'text/javascript';script.src = '/mstinc/web/js/untethered_motd.js';$('head').append( script );$('input[name=userid]').focus(function(){showMotd()})
+// add code to swap out things like User ID label text / image
+$('.uspDemo,.noUsp').show();
+} // end custom_callback()
+}; // End USP config object declaration
+</script>
+
+<script type="text/javascript" src="/mstinc/js/jquery-1_7_2.js">/* */</script>
 		<!-- DI Global Include File please do not remove -->
-        <script type="text/javascript" src="/mstinc/web/js/global.js">/* */</script><script type="text/javascript" src="/mstinc/js/jquery-1_5.js">/* */</script>
+        <script type="text/javascript" src="/mstinc/web/js/global.js">/* */</script>
         <!-- DI Global Include File please do not remove -->
 
 		<script src="/home/diFiles/skins/default/js/jquery.DIMenus.js" type="text/javascript"></script>
@@ -53,7 +68,6 @@ var noBackToTop = ""=="true"? true: false;
 		@import url("/home/fiFiles/static/css/fi_styles.css");
 		@import url("/home/diFiles/skins/default/css/_styles.css");
 		@import url("/home/diFiles/skins/default/css/menu.css");	</style>
-
 
 
 
@@ -117,7 +131,7 @@ var noBackToTop = ""=="true"? true: false;
 								<div class="loginLinks">
 									<ul>
 										<li class="firstLi"><a href="/onlineserv/HB/STDReg.cgi">New User</a> | </li>
-										<li><a href="/home/home?demo">Demo</a> | </li>
+										<span class="uspDemo" style="display:none;"><li><a href="/home/home?demo">Demo</a> | </li></span>
 										<li class="lastLi"><a href="/home/personal/online">More Info</a></li>
 									</ul>
 								</div><!-- loginLinks -->
@@ -131,7 +145,7 @@ var noBackToTop = ""=="true"? true: false;
 						<div class="loginBB">
 							<div class="loginCol">
                             <img src="/home/diFiles/skins/default/images/hed_bb.gif" width="202" height="28" alt="Business Banking">
-							<div class="loginBBLinks"><a href="https://www.bankatunion.com/customer_demo/index.html">Demo</a> | <a href="/home/fiFiles/static/documents/BusinessOnlineBanking_Guide.pdf">Users Guide</a>
+														<div class="loginBBLinks"><a href="https://www.bbsitedemo.com/onlineserv/CM/?D=3858">Demo</a>
                             </div><!-- lgoinBBlinks -->
                             <a href="/onlineserv/CM"><img class="BBbtn" src="/home/diFiles/skins/default/images/btn_loginbb.gif" alt="Login"></a>
                             </div><!-- loginCol -->
@@ -148,8 +162,7 @@ var noBackToTop = ""=="true"? true: false;
 										</ul>
 					</li>
 				</ul>
-								
-							</div><!--quicklinks-->
+																			</div><!--quicklinks-->
 		</div><!-- leftCol -->
 		<div class="rightCol">
 			<div class="promoBack">
@@ -202,7 +215,7 @@ var noBackToTop = ""=="true"? true: false;
 			P.O. Box 940<br>
 			Ruther Glen, VA 22546</p>
 		</div>		
-		<a href="http://www.fdic.gov" onclick="return displayThirdPartyAlert(1, this);"><img src="/home/diFiles/skins/default/images/FDIC_Member.png" width="65" height="35" alt="FDIC"></a> <a href="http://www.hud.gov" onclick="return displayThirdPartyAlert(1, this);"><img src="/mstinc/web/images/ehl_40x35_w_100.png" width="40" height="35" alt="Equal Housing Lender"></a> <a href="https://web.archive.org/web/20120310123258/http://ifs.intuit.com/" onclick="return displayThirdPartyAlert(1,this);"><img src="/mstinc/web/images/logo_91x22.png" width="91" height="22" border="0" alt="Intuit Financial Services"></a>
+		<a href="http://www.fdic.gov" onclick="return displayThirdPartyAlert(1, this);"><img src="/home/diFiles/skins/default/images/FDIC_Member.png" width="65" height="35" alt="FDIC"></a> <a href="http://www.hud.gov" onclick="return displayThirdPartyAlert(1, this);"><img src="/mstinc/web/images/ehl_40x35_w_100.png" width="40" height="35" alt="Equal Housing Lender"></a> <a href="https://web.archive.org/web/20101222014503/http://ifs.intuit.com/" onclick="return displayThirdPartyAlert(1,this);"><img src="/mstinc/web/images/logo_91x22.png" width="91" height="22" border="0" alt="Intuit Financial Services"></a>
 	</div><!-- footR -->
 	<div class="clear0"><!-- clear0 --></div>
 </div><!-- foot -->
@@ -323,9 +336,6 @@ var noBackToTop = ""=="true"? true: false;
 				<a class="level_one" href="/home/personal/cards">Cards&nbsp;-</a>
 									<ul>												<li>
 				<a class="level_two" href="/home/personal/cards/debit">Debit Card</a>
-							</li>
-														<li>
-				<a class="level_two" href="https://www.visaprepaidprocessing.com/UBT/Gift/Pages/Home.aspx">Gift Cards</a>
 							</li>
 														<li>
 				<a class="level_two" href="/home/personal/cards/credit">Credit Cards</a>
@@ -483,9 +493,6 @@ var noBackToTop = ""=="true"? true: false;
 														<li>
 				<a class="level_two" href="/home/business/cards/credit">Business Credit Card</a>
 							</li>
-														<li>
-				<a class="level_two" href="https://www.visaprepaidprocessing.com/UBT/Gift/Pages/Home.aspx">Gift Cards</a>
-							</li>
 			</ul>
 							</li><li>
 				<a class="level_one" href="/home/business/online">Online&nbsp;-</a>
@@ -593,21 +600,34 @@ var noBackToTop = ""=="true"? true: false;
 							<div class="subMenu 2column" id="menu_mortgages">
 			<div class="navColumn navCol1" style="float:left;"><ul>
 															<li>
-				<a class="level_one" href="/home/mortgages/umg">UMG&nbsp;-</a>
-							</li>
-														<li>
-				<a class="level_one" href="/home/mortgages/johnson">Johnson Mortgage&nbsp;-</a>
-							</li>
-														<li>
 				<a class="level_one" href="/home/mortgages/types">Mortgage Types&nbsp;-</a>
+							</li>
+														<li>
+				<a class="level_one" href="/home/mortgages/terms">Mortgage Terms&nbsp;-</a>
+							</li>
+														<li>
+				<a class="level_one" href="/home/mortgages/resources">Mortgage Resources&nbsp;-</a>
 							</li>
 														
 														
 						</ul></div>
 		<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li>
-				<a class="level_one" href="/home/mortgages/terms">Mortgage Terms&nbsp;-</a>
+				<a class="level_one" href="/home/mortgages/mortgage_professionals">Mortgage Professionals&nbsp;-</a>
+									<ul>												<li>
+				<a class="level_two" href="/home/mortgages/mortgage_professionals/maryland">Maryland</a>
+							</li>
+														<li>
+				<a class="level_two" href="/home/mortgages/mortgage_professionals/north_carolina">North Carolina</a>
+							</li>
+														<li>
+				<a class="level_two" href="/home/mortgages/mortgage_professionals/south_carolina">South Carolina</a>
+							</li>
+														<li>
+				<a class="level_two" href="/home/mortgages/mortgage_professionals/virginia">Virginia</a>
+							</li>
+			</ul>
 							</li><li>
-				<a class="level_one" href="/home/mortgages/resources">Mortgage Resources&nbsp;-</a>
+				<a class="level_one" href="/home/mortgages/mortgage_locations">Mortgage Branch Locator&nbsp;-</a>
 							</li></ul></div><div style="clear:both;height:0px;"><!-- comment --></div></div>
 							<div class="subMenu 2column" id="menu_investments">
 			<div class="navColumn navCol1" style="float:left;"><ul>
@@ -641,8 +661,8 @@ var noBackToTop = ""=="true"? true: false;
 							</li><li>
 				<a class="level_one" href="javascript:showWarning('https://wallstreet.rjf.com/investor/login.asp', '', '_blank', '1');">Investor Access Login&nbsp;-</a>
 							</li></ul></div><div style="clear:both;height:0px;"><!-- comment --></div></div>
-							<div class="subMenu 2column" id="menu_trust">
-			<div class="navColumn navCol1" style="float:left;"><ul>
+							<div class="subMenu" id="menu_trust">
+			<ul>
 															<li>
 				<a class="level_one" href="/home/trust/estate">Estate Planning&nbsp;-</a>
 							</li>
@@ -659,20 +679,18 @@ var noBackToTop = ""=="true"? true: false;
 														<li>
 				<a class="level_one" href="/home/trust/succession">Business Succession&nbsp;-</a>
 							</li>
-														
-														
-														
-						</ul></div>
-		<div class="navColumn navCol2" style="float:left;"><ul><!-- comment --><li>
+														<li>
 				<a class="level_one" href="/home/trust/review">Economic and Market Review&nbsp;-</a>
-							</li><li>
+							</li>
+														<li>
 				<a class="level_one" href="/home/trust/professionals">Trust Professionals&nbsp;-</a>
-							</li><li>
+							</li>
+														<li>
 				<a class="level_one" href="javascript:showWarning('https://portfolioonline.metavante.com/mpo/main/UserLogon?bankNumber=75&amp;subProduct=', '', '_blank', '1');">Trust Login&nbsp;-</a>
-							</li></ul></div><div style="clear:both;height:0px;"><!-- comment --></div></div>
+							</li>
+						</ul>
+		</div>
 																					
-
-
 
 <script type="text/javascript">
 	var fiName = "Union First Market Bank"
@@ -691,4 +709,4 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 	
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 42px; padding-right: 42px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
