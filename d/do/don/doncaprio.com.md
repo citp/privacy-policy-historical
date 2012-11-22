@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doncaprio.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621103136id_/http%3A//www.doncaprio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doncaprio.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122105716id_/http%3A//www.doncaprio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The 9ja Geek's Journal - Technology, Blogging Tips, Gadgets, Tips, Tricks, and more...
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin(at)capriofiles(.)com.  
 At www.doncaprio.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.doncaprio.com and how it is used.
@@ -24,7 +24,3 @@ These third-party ad servers or ad networks use technology to the advertisements
 www.doncaprio.com has no access to or control over these cookies that are used by third-party advertisers.  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.doncaprio.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-#### Tags:
-
-[jounal the importance of gadgets](http://www.doncaprio.com/privacy-policy "jounal the importance of gadgets"), [visit www doncaprio com](http://www.doncaprio.com/privacy-policy "visit www doncaprio com")
