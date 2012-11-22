@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timefall.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523161530id_/http%3A//www.timefall.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timefall.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122022721id_/http%3A//www.timefall.com/site/privacy-policy) for the most accurate reproduction.*
 
 # TimeFall.com - you deserve a break!
 
@@ -58,7 +58,7 @@
 
 **8.3.** The Site may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the site and our web-based newsletters or other communications which you may choose to receive. Often these third party advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your Personal Information by third parties in connection with their advertisements, promotions and other websites you encounter on the internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your Personal Information.
 
-**8.4.** This Privacy Policy does not cover any use of Personal Information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers’ tracking technology is subject to their own privacy policies. For more information about these third party servers and how to “opt out” of the ad-serving cookie. Here is the link to opt-out page on the NAI’s (http://www.networkadvertising.org/managing/opt_out.asp) consumer website – http://www.valueclickmedia.com/privacy.shtml
+**8.4.** This Privacy Policy does not cover any use of Personal Information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers’ tracking technology is subject to their own privacy policies. For more information about these third party servers and how to “opt out” of the ad-serving cookie. Here is the link to opt-out page on the NAI’s (http://www.networkadvertising.org/managing/opt_out.asp) consumer website – http://www.valueclickmedia.com/about/privacy
 
 **9\. Information and questions**
 
@@ -70,4 +70,4 @@
 
 **10.2.** This Privacy Policy was last modified on the 17th of August, 2011 and is effective immediately.
 
-**2011 Timefall.com - All Rights Reserved**
+**2012 Timefall.com - All Rights Reserved**
