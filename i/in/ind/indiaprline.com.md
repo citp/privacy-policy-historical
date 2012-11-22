@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaprline.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617195833id_/http%3A//www.indiaprline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaprline.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122165459id_/http%3A//www.indiaprline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | India Press Release Distribution onLine
 
