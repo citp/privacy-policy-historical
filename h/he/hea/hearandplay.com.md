@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523143955id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122212739id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hear and Play Music Learning Center
 
@@ -41,3 +41,15 @@ _**Unsubscribing**_
 If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address or by calling us at the above telephone number. You may also click on the “UNSUBSCRIBE” link found at the bottom of all e-mails.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm).
+
+Related posts:
+
+  1. [Listening Effectively P. 2: Understanding How Music Works](http://www.hearandplay.com/main/listening-effectively-p-2-understanding-how-music-works "Permanent Link: Listening Effectively P. 2: Understanding How Music Works")
+  2. [How to Remember Large Extended Chords Part 2](http://www.hearandplay.com/main/how-to-remember-large-extended-chords-part-2 "Permanent Link: How to Remember Large Extended Chords Part 2")
+  3. [How to Harmonize Melodies to Create Full-Sounding Songs Part 1](http://www.hearandplay.com/main/how-to-harmonize-melodies-to-create-full-sounding-songs-part-1 "Permanent Link: How to Harmonize Melodies to Create Full-Sounding Songs Part 1")
+  4. [The incredible power of “6-2-5-1″ chord progressions in gospel songs!](http://www.hearandplay.com/main/the-incredible-power-of-6-2-5-1-chord-progressions-in-gospel-songs "Permanent Link: The incredible power of “6-2-5-1″ chord progressions in gospel songs!")
+  5. [The “7-3-6-2-5-1″ Progression and How to Use It!](http://www.hearandplay.com/main/the-7-3-6-2-5-1-progression-and-how-to-use-it "Permanent Link: The “7-3-6-2-5-1″ Progression and How to Use It!")
+  6. [Easy to Ways to Remember Large Chords](http://www.hearandplay.com/main/easy-to-ways-to-remember-large-chords "Permanent Link: Easy to Ways to Remember Large Chords")
+  7. [How to Correctly Identify Intervals Part 1](http://www.hearandplay.com/main/how-to-correctly-identify-intervals-part-1 "Permanent Link: How to Correctly Identify Intervals Part 1")
+
+
