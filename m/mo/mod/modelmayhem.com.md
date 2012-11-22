@@ -1,82 +1,38 @@
-> *The following text is extracted and transformed from the modelmayhem.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515224602id_/http%3A//www.modelmayhem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelmayhem.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122022939id_/http%3A//www.internetbrands.com/ib/privacy/employment-portfolio%3Fsite%3Dwww.modelmayhem.com) for the most accurate reproduction.*
 
-# TERMS AND CONDITIONS OF USE
+# Privacy Policy
 
-This document was last updated on September 11, 2006. 
+## Privacy Policy Highlights
 
-  1. Acknowledgement and acceptance of terms 
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20121122022939id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20121122022939id_/http://www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
 
-MODEL MAYHEM is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing MODEL MAYHEM.com, you acknowledge and fully understand MODEL MAYHEM.com's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
+  * ### Personal Information
 
-  2. Participating Merchant Policies 
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in MODEL MAYHEM services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties. 
+  * ### Your Choices
 
-  3. Information We Collect and How We Use It 
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20121122022939id_/http://www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
 
-MODEL MAYHEM collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
 
-    1. Web Server Logs. 
+  * ### How to Contact Us
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
-
-      * Your Internet protocol address.
-      * The kind of browser or computer you use.
-      * Number of links you click within the site.
-      * State or country from which you accessed the site.
-      * Date and time of your visit.
-      * Name of your Internet service provider.
-      * Web page you linked to our site from.
-      * Pages you viewed on the site.
-    2. Use of Cookies 
-
-MODEL MAYHEM may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
-
-MODEL MAYHEM reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into MODEL MAYHEM.com a site that relies on third-party cookies). 
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-    3. Personal Information Users 
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. 
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including: 
-
-      * To fulfill your service requests for services.
-      * To protect ourselves from liability,
-      * To respond to legal process or comply with law, or
-      * In connection with a merger, acquisition, or liquidation of the company. 
-  4. Third Party Advertising 
-
-We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-
-In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
-
-To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-  5. Accessing Web Account Information 
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant -- [mods@modelmayhem.com](mailto:mods@modelmayhem.com)..
-
-  6. Changes to this Statement 
-
-MODEL MAYHEM has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
-
-  7. Contacting Us 
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. mods@modelmayhem.com or send your comments to : 
-
-MODEL MAYHEM
-
-Attention: Privacy Statement Personal
-
-909 N. Sepulveda Blvd., 11th Floor  
-El Segundo, California 90245 
-
-MODEL MAYHEM will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-
+    * Use our Privacy [Contact form](https://web.archive.org/web/20121122022939id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
   
+
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
+
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
+
+
 
