@@ -1,42 +1,54 @@
-> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524033012id_/http%3A//www.raywhite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015408id_/http%3A//www.raywhite.com/privacy) for the most accurate reproduction.*
 
 # Ray White Group Site Map
 
-We understand and share your concern about how personal information is collected, used and shared. We are committed to supporting the National Privacy Principles and our procedures relating to personal information are designed to ensure that you are fully protected under Australian privacy laws.
+**General**
 
-Please note that the Ray White website is operated by realestate.com.au Limited on behalf of the Ray White Group, and that this policy statement only deals with privacy issues related to this website. If you deal with an individual Ray White office they will have their own privacy policy and you should ask them directly about their privacy practices if your questions don’t relate to this website.
+This policy governs the collection and use of your personal information by the Ray White (Real Estate) Partnership and its related entities, subsidiaries, employees and franchisees and their employees and real estate agents (Ray White). This policy is a statement of commitment by Ray White to comply with the applicable privacy legislation. From time to time this policy will be reviewed and updated, without notice to you. Revised policies will be posted on our websites.
 
-Kindly note that when using this website or by registering with us, you consent to the collection, use and disclosure of your personal information, but only in accordance with this Privacy Policy which directs that such information is handled sensitively, securely, and in accordance with the National Privacy Principles.  
-What personal information do we collect?  
-We collect personal information when you send us emails, submit queries to us, or subscribe to our autoFind service through our website. This is so that we can reply to your queries or requests for service.
+**How we collect personal information**
 
-Likewise, when you join our “autoFind” service we collect personal information such as your name, email address, and telephone number in addition to details of the types of properties you are interested in possibly purchasing or leasing.
+Generally we collect personal information directly from you in person, by telephone, letter, fax, email or when you provide it to us through our websites, by entering competitions, promotions or requesting information or material from us, completing surveys or providing feedback. Sometimes Ray White will collect your personal information from third parties. For example, we may need to collect personal information from a credit reporting agency, your representative (such as a legal adviser), your financial adviser, your employer or publicly available sources of information or any other organisations where you have given your consent. 
 
-Please note that if you want to remove yourself from our emailed “autoFind” service, simply “reply” to the next autoFind notification email you receive. Instructions are contained in each autoFind email notification.  
-What other inforamtion do we collect?  
-When browsing or searching our site, our server automatically collects navigational data to help us improve our website content and navigation. One way which navigational data is collected is by placing “cookies” in your browser file on your hard drive. Cookies do not capture or track any personal information and cannot identify you as an individual. If you wish, you may elect to not accept cookies on your browser. This should not adversely affect your experience when visiting the site. A cookie is a small amount of information that is transferred to your browser by a web server. The server that gives it to you can only read it again. It serves as a memory for you and can remember such details as your favourite search criteria so you do not have to enter the same information every time you come to the website.
+**What personal information we collect**
 
-How will information collected on this site be used?  
-So that we can effectively assist your use of the site, we will use your personal information to provide our services and reply to your queries or requests for service.
+Generally we collect your name, address, telephone numbers, email addresses, occupation, financial information and any other information about you to enable us to assess your needs in relation to real estate and associated products and services. We also collect information that is required for use in the business activities of Ray White. How we use information collected We use your personal information to provide and promote Ray White services to you, including:
 
-Information about the kinds of properties you are interested in and inquire about may also be combined with other users’ information to generate statistics about the types of properties that people are searching for.  
-Navigational data  
-We may use your navigational information by combining it with the navigational information we collect about other users. Please note these results do not identify any individual, instead they give us aggregated results about the usage of the site. By doing this, we are able to improve the look and feel of our site, the content and navigation, and improve the services we provide to you.
+-conducting our businesses;  
+-communicating information about our products and services to you; and  
+-for our internal administrative, marketing, planning, development and research requirements.
 
-Will personal information about me be given to anyone else?  
-Where it is necessary for law enforcement purposes or where we believe there is a threat to a person’s safety or health, we may need to disclose your personal information to third parties as required by law.
+We may use and disclose your personal information for the purposes for which it was collected and for related purposes, for example:
 
-Our site from time to time may contain links to other websites. Please note that these websites may have a different privacy policy to ours, and you should check their policy on those sites.  
-How do we keep your information safe?  
-We understand that security of personal information is paramount and we endeavour to take all reasonable steps to ensure that the personal information we hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We also endeavour to take reasonable steps to destroy or permanently de-identify personal information if it is no longer required. Sometimes information can never be completely destroyed due to technical or accounting requirements, and also in some cases legal responsibilities that will require us to retain some information.
+\- regulatory and contractual reporting and compliance  
+\- developing, improving and marketing our products and services;  
+\- servicing our relationship with you by providing updates and marketing to you;  
+\- involving you in market research and surveying you;  
+\- analysing trends in sales.
 
-Can I access personal information held about me?  
-If you ever wish to know what, if any, personal information we hold about you, or you wish to correct any personal information we may hold about you, you may access and correct such information by contacting us via the details provided below.
+**Disclosure of information**
 
-Contacting us  
-We want to develop a continuing and trusted relationship with you. If at any time you have questions regarding this Privacy Policy or any practices or dealings relating to this site then please don’t hesitate to contact us at privacy@raywhite.com.
+We are a franchise network and your personal information will be disclosed between franchisees and franchisors within the network to enable us to properly conduct the business of Ray White. We may disclose your personal information as permitted or required by law, to regulatory bodies and law enforcement and to third party service providers. Where we act as agent in collection of your personal information we collect the information on behalf of the parties for whom we act as agent both for our purposes and for their internal purposes. Where we contract with third parties to perform services for Ray White, those third parties may handle your personal information and must only use the information for the purposes for which it was supplied although we are not be responsible for ensuring this. 
 
-How often should you check this privacy policy  
-We may make changes to this Privacy Policy from time to time, so you may like to check it each time you visit the site.
+**Accessing your information**
 
-If at any time you have questions regarding this Privacy Policy or any practices or dealings relating to this site then please don’t hesitate to contact our privacy officer at Ray White (Real Estate) Pty Ltd GPO BOX 2433, Brisbane Queensland, 4001; Telephone (07) 3231 2200; Facsimile (07) 3236 9141; Email: privacy@raywhite.com
+You have the right to request access to your personal information in accordance with applicable privacy legislation. We may recover from you our reasonable costs of supplying you with access to this information. You can ask for information about you to be corrected, if it is inaccurate, incomplete or out of date. Where requested, Ray White will take reasonable steps to correct the information. 
+
+**Storage of information**
+
+Ray White will take reasonable steps to:  
+\- ensure that the personal information collected and used is accurate, complete and up to date;  
+-destroy or permanently de-identify personal information if it no longer needs it for any purpose; and  
+\- protect your personal information from misuse, loss and from unauthorised access, modification or disclosure.
+
+**Contacting us**
+
+If you have any questions or feedback about our privacy policy, you should contact the Ray White office with which you have dealings or use the contact details set out below.
+
+The Privacy Officer Ray White
+
+GPO Box 2433
+
+BRISBANE QLD 4001
+
+email – [privacy@raywhite.com](mailto:privacy@raywhite.com)
