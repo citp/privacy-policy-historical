@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wreg.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627083204id_/http%3A//wreg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wreg.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015853id_/http%3A//wreg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WREG.com — Memphis News & Weather from WREG Television, News Channel 3
 
@@ -61,3 +61,7 @@ Privacy Rights of California Residents. If you are a California resident, you ar
 If you have any questions or concerns about the information collected about you or this Policy, please contact us at the following email address: webmaster@wreg.com.
 
 When you use the Site, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort (for instance, requests concerning information residing on backup tapes), jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website.  These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you.  These companies typically use a cookie or third party web beacon to collect this information.
+
+To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>
