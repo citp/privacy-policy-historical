@@ -1,21 +1,15 @@
-<!--The following is the downloaded HTML source of the autopilotdirectory.net privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504021233id_/http%3A//www.autopilotdirectory.net/Privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autopilotdirectory.net privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122170859id_/http%3A//www.autopilotdirectory.net/Privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>AutoPilot Directory&nbsp;- Privacy Policy  </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="/templates/TerminusGrunge/style/main.css">
-<meta name="generator" content="PHP Link Directory 4.0.0">
-<!--[if IE 8]>
-<link rel="stylesheet" href="/templates/TerminusGrunge/style/ie8.css" type="text/css" media="all" />
-<![endif]-->
-<!--[if IE 7]>
-<link rel="stylesheet" href="/templates/TerminusGrunge/style/ie7.css" type="text/css" media="all" />
-<![endif]-->
-<!--[if IE 6]>
-<link rel="stylesheet" href="/templates/TerminusGrunge/style/ie6.css" type="text/css" media="all" />
-<![endif]-->
+<link rel="stylesheet" type="text/css" href="/templates/TerminusGrunge/style/fileuploader.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-7142867-24']);
   _gaq.push(['_setDomainName', '.autopilotdirectory.net']);
@@ -27,8 +21,39 @@
   })();
 </script>
 </head>
-<body><script type="text/javascript">
+<body>
+<script type="text/javascript">
 
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
 
 function ajaxFunction()
 {
@@ -77,10 +102,145 @@ catch (e)
   }
 </script>
 
-<div id="wrapperall">
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+												jQuery.validator.messages.required = "This field is required.";
+																jQuery.validator.messages.remote = "Please fix this field.";
+																jQuery.validator.messages.email = "Invalid email address format.";
+																jQuery.validator.messages.url = "Invalid URL.";
+																jQuery.validator.messages.date = "Invalid date format.";
+																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+																jQuery.validator.messages.number = "Required numeric field.";
+																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+																jQuery.validator.messages.digits = "Required integer field.";
+																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+																jQuery.validator.messages.equalTo = "Please enter the same value again.";
+																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+									
+		
+		function fireEvent(obj, evt) {
+            var fireOnThis = obj;
+            if (document.createEvent) {
+              var evObj = document.createEvent('MouseEvents');
+                evObj.initEvent(evt, true, false);
+                fireOnThis.dispatchEvent(evObj);
+            } else if (document.createEventObject) {
+                fireOnThis.fireEvent('on'+evt);
+            }
+        }
+		
+		//valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+                onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+				
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+        $("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+    });
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+												jQuery.validator.messages.required = "This field is required.";
+																jQuery.validator.messages.remote = "Please fix this field.";
+																jQuery.validator.messages.email = "Invalid email address format.";
+																jQuery.validator.messages.url = "Invalid URL.";
+																jQuery.validator.messages.date = "Invalid date format.";
+																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+																jQuery.validator.messages.number = "Required numeric field.";
+																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+																jQuery.validator.messages.digits = "Required integer field.";
+																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+																jQuery.validator.messages.equalTo = "Please enter the same value again.";
+																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+									
+		
+		function fireEvent(obj, evt) {
+            var fireOnThis = obj;
+            if (document.createEvent) {
+              var evObj = document.createEvent('MouseEvents');
+                evObj.initEvent(evt, true, false);
+                fireOnThis.dispatchEvent(evObj);
+            } else if (document.createEventObject) {
+                fireOnThis.fireEvent('on'+evt);
+            }
+        }
+		
+		//valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+                onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+				
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+        $("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+    });
+});
+</script>
 <div id="topwrapper">
 <div id="top">
-<div id="search">
+<div id="search_box">
 <form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px">
 <div id="inputleft"></div>
 <input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search">
@@ -138,6 +298,7 @@ catch (e)
 <div id="headerwrapper">
 <div id="header">
 <a class="logo" href="/">
+<img src="/templates/TerminusGrunge/images/autopilotdirectory.png" alt="Autopilot Directory">
 </a>
 <div id="headerright">
 <form method="post" action="/login.php">
@@ -162,102 +323,22 @@ catch (e)
 </div>
 <div class="clear"></div>
 </div>
-</div>
-<script type="text/javascript">
+</div><script type="text/javascript">
 
 var view1 = 0;
 var view2 = 0;
 
 </script><div class="contentSep"></div><div id="content"><div id="sideleft">
-<div class="verticalWidgetTop">Bookmark Me</div>
-<div class="sidecateg">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="21">
+<br>
 <div style="width: 171px; margin: 0px auto; padding: 10px 0px;">
 <a href="http://www.addtoany.com/share_save" target="_blank">
 <img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Save/Bookmark">
 </a>
 </div>
-</div>
-<div class="verticalWidgetBottom"></div>
-<div class="clear"></div>				<div class="verticalWidgetTop"></div>
-<div class="sidecateg">
-<div style="width: 160px; height: 600px; margin: 1px auto;">
-<script type="text/javascript">
-<!--
-google_ad_client = "pub-0857592687586303";
-
-
-google_color_border = "0C1816";
-google_color_bg = "0C1816";
-google_color_link = "E39C34";
-google_color_text = "0D8F63";
-google_color_url = "A9C6C4";
-
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-</div>
-<div class="verticalWidgetBottom"></div>
-<div class="clear"></div>				
-<center>	 
-<script type="text/javascript" src="http://feedjit.com/serve/?bc=142221&amp;tc=C2CFCD&amp;brd1=326760&amp;lnk=C2CFCD&amp;hc=F7C24D&amp;ww=225"></script><noscript><a href="http://feedjit.com/">Live Stats</a></noscript>
-</center>
-<div class="verticalWidgetTop">PageRank Chart</div>
-<div class="sidecateg">
-<style type="text/css">
-#pageranks_chart_div {
-padding-top : 6px;
-margin-left: 7px;
-margin-right: 5px;
-font-size: 16px;
-}
-</style>
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript">
-	google.load("visualization", "1", {packages:["PieChart"]});
-   google.setOnLoadCallback(drawPageRanksChart);
-   function drawPageRanksChart() {
-   	var data = new google.visualization.DataTable();
-      data.addColumn('string', 'PageRanks');
-      data.addColumn('number', 'Links Number');
-      data.addRows([
-      
-            	['PR 2', 1728]
-         ,            	['PR 3', 1588]
-         ,            	['PR 1', 1453]
-         ,            	['PR 4', 783]
-         ,            	['PR 5', 175]
-         ,            	['PR 6', 35]
-         ,            	['PR 7', 4]
-                     
-      ]);
-      var chart = new google.visualization.PieChart(document.getElementById('pageranks_chart_div'));
-      chart.draw(data, {allowHtml: true, width: 180, height: 112, is3D: true, backgroundColor: '#eaeff2', legend: 'bottom', legendFontSize: 10, legendBackgroundColor: '#eaeff2', axisFontSize: 10});
-   }
-</script>
-<div id="pageranks_chart_div"></div>
-</div>
-<div class="verticalWidgetBottom"></div>
-<div class="clear"></div>				<div class="verticalWidgetTop">Statistics</div>
-<div class="sidecateg">
-<ul class="boxStats">
-<li><strong>Active Links:</strong> 36490</li>
-<li><strong>Pending Links:</strong> 483</li>
-<li><strong>Todays Links:</strong> 196</li>
-<li><strong>Active Articles:</strong> 392</li>
-<li><strong>Pending Articles:</strong> 1</li>
-<li><strong>Todays Articles:</strong> 0</li>
-<li><strong>Total Categories:</strong> 16</li>
-<li><strong>Sub Categories:</strong> 402</li>
-</ul>
-</div>
-<div class="verticalWidgetBottom"></div>
-<div class="clear"></div>		</div>
-<div id="main"><div class="path"><a href="/" id="firstPath">AutoPilot Directory . net</a><span>Privacy Policy</span></div><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Privacy Policy for www.autopilotdirectory.net/</strong> <br><br> If you require any more information or have any questions about our  privacy policy, please feel free to contact us by email at  admin@autopilotdirectory.net.  <br><br> At www.autopilotdirectory.net/, the privacy of our visitors is of  extreme importance to us. This privacy policy document outlines the  types of personal information is received and collected by  www.autopilotdirectory.net/ and how it is used.   <br><br> <strong>Log Files</strong><br> Like many other Web sites, www.autopilotdirectory.net/ makes use of log  files. The information inside the log files includes internet protocol (  IP ) addresses, type of browser, Internet Service Provider ( ISP ),  date/time stamp, referring/exit pages, and number of clicks to analyze  trends, administer the site, track user’s movement around the site, and  gather demographic information. IP addresses, and other such information  are not linked to any information that is personally identifiable.   <br><br> <strong>Cookies and Web Beacons</strong> <br> www.autopilotdirectory.net/ does use cookies to store information about  visitors preferences, record user-specific information on which pages  the user access or visit, customize Web page content based on visitors  browser type or other information that the visitor sends via their  browser. <br><br> <strong>DoubleClick DART Cookie</strong> <br> .:: Google, as a third party vendor, uses cookies to serve ads on www.autopilotdirectory.net/.<br> .:: Google's use of the DART cookie enables it to serve ads to users  based on their visit to www.autopilotdirectory.net/ and other sites on  the Internet. <br> .:: Users may opt out of the use of the DART cookie by visiting the  Google ad and content network privacy policy at the following URL -  http://www.google.com/privacy_ads.html  <br><br> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....<br>Google Adsense<br> <br><br> These third-party ad servers or ad networks use technology to the  advertisements and links that appear on www.autopilotdirectory.net/ send  directly to your browsers. They automatically receive your IP address  when this occurs. Other technologies ( such as cookies, JavaScript, or  Web Beacons ) may also be used by the third-party ad networks to measure  the effectiveness of their advertisements and / or to personalize the  advertising content that you see. <br><br> www.autopilotdirectory.net/ has no access to or control over these cookies that are used by third-party advertisers.  <br><br> You should consult the respective privacy policies of these third-party  ad servers for more detailed information on their practices as well as  for instructions about how to opt-out of certain practices.  www.autopilotdirectory.net/'s privacy policy does not apply to, and we  cannot control the activities of, such other advertisers or web sites. <br><br> If you wish to disable cookies, you may do so through your individual  browser options. More detailed information about cookie management with  specific web browsers can be found at the browsers' respective websites.</p></td></tr><tr><td></td></tr></tbody></table>
-<div style="clear: both"></div></div><div id="sideright">
+</li>
+<li id="22">
 <div class="verticalWidgetTop">Latest featured links</div>
 <div class="sidecateg">
 <ul class="boxPopCats">
@@ -289,12 +370,14 @@ font-size: 16px;
 <a href="                                                /detail/tweetadder-vs-tweetattacks-18947.html" title="Read more about: Tweetadder Vs Tweetattacks">Tweetadder Vs Tweetattacks</a>
 </li>
 <li>
-<a href="                                                /detail/m6ceb-com-12619.html" title="Read more about: m6ceb.com">m6ceb.com</a>
+<a href="                                                /detail/m6ceb.com-12619.html" title="Read more about: m6ceb.com">m6ceb.com</a>
 </li>
 </ul>
 </div>
 <div class="verticalWidgetBottom"></div>
-<div class="clear"></div>				<div class="verticalWidgetTop">Site Spotlight</div>
+<div class="clear"></div>		</li>
+<li id="23">
+<div class="verticalWidgetTop">Site Spotlight</div>
 <div class="sidecateg">
 <center><br>
 <img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://mattwebservices.com"><br>
@@ -303,32 +386,87 @@ font-size: 16px;
 <br>
 </div>
 <div class="verticalWidgetBottom"></div>
-<div class="clear"></div>				<div class="verticalWidgetTop">Advertising</div>
-<div class="sidecateg">
+<div class="clear"></div>		</li>
+<li id="24">
+<center>	 
+<script type="text/javascript" src="http://feedjit.com/serve/?bc=142221&amp;tc=C2CFCD&amp;brd1=326760&amp;lnk=C2CFCD&amp;hc=F7C24D&amp;ww=225"></script><noscript><a href="http://feedjit.com/">Live Stats</a></noscript>
+</center>
+</li>
+</ul>
+</div>
+<div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul><div class="path"><a href="/" id="firstPath">AutoPilot Directory . net</a><span>Privacy Policy</span></div>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Privacy Policy for www.autopilotdirectory.net/</strong> <br><br> If you require any more information or have any questions about our  privacy policy, please feel free to contact us by email at  admin@autopilotdirectory.net.  <br><br> At www.autopilotdirectory.net/, the privacy of our visitors is of  extreme importance to us. This privacy policy document outlines the  types of personal information is received and collected by  www.autopilotdirectory.net/ and how it is used.   <br><br> <strong>Log Files</strong><br> Like many other Web sites, www.autopilotdirectory.net/ makes use of log  files. The information inside the log files includes internet protocol (  IP ) addresses, type of browser, Internet Service Provider ( ISP ),  date/time stamp, referring/exit pages, and number of clicks to analyze  trends, administer the site, track user’s movement around the site, and  gather demographic information. IP addresses, and other such information  are not linked to any information that is personally identifiable.   <br><br> <strong>Cookies and Web Beacons</strong> <br> www.autopilotdirectory.net/ does use cookies to store information about  visitors preferences, record user-specific information on which pages  the user access or visit, customize Web page content based on visitors  browser type or other information that the visitor sends via their  browser. <br><br> <strong>DoubleClick DART Cookie</strong> <br> .:: Google, as a third party vendor, uses cookies to serve ads on www.autopilotdirectory.net/.<br> .:: Google's use of the DART cookie enables it to serve ads to users  based on their visit to www.autopilotdirectory.net/ and other sites on  the Internet. <br> .:: Users may opt out of the use of the DART cookie by visiting the  Google ad and content network privacy policy at the following URL -  http://www.google.com/privacy_ads.html  <br><br> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....<br>Google Adsense<br> <br><br> These third-party ad servers or ad networks use technology to the  advertisements and links that appear on www.autopilotdirectory.net/ send  directly to your browsers. They automatically receive your IP address  when this occurs. Other technologies ( such as cookies, JavaScript, or  Web Beacons ) may also be used by the third-party ad networks to measure  the effectiveness of their advertisements and / or to personalize the  advertising content that you see. <br><br> www.autopilotdirectory.net/ has no access to or control over these cookies that are used by third-party advertisers.  <br><br> You should consult the respective privacy policies of these third-party  ad servers for more detailed information on their practices as well as  for instructions about how to opt-out of certain practices.  www.autopilotdirectory.net/'s privacy policy does not apply to, and we  cannot control the activities of, such other advertisers or web sites. <br><br> If you wish to disable cookies, you may do so through your individual  browser options. More detailed information about cookie management with  specific web browsers can be found at the browsers' respective websites.</p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div id="sideright">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="29">
 <div id="advertising_rotator" align="center">
 <p></p><div aligh="center"><a href="http://goodbacklinks.net/directories" target="_blank" style="height: 135px;"><img src="/images/FreeAndFastApproval125x125.jpg"></a></div><p></p>
 <p></p><div aligh="center"><a href="http://www.goodmlmsignups.com" target="_blank" style="height: 135px;"><img src="http://www.goodmlmsignups.com/images/GMSUBanner7.gif"></a></div><p></p>
-<p></p>
 </div>
-</div>
-<div class="verticalWidgetBottom"></div>
-<div class="clear"></div>				<div class="verticalWidgetTop">Tag Cloud</div>
+</li>
+<li id="30">
+<div class="verticalWidgetTop">PageRank Chart</div>
 <div class="sidecateg">
-<div style="width: 170px; margin: 0px auto; padding: 10px 0px; overflow: hidden;">
-<a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Estate" title="Estate">Estate</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Humanities" title="Humanities">Humanities</a> <a class="boxSponsoredA" style="font-size: 16px" href="/index.php?search=Internet" title="Internet">Internet</a> <a class="boxSponsoredA" style="font-size: 15px" href="/index.php?search=Computers" title="Computers">Computers</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=Sports" title="Sports">Sports</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Advertising" title="Advertising">Advertising</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=Recreation" title="Recreation">Recreation</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Arts" title="Arts">Arts</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Autos" title="Autos">Autos</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Society" title="Society">Society</a> <a class="boxSponsoredA" style="font-size: 13px" href="/index.php?search=health" title="health">health</a> <a class="boxSponsoredA" style="font-size: 17px" href="/index.php?search=Shopping" title="Shopping">Shopping</a> <a class="boxSponsoredA" style="font-size: 39px" href="/index.php?search=&amp;" title="&amp;">&amp;</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Media" title="Media">Media</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=education" title="education">education</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Entertainment" title="Entertainment">Entertainment</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Clothing" title="Clothing">Clothing</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Real" title="Real">Real</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Finance" title="Finance">Finance</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Web" title="Web">Web</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Marketing" title="Marketing">Marketing</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Transportation" title="Transportation">Transportation</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Blogs" title="Blogs">Blogs</a> <a class="boxSponsoredA" style="font-size: 22px" href="/index.php?search=Business" title="Business">Business</a> <a class="boxSponsoredA" style="font-size: 11px" href="/index.php?search=Investment" title="Investment">Investment</a> <a class="boxSponsoredA" style="font-size: 10px" href="/index.php?search=Software" title="Software">Software</a> <a class="boxSponsoredA" style="font-size: 20px" href="/index.php?search=Economy" title="Economy">Economy</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=Services" title="Services">Services</a> <a class="boxSponsoredA" style="font-size: 14px" href="/index.php?search=and" title="and">and</a> <a class="boxSponsoredA" style="font-size: 9px" href="/index.php?search=News" title="News">News</a> 
-</div>
+<style type="text/css">
+#pageranks_chart_div {
+padding-top : 6px;
+margin-left: 7px;
+margin-right: 5px;
+font-size: 16px;
+}
+</style>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+	google.load("visualization", "1", {packages:["PieChart"]});
+   google.setOnLoadCallback(drawPageRanksChart);
+   function drawPageRanksChart() {
+   	var data = new google.visualization.DataTable();
+      data.addColumn('string', 'PageRanks');
+      data.addColumn('number', 'Links Number');
+      data.addRows([
+      
+            	['PR 2', 2197]
+         ,            	['PR 1', 1969]
+         ,            	['PR 3', 1893]
+         ,            	['PR 4', 890]
+         ,            	['PR 5', 209]
+         ,            	['PR 6', 46]
+         ,            	['PR 7', 5]
+                     
+      ]);
+      var chart = new google.visualization.PieChart(document.getElementById('pageranks_chart_div'));
+      chart.draw(data, {allowHtml: true, width: 180, height: 112, is3D: true, backgroundColor: '#eaeff2', legend: 'bottom', legendFontSize: 10, legendBackgroundColor: '#eaeff2', axisFontSize: 10});
+   }
+</script>
+<div id="pageranks_chart_div"></div>
 </div>
 <div class="verticalWidgetBottom"></div>
-<div class="clear"></div>		</div><div class="clear"></div></div><!-- end content --><div id="footer"><div id="footercontent">© 2012 <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a></div></div></div><script type="text/javascript">
+<div class="clear"></div>		</li>
+<li id="31">
+<div class="verticalWidgetTop">Statistics</div>
+<div class="sidecateg">
+<ul class="boxStats">
+<li><strong>Active Links:</strong> 37917</li>
+<li><strong>Pending Links:</strong> 3362</li>
+<li><strong>Todays Links:</strong> 23</li>
+<li><strong>Active Articles:</strong> 394</li>
+<li><strong>Pending Articles:</strong> 66</li>
+<li><strong>Todays Articles:</strong> 0</li>
+<li><strong>Total Categories:</strong> 16</li>
+<li><strong>Sub Categories:</strong> 402</li>
+</ul>
+</div>
+<div class="verticalWidgetBottom"></div>
+<div class="clear"></div>		</li>
+</ul>
+</div><div class="clear"></div></div><!-- end content --><div id="footer"><div id="footercontent">© 2012 <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a></div></div><!-- Google Analytics Tracking by Google Analyticator 6.1.3: http://ronaldheft.com/code/analyticator/ --><script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', '']);
+	_gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19972046-4']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>.</body></html>
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script></body></html>
