@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501031226id_/http%3A//payworldindia.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122231324id_/http%3A//payworldindia.com/privacy_policy.php) for the most accurate reproduction.*
 
-# PayWorld :: EVDS, Electronic Voucher Distribution System - Privacy Policy
+# PayWorld :: Privacy Policy
 
 www.payworldindia.com website is the property owned and operated by the “Sugal and Damani Utility Services Pvt. Ltd” 
 
@@ -22,7 +22,7 @@ We collect the customers information such as your name, address, telephone numbe
 • Disconnect a service  
 • Contact us
 
-**Purchase Information  
+**Purchase Information** **  
 **
 
 We collect you credit card information for the billing of your services and products that you wish to purchase, which includes your card number, card type, card Holder name, address and expiration date.
@@ -61,3 +61,6 @@ We will use your e-mail address or telephone number to respond when you submit a
 **Notifications of Changes**
 
 We reserve the right to modify or amend this Privacy and Security Statement at any time and for any reason with out prior notice.
+
+  
+
