@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529122230id_/http%3A//www.mobileshop.com/customerservice/terms_view.php/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122035555id_/http%3A//www.mobileshop.com/customerservice/terms_view.php/12) for the most accurate reproduction.*
 
 # Mobile Phones - Buy 3, 3G, o2, Orange, Vodafone, Virgin and T-Mobile and Accessories. MobileShop Cheap mobile phones deals
 
 ## MobileShop.com Privacy Policy
 
-MobileShop.com is a Trading name of E Shop Midlands Ltd, part of the A1 Comms group of companies.
+MobileShop.com is part of the A1 Comms group of companies.
 
 The A1 Comms Group are committed in complying with the Data Protection Act 1998 so have published this Privacy Policy to help you understand what information we collect, how we use it and what your rights are.
 
