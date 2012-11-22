@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the mathcelebrity.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615052819id_/http%3A//www.mathcelebrity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathcelebrity.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122090234id_/http%3A//www.mathcelebrity.com/privacy.php) for the most accurate reproduction.*
 
-# Math Celebrity™ - Privacy Policy and Return Policy
+# 
 
 **What information do we collect?**  
 We collect information from you when you register on our site or place an order. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may,  
-however, visit our site anonymously.
+however, visit our site anonymously. Note: We do 
+
+_not_
+
+store your credit card information.
 
  **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways: 
