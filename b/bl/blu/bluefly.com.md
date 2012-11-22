@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012101id_/http%3A//www.bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122083758id_/http%3A//www.bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.*
 
 # Bluefly Privacy Policy
 
-This website (the "Website") is owned, operated and distributed by Bluefly, Inc., a Delaware corporation ("Bluefly"). BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE BLUEFLY CONDITIONS OF USE (THE "CONDITIONS OF USE"). **IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE WEBSITE.** This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are purchasing goods through the Website.
+This website (the "Website") is owned, operated and distributed by Bluefly, Inc., a Delaware corporation ("Bluefly"). Bluefly also owns the website located at www.belleandclive.com and information provided to Bluefly on this Website may also be used on www.belleandclive.com as well as other websites owned by Bluefly or its subsidiaries. BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE BLUEFLY CONDITIONS OF USE (THE "CONDITIONS OF USE"). **IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE WEBSITE.** This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are purchasing goods through the Website.
 
-Bluefly may, at its sole discretion, modify this Privacy Policy at any time. By accessing the Website at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of July 27, 2011.
+Bluefly may, at its sole discretion, modify this Privacy Policy at any time. By accessing the Website at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of July 2012.
 
 ## What Personally Identifiable Information Does Bluefly Collect?
 
