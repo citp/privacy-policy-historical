@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620112250id_/http%3A//www.rhino.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122055301id_/http%3A//www.rhino.com/global/privacy-policy) for the most accurate reproduction.*
 
 # Rhino | Privacy Policy | global | privacy-policy
 
