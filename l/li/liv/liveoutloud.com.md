@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveoutloud.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506104255id_/http%3A//liveoutloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoutloud.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122182957id_/http%3A//liveoutloud.com/privacy-policy) for the most accurate reproduction.*
 
-# Live Out Loud - Privacy Policy | LiveOutLoud
+# Privacy Policy
 
 The privacy practices of this policy apply to our services available under the domain and subdomains of [www.liveoutloud.com](http://liveoutloud.com/ "Live Out Loud") as well as the following related websites: www.loralsbigtable.com, www.millionairemakerbook.com, www.getrealwealthcoaching.com, www.liveoutloudcoaching.com, www.lorallangemeier.com, www.TeamMadeMillionaire.com, assets.liveoutloud.com, www.liveoutloudcommunity.com and www.wealthdiva.com (the “Website”). By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access the Website.
 
