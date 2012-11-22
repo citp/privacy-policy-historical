@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilandgasjobsearch.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629123739id_/https%3A//www.oilandgasjobsearch.com/Page/privacy-policy%3Fpopup%3DTrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilandgasjobsearch.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122162325id_/https%3A//www.oilandgasjobsearch.com/Page/privacy-policy%3Fpopup%3DTrue) for the most accurate reproduction.*
 
 # None
 
