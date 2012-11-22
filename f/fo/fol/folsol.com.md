@@ -1,38 +1,17 @@
-> *The following text is extracted and transformed from the folsol.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507152751id_/http%3A//www.folsol.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folsol.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122113017id_/http%3A//www.folsol.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of FOLSOL.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.folsol.com/p/contact.html). 
+We do not collection your information however, third-parties like our blog hosting company "Google Inc.", "Google Analytics" , "StatCounter" etc may collect your information via;
 
-At FOLSOL.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by FOLSOL.com and how it is used. 
+**Cookies.** A cookie is a message that is sent to your browser from a Web server and stored on your computer's hard drive. Third-parties may use cookies to assist in (a) helping you stay logged on the Site (b) providing video recommendations. 
 
-**Log Files**  
-Like many other Web sites, FOLSOL.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+**IP Address.** An IP address is a number that is assigned to your computer automatically when you use the Internet. We may collect IP addresses for the purposes of systems administration, server problem diagnosis and to compile aggregate information (such as how many visitors visited the Site and their approximate geographic locations). When you visit a particular Web page on the Site, our servers log your IP address. We analyze aggregated user traffic information to improve the quality of the user-experience. 
 
-**Cookies and Web Beacons**
+**1\. Your Role in Protecting Your Privacy**
 
-  * FOLSOL.com does not use cookies
+Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online. Without limitation of the foregoing, please keep your username and password private and safe. 
 
+**2\. Acceptance of Privacy Policy.**
 
-
-**DoubleClick DART Cookie**
-
-  * Google, as a third party vendor, uses cookies to serve ads on FOLSOL.com.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to FOLSOL.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
-
-
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
-Google Adsense, Infolinks etc
-
-**External Links**  
-This site contains links to other sites. FOLSOL.com is not responsible for the privacy practices or the content of such Web sites.
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on FOLSOL.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-FOLSOL.com has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FOLSOL.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you use the FOLSOL.com Website, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the FOLSOL.com Website. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Sites or the FOLSOL.com Website after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please email us at contact@folsol dot com.
