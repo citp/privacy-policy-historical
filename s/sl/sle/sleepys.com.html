@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sleepys.com privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524214427id_/http%3A//www.sleepys.com/en/info/PrivacyPolicy/%3Fbn67) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sleepys.com privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122042002id_/http%3A//www.sleepys.com/en/info/PrivacyPolicy/%3Fbn67) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US"><head>
 	<title>
@@ -164,17 +164,22 @@
 
 <!-- Global Javascript -->
 
-<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/common//jquery/jquery.js"></script>
 
 
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" type="text/javascript" charset="utf-8"></script>
 
 <!-- jQuery patches and other library code -->
+<!-- 
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/sizzle.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/jquery.sizzlePatch.js"></script>
+-->
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/pure.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/json2.js"></script>
 
 <!-- Global plugins -->
+<script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/common//jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/common//jquery/jquery.detectMobileBrowser.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/jquery.cycle.min.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/jquery.DOMWindow.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/jquery.equalHeights.js"></script>
@@ -303,8 +308,6 @@
 
 
 
-
-
                                                 
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/bgiframe.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/jquery.event.hover.js"></script>
@@ -313,22 +316,23 @@
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/common/jquery/jquery.easing.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/salmon.tooltip.js"></script>
 
-
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/jquery.datepick.min.js"></script>
 
 
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/config.js"></script>
 
-        
-		    
-			
-								    
-				
-				
-				
-			 
-		
 
+  
+	
+	
+	
+	
+	
+	
+
+
+
+		
 
 
 
@@ -365,22 +369,28 @@
 
 
 <script type="text/javascript">
-	safePageConfig = safePageConfig ? safePageConfig : {};
+	var safePageConfig = safePageConfig || {};
 
 	safePageConfig.pageGroup = 'staticPages';
 	safePageConfig.pageName = 'StandardTemplate';
 	
 	//AARP banner messages
+	//safeMessages['AARPDiscountApplied'] = "Thank you, your AARP discount has been applied.";
+	//safeMessages['enterAARPMembershipNo'] = "Enter your AARP member number below and receive 20% off your order of $399 or more!";
+	//safeMessages['AARPReminder'] = "AARP Members receive a 20% discount! <a href=" + $.cookie('aarpReminder') + ">Click here to return to the shopping cart to enter your membership number</a>.";
+	//safeMessages['welcomeAARPMember'] = "Welcome AARP Member! Enter your AARP number at checkout and receive 20% off your order of $399 or more!";
+	//safeMessages['viewCartURLForAARP'] = "http://www.sleepys.com/webapp/wcs/stores/servlet/OrderCalculate?orderId=.&URL=OrderItemDisplay&keepAutoAddedOrderItemsBeforeCalculate=1&storeId=10551&updatePrices=1&calculationUsageId=-1&doPrice=Y";
+
 	safeMessages['AARPDiscountApplied'] = "Thank you, your AARP discount has been applied.";
-	safeMessages['enterAARPMembershipNo'] = "Enter your AARP membership number below and receive 20% off your order!";
+	safeMessages['enterAARPMembershipNo'] = "Enter your AARP member number below and receive 20% off your order of $399 or more!";
 	safeMessages['AARPReminder'] = "AARP Members receive a 20% discount! <a href=" + $.cookie('aarpReminder') + ">Click here to return to the shopping cart to enter your membership number</a>.";
-	safeMessages['welcomeAARPMember'] = "Welcome AARP Member! Enter your AARP number at checkout and receive 20% off your order!";
-	safeMessages['viewCartURLForAARP'] = "http://www.sleepys.com/webapp/wcs/stores/servlet/OrderCalculate?orderId=.&URL=OrderItemDisplay&keepAutoAddedOrderItemsBeforeCalculate=1&storeId=10551&updatePrices=1&calculationUsageId=-1&doPrice=Y";
+	safeMessages['1800AARPReminder'] = "AARP Members receive a 20% discount! <a href='http://www.sleepys.com/webapp/wcs/stores/servlet/OrderCalculate?orderId=.&URL=OrderItemDisplay&keepAutoAddedOrderItemsBeforeCalculate=1&storeId=10551&updatePrices=1&calculationUsageId=-1&doPrice=Y'>Click here to return to the shopping cart to enter your membership number</a>.";
+	safeMessages['welcomeAARPMember'] = "Welcome AARP Member! Enter your AARP number at checkout and receive 20% off your order of $399 or more!";
 	
 </script>
 
 
-                                                       
+                                             
 
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/Page.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/SearchValidation.js"></script>
@@ -390,9 +400,42 @@
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/ui.behaviour.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/common/livePerson.js"></script>
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/common/livePerson/mtagconfig.js"></script>
-<script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/common/aarp.js"></script>
-
 <script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/Util.js"></script>
+
+<!-- Start- JSP File Name: Affiliate.jsp -->
+
+
+
+
+
+
+
+
+
+    
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var state=-1;
+	state=-1;
+
+</script>
+<!-- End- JSP File Name: Affiliate.jsp -->
+
+<script type="text/javascript" src="/ConsumerDirectStorefrontAssetStore/javascript/Master1_1/aarp.js"></script>
 
 
 <!-- Section/page specific scripts: '' -->
@@ -418,44 +461,6 @@
 		<meta name="keyword" content="Mattress, Buy Mattress Online, Sleepy's">
 	
 	
-
-  
-  
-
-  
-    
-    
-    
-    	
-    			
-    		
-    	
-    	
-    	
-    
-        
-  	<script>
-  		var _gaq = _gaq || [];
-  		//Sleepy's own tracker
-  		_gaq.push(['sleepys._setAccount', "UA-9248548-1"]);		  
-		  _gaq.push(['sleepys._trackPageview']);
-      
-      // Resolute digital's tracker
-      _gaq.push(['resolute._setAccount', 'UA-28099620-1']);
-      _gaq.push(['resolute._setDomainName', 'sleepys.com']);
-      _gaq.push(['resolute._setAllowLinker', true]);
-      _gaq.push(['resolute._trackPageview']);
-		  
-  		(function() {
-  	    var ga = document.createElement('script');
-  	    ga.async = true;
-  	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  	  })();
-  	</script>
-
-  
-
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/visitor/addons/deploy.asp?site=56196251&amp;d_id="></script></head>
 
 
@@ -789,6 +794,22 @@
 			      		    
 			      		
 			      	    <li>
+			      	        <a href="http://www.sleepys.com/en/info/coupons/" title="Store Ad">Store Ad</a>
+			      	    </li>
+		      	    
+			    
+		      	    
+		      	    
+			      	    
+			      	    
+			      	    
+			      	    
+			      	    
+			      		    
+			      		    
+			      		    
+			      		
+			      	    <li>
 			      	        <a href="http://www.sleepys.com/en/info/CustomerService/" title="Contact Us">Contact Us</a>
 			      	    </li>
 		      	    
@@ -805,23 +826,7 @@
 			      		    
 			      		
 			      	    <li>
-			      	        <a href="http://www.sleepys.com/en/info/AboutUs/" title="About Us">About Us</a>
-			      	    </li>
-		      	    
-			    
-		      	    
-		      	    
-			      	    
-			      	    
-			      	    
-			      	    
-			      	    
-			      		    
-			      		    
-			      		    
-			      		
-			      	    <li>
-			      	        <a href="http://www.sleepys.com/en/info/Careers/" title="Careers">Careers</a>
+			      	        <a href="http://www.sleepys.com/en/info/Financing/" title="Financing">Financing</a>
 			      	    </li>
 		      	    
 			    
@@ -853,24 +858,11 @@
 			      		    
 			      		
 			      	    <li>
-			      	        <a href="http://www.sleepys.com/en/info/Delivery/" title="Delivery">Delivery</a>
+			      	        <a href="https://www.sleepys.com/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10551&amp;langId=-1&amp;catalogId=10701" title="Wish List">Wish List</a>
 			      	    </li>
 		      	    
 			    
 		      	    
-		      	    
-			      	    
-			      	    
-			      	    
-			      	    
-			      	    
-			      		    
-			      		    
-			      		    
-			      		
-			      	    <li>
-			      	        <a href="https://www.sleepys.com/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10551&amp;langId=-1&amp;catalogId=10701" title="Wish List">Wish List</a>
-			      	    </li>
 		      	    
 			    
 		      	    
@@ -1037,8 +1029,7 @@
 
 
 				
-				<li><a href="https://www.sleepys.com/webapp/wcs/stores/servlet/LogonForm?storeId=10551&amp;langId=-1&amp;catalogId=10701" title="My Account">My Account</a></li>
-
+				
 			</ul> <!-- End toplinks -->
 		
 		
@@ -1056,8 +1047,8 @@
 						
 							<form name="frmFreeTextSearchForm" action="/webapp/wcs/stores/servlet/Search" method="get" id="frmFreeTextSearchForm" class="search" onsubmit="return doSubmit(this, 'freeText', 'Please enter one or more terms to search for', 'Search this site...');">
 								<fieldset class="formstyle" title="Search this site...">
-									
-									<input value="" id="searchbox" class="input placeholder" name="freeText" type="text">
+									<label for="searchbox">Search this site...</label>
+									<input value="" id="searchbox" class="input" name="freeText" type="text">
 									<input type="image" id="searchbutton" class="button primary" src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/Master1_1/butt_go.png">
 									<input type="hidden" name="storeId" value="10551" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
 									<input type="hidden" name="catalogId" value="10701" id="WC_CachedHeaderDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
@@ -1276,18 +1267,25 @@
 		</div>	
 		
 		
+		
+		
+			 
+			
+		
+		
+		
 	
 	
 
 
 
-<!-- cid=WC_slpprd_node_2.server1 -->
+<!-- cid=WC_slpprd_node_1.server1 -->
 
-<!-- tst=Thu May 24 17:44:28 EDT 2012 -->
-<!-- req=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?bn67  -->
-<!-- requestURI=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/ -->
-<!-- forwardReq=null?null -->
-<!-- forwardContextPath=null -->
+<!-- tst=Wed Nov 21 22:21:08 EST 2012 -->
+<!-- req=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/ShoppingArea/CatalogSection/CategorySubsection/CategoriesDisplayMercado.jsp -->
+<!-- requestURI=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/ShoppingArea/CatalogSection/CategorySubsection/CategoriesDisplayMercado.jsp -->
+<!-- forwardReq=/webapp/wcs/stores/servlet/MCategory2_10602_12701_-1_2%257CCustomer+Rating%257C%252526%25252336%25253B3.00+to+%252526%25252336%25253B5.00_2%7CPrice%7C%2526%252336%253B800.00+to+%2526%252336%253B1119.99_10551?msg=&shouldCachePage=true -->
+<!-- forwardContextPath=/webapp/wcs/stores -->
  
 					
 			
@@ -1434,7 +1432,7 @@
 
 			
 		<div id="navholder">
-			<ul id="navigation" class="navigation sf-js-enabled"> 
+			<ul id="navigation" class="navigation"> 
 		
 				
 				
@@ -1617,7 +1615,7 @@
 					
 					
 					
-						<ul class="sub" style="display: none; visibility: hidden;">
+						<ul class="sub">
 						
 							
 							
@@ -1631,8 +1629,8 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Top-Rated/" title="Top Rated">
-									<span class="c">Top Rated</span>
+								<a href="http://www.sleepys.com/en/Top-Rated/" title="Top Rated Mattresses">
+									<span class="c">Top Rated Mattresses</span>
 								</a>
 								
 							</li> 
@@ -1653,6 +1651,26 @@
 								
 								<a href="http://www.sleepys.com/en/Mattresses/Closeout-Models/" title="Closeout Models">
 									<span class="c">Closeout Models</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Mattresses/FREE-Boxspring/" title="FREE Boxspring">
+									<span class="c">FREE Boxspring</span>
 								</a>
 								
 							</li> 
@@ -1731,8 +1749,8 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Mattresses/Latex-Mattresses/" title="Latex Mattresses">
-									<span class="c">Latex Mattresses</span>
+								<a href="http://www.sleepys.com/en/Mattresses/Gel-Mattresses/" title="Gel Mattresses">
+									<span class="c">Gel Mattresses</span>
 								</a>
 								
 							</li> 
@@ -1843,7 +1861,7 @@
 					
 					
 					
-						<ul class="sub" style="display: none; visibility: hidden;">
+						<ul class="sub">
 						
 							
 							
@@ -1937,8 +1955,28 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/King-Koil/" title="King Koil">
-									<span class="c">King Koil</span>
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Coolsense-by-Sealy-Posturepedic/" title="Coolsense by Sealy Posturepedic">
+									<span class="c">Coolsense by Sealy Posturepedic</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/ISeries-by-Serta/" title="ISeries by Serta">
+									<span class="c">ISeries by Serta</span>
 								</a>
 								
 							</li> 
@@ -1977,8 +2015,8 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Kingsdown/" title="Kingsdown">
-									<span class="c">Kingsdown</span>
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Perfect-Solutions/" title="Perfect Solutions">
+									<span class="c">Perfect Solutions</span>
 								</a>
 								
 							</li> 
@@ -2057,28 +2095,8 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/ComforPedic-Phenom-by-Simmons/" title="ComforPedic Phenom by Simmons">
-									<span class="c">ComforPedic Phenom by Simmons</span>
-								</a>
-								
-							</li> 
-							
-							
-						
-							
-							
-
-							<li class="subCategory">
-								<!-- Get the SEO friendly URL for this top category -->
-								
-									
-									
-									
-																		
-									
-								
-								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Laura-Ashley/" title="Laura Ashley">
-									<span class="c">Laura Ashley</span>
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Sleeping-Beauty/" title="Sleeping Beauty">
+									<span class="c">Sleeping Beauty</span>
 								</a>
 								
 							</li> 
@@ -2117,8 +2135,8 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/My-Side/" title="My Side">
-									<span class="c">My Side</span>
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/King-Koil/" title="King Koil">
+									<span class="c">King Koil</span>
 								</a>
 								
 							</li> 
@@ -2137,8 +2155,28 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Castle-Collection/" title="Castle Collection">
-									<span class="c">Castle Collection</span>
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Laura-Ashley/" title="Laura Ashley">
+									<span class="c">Laura Ashley</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Kingsdown/" title="Kingsdown">
+									<span class="c">Kingsdown</span>
 								</a>
 								
 							</li> 
@@ -2159,6 +2197,66 @@
 								
 								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Hotel-Maison/" title="Hotel Maison">
 									<span class="c">Hotel Maison</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/My-Side/" title="My Side">
+									<span class="c">My Side</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/ComforPedic-Phenom-by-Simmons/" title="ComforPedic Phenom by Simmons">
+									<span class="c">ComforPedic Phenom by Simmons</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Mattresses-By-Brand/Spring-Air/" title="Spring Air">
+									<span class="c">Spring Air</span>
 								</a>
 								
 							</li> 
@@ -2209,7 +2307,7 @@
 					
 					
 					
-						<ul class="sub" style="display: none; visibility: hidden;">
+						<ul class="sub">
 						
 							
 							
@@ -2223,8 +2321,8 @@
 																		
 									
 								
-								<a href="http://www.sleepys.com/en/Bedding/Childrens-Bedding/" title="Children's Bedding">
-									<span class="c">Children's Bedding</span>
+								<a href="http://www.sleepys.com/en/Bedding/Top-Rated-Bedding/" title="Top Rated Bedding">
+									<span class="c">Top Rated Bedding</span>
 								</a>
 								
 							</li> 
@@ -2245,6 +2343,26 @@
 								
 								<a href="http://www.sleepys.com/en/Bedding/Pillows/" title="Pillows">
 									<span class="c">Pillows</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Bedding/Specialty-Pillows/" title="Specialty Pillows">
+									<span class="c">Specialty Pillows</span>
 								</a>
 								
 							</li> 
@@ -2423,8 +2541,68 @@
 																		
 									
 								
+								<a href="http://www.sleepys.com/en/Bedding/Futon-Covers/" title="Futon Covers">
+									<span class="c">Futon Covers</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
 								<a href="http://www.sleepys.com/en/Bedding/Window-Treatments/" title="Window Treatments">
 									<span class="c">Window Treatments</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Bedding/Childrens-Bedding/" title="Children's Bedding">
+									<span class="c">Children's Bedding</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Bedding/Pet-Beds/" title="Pet Beds">
+									<span class="c">Pet Beds</span>
 								</a>
 								
 							</li> 
@@ -2475,7 +2653,47 @@
 					
 					
 					
-						<ul class="sub" style="display: none; visibility: hidden;">
+						<ul class="sub">
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Furniture/Top-Rated-Furniture/" title="Top Rated Furniture">
+									<span class="c">Top Rated Furniture</span>
+								</a>
+								
+							</li> 
+							
+							
+						
+							
+							
+
+							<li class="subCategory">
+								<!-- Get the SEO friendly URL for this top category -->
+								
+									
+									
+									
+																		
+									
+								
+								<a href="http://www.sleepys.com/en/Furniture/Storage-Bed-Solutions/" title="Storage Bed Solutions">
+									<span class="c">Storage Bed Solutions</span>
+								</a>
+								
+							</li> 
+							
+							
 						
 							
 							
@@ -2748,6 +2966,47 @@
 					
 				</li> 
 				
+			
+
+				
+				
+				
+				
+				
+				    
+				    
+						<li class="topcategory ">
+				    
+				
+					
+					
+					
+						
+						
+						
+						
+					
+					
+					
+					<a href="http://www.sleepys.com/en/Gifts/" title="Gifts" class="toplink">
+						<span class="p">Gifts</span>
+					</a>
+					
+				
+					
+					
+					
+										
+					
+					
+					
+			
+					
+					
+					
+					
+				</li> 
+				
 			 
 											
 			
@@ -2780,12 +3039,12 @@
 
 
 
-<!-- cid=WC_slpprd_node_2.server1 -->
+<!-- cid=WC_slpprd_node_1.server1 -->
 
-<!-- tst=Wed May 23 20:27:32 EDT 2012 -->
+<!-- tst=Wed Nov 21 07:39:27 EST 2012 -->
 <!-- req=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
 <!-- requestURI=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- forwardReq=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?bn67 -->
+<!-- forwardReq=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?null -->
 <!-- forwardContextPath=/webapp/wcs/stores -->
  
 	
@@ -2804,12 +3063,12 @@
 
 
 
-<!-- cid=WC_slpprd_node_2.server1 -->
+<!-- cid=WC_slpprd_node_1.server1 -->
 
-<!-- tst=Wed May 23 20:27:32 EDT 2012 -->
+<!-- tst=Wed Nov 21 07:39:27 EST 2012 -->
 <!-- req=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
 <!-- requestURI=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- forwardReq=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?bn67 -->
+<!-- forwardReq=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?null -->
 <!-- forwardContextPath=/webapp/wcs/stores -->
  
 <!-- End - JSP File name:  style1/CachedHeaderDisplay.jsp -->
@@ -2827,6 +3086,10 @@
 	
 
 	<div id="pagebody"> 
+
+		
+     <!-- pageBody_liner_head.jsp -->
+
 		<div id="maincontent">
 			<!--MAIN CONTENT STARTS HERE-->
 			
@@ -2854,6 +3117,8 @@
 	Sleepy’s operates retail bedding specialty stores which offer a wide variety of high quality sleep products. Sleepy’s brings it reputation of quality and service to you through the ease and convenience of on-line shopping via the Website. Sleepy’s credit card underwriters operate sites embedded within the Website. Such sites are governed by separate privacy policies, which we encourage you to read at such time as you access those sites. The Website is not intended for persons under 18 years of age. Sleepy’s does not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.</p>
 <p>
 	Sleepy’s recognizes the importance of our customers' privacy.&nbsp; &nbsp;We strive to manage your personal information with the utmost care. This policy applies to customer information obtained by Sleepy’s in connection with its operations, both in stores and online.&nbsp; This policy describes:</p>
+<p>
+	&nbsp;</p>
 <p style="margin-left: 40px">
 	1. How and why we collect your personal information.</p>
 <p style="margin-left: 40px">
@@ -2870,6 +3135,8 @@
 </div>
 <p>
 	We collect personal information about you to deliver the products and services you request and to help improve your shopping experience. We strive to limit the amount of personal information collected to support the intended purpose of the collection.&nbsp; For example, if you order a product, we need to have information such as your billing address, age, product choice, delivery information, and payment processing information.&nbsp; In addition, your personal information helps us communicate with you about our latest products, special offers, and information and events about which you might like to hear.&nbsp; We also collect your personal information to help us design and deliver our website, and to delivery targeted advertisements to you when you use the website.&nbsp; When we use the term “aggregate” information it means, generally, that we may combine information obtained from you together with information from other sources, which may help us develop a more targeted user profile concerning you and/or your demographic information.&nbsp; For example, if you provide us with your email address, we may cross-check that address against information that might be otherwise available through other entities with whom we have business relationships in order to develop a more in-depth demographic profile of you.&nbsp;</p>
+<p>
+	&nbsp;</p>
 <p align="center">
 	<strong>What Information We Collect</strong></p>
 <p>
@@ -2888,38 +3155,68 @@
 	5. Participate in a contest, sweepstakes, promotion, or survey; or</p>
 <p style="margin-left: 40px">
 	6. Otherwise submit personal information to us along with any related content of the communication.</p>
+<p style="margin-left: 40px">
+	&nbsp;</p>
 <p>
 	Personal information is information that identifies you or is reasonably linked to you. The personal information we collect may include contact and payment information like your name, email and physical addresses, phone numbers, and credit and debit card information. When you ask us to ship an order, we may collect information you provide us such as the name, address, and phone number of recipients. &nbsp;&nbsp;You may also elect to provide us with other information, including without limitation, your gender and birth date.&nbsp; If you create an account, we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your address book, in order to make future shopping experiences faster and more convenient.&nbsp; &nbsp;&nbsp;When you participate in a contest or survey, it is completely voluntary and the user therefore has a choice whether or not to disclose contact information (i.e., name, email and physical address) and demographic information (i.e, postal code, age level).&nbsp; This information will be used to process the contests or surveys and notify winners and award prizes and may be shared with a third party that is sponsoring the survey or contest.&nbsp; If your information gathered via a survey or contest will be used in a manner different from that described in this privacy policy, such use will be detailed in the survey instructions or contest rules.&nbsp;</p>
+<p>
+	&nbsp;</p>
 <p align="center">
 	<strong>Information from Other Sources</strong></p>
 <p>
 	We may receive personal information about you from other sources as well. Examples of these sources are entities that can help us correct or supplement our records, improve the quality or personalization of our service to you, and help prevent or detect fraud. In addition, we may collect information from consumer reporting agencies or other service providers if you obtain certain financial products.</p>
+<p>
+	&nbsp;</p>
 <p align="center">
 	<strong>Automated Information Collection</strong></p>
 <p>
 	Even if you do not submit personal information through the website, we receive and store certain types of information when you interact with our websites, emails, and online advertising. Our purpose is to allow the websites to work correctly, to evaluate use of the website, and to support website analytics and marketing campaigns.&nbsp;&nbsp;&nbsp; In this process of gathering information, we may collect personally identifiable and non-personally identifiable information.&nbsp; Some examples include:</p>
+<p>
+	&nbsp;</p>
 <p style="margin-left: 40px">
 	<u>1. General Browsing:</u>&nbsp; We may collect technical information such as your internet protocol address and service provider, your computer’s operating system and browser type and version, domain type, date/time stamp, the address of a referring website, if any, and the path you take through our web pages. &nbsp;&nbsp;We may also create and use electronic records to compile statistics about how our visitors collectively interact with our website.&nbsp;</p>
 <p style="margin-left: 40px">
+	&nbsp;</p>
+<p style="margin-left: 40px">
 	<u>2. Use of Cookies:</u>&nbsp; We use “cookies” to recognize you as you use our sites by assigning a unique identification to your computer. &nbsp;A cookie is a small text file that a website or email may save to your browser and store on your hard drive and is used to help track clicks as you go through the pages within our website. &nbsp;&nbsp;We may also use cookies to tell us whether you have previously visited the website.&nbsp; Cookies may also be set by third-parties with whom we have an agreement which enables us to obtain other information about you as may be available from those third-parties, such as demographic data about you.&nbsp; You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it.&nbsp; You may also use commonly available tools in your browser to remove most cookies which may have been placed onto your computer.</p>
+<p style="margin-left: 40px">
+	&nbsp;</p>
 <p style="margin-left: 40px">
 	<u>3. Web Beacons and JavaScript:</u>&nbsp; Web Beacons (a.k.a. pixel tabs, action pixels, clear gifs) and Javascript plug-ins allow us to know if a certain page was visited, an email was opened, or if ad banners on our website and other sites were effective. &nbsp;&nbsp;These web beacons and plug-ins are small graphic images (typically that you cannot see) or code on a website or in an email message which are used for such things as recording web pages and advertisements clicked-on by a user, or for tracking the performance of email marketing campaigns.&nbsp; These devices help us analyze our customers’ online behavior and measure the effectiveness of our website and advertising.&nbsp; We also work with third-party service providers that help us track, collect, and analyze this information.&nbsp; Third-party entities with whom we have agreements may place these devices on the website and/or in emails to use information obtained from them to place a cookie onto your computer, which may enable us to obtain aggregate demographic information and user statistics about you and your preferences.</p>
 <p style="margin-left: 40px">
+	&nbsp;</p>
+<p style="margin-left: 40px">
 	<u>4. Widgets and Server Logs: </u>&nbsp;&nbsp;A “widget” is generally an application that can be embedded into a web page. Widgets can provide real-time information to the page.&nbsp;&nbsp; Widgets are often provided by third-parties and we may provide widgets on our website.&nbsp;&nbsp;&nbsp; A web “server log” is a record of activity created by a computer that delivers certain web pages to your browser.&nbsp; Certain activities that you perform on our website may record information in server logs, such as if you enter a search term into a search box located on the site.&nbsp; The server log may record the search term, or the link you clicked on to bring you to the website.&nbsp; The server log may also record information about your browser, such as your IP address and the cookies set on your browser.&nbsp;</p>
+<p style="margin-left: 40px">
+	&nbsp;</p>
 <p style="margin-left: 40px">
 	<u>5. Search Queries:</u>&nbsp;&nbsp;&nbsp; We may provide you with options to search for information on our site.&nbsp; If you enter information in a search query box, we may store that information and we may aggregate that information with other information we may have about the browser and/or the IP address from which the search query originated.&nbsp;</p>
 <p style="margin-left: 40px">
-	<u>6. Third-Party Service Provider Cookies and Web Beacons:</u>&nbsp;&nbsp;Currently, we use third party-placed tracking pixels and cookies and related or similar technologies for to help us understand how our website is used, to personalize our content, develop and improve our products and services including improving advertising,from the following business partner: Bazaarvoice, Inc.  Bazaarvoice may collect information about your visits to our website, purchase activity, and your interaction with our products and social commerce services. Such information is anonymous and does not include your name, address, e-mail address or other personal information. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.  This information allows us to offer social commerce services that allow you to share your opinion about the products on our website, to improve such social commerce service functionality, and to recognize you when you return.  Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf.   In addition to the anonymous information about your visits to our website, Bazaarvoice may also use the anonymous information about your visits to other websites within the Bazaarvoice Network to provide targeted advertisements and offers for our products and services.   If you would like more information about this practice and to know your choices about not having this anonymous information used by our third-party service providers, please visit <a href="http://www.bazaarvoice.com/consumer-privacy-policy" target="_blank" title="blocked::http://www.bazaarvoice.com/consumer-privacy-policy">http://www.bazaarvoice.com/consumer-privacy-policy</a>.</p>
+	&nbsp;</p>
+<p style="margin-left: 40px">
+	<u>6. Third-Party Service Provider Cookies and Web Beacons:</u>&nbsp;&nbsp;Currently, we use third party-placed tracking pixels and cookies and related or similar technologies for to help us understand how our website is used, to personalize our content, develop and improve our products and services including improving advertising,from the following business partner: Bazaarvoice, Inc. Bazaarvoice may collect information about your visits to our website, purchase activity, and your interaction with our products and social commerce services. Such information is anonymous and does not include your name, address, e-mail address or other personal information. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites. This information allows us to offer social commerce services that allow you to share your opinion about the products on our website, to improve such social commerce service functionality, and to recognize you when you return. Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf. In addition to the anonymous information about your visits to our website, Bazaarvoice may also use the anonymous information about your visits to other websites within the Bazaarvoice Network to provide targeted advertisements and offers for our products and services. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third-party service providers, please visit <a href="http://www.bazaarvoice.com/consumer-privacy-policy" target="_blank" title="blocked::http://www.bazaarvoice.com/consumer-privacy-policy">http://www.bazaarvoice.com/consumer-privacy-policy</a>.</p>
+<p style="margin-left: 40px">
+	&nbsp;</p>
+<p style="margin-left: 40px">
+	This site may show advertisements to you on other sites after you have visited this site. This is sometimes known as “remarketing” because we may re-market our products or services to you on other sites after you leave this site. We use third-party vendors, including Google, to show you these advertisements on various sites on the Internet. These third-party vendors, including Google, use cookies, pixel tags, and other technologies to serve you ads based on your prior visits to this site.</p>
+<p style="margin-left: 40px">
+	&nbsp;</p>
+<p style="margin-left: 40px">
+	Users may opt out of Google’s DoubleClick remarketing pixel, which you may opt out of by visiting the DoubleClick opt-out page at https://www.google.com/settings/ads/onweb#display_optout</p>
 <p>
 	&nbsp;</p>
 <p>
 	We may operate cameras in stores for security and operational purposes, such as to measure traffic patterns. Except for security purposes, we do not use these cameras to identify you personally.</p>
+<p>
+	&nbsp;</p>
 <div>
 	<p align="center">
 		<strong>How We Use Your Information</strong></p>
 </div>
 <p>
 	Sleepy’s uses your information in a variety of ways to offer and provide our products and services to you and to support our core business functions. These include order or service fulfillment, internal business processes, marketing, authentication, loss and fraud prevention, public safety and legal functions. Some examples include:</p>
+<p>
+	&nbsp;</p>
 <p style="margin-left: 40px">
 	1. To fulfill your requests for products and services and communicate with you about those requests;</p>
 <p style="margin-left: 40px">
@@ -2934,24 +3231,36 @@
 	6. To send you information about our products, services, and promotions; and</p>
 <p style="margin-left: 40px">
 	6. To protect the security or integrity of our websites and our business.</p>
+<p style="margin-left: 40px">
+	&nbsp;</p>
 <p>
 	To accomplish these purposes, we may combine personal and non-personal information we collect online with offline information, including information from third parties. We may transfer or disclose your information within our corporate family of companies for these purposes.</p>
+<p>
+	&nbsp;</p>
 <p align="center">
 	<strong>How We Disclose Your Information Outside Sleepy’s</strong></p>
 <p>
 	Sleepy’s does not sell or rent your personal information to third parties. We only disclose your personal information with your prior consent or under the following limited circumstances.</p>
+<p>
+	&nbsp;</p>
 <p align="center">
 	<strong>Service Providers</strong></p>
 <p>
 	We may disclose or otherwise make available personal information about you to service providers that help with our business operations. Examples are shipping vendors, billing and refund vendors, payment card processors, and companies that help us improve our product and service offerings and our websites. Your personal information may be stored and processed by our service providers in the United States or other locations where the service providers or Sleepy’s maintains facilities. We require our service providers to keep your information secure. In addition, our service providers may not use or disclose personal information for any purpose other than providing the services on our behalf.</p>
+<p>
+	&nbsp;</p>
 <p align="center">
 	<strong>Legal Requirements and Protection of Our Company and Others</strong></p>
 <p>
 	We may disclose your information in other special circumstances. These include situations when the sharing is necessary to protect the safety, property, or other rights of Sleepy’s, our customers, our associates, or any other person, or where otherwise required by law. Examples include protecting the health or safety of customers, or addressing crimes committed on Sleepy’s property. Data from in-store security cameras may also be provided to law enforcement upon written request. Sleepy’s may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by applicable law.</p>
+<p>
+	&nbsp;</p>
 <p align="center">
 	<strong>Business Transfers</strong></p>
 <p>
 	We may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Sleepy’s or as part of a corporate reorganization or stock sale or other change in corporate control.</p>
+<p>
+	&nbsp;</p>
 <div>
 	<p align="center">
 		<strong>Security</strong></p>
@@ -2981,1366 +3290,4 @@
 					<div class="espot">			
 						
 						<!-- c:out value="eSpotStaticPageMain_PrivacyPolicy" /-->
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-		
-		
-			
-			
-				
-				
-				
-				
-			
-		
-	
-	
-		
-		
-			
-		
-	
-	
-		
-		
-			
-		
-	
-	
-	
-	
-	
-	
-	
-
-
-
-<!-- cid=WC_slpprd_node_2.server1 -->
-
-<!-- tst=Thu May 24 17:44:28 EDT 2012 -->
-<!-- req=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?bn67  -->
-<!-- requestURI=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/ -->
-<!-- forwardReq=null?null -->
-<!-- forwardContextPath=null -->
- 
-
-			
-				    </div>
-					</div>
-			<!-- End of espot code addition block-->
-		</div><!-- end of id="maincontent" -->
-		
-		<!-- The following is the static page hierarchy -->
-			
-				
-					
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="filters">
-	<div id="RefineByCategory">
-		
-		<h3>Information</h3>
-		
-	    
-    	
-	
-	    
-    	    
-	    
-    
-    	
-        	
-	        
-    	
-	
-	    <ul class="refinecats">
-		    
-				
-					
-					
-						<li class="parentcategory"><span>»</span>&nbsp;Privacy Policy</li>		
-					
-				
-		    
-	    </ul>
-
-	</div>
-		<!-- Addition of espot  -->
-	<div id="productimage">
-		<div class="espot">
-			
-			
-			<!-- c:out value="eSpotStaticPageLHS_PrivacyPolicy" /-->
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-		
-		
-			
-			
-				
-				
-				
-				
-			
-		
-	
-	
-		
-		
-			
-		
-	
-	
-		
-		
-			
-		
-	
-	
-	
-	
-	
-	
-	
-
-
-
-<!-- cid=WC_slpprd_node_2.server1 -->
-
-<!-- tst=Thu May 24 17:44:28 EDT 2012 -->
-<!-- req=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?bn67  -->
-<!-- requestURI=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/ -->
-<!-- forwardReq=null?null -->
-<!-- forwardContextPath=null -->
- 
-
-
-			
-	    </div>
-	</div>	
-<!-- End of espot code addition block-->
-</div>
-
-	
-
-
-
-<!-- cid=WC_slpprd_node_2.server1 -->
-
-<!-- tst=Wed May 23 20:27:32 EDT 2012 -->
-<!-- req=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- requestURI=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- forwardReq=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?bn67 -->
-<!-- forwardContextPath=/webapp/wcs/stores -->
- 
-
-
-					 
-				
-			
-			
-	</div><!-- End div id="pagebody" -->
-
-	<script type="text/javascript" src="http://www.mmi-agency.com/traction.js"></script>
-	<script type="text/javascript">
-	traction();
-	</script>
-
-	
-	
-	
-	
-	
-		
-			
-
-
-<!-- begin LayoutContainerBottom.jspf -->
-
-  		<!-- Footer -->
-			
-
-
-<!-- BEGIN FooterDisplay.jspf -->
-<div class="subBody">
-  
-  <!-- Google Code for Sleepys.com Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1015130300;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "ntZ_COyyuQIQvNGG5AM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1015130300/?label=ntZ_COyyuQIQvNGG5AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-
-
-<table align="center" border="0" cellpadding="0" width="100%">
-	<tbody> <tr> <td><p>&nbsp;</p></td><td>
-<br>
-<p style="text-align: center">
-	<span style="font-size: 12px"><strong><a href="/webapp/wcs/stores/servlet/LogonForm?storeId=10551&amp;langId=-1&amp;catalogId=10602_BN53">My Account:</a></strong>&nbsp;&nbsp;
-	<span style="font-size: 12px"><strong><a href="/webapp/wcs/stores/servlet/OnlinePaymentCmd?storeId=10551&amp;catalogId=10602&amp;langId=-1&amp;storeId=10551&amp;langId=-1&amp;catalogId=10602&amp;BN69">Make a Payment</a> | <a href="/en/info/Financing/?BN56">Financing</a>&nbsp;| <a href="/webapp/wcs/stores/servlet/TrackDeliveryStatus?storeId=10551&amp;catalogId=10601&amp;langId=-1&amp;BN67B">Check Delivery Status</a>&nbsp;| <a href="/en/info/PrivacyPolicy/?bn67">Privacy Policy</a>&nbsp;| <a href="/en/info/MattressRegistry/">My Registry</a>
-
-</strong></span></span></p><strong>
-<p style="text-align: center">
-	&nbsp;</p>
-<p style="text-align: center">
-	<span style="font-size: 12px"><strong><a href="/en/info/CustomerService/?BN49">Customer Service:</a></strong>&nbsp;&nbsp;<a href="/en/info/CustomerService/?BN49BN50">Contact Us</a> | <a href="/webapp/wcs/stores/servlet/StoreLocatorView?storeId=10551&amp;langId=-1&amp;catalogId=10601&amp;BN51">Store Locator</a>&nbsp;| <a href="/en/info/Delivery/?BN54">Delivery</a>&nbsp;| <a href="/en/info/ReturnPolicy/?BN55">Return Policy</a>&nbsp;| <a href="/en/info/Warranty/?BN57">Warranty</a>&nbsp;| <a href="/en/info/TermsOfUse/?bn66">Terms of Use</a>&nbsp;| <a href="/en/info/FAQ/?BN58">FAQ</a>&nbsp;| <a href="/en/info/SiteMap/?bn68">Site Map</a></span></p>
-<p style="text-align: center">
-	&nbsp;</p>
-<p style="text-align: center">
-	<span style="font-size: 12px"><strong><a href="/en/info/AboutUs/?bn59">About Us:</a></strong>&nbsp;&nbsp;<a href="/en/info/Careers/?bn63">Careers</a></span>&nbsp;| <a href="/en/info/RatingsandReviews/?bn60">Mattress Reviews</a>&nbsp;|  <a href="/en/info/PressRelease/?bn66">Press Room</a>&nbsp;| <a href="/en/info/SleepyMedia/?bn62">Commercials</a>&nbsp;| <a href="/en/info/HowToVideos/?bn64">Informational Videos</a>&nbsp;| <a href="/en/info/Stories/?bn65">BedTime Stories</a> | <a href="https://plus.google.com/115903634050039942463" rel="publisher" target="_blank">Find us on Google+</a> </p>
-<p style="text-align: center">
-	&nbsp;</p></strong></td></tr></tbody>  
-
-</table><table align="center" border="0" cellpadding="0" width="100%">
-	<tbody>
-		<tr>
-			<td>
-				<p>
-					&nbsp;</p>
-				<p></p><p style="text-align: center">
-					<a href="/en/Mattresses/All-Mattresses/?bn1"><u><span style="font-size: 11px"><strong>Mattresses</strong></span></u></a></p>
-			</td>
-			<td>
-				<p>
-					&nbsp;</p>
-				<p>
-					</p><p style="text-align: center"><a href="/en/info/MattressSizes/?bn11"><span style="font-size: 11px"><strong><u>Mattress Size</u></strong></span></a></p>
-			</td>
-			<td>
-				<p>
-					&nbsp;</p>
-				<p>
-					</p><p style="text-align: center"><a href="/en/Mattresses-By-Brand/?bn21"><u><span style="font-size: 11px"><strong>Popular Brands</strong></span></u></a></p>
-			</td>
-			<td>
-				<p>
-					&nbsp;</p>
-	
-			
-                                       	<p>
-					</p><p style="text-align: center"><a href="/en/Top-Rated/?bn21"> <u><span style="font-size: 11px"><strong>Popular Items</strong></span></u></a></p><a href="/en/Top-Rated/?bn21">
-			
-                                      </a></td>
-			<td>
-				<p>
-					&nbsp;</p>
-				<p>
-					</p><p style="text-align: center"><a href="/en/Top-Rated/?bn21">  <u><span style="font-size: 11px"><strong>Popular Searches</strong></span></u></a></p><a href="/en/Top-Rated/?bn21">
-			</a></td>
-		</tr>
-		<tr>
-			<td>
-				<div>
-					<p style="text-align: center"><a a="" href="/en/Mattresses/All-Mattresses/?bn1" style="text-decoration: none"><span style="font-size: 11px">Mattress</span></a>
-					</p><div>
-						<span style="font-size: 11px"><p style="text-align: center"><a href="/en/info/MemoryFoamMattress/?bn3" style="text-decoration: none"><span style="font-size: 11px">Memory Foam Mattress</span></a></p></span></div>
-					<div>
-						<span style="font-size: 11px"><p style="text-align: center"><a a="" href="/en/info/MemoryFoamMattress/?bn4" style="text-decoration: none">Foam Mattress</a></p></span></div>
-					<div>
-						<span style="font-size: 11px"><p style="text-align: center"><a a="" href="/en/Mattresses/Crib-Mattresses/?bn5" style="text-decoration: none">Crib Mattress</a></p></span></div>
-					<div>
-						<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses/Futon-Mattresses/?bn6" style="text-decoration: none"><span style="font-size: 11px">Futon Mattress</span></a></p></span></div>
-					<div>
-						<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses/Box-Springs/?bn7" style="text-decoration: none">Box Springs</a>
-						</p><div>
-							<span style="font-size: 11px"><p style="text-align: center"><a a="" href="/en/Mattresses/Latex-Mattresses/?bn8" style="text-decoration: none"> Latex Mattress</a></p></span></div>
-						<div>
-							<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses-By-Brand/Tempur-Pedic/?bn9" style="text-decoration: none">Tempurpedic</a></p></span></div>
-						<div>
-							<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses/Innerspring-Mattresses/?BN10" style="text-decoration: none">Spring Mattress</a></p></span></div>
-						
-					<div>
-							<p style="text-align: center><span style=" font-size:="" 11px"=""></p></div>
-					</span></div>
-				</div>
-			</td>
-			<td> 
-				<div>
-					<p style="text-align: center"><a href="/en/info/TwinMattresses" style="text-decoration: none">Twin Mattress</a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/info/TwinXLMattresses" style="text-decoration: none"><span style="font-size: 11px">Twin XL Mattress</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/info/FullMattresses" style="text-decoration: none"><span style="font-size: 11px"><full mattress<="" a=""></full></span></a></p></div><a href="/en/info/FullMattresses" style="text-decoration: none">
-				</a><div><a href="/en/info/FullMattresses" style="text-decoration: none">
-					</a><p style="text-align: center"><a href="/en/info/FullMattresses" style="text-decoration: none"></a><a href="/en/info/QueenMattresses" style="text-decoration: none"><span style="font-size: 11px">Queen Mattress</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/info/KingMattresses" style="text-decoration: none"><span style="font-size: 11px">King Mattress</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/info/CalKingMattresses" style="text-decoration: none"><span style="font-size: 11px">California King Mattress</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/Mattresses/Crib-Mattresses/?bn18" style="text-decoration: none"><span style="font-size: 11px">Crib Mattresses</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/Mattresses/Futon-Mattresses/?bn19" style="text-decoration: none"><span style="font-size: 11px">Futon Mattresses</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/Comfort-Solutions-by-King-Koil-Crib-Mattress_18951/?bn20" style="text-decoration: none"><span style="font-size: 11px">Foam Crib Mattresses</span></a></p></div>
-				<div>
-					<p style="text-align: center"></p></div>
-			</td>
-			<td>
-				<div>
-					<p style="text-align: center"><a href="/en/Mattresses-By-Brand/Sealy-Posturepedic/?bn23" style="text-decoration: none"><span style="font-size: 11px">Sealy</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/Mattresses-By-Brand/Serta-Perfect-Sleeper/?bn24" style="text-decoration: none"><span style="font-size: 11px">Serta</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/Mattresses-By-Brand/Simmons-Beautyrest/?bn22" style="text-decoration: none"><span style="font-size: 11px">Simmons</span></a></p></div>
-				<div>
-					<p style="text-align: center"><a href="/en/Mattresses-By-Brand/Tempur-Pedic/?bn25" style="text-decoration: none"><span style="font-size: 11px">Tempurpedic</span></a></p></div>
-				<div>
-					<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses-By-Brand/Stearns-Foster/?bn26" style="text-decoration: none"><span style="font-size: 11px">Stearns and Foster</span></a></p></span></div>
-				<div>
-					<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses-By-Brand/Kingsdown/?bn27" style="text-decoration: none"><span style="font-size: 11px">Kingsdown</span></a></p></span></div>
-				<div>
-					<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses-By-Brand/Laura-Ashley/?bn28" style="text-decoration: none"><span style="font-size: 11px">Laura Ashley</span></a></p></span></div>
-				<div>
-					<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses-By-Brand/King-Koil/?bn29" style="text-decoration: none"><span style="font-size: 11px">King Koil</span></a></p></span></div>
-				<div>
-					<span style="font-size: 11px"><p style="text-align: center"><a href="/en/Mattresses-By-Brand/W-Hotels/?bn30" style="text-decoration: none"><span style="font-size: 11px">W Hotels</span></a></p></span></div>
-				
-			</td>
-			<td>
-				<div>
-<div>
-						<p style="text-align: center"><a href="/en/Furniture/Bed-Frames/?bn36" style="text-decoration: none"><span style="font-size: 11px">Bed Frame</span></a></p></div>					
-
-<div>
-						<p style="text-align: center"><a href="/en/Mattresses/All-Mattresses/?bn31" style="text-decoration: none"><span style="font-size: 11px">Mattresses</span></a></p></div>
-					<div>
-						<p style="text-align: center"><a href="/en/Bedding/Mattress-Protectors/?bn32" style="text-decoration: none"><span style="font-size: 11px">Mattress Protectors</span></a></p></div>
-					<div>
-						<p style="text-align: center"><a href="/en/Bedding/Mattress-Toppers/?bn33" style="text-decoration: none"><span style="font-size: 11px"><span style="font-size: 11px">Mattress Pads</span></span></a></p></div>
-
-	<div>
-						<p style="text-align: center"><a href="/en/Sale/?bn41" style="text-decoration: none"><span style="font-size: 11px">Mattress Sale</span></a></p></div>
-					
-					<div>
-						<p style="text-align: center"><a href="/en/Furniture/Bedroom-Furniture/?bn45" style="text-decoration: none"><span style="font-size: 11px">Bedroom Furniture</span></a></p></div>
-					
-					<div>
-						<p style="text-align: center"><a href="/en/Bedding/Mattress-Toppers/?bn37" style="text-decoration: none"><span style="font-size: 11px">Mattress Toppers</span></a></p></div>
-					<div>
-						<p style="text-align: center"><a href="/en/Furniture/Adjustable-Beds/?bn38" style="text-decoration: none"><span style="font-size: 11px">Adjustable Bed</span></a></p></div>
-					<div>
-						<p style="text-align: center"><a href="/en/Furniture/Headboards-and-Footboards/?bn39" style="text-decoration: none"><span style="font-size: 11px">Headboard</span></a></p></div>
-					
-
-				</div>
-			</td>
-			<td>
-<div>
-						<p style="text-align: center"><a href="/en/Bedding/Comforter-Sets/?bn46" style="text-decoration: none"><span style="font-size: 11px">Comforter Sets</span></a></p></div>				
-<div>
-					<div>
-						<p style="text-align: center"><a href="/en/info/FindingtheBestMattressforYou/?bn40" style="text-decoration: none"><span style="font-size: 11px">Best Mattress</span></a></p></div>
-				
-<div>
-						<p style="text-align: center"><a href="/en/Bedding/Duvets/?bn42" style="text-decoration: none"><span style="font-size: 11px">Duvet Covers</span></a></p></div>
-<div>
-						<p style="text-align: center"><a href="/en/Bedding/Pillows/?bn34" style="text-decoration: none"><span style="font-size: 11px"><span style="font-size: 11px">Pillow</span></span></a></p></div>
-					
-					<div>
-						<p style="text-align: center"><a href="/en/Bedding/Window-Treatments/?bn43" style="text-decoration: none"><span style="font-size: 11px">Curtains</span></a></p></div>
-					<div>
-						<p style="text-align: center"><a href="/en/Bedding/Sheets/?bn44" style="text-decoration: none"><span style="font-size: 11px">Sheets</span></a></p></div>
-					<div>
-						<p style="text-align: center"><a href="/en/Bedding/?bn45" style="text-decoration: none"><span style="font-size: 11px">Bedding</span></a></p></div>
-					
-					<div>
-						<p style="text-align: center"><a href="/en/Furniture/?bn47" style="text-decoration: none"><span style="font-size: 11px">Furniture</span></a></p></div>
-					<div>
-						<p style="text-align: center"><a href="/en/Furniture/Daybeds/?bn48" style="text-decoration: none"><span style="font-size: 11px">Daybeds</span></a></p></div><br>
-			
-				</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div align="center">
-	<table align="center" width="200">
-		<tbody>
-			<tr>
-				<td style="text-align: center">
-					<img border="0" src="/wcsstore/Sleepys/upload/sleepysfooter-google+.png" usemap="#social.jpg"><map name="social.jpg"><area alt="Facebook" coords="0,0,119,35" href="http://www.facebook.com/sleepys" shape="RECT" target="_blank"><area alt="Twitter" coords="123,0,262,34" href="http://www.twitter.com/sleepys" shape="RECT" target="_blank"><area alt="YouTube" coords="268,0,412,36" href="http://www.youtube.com/sleepysinc" shape="RECT" target="_blank"><area alt="Sleepy's Blog" coords="425,0,584,36" href="http://sleepysblog.com/" shape="RECT" target="_blank"><area alt="Google Plus" coords="591,0,750,39" href="https://plus.google.com/115903634050039942463" shape="RECT" target="_blank">
-
-
-</map></td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-
-
-
-</div>
-
-
-
-
-<!-- Start - JSP File name:  style1/CachedFooterDisplay.jsp -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-				
-
-	
-							
-	
-	
-	
-	
-	
-								
-
-	
-	
-	
-				
-
-	
-	
-	
-
-
-	
-	
-	
-
-
-	
-	
-	
-
-
-	
-	
-	
-	
-																									
-
-<!--START FOOTER-->
-	<div id="footer">
-		<ul id="footerlinks">
-		
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-			    
-				
-			
-			
-	   		
-			
-
-    	</ul>
-
-    	
-		<!--
-		    
-			
-			    
-				
-				
-				
-				<img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/catexchange.gif" alt="catalogue exchange" />
-			
-		
-		    
-			
-			    
-				
-				
-				
-				<img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/verisign.gif" alt="verisign secured" />
-			
-		-->
-
-		<!-- 
-		<div id="builtby">
-			<span class="unbold">Built by</span> Salmon LLC
-    	</div>
-    	-->
-	</div> <!--  end of footer div -->
-<!--END FOOTER-->
-	
-
-
-
-<!-- cid=WC_slpprd_node_2.server1 -->
-
-<!-- tst=Wed May 23 19:54:46 EDT 2012 -->
-<!-- req=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- requestURI=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- forwardReq=/webapp/wcs/stores/servlet/en/10551/info/FindingtheBestMattressforYou/?bn40 -->
-<!-- forwardContextPath=/webapp/wcs/stores -->
- 
-
-<!-- End - JSP File name:  style1/CachedFooterDisplay.jsp -->
-
-
-
-<!-- END FooterDisplay.jspf -->
-		  <!-- /Footer -->
-		
-    </div>
-
-  </div>
-
-</div>
-<!-- end #container -->
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-        <!-- Google Analytics -->
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-		
-		
-
-
-
-
-
-
-
-
-
-	
-	
-		
-
-
-<script type="text/javascript" src="https://matres.netmng.com/?aid=1016" defer="defer"></script>
-
-
-
-	
-
-
-
- 
-	
-		
-	
-		<!-- ClickEquations Universal Tag -->
-<!-- Note: Everything from document.write(unescape( to )); MUST be on a single line. -->
-<script language="JavaScript1.1" type="text/javascript">
-    var CQK="129A6F34" ;
-    var CQP=(("https:" == document.location.protocol) ? "https://" : "http://") ;
-    document.write(unescape("%3Cscript language=\"JavaScript1.1\" type=\"text/javascript\" src=\""+CQP+"js.clickequations.net/CLEQ_"+CQK+".js\" %3E%3C/script%3E" ));
-</script><script language="JavaScript1.1" type="text/javascript" src="https://js.clickequations.net/CLEQ_129A6F34.js"></script>
-		
-	
-
-
-
-<script type="text/javascript" src="http://www.mmi-agency.com/traction.js" id="tractionScriptCore"></script>
-<script type="text/javascript">
-	
-	//Shield from global scope
-	(function(){
-		//Strip any non-alphanuemrics, and replace whitespace with underscore
-		var tractionSafeTitle = function(title) {
-			title = title.replace(/[^\w\s]/g, '');
-			title = title.replace(/\s/g, '_');
-			return title
-		}
-		
-		var tractionInit = function() {
-			
-			
-			
-			traction(tractionSafeTitle(document.title));	
-		}
-		
-		if (typeof traction == 'function') {
-			//If the script is ready to go, fire it
-			tractionInit();
-		} else {
-			//Otherwise, wait until the traction script has been parsed
-			var tracScript = document.getElementById('tractionScriptCore'),
-				tractionInitialized = false;
-				
-				//Two scripts that essentially do the same thing (IE 6 & 7, and everything else)
-				//tractionInitialized records whether the script has already run, to prevent it firing twice.
-				tracScript.onload = function(){
-					tractionInitialized ? null : tractionInit();
-					tractionInitialized = true;
-				}
-				tracScript.onreadystatechange = function () {
-					tractionInitialized ? null : (/loaded|complete/).test(tracScript.readyState) && tractionInit();
-					tractionInitialized = true;
-	            };
-		}
-	})();
-									
-</script>
-
-<img class="adTrackerImage" height="1" width="1" src="https://view.atdmt.com/action/mmislp_ShopStep5CheckoutConfirmOrderNONTRA CTIO_7/v3/ato./[atm1./atm2.]">
-
-
-<div style="display:none;">
-
-
-
-
-
-
-
-
-
-<div id="livePersonTriggerBlock">
-  
-  
-  
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="chatheader" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="chatcontatus" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="chatpdp" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="chatdeliveryschedule" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="chatcheckdeliveryzip" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="chatnostoresfound" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="chatordersummary" class="liveChatBaseTrigger"></div>	
-	
-
-
-  
-  
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="voicehome" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="voicefooter" class="liveChatBaseTrigger"></div>	
-	
-		
-
-
-
-
-	
-	
-		
-	
-
-
-<div id="voicedeliveryschedule" class="liveChatBaseTrigger"></div>	
-	
-	
-</div>
-
-
-</div>
-<!-- end LayoutContainerBottom.jspf -->
-
-		
-		
-		
-		
-	
-
-	
-
-
-
-<!-- cid=WC_slpprd_node_2.server1 -->
-
-<!-- tst=Wed May 23 20:27:32 EDT 2012 -->
-<!-- req=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- requestURI=/webapp/wcs/stores/ConsumerDirectStorefrontAssetStore/StaticPages/StandardTemplate.jsp -->
-<!-- forwardReq=/webapp/wcs/stores/servlet/en/10551/info/PrivacyPolicy/?bn67 -->
-<!-- forwardContextPath=/webapp/wcs/stores -->
- 
-	
-
-
-
-
-
-<div id="datepick-div" style="display: none;"></div></body></html>
+						</div></div></div></div></div></div></div></body></html>
