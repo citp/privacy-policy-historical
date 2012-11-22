@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afewshortcuts.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523061121id_/http%3A//afewshortcuts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afewshortcuts.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015649id_/http%3A//afewshortcuts.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,4 +23,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-[](http://afewshortcuts.com/about/disclosure/)  
+###### _This post may contain affiliate links. Please read our[disclosure statement](http://afewshortcuts.com/about/disclosure/) for more info._
