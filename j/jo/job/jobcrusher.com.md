@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcrusher.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202081856id_/http%3A//www.jobcrusher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcrusher.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122210249id_/http%3A//www.jobcrusher.com/privacy) for the most accurate reproduction.*
 
 # Job Crusher » Privacy
 
@@ -30,7 +30,7 @@ As a customer you are agreeing to receive information about the product or servi
 
 We may also send you information about other products and services our company offers.
 
-We will not sell, provide, or transfer you email address to others.
+We will not sell, provide, or transfer your email address to others.
 
 We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties.
 
