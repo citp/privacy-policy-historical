@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225214id_/http%3A//aarki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122120040id_/http%3A//www.aarki.com/privacy) for the most accurate reproduction.*
 
 # Aarki | Mobile Advertising | Mobile Ad Network
 
