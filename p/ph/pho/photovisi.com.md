@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513010015id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122043150id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.*
 
-# Photovisi - Collage photo effects
+# Photovisi - Photo Collage Maker
 
-## Privacy Policy
-
-### What information do we collect?
+## What information do we collect?
 
 Nyana ("Photovisi", "we," "us," "our") collects information from you when you register on our site or place an order.
 
@@ -12,7 +10,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-### What do we use your information for?
+## What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -37,7 +35,7 @@ The email address you provide for order processing, may be used to send you info
 
 _Note: if at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
 
-### How do we protect your information?
+## How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.
 
@@ -47,47 +45,45 @@ All supplied credit information is transmitted via Secure Socket Layer (SSL) tec
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-### Do we use cookies?
+## Do we use cookies?
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-### Do we disclose any information to outside parties?
+## Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### California Online Privacy Protection Act Compliance
+## California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by contact us using the webpage available at <http://www.photovisi.com/contact/new>
 
-### Childrens Online Privacy Protection Act Compliance
+## Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. To comply with COPPA we ask all users who wish to provide information to us for their birth date and/or age. If a user indicates that they are under 13 years of age, we will block access to the requested resource and make sure no personal information is collected. In case you are under age 13, please do not attempt to provide any personal information about yourself to us. We will delete any personal information as soon as possible once we learn that this information is from any person under age 13.
 
-### CAN-SPAM Compliance
+## CAN-SPAM Compliance
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-### Terms and Conditions
+## Terms and Conditions
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.photovisi.com/index/terms>
 
-### Your Consent
+## Your Consent
 
 By using our site, you consent to our privacy policy.
 
-### Changes to our Privacy Policy
+## Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
 This policy was last modified on **May 19, 2010**
 
-### Contacting Us
+## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at the webpage available at <http://www.photovisi.com/contact/new>
-
-### Privacy Policy Customer Pledge
+## Privacy Policy Customer Pledge
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
 
