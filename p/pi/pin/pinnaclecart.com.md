@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614134552id_/http%3A//www.pinnaclecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122042957id_/http%3A//www.pinnaclecart.com/privacy-policy) for the most accurate reproduction.*
 
-# Pinnacle Shopping Cart Software - PINNACLE SHOPPING CART SOFTWARE SERVICE & LICENSE AGREEMENT | PHP Shopping Cart Software | eCommerce Website Solution | Storefront Design | Hosted Shopping Cart | Online Store Builder
+# Pinnacle Shopping Cart Software - PINNACLE SHOPPING CART SOFTWARE SERVICE & LICENSE AGREEMENT | Pinnacle PHP Shopping Cart Solutions
 
 ### **Our Commitment to Privacy**
 
