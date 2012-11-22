@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getonic.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429015714id_/http%3A//www.getonic.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getonic.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122045127id_/http%3A//www.getonic.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GETONIC - Start selling in social networks
 
