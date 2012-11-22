@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609014513id_/http%3A//www.latinlawyer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122025257id_/http%3A//www.latinlawyer.com/privacy) for the most accurate reproduction.*
 
 # Latin Lawyer
 
@@ -6,7 +6,12 @@ _By submitting personal data to us and/or by using our website you give your con
 
 #### Who are we?
 
-We are LAW BUSINESS RESEARCH LIMITED. We are registered in England and Wales under company number 03281866 and have our registered office at 10 Station Court, Station Approach, Wickford, Essex SS11 7AT.
+We are LAW BUSINESS RESEARCH LIMITED. We are registered in England and Wales and have our registered office at:
+
+27 / 28 Eastcastle Street  
+London  
+W1W 8DH  
+Company Number: 03281866 
 
 #### Scope of privacy and cookie policy
 
@@ -48,7 +53,9 @@ _Please note: sometimes we embed video clips or similar content within articles 
 
 We collect information about you when you register with us on our website. We will also collect information when you voluntarily complete surveys or provide feedback. Website usage information is collected using cookies, and through automatic means (see below).
 
-Should you decide to purchase any services that we offer, we will need to collect financial information in order to complete the transaction.
+Should you decide to purchase any services that we offer, we will need to collect financial information necessary to conduct such a transaction ("Financial Information"). Financial Information that is collected may be used to check your qualifications for registration, to bill you for products and services, or other purposes. We do not share Financial information with outside parties except to the extent necessary to provide you with any product or service that you may have purchased.
+
+We will only collect and retain personally identifiable information to the extent that it is strictly necessary for our legitimate business purposes.
 
 #### Use of personal data
 
@@ -90,16 +97,22 @@ Information posted on chat rooms, forums, message boards and/or news groups that
 
 We will improve and add new functionality and features to this website and improve and add to our existing products, services and promotions. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change form time to time. If and when our data practices change, we will post the changes on our website to notify you. We encourage you to check this page frequently.
 
+#### Law
+
+We comply with the EC Data Protection Directive 1995 and the United Kingdom Data Protection Act 1998. This data privacy policy forms part of the terms of use of this web-site and is governed by and construed in accordance with the laws of England and Wales. You agree to submit any dispute arising out of your use of this web-site to the exclusive jurisdiction of the English Courts and the place of performance of the contract is agreed by the parties to be England.Questions or Comments
+
+If you have any questions about this privacy policy, the practices of Law Business Research Limited or your dealings with us, please contact us.
+
 #### How to contact us
 
 Please contact us at the addresses below if you have any questions about our Privacy Policy or information we hold about you, if you wish to opt out of marketing materials, make a request for information or request the correction/deletion of information.
 
-Law Business Research Limited  
-10 Station Court  
-Station Approach  
-Wickford  
-Essex  
-SS11 4AT  [callum.campbell@lbresearch.com](mailto:callum.campbell@lbresearch.com)  
+**Law Business Research Limited**  
+87 Lancaster Road  
+London  
+W11 1QQ  
+United Kingdom  
+[callum.campbell@lbresearch.com](mailto:callum.campbell@lbresearch.com)  
 +44 (0)20 7908 1181
 
 Office hours: 9am to 6pm GMT 
