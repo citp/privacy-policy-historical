@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmanews.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618093754id_/http%3A//www.mmanews.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmanews.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123004723id_/http%3A//www.mmanews.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MMA News
 
