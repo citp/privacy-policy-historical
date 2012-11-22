@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the funkygadgets9.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505140351id_/http%3A//www.funkygadgets9.com/%3Fpage_id%3D552) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkygadgets9.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122140506id_/http%3A//www.funkygadgets9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funky Gadgets9
+
+## Privacy Policy
 
 Privacy Policy for **http://www.funkygadgets9.com**
 
