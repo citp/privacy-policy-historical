@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601110151id_/http%3A//www.agriculture.gov.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122220541id_/http%3A//www.agriculture.gov.ie/privacy) for the most accurate reproduction.*
 
 # Privacy - Department of Agriculture, Food & the Marine
 
