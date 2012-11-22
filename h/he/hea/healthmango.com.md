@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthmango.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523184820id_/http%3A//www.healthmango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthmango.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122114608id_/http%3A//www.healthmango.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Healthmango for Healthy Life
+# Privacy Policy - Healthmango
 
 **1\. General:**
 
