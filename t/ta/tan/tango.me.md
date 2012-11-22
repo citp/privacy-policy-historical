@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523180224id_/http%3A//www.tango.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122113316id_/http%3A//www.tango.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tango - FREE mobile video calls over 3G, 4G, & WiFi!
+# Privacy Policy - Tango - FREE voice, video, & text over 3G, 4G, & WiFi!
 
 ## Introduction
 
@@ -76,6 +76,12 @@ If we make material changes to this policy, we will notify you by publishing a r
 
 If you have any questions about this Privacy Policy, please contact us at [ privacy@tango.me](mailto:privacy@tango.me). Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
 
+## U.S.-EU Safe Harbor
+
+Tango complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Tango has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Tango certification, please visit <http://www.export.gov/safeharbor>.
+
+In compliance with the US-EU Safe Harbor Principles, Tango commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Tango at: Privacy@tango.me Tango has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Tango, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
 ## Date
 
-This privacy policy was posted on May 1, 2011.
+This privacy policy was posted on October 24th, 2012.
