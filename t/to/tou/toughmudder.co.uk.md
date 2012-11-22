@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toughmudder.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524033350id_/http%3A//toughmudder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toughmudder.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122172107id_/http%3A//toughmudder.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tough Mudder UK
+# Privacy & Cookies Policy | Tough Mudder UK
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to Tough Mudder LLC’s website: [ToughMudder.co.uk](http://toughmudder.co.uk/).
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to Tough Mudder LLC’s and Tough Mudder Limited’s website: [ToughMudder.co.uk](http://toughmudder.co.uk/). For the purpose of the Data Protection Act 1998 (the Act) the data controllers are Tough Mudder LLC and Tough Mudder Limited.
 
 ### 1\. Purpose.
 
@@ -24,7 +24,7 @@ If you have any questions about this privacy policy, don’t see your concerns a
 
 Except as disclosed below, we don’t sell, barter, give away, or rent your personal information.
 
-  * **(a) Personal Information.** Use of certain features of the site, like signing up to receive a newsletter, or responding to one of our surveys may require that you provide certain personally identifiable information, in other words, information that identifies or describes you, such as your name, email address, telephone numbers, address, zip code, age, and gender (“personal information”). We also may collect and store personal information about you that we receive from other sources, e.g. the information we receive from RaceIt.com when you register for an event or to be a spectator. RaceIt.com has its own privacy policy and you should refer to it for any questions you may have about the information RaceIt collects about you when you register for one of our events or to be a spectator using RaceIt.com.
+  * **(a) Personal Information.** Use of certain features of the site, like signing up to receive a newsletter, or responding to one of our surveys may require that you provide certain personally identifiable information, in other words, information that identifies or describes you, such as your name, email address, telephone numbers, address, post code, age, and gender (“personal information”). We also may collect and store personal information about you that we receive from other sources, e.g. the information we receive from RaceIt.com when you register for an event or to be a spectator. RaceIt.com has its own privacy policy and you should refer to it for any questions you may have about the information RaceIt collects about you when you register for one of our events or to be a spectator using RaceIt.com. If you contact us, we may keep a record of that correspondence. We also collect details of transactions you carry out through our site and of the fulfilment of your orders.
 
   * **(b) Anonymous Information.** Even if you don’t request a newsletter or fill-out a survey, when you interact with the site, we may collect certain non-personal information. For example, our servers keep an activity log that tracks all visitors to the site. The information in the activity log is anonymous and therefore does not identify you individually. The anonymous information our server collects may include among other data: your IP address, your registered domain or home server, time of access, date of access, web page(s) visited, number of clicks, software crash reports, type of browser used, session identification number, search terms, search results, access times and referring website’s addresses. 
 
@@ -53,7 +53,7 @@ Google may also transfer this information to third parties where required to do 
 
 ### 5\. How We May Use Your Information.
 
-Except as disclosed in this privacy policy, we do not use or disclose information about your individual visits to our site or your personal information collected online to any parties other than those with whom we partner or are affiliated without your consent. 
+Except as disclosed in this privacy policy, we do not use or disclose information about your individual visits to our site or your personal information collected online to any parties other than those with whom we partner or are affiliated without your consent. We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. 
 
   * **(a) In General.** We use your personal information to communicate with you about your interest in our events and our company, to help us improve your experience on the site and in some cases to promote our events or to inform visitors to our site about the people who participate in our events. We may also use your information to prevent or detect abuses of our terms of use and to enable third parties to carry out technical or other functions on our behalf. 
 
@@ -84,9 +84,9 @@ Our site contains links to other websites, and in some cases, frames other websi
 
 ### 8\. Governing Law.
 
-Our site is published in the United States and governed by U.S. law. If you are located within the European Union, you should be aware that your personal identifiable information will be transferred to the United States of America, the laws of which may be deemed by the European Union to have inadequate data protection. If you are located in a European Union country or another country outside the United States and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States.
+Our site is published in the United Kingdom and is governed by the laws of England and Wales.
 
-### 9\. Assignment.
+### 9\. Assignment / Our Change of Ownership.
 
 We may change our ownership or corporate organization while providing the website. As a result, please be aware that we may transfer your information to another company that is affiliated with us or with which we have merged. 
 
@@ -96,6 +96,14 @@ As our website continues to develop, we may change or add new services or featur
 
 ### 11\. Managing Your Information/Opting-Out.
 
-You may always opt-out of receiving future e-mail messages and newsletters from us or request that your information be removed from our website or corrected. To make such a request, you can send us a message at [info@toughmudder.co.uk](mailto:info@toughmudder.co.uk). 
+You have the right to ask us not to process your personal data for marketing purposes. You may always opt-out of receiving future e-mail messages and newsletters from us or request that your information be removed from our website or corrected. To make such a request, you can send us a message at [info@toughmudder.co.uk](mailto:info@toughmudder.co.uk). 
 
-Last Updated: 1 May, 2012
+### 12\. Where we store your information.
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”), the laws of which may be deemed by the European Union to have inadequate data protection laws. Your data may also be processed by staff operating outside the EEA who work for us or one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+### 13\. Access to Information
+
+The Act gives you the right to access information that we hold about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+Last Updated: 5 October, 2012
