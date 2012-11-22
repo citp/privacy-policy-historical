@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607031009id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122231735id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Prototyping Software & Wireframe Tool
 
