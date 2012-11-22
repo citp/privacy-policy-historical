@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the wildtangent.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611064606id_/http%3A//about.wildtangent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildtangent.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122094758id_/http%3A//www.wildtangent.com/legal/privacy) for the most accurate reproduction.*
 
-# WildTangent: Privacy Policy
+# Games | Play Games Online | WildTangent Games
+
+### OUR COMMITMENT TO PRIVACY
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage, the Games APP, and, in general, at every point where personally identifiable information may be requested. Please understand that by accessing or using the WildTangent Network you are agreeing with the privacy policy terms. As a result, we encourage you to read this entire Privacy Policy. If at any time you have questions or concerns about this Privacy Policy, please contact us [here](https://web.archive.org/contact/privacyquestions).
+
+### WHAT INFORMATION DO WE COLLECT and HOW is it USED?
 
 **_Sites and Games App  _**On some pages, you can play, rent and purchase games and other products, register and/or create a user profile, make requests, submit resume information, and register to receive materials. The types of personal information collected at these pages may include; name, address, email address, phone number, credit/debit card information, as well as other similar personal information.
 
@@ -24,8 +28,8 @@ _**Support  **_When you request support from us by email, on the telephone, thr
 
 We will not share your personally identifiable information with third parties without your consent (subject to the limited exceptions identified below) and at the time you are asked for this information or for consent, we will inform you of: 
 
-  * The personally identifiable information to be shared 
-  * The identity of the third party 
+  * The personally identifiable information to be shared
+  * The identity of the third party
   * A link to the third party's privacy statement, if available 
 
 
@@ -45,21 +49,21 @@ To permit your efficient use of the WildTangent Network, we use cookies (small f
 
 We (or third parties on our behalf) may also use web beacons, or similar technologies, which are transparent images that have been placed on a web page or an e-mail message, and send a signal that allows us to determine when a page has been visited, or an e-mail opened. Web beacons or similar technologies do not contain or collect personally identifiable information. The information that we do collect is used to allow us to better understand our customers' usage patterns, and to help us determine how they accessed our website(s). This information, in turn, allows us to improve our products to better meet your needs, and to enhance our communications with you. 
 
-**_**_Are there other Parties Collecting Information about me that I should be aware of while using the WildTangent Network?_**_**
+**_Are there other Parties Collecting Information about me that I should be aware of while using the WildTangent Network?_**
 
- ** _Other Third Party Sites  _**The WildTangent Network may be linked to Internet websites or other platforms operated by other companies. Some of these websites or other platforms may be co-branded with our name or logo, even though they are not operated or maintained by us. WildTangent is not responsible for the privacy practices of the websites or other platforms operated by third parties. Once you have left the Sites, you should check the privacy policy of the other website or platform to determine how it handles any personally identifiable information it collects from you.  Please be aware that WildTangent does not warn you when you have chosen to link through to another website or property from the Sites.
+**_Other Third Party Sites  _**The WildTangent Network may be linked to Internet websites or other platforms operated by other companies. Some of these websites or other platforms may be co-branded with our name or logo, even though they are not operated or maintained by us. WildTangent is not responsible for the privacy practices of the websites or other platforms operated by third parties. Once you have left the Sites, you should check the privacy policy of the other website or platform to determine how it handles any personally identifiable information it collects from you.  Please be aware that WildTangent does not warn you when you have chosen to link through to another website or property from the Sites.
 
  ** _Advertisers and Ad Network  _** WildTangent carries advertisements on the WildTangent Network. Some of these ads are served by WildTangent, and some are served by third party ad networks. Where an ad is served by WildTangent that requests personal information from you (for example, in a survey), WildTangent collects the personal information you disclose, along with the advertiser and/or ad network. Otherwise, WildTangent does not collect personal information from such ads.  
 
 Some ads may provide the ability to click through to websites or properties run by the advertiser or other third parties or to otherwise interact with an advertiser, sometimes without even leaving the Sites. WildTangent is not responsible for the privacy practices of advertisers. Once you have clicked on an advertisement, you should check the privacy policy of the advertiser to determine how it handles any personally identifiable information it collects from you. 
 
-Ad networks and other third parties may use cookies, web beacons, and other technologies to collect non-personally identifiable information about your visits to various websites other than the WildTangent Network. WildTangent does not have control over cookies, web beacons or other technologies that such third parties may use, but WildTangent may acquire non-personally identifiable information regarding the behavior and usage patterns of users of websites and other online properties from third parties, and also may combine this information with other non-personally identifiable information we have collected, to deliver advertisements to you, measure the effectiveness of ads, and more effectively target advertisements and offerings that may be of greater interest to you.  We are not responsible for the information collection practices of other third party websites that you may visit.  Some of these third party websites and advertising companies may be members of the Network Advertising Initiative ("NAI") or may be partners with information aggregators, such as BlueKai, and may permit you to opt out of tracking by participating websites.  While WildTangent is not responsible for the terms of these organizations or the effectiveness of their opt out procedures, for more information on opting out of tracking mechanisms, please see, for example, the BlueKai website at http://www.bluekai.com/consumers_optout.php> or the NAI opt-out tool at <http://www.networkadvertising.org/managing/opt_out.asp>.
+Ad networks and other third parties may use cookies, web beacons, and other technologies to collect non-personally identifiable information about your visits to various websites other than the WildTangent Network. WildTangent does not have control over cookies, web beacons or other technologies that such third parties may use, but WildTangent may acquire non-personally identifiable information regarding the behavior and usage patterns of users of websites and other online properties from third parties, and also may combine this information with other non-personally identifiable information we have collected, to deliver advertisements to you, measure the effectiveness of ads, and more effectively target advertisements and offerings that may be of greater interest to you.  We are not responsible for the information collection practices of other third party websites that you may visit.  Some of these third party websites and advertising companies may be members of the Network Advertising Initiative ("NAI") or may be partners with information aggregators, such as BlueKai, and may permit you to opt out of tracking by participating websites.  While WildTangent is not responsible for the terms of these organizations or the effectiveness of their opt out procedures, for more information on opting out of tracking mechanisms, please see, for example, the BlueKai website at <http://www.bluekai.com/consumers_optout.php> or the NAI opt-out tool at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
- ** _Other Third Parties_**  WildTangent, or third party advertisers, may use third party research firms to conduct brand studies or perform other analytics, and such third party research firms may also use cookies or use beacons to gather relevant information, including whether a user has or has not seen a particular ad campaign.
+**_Other Third Parties_**  WildTangent, or third party advertisers, may use third party research firms to conduct brand studies or perform other analytics, and such third party research firms may also use cookies or use beacons to gather relevant information, including whether a user has or has not seen a particular ad campaign.
 
- ** _Do You Provide Ongoing Product Updates Or Other Information?_**
+**_Do You Provide Ongoing Product Updates Or Other Information?_**
 
-Periodically, we may send e-mails or text messages to users of our products and services with news, updates, special offers and other information relating to our products and services, and to select third party products and services. You may opt out of receiving these communications by accessing your account information through the [My Account](https://www.wildgames.com/ECS/htdocs/MyAccount_SignIn.aspx?dp=wildgames) section of the Sites or the Game App, or by clicking on the link provided at the bottom of our e-mails to you. 
+Periodically, we may send e-mails or text messages to users of our products and services with news, updates, special offers and other information relating to our products and services, and to select third party products and services. You may opt out of receiving these communications by accessing your account information through the [My Account](https://web.archive.org/myaccount) section of the Sites or the Game App, or by clicking on the link provided at the bottom of our e-mails to you. 
 
 **_What Happens If I Decline To Provide Personal Information Or Remove Or Reject Passive Information Gathering?_**
 
@@ -79,13 +83,13 @@ The WildTangent Network is not intended for use by anyone under the age of 13. �
 
 **_How You Can Access Or Correct Your Information?_**
 
-If you wish to review, update or delete any personal information that we have collected about you, please contact us [here](http://www.wildtangent.com/privacy_questions/), or by regular mail at: WildTangent, c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+If you wish to review, update or delete any personal information that we have collected about you, please contact us [here](https://web.archive.org/privacy_questions/), or by regular mail at: WildTangent, c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **_How Do I Learn About Changes To This Privacy Policy?_**
 
-We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of the WildTangent Network will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on <http://www.wildtangent.com/privacy>.
+We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of the WildTangent Network will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on [http://www.wildtangent.com/privacy](https://web.archive.org/privacy).
 
 **_Can I Opt Out of Receiving Updates?_**
 
@@ -93,7 +97,7 @@ You may opt out of receiving alerts or email or text message updates concerning 
 
 **_How to contact us_**
 
- ** __**We encourage your questions and comments about any privacy concerns, about this Privacy Policy, or about any of our products and services. Please direct them to us by using this[submission form](http://www.wildtangent.com/privacy_questions/) or through regular mail to: WildTangent c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. Additional information about WildTangent is also available at [www.wildtangent.com.](http://www.wildtangent.com/)
+ ** __**We encourage your questions and comments about any privacy concerns, about this Privacy Policy, or about any of our products and services. Please direct them to us by contacting[customer service](https://web.archive.org/support) or through regular mail to: WildTangent c/o Privacy Officer, 18578 NE 67th Court, Building 5, Redmond, WA 98052. Additional information about WildTangent is also available at [www.wildtangent.com.](https://web.archive.org/)
 
 **_How do you Resolve Dispute?_**
 
