@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the newadventuresconf.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508220138id_/http%3A//2012.newadventuresconf.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newadventuresconf.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122073257id_/http%3A//2013.newadventuresconf.com/docs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | New Adventures In Web Design 2012
+# Privacy policy | New Adventures In Web Design 2013
 
 #### Information collection and use
 
-Simon Collison is an independent freelance designer, author and speaker, and is registered with Companies House. New Adventures is a trading style under this company.
+Simon Collison is an freelance designer, author and speaker, and is registered with Companies House. New Adventures is a trading style under this company. Greg Wood is a freelance designer also registered with Companies House. Simon and Greg are also partners of Fictive Kin, a design and tech company registered in the United States.
 
-Simon Collison and Greg Wood are the sole owners of the information collected through this initiative. Neither Simon, Greg, nor New Adventures will sell, share, or rent this information to others in ways different from what is disclosed on this page. No personal information is collected on this domain, and registration information is only collected via our ticketing partner Eventbrite.
+Simon Collison and Greg Wood are the sole owners of the information collected through this initiative. Neither Simon, Greg, nor New Adventures will sell, share, or rent this information to others in ways different from what is disclosed on this page. No personal information is collected on this domain, and registration information is only collected via our ticketing partner Tito.
 
 #### Cookies, IP addresses and statistics
 
