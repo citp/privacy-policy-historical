@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620045820id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122081510id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy Updated: August 2009
+Privacy Policy Updated: October 2012
 
-At VocabularySpellingCity.com, we consider children’s safety--which is related to privacy--to be all-important.
+At VocabularySpellingCity.com, we consider children's safety--which is related to privacy--to be all-important.
 
-Our site complies with the Children’s Online Privacy Protection Act “COPPA”, which you may read about [here](http://www.coppa.org/comply.htm).
+Our site complies with the Children's Online Privacy Protection Act "COPPA", which you may read about [here](http://www.coppa.org/comply.htm).
 
 Please read this Privacy Policy carefully because it describes our privacy practices and helps distinguish our service from others which have different policies. If you have questions or comments on our policy, we would very much like to hear from you using the _contact us_ function on the website. ****
 
@@ -37,6 +37,8 @@ VocabularySpellingCity.com does not disclose user personal information to outsid
 **What about the collection of information by third parties?**
 
 Our web site contains links to web sites not maintained by VocabularySpellingCity.com. The privacy and data collection practices on any linked web sites are entirely separate from those of VocabularySpellingCity.com and are not covered by this Privacy Policy. We cannot guarantee that student users will not go to another site where personal information from them is solicited. VocabularySpellingCity does have limited advertising on the site and takes measures to maintain the appropriateness of the advertising material to the educational mission of VocabularySpellingCity. Google's Adsense service is our primary supplier of advertising Google's activities includes placing "cookies" on user computers in order to track user movement through various websites on the internet.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **What security measures do we take?**
 
