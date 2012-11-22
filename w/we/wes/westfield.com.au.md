@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524211438id_/http%3A//www.westfield.com/au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122182819id_/http%3A//www.westfield.com/au/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
