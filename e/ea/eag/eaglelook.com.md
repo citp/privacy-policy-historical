@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eaglelook.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023941id_/http%3A//www.eaglelook.com/index.php%3Foption%3Dcom_content%26Itemid%3D636%26catid%3D132%26id%3D382%26view%3Darticle) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglelook.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122093950id_/http%3A//www.eaglelook.com/index.php%3Foption%3Dcom_content%26Itemid%3D636%26catid%3D132%26id%3D382%26view%3Darticle) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ethiopia | Eagle | Dating | Single | Singles - EagleLook.com
 
 EagleLook.com
 
