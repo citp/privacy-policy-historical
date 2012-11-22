@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620001129id_/http%3A//www.killsometime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122082402id_/http%3A//www.killsometime.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: KillSomeTime.com
+# Privacy Policy | KillSomeTime.com
 
 Your privacy is important to KillSomeTime.com. All information collected through your use of KillSomeTime.com's site is intended to be used as a means to better serve KillSomeTime.com's current and future customers. KillSomeTime.com will not sell, distribute or disseminate any personal information collected about you through your use of this site to any unaffiliated third party without your prior consent, unless such disclosure is required by law or is necessary to protect our services, enforce any terms of service, or to prevent a violation of KillSomeTime.com's or someone else's rights. KillSomeTime.com reserves the right to exchange your personal information with other companies and organizations for the purposes of collection activities, fraud protection, credit risk reduction or for any other reason necessary to carry out the purpose of this website. 
 
