@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mambo.co.ke privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623183419id_/http%3A//mambo.co.ke/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mambo.co.ke privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122055857id_/http%3A//mambo.co.ke/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
                   <base href="http://mambo.co.ke/privacy-policy">
@@ -14,10 +14,26 @@
   <meta name="generator" content="Joomla! 1.6 - Open Source Content Management">
   <title>Privacy Policy</title>
   <link href="/templates/theme718/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link href="/email-hosting/85-company?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+  <link href="/email-hosting/85-company?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+  </script>
 
                 
                 <link rel="stylesheet" href="/templates/theme718/css/position.css" type="text/css" media="screen,projection">
@@ -72,7 +88,14 @@
         .list-1 dd, .readon, #login-form .button, .logout-button .button, #content .login_button input, #content .login_button button, .box_shadow_round,  .plans_button, a.first_menu, a.last_menu, #header #head  .main_menu  ul.menu, .plan { behavior:url(/templates/theme718/PIE.php) }
         </style>
         <![endif]-->
-        <!-- BEGIN Comm100 Live Chat Button Code --><link href="https://chatserver.comm100.com/css/comm100_livechatbutton.css" rel="stylesheet" type="text/css"></head><body class=" "><div id="comm100_ChatButton"><div id="comm100_warp"><center><div id="comm100_dvhelp"><a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website"><img id="comm100_ButtonImage" src="https://chatserver.comm100.com/BBS.aspx?siteId=26831&amp;planId=409&amp;partnerId=-1" style="border:0px" alt="Live Chat Software for Website"></a><script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=26831&amp;planId=409&amp;partnerId=-1" type="text/javascript"></script><div id="comm100_track"><a href="http://www.comm100.com/livechat/" target="_blank"><b>Live Chat</b></a> by <a style="color:#009999;cursor:pointer;" onclick="javascript:document.getElementById('comm100_dvbox').style.display='';">Comm100</a></div></div><div id="comm100_dvbox" class="comm100_dvbox_css" style="display:none;" onmouseover="this.style.display=''" onmouseout="this.style.display='none'"><div class="comm100_dvcontent_css"><p class="comm100_ptitle_css"><b><a href="http://www.comm100.com/" target="_blank" class="comm100_atitle_css">Comm100</a> Products:</b></p><ul class="comm100_ulbox_css"><li style="display:none;" class="comm100_onelinone">&nbsp;</li><li><a href="http://www.comm100.com/" target="_blank">Customer Service</a></li><li><a href="http://www.comm100.com/livechat/" target="_blank">Live Chat</a></li><li><a href="http://www.comm100.com/emailmarketingnewsletter/" target="_blank">Email Marketing Software</a></li><li><a href="http://www.comm100.com/livehelp/" target="_blank">Live Help</a></li><li><a href="http://www.comm100.com/emailmarketingnewsletter/" target="_blank">Email Marketing</a></li><li><a href="http://www.comm100.com/livesupport/" target="_blank">Live Support</a></li></ul></div></div></center></div></div><!-- End Comm100 Live Chat Button Code -->
+        <script language="javascript"  type="text/javascript">
+//<![CDATA[
+var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.com/trustlogo/javascript/cot.js" :
+"http://www.trustlogo.com/trustlogo/javascript/cot.js";
+document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+//]]>
+</script></head><body class=" "><script language="javascript" src="https: secure.comodo.com="" trustlogo="" javascript="" cot.js" type="text/javascript">
+
         
 
 <script type="text/javascript">
@@ -101,7 +124,22 @@
                                                                                                              <span class="header1">
                                                                                 </span></h1>
                                 </div><!-- end logoheader -->
- 
+ ﻿<!--?php
+/*------------------------------------------------------------------------
+# mod_livechat - Comm100 Live Chat
+# ------------------------------------------------------------------------
+# author    Comm100
+# copyright Copyright (C) 2012 comm100.com. All Rights Reserved.
+# @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+# Websites: http://www.comm100.com/
+# Technical Support:  Forum - http://hosted.comm100.com/HelpDesk/Main/Main.aspx?siteid=10000
+-------------------------------------------------------------------------*/
+// no direct access
+
+defined( '_JEXEC' ) or die( 'Restricted access' );
+<!-- BEGIN Comm100 Live Chat Button Code ---->
+<div id="LiveChatDiv"></div><script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=26831&amp;planId=654&amp;partnerId=-1" type="text/javascript"></script>
+<!-- End Comm100 Live Chat Button Code -->
                                 
                                         <div class="top_menu">
 <ul class="menu">
@@ -273,5 +311,9 @@ Unlimited Space, bandwidth &amp; emails.<br>Unlimited Addon,Parked &amp; sub-dom
                         </div>
 
                 </div>
+                <a href="http://www.instantssl.com" id="comodoTL">SSL</a>
+<script language="JavaScript" type="text/javascript">
+COT("https://mambo.co.ke/images/cot_evssl.gif", "SC3", "none");
+</script>
         
-</body></html>
+</script language="javascript" src="https:></body></html>
