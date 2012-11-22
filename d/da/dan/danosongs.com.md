@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the danosongs.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522010012id_/http%3A//www.danosongs.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danosongs.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122201957id_/http%3A//www.danosongs.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Hi, I'm Dan-O and this is my free royalty free production music library for videos, films, games, slideshows, podcasts, websites and other projects. This is my blog, if you want to download royalty free music in a variety of styles [click here](http://www.danosongs.com/#music). For information about using the music check the [license FAQ](http://community.danosongs.com/page/5102969:Page:1790). 
+Hi, I'm Dan-O and this is my free royalty free production music library for videos, films, on hold, games, slideshows, podcasts, and websites. This is my blog, if you want to download royalty free music in a variety of styles [click here](http://www.danosongs.com/#music). For information about using the music check the [license FAQ](http://community.danosongs.com/page/5102969:Page:1790). 
 
 **Privacy Policy for www.danosongs.com**
 
@@ -34,6 +34,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-2\. Can't find the instrumental music you need here on DanoSongs? Check out these low-cost and high quality royalty free music options: 
-
-3\. Search for a song on DanoSongs and Incompetech: 
+Can't find the instrumental music you need here on DanoSongs? Check out these low-cost and high quality royalty free music options: 
