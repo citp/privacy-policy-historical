@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614131113id_/http%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122050258id_/https%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Farmers Insurance
 
@@ -62,7 +62,7 @@ If you have previously submitted a request to opt-out on each of your policies, 
 
 You may opt out only by completing the Opt Out Form. You may request additional copies by sending us a request at the address shown on the form. An additional Opt Out Form will be mailed to you shortly after receipt of your request. 
 
-If you prefer that we not share consumer report information with our affiliates, except as otherwise permitted by law, you may request an Opt-Out Form by calling toll free, 1-888-327-6335 (please have all of your policy numbers available when requesting Opt-Out Forms). A form will be mailed to your attention. Please verify that all of your Farmers policy numbers are listed. If not, please add the policy numbers on the form and mail to the return address printed on the form. We will implement your request within a reasonable time after we receive the form. 
+If you prefer that we not share consumer report information with our affiliates, except as otherwise permitted by law, you may request an Opt-Out Form by calling toll free, (800) 327-6377 (please have all of your policy numbers available when requesting Opt-Out Forms). A form will be mailed to your attention. Please verify that all of your Farmers policy numbers are listed. If not, please add the policy numbers on the form and mail to the return address printed on the form. We will implement your request within a reasonable time after we receive the form. 
 
 **Modifications to our Privacy Policy**
 
