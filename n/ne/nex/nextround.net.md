@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170214id_/http%3A//nextround.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextround.net privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122042923id_/http%3A//nextround.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextRound.net
 
