@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620110951id_/http%3A//aldi.us/us/html/privacy_policy_ENU_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldifoods.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122062135id_/http%3A//aldi.us/us/html/privacy_policy_ENU_HTML.htm) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy
 
