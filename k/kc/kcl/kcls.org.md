@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606170940id_/http%3A//www.kcls.org/usingthelibrary/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122093616id_/http%3A//www.kcls.org/usingthelibrary/policies/privacy.cfm) for the most accurate reproduction.*
 
-# King County Library System -
-
-* * *
+# King County Library System - Privacy Policy
 
 [](http://www.addthis.com/bookmark.php?v=250&pub=hilldavi)
 
@@ -40,7 +38,7 @@ KCLS does its best to lock down public access machines. However, KCLS cannot and
 
 ## [Confidentiality of Patron Records and Files](https://web.archive.org/usingthelibrary/policies/patronrecords.cfm)
 
-If you have any questions about this statement, the practices of this site, or any other questions, please contact [ webmaster@kcls.org](mailto:webmaster@kcls.org). 
+If you have any questions about this statement, the practices of this site, or any other questions, please contact [ websupport@kcls.org](mailto:websupport@kcls.org). 
 
 King County Library System  
 960 Newport Way NW  
@@ -50,7 +48,7 @@ Issaquah, WA 98027
 
 Last Updated: 
 
-January 26, 2009
+November 1, 2012
 
   
 
