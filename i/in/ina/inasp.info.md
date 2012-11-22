@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inasp.info privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520205345id_/http%3A//www.inasp.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inasp.info privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122211141id_/http%3A//www.inasp.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - INASP
 
@@ -25,8 +25,6 @@ If you feel that this site is not following its stated privacy policy, you may 
 
 ### Cookies
 
-A cookie is a small file that contains a unique alphanumeric code selected randomly. This cookie is stored on your computer. Cookies are used, for example, to count the total number of unique users who are accessing a website over a particular period of time, or to see which pages are most frequently viewed.
-
 INASP's website uses cookies to collect data about its activity. Cookies do not identify the person at the computer, and information gathered is not shared with third parties. It is used to monitor the use of the website and provide us with raw data we can use to judge, and demonstrate, the website's effectiveness.
 
-The INASP website makes use of Google Analytics. To learn more about how Google Analytics collects and uses information, see the [Google Privacy Center](http://www.google.com/intl/en/analytics/privacyoverview.html). A 'Browser Opt-out' add-on is available to prevent information being sent to Google Analytics.
+To find out more about this, how they are used and how they effect you, visit our [Cookies](https://web.archive.org/cookies) page. 
