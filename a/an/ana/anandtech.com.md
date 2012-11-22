@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619180850id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123003018id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
 
 # AnandTech - Terms
 
@@ -30,14 +30,20 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Latest from AnandTech
 
-[@ckindel](http://twitter.com/ckindel) [@PatrickMoorhead](http://twitter.com/PatrickMoorhead) I believe the distribution model has more to do with mimicking Apple's cost structure. No room for retail margins
+[@PJCavan](http://twitter.com/PJCavan) thank you for listening :)
 
-[@PatrickMoorhead](http://twitter.com/PatrickMoorhead) Windows RT version will be priced similarly to other ARM based tablets, Pro version similar to Windows 8 tablets
+[@AgentKyle](http://twitter.com/AgentKyle) check with other users who have systems similar to yours and their Vertex 4 experiences
 
-[@mgc8888](http://twitter.com/mgc8888) let's hope we don't see any sandisk stuff there
+[@AgentKyle](http://twitter.com/AgentKyle) I haven't seen any showstopper bugs in my testing, but it is still a fairly new platform
 
-[@mgc8888](http://twitter.com/mgc8888) that's the good news, I sent over my SanDisk data weeks ago and got confirmation that ASUS would be switching to ADATA.
+[@AgentKyle](http://twitter.com/AgentKyle) that is a really good price. The Vertex 4 is still a new drive, so the verdict isn't out yet on compatibility/reliability
 
-[@codykrieger](http://twitter.com/codykrieger) [@nerdtalker](http://twitter.com/nerdtalker) I will do, I suspect you'll have far fewer weird issues than OS X has at this point :-/
+[@nerdtalker](http://twitter.com/nerdtalker) [@vivg91](http://twitter.com/vivg91) but seriously, I want to see brian hit 200 nits on this thing, I had to resort to typing in the brightness percentage
 
-[@MarkRein](http://twitter.com/MarkRein) without a doubt, you guys are insanely talented.
+[@nerdtalker](http://twitter.com/nerdtalker) [@vivg91](http://twitter.com/vivg91) damn you and your logical/immense knowledge of optics, I want easy! :-P
+
+[@vivg91](http://twitter.com/vivg91) dude the one I'm using now is insane, I don't think it's physically possible to set to the right setting
+
+Non-linear brightness controls do no good
+
+[@derFunkenstein](http://twitter.com/derFunkenstein) beard is fine, just needs to be properly prepared for camera work :-P
