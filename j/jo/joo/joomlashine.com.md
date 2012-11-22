@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523164250id_/http%3A//www.joomlashine.com/joomlashine/privacy-policy.html%3FItemid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122041613id_/http%3A//www.joomlashine.com/joomlashine/privacy-policy.html%3FItemid%3D0) for the most accurate reproduction.*
 
 # Privacy Policy | Company
 
-In today's world of shared information, We (JoomlaShine) - take great care of protecting your personal information when you are using our Website ([www.joomlashine.com](http://www.joomlashine.com/)) and any products or services provided on the Website.
+In today's world of shared information, we (JoomlaShine) take great care in protecting your personal information when you are using our website ([www.joomlashine.com](http://www.joomlashine.com/)) and any products or services provided on the website.
 
 This Privacy Policy details JoomlaShine's policies relating to your personal information. Please make sure you read the following statement till the end. By using our Website or any products or services provided by JoomlaShine, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THE WEBSITE OR THE PRODUCTS OR SERVICES OFFERED BY THE WEBSITE. We may periodically update this Privacy Policy. We encourage you to review this Privacy Policy from time to time for any changes.
 
