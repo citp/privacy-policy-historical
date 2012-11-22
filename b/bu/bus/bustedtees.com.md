@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bustedtees.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229045926id_/http%3A//www.bustedtees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedtees.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122162025id_/http%3A//www.bustedtees.com/privacy) for the most accurate reproduction.*
 
-# Busted Tees - Funny T-Shirts - New T-Shirt designs every week - Crazy Tees Hilarious Cool Shirts
+# Privacy Policy Summary - Brain Buster Enterprises, LLC
 
-Connected Ventures, LLC is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to CollegeHumor, Vimeo, BustedTees and Defunker, HSN, Ticketmaster, Lending Tree, Ask.com, Match.com, Citysearch, Evite, Interval International, ServiceMagic, Entertainment Publications, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Connected Ventures, LLC has revised its [Privacy Policy](https://web.archive.org/privacy/policy), effective July 13, 2007, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/privacy/faq) for details about the changes. Please review both the Consumer Privacy statement and this site's complete privacy policy.
+## Consumer Privacy at Brain Buster Enterprises, LLC
 
-Connected Ventures, LLC is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+At BustedTees, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on bustedtees.com. To read the entire Privacy Policy please [click here](https://web.archive.org/privacy/policy).
 
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Connected Ventures, LLC, please [click here](https://web.archive.org/privacy/policy).
+## Information we may collect [[Read more]](https://web.archive.org/privacy/policy#wecollect)
 
-We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
+We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
 
 We also may collect other types of information in the following ways when you visit our website:
 
@@ -20,6 +20,8 @@ We also may collect other types of information in the following ways when you vi
 
 We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
 
+## Information others may collect [[Read more]](https://web.archive.org/privacy/policy#otherscollect)
+
 We may allow third-party advertising companies or ad networks to display advertisements on our websites.
 
   1. We do not provide any personal information to these companies.
@@ -29,6 +31,8 @@ We may allow third-party advertising companies or ad networks to display adverti
 
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+
+## How we may use information we collect [[Read more]](https://web.archive.org/privacy/policy#useinfo)
 
 We may use information to:
 
@@ -43,16 +47,19 @@ We may use information to:
 
 
 
+## With whom we may share information we collect [[Read more]](https://web.archive.org/privacy/policy#shareinfo)
+
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
   1. Service providers, such as credit-card payment processors, performing services on our behalf;
-  2. Other IAC businesses;
-  3. Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
-  4. Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+  2. Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
+  3. Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
 
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
+
+## Your choices [[Read more]](https://web.archive.org/privacy/policy#choices)
 
 You may choose:
 
@@ -64,20 +71,24 @@ You may choose:
 
 
 
+## Security [[Read more]](https://web.archive.org/privacy/policy#security)
+
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
+
+## Changes to our Privacy Policy
 
 We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
+## How to contact us
+
 If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/privacy/policy), or our information practices, please contact us by email or postal mail below:
 
-Editor-In-Chief  
-Connected Ventures LLC  
-225 Park Avenue South  
-17th Floor  
-New York , New York 10003  
-United States of America  
-content@collegehumor.com  
-© 2007 IAC/InterActiveCorp. All rights reserved.
+Brain Buster Enterprises, LLC  
+65 W 13th Street, apt. 2D  
+New York , New York 10011  
+United States of America
+
+## Linked Information
 
 Cookies:
 
@@ -87,7 +98,7 @@ Through the use of a cookie, we also may automatically collect information about
 
 You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+We may allow third-parties, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
 Web Beacons:
 
