@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the huddlebuy.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011631id_/http%3A//www.huddlebuy.co.uk/articles/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddlebuy.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122202105id_/http%3A//www.huddlebuy.co.uk/articles/privacy-policy.html) for the most accurate reproduction.*
 
-# Huddlebuy
+# Huddlebuy Privacy Policy, Marketing Tips for Small Business
 
 This privacy policy discloses the privacy practices for Huddlebuy Limited, a company incorporated in England & Wales with company number 07355963 and having its registered office at 20 Everington Street, London W6 8DU, United Kingdom ("we", "us", "our"). Our website is [http//:www.huddlebuy.co.uk] (the "Website").
 
 By submitting personal data manually or in electronic form to us in connection with the Website you give your consent that all personal data that you submit will be processed by us in the manner and for the purposes described below. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-If you have any questions at all about this policy or the Website, or about how we use and process your personal information, please do not hesitate to contact us by e-mail at privacy@huddlebuy.co.uk or, alternatively, in writing to [http//:www.Huddlebuy.co.uk] c/o Huddlebuy Limited at 20 Everington Street, London W6 8DU, United Kingdom. 
+If you have any questions at all about this policy or the Website, or about how we use and process your personal information, please do not hesitate to contact us by e-mail at privacy@huddlebuy.co.uk or, alternatively, in writing to [http//:www.Huddlebuy.co.uk] c/o Huddlebuy Limited at 20 Everington Street, London W6 8DU, United Kingdom.
 
 **Information Collection and Use**
 
@@ -62,7 +62,7 @@ We use IP addresses to analyse trends, administer the Website and gather broad d
 
 **Links**
 
-****The Website contains links to other Websites. Please be aware that we are not responsible for the privacy practices of other Websites. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by us on the Website.
+The Website contains links to other Websites. Please be aware that we are not responsible for the privacy practices of other Websites. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by us on the Website.
 
 **Direct Mailings**
 
