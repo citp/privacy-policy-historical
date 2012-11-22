@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619173358id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122021108id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoBox - PhotoBox
 
@@ -85,7 +85,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 ## Access to Information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of $10 to meet our costs in providing you with details of the information we hold about you. 
 
 ## Links
 
