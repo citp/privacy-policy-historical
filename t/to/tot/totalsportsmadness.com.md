@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalsportsmadness.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531012611id_/http%3A//www.totalsportsmadness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalsportsmadness.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122051850id_/http%3A//www.totalsportsmadness.com/privacy) for the most accurate reproduction.*
 
-# Total Sports Madness | Privacy
+# <!-- 7sjN1BcPnyyVQDu4LMu54smIXcA --> Total Sports Madness | Privacy
 
 Keeping in mind the importance of privacy of personal information of visitors to www.totalsportsmadness.com, the following is a little info on the kinds of personal information that is collected as part of the process of serving Advertisements on this site, and how this information is safeguarded. None of the personal information collected is ever sold to third parties.
 
