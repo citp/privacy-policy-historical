@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastione.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524051403id_/http%3A//www.mastione.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastione.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122072555id_/http%3A//www.mastione.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mastione.com
 
@@ -63,3 +63,6 @@ options. More detailed information about cookie management with specific web
 browsers can be found at the browsers’ respective websites.
 
 ****[Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.](http://www.google.com/privacy/ads/)
+
+  
+Posted by admin - 03/02/2010 at 12:57 AM 
