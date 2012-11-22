@@ -1,747 +1,564 @@
-<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629130206id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122104949id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-        <meta name="google-site-verification" content="yWX9L_kVSeyo4LqRUZJTRSqMqHVQZufil1r2Ciw0XLQ">
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-      	<meta name="Description" content="Lose It! is the most complete and streamlined weight loss application for the iPhone or on the web. Used by millions of users, Lose It! can help you meet your weight loss goal!">
-
+<!DOCTYPE html><html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="google-site-verification" content="yWX9L_kVSeyo4LqRUZJTRSqMqHVQZufil1r2Ciw0XLQ">
     
     <title>Lose It! - Privacy Statement</title>
+    <meta name="Description" content="Lose It! is the most complete and streamlined weight loss application for the iPhone or on the web. Used by millions of users, Lose It! can help you meet your weight loss goal!">
+    <meta name="apple-itunes-app" content="app-id=297368629">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 
-    
-
-    
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="http://cdn-www.loseit.com/_js/flot/excanvas.min.js"></script>
-    <script type="text/javascript" language="javascript" src="http://cdn-www.loseit.com/_js/flot/jquery.min.js"></script>
-    <script type="text/javascript" language="javascript" src="http://cdn-www.loseit.com/_js/flot/jquery.flot.min.js"></script>
-    <script type="text/javascript" language="javascript" src="http://cdn-www.loseit.com/_js/flot/jquery.flot.pie.min.js"></script>
-    <script type="text/javascript" language="javascript" src="http://cdn-www.loseit.com/_js/flot/jquery.flot.dashes.js"></script>
-    <script type="text/javascript" language="javascript" src="http://cdn-www.loseit.com/web/web.nocache.js"></script>
-
-
-    <link rel="stylesheet" href="/web/css/siteStyle.css" type="text/css" media="screen">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-    
-
-	<script type="text/javascript">
-	$(document).ready(function() {
-		var targetUrl = "/index.jsp" + document.location.search + "#Home";
-		if (document.location.search == "?logout")
-			targetUrl = "/index.jsp" + "#Home";
-		$("#homelink").attr('href', targetUrl);
-	});
-	</script>
-
-    
-
-            <script type="text/javascript">
-                try {
-                    var _gaq = _gaq || [];
-
-                    
-                        _gaq.push(['_setAccount', 'UA-81546-2']);
-                    
-
-                    _gaq.push(['_trackPageview']);
-
-                    (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                    })();
-                } catch(err) {}
-            </script>
-      
-    
-
-  </head>
-
-  
-    <body class="background">
-  
-
-
-
-  <table id="mainPanel" cellpadding="0" cellspacing="0" border="0" width="100%">
-  <tbody><tr>
-
-
-      
-      <td align="center">
-        <table border="0" cellpadding="0" cellspacing="0" style="width: 850px;">
-            
-    
-        <tbody><tr>
-            <td class="site-logo" style="vertical-align: top;">
-
-                <a href="/index.jsp" style="height:75px" id="homelink"><img src="/_images/LoseItLogo.png" border="0" height="69" width="231"></a>
-            </td>
-            <td align="right" style="vertical-align:bottom;" class="site-header-top">
-
-            
-                    
-
-
-
-
-
-<script type="text/javascript"> 
-$(document).ready(function()
-{
-
-	var focusFlag = "focused";
-	var ghostedStyle = "inputGhosted";
-	var placeHolderText = "email address";
-	
-	elem = $('#username');
-
-	elem.keydown(function(e)
-	{	
-		var key = e.charCode || e.keyCode || 0;
-		if (key != 9 && key != 16 && key != 17 && key != 18 && key != 91 && key != 224)
-			$(this).removeClass(ghostedStyle);
-	}
-	);
-	
-    elem.focus(function()
-   	{
-       	if ($(this).hasClass(focusFlag))
-           	return;
-        if (!$(this).val() || $(this).val() == "")
+        function getUrlParams()
         {
-     	   $(this).addClass(ghostedStyle);
-     	   $(this).val(placeHolderText);     
-     	   $(this).select();          
+            var params = {};
+            window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi,
+                    function (str, key, value) {
+                        params[key] = value;
+                    });
+            return params;
         }
-        else
+
+        function loseItLogin()
         {
-        	$(this).removeClass(ghostedStyle);
-            if($(this).val() == placeHolderText)
-      	   	    $(this).val("");
+            var params = getUrlParams();
+            if (loc.hostname.indexOf("loseit.com") != -1)
+            {
+                if (params && params.target)
+                    loc.assign("https://secure.loseit.com/account/?r=" + encodeURIComponent(loc.protocol + "//" + loc.hostname + encodeURIComponent(decodeURIComponent(params.target))));
+                else
+                    loc.assign("https://secure.loseit.com/account/?r=" + encodeURIComponent(loc.protocol + "//" + loc.hostname + "/" + loc.hash));
+            }
+            else
+            {
+                if (params && params.target)
+                    loc.assign("/account/?r=" + encodeURIComponent(decodeURIComponent(params.target)));
+                else
+                    loc.assign("/account/?r=/" + encodeURIComponent(loc.hash));
+            }
         }
-        
-        $(this).addClass(focusFlag);
-    });
 
-    elem.blur(function() {
-        if (!$(this).val() || $(this).val() == "")
-        {
-     	   $(this).addClass(ghostedStyle);
-     	   $(this).val(placeHolderText);               
+        (function(){
+            loc = window.location;
+            if (loc.hash.length > 0)
+            {
+                loseItLogin();
+            }
+
+            var params = getUrlParams();
+            if (params && params.target)
+            {
+                loseItLogin();
+            }
+        })();
+    </script>
+    <style>
+        html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:text-top}sub{vertical-align:text-bottom}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit}input,textarea,select{*font-size:100%}legend{color:#000}#yui3-css-stamp.cssreset{display:none}
+        body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small}select,input,button,textarea{font:99% arial,helvetica,clean,sans-serif}table{font-size:inherit;font:100%}pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%}#yui3-css-stamp.cssfonts{display:none}
+
+        *{
+            -webkit-font-smoothing: antialiased
         }
-        $(this).removeClass(focusFlag);
-     });  
+        html,body {
+            background:#fff;
+            font-family: "Geneva", "Calibri", "Arial", sans-serif;
+            -webkit-transform: translateZ(0); /* enables GPU acceleration */
+            color: #4c4c4c;
+        }
+        a {
+            text-decoration:none;
+        }
+        #bd {
+        }
 
-    $('#username').focus();
-    
-		$("#password").hide();
-		$("#passwordPlaceholder").show();
-    	$("#passwordPlaceholder").focus(function(){$(this).hide(); $("#password").show().focus(); });    
-   	  
+        #content {
+            width:970px;
+            margin:0 auto;
+        }
 
+        #content:after {
+            content: ".";
+            display: block;
+            clear: both;
+            visibility: hidden;
+            line-height: 0;
+            height: 0;
+            zoom:1;
+        }
 
-    $("#target").val($("#target").val() + window.location.hash);
+        /*
+        Font size chart
+        10	 77
+        11	 85
+        12	 93 (was 93)
+        13	 100
+        14	 108 (was 107)
+        15	 116 (was 114)
+        16	 123.1 (was 122)
+        17	 131 (was 129)
+        18	 138.5 (was 136)
+        19	 146.5 (was 144)
+        20	 153.9 (was 152)
+        21	 161.6 (was 159)
+        22	 167
+        23	 174
+        24	 182
+        25	 189
+        26	 197
+        */
+    </style>
+</head>
+<body>
+<style>
+    #hd {
+        margin:11px auto 0 auto;
+        width:970px;
+        height:55px;
+        line-height:55px;
+        position:relative;
+        font-size:138.5%;
+        letter-spacing:-1px;
+        z-index:1;
+    }
+    #hd a {
+        color:#333;
+    }
+    #hd a:hover {
+        color:#e69614;
+    }
+    #logo {
+        position:absolute;
+        left:0;
+        top:4px;
+    }
+    #nav li{
+        float:right;
+        margin-left:35px;
+    }
+    #hd #signin {
+        color:#d48300;
+    }
+    #hd #signin:hover {
+        color:#e69614;
+    }
+</style>
 
+<div id="hd">
+    <a href="/?force=1"><img src="/new/images/logo.png" id="logo" height="85" width="245" alt="Lose It!">
+        </a><ul id="nav"><a href="/?force=1">
+            </a><li><a href="/?force=1"></a><a href="https://secure.loseit.com/account/" id="signin" onclick="loseItLogin();return false">Sign In</a></li>
+            <li><a href="https://secure.loseit.com/account/#Signup">Get Lose It!</a></li>
+            <li><a href="/new/how-it-works/">How It Works</a></li>
+            <li><a href="/new/what-is-lose-it/">What Is Lose It!?</a></li>
+            <li><a href="/?force=1">Home</a></li>
+        </ul>
+</div>
+<style>
+    #hr {
+        height:1px;
+        background:#e2e2e2;
+        background-image:-webkit-linear-gradient(left, #fff 0%, #e2e2e2 20%, #e2e2e2 80%, #fff 100%);
+        background-image:-moz-linear-gradient(left, #fff 0%, #e2e2e2 20%, #e2e2e2 80%, #fff 100%);
+        background-image:-ms-linear-gradient(left, #fff 0%, #e2e2e2 20%, #e2e2e2 80%, #fff 100%);
+        background-image:linear-gradient(left, #fff 0%, #e2e2e2 20%, #e2e2e2 80%, #fff 100%);
+        position:relative;
+        top:-3px;
+    }
+    #secondary {
+        padding-top:50px;
+    }
 
-});
-</script>
+    #secondary h1 {
+        font-size: 197%;
+        font-weight: bold;
+        padding-bottom: .5em;
+    }
 
+    #secondary h2 {
+        font-size: 167%;
+        font-weight: bold;
+        padding-bottom: .5em;
+    }
 
+    #secondary h3 {
+        font-size: 123.1%;
+        padding-top: 1em;
+        font-weight: bolder;
+        padding-bottom: 1em;
+    }
 
-<form action="https://secure.loseit.com/index.jsp" method="post">
-<table border="0" cellpadding="0" cellspacing="0">
+    #secondary p {
+        padding-bottom: .5em;
+    }
 
+    #secondary .centered {
+        text-align:center;
+        padding-top:14px;
+        clear:both;
+    }
 
-	<tbody><tr>
-	<td class="tiny" style="color:red; padding-bottom: 5px;" colspan="3">&nbsp;</td>
-</tr>
-<tr>
-	<td>
+    #secondary .centered h1 {
+        font-size:262%;
+        color: black;
+        letter-spacing:-1px;
+    }
 
-        <input type="hidden" name="target" value="http://www.loseit.com" id="target">
-        <input type="hidden" name="auth_type" value="FormAuthenticationHandler">
-		<input type="text" name="username" value="" class="site-loginpanel-textbox" id="username">
-	</td>
-	<td>
-		<input type="password" name="password" value="" class="site-loginpanel-textbox" id="password">
-		<input type="text" name="passwordPlaceholder" value="password" class="site-loginpanel-textbox inputGhosted" id="passwordPlaceholder" style="display: none;">
-	</td>
-	<td align="right">
-		<input type="image" src="/_images/SignInButtonEnabled.png" name="submit">
-	</td>
-</tr>
-
-<tr>
-	<td style="padding-bottom: 10px;">
-		<table border="0" cellpadding="0" cellspacing="0" class="tiny lightText">
-		<tbody><tr>
-		<td>
-			<input type="checkBox" name="rememberme" value="rememberme">
-		</td>
-		<td>
-			Remember me
-		</td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td style="padding-bottom: 10px;" class="tiny lightText">
-		<a href="/resetpassword" style="color: #A2ADB4">Forgot your password?</a>
-	</td>	
-	
-	
-</tr>
-
-</tbody></table>
-</form>	
-		
-
-            
-            </td>
-        </tr>
-    
-  	<tr>
-  		<td colspan="2" bgcolor="white" valign="top" class="site-body">
-
-
-        
-			
-
-<!-- This defines the first item in the toolbar (it's a hack, I know) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table cellspacing="0" cellpadding="0" class="gwt-DecoratedTabBar 
-		
-	" role="tablist" style="width: 100%;">
-	<tbody>
-		<tr>
-		
-		
-		
-			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarFirst-wrapper">
-			
-				<div class="gwt-TabBarFirst" style="white-space: normal; height: 100%;">&nbsp;</div>
-			
-			</td>
-			
-			
-			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
-				
-				">
-			
-			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
-				
-				" onclick="window.location='/index.jsp';">
-				<tbody>
-					<tr class="tabTop">
-						<td class="tabTopLeft">
-						<div class="tabTopLeftInner"></div>
-						</td>
-						<td class="tabTopCenter">
-						<div class="tabTopCenterInner"></div>
-						</td>
-						<td class="tabTopRight">
-						<div class="tabTopRightInner"></div>
-						</td>
-					</tr>
-					<tr class="tabMiddle">
-						<td class="tabMiddleLeft">
-						<div class="tabMiddleLeftInner"></div>
-						</td>
-						<td class="tabMiddleCenter">
-						<div class="tabMiddleCenterInner">
-						<div tabindex="0" role="tab">
-						<div class="gwt-Label" style="white-space: nowrap;">Home</div>
-						</div>
-						</div>
-						</td>
-						<td class="tabMiddleRight">
-						<div class="tabMiddleRightInner"></div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			
-		
-			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
-			
-			</td>
-			
-			
-			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
-				
-				">
-			
-			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
-				
-				" onclick="window.location='/screenshots.jsp';">
-				<tbody>
-					<tr class="tabTop">
-						<td class="tabTopLeft">
-						<div class="tabTopLeftInner"></div>
-						</td>
-						<td class="tabTopCenter">
-						<div class="tabTopCenterInner"></div>
-						</td>
-						<td class="tabTopRight">
-						<div class="tabTopRightInner"></div>
-						</td>
-					</tr>
-					<tr class="tabMiddle">
-						<td class="tabMiddleLeft">
-						<div class="tabMiddleLeftInner"></div>
-						</td>
-						<td class="tabMiddleCenter">
-						<div class="tabMiddleCenterInner">
-						<div tabindex="0" role="tab">
-						<div class="gwt-Label" style="white-space: nowrap;">Screenshots</div>
-						</div>
-						</div>
-						</td>
-						<td class="tabMiddleRight">
-						<div class="tabMiddleRightInner"></div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			
-		
-			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
-			
-			</td>
-			
-			
-			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
-				
-				">
-			
-			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
-				
-				" onclick="window.location='/faq.jsp';">
-				<tbody>
-					<tr class="tabTop">
-						<td class="tabTopLeft">
-						<div class="tabTopLeftInner"></div>
-						</td>
-						<td class="tabTopCenter">
-						<div class="tabTopCenterInner"></div>
-						</td>
-						<td class="tabTopRight">
-						<div class="tabTopRightInner"></div>
-						</td>
-					</tr>
-					<tr class="tabMiddle">
-						<td class="tabMiddleLeft">
-						<div class="tabMiddleLeftInner"></div>
-						</td>
-						<td class="tabMiddleCenter">
-						<div class="tabMiddleCenterInner">
-						<div tabindex="0" role="tab">
-						<div class="gwt-Label" style="white-space: nowrap;">FAQ</div>
-						</div>
-						</div>
-						</td>
-						<td class="tabMiddleRight">
-						<div class="tabMiddleRightInner"></div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			
-		
-			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
-			
-			</td>
-			
-			
-			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
-				
-				">
-			
-			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
-				
-				" onclick="window.location='http://www.getsatisfaction.com/lose_it';">
-				<tbody>
-					<tr class="tabTop">
-						<td class="tabTopLeft">
-						<div class="tabTopLeftInner"></div>
-						</td>
-						<td class="tabTopCenter">
-						<div class="tabTopCenterInner"></div>
-						</td>
-						<td class="tabTopRight">
-						<div class="tabTopRightInner"></div>
-						</td>
-					</tr>
-					<tr class="tabMiddle">
-						<td class="tabMiddleLeft">
-						<div class="tabMiddleLeftInner"></div>
-						</td>
-						<td class="tabMiddleCenter">
-						<div class="tabMiddleCenterInner">
-						<div tabindex="0" role="tab">
-						<div class="gwt-Label" style="white-space: nowrap;">Support</div>
-						</div>
-						</div>
-						</td>
-						<td class="tabMiddleRight">
-						<div class="tabMiddleRightInner"></div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			
-		
-			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
-			
-			</td>
-			
-			
-			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
-				
-				">
-			
-			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
-				
-				" onclick="window.location='http://blog.loseit.com';">
-				<tbody>
-					<tr class="tabTop">
-						<td class="tabTopLeft">
-						<div class="tabTopLeftInner"></div>
-						</td>
-						<td class="tabTopCenter">
-						<div class="tabTopCenterInner"></div>
-						</td>
-						<td class="tabTopRight">
-						<div class="tabTopRightInner"></div>
-						</td>
-					</tr>
-					<tr class="tabMiddle">
-						<td class="tabMiddleLeft">
-						<div class="tabMiddleLeftInner"></div>
-						</td>
-						<td class="tabMiddleCenter">
-						<div class="tabMiddleCenterInner">
-						<div tabindex="0" role="tab">
-						<div class="gwt-Label" style="white-space: nowrap;">Blog</div>
-						</div>
-						</div>
-						</td>
-						<td class="tabMiddleRight">
-						<div class="tabMiddleRightInner"></div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			
-		
-			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
-			
-			</td>
-			
-			
-			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
-				
-				">
-			
-			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
-				
-				" onclick="window.location='/solutions/index.jsp';">
-				<tbody>
-					<tr class="tabTop">
-						<td class="tabTopLeft">
-						<div class="tabTopLeftInner"></div>
-						</td>
-						<td class="tabTopCenter">
-						<div class="tabTopCenterInner"></div>
-						</td>
-						<td class="tabTopRight">
-						<div class="tabTopRightInner"></div>
-						</td>
-					</tr>
-					<tr class="tabMiddle">
-						<td class="tabMiddleLeft">
-						<div class="tabMiddleLeftInner"></div>
-						</td>
-						<td class="tabMiddleCenter">
-						<div class="tabMiddleCenterInner">
-						<div tabindex="0" role="tab">
-						<div class="gwt-Label" style="white-space: nowrap;">Solutions</div>
-						</div>
-						</div>
-						</td>
-						<td class="tabMiddleRight">
-						<div class="tabMiddleRightInner"></div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			
-		
-			<td height="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper">
-			
-			</td>
-			
-			
-			<td align="left" style="vertical-align: bottom;" class="gwt-TabBarItem-wrapper 
-				
-				">
-			
-			<table cellspacing="0" cellpadding="0" class="gwt-TabBarItem 
-				
-				" onclick="window.location='/contact.jsp';">
-				<tbody>
-					<tr class="tabTop">
-						<td class="tabTopLeft">
-						<div class="tabTopLeftInner"></div>
-						</td>
-						<td class="tabTopCenter">
-						<div class="tabTopCenterInner"></div>
-						</td>
-						<td class="tabTopRight">
-						<div class="tabTopRightInner"></div>
-						</td>
-					</tr>
-					<tr class="tabMiddle">
-						<td class="tabMiddleLeft">
-						<div class="tabMiddleLeftInner"></div>
-						</td>
-						<td class="tabMiddleCenter">
-						<div class="tabMiddleCenterInner">
-						<div tabindex="0" role="tab">
-						<div class="gwt-Label" style="white-space: nowrap;">Contact</div>
-						</div>
-						</div>
-						</td>
-						<td class="tabMiddleRight">
-						<div class="tabMiddleRightInner"></div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			
-		
-		
-	
-			
-			<td width="100%" align="left" style="vertical-align: bottom;" class="gwt-TabBarRest-wrapper">
-			<div class="gwt-TabBarRest" style="white-space: normal; height: 100%;">&nbsp;</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
-		
+    #secondary .largeContent p,
+    #secondary .centered p{
+        font-size:138.5%;
+        line-height:140%;
+        letter-spacing:-1px;
+    }
+    #secondary .largeContent h2{
+        font-size:224%;
+        letter-spacing:-1px;
+        padding-bottom:0;
+        color: black;
+        padding-top:6px;
+    }
 
 
+    #secondary .largeContent h3{
+        font-size:182%;
+        letter-spacing:-1px;
+        padding-bottom:0;
+        color: black;
+        padding-top:6px;
+    }
 
+    #secondary .largeContent p {
+        padding-bottom:30px;
+    }
 
+    #secondary .centered p {
+        margin:0 50px;
+    }
+
+    #secondary .centeredTight p {
+        margin:0 180px;
+    }
+
+    #secondary .header {
+        padding-bottom:40px;
+    }
+
+    #secondary .footer {
+        padding-top:60px;
+    }
+
+    #secondary .footer p {
+        padding-top:30px;
+    }
+
+    #secondary .floatRight {
+        float:right;
+        margin-left:30px;
+    }
+
+    #secondary .mediumContent h2 {
+        font-size:138.5%;
+        padding-bottom:5px;
+        font-weight:bold;
+        letter-spacing:-1px;
+    }
+
+    #secondary .mediumContent p {
+        font-size:108%;
+        line-height:130%;
+        padding-bottom:40px;
+    }
+
+    #secondary .threeCol {
+        margin-top:80px;
+        letter-spacing:-1px;
+    }
+
+    #secondary .threeCol .col {
+        width:272px;
+        float:left;
+        padding:0 25px;
+    }
+
+    #secondary .threeCol .col:nth-child(even) {
+        border:1px solid #ededed;
+        border-width:0 1px;
+    }
+
+    #secondary .threeCol .col h2 {
+        font-size:153.9%;
+        margin-top:-20px;
+        font-weight:bold;
+        letter-spacing:-1px;
+        text-align:center;
+    }
+
+    #secondary .threeCol li {
+        margin-bottom:2px;
+        list-style-type:disc;
+        margin-left:18px;
+        font-size:108%;
+    }
+
+    #secondary .threeCol h3 {
+        font-size:108%;
+        padding-bottom:0;
+    }
+
+    #secondary .threeCol p{
+        font-size:108%;
+        padding-top: 1em;
+    }
+    #secondary .threeCol .colNarrow {
+        margin:0 60px;
+    }
+
+    #secondary .flowBlock {
+        float:left;
+        width:411px;
+        padding:0 37px;
+        height:250px;
+    }
+    #secondary .flowBlock p {
+        padding-bottom:6px;
+    }
+    #secondary .flowBlock .orangeButton {
+        float:left;
+        margin:0;
+        padding:8px 0 6px 0;
+        font-size:131%;
+        font-weight:normal;
+        width:150px;
+    }
+    #secondary .flowBlock .orangeButton:active {
+        padding:9px 0 5px 0;
+    }
+    #secondary .flowBlock h3 {
+        font-weight:bold;
+    }
+
+</style>
+<div id="content">
+    <div id="hr"></div>
+    <div id="secondary">
 
 
 <h1>Privacy Statement</h1>
 <p>
-This Privacy Statement informs users of the Lose It! website and the Lose It! Connect iPhone application about how FitNow, Inc., 
-trading as Lose It! ("Lose It!" or "we") gathers and uses personal information submitted to Lose It! and aggregated information collected 
+This Privacy Statement informs users of the Lose It! website and the Lose It! Connect iPhone application about how FitNow, Inc.,
+trading as Lose It! ("Lose It!" or "we") gathers and uses personal information submitted to Lose It! and aggregated information collected
 from the Lose It! website or via the Lose It! iPhone application.
 </p>
 
 <h3>Collection of personal information</h3>
 <p>
-If you use the Lose It! iPhone application, you may enter data into the application running locally on your iPhone, 
-in order to set, track and manage your diet and exercise goals.  This data, your "Personal Diet Data", includes your birthdate, 
-your height and weight, your gender, and specific details of the foods and drinks that you consume and the exercise you do. 
-If you do not subscribe to Lose It! Connect or create an account at the Lose It! website, your Personal Diet Data will remain 
+If you use the Lose It! iPhone application, you may enter data into the application running locally on your iPhone,
+in order to set, track and manage your diet and exercise goals.  This data, your "Personal Diet Data", includes your birthdate,
+your height and weight, your gender, and specific details of the foods and drinks that you consume and the exercise you do.
+If you do not subscribe to Lose It! Connect or create an account at the Lose It! website, your Personal Diet Data will remain
 on your iPhone and we will have no access to it.
 </p>
 <p>
-If you subscribe to Lose It! Connect, you will be asked to provide your email address and to select a password.  Subscribing to 
-Lose It! Connect will automatically create an account at the Lose It! website under your email address and password, and your 
-Personal Diet Data will automatically be synched to your website account.  If you create an account at the Lose It! website, you 
+If you subscribe to Lose It! Connect, you will be asked to provide your email address and to select a password.  Subscribing to
+Lose It! Connect will automatically create an account at the Lose It! website under your email address and password, and your
+Personal Diet Data will automatically be synched to your website account.  If you create an account at the Lose It! website, you
 will be asked to provide an email address and password, and you may enter Personal Diet Data into the website.
 </p>
 <p>
-In addition to the above personal information, we collect standard information about Lose It! users such as IP addresses, browser type, 
-operating system, pages visited on our site, referring and exit pages, and the dates and times of the visits.  This site visitation 
-data is used to administer the site and provide general statistics regarding the use of loseit.com. Site visitation data is 
+In addition to the above personal information, we collect standard information about Lose It! users such as IP addresses, browser type,
+operating system, pages visited on our site, referring and exit pages, and the dates and times of the visits.  This site visitation
+data is used to administer the site and provide general statistics regarding the use of loseit.com. Site visitation data is
 never linked to your personal information, and we do not use it to identify you individually.
-</p> 
+</p>
 
 <h3>Sharing information with friends and in user forums</h3>
 <p>
-The Lose It! website and Lose It! Connect feature allow you to share your diet and exercise goals and information with friends that 
-you select.  If you enable the sharing of Personal Diet Data with your selected friends, Lose It! will provide your friends with a 
-summary of your Personal Diet Data.  Please bear in mind that Lose It! cannot control what your friends do with the Personal Diet Data 
+The Lose It! website and Lose It! Connect feature allow you to share your diet and exercise goals and information with friends that
+you select.  If you enable the sharing of Personal Diet Data with your selected friends, Lose It! will provide your friends with a
+summary of your Personal Diet Data.  Please bear in mind that Lose It! cannot control what your friends do with the Personal Diet Data
 you share with them, so you should only share with friends you trust.
 </p>
-<p>  
-Furthermore, if you participate in a user forum on Lose It!, your comments and your Lose It! username will be displayed to all Lose It! users on 
+<p>
+Furthermore, if you participate in a user forum on Lose It!, your comments and your Lose It! username will be displayed to all Lose It! users on
 the forum.  Lose It! is not responsible for what any user or third party may do with information that you choose to share.
 </p>
 <p>
-We also provide a feature allowing you to invite a friend to join Lose It!  If you provide a friend's email address to us for this reason, we 
+We also provide a feature allowing you to invite a friend to join Lose It!  If you provide a friend's email address to us for this reason, we
 will use that email address only for the purpose of sending an invitation to your friend.
 </p>
 
-<h3>Use of personal information</h3> 
+<h3>Use of personal information</h3>
 <p>
-We will treat your Personal Diet Data as confidential, and we will not share your personal information or Personal Diet Data with third parties 
+We will treat your Personal Diet Data as confidential, and we will not share your personal information or Personal Diet Data with third parties
 without your permission, except in the limited circumstances described below.
 </p>
 <p>
-We will use the personal information you give us to fulfill the services and products you request from us. This may include billing and shipping 
-of products that you order, sending information that you have requested, or contacting you about products and services that you have purchased. 
-In some circumstances we may use third party contractors to perform these services on our behalf.  In such circumstances, we will only provide 
-the contractor with the information needed to perform the services (for example, name and address if a contractor is delivering a product to you), 
-and all contractors will be required to agree to confidentiality obligations with respect to your personal, non-public information.  
+We will use the personal information you give us to fulfill the services and products you request from us. This may include billing and shipping
+of products that you order, sending information that you have requested, or contacting you about products and services that you have purchased.
+In some circumstances we may use third party contractors to perform these services on our behalf.  In such circumstances, we will only provide
+the contractor with the information needed to perform the services (for example, name and address if a contractor is delivering a product to you),
+and all contractors will be required to agree to confidentiality obligations with respect to your personal, non-public information.
 </p>
 <p>
-If you do not opt-out of communications from Lose It!, we may send you marketing notices including promotions of our products and services. 
+If you do not opt-out of communications from Lose It!, we may send you marketing notices including promotions of our products and services.
 You can opt-out of communications from Lose It! at any time (see control of personal information below).
 </p>
-<p> 
-We may disclose your personal information when we reasonably believe that it is required by a law or legal process and to protect and defend the 
-rights and interests of Lose It!, its affiliates, suppliers, or users. In the event Lose It! goes through a business transition, such as a merger, 
-being acquired by another company, or selling a portion of its assets, users' personal information and Personal Diet Data will, in most instances, 
+<p>
+We may disclose your personal information when we reasonably believe that it is required by a law or legal process and to protect and defend the
+rights and interests of Lose It!, its affiliates, suppliers, or users. In the event Lose It! goes through a business transition, such as a merger,
+being acquired by another company, or selling a portion of its assets, users' personal information and Personal Diet Data will, in most instances,
 be part of the assets transferred.
 </p>
-<p>  
-We may use and disclose Personal Diet Data, in a form that does not identify any individual, to allow Lose It! and our advertisers to present targeted 
-advertising to you.  We may disclose to third parties, including advertisers and potential business partners, aggregated statistics that we develop 
-from Personal Diet Data.  For example, we may disclose the total number of pounds lost by all Lose It! users, the average weight loss of Lose It! users, 
-or generalized information about diet and exercise habits based on aggregated statistics developed from Personal Diet Data.  This statistical 
+<p>
+We may use and disclose Personal Diet Data, in a form that does not identify any individual, to allow Lose It! and our advertisers to present targeted
+advertising to you.  We may disclose to third parties, including advertisers and potential business partners, aggregated statistics that we develop
+from Personal Diet Data.  For example, we may disclose the total number of pounds lost by all Lose It! users, the average weight loss of Lose It! users,
+or generalized information about diet and exercise habits based on aggregated statistics developed from Personal Diet Data.  This statistical
 information will not identify any individual.
 </p>
 <h3>Control of personal information</h3>
-<p> 
+<p>
 You can confirm, change, or update personal information you have provided to us by contacting us directly at <a href="mailto:info@loseit.com">info@loseit.com</a> with your request.
 </p>
-<p> 
-If you want to opt-out of communications from Lose It!, you can do so by emailing your request to <a href="mailto:privacy@loseit.com">privacy@loseit.com</a>. If you change your mind, 
-you can opt-in again, by emailing this same address. When you opt-out of promotional communications from us, you may still receive service 
+<p>
+If you want to opt-out of communications from Lose It!, you can do so by emailing your request to <a href="mailto:privacy@loseit.com">privacy@loseit.com</a>. If you change your mind,
+you can opt-in again, by emailing this same address. When you opt-out of promotional communications from us, you may still receive service
 messages (such as an order confirmation) and legally mandated notices.
 </p>
 <h3>Security of the information we collect</h3>
 <p>
-We use a range of technologies and procedures to protect your personal information. For example, we store personal information and Personal 
-Diet Information in a secure, limited access facility, and we use industry-standard firewalls and security software design to protect the 
+We use a range of technologies and procedures to protect your personal information. For example, we store personal information and Personal
+Diet Information in a secure, limited access facility, and we use industry-standard firewalls and security software design to protect the
 security and integrity of your Personal Diet Information.
-</p> 
+</p>
 <h3>Protection of children's privacy</h3>
 <p>
-Loseit.com is a general interest website, and we do not knowingly collect any personal information from children. If you are under 18, 
+LoseIt.com is a general interest website, and we do not knowingly collect any personal information from children. If you are under 18,
 you are not permitted to use loseit.com.
-</p> 
+</p>
 <h3>Use of cookies and tracking technology</h3>
 <p>
-When you visit our site, a cookie may be saved on your computer (if your computer accepts cookies), and if you return to the site the 
-cookie may be read. We use cookies to help us collect the site visitation data described above and in some cases to deliver specialized content. 
+When you visit our site, a cookie may be saved on your computer (if your computer accepts cookies), and if you return to the site the
+cookie may be read. We use cookies to help us collect the site visitation data described above and in some cases to deliver specialized content.
 Cookies are not linked to your personal information.
 </p>
 <p>
-We may also use web beacons, clear gif technology, or action tags as mechanisms to collect aggregate site visitation data by tracking 
-how users navigate to and through our website. We may also use this technology to track the delivery of HTML email messages. Data collected 
+We may also use web beacons, clear gif technology, or action tags as mechanisms to collect aggregate site visitation data by tracking
+how users navigate to and through our website. We may also use this technology to track the delivery of HTML email messages. Data collected
 through this mechanism is not linked to personal information.
 </p>
 <p>
-In addition, if you are using the iPhone application only, Lose It! or our partners may use analytics technology to track anonymous traffic 
+In addition, if you are using the iPhone application only, Lose It! or our partners may use analytics technology to track anonymous traffic
 data about use of the application.  This data does not include your Personal Diet Data.
 </p>
 <p>
-Some of the analytics technology described in this section is provided to us by Google, Inc ("Google").  Under the Google Analytics Terms of 
-Service, Google and its subsidiaries have the right to retain and use the anonymous traffic data collected by the Google Analytics service 
-from users of this website or the Lose It! iPhone application.  Google's use of such data is subject to the Google Privacy Policy 
+Some of the analytics technology described in this section is provided to us by Google, Inc ("Google").  Under the Google Analytics Terms of
+Service, Google and its subsidiaries have the right to retain and use the anonymous traffic data collected by the Google Analytics service
+from users of this website or the Lose It! iPhone application.  Google's use of such data is subject to the Google Privacy Policy
 located at <a href="http://www.google.com/privacy.html">http://www.google.com/privacy.html</a>.
-</p>  
+</p>
 <h3>Enforcement of this statement</h3>
-<p> 
+<p>
 If you have questions about the policies described in this statement, please email us directly at <a href="mailto:info@loseit.com">info@loseit.com</a>.
-</p> 
+</p>
 
 <h3>Links to other websites</h3>
 <p>
-Our website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of these other 
+Our website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of these other
 sites, and we encourage you to review the policies of each site you use.
-</p> 
-<h3>Changes to this statement</h3> 
+</p>
+<h3>Changes to this statement</h3>
 <p>
-We may from time to time update this privacy statement. When we make these updates, we will change the "last updated" date listed below. 
-If we make a major change to this statement, we will update users by placing a more prominent notice on our home page.  Your use of Lose It! 
+We may from time to time update this privacy statement. When we make these updates, we will change the "last updated" date listed below.
+If we make a major change to this statement, we will update users by placing a more prominent notice on our home page.  Your use of Lose It!
 after an updated privacy statement becomes effective will indicate your acceptance.
 </p>
 <h3>Users from outside the United States</h3>
 <p>
-Lose It! and the Lose It! servers are located in the United States and are subject to the applicable state and federal laws of the United States.  
+Lose It! and the Lose It! servers are located in the United States and are subject to the applicable state and federal laws of the United States.
 If you use Lose It!, you consent to the use and disclosure of information in accordance with this privacy statement and subject to such laws.
 </p>
 <h3>Contact information</h3>
-<p> 
+<p>
 We welcome your input on our privacy statement. If you have any questions or suggestions regarding our privacy statement, please contact us at <a href="mailto:info@loseit.com">info@loseit.com</a>.
 </p>
 <p>
 Last Updated: 12/11/2009
 </p>
 
+</div>
+</div>
+
+<style>
+    #ft {
+        margin:100px auto 20px auto;
+        width:970px;
+        text-align:center;
+        color:#333;
+        border-top:1px solid #ccc;
+        font-size:116%;
+    }
+    #ft a {
+        color:#333;
+    }
+    #ft a:hover {
+        color:#e69614;
+    }
+    #ft-nav {
+        height:66px;
+        line-height:66px;
+    }
+    #copyright {
+    }
+</style>
+<div id="ft">
+    <div id="ft-nav">
+        <a href="http://blog.loseit.com/">Blog</a>
+        |
+        <a href="http://twitter.com/loseit">Twitter</a>
+        |
+        <a href="http://www.facebook.com/loseit">Facebook</a>
+        |
+        <a href="/new/book/">The Book</a>
+        |
+        <a href="/new/about/">About</a>
+        |
+        <a href="/new/press/">Press</a>
+        |
+        <a href="/new/partners/">Partners</a>
+        |
+        <a href="http://loseit.desk.com/"><abbr title="Frequently asked questions">FAQs</abbr></a>
+        |
+        <a href="http://loseit.desk.com/">Support</a>
+    </div>
+    <div id="copyright">
+        © Copyright 2008 - 2012 FitNow, Inc. All Rights Reserved
+    </div>
+    <div id="#ft-nav">
+        <a href="/new/privacy/">Privacy</a>
+        |
+        <a href="/new/terms/">Terms of Service</a>
+    </div>
+
+</div>
 
 
-
-
-		</td>
-	</tr>
-	
-	
-	<tr>
-		<td colspan="2" align="center" class="site-footer">
-			<a href="/faq.jsp">FAQs</a>
-			&nbsp;&nbsp;
-            <a href="http://blog.loseit.com">Blog</a>
-			&nbsp;&nbsp;
-			<a href="/terms.jsp">Terms of Service</a>
-			&nbsp;&nbsp;
-			<a href="/privacy">Privacy</a>
-			&nbsp;&nbsp;
-            <a href="/jobs">Jobs</a>
-            &nbsp;&nbsp;
-            <a href="/about.jsp">About</a>
-			&nbsp;&nbsp;
-			<a href="/contact.jsp">Contact</a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td colspan="2" align="center" class="site-footer-copyright" style="padding-top: 5px;">
-			© Copyright FitNow, Inc. All Rights Reserved
-		</td>
-	</tr>
-	
-
-</tbody></table>
-	
-	
-</td>
-</tr>
-</tbody></table>
-	
-
-
-	 
-
+<script type="text/javascript">
+    try {
+        var _gaq = _gaq || [];
+        
+            _gaq.push(['_setAccount', 'UA-81546-2']);
+        
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    } catch(err) {}
+</script>
 
 </body></html>
