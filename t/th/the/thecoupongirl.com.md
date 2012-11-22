@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoupongirl.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614081927id_/http%3A//thecoupongirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoupongirl.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015229id_/http%3A//thecoupongirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Coupon Girl
 
@@ -48,3 +48,5 @@ There will also be times where other information is needed in order to fulfill t
 ### **Links to Third Party Websites**
 
 TheCouponGirl.com strives to bring ethical deals to you and sometimes in order to obtain deals credit to third party sites has to be given. TheCouponGirl.com cannot be held liable for the content and/or privacy policy of a third party website. TheCouponGirl.com does not endorse any site that teaches incorrect couponing methods and strives not to include such websites.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fthecoupongirl.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
