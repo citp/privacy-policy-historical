@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601125731id_/http%3A//www.movado.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122122433id_/http%3A//www.movado.com/privacy-policy) for the most accurate reproduction.*
 
 # Movado | Privacy Policy
 
-Last modified: 04/09/2010
+Last modified: 10/04/2012
 
   
 
@@ -37,7 +37,7 @@ We collect several types of information from and about users of our Website, inc
 
 
   * Information you provide to us.
-  * Information we collect as you navigate through the site, including usage details, IP addresses, cookies and web beacons.
+  * Information we collect as you navigate through the site or use any mobile applications, including usage details, IP addresses, cookies and web beacons.
   * Information we receive from third parties, for example, our business partners.
 
   
@@ -294,7 +294,7 @@ This Policy may be amended from time to time, consistent with the requirements o
 
 ## TERMS AND CONDITIONS OF USE
 
-Last modified: 04/07/2010
+Last modified: 10/04/2012
 
 Your access and use of the website is subject to the following terms and conditions ("Terms and Conditions") and all applicable laws. By accessing and browsing the website, you accept, without limitation or qualification, the Terms and Conditions below.
 
