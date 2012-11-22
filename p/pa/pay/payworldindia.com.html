@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the payworldindia.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501031226id_/http%3A//payworldindia.com/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the payworldindia.com privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122231324id_/http%3A//payworldindia.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>PayWorld :: EVDS, Electronic Voucher Distribution System - Privacy Policy</title>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>PayWorld :: Privacy Policy </title>
 <meta name="Keywords" content="EVDS,electronic voucher distribution system,e-pin distributor india,India's largest E-pin distributor,e-pin distributor company in india,delhi,top e-pin distributor company,prepaid pin distributor in india,mobile pin distributor,evds software,demo,download,electronic voucher distribution system software provider,evds software provider,mobile e-pin software provider,mobile e-pin software solution provider,India's largest E-pin distributor and aggregator,Electronic Point of Sale Network for prepaid mobile recharge,prepaid e-pin recharge online through credit card,Prepaid E-Pin Recharge Services India,mobile telecommunication,Topup,prepaid TV,interactive TV,Prepaid Recharge Services India,pre-paid,EPRS solution,telecommunications industry,bill collection,online reservation,value added service,telecommunications,india telecom,online mobile recharge,Online Prepaid Mobile Recharge - Airtel,Vodafone,Tata Indicom,Reliance Mobile,BSNL Cellone,Virgin mobile,World Calling Cards,Tata Docomo,MTNL,tatasky tv,Tata Sky,dish tv,dishtv,Airtel DTH,Reliance BIG TV,sun direct online recharge,online DTH recharge, Videocon D2H Recharge using Credit Card,Debit Card,Net Banking,rail reservation,air,bus,irctc reservation,Online Railway Booking,offer,offers,discount">
 <meta name="description" content="PayWorld Electronic Voucher Distribution System is an in-built application software program that manages the online process of distribution of electronic vouchers, Though it presently covers Mobile top-up, TV recharges, Calling Cards, Air, Rail, Bus, Reservations and Bill Collection, many more value-added customer-centric services are to be included in the near future.">
-<meta content="Design &amp; Develop by Varun Sharma, Skill Lotto Solutions Pvt Ltd." name="Author">
+<meta content="Design &amp; Develop by Varun Sharma." name="Author">
 <meta name="copyright" content="Sugal &amp; Damani Utility Services Pvt Ltd">
 <meta name="revisit-after" content="7 days">
 <meta name="robots" content="index, follow">
@@ -15,281 +15,265 @@
 <meta name="distribution" content="Global">
 <meta http-equiv="CONTENT-LANGUAGE" content="en">
 <meta name="abstract" content="telecommunications industry">
-<meta http-equiv="Reply-to" content="contact@payworldindia.com">
+<meta http-equiv="Reply-to" content="contact@payworldindia.com" <meta="" name="google-site-verification">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="google-site-verification" content="8tf25o8MCAfm366Y0rG3ww1UBKGfiuk6YPrEj3hT3BY">
-<script language="javascript" src="script_files/slideshow.js"></script>
+<link href="menu.css" rel="stylesheet">
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/common_controls.css" type="text/css">
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/bg2.jpg);
+}
+-->
+</style>
+<script type="text/javascript">
+
+function slideSwitch() 
+{
+    var $active = $('#slideshow IMG.active');
+    if ( $active.length == 0 )
+    	$active = $('#slideshow IMG:last');
+    // use this to pull the images in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next() : $('#slideshow IMG:first');
+
+    // uncomment the 3 lines below to pull the images in random order
+    
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+    
+    $active.addClass('last-active');
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 3000 );
+});
+
+</script>
+<style type="text/css">
+
+/*** set the width and height to match your images **/
+
+#slideshow 
+{
+    position:relative;
+}
+
+#slideshow IMG 
+{
+    position:absolute;
+    top:7px;
+    left:0px;
+    z-index:8;
+    opacity:0.0;
+	
+}
+
+#slideshow IMG.active
+{
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active 
+{
+    z-index:9;
+}
+.style3 {color: #ED1B24}
+</style>
+<script type="text/javascript">
+function getY( oElement )
+{
+	var iReturnValue = 0;
+	while( oElement != null ) 
+	{
+		iReturnValue += oElement.offsetTop;
+		oElement = oElement.offsetParent;
+	}
+	return iReturnValue;
+}
+
+function getX( oElement )
+{
+	var iReturnValue = 0;
+	while( oElement != null ) 
+	{
+		iReturnValue += oElement.offsetLeft;
+		oElement = oElement.offsetParent;
+	}
+	return iReturnValue;
+}
+
+
+function showdiv(layerdiv , option)
+{
+	var imgname = "img" +String(layerdiv).substr(layerdiv.length-1 ,1);
+	//alert(imgname);
+	if(option!=0)
+	{
+		//alert( getX( document.getElementById(imgname) )  +  " == " + getY( document.getElementById(imgname))  );
+		var x = parseInt(getX( document.getElementById(imgname)) ,10) +60;
+		var y = parseInt(getY( document.getElementById(imgname)) ,10) +40;
+		//alert(x +"--" + y);
+		document.getElementById(layerdiv).style.top= y ;
+		document.getElementById(layerdiv).style.left=x ;
+		//alert(document.getElementById(layerdiv).style.top +"--" + document.getElementById(layerdiv).style.left);
+		
+	}
+	document.getElementById(layerdiv).style.display="block";
+}
+
+function hidediv(layerdiv , option)
+{
+	document.getElementById(layerdiv).style.display="none";
+}
+
+</script>
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bottommargin="0" rightmargin="0">
+<table width="1000" height="936" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" id="Table_01">
+  <tbody><tr> 
+    <td><a href="index.html" target="_parent"><img src="images/link-template_01.jpg" alt="" width="248" height="100" border="0"></a></td>
+    <td colspan="2"><table width="100%" height="100" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td bgcolor="#FFFFFF" valign="top">
+            
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="Design &amp; Develop by Varun Sharma." name="Author"><br>
+<link href="menu.css" rel="stylesheet">
+<title>Payworld</title>
+<style>
+	a{text-decoration:none;color:#000000;}
+	a:hover{text-decoration:none;color:#ee1c25;}
+</style>
+
+
+
+<table width="99%" height="107" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td valign="top" class="txt-small-black"><div align="right"><a href="index.html" target="_parent" style="color:#000000">Home</a> | <a href="distributor-franchisee.php" target="_parent" style="color:#000000">Distributor &amp; Franchisee</a> | <a href="faq.php" target="_parent" style="color:#000000">FAQ's</a> | <a href="site_map.php" target="_parent" style="color:#000000">Site Map</a></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="69"><table width="40%" border="0" align="right" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="30%">&nbsp;</td>
+        <td width="0%"><div align="right"></div></td>
+        <td width="32%"><div align="right">
+          <table width="12%" border="0" align="right" cellpadding="2" cellspacing="2">
+            <tbody><tr>
+              <td width="38%"><div align="left"><a href="http://www.facebook.com/pages/PayWorld/177176196399" target="_blank"><img src="pics/facebook_bt.png" width="36" height="36" border="0"></a></div></td>
+              <td width="37%"><a href="http://www.twitter.com/payworld" target="_blank"><img src="pics/twitter_bt.png" width="36" height="36" border="0"></a></td>
+              <td width="25%"><a href="http://www.sugaldamani.com" target="_blank"><img src="pics/snd-bt.png" width="36" height="36" border="0"></a></td>
+            </tr>
+          </tbody></table>
+        </div></td>
+        <td width="38%"><div align="right"><a href="http://www.facebook.com/pages/Paycash/270573372983356" target="_blank"><img src="pics/paycash-card.png" width="165" height="56" border="0"></a></div></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
+
+          </td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td colspan="3" bgcolor="00529c"><table width="100%" height="32" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td><script type="text/javascript" src="js/menu.js"></script><div id="menuWrapper"><ul class="topNav" id="topNav"><li class="topNavLi singleLine topNavFirstLi" id="l1MenuItem_23"><a href="#">About Us<span class="rgtBordr"></span></a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_23"><li id="l2MenuItem_23_corporate-profile" class="navTwoLi singleLine" style="padding-left: 20px;"><a href="corporate_profile.php" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>Corporate Profile<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_23_corporate-profile"></ul></li><li id="l2MenuItem_23_milestones" class="navTwoLi singleLine"><a href="milestones.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Milestones<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_23_milestones"></ul></li><li id="l2MenuItem_23_management-team" class="navTwoLi singleLine"><a href="management_team.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Management Team<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_23_management-team"></ul></li><li id="l2MenuItem_23_our-presence" class="navTwoLi singleLine"><a href="our_presence.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Our Presence<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_23_our-presence"></ul></li></ul></li><li class="topNavLi singleLine" id="l1MenuItem_21"><a href="#"><span class="lftBordr"></span>Solutions<span class="rgtBordr"></span></a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_21"><li id="l2MenuItem_21_solutions" class="navTwoLi singleLine" style="padding-left: 20px;"><a href="our_solution.php" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>Our Solution<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_21_solutions"></ul></li><li id="l2MenuItem_21_evds" class="navTwoLi singleLine"><a href="evds.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>EVDS<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_21_evds"></ul></li><li id="l2MenuItem_21_forbusasso" class="navTwoLi singleLine"><a href="for_bus_associates.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>For Business Associates<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_21_forbusasso"></ul></li><li id="l2MenuItem_21_serprovider" class="navTwoLi singleLine"><a href="for_service_providers.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>For Service Providers<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_21_serprovider"></ul></li><li id="l2MenuItem_21_partner" class="navTwoLi singleLine"><a href="chennal_partner_retailer.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>For Channel Partners / Retailers<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_21_partner"></ul></li></ul></li><li class="topNavLi singleLine" id="l1MenuItem_27"><a href="#"><span class="lftBordr"></span>Payworld India<span class="rgtBordr"></span></a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_27"><li id="l2MenuItem_27_about-payWorldindia" class="navTwoLi singleLine" style="padding-left: 67.5px;"><a href="about_payworldindia.php" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>About PayWorld India<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_27_about-payWorldindia"></ul></li><li id="l2MenuItem_27_service-providers" class="navTwoLi singleLine"><a href="service_provider.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Service Providers<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_27_service-providers"></ul></li><li id="l2MenuItem_27_channel-partners" class="navTwoLi singleLine"><a href="channel_partners.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Channel Partners<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_27_channel-partners"></ul></li><li id="l2MenuItem_27_retailers" class="navTwoLi singleLine"><a href="retailers.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Retailers<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_27_retailers"></ul></li></ul></li><li class="topNavLi singleLine" id="l1MenuItem_3"><a href="#"><span class="lftBordr"></span>Quick Links<span class="rgtBordr"></span></a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_3"><li id="l2MenuItem_3_payworld-lite" class="navTwoLi singleLine" style="padding-left: 256px;"><a href="payworld_lite.php" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>Payworld Lite<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_3_payworld-lite"></ul></li><li id="l2MenuItem_3_df" class="navTwoLi singleLine"><a href="distributor-franchisee.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Distributor &amp; Franchisee<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_3_df"></ul></li><li id="l2MenuItem_3_faq" class="navTwoLi singleLine"><a href="faq.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>FAQ's<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_3_faq"></ul></li></ul></li><li class="topNavLi singleLine" id="l1MenuItem_20"><a href="#"><span class="lftBordr"></span>Media Center<span class="rgtBordr"></span></a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_20"><li id="l2MenuItem_20_press-release" class="navTwoLi singleLine" style="padding-left: 444.5px;"><a href="press_release.php" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>Press Release<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_20_press-release"></ul></li><li id="l2MenuItem_20_events" class="navTwoLi singleLine"><a href="events.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Events<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_20_events"></ul></li></ul></li><li class="topNavLi singleLine" id="l1MenuItem_19"><a href="#"><span class="lftBordr"></span>Contact Us<span class="rgtBordr"></span></a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_19"><li id="l2MenuItem_19_head-office" class="navTwoLi singleLine" style="padding-left: 564.5px;"><a href="head_office.php" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>Head Office<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_19_head-office"></ul></li><li id="l2MenuItem_19_regional" class="navTwoLi singleLine"><a href="regional-offices.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Regional Offices<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_19_regional"></ul></li></ul></li><li class="topNavLi singleLine" id="l1MenuItem_18"><a href="#"><span class="lftBordr"></span>Download<span class="rgtBordr"></span></a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_18"><li id="l2MenuItem_18_rpos-beta-ver" class="navTwoLi singleLine" style="padding-left: 175px;"><a href="rpos_beta_version/setup.exe" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>Rpos ver 1.50 Beta<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_18_rpos-beta-ver"></ul></li><li id="l2MenuItem_18_rpos-ver" class="navTwoLi singleLine"><a href="setup.exe" class="navTwoLiA"><span class="lftTwoBrdr"></span>Rpos ver 1.49<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_18_rpos-ver"></ul></li><li id="l2MenuItem_18_mpos-ver" class="navTwoLi singleLine"><a href="http://www.payworldindia.co.in/mpos/pw/payworld.jad" class="navTwoLiA"><span class="lftTwoBrdr"></span>Mpos ver 1.282<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_18_mpos-ver"></ul></li><li id="l2MenuItem_18_gprs-apps" class="navTwoLi singleLine"><a href="http://www.mypayworld.com/androidapp/Payworld.apk" class="navTwoLiA"><span class="lftTwoBrdr"></span>Android GPRS Apps<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_18_gprs-apps"></ul></li><li id="l2MenuItem_18_sms-apps" class="navTwoLi singleLine"><a href="http://www.mypayworld.com/androidapp/Paylite.apk" class="navTwoLiA"><span class="lftTwoBrdr"></span>Android SMS Apps<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_18_sms-apps"></ul></li></ul></li><li class="topNavLi singleLine" id="l1MenuItem_17"><a href="#"><span class="lftBordr"></span>Careers</a><ul class="navTwo menuPatti hiddenMenu" id="l2Menu_17"><li id="l2MenuItem_17_job" class="navTwoLi singleLine" style="padding-left: 586px;"><a href="current_job_opnings.php" class="navTwoLiA"><span class="lftTwoBrdr noBG"></span>Current Job Openings<span class="rgtTwoBrdr"></span></a><ul class="navdivider" id="l3Menu_17_job"></ul></li><li id="l2MenuItem_17_post-resume" class="navTwoLi singleLine"><a href="post_resume.php" class="navTwoLiA"><span class="lftTwoBrdr"></span>Post Resume<span class="rgtTwoBrdr noBG"></span></a><ul class="navdivider" id="l3Menu_17_post-resume"></ul></li></ul></li><li class="topNavLi"><ul class="navTwo menuPatti defaultMenu" id="l2Menu_-1"></ul></li></ul></div></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td colspan="3"><img src="images/link-template_04.jpg" width="1000" height="29" alt=""></td>
+  </tr>
+  <tr> 
+    <td colspan="2" rowspan="3" bgcolor="#EE1C25" valign="top"><table width="100%" height="1000" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td valign="top">
+            
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="Design &amp; Develop by Varun Sharma." name="Author">
 <link href="menu.css" rel="stylesheet">
 <style>
-	a{text-decoration:none;color:#640000;}
-	a:hover{text-decoration:none;color:red;}
+	a{text-decoration:none;color:#FFFFFF;}
+	a:hover{text-decoration:none;color:#640000;}
 </style>
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table id="Table_01" width="1011" height="790" border="0" cellpadding="0" cellspacing="0">
+<title>Payworld</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #ee1c25;
+}
+-->
+</style>
+
+
+<table width="40%" border="0" align="right" cellpadding="2" cellspacing="0">
   <tbody><tr> 
-    <td colspan="5"> <img src="link_page/images/link_template_01.jpg" width="254" height="115" alt=""></td>
-    <td colspan="5" background="link_page/images/link_template_02.jpg"> <table width="100%" border="0" cellspacing="5" cellpadding="5">
-        <tbody><tr> 
-          <td width="72%" height="61"><div align="right"><a href="http://www.twitter.com/payworld"><br>
-              </a> </div></td>
-          <td width="12%">&nbsp;</td>
-          <td width="3%" valign="bottom"><div align="right"><a href="http://www.twitter.com/payworld"><br>
-              </a><a href="http://www.twitter.com/payworld" target="_blank"><img src="pics/twitter.gif" alt="Follow us on twitter" width="36" height="36" border="0"></a></div></td>
-          <td width="6%" valign="bottom"><p><a href="http://www.facebook.com/pages/PayWorld/177176196399" target="_blank"><img src="pics/facebook_bt.gif" alt="find us on facebook" width="36" height="36" border="0" style="border: 0px;"></a><br>
-            </p></td>
-          <td width="7%" valign=""><a href="http://www.sugaldamani.com" target="_blank"><br>
-            <img src="pics/sugal_damani.gif" alt="Sugal &amp; Damani Group" width="36" height="36" border="0"></a></td>
-        </tr>
-      </tbody></table></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="115" alt=""></td>
+    <td width="1%">&nbsp;</td>
+    <td width="99%">&nbsp;</td>
   </tr>
   <tr> 
-    <td colspan="9" rowspan="2" background="link_page/images/link_template_04.jpg"><script language="JavaScript" src="menu.js"></script> 
-      <script language="JavaScript" src="menu_items.js"></script> <script language="JavaScript" src="menu_tpl.js"></script> 
-      <script language="JavaScript">new menu (MENU_ITEMS, MENU_POS); </script><a id="e0_0o" class="m0l0oout" href="index.html" style="position: absolute; top: 118px; left: 0px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(0);" onmouseout="A_MENUS[0].onmouseout(0);" onmouseover="A_MENUS[0].onmouseover(0);" onmousedown="A_MENUS[0].onmousedown(0);"><div id="e0_0i" class="m0l0iout">Home</div></a>
-<a id="e0_1o" class="m0l0oout" href="null" style="position: absolute; top: 118px; left: 126px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(1);" onmouseout="A_MENUS[0].onmouseout(1);" onmouseover="A_MENUS[0].onmouseover(1);" onmousedown="A_MENUS[0].onmousedown(1);"><div id="e0_1i" class="m0l0iout">About Us</div></a>
-<a id="e0_2o" class="m0l1oout" href="corporate_profile.htm" style="position: absolute; top: 161px; left: 128px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(2);" onmouseout="A_MENUS[0].onmouseout(2);" onmouseover="A_MENUS[0].onmouseover(2);" onmousedown="A_MENUS[0].onmousedown(2);"><div id="e0_2i" class="m0l1iout">Corporate Profile</div></a>
-<a id="e0_3o" class="m0l1oout" href="milestones.htm" style="position: absolute; top: 184px; left: 128px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(3);" onmouseout="A_MENUS[0].onmouseout(3);" onmouseover="A_MENUS[0].onmouseover(3);" onmousedown="A_MENUS[0].onmousedown(3);"><div id="e0_3i" class="m0l1iout">Milestones</div></a>
-<a id="e0_4o" class="m0l1oout" href="management_team.htm" style="position: absolute; top: 207px; left: 128px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(4);" onmouseout="A_MENUS[0].onmouseout(4);" onmouseover="A_MENUS[0].onmouseover(4);" onmousedown="A_MENUS[0].onmousedown(4);"><div id="e0_4i" class="m0l1iout">Management Team</div></a>
-<a id="e0_5o" class="m0l1oout" href="our_presence.htm" style="position: absolute; top: 230px; left: 128px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(5);" onmouseout="A_MENUS[0].onmouseout(5);" onmouseover="A_MENUS[0].onmouseover(5);" onmousedown="A_MENUS[0].onmousedown(5);"><div id="e0_5i" class="m0l1iout">Our Presence</div></a>
-<a id="e0_6o" class="m0l0oout" href="null" style="position: absolute; top: 118px; left: 252px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(6);" onmouseout="A_MENUS[0].onmouseout(6);" onmouseover="A_MENUS[0].onmouseover(6);" onmousedown="A_MENUS[0].onmousedown(6);"><div id="e0_6i" class="m0l0iout">Solutions</div></a>
-<a id="e0_7o" class="m0l1oout" href="our_solution.htm" style="position: absolute; top: 161px; left: 254px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(7);" onmouseout="A_MENUS[0].onmouseout(7);" onmouseover="A_MENUS[0].onmouseover(7);" onmousedown="A_MENUS[0].onmousedown(7);"><div id="e0_7i" class="m0l1iout">Our Solution</div></a>
-<a id="e0_8o" class="m0l1oout" href="evds.htm" style="position: absolute; top: 184px; left: 254px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(8);" onmouseout="A_MENUS[0].onmouseout(8);" onmouseover="A_MENUS[0].onmouseover(8);" onmousedown="A_MENUS[0].onmousedown(8);"><div id="e0_8i" class="m0l1iout">Electronic Voucher Distribution System</div></a>
-<a id="e0_9o" class="m0l1oout" href="for_bus_associates.htm" style="position: absolute; top: 207px; left: 254px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(9);" onmouseout="A_MENUS[0].onmouseout(9);" onmouseover="A_MENUS[0].onmouseover(9);" onmousedown="A_MENUS[0].onmousedown(9);"><div id="e0_9i" class="m0l1iout">For Business Associates</div></a>
-<a id="e0_10o" class="m0l1oout" href="for_service_providers.htm" style="position: absolute; top: 230px; left: 254px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(10);" onmouseout="A_MENUS[0].onmouseout(10);" onmouseover="A_MENUS[0].onmouseover(10);" onmousedown="A_MENUS[0].onmousedown(10);"><div id="e0_10i" class="m0l1iout">For Service Providers</div></a>
-<a id="e0_11o" class="m0l1oout" href="chennal_partner_retailer.htm" style="position: absolute; top: 253px; left: 254px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(11);" onmouseout="A_MENUS[0].onmouseout(11);" onmouseover="A_MENUS[0].onmouseover(11);" onmousedown="A_MENUS[0].onmousedown(11);"><div id="e0_11i" class="m0l1iout">For Channel Partners / Retailers</div></a>
-<a id="e0_12o" class="m0l0oout" href="null" style="position: absolute; top: 118px; left: 378px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(12);" onmouseout="A_MENUS[0].onmouseout(12);" onmouseover="A_MENUS[0].onmouseover(12);" onmousedown="A_MENUS[0].onmousedown(12);"><div id="e0_12i" class="m0l0iout">PayWorld India</div></a>
-<a id="e0_13o" class="m0l1oout" href="about_payworldindia.htm" style="position: absolute; top: 161px; left: 380px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(13);" onmouseout="A_MENUS[0].onmouseout(13);" onmouseover="A_MENUS[0].onmouseover(13);" onmousedown="A_MENUS[0].onmousedown(13);"><div id="e0_13i" class="m0l1iout">About PayWorld India</div></a>
-<a id="e0_14o" class="m0l1oout" href="service_provider.htm" style="position: absolute; top: 184px; left: 380px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(14);" onmouseout="A_MENUS[0].onmouseout(14);" onmouseover="A_MENUS[0].onmouseover(14);" onmousedown="A_MENUS[0].onmousedown(14);"><div id="e0_14i" class="m0l1iout">Service Providers</div></a>
-<a id="e0_15o" class="m0l1oout" href="channel_partners.htm" style="position: absolute; top: 207px; left: 380px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(15);" onmouseout="A_MENUS[0].onmouseout(15);" onmouseover="A_MENUS[0].onmouseover(15);" onmousedown="A_MENUS[0].onmousedown(15);"><div id="e0_15i" class="m0l1iout">Channel Partners</div></a>
-<a id="e0_16o" class="m0l1oout" href="retailers.htm" style="position: absolute; top: 230px; left: 380px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(16);" onmouseout="A_MENUS[0].onmouseout(16);" onmouseover="A_MENUS[0].onmouseover(16);" onmousedown="A_MENUS[0].onmousedown(16);"><div id="e0_16i" class="m0l1iout">Retailers</div></a>
-<a id="e0_17o" class="m0l0oout" href="payworld_lite.html" style="position: absolute; top: 118px; left: 504px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(17);" onmouseout="A_MENUS[0].onmouseout(17);" onmouseover="A_MENUS[0].onmouseover(17);" onmousedown="A_MENUS[0].onmousedown(17);"><div id="e0_17i" class="m0l0iout">PayWorld Lite</div></a>
-<a id="e0_18o" class="m0l0oout" href="null" style="position: absolute; top: 118px; left: 630px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(18);" onmouseout="A_MENUS[0].onmouseout(18);" onmouseover="A_MENUS[0].onmouseover(18);" onmousedown="A_MENUS[0].onmousedown(18);"><div id="e0_18i" class="m0l0iout">Media Center</div></a>
-<a id="e0_19o" class="m0l1oout" href="press_release.htm" style="position: absolute; top: 161px; left: 632px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(19);" onmouseout="A_MENUS[0].onmouseout(19);" onmouseover="A_MENUS[0].onmouseover(19);" onmousedown="A_MENUS[0].onmousedown(19);"><div id="e0_19i" class="m0l1iout">Press Release</div></a>
-<a id="e0_20o" class="m0l1oout" href="events.htm" style="position: absolute; top: 184px; left: 632px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(20);" onmouseout="A_MENUS[0].onmouseout(20);" onmouseover="A_MENUS[0].onmouseover(20);" onmousedown="A_MENUS[0].onmousedown(20);"><div id="e0_20i" class="m0l1iout">Events</div></a>
-<a id="e0_21o" class="m0l0oout" href="null" style="position: absolute; top: 118px; left: 756px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(21);" onmouseout="A_MENUS[0].onmouseout(21);" onmouseover="A_MENUS[0].onmouseover(21);" onmousedown="A_MENUS[0].onmousedown(21);"><div id="e0_21i" class="m0l0iout">Careers</div></a>
-<a id="e0_22o" class="m0l1oout" href="current_job_opnings.htm" style="position: absolute; top: 161px; left: 758px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(22);" onmouseout="A_MENUS[0].onmouseout(22);" onmouseover="A_MENUS[0].onmouseover(22);" onmousedown="A_MENUS[0].onmousedown(22);"><div id="e0_22i" class="m0l1iout">Current Job Openings</div></a>
-<a id="e0_23o" class="m0l1oout" href="post_resume.htm" style="position: absolute; top: 184px; left: 758px; width: 220px; height: 24px; visibility: hidden; z-index: 1;" onclick="return A_MENUS[0].onclick(23);" onmouseout="A_MENUS[0].onmouseout(23);" onmouseover="A_MENUS[0].onmouseover(23);" onmousedown="A_MENUS[0].onmousedown(23);"><div id="e0_23i" class="m0l1iout">Post Resume</div></a>
-<a id="e0_24o" class="m0l0oout" href="contact.htm" style="position: absolute; top: 118px; left: 882px; width: 129px; height: 43px; visibility: visible; z-index: 0;" onclick="return A_MENUS[0].onclick(24);" onmouseout="A_MENUS[0].onmouseout(24);" onmouseover="A_MENUS[0].onmouseover(24);" onmousedown="A_MENUS[0].onmousedown(24);"><div id="e0_24i" class="m0l0iout">Contact Us</div></a>
- 
-    </td>
-    <td> <img src="link_page/images/link_template_05.jpg" width="2" height="3" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="3" alt=""></td>
+    <td colspan="2" class="link-label">QUICK LINKS:: </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td class="link-bt">&nbsp;</td>
   </tr>
   <tr> 
-    <td rowspan="10"> <img src="link_page/images/link_template_07.jpg" width="2" height="634" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="41" alt=""></td>
+    <td><div align="left"><img src="pics/dot-dot.jpg" width="7" height="8"></div></td>
+    <td class="link-bt"><a href="payworld_lite.php" target="_parent" style="color:#FFFFFF">Payworld Lite </a> </td>
   </tr>
   <tr> 
-    <td colspan="2" rowspan="2"> <img src="link_page/images/link_template_08.jpg" width="11" height="23" alt=""></td>
-    <td colspan="7"> <img src="link_page/images/link_template_09.jpg" width="997" height="21" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="21" alt=""></td>
+    <td colspan="2"><img src="pics/line-white.jpg" width="210" height="1"></td>
   </tr>
   <tr> 
-    <td colspan="5"> <img src="link_page/images/link_template_10.jpg" width="276" height="2" alt=""></td>
-    <td rowspan="2"> <img src="link_banner/privacy_policy.jpg" width="715" height="209" alt=""></td>
-    <td rowspan="8"> <img src="link_page/images/link_template_12.jpg" width="6" height="572" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="2" alt=""></td>
+    <td><div align="left"><img src="pics/dot-dot.jpg" width="7" height="8"></div></td>
+    <td class="link-bt"> <a href="distributor-franchisee.php" target="_parent" style="color:#FFFFFF">Distributor &amp; 
+      Franchisee</a></td>
   </tr>
   <tr> 
-    <td rowspan="7"> <img src="link_page/images/link_template_13.jpg" width="8" height="570" alt=""></td>
-    <td colspan="5" rowspan="3" background="link_page/images/link_template_14.jpg"><table width="95%" border="0" align="left" cellpadding="0" cellspacing="2">
-        <tbody><tr> 
-          <td width="4%">&nbsp;</td>
-          <td width="96%" class="label_txt">About Us</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-          <td class="left_bt"><a href="corporate_profile.htm" target="_parent">Corporate 
-            Profile</a></td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-          <td class="left_bt"><a href="milestones.htm" target="_parent">Milestones</a></td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-          <td class="left_bt"><a href="management_team.htm" target="_parent">Management 
-            Team</a></td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-          <td class="left_bt"><a href="our_presence.htm" target="_parent">Our 
-            Presence</a></td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-          <td rowspan="4"><div align="left"><a href="become_bus_associates.htm" target="_parent"><img src="pics/become_associates.jpg" width="237" height="81" border="0"></a></div></td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-    <td rowspan="7"> <img src="link_page/images/link_template_15.jpg" width="9" height="570" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="207" alt=""></td>
+    <td colspan="2"><img src="pics/line-white.jpg" width="210" height="1"></td>
   </tr>
   <tr> 
-    <td> <img src="link_page/images/link_template_16.jpg" width="715" height="38" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="38" alt=""></td>
+    <td><div align="left"><img src="pics/dot-dot.jpg" width="7" height="8"></div></td>
+    <td class="link-bt"><a href="faq.php" target="_parent" style="color:#FFFFFF">FAQ's</a></td>
   </tr>
   <tr> 
-    <td rowspan="6" valign="top"><table width="93%" border="0" align="center" cellpadding="2" cellspacing="2">
-        <tbody><tr> 
-          <td height="23" class="text_black">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td height="213" class="text_black"> <div align="justify">www.payworldindia.com 
-              website is the property owned and operated by the “Sugal and 
-              Damani Utility Services Pvt. Ltd” <br>
-              <br>
-              <strong>Security and Protection of your Personal Details</strong><br>
-              <br>
-              We at pay world are committed to maintain the security and privacy 
-              of all your personal information obtained by you on our website. 
-              We take significant precautions to protect your Personally Identifiable 
-              Information both online and offline. Maintaining a high degree of 
-              confidentiality and privacy and secure transmission of data is of 
-              utmost important for us. You can view your Credit card security 
-              card guarantee back up system by clicking the link provided at the 
-              bottom of each page on our site. Our system is configured with the 
-              data encrypting technology and firewall system. The data that you 
-              enter in our website is protected by 128-bit Secure Socket Layer 
-              (SSL) which ensures the safe transmission of data.We also have a 
-              digital Certificate from “thawte”,Inc,a top maker of 
-              hardware and software used to protect and manage computer network 
-              access, certifying the secure nature of our site. <br>
-              <br>
-              All our servers at pay world storing the customer’s information 
-              are kept in a secure environment and are accessed by only limited 
-              number of authorized employees of our company. <br>
-              <br>
-              <strong>Information Collected from You</strong><br>
-              <br>
-              We collect the customers information such as your name, address, 
-              telephone numbers, e-mail addresses and other information that can 
-              identify you as a specific individual ("Personally Identifiable 
-              Information"). <br>
-              <br>
-              <p><strong>We collect Personally Identifiable Information when you:</strong></p>
-              <p>• Become authorized to use our site through a Site Partner<br>
-                • Purchase a product or service<br>
-                • Request further information regarding a product or service<br>
-                • Disconnect a service<br>
-                • Contact us<br>
-                <br>
-                <strong>Purchase Information <br>
-                </strong></p>
-              <p>We collect you credit card information for the billing of your 
-                services and products that you wish to purchase, which includes 
-                your card number, card type, card Holder name, address and expiration 
-                date.</p>
-              <p><strong>Requests for Further Information Regarding Products and 
-                Services</strong></p>
-              <p>In case you require additional information and have any query 
-                regarding product and services, we collect your personal information 
-                to contact you and respond to your query. </p>
-              <p><strong>Our Service Providers</strong></p>
-              <p>Pay world offers an application service provider (ASP) to the 
-                computer-based services to customers over a network. The most 
-                important sense of this business is that of providing access to 
-                a particular application program using a standard protocol such 
-                as HTTP. In addition, the issues of upgrading have been eliminated 
-                from the end-firm by placing the onus on the ASP to maintain up-to-date 
-                services, 24 x 7 technical support, physical and electronic security 
-                and in-built support for business continuity and flexible working.</p>
-              <p>Pay world Clients for ASP services include businesses, government 
-                organizations, and membership organizations.</p>
-              <p><strong>Cookies</strong></p>
-              <p>We do not track or collect information about your visits to other 
-                Internet sites. Certain technical information is automatically 
-                collected about your computer each time you request a page during 
-                a visit to this site. This information may include your IP address, 
-                operating system and Web browser software (e.g., Netscape Navigator 
-                or Internet Explorer). We assign you a "cookie" (i.e., 
-                a tiny packet of identifying information passed between your browser 
-                and a Web site) each time you visit this site. You do not provide 
-                this information? It is collected automatically as a means for 
-                supporting your visit to this site. This cookie does not contain 
-                any Personally Identifiable Information. You can always choose 
-                to not receive a cookie file by enabling your Web browser to refuse 
-                cookies or prompt you before accepting a cookie. Please be aware 
-                that by refusing to accept a cookie you will not be able to make 
-                optimal use of this site. Cookies are small bits of data that 
-                are stored by your browser. You can accept or decline cookies 
-                by modifying the settings of your web browser. </p>
-              <p><strong>Use of Your Personally Identifiable Information</strong></p>
-              <p>Personally Identifiable Information collected on this site may 
-                be used to:</p>
-              <p>• Facilitate your orders for services and products<br>
-                • Send notifications<br>
-                • Promote our service and other available services and products<br>
-                • Respond to your questions or suggestions<br>
-                • Improve the quality of our site<br>
-                • Sharing Your Personally Identifiable Information</p>
-              <p><strong>Responses to Your Questions or Suggestions</strong></p>
-              <p>We will use your e-mail address or telephone number to respond 
-                when you submit a question or suggestion, or request assistance 
-                with using or accessing this site.</p>
-              <p><strong>Note: </strong>We do not sell, share or rent your Personally 
-                Identifiable Information to others in ways different from what 
-                is disclosed in this statement.<br>
-                <br>
-                <strong>Notifications of Changes</strong><br>
-                <br>
-                We reserve the right to modify or amend this Privacy and Security 
-                Statement at any time and for any reason with out prior notice.<br>
-                <font color="#333333"> </font><font color="#333333" face="Verdana, Arial, Helvetica, sans-serif"> 
-                </font><font color="#333333" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
-                </font></p>
-              <font color="#333333" size="2" face="Verdana, Arial, Helvetica, sans-serif"></font></div></td>
-        </tr>
-      </tbody></table></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="37" alt=""></td>
+    <td colspan="2"><img src="pics/line-white.jpg" width="210" height="1"></td>
   </tr>
   <tr> 
-    <td rowspan="4"> <img src="link_page/images/link_template_18.jpg" width="3" height="288" alt=""></td>
-    <td colspan="4"> <img src="link_page/images/link_template_19.jpg" width="267" height="47" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="47" alt=""></td>
+    <td colspan="2">&nbsp;</td>
   </tr>
   <tr> 
-    <td colspan="4"> <img src="link_page/images/link_template_20.jpg" width="267" height="13" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="13" alt=""></td>
+    <td colspan="2"><a href="become_bus_associates.php" target="_parent"><img src="pics/become-business-asso.jpg" width="212" height="301" border="0"></a></td>
   </tr>
   <tr> 
-    <td rowspan="2"> <img src="link_page/images/link_template_21.jpg" width="25" height="228" alt=""></td>
-    <td> <div align="center"> 
-        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="203" height="187">
-          <param name="movie" value="pics/payworld_marchant.swf">
-          <param name="quality" value="high">
-          <embed src="pics/payworld_marchant.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="203" height="187"></object>
-      </div></td>
-    <td colspan="2" rowspan="2"> <img src="link_page/images/link_template_23.jpg" width="32" height="228" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="195" alt=""></td>
+    <td colspan="2">&nbsp;</td>
   </tr>
   <tr> 
-    <td> <img src="link_page/images/link_template_24.jpg" width="210" height="33" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="1" height="33" alt=""></td>
-  </tr>
-  <tr> 
-    <td colspan="7" bgcolor="ffca1a" valign="top"> <table width="100%" border="0">
-        <tbody><tr> 
-          <td colspan="2">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="97%" rowspan="17" valign="top"><div align="center"> 
-              <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-              <script>
+    <td colspan="2"><div align="left"> 
+        <div align="left"> 
+          <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+          <script>
 new TWTR.Widget({
   version: 2,
   type: 'profile',
@@ -318,146 +302,378 @@ new TWTR.Widget({
     behavior: 'all'
   }
 }).render().setUser('payworld').start();
-</script>
-            </div></td>
+        </script>
+        </div>
+      </div></td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2"><a href="http://www.facebook.com/pages/PayWorld/177176196399" title="PayWorld" target="_top"></a></td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
+            &nbsp;</td>
+        </tr>
+      </tbody></table></td>
+    <td bgcolor="ed1c24"><table width="100%" height="213" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td valign="bottom" background="images/link-template_06.jpg"><div align="right">
+          <table width="98%" border="0" align="left" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td><div align="right" class="lebel">Privacy Policy  </div></td>
+            </tr>
+          </tbody></table>
+        </div></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr> 
+    <td><img src="images/link-template_07.jpg" width="732" height="29" alt=""></td>
+  </tr>
+  <tr> 
+    <td valign="top" bgcolor="#FFFFFF"><table width="93%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
           <td>&nbsp;</td>
         </tr>
         <tr> 
-          <td>&nbsp;</td>
+          <td><div align="justify">
+              <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td height="213" class="text_black"> <div align="justify"><span class="content-text">www.payworldindia.com 
+                      website is the property owned and operated by the “Sugal 
+                      and Damani Utility Services Pvt. Ltd” <br>
+                      <br>
+                      <strong class="blue-txt">Security and Protection of your Personal Details</strong><br>
+                      <br>
+                      We at pay world are committed to maintain the security and 
+                      privacy of all your personal information obtained by you 
+                      on our website. We take significant precautions to protect 
+                      your Personally Identifiable Information both online and 
+                      offline. Maintaining a high degree of confidentiality and 
+                      privacy and secure transmission of data is of utmost important 
+                      for us. You can view your Credit card security card guarantee 
+                      back up system by clicking the link provided at the bottom 
+                      of each page on our site. Our system is configured with 
+                      the data encrypting technology and firewall system. The 
+                      data that you enter in our website is protected by 128-bit 
+                      Secure Socket Layer (SSL) which ensures the safe transmission 
+                      of data.We also have a digital Certificate from “thawte”,Inc,a 
+                      top maker of hardware and software used to protect and manage 
+                      computer network access, certifying the secure nature of 
+                      our site. <br>
+                      <br>
+                      All our servers at pay world storing the customer’s 
+                      information are kept in a secure environment and are accessed 
+                      by only limited number of authorized employees of our company. <br>
+                      <br>
+                      <strong class="blue-txt">Information Collected from You</strong><br>
+                      <br>
+                      We collect the customers information such as your name, 
+                      address, telephone numbers, e-mail addresses and other information 
+                      that can identify you as a specific individual ("Personally 
+                      Identifiable Information"). <br>
+                      <br>
+                      </span>
+                    <p class="blue-txt"><strong>We collect Personally Identifiable Information 
+                        when you:</strong></p>
+                      <p class="content-text">• Become authorized to use our site through a Site 
+                        Partner<br>
+• Purchase a product or service<br>
+• Request further information regarding a product 
+                        or service<br>
+• Disconnect a service<br>
+• Contact us<br>
+                        <br>
+                        <span class="blue-txt"><strong>Purchase Information </strong></span><strong><br>
+                        </strong></p>
+                      <p class="content-text">We collect you credit card information for the billing 
+                        of your services and products that you wish to purchase, 
+                        which includes your card number, card type, card Holder 
+                        name, address and expiration date.</p>
+                      <p class="blue-txt"><strong>Requests for Further Information Regarding Products 
+                        and Services</strong></p>
+                      <p class="content-text">In case you require additional information and have any 
+                        query regarding product and services, we collect your 
+                        personal information to contact you and respond to your 
+                        query. </p>
+                      <p class="blue-txt"><strong>Our Service Providers</strong></p>
+                      <p class="content-text">Pay world offers an application service provider (ASP) 
+                        to the computer-based services to customers over a network. 
+                        The most important sense of this business is that of providing 
+                        access to a particular application program using a standard 
+                        protocol such as HTTP. In addition, the issues of upgrading 
+                        have been eliminated from the end-firm by placing the 
+                        onus on the ASP to maintain up-to-date services, 24 x 
+                        7 technical support, physical and electronic security 
+                        and in-built support for business continuity and flexible 
+                        working.</p>
+                      <p class="content-text">Pay world Clients for ASP services include businesses, 
+                        government organizations, and membership organizations.</p>
+                      <p class="blue-txt"><strong>Cookies</strong></p>
+                      <p class="content-text">We do not track or collect information about your visits 
+                        to other Internet sites. Certain technical information 
+                        is automatically collected about your computer each time 
+                        you request a page during a visit to this site. This information 
+                        may include your IP address, operating system and Web 
+                        browser software (e.g., Netscape Navigator or Internet 
+                        Explorer). We assign you a "cookie" (i.e., a 
+                        tiny packet of identifying information passed between 
+                        your browser and a Web site) each time you visit this 
+                        site. You do not provide this information? It is collected 
+                        automatically as a means for supporting your visit to 
+                        this site. This cookie does not contain any Personally 
+                        Identifiable Information. You can always choose to not 
+                        receive a cookie file by enabling your Web browser to 
+                        refuse cookies or prompt you before accepting a cookie. 
+                        Please be aware that by refusing to accept a cookie you 
+                        will not be able to make optimal use of this site. Cookies 
+                        are small bits of data that are stored by your browser. 
+                        You can accept or decline cookies by modifying the settings 
+                        of your web browser. </p>
+                      <p class="blue-txt"><strong>Use of Your Personally Identifiable Information</strong></p>
+                      <p class="content-text">Personally Identifiable Information collected on this 
+                        site may be used to:</p>
+                      <p class="content-text">• Facilitate your orders for services and products<br>
+• Send notifications<br>
+• Promote our service and other available services 
+                        and products<br>
+• Respond to your questions or suggestions<br>
+• Improve the quality of our site<br>
+• Sharing Your Personally Identifiable Information</p>
+                      <p class="blue-txt"><strong>Responses to Your Questions or Suggestions</strong></p>
+                      <p class="content-text">We will use your e-mail address or telephone number to 
+                        respond when you submit a question or suggestion, or request 
+                        assistance with using or accessing this site.</p>
+                      <p><span class="content-text"><strong>Note: </strong>We do not sell, share or rent 
+                        your Personally Identifiable Information to others in 
+                        ways different from what is disclosed in this statement.<br>
+                        <br>
+                        <strong class="blue-txt">Notifications of Changes</strong><br>
+                        <br>
+                        We reserve the right to modify or amend this Privacy and 
+                        Security Statement at any time and for any reason with 
+                        out prior notice.</span><br>
+                        <font color="#333333"> </font><font color="#333333" face="Verdana, Arial, Helvetica, sans-serif"> 
+                        </font><font color="#333333" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                      </font></p>
+                      <font color="#333333" size="2" face="Verdana, Arial, Helvetica, sans-serif"></font></div></td>
+                </tr>
+              </tbody></table>
+            </div>
+          </td>
         </tr>
         <tr> 
           <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td width="3%">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td rowspan="5"> 
-            <!-- Facebook Badge START -->
-            <div align="center"><br>
-              <a href="http://www.facebook.com/pages/PayWorld/177176196399" title="PayWorld" target="_TOP"><img src="http://badge.facebook.com/badge/177176196399.2210.1534868433.png" width="94" height="84" border="0" style="border: 0px;"></a> 
-              <!-- Facebook Badge END -->
-            </div></td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td>&nbsp;</td>
-        </tr>
-        <tr> 
-          <td colspan="2">&nbsp;</td>
-        </tr>
-        <tr> 
-          <td colspan="2"><div align="center"></div></td>
         </tr>
       </tbody></table>
       <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      </td>
-    <td colspan="2" background="link_page/images/link_template_27.jpg">&nbsp;</td>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr> 
+    <td><img src="images/spacer.gif" width="248" height="1" alt=""></td>
+    <td><img src="images/spacer.gif" width="20" height="1" alt=""></td>
+    <td><img src="images/spacer.gif" width="732" height="1" alt=""></td>
+  </tr>
+  <tr bgcolor="#FFFFFF">
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="3" bgcolor="00529c">
+      
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Payworld</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #00529c;
+}
+-->
+</style>
+<meta content="Design &amp; Develop by Varun Sharma." name="Author">
+<br>
+<link href="menu.css" rel="stylesheet">
+<title>Payworld</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #00529c;
+}
+-->
+</style>
+<style>
+	a{text-decoration:none;color:#FFFFFF;}
+	a:hover{text-decoration:none;color:#00ccff;}
+</style>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td bgcolor="#ED1C24"><table width="100%" border="0" cellpadding="4" cellspacing="4">
+      <tbody><tr>
+        <td width="50%" class="txt-small-white"><a href="privacy_policy.php" target="_parent" style="color:#FFFFFF">Privacy Policy</a> | <a href="disclaimer.php" target="_parent" style="color:#FFFFFF">Disclaimer</a> | <a href="terms_condtions.php" target="_parent" style="color:#FFFFFF">Terms &amp; Conditions</a> | <a href="site_map.php" target="_parent" style="color:#FFFFFF">Site Map </a></td>
+        <td width="50%"><div align="right" class="txt-small-white">Copyright © Sugal &amp; Damani Utility Services Pvt. Ltd, All Rights Reserved </div></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td><table width="98%" border="0" align="center" cellpadding="3" cellspacing="0">
+      
+      <tbody><tr>
+        <td colspan="2">&nbsp;</td>
+        <td width="1%" rowspan="16" valign="top"><img src="pics/line.jpg" width="1" height="400"></td>
+        <td width="22%">&nbsp;</td>
+        <td width="15%">&nbsp;</td>
+        <td width="20%">&nbsp;</td>
+        <td width="1%" rowspan="16" valign="top"><img src="pics/line.jpg" width="1" height="400"></td>
+        <td colspan="2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2"><span class="bottom-heading">Who We Are </span></td>
+        <td><span class="bottom-heading">Quick Links </span></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td colspan="2" rowspan="2"><span class="bottom-heading">How can <br>
+we help you ? </span></td>
+      </tr>
+      <tr>
+        <td colspan="2"><a href="about_payworldindia.php" class="bottom-txt" style="color:#00ccff">About Payworld </a></td>
+        <td><span class="bottom-txt">Anout Us </span></td>
+        <td><span class="bottom-txt">Payworld </span></td>
+        <td><span class="bottom-txt">Careers</span></td>
+        </tr>
+      <tr>
+        <td colspan="2"><a href="current_job_opnings.php" target="_parent" class="bottom-txt" style="color:#00ccff">Careers</a></td>
+        <td class="bot-txt-white"><a href="corporate_profile.php" target="_parent">Corporate Profile </a></td>
+        <td class="bot-txt-white"><a href="about_payworldindia.php" target="_parent">About Payworld </a></td>
+        <td><span class="bot-txt-white"><a href="current_job_opnings.php" target="_parent">Current Job Opening </a></span></td>
+        <td colspan="2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2"><a href="press_release.php" target="_parent" class="bottom-txt" style="color:#00ccff">News</a></td>
+        <td class="bot-txt-white"><a href="milestones.php" target="_parent">Milestones</a></td>
+        <td class="bot-txt-white"><a href="channel_partners.php" target="_parent">Channel partners </a></td>
+        <td><a href="post_resume.php" target="_parent" class="bot-txt-white">Post Resume </a></td>
+        <td colspan="2"><span class="bottom-txt">Find product support </span></td>
+      </tr>
+      <tr>
+        <td colspan="2"><span class="bottom-txt">Affiliated Companies </span></td>
+        <td class="bot-txt-white"><a href="management_team.php" target="_parent">Management Team </a></td>
+        <td class="bot-txt-white"><a href="retailers.php" target="_parent">Retails</a></td>
+        <td>&nbsp;</td>
+        <td colspan="2"><span class="bottom-txt">How to Guides </span></td>
+      </tr>
+      <tr>
+        <td colspan="2"><span class="bottom-txt">Investor Relations </span></td>
+        <td class="bot-txt-white"><a href="our_presence.php" target="_parent">Our Presense </a></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td colspan="2"><span class="bottom-txt">Articles</span></td>
+      </tr>
+      <tr>
+        <td colspan="2">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td colspan="2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2"><span class="bottom-txt">Download Payworld EXE Setup </span></td>
+        <td><span class="bottom-txt">Solutions</span></td>
+        <td><span class="bottom-txt">Media Center </span></td>
+        <td><a href="payworld_lite.php" target="_parent" class="bottom-txt" style="color:#00ccff">Payworld Lite </a></td>
+        <td colspan="2"><strong class="bottom-txt">Download Software Demo</strong></td>
+      </tr>
+      <tr>
+        <td width="2%"><img src="pics/aero-white.png" width="13" height="14"></td>
+        <td width="20%" class="bot-txt-white"><a href="rpos_beta_version/setup.exe">Rpos ver 1.50 Beta</a></td>
+        <td class="bot-txt-white"><a href="our_solution.php" target="_parent">Our Solutions </a></td>
+        <td class="bot-txt-white"><a href="press_release.php" target="_parent">Press Release </a></td>
+        <td>&nbsp;</td>
+        <td width="4%"><img src="pics/hand-white.png" width="38" height="21"></td>
+        <td width="15%" valign="top"><strong><a href="http://192.168.10.1/uservarun/b2b/pin_recharge.pps" class="bot-txt-white">Pin Recharge</a></strong></td>
+      </tr>
+      <tr>
+        <td><img src="pics/aero-white.png" width="13" height="14"></td>
+        <td class="bot-txt-white"><a href="setup.exe">Rpos ver 1.49</a></td>
+        <td class="bot-txt-white"><a href="evds.php" target="_parent">Electronic Voucher Distrbution system </a></td>
+        <td class="bot-txt-white"><a href="events.php" target="_parent">Events</a></td>
+        <td>&nbsp;</td>
+        <td><img src="pics/hand-white.png" width="38" height="21"></td>
+        <td valign="top"><strong><a href="http://192.168.10.1/uservarun/b2b/flexi_recharge_demo.pps" class="bot-txt-white">Flexi Recharge</a></strong></td>
+      </tr>
+      <tr>
+        <td><img src="pics/aero-white.png" width="13" height="14"></td>
+        <td class="bot-txt-white"><a href="http://www.payworldindia.co.in/mpos/pw/payworld.jad">Mpos ver 1.282</a></td>
+        <td class="bot-txt-white"><a href="for_bus_associates.php" target="_parent">For Business Associates </a></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td colspan="2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="2">&nbsp;</td>
+        <td class="bot-txt-white"><a href="for_service_providers.php" target="_parent">For Service Providers </a></td>
+        <td>&nbsp;</td>
+        <td rowspan="2"><a href="http://www.facebook.com/pages/Paycash/270573372983356" target="_blank"><img src="pics/paycash-card.png" width="165" height="56" border="0"></a></td>
+        <td colspan="2"><em class="bottom-heading">Follow us on </em></td>
+      </tr>
+      <tr>
+        <td colspan="2" rowspan="4"><a href="http://www.facebook.com/pages/PayWorld/177176196399" title="PayWorld" target="_top"><img src="http://badge.facebook.com/badge/177176196399.2210.1534868433.png" width="94" height="84" border="0" style="border: 0px;"></a></td>
+        <td class="bot-txt-white"><a href="chennal_partner_retailer.php" target="_parent">For Channel Partners / Retailers </a></td>
+        <td>&nbsp;</td>
+        <td colspan="2" rowspan="2"><table width="65%" border="0" cellspacing="0" cellpadding="3">
+          <tbody><tr>
+            <td><a href="http://www.facebook.com/pages/PayWorld/177176196399" target="_blank"><img src="pics/facebook-blue-bt.png" width="35" height="36" border="0"></a></td>
+            <td><a href="http://www.twitter.com/payworld" target="_blank"><img src="pics/twitter-blue-bt.png" width="36" height="36" border="0"></a></td>
+            <td><a href="http://www.sugaldamani.com" target="_blank"><img src="pics/snd-blue-bt.png" width="34" height="37" border="0"></a></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td colspan="2">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="1%" valign="top">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td colspan="5"><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a class="addthis_counter addthis_pill_style"></a></div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4facaf286178e38b"></script>
+<!-- AddThis Button END --></td>
+        </tr>
+
+
+    </tbody></table></td>
+  </tr>
+  <tr>
     <td>&nbsp;</td>
   </tr>
-  <tr> 
-    <td> <img src="link_page/images/spacer.gif" width="4" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="3" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="25" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="210" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="8" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="24" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="9" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="715" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="6" height="1" alt=""></td>
-    <td> <img src="link_page/images/spacer.gif" width="2" height="1" alt=""></td>
-    <td></td>
-  </tr>
-  <tr> 
-    <td colspan="11"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td background="images/bg.jpg"><table width="100%" border="0" cellspacing="6" cellpadding="5">
-              <tbody><tr valign="top"> 
-                <td width="40%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr valign="middle"> 
-                      <td width="19%"><div align="center"><font color="#640000" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="privacy_policy.htm" target="_parent">Privacy 
-                          Policy</a> </font></div></td>
-                      <td width="25%"><div align="center"><font color="#640000" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="disclaimer.htm" target="_parent">Disclaimer</a></font></div></td>
-                      <td width="33%"><div align="center"><font color="#640000" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="terms_condtions.htm" target="_parent">Terms 
-                          &amp; Conditions</a></font></div></td>
-                      <td width="23%"><div align="center"><font color="#640000" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="site_map.htm" target="_parent">Site 
-                          Map </a></font></div></td>
-                    </tr>
-                  </tbody></table></td>
-                <td width="60%" valign="middle"><div align="right"><font color="#640000" size="1" face="Verdana, Arial, Helvetica, sans-serif">Copyright 
-                    © Sugal &amp; Damani Utility Services Pvt. Ltd, All Rights 
-                    Reserved </font></div></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table></td>
+</tbody></table>
+
+
+    </td>
   </tr>
 </tbody></table>
-<div align="left"></div>
+<!-- ImageReady Slices (Home-Page-Template.psd) -->
+<!-- End ImageReady Slices -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
