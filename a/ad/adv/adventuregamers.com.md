@@ -1,51 +1,56 @@
-> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012055519id_/http%3A//www.adventuregamers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122023222id_/http%3A//adventuregamers.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Adventure Gamers
+# Privacy Policy - AdventureGamers.com
 
-| 
+###  What information do we collect?
 
-[   
-](http://www.adventuregamers.com/)
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
-|   | **sections**  
----|---  
-| **[News](https://web.archive.org/newsarchives.php)**  
-| **[Reviews](https://web.archive.org/reviews.php)**  
-| **[Previews](https://web.archive.org/previews.php)**  
-| **[Features](https://web.archive.org/features.php)**  
-| **[Interviews](https://web.archive.org/interviews.php)**  
-| **[Underground](https://web.archive.org/underground/index.php)**  
-| **[Contests](https://web.archive.org/contests.php)**  
-| **[Forums](http://forums.adventuregamers.com/)**  
-| **[Mailing List](https://web.archive.org/subscribe.php)**  
-| **[Links](https://web.archive.org/links.php)**  
-| **[About Us](https://web.archive.org/about/index.php)**  
-  
-  
+When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-| 
+###  What do we use your information for?
 
-  
+Any of the information we collect from you may be used in one of the following ways:
 
+; To personalize your experience
 
-* * *
+; To administer a contest, promotion, survey or other site feature
 
-Adventure Gamers respects your privacy. Here's exactly what information Adventure Gamers gathers, and what is done with it:
+; To send periodic emails
 
-  * The email addresses collected from the sign-ups for our newsletter are not sold, or disclosed to a third party. The email addresses collected will only be used to send out the newsletter/e-zine. You will not receive any mailings you did not request. The email addresses are stored on a server hosted by Tera-byte.com. You can remove yourself from our list at any time by enterering your email address and selecting "unsubscribe" at the Adventure Gamers Bulletin page.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-  * When a contest/sweepstakes is run on this site you may be asked to supply some personally identifying information like your name and email address. This information will only be used to notify winners of the contest/sweepstakes. Non-identifying information may be analyzed, aggregated and presented to third-parties to provide an overview of the demographics of our visitors. 
-  * When a survey appears on Adventure Gamers information is collected, compiled and analyzed on an aggregated basis. Adventure Gamers may share this aggregated data with other parties. 
-  * Across Adventure Gamers there are several polls. By voting you are not disclosing any other information other then the answer to the question the poll asks. A vote cannot be traced to a specific individual, so your identity remains anonymous. 
-  * Every computer on the internet is identified by a unique number called an IP address. The IP address is logged whenever a post in the Adventure Gamers forums is received by the server. This information is used if it becomes necessary to ban a user. The IP address can only be seen by the administrators and community advisors. The IP address is also logged whenever a vote is registered in one of our polls. This information is necessary to avoid any double votes. 
-  * The information collected during the registration process for the Adventure Gamers forums is used to contact members in the event of a Forum rule violation. It can also be used to prevent banned users from re-registering under a different username. 
+###  How do we protect your information?
 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
+###  Do we use cookies?
 
-All personal information collected by Adventure Gamers is securely stored on our servers.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-_Questions regarding our privacy policies,  
-and for assistance in opting out of our email lists please [contact us](mailto:feedback@adventuregamers.com)._
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences in the future.
 
-| 
+###  Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+
+###  Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+###  Your Consent
+
+By using our site, you consent to our websites privacy policy.
+
+###  Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+###  Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[http://ww.adventuregamers.com](http://ww.adventuregamers.com/)  
+[webmaster@adventuregamers.com](mailto:webmaster@adventuregamers.com)
