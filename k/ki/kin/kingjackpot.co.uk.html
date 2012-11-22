@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kingjackpot.co.uk privacy policy that was archived on 2012-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120518084557id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kingjackpot.co.uk privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122143134id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head id="page_head"><link href="App_Themes/site/dd.css" type="text/css" rel="stylesheet"><link href="App_Themes/site/style.css" type="text/css" rel="stylesheet"><meta http-equiv="Content-Type" content="text/html;"><meta name="robots" content="follow,index"><link id="link_Icon" rel="shortcut icon" type="image/x-icon" href="App_Themes/site/Icons/favicon.ico">
     
@@ -34,7 +34,7 @@
         <li id="nav-home"><a href="./"></a></li>
         <li id="nav-download"><a href="download.aspx"></a></li>
         <li id="nav-gamerules"><a href="preview-games.aspx"></a></li>    
-        <li id="nav-fame"><a href="winners/recent.aspx" class="winners"></a></li>
+        <li id="nav-fame"><a href="winners/photo-gallery.aspx" class="winners"></a></li>
         <li id="nav-whatson"><a href="whats-on.aspx" class="whatson"></a></li>
         <li id="nav-loyalty"><a href="loyalty-club.aspx"></a></li>                       
         <li id="nav-contactus"><a href="contactus.aspx" class="help"></a></li>
@@ -65,13 +65,13 @@
     <div id="winners-sub">
         <table>
             <tbody><tr>
+                <td><a href="/winners/photo-gallery.aspx">Winners Gallery</a><br><img src="App_Themes/site/Images/dropdown-line.gif" style="height:1px;padding-top:4px;"></td>
+            </tr>
+            <tr>
                 <td><a href="/winners/recent.aspx">Recent Winners</a><br><img src="App_Themes/site/Images/dropdown-line.gif" style="height:1px;padding-top:4px;"></td>    
             </tr>
             <tr>
-                <td><a href="/winners/big-progressive.aspx">Progressive Winners</a><br><img src="App_Themes/site/Images/dropdown-line.gif" id="header_nav_Img2" style="height:1px;padding-top:4px;"></td>    
-            </tr>
-            <tr>
-                <td><a href="/winners/photo-gallery.aspx">Winners Gallery</a><br></td>
+                <td><a href="/winners/big-progressive.aspx">Progressive Winners</a><br></td>    
             </tr>
         </tbody></table>
     </div>
@@ -124,6 +124,15 @@
 
     $(document).ready(function () {
         $("td.line").height("1px");
+        $("#whatson-sub td, #winners-sub td, #help-sub td").hover(function(){
+            $(this).find("a").css("color", "#feee00");
+        }, function(){
+            $(this).find("a").css("color", "#fff");
+        });
+        $("#whatson-sub td, #winners-sub td, #help-sub td").click(function(){
+            window.location = $(this).find("a").attr("href");
+        });
+
         var whatsonOffset = $('#nav-whatson').position();
         var winnersOffset = $('#nav-fame').position();
         var helpOffset = $('#nav-contactus').position();
@@ -144,15 +153,15 @@
             $("#help-hover").show();
         });
 
-        $("#whatson-hover").css('left', (whatsonOffset.left + 9));
-        $("#winners-hover").css('left', (winnersOffset.left + 7));
+        $("#whatson-hover").css('left', (whatsonOffset.left + 6));
+        $("#winners-hover").css('left', (winnersOffset.left));
         $("#help-hover").css('left', (helpOffset.left + 3));
 
         $("#whatson-hover").click(function () {
             window.location = "/whats-on.aspx";
         });
         $("#winners-hover").click(function () {
-            window.location = "/winners/recent.aspx";
+            window.location = "/winners/photo-gallery.aspx";
         });
         $("#help-hover").click(function () {
             window.location = "/contactus.aspx";
@@ -160,9 +169,10 @@
 
         $("#whatson-hover").mouseover(function () {
             var position = $('#nav-whatson').position();
-            $("#whatson-hover").css('left', (position.left + 3));
+            $("#whatson-hover").css('left', (position.left));
             $("#whatson-hover").show();
             $("#whatson-sub").css('left', (position.left + 3));
+            $("#winners-sub").hide();
             $("#whatson-sub").show();
             topMenu = true;
         });
@@ -171,6 +181,7 @@
             setTimeout("checkHover()", 400);
         });
         $("#whatson-sub").hover(function () {
+            $("#winners-sub").hide();
             $("#whatson-sub").show();
             $("#whatson-hover").show();
             subMenu = true;
@@ -184,9 +195,10 @@
 
         $("#winners-hover").mouseover(function () {
             var position = $('#nav-fame').position();
-            $("#winners-hover").css('left', (position.left + 7));
+            $("#winners-hover").css('left', (position.left));
             $("#winners-hover").show();
             $("#winners-sub").css('left', (position.left + 3));
+            $("#whatson-sub").hide();
             $("#winners-sub").show();
             topWinnersMenu = true;
         });
@@ -195,6 +207,7 @@
             setTimeout("checkWinnersHover()", 400);
         });
         $("#winners-sub").hover(function () {
+            $("#whatson-sub").hide();
             $("#winners-sub").show();
             $("#winners-hover").show();
             subWinnersMenu = true;
@@ -210,7 +223,7 @@
             var position = $('#nav-contactus').position();
             $("#help-hover").css('left', (position.left));
             $("#help-hover").show();
-            $("#help-sub").css('left', (position.left - 81));
+            $("#help-sub").css('left', (position.left - 65));
             $("#help-sub").show();
             topHelpMenu = true;
         });
@@ -237,14 +250,7 @@
 		    <div id="header-dd">
 			    
     <div id="intro">
-        <div id="intro-text"><h1>Free Bingo: Play Bingo Games With No Deposit Required at King Jackpot UK</h1></div>
-        <div id="intro-dd">
-            <select id="country-dd" name="country-dd" style="width:150px;" onchange="if (this.options[this.selectedIndex].value != ''){ location = this.options[this.selectedIndex].value;}">
-                <option value="" title="/App_Themes/site/Images/Flags/world.gif">Sister Sites</option>                
-                <option value="http://www.bingoliner.co.uk" title="/App_Themes/site/Images/Flags/bingolineruk.gif">Bingo Liner UK</option>
-                <option value="http://www.bingocafe.co.uk/" title="/App_Themes/site/Images/Flags/bingocafe.gif">Bingo Cafe UK</option>
-            </select>
-        </div>
+        <div id="intro-text"><h1>Free Bingo: Play Bingo Games With No Deposit Required at King Jackpot UK</h1></div>        
     </div>    
     
 
@@ -512,10 +518,11 @@
                     <li><a href="articles.aspx">Bingo Articles</a></li>
                     <li><a href="winners/recent.aspx">Recent Winners</a></li>
                     <li><a href="tournaments-bingo.aspx">Bingo Tournaments</a></li>
-					<li style="margin-bottom:15px;"><a href="competitions/mega-bingo.aspx">Bingo Competitions</a></li>
+                    <li style="margin-bottom:15px;"><a href="competitions/mega-bingo.aspx">Bingo Competitions</a></li>
+
                     <li><a href="articles/free-online-bingo">Free Online Bingo</a></li>
                     <li><a href="articles/online-bingo">Online Bingo</a></li>
-                    <li><a href="articles/play-bingo">Play Bingo</a></li>                                  
+                    <li><a href="articles/play-bingo">Play Bingo</a></li>
                 </ul>
             </div>
 
@@ -555,13 +562,14 @@
                     <li><a href="refer-a-friend.aspx">Refer a Friend</a></li>
                     <li><a href="http://www.bingoreward.co.uk/?affid=184" target="_blank">Affiliates</a></li>            
                     <li><a href="sitemap.aspx">Sitemap</a></li>
+                    <li><a href="faq.aspx#uninstall">Uninstall</a></li>
                 </ul>
             </div>   
                                  
             <div id="footer_bottom">
                 <img src="App_Themes/site/images/logo_itechlabs.gif" alt="iTech Labs">&nbsp;<img src="App_Themes/site/images/logo_verisign.gif" alt="VeriSign">&nbsp;<img src="App_Themes/site/images/logo_18.gif" alt="No under 18s" class="noborder">&nbsp;<img src="App_Themes/site/images/logo_usa.gif" alt="We Do Not Accept USA Players" class="noborder">&nbsp;<img src="App_Themes/site/images/logo_safe.gif" alt="Certified Safe Download">&nbsp;<img src="App_Themes/site/images/logo_leapfrog.gif" alt="Leapfrog Gaming" border="0">
-                <p>                     
-                     Copyright 2011 King Jackpot – Play <a href="http://www.kingjackpot.co.uk/" class="">free bingo</a> today with no deposit required!
+                <p>                                          
+                     ©2012 King Jackpot – Play free no deposit bingo games today! Visit our sister sites at <a href="http://www.bingoliner.co.uk/">Bingo Liner UK</a> and <a href="http://www.bingocafe.co.uk/">Bingo Café UK</a> also.
                 </p>                
             </div>
         </div>
