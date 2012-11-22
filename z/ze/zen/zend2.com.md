@@ -1,31 +1,44 @@
-> *The following text is extracted and transformed from the zend2.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504114101id_/http%3A//www.zend2.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zend2.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122140637id_/http%3A//zend2.com/disclaimer.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Online Anonymous Proxy
 
-Our service may collect information about you during your visit. This document describes the information we collect and how it is used.
+This service is provided as is, without warranty of any kind. Use of this service is entirely at your own risk. We cannot take responsibility for any direct or indirect damages resulting from the use of this service.
 
-**Server Access Logs**
+The service allows indirect browsing of external, third-party websites. We are not responsible for the content on any external websites that may be accessible through our service. A website viewed through our service is in no way owned by or associated with this website.
 
-Our server logs all requests. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We may also collate this data for statistical purposes.
+The term "indirect browsing" refers to the server which you connect to. During "direct" browsing, you connect to the server which provides the resource you are requesting. During "indirect" browsing, you connect to our server. Our script downloads the requested resource and forwards it to you.
 
-**Service Logs**
+Any resource (such as web pages, images, files) downloaded through our service may be modified. This may include, but is not limited to, editing URLs so that any resources referenced by the target resource are also downloaded indirectly. The accuracy and reliablity of this process is not guaranteed. The resource which you receive may not be an accurate representation of the resource requested.
 
-The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. Any violations of our terms of use may result in disclosure of the data recorded in our logs to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed. We may also use service logs for stastical purposes.
+A side-effect of indirect browsing may be anonymity. By connecting to our server instead of the target server, the target server does not see your IP address. However, we do not guarantee our service will be truly anonymous. The downloaded resource may reference other resources which your browser may automatically download. The service attempts to reroute all such requests through our server but may not be entirely successful. A single direct request will compromise your anonymity.
 
-**Cookies**
+This service may download a resource over a secure connection but this may be sent back to you over an unsecure connection. Do not enter confidential information unless you are on a secure connection to our server.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+## Privacy Policy
 
-Our website stores a cookie on your computer, if allowed by your browser's privacy settings *. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin[at]]zend2.com. 
 
-We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
+At www.zend2.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.zend2.com and how it is used. 
 
-The service we provide allows indirect browsing of third-party websites. A third-party website may attempt to send cookies to the user. We store these cookies on our server and automatically forward them onto the target server. Your cookie data is treated strictly confidentially, stored privately and deleted soon after you leave our website. If you would prefer us not to store your cookies, please disable the "Allow Cookies" option.
+**Log Files**  
+Like many other Web sites, www.zend2.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
+**Cookies and Web Beacons**  
+www.zend2.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-* For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
+**DoubleClick DART Cookie**
 
-Back to the [Homepage](https://web.archive.org/web/20120504114101id_/http%3A//www.zend2.com/index.php)
+.:: Google, as a third party vendor, uses cookies to serve ads on www.zend2.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.zend2.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.zend2.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+www.zend2.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.zend2.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
