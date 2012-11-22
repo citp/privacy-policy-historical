@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apartmentlist.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309024105id_/http%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentlist.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122144808id_/http%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
 
-# Apartment List | Privacy Policy
+# Privacy Policy Apartment List
 
 Welcome to the ApartmentList website, located at apartmentlist.com. Company operates the Site and other associated services and offerings (collectively, the "Service"), and makes it available to you subject to the following terms and conditions of service (the "Terms"). This statement governs information you provide to us or that we learn from you and other users of the Service (collectively, "Users") through use of the Service, and describes how we may collect, use, and disclose this information.
 
@@ -72,7 +72,7 @@ If Company learns of a security systems breach, then we may attempt to notify yo
 
 ##  Special Note to International Users 
 
-The Service is hosted in the United States, and all or a portion of the Service may also be hosted on the “cloud”, or other similar distributed hosting platform. If you are a User accessing the Service from the European Union, Asia, or any other region with laws governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data outside your home jurisidiction, including the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to Company’s use of your personal data for the uses identified above in accordance with the Privacy Policy; and the transfer of your personal data to the United States and other jurisdictions as indicated above. 
+The Service is hosted in the United States, and all or a portion of the Service may also be hosted on the “cloud”, or other similar distributed hosting platform. If you are a User accessing the Service from the European Union, Asia, or any other region with laws governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data outside your home jurisdiction, including the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to Company’s use of your personal data for the uses identified above in accordance with the Privacy Policy; and the transfer of your personal data to the United States and other jurisdictions as indicated above. 
 
 ##  Changes and Updates to this Privacy Policy 
 
