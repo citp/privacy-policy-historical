@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525042323id_/http%3A//www.usacarry.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122231015id_/http%3A//www.usacarry.com/privacy-policy.html) for the most accurate reproduction.*
 
 # USA Carry Privacy Policy
 
@@ -32,4 +32,4 @@ There may be times when we need to change the terms of this Privacy Policy. To e
 ****
 
 **How can you access the information we have collected from you?**  
-Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email.
+Visitors who wish to access or change the information they provided to our Web site, should visit the [Support section of this site](http://www.usacarry.com/support/ "USA Carry Support") and contact us via support ticket.
