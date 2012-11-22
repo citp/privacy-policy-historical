@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luckyshare.net privacy policy that was archived on 2012-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120421162956id_/http%3A//luckyshare.net/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luckyshare.net privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122112303id_/http%3A//luckyshare.net/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><style>ul.nav_top li a, .last {border-radius:3px 3px 3px 3px; -moz-border-radius:3px 3px 3px 3px;}ul.nav_top li a, .last {-webkit-border-top-left-radius:3px 3px; -webkit-border-top-right-radius:3px 3px; -webkit-border-bottom-right-radius:3px 3px; -webkit-border-bottom-left-radius:3px 3px;}.container_tools, .container_payments, .block_website, .container_files, .sidebar_files_l, .sidebar_files_r, .container_dushboard, .jScrollPaneTrack, .block_white_round {border-radius:5px 5px 5px 5px; -moz-border-radius:5px 5px 5px 5px;}.container_tools, .container_payments, .block_website, .container_files, .sidebar_files_l, .sidebar_files_r, .container_dushboard, .jScrollPaneTrack, .block_white_round {-webkit-border-top-left-radius:5px 5px; -webkit-border-top-right-radius:5px 5px; -webkit-border-bottom-right-radius:5px 5px; -webkit-border-bottom-left-radius:5px 5px;}.table_left_pd div, .table_left div, .table_left_mm div {border-radius:0px 5px 5px 0px; -moz-border-radius:0px 5px 5px 0px;}.table_left_pd div, .table_left div, .table_left_mm div {-webkit-border-top-left-radius:0px 0px; -webkit-border-top-right-radius:5px 5px; -webkit-border-bottom-right-radius:5px 5px; -webkit-border-bottom-left-radius:0px 0px;}</style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -31,8 +31,11 @@ $(document).ready(function() {
 
 	$('.jquerybuttonme').button();
 	
-	$('a[name=modal]').click(function(e) {
+	$('a[name=modal1]').click(function(e) {
 		e.preventDefault();
+		if (typeof formFromDialog !== 'undefined') {
+			formFromDialog = 1;
+		}
 		var id = $(this).attr('href');
 		var maskHeight = $(document).height();
 		var maskWidth = $(window).width();
@@ -91,9 +94,9 @@ $(document).ready(function() {
 
 	<div class="top_out">
 		<div class="top_in">
-			<h1 class="logo"><a href="http://luckyshare.net"><img src="/images/v2/logo.png" width="203" height="33" alt="logo" class="iePNG"></a></h1>
+			<h1 class="logo"><a href="/"><img src="/images/v2/logo.png" width="203" height="33" alt="logo" class="iePNG"></a></h1>
 			<div class="top_r">
-									<span><a href="#dialog" name="modal">Login</a></span>
+									<span><a href="/auth/login">Login</a></span>
 					<span><a href="/auth/signup">Sign Up</a></span>
 							
 				<div class="boxes">
@@ -103,8 +106,8 @@ $(document).ready(function() {
 						<div class="form_content">
 							<form enctype="application/x-www-form-urlencoded" method="post" action="/auth/login" name="form_login" class="form_login">
 
-								<input name="username" type="text" value="Username" class="username">
-								<input name="password" type="password" value="Password" class="pass">
+								<input name="username" type="text" value="Username" class="username" onfocus="if (this.value == 'Username') { this.value=''; }" onblur="if (this.value == '') { this.value='Username'; }">
+								<input name="password" type="password" value="Password" class="pass" onfocus="if (this.value == 'Password') { this.value=''; }" onblur="if (this.value == '') { this.value='Password'; }">
 								<br>
 								<table width="100%" border="0" cellspacing="0" cellpadding="0">
 									<tbody><tr>
@@ -139,7 +142,7 @@ $(document).ready(function() {
 			<li><a href="/"><cufon class="cufon cufon-canvas" alt="Home" style="width: 36px; height: 18px;"><canvas width="41" height="19" style="width: 41px; height: 19px; top: 0px; left: 0px;"></canvas><cufontext>Home</cufontext></cufon></a></li>
 			<li><a href="/news"><cufon class="cufon cufon-canvas" alt="News" style="width: 34px; height: 18px;"><canvas width="39" height="19" style="width: 39px; height: 19px; top: 0px; left: 0px;"></canvas><cufontext>News</cufontext></cufon></a></li>
 			<li><a href="/premium"><cufon class="cufon cufon-canvas" alt="Premium" style="width: 57px; height: 18px;"><canvas width="58" height="19" style="width: 58px; height: 19px; top: 0px; left: 0px;"></canvas><cufontext>Premium</cufontext></cufon></a></li>
-			<li><a href="/earn"><cufon class="cufon cufon-canvas" alt="Make " style="width: 36px; height: 18px;"><canvas width="45" height="19" style="width: 45px; height: 19px; top: 0px; left: 0px;"></canvas><cufontext>Make </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Money" style="width: 40px; height: 18px;"><canvas width="46" height="19" style="width: 46px; height: 19px; top: 0px; left: 0px;"></canvas><cufontext>Money</cufontext></cufon></a></li>
+ 			<li><a href="/earn"><cufon class="cufon cufon-canvas" alt="Affiliate" style="width: 49px; height: 18px;"><canvas width="54" height="19" style="width: 54px; height: 19px; top: 0px; left: 0px;"></canvas><cufontext>Affiliate</cufontext></cufon></a></li>
 			<li><a href="mailto:support@luckyshare.net"><cufon class="cufon cufon-canvas" alt="Support" style="width: 51px; height: 18px;"><canvas width="58" height="19" style="width: 58px; height: 19px; top: 0px; left: 0px;"></canvas><cufontext>Support</cufontext></cufon></a></li>
 		</ul>
 	</div><!--/nav_top_out-->
