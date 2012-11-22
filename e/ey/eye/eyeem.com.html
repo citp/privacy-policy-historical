@@ -1,0 +1,412 @@
+<!--The following is the downloaded HTML source of the eyeem.com privacy policy that was archived on 2012-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122151330id_/http%3A//eyeem.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link href="/css/fontface.css" media="screen" type="text/css" rel="stylesheet">
+<meta charset="utf-8">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="title" content="Terms of service - EyeEm">
+<meta name="description" content="EyeEm is a photo-sharing and discovery app that connects people through the photos they take. Snap a photo and see where it takes you! It's free.">
+<title>Terms of service - EyeEm</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/eyeem.c.css?1353506161">
+<meta content="EyeEm" property="og:title">
+<meta content="website" property="og:type">
+<meta content="EyeEm" property="og:site_name">
+<meta content="http://eyeem.com" property="og:url">
+<meta content="http://www.eyeem.com/thumb/610/5000/b8562b5f238f4399a471c1e4d1a7c941c19fc682-1333449946" property="og:image">
+<meta content="EyeEm is a photo-sharing and discovery app that connects people through the photos they take. Snap a photo and see where it takes you! It's free." property="og:description">
+<meta content="138146182878222" property="fb:app_id">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12590370-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="">
+  <div id="fb-root">
+  <!-- you must include this div for the JS SDK to load properly -->
+</div>
+<script>
+  var onBoardPerm = true;
+  window.fbAsyncInit = function() {
+    FB.init({
+    
+      appId      : '138146182878222', // App ID
+      channelUrl : 'http://www.eyeem.com/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+    FB.getLoginStatus(function(response) {
+    if (response.status === 'connected') {
+      // the user is logged in and has authenticated your
+      // app, and response.authResponse supplies
+      // the user's ID, a valid access token, a signed
+      // request, and the time the access token 
+      // and signed request each expire
+       
+        $('.login_facebook').show();
+        window.location.reload();
+        onBoardPerm = false;
+            var uid = response.authResponse.userID;
+      var accessToken = response.authResponse.accessToken;
+    } else if (response.status === 'not_authorized') {
+      // the user is logged in to Facebook, 
+      // but has not authenticated your app
+    } else {
+      // the user isn't logged in to Facebook.
+    }
+   });
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>     
+  <div id="page">
+        <div id="header">
+      <div name="top" class="top_bar"><div class="top_bar-inner">
+  <div class="top_bar_content norm_fonts">
+    <div class="top_bar_left left">
+      <div class="homelink">
+      	<a href="/">
+          <img src="/images/layout2/topbar_logo2.png">
+      	</a>
+      </div>
+      <div class="start_menu h6">      
+        <ul class="menu_items">
+      		<li>
+      		  <a class="eyeem-action-button" href="/discover">
+      		    <span>Discover</span>
+      		  </a>
+      		</li>
+      		<li class="top_friends ">
+      		  <a class="eyeem-action-button" href="/friends">
+      		    <span>Friends</span>
+      		  </a>	
+      		</li>
+      		<li>
+      		  <a href="/popular">
+      		    <span>Popular</span>
+      		  </a>		
+      		</li>
+      	</ul>
+    	</div>
+    
+      <div class="search_box">
+      	<form action="/search" method="get" enctype="application/x-www-form-urlencoded">
+          <input type="text" name="query" class="extralight search_form_query" placeholder="SEARCH" id="query">      	  <input class="search_form_submit" type="submit" value="">
+      	</form>
+      </div>
+    </div> <!-- left -->
+    
+    <div class="top_bar_right right">
+          <div class="top_menus extralight p3">
+          
+        <div class="top_menu about_menu ">
+    		  <a class="top_menu_button about_box smooth_hover" data-box="more_box" href="/about">
+    				<span class="about_name">More</span>
+    		    <img class="more_triangle" src="/images/layout2/topbar_triangle.png">
+    		  </a>
+        </div>  
+          
+        <div class="top_bar_separator"></div>
+          
+                <div class="top_menu user_menu">
+    		  <a class="user_login smooth_hover eyeem_theater_button" data-theater="viewport-theater-login" href="/login">
+    				<span class="">Login</span>
+    		  </a>
+        </div>
+                      
+        <div id="fb_menu" class="facebook_menu ">
+    		  <a class="top_menu_button facebook_box smooth_hover" data-box="fb_box" href="javascript:void(0)">
+    				<div class="facebook_name"><img class="smooth" src="/images/layout2/like.png"><span class="smooth_hover">Like<span></span></span></div>
+    		  </a>
+        </div>  
+        
+        
+      </div> 
+
+    </div><!-- right -->
+      
+    
+  </div>
+</div></div>
+      <div class="top_bar_back"></div>
+    </div> <!-- /#header -->
+    <div id="content">
+      <div class="about_section no-grid-resize">
+        <div class="about_left_menu">
+	  <ul class="">
+  		<li class="blog_link ">
+  		  <a href="http://blog.eyeem.com" target="_blank">
+  		    <img src="/images/about/blog_triangle.jpeg"><span>Blog</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/about">
+  		  <a href="javascript:void(0)">
+  		    <span>What is EyeEm?</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/app">
+  		  <a href="javascript:void(0)">
+  		    <span>Get the App</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/help">
+  		  <a href="javascript:void(0)">
+  		    <span>Help &amp; Support</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/team">
+  		  <a href="javascript:void(0)">
+  		    <span>Team</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/careers">
+  		  <a href="javascript:void(0)">
+  		    <span>Careers</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/press">
+  		  <a href="javascript:void(0)">
+  		    <span>Press</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/terms">
+  		  <a href="javascript:void(0)">
+  		    <span>Terms of Service</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle active" data-url="http://www.eyeem.com/privacy">
+  		  <a href="javascript:void(0)">
+  		    <span>Privacy &amp; Rights</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/developers">
+  		  <a href="javascript:void(0)">
+  		    <span>For Developers</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/meetups">
+  		  <a href="javascript:void(0)">
+  		    <span>Meetups</span>
+  		  </a>
+  		</li>
+  		<li class="page-toggle " data-url="http://www.eyeem.com/contact">
+  		  <a href="javascript:void(0)">
+  		    <span>Contact</span>
+  		  </a>
+  		</li>
+  		<li class="pointer">
+  		  <img src="/images/about/menutriangle.png">
+  		</li>
+	  </ul>
+</div>          <div class="about_content privacy_content">
+    <div class="about_head">
+      <div class="head_up">
+        <h2>Privacy &amp; Rights</h2>
+        <div class="separator">
+        </div>
+        <h1>Really important stuff</h1>
+      </div>
+      <div class="head_down">
+        <div class="p1">At EyeEm we respect &amp; protect your image rights.</div>
+        <div class="p1">By using our service you'll always remain the copyright holder of your images, your information is safe with us and we won't do anything with your photos or data without asking for your permission.</div>
+        <div class="p1">Please read the following policy carefully, if you aren't a lawyer we've included some notes to help you make sense of it.</div>
+      </div>
+    </div>
+    <div class="about_body">
+    
+    
+    
+    
+      <div class="section">
+        <h5>Your privacy</h5>
+        <p class="p3">At EyeEm, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all EyeEm websites.</p>
+        <p class="p3">EyeEm is a photo sharing community which provides you with an easy way to post and share photos online, and add meaningful metadata and comments to photos. You do not need to be registered to search or view public photos on EyeEm, however you must be a registered member of EyeEm to post.</p>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">Your privacy is very important to us. You’re free to come and go as you like, but you must register to get the best out of EyeEm.</p>
+      </div>
+      <div class="section">
+        <h5>Information We May Collect</h5>
+        <p class="p3">We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.</p>
+        <p class="p3">We also may collect other types of information in the following ways when you visit our website:</p>
+        <p class="p3">Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.<br>
+We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
+</p>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">We collect data to make EyeEm easy to use and a meaningful experience to you.</p>
+      </div>
+      <div class="section">
+        <h5>Information Others May Collect</h5>
+        <p class="p3">We may allow third-party advertising companies or ad networks to display advertisements on our websites. We do not provide any personal information to these companies.These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.<br>
+If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+</p>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">We do not sell your information to anyone. However, please be aware that EyeEm is an open website and anyone can see what you’re posting.</p>
+      </div>
+      <div class="section">
+        <h5>How We May Use Information We Collect</h5>
+        <p class="p3">We may use information to:</p>
+        <ul class="p3">
+          <li>Fulfill your requests for products and services;</li>
+          <li>Offer products and services that may be of interest to you;</li>
+          <li>Process payment for products or services you order via our website;</li>
+          <li>Customize the advertising and content that you see on our website;</li>
+          <li>Facilitate use of our website;</li>
+          <li>Manage your account and your preferences;</li>
+          <li>Analyze use of and improve our website, products and services;</li>
+          <li>Identify and protect against fraudulent transactions and other misuses of our website; and</li>
+          <li>Enforce our Terms of Use.</li>
+        </ul>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">We may use data to improve the website’s performance and make it better and easier to use for you.</p>
+      </div>
+      <div class="section">
+        <h5>Your Choices</h5>
+        <p class="p3">You may choose:</p>
+        <ul class="p3">
+          <li>Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;</li>
+          <li>To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;</li>
+          <li>To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;</li>
+          <li>To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.</li>
+        </ul>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">You’re free to choose what to share, but your experience of the site may be limited.</p>
+      </div>
+      
+      <div class="section">
+        <h5>Security</h5>
+        <p class="p3">We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.</p>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">We do our best to keep your information safe.</p>
+      </div>
+      
+      <div class="section">
+        <h5>Changes to Our Privacy Policy</h5>
+        <p class="p3">We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.</p>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">Our privacy policy may change one day. If so, we’ll let you know.</p>
+      </div>
+      <div class="section">
+        <h5>Analytics</h5>
+        <p class="p3">This website uses Google Analytics, a web analytics service provided by Google, Inc. (Google). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your truncated IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">We use Google Analytics to get an insight in the way our website is used. If you do not wish this data to be collected, you can disable the cookies in your browser settings.</p>
+      </div>
+      <div class="section">
+        <h5>How to Contact Us</h5>
+        <p class="p3">If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:</p>
+      </div>
+      <div class="section">
+        <h5>EyeEm Mobile GmbH</h5>
+        <p class="p3">Brunnenstrasse 9a</p>
+        <p class="p3">10119 Berlin, Germany</p><br>
+        <p class="p3">privacy@eyeem.com</p>
+        <p class="p3">© 2012 EyeEm Mobile GmbH. All rights reserved.</p>
+      </div>
+      <div class="section non_lawyer">
+        <p class="p2">For non-lawyers: </p>
+        <p class="p2 bold">Get in touch with us if you have any questions. We’ll do our best to help you.</p>
+      </div>
+
+    
+    
+    
+    </div>
+  </div><!-- about_content -->
+
+        <div class="background_texture"></div>
+      </div>
+    </div> <!-- /#content -->
+  </div> <!-- /#page -->
+    <div class="drop_down_boxes">
+  		  <div class="menu_box hidden" id="fb_box">
+    		  <img class="arrow" src="/images/layout2/fb_triangle.png">
+    		  <div class="fb-like-box" data-href="http://www.facebook.com/EYEEM" data-width="182" data-height="350" data-show-faces="true" data-stream="false" data-header="false"></div>
+  		  </div>
+
+  		  <div class="menu_box hidden" id="more_box">
+  		  
+    		  <ul>
+            <img class="bg" src="/images/layout2/moretop.png">
+        		<li><a class="smooth_hover" href="http://blog.eyeem.com" target="_blank"><span>Blog</span></a><div class="separator"></div></li>
+        		<li><a class="smooth_hover" href="/about"><span>What is EyeEm?</span></a><div class="separator"></div></li>
+        		<li><a class="smooth_hover" href="/app"><span>Get the App</span></a><div class="separator"></div></li>
+        		<li><a class="smooth_hover" href="/help"><span>Help &amp; Support</span></a><div class="separator"></div></li>
+        		<li><a class="smooth_hover" href="/about"><span>More...</span></a></li>
+    		  </ul>
+  		  
+  		  </div>
+  		  
+  		  
+  		  <div class="menu_box hidden" id="user_box">
+  		      		  </div>
+  		  
+  </div>
+  
+      <div class="theater second_layer login_theater" data-load-callback="loadLoginTheater()" id="viewport-theater-login">
+    <div class="content">
+      <a class="cancel" href="javascript:void(0)"><img src="/images/layout2/theater_close.png"></a>
+      <div class="content-inner" data-load-url="/login/theater">
+        <!-- content to later inserted (via js) here. -->
+      </div>
+      <br class="clear-flow" style="clear:both">
+    </div>
+  </div>     
+    
+  <script type="text/javascript">
+    var app_url = 'http://www.eyeem.com/';
+var authenticated = false;
+var isiPad = navigator.userAgent.match(/iPad/i) != null
+;  </script>
+
+  <script type="text/javascript" src="/js/eyeem.c.js?1353506161"></script>
+<script type="text/javascript" src="/js/plugins/web-map-lite/web-maps-lite.js?v=b"></script>
+<script type="text/javascript" src="/js/photo.js?v=b"></script>
+<script type="text/javascript" src="/js/album-theater.js?v=b"></script>
+
+  <script type="text/javascript">
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/fr_CA/all.js#xfbml=1&appId=138146182878222";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+
+</body></html>
