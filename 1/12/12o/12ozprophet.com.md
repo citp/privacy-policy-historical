@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621013058id_/http%3A//www.12ozprophet.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122090133id_/http%3A//www.12ozprophet.com/privacy) for the most accurate reproduction.*
 
 # 12ozProphet.com - The Source for Graffiti, Streetart, Style and Culture - Privacy Policy
-
-[](http://www.12ozprophet.com/?ACT=91&ad_id=3 "12oz_banner_3")
 
 **Worldwide Graffiti Scholarship ™**
 
