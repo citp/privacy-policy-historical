@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornypharaoh.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625181412id_/http%3A//www.hornypharaoh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornypharaoh.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122230059id_/http%3A//www.hornypharaoh.com/privacy.php) for the most accurate reproduction.*
 
 # Free Porn Movies & Sex Videos - XXX, Porn Site, Sex Chat
 
