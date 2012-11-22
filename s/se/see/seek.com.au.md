@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617221235id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122132518id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -18,7 +18,7 @@ SEEK's web servers gather your IP address to assist with the diagnosis of proble
 
 SEEK uses cookies to provide you with a better experience. These cookies and applets allow you to use specific services such as Job Mail (an alert service which emails your chosen jobs), Application Tracker (to manage your SEEK job applications), to remember who you are for Auto Login if you choose this option and to remember your last search criteria for My Last Search. 
 
-Users who do not wish to receive cookies can instruct their web browsers to refuse them. However, doing so will prevent access to some areas of the site and limit your use of some of the SEEK services.
+Users who do not wish to have cookies active whilst they browse the Site can "opt out" by following the instructions on this [page](http://www.google.com/ads/preferences/plugin/browsers.html). However, doing so will prevent access to some areas of the Site and limit your use of some of the SEEK services.
 
 ###  Third Party Measurement
 
@@ -94,7 +94,7 @@ SEEK takes all reasonable steps to ensure the security of our system. SEEK allow
 
 In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by SEEK. However, SEEK will not be held responsible for events arising from unauthorised access of your personal information. 
 
-You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the SEEK site. Please [notify us immediately](mailto:usersupport@seek.com.au) if there is any unauthorised use of your account by any other Internet user or any other breach of security.
+You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the SEEK site. Please [notify us immediately](mailto:userhelp@seek.com.au) if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
 ##  Access to Your Information
 
@@ -126,7 +126,7 @@ From time to time, SEEK may review and update its privacy statement. Revised ver
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with SEEK, you can contact us in the following ways: 
 
-  1. Email: [ usersupport@seek.com.au](mailto:usersupport@seek.com.au)
+  1. Email: [ userhelp@seek.com.au](mailto:userhelp@seek.com.au)
   2. Telephone: +61 03 9510 7200
   3. Post: User Help Desk  
 SEEK Limited  
