@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629114226id_/http%3A//www.readersdigest.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123074606id_/http%3A//www.readersdigest.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -31,7 +31,10 @@ If you have any questions regarding any matters related to your privacy, or if y
 
 **FOR NEW ZEALAND RESIDENTS**  
 Customer Service Office,  
-Reader's Digest (New Zealand) Limited,  
-PO Box 90490  
-Victoria Street West  
-AUCKLAND MSC 1142
+Reader's Digest (New Zealand) Limited,
+
+PO Box 90489
+
+Victoria Street West
+
+Auckland 1142
