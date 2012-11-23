@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629085420id_/http%3A//www.kenmore.com/shc/s/nb_10154_12604_NB_PrivacyPolicy%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123221530id_/http%3A//www.kenmore.com/privacypolicy/nb-100000000410504%3FadCell%3DWF) for the most accurate reproduction.*
 
 # Kenmore
 
@@ -11,7 +11,7 @@
   * Can I Disable Cookies?
   * How Do We Handle Personally Identifiable Information Collected on Children?
   * What About Links to Other Sites?
-  * What About Online Advertisements?
+  * What About Interest Based Ads - Online Advertisements?
   * Is My Information Secure?
   * How Can I Access My Information?
   * Can I “Opt-Out” of Receiving Promotional E-mails?
@@ -59,7 +59,7 @@ Back to top
 
 #### How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click [here](https://web.archive.org/shc/s/nb_10154_12604_NB_ChildrensPrivacyPolicy?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Please click [here](https://web.archive.org/childrensprivacypolicy/nb-100000000410505?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
 
   * Collection of children’s personal information
   * Use of children’s personal information
@@ -78,17 +78,17 @@ This Site may contain links to other Sites outside the Sears Holdings family of 
 
 Back to top
 
-#### What About Online Advertisements?
+#### What About Interest-Based Ads - Online Advertisements?
 
 **Our Sites**
 
-This Site may carry advertisements from other companies. Some of these advertisements may be personalized, meaning that they are intended to be relevant to you based, for example, on commercial interests you have expressed in your online activities. You may opt-out of receiving this type of targeted advertising by visiting the Network Advertising Initiative’s (NAI) opt-out page [here](http://www.networkadvertising.org/managing/opt_out.asp). You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies. Please note that if you delete your cookies, use another computer, or change browsers, you will need to repeat this process. In addition, opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests.
+This Site may carry advertisements from other companies. Some of these advertisements may be personalized, meaning that they are intended to be relevant to you based on what we or the online advertising network serving the ad know about you or your computer's browsing activity, for example, anonymous information collected across multiple websites that you visit may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. You may opt-out of receiving this type of targeted advertising by visiting the Network Advertising Initiative's (NAI) opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>. You may also visit <http://www.aboutads.info/consumers/> to learn about interest-based ads and how to opt-out from interest-based ads served by some or all participating companies. Please note that if you delete your cookies, use another computer, or change browsers, you will need to repeat this process. In addition, opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests.
 
 **Other Web Sites**
 
-We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [here](http://www.networkadvertising.org/managing/opt_out.asp).
+We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20121123221530id_/http%3A//www.kenmore.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp)
 
-The Network Advertising Initiative offers useful information about Internet advertising companies, including information about how to opt-out of personalized advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit [http://www.aboutads.info/consumers/](http://www.networkadvertising.org/managing/opt_out.asp) to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
 Back to top
 
