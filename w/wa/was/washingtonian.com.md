@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the washingtonian.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615212805id_/http%3A//www.washingtonian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonian.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123092055id_/http%3A//www.washingtonian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Washingtonian
+# Privacy Policy | Washingtonian
 
 Washingtonian.com may use personally identifiable information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. This privacy policy pertains to information collected when you subscribe to Washingtonian magazine and visit the Washingtonian.com site.
 
