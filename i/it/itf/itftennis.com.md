@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the itftennis.com privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719202140id_/http%3A//www.itftennis.com/abouttheitf/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itftennis.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123214543id_/http%3A//www.itftennis.com/about/help/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ITF Tennis - About the ITF - Privacy Policy
+# ITF Tennis - About
 
-The following provides detail about our Privacy Policy.   
+The following provides detail about our Privacy Policy.
+
 We treat your privacy seriously.
 
 _Notice: This policy only applies to web sites run by ITF and not to the companies, individuals, organisations or other web sites to which there are links._
 
-**Consent**
+**Consent  
+**
 
-Your use of this web site signifies your consent to us collecting and using personal information about you as specified below in accordance with this Policy. Should we choose to change our Policy for any reason, the changes will be posted here, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it. 
+Your use of this web site signifies your consent to us collecting and using personal information about you as specified below in accordance with this Policy. Should we choose to change our Policy for any reason, the changes will be posted here, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it.
 
 **How Do We Collect Information About You And How Is It Used?**
 
@@ -31,7 +33,7 @@ We may use personal information collected about you to personalise your visits t
 
 We may use personal information collected about you to let you know about functionality changes to our web site or changes to our terms and conditions of use.
 
-Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our [feedback form](http://www.itftennis.com/abouttheitf/feedback.asp?userid=8).
+Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our feedback form.
 
 **Traffic Data**
 
