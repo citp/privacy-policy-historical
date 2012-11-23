@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513221004id_/http%3A//www.borland.com/us/website/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123071027id_/http%3A//borland.com/about/legal/Privacy.aspx) for the most accurate reproduction.*
 
-# Borland Privacy Policy
+# Open & Agile Requirement, Test & Change Management solutions - Borland
 
 ## (Effective Date: November 24, 2009)
 
@@ -14,7 +14,7 @@ We do revise and update our privacy practices from time to time. In general, we 
 
  _Entities collecting personal information_
 
-Personal information on this Site is collected by Borland Software Corporation, who is responsible for this site. Borland Software Corporation’s address is 700 King Farm Blvd, suite 400, Rockville, MD 20850 USA. For more details please see: <http://www.microfocus.com/aboutmicrofocus/contact/hq.asp>
+Personal information on this Site is collected by Borland Software Corporation, who is responsible for this site. Borland Software Corporation’s address is 700 King Farm Blvd, suite 400, Rockville, MD 20850 USA. For more details please see: <http://www.borland.com/contact/>
 
 The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
 
@@ -24,10 +24,10 @@ You have the right to correct your personal information and privacy preferences 
 
 Personal information submitted through this Site or in connection with the Products and Services is not accessible online. To update or correct such information and privacy preferences (such as whether you wish to receive promotional communications), you may write Borland at:
 
-Borland Software Corporation  
-Privacy Officer/Customer Information  
-700 King Farm Blvd Suite 400  
-Rockville, MD 20850  
+Borland Software Corporation   
+Privacy Officer/Customer Information   
+700 King Farm Blvd Suite 400   
+Rockville, MD 20850   
 USA
 
 ### Your Privacy
