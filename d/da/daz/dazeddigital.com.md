@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524205855id_/http%3A//www.dazeddigital.com/info/article/826/1/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085759id_/http%3A//www.dazeddigital.com/info/article/826/1/Privacy_Policy) for the most accurate reproduction.*
 
-# Dazed Digital | Privacy Policy
-
-[Info](https://web.archive.org/web/20120524205855id_/http://www.dazeddigital.com/info)
-
-Published 30 months ago 
-
-
-
+# Privacy Policy | Dazed Digital
 
 This policy explains how Dazed Digital uses personal information which we collecti from you. It also explains how we use cookies.
 
