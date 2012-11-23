@@ -1,64 +1,167 @@
-> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025125737id_/http%3A//www.harryanddavid.com/gifts/store/view____custserv-security.html%23policy%3Fcmp_sp%3Dbotnav-_-privacy-_-07jan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123190835id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.*
 
-# Customer Service | Security and Privacy
+# Customer Service | Privacy Policy
 
-Effective: November 23, 2004
+## Privacy Policy
 
-**Information Collection  
-Visitors  
-**In general, you can view our web pages without telling us who you are or revealing any personal information about yourself. We may track IP addresses to analyze trends, administer the site, track online usage, and gather broad information for aggregate use. IP addresses are not linked to personally identifiable information. 
+Effective: July 18, 2012
 
-**Cookies  
-**A cookie is a piece of data stored on your hard drive that contains information about your computer. Cookies may also be used to enable us to track and target your interests, for the purpose of enhancing your experience on our site. If you reject the cookie, you may still browse our site, however you will not be able to purchase or have access to all our services such as order history, address book, My Giftlist™, etc.
+Harry & David and all of our brands recognize that your privacy is important to you and are committed to maintaining and using your information responsibly. Our privacy policy describes the information we collect and how we use it. 
 
-We use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: <http://www.doubleclick.net/us/corporate/privacy>
+For privacy-related issues, please contact us at:
 
-To help us conduct our business and deliver the most relevant products and services available, we gather and analyze information about our customers (among other things, by using cookies). If you would like to deactivate our ability to analyze your browsing, [click here](https://web.archive.org/web/20071025125737id_/http%3A//www.harryanddavid.com/gifts/store/view____web-cookies.html).  
+**Harry & David**: 
+
+Call:
+    1-877-322-1200
+
+Fax:
+    1-800-648-6640
+
+Mail:
+     Harry & David  
+Attn: Internet Services Department  
+2500 S Pacific HWY  
+PO Box 9100  
+Medford, OR 97501-2675 
+
+**Wolferman’s** : 
+
+Call:
+    1-800-798-6241
+
+Fax:
+    1-800-999-7548
+
+Mail:
+     Wolferman's  
+Attn: Internet Services Department  
+2500 S Pacific HWY  
+PO Box 9100  
+Medford, OR 97501-0700 
+
+**Cushman’s Fruit Company** : 
+
+Call:
+    1-800-776-7575
+
+Fax:
+    1-800-776-4329
+
+Mail:
+     Cushman’s Fruit Company  
+Attn: Internet Services Department  
+2500 S Pacific HWY  
+PO Box 9100  
+Medford, OR 97501-0700 
+
+Our toll-free customer service lines are available 24 hours, 7 days a week (subject to change) 
+
+By providing personal information through this Website you explicitly agree to our collection and use of all such information as described in this privacy policy. You agree that we may use the personal information you provide to respond to your inquiries, process orders, contact you regarding customer service, let you know about products or services which may be of interest to you or to personalize our service to meet your needs or preferences. This may involve sharing certain information with affiliated companies or third parties. You also agree that we may share your personal information with our affiliated companies and third parties as described in this Privacy Policy. You further agree that the information you provide is current, accurate and complete and that you will update it if there are any changes. 
+
+### Information We Collect
+
+We may collect information (including name, address, telephone number, email address, IP address, user name, password, answer to security questions, information about your company or business, name and contact information about gift recipients, and, when necessary, date of birth and credit card and/or other payment/ordering information) when you: 
+
+  * Place an order from our catalogs or on our Websites
+  * Make a purchase at one of our retail stores
+  * Return an item or make an exchange
+  * Inquire about our services or products
+  * Subscribe to receive communications from us via email or register for an account on our Websites
+  * Join the Harry & David Preferred Customer Program
+  * Participate in one of our surveys, contests or other marketing events
+  * Are referred to us though a marketing promotion or third-party business relationship
+  * Request one of our catalogs 
+  * Are sent our products as a gift 
+  * Enroll in our Affiliate Program 
+  * Submit information for employment consideration 
 
 
-**Registration  
-**To enjoy all of the services of HarryandDavid.com, including a quicker checkout, access to order history and a personalized address book, you must first complete our online registration form.
 
-**Product Orders/Catalog Requests  
-**If you place an order or request a catalog from Harryanddavid.com, we require that you provide certain information on our online order form(s). For orders, we request you provide contact information (including your name, address, telephone number and email address, and the name and shipping address of the recipient) and financial information (including credit card number and expiration date and coupon code, if any). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, this contact information is used to get in touch with you.
+We also may gather information about how visitors navigate through our Websites by using clickstream data gathered with “cookies” and/or other online tools such as “pixel tags.” See Cookies for further information. 
 
-**Surveys and Contests  
-**From time-to-time we may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level, etc.). We will use contact information to notify the winners and award prizes. Survey information will assist us in improving our products and services, and in providing you with an enjoyable shopping experience. None of the information from a survey is used on an individual basis. All information is compiled into statistical groupings only and is not retained for any other use.
+### Using the Information We Collect
 
-If you call or correspond with our customer service center, we will request information from you as well. The information requested depends upon the purpose of your contact, but is likely to include your name, billing address, email address, the name and shipping address of the recipient, financial information such as your credit card number and expiration date, and the order number and date.
+The use of your information is subject to the privacy policy and terms of use in effect at the time you use this Website. We collect information that allows us, among other things, to: 
 
-**Information and Use  
-**Harryanddavid.com is the sole owner of any information we collect from you. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Our primary use of the information you provide us is for billing purposes and to fill your orders. In addition however, for your convenience we also may use the information to provide other services including the following:
+  * Send you catalogs and newsletters and/or communicate promotional offers that may be of interest to you about all of our Harry & David brands or third parties 
+  * Process and fill your orders 
+  * Contact you regarding the processing of your order 
+  * Improve our products and services 
+  * Send a catalog to a gift recipient 
 
-**"Remember Me" Service  
-**Our "Remember Me" service allows a registered member access to their personal account features without having to log in each time they visit. When a visitor registers with us and chooses this option, we'll remember their information. If you select this service, log-in to our site is automatic; you'll have access to your account information when you return to our site. In order to register for this service, a visitor's browser must be configured to accept cookies. You can shop at Harryanddavid.com without registering for this service.
 
-**My Giftlist™**  
-Your online Giftlist is a private, secure listing of your past orders, including the products you ordered previously, along with the names and addresses of your recipients.
 
-**Order History  
-**You can view a secure listing of your current and past orders, as well as current shipment status.
+We may use aggregated data that does not identify you personally for any purposes, including without limitation, research, commercial purposes or improving our Websites. We may use your email address to contact you to respond to your inquiries, to provide notices to you or to give you information about our products or services. 
 
-**Address Book  
-**Online convenience — a handy reference that stores all the names and addresses of the important people in your life, saving you time when it's time to send them gifts.
+### Information We Share with Others
 
-**Sharing of Information  
-**We may occasionally partner with another party to provide specific services for us, such as providing credit card processing, shipping or promotional services. We will only provide contact information necessary for the third party to provide these services for us. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. We also ask these partners to confirm that their privacy practices are consistent with ours.
+We may partner with another party to provide specific services for us, such as credit card processing, shipping, promotional or other support services. We will provide contact or other information necessary for the third party to provide these services for us. These parties are generally not allowed to use personally identifiable information except for the purpose of providing these services. 
 
-We may occasionally share our customer mailing list with select companies that provide goods or services we think might interest you. The information we provide may include your name and mailing address. If you prefer that we not share this information, please click [here](https://web.archive.org/web/20071025125737id_/http%3A//www.harryanddavid.com/gifts/store/contact-us____) to send us an email or write to us at the address provided below, requesting to be removed from the list.
+We may share customer information with our affiliated companies. We may also share and cross-reference our customer information with other companies that provide goods or services that may be of interest to you. If you prefer that we not share this information, please follow the instructions in Your Choices below. 
 
-We may send a catalog to you or to a recipient to whom you sent a gift. If you or your recipient do not want to receive our catalog, please click [here](https://web.archive.org/web/20071025125737id_/http%3A//www.harryanddavid.com/gifts/store/contact-us____) to send us an email or write to us at the address provided below requesting to be removed from that list. Please allow up to 8 weeks for us to update our lists.
+We may share personally identifiable information with unaffiliated third parties if (1) you request or authorize it, (2) the information is provided to help complete a transaction for you, (3) the information is provided to comply with the law, applicable regulations, court orders or subpoenas, to enforce our Terms of Use or other agreements, or to protect our rights, property or safety, or the rights, property or safety of our users or others, (4) the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that we sell assets to another party, customer information may be one of the transferred assets), (5) the information is provided to our agents, outside vendors or service providers to perform functions on our behalf, (6) the third parties provide goods or services that we believe may be of interest to you, or (7) the information is provided to such third parties as otherwise described in this privacy policy. 
 
-**Email Communications  
-**We may email you to communicate with you about your Internet, telephone and mail orders. You may also receive occasional email communications regarding our site, partner offers, special offers or services, products or newsletters. You may choose to stop receiving these emails at any time. Information on how to opt out of receiving email is provided with every marketing email, or you may click [here](https://web.archive.org/web/20071025125737id_/http%3A//www.harryanddavid.com/gifts/store/contact-us____) to contact us or write us at the address provided below. Please be sure to include your email address, full name, and specifically what type of information you do not want to receive.
+### Your Choices
 
-**Changing or Deleting Information  
-**You may change any contact information you have provided us by accessing the Account Services section located on the My Account tab at the top of each Web page or by writing us at the address provided below.
+**Remove Your Name From Our Lists At Any Time**
 
-**Links  
-**Harryanddavid.com may occasionally contain links to other sites. Please be aware that Harryanddavid.com is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+If you prefer not to receive catalogs or other communications from Harry & David or one of our brands via U.S. mail or telephone, please email Customer Service or contact us at the address shown above. 
 
-**Notification of Changes  
-**If we ever change our privacy policy, we will post those changes on our Customer Service page. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will not do so without first notifying you of the changes and providing you with the ability to opt out of these different uses. Please contact us at [service@harryanddavid.com](mailto:service@harryanddavid.com) or Harry and David Customer Service, P.O. Box 712, Medford, Oregon, 97501 with any questions or comments about our privacy policy. 
+Because customer communications are often prepared well in advance of deployment (sometimes several months before the communication is made), you may continue to receive some communications after you send us a request not to use your information. We appreciate your patience during this time. 
 
-[](https://web.archive.org/web/20071025125737id_/http%3A//www.harryanddavid.com/gifts/store/home____)
+If you no longer wish to receive email communications from us regarding our Websites, partner offers, special offers or services, products, and/or newsletters, you may choose to stop receiving these emails at any time. Information on how to opt out of receiving marketing email is provided in every email, or you may email Customer Service, or you may write us at the address provided above. Please be sure to include your full name, email address, and specifically what type of information you do not want to receive. If you opt out of receiving marketing email, we will continue to send you emails regarding order confirmation and shipment notification when you place an order with us. 
+
+Please Note: If you are a member of the Harry & David Preferred Customer Program and you opt out of receiving communications via email, this may reduce or eliminate the offers and other promotional benefits you receive as a Preferred Customer. 
+
+**Your California Rights**
+
+Harry & David and our brands may disclose your personal information to third parties for their use in marketing to you unless you tell us not to. In order to opt out of such sharing or for further information, please write to us at Harry & David, PO Box 712, Medford, OR 97501. Please be sure to include your full name, address, email address and specifically what type of information you do not want to receive. Please allow up to 6 to 8 weeks to process your request from the date of receipt. 
+
+### Cookies
+
+A cookie is a piece of data stored on your hard drive that contains information about your computer. Cookies may be used to enable us to track and target your interests for the purpose of enhancing your experience on our Websites. Some cookies are deleted once you leave our Website (“Session cookies”) while other cookies remain after your leave our Website (“Persistent cookies”) so that you are recognized when you return to the Website. We may use persistent cookies to enable us to provide services to you, including, “Remember Me,” order history, address book, My Giftlist, etc. If you would like to deactivate our ability to analyze your browsing activity, please email Customer Service. If you reject certain cookies, you may still browse our Website; however, you may not be able to purchase or have access to all of our services. 
+
+We may use third-party service providers to serve ads on our behalf across the Internet and sometimes on this Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services. This information is collected through the use of pixel tags or cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/>. 
+
+### Changing or Deleting Information
+
+To update your customer information, please either email Customer Service, contact us at the address above, or, if you have registered for an Account on our Website, you may also update your customer information by accessing the Account Services section located on the My Account tab at the top of our Web page. You can direct us to remove your name from our lists by following the instructions in Your Choices above. 
+
+For your security you will be asked to provide certain information to identify yourself before we will accept changes to your information. To help us more effectively respond to any request by you with regard to use of your customer information, we ask that you contact us personally (e.g. via your email address as listed in our customer records or via a letter signed by you) rather than utilizing a third party to do so. If we receive a request from a third party regarding, or requesting a change in, use of your customer information, we reserve the right, in our sole discretion, to not grant the request from such third party (unless required to do so by law) and/or to require that you personally confirm the third party request. 
+
+### Sweepstakes
+
+From time to time we may offer promotions, contests or sweepstakes on our Website. If you choose to participate we may collect information including your name, address, age, telephone number, email address or other contact information. We may also request other information some of which may be optional. Participation is subject to the Official Rules governing that promotion. The information may be used to conduct the promotion and for other business purposes which may include marketing and may be shared with our affiliates, vendors, or third parties in accordance with this privacy policy and the Official Rules. 
+
+### Child Privacy
+
+Our Websites are not designed to appeal to minors, and you are required to be 18 years of age in order to use this Website or provide information to us. Therefore we do not knowingly attempt to solicit or receive any information from children under 18. 
+
+### Security
+
+We use encryption technologies when transferring and receiving data from you through our Websites. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you. Because data transmission over the internet is never 100% secure we cannot guarantee the security of any information you transmit to us or from our Websites and therefore you use our Websites at your own risk. 
+
+You play a significant role in protecting your information. After you register on our Website you are responsible for protecting the security of your user name and password. You are responsible for any transaction made using your user name and password. 
+
+If you need to communicate with us regarding your credit card or other payment information please contact us by mail at the address above. 
+
+We are not responsible for maintaining the confidentiality of any non-public information that you provide us or post on the Website. If there is information that you wish to protect from disclosure to others, please do not provide it to us. 
+
+### Links to Other Sites
+
+Our Website may contain links to other sites over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. We encourage you to review the privacy policy at any site you visit. 
+
+### Notification of Changes
+
+The use of your information is subject to the privacy policy in effect at the time of use. We may amend this privacy policy from time to time. We post the current effective date of this policy at the top of the policy. Changes to the policy will be posted in the revised privacy policy with a new effective date on our Websites. We encourage you to review our privacy policy periodically, because by visiting our Website you agree to accept any such changes. 
+
+### Website Terms of Use
+
+This privacy policy is part of our Terms of Use. Any dispute over privacy is subject to this Privacy Policy and our Terms of Use. 
+
+### Questions or Comments?
+
+This Website is owned by Harry & David. For questions, comments, or assistance, we invite you to write us at the address provided above or contact us. 
+
+©2012, Harry and David, LLC. All rights reserved.
