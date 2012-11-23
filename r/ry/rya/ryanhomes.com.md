@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523150705id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123062048id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ryan Homes
 
@@ -36,3 +36,8 @@ Understanding more about you so we can personalize newsletters and websites to y
 Our general practice is not to sell or rent our customers’ personal information to third-parties for marketing purposes although we reserve the right to do so.
 
 We may share your personal information with our affiliated companies (NVR Mortgage, NVHomes, Rymarc Homes and Fox Ridge Homes) for the purpose of providing current or future products or services to you.
+
+#####  Social Media Policies
+
+Laundry Love Facebook Sweeptstakes: [Click here to view official rules](https://web.archive.org/OfficialRules-LaundryLoveSweepstakes).   
+Pet-tacular Halloween Contest: [Click here to view official rules](https://web.archive.org/Official_Rules_Pet-tacular_Halloween_Contest-1).
