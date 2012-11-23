@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525073529id_/http%3A//www.foe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123214527id_/http%3A//www.foe.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
