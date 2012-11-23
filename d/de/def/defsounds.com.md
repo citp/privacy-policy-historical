@@ -1,24 +1,32 @@
-> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405150959id_/http%3A//www.defsounds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123091645id_/http%3A//www.defsounds.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Defsounds — Your #1 Hip Hop News Magazine
+# Privacy Policy
 
-## General Policy
+Defsounds.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
-At Defsounds.com we value your privacy. We hold absolutely no personal information about our visitors unless provided. We only collect IP addresses for security reasons and they are only for internal use. An email address is required for registration. We do not and will not sell any personal information provided by you to anyone. Here are some tips on how to protect your privacy while browsing the internet:   
-[12 Ways To Protect Your Online Privacy](http://www.eff.org/Privacy/eff_privacy_top_12.html)
+**Information Automatically Logged**  
+We use your IP address to help diagnose problems with our server and to administer our Web site.
 
-## What information does Defsounds.com collect?
+**Cookies**  
+Our Site uses cookies to make sure you don’t see the same ad repeatedly, and, if you are a member, to keep you logged in.
 
-Defsounds.com only collects information given by the user. In order to participate in discussions on our [forums](http://forums.defsounds.com/) and post comments on articles, a valid email address is required. This email address will never be sold or given to any third party and will never be visible on our website. Any other information is optional and is to build the public user profile and will be publicly visible. 
+**Advertisers**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.networkadvertising.org/managing/opt_out.asp).
 
-## What is my information used for?
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
-Your email address is stored so that we can provide support in case that you lose your login information. Currently, we do not do any mass mailings. If we ever start doing mass mailings we will make it strictly opt-in. 
+**Contests**  
+We run contests on our site in which we ask visitors for contact information (like email address). Contact information from the contests is used to get in touch with the visitor when necessary.
 
-Any other information is optional and used in your public profile. 
+**External Links**  
+This site contains links to other sites. Defsounds.com is not responsible for the privacy practices or the content of such Web sites.
 
-## With whom is my information shared with?
+**Public Forums**  
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Defsounds.com does not share your information with anyone, however it is important that you use discretion when revealing personal identifiable information when posting article comments or taking in part in our forums as it may be collected and use by an unknown and unauthorized third party. Such activities are beyond our control. 
+**Data Quality/Access**  
+This site gives users the following options for changing and modifying information previously provided: You can send email to [**sescoops@gmail.com**](mailto:sescoops@gmail.com).
 
-Please feel free to [contact us](https://web.archive.org/contact) with any questions regarding our privacy policy. 
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact email ****[**sescoops@gmail.com**](mailto:sescoops@gmail.com).
