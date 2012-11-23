@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195934id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123084656id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
 
 # F.B. Purity - Privacy Policy - Fluff Busting Purity Cleans Your FB Homepage
 
@@ -11,6 +11,10 @@
 The F.B. Purity extension/script itself does not record or track any information about your Facebook usage.
 
 This web server (www.fbpurity.com) along with all other web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+
+### Mailing List
+
+If you sign up for The FB Purity News mailing list, your email address will only be used to send you FB Purity related news, it wont be sold or given to any third parties. The mailing list is run via Google's Feedburner service, if you wish to unsubscribe you can do it simply by following the instructions on any email that you receive via the service.
 
 ### Cookies and Web Beacons
 
@@ -28,10 +32,10 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ### Adware / Spyware / Phishing
 
-F.B. Purity does not install any Adware, Spyware or Toolbars onto your computer, and it also does not ask you for your Facebook username or password.
+F.B. Purity is [completely safe](http://www.fbpurity.com/reviews.htm), and does not install any Adware, Spyware or Toolbars onto your computer, and it also does not ask you for your Facebook username or password.
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20120524195934id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
+Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20121123084656id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
 
 **Terms and Conditions** : _Use FBP at your own risk, it comes with no warranty or guarantee, neither explicit or implicit towards functionality or usability. The author shall not be held liable for any damage or loss of data caused by use of this script. By downloading and installing the Fluff Busting Purity script, you agree to these terms._
