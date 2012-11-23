@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomprofit.info privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629065209id_/http%3A//www.zoomprofit.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomprofit.info privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124003559id_/http%3A//www.zoomprofit.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZoomProfit.Info
 
@@ -28,12 +28,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Popularity: 2%
-
 #### Incoming search terms for the article:
 
   * [google and user information for profit](http://www.zoomprofit.info/privacy-policy/ "google and user information for profit") (1)
 
 
-
-No related posts.
