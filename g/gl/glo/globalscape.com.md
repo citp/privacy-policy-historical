@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525011053id_/http%3A//www.globalscape.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123214002id_/http%3A//www.globalscape.com/privacy.aspx) for the most accurate reproduction.*
 
-# GlobalSCAPE - Privacy Policy
+# Globalscape - Privacy Policy
 
 We want you to know that we take your privacy seriously. We collect industry standard information to help us provide you with better software and services as described below. 
 
@@ -11,7 +11,7 @@ We use your name and other personal information to identify you as a registered 
 
 We use your credit card billing information only to obtain payment for our software. We may use your personal information to enter you in contests, such as sweepstakes, that we hold from time to time. 
 
-You can correct factual errors in your personal information or remove your personal information by submitting a request using this [form](https://web.archive.org/support/customerservice.aspx). 
+You can correct factual errors in your personal information or remove your personal information by submitting a request using this [form](https://web.archive.org/contact.aspx). 
 
 **Web Visit**  
 When you visit our Web site, our server logs your IP address, the time and duration of your visit, and the time and duration of the pages on our Web site that you view. 
@@ -35,10 +35,10 @@ Web visit information is used to generate aggregate statistical data that we use
 **Sharing of Information with Third Parties**  
 We will not disclose your personal information except as follows: 
 
-  * To protect GlobalSCAPE and others. We may release personal information and IP addresses when we believe release is appropriate to comply with the law, to enforce our software licenses and other rights, or to protect the rights and safety of others. This may include exchanging information with law enforcement agencies, or with other companies and organizations for fraud protection and credit risk reduction.
+  * To protect Globalscape and others. We may release personal information and IP addresses when we believe release is appropriate to comply with the law, to enforce our software licenses and other rights, or to protect the rights and safety of others. This may include exchanging information with law enforcement agencies, or with other companies and organizations for fraud protection and credit risk reduction.
   * To persons who help us provide our products and services to you. We may provide personal and other information to third parties who work for us, such as companies that verify credit card information, process credit card payments, fulfill orders, provide customer service, analyze customer data, remove repetitive information from customer lists, and provide marketing services. We do not permit these persons to use this information for any other purpose.
   * As part of a sale of our assets or a merger of our company. We may in the future sell all or part of our assets or be involved in a merger. It is customary for user information to be included with the transferred assets in these types of transactions.
-  * To the Bureau of Export Administration. We are required by law to furnish a report to the United States Bureau of Export Administration stating the names and addresses of all non-U.S. businesses or organizations (but not individual consumers) who purchase online or register any of our software that contains an encryption feature. This includes CuteFTP Pro, the GlobalSCAPE Secure FTP Server, and CuteZIP.
+  * To the Bureau of Export Administration. We are required by law to furnish a report to the United States Bureau of Export Administration stating the names and addresses of all non-U.S. businesses or organizations (but not individual consumers) who purchase online or register any of our software that contains an encryption feature. This includes CuteFTP Pro, the Globalscape Secure FTP Server, and CuteZIP.
 
 
 
@@ -53,6 +53,3 @@ Your credit card information is encrypted before transmission over the Internet 
 
 **Children's Online Privacy Protection  
 **Neither our Web sites nor our products are designed for or directed to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13. 
-
-**Contact Information**   
-If you have a concern about your privacy, please [Contact Us](https://web.archive.org/company/contact.aspx). 
