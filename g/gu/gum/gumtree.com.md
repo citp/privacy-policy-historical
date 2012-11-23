@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517085733id_/http%3A//www.gumtree.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123053027id_/http%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
 
-# Jobs, Cars, Property, Free Classifieds and More - Gumtree.com
+# Privacy policy | Gumtree.com
 
-## Gumtree Privacy Policy
-
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, registered in England and Wales with number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective January 1st, 2009. You can find the old Privacy Policy [here](https://web.archive.org/privacy_policy_2008.html). 
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Gumtree website ('Gumtree') work and to keep it safe (details below). In formal terms, Gumtree.com Limited, 5 New Street Square, London EC4A 3TW, registered in England and Wales with number 3934849, acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective 22 May 2012. You can find the old Privacy Policy [here](http://www.gumtree.com/privacy_policy_2008.html).
 
 ## Collection
 
@@ -31,32 +29,59 @@ We use users' personal information to:
 
 ## Disclosure
 
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety (for example, if you submit false contact details or impersonate another person, we may pass your personal information to any aggrieved third party, their agent or to any law enforcement agency). We may also share personal information with:
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates others' rights, or protect anyone's rights, property, or safety (for example, if you submit false contact details or impersonate another person, we may pass your personal information to any aggrieved third party, their agent or to any law enforcement agency). We may also share personal information with:
 
   * Members of the eBay Inc. corporate family - like eBay or PayPal - to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services 
   * Service providers who help with our business operations.
 
 
 
-## Cookies (last updated 17 December 2009)
+## Cookies
 
-We or our service providers may place "cookies" (a "cookie" is a small files placed on the hard drive of your computer) and 'web beacons' (a 'web beacon' is an electronic image, called a single-pixel or clear GIF placed in the web page code) on your computer when you visit portions of Gumtree. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session, for example, when you close your browser. We may use permanent or session cookies to help analyse our web page flow; customise our services, content and advertising; measure promotional effectiveness, and promote trust and safety. We offer certain features that are available only through the use of cookies. You can block our cookies by changing the settings on your browser (Find out more about [Accepting and Deleting Cookies](https://web.archive.org/accepting_deleting_cookies.html), but doing so may prevent us from delivering certain services to you. Find out more about why we use cookies, see [Cookies, Web Beacons, and Your Privacy](https://web.archive.org/cookies_beacons.html). 
+Our website uses cookies, web beacons, and third-parties to provide you with services that support your buying and selling activities within our online marketplace. To protect your privacy, use of these tools is limited. For more information on our privacy practices, see our [Privacy policy](http://www.gumtree.com/privacy_policy).
 
-You may encounter cookies from third parties on certain pages of the site that we do not control. We sometimes work with service providers who may place cookies on your computer to collect anonymous information about how you use websites owned by Gumtree and its affiliates. This information allows them to help us customize our content and advertising. We do not allow these companies to collect any personal information about you using these cookies. 
+## About cookies
+
+Cookies are small files placed on the hard drive of your computer. Gumtree uses both persistent/permanent and session cookies to provide services to you and help ensure account security. Most cookies are 'session cookies', meaning that they are automatically deleted from your hard drive once you end your session (log out or close your browser). 
+
+## Gumtree uses cookies on certain pages of the website to:
+
+  * Enable you to enter your password less frequently during a session.
+  * Provide information that is targeted to your interests.
+  * Promote and enforce trust and safety.
+  * Offer certain features that are only available through the use of cookies.
+  * Measure promotional effectiveness.
+  * Analyse our site traffic.
+
+
+
+## Cookies we use for trust and safety
+
+Gumtree uses cookies, to help ensure that your account security is not compromised and to spot irregularities in behaviour to prevent your account from being fraudulently taken over.
+
+## Your choices about cookies
+
+We offer certain features that are only available through the use of a cookie. You're always free to decline cookies if your browser permits. However, if you decline cookies, you may not be able to use certain features on the website, and you may be required to re-enter your password more frequently during a session.
+
+## Web beacons
+
+A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF placed in the web page code. Web beacons serve many of the same purposes as cookies. In addition, web beacons are used to track the traffic patterns of users from one page to another in order to maximise web traffic flow.
+
+## Use of cookies and web beacons by third parties
+
+We may work with other companies who place cookies or web beacons on our websites. These service providers help operate our websites, by for example compiling anonymous site metrics and analytics. We require these companies to use the information they collect only to provide us with these services under contract, and not for their own purposes.
+
+Our service providers who use cookies to help us deliver our advertising are members of the [Internet Advertising Bureau's Online Choices framework](http://www.youronlinechoices.com/uk/). This framework allows users to decline participation in cookie based online advertising. We require our service providers to use the information they collect only to provide us with these services under contract.
+
+We don't permit third-party content on Gumtree (such as item listings) to include cookies or web beacons. If you believe a listing might be collecting personal information or using cookies, please report it to [safety@gumtree.com](mailto:safety@gumtree.com).
 
 ## Using Information from Gumtree
 
 You may use personal information gathered from Gumtree only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn't agreed to that.
 
-## Communications and email tools
+## Marketing
 
-You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following the directions provided with the communication. 
-
-You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we don't permanently store your friends' addresses or use or disclose them for marketing purposes. To report spam from other users, please contact us [here](https://web.archive.org/cgi-bin/help.pl?f=6&s=14).
-
-## Access, Modification, and Deletion
-
-You can see, modify or erase your personal information by reviewing your posting or account status page. Contact us here to review any personal information we store that is not available on Gumtree. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back. 
+If you do not wish to receive marketing communications from us, you can simply email us at any time.
 
 ## Security
 
@@ -64,6 +89,4 @@ We use many tools to protect your personal information against unauthorized acce
 
 ## General
 
-We may update this policy at any time, with updates taking effect when you next post or 30 days after we post the updated policy on the site, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. If you have any questions about this policy please contact us [here](https://web.archive.org/cgi-bin/help.pl?f=6&s=14). 
-
-Privacy Policy updated 17 December 2008
+We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, and this other company shall be entitled to share your personal information with other companies but at all times otherwise respecting your personal information in accordance with this policy.
