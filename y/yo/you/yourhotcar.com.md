@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106225535id_/http%3A//www.yourhotcar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123045321id_/http%3A//www.yourhotcar.com/privacy.html) for the most accurate reproduction.*
 
-# - Buy
+# Crown Victoria - Buy Ford Crown Victoria
 
 **YourHotCar.com** has created this privacy statement in order to demonstrate the firm commitment to the privacy of visitors and customers. The following discloses the information gathering and dissemination practices for the website: **YourHotCar.com**
 
