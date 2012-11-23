@@ -1,93 +1,38 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516013610id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123222637id_/http%3A//www.nationwide.co.uk/privacy) for the most accurate reproduction.*
 
 # About Nationwide - Membership matters - Cookie and privacy policy
 
-## Cookie and privacy policy
+Cookie and privacy policy
 
-Nationwide Building Society will only collect, process and store information about you that 
+## Privacy and cookies on our websites
 
-  * we have openly collected from you or 
-  * we have openly collected from you with your consent 
-  * in addition to this we do log your IP address which is automatically recognised by our Web Server
+This policy refers to the privacy of your information when you access any of Nationwide’s websites.
 
+### Information about you
 
+We collect personal information about you when you apply for products or carry out transactions with us on our websites. If you use our secure services we will ask you to provide some information about yourself for security, identification and verification purposes. When completing any online forms, we will tell you how your information will be used in relation to the product or service you are applying for within the form.
 
-We will only collect information that is relevant to providing our online service.
+We will only collect information that is relevant to providing our online services. We will keep your information as long as permitted for our legitimate business purposes and for any retention period that we are legally required to meet. We may sometimes need to transfer your information to third parties who provide services to us, on the understanding that they keep the information confidential and use it only for our agreed purposes.
 
-We will keep your information while you have a relationship with us and for any retention period that we are legally required to meet.
+When you use our secure services, all information, including messages, are protected by encryption while in transit across the Internet. If you use standard e-mail for communications with Nationwide, information will not be protected in the same way and you should be aware that we cannot guarantee that it remains confidential whilst in transit. All e-mail sent to Nationwide will be monitored and checked to ensure our systems operate effectively.
 
-If, to provide this service, we need to transfer your information to another company, we will tell you.
+For more details on how Nationwide uses your information, please follow this link:
 
-When you sign on to our Internet Bank, all information, including messages, are protected by encryption while in transit across the Internet.
+[How Nationwide uses your information.](https://web.archive.org/about_nationwide/cookie_and_privacy_policy/personal_information.htm)
 
-If you use standard e-mail for communication with Nationwide, information will not be protected in the same way and you should be aware that Nationwide cannot guarantee that it remains confidential whilst in transit.
+### Cookies
 
-All e-mail sent to Nationwide will be monitored and checked to ensure our systems operate effectively.
+A cookie is a small text file that contains data, placed on your computer or device by our website each time you visit it. The data contained within these tiny files are read each time your web browser requests a page from our web server and provides practical benefits to you by making access to our website a smoother experience than it otherwise would be.
 
-_This privacy policy only covers the Nationwide branded websites. Links within this site to external websites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home page of this site and not by individual written communication._
+When you use any of our websites, we log your Internet Protocol (IP) address, which is used by our web server to set up the link between your computer/device and ours. This doesn’t involve collecting any of your personal information (ie name, address, etc) and is used simply to ensure that you can get access to the website pages you need. 
 
-[ How Nationwide uses your information.](https://web.archive.org/about_nationwide/membership_matters/cookie_and_privacy_policy/personal_information.htm)
+[Find out more about how Nationwide uses cookies](https://web.archive.org/about_nationwide/cookie_and_privacy_policy/cookies_we_use.htm)
 
-**Cookies**
+### Security
 
-A cookie is a small piece of data sent by our computer to yours so that information can be recalled.
+Find out how we keep your information secure and how you can protect your own information online in our full [security section](http://www.nationwide.co.uk/internetbanking/onlinesecurity/onlinesecurity.htm)
 
-A cookie is stored by your web browser in a text file on your computer with the word 'cookie' in its name. Each time your web browser requests a page from our web server, the cookie's message is sent back. Only Nationwide's web server may read the contents of a cookie you accept from us.
-
-Nationwide uses cookies in the following ways:
-
-  * one of our security measures to ensure your Internet Banking session is secure. This is a non-persistent cookie while you are signed on to the Internet Bank 
-  * to store your Customer Number so that you don't have to type it in each time you sign on to the Internet Bank
-
-
-
-_You are offered this cookie on the Internet Banking sign on page._
-
-  * to track how users reach our site and the path they take through it to help us to improve our service to you
-
-
-
-_When we use a cookie for this purpose, we do not record any information that will uniquely identify you. We put together the information from a very large number of users of our website to give us an overall picture of how people visit our site._
-
-  * we use a third party to enable Nationwide to monitor and analyse traffic to, from and within our website. Cookies are used as part of this process
-
-
-
-_Again no information will be recorded that uniquely identifies you._
-
-  * from time to time we may wish to record personal information about you using cookies
-
-
-
-You may choose to set your browser to not accept any cookies. Please be aware that in doing this, our Internet Bank will not operate correctly.
-
-For more information about cookies, please visit this website <http://www.aboutcookies.org/>.
-
-Find out more about how Nationwide keeps your account secure on our [Security site](https://web.archive.org/internetbanking/default.htm).
-
-**Definitions**
-
-**Browser or Web Browser**
-
-There are many web browsers but the most common ones are Microsoft Internet Explorer and Mozilla Firefox. 
-
-Web browsers are used to locate and display web pages. 
-
-**IP (Internet Protocol)**
-
-All networks connected to the Internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one computer to another and that the messages are understood.
-
-**IP Address**
-
-When you are connected to the Internet you have an IP address. It may look something like this - 198.184.98.9.
-
-If you are a dial-up customer using an analogue modem or ISDN, your IP address will usually change each time you connect to the Internet. This means that you cannot be uniquely identified by your IP address.
-
-**Web Server**
-
-The computer which sends web pages to your computer.
-
-Back to top
+‘Nationwide’ refers to Nationwide Building Society, its trading divisions, subsidiary companies, and any limited liability partnerships of which it is a member. These include Derbyshire Building Society, Cheshire Building Society, Dunfermline Building Society, Nationwide International Ltd, Nationwide UK (Ireland), , The Mortgage Works (UK) plc, Derbyshire Home Loans Ltd, and UCB Home Loans Corporation Ltd.
 
   
 
