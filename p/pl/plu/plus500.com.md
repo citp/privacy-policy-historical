@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the plus500.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618050433id_/http%3A//www.plus500.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus500.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090312id_/http%3A//www.plus500.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Plus500 | Privacy and Cookie Policy
 
-This website is operated by PLUS500UK LTD ("we, us or our").  It is our policy to respect the confidentiality of information and the privacy of individuals.  We are also bound by principles contained in the Data Protection Act 1998 and the EU e-Privacy Directive.  This Privacy Policy Statement outlines how we manage and protect the personal information you give us and hold about our customers ("The Policy").  By visiting our website and using our services your agreement to this Policy is implied.
+## Statement on Privacy and Cookie Policy
+
+This website is operated by Plus500 Ltd ("we, us or our").  It is our policy to respect the confidentiality of information and the privacy of individuals.  We are also bound by principles contained in the Data Protection Act 1998 and the EU e-Privacy Directive.  This Privacy Policy Statement outlines how we manage and protect the personal information you give us and hold about our customers ("The Policy").  By visiting our website and using our services your agreement to this Policy is implied.
 
 This Policy will be reviewed from time to time to take account of changes to our operations or practices and, further, to make sure it remains appropriate to any changes in law, technology and the business environment.  Any information held will be governed by our most current Policy.
 
