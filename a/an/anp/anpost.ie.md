@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anpost.ie privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502163833id_/http%3A//www.anpost.ie/AnPost/Web%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anpost.ie privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123015822id_/http%3A//www.anpost.ie/AnPost/Web%2BPolicy.htm) for the most accurate reproduction.*
 
 # Web Policy
 
@@ -55,20 +55,31 @@ Except in relation to certain specific features of this website, you do not have
 
 > **Web browsing**  
 >  By simply visiting our website you do not disclose, nor do we collect, personal data on you. All that we may know about your visit may be limited to technical data such as:
->
->> 1. the logical address (or IP address) of the server you used to access this website  
-> 2. the top level domain name from which you access the internet (for example .ie, .com, .org, .net)  
-> 3. the previous website address from which you reached us  
-> 4. the type of web-browser you used  
-> 5. web traffic data. 
->> 
->> The technical data shall be used for administrative and statistical purposes and may be shared with our internet service provider. We will use this information to help us to improve our website.  This technical data does not provide us with the personal data of visitors to our website.
->> 
->>  **Analytic software, tracking usage of the An Post website**  
->  An Post uses analytical software to measure visits to the An Post website. This software captures technical, non personal detail, allowing us to analyse how visitors use the site. The Analytical software uses ‘Cookies’, which are text files placed on your computer, to collect standard internet log information and visitor behaviour in an anonymous form.
->> 
->>  **Cookies**  
->  Parts of An Post's website use cookies to improve the visitor experience. We do not use cookies to collect or store personal information. You can change the settings on your browser to refuse all cookies. However, you should note that disabling cookies may result in some parts of the site not working efficiently or in slower downloads.
+> 
+>     1. the logical address (or IP address) of the server you used to access this website  
+> 
+> 
+>     2. the top level domain name from which you access the internet (for example .ie, .com, .org, .net)  
+> 
+> 
+>     3. the previous website address from which you reached us  
+> 
+> 
+>     4. the type of web-browser you used
+> 
+>     5. the type of device you are using to access the web. 
+> 
+
+> 
+> The technical data shall be used for administrative and statistical purposes and may be shared with our internet service provider. We will use this information to help us to improve our website.  This technical data does not provide us with the personal data of visitors to our website.
+> 
+>  **Analytic software, tracking usage of the An Post website**  
+>  An Post uses analytical software (Google Analytics) to measure visits to the An Post website. This software captures technical, non personal detail, allowing us to analyse how visitors use the site. The Analytical software uses ‘Cookies’, which are text files placed on your computer, to collect standard internet log information and visitor behaviour in an anonymous form.
+> 
+>  **Cookies**  
+>  Parts of An Post's website use cookies to improve the visitor experience. We do not use cookies to collect or store personal information. 
+> 
+> You can change the settings on your [web browser](http://www.anpost.ie/AnPost/GeneralTemplates/GeneralPosting.aspx?NRMODE=Published&NRNODEGUID=%7bC7185F0E-7EE1-45D1-A305-A8C8DF8AF48F%7d&NRORIGINALURL=%2fAnPost%2fWeb%2bPolicy%2ehtm&NRCACHEHINT=Guest#browser "What is a web browser?") to refuse all cookies. However, you should note that disabling cookies may result in some parts of the site not working efficiently or in slower downloads. 
 
 > **Giving us your personal information**  
 >  Please note that where you provide us with your personal information (e.g. name, e-mail address, work address, phone and facsimile numbers and/or other contact information), through a facility provided on this website or directly to us by e-mail, you consent to us:
@@ -107,9 +118,19 @@ An Post trusts that you appreciate we respect your right to privacy and that our
 
 **IP address:** The identifying details for your computer (or your internet company's computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made. 
 
-**personal data:** means information about you which can identify you and which is within the possession of An Post (e.g. your name and address)
+**personal data:** means information about you which can identify you and which is within the possession of An Post (e.g. your name and address) 
 
-**web browser:** The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator, Firefox and Opera. 
+**web browser:** The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Google Chrome, Firefox and Safari. 
 
+Microsoft   
+Internet Explorer | Google Chrome | Firefox | Safari  
+---|---|---|---  
+  
+| 
 
+| 
 
+|   
+  
+
+|  |  | 
