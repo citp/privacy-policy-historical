@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site4loans.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604060536id_/http%3A//www.site4loans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site4loans.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123034744id_/http%3A//www.site4loans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Loan Payment Protection, Loan Insurance, Loan Payment Cover & Claims
 
