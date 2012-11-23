@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629230435id_/http%3A//www.skinit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinit.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123023507id_/http%3A//www.skinit.com/privacy) for the most accurate reproduction.*
 
-# Custom Phone Covers, Phone Cases & Skins For Electronics | Skinit
+# iPhone 5 Cases, Custom Phone Covers & Skins For Electronics | Skinit
 
 ##  Privacy Policy 
 
