@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wufoo.eu privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216021815id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wufoo.eu privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123233645id_/http%3A//wufoo.eu/privacy) for the most accurate reproduction.*
 
 # Wufoo · Privacy Policy
 
@@ -37,23 +37,13 @@ Our computer systems are currently based in the United States, so your personal 
 
 ### Privacy Complaints by European Union Citizens
 
-In compliance with the Safe Harbor Principles, Infinity Box commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Infinity Box at:
-
-[privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at:
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Infinity Box commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Infinity Box at [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at:
 
 **Stuart Loh , Attorney**  
 285 Hamilton Avenue, Suite 500  
 Palo Alto, CA 94301
 
-Infinity Box has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your business name), you may contact:
-
-**Council of Better Business Bureaus, Inc.**   
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us](http://www.bbb.org/us)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+Infinity Box has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Infinity Box, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Cookies
 
@@ -83,6 +73,6 @@ Infinity Box may periodically update this policy. We will notify you about signi
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at: Infinity Box, Inc., 12157 W. Linebaugh Ave., PMB 327 Tampa, FL 33626 USA.
+Any questions about this Privacy Policy should be addressed to [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at: **Stuart Loh , Attorney** 285 Hamilton Avenue, Suite 500, Palo Alto, CA 94301
 
-**Updated :** December 7th, 2011 
+**Updated :** June 18th, 2012 
