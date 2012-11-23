@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the twistynoodle.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081906id_/http%3A//twistynoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistynoodle.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085642id_/http%3A//twistynoodle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Twisty Noodle
 
 ##  Introduction
 
 Twisty Noodle,LLC and its subsidiaries and affiliates (collectively “Twisty Noodle” or “we”) respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us online.
+
+  
+
 
 ##  What does this Privacy Policy apply to?
 
@@ -14,9 +17,15 @@ Please note that this Privacy Policy applies only to information submitted and c
 
 Please note that by using our Websites, you signify your assent to Twisty Noodle’s Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Websites. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on our Websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our Websites will signify your acceptance of these changes.
 
+  
+
+
 ##  What types of information does Twisty Noodle collect?
 
 In order to give you the best experience on our Websites, Twisty Noodle may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information in connection with any one of the following features or services.
+
+  
+
 
   * Website and game-specific registration
   * Newsletter subscription
@@ -26,10 +35,14 @@ In order to give you the best experience on our Websites, Twisty Noodle may coll
   * Polls, surveys, or questionnaires
   * Message boards
   * Other features such as e-cards, wish lists, and tell-a-friend
+  
 
 
 
 The types and amount of personal information collected for these activities will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, e-mail address and (for those purchasing products online) credit card information including billing and shipping addresses. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, and other information (also known as “demographic information”). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the services we provide you according to your interests and preferences. For more on how we use your information, please read the section on use below.
+
+  
+
 
 ##  How does Twisty Noodle use the information it collects?
 
@@ -61,9 +74,15 @@ Disclosures Required By Law and Disclosures to Help Protect the Security and Saf
 
 We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites or third parties.
 
+  
+
+
 ##  What happens if I refuse to provide my personal information to Twisty Noodle?
 
 If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our Websites and may limit the services we can provide you. For example, if you refuse to share your email address, you may not be able to receive general support or product support. To simply browse our Websites, however, you do not need to give us any personal information.
+
+  
+
 
 ##  Does Twisty Noodle use cookies or use other passive means to collect information?
 
@@ -93,6 +112,9 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Finally, once you’ve clicked on an advertisement and have left our Web sites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their Web site.
 
+  
+
+
 ##  Who is collecting my personal information and is it shared with anyone?
 
 The information that you disclose on the Twisty Noodle Websites is collected by Twisty Noodle or by a vendor on Twisty Noodle’s behalf; and, is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our Websites and who only use the information we share with them (or that they collect on our behalf) for purposes of internal fulfillment (e.g., online product fulfillment). Vendors are required to handle such information in accordance with this Privacy Policy.
@@ -101,9 +123,15 @@ From time to time, we may run contests, tournaments, or other events or activiti
 
 We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Twisty Noodle’s customer information may be transferred to our successor or assign.
 
+  
+
+
 ##  Can I choose how my personal information is used?
 
 If you do not want to receive our newsletter, service related announcements, or any other communications and/or services from Twisty Noodle, please opt-out from these communications or services at the time of registration or information collection. If at any time you decide to remove your personal information from our database, you may do so by emailing us at [privacy@twistynoodle.com](mailto:privacy@twistynoodle.com).
+
+  
+
 
 ##  How do I access or update my personal information?
 
@@ -119,15 +147,24 @@ Attn: Privacy Policy Administrator
 Redwood City, CA 94065  
 [privacy@twistynoodle.com](mailto:privacy@twistynoodle.com)
 
+  
+
+
 ##  What is Twisty Noodle’s policy regarding children under 13?
 
 It is Twisty Noodle’s policy not to collect information from children 12 or younger at the Sites, and Twisty Noodle employs industry standard technical measures to prevent children from providing us with any personally identifiable information. Children from the ages of 13 to 17 are able to participate at the Websites; however, some features of the Websites may be unavailable to them. Children 12 and under may still surf the Websites, and may see many links to other websites while doing so. Twisty Noodle cannot guarantee that these other websites contain material appropriate for them. We strongly urge parents to monitor their children’s Internet usage, and to actively participate in the selection of websites their children visit.
+
+  
+
 
 ##  What safeguards does Twisty Noodle use to protect my personal information?
 
 Twisty Noodle takes reasonable measures to protect the confidentiality, security, and integrity of the personal information collected from our Website visitors. Personal information collected by Twisty Noodle is stored in secure operating environments that are not available to the public and that are only accessible to authorized employees. We also have security measures in place to protect the loss, misuse, and alteration of the information under our control. For example, before we allow web users to access their personal information, we verify their identity by requesting information such as their username and password.
 
 While Twisty Noodle takes reasonable precautions against possible breaches of its Websites and customer databases, no website or Internet transmission is completely secure. Consequently, Twisty Noodle cannot and does not guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Twisty Noodle urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser.
+
+  
+
 
 ##  How do I ask a question or file a complaint? (Contact Information)
 
@@ -138,6 +175,9 @@ Attn: Privacy Policy Administrator
 575 Seastorm Drive  
 Redwood City, CA 94065  
 [privacy@twistynoodle.com](mailto:privacy@twistynoodle.com)
+
+  
+
 
 ##  How are disputes regarding this Privacy Policy resolved?
 
