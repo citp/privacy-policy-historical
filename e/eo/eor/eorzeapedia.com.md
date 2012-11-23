@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eorzeapedia.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524062123id_/http%3A//gamerescape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eorzeapedia.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090112id_/http%3A//gamerescape.com/privacy-policy) for the most accurate reproduction.*
 
-# Gamer Escape » Gaming Community featuring News, Wikis, Podcasts and Forums » Privacy Policy
+# Gamer Escape » Privacy Policy
 
 This policy explains in detail how Gamer Escape and phpBB (as those terms are defined by the Terms of Service) use any information collected during any session of usage by you (hereinafter “your information”). If you only read Gamer Escape, no more information is collected than is typically collected in server logs by web sites in general. If you contribute to the Gamer Escape wikis, you are publishing every word you post publicly. If you write something, assume that it will be retained forever. This includes articles, user pages and talk pages. Some limited exceptions are described below.
 
