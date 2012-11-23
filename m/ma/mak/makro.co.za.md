@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the makro.co.za privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121045109id_/http%3A//www.makro.co.za/19/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makro.co.za privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123125704id_/http%3A//www.makro.co.za/customer-services/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
 Makro is committed to protecting your privacy. This privacy policy explains how we collect customer information, how we use it and what your access rights to the data are. If you have any questions concerning your personal information, please contact us at [www.makro.co.za](http://www.makro.co.za/) or 0860300999. 
 
-**information collected**
+**Information Collected**
 
 Makro collects the details provided by you on registration together with the information we learn about you from your use of our products or services and the transactions you undertake when visiting our stores. 
 
@@ -12,16 +12,16 @@ We may collect additional information arising from your participation in promoti
 
 Makro is a member of the Direct Marketing Association of SA. Over and above its role as protector, the DMA SA sets out to promote best practice and raise the standard of direct marketing through the origination and regular updating of dm codes of practice and best practice guidelines. 
 
-**u** **se of your information**
+**Use of your Information**
 
 Makro uses customer information to personalise its service and make communications more relevant to individual customers via mail, email, telephone, fax or in person. This includes direct marketing activities like promotional offers, news and information about products and services that we think will be of interest to customers. Makro also contacts customers to obtain feedback that will help improve its products and services and for operational reasons. Customers may occasionally also receive very carefully selected and relevant 3rd party communications done in conjunction with ourselves. 
 
 Our authorised staff and specific third party suppliers serving the direct marketing industry have access to the information for the purposes described above. Makro is committed to protecting customer privacy and does not sell or disclose information to anyone for purposes other than as outlined above, unless legally obliged to do so. Customers are afforded the opportunity to easily opt out of any specific communication channel should they wish to. 
 
-**access rights**
+**Access Rights**
 
 The Promotion of Access to Information Act (PAIA) requires companies to publish a manual of all information held by them. A combined manual has been prepared which applies to all members of the Massmart group and can be accessed via [www.massmart.co.za](http://www.massmart.co.za/). The information officer can be contacted at [officer@massmart.co.za](mailto:officer@massmart.co.za). 
 
-You may wish to [opt-out ](https://web.archive.org/content/35/home/)from Makro communication at any time.
+You may wish to [opt-out ](https://web.archive.org/makro-card/update-your-details/)from Makro communication at any time.
 
 Extracts from the Massmart website for review purposes
