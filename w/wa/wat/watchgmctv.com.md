@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchgmctv.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606145400id_/http%3A//www.watchgmctv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchgmctv.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085613id_/http%3A//watchgmctv.com/privacy-policy) for the most accurate reproduction.*
 
 # watchgmctv.com – gmc – uplifting entertainment – faith-friendly movies, shows – Christian music, Gospel music
 
@@ -29,5 +29,3 @@ Company is committed to respecting your privacy. Please read the following Priva
 11.  **Security.**  Company uses its best efforts to protect your personal information and, to that end, uses tools such as encryption, passwords, and physical security to protect your personal information against unauthorized access and disclosure. However, no Web site can be absolutely secure, and third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from this Site. Therefore, although Company works very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain absolutely private.
 
 12.  **Other legal notices.**  Any dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages and application of the law of the state of Georgia.
-
-[ShareThis](http://www.watchgmctv.com/privacy-policy "Privacy Policy")
