@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618081931id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reinventingaging.org privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123162814id_/http%3A//www.reinventingaging.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reinventing Aging
 
@@ -12,7 +12,7 @@ When visiting reinventingaging.org, the IP address used to access the site will 
 
 **Private Information Security**
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, PayPal keeps this information encrypted and secure on your behalf. 
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, PayPal keeps this information encrypted and secure on your behalf.
 
 **3rd Party Disclosure**
 
@@ -20,11 +20,15 @@ Customer information, whether public or private, will not be sold, exchanged, tr
 
 **Email Usage**
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
 
 **Links to third party Websites**
 
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Returns and Exchanges**
+
+Not Satisfied? If for any reason you are not satisfied with your Reinventing Aging purchase we will be happy to provide a refund. [Click Here](http://www.reinventingaging.org/product-returns/) to read our our product return policy for instructions.
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
