@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeultima.tv privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606231940id_/http%3A//www.animeultima.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeultima.tv privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123072132id_/http%3A//www.animeultima.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AnimeUltima.TV
 
@@ -31,6 +31,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+**Third Party Cookies**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
 
 **Online Privacy Policy Only**
 
