@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220420id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124004715id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for Quackit.com
 
@@ -30,14 +30,11 @@ Some of the products and services provided on Quackit.com are made in conjunctio
 
 ## Enjoy this page?
 
-  1.   2. Add this page to your Favorites
-  3. Link to this page (copy/paste into your own website or blog): 
-  4. Link to Quackit using one of these [banner ads](https://web.archive.org/link_to_quackit.cfm).
+  1.   2. Link to this page (copy/paste into your own website or blog): 
+  3. Link to Quackit using one of these [banner ads](https://web.archive.org/link_to_quackit.cfm).
 
 
 
 Thanks for supporting Quackit!
 
 | 
-
-[](https://web.archive.org/web/20120503220420id_/http%3A//www.quackit.com/privacy_policy.cfm?pageView=Print)
