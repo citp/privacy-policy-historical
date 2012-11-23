@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522011734id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123131500id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://senuke.com/amember/go.php?r=107950&i=b6)
 
 | 
 
@@ -63,8 +65,8 @@ sdscripts.support @ gmail.com
 
 | 
 
-| Active Users: | 6  
+| Active Users: | 18  
 ---|---  
 Accounts: | 0  
-Guests: | 6  
-Visits last 24h: | 658
+Guests: | 18  
+Visits last 24h: | 842
