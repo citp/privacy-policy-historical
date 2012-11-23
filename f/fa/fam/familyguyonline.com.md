@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyguyonline.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511062332id_/http%3A//www.familyguyonline.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyguyonline.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123152136id_/http%3A//www.familyguyonline.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family Guy Online
 
