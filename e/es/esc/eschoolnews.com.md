@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524200039id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085043id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eSchool News
 
@@ -59,9 +59,9 @@ eSchool News Online is not responsible for the content or the privacy policies o
 
 For certain optional services, eSchool News Online requires that you supply a unique subscriber ID, eMail address, and demographic information, such as title and school district.
 
-  *  **Registration/Subscriptions:** For customers’ convenience, eSchool News Online makes it possible to subscribe via credit card to the eSchool News Online family of publications and register for various conferences sponsored by eSchool News.
-  *  **Surveys:** On occasion, eSchool News Online also collects additional personal information in connection with optional contests, surveys, or special offers.
-  *  **IP Addresses:** **eSchool News Online** logs IP addresses, or the location of your computer on the internet, for systems administration and troubleshooting purposes.
+  * **Registration/Subscriptions:** For customers’ convenience, eSchool News Online makes it possible to subscribe via credit card to the eSchool News Online family of publications and register for various conferences sponsored by eSchool News.
+  * **Surveys:** On occasion, eSchool News Online also collects additional personal information in connection with optional contests, surveys, or special offers.
+  * **IP Addresses:** **eSchool News Online** logs IP addresses, or the location of your computer on the internet, for systems administration and troubleshooting purposes.
 
 
 
@@ -70,7 +70,7 @@ Top of Page
 
 #### What does eSchool News do with the information it gathers/tracks?
 
- **Statistical Analysis and Banner Advertising:** **eSchool News Online** may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or “clicked” their advertising banners. All information is used in aggregate form and no personal information is tied to individual users.  
+**Statistical Analysis and Banner Advertising:** **eSchool News Online** may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or “clicked” their advertising banners. All information is used in aggregate form and no personal information is tied to individual users.  
 eMail: Using the eMail addresses provided at registration, eSchool News Online periodically sends promotional eMail to its subscribers about services offered by eSchool News Online and its advertisers. eSchool News Online may contact you regarding account status, changes to the subscriber agreement, and to confirm registration. To manage your eSchool News Online eMail profile, please go to our [eMail management page](http://www.eschoolnews.com/memberprofile/)).
 
 Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, eSchool News Online has put in place appropriate physical, electronic, and managerial procedures to protect the information it collects online. These security measures are reviewed and updated as necessary to provide a secure data environment.  
