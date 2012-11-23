@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615200707id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123092459id_/https%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - onthehouse.com.au
 
