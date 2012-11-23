@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 48ers.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622110744id_/http%3A//www.48ers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48ers.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123054951id_/http%3A//48ers.com/privacy) for the most accurate reproduction.*
 
 # 48ers - Privacy Policy
 
