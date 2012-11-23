@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523020633id_/http%3A//cpacanada.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123231731id_/http%3A//cpacanada.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Your home for CA-CMA-CGA unification information
 
 November 24, 2011 
 
-The CPA Canada site is maintained by The Canadian Institute of Chartered Accountants (CICA), The Society of Management Accountants of Canada, and Certified General Accountants Association of Canada.
+The CPA Canada site is maintained by The Canadian Institute of Chartered Accountants (CICA) and The Society of Management Accountants of Canada (CMA Canada).
 
 Our collection, use and disclosure of your personal information is regulated by the Personal Information Protection and Electronic Documents Act (Canada), or similar privacy legislation applicable in your province, as amended from time to time. You can find more information about your privacy rights at the website of the Office of the Privacy Commissioner of Canada (OPC).
 
