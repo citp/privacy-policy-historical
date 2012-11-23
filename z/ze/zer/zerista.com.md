@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526064122id_/http%3A//zerista.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123213017id_/http%3A//zerista.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zerista
 
@@ -44,4 +44,4 @@ We recognize that your privacy is important to you, and therefore we endeavor to
 
 ### In the Event of Merger, Sale, or Bankruptcy
 
-In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
