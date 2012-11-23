@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugeyield.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506152803id_/http%3A//www.hugeyield.com/content.php%3Fp_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugeyield.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123214403id_/http%3A//hugeyield.com/content.php%3Fp_id%3D16) for the most accurate reproduction.*
 
 # HugeYield.com - Online Advertisement And Income Generating Program : Privacy Policy
 
