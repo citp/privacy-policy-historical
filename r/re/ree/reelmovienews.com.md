@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reelmovienews.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525082018id_/http%3A//www.moviefanatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelmovienews.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085628id_/http%3A//www.moviefanatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Movie Fanatic
 
