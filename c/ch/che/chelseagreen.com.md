@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524215524id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085729id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.*
 
 # Chelsea Green: The Politics and Practice of Sustainable Living
 
