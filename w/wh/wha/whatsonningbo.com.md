@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsonningbo.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605230906id_/http%3A//www.whatsonningbo.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonningbo.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124002826id_/http%3A//www.whatsonningbo.com/policy.php) for the most accurate reproduction.*
 
 # Policy - What's On Ningbo
 
