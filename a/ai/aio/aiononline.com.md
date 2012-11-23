@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the aiononline.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226203903id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiononline.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123234626id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | NCsoft
+# Privacy Policy | NCSOFT
 
-We here at NC Interactive, Inc. ("NCI") consider your right to privacy to be of paramount importance. Because the trust of our users is key to the success of our business, this Privacy Policy is intended to make you feel as comfortable as possible visiting our website and playing NCsoft games.
+We here at NC Interactive, Inc. ("NCI") consider your right to privacy to be of paramount importance. Because the trust of our users is key to the success of our business, this Privacy Policy is intended to make you feel as comfortable as possible visiting our website and playing NCSOFT games.
 
 This Privacy Policy discloses the privacy practices for:
 
   * [www.ncsoft.com](http://www.ncsoft.com/)
   * [www.aiononline.com](http://www.aiononline.com/)
-  * [www.cityofheroes.com](http://www.cityofheroes.com/)
+  * [www.bladeandsoul.com](http://www.bladeandsoul.com/)
   * [www.guildwars.com](http://www.guildwars.com/)
   * <http://www.guildwars.com/products/eyeofthenorth/>
   * <http://www.guildwars.com/products/nightfall/>
@@ -18,7 +18,7 @@ This Privacy Policy discloses the privacy practices for:
 
 
 
-It also includes any other sites and services related to NCsoft (the "Sites").
+It also includes any other sites and services related to NCSOFT (the "Sites").
 
 From time to time, we may add new Sites that may not be set forth in the prior sentence, but they will provide a link to this Privacy Policy and will be governed by its terms.
 
@@ -179,7 +179,7 @@ We encourage you to investigate and ask questions before disclosing information 
 
 ## 6\. How users can correct any inaccuracies in the Personal Information
 
-To review and update your Personal Information stored with NCsoft, please access your account.
+To review and update your Personal Information stored with NCSOFT, please [access your account](https://login.ncsoft.com/login/loginform).
 
 If you change your mind and do not want to receive e-mails from us and/or to have us share your name and e-mail address (or other personal information) with third parties, you may send an e-mail to us at [support@ncsoft.com](mailto:support@ncsoft.com).
 
