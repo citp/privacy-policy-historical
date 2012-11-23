@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510071247id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123145620id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software | Welcome
 
 Partnership
 
-What we do
+Our team
 
-    Development, publishing, and distribution of browser based online games
-    Operate in 80+ countries
+    100+ employees
+    International team
+    Young and creative professionals
+    Located in Sofia Bulgaria
 
 Featured game
 
-[ ](http://www.xs-software.com/viewproduct.php?id=4&go=browser)
+[ ](http://www.xs-software.com/viewproduct.php?id=3&go=browser)
 
-Managore is a dark realm with thousands of inhabitants. Use your strategy skills to develop your castle, train a powerful army and defeat the opponents you see on the map.
+Lady Popular is online game for girls who love fashion, making friends, shopping, decorating and being creative!
 
-Gather resource and build your kingdom with 19 different kinds of buildings and 18 upgradable units. Players have ...
+The game offers a virtual equivalent of every girl modern girl`s passion – Fashion. The world of the Mall is limitless. There are over 16 million clothes combinations of ...
 
 ## Privacy And Policy
 
