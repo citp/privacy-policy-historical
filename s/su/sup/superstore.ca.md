@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superstore.ca privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406213207id_/http%3A//www.superstore.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superstore.ca privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085608id_/http%3A//www.superstore.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Superstore - Privacy Policy
 
@@ -99,7 +99,7 @@ You may contact us with any questions, complaints or suggestions with respect to
 
 **A note about contests**
 
-For any contest conducted, sponsored or authorized by Loblaw, your personal information will be collected, used and disclosed as follows:
+For any contest conducted, sponsored or authorized by Loblaw, your personal information will be collected, used and disclosed as follows: 
 
   1. For contests in which entry is automatic, for example, when you complete a financial transaction that earns an automatic entry into a contest, your personal information will also be collected and used for the purposes of administering the contest. 
   2. For contests in which you choose to enter by supplying your personal information, unless the contest rules clearly state otherwise, the personal information you supply when entering the contest will be used only for the administration of that contest. 
