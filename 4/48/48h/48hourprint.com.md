@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081042id_/http%3A//www.48hourprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123215301id_/http%3A//www.48hourprint.com/privacy.html) for the most accurate reproduction.*
 
 # 48HourPrint.com Privacy Statement
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site.
+##  Privacy Statement 
 
-We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and to gather broad demographic information.
+We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site. 
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to identify you so we can retrieve your information so you don't have to re-enter it each time you visit our site.
+We use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and to gather broad demographic information. 
 
-Our site's registration form requires users to give us contact information, like their name and email address, and other unique identifiers. We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary if they have subscribed to the mail list. Users may opt-out of receiving future mailings by choosing to unsubscribe. Unique identifiers are collected to verify the user's identity and for use in our record system.
+Our site uses cookies to keep track of your shopping cart. We use cookies to identify you so we can retrieve your information so you don't have to re-enter it each time you visit our site. 
 
-This site may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites.
+Our site's registration form requires users to give us contact information, like their name and email address, and other unique identifiers. We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary if they have subscribed to the mail list. Users may opt-out of receiving future mailings by choosing to unsubscribe. Unique identifiers are collected to verify the user's identity and for use in our record system. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information and other unique identifiers. Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings. Unique identifiers are collected from web site visitors to verify the user's identity and for use as account numbers in our record system.
+This site may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites. 
 
-Our site offers customers the ability to upload mailing lists. The personal information on those lists is formatted into a mailing address to be printed onto one of our offered mailing products purchased by the customer. Information contained in these lists is confidential and will not be used for any other reason without the express written consent of the customer.
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information and other unique identifiers. Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings. Unique identifiers are collected from web site visitors to verify the user's identity and for use as account numbers in our record system. 
 
-**Security**  
+Our site offers customers the ability to upload mailing lists. The personal information on those lists is formatted into a mailing address to be printed onto one of our offered mailing products purchased by the customer. Information contained in these lists is confidential and will not be used for any other reason without the express written consent of the customer. 
+
+**Security**   
 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including credit card numbers and personal contact information. All data is protected using the most advanced methods available. 
