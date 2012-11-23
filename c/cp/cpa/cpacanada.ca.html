@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpacanada.ca privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523020633id_/http%3A//cpacanada.ca/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpacanada.ca privacy policy that was archived on 2012-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123231731id_/http%3A//cpacanada.ca/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="ltr" lang="en-US"><head>
 	<meta charset="UTF-8">
@@ -62,16 +62,9 @@ $(document).ready(function() {
 		$("#header_provincial_overlay").show();		
 		$(this).addClass('enabled');		
 	});	
-
-	$('#header TD.forum A').mouseover(function() {
-		closeHeaderOverlays('forum');
-		var offset = $(this).offset();		
-		$("#header_forum_overlay").css("left", offset.left);		
-		$("#header_forum_overlay").show();		
-		$(this).addClass('enabled');		
-	});		
+		
 	
-	$('#header TD.unification A, #header_unification_overlay, #header TD.certification A, #header_certification_overlay, #header TD.provincial A, #header_provincial_overlay, #header TD.forum A, #header_forum_overlay').mousemove(function(event) {
+	$('#header TD.unification A, #header_unification_overlay, #header TD.certification A, #header_certification_overlay, #header TD.provincial A, #header_provincial_overlay, #header_forum_overlay').mousemove(function(event) {
 		event.stopPropagation();
 	});
 
@@ -99,10 +92,7 @@ function closeHeaderOverlays(leaveID) {
 		$('#header TD.provincial A').removeClass('enabled');
 	}	
 
-	if(leaveID != 'forum') {
-		$("#header_forum_overlay").hide();
-		$('#header TD.forum A').removeClass('enabled');
-	}		
+
 }	
 	
 
@@ -117,7 +107,7 @@ function closeHeaderOverlays(leaveID) {
 		<td class="unification"><a href="/a-framework-for-uniting-the-canadian-accounting-profession/">Unification Framework</a></td>
 		<td class="certification"><a href="/certification-program">Certification Program</a></td>
 		<td class="provincial"><a href="/provincial-and-regional/">Provincial and Regional</a></td>
-		<td class="forum"><a href="/forum/forums/">Discussion Forum</a></td>
+		<td class="forum"><a href="/forum-archive/">Forum Archive</a></td>
 		<td class="key_developments"><a href="/key-developments">Key Developments</a></td>
 		<td class="key_documents"><a href="/resources/">Resources</a></td>
 		<td class="news"><a href="/blog/category/news/">News</a></td>
@@ -140,7 +130,7 @@ function closeHeaderOverlays(leaveID) {
 
 <div id="header_certification_overlay" class="header_overlay">
 				<div class="textwidget"><a class="certification" href="/certification-program">The Canadian CPA Certification Program</a>
-<a class="certification" href="/certification-program/the-competencies-of-the-newly-qualified-canadian-cpa">The competencies of the newly qualified Canadian CPA</a>
+<a class="certification" href="/certification-program/the-competencies-of-the-newly-qualified-canadian-cpa">The CPA Competency Map: Defining the competencies of the newly qualified Canadian CPA</a>
 <a class="certification" href="/certification-program/details-of-the-canadian-cpa-certification-program">Details of the Canadian CPA Certification Program</a>
 <a class="certification" href="/certification-program/frequently-asked-questions/">Frequently Asked Questions</a>
 <a class="certification" href="/resources">The Canadian CPA Certification Program Support Information</a></div>
@@ -156,14 +146,7 @@ function closeHeaderOverlays(leaveID) {
 							
 </div>	
 
-<div id="header_forum_overlay" class="header_overlay">
-			
-<div id="menu" class="menu-forum-inline-sidebar-not-logged-in-container"><ul id="menu-forum-inline-sidebar-not-logged-in" class="menu"><li id="menu-item-796" class="menu-item-first menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="http://cpacanada.ca/login/">Log In</a></li>
-<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="http://cpacanada.ca/register/">Register</a></li>
-<li id="menu-item-795" class="menu-item-last menu-item menu-item-type-post_type menu-item-object-page menu-item-795"><a href="http://cpacanada.ca/forum-guidelines/">Forum Guidelines</a></li>
-</ul></div>					
-				
-</div>	
+	
 
 
 
@@ -376,7 +359,7 @@ function closeUnificationOverlays(leaveID) {
 			<div class="news_date">November 24, 2011 </div><h1>Privacy Policy</h1>
 						<div class="itemtext">
 			
-				<p>The CPA Canada site is maintained by The Canadian Institute of Chartered Accountants (CICA), The Society of Management Accountants of Canada, and Certified General Accountants Association of Canada.</p>
+				<p>The CPA Canada site is maintained by The Canadian Institute of Chartered Accountants (CICA) and The Society of Management Accountants of Canada (CMA Canada).</p>
 <p>Our collection, use and disclosure of your personal information is regulated by the Personal Information Protection and Electronic Documents Act (Canada), or similar privacy legislation applicable in your province, as amended from time to time. You can find more information about your privacy rights at the website of the Office of the Privacy Commissioner of Canada (OPC).</p>
 <h2>Personal and non-personal information</h2>
 <p>You can visit the CPACanada.ca website without revealing who you are or sharing any personal information. Throughout the website we collect non-personal information (IP addresses, page accesses, number of visitors to the site, etc.), which is used to analyze site usage. If you wish to use the discussion forum, you must register using a username that you select yourself and your email address. This information is collected so you can participate in the forum and leave your own commentary. The user name posted will not reveal your email address, which is kept confidential.</p>
@@ -427,7 +410,4 @@ function closeUnificationOverlays(leaveID) {
 
 
 
-
-<!-- Dynamic page generated in 0.210 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2012-05-22 22:04:20 -->
-<!-- super cache --></body></html>
+</body></html>
