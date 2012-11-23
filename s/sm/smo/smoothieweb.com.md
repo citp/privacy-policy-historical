@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smoothieweb.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525080315id_/http%3A//www.smoothieweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoothieweb.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123094620id_/http%3A//www.smoothieweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Smoothie Recipes : Fruit Smoothies Recipe: Healthy Smoothies
+# Privacy | Smoothie Recipes : Healthy Fruit & Vegetable Smoothies
 
 Smoothieweb.com does not sell, trade, or rent your personal information to others. Smoothieweb.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will not include personally identifying information.
 
