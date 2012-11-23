@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumebucket.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629090855id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumebucket.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123214403id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.*
 
 # Online Resume Storage - ResumeBucket.com
 
