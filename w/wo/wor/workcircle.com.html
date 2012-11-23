@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workcircle.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626222859id_/http%3A//www.workcircle.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workcircle.com privacy policy that was archived on 2012-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123073856id_/http%3A//www.workcircle.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://a9.com/-/spec/opensearch/1.1/">
 <!-- TradeDoubler site verification 1253612 -->
@@ -15,12 +15,59 @@
 <link rel="canonical" href="/jobs/">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+window.google_analytics_uacct = "UA-284929-1";
+</script>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-284929-1']);
-  _gaq.push(['_trackPageview']);
+<script type="text/javascript" src="/javascript/javascript.js"></script>
+<script type="text/javascript" src="/javascript/jquery.js"></script>
+<script type="text/javascript">
+function sticky_relocate() {
+	var window_top = $(window).scrollTop();
+	var div_top1 = $('#sticky-anchor1').offset().top;
+	var div_top2 = $('#sticky-anchor2').offset().top;
+	if (window_top > div_top1) {
+		if ( $(window).height() > 750 ) {
+			$('#sticky-element1').addClass('sticky')
+		}
+	} else {
+		$('#sticky-element1').removeClass('sticky');
+	}
+	if (window_top > div_top2) {
+		if ( $(window).height() > 750 ) {
+			$('#sticky-element2').addClass('sticky')
+		}
+	} else {
+		$('#sticky-element2').removeClass('sticky');
+	}
+}
+function check_size() {
+	var window_width = $(window).width();
+	if ( window_width < 1150 ) {
+		$('#main').width(490);
+		$('#right').width(235);
+		$('.rhsad').width(210);
+		$('#container').width(987);
+	} else {
+		$('#main').width(590);
+		$('#right').width(285);
+		$('.rhsad').width(260);
+		$('#container').width(1137);
+	}
+}
+$(function() {
+		$(window).scroll(sticky_relocate);
+		sticky_relocate();
+		$(window).resize(check_size);
+		check_size();
+})
+</script>
+<script type="text/javascript">
 
-  (function() {
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-284929-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -41,10 +88,8 @@
   while (new Date() < ms){}
   } 
 </script>
-<script type="text/javascript" src="/javascript/javascript.js"></script>
-<script type="text/javascript" src="/javascript/jquery.js"></script>
 
-<script src="http://api.indeed.com/ads/apisearch?publisher=707946489192080&amp;q=&amp;l=&amp;co=all&amp;sort=&amp;radius=&amp;st=&amp;jt=&amp;start=-3&amp;limit=3&amp;fromage=&amp;filter=&amp;latlong=1&amp;chnl=all&amp;userip=207.241.237.239&amp;useragent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36&amp;format=json&amp;callback=jsonp1580448329768&amp;_=1580448330256"></script></head><body onload="">
+<script src="http://api.indeed.com/ads/apisearch?publisher=707946489192080&amp;q=&amp;l=&amp;co=gb&amp;sort=&amp;radius=&amp;st=&amp;jt=&amp;start=-3&amp;limit=3&amp;fromage=&amp;filter=&amp;latlong=1&amp;chnl=gb&amp;userip=204.236.226.210&amp;useragent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36&amp;format=json&amp;callback=jsonp1580448332196&amp;_=1580448332204"></script></head><body onload="">
 
 <div id="header"><div class="nav"><a href="/login">Login</a> | <a href="/login#register">Register</a> | <a href="/alerts">Job alerts</a></div>
 <div class="spacer"></div>
@@ -84,7 +129,7 @@
 <p>You already have an email alert saved for this search. Go to <a href="/alerts">Alerts</a> page to manage them.</p><br></div>
 <div id="jsSaveSearch2">
 <div id="jsError2" class="error"></div>
-<input name="email" type="text" style="width:190px;" value="type your email address here" onfocus="if( this.value == 'type your email address here' ) this.value = '';" class="smalltxt">
+<input type="hidden" name="email" value="">
 <input name="search" type="submit" value="save search" class="button orange small"></div>
 </form>
 </div>
@@ -126,6 +171,8 @@
 </div>
 <!-- End Google Block -->
 <br>
+<div id="sticky-anchor1"></div>
+<div id="sticky-element1">
 <script type="text/javascript">
 <!--//<![CDATA[
    document.MAX_ct0 ='';
@@ -144,34 +191,34 @@
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=41236&amp;nodis=1&amp;cb=23067004756&amp;exclude=undefined&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120626222859id_/http%253A//www.workcircle.com/privacypolicy"></script>
+//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=41236&amp;nodis=1&amp;cb=76049822478&amp;exclude=undefined&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121123073856id_/http%253A//www.workcircle.com/privacypolicy"></script>
+
+
+
+<br>
+<br>
+
+<!--/* OpenX Javascript Tag v2.8.8 */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.workcircle.com/delivery/ajs.php':'http://ads.workcircle.com/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.workcircle.com/delivery/ajs.php?zoneid=2&amp;cb=50620042254&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20121123073856id_/http%253A//www.workcircle.com/privacypolicy"></script><noscript><a href='http://ads.workcircle.com/delivery/ck.php?n=adc0c83d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.workcircle.com/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adc0c83d' border='0' alt='' /></a></noscript>
+
+
+
 </div>
-
-<div align="center"><script type="text/javascript" src="http://ad.workcircle.com/adx.js"></script>
-<script type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://ad.workcircle.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:35");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-     document.write ("&amp;referer=/privacypolicy");
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://ad.workcircle.com/adjs.php?n=036210608&amp;what=zone:35&amp;exclude=,"></script>
-<noscript><a href="http://ad.workcircle.com/adclick.php?n=adb844ca" target="_blank"><img src="http://ad.workcircle.com/adview.php?what=zone:35&amp;n=adb844ca" border="0" alt="" /></a></noscript></div>
-
-<br>
-<br>
-
-<script type="text/javascript" src="http://ad.workcircle.com/adx.js"></script>
-<script type="text/javascript" src="/javascript/ad-rhs-world.js"></script>
-<noscript><a href="http://ad.workcircle.com/adclick.php?n=a9c27f93" target="_blank"><img src="http://ad.workcircle.com/adview.php?what=zone:58&amp;n=a9c27f93" border="0" alt="" /></a></noscript>
-
-
 
 </div>
 </div>
@@ -199,6 +246,7 @@ var pageOptions = {
   'hl' : 'en'
 };
 
+//alert( top_count );
 var adblock1 = { 
   'container' : 'top_ad_unit',
   'number' : top_count,
@@ -212,8 +260,9 @@ var adblock1 = {
   'colorTitleLink' : '#06C',
   'colorText' : '#666',
   'rolloverLinkColor' : '#FF9900',
-  'colorDomainLink' : '#999999'
-  
+  'colorDomainLink' : '#999999',
+  'colorBackground' : '#EFF5FA',
+  'colorBorder' : '#EFF5FA'
 
 };
 
@@ -230,7 +279,9 @@ var adblock2 = {
   'colorTitleLink' : '#06C',
   'colorText' : '#666',
   'rolloverLinkColor' : '#FF9900',
-  'colorDomainLink' : '#999999'
+  'colorDomainLink' : '#999999',
+  'colorBackground' : '#EFF5FA',
+  'colorBorder' : '#EFF5FA'
 };
 
 var adblock3 = { 
@@ -244,7 +295,9 @@ var adblock3 = {
   'colorTitleLink' : '#06C',
   'colorText' : '#666',
   'rolloverLinkColor' : '#FF9900',
-  'colorDomainLink' : '#999999'
+  'colorDomainLink' : '#999999',
+  'colorBackground' : '#EFF5FA',
+  'colorBorder' : '#EFF5FA'
 };
 
 var adblock4 = { 
@@ -259,7 +312,9 @@ var adblock4 = {
   'colorTitleLink' : '#06C',
   'colorText' : '#666',
   'rolloverLinkColor' : '#FF9900',
-  'colorDomainLink' : '#999999'
+  'colorDomainLink' : '#999999',
+  'colorBackground' : '#EFF5FA',
+  'colorBorder' : '#EFF5FA'
 };
 
 
@@ -284,15 +339,17 @@ new google.ads.search.Ads(pageOptions, adblock1, adblock4, adblock2, adblock3);
 	var indeed_job_count = 0;
 
 	
+	var country = 'gb';
+	var channel = 'gb';
+	
 	
 	
 	
 
-	var country = 'all';
-	var channel = 'all';
-	
+	var country = 'gb';
+	var channel = 'gb';
 
-$.getJSON('http://api.indeed.com/ads/apisearch?publisher=707946489192080&q=&l=&co=' + country + '&sort=&radius=&st=&jt=&start=' + ( - 1) * jobs_per_page + '&limit=' + jobs_per_page + '&fromage=&filter=&latlong=1&chnl=' + channel + '&userip=207.241.237.239&useragent=' + navigator.userAgent + '&format=json&callback=?', function(data, textStatus) {
+$.getJSON('http://api.indeed.com/ads/apisearch?publisher=707946489192080&q=&l=&co=' + country + '&sort=&radius=&st=&jt=&start=' + ( - 1) * jobs_per_page + '&limit=' + jobs_per_page + '&fromage=&filter=&latlong=1&chnl=' + channel + '&userip=204.236.226.210&useragent=' + navigator.userAgent + '&format=json&callback=?', function(data, textStatus) {
 
 		indeed_job_count =  data.totalResults;
 
@@ -377,12 +434,15 @@ phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substr
   <div class="copyright">Copyright Adeevo Ltd © 2010. All rights reserved.</div>
 <div class="spacer"><br></div>You may only use these pages if you accept our <a href="/termsofuse">terms and conditions</a>.<br><br><br></div>
 
-<!-- Your country is ALL and your IP address is 207.241.237.239 -->
+<!-- Your country is GB and your IP address is 204.236.226.210 -->
 
 
 <!-- site_id is 1 -->
 <!-- search:  -->
 <!-- test:  -->
 <!-- page:  -->
+<!-- ua:  -->
 
-</body></html>
+
+<!--  -->
+</div></body></html>
