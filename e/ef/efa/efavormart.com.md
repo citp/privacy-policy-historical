@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618094220id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123022641id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # www.efavormart.com. - Privacy Policy
 
@@ -12,11 +12,11 @@
 
     [Follow us on Twitter](https://twitter.com/#!/efavormart)
 
-    [Read our Blog](http://efavormart.blogspot.com/)
+    [Read our Blog](http://2081084.sites.myregisteredsite.com/efavormart_blog/)
 
 [](http://visitor.r20.constantcontact.com/manage/optin/ea?v=0014QkJ1EWEq_JxGCqXT3_ycg%3D%3D)
 
-[](http://www.efavormart.com/salepage.aspx)
+[](http://www.efavormart.com/feedback.aspx)
 
 [Home](https://web.archive.org/) > Privacy Policy
 
