@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524222443id_/http%3A//www.nightzookeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nightzookeeper.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123230446id_/http%3A//www.nightzookeeper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Night Zookeeper
 
 ## Introduction
 
-We would like to take this opportunity to welcome students, teachers, parents and guardians to the world of the Night Zookeeper. The Night Zookeeper is a fantastic place for children to learn, play and interact safely online. The Night Zookeeper is accessible at our website,[www.nightzookeeper.com](http://www.nightzookeeper.com/) (the **“Website”** ). The Website and all its content and related sites are the property of Wonky Star Limited (registered under company number 07706300 and the registered office of which is 16 Firbank, Euxton, Chorley, Lancashire, PR7 6HP (the **“Company”** ).
+We would like to take this opportunity to welcome students, teachers, parents and guardians to the world of the Night Zookeeper. The Night Zookeeper is a fantastic place for children to learn, play and interact safely online. The Night Zookeeper is accessible at our website,[www.nightzookeeper.com](http://www.nightzookeeper.com/) (the **“Website”** ) and our mobile application the Drawing Torch. The Website and all its content and related sites are the property of Wonky Star Limited (registered under company number 07706300 and the registered office of which is Hodgson & Dawes, 19 New Rd, Brighton, East Sussex, BN1 1UF (the **“Company”** ).
 
 The Company is committed to complying with the Children’s Online Privacy Protection Act (COPPA). This is a US law which controls the use of information collected directly relating to children under the age of 13. If you would like to learn more about this legislation then please visit [here.](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.)
 
@@ -17,6 +17,12 @@ In this policy we will:
 
 
 ## Registration
+
+### Drawing Torch User
+
+If you download the Night Zookeeper Drawing Torch mobile application we collect no information about you personally. However we do use Google Analytics to record statistics about how the application is used. This includes: which tools are used and which missions are most popular. These analytics are collected for the sole purpose of improving our mobile application.
+
+There is a link on the Drawing Torch mobile application that directs to [http://www.drawingtorch.com](http://www.drawingtorch.com/). On this website we provide a form where users are invited to submit their email address. The intention is to collect parent email addresses, which we can use for the purpose of marketing communication. We do not share any collected email address with any 3rd party and we include unsubscribe links on all correspondence so that users can have their email addresses deleted from our database if they wish. The company has a data protection policy to ensure the safety of your information.
 
 ### Free Accounts
 
@@ -105,4 +111,4 @@ This policy is being constantly reviewed and updated in order to remain in line 
 
 ## Questions
 
-If you have any questions please contact us at [roar@nightzookeeper.com](mailto:roar@nightzookeeper.com) or send us a letter to Customer Service, Wonky Star Limited, 16 Firbank, Euxton, Chorley, Lancashire, UK.
+If you have any questions please contact us at [roar@nightzookeeper.com](mailto:roar@nightzookeeper.com) or send us a letter to Customer Service, Wonky Star Limited, Hodgson & Dawes, 19 New Rd, Brighton, East Sussex, BN1 1UF
