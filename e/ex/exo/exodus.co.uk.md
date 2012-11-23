@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628045410id_/http%3A//www.exodus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exodus.co.uk privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123045026id_/http%3A//www.exodus.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Statement of Cookies | Exodus
 
