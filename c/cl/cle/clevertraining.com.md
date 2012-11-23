@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616074456id_/http%3A//www.clevertraining.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123132630id_/http%3A//www.clevertraining.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,6 @@ Your data is securely processed through our SSL (Secure Sockets Layer) protected
 Have any comments or questions regarding our privacy policy? Contact us: 
 
 Email: [Support@clevertraining.com](mailto:support@clevertraining.com)  
-Phone: (727)213-0008  
+Phone: (800) 577-8538  
 1519 Gulf Blvd. Suite 1  
-Indian Rocks Beach, FL 33785  
-
+Indian Rocks Beach, FL 33785
