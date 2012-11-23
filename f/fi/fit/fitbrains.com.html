@@ -1,22 +1,82 @@
-<!--The following is the downloaded HTML source of the fitbrains.com privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524193954id_/http%3A//www.fitbrains.com/privacy_policy/%3Fref%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fitbrains.com privacy policy that was archived on 2012-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123084003id_/http%3A//www.fitbrains.com/privacy_policy/%3Fref%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	
+		
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2077055-1']);
-  _gaq.push(['_trackPageview']);
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-2077055-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+	
+	<script type="text/javascript" src="http://www.fitbrains.com/v-73/libs-js/ext/prototype/prototype.js.pagespeed.jm.hjbcQ4Yb7L.js"></script>
+	<script type="text/javascript" src="http://www.fitbrains.com/v-73/libs-js/ext/scriptaculous/effects.js.pagespeed.jm.KLRPqA9kYs.js"></script>
+	<script type="text/javascript" src="http://www.fitbrains.com/v-73/libs-js/ext/scriptaculous/controls.js.pagespeed.jm.-zBskbSR2S.js"></script>
+	<script type="text/javascript" src="http://www.fitbrains.com/v-73/libs-js/ext/JSON/json2.js.pagespeed.jm.nIry7n0NdH.js"></script>
+	<script type="text/javascript" src="http://www.fitbrains.com/v-73/libs-js/ext/Adobe/AC_RunActiveContent.js.pagespeed.jm.7hoUkta6CB.js"></script>
+	<script type="text/javascript">//<![CDATA[
+function ajax_call(url,action,data,on_success,on_error)
+{var on_ajax_success=function(response)
+{var end_time=new Date().getTime();var result=response.responseJSON;if(!result)
+{console.log("AJAX error! Response was not JSON.\nResponse:\n"+reponse.responseText);return;}
+if(!result['success'])
+{console.log("AJAX error!\nResponse:\n"+result['error']);return;}
+if(!result['data'])
+result['data']={};result['data']['__call_duration_ms']=end_time-start_time;on_success(result['data']);};var on_ajax_failure=function(response)
+{console.log("AJAX call failed (see below):");console.log(response);if(typeof(on_error)=='function')
+on_error(response);};if(window.Prototype)
+{delete Object.prototype.toJSON;delete Array.prototype.toJSON;delete Hash.prototype.toJSON;delete String.prototype.toJSON;}
+var params={action:action,data:JSON.stringify(data)};var start_time=new Date().getTime();new Ajax.Request(url,{method:'post',parameters:params,onSuccess:on_ajax_success,onFailure:on_ajax_failure});}
+//]]></script>
+	<script type="text/javascript">//<![CDATA[
+ModalOverlay={mask_id:'modal_overlay_mask',iframe_container_id:'modal_overlay_iframe_container',iframe_id:'modal_overlay_iframe',parameters:function()
+{return ModalOverlay.parameters;},show:function(iframe_src,width,height,parameters,hide_callback)
+{ModalOverlay.parameters=parameters;if(parameters)
+{var iframe_params='iframe-json-params='+encodeURIComponent(JSON.stringify(parameters));if(iframe_src.indexOf('?')>0)
+iframe_src+='&'+iframe_params;else
+iframe_src+='?'+iframe_params;}
+ModalOverlay.add(width,height);var iframe=$$('#'+ModalOverlay.iframe_container_id+' iframe')[0];iframe.src=iframe_src;$(ModalOverlay.mask_id).appear({duration:0.5,from:0,to:0.5,afterFinish:function()
+{}});ModalOverlay.hide_callback=hide_callback;},iframe_callback:function()
+{$(ModalOverlay.iframe_container_id).show();},hide:function(content_id)
+{if(ModalOverlay.in_hide_callback)return;ModalOverlay.in_hide_callback=true;if(!$(ModalOverlay.iframe_container_id))
+return;$(ModalOverlay.iframe_container_id).hide();$(ModalOverlay.mask_id).hide();if(typeof(ModalOverlay.hide_callback)=='function')
+ModalOverlay.hide_callback();ModalOverlay.parameters=null;ModalOverlay.hide_callback=null;ModalOverlay.in_hide_callback=false;},add:function(width,height)
+{return;if($(ModalOverlay.mask_id))return true;var width=width?width:500;var height=height?height:500;document.body.innerHTML+='<div id="'+ModalOverlay.iframe_container_id+'" onclick="ModalOverlay.hide()" style="display:none; position:absolute; top:0; left:0; right:0; z-index:9001; /* IE _height:400px; overflow:none; */">'+'<div style="position:relative;">'+'<iframe id="'+ModalOverlay.iframe_id+'" allowtransparency="true" frameborder="0" scrolling="no" src="" style="display:block; margin:0 auto; margin-top:100px; width:'+width+'px; height:'+height+'px;"></iframe>'+'</div>'+'</div>'+'<div id="'+ModalOverlay.mask_id+'" style="display:none; position:absolute; top:0px; left:0px; bottom:0; right:0; background:black; filter:alpha(opacity=75); opacity:0.75; z-index:9000; padding:0; margin:0;"></div>';}}
+//]]></script>
+	<script type="text/javascript">//<![CDATA[
+var TabHandler=function(selected_tab,on_switch_callback,selected_classname)
+{this.show=function(tab)
+{$$("#tabs > *").each(function(e){e.removeClassName(self.selected_classname);});$$("#tabs-content > div").each(function(e){if(!e.hasClassName("--tab-no-hide"))
+e.removeClassName('shown');});if(!$(tab))
+console.log("Tab not found: "+tab);$(tab).addClassName(self.selected_classname);var content=$(tab.id+'-content');if(!content)
+console.log("Content not found: "+tab.id+'-content');else
+content.addClassName('shown');if(typeof(on_switch_callback)=='function')
+on_switch_callback(tab.id);}
+var self=this;this.selected_classname=selected_classname?selected_classname:'selected';$$('#tabs > *').each(function(tab)
+{tab.observe('click',function(event)
+{self.show(tab);})});if(!selected_tab)
+selected_tab=$$("#tabs > span")?$$("#tabs > span")[0]:null;if(selected_tab)
+this.show(selected_tab);}
+//]]></script>
+	<script type="text/javascript" src="http://www.fitbrains.com/v-73/libs-js/ext/swfobject/swfobject.js.pagespeed.jm.1RrDOSyVY3.js"></script>
 
-  (function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-		<script type="text/javascript" src="/javascripts/min/?g=js"></script>
-		<link type="text/css" rel="stylesheet" href="/javascripts/min/?g=css">
+	<script type="text/javascript">//<![CDATA[
+function show_achievement(id){ModalOverlay.show('/users/overlays/?overlay=show_achievement&achievement_id='+id,500,500,null);}
+//]]></script>
+	<script type="text/javascript" src="http://www.fitbrains.com/v-73/js/FitBrains/Gameplay.js.pagespeed.jm.AR-E-SRNNr.js"></script>
+	<script type="text/javascript">//<![CDATA[
+var EventTracking=(function()
+{ajax_call('/api/event_tracking.php','consume',null,function(events)
+{$A(events).each(function(event)
+{_gaq.push(['_trackEvent',event.category,event.action,event.label,event.value]);});});})();
+//]]></script>
+	
+<link href="https://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet" type="text/css">
+
+	<link type="text/css" rel="stylesheet" href="http://www.fitbrains.com/v-73/css/A.a.screen.css+b.ie.css,Mcc.m38LCyVPbY.css.pagespeed.cf.bfbFqLSX6s.css">
+	
+	<link type="text/css" rel="stylesheet" href="http://www.fitbrains.com/v-73/css/A.c.stylesheet.css.pagespeed.cf.NCB4j2H-yp.css">
+	<link type="text/css" rel="stylesheet" href="http://www.fitbrains.com/v-73/css/A.buttons.css.pagespeed.cf.x0SrYnkNtZ.css">
+	<style>#modal_overlay_iframe_container{position:fixed;top:0;left:0;right:0;z-index:9001}#modal_overlay_iframe_container * div{position:fixed;margin-left:25%;width:50%}#modal_overlay_iframe_container iframe{display:block;margin:0 auto;margin-top:40px;width:800px;height:650px}#modal_overlay_mask{position:fixed;top:0px;left:0px;width:100%;height:100%;background:#000;opacity:0.75;z-index:9000;padding:0;margin:0}.top-tabs{margin-bottom:20px;border-bottom:1px solid #999}.top-tabs span{border-bottom:0;margin-bottom:-1px;border:1px solid #999;background:#eee}.top-tabs span{display:inline-block;padding:5px 15px;font-weight:normal;cursor:pointer;font-size:16px;background-color:#ccc;border-top-left-radius:4px;border-top-right-radius:4px}.top-tabs span.selected{background:#fff;border-bottom:1px solid #fff}.top-tabs-content{position:relative;border:1px solid #999;border-top:0}#tabs-content>div{display:none}#tabs-content>div.shown{display:block!important}ul.left-tabs{padding-left:0;width:200px;float:left;margin-right:10px!important;margin-top:10px}ul.left-tabs li{font-family:"ABeeZee",sans-serif;cursor:pointer;list-style:none;font-size:16px;color:#2d71d5;padding:15px 18px;border:1px solid #ddd;margin-bottom:-1px}ul.left-tabs li.selected{background:#fff;color:#333!important;font-weight:bold;border-left:5px solid #2d71d5}ul.left-tabs li:hover{text-decoration:none;color:#000;border-left:1px solid #2d71d5}ul.left-tabs li.selected:hover{border-left:5px solid #2d71d5}.left-tabs-content{width:650px;float:left}</style>
+	
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	
@@ -30,162 +90,49 @@
 	<link rel="start" href="/" title="Home">
 	<link rel="shortcut icon" href="/favicon.ico">
 </head>
-<body>
+<body class="">
 	
 	
-<div id="full_overlay" style="display:none;" onclick="close_overlay()"></div>
-<div id="popup_wrapper" class="align_center popup_wrapper" style="display:none;">
-	<h3 id="popup_title"></h3>
-	<img id="btn_popup_close" src="/i/common/btn_popup_close.png" alt="Close" title="Close" onclick="close_overlay()">
-	<div id="popup_message">
-		<div id="popup_img"></div>
-		<div>
-			<p id="popup_par"></p>
-			<ul>
-				<li id="popup_head"><h3>Club Fit Brains</h3></li>
-				<li>Get Full Access to all features and games on Fit Brains</li>
-				<li>Play Over 30 fun and challenging Brain games</li>
-				<li>Track your Progress, View Balance Charts, Complete Training Circuits</li>
-				<li>Receive Personalized Game Recommendations, Earn Awards &amp; Challenge Friends</li>
-			</ul>
-			<span id="btn_start_training" class="btn_m_primary span-5">
-				<a href="/guest_upgrade">Upgrade Now!</a>
-			</span>
-		</div>
-	</div> 
-</div>
-<div id="difficult_wrapper" style="display:none;"></div>
-<!-- The overlay content MUST have background color set to something, otherwise Flash shows through. -->
-<iframe id="upsell_container" frameborder="0" style="display:none; z-index:9001; position:fixed;width:800px; height:450px; border:0; background:none;overflow:hidden;top:10px;">
-</iframe>
+	
 	<div id="wrapper">
-		<div id="main_container" class="container clearfix overflow relative">
-			
-			<div id="header">
-								<a href="/">
-						<img id="logo_fitbrains" src="/i/common/logo_fitbrains.jpg" alt="Fit Brains. Guilt Free Fun" title="Fit Brains">
+					<div id="control">
+				<a href="/login" class="button slim mright5">Login</a>
+				<a class="button slim orange" href="/signup/?ref=header">Start Training</a>
+			</div>
+		
+		<div id="main_container" class="container clearfix overflow rel">
+							<div id="header" class="outside">
+					
+					<a href="/" id="logo_fitbrains">
+						<img src="http://www.fitbrains.com/i/common/xlogo_fitbrains.jpg.pagespeed.ic.kAe3vAnDfV.jpg" alt="Fit Brains. Guilt Free Fun" title="Fit Brains">
 					</a>
-				<ul id="navigation">
-					<li>
-						<a href="/" class="first">Home</a>
-					</li>
-					<li>
-						<a href="/tour/">Tour</a>
-					</li>
-					<li id="mnu_games">
-						<a href="/brain-games/" class="has_dropdown">Games</a>
-						<ul id="dropdown_games" class="mnu_dropdown" style="display:none;"> 
-							<li class="mnu_dropdown_top"> 
-								<span> 
-									<a href="/brain-games/">Games</a>
-								</span>
-							</li>
-							<li class="mnu_dropdown_rest">
-								<ul>
-								<li>
-									<a href="/brain-games/">View All</a>
-								</li>							
-								<li>
-									<a href="/brain-games/logic">Problem Solving</a>
-								</li> 							
-								<li>
-									<a href="/brain-games/memory">Memory</a>
-								</li>
-								<li>
-									<a href="/brain-games/concentration">Concentration</a>
-								</li>
-								<li>
-									<a href="/brain-games/language">Language</a>
-								</li>
-								<li class="mnu_last_row">
-									<a href="/brain-games/visual">Visual</a>
-								</li>
-								</ul>							
-							</li>
-						</ul>
-					</li>
-					<!-- ./mnu_games -->
-					<li id="mnu_science">
-						<a href="/science/" class="has_dropdown">Science</a>
-						<ul id="dropdown_science" class="mnu_dropdown" style="display:none;"> 
-							<li class="mnu_dropdown_top"> 
-								<span> 
-									<a href="/science/">Science</a>
-								</span>
-							</li>
-							<li class="mnu_dropdown_rest">
-								<ul>
-								<li>
-									<a href="/science/">Overview</a>
-								</li>
-								<li>
-									<a href="/science/cognitive_areas/logic.php">Problem Solving</a>
-								</li>								
-								<li>
-									<a href="/science/cognitive_areas/memory.php">Memory</a>
-								</li>
-								<li>
-									<a href="/science/cognitive_areas/concentration.php">Concentration</a>
-								</li>
-								<li>
-									<a href="/science/cognitive_areas/language.php">Language</a>
-								</li>
-								<li class="mnu_last_row">
-									<a href="/science/cognitive_areas/visual.php">Visual</a>
-								</li>
-								</ul>							
-							</li>	
-						</ul>						
-					</li>
-					<!-- ./mnu_science -->
-					<li id="mnu_lifestyle_tips">
-						<a href="/lifestyle/" class="has_dropdown">Lifestyle Tips</a>
-						<ul id="dropdown_lifestyle_tips" class="mnu_dropdown" style="display:none;"> 
-							<li class="mnu_dropdown_top mnu_lifestyle"> 
-								<span> 
-									<a href="/lifestyle/">Lifestyle Tips</a>
-								</span>
-							</li>
-							<li class="mnu_dropdown_rest mnu_lifestyle">
-								<ul>
-								<li>
-									<a href="/lifestyle/">Overview</a> 
-								</li>							
-								<li>
-									<a href="/lifestyle/physical">Physical Activity</a> 
-								</li>
-								<li>
-									<a href="/lifestyle/nutrition">Nutrition</a>
-								</li>
-								<li>
-									<a href="/lifestyle/mental">Mental Stimulation</a>
-								</li>
-								<li>
-									<a href="/lifestyle/socialization">Socialization</a>
-								</li>
-								<li class="mnu_last_row">
-									<a href="/lifestyle/spirituality">Spirituality</a>
-								</li>	
-								</ul>						
-							</li>	
-						</ul>
-					</li>
-					<!-- ./mnu_lifestyle_tips -->
-					<li>
-						<a href="http://www.fitbrains.com/blog/">Blog</a>
-					</li>
-									</ul>
-									<div id="control">	
-						<div class="fl_right">
-							<a href="/login" class="button mright5">
-								Login
+
+					<div id="tabs-outside">
+						<div class="big-tabs">
+							<a href="/" class="">
+								<span class="green"></span>
+								<span>Home</span>
 							</a>
-							<a class="button orange mright20" href="/signup/">
-								Start Training
+							<a href="/brain-games" class="">
+								<span class="green"></span>
+								<span>Brain Games</span>
+							</a>
+							<a href="/why-fitbrains" class="">
+								<span class="green"></span>
+								<span>Why Fit Brains</span>
+							</a>
+							<a href="/how-we-help" class="">
+								<span class="green"></span>
+								<span>How We Help</span>
+							</a>
+							<a href="/blog" class="" style="border-right:1px solid #ddd;"> <!--IE-->
+								<span class="green"></span>
+								<span>Blog</span>
 							</a>
 						</div>
 					</div>
-							</div>
+				</div>
+			
 
 <div id="main" class="clearfix">
 	<div id="content" class="span-22 prepend-1 append-1">
@@ -214,11 +161,11 @@
 		<h2 class="f16">Changes in the privacy policy</h2>
 		<p>Vivity Labs may amend this policy from time to time. Changes will be published on this page.</p>
 	</div>
-	<!-- ./content -->			
+		
 </div>	
-<!-- ./main -->
-</div>
-<!-- ./main_container -->
+
+			<div class="clear"></div>
+		</div>
 		<div id="footer" class="container">
 			<p id="corporate_links" class="align_center">
 				<a href="/about/?ref=footer">About Us</a> | 
@@ -234,12 +181,23 @@
 			</p>
 		</div><!-- ./footer -->
 	</div><!-- ./wrapper -->
-	<div id="modal_overlay_iframe_container" onclick="ModalOverlay.hide()" style="display:none;">
-	<div>
+	<div id="modal_overlay_iframe_container" style="display:none;" onclick="ModalOverlay.hide()">
+	<div onclick="ModalOverlay.hide()">
 		<iframe id="modal_overlay_iframe" allowtransparency="true" frameborder="0" scrolling="no" src=""></iframe>
 	</div>
 </div>
-<div id="modal_overlay_mask" style="display:none;"></div>
+<div id="modal_overlay_mask" style="display:none;" onclick="ModalOverlay.hide()"></div>
+	<!-- Google Code for Brain Games -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">//<![CDATA[
+var google_conversion_id=1057568053;var google_conversion_label="L1FjCLOl3AEQteqk-AM";var google_custom_params=window.google_tag_params;var google_remarketing_only=true;
+//]]></script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1057568053/?value=0&amp;label=L1FjCLOl3AEQteqk-AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 	
 
 </body></html>
