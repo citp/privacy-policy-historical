@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profootballtalk.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629045603id_/http%3A//profootballtalk.nbcsports.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballtalk.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085353id_/http%3A//profootballtalk.nbcsports.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ProFootballTalk
 
