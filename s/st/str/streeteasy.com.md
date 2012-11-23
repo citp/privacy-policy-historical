@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620010954id_/http%3A//streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090349id_/http%3A//streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,8 +49,8 @@ If you have any questions or concerns about this privacy policy, our online prac
  
 
 StreetEasy  
-895 Broadway, 5th Floor  
-New York, NY 10003  
+13 Crosby St, 2nd Floor  
+New York, NY 10013  
 +1 646 365 0283 
 
    
