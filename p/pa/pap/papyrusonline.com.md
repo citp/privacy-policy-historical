@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195520id_/http%3A//www.papyrusonline.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123200335id_/http%3A//www.papyrusonline.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -12,7 +12,7 @@
 
   * Papyrus will take reasonable physical, electronic and managerial measures to safeguard and secure any information you provide to us (e.g., data will be stored in protected databases on secured servers with restricted access).
 
-  * Papyrus will honor its customers’ requests to not receive future communication from Papyrus
+  * Papyrus will honor its customers’ requests to not receive future marketing communications from Papyrus
 
 
 
@@ -21,7 +21,7 @@
 
 Generally, you may visit the Papyrus web site without revealing personal information about yourself. When you visit our web site, however, we may track your Internet domain address, any search engine you may have used to locate the web site, and we may track certain navigational information about where you go on our web site. This information enables us to determine which areas of the web site are most frequently visited and helps us tailor the web site to the needs and interests of our online visitors.
 
-You will remain anonymous unless you specifically request otherwise. When you purchase a product online, we ask for your name, mailing address, phone number, and your credit card number to complete your order. In some cases, we may use this information to personalize your future experience with Papyrus. For example, if your zip code indicates you live near one of our stores, we may notify you about an upcoming event (such as a sale or workshop). If you do not wish to be contacted, please let us know and we will remove your name from our email list immediately (see Opt-Out Procedures below).
+You will remain anonymous unless you specifically request otherwise. When you purchase a product online, we ask for your name, email address, mailing address, phone number, and your credit card number to complete your order. In some cases, we may use this information to personalize your future experience with Papyrus. For example, if your zip code indicates you live near one of our stores, we may notify you about an upcoming event (such as a sale or workshop). If you do not wish to be contacted, please let us know and we will remove your name from our email list immediately (see Opt-Out Procedures below).
 
 #### Disclosure of Personal Information
 
@@ -43,7 +43,7 @@ The personal data record created through your registration with this web site ca
 
 #### Opt-Out Procedures
 
-You may always opt-out of receiving future communications from Papyrus by either (a) clicking the “Unsubscribe” link at the bottom of the email message, or (b) making a request through customer service. If you request not to receive information from Papyrus, it may take several weeks to have your name removed from our files. Your request not to receive information will not preclude us from contacting you regarding a question we have about your purchase. 
+You may always opt-out of receiving future marketing communications from Papyrus by either (a) clicking the “Unsubscribe” link at the bottom of the email message, or (b) making a request through customer service. If you request not to receive information from Papyrus, it may take several weeks to have your name removed from our files. Your request not to receive information will not preclude us from contacting you regarding a question we have about your purchase. 
 
 #### Use of Cookies
 
