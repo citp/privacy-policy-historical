@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoebacca.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625001244id_/http%3A//www.shoebacca.com/resources/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebacca.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123154527id_/http%3A//www.shoebacca.com/resources/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Shipping - SHOEBACCA.com
+# Privacy Policy - SHOEBACCA.com
 
   1. ### Acknowledgement and Acceptance of Terms of Use
 
