@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525073105id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123214221id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Security & Privacy
 
 ## Our Company
 
 Our postal address is:  
-900 Fortress Street - Suite 100  
+282 Convair Ave.  
 Chico, CA 95973
 
 We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 864-2555, which is our customer service call center.
@@ -24,7 +24,7 @@ We receive and store any information you enter on our Web site or give us in any
 
 ## Automatic Information
 
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses a Build.com store. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Build.com if we cannot recognize you, we want you to be aware that these tools exist.
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses Faucet.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Faucet.com if we cannot recognize you, we want you to be aware that these tools exist.
 
 ## Cookies
 
@@ -32,7 +32,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ## Emails and Newsletters
 
-Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Faucet.com and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
+Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Faucet.com uses email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
 
   * A direct response to an inquiry,
   * Communication concerning an order (receipt, shipping confirmation, etc), or
@@ -54,6 +54,10 @@ Information about our customers is an important part of our business, and we are
 
 ## Conditions of Use, Notices, and Revisions
 
-If you choose to visit Build.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Build.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
+If you choose to visit Faucet.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Faucet.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
 
-**Copyright © 2000-2011 Build, Inc. All Rights Reserved.**
+## Does Faucet.com Participate in the Safe Harbor Program?
+
+Faucet.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and European Commission. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/) or view our [Safe Harbor Privacy Policy](https://web.archive.org/index.cfm?page=help:safeharborprivacypolicy)
+
+**Copyright © 2000-2012 Build.com. All Rights Reserved.**
