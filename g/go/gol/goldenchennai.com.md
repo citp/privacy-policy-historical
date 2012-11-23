@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenchennai.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520071312id_/http%3A//www.goldenchennai.com/chennai/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenchennai.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123213814id_/http%3A//www.goldenchennai.com/chennai/privacy-policy.php) for the most accurate reproduction.*
 
 # Golden Mumbai | Privacy Policy
 
