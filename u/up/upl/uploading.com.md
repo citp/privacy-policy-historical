@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploading.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618064150id_/http%3A//uploading.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploading.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123054647id_/http%3A//uploading.com/privacy) for the most accurate reproduction.*
 
 # Uploading.com - the simplest and secure way to host your files!
 
@@ -46,4 +46,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ### Contact information
 
-Should you have any questions or concerns regarding this Privacy Policy, please [contact us __](http://uploading.com/contactus/)
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us __](http://uploading.com/contactus)
