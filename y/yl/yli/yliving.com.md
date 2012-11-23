@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yliving.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125155407id_/http%3A//www.yliving.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yliving.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123084941id_/http%3A//www.yliving.com/privacypolicy.html) for the most accurate reproduction.*
 
 # YLiving Privacy Policy & Customer's Privacy Policy at YLiving.com
 
@@ -12,4 +12,7 @@ Both YLiving and our hosting provider, Yahoo!, may set and access cookies on you
 
 By using our web site, you consent to the collection and use of this information by YLiving. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+  
+
+
+YLiving presents: Modern Furniture + Accessories from Knoll, Herman Miller, Blu Dot, Gus Modern + more. 
