@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604040428id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandz.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123050857id_/http%3A//www.ebrandz.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # eBrandz™ : Privacy Policy
 
@@ -18,11 +18,7 @@ While encryption is used to protect sensitive information transmitted online, we
 
 eBrandz uses third party tracking tools inlcuding Google to track data to understand performance of website. No personal identifiable information is collected. 
 
-  * Third party vendors, including Google, show our ads on sites on the internet. 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/).
-
-
+eBrandz uses Google Analytics remarketing feature for display advertising. If you would like to opt out of customized Google display network ads then kindly [visit link. ](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCh2njAV1thrZdMXgChtdY7nCNLhjT5B9eoOrcwSbKsZasRsHg1LA1g38NSLCo2rKNL1jOFQ6NKFg6lLRcKUjdbd-8ucHg&hl=en)
 
 **Contact Form**  
 In order for us to contact you, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. 
