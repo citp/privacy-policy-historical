@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markosweb.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520055728id_/http%3A//www.markosweb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markosweb.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123030718id_/http%3A//www.markosweb.com/policy) for the most accurate reproduction.*
 
 # MarkosWeb.com Privacy Policy
 
