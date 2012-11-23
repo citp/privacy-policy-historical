@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525085953id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085718id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Advance Auto Parts Monster Jam - Privacy Policy
 
