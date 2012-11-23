@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptana.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606040552id_/http%3A//www.aptana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptana.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123221658id_/http%3A//aptana.com/privacy) for the most accurate reproduction.*
 
 # Aptana | Privacy Policy
 
