@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharestiforp.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015105id_/http%3A//sharestiforp.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharestiforp.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124003732id_/http%3A//sharestiforp.com/privacyPolicy) for the most accurate reproduction.*
 
 # stiforP :: Privacy Policy
 
