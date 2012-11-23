@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081229id_/http%3A//fantasyfootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123071618id_/http%3A//fantasyfootball.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: 2011 Fantasy Football – Projections, Leagues, Free News and Headlines, Cheatsheets, Rankings, and Advice.
+# Privacy Policy :: Fantasy Football
 
 ## Fantasy Planet Privacy Policy
 
