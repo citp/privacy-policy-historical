@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529132914id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123073941id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Flat World Knowledge
+# Privacy Policy
 
 **PRIVACY POLICY  
 Effective as of March 17th, 2011**
@@ -40,7 +40,7 @@ If you have registered for the Websites, you may access, review, and make change
 
 **_How We Use and Share the Information_**
 
-We use the Personal Information and the Other Information to solicit your feedback, to inform you about our products and services and those of our third-party marketing partners, and to tailor messaging to you, including, without limitation, through the Online Free Reader and on other sections of the Websites. Also, we may use and/or share Personal Information and/or Other Information as described below.
+We use the Personal Information and the Other Information to solicit your feedback, to inform you about our products and services and those of our third-party marketing partners, and to tailor messaging to you, including, without limitation, through the Online Reader and on other sections of the Websites. Also, we may use and/or share Personal Information and/or Other Information as described below.
 
   * We may from time to time share the Personal Information and/or the Other Information with other companies who may provide you information about the products and services they offer. However, to the extent required by law, you will be given the opportunity to opt-out of such sharing. 
 
