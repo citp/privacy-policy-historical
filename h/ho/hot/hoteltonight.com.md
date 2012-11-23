@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190650id_/http%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123023824id_/http%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
 
 # Hotel Tonight - Privacy Policy
 
@@ -20,9 +20,9 @@ As used in this Policy, the term "personally identifiable information" means inf
 
 ### What Information Do We Collect?
 
-_Active Collection_ : We collect information from you in various ways when you use the Service. For example, when you use the Service, we collect information: (i) that is provided to us (such as your name, email address, telephone number, postal address, date of birth, credit card number, expiration date, authentication code, or similar information); (ii) to which you provide us access; (iii) about you that is publicly available; and (iv) received by us about you from third-party sources (such as credit agencies). You can choose not to provide certain personally identifiable information but, if you choose to do so, you might not be able to take advantage of the Service. 
+_Active Collection_ We collect information from you in various ways when you use the Service. For example, when you use the Service, we collect information: (i) that is provided to us (such as your name, email address, telephone number, postal address, date of birth, credit card number, expiration date, authentication code, or similar information); (ii) to which you provide us access; (iii) about you that is publicly available; and (iv) received by us about you from third-party sources (such as credit agencies). You can choose not to provide certain personally identifiable information but, if you choose to do so, you might not be able to take advantage of the Service. 
 
-_Passive Collection_ : When you use the Service, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session. 
+_Passive Collection_ When you use the Service, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Service. We may also automatically collect certain logistical information in server logs, including information about how you use various features of the Service and information about the number, frequency and length of each session. 
 
 We may also automatically collect certain information through the use of "cookies." Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us to improve the Service and your experience. If we link cookies to any personally identifiable information, we will treat this information as personally identifiable information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features or services made available via the Service. 
 
@@ -41,13 +41,13 @@ Personally identifiable information will be stored on secured servers, and we ma
 
 We use personally identifiable information collected through the Service for the purposes described in this Policy or elsewhere on the Service. For example, we may use personally identifiable information we collect: 
 
-  * to process and complete any transactions in connection the Service (e.g., to sell you a hotel room);
-  * to request feedback and to otherwise contact you about your use of the Service;
-  * to respond to your emails, questions, comments, requests and complaints, and to provide customer service;
+  * to process and complete any transactions in connection the Service (e.g., to sell you a hotel room); 
+  * to request feedback and to otherwise contact you about your use of the Service; 
+  * to respond to your emails, questions, comments, requests and complaints, and to provide customer service; 
   * to monitor and analyze Service usage and trends;
-  * to personalize and improve the Service, and our users' experiences with the Service (such as providing content or features that match interests), and to increase the Service's functionality and user friendliness;
-  * to provide you with news and information about our or third-party events, offers, promotions and services we think will be of interest to you;
-  * to send you confirmations, updates, security alerts and support and administrative messages, and otherwise facilitate your use of, and our administration and operation of, the Service;
+  * to personalize and improve the Service, and our users' experiences with the Service (such as providing content or features that match interests), and to increase the Service's functionality and user friendliness; 
+  * to provide you with news and information about our or third-party events, offers, promotions and services we think will be of interest to you; 
+  * to send you confirmations, updates, security alerts and support and administrative messages, and otherwise facilitate your use of, and our administration and operation of, the Service; 
   * to notify you about important changes to the Service; and
   * for any other purpose for which the information was collected.
 
@@ -58,14 +58,14 @@ We use personally identifiable information collected through the Service for the
 
 We will not knowingly share the personally identifiable information we collect from you through the Service with third-parties, except as described in this Policy or on the Service. For example, we may share personally identifiable information as follows: 
 
-  * with vendors, consultants, and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Service and who need access to such information to carry out their work for us;
+  * with vendors, consultants, and other service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Service and who need access to such information to carry out their work for us; 
   * with hotels where you have purchased a hotel room through the Service;
-  * when you give us your consent to do so, including if we notify you on the Service that the information you provide will be shared in a particular manner and you provide such information;
+  * when you give us your consent to do so, including if we notify you on the Service that the information you provide will be shared in a particular manner and you provide such information; 
   * in an aggregated or anonymized form that does not directly identify you;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of HotelTonight, our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting HotelTonight or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service;
-  * to enforce or apply this Policy, the Terms, or our other policies or agreements; and
-  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of HotelTonight.
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders; 
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of HotelTonight, our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting HotelTonight or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service; 
+  * to enforce or apply this Policy, the Terms, or our other policies or agreements; and 
+  * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of HotelTonight. 
 
 
 
@@ -99,4 +99,4 @@ You may "opt out" of receiving marketing or promotional emails from us by follow
 
 ### Questions?
 
-If you have any questions about this Policy, please contact us at [help@hoteltonight.com](https://web.archive.org/web/20120630190650id_/http%3A//www.hoteltonight.com/help@hoteltonight.com). 
+If you have any questions about this Policy, please contact us at [help@hoteltonight.com](mailto:help@hoteltonight.com). 
