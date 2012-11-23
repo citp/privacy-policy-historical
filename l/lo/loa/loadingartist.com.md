@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadingartist.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620051219id_/http%3A//www.loadingartist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadingartist.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085720id_/http%3A//www.loadingartist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Loading Artist
 
@@ -49,19 +49,25 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to [opt-out](http://www.networkadvertising.org/managing/opt_out.asp) of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
 
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.loadingartist.com/terms-and-conditions](https://web.archive.org/terms-and-conditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.loadingartist.com/terms-and-conditions>
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](https://web.archive.org/privacy-policy).
+By using our site, you consent to our [online privacy policy](http://www.loadingartist.com/privacy-policy).
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 14th September 2011
+This policy was last modified on 19th August 2012
 
 **Contacting Us**
 
