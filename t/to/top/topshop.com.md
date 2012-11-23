@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topshop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510053132id_/http%3A//www.topshop.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33057%26storeId%3D12556%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D277997%26interstitial%3Dtrue%26intcmpid%3DW_FOOTER_WK45_HP_UK_PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topshop.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123221233id_/http%3A//www.topshop.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33057%26storeId%3D12556%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D528992%26interstitial%3Dtrue%26intcmpid%3DW_FOOTER_WK45_HP_UK_PRIVACY_POLICY) for the most accurate reproduction.*
 
-# Privacy Policy - Topshop
+# Privacy & Cookies - Topshop
 
 References in this Privacy Policy Statement to "we", "us" and "Topshop" are to Arcadia Group Brands Limited (Trading as Topshop). At Topshop we are committed to maintaining your privacy. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our Website.
 
@@ -11,7 +11,7 @@ WHAT THE DATA WILL BE USED FOR?**
 Your data will enable us, and our processors, to fulfil your order, to notify you about important functionality changes and for statistical or survey purposes to improve this website and our services to you. We may also send you from time to time (by email or post) information about products and services and details of promotions and special offers from Topshop. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
 
 •    All email messages and email newsletters will contain information on how you can unsubscribe; or  
-•    Send an email to our customer services division on [feedback@topshop.com](mailto:feedback@topshop.com) writing "unsubscribe" in the subject heading; or  
+•    Send an email to our customer services division on [our feedback form](https://www.topshop.com/webapp/wcs/stores/servlet/ContactUs?catalogId=33057&storeId=12556&krypto=1W5XNcaiODDn4QR2OWLnAg%3D%3D&ddkey=http:ContactUs) writing "unsubscribe" in the subject heading; or  
 •    Call our customer services division - see the "[Contact Us](https://web.archive.org/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33057&storeId=12556&langId=-1&viewAllFlag=false&categoryId=277544&interstitial=true&TS=1302084478900#show-fragment-8)" section; or  
 •    Write to us at: Customer Services, Arcadia Group Limited, Colegrave House, 70 Berners Street, London W1T 3NL
 
