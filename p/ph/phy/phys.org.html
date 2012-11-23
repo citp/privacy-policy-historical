@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phys.org privacy policy that was archived on 2012-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528080050id_/http%3A//phys.org/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phys.org privacy policy that was archived on 2012-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123084318id_/http%3A//phys.org/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Phys.org : FAQ | Contact Us | Suggest a story idea</title>
@@ -9,7 +9,7 @@
 	<meta name="Keywords" content="" http-equiv="Keywords">
 	<meta name="Description" content="Phys.org help" http-equiv="Description">
 
-   	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+   	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="ROBOTS" content="INDEX,FOLLOW">
 	<meta name="ROBOTS" content="noodp">
 	
@@ -21,7 +21,7 @@
 	<link rel="alternate" title="Customize feed" href="http://phys.org/feeds/" type="application/rss+xml">
 	<link rel="shortcut icon" href="http://cdn.physorg.com/favicon.ico" type="image/x-icon">
 	
-	<link rel="stylesheet" type="text/css" href="http://s.ph-cdn.com/tmpl/v3/css/default/s.7.19.opt.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://s.ph-cdn.com/tmpl/v3/css/default/s.7.21.opt.css" media="screen">
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="http://s.ph-cdn.com/tmpl/v3/css/default/fix-ie.css" media="screen" /><![endif]-->
 	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="http://s.ph-cdn.com/tmpl/v3/css/default/fix-ie6.css" media="screen" /><![endif]-->
 	<!--[if lte IE 6]><script type="text/javascript" src="http://cdn.physorg.com/tmpl/v3/js/fixIE6.js"></script><![endif]-->
@@ -69,7 +69,7 @@
 	       
 	       <script language="JavaScript">
 		       <!--
-		       var q = new popupHint('mainwrapper', false, '', '20120510'); 
+		       var q = new popupHint('mainwrapper', false, 'Reading Phys.org on your mobile device? Enjoy a convenient format at your fingertips. Phys.org can now be found on Google Currents (Android and iOS). <a href="http://phys.org/help/gmedia/">Read more...</a>', '20121021'); 
 			-->						
 	       </script>
 
@@ -292,38 +292,28 @@
 	
 	<!-- Analytics -->
  	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-73855-5']);
-	  
-	  if( adOn() )
-	  _gaq.push(['_setCustomVar',
-	      1,                   // This custom var is set to slot #1.  Required parameter.
-	      'adBlock',     	
-	      'Yes',               // This value of the custom variable.  Required parameter.
-	      1                    // Sets the scope to visitor-level.  Optional parameter.
-   	  ]); 
-	  
-	  if ( typeof mid != "undefined" )
-	  	if (mid != '0' && mid != '') {
-		   _gaq.push(['_setCustomVar',
-		      2,                   // This custom var is set to slot #2.  Required parameter.
-		      'Member Type',     	// The name acts as a kind of category for the user activity.  Required parameter.
-		      'Yes',               
-		      1                    // Sets the scope to visitor-level.  Optional parameter.
-	   	 	]); 
-		 }
-	  
-	  _gaq.push(['_trackPageview']);
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-73855-5']);
+		
+		//adBlock
+		adOn()&&_gaq.push(["_setCustomVar",1,"adBlock","Yes",1]);
+		//userType
+		"undefined"!=typeof mid&&"0"!=mid&&""!=mid&&_gaq.push(["_setCustomVar",2,"userType","Member",1]);
+		//userHash
+		var hash=window.location.hash.substring(1);
+		0<hash.length&&_gaq.push(["_setCustomVar",3,"userHash",hash,1]);
+
+		_gaq.push(['_trackPageview']);
 	
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+		(function() {
+		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
 	</script>
  	
  	
 	
 
-<!-- Resources: 1 --> 
-<!-- Created in 0.173 s--></b></div></body></html>
+<!-- Resources: 2 --> 
+<!-- Created in 0.423 s--></b></div></body></html>
