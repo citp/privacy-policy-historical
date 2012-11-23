@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailyinquirer.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510085719id_/http%3A//www.thedailyinquirer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyinquirer.net privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085030id_/http%3A//www.thedailyinquirer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Daily Inquirer
 
