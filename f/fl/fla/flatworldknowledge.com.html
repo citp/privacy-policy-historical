@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the flatworldknowledge.com privacy policy that was archived on 2012-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529132914id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flatworldknowledge.com privacy policy that was archived on 2012-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123073941id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Privacy Policy | Flat World Knowledge</title>
+    <title>Privacy Policy </title>
 <script src="https://www.sc.pages05.net/lp/static/js/iMAWebCookie.js?f3c2edc-12b681bffb5-c6f842ded9e6d11c5ffebd715e129037&amp;h=www.pages05.net" type="text/javascript"></script>
         <meta name="description" content="">
     <meta name="com.silverpop.brandeddomains" content="www.pages05.net,flatworldknowledge.com">
     <meta name="com.silverpop.cothost" content="engage5.silverpop.com">
-    <meta property="og:image" content="http://static.flatworldknowledge.com//sites/all/themes/flatworld/images/landings/lady-loves-books.png">
+    <meta property="og:image" content="http://students.flatworldknowledge.com/images/students/masthead.png">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!--[if lt IE 7]>
             <script type="text/javascript">document.execCommand("BackgroundImageCache", false, true);
@@ -18,8 +18,8 @@
         <script type="text/javascript" src="/sites/all/modules/pngbehave/iepngfix_tilebg.js"></script>
     <![endif]-->
 <link rel="shortcut icon" href="/sites/all/themes/flatworld/images/fwk_favicon.ico" type="image/x-icon">
-    <link type="text/css" rel="stylesheet" media="all" href="http://static.flatworldknowledge.com/sites/all/files/css/css_396e3a200e5fe9b21737750e4124722b.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://static.flatworldknowledge.com/sites/all/files/css/css_76f7d3ec1b9531e77ed3fcc1eb0f1500.css">
+    <link type="text/css" rel="stylesheet" media="all" href="http://static.flatworldknowledge.com/sites/all/files/css/css_b745950ed4ac8fea312c97608e6e0918.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://static.flatworldknowledge.com/sites/all/files/css/css_1b07ca9eb88b84c8bd0fbecd8e370209.css">
 <!--[if IE]>
 <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?I" />
 <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/flatworld/css/flatworld_ie.css?I" />
@@ -27,7 +27,7 @@
     <!--<script type="text/javascript"  src="https://getfirebug.com/firebug-lite.js"></script>-->
     <!-- TODO: Set PHP parameter to make this available only in testing. -->
 
-    <script type="text/javascript" src="http://static.flatworldknowledge.com/sites/all/files/js/js_b7b070e5da612f7fbc059133e6f25ad8.js"></script>
+    <script type="text/javascript" src="http://static.flatworldknowledge.com/sites/all/files/js/js_9053d2cb365e87ef34e6ee3b34188304.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } });
@@ -39,8 +39,29 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
       var sc_report_suite = 'fwkdev2';
       var static_url = 'http://static.flatworldknowledge.com/';
     </script>
+         <script type="text/javascript">
+     $(function() {
+       var nav_book = $("#navBooks_30 a");
+       try { var href = $("#navCat_30 a").first().attr('href'); }
+       catch(e) { var href = $("#navCat_30 a").attr('href'); }
+       //bookshelf is throwing errors without the if-stmt
+       if (nav_book.length > 0) {
+	 nav_book.bind('mouseover', function() {
+	   var library = $('ul#library-menu');
+	   if (library.is(":empty")) {
+	     library.html("<li class='invisible' />");
+	     library.addClass('cp-loader').css('min-height', '30px');
+	     $.getScript(href + "/user/library");
+	   } else { return }
+	 }); 
+       };
+     });
 
-      </head>
+     var addLoginFeature = function(event) {
+       document.location.href = 'http://catalog.flatworldknowledge.com/users/sign_in?destination='+document.location.href;
+     }
+     </script>
+  </head>
 
   <body class="not-front not-logged-in page-node node-type-page one-sidebar sidebar-left page-privacy-policy section-privacy-policy">
     <!-- SiteCatalyst code version: H.23.3.
@@ -50,7 +71,7 @@ More info available at http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.server="web1";
+s.server="web5";
 s.channel="Legal";
 s.pageType="";
 s.prop1="www";   
@@ -98,7 +119,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
   
   <div class="content">
     
-    <div id="sign-up-or-login"><a href="http://students.flatworldknowledge.com"><div id="subnavStudents_30"></div> <div>|</div></a><a href="/user/register" class="signup"><div id="subnavSignup_30"></div></a> <div id="subnavOr_30"></div> <a href="/user/login" class="login"><div id="subnavLogin_30"></div></a></div>
+    <div id="sign-up-or-login"><a href="http://students.flatworldknowledge.com"><div id="subnavStudents_30"></div> <div>|</div></a><a href="http://catalog.flatworldknowledge.com/users/sign_up?destination=http://www.flatworldknowledge.com/privacy-policy" class="signup"><div id="subnavSignup_30"></div></a> <div id="subnavOr_30"></div> <a href="http://catalog.flatworldknowledge.com/users/sign_in?destination=http://www.flatworldknowledge.com/privacy-policy" class="login"><div id="subnavLogin_30"></div></a></div>
     <div id="lightbox-container"><div id="login" class="lightbox">
   <form action="/privacy-policy?destination=node%2F314" accept-charset="UTF-8" method="post" id="user-login-form">
 <div>
@@ -131,7 +152,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
           {refresh_page: true}
       );" class="form-submit" src="http://static.flatworldknowledge.com/sites/all/themes/flatworld/images/buttons/login-button.png">
 </div>
-         <div style="display: none"><input type="hidden" name="form_build_id" id="form-210f41537c9bf4eb1a811517c5d5c8d9" value="form-210f41537c9bf4eb1a811517c5d5c8d9">
+         <div style="display: none"><input type="hidden" name="form_build_id" id="form-6f05fab8d3652a5b3aec9f6c0b6976ba" value="form-6f05fab8d3652a5b3aec9f6c0b6976ba">
 <input type="hidden" name="form_id" id="edit-fwk-textbook-user-login-block-form" value="fwk_textbook_user_login_block_form">
 </div>
          <p>Don't have an account yet? <a href="/user/register" class="signup">Sign Up</a> | <a href="/user/password" class="forgot-pass">Forgot Username or Password?</a></p>
@@ -155,12 +176,17 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
               };
 
               if (jQuery.browser.msie && jQuery.browser.version < 7) {return false; }
-                                                                  Utility.immediacy(function(){new FWKLightbox( "#login", options )});
                                                                   })();
                                                                   </script>
           </div><!--signupLogin-end-->
           <div id="navigation_30">
             <ul>
+              <li id="navBooks_30" class="topCats_30"><a href=" ">
+                  <div id="navMyBooks_30" class="down_arrow_30"></div></a>
+                <ul id="library-menu" class="cp-loader"></ul>
+                  
+              </li>
+              <li class="nav_sep_30"><div class="navbarSep_30"></div></li>
               <li id="navCat_30" class="topCats_30"><a href="http://catalog.flatworldknowledge.com">
                   <div id="navOurCat_30" class="down_arrow_30"></div></a>
                 <ul>
@@ -175,6 +201,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
               <li class="nav_sep_30"><div class="navbarSep_30"></div></li>
               <li id="navEdu_30" class="topCats_30"><a href="/educators"><div id="navEducators_30" class="down_arrow_30"></div></a>
                 <ul id="educator-ie-fix_30">
+				  <li><a href="/free2fair">Free to Fair</a></li>
+				  <li><a href="/about">Our Story</a></li>
                   <li><a href="/educators">Learn More</a></li>
                   <li><a href="http://catalog.flatworldknowledge.com">Browse Catalog</a></li>
                   <li><a href="http://catalog.flatworldknowledge.com/bookshelf">My Account</a></li>
@@ -191,7 +219,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
                 </ul>
                         </div><!--navigation-end-->
         </div><!--navSide-end-->
-        <div class="float-left" style="float:left;margin-top:30px;margin-left:20px">
+        <div class="float-left" style="float:left;margin-top:30px;margin-left:10px">
             <span class="addthis_toolbox addthis_default_style" id="addthis-settings">
                 <a class="addthis_button_google_plusone" g:plusone:count="false"></a> 
                 <a class="addthis_button_preferred_1"></a>
@@ -273,7 +301,7 @@ Effective as of March 17th, 2011</strong></p>
 <p><strong><u>Accessing and Modifying Information</u></strong></p>
 <p>If you have registered for the Websites, you may access, review, and make changes to your Personal Information and/or your Billing Information by sending an email to our support attendants at <a href="mailto:help@flatworldknowledge.com">help@flatworldknowledge.com</a>.  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Flat World Knowledge marketing email.  Registered users cannot opt out of receiving transactional e-mails related to their account.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.     </p>
 <p><strong><u>How We Use and Share the Information  </u></strong></p>
-<p>We use the Personal Information and the Other Information to solicit your feedback, to inform you about our products and services and those of our third-party marketing partners, and to tailor messaging to you, including, without limitation, through the Online Free Reader and on other sections of the Websites.  Also, we may use and/or share Personal Information and/or Other Information as described below.</p>
+<p>We use the Personal Information and the Other Information to solicit your feedback, to inform you about our products and services and those of our third-party marketing partners, and to tailor messaging to you, including, without limitation, through the Online Reader and on other sections of the Websites. Also, we may use and/or share Personal Information and/or Other Information as described below.</p>
 <ul>
 <li>
 <p>We may from time to time share the Personal Information and/or the Other Information with other companies who may provide you information about the products and services they offer.  However, to the extent required by law, you will be given the opportunity to opt-out of such sharing.  </p>
@@ -348,6 +376,7 @@ Irvington, NY 10533. </p>
         <div id="fNav_2_30" class="fNavs_30">
           <ul>
             <li><h4><a href="/about">ABOUT US</a></h4></li>
+			<li><a href="/free2fair">Free to Fair</a></li>
             <li><a href="/about">Our Story</a></li>
             <li><a href="/how-it-works-1">How It Works</a></li>
             <li><a href="/our-team">Our Team</a></li>
@@ -398,7 +427,7 @@ Irvington, NY 10533. </p>
         </div><!--page30-end-->
   </div><!--page-end-->
 
-  <script type="text/javascript" src="http://static.flatworldknowledge.com/sites/all/files/js/js_27fb4039987787f88ea4d00931b7d8cb.js"></script>
+  <script type="text/javascript" src="http://static.flatworldknowledge.com/sites/all/files/js/js_819e2f86cf100c94a6f336aae50bfc9f.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
