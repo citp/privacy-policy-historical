@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mangago.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607062331id_/http%3A//www.mangago.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangago.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123040725id_/http%3A//www.mangago.com/privacy.php) for the most accurate reproduction.*
 
-# Update Fastest-Read Free Yaoi Manga Series And Comics Online At Mangago
+# Read Free Yaoi Manga - Mangago
 
 The following webpage outlines Mangago's collection and use of personal information from it's users. Mangago.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to Mangago with anyone. This includes your e-mail address, name, and location. Upon logging on to Mangago such things as your IP address and hostname are logged for statistical and security reasons.
 
