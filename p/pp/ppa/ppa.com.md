@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617035535id_/http%3A//www.ppa.com/about/ppa-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123213442id_/http%3A//www.ppa.com/about/ppa-privacypolicy.php) for the most accurate reproduction.*
 
 # PPA Privacy Policy | Professional Photographers of America
 
 **PPA PRIVACY STATEMENT**  
-Last updated September 3, 2008
+Last updated July 13, 2012
 
 Thank you for visiting PPA.com, the Web site of Professional Photographers of America (PPA). Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this PPA site.
 
@@ -46,7 +46,7 @@ We use cookies to understand site usage and to improve the content and offerings
 **Collection of Information by Third-Party Sites, Ad Servers, and Sponsors**  
 PPA.com contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies and notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-PPA.com may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, Web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. For more information on this site's use of such third-party ad servers, please click here.
+PPA.com uses Google DoubleClick for Publishers to present or serve the advertisements that you may see on PPA.com Web pages. This third-party ad server may use cookies, Web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of this technology by Google DoubleClick for Publishers is subject to its own privacy policies and is not covered by our privacy statement.
 
 **Our Commitment to Security**  
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
@@ -76,6 +76,6 @@ For general information regarding privacy you can visit TRUSTe, BBB Online, or t
 
 
 
-The Privacy Statement posted on this site was last updated on September 3, 2008.
+The Privacy Statement posted on this site was last updated on July 13, 2012.
 
-© 2008, Professional Photographers of America. All Rights Reserved.
+© 2012, Professional Photographers of America. All Rights Reserved.
