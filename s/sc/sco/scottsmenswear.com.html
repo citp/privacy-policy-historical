@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scottsmenswear.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621032615id_/http%3A//www.scottsmenswear.com/customer-service/privacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scottsmenswear.com privacy policy that was archived on 2012-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123090635id_/http%3A//www.scottsmenswear.com/customer-service/privacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -59,9 +59,9 @@
 	
 
  
-</head><body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 40px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
+</head><body>
 	<!-- overall page container -->	
-    <div id="page" class="web20120621032615id_http%3Awww.scottsmenswear.comcustomer-serviceprivacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy">		
+    <div id="page" class="web20121123090635id_http%3Awww.scottsmenswear.comcustomer-serviceprivacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy">		
 	<!--[if IE]><div class="thisIsIE"><![endif]-->
 	<!--[if lte IE 6]><div class="thisIsIE6"><![endif]-->
 	
@@ -116,9 +116,9 @@
 
 
 	
+	
 		
 	
-	
 
 
 
@@ -134,7 +134,17 @@
 
 
 
-<!-- needed -->
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -214,6 +224,7 @@
 
 
  
+
 
 
 
@@ -312,9 +323,6 @@
 
 
 <script type="text/javascript" src="/js/jd_scripts.js"></script>
-<!-- Maxymiser script start -->
-<script type="text/javascript" src="//maxymiser.hs.llnwd.net/o36/jdsports/js/mmcore.js"></script>
-<!-- Maxymiser script end -->
 <script>
 
 
@@ -326,6 +334,7 @@ function trim(str) {
 
 function submitSearch(formName)
 {
+var pluForCm ="";
 var form = eval(formName);
 var RegularExpression = /^[Ss]*[0-9]{5,6}$/;
 var cssExpression1 = /</;
@@ -343,10 +352,13 @@ if(RegularExpression.test(searchCriteria))
 	{
 	form.action ='/webapp/wcs/stores/servlet/ExtProductDisplayCmd';
 	form.mfpartNumber.value = searchCriteria.replace("S","").replace("s","");
+	pluForCm  = form.mfpartNumber.value;
 	}
 	
 form.freeText.value = searchCriteria.replace(new RegExp( "\'", "g" ),'');
-
+var searchTag ="Home-_-Header-_-search";
+var targetUrl = form.action+'?cm_re='+searchTag+'&storeId='+11801+'&catalogId='+12551+'&langId='+-1+'&mfpartNumber='+pluForCm +'&freeText='+searchCriteria; 
+cmCreateManualLinkClickTag(targetUrl,null,null);
 form.submit()	
 
 }
@@ -368,6 +380,7 @@ form.submit()
 
 								
 							
+
 				
       
                                     
@@ -385,12 +398,15 @@ form.submit()
 
 
 <div id="header">     
-	<a href="http://www.scottsmenswear.com/home" id="logo" accesskey="M"><img src="/images/logo.png" title="Scotts" alt="Scotts"></a>
+	<a href="http://www.scottsmenswear.com/home/?cm_re=Home-_-Header-_-logo" id="logo" accesskey="M"><img src="/images/logo.png" title="Scotts" alt="Scotts"></a>
 	<form action="/webapp/wcs/stores/servlet/CatalogSearchResultView" method="get" id="search" name="headerSearch" onsubmit="javascript:submitSearch('document.headerSearch')">
+        <input type="hidden" name="cm_re" value="Home-_-Header-_-search"> 
         <input type="hidden" name="storeId" value="11801">
         <input type="hidden" name="catalogId" value="12551">
         <input type="hidden" name="langId" value="-1">
         <input type="hidden" name="mfpartNumber" value="">
+	 
+
             <label>Search site</label>
 	    <input name="freeText" type="text" value="Enter your search here" onblur="if(this.value=='') this.value='Enter your search here';" onfocus="if(this.value=='Enter your search here') this.value='';">
 	    <button onclick="javascript:submitSearch('document.headerSearch')" title="Search" accesskey="]"><span>search</span></button>
@@ -400,6 +416,9 @@ form.submit()
  
 
 		
+			
+			 
+					
 
   
 
@@ -523,6 +542,7 @@ form.submit()
 
 
  
+
 
 
 
@@ -677,8 +697,8 @@ form.submit()
 
 			
 			
-			<div id="miniBasketContainer">
-				<div id="miniBasket">
+			<div id="miniBasketContainer" style="height: 32px;">
+				<div id="miniBasket" style="top: -32px; height: 32px;">
 					<div>
 					<!--[if lte IE 6]><iframe src="javascript:false;" width="100%" height="100%" ></iframe><![endif]--> 
                      <!-- iFrame Background to prevent select boxes appearing above miniBasket IE6 -->
@@ -716,6 +736,8 @@ form.submit()
 	
 	
 
+					
+		
 
 
     
@@ -724,7 +746,7 @@ form.submit()
       
       
          
-            <li class="first"><span><a id="homeLink" class="home" href="http://www.scottsmenswear.com/home" accesskey="M">Home</a></span></li>         
+            <li class="first"><span><a id="homeLink" class="home" href="http://www.scottsmenswear.com/home?cm_re=Home-_-nav-_-home" accesskey="M">Home</a></span></li>         
          
          
          
@@ -746,6 +768,14 @@ form.submit()
 					<ul id="clothingMenuItems">
 					  <!--[if lte IE 6]><iframe src="javascript:false;"></iframe><![endif]-->
 						<li>
+							
+							
+								
+								
+								
+								
+								
+								
 							
 
 
@@ -843,48 +873,44 @@ form.submit()
 						
 				
 					<ul class="menuCol">
-<li class="menMenuHeading"><span>Shop by Category</span></li>
-<li><span><a href="/clothing/polos/">Polos</a></span></li>
-<li><span><a href="/clothing/knits/">Knits</a></span></li>
-<li><span><a href="/clothing/chinos/">Chinos</a></span></li>
-<li><span><a href="/clothing/jeans-and-trousers/">Jeans &amp; Trousers</a></span></li>
-<li><span><a href="/clothing/shorts/">Shorts</a></span></li>
-<li><span><a href="/clothing/jackets-and-coats/">Jackets &amp; Coats</a></span></li>
-<li><span><a href="/clothing/tees-and-vests/">Tees &amp; Vests</a></span></li>
-<li><span><a href="/clothing/hoodies/">Hoodies</a></span></li>
-<li><span><a href="/clothing/shirts/">Shirts</a></span></li>
-<li><span><a href="/clothing/sweats/">Sweats</a></span></li>
-<li><span><a href="/clothing/track-tops/">Track Tops</a></span></li>
-<li><span><a href="/clothing/track-pants/">Track Pants</a></span></li>
+	<li class="menMenuHeading"><span>Shop by Category</span></li>
+	<li><span><a href="/clothing/polos/">Polos</a></span></li>
+	<li><span><a href="/clothing/knits/">Knits</a></span></li>
+	<li><span><a href="/clothing/chinos/">Chinos</a></span></li>
+	<li><span><a href="/clothing/jeans-and-trousers/">Jeans &amp; Trousers</a></span></li>
+	<li><span><a href="/clothing/shorts/">Shorts</a></span></li>
+	<li><span><a href="/clothing/jackets-and-coats/">Jackets &amp; Coats</a></span></li>
+	<li><span><a href="/clothing/tees-and-vests/">Tees &amp; Vests</a></span></li>
+	<li><span><a href="/clothing/hoodies/">Hoodies</a></span></li>
+	<li><span><a href="/clothing/shirts/">Shirts</a></span></li>
+	<li><span><a href="/clothing/sweats/">Sweats</a></span></li>
+	<li><span><a href="/clothing/track-tops/">Track Tops</a></span></li>
+	<li><span><a href="/clothing/track-pants/">Track Pants</a></span></li>
+	<li><span><a href="/clothing/tracksuits/">Track Suits</a></span></li>
 </ul>
-
 <ul class="menuCol">
-<li class="menMenuHeading"><span>Shop by Brand</span></li>
-<li><span><a href="/clothing/brand/g-star/">G-Star</a></span></li>
-<li><span><a href="/clothing/brand/lyle-and-scott/">Lyle &amp; Scott</a></span></li>
-<li><span><a href="/clothing/brand/adidas-originals/">adidas Originals</a></span></li>
-<li><span><a href="/clothing/brand/emporio-armani-ea7/">Emporio Armani EA7</a></span></li>
-<li><span><a href="/clothing/brand/lacoste/">Lacoste</a></span></li>
-<li><span><a href="/clothing/brand/fred-perry/">Fred Perry</a></span></li>
-<li><span><a href="/clothing/brand/duffer-of-st-george/">Duffer of St. George</a></span></li>
-<li><span><a href="/clothing/brand/henri-lloyd/">Henri Lloyd</a></span></li>
-<li><span><a href="/clothing/brand/original-penguin/">Original Penguin</a></span></li>
-<li><span><a href="/clothing/brand/duck-and-cover/">Duck &amp; Cover</a></span></li>
-
-
-<li class="breakline"><span><a href="/brands/"><b>View all Brands</b></a></span></li>
+	<li class="menMenuHeading"><span>Shop by Brand</span></li>
+	<li><span><a href="/clothing/brand/g-star/">G-Star</a></span></li>
+	<li><span><a href="/clothing/brand/lyle-and-scott/">Lyle &amp; Scott</a></span></li>
+	<li><span><a href="/clothing/brand/adidas-originals/">adidas Originals</a></span></li>
+	<li><span><a href="/clothing/brand/emporio-armani-ea7/">Emporio Armani EA7</a></span></li>
+	<li><span><a href="/clothing/brand/lacoste/">Lacoste</a></span></li>
+	<li><span><a href="/clothing/brand/fred-perry/">Fred Perry</a></span></li>
+	<li><span><a href="/clothing/brand/duffer-of-st-george/">Duffer of St. George</a></span></li>
+	<li><span><a href="/clothing/brand/henri-lloyd/">Henri Lloyd</a></span></li>
+	<li><span><a href="/clothing/brand/original-penguin/">Original Penguin</a></span></li>
+	<li><span><a href="/clothing/brand/duck-and-cover/">Duck &amp; Cover</a></span></li>
+	<li><span><a href="/clothing/brand/pretty-green/">Pretty Green</a></span></li>
+	<li class="breakline"><span><a href="/brands/"><b>View all Brands</b></a></span></li>
 </ul>
-
 <ul class="menuCol">
-
-<li class="menMenuHeading"><span>Featured</span></li>
-<li><span><a href="/clothing/latest/">Latest Clothing</a></span></li>
-<li><span><a href="/clothing/search/exclusive+to+scotts/">Exclusive Clothing</a></span></li>
-<li><span><a href="/page/features">Features</a></span></li>
-<li class="sale"><span><a href="/clothing/sale/">Sale</a></span></li>
-
+	<li class="menMenuHeading"><span>Featured</span></li>
+    <li><span><a href="/page/christmas-2012/"><span style="color:#9c3d63;">Christmas Shop</span></a></span></li>
+	<li><span><a href="/clothing/latest/">Latest Clothing</a></span></li>
+	<li><span><a href="/clothing/exclusive/">Exclusive Clothing</a></span></li>
+	<li class="sale"><span><a href="/clothing/sale/">Sale</a></span></li>
+    
 </ul>
-
 			
 				
 
@@ -898,6 +924,7 @@ form.submit()
 
 
 
+							
 						</li>
 					</ul>
 				</li>
@@ -922,6 +949,14 @@ form.submit()
 					  <!--[if lte IE 6]><iframe src="javascript:false;"></iframe><![endif]-->
 						<li>
 							
+							
+								
+								
+								
+								
+								
+								
+							
 
 
 
@@ -1018,36 +1053,33 @@ form.submit()
 						
 				
 					<ul class="menuCol">
-<li class="menMenuHeading"><span>Shop by Category</span></li>
-<li><span><a href="/footwear/trainers/">Trainers</a></span></li>
-<li><span><a href="/footwear/sports-classics/">Sports Classics</a></span></li>
-<li><span><a href="/footwear/boots-and-shoes/">Boots &amp; Shoes</a></span></li>
-<li><span><a href="/page/espadrilles-ss12">Espadrilles</a></span></li>
-<li><span><a href="/footwear/canvas-and-plimsoles">Canvas &amp; Plimsoles</a></span></li>
-<li><span><a href="/footwear/hi-tops">Hi-Tops</a></span></li>
-<li><span><a href="/footwear/sandals-and-flip-flops/">Sandals &amp; Flip Flops </a></span></li>
+	<li class="menMenuHeading"><span>Shop by Category</span></li>
+	<li><span><a href="/footwear/trainers/">Trainers</a></span></li>
+	<li><span><a href="/footwear/sports-classics/">Sports Classics</a></span></li>
+	<li><span><a href="/footwear/boots-and-shoes/">Boots &amp; Shoes</a></span></li>
+	<li><span><a href="/page/espadrilles-ss12">Espadrilles</a></span></li>
+	<li><span><a href="/footwear/canvas-and-plimsoles/">Canvas &amp; Plimsoles</a></span></li>
+	<li><span><a href="/footwear/hi-tops/">Hi-Tops</a></span></li>
+	<li><span><a href="/footwear/sandals-and-flip-flops/">Sandals &amp; Flip Flops </a></span></li>
 </ul>
-
 <ul class="menuCol">
-<li class="menMenuHeading"><span>Shop by Brand</span></li>
-<li><span><a href="/footwear/brand/fred-perry/">Fred Perry</a></span></li>
-<li><span><a href="/footwear/brand/timberland/">Timberland</a></span></li>
-<li><span><a href="/footwear/brand/adidas-originals/">Adidas Originals</a></span></li>
-<li><span><a href="/footwear/brand/nike/">Nike</a></span></li>
-<li><span><a href="/footwear/brand/firetrap/">Firetrap</a></span></li>
-<li><span><a href="/footwear/brand/lacoste/">Lacoste</a></span></li>
-<li><span><a href="/footwear/brand/deakins/">Deakins</a></span></li>
-<li class="breakline"><span><a href="/brands/"><b>View all Brands</b></a></span></li>
+	<li class="menMenuHeading"><span>Shop by Brand</span></li>
+	<li><span><a href="/footwear/brand/adidas-originals/">Adidas Originals</a></span></li>
+	<li><span><a href="/footwear/brand/lacoste/">Lacoste</a></span></li>
+	<li><span><a href="/footwear/brand/fred-perry/">Fred Perry</a></span></li>
+	<li><span><a href="/footwear/brand/nike/">Nike</a></span></li>
+	<li><span><a href="/footwear/brand/puma/">Puma</a></span></li>
+	<li><span><a href="/footwear/brand/timberland/">Timberland</a></span></li>
+	<li><span><a href="/footwear/brand/deakins/">Deakins</a></span></li>
+	<li><span><a href="/footwear/brand/luke-1977/">Luke</a></span></li>
+	<li class="breakline"><span><a href="/brands/"><b>View all Brands</b></a></span></li>
 </ul>
-
 <ul class="menuCol">
-
-<li class="menMenuHeading"><span>Quick Links</span></li>
-<li><span><a href="/footwear/latest/">Latest Footwear</a></span></li>
-<li><span><a href="/footwear/search/exclusive+to+scotts/">Exclusive Footwear</a></span></li>
-<li><span><a href="/page/features/">Features</a></span></li>
-<li class="sale"><span><a href="/footwear/sale/">Sale</a></span></li>
-
+	<li class="menMenuHeading"><span>Quick Links</span></li>
+     <li><span><a href="/page/christmas-2012/"><span style="color:#9c3d63;">Christmas Shop</span></a></span></li>
+	<li><span><a href="/footwear/latest/">Latest Footwear</a></span></li>
+	<li><span><a href="/footwear/exclusive/">Exclusive Footwear</a></span></li>
+	<li class="sale"><span><a href="/footwear/sale/">Sale</a></span></li>
 </ul>
 			
 				
@@ -1062,6 +1094,7 @@ form.submit()
 
 
 
+							
 						</li>
 					</ul>
 				</li>
@@ -1085,6 +1118,14 @@ form.submit()
 					<ul id="accessoriesMenuItems">
 					  <!--[if lte IE 6]><iframe src="javascript:false;"></iframe><![endif]-->
 						<li>
+							
+							
+								
+								
+								
+								
+								
+								
 							
 
 
@@ -1207,11 +1248,12 @@ form.submit()
 <ul class="menuCol">
 
 <li class="menMenuHeading"><span>Quick Links</span></li>
+<li><span><a href="/page/christmas-2012/"><span style="color:#9c3d63;">Christmas Shop</span></a></span></li>
 <li><span><a href="/accessories/latest/">Latest Accessories</a></span></li>
-<li><span><a href="/accessories/search/exclusive+to+scotts/">Exclusive Accessories</a></span></li>
-<li><span><a href="/page/features">Features</a></span></li>
+<li><span><a href="/accessories/exclusive/">Exclusive Accessories</a></span></li>
 <li class="sale"><span><a href="/accessories/sale/">Sale</a></span></li>
 </ul>
+
 			
 				
 
@@ -1225,15 +1267,16 @@ form.submit()
 
 
 
+							
 						</li>
 					</ul>
 				</li>
 			</ul>
 		</li>
 <li><span><a id="" class="brandsLink" href="/brands/">Brands</a></span></li>	
-<li><span><a id="" class="authorityLink" href="/page/features/">Features</a></span></li>	
+	
 <li><span><a id="" class="storefinderLink" href="/store-finder/">Our Stores</a></span></li>
-<li><span><a id="" class="saleLink" href="/sale/">Sale</a></span></li>
+<li><span><a id="" class="saleLink" href="/sale/?fredhopperUrl=fh_location=//catalog01/en_GB/sale={only20view20sale20items}&amp;fh_reffacet=sale&amp;fh_refview=home&amp;fh_eds=%C3%9F&amp;fh_refpath=facet_2">Sale</a></span></li>
 
 		
 		
@@ -1245,6 +1288,14 @@ form.submit()
     
     <ul id="secondaryNavigation">
 		<li>
+			
+			
+				
+				
+				
+				
+				
+				
 			
 
 
@@ -1326,6 +1377,8 @@ form.submit()
 			
 		
 			
+				
+			
 
 			
 			
@@ -1359,34 +1412,26 @@ form.submit()
 
 		
 
-		
-			
-						
-				
-					<ul id="USPs">
-
-<li><a id="freeDeliveryHeader" href="/customer-service/deliveryinfo">Free UK delivery over £50</a></li>
- 
-<li><a id="NDDeliveryHeader" href="/customer-service/deliveryinfo">Free Delivery to any scotts store</a></li>
-
-<li><a id="intDeliveryHeader" style="left:664px;" href="/customer-service/deliveryinfo#International">International delivery £4.99 </a></li>
-
-</ul>
-			
-				
-
-				
-			
 		
 			
 						
 				
 					
 
-<ul id="cookieLink">
-<li><a href="/page/cookies">Cookies</a></li>
-</ul>
 
+
+			
+				
+
+				
+			
+		
+			
+						
+				
+					<div style="height:40px; background-color:#711439;">
+    <a href="/customer-service/deliveryinfo?cm_re=Global-_-Footer-_-free-standard-delivery-over-20-pounds"><img alt="Free Standard Delivery over 20 pounds" title="Free Standard Delivery over 20 pounds" src="/lib/images/banners/free-standard-121107.gif"></a>
+</div>
 			
 				
 
@@ -1400,6 +1445,7 @@ form.submit()
 
 
 
+			
 		</li>
     </ul>
     
@@ -1409,18 +1455,23 @@ form.submit()
 	    
 	    
 	    
-    		<li><a href="http://www.scottsmenswear.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11801&amp;catalogId=12551" accesskey="x">Login</a></li>
-    		<li><a href="http://www.scottsmenswear.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11801&amp;catalogId=12551" accesskey="z">Create Account</a></li>
+    		<li><a href="http://www.scottsmenswear.com/webapp/wcs/stores/servlet/LogonForm?cm_re=Home-_-Header-_-login&amp;langId=-1&amp;storeId=11801&amp;catalogId=12551">Login</a></li>
+    		<li><a href="http://www.scottsmenswear.com/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=11801&amp;catalogId=12551?cm_re=Home-_-Header-_-create+account">Create Account</a></li>
 	       
 	     
-        <li><a href="http://www.scottsmenswear.com/store-finder" accesskey="f">Store Finder</a></li>
-        <li class="lastItem"><a href="http://www.scottsmenswear.com/customer-service/faqs" accesskey="=">Customer Service</a></li>
-    </ul>
+        <li><a href="http://www.scottsmenswear.com/store-finder?cm_re=Home-_-Header-_-Store+finder">Store Finder</a></li>
+       <li class=""><a href="http://www.scottsmenswear.com/customer-service/faqs?cm_re=Home-_-Header-_-customer+service">Customer Service</a></li>
+<li class="lastItem"><a href="/page/cookies">Cookies</a></li>
+
+            </ul>
     
     </div>
     
+   
+
 </div>
 <!-- /header -->
+
 
 
 
@@ -1782,6 +1833,7 @@ form.submit()
 
 
 
+
            
            
            
@@ -1865,11 +1917,14 @@ form.submit()
 
 
 
+
+ 
 
  
   
  
  
+
 
 
 <h1>Privacy policy</h1>
@@ -1881,7 +1936,7 @@ It forms part of our terms and conditions, which we may amend from time to time.
 We also collect personal information about you by using "cookies" on our Web Site - please see the section on cookies below. We collect the following information about you in order to process our orders: your name, address, delivery address (if different), credit or debit card number and expiry date. We also ask for a telephone number to contact you if there are any difficulties with your order.</p>
 
 <h2>Use of information</h2>
-<p>We use the information we collect about you to process orders, deal with any enquiry or request and/or to send you information about our products and offers from time to time. Your credit card details are taken through a secure server for processing by your card provider, our card processor and our . Please see our terms and conditions for details of the measures we take to try and ensure the security of your data. We will pass your name and delivery address on to the carrier responsible for delivering your order. We may also use the information that we collect to inform you about new products, offers or changes to our products. If you would prefer not to receive any marketing information, please send an e-mail to help@scottsmenswear.com.
+<p>We use the information we collect about you to process orders, deal with any enquiry or request and/or to send you information about our products and offers from time to time. Your credit card details are taken through a secure server for processing by your card provider, our card processor and our bank . Please see our terms and conditions for details of the measures we take to try and ensure the security of your data. We will pass your name and delivery address on to the carrier responsible for delivering your order. We may also use the information that we collect to inform you about new products, offers or changes to our products. If you would prefer not to receive any marketing information, please send an e-mail to help@scottsmenswear.com.
 The information collected about you will not be used for any other purposes and will not be sold or otherwise disclosed to any other organisations, except to (i) other companies within our group, (ii) our or their successors in title and (iii) third party service providers engaged by us (or other members of our group) to help operate our business effectively. From time to time your personal information may be processed by systems which are located outside the United Kingdom. Where this happens, we will ensure that your information will be kept secure and your privacy rights remain protected consistent with the Data Protection Act 1998.</p>
 
 <h2>Cookies</h2>
@@ -2170,6 +2225,7 @@ the operators of these sites may collect information from you which will be used
 
 
 
+
            
            
            
@@ -2253,6 +2309,8 @@ the operators of these sites may collect information from you which will be used
 
 
 
+
+ 
 
  
   
@@ -2261,12 +2319,12 @@ the operators of these sites may collect information from you which will be used
 
 
 
+
 <div class="footerMain">
 <div id="footerAdditional">
 	<a href="http://www.facebook.com/scottsofficial" target="_blank"><img src="/lib/home/facebook-icon.gif" title="View Scotts on FaceBook" alt="Facebook image" class="social-icon"></a>
 	<a href="http://www.twitter.com/scottsmenswear" target="_blank"><img src="/lib/home/twitter-icon.gif" title="View Scotts on Twitter" alt="Twitter image" class="social-icon"></a>
 	<a href="http://www.youtube.com/scottsofficial" target="_blank"><img src="/lib/home/youtube-icon.gif" title="View Scotts on YouTube" alt="YouTube image" class="social-icon"></a>
-	<img src="/lib/home/cards-icon.gif" title="Ways to pay" alt="Types of card accepted image" class="cards-icon">
 
 </div>
 
@@ -2275,8 +2333,9 @@ the operators of these sites may collect information from you which will be used
 	<ul>
 		<li><a href="/competitions/?cm_re=Global-_-Footer-_-Competitions">Competitions</a></li>
 		<li><a href="/search/football+casuals?cm_re=Global-_-Footer-_-Football-Casuals">Football Casuals</a></li>
-        <li><a href="/page/football-league?cm_re=Global-_-Footer-_-Fantasy-Football">Fantasy Football</a></li>
+        <!--<li><a href="/page/scotts-football-league?cm_re=Global-_-Footer-_-Fantasy-Football">Fantasy Football</a></li>-->
         <li><a href="https://www.voucherexpress.co.uk/verse/scotts/default.aspx" target="_blank">Giftcard</a></li>
+        <li><a href="/page/christmas-2012/?cm_re=Global-_-Footer-_-christmas"><span style="color:#751239;"><i>Christmas Shop</i></span></a></li>
 	</ul>
     <ul>
          <li><a href="/customer-service/contactus?cm_re=Global-_-Footer-_-Contact-Us">Contact Us</a></li>
@@ -2290,16 +2349,9 @@ the operators of these sites may collect information from you which will be used
 	    <li><a href="/customer-service/faqs?cm_re=Global-_-Footer-_-FAQ">FAQ's</a></li>
         <li><a href="/page/student-discount/?cm_re=Global-_-Footer-_-Student-Discount">10% Student Discount</a></li>
 	</ul>
-	<ul>
-		<li><a href="/customer-service/sitesecurity?cm_re=Global-_-Footer-_-Site-Security">Site Security</a></li>
-		<li><a href="/customer-service/privacy?cm_re=Global-_-Footer-_-Privacy">Privacy</a></li>
-		<li><a href="/customer-service/termsandconditions/?cm_re=Global-_-Footer-_-Terms-Conditions">Terms &amp; Conditions</a></li>
-		<li><a target="_blank" href="http://www.peoplebank.com/pb3/corporate/JD_Sports/Scotts/?cm_re=Global-_-Footer-_-Careers-at-Scotts">Careers at Scotts</a></li>
-	</ul>
+	
     <div class="storeDelivery">
-        <h3>Free Delivery To Store</h3>
-        <p>Enjoy free delivery of any order to your local store. <a href="/customer-service/deliveryinfo#dts">Find out more</a></p>
-        <br>
+
         <h3>Store Finder</h3>
         <form id="storeFind" name="storeFind" action="/webapp/wcs/stores/servlet/StoreFinderCmd" method="get">
         
@@ -2340,19 +2392,30 @@ the operators of these sites may collect information from you which will be used
     
 </div><!-- end footerLinks -->
 
+<div id="established2">
+	
+		<a href="/customer-service/sitesecurity?cm_re=Global-_-Footer-_-Site-Security">Site Security</a> &nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/customer-service/privacy?cm_re=Global-_-Footer-_-Privacy">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/customer-service/termsandconditions/?cm_re=Global-_-Footer-_-Terms-Conditions">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a target="_blank" href=" http://careers.scottsmenswear.com?cm_re=Global-_-Footer-_-Careers-at-Scotts">Careers at Scotts</a>
+  <img src="/lib/home/cards-icon.gif" class="cards-icon"> </div>
+
+
+
 <div id="established">
 	<a id="estImage" href="/page/about-us/">
-		<img alt="Established 1984 logo" title="View the Scotts Story page." src="/lib/home/est1984-icon.png"></a>
+	<img alt="Established 1984 logo" title="View the Scotts Story page." src="/lib/home/est1984-icon.png"></a>
 </div>
 
-<!-- footer banner
-<div class="stickyfooter" style="height:50px; background-color:#711439;">
-    <a href="scottsmenswear.com/customer-service/deliveryinfo?cm_re=Global-_-Footer-_-free-next-day-delivery"><img src="/lib/images/banners/free-next-day-delivery-120601.gif" title="Free Next Day Delivery" alt="Free Next Day Delivery"/></a>
-</div> -->
 
-<!--<div class="stickyfooter" style="height:50px;">
-    <img src="/lib/images/banners/bank-hol-120501.gif" alt="Free Nexy Day Delivery over &pound;75"/>
-</div>-->
+<!-- <div class="stickyfooter" style="height:50px; background-color:#711439;">
+    <a href="scottsmenswear.com/customer-service/deliveryinfo?cm_re=Global-_-Footer-_-free-delivery-over-25-pounds"><img src="/lib/images/banners/free-delivery-25-120828-maroon.gif" title="Free UK Delivery over 25 pounds" alt="Free UK Delivery over 25 pounds"/></a>
+</div>
+
+footer banner
+<div class="stickyfooter" style="height:50px;">
+    <a href="page/scotts-football-league/?cm_re=Global-_-Footer-_-scotts-football-league-banner"><img src="/lib/images/banners/fantasy-league-120808.gif" alt="Join the scotts Fantasy Football League"/></a>
+</div>--> 
 
 
 
@@ -2779,6 +2842,9 @@ ecos_img.src = ecos_buildurl('i') + '&nosup=1';
     <!--/page-->
 
 <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script> 
+<script language="JavaScript1.1" type="text/JavaScript">
+cmSetupOther({"cm_TrackImpressions":""}); 
+</script>
 <script language="JavaScript1.1" type="text/JavaScript" src="/wcsstore/coremetrics/cmcustom.js"></script>
 <script language="JavaScript1.1" type="text/JavaScript">
 <!--
@@ -2786,7 +2852,10 @@ ecos_img.src = ecos_buildurl('i') + '&nosup=1';
                  cmSetupNormalization("krypto-_-krypto");
     //cmSetProduction();
 //-->
-</script><script language="JavaScript1.1" type="text/JavaScript">
+</script>
+			<script type="text/javascript" src="/js/optimost_global_body1.js"></script>
+			<script type="text/javascript" src="/js/optimost_global_body2.js"></script>            
+            <script language="JavaScript1.1" type="text/JavaScript">
 <!--
 cmCreatePageviewTag("Help\/Privacy ", "HELP", null, null, 11801);
 //-->
