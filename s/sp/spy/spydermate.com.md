@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spydermate.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508135131id_/http%3A//spydermate.com/page/show/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spydermate.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123215852id_/http%3A//spydermate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SpyderMate
+# Privacy Policy | SpyderMate SEO Tools
 
 ### What do you do with the information you collect?
 
