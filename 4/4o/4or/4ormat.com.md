@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628232918id_/http%3A//4ormat.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123020816id_/http%3A//4ormat.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4ormat
 
 **Last Updated on 15.February.2011**
 
-This is the Privacy Policy of the 4ormat website (together with our affiliates and subsidiaries, “IdeaForm Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information 
+This is the Privacy Policy of the 4ormat website (together with our affiliates and subsidiaries, “IdeaForm Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services (the “Site”). It describes the information that we collect from users of our Site (“Users”) as part of the normal operation of our Site, and how we use and disclose this information
 
 By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](https://web.archive.org/terms_of_service)
 
