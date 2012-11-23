@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 9xhost.info privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032210id_/http%3A//9xhost.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9xhost.info privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123195737id_/http%3A//9xhost.info/privacy-policy.html) for the most accurate reproduction.*
 
 # 9xhost - Privacy Policy
 
 ## The Privacy policy below describes how 9xhost (the Company) collects and uses information about its customers and website visitors (The Users)
 
-#### What information is collected from the User by the Company?
+####  What information is collected from the User by the Company? 
 
 Different types of personally identifiable information are collected from the user by the Company in order for the company to be able to provide its services. These includes, but is not limited to: name, mailing address, telephone numbers, email addresses, credit card information and other information that may be needed for providing the services requested by the User. All this information is provided voluntarily by the User through various order forms, email messages sent to the Company, submit forms, identification forms of LiveChat, information provided by the telephone etc. 
 
