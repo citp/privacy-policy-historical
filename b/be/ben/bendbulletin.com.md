@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525081127id_/http%3A//bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123222759id_/http%3A//www.bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001) for the most accurate reproduction.*
 
 # Privacy and security policy | | The Bulletin
 
-Published: May 25. 2012 4:00AM PST
+Published: November 23. 2012 4:00AM PST
 
 This policy discloses the privacy and security practices for bendbulletin.com and bendhomes.com, which are subject to change from time to time. Any such changes will be posted on this page and you will be bound to such changes by your continued use of the web site. Bendbulletin.com and bendhomes.com are intended for use by adults. Please see our Children's Privacy Statement below for additional safeguards to protect the privacy of personal information collected from children under 13. This policy applies to the web sites (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated, distributed, or created by us and post this policy. If you have any questions about bendbulletin.com's privacy practices, please contact us via e-mail at privacy@bendbulletin.com.
 
