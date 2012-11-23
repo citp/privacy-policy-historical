@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hookupclub.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530225940id_/http%3A//www.hookupclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookupclub.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123013633id_/http%3A//www.hookupclub.com/privacy) for the most accurate reproduction.*
 
 # HookupClub.com | Privacy Policy
 
@@ -62,7 +62,7 @@ We may also provide information about you to other users of the Site as reasonab
 
 **Marketing**
 
-We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at:
+By joining any site within JDI Dating Ltd you agree that we may use your contact information for the purpose of sending or advertising to you, information or promotional material relating to the JDI Dating Ltd network of sites or third party sites.
 
 You can set your browser not to accept cookies and the above website tells you how to do that. However, in a few cases some of the features on our Site may not function as a result. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
 
