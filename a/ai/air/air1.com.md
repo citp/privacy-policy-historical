@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524180220id_/http%3A//www.air1.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123061001id_/http%3A//www.air1.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # About > Air1 Radio, Positive, Alternative Music
 
