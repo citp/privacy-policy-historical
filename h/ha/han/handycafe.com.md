@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handycafe.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617163838id_/http%3A//www.handycafe.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handycafe.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123050456id_/http%3A//www.handycafe.com/policy.php) for the most accurate reproduction.*
 
-# Privacy & Policy - HandyCafe Internet Cafe Software
+# Privacy & Policy - HandyCafe Internet Cafe & WiFi Hotspot Software
 
 This is the web site of Ates Software.
 
