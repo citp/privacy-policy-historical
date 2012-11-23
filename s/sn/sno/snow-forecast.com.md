@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520144736id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123063322id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
 
-# Snow Forecasts, Snow Reports & Snow Conditions
+# Snow Forecast, Snow Reports & Snow Conditions
 
 ## **Privacy Statement for Snow-Forecast.com**
 
