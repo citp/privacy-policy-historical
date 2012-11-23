@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525000143id_/http%3A//www.woodworkersjournal.com/Main/Public/PrivacyPolicy1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123053656id_/http%3A//www.woodworkersjournal.com/Main/Public/PrivacyPolicy1.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Woodworkers Journal
 
@@ -105,9 +105,9 @@ Sign up to receive the premier online woodworking newsletter. Get FREE plans, in
   
 ADVERTISEMENT
 
-[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.woodworking.com%2ffreeplan&did=5d9caffe-cec6-4a88-87cb-144e7ff1c1fe&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=0e909096-d20f-4e22-a263-2564cc031f5e)  
+[](https://web.archive.org/Click.aspx?url=https%3a%2f%2fw1.buysub.com%2fservlet%2fOrdersGateway%3fcds_mag_code%3dWWJ%26cds_page_id%3d101177&did=6671d5a1-afd7-434f-818b-dd9c397cdc02&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=0e909096-d20f-4e22-a263-2564cc031f5e)  
   
-[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.duragrit.com&did=aeb4eab7-98c1-4d02-b597-de9c597db90d&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=4f34f58b-6071-4748-8452-6d9c2105b120)  
+[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.woodworkersjournal.com%2fMain%2fStore%2fTodays_Woodworker_Complete_Collection_644.aspx&did=a86bdff6-61d3-4f93-9180-53984ce6656f&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=4f34f58b-6071-4748-8452-6d9c2105b120)  
 ---  
 | 
 
