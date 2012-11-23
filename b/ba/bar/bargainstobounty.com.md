@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainstobounty.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524043116id_/http%3A//www.bargainstobounty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainstobounty.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090706id_/http%3A//www.bargainstobounty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Bargains to Bounty
 
@@ -29,7 +29,7 @@ We strive to maintain the safety of your personal information when you enter or 
 No.  
 Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
 
-However, we may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+However, we allow third-party companies to serve ads and/or collect certain anonymous information when you visit this site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
  **Do we disclose any information to outside parties?**
 
@@ -55,4 +55,4 @@ By using our website, you consent to our [privacy policy](http://www.freeprivacy
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
- _This policy was last modified on July 20, 2011._
+ _This policy was last modified on August 2, 2012._
