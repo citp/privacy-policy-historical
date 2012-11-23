@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501234229id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123231700id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Swell.com
 
@@ -65,7 +65,7 @@ We gather information in the following ways:
 
 **Contests and Sweepstakes:** When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional emails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information as a condition of your participation. 
 
-**Newsletters and Promotional E-mails:** We offer such as our Swell catalog, and promotional e-mails as a service to our customers. We will send you catalogs and e-mails periodically listing current specials and deals. To stop receiving, send an e-mail to us at [customerservice@swell.com](https://web.archive.org/web/20120501234229id_/http%3A//www.swell.com/c/%EF%BF%BDmailto:customerservice@swell.com%EF%BF%BD). 
+**Newsletters and Promotional E-mails:** We offer such as our Swell catalog, and promotional e-mails as a service to our customers. We will send you catalogs and e-mails periodically listing current specials and deals. To stop receiving, send an e-mail to us at [customerservice@swell.com](https://web.archive.org/web/20121123231700id_/http%3A//www.swell.com/c/%EF%BF%BDmailto:customerservice@swell.com%EF%BF%BD). 
 
 **Contact Information and Third Party Data:** If you contact Swell or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. 
 
