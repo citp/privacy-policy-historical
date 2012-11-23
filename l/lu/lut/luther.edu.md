@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525095330id_/http%3A//www.luther.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luther.edu privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123221407id_/https%3A//www.luther.edu/privacy) for the most accurate reproduction.*
 
 # Privacy: Luther College Privacy Policy
 
