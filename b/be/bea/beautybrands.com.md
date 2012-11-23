@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625055721id_/http%3A//www.beautybrands.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123031306id_/http%3A//www.beautybrands.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Beauty Brands
+# Privacy and Security | Beauty Brands
 
 **beautybrands.com** values its customers and respects their privacy. Customer information is collected in an effort to improve your online experience and to communicate with you about our products, services, contests and promotions. **beautybrands.com** only communicates with you in regard to an order placed, or if you register to be notified of special deals or enter a contest or promotion on our website. We do not share, trade or sell your information to anyone outside of **beautybrands.com** without your prior consent.
 
