@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfldraftdog.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620072043id_/http%3A//nfldraftdog.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfldraftdog.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123070441id_/http%3A//www.nfldraftdog.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
