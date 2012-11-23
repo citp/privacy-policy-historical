@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628072145id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123215843id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,7 +96,7 @@ Age UK Group and its National Partners will not be responsible for the posting b
 
 Like many other websites, the Age UK Sites use cookies. 'Cookies' are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit. They collect statistical data about your browsing actions and patterns and does not identify you as an individual. For example, we use cookies to store your country preference. This helps us to improve the Site and deliver a better more personalised service. 
 
-It is possible to switch off cookies by setting your browser preferences. For more information on how to switch off cookies on your computer, visit the [ AboutCookies website](http://www.aboutcookies.org/). Turning cookies of may result in a loss of functionality when using our Sites.
+It is possible to switch off cookies by setting your browser preferences. For more information on how to switch off cookies on your computer, visit the [ Read our full cookies policy](http://www.aboutcookies.org/). Turning cookies of may result in a loss of functionality when using our Sites.
 
 [Read our full cookies policy](http://www.ageuk.org.uk/help/cookies-policy/ "Read our full cookies policy")
 
