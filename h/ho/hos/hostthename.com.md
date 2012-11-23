@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostthename.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525113935id_/http%3A//www.hostthename.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostthename.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123061013id_/http%3A//www.hostthename.com/privacy-policy) for the most accurate reproduction.*
 
-# - Host The Name
+# Privacy Policy - Host The Name
 
 This is the web site of Host the Name, LLC. (hostthename.com)  
 For legal and privacy issues, our US address is:
