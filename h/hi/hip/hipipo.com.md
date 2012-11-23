@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611054518id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123055700id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
 
 # Terms: HiPipo.com
 
-|   
 ---  
 |    
 ---  
@@ -124,4 +123,9 @@ HiPipo.com reserves the right, in its sole discretion, to reject, refuse to post
 
 Please contact us at. with any questions regarding this Agreement.
 
-I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
+I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.  
+  
+|   
+---  
+  
+©2007 - 2012 Hipipo. All Rights Reserved. 
