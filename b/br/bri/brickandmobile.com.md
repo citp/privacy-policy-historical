@@ -1,52 +1,56 @@
-> *The following text is extracted and transformed from the brickandmobile.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626175525id_/http%3A//www.brickandmobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickandmobile.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123014936id_/http%3A//www.brickandmobile.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - brick&mobile | Mobile Marketing Made Easy
+# Privacy Policy
 
-_Last modified: February 7, 2012_
+_Last modified: September 7, 2012_
 
 At brick&mobile we recognize that privacy is important. This Privacy Policy applies to any brickandmobile.com web site, mobile website, web platform, product, marketing material, sales training course, subscription, and/or service (“Service”), offered by Axiom Marketing Inc. or its subsidiaries or affiliated companies (collectively, “brick&mobile”), and any person who uses any brick&mobile Service (“Customer” or “You” or “Your”).
 
-## **Information We Collect and How We Use It**
+####  **Information We Collect and How We Use It**
 
 We offer a number of Services that do not require You to register for a Service or provide any personal information to us. In order to provide our full range of Services, we may collect the following types of information:
 
-## **Information You Provide**
+####  **Information You Provide**
 
 When You sign up for a brick&mobile Service or other brick&mobile Service or promotion that requires registration, we ask You for personal information (such as Your name, email address, billing address, credit card or PayPal information) which we maintain in encrypted form on secure servers. brick&mobile uses collected information for the following general purposes: product and Service provision, billing, identification and authentication, Services improvement, contact, and research. We may combine the information You submit under Your Service with information from other brick&mobile Services or third parties in order to provide You with a better experience and to improve the quality of our Services. For certain Services, we may give You the opportunity to opt out of combining such information.
 
-## **Email Addresses**
+####  **Email Addresses**
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and collect information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our Service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or Services You have requested, when we have Your permission
 
-## **Cookies**
+####  **Cookies**
 
-When You visit brick&mobile, we send one or more cookies – a small file containing a string of characters – to Your computer or other device that uniquely identifies Your browser. We use cookies to improve the quality of our Service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. brick&mobile also uses cookies in its advertising Services to help advertisers and publishers serve and manage ads across the web. We may set one or more cookies in Your browser when You visit a website, including brick&mobile sites that use our advertising cookies, and view or click on an ad supported by brick&mobile’s advertising Services.
+When You visit brick&mobile, we send one or more cookies – a small file containing a string of characters – to Your computer or other device that uniquely identifies Your browser. We use cookies to improve the quality of our Service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. brick&mobile also uses cookies in its advertising Services to help advertisers and publishers serve and manage ads across the web, such as Google. We may set one or more cookies in Your browser when You visit a website, including brick&mobile sites that use our advertising cookies, and view or click on an ad supported by brick&mobile’s advertising Services. Third-party vendors, including Google, may also display brick&mobile advertisements on other sites across the Internet based on the cookies from advertising network partners.
 
-## **Log Information**
+ **Google Adwords Display Advertising Opt Out**
+
+You can opt out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively, you can opt out of our  third-party partner’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+####  **Log Information**
 
 When You access brick&mobile Services, our servers automatically record information that Your browser sends whenever You visit a website. These server logs may include information such as Your web request, Internet Protocol address, browser type, browser language, the date and time of Your request and one or more cookies that may uniquely identify Your browser.
 
-## **User Communications**
+####  **User Communications**
 
 When You send email or other communications to brick&mobile, we may retain those communications in order to process Your inquiries, respond to Your requests and improve our Services.
 
-## **Affiliated brick &mobile Services on Other Sites**
+####  **Affiliated brick &mobile Services on Other Sites**
 
 We offer some of our Services on or through other web sites. Personal information that You provide to those sites may be sent to brick&mobile in order to deliver the Service. We process such information under this Privacy Policy. The affiliated sites through which our Services are offered may have different privacy practices and we encourage You to read their privacy policies.
 
-## **Gadgets**
+####  **Gadgets**
 
 brick&mobile may make available third party applications through its Services. The information collected by brick&mobile when You enable a gadget or other application is processed under this Privacy Policy. Information collected by the application or gadget provider is governed by their privacy policies.
 
-## **Location Data**
+####  **Location Data**
 
 brick&mobile offers location-enabled Services, such as brick&mobile Maps for mobile or QR code tracking. If You use those Services, brick&mobile may receive information about Your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
 
-## **Links**
+####  **Links**
 
 brick&mobile may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. Read more information about links and redirected URLs.
 
-## **Other Sites**
+####  **Other Sites**
 
 This Privacy Policy applies to brick&mobile Services only. We do not exercise control over the sites displayed as search results, sites that include brick&mobile applications, products or Services, or links from within our various Services. These other sites may place their own cookies or other files on Your computer, collect data or solicit personal information from You.
 
@@ -62,7 +66,7 @@ brick&mobile only processes personal information for the purposes described in t
 
 brick&mobile processes personal information on our servers. In some cases, we process personal information on a server outside Your own country. We may process personal information to provide our own Services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
-## **Choices for Personal Information**
+####  **Choices for Personal Information**
 
 If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific Service privacy notices, we will offer You an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary Service privacy notices, unless we have obtained Your prior consent.
 
@@ -70,7 +74,7 @@ Most browsers are initially set up to accept cookies, but You can reset Your bro
 
 You can decline to submit personal information to any of our Services, in which case brick&mobile may not be able to provide these Services to You.
 
-## **Information Sharing**
+####  **Information Sharing**
 
 brick&mobile only shares personal information with other companies or individuals outside of brick&mobile in the following limited circumstances:
 
@@ -86,24 +90,24 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 brick&mobile may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when Your actions violate the Terms of Service.
 
-## **Information Security**
+####  **Information Security**
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
 We restrict access to personal information to brick&mobile employees, contractors and agents who need to know that information in order to operate, develop or improve our Service. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-## **Data Integrity**
+ **Data Integrity**
 
 brick&mobile processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable Service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our Service or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-## **Accessing and Updating Personal Information**
+####  **Accessing and Updating Personal Information**
 
 When You use any brick&mobile Service, we make good faith efforts to provide You with access to Your personal information and either to correct this data if it is inaccurate or to delete such data at Your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this Service free of charge, except if doing so would require a disproportionate effort. Some of our Services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these Services.
 
-## **Changes to this Privacy Policy**
+####  **Changes to this Privacy Policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce Your rights under this Privacy Policy without Your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain Services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for Your review.
 
-## **Questions**
+####  **Questions**
 
 Any questions about this Privacy Policy should be addressed to support@brickandmobile.com.
