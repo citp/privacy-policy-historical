@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the surething.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219180028id_/http%3A//www.surething.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surething.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090657id_/http%3A//www.surething.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SureThing and iSkinEm Information
-
-## Privacy Policy
+# Disc Labeler | www.surething.com
 
 ### PLEASE READ THIS PRIVACY POLICY CAREFULLY.
 
 Effective Date: January 1, 2011 
 
-By accessing or otherwise using this www.surething.com site, you agree to be bound contractually by this Privacy Policy. 
+By accessing or otherwise using this [http://www.surething.com](http://www.surething.com/) site, you agree to be bound contractually by this Privacy Policy. 
 
 ###  1\. Privacy Statement; Collection of Personal Information. 
 
@@ -104,10 +102,10 @@ MicroVision Development, Inc.
 Attn: Privacy Policy Officer  
 5541 Fermi Court, Suite 120  
 Carlsbad, CA, 92008  
-Email: compliance.officer@surething.com  
+Email: [compliance.officer@surething.com](mailto:compliance.officer@surething.com)  
 Telephone: 760.438.7781  
 Facsimile: 760.438.7406 
 
 ###  Material Modifications Since January 1, 2010: none. 
 
-Copyright © 2001-10 Digital Contracts, Inc. (http://www.digicontracts.com/). All Rights Reserved (this is not a Creative Commons license). This document is licensed only for use by the owner of this website. Copying or use of this document in whole or in part by anyone other than the licensee is prohibited. 
+Copyright © 2001-10 Digital Contracts, Inc. (<http://www.digicontracts.com/>). All Rights Reserved (this is not a Creative Commons license). This document is licensed only for use by the owner of this website. Copying or use of this document in whole or in part by anyone other than the licensee is prohibited. 
