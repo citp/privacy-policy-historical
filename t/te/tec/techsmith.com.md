@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606083235id_/http%3A//www.techsmith.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123073904id_/http%3A//www.techsmith.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,11 +18,27 @@ Okemos, MI 48864-5910 USA
 
 ## TechSmith's Use of Cookies and E-Mail
 
-TechSmith collects cookies on our Web site to capture information about page visits. This information is anonymous and TechSmith uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. TechSmith does not require that you accept cookies, however, some functionality on our Web site, our product or service check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preferences options in our products and/or services, where applicable. TechSmith never gives away information about our users. If you choose to e-mail us and provide personally identifiable information about yourself, TechSmith will use this information only to respond to your inquiry. TechSmith will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific TechSmith product or service.
+### What is a cookie?
+
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognizes a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and <http://www.youronlinechoices.com/uk/>. 
+
+For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
+
+The cookies used on this website have been categorized based on the categories found in the [ICC UK Cookie guide](http://www.international-chamber.co.uk/components/com_wordpress/wp/wp-content/uploads/2012/04/icc_uk_cookie_guide.pdf). A list of all the cookies used on this website by category is set out below.
+
+TechSmith collects cookies on our Web Site to capture information about page visits (e.g. “performance cookies.”) This information is anonymous and TechSmith uses this information only internally - to deliver the most effective content to our visitors. Information from the cookie is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site.
+
+In our email programs, TechSmith employs some tracking methods (e.g. “targeting, performance, and functionality cookies”). We track “opens” via a tracking pixel in the email- meaning we track who opens our e-mails messages and when you open our e-mail messages; and we track “clicks” via encoded URLs-meaning we track whether you click on the links contained in our e-mail messages. This information is used internally only to help us deliver relevant messaging, and is not shared with any third parties.
+
+TechSmith does not require that you accept cookies and/or you may withdraw your consent to our use of cookies at any time by adjusting your browser's privacy settings, however, some functionality on our Web site (e.g. “functionality cookies”), our product or service check-out process, and products and services may be disabled if you decline to accept cookies ( e.g. “necessary cookies”). 
+
+You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preference options in our products and/or services, where applicable. We will indicate that upon selecting your preferences, that we will use a cookie to remember your preferences.
+
+TechSmith never gives away information about our users. If you choose to provide personally identifiable information about yourself, TechSmith will use this information only to communicate directly with you. TechSmith will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific. 
 
 * * *
-
-  
 
 ## TechSmith's Use of Remarketing with Google Analytics
 
@@ -153,5 +169,3 @@ TechSmith regularly reviews its compliance with this Privacy Policy. Please feel
 ## No Error Free Performance
 
 TechSmith does not guarantee error-free performance under this Privacy Policy. TechSmith will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when TechSmith learns of any failure to comply with our Privacy Policy. TechSmith shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the State of Michigan and the United States to the extent applicable. 
-
- 
