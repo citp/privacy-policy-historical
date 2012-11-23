@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216120930id_/http%3A//searchmarketingnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingnow.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123051533id_/http%3A//digitalmarketingdepot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Search Marketing Now: Privacy Policy
 
 We want to protect your privacy. In order to operate, our web sites and business operations may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
 ### Personally Identifiable Information Collected
 
-Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number. We collect certain types of personal information when you register for an event, a webcast or a newsletter. This information may include:
+Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number.  
+We collect certain types of personal information when you register for an event, a webcast or a newsletter. This information may include:
 
   * your name
   * your title
