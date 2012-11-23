@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525070333id_/http%3A//firecore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123221329id_/http%3A//firecore.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FireCore
 
@@ -30,3 +30,6 @@ We use the information you provide about yourself when placing an order only to 
 
 **Our Commitment to Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+ **Opting out of mailings**  
+If you wish to stop receiving newsletter and announcement mailings you can click the 'unsubscribe' link found at the bottom of any of these mailings.
