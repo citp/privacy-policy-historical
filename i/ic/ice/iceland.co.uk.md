@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531005240id_/http%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123230147id_/http%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Iceland Foods
 
@@ -13,7 +13,7 @@ We only collect personal information that is knowingly and voluntarily given inc
 Our website does not store cookies on your computer, mobile or tablet device.  
 
  **Web Analytics – What information is collected from your device and how is it used?**  
-We use a web analytics service (eVisit Analyst) which compiles data your device automatically offers when you access any website in order to enable that site to function correctly, such as IP (internet protocol) address and browser user agent data (including browser type, operating system and device type). All information is processed anonymously and is not used in any way, or in combination with any other data, to personally identify individuals. The data is stored in the EU by our analytics service provider and is not shared with any other third party. 
+We use a web analytics service (eVisit Analyst) which compiles data your device automatically offers when you access any website in order to enable that site to function correctly, such as IP (internet protocol) address and browser user agent data (including browser type, operating system and device type). All information is processed anonymously and is not used in any way, or in combination with any other data, to personally identify individuals. The data is stored in the EU by our analytics service provider and is only shared with authorised third parties.
 
 This information is used to create web statistics data to help us build a picture of how our website is used including how many visitors we have, number of return visits, how frequently pages are viewed, what is popular with visitors and where in the world our visitors are located. We use this data to improve the way our website works so we can make sure our visitors can easily find what they are looking for and have a better overall browsing experience when they visit our website. 
 
@@ -47,4 +47,4 @@ If you know or suspect that someone else knows your password you should notify u
 Any changes to this policy will be published here.  
 
  **Contacting Us**  
-If you have any queries or concerns about the privacy of your information, or how we use your information, please write to our Legal Department at Iceland Foods Ltd, Second Avenue, Deeside Industrial Park, Deeside, Flintshire, CH5 2NW or telephone us on 01244 843610.
+If you have any queries or concerns about the privacy of your information, or how we use your information, please write to our Legal Department at Iceland Foods Ltd, Second Avenue, Deeside Industrial Park, Deeside, Flintshire, CH5 2NW or telephone _Customer Services_ on 01244 842842.
