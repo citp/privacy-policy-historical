@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashgenerator.co.uk privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526004709id_/http%3A//www.cashgenerator.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashgenerator.co.uk privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124184736id_/http%3A//www.cashgenerator.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
@@ -20,17 +20,15 @@ We may collect and process the following data about you:
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+The Cash Generator website uses 4 cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users on the website helping us to provide you with a good experience when you browse and transact on the Cash Generator website. They also allow us to improve our website based on visitor activity.
 
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
-  * To speed up your searches.
-  * To purchase goods and store items for purchase.
-  * To recognise you when you return to our site.
+We use a first party session cookie which allows essential functions such as remembering what you have put in your shopping basket as you browse around the site and allowing you to register and login. It also speed up your site searches and allows a secure connection to be provided when you are performing secure transactions. This cookie is not linked to any information we might hold against you as a customer. It expires when your session ends.
 
+We also use 3 performance cookies which allow us to anonymously track site usage and user behaviour allowing us to improve the performance of the website and the user experience on the site. These cookies are third party persistent cookies. The Cash Generator website uses Google Analytics, Adobe SiteCatalyst and Optimizely cookies. Google Analytics is a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate user behaviour on the website. Adobe SiteCatalyst (2o7.net) uses cookies, log file data and embedded code to gather data on behalf of Cash Generator. Optimizely sets a cookie in order to evaluate user behavior on the website. Google Analytics, Adobe SiteCatalyst and Optimizely track site usage and audience and help Cash Generator to improve the experience it provides to users on the website. 
 
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+You can choose whether to opt out of certain cookies that are set when you use the Cash Generator website, on the [Manage cookies page](https://web.archive.org/ManageCookies.aspx).
 
 ## WHERE WE STORE YOUR PERSONAL DATA
 
@@ -55,7 +53,7 @@ When you purchase goods for sale on our site, some of the sellers are our franch
 
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. 
 
-If you are an existing customer or have registered on our site, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to youWhere we permit selected third parties to use your data, they will contact you by electronic means only if you have consented to this.
+If you are an existing customer or have registered on our site, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. Where we permit selected third parties to use your data, they will contact you by electronic means only if you have consented to this.
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant boxes situated on the form on which we collect your data (the registration form).
 
@@ -67,9 +65,15 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Cash Generator Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use]() or [terms and conditions of supply]() and other agreements; or to protect the rights, property, or safety of Cash Generator Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use]() or [terms and conditions of supply]() and other agreements; or to protect the rights, property, or safety of Cash Generator Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
+
+## TRANSFERS OF INFORMATION OVERSEAS
+
+Some of Cash Generator’s servers are located at CNG Holdings, Inc. in the United States. This means that certain personal data is received in the United States about EU Residents. To properly protect this personal data on EU Residents, we adhere to the US-EU Safe Harbor Privacy Principles set forth by the U.S. Department of Commerce with respect to the collection, use, processing, and retention of such data in the United States. CNG Holdings, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view CNG Holdings, Inc.’s certification, please visit http://www.export.gov/safeharbor/ or contact us at in writing at our Head Office, Cash Generator Limited of CG House, Express Trading Estate, Stonehill Road, Bolton, Lancashire BL4 9TP.
+
+By providing us with your personal information on our Website or in the course of using our services, you consent to the transfer of your Personal Data to companies outside the EU, including Cash Generator and its affiliates, and authorised third parties, in accordance with this Privacy Policy.
 
 ## YOUR RIGHTS
 
