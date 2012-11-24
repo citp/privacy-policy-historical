@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coollcd.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504004513id_/http%3A//www.coollcd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coollcd.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124041031id_/http%3A//www.coollcd.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : COOLLCD.com
+# Privacy Notice : CoolLCD.com
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of COOLLCD Technology LTD. If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
 Whenever you interact with us, we will receive and deposit the given information.  
