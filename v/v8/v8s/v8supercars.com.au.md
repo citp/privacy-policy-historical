@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513083131id_/http%3A//www.v8supercars.com.au/PrivacyPolicy/tabid/633/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124041311id_/http%3A//www.v8supercars.com.au/PrivacyPolicy/tabid/633/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
