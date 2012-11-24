@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526132635id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124220928id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-**Last Updated: March 30, 2010**
+**Last Updated: July 13, 2012**
 
 This Privacy Policy sets forth the policies of Myron Corp. (“Myron,” “we,” “us” or “our”), located in the United States, with respect to personal information that is collected from Registered Users of the Site.  All capitalized terms not defined herein shall have the meaning attributed to them in the [Terms of Use](https://web.archive.org/eng/customerservice/termsofuse.cfm) of the Site. 
 
@@ -46,6 +46,13 @@ We also use third-party advertising companies to serve ads and/or collect certai
 
 Myron Corp. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Myron Corp. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Myron Corp.'s certification, please visit <http://www.export.gov/safeharbor/>.
 
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Myron commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Myron as described below in the How To Contact Us section.
+
+Myron has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Myron, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+  
+
+
 ## Links to other web sites
 
 This Privacy Policy applies only to this Site and not to any Third-Party Sites or any Other Myron Sites. We suggest contacting those sites directly for information on their privacy, security, and data collection and distribution policies.
@@ -84,7 +91,7 @@ Please feel free to contact us if you have any questions about this Privacy Poli
 
 You may contact us as follows:
 
-  * E-mail: service@myron.com or webmaster@myron.com
+  * E-mail: [service@myron.com](mailto:service@myron.com)
   * Regular Mail:   
 Myron Corp.   
 205 Maywood Avenue   
