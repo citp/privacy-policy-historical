@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrain.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527085346id_/http%3A//www.thebrain.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrain.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124182653id_/http%3A//www.thebrain.com/about/legal/privacy) for the most accurate reproduction.*
 
 # TheBrain :: Privacy
 
@@ -15,6 +15,9 @@ The way in which we use your information also varies depending on the circumstan
 
 We may make your information available to qualified distributors of TheBrain technology who can better serve you or your geographic area. We require all such distributors to comply with applicable privacy laws and regulations.
 
+**Marketing**  
+We use "remarketing" to enable third-party vendors, such as Google, display relevant ads from us on external web sites. These vendors use cookies to serve ads based on past visits to our web site. If you wish to opt out of Google's use of cookies, you can do so by visiting [Google's Ad Preferences Manager](https://www.google.com/ads/preferences/).
+
 **Security**  
 The security of our visitors’ and customers’ data is a top priority at TheBrain. TheBrain uses state of the art technology to protect your data from use, misuse or alteration by unauthorized third parties. Currently, TheBrain uses Secure Socket Layer software (SSL) to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name and address as it is transmitted over the Internet. Of course, we cannot guarantee the security of your Internet transmissions, and TheBrain does not warrant that your information will be absolutely secure. Any transmission of data on or through the use of TheBrain site is therefore at your own risk.
 
@@ -30,6 +33,6 @@ We respect your privacy and realize that you may not like to receive promotional
 
 
 **For more information  **  
-If you would like any additional information about TheBrain, this Privacy Policy or any of the products or services offered on this Web site, please contact [info@thebrain.com](mailto:info@thebrain.com) or write to us at TheBrain Technologies, 4553 Glencoe Ave., Suite 380, Marina del Rey, CA 90292. 
+If you would like any additional information about TheBrain, this Privacy Policy or any of the products or services offered on this Web site, please contact [info@thebrain.com](mailto:info@thebrain.com) or write to us at TheBrain Technologies, 11522 W. Washington Blvd. Los Angeles, CA 90066. 
 
 This Privacy Policy is incorporated into and subject to the terms of TheBrain [Terms of Use Agreement](https://web.archive.org/about/legal/terms/).
