@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609160332id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124220009id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Judgepedia:Privacy policy - Judgepedia
-
-### From Judgepedia
 
 [Judgepedia policies](https://web.archive.org/index.php/Judgepedia:Policies "Judgepedia:Policies")  
 ---  
@@ -26,11 +24,11 @@ Simply visiting the web site does not expose your identity publicly. When you ed
   
 **Identification of an Author**
 
-When you publish a page in Judgepedia, you may be logged in or not. If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the Internet address from which you are contacting Judgepedia. Depending on your connection, this number may be traceable only to a large Internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals. It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym. When using a pseudonym, your IP address will not be available to the public except in cases of abuse, including vandalism of Judgepedia by you or by another user with the same IP address. In all cases, your IP address will be stored on Judgepedia’s servers, and can be seen by Judgepedia's server administrators and Judgepedia’s website administrators. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). If you use a company mail server from home or telecommute and use a DSL or cable Internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based Judepedia project contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
+When you publish a page in Judgepedia, you may be logged in or not. If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the Internet address from which you are contacting Judgepedia. Depending on your connection, this number may be traceable only to a large Internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals. It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym. When using a pseudonym, your IP address will not be available to the public except in cases of abuse, including vandalism of Judgepedia by you or by another user with the same IP address. In all cases, your IP address will be stored on Judgepedia’s servers, and can be seen by Judgepedia's server administrators and Judgepedia’s website administrators. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). If you use a company mail server from home or telecommute and use a DSL or cable Internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based Judgepedia project contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
 
 **Cookies**
 
-Judgepedia will set a temporary session cookie whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. It will be deleted when you close your browser session. More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, you may wish to clear the browser cache as well.) 
+Judgepedia will set a temporary session cookie whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. It will be deleted when you close your browser session. More cookies may be set when you log in, to avoid typing in your user name (or password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, you may wish to clear the browser cache as well.) 
 
 **Passwords**
 
@@ -44,7 +42,28 @@ Here's a sample of what's logged for one page view: 64.164.82.142 - - [21/Oct/20
 
 **Policy on Release of Data Derived from Page Logs**
 
-It is the policy of Judgepedia that personally identifiable data collected in the server logs or otherwise may be released by the system administrators in the following situations: 1\. In response to a valid subpoena or other compulsory request from law enforcement 2\. With permission of the affected user 3\. To anyone who is responsible for investigation of abuse complaints. 4\. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues. 5\. Where the user has been vandalising articles or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers 6\. Where it is reasonably necessary to protect the rights, property or safety of Judgepedia, its users, or the public. Judgepedia policy does not permit public distribution of such information under any circumstances, except as described above. 
+It is the policy of Judgepedia that personally identifiable data collected in the server logs or otherwise may be released by the system administrators in the following situations: 
+
+  * In response to a valid subpoena or other compulsory request from law enforcement 
+
+
+  * With permission of the affected user 
+
+
+  * To anyone who is responsible for investigation of abuse complaints. 
+
+
+  * Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues. 
+
+
+  * Where the user has been vandalizing articles or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers 
+
+
+  * Where it is reasonably necessary to protect the rights, property or safety of Judgepedia, its users, or the public. 
+
+
+
+Judgepedia policy does not permit public distribution of such information under any circumstances, except as described above. 
 
 **Sharing Information with Third Parties**
 
