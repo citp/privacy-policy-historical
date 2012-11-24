@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfs.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614230915id_/http%3A//www.dfs.co.uk/data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfs.co.uk privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124182906id_/http%3A//www.dfs.co.uk/data-protection) for the most accurate reproduction.*
 
 # dfs | making everyday more comfortable
 
