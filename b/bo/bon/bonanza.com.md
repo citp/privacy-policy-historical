@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617195201id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125004718id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonanza
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bonanza.com&sealid=101)
 
-At Bonanza, we take your privacy very seriously. This privacy policy applies exclusively to www.bonanza.com . Please read this policy (henceforth, "Policy") to see how Bonanza handles your personal information that you give to us when you register to use our website (the "Site"). This Policy only covers employees of Bonanza and the information we collect on the Site and does not extend to people, or companies that Bonanza does not employ or manage. We reserve the right to modify this Policy. We will notify you of substantial changes to this Policy by telling you about them in the forums. Should we make a material change to the manner in which we handle your collected personal information, we shall place a prominent notice on the Site, or notify you by email.
+At Bonanza, we take your privacy very seriously. This privacy policy applies exclusively to www.bonanza.com and http://www.bonanzle.com. Please read this policy (henceforth, "Policy") to see how Bonanza handles your personal information that you give to us when you register to use our website (the "Site"). This Policy only covers employees of Bonanza and the information we collect on the Site and does not extend to people, or companies that Bonanza does not employ or manage. We reserve the right to modify this Policy. We will notify you of substantial changes to this Policy by telling you about them in the forums. Should we make a material change to the manner in which we handle your collected personal information, we shall place a prominent notice on the Site, or notify you by email prior to the change becoming effective.
 
 Bonanza has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@bonanza.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 We do not share your personal information with third parties for their promotional purposes.
 
-  * We will not give personally identifiable information to advertisers;
+  * We will not give personal information to advertisers;
   * We do not tolerate spam;
   * You may occasionally be notified by email of announcements from Bonanza; you may opt out of these announcements at any time.
 
@@ -22,13 +22,15 @@ Our main purpose in collecting personal information is to provide you with an en
 
 When you elect to email a friend about the Site, we request their email address to fulfill your request. We use this third party personal information to send this one time email and for no other purposes. In the event that you select to import your contacts, we shall not store your password but shall access your information specifically for the purpose of updating your address book we do not use the third party personal information of your contacts that you store in your account for any promotional purposes, or any purpose not explicitly requested by you.
 
-We post testimonials on the Site. These testimonials include users' names. We obtain users' permission prior to posting testimonials on the Site. We are not responsible for the personal information a user elects to share within their testimonial.
+We post testimonials on the Site. These testimonials include users' names. We obtain users' permission prior to posting testimonials on the Site. We are not responsible for the personal information a user elects to share within their testimonial. If you wish to update or delete your testimonial, you can contact us at support@bonanza.com. 
 
 We collect some information from your browser. This includes your IP address and the name of the page you requested. This information helps us to diagnose problems with our servers and administer the Site. Basically, your IP address helps us in identifying you and your specific needs.
 
 We also collect information from cookies, which are software tags that are stored by a browser onto your hard drive. These bits of information are general in nature and they allow us to customize our Site to fit your specific preferences. Cookies also allow you to log onto or navigate through specific sections of our Site without having to re-enter certain information. You can decline the use of cookies, if any, through your browser. We tie cookie information to users' to user accounts in order to track users who set up duplicate accounts. However, we don't make this information publicly visible/available in any way. On occasion we may also employ Web Beacons and clear Gifs on the Site to track information and traffic on the Site. A Web Beacon is a small 1x1 image that allows a Site to monitor site traffic.
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information.
+Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personal information.
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personal information.
 
 ## How is my information used?
 
@@ -46,7 +48,7 @@ Our number one priority is to keep your personal information private and confide
 
 Of course, once you provide personal information to a buyer or seller on our Site, Bonanza has no control over how that information is used by that individual. You should discuss any privacy concerns you may have with any individual you meet through our Site, as the only protection you will have is whatever terms you agree to directly with this individual.
 
-Bonanza will disclose your personally identifiable information to others under the following circumstances:
+Bonanza will disclose your personal information to others under the following circumstances:
 
   * You consent to share the information;
   * To law enforcement where a formal request has been made such as in responding to subpoenas, court orders or legal process;
@@ -68,22 +70,37 @@ We go to great lengths to protect all of your information on our Site. In order 
 
 We employ industry accepted standards in protecting your personal information during your use of the Site and have established physical and electronic safe guards to protect your information. 
 
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
 ## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@bonanza.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Blog Disclosure
 
-If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other members of these forums, and can be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums. 
+If you use a bulletin board, blog, or chat room on this website, you should be aware that any personal information you submit there can be read, collected, or used by other members of these forums, and can be used to send you unsolicited messages. We are not responsible for the personal information that you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at support@bonanza.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Third-Party Sites
 
 The Site contains links to other web sites. Bonanza is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 
+## Behavioral Targeting / Re-Targeting
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+## Single Sign-On
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+## Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site , and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ## We want to hear from you
 
 Your opinion truly counts. Our Site was designed to serve the needs of our Members. Please contact us with any questions or comments. You may do this by sending an email to support@bonanza.com.
 
-Or by mail: 9805 NE 116th PMB #7450 Kirkland, WA, 98034
+Or by mail: 400 East Pine St #215, Seattle, WA 98122
 
-Statement last updated: July 14, 2011
+Effective date: 1/1/2010  
+Statement last updated: October 11, 2012
