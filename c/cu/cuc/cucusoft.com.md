@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cucusoft.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013814id_/http%3A//cucusoft.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cucusoft.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124070128id_/http%3A//www.cucusoft.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/web/20120504013814id_/http%3A//cucusoft.com/) > Privacy Policy  
+[Home](https://web.archive.org/) > Privacy Policy  
 
 
 * * *
 
-|  **Cucusoft Customer Privacy Policy**  
+| **Cucusoft Customer Privacy Policy**  
 ---  
 Cucusoft's Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Cucusoft anytime you interact with Cucusoft, such as when you visit our website, when you purchase Cucusoft products and services, or when you contact our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Cucusoft, and we go to great lengths to protect it.  
   
@@ -88,9 +88,7 @@ International users Cucusoft abides by the safe harbor framework set forth by th
   
 
 
-Copyright © 2002-2012 Cucusoft, Inc. All rights reserved. | [Privacy Policy](https://web.archive.org/web/20120504013814id_/http%3A//cucusoft.com/PrivacyPolicy.asp) | [Terms of Use](https://web.archive.org/web/20120504013814id_/http%3A//cucusoft.com/TermsOfUse.asp) | [Sitemap](https://web.archive.org/web/20120504013814id_/http%3A//cucusoft.com/sitemap.aspx)  
+Copyright © 2002-2012 Cucusoft, Inc. All rights reserved. | [Privacy Policy](https://web.archive.org/web/20121124070128id_/http%3A//www.cucusoft.com/PrivacyPolicy.asp) | [Terms of Use](https://web.archive.org/web/20121124070128id_/http%3A//www.cucusoft.com/TermsOfUse.asp) | [Sitemap](https://web.archive.org/web/20121124070128id_/http%3A//www.cucusoft.com/sitemap.aspx)   
 iTunes, iPod, iPhone and iPad are registered trademarks of Apple® Inc.  
 Zune is registered trademarks of Microsoft® Corporation.  
 PSP is registered trademarks of Sony® Corporation.
-
- 
