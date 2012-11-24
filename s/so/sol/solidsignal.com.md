@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126134215id_/http%3A//www.solidsignal.com/p/%3Fp%3D2554%26d%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124181256id_/http%3A//www.solidsignal.com/p/%3Fp%3D2554%26d%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Signal Group, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites <http://www.solidsignal.tv/> and <http://www.solidsignal.com/>. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Matt Faul at [ info@SolidSignal.com](mailto:info@SolidSignal.com?subject=Privacy%20Policy) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Mae Kouza at [ info@SolidSignal.com](mailto:info@SolidSignal.com?subject=Privacy%20Policy) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Please note also that although some of Solid Signals products are only sold to residents of the Unites States, our practice of protecting your privacy knows no borders. If you are an international visitor or customer and you share your information with us, you too can be assured that our general protection policy will apply equally to that information. Signal Group´s privacy policy and its protection of personally identifiable information applies to ALL VISITORS, acting in any capacity whatsoever. 
 
