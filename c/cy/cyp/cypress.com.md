@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526170904id_/http%3A//www.cypress.com%3Fid%3D2088%26source%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124191821id_/http%3A//www.cypress.com%3Fid%3D2088%26source%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Policy - Cypress Semiconductor
+# Privacy Policy - Cypress Semiconductor
 
    
 Your right to privacy is very important. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. We believe this information should only be used to help us provide you with better service. That's why we have put a policy in place to protect your personal information. Below is a summary of Cypress's online privacy policy.  
