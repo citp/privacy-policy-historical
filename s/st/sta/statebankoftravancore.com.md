@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statebankoftravancore.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521161412id_/http%3A//www.statebankoftravancore.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statebankoftravancore.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124061705id_/http%3A//statebankoftravancore.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
