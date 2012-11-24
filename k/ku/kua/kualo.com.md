@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526112002id_/http%3A//www.kualo.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124083536id_/http%3A//www.kualo.com/home/privacy) for the most accurate reproduction.*
 
 # Kualo Web Hosting - Privacy Policy
 
