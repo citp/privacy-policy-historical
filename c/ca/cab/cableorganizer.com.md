@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604044651id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124212158id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
 **Privacy Policy**
 
-At CableOrganizer.com, we do everything in our power to safeguard our customers’ personal information, and believe that it’s important for you to understand exactly how and why we collect, use and protect it. Please keep in mind that by visiting and/or purchasing from CableOrganizer.com, you automatically accept the policies outlined below.
+At CableOrganizer.com, we do everything in our power to safeguard our customers' personal information, and believe that it's important for you to understand exactly how and why we collect, use and protect it. Please keep in mind that by visiting and/or purchasing from CableOrganizer.com, you automatically accept the policies outlined below.
 
 **Information Sharing**
 
@@ -36,9 +36,9 @@ We do not partner or have special relationships with any ad serving companies; h
 From time to time, we may decide to use customer information for new, unanticipated purposes that have not been previously disclosed in this Privacy Notice. If our information practices change at any time in the future, we will immediately post the changes on our website and give you the choice to opt out of these new functions. If you’re especially concerned about how your information is being used, we encourage you to check our website periodically to stay well informed of any possible updates.
 
 **Product Review E-Mails**  
-We love to know what our customers think of our products and service, so at some point, we may send you an e-mail asking you to review a recent purchase. If you’d prefer not to receive these e-mails, please let us know at [optoutreview@cableorganizer.com](mailto:optoutreview@cableorganizer.com), and we’ll be sure to remove you from the list.
+We love to know what our customers think of our products and service, so at some point, we may send you an e-mail asking you to review a recent purchase. If you'd prefer not to receive these e-mails, please let us know at [optoutreview@cableorganizer.com](mailto:optoutreview@cableorganizer.com), and we'll be sure to remove you from the list.
 
-Thank you for your interest in our Privacy Policy! If you have additional questions that we haven’t answered here, or feel that this website isn’t following its stated information policy, please feel free to contact us via toll-free phone call, e-mail, or post.
+Thank you for your interest in our Privacy Policy! If you have additional questions that we haven't answered here, or feel that this website isn't following its stated information policy, please feel free to contact us via toll-free phone call, e-mail, or post.
 
 CableOrganizer.com, Inc.  
 6250 NW 27th Way  
@@ -48,4 +48,14 @@ Toll Free Phone: (866) 222-0030
 
 [suggest@cableorganizer.com](mailto:suggest@cableorganizer.com)
 
-If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.
+If you cannot find the proper response to your question, please feel free to email us at [sales@cableorganizer.com](mailto:sales@cableorganizer.com) or call us toll free 24/7 at 1-866-222-0030 and we will answer your question as thoroughly and promptly as possible.  
+  
+What our customers have to say about us...
+
+I have bought several items from Cableorganizer.com and I'm always very pleased with the items ordered and with shipping. It's always on time and I'm well notified once it's on route. I highly recommend this website and all their products. I wouldn't go anywhere else for our IT and corporate needs. Keep up the good work.
+
+~ Jorge, Sunrise, FL
+
+I have to say the support staff for cable organizers was very helpful and knowledgeable of the products in their catalog. Unfortunately one of the items I ordered did not meet my needs but the return process was simple, efficient and painless. I would definately use cable organizers again.
+
+~ pd, Denville, NJ
