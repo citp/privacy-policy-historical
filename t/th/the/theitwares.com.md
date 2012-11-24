@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theitwares.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526150810id_/http%3A//www.theitwares.com/pages.php%3FcID%3D1%26pID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitwares.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124142600id_/http%3A//www.theitwares.com/pages.php%3FcID%3D1%26pID%3D1) for the most accurate reproduction.*
 
 # 
 
