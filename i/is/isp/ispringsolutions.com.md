@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503031430id_/http%3A//www.ispringsolutions.com/company/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124142551id_/http%3A//www.ispringsolutions.com/company/policy/privacy.html%3Flink%3Dbottom_menu) for the most accurate reproduction.*
 
 # iSpring Privacy Policy
 
