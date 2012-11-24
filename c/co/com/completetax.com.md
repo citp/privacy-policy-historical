@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502212553id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124031553id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -172,7 +172,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20120502212553id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
+Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20121124031553id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
 
 CCH INCORPORATED  
 Online Tax Group - Suite 200  
@@ -184,5 +184,5 @@ Web site URL: [www.completetax.com](http://www.completetax.com/)
 
 Effective September 27, 2010
 
-[© 2011-2012, CCH. All Rights Reserved.](https://web.archive.org/web/20120502212553id_/http%3A//www.completetax.com/copyright.asp)  
+[© 2011-2012, CCH. All Rights Reserved.](https://web.archive.org/web/20121124031553id_/http%3A//www.completetax.com/copyright.asp)  
 CCH, a Wolters Kluwer business
