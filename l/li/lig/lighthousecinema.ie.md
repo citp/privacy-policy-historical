@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lighthousecinema.ie privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512221454id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lighthousecinema.ie privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124211627id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.*
 
 # Light House Cinema - PAGETITLE
 
@@ -20,7 +20,7 @@ If you have any questions about this Privacy Policy, or about our practices with
 
   * **Email:**
   * **Telephone:** 01 8728006
-  * **Mail:** Market Square, Smithfield Dublin 7
+  * **Mail:** Market Square, Smithfield, Dublin 7 
 
   
 
@@ -144,7 +144,7 @@ If you have any questions about this Privacy Policy, or about our practices with
 
   * **Email:**
   * **Telephone:** 01 8728006
-  * **Mail:** Market Square, Smithfield Dublin 7
+  * **Mail:** Market Square, Smithfield, Dublin 7 
 
 
 
