@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verified-p2p-links.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113065724id_/http%3A//verified-p2p-links.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verified-p2p-links.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124044731id_/http%3A//verified-p2p-links.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy › isoHunt › P2P and BitTorrent link releases
 
@@ -15,7 +15,7 @@
   
 Active torrents indexed from websites and trackers across the internet, unique by info_hash
 
-  Sites: 544  •  Trackers: 181,637  •  **Active Torrents: 8,046,753**  •  Files: 191.53M  •  Size: 13,453.85 TB  •  Peers: 29.08M  
+  Sites: 551  •  Trackers: 212,070  •  **Active Torrents: 10,990,839**  •  Files: 243.38M  •  Size: 15,480.36 TB  •  Peers: 67.34M  
 
 Privacy Policy
 
@@ -30,17 +30,8 @@ We use various third-party advertising companies to serve ads when you visit our
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This in itself will not divulge your personal information.
 
 |   
-[](http://verified-p2p-links.com/a/adclick.php?bannerid=436&zoneid=13&source=&dest=http%3A%2F%2Fisohunt.com%2Fgambit.php)
-
-[](http://verified-p2p-links.com/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)  
-[**NEW** 8 Years Anniversary Tee!](http://isohunt.com/forum/viewtopic.php?t=693393)
-
-| Stats  
----  
-isoHunt has **20187** users online, 1721395 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
-Welcome to our newest member: **_thenobbies_**  
   
-Shout Box  
+| Shout Box  
 ---  
   
 You have to login to post. Use your common sense.  
