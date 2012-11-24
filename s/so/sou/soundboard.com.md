@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514000725id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124040803id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy for Soundboard.com
+# Soundboard.com Privacy Policy
 
-This is a privacy policy for SOUNDBOARD.COM.
+This is the privacy policy for SOUNDBOARD.COM.
 
 We collect a lot of information in order to try to make your experience better.  Some of the information we collect is personally identifiable to you since you have to log in to post.  As you saw when you joined we do not ask for a lot, just your real name and email address.  We will not resell your personal information, however we may provide your information to our partners.  We will send you emails now and then and check in on your soundboards. 
 
