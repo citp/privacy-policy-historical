@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bullshido.net privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615174146id_/http%3A//www.bullshido.net/forums/showthread.php%3Ft%3D88078) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullshido.net privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124054158id_/http%3A//www.bullshido.net/forums/showthread.php%3Ft%3D88078) for the most accurate reproduction.*
 
 # Privacy Policy for Bullshido.net
 
 Punch your friends in the facebook (etc.) SHARE THIS!: 
 
-  1. 7/31/2009 8:42am  [#1](http://www.bullshido.net/forums/showthread.php?t=88078&p=2182439&viewfull=1#post2182439 "1")
+  1. 7/31/2009 9:42am  [#1](http://www.bullshido.net/forums/showthread.php?t=88078&p=2182439&viewfull=1#post2182439 "1")
+
+\--
 
 > **Privacy Policy for[www.Bullshido.net](http://www.bullshido.net/)  
 >  **   
@@ -28,15 +30,15 @@ Punch your friends in the facebook (etc.) SHARE THIS!:
 >     * Google, as a third party vendor, uses cookies to serve ads on [www.Bullshido.net](http://www.bullshido.net/).
 >     * Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.Bullshido.net](http://www.bullshido.net/) and other sites on the Internet.
 >     * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
->   
->  Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
+> 
+> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 > 
 >     * Google Adsense
 >     * Chitika
 >     * Amazon
 >     * BannerConnect
->   
->  These third-party ad servers or ad networks use various technologies to send the advertisements and links that appear on [www.Bullshido.net](http://www.bullshido.net/) directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+> 
+> These third-party ad servers or ad networks use various technologies to send the advertisements and links that appear on [www.Bullshido.net](http://www.bullshido.net/) directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 > 
 > [www.Bullshido.net](http://www.bullshido.net/) has no access to, or control over, the cookies used by third-party advertisers.
 > 
@@ -44,9 +46,10 @@ Punch your friends in the facebook (etc.) SHARE THIS!:
 > 
 > If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+  
+
+
 * * *
 
-  2. Total Comments
-
-
+  2. 
 
