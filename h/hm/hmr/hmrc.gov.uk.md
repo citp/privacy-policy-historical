@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620014658id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmrc.gov.uk privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124023930id_/http%3A//www.hmrc.gov.uk/about/privacy.htm) for the most accurate reproduction.*
 
 # HM Revenue & Customs: Privacy Policy - Access to and correction of personal information
 
@@ -24,7 +24,7 @@ HMRC use your IP address to diagnose problems with their server, report aggregat
 
 HMRC uses small bits of data stored on your computer called 'cookies'. Find out what HMRC uses them for, and how to control their use.
 
-[Your privacy - how cookies are used by HMRC](https://web.archive.org/web/20120620014658id_/http%3A//www.hmrc.gov.uk/about/cookies.htm)
+[Your privacy - how cookies are used by HMRC](https://web.archive.org/web/20121124023930id_/http%3A//www.hmrc.gov.uk/about/cookies.htm)
 
 ## Page tagging
 
