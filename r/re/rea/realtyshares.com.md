@@ -1,100 +1,62 @@
-> *The following text is extracted and transformed from the realtyshares.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyshares.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124045607id_/http%3A//www.realtyshares.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# RealtyShares | Privacy
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy "Bill of Rights"
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+At Realtyshares we take your privacy and your private information very seriously and thus we have created a few basic privacy principles or as we like to call it a "bill of rights" that we try and adhere to. This Bill of Rights includes:
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * We don't ask you for personal information unless we need it.
+  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don't store personal information on our servers unless required for the on-going operation of our Website or one of our services.
+  * We aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and permanently deleted.
+  * We will send you emails relating to your personal transactions but will keep these emails to a minimum.
+  * Capital Seekers/Investment Managers may receive the email addresses and other personal information of their investors if, and only if, their real estate project or investment is successfully funded.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+By using realtyshares.com and any related sites or services (collectively, the "Website") you accept the practices and terms set forth in our Privacy Policy below (which seeks to incorporate and implement the Bill of Rights), as they may be updated from time to time in RealtyShares sole and absolute discretion.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## Information Collection
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**User Provided Information.** Like most sites, we collect and keep any information you enter on the Website or give to us including, but not limited to: (i) Personally identifying information such as your name, location, intended investment amount and email address which you provide when you first register a user account; (ii) Information, including your profile picture, that we gather when you choose to link your RealtyShares account to social networking sites such as Facebook.com and Linkedin.com; (iii) Emails or other forms of communication we receive direct from RealtyShares users, including e-mail address; (iv) any other information you may voluntarily choose to provide us when registering for or using the Website (collectively, "Personally Identifying Information")
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Non-Identifying Information.** In addition, we also automatically track and collect the following categories of non personally identifying information when you visit the Website (please note that such information may include additional categories not mentioned herein): (i) browser type; (ii) IP address; (iii) language preference; (iv) cookies; (v) domain servers; (vi) URL traffic to, through and from the Website; (vii) types of computers and operating systems accessing the Website; (viii) statistical information about behavior of visitors/users to the Website; and (ix) any other web site usage information that we may collect when you visit the Website (collectively, "Non-identifying Information").
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+What is an IP address? _See_ <http://en.wikipedia.org/wiki/IP_Address>
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Realtyshares' purpose in collecting both Personally Identifying Information and Non-identifying Information (collectively, "User Information") is to, among other things, evaluate how our users navigate and use the Website, improve user experience, customize content for our users in order to make the Website more simple to use, and, to help us identify any other issues with respect to the Website or a users use of the Website. If you object to our collection and storage of any User Information mentioned above (and any additional information we may choose to gather) you should not use the Website.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## Email
 
-**Security**
+Regarding email contact with and from RealtyShares, keep in mind the following: (i) we will send you email relating to your personal transactions but will keep these emails to a minimum; (ii) you will receive certain email notifications (forwarded messages, etc.) for which you may opt-out; (iii) we may send you service-related announcements on rare occasions when it is necessary or proper to do so; (iv) if you email us directly, we may email you back and keep records of all correspondence; and (v) we may send you emails from time to time letting you know about special promotions, featured investments and other RealtyShares news. It is your responsibility to ensure that you maintain a current email address with RealtyShares, attend to it regularly, and notify us if there are any changes to be made to your email address.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## Safeguarding User Information
 
-**Updating Your Information**
+RealtyShares takes the protection of User Information very seriously, and we take commercially reasonable efforts and measures to safeguard such information, including: (i) encryption and authentication tools to maintain the confidentiality of User Information; (ii) limits on, to the greatest extent possible, who or what can access your User Information; and (iii) the use of cookies to help (anonymously) recognize you as a repeat visitor and to track Website traffic patterns. However, despite these efforts, please note that RealtyShares cannot ensure or guarantee the security of your User Information nor do we make any representation or warranty regarding the security of your account.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+What is a cookie? _See_ <http://en.wikipedia.org/wiki/HTTP_cookie>
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## Public Information
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Please keep in mind that any information you post on a public profile will be public information available to anyone. We also make forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your any personal information.
 
-      iii.      You may call us at: (480) 505-8800
+## Third Party Services
 
-       iv.      You may fax us at: (480) 505-8844
+RealtyShares uses Google Analytics to help understand use of the Website. Google analytics collects certain information from your browser, including, but not limited to, cookies, browsing patterns and your IP address.
 
-**Sending Emails**
+## Links to Other Websites
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. Please remember that when you use a link to go from our Website to another site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other site, including those that have a link on our Website, is subject to that other site's rules and policies. Please read over those rules and policies before proceeding.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Notification
 
-**Compliance with Laws and Law Enforcement**
+You must promptly notify us if your User Provided Information is lost, stolen or used without permission. In such event, we will work with you to remove such information from your account and update our records accordingly. To modify or delete any or all of the Personally Identifying Information you have provided to us, please log in to your account and update your Profile.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Updates and Changes
 
-**Third Party Service Providers**
+RealtyShares reserves the right, at any time and without noticed, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Website and without any other notice to you. Any such change, update or modification will be effective immediately upon posting on the Website.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Questions? Please email us at [support@realtyshares.com](mailto:support@realtyshares.com) or see our [FAQ](https://web.archive.org/faq).
 
 * * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
