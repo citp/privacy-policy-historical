@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mccainblogette.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524225224id_/http%3A//mccainblogette.com/custom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccainblogette.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124215936id_/http%3A//mccainblogette.com/custom/privacy) for the most accurate reproduction.*
 
 # McCainBlogette.com - The Official Site of Meghan McCain
 
 ## Summary
 
-Your privacy is very important to us. By using [http://mccainblogette.com](https://web.archive.org/web/20120524225224id_/http%3A//mccainblogette.com/custom/mccainblogette.com) \- you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
+Your privacy is very important to us. By using [http://mccainblogette.com](https://web.archive.org/web/20121124215936id_/http%3A//mccainblogette.com/custom/mccainblogette.com) \- you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
 
 ## Amendments
 
