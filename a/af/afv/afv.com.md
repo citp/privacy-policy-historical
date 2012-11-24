@@ -1,100 +1,75 @@
-> *The following text is extracted and transformed from the afv.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afv.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124024129id_/http%3A//www.afv.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy – AFV – America’s Funniest Home Videos
 
-**Go Daddy Respects Your Privacy**
+AFV respects each individual’s right to personal privacy. We will collect and use information through our website only in the ways disclosed in this statement. AFV has no responsibility for content on other web sites that you may come across while navigating the website. This statement applies solely to information collected at the http://www.AFV.com website. This policy is effective as of 05.31.2012.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+You should be aware that by creating a profile on AFV you are interacting with a social networking site where your uploaded personal photos, video and content will be shared with the public.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Please read this privacy policy as well as our terms of use before using the AFV website. By using our website, you are agreeing to these policies.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Information Collection and Information Usage
 
-**Information Collection and Use**
+AFV collects information through our website at several points. Currently, all photos, videos and pet content are open to the public.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Unregistered Users
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The AFV website is best experienced as a registered member which provides profile personalization with access to pet profiles, a friends feature, video and photo sharing, product recommendations, and rating and posting comments on other members pets. Any user can choose not to register and can still view members pets, photos, and content. As an unregistered user you will not be able to access those areas of the site that require authentication with a login and password.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Registered Users
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Registered members have access to profile personalization that includes pet profiles, a friends feature, video and photo sharing, product recommendations, and rating and posting comments on other members pets, as well as other features commonly found on social networking websites. You may have a unique login and password which should be kept private. You may log into your account at anytime to change your email and/or password. When you create a AFV login and profile, you may be accessing a secure server with secure server software (SSL) that encrypts all information you input before it is sent.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+When you register, we require your first name, last name, email address, sex, and date of birth. We use this information to create your profile on the AFV website and to give you secure access to members-only areas of the website.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+You should be aware that by using the AFV website as a registered member your profile (with photos and content) is publicly viewable. You will control which content to upload so you should only upload content you are comfortable with sharing. Although your email address will not be shared or visible to other members, you may receive/send friend requests and comments using the AFV website. You can specify your comments preferences under My Account.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Technical Information We May Collect
 
-**Security**
+We may collect the following technical information about you when you visit our website: browser type, operating system, modem speed, clickstream data, time spent browsing the site, visits, views, and other traffic-related data, keyword searches, IP address (to troubleshoot potential server issues), referring URL, etc. We may collect this information through registration forms, clickstream tracking, and automatic logging files and we use this data to improve the site experience.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+External Links
 
-**Updating Your Information**
+We may offer links to other websites. When you click links to other websites, we encourage you to read their privacy policies and terms of use as their standards may differ from ours.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Shared Information
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may share aggregate traffic data and demographic data with the following third parties: advertisers, sponsors, and investment firms. However, we will not provide those third parties with private information like email addresses.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+AFV does not sell or share your personal information. If you create a profile, we may provide you with news, updates, and special offers. At any time, you can unsubscribe from our communications or email unsubscribe@AFV.com You can also delete your account at any time.
 
-      iii.      You may call us at: (480) 505-8800
+Cookies
 
-       iv.      You may fax us at: (480) 505-8844
+We may employ cookies. A cookie is a small text file that our web server places on a user’s computer hard drive to be a unique identifier. Cookies enable AFV to track usage patterns and deliver customized content to users. We use temporary session cookies to assign to you and store a SessionID on all secure pages. These cookies allow you to move seamlessly between areas of our secure site. Our cookies do not collect personally identifiable information. We may also use third-party metrics software to collect traffic-related data. This may be done through the use of cookies. Without a cookie, you can still use most of the features on our site, but you may not be able to create a login and profile.
 
-**Sending Emails**
+Newsletters, Email Communications, and Partner Offers
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+When you sign up for our newsletter, we require your first name, last name, email address, sex, and date of birth. Opted in users will receive announcements from us about our company and services and newsletters. Out of respect for the privacy of our users we present the option to not receive these types of communications through clear unsubscribe links in all communications. At any time, you can unsubscribe from our communications or email unsubscribe@AFV.com].
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Occasionally, we may send you special offers or opportunities from our partners. You will only receive these communications if you are opted in to receive them and you can unsubscribe at any time.
 
-**Compliance with Laws and Law Enforcement**
+Certain account-related announcements and administrative messages are necessary as a AFV member and you will not be able to opt out of these required messages.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Advertising
 
-**Third Party Service Providers**
+We may use information you provide, text, photos, videos, keywords, and metadata to make our site advertising more contextually relevant. Advertising dollars help AFV make money and if the ads are more contextually relevant, they will be more interesting to our members. However, once you leave the AFV website and are interacting with an advertiser, we are not responsible for your dealings with them. Use discretion.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Editing Your Profile
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You can choose to edit or delete your profile at any time under My Account. If you choose to delete your account, any content you have added will be deleted so please be sure you truly want to remove yourself from the AFV community before taking this step. Some of your traffic data may remain in our historical records but we will not be able to retrieve photos, comments, and other content that you added to the site prior to deleting your account.
 
-**Supplementation of Information**
+Email This to a Friend
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+AFV offers a bookmarking and sharing tool on our web pages powered by a third-party application service provider. Please see their privacy policy for details.
 
-**Contests/Surveys**
+Updating Your Information
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+To update your personal information, log in to your AFV account and navigate to My Account.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Kids Policy
 
-**Tell-A-Friend**
+AFV does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. You must be at least 13 years of age to create a AFV account and at least 18 years of age to participate in any contests on the site where prizes are awarded. Users of the AFV website should be aware that the site is a self-policing community and some users may find some content objectionable. Inappropriate content should be immediately reported to help@AFV.com
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Your Consent and Changes to This Policy
 
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+By using the AFV website, you consent to the collection and use of information by AFV as outlined in this policy. If there are changes to the AFV privacy policy, we will post those changes on this page. If you have questions about this policy, contact us at help@AFV.com
