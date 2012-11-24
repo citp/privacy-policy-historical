@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063036id_/http%3A//www.worksheetworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124234043id_/http%3A//www.worksheetworks.com/privacy.html) for the most accurate reproduction.*
 
 # WorksheetWorks.com
 
@@ -31,19 +31,3 @@ If problems arise, users may contact WorksheetWorks.com through the contact page
 ### V. Data Storage and Security
 
 WorksheetWorks.com protects user information by storing it in a secure, offline location. Personally identifying user data is secured at the point it is submitted and transmitted off of the application server at frequent intervals. Please note that your connection to the web server itself is not secure and your transmission may be captured at any time.
-
-|   | 
-
-#### Search
-
-#### Adobe Reader
-
-The worksheets on this site are created in PDF format. To view and print PDF files, you need the free Acrobat Reader. If you don't have it, you can get it [here](http://www.adobe.com/products/acrobat/readstep2.html).
-
-[](http://www.adobe.com/products/acrobat/readstep2.html)
-
-#### Public Beta Preview
-
-This website is currently in the late stages of its development, a state referred to as _beta_. As with all beta software, it has some quirks and many parts are not yet available. We are working hard to finalize the system's structure, and roughly once every two weeks we roll out new functionality towards this goal. Until then you may notice that some resources move or even disappear for a while.  
-  
----|---|---
