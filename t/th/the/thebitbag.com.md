@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebitbag.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607025103id_/http%3A//www.thebitbag.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitbag.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124211400id_/http%3A//www.thebitbag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bitbag
 
 **What information do we collect?**
 
-We collect information from you when you register on our site. 
+We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -12,7 +12,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -27,7 +27,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 **Do we use cookies?**
 
@@ -43,7 +43,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-The Bitbag may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
+The Bitbag may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
 **California Online Privacy Protection Act Compliance**
 
@@ -65,20 +65,19 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.thebitbag.com  
+http://www.thebitbag.com
+
 89 Boston Ave  
 Medford, Massachussetts 02155  
 USA  
-webmaster@thebitbag.com
-
-This policy is powered by Free Privacy Policy and Rhino Support [helpdesk software](http://www.rhinosupport.com/).
+admin@thebitbag.com
