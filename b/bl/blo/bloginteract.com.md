@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the bloginteract.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525200035id_/http%3A//bloginteract.com/blog-interacts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloginteract.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124121210id_/http%3A//bloginteract.com/blog-interacts-privacy-policy) for the most accurate reproduction.*
 
 # Blog Interact's Privacy Policy | Blog Interact®
 
 ### BLOG INTERACT – OUR PRIVACY POLICY
 
-We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
+We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting[usGoogle Sued By PayPal Over Mobile Technology. Read more ... »](http://bloginteract.com/google-sued-by-paypal-over-mobile-technology/), you are accepting the privacy policy described below.**
 
 **1.What Personal Information Do We Collect?**
 
   * **Information You Provide.** We receive and store information you enter.For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in. Please see the opt-in/opt-out selection in Section 4 of this policy.
-  * **Cookies.** Like many websites, we use “cookies”. Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the help button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
-  * **Other Information:** Every computer has an IP (Internet Protocol) address. IP addresses of computers used to visit this site are noted. In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
-  * **Information from Other Sources**. We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
+  * **Cookies.** Like many [websitesTraffic Generation: Old Is Gold, Use It Properly. Read more ... »](http://bloginteract.com/traffic-generation-old-is-gold-use-it-properly/), we use “cookies”. Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the [helpWhy The Best Blog Content Secretly Irritates, Offends And Even Enrages People. Read more ... »](http://bloginteract.com/why-the-best-blog-content-secretly-irritates-offends-and-even-enrages-people/) button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
+  * **Other Information:** Every computer has an [IPWhat Is The Future Of IPv6?. Read more ... »](http://bloginteract.com/what-is-the-future-of-ipv6/) (Internet Protocol) address. IP addresses of computers used to visit this site are noted. In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
+  * **Information from Other Sources**. We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next [purchaseSeveral Methods To Grow Your Social Media Following. Read more ... »](http://bloginteract.com/methods-to-grow-your-social-media-following/) or communication more easily.
 
 
 
@@ -20,7 +20,7 @@ We know that you care how your information is used, and we appreciate your trust
   * **Customized Shopping.** We use your information to better serve you by providing a customized shopping experience. As noted above, you may opt-out of this customization, or even visit and shop anonymously.
   * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
   * **Special Offers**. We may send you special offers from time to time, unless you choose to opt-out of receiving such offers. In addition, we may also send you special offers from other companies. Again, you may opt-out. If we send you offers from other businesses, we do not share your personal information with them. The offers come directly through us. Please see the opt-in/opt-out selection at the end of this policy.
-  * **Business Transfers**. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.
+  * **[Business Google Begins Testing In-App Purchasing. Read more ... »](http://bloginteract.com/google-begins-testing-in-app-purchasing/) Transfers**. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.
   * **Law Enforcement.** If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 
@@ -52,9 +52,9 @@ It is your choice whether to receive emails or special offers from us or others.
 
 We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
 
-**6\. Our Advertising Partners:**
+**6\. Our[Advertising](http://classifieds.bloginteract.com/) Partners:**
 
-  * Google Adsense
+  * [GoogleGoogle Begins Testing In-App Purchasing. Read more ... »](http://bloginteract.com/google-begins-testing-in-app-purchasing/) Adsense
   * Kontera
 
 
