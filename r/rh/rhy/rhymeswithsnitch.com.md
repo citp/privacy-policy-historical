@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhymeswithsnitch.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514144330id_/http%3A//www.rhymeswithsnitch.com/2006/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhymeswithsnitch.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124023626id_/http%3A//www.rhymeswithsnitch.com/2006/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Rhymes with Snitch | Entertainment News | Celebrity Gossip: Privacy Policy
 
@@ -53,6 +53,10 @@ Most web browser applications (such as Microsoft Internet Explorer) have feature
 
 10\. Security  
 Rhymes with Snitch maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from rhymeswithsnitch.com in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Rhymes with Snitch restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception. 
+
+Notice Regarding Online Behavioral Advertising. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org
+
+. 
 
 13\. Changes to this Privacy Policy  
 Rhymes with Snitch reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, Rhymes with Snitch will post a link to the new policy on its website. 
