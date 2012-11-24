@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trolino.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616140558id_/http%3A//www.trolino.com/contact.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolino.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124084227id_/http%3A//www.trolino.com/contact.php%23Privacy) for the most accurate reproduction.*
 
 # Trolino | Contact us
 
@@ -8,25 +8,23 @@
 
 **Sign in/Sign up to upload funny stuff**
 
-[](http://www.trolino.com/meme-generator)
-
 Members of the month
 
-1\. [yazanash](http://www.trolino.com/profile/yazanash) (11361)
+1\. [Lucasdalegend232](http://www.trolino.com/profile/Lucasdalegend232) (38660)
 
-2\. [Crestfallen](http://www.trolino.com/profile/Crestfallen) (3669)
+2\. [supermonkey995](http://www.trolino.com/profile/supermonkey995) (31779)
 
-3\. [trollerLOL](http://www.trolino.com/profile/trollerLOL) (3631)
+3\. [Agiz](http://www.trolino.com/profile/Agiz) (26104)
 
-4\. [jessisbixx](http://www.trolino.com/profile/jessisbixx) (3393)
+4\. [HarveyS](http://www.trolino.com/profile/HarveyS) (11370)
 
-5\. [OOownedOO](http://www.trolino.com/profile/OOownedOO) (2398)
+5\. [Trolldad](http://www.trolino.com/profile/Trolldad) (10587)
 
-6\. [derp5296](http://www.trolino.com/profile/derp5296) (2384)
+6\. [RickRoss](http://www.trolino.com/profile/RickRoss) (9995)
 
-7\. [Yiluxian](http://www.trolino.com/profile/Yiluxian) (2352)
+7\. [Cliddar](http://www.trolino.com/profile/Cliddar) (9378)
 
-8\. [granberg159](http://www.trolino.com/profile/granberg159) (2332)
+8\. [Trololololo](http://www.trolino.com/profile/Trololololo) (4977)
 
 **Contact**
 
