@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526004450id_/http%3A//www.bbg.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124184604id_/http%3A//www.bbg.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Brooklyn Botanic Garden
 
@@ -8,11 +8,11 @@ Because we gather certain types of information about our users, we feel you shou
 
 ### Information BBG Gathers and Tracks
 
-#### Brooklyn Botanic Garden Online Gift Shop
+#### Brooklyn Botanic Garden Online Garden Shop
 
-The BBG online gift shop secure server software uses industry-standard Secure Socket Layer (SSL) encryption technology, which is among the best software available to safeguard online transactions. As it travels over the Internet, your personal information, including credit card number, name, and address, is encoded by SSL so that all transactions are secure. If you prefer, you may also place your order by phone at 718-623-7280.
+The BBG online shop secure server software uses industry-standard Secure Socket Layer (SSL) encryption technology, which is among the best software available to safeguard online transactions. As it travels over the Internet, your personal information, including credit card number, name, and address, is encoded by SSL so that all transactions are secure. If you prefer, you may also place your order by phone at 718-622-0963.
 
-When you order a product from the Garden Gift Shop online, we need to know your name, billing and shipping addresses, telephone number, email address, and credit card information to process your order. Your credit card information will be used only as needed to process your transaction. So that we can track your order, we will retain your order information for our records. BBG does not sell, rent, or otherwise exploit in any way the customer information collected in this process. 
+When you order a product from the Garden Shop online, we need to know your name, billing and shipping addresses, telephone number, email address, and credit card information to process your order. Your credit card information will be used only as needed to process your transaction. So that we can track your order, we will retain your order information for our records. BBG does not sell, rent, or otherwise exploit in any way the customer information collected in this process. 
 
 #### Brooklyn Botanic Garden Online Membership Purchases and Donations
 
