@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the online-image-editor.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525113507id_/http%3A//www.online-image-editor.com/index.cfm%3Ffa%3Dhelp%26help_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-image-editor.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124081013id_/http%3A//www.online-image-editor.com/index.cfm%3Ffa%3Dhelp%26help_id%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Online-Image-Editor Help Pages
+# Privacy Policy of the site | Free Online Image Editor
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@online-image-editor.com. 
 
