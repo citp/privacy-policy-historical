@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-deal.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526001124id_/http%3A//www.best-deal.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-deal.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124181412id_/http%3A//www.best-deal.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy | Price comparison and reviews at best-deal.com
 
@@ -6,7 +6,7 @@ The security of your personal information and your privacy is very important to 
 
 #### a) Your Privacy
 
-BEST-DEAL.com is brought to you by the Unister GmbH ("PREISVERGLEICH.de"). BEST-DEAL.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, BEST-DEAL.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about BEST-DEAL.com's collection, use and disclosure of information you choose to share with us through our website.
+BEST-DEAL.com is brought to you by Unister GmbH. BEST-DEAL.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, BEST-DEAL.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about BEST-DEAL.com's collection, use and disclosure of information you choose to share with us through our website.
 
 This Privacy Policy is considered to be a part of BEST-DEAL.com's User Agreement. By using the site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the site, you are also consenting to BEST-DEAL.com's privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.
 
