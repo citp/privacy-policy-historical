@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filefap.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073801id_/http%3A//filefap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefap.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124184321id_/http%3A//filefap.com/privacy) for the most accurate reproduction.*
 
-# FileFap.com, Free Adult Image and File Hosting -
+# Free Adult Image and File Hosting - FileFap.com
 
 When you sign up for an account with FileFap, we collect personal information from you including your email address and a password.
 
