@@ -1,0 +1,1165 @@
+<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2012-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124223347id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy - Arena Animation</title>
+<meta name="description" content="">
+<meta name="keywords" content="disclaimer">
+
+<link rel="icon" href="images/favicon.ico">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ <!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css" /><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="css/ie9.css" /><![endif]-->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/easySlider1.7.js"></script>
+<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="js/jquery.carousel.min.js"></script>
+<script type="text/javascript" src="fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="js/jquery.uniform.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.3.4.css" media="screen">
+<link rel="stylesheet" href="css/uniform.default.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/arenareuse.js"></script>
+<script type="text/javascript" src="js/common_validation.js"></script>
+<script type="text/javascript" src="js/right_click_disable.js"></script><!--Disable right click script-->
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD20F6E2wIxQ6J6SRV3aXzseXp1wwL69rA&amp;sensor=false"></script>    
+<script type="text/javascript">
+    var loc = "";
+    var singleLat = "";
+    var singleLong = "";
+    var dispAdd = "";
+
+    /***** Vijay start ****/
+    var markerArray = [];
+    /***** Vijay End ****/
+
+    function getFooterCity(mode) {
+        document.getElementById('dispCityFooter').innerHTML = "<select class='dropdown'><option>Loading</option></select>";
+
+        var selState = document.getElementById('selStateFooter').value;
+        $.post("centerAddress.aspx", { 'selState': selState, 'mode': mode }, function (data) {
+            document.getElementById('dispCityFooter').innerHTML = data;
+		//$("#selCityFooter").uniform();
+        })
+    }
+
+    function getCenterCity(mode) {
+        document.getElementById('dispCityDropdown').innerHTML = "<select><option>Loading</option></select>";
+        document.getElementById('dispFullAddress').innerHTML = "<span class='loading_address'>Loading</span>";
+
+        var selState = document.getElementById('selState').value;
+        var hSelCity = document.getElementById('hCityName').value;
+
+        $.post("centerAddress.aspx", { 'selState': selState, 'hSelCity': hSelCity, 'mode': mode }, function (data) {
+            document.getElementById('dispCityDropdown').innerHTML = data;
+            //$("#selcenterCity").uniform();
+            getCenterAddress();
+        })
+    }
+
+    var cId = "";
+    function getCenterAddress() {
+
+    //var divSendSms='<div class="sms_container">';
+       // divSendSms +='<div id="dSendSms"><a href="javascript:void(0)" onClick="open_sms()"></a></div>';    
+
+        loc = "";
+        dispAdd = "";
+        var selState = document.getElementById('selState').value;
+        var selCity = document.getElementById('selcenterCity').value;
+        var mode = 'city';
+        document.getElementById('dispFullAddress').innerHTML = "<span class='loading_address'>Loading</span>";
+        $.post("centerAddress.aspx", { 'selState': selState, 'selCity': selCity, 'mode': mode }, function (data) {
+            var arrAddress = data.split("|~|");
+            var lenAddress = arrAddress.length;
+           
+
+            for (a = 0; a < lenAddress; a++) {
+
+                var getAddress = arrAddress[a].split("|@|");
+
+                var divSendSms = '<div id="dSendSms' + a + '" style="float:right"><input class="send_sms_each" type="button" value="" onClick=\'open_sms("' + a + '")\' /></div>';
+                divSendSms += '<div id="dsmsMobile' + a + '" class="dMobile1 send_sms_div" style="display:none;"><a href="javascript:void(0)" onClick=\'close_sms("' + a + '")\' id="close">X</a>';
+                divSendSms += '<form name="frmSendSms" method="POST">';
+                divSendSms += '<input type="text" name="txtMobileNo' + a + '" id="txtMobileNo' + a + '" value="enter your mobile no here..." class="dropdown blur-focus enter_num_text" onfocus=\'if(this.value=="enter your mobile no here...") this.value="" \' onblur=\'if(this.value=="") this.value="enter your mobile no here..." \' />';
+                divSendSms += '<input type="button" name="btnGoSms" value="Send" onclick=\'sendSms("' + a + '", "' + getAddress[0] + '")\' />';
+                divSendSms += '</form>';
+                divSendSms += '</div>';
+
+                divSendSms += '<div id="thanks_sms_div'+ a + '" class="dMobile1 thanks_sms_div" style="display:none;">';
+                divSendSms += '<a href="javascript:void(0)" onClick=\'close_sms("' + a + '")\' id="close">X</a>';
+                divSendSms += '<p><strong>THANK YOU!</strong> SMS has been sent to your mobile.</p>';
+                divSendSms += '</div>';
+
+                var getAddress = arrAddress[a].split("|@|");
+                //alert("lat==" + getAddress);
+
+                //dispAdd += "<p>" + getAddress[0] + "<br><br></p><input class='send_sms_each' type='button' value='sms'/>";
+                dispAdd += "<div style='float:left; border-bottom:dotted #a9a8a8 1px; padding:10px; margin-bottom:10px;'><p style='width:408px; float:left; padding-bottom:7px;'>" + getAddress[0] + "<br></p>" + divSendSms + "</div>";
+
+                loc += "|*|" + getAddress[0] + "|,|" + getAddress[1] + "|,|" + getAddress[2];
+                singleLat = getAddress[1];
+                singleLong = getAddress[2];
+
+            }
+           // alert(addressArray);
+            document.getElementById('dispFullAddress').innerHTML = dispAdd;
+            initializeMap();
+        })
+
+    }
+
+    function open_sms(open_id) {
+        //alert(open_id)
+        document.getElementById('txtMobileNo' + open_id).value = "enter your mobile no here...";
+        $('#dSendSms' + open_id).hide();
+        
+        $('#dsmsMobile' + open_id).fadeIn(400);
+    }
+    /*	function send_sms(){
+    $('#dMobile').hide();
+    $('.thanks_sms_div').fadeIn(400);
+    }*/
+
+    function close_sms(open_id) {
+        //alert(open_id)
+        document.getElementById('txtMobileNo' + open_id).value = "enter your mobile no here...";
+        $('#dsmsMobile' + open_id).hide();
+        $('#thanks_sms_div' + open_id).hide();
+        $('#dSendSms' + open_id).fadeIn(400);
+    }
+
+    function close_sms_map(open_id) {
+        document.getElementById('txtMobileNo_map').value = "enter your mobile no here...";
+        $('.dMobile22').hide();
+        $('#dSendSms').fadeIn(400);
+        $('.gmapMobile').fadeIn(400);
+    }
+
+   // var markerArray = [];
+    function initializeMap() {
+        //alert(loc);
+       
+        var location = loc.split("|*|");
+        var lenLocation = location.length;
+       // alert(location);
+      
+            var map = new google.maps.Map(document.getElementById('map_canvas'), {
+            zoom: 10,
+            //center: new google.maps.LatLng(singleLat, singleLong),
+            center: new google.maps.LatLng(singleLat, singleLong),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+
+        var infowindow = new google.maps.InfoWindow({          
+
+        });
+        
+        var marker, i;
+		var mapLoc = new Array();
+
+      //  alert(lenLocation);
+        
+        for (i = 1; i < lenLocation; i++) {
+            var detLocation = location[i].split("|,|");
+
+            var contentString = '<br><br><div id="dMobile" class="gmapMobile"><form name="frmSendSms" method="POST"><br>';
+            //contentString += '<br><br>';
+            contentString += '<input type="text" name="txtMobileNo_map" id="txtMobileNo_map" value="enter your mobile no here..."';
+            contentString += ' class="dropdown blur-focus" onfocus=this.value="' + '" onblur=\'if(this.value=="")';
+            contentString += ' this.value="enter your mobile no here..."\' style="border:1px solid #999999;"/>';
+            contentString += '<input type="button" name="btnGoSms" value="Send" onclick=\'sendSmsMap("' + detLocation[0] + '")\' ';
+            contentString += 'style="background-color:#25a1c2" />';
+            contentString += ' </form>';
+            contentString += '</div> <div class="dMobile22 thank_you_map" style="display:none;">';
+            contentString += '<a href="javascript:void(0)" onClick="close_sms_map()" id="close" style="float:right;">X</a>';
+            contentString += ' <p ><strong>THANK YOU!</strong> SMS has been sent to your mobile.</p>';
+            contentString += '</div>';
+
+
+            mapLoc[i] = "<div class='clsAddress' style='font-size:12px;'>" + detLocation[0] + "</div>";
+            mapLoc[i] += contentString;
+			//alert(mapLoc);
+            
+            var mapLat = detLocation[1];
+            var mapLong = detLocation[2];
+          //   alert(mapLoc);
+           // alert(mapLat+ +mapLong);
+
+            marker = new google.maps.Marker({
+                position: new google.maps.LatLng(mapLat, mapLong),
+
+                map: map
+            });
+           
+
+            /**** This is the arry which pass the value in function  ***/
+           /***** Vijay start ****/
+ //             attachInstructionText(marker, mapLoc);
+ //             markerArray[i] = marker;
+              /***** Vijay End ****/
+
+          //  alert(mapLoc);
+            /*
+            for (i = 0; i < locations.length; i++) {
+            marker = new google.maps.Marker({
+            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+                    
+            map: map
+            });
+            */
+            // alert(marker);    
+
+          /*****   old function start ****/
+         google.maps.event.addListener(marker, 'click', (function (marker, i) {
+                return function () {
+                    //infowindow.setContent(locations[i][0]);
+            //        alert(detLocation[1]);
+                    //alert(mapLoc);
+                    infowindow.setContent(mapLoc[i]);
+
+                    infowindow.open(map, marker);
+
+                }
+            })(marker, i)); 
+         /*****  End of old function   ***/   
+           
+        }
+    }
+
+    /******  Start function Vijay     ****/
+    function attachInstructionText(marker, text) {
+
+        google.maps.event.addListener(marker, 'click', function () {
+
+            // Open an info window when the marker is clicked on,
+            // containing the text of the step.
+      alert(text);
+            // stepDisplay.setContent(text);
+            // stepDisplay.open(map, marker);
+
+            infowindow.setContent(text);        
+
+            infowindow.open(map, marker);
+        })
+    } 	
+    /******   end of the vijay    ****/   
+
+    function sendSmsMap(addressMap) {
+        if (phone_validation('txtMobileNo_map') == true) {
+            var mobileNo1 = document.getElementById('txtMobileNo_map').value;
+            var address11 = addressMap;
+            var address11 = address11.replace(/(<br>|<br>)/g, " \n");
+           // var address11 = escape(document.getElementById('dispFullAddress').innerHTML);
+           // alert(address11);
+            if (mobileNo1 != "") {
+                $.post('sendCentersms.aspx', { 'mobile': mobileNo1, 'address1': address11 }, function (data) {
+                    if (data.indexOf("SUBMITDATE") != "-1") {
+                        //alert("Sms has sent on your mobile :" + mobileNo1);
+                        $('#dMobile').hide();
+                        $('.thank_you_map').fadeIn(400);
+                       
+                        $('.gmapMobile').fadeOut(400);
+                    }
+                    else {
+                        alert("Unable to send sms, please try again");
+                    }
+                    //alert(data);
+                });
+            }
+
+        } else {
+
+            return false;
+        }
+    }
+    function sendSms(open_id, sendAddress) {
+        if (phone_validation('txtMobileNo' + open_id) == true) {
+            var mobileNo = document.getElementById('txtMobileNo' + open_id).value;
+            var address11 = sendAddress;
+            //var address11 = (document.getElementById('dispFullAddress').innerHTML);
+			 var address_final=address11.replace(/(<br>|<br>)/g," \n");
+           // alert(address_final);
+            if (mobileNo != "") {
+                $.post('sendCentersms.aspx', { 'mobile': mobileNo ,'address1': address_final }, function (data) {
+                    if (data.indexOf("SUBMITDATE") != "-1") {
+                        //alert("Sms has sent on your mobile :" + mobileNo);
+                        $('#dsmsMobile' + open_id).hide();
+                        $('#thanks_sms_div' + open_id).fadeIn(400);
+                    }
+                    else {
+                        alert("Unable to send sms, please try again");
+                    }
+                    //alert(data);
+                });
+            }
+
+        } else {
+
+            return false;
+        }
+    }
+
+</script>
+<!-- jCarousel skin stylesheet-->
+<link rel="stylesheet" type="text/css" href="css/skin2.css">
+<!--jCarousel skin stylesheet-->
+<link rel="stylesheet" type="text/css" href="css/skin1.css">
+<link href="css/screen1.css" rel="stylesheet" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="css/new/skinfortop.css">
+</head>
+<body class="innerpage">
+<script>
+$(document).ready(function(e) {
+    $('.he_ques').toggle(function() {
+        	$(this).next().slideDown(1000);
+			$(this).css('background-image','url(images/faq_minus.png)');},
+			function() {		
+			$(this).next().slideUp(1000);
+			$(this).css('background-image','url(images/faq_plus.png)');
+    });
+});
+</script>
+    <div class="container">
+        
+
+<section class="hidden">
+          <header class="header">
+          <div class="logosection">
+           <a href="index.aspx" hidefocus="true" style="outline: none;"> <h1 style="float: left;">ARENA ANIMATION</h1>
+            <!--<img src="images/arena_logo.png" alt="Arena Logo" title="Arena Logo">-->
+ 
+                    <img src="images/arena_logo_22.gif" alt="Arena Animation" title="Arena Animation">
+                        
+            </a>
+            </div>
+
+            <form action="search.aspx" class="searchbox">
+            <!--<input type="text" id="textboxid" value="search" title="search" >&nbsp; -->
+            <input type="text" class="textboxid" name="srch" id="srch" value="search" title="search" onclick="if(this.value='search') this.value=''" onblur="if(this.value=='') this.value='search'">&nbsp; 
+            <input type="submit" class="button" value="Go">
+            </form>
+            
+            <br>
+            <nav class="navigation">
+                <ul id="nav">
+                <li><a href="aboutus-overview.aspx" class="" title="ABOUT US" hidefocus="true" style="outline: none;">ABOUT US</a>
+                <div class="hover_div" style="display:none;">
+                    	<div class="arrow">
+                        <img src="images/nav_hover_arrow.png" title="tooltip arrow" alt="tooltip arrow">
+                        </div>
+                        <div class="hover_content">
+                        	<div class="hover_content_nav">
+                                <a href="aboutus-overview.aspx" title="Overview" hidefocus="true" style="outline: none;">Overview</a>
+                                <p>All about Arena Animation</p>	
+                            </div>
+                            <div class="hover_content_nav">
+                                <a href="about-us-whyarena.aspx" title="Why Arena?" hidefocus="true" style="outline: none;">Why Arena?</a>
+                                <p>How Arena helps build successful careers in Animation &amp; Web Designing </p>	
+                            </div>
+                            <div class="hover_content_nav">
+                                <a href="faq.aspx" title="FAQ'S" hidefocus="true" style="outline: none;">FAQ'S</a>
+                                <p>&nbsp;</p>	
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="courses.aspx" class="" title="COURSES" hidefocus="true" style="outline: none;">COURSES</a>
+                <div class="hover_div" style="display:none;">
+                    	<div class="arrow">
+                        <img src="images/nav_hover_arrow.png" title="tooltip arrow" alt="tooltip arrow">
+                        </div>
+                        <div class="hover_content">
+                        <div class="left_nav_content">
+                        	<div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/animation.jpg" alt="Animation Courses" title="Animation Courses">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="animation-with-portfolio-development-aaip.aspx" title="Animation" hidefocus="true" style="outline: none;">Animation</a>
+                                    <ul>
+                                    	<li><a href="animation-with-portfolio-development-aaip.aspx" title="Animation with portfolio development: AAIP" hidefocus="true" style="outline: none;">Animation with portfolio development: AAIP</a></li>
+                                        <!--<li><a href="comprehensive-animation-arena-animation-pro.aspx" title="Comprehensive Animation: Arena Animation Pro">Comprehensive Animation: Arena Animation Pro</a></li> -->
+                                        <li><a href="animation-film-making-dae.aspx" title="Animation Film Making: DAE" hidefocus="true" style="outline: none;">Animation Film Making: DAE</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/web-designing-media.jpg" alt="Web Designing Courses &amp; Multimedia Courses" title="Web Designing Courses &amp; Multimedia Courses">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="graphics-web-design.aspx" title="Web designing &amp; multimedia" hidefocus="true" style="outline: none;">Web designing &amp; multimedia</a>
+                                    <ul>
+                                    	<li><a href="graphics-web-design.aspx" title="Graphics &amp; Web Design" hidefocus="true" style="outline: none;">Graphics &amp; Web Design</a></li>
+                                        <li><a href="digital-media-pro3.aspx" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/universityDegree.jpg" alt="VFX &amp; Animation Degree" title="VFX &amp; Animation Degree">
+                                </div>
+                                <div class="content_div1 content_div_small_width">
+                                	<a href="ba_vfx_animation.aspx" title="UNIVERSITY DEGREE" hidefocus="true" style="outline: none;">UNIVERSITY DEGREE</a>
+                                    <ul>
+                                 
+                                        <li><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation" hidefocus="true" style="outline: none;">B.A. in VFX &amp; Animation</a></li>
+                                    </ul>
+                                </div>    
+                            </div>
+                            
+                            
+                        </div>
+                        <div class="right_nav_content">
+                        
+                        <div class="nav_img_content content_div_small_width">
+                            	<div class="nav_img">
+                                <img src="images/navigation/gaming.jpg" alt="Game Design Courses" title="Game Design Courses">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="game-art-design.aspx" title="Gaming" hidefocus="true" style="outline: none;">Gaming</a>
+                                    <ul>
+                                    	<li><a href="game-art-design.aspx" title="Game Art &amp; Design" hidefocus="true" style="outline: none;">Game Art &amp; Design</a></li>
+                                        <li><a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                        <div class="nav_img_content content_div_small_width">
+                            	<div class="nav_img">
+                                <img src="images/navigation/vfx.jpg" alt="VFX Courses" title="VFX Courses">
+                                </div>
+                                <div class="content_div1 content_div_small_width">
+                                	<a href="vfx-pro.aspx" title="VFX" hidefocus="true" style="outline: none;">VFX</a>
+                                    <ul>
+                                    	<li><a href="vfx-pro.aspx" title="VFX Pro" hidefocus="true" style="outline: none;">VFX Pro</a></li>
+                                        <li><a href="vfx-compositing.aspx" title="VFX Compositing" hidefocus="true" style="outline: none;">VFX Compositing</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                             <div class="nav_img_content content_div_small_width">
+                            	<div class="nav_img">
+                                <img src="images/navigation/elearning-navpopups.jpg" alt="E-Learning" title="E-Learning">
+                                </div>
+                                <div class="content_div1 content_div_small_width">
+                                	<a href="digital-media-pro3.aspx?3" title="E-LEARNING" hidefocus="true" style="outline: none;">E-LEARNING</a>
+                                    <ul>
+                                 
+                                        <li><a href="digital-media-pro3.aspx?3" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                            <div class="nav_img_content content_div_small_width">
+                            	<div class="nav_img">
+                                <img src="images/navigation/short-term-courses.jpg" alt="Short Term Courses" title="Short Term Courses">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="short-term-course.aspx" title="Short term Courses" hidefocus="true" style="outline: none;">Short term Courses</a>
+                                    <ul>
+                                    	<li class="padl15">Sharpen your skills in a very short time </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </div>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="arena-zone.aspx" class="" title="ARENA ZONE" hidefocus="true" style="outline: none;">ARENA ZONE</a>
+                <div class="hover_div" style="display:none;">
+                    	<div class="arrow">
+                        <img src="images/nav_hover_arrow.png" title="tooltip arrow" alt="tooltip arrow">
+                        </div>
+                        <div class="hover_content">
+                        <div class="left_nav_content div_next_width">
+                        	<div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/testimonials.jpg" alt="Student Testimonials" title="Student Testimonials">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="testimonials.aspx" title="Testimonials" hidefocus="true" style="outline: none;">Testimonials</a>
+                                    <ul>
+                                    	<li class="padl15">Arena students share their success stories.</li>
+                                    </ul>
+                                </div>  
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/animation-industries.jpg" alt="Animation Industry" title="Animation Industry">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="arena-zone-animation-industry.aspx" title="Animation industry" hidefocus="true" style="outline: none;">Animation industry</a>
+                                    <ul>
+                                    	<li class="padl15">All about the exciting world of Animation &amp; VFX</li>
+                                    </ul>
+                                </div>                                
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/awards.jpg" alt="Awards" title="Awards">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="arenazone-awards.aspx" title="Awards" hidefocus="true" style="outline: none;">Awards</a>
+                                    <ul>
+                                    	<li class="padl15">Check out the awards &amp; achievements of Arena students</li>
+                                    </ul>
+                                </div> 
+                            </div>
+                        </div>
+                        
+                        <div class="right_nav_content div_next_width">
+                        <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/gallery.jpg" alt="Student Design Gallery" title="Student Design Gallery">
+                                </div>
+                                <div class="content_div1 content_div_small_width">
+                                	<a href="gallery.aspx" title="Gallery" hidefocus="true" style="outline: none;">Gallery</a>
+                                    <ul>
+                                    	<li class="padl15">A showcase of Arena students' awesome, outstanding work</li>
+                                    </ul>
+                                </div>                                
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/infrastructure.jpg" alt="Arena Infrastructure" title="Arena Infrastructure">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="infrastructure.aspx" title="Infrastructure" hidefocus="true" style="outline: none;">Infrastructure</a>
+                                    <ul>
+                                    	<li class="padl15">Arena Animation has hundreds of education centres in India &amp; across the world.</li>
+                                    </ul>
+                                </div>                                
+                            </div>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="franchisee.aspx" class="" title="FRANCHISEES" hidefocus="true" style="outline: none;">FRANCHISEES</a>
+                <div class="hover_div">
+                    	<div class="arrow">
+                        <img src="images/nav_hover_arrow.png" title="tooltip arrow" alt="tooltip arrow">
+                        </div>
+                        <div class="hover_content">
+                       	  <div class="hover_content_nav franchisee_nav_div">
+                            	<h5>Arena is a leader in franchising. Learn why! </h5>
+                                <a href="franchisee.aspx" title="Franchisee form" hidefocus="true" style="outline: none;">Franchisee form</a>
+                                <ul>
+                                <li><p><a href="franchisee.aspx" title="Start your own business with us.Fill this form" hidefocus="true" style="outline: none;">Start your own business with us.Fill this form</a></p></li>
+                               	</ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </li>
+                <li><a href="press-media.aspx" class="" title="PRESS &amp; MEDIA" hidefocus="true" style="outline: none;">PRESS &amp; MEDIA</a>
+                <div class="hover_div" style="display:none;">
+                    	<div class="arrow">
+                        <img src="images/nav_hover_arrow.png" title="tooltip arrow" alt="tooltip arrow">
+                        </div>
+                        <div class="hover_content">
+                       	  <div class="hover_content_nav franchisee_nav_div">
+                            	<h5>Arena in the news</h5>
+                                <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/press-media.jpg" alt="News &amp; Media" title="News &amp; Media">
+                                </div>
+                                <div class="content_div1 content_div_small_width">
+                                	<p><a href="gallery.aspx" class="fran_nav_no" title="Gallery" hidefocus="true" style="outline: none;">Gallery</a></p>
+                                    <ul>
+                                    	<li class="padl15">A showcase of Arena students' awesome, outstanding work</li>
+                                    </ul>
+                                </div>
+                                <a href="gallery.aspx" class="know_more_nav" title="Know more" hidefocus="true" style="outline: none;">Know more</a>
+                                
+                            </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </li>
+                <li><a href="placement-assistance.aspx" class="" title="PLACEMENTS" hidefocus="true" style="outline: none;">PLACEMENTS</a>
+                <div class="hover_div" style="display:none;">
+                    	<div class="arrow">
+                        <img src="images/nav_hover_arrow.png" alt="nav arrow hover">
+                        </div>
+                        <div class="hover_content">
+                       	  <div class="hover_content_nav franchisee_nav_div w255">
+                            	<h5>Arena helps build successful careers, around the world</h5>
+                                <a href="placement-assistance.aspx" title="Placement Assistance" hidefocus="true" style="outline: none;">Placement Assistance</a>
+                                <ul>
+                                <li><p class="padb10">Arena Animation prepares you for a career in the animation, web design &amp; gaming industry.</p></li>
+                               	</ul>
+                                <a href="recruitment-assistance.aspx" title="Recruitment Assistance" hidefocus="true" style="outline: none;">Recruitment Assistance</a>
+                                <ul>
+                                <li><p>Arena Animation has a full-fledged Placements Team.</p></li>
+                               	</ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </li>
+                <li><a href="student-work.aspx" class="" title="STUDENTS' WORK" hidefocus="true" style="outline: none;">STUDENTS' WORK</a>
+                <div class="hover_div marl-187" style="display:none;">
+                    	<div class="arrow padl240">
+                        <img src="images/nav_hover_arrow.png" alt="nav arrow hover">
+                        </div>
+                        <div class="hover_content">
+                       	  <div class="hover_content_nav franchisee_nav_div w270">
+                            	
+                                <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/students-work.jpg" alt="Arena Student Design Works" title="Arena Student Design Works">
+                                </div>
+                                <div class="content_div2">
+                                <h5>See the latest amazing work created by Arena students</h5>
+                                    <ul>
+                                    	<li class="padl15"><a href="student-work.aspx" title="View all Student Work" hidefocus="true" style="outline: none;">View all Students' Work</a></li>
+                                    </ul>
+                                </div>
+                                
+                            </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </li>
+                <li><a href="contact-us.aspx" class="" title="CONTACT US" hidefocus="true" style="outline: none;">CONTACT US</a>
+                <div class="hover_div marl-210">
+                    	<div class="arrow padl240">
+                        <img src="images/nav_hover_arrow.png" alt="nav arrow hover">
+                        </div>
+                        <div class="hover_content">
+                        <div class="left_nav_content div_next_width contact_nav">
+                        	<div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/search.jpg" alt="Search" title="Search">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="contact-us.aspx" title="Locate Us" hidefocus="true" style="outline: none;">Locate Us</a>
+                                    <ul>
+                                    	<li class="padl15">Find an Arena centre near you</li>
+                                    </ul>
+                                </div>
+                                
+                                
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/enquiry-form.jpg" alt="Enquire for Multimedia Courses" title="Enquire for Multimedia Courses">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="javascript:void(0);" onclick="thanks_popup('enquiry-form.aspx');" title="Enquiry Form" hidefocus="true" style="outline: none;">Enquiry Form</a>
+                                    <ul>
+                                    	<li class="padl15">Need to talk to us? Tell us &amp; we'll call you</li>
+                                    </ul>
+                                </div>
+                                
+                                
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <img src="images/navigation/live-chat.jpg" alt="Live Chat" title="Live Chat">
+                                </div>
+                                <div class="content_div1">
+                                	<a href="javascript:void(0);" onclick="thanks_popup('live-chat-popup.aspx')" title="Live Chat" hidefocus="true" style="outline: none;">Live Chat</a>
+                                    <ul>
+                                    	<li class="padl15">Speak with a career counselor. Now!</li>
+                                    </ul>
+                                </div>
+                                
+                                
+                            </div>
+                        </div>
+                        
+                        </div>
+                    </div>
+                </li>
+                </ul>
+            </nav>
+          </header>
+          <div class="clear"></div>
+
+        </section> <script>
+                                
+                       $('#openpopup a').click(function (e) {
+                           $('#openpopup').fadeOut('slow', function () {
+                               // Animation complete.
+                           });
+
+                       });
+                                                                                   
+                                                                                   var a_index=0;
+                                                                                   var hover_count=0;
+function hide_nav_hover(){
+                $('.current1 .hover_div').slideUp(0);
+				//$('.current1 .hover_div').slideUp(300);
+                                                                                $('.navigation #nav>li a:eq('+a_index+')').removeClass('current1');
+                                                                                $('.navigation #nav>li a:eq('+a_index+')').removeClass('selected');
+                                                                                }
+                                                $(document).ready(function(e) {
+                $('.navigation #nav>li').hover(
+                                                                function(){
+                                                                                $(this).addClass('current1');
+                                                                                $('.current1 .hover_div').slideDown(0);
+                                                                                a_index = $('.navigation #nav>li').index(this);
+                                                                                //setTimeout(hide_nav_hover,7000);
+																				//$('.current1 .hover_div').slideDown(300);
+                                                                },
+                                                                function(){
+                                                                                $('.current1 .hover_div').slideUp(0);
+                                                                                $(this).removeClass('current1');
+																				//$('.current1 .hover_div').slideUp(300);
+                                                                });
+            });
+                                                
+                                                
+                                                 $('div[id!=nav]').hover(
+                                                                function(){
+                                                                                if(hover_count==1){
+                                                                                $('.current1 .hover_div').slideUp(0);
+                                                                                $('.navigation #nav>li a:eq('+a_index+')').removeClass('current1');
+                                                                                $('.navigation #nav>li a:eq('+a_index+')').removeClass('selected');
+                                                                                hover_count=1;
+																				//$('.current1 .hover_div').slideUp(300);
+                                                                                }
+                                                                },
+                                                                function(){
+                                                                                
+                                                                });
+																
+																/* Tab */
+																function hide_nav_hover() {
+																	$('.current1 .hover_div').hide();
+																	$('.navigation #nav>li a:eq(' + a_index + ')').removeClass('current1');
+																	$('.navigation #nav>li a:eq(' + a_index + ')').removeClass('selected');
+																}
+
+																$(document).ready(function (e) {
+																	$('.navigation #nav>li').hover(
+																						   function () {
+																							   $(this).addClass('current1');
+																							   $('.current1 .hover_div').show();
+																							   a_index = $('.navigation #nav>li').index(this);
+																							   //setTimeout(hide_nav_hover,7000);
+																						   },
+																						   function () {
+																							   $('.current1 .hover_div').hide();
+																							   $(this).removeClass('current1');
+																						   });
+																});
+
+
+																/* End Tab */
+
+                                </script>
+
+        <section class="breadcrumb all">
+         <ul>
+         <li><a href="index.aspx" title="Home" class="breadcrumb-anglebg" hidefocus="true" style="outline: none;">Home</a> </li>
+         <li>Privacy Policy</li>
+         </ul>	
+        </section>
+       
+        <section class="left-part">
+        <article class="courses try">
+              <div class="course-gradient">
+              <div class="courses-content">
+              <h2><a href="courses.aspx" title="COURSES" hidefocus="true" style="outline: none;">COURSES</a></h2>
+              <div class="acordion">
+              <h3><a href="#" class="cls-current" title="Animation" hidefocus="true" style="outline: none;">ANIMATION</a></h3>
+              <p class="homecourses_link" style="display: block;"><a href="animation-with-portfolio-development-aaip.aspx" title="Animation with portfolio development: AAIP" hidefocus="true" style="outline: none;">Animation with portfolio development: AAIP</a>
+                           <!--<a href="comprehensive-animation-arena-animation-pro.aspx" title="Arena Animation Pro">Arena Animation Pro</a> -->
+                           <a href="animation-film-making-dae.aspx" title="Animation Film Making: DAE" hidefocus="true" style="outline: none;">Animation Film Making: DAE</a></p>
+                           <div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse" title="WEB DESIGN" hidefocus="true" style="outline: none;">WEB DESIGN</a></h3>
+              <p class="homecourses_link" style="display: none;"><a href="graphics-web-design.aspx" title="Graphics &amp; Web Design" hidefocus="true" style="outline: none;">Graphics &amp; Web Design</a>
+			<a href="digital-media-pro3.aspx" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></p>
+
+				<div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse" title="UNIVERSITY DEGREE" hidefocus="true" style="outline: none;">UNIVERSITY DEGREE</a></h3>
+              <p class="homecourses_link" style="display: none;"><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation" hidefocus="true" style="outline: none;">B.A. in VFX &amp; Animation</a>
+              </p>
+              
+              <div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse" title="GAMING" hidefocus="true" style="outline: none;">GAMING</a></h3>
+              <p class="homecourses_link" style="display: none;"><a href="game-art-design.aspx" title="Game Art &amp; Design" hidefocus="true" style="outline: none;">Game Art &amp; Design</a>
+                  <a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a>
+              </p>
+              
+              <div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse" title="VFX" hidefocus="true" style="outline: none;">VFX</a></h3>
+              <p class="homecourses_link" style="display: none;"><a href="vfx-pro.aspx" title="VFX pro" hidefocus="true" style="outline: none;">VFX Pro</a>
+              <a href="vfx-compositing.aspx" title="VFX Compositing" hidefocus="true" style="outline: none;">VFX Compositing</a>
+              </p>
+              <div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse" title="E LEARNING" hidefocus="true" style="outline: none;">E–LEARNING</a></h3>
+              <p class="homecourses_link" style="display: none;"><a href="digital-media-pro3.aspx?3" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></p>
+              <div class="saprater"></div>
+              <h3><span><a href="short-term-course.aspx" title="SHORT TERM COURSES" hidefocus="true" style="outline: none;">SHORT TERM COURSES</a></span></h3>   
+              
+              
+              <!--<p>3D animation with Maya<br>
+Visual Effects: After Effects<br>
+Web Animation &amp; scripting with Flash<br>
+Web graphics<br>
+Print &amp; publishing<br>
+Games development</p>-->
+              </div>
+              </div>
+             </div>             
+           </article>
+          <article class="press-media">
+             <div class="placement_pressmedia">
+
+  <div class="our-recruiters">
+ <h2>PLACEMENTS</h2>
+ </div>
+ <div class="recruiters-corousel"><div class=" jcarousel-skin-tango"><div class="jcarousel-container jcarousel-container-horizontal" style="position: relative; display: block;"><div class="jcarousel-clip jcarousel-clip-horizontal" style="overflow: hidden; position: relative;"><ul id="mycarousel" class="jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 2011px;">
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/01.gif" width="106" height="61" alt="Reliance Media works" title="Reliance Media works"></td></tr></tbody></table></figure></li>
+   <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/02.gif" width="104" height="61" alt="Technicolor" title="Technicolor"></td></tr></tbody></table></figure></li>
+     
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/03.gif" width="108" height="61" alt="Yell Add works" title="Yell Add works"></td></tr></tbody></table></figure></li>
+
+ <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/04.gif" width="119" height="61" alt="2Adpro" title="2Adpro"></td></tr></tbody></table></figure></li>
+
+    
+     <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/05.gif" width="244" height="61" alt="Thomson Digital" title="Thomson Digital"></td></tr></tbody></table></figure></li>
+
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/06.gif" width="69" height="61" alt="Sparrow Interactive" title="Sparrow Interactive"></td></tr></tbody></table></figure></li>
+
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/07.gif" width="78" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/08.gif" width="97" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/09.gif" width="164" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-10 jcarousel-item-10-horizontal" jcarouselindex="10" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/10.gif" width="85" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-11 jcarousel-item-11-horizontal" jcarouselindex="11" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/11.gif" width="41" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-12 jcarousel-item-12-horizontal" jcarouselindex="12" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/12.gif" width="179" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    
+    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-13 jcarousel-item-13-horizontal" jcarouselindex="13" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/13.gif" width="114" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+  
+  </ul></div><div class="jcarousel-prev jcarousel-prev-horizontal" style="display: block;"></div><div class="jcarousel-next jcarousel-next-horizontal" style="display: block;"></div></div></div></div>
+  
+          
+
+  <div class="viewmore_link"><a href="placement-assistance.aspx" title="View More Recuiters" hidefocus="true" style="outline: none;"> View More Recruiters</a></div>
+</div>
+           </article>
+           
+          <article class="promotionalbanner paddbotm10">
+             <h3>STUDENT TESTIMONIAL</h3>
+             <!--<img src="images/student-testimonial.jpg" alt="student testimonial" title="student testimonial">-->
+             <iframe width="250" height="194" src="http://www.youtube.com/embed/KeXh7x20QM8?wmode=opaque" frameborder="0" allowfullscreen=""></iframe>
+           </article>
+           
+        </section>
+        <section class="right-part franch">
+           
+           <article class="disclaimer_right_bg">
+           		<h2 class="header_h2">Privacy Policy</h2>
+
+           <!--<div class="clear fran_vide_div"><img src="images/video_franchisee.jpg" width="501" height="255"></div>-->
+            </article>
+           
+           <article class="mid_part_disclaimer">
+         
+
+              <p class="padparagraphbtm W592 P40">We do not sell or forward or rent your personal information what you share with Aptech, to any third party for any purposes like marketing etc. without your consent. This privacy policy is applicable to our services available under the aforesaid domain names. Your use of Aptech Site will signify your acceptance of the Aptech Privacy Policy.</p>
+              <p class="W592 padparagraphbtm">Wherever your Personal Information is held within Aptech, the company shall take reasonable steps to protect it from unauthorized access or disclosure. Aptech is committed to protecting the security of your personal information. We store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information, we protect it through the use of encryption.
+</p>
+              <p class="W592 padparagraphbtm">You may choose whether or not to provide Personal Information to Aptech. If you choose not to provide the Personal Information then you may be unable to access certain options, offers, and services that involve our interaction with you. If you chose to have a relationship with Aptech, Aptech will continue to contact you in connection with that business relationship.</p>
+              <p class="W592 padparagraphbtm">Where Aptech gets your Personal Information on the Site, Aptech intends to explain why Personal Information will be collected and whether Aptech plans to share such Personal Information outside or with those working on Aptech's behalf. Unless the transfer of Personal Information is legally required, Aptech will not transfer Personal Information without your permission to third parties.</p>
+              <p class="W592 padparagraphbtm">In the event that you do provide Personal Information, Aptech shall maintain accurate Personal Information that you have provided. Where Aptech collects Personal Information from you on the Site, its aim is to provide a means of contacting Aptech whenever you need to update or correct that Information.</p>
+              <p class="W592 padparagraphbtm">Personal Information will be kept confidential and will be used for our research, marketing, and strategic client analysis objectives and other internal business purposes only. We do not sell or rent Personal Information, except that your Personal Information shall be shared with our business partners/franchisees and you shall be deemed to have given consent to the same. We will share Personal Information only under the circumstances where we are compelled by law (including court orders) to do so.</p>
+              <p class="W592 padparagraphbtm">By using the Site, you consent to the terms of Aptech's Privacy Policy and processing of Personal Information for the purposes given above. When your Personal information is needed, Aptech will not be obligated to let you know at the time of collection, how it will use the personal information. Generally the personal information Aptech collects is used only by it to respond to your inquiry, process an order or allow you to access specific services. You will be offered an opportunity to limit access to your information. In case Aptech does not receive any response from you to limit the access of your information, it shall be deemed that you consent to such distribution of your Personal Information as mentioned above.</p>
+              <p class="W592">Please note that this Privacy Policy may keep changing from time to time without notice at the sole discretion of Aptech. If you have any questions about Aptech Privacy Policy, collection, use, or disclosure of your personal information, please e-mail us at <a href="mailto:digitalsolutions@aptech.ac.in" class="blue-email" title="digital solutions" hidefocus="true" style="outline: none;">digitalsolutions@aptech.ac.in.</a></p>
+                            
+           </article>
+           
+           
+        </section>
+        </div>
+        
+        <!-- FOOTER SECTION START HERE   -->
+        
+   <footer>
+ 
+     <div class="middbotom">      
+ <div class="bottom-nav">
+ <div class="arena_character">
+         	<a href="javascript:void(0);" style="cursor: default; outline: none;" hidefocus="true"><img src="images/arena-character-new1.png" alt="Arena Animation - Character" title="Arena Animation - Character"></a>
+         </div>
+ <div class="bottom-nav-section">
+ <div class="robot-text">
+ <span class="font_18_char"> Spot a character<br> 
+around the Arena website  </span>
+ <span class="win_prize"><span class="getleft">&amp;&nbsp;</span><span class="redcolor">WIN GREAT PRIZES</span></span>
+  <span class="light_blue">GET STARTED NOW!</span>
+  <span class="details_buttn"><a class="click-for-details" href="javascript:void(0);" onclick="thanks_popup('popup21.html');" title="Click for details" hidefocus="true" style="outline: none;"><!--<img src="images/click_for_details.jpg" alt="click for details" title="click for details">--></a></span>
+ </div>
+ <div class="navNtollfree">
+ <nav class="navigation-bottom">
+ <ul>
+ 
+ <li><a href="aboutus-overview.aspx" title="About Us" hidefocus="true" style="outline: none;">About Us</a></li>
+ <li><a href="franchisee.aspx" title="Franchisee" hidefocus="true" style="outline: none;">Franchisees</a></li>
+ <li><a href="http://www.aptech-worldwide.com/" title="About Aptech" target="_blank" hidefocus="true" style="outline: none;">About Aptech</a></li>
+ <li><a href="courses.aspx" title="Courses" hidefocus="true" style="outline: none;">Courses</a></li>
+ <li><a href="press-media.aspx" title="Press &amp; Media" hidefocus="true" style="outline: none;">Press &amp; Media</a></li>
+ <li><a href="testimonials.aspx" title="Testimonials" hidefocus="true" style="outline: none;">Testimonials</a></li>
+ <li><a href="arena-zone.aspx" title="Arena Zone" hidefocus="true" style="outline: none;">Arena Zone</a></li>
+ <li><a href="contact-us.aspx" title="Locate Centre" hidefocus="true" style="outline: none;">Locate Centre</a></li>
+ <li><a href="softwarecovered.aspx" title="Software" hidefocus="true" style="outline: none;">Software</a></li>
+ </ul>
+  </nav>
+  <div class="tollfreenum">  
+  <div class="paddleft3011"><span class="font21">Toll Free:</span><span class="font37">1 800 209 1444</span></div>
+  <div class="font18">(10am to 7pm Mon-Sat)</div>
+  <div class="font_1em">(If we miss your call, we'll call you back)</div>
+  </div>
+ </div>
+ </div>
+ 
+ </div>        
+ </div>   
+    
+  <div class="disclaimer">
+<div class="disclaimer-content">
+<div class="disclaimer-content-left">
+        <ul>
+           <li><a href="disclaimer.aspx" title="Disclaimer &amp; Terms Of Use" hidefocus="true" style="outline: none;">Disclaimer &amp; Terms Of Use</a></li>
+           <li><img src="images/sepratore-bottom.jpg" alt="seprater" title="seprater"></li>
+           <li><a href="privacy-policy.aspx" title="Privacy Policy" hidefocus="true" style="outline: none;">Privacy Policy</a></li>
+           <li><img src="images/sepratore-bottom.jpg" alt="seprater" title="seprater"></li>
+           <li><a href="site-map.aspx" title="Sitemap" hidefocus="true" style="outline: none;">Sitemap</a></li>
+           <li><img src="images/sepratore-bottom.jpg" alt="seprater" title="seprater"></li>
+           <li><a href="faq.aspx" title="Faqs" hidefocus="true" style="outline: none;">Faqs</a></li>
+           <li><img src="images/sepratore-bottom.jpg" alt="seprater" title="seprater"></li>
+           <li><a href="mailto:careers@aptech.ac.in?Subject=Ref:%20Application%20for%20Graphics%20and%20Animation%20faculty%20position%20at%20Arena&amp;BCC=digitalsolutions@aptech.ac.in" title="Careers" hidefocus="true" style="outline: none;">Careers</a></li>
+
+        </ul>
+</div>
+<div class="creadit-right">
+  <div class="creadt-text-copy">Note: All images &amp; videos used on this website have been created by Arena students.</div>
+<div class="copyright_div">Copyright © 2012 Aptech Ltd. All rights reserved.</div>
+</div>
+<div class="official_seal">
+	<!--<img src="images/arena_seal.png" alt="The Official Website" title="The Official Website"/>-->
+</div>
+</div>
+</div>  
+    
+    <div class="footer">
+     <div class="footerinside">
+     <div class="toll_free_contact">
+     <div class="icon_phone"></div>
+     <div class="vedana_12">Toll Free:&nbsp;</div><span class="verdana_16">1 800 209 1444</span><span class="vedana_12">&nbsp;(10am to 7pm Mon-Sat)</span> <div class="miss-call">(If we miss your call, we'll call you back)</div></div>
+           <div class="sociallink">
+               <ul>
+               <li class="bglight_black leftp"><a href="http://www.facebook.com/arenaanimation" target="_blank" hidefocus="true" style="outline: none;"><img src="images/facebook_1.jpg" alt="Facebook" title="Facebook"></a></li>
+                   <li class="bglight_black"><a href="https://plus.google.com/u/0/b/111450717760654761437/" target="_blank" hidefocus="true" style="outline: none;"><img src="images/gpluse_1.jpg" alt="google pluse" title="Google Pluse"></a></li>
+                   <!--<li class="bglight_black"><a href=""><img src="images/tweeter_1.png" alt="tweeter" title="tweeter"></a></li>-->
+                   <li class="bglight_black rightp"><a href="http://www.youtube.com/arenaanimation" target="_blank" hidefocus="true" style="outline: none;"><img src="images/youtube_1.jpg" alt="Youtube" title="Youtube"></a></li>
+                   <!--<li class="lightblue"><a id="downloadB" href="#downloadB">DOWNLOAD BROCHURE</a></li>-->
+                   <li class="darkyellow"><a id="livechat" href="javascript:void(0);" title="LIVE CHAT" hidefocus="true" style="outline: none;">LIVE CHAT</a></li>
+                   <li class="darkred"><a id="contactUs" href="javascript:void(0);" title="CONTACT US" hidefocus="true" style="outline: none;">CONTACT US</a></li>
+               </ul>
+           </div>
+           <!-- contact us popup starts here -->
+              <div class="slidepanal">
+                     <div class="customercare">
+                         <span class="verdana20">CUSTOMER CARE</span>
+                         <span class="areal16"> Need to reach us for queries OR issues? </span>
+                         <span class="customercarelink areal16_12"><span class="mailboximg"><img src="images/mailbox.png" alt="customercare@aptech.ac.in" title="customercare@aptech.ac.in"></span><span class="maillink areal16_new"><a href="mailto:customercare@aptech.ac.in" title="customercare@aptech.ac.in " hidefocus="true" style="outline: none;">customercare@aptech.ac.in </a></span>  </span>
+                         <span class="customercarelink areal16_12"><span class="mailboximg"><img src="images/phoneimg.png" alt="contact us and call me" title="91 22 28205516/ 67042355 -(Mon-Fri: 9 am - 5.30 pm in India / 0330 - 1200 hrs GMT)"></span><span class="maillink"><span class="dispblok areal16_new">91 22 28205516/ 67042355</span><span class="dispblok font14">(Mon-Fri: 9 am - 5.30 pm in India<br> 
+/ 0330 - 1200 hrs GMT)</span>  </span>  </span>
+                     </div>
+                      <div class="customercare">
+                      <form name="frmFLocator" id="frmFLocator" method="post" action="contact-us.aspx">
+                        <span class="verdana20">LOCATE CENTRE</span>
+                        <span class="inputfild">
+
+<div class="selector" id="uniform-selStateFooter"><span>ANDHRA PRADESH</span><select class="dropdown" title="search by location" name="selStateFooter" id="selStateFooter" onchange="getFooterCity('footerState')" style="opacity: 0;">
+<option value="ANDHRA PRADESH">ANDHRA PRADESH</option><option value="ASSAM">ASSAM</option><option value="BIHAR">BIHAR</option><option value="CHANDIGARH">CHANDIGARH</option><option value="CHHATISGARH">CHHATISGARH</option><option value="GOA">GOA</option><option value="GUJARAT">GUJARAT</option><option value="HARYANA">HARYANA</option><option value="HIMACHAL PRADESH">HIMACHAL PRADESH</option><option value="JAMMU &amp; KASHMIR">JAMMU &amp; KASHMIR</option><option value="JHARKHAND">JHARKHAND</option><option value="KARNATAKA">KARNATAKA</option><option value="KERALA">KERALA</option><option value="MADHYA PRADESH">MADHYA PRADESH</option><option value="MAHARASHTRA">MAHARASHTRA</option><option value="MEGHALAYA">MEGHALAYA</option><option value="NEW DELHI">NEW DELHI</option><option value="ORISSA">ORISSA</option><option value="PUNJAB">PUNJAB</option><option value="RAJASTHAN">RAJASTHAN</option><option value="TAMIL NADU">TAMIL NADU</option><option value="UTTAR PRADESH">UTTAR PRADESH</option><option value="UTTARAKHAND">UTTARAKHAND</option><option value="WEST BENGAL">WEST BENGAL</option>
+       
+        </select></div>
+
+
+
+                        <!--<select class="dropdown" title="dropdown box">
+                        <option>Select State</option>
+                        <option>India</option>
+                        <option> Sri lanka</option>
+                        
+                        </select>-->
+                        
+                        </span>
+
+                        <div class="inputfild" id="dispCityFooter">
+                        <div class="selector" id="uniform-selCityFooter"><span>Select City</span><select name="selCityFooter" id="selCityFooter" class="dropdown" title="second dropdown box" style="opacity: 0;">
+                            <option>Select City</option>
+                        </select></div>
+                        
+                        </div>
+
+                        <!--<span class="inputfild"><select class="dropdown" title="second dropdown box">
+                        <option>Select City</option>
+                        <option>India</option>
+                        <option> Sri lanka</option>
+                        
+                        </select></span>-->
+                        
+                         <input class="three-dbutton" type="submit" value="FIND CENTRE" title="FIND CENTRE">
+                         </form>
+                        <!--<span class="butnfild"><a href="#"><span class="btntext">FIND CENTER</span><span class="btnimg"><img src="images/buttonfild.png" alt="FIND CENTER" title="FIND CENTER"></span></a></span>-->
+                      </div>
+                      
+                      <div class="enquiryform">
+                        <iframe id="Iframe1" src="http://180.179.206.125/ArenaWebsiteWebForms/divdisplay-international.aspx" style="margin-top:-43px; border:0; overflow:hidden; background-color:transparent;" height="370" width="257"></iframe>      
+                        
+
+                        <!--<span class="verdana20">ENQUIRY FORM</span>
+                        <span class="inputfild"><input type="text" value="Name" title="Name" class="dropdown blur-focus" /></span>
+                        <span class="inputfild"><input type="text" value="Email" title="Email" class="dropdown blur-focus" /></span>
+                        <span class="inputfild"><textarea title="Any message for us?" rows="3" class="txtarea" >Any message for us?</textarea></span>
+                        
+                         <input class="three-dbutton" type="submit" value="WE WILL CALL YOU SOON!" title="WE WILL CALL YOU SOON!" />-->
+                      
+                      </div>
+                      <div class="close-button"><img src="images/crassbtn.gif" alt="close" title="close"></div>
+                </div>
+            <!-- contact us popup end here -->
+            
+            <!-- live chat popup starts here -->
+            <div class="slidepanal3">
+                     
+                     <script type="text/javascript">
+
+                         function ValidateForm() {
+
+                             if (document.getElementById("name_chat").value == "" || document.getElementById("name_chat").value == "Name*") {
+                                 alert("Please enter your Name");
+                                 document.getElementById("name_chat").focus();
+                                 return false;
+                             }
+                             if (!(email_validation("email_chat", "Email*") == true)) {
+                                  return false;
+
+                             } 
+/*
+                             if (document.getElementById("message_chat").value == "" || document.getElementById("message_chat").value == "Any message for us?") {
+                                 alert("Message Field can not be blank");
+                                 document.getElementById("message_chat").focus();
+                                 return false;
+                             }
+*/
+                             else {
+                                 postChat();
+                             }
+                             return false;
+                         }
+
+                         function postChat() {
+
+                             //return false;
+                             var c_name = document.getElementById("name_chat").value;
+                             var email_chat = document.getElementById("email_chat").value;
+                            // var dropdown_chat = document.getElementById("dropdown_chat").value;
+                             var message_chat = document.getElementById("message_chat").value;
+                           
+                             $.post("live_chat_post.aspx", { 'cname': c_name, 'email_chat': email_chat, 'message_chat': message_chat }, function (data) {
+                                 var ur = "<IFRAME SRC=" + data + "height=401px width=677px></IFRAME>"
+                            
+                                 $('#open_chat_window').html(ur);
+                             });
+                             return false;
+                         }
+   
+   
+            </script>
+             <form method="post" action="#" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYzNzA4NDcyMGRk">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKn28yKCwKct7iSDA==">
+
+                      <div class="livechatslide" id="open_chat_window">
+                        <span class="verdana20">LIVE CHAT</span>
+                        <span class="ariel14"> Welcome to Arena Animation Online help. Please enter your details below
+ to continue.</span>
+              <span class="ariel14">The chat service is available Monday to Saturday (excluding National holidays) from 10:00 am to 07:00 pm.</span>
+                        <span class="inputfildlive padd10px">
+                        <span class="inputfild"><input type="text" name="name_chat" id="name_chat" value="Name*" title="Name" class="dropdown blur-focus"></span>
+                        <span class="inputfild"><input type="text" name="email_chat" id="email_chat" value="Email*" title="Email" class="dropdown blur-focus"></span>
+                       
+                        </span>
+                        <span class="inputfildlive"> <span class="inputfild"><textarea title="Any message for us?" rows="3" id="message_chat" name="message_chat" cols="5" class="txtarea hightpik txtborder-radius">Any message for us?</textarea></span>
+                                               <input type="submit" name="btnSave" value="SUBMIT" onclick="return ValidateForm();" id="btnSave" class="three-dbutton">
+
+ 
+                    </span>                     
+                    
+                   </div>
+                   </form>
+                      
+                      <div class="close-button3"><img src="images/livechatclose.gif" alt="close" title="close"></div>
+                </div>
+            <!-- live chat popup end here -->
+            
+            <!-- download popup starts here -->
+             
+            <!-- download popup end here -->    
+                
+     </div>
+</div> 
+
+
+</footer>
+<script type="text/javascript">
+var mobile =
+(/iphone|ipad|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
+     if (mobile) {
+		$('.footer').css({'position':'relative'});
+	}
+
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6782227-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+ <!-- FOOTER SECTION END HERE   -->
+ <div class="form_fill_popup"></div>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close" hidefocus="true" style="outline: none;"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left" hidefocus="true" style="outline: none;"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right" hidefocus="true" style="outline: none;"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
