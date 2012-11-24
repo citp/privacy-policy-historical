@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the momalwaysfindsout.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630010848id_/http%3A//momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momalwaysfindsout.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125005149id_/http%3A//momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mom Always Finds Out
+# Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form. 
+We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -14,7 +14,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -22,8 +22,7 @@ Any of the information we collect from you may be used in one of the following w
 ; To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To process transactions  
-
+; To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -61,9 +60,13 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 07/30/11
+**Notice Regarding Online Behavioral Advertising.**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+
+This policy was last modified on 08/03/12
 
 momalwaysfindsout@gmail.com
 
