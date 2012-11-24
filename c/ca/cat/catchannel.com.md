@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201741id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124133744id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # CatChannel.com
 
@@ -9,6 +9,8 @@
 ---  
   
 Animal Network Privacy Policy 
+
+[](http://pinterest.com/pin/create/button?url=http%3a%2f%2fwww.catchannel.com%2fcorporate%2fprivacy.aspx&media=http%3a%2f%2fwww.catchannel.com%2fAnimal+Network+Privacy+Policy&description=)
 
 **Effective January 1, 2005**
 
@@ -71,6 +73,8 @@ You can also edit and update your subscription account information at any time b
 
 **CONTACT INFORMATION  
 ** Questions and suggestions regarding our privacy policy should be sent by e-mail to [privacy@bowtieinc.com](mailto:privacy@bowtieinc.com).  You can also reach us by mail at P.O. Box 6040, Mission Viejo, 92690. Please address your correspondence to Privacy Policy.
+
+[](http://pinterest.com/pin/create/button?url=http%3a%2f%2fwww.catchannel.com%2fcorporate%2fprivacy.aspx&media=http%3a%2f%2fwww.catchannel.com%2fAnimal+Network+Privacy+Policy&description=)
 
  Give us your opinion on  
 Animal Network Privacy Policy
