@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcouponstoday.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623035220id_/http%3A//www.topcouponstoday.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcouponstoday.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125003508id_/http%3A//www.topcouponstoday.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Top Coupons Today
 
@@ -32,9 +32,11 @@ TopCouponsToday.com may share your information with our affiliates or with servi
 
 For information about Coupons.com privacy, please [click here](http://www.couponsinc.com/corporate/Privacy.aspx).
 
+We serve some third-party ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
 **What are my choices?**
 
-If you would like TopCouponsToday.com to stop providing your information to these third parties, please send a "do not share" request to TopCouponsToday.com by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com), or by contacting us as directed below under "Additional Information."
+If you would like TopCouponsToday.com to stop providing your information to these third parties, please send a "do not share" request to TopCouponsToday.com by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com?subject=TopCouponsToday.com), or by contacting us as directed below under "Additional Information."
 
 **TopCouponsToday.com's special note to parents**
 
