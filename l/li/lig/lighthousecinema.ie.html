@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the lighthousecinema.ie privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512221454id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lighthousecinema.ie privacy policy that was archived on 2012-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124211627id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=7">
 	<title>Light House Cinema - PAGETITLE</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta name="keywords" content="Admit One,cinema, films, movies, showtimes, coming soon, new releases, book online, trailers, lighthouse, smithfield">
-	<meta name="description" content="Lighthouse Cinema Smithfield">
+	<meta name="description" content="Light House Cinema Smithfield">
 	<meta name="author" content="Admit One - www.admit-one.eu">
 	<meta http-equiv="content-language" content="en">
 	<meta name="robots" content="index, follow">
@@ -28,30 +28,102 @@
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map_canvas { height: 100% }
+    </style>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCZL0Ne9E5qvKvXYDeRdTNlHPrXUehpRM8&amp;sensor=true">
+    </script>
+    <script type="text/javascript">
+      function initialize() {
+        var contentString = '<b>Light House Cinema</b><br>Market Square<br>Smithfield<br>Dublin 7';
+		
+		var infowindow = new google.maps.InfoWindow({
+		content: contentString
+		});
+		
+		var lLatLong = new google.maps.LatLng(
+		53.34866, -6.27904);
+		
+		var myOptions = {
+          center: lLatLong,
+          zoom: 17,
+		  mapTypeControl: true,
+		  mapTypeControlOptions: {
+		    style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+			},
+		  zoomControl: true,
+		  zoomControlOptions: {
+		    style: google.maps.ZoomControlStyle.SMALL
+		  },
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        
+		var map = new google.maps.Map(document.getElementById("map_canvas"),
+            myOptions);
+	    
+		var marker = new google.maps.Marker({
+		position: lLatLong,
+		map: map,
+		title:"Light House Cinema"
+	    });
+		
+		google.maps.event.addListener(marker, 'click', function() {
+		infowindow.open(map,marker);
+		});
+	}
+    </script>
 </head>
 <body>  <div id="headerWrapper">
 		<div id="header">
-			<div class="top-bar-nav">
-				<a href="http://www.facebook.com/LightHouseD7" class="tp-btn5"></a>
-				<a href="https://twitter.com/LightHouseD7" class="tp-btn6"></a>
-			</div>
-
+		<a href="/index.php?PHPSESSID=l8lr6dm6o1ub1p05nih5i2jrc1"><img src="/images/logo-home-link.png" alt="" style="position:absolute; margin-left:-962px; margin-top:-60px;"></a>
+			<table class="socialButtons">
+				<tbody><tr>
+					<td>
+						<a href="https://twitter.com/LightHouseD7"><img src="/images/tw.png" alt=""></a>
+					</td>
+					<td>
+						<a href="http://www.facebook.com/LightHouseD7"><img src="/images/fb.png" alt="" style="padding-left:5px;"></a>
+					</td>
+				</tr>
+			</tbody></table>
 			<p>
-				Lighthouse<br>
-				<span id="Address">Market Square, Smithfield<br>Dublin 7</span><br>
+				Light House Cinema<br>
+				<span id="Address">Market Square, Smithfield, Dublin 7</span><br>
 				<span id="Phone">Tel: 01 8728006</span><br>
 				<span id="Phone" style="float:right;">Email: mail@lighthousecinema.ie</span>
 			</p>
-
+			
 			<div class="GNS">
 				<div>
 					<ul>
-						<li><a href="http://www.lighthousecinema.ie/index.php">Home</a></li>
-						<li><a href="http://www.lighthousecinema.ie/comingsoon.php">Coming Soon</a></li>
-						<li><a href="http://www.lighthousecinema.ie/article.php?sec=about">About Us</a></li>
+						<li><a href="http://www.lighthousecinema.ie/index.php?PHPSESSID=l8lr6dm6o1ub1p05nih5i2jrc1">Home</a></li>
+						<li><a href="http://www.onlinecinematickets.com/index.php?s=LHSMITHF&amp;PHPSESSID=l8lr6dm6o1ub1p05nih5i2jrc1">Showtimes</a></li>
+						<li><a href="http://www.lighthousecinema.ie/comingsoon.php?PHPSESSID=l8lr6dm6o1ub1p05nih5i2jrc1">Coming Soon</a></li>
+						<li><a href="http://www.lighthousecinema.ie/article.php?sec=loyal&amp;PHPSESSID=l8lr6dm6o1ub1p05nih5i2jrc1">Loyal Members</a></li>
+						<li><a href="http://www.lighthousecinema.ie/article.php?sec=shorts&amp;PHPSESSID=l8lr6dm6o1ub1p05nih5i2jrc1">Short Films</a></li>
+						<li><a href="http://www.lighthousecinema.ie/article.php?sec=about&amp;PHPSESSID=l8lr6dm6o1ub1p05nih5i2jrc1">About Us</a></li>
 					</ul>
 				</div>
 			</div>
+			
+			<div style="float:left; padding-left:20px; margin-top:-70px;">
+				<center>
+					<div style="height:45px; width:170px; background-color:#A8A089;">
+						<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post"><input type="hidden" name="PHPSESSID" value="l8lr6dm6o1ub1p05nih5i2jrc1">
+							<font style="font-weight: bold; font-family:Arial; font-size:11px; color:#ffffff;">Sign up for our newsletter</font>
+							<input type="text" name="ea" size="20" value="" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;">
+							<input type="submit" name="go" value="GO" class="submit" style="font-family:Verdana,Arial,Helvetica,sans-serif; font-size:10px;">
+							<input type="hidden" name="llr" value="iglbr6iab">
+							<input type="hidden" name="m" value="1109092510920">
+							<input type="hidden" name="p" value="oi">
+						</form>
+					</div>
+				</center>
+			</div>
+			
 		</div>
   </div>
 <!-- EOF header -->
@@ -73,7 +145,7 @@ If you have any questions about this Privacy Policy, or about our practices with
 <ul>
 <li style="color:#444;"><b>Email:</b> </li>
 <li style="color:#444;"><b>Telephone:</b> 01 8728006</li>
-<li style="color:#444;"><b>Mail:</b> Market Square, Smithfield Dublin 7</li>
+<li style="color:#444;"><b>Mail:</b> Market Square, Smithfield, Dublin 7 </li>
 </ul>
 <br>
 <h4 style="color:#444;">Personal Information We Collect</h4>
@@ -184,7 +256,7 @@ If you have any questions about this Privacy Policy, or about our practices with
 <ul>
 <li style="color:#444;"><b>Email:</b> </li>
 <li style="color:#444;"><b>Telephone:</b> 01 8728006</li>
-<li style="color:#444;"><b>Mail:</b> Market Square, Smithfield Dublin 7</li>
+<li style="color:#444;"><b>Mail:</b> Market Square, Smithfield, Dublin 7 </li>
 </ul>
 
 Please clearly indicate the information that you wish to review or have changed. We will reply to your request as soon as reasonably possible.<br><br>
@@ -201,5 +273,6 @@ Please clearly indicate the information that you wish to review or have changed.
 </div>
 
 </div>
+
 
 </div></body></html>
