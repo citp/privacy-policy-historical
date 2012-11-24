@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirror.me privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620044707id_/http%3A//mirror.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirror.me privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124075427id_/http%3A//mirror.me/privacy) for the most accurate reproduction.*
 
 # mirror.me | Privacy
 
