@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525121709id_/http%3A//www.pobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124230925id_/http%3A//pobox.com/privacy) for the most accurate reproduction.*
 
 # Pobox.com Privacy Policy
 
@@ -10,7 +10,7 @@ We also do not distribute ads by email, either to Pobox subscribers or through o
 
 **Your Personal Information** When you register with us, we ask for your name, mailing address, telephone number, and a security question of your choosing. We collect, store, and use this personal information to confirm your identity when you contact us, and to contact you regarding your account. That's it.
 
-If you do not provide that information accurately, you reduce our ability to confirm your identity as the account holder. If you feel very strongly about this matter, we urge you to fill in as much as possible, and select a strong security question and answer (in [the Personal Information section of the User's Area](http://pobox.com/login/mason/change-question/)) and to **remember the answer**. IC Group is not liable for any changes made to your account as a result of our inability to confirm your identity.
+If you do not provide that information accurately, you reduce our ability to confirm your identity as the account holder. If you feel very strongly about this matter, we urge you to fill in as much as possible, and select a strong security question and answer (in [the Personal Information section of the User's Area](http://pobox.com/home/change-password/)) and to **remember the answer**. IC Group is not liable for any changes made to your account as a result of our inability to confirm your identity.
 
 Because we do not derive income from advertising, we do not aggregate your personal information for marketing purposes. However, we may use your data to determine some basic information about our user base (for example, how many customers do we have in a particular country.)
 
@@ -25,7 +25,7 @@ We do not sell, loan, lease, give away, share or in any other way make your pers
 
 If your information has been subpoenaed from us, you will be informed unless we are specifically barred from doing so by the subpoena.
 
-**Accessing and Changing Your Account Information** You can access and edit your account information at any time (in fact, we encourage you to keep this information up to date, so that we do not we try to call you and find the phone number disconnected). Your personal information can be edited at [the Personal Information section of the User's Area.](https://www.pobox.com/login/mason/change-info/)
+**Accessing and Changing Your Account Information** You can access and edit your account information at any time (in fact, we encourage you to keep this information up to date, so that we do not we try to call you and find the phone number disconnected). Your personal information can be edited at [the Personal Information section of the User's Area.](https://www.pobox.com/home/change-info/)
 
 Your account can be canceled at any time by going to <http://www.pobox.com/home/cancel/>, responding to invoices with "cancel", or by contacting our Customer Service staff at [pobox@pobox.com](mailto:pobox@pobox.com "Send an email to Pobox
     Support"). If you ask us to delete your account, your account will usually be deactivated and we will stop accepting mail for your addresses within 1 hour. Please note that information may remain in back-up storage for some further period of time. 
@@ -66,7 +66,7 @@ Subscription or other administrative requests sent via email are stored for 30 d
 
 **Children** Children under the age of 13 are not eligible to hold Pobox.com accounts and should not submit any personal information to us.
 
-**Changes to the Policy** We reserve the right to update this privacy policy. If there are material changes, we will either notify you via e-mail or post notification prominently on our web site prior to implementing the changes. If you would like to receive notice via email, please go to [the Personal Information section of the User's Area](https://www.pobox.com/login/mason/change-info/), and specify that you would like to receive announcements from us.
+**Changes to the Policy** We reserve the right to update this privacy policy. If there are material changes, we will either notify you via e-mail or post notification prominently on our web site prior to implementing the changes. If you would like to receive notice via email, please go to [the Personal Information section of the User's Area](https://www.pobox.com/home/change-info/), and specify that you would like to receive announcements from us.
 
 **Contact Us** If you have any questions about our privacy policy, or there are any categories that you think we haven't covered, please let us know. We have tried to be as comprehensive as possible, but we'd like to know if we've missed anything. You can contact us [through our website](http://www.pobox.com/helpspot/index.php?pg=request), via email to [pobox@pobox.com](mailto:pobox@pobox.com "Send an
     email to Pobox Support"), or send us paper mail at:
