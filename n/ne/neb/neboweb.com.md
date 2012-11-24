@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neboweb.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620000206id_/http%3A//www.neboagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neboweb.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124031105id_/http%3A//www.neboagency.com/privacy-policy) for the most accurate reproduction.*
 
 # Nebo Agency Privacy Policy | NeboWeb, LLC
 
