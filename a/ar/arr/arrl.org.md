@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrl.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531082551id_/http%3A//www.arrl.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrl.org privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124184732id_/http%3A//www.arrl.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,8 +22,13 @@ ARRL safeguards personal information contained in both paper and electronic reco
 
 We maintain physical, electronic and procedural safeguards to protect the information we collect. Access to such information is restricted to authorized employees and agents of ARRL who need it in order to perform transactions related to Amateur Radio licenses or to provide products or services to you. These employees and agents are trained in the proper handling of such information.
 
-**4\. Effective Date and Changes to this Privacy Statement**
+**4\. Changes to this Privacy Statement**
 
-This notification replaces all previously issued Privacy Policies.
+ARRL may at any time, without notice and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of ARRL’s website after any such amendments signifies your acceptance thereof. **5.** **Questions or Suggestions** ****  
+  
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@arrl.org](mailto:privacy@arrl.org).
 
-Last updated and effective date: January 1, 2009
+Last updated: January 1, 2009
+
+  
+ **_______________________________________________________________**
