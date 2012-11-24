@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525120035id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124141222id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
 
 # Ascentive's Privacy Policy | By Ascentive
 
@@ -13,6 +13,8 @@ We use a cookie so you don't see our pop-up offer more than once per day. The co
 Ascentive's Revenue Partners program provide site traffic to www.ascentive.com in exchange for a percentage of sales revenue. When you order an Ascentive product and you have been referred by a Revenue Partner, the following anonymous information is provided to the Revenue Partner to calculate revenue and verify our compliance: order number, product name, product cost, and date/time. **No customer identifying information is provided to Revenue Partners unless that Revenue Partner is responsible for helping us fulfill your order, in which case your personal information will only be used by Revenue Partner to fulfill your order.** Ascentive is not responsible for information you choose to provide directly to an Ascentive Revenue Partner via their web site.
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Financial information that is collected is used to bill the customer for products and services. Miscellaneous optional information collected on the order form, such as connection speed and operating system, are used in aggregate to help us make decisions about developing new products and services. Contact information you provide on your order form may be used occasionally by Ascentive or select partners to announce free updates to software items ordered, special offers and related promotions. You may opt out of this at any time. We are committed to respecting your wishes for use of your personal data.
+
+Software for mobile devices may include additional software and/or functionality for to report to Ascentive and/or one or more third parties certain analytical data regarding your use of the applicable software (collectively, “Analytical Data”).  All third party providers that analyze, collect, receive or process Analtical Data from us or on our behalf are prohibited from using such Analytical Data except on our behalf.  All Analytical Data that is collected by Ascentive will be used only in accordance with this Privacy Policy.
 
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Ascentive uses passwords and SSL encryption to protect the security of this information.
@@ -29,8 +31,8 @@ This site gives users the following options for changing and modifying informati
 
 
 Ascentive LLC,  
-201 Spring Garden Street,  
-Philadelphia, PA 19123  
+50 S. 16th Street ,  
+Philadelphia, PA 19102  
 
 
 You can call the following telephone number: 1.215.320.6000
@@ -42,6 +44,6 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Ascentive Webmaster,  
-201 Spring Garden Street,  
-Philadelphia, PA 19123  
+50 S. 16th Street,  
+Philadelphia, PA 19102  
 
