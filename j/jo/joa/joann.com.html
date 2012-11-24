@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the joann.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615162032id_/http%3A//www.joann.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joann.com privacy policy that was archived on 2012-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124180957id_/http%3A//www.joann.com/privacyPolicy) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript" src="https://sb.monetate.net/js/1/a-18808412/p/joann.com/439011/g"></script><script type="text/javascript" src="/joann/js/common.js"></script>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head><script type="text/javascript" src="https://sb.monetate.net/js/1/a-18808412/p/joann.com/439011/g"></script><script type="text/javascript" src="/joann/js/common.js"></script>
+<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head><body class="inner"><i18n:bundle basename="com.joann.common.JoannResourceBundle" locale="${requestLocale}">
 
-<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head><body><i18n:bundle basename="com.joann.common.JoannResourceBundle" locale="${requestLocale}">
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <meta name="description" content="privacy policy: customer service | Joann.com">
 <meta name="keywords" content="">
@@ -40,6 +44,13 @@ div.review_lower label { top: 8px left: 24px; position: absolute;}
 
 <div id="wrapper940">
      <!-- this page is header -->
+<link rel="stylesheet" type="text/css" href="/css/base.css"> 
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/13-5updates.css">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+<!--  <script type="text/javascript" src="/joann/js/jquery-1.6.4.min.js" charset="utf-8"></script> -->
+<script type="text/javascript" src="/joann/js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="/joann/js/urlEncode.js"></script>   
 <!-- Script for Ensighten-->
 
 <script type="text/javascript" src="//nexus.ensighten.com/joann/Bootstrap.js">
@@ -48,62 +59,124 @@ div.review_lower label { top: 8px left: 24px; position: absolute;}
 <!-- End of Script for Ensighten-->
 
 <!-- Script for ForeSee Survey Code  SMallika 03/08/2011 Tied to PRB43834-->
-     <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
-     <script type="text/javascript" src="/joann/js/urlEncode.js"></script>
-<!-- End Script for ForeSee Survey Code -->
+<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+<script type="text/javascript">
+var isProject='0';
+</script>
 
-<script language="javascript" type="text/javascript">
+
+<script type="text/javascript">
 	
-function handleEnter_search()
+
+  jQuery(function () {	
+		jQuery( "#qsearch" ).autocomplete({
+               source: "/joann/common/searchSuggestions.jsp",
+               minLength: 3,
+               select: function(e, ui) {
+     			   $( "#qsearch" ).val( ui.item.value );
+					emptykey('qsearch');
+					return false;
+    			}
+        });
+    });
+
+     
+
+		</script>
+<style type="text/css">
+ul.ui-autocomplete { border: 1px solid #ededed; width: 400px !important;}
+li.ui-menu-item { list-style: none; text-align: left; font-style: italic; border-bottom: 1px solid #ededed !important; color: #0a3b31; background: #fffbe5 !important; padding: 10px; cursor: pointer; text-transform: capitalize !important;}
+li.ui-menu-item:hover { background: #e4ebdc !important;}
+</style>
+<script type="text/javascript">
+function handleEnter(strId)
 {
 	var evt = window.event;
 	if (evt.keyCode == 13)
 	{
-		document.getElementById("qsearch_btn").click();
+		emptykey(strId);
 		return false;
 	}
 	else
 		return true;
 }
-
-</script>
-<script type="text/javascript" language="javascript">
-function emptykey_search()
-{
-	try
-	{
-		var searchkey = document.getElementById('qsearch').value.replace(/^\s+|\s+$/g, '').replace(/\\/g,''); 
-		if(searchkey=="enter search criteria"||searchkey=="")
-		{
+function emptykey(strId) {
+	
+	try {
+		var searchkey = document.getElementById(strId).value.replace(/^\s+|\s+$/g, '').replace(/\\/g,''); 
+		if(searchkey=="") {
 			window.alert('No search criteria was entered in the search field');
 			return false;
 		} else {
 			document.getElementById('keyword').value = '_' + searchkey;
-			searchkey = $.URLEncode(searchkey.replace(/ /g,'_').replace(/%/g,'_percent_').replace(/\+/g,'-'));
-			var url = 'http://www.joann.com/' + 'search' + '/' + '_'+ searchkey + '/';
+			searchkey = searchkey.replace(/ /g,'_').replace(/%;/g,'_percent_').replace(/\-/g,'_hyphen_').replace(/\+/g,'-');
+			var url = '';
+			if(strId == 'qsearch') {
+				
+				url = 'http://www.joann.com/' + 'search' + '/';
+				url = url + '_'+ searchkey + '/';
+			} else {
+				
+				url = window.location.protocol + "//" + window.location.host + window.location.pathname;
+				if(url.charAt(url.length -1) != '/') {
+					url = url + '/';
+				}
+				url = url + '_'+ searchkey + '/';
+				url = url + window.location.search;
+				if(isProject=='1' && url.indexOf("isPrj=") <= 0) {
+					if(url.indexOf("?") <= 0) {
+						url = url + "?isPrj=1";
+					} else {
+						url = url + "&isPrj=1";
+					}
+					
+				}
+			}
+			
 			window.location.href = url;
 		}
 	}
-	catch (exp)
-	{
-		alert(exp);
+	catch (exp) {
+		alert('exp');
 	}
 }
 </script>
-<div id="masthead" class="block" role="banner">
-		<div class="quicklinks" role="navigation">
-			<a href="#container" title="Skip to Main Content" id="skipnav"><img src="/images/divider_bg.gif" height="1px" width="1px" alt="Skip to Content">
-			</a></div>
+<script type="text/javascript">
+$(document).ready(function() {
+	if (typeof myLytebox != 'undefined') {
+	// if the myLytebox object exists, start it up!
+		var a = document.createElement("a");
+		a.href = "/joann/catalog/shop_email.jsp";
+		a.rel = "lyteframe";
+		a.rev = "width: 400px; height: 400px; scrolling: no;";
 		
-       <div style="float: left;">
-          <a href="http://www.joann.com/">
-            <img src="/joann/images/logo.jpg" alt="Joann Fabric and Craft Stores Home Page" id="logo">
-          </a>
-          <a href="http://designyourdecor.joann.com/designyourdecor/?topnavlink=true">
-            <img src="/images/bg/dyd-logo.jpg" alt="Design Your Decor" id="dyd" width="100" style="border:none; margin-top:16px; margin-left:35px; padding-left:12px;">
-          </a>
-      </div>
+	} else {
+// wait 1/10th of a second and attempt loading again...
+	    return function() {
+            var timeoutId = $this.data('timeoutId');
+            if(timeoutId) { clearTimeout(timeoutId);}
+			//	if (timeoutID) { clearTimeout(timeoutID); }  -- this was throwing an 'undefined' error; this method is better
+	        timeoutID = setTimeout('loadLytebox()', 100);
+	        }
+		}
+		window.onload=function(){
+			loadLytebox();
+			}
+	});
+</script>
+<link rel="stylesheet" type="text/css" href="/css/13-5international.css">
 	
+	
+<div id="wrapper940">
+  <div id="masthead" class="block" role="banner">
+		<div class="quicklinks" role="navigation">
+			<a href="#container" title="Skip to Main Content" id="skipnav"><img src="/images/divider_bg.gif" alt="Skip to Content"></a></div>		
+       <div class="logo">
+          <a href="http://www.joann.com/">
+            <img src="/joann/images/logo.jpg" alt="Joann Fabric and Craft Stores Home Page" id="logo"></a>
+          <a href="http://designyourdecor.joann.com/designyourdecor/?topnavlink=true">
+            <img src="/images/bg/dyd-logo.jpg" alt="Design Your Decor" id="dyd"></a>
+      </div>	
 		<div id="account">
 		  <p class="above">
 		  <a href="/joann/profile/anontrackorder.jsp">Track Order</a> |
@@ -112,57 +185,45 @@ function emptykey_search()
 		  <p class="below">
 		  <a href="/joann/checkout/cartnoitems.jsp">Shopping Cart: (0 items)</a></p>
 	  	 <div id="search" role="search" aria-label="Quick Search">	
-		 <form id="quick-search" action="search" method="get">
-		    <label for="qsearch">enter search criteria</label>
-		    <input id="qsearch" type="text" class="tbox" name="qsearch" onkeypress="return handleEnter_search();">
-		    <input id="keyword" type="hidden" name="keyword">
-		    <input type="submit" value="go" id="qsearch_btn" onclick="emptykey_search(); return false;">
-		 </form>
+			 <form id="quick-search" action="search" method="get">
+			    <input id="qsearch" type="text" class="tbox ui-autocomplete-input" name="qsearch" onkeypress="return handleEnter('qsearch');" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+			    <input id="keyword" type="hidden" name="keyword">
+			    <input type="submit" value="search" id="qsearch_btn" onclick="emptykey(&quot;qsearch&quot;); return false;">
+			 </form>
 		</div>
 		</div>
 		<div id="globalnav" role="navigation">
 		   <!-- start of Compare droplet -->
 		    <!-- start of Compare droplet -->
-		    <p><a href="http://www.joann.com/" title="shopping" class="current">shopping</a>&nbsp;|
-		      <a href="/project-home/" title="projects">projects</a>&nbsp;|
-			    <a href="http://my.joann.com/" onclick="cmCreateManualPageviewTag(&quot;community&quot;,&quot;cat1303850&quot;,&quot;http://my.joann.com/&quot;,window.location.href)" target="new" title="community">community</a> 
-		   	      </p><div style="text-transform: capitalize; padding-top: 46px; ">&nbsp;&nbsp;
-                        <a href="/facebook" onclick="cmCreateManualPageviewTag(&quot;Facebook&quot;,&quot;cat1303850&quot;,&quot;/facebook&quot;, window.location.href)" target="_blank" id="smFB"><img height="24" width="24" style="border:none" alt="Connect on" src="/static/socialMedia/facebook.png">
-						</a>
-                           &nbsp;&nbsp;
-                       <a href="/twitter" onclick="cmCreateManualPageviewTag(&quot;Twitter&quot;,&quot;cat1303850&quot;,&quot;/twitter&quot;, window.location.href)" target="_blank" id="smTW"><img height="24" width="24" style="border:none" alt="Connect on" src="/static/socialMedia/twitter.png">
-					   </a>
+		    <p><a href="http://www.joann.com/" title="shopping" class="current">shopping</a>|<a href="/project-home/" title="projects">projects</a>|<a href="http://my.joann.com/" onclick="cmCreateManualPageviewTag(&quot;community&quot;,&quot;cat1303850&quot;,&quot;http://my.joann.com/&quot;,window.location.href)" target="new" title="community">community</a></p>
+		   	      <div id="SMHead">
+                        <a href="/facebook" onclick="cmCreateManualPageviewTag(&quot;Facebook&quot;,&quot;cat1303850&quot;,&quot;/facebook&quot;, window.location.href)" target="_blank" id="smFB"><img height="24" width="24" style="border:none" alt="Connect on" src="/static/socialMedia/facebook.png"></a>
+                       <a href="/twitter" onclick="cmCreateManualPageviewTag(&quot;Twitter&quot;,&quot;cat1303850&quot;,&quot;/twitter&quot;, window.location.href)" target="_blank" id="smTW"><img height="24" width="24" style="border:none" alt="Connect on" src="/static/socialMedia/twitter.png"></a>
+						<a href="/pinterest" onclick="cmCreateManualPageviewTag(&quot;Pinterest&quot;,&quot;cat1303850&quot;,&quot;/pinterest&quot;, window.location.href)" target="_blank" id="smPT"><img height="24" width="24" style="border:none" alt="Connect on" src="/joann/images/pinterest.png"></a>
                   </div>        
 	      </div>
-      	        
-	       		 
-		   <div id="masthead_slot">
-			 </div>
 	</div><!-- end #masthead -->
 <div id="nav" class="block" role="navigation">
 		<ul>
 		<li><a href="http://www.joann.com/fabric/">fabric</a>|</li>
-							<li><a href="http://www.joann.com/sewing-quilt/">sewing &amp; quilt</a>|</li>
+							<li><a href="http://www.joann.com/sewing/">sewing</a>|</li>
 							<li><a href="http://www.joann.com/scrapbooking/">scrapbooking</a>|</li>
 							<li><a href="http://www.joann.com/crafts/">crafts</a>|</li>
-							<li><a href="http://www.joann.com/yarn-cross-stitch/">yarn &amp; cross stitch</a>|</li>
+							<li><a href="http://www.joann.com/needle-arts/">needle arts</a>|</li>
 							<li><a href="http://www.joann.com/baking/">baking</a>|</li>
 							<li><a href="http://www.joann.com/kids-teachers/">kids &amp; teachers</a>|</li>
-							<li><a href="http://www.joann.com/lighting/">lighting</a>|</li>
+							<li><a href="http://www.joann.com/lights/">lights</a>|</li>
 							<li><a href="http://www.joann.com/storage/">storage</a>|</li>
 							<li><a href="http://www.joann.com/home-decor/">home decor</a>|</li>
+							<li><a href="http://www.joann.com/holiday-party/">holiday &amp; party</a>|</li>
 							<li>
 		 	<a href="/search/_sale/" class="last" name="qsearch">sale</a></li>
 		</ul>
 		  
 	</div><!-- end #nav -->  
 
-<script language="javascript1.2" src="/coremetrics/v40/eluminate.js" type="text/javascript">
-</script>
-
-<script language="javascript1.2" src="/coremetrics/cmdatatagutils.js" type="text/javascript">
-</script>
-
+<script src="/coremetrics/v40/eluminate.js" type="text/javascript"></script>
+<script src="/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 <script language="javascript1.2" type="text/javascript">
 		var cm_pageId_name = document.title;
 		var cm_catId = 'cat30050';
@@ -310,150 +371,187 @@ document.write('<iframe src="HTTPS://bs.serving-sys.com/BurstingPipe/ActivitySer
 
     <!-- STATIC CONTENT GOES HERE!!  -->
 
-										<h1>privacy policy</h1>
-<h3>Privacy Policy</h3>
-	<p>At Joann.com®, your trust and satisfaction is our top priority. We know your privacy is very important, and that is why we take special care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of the information that you submit to us through our web site.</p>
-<p>This Privacy Policy is divided into the following sections:</p>
-    <ol>
-			<li>Definitions</li>
-			<li>Consent to Joann.com®</li>
-			<li>How and Why We Collect Personal Information</li>
-			<li>How We Use Personal Information</li>
-            <li>Our Disclosure of Your Personal Information</li>
-            <li>How You Can Stop Receiving Communications</li>
-            <li>Information From Children</li>
-            <li>Links to Other Web Sites</li>
-            <li>Security</li>
-            <li>Your California Privacy Rights</li>
-            <li>How to Reach Us</li>
-            <li>Revisions to the Privacy Policy</li>
-    </ol>
-    <h5>1. Definitions</h5>
-<p>"Anonymous Information" means information that is not associated with you, or linked to your Personal Information. Anonymous Information does not permit the identification of individual persons.</p>
-    <p>"Cookies" are small pieces of information that a web site, including our web site, Joann.com®, sends to your computer's hard drive while you are viewing a web site. We use both session Cookies (which expire after you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personalized and interactive experience on the web site. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the web site may not work properly.</p>
-    <p>An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP Address stays the same from browser session to browser session, but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses in conjunction with session cookies to analyze our web page traffic flow.</p>
-    <p>"Personal Information" is information about you that is linked, or that can be linked, to you as an individual, such as your name, address, e-mail address, phone number, credit card number and expiration date, gift recipients, as well as other non-public information that is associated with that information. We and our business partners obtain and often keep this information when you send us an e-mail, purchase product, request to be added to our direct mail or e-mail lists, supply information to our Career Center, or communicate with our Customer Service department or communicate with our online Community.</p>
-    <p>Whenever we use the words "we" or "us," we are referring to Joann.com, LLC. Whenever we use the words "our web site," we are referring to http://www.joann.com.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-     <hr class="clear">
+										<h1 align="justify">privacy policy</h1>
+<h3 align="justify">Privacy Policy</h3>
+	<p align="justify">At Joann.com®, your trust and satisfaction is our top priority. We know your privacy is very important, and that is why we take special care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of the information that you submit to us through our web site.</p> <p align="justify">The web site is maintained in the state of Ohio in the United States and by submitting your personal information through the web site, you are agreeing to the collection and storage of that information in the United States.</p>
+<p align="justify">This Privacy Policy is divided into the following sections:</p>
+    <div align="justify">
+      <ol>
+        <ol>
+          <li><a href="#terms1">Definitions</a></li><a href="#terms1">
+          </a><li><a href="#terms1"></a><a href="#terms2">Consent to Joann.com®</a></li><a href="#terms2">
+          </a><li><a href="#terms2"></a><a href="#terms3">How and Why We Collect Personal Information</a></li><a href="#terms3">
+          </a><li><a href="#terms3"></a><a href="#terms4">How We Use Personal Information</a></li><a href="#terms4">
+          </a><li><a href="#terms4"></a><a href="#terms5">Our Disclosure of Your Personal Information</a></li><a href="#terms5">
+          </a><li><a href="#terms5"></a><a href="#terms6">How You Can Stop Receiving Communications</a></li><a href="#terms6">
+          </a><li><a href="#terms6"></a><a href="#terms7">Information From Children</a></li><a href="#terms7">
+          </a><li><a href="#terms7"></a><a href="#terms8">Links to Other Web Sites</a></li><a href="#terms8">
+          </a><li><a href="#terms8"></a><a href="#terms9">Security</a></li><a href="#terms9">
+          </a><li><a href="#terms9"></a><a href="#terms10">Your California Privacy Rights</a></li><a href="#terms10">
+          </a><li><a href="#terms10"></a><a href="#terms11">How to Request Access to or the Correction of Your Personal Information</a></li><a href="#terms11">
+          </a><li><a href="#terms11"></a><a href="#terms12">Revisions to the Privacy Policy</a></li><a href="#terms12">
+        </a></ol><a href="#terms12">
+      </a></ol>
+    </div>
+    <h5 align="justify">1. Definitions</h5>
+<p align="justify">"Anonymous Information" means information that is not associated with you, or linked to your Personal Information. Anonymous Information does not permit the identification of individual persons.</p>
+    <p align="justify">"Cookies" are small pieces of information that a web site, including our web site, Joann.com®, sends to your computer's hard drive while you are viewing a web site. We use both session Cookies (which expire after you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personalized and interactive experience on the web site. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the web site may not work properly.</p>
+    <p align="justify">An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP Address stays the same from browser session to browser session, but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses in conjunction with session cookies to analyze our web page traffic flow.</p>
+    <p align="justify">"Personal Information" is information about you that is linked, or that can be linked, to you as an individual, such as your name, address, e-mail address, phone number, credit card number and expiration date, gift recipients, as well as other non-public information that is associated with that information. We and our business partners obtain and often keep this information when you send us an e-mail, purchase product, request to be added to our direct mail or e-mail lists, supply information to our Career Center, or communicate with our Customer Service department or communicate with our online Community.</p>
+    <p align="justify">Whenever we use the words "we" or "us," we are referring to Joann.com, LLC. Whenever we use the words "our web site," we are referring to <a href="http://www.joann.com">http://www.joann.com.</a></p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+     <hr align="JUSTIFY" class="clear">
      <div class="divider"></div>
-				<hr class="clear">
+				<hr align="JUSTIFY" class="clear">
                 
-<h5>2. Consent to Joann.com®</h5>
-    <p>When you submit Personal Information and Anonymous Information to our web site, it means that you have agreed to the terms of this Privacy Policy and that you expressly consent to the use of your Personal Information according to this Privacy Policy.</p>
-    <p>Please note that your Personal Information may be used by Joann.com® in the country where it was collected, as well as other countries (including the United States), where laws regarding the use of Personal Information may be less strict than the laws in your country.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
+<h5 align="justify">2. Consent to Joann.com®</h5>
+    <p align="justify">When you submit Personal Information and Anonymous Information to our web site, it means that you have agreed to the terms of this Privacy Policy and that you expressly consent to the use of your Personal Information in the United States, according to this Privacy Policy.</p>
+    <p align="justify">Please note that your Personal Information may be used by Joann.com® in the country where it was collected, as well as the United States, where laws regarding the use of Personal Information may be less strict than the laws in your country.</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
      <div class="divider"></div>
-				<hr class="clear">
+				<hr align="JUSTIFY" class="clear">
                 
-<h5>3. How and Why We Collect Personal Information</h5>
-    <p>The Personal Information we gather from you helps us learn about visitors to our web site, our customers, and our potential customers. We use this information to better tailor the features, performance and support of our products and services, and to offer you additional information.</p>
-    <p>We collect Personal Information that you submit to us voluntarily to our web site in the following ways:</p>
+<h5 align="justify">3. How and Why We Collect Personal Information</h5>
+    <p align="justify">The Personal Information we gather from you helps us learn about visitors to our web site, our customers, and our potential customers. We use this Personal Information to better tailor the features, performance and support of our products and services, and to offer you additional information if you have consented to receive it.</p>
+    <p align="justify">We collect Personal Information that you submit to us voluntarily to our web site in the following ways:</p>
+    <div align="justify">
+      <ul>
+        <li>When you register on the web site to set up an account, we collect your name, postal address, and telephone number (both for billing and for shipping purposes), your account username, password, e-mail address, and credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date).</li>
+        <li>When you sign up to get information about special savings by e-mail or to receive store sales flyers (direct mail), we will collect your e-mail address and your postal address. We also ask for additional voluntary information, such as hobbies and interests, to better provide you with relevant offerings.</li>
+        <li>When you purchase a gift card, we will collect the name of the recipient (including yourself, if you are buying the card for yourself), and either the e-mail address and your personalized e-mail message to the recipient, or the postal address of the recipient, depending on whether you send an electronic gift card or a physical gift card. </li>
+        <li>When you sign up for our Community, we will collect your username, password, e-mail address, and your date of birth. </li>
+        <li>When you sign up to become an advertiser, we will collect your name, company name, e-mail address and comments you have.</li>
+        <li>When you contact us by e-mail, we will collect your name, e-mail address, and any information contained in the e-mail that you send us. </li>
+        <li>When you enter a sweepstakes, we will collect your name, postal address, country and e-mail address.</li>
+        <li>When you use our Career Center (which is operated by a third party service provider) and create a profile to search for a job, we collect and retain the following: (a) your name, telephone number, postal address, and any licensing, certification or other credentials you may have; (b) information about your education and qualifications, (c) your salary expectations, (d) your availability; and (e) other information relevant to your possible employment, as well as any other resume information you choose to submit. This information is made available only to our employees involved in the recruitment process, and it is used only for recruitment purposes. Employees of our third party service provider have access to the Personal Information, but they are subject to the same privacy protection requirements as our employees, and they may use the information only for the purpose of providing us with technical support. (This paragraph is not applicable in Canada as currently, there are no Jo-Ann store locations in Canada).</li>
+        <li>When you sign up to receive text messages, we will collect your mobile telephone number, in order to send you the text messages. We also will collect your name and zip code if you choose to provide it. For more information about text messages from Jo-Ann and how to stop them, go to this link: <a href="www.joann.com/sms/">www.joann.com/SMS</a></li>
+        <li>When we receive Personal Information from you from other sources like postal mail, telephone or fax, then we will add this information to the information we have already collected from you.</li>
+      </ul>
+    </div>
+    <p align="justify">We also collect Personal Information from you involuntarily, through the use of technology, without you taking steps to submit that information, whenever you use our website for any purpose (shopping, submitting a request to customer service, searching the career center, etc.), in the following ways:</p>
     <ul>
-    <li>When you register on the web site to set up an account, we collect your name, postal address, and telephone number (both for billing and for shipping purposes), your account username, password, e-mail address, and credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date).</li>
-    <li>When you sign up to get information about special savings by e-mail or to receive store sales flyers, we will collect your e-mail address and your postal address. We also ask for additional voluntary information, such as hobbies and interests, to better provide you with relevant offerings.</li>
-    <li>When you purchase a gift card, we will collect the name of the recipient, and either the e-mail address and your personalized e-mail message to the recipient, or the postal address of the recipient, depending on whether you send an electronic gift card or a physical gift card.</li>
-    <li>When you sign up for our Community, we will collect your username, password, e-mail address, and your date of birth.</li>
-    <li>When you sign up to become an advertiser, we will collect your name, company name, e-mail address and comments you have.</li>
-    <li>When you contact us by e-mail, we will collect your name, e-mail address, and any information contained in the e-mail that you send us.</li>
-    <li>When you enter a sweepstakes, we will collect your name, postal address, country and e-mail address.</li>
-    <li>When you use our Career Center (which is operated by a third party service provider) and create a profile to search for a job, we collect and retain the following: (a) your name, telephone number, postal address, and any licensing, certification or other credentials you may have; (b) information about your education and qualifications, (c) your salary expectations, (d) your availability; and (e) other information relevant to your possible employment, as well as any other resume information you choose to submit. This information is made available only to our employees involved in the recruitment process, and it is used only for recruitment purposes. Employees of our third party service provider have access to the Personal Information, but they are subject to the same privacy protection requirements as our employees, and they may use the information only for the purpose of providing us with technical support.</li>
-    <li>When you sign up to receive text messages, we will collect your mobile telephone number, in order to send you the text messages. We also will collect your name and zip code if you choose to provide it. For more information about text messages from Jo-Ann and how to stop them, go to this link: <a href="www.joann.com/sms/">www.joann.com/SMS</a></li>
-</ul>
-    <p>We also collect Personal Information from you involuntarily, through the use of technology, without you taking steps to submit that information, whenever you use our website for any purpose (shopping, submitting a request to customer service, searching the career center, etc.), in the following ways:</p>
-    <ul>
-    <li>As you navigate our web site, we collect information including your IP address, browser type, domain names, access times, and operating system.</li>
-    <li>We also use Cookies (described above, in the Definitions section) and navigational data like Uniform Resource Locators (URL) to collect information regarding the date and time of your visit, the products for which you searched and viewed, and the other resources on our web site that you used or visited.</li>
-    <li>If we receive Personal Information about you from other sources like postal mail, telephone or fax, then we will add this information to the information we have already collected from you via our web site.</li>
-    <li>When you access our web site from mobile devices (smart phone or tablets), we collect information including access times, the operating system, the products for which you searched and viewed, and the other resources on our web site that you used or visited.</li>
-</ul>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
+    <li>
+      <div align="justify">As you navigate our web site, we collect information including your IP address, browser type, domain names, access times, and operating system. </div>
+    </li>
+    <li>
+      <div align="justify">We also use Cookies (described above, in the Definitions section) and navigational data like Uniform Resource Locators (URL) to collect information regarding the date and time of your visit, the products for which you searched and viewed, and the other resources on our web site that you used or visited. </div>
+    </li>
+    <li>
+      <div align="justify">When you access our web site from mobile devices (such as smart phones or tablets), we collect information including access times, the operating system, the products for which you searched and viewed, and the other resources on our web site that you used or visited. </div>
+    </li>
+   
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
      <div class="divider"></div>
-				<hr class="clear">
+				<hr align="JUSTIFY" class="clear">
                 
-<h5>4. How We Use Personal Information</h5>
-    <p>We use your Personal Information to respond to requests that you make, to help us serve you better, and to provide you with a personalized web site experience. We also use your Personal Information to provide you with newsletters, surveys, promotional e-mails for our products, and for other marketing and advertising purposes.</p>
-    <p>For example, based on your shopping habits when you visit our web site (what items you browse, what items you place in your shopping cart, and what items you purchase), we may send you personal e-mail advertisements that identify products we think you may be interested in. We may also use your shopping habits to send you personal e-mail product alerts.</p>
-    <p>We limit our employees' access to Personal Information to those employees with a business reason for knowing such information, and those employees will use the information only for appropriate business reasons.</p>
-    <p>We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this Anonymous Information to analyze request patterns and usage patterns so that we may enhance our products and services. Joann.com® reserves the right to use and disclose Anonymous Information to third parties in its discretion.</p>
-    <p>If you provide feedback on any of our products and services, we may use your feedback for any purpose. We will collect any information contained in your communication and will treat the Personal Information in the communication in accordance with this Privacy Policy.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
+<h5 align="justify">4. How We Use Personal Information</h5>
+    <p align="justify">We use your Personal Information to respond to requests that you make, to help us serve you better, and to provide you with a personalized web site experience. If you have signed up to receive electronic communications from us, we also use your Personal Information to provide you with promotional e-mails for our products, and for other marketing and advertising purposes.</p>
+    <p align="justify">For example, based on your shopping habits when you visit our web site (what items you browse, what items you place in your shopping cart, and what items you purchase), we may send you personalized advertisements that identify products we think you may be interested in. We may also use your shopping habits to send you personalized e-mail product alerts.</p>
+    <p align="justify">We limit our employees' access to Personal Information to those employees with a business reason for knowing such information, and those employees will use the information only for appropriate business reasons.</p>
+    <p align="justify">We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may use this Anonymous Information to analyze request patterns and usage patterns so that we may enhance our products and services. As this Anonymous Information does not identify you, we may use and disclose Anonymous Information to third parties at our discretion.</p>
+    <p align="justify">If you provide feedback on any of our products and services, we may use your feedback for any purpose. We will collect any information contained in your communication and will treat the Personal Information in the communication in accordance with this Privacy Policy.</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
      <div class="divider"></div>
-				<hr class="clear">
+				<hr align="JUSTIFY" class="clear">
                 
-<h5>5. Our Disclosure of Your Personal Information</h5>
-    <p>Except as otherwise stated in this Privacy Policy, we do not sell, rent, or share your Personal Information with third parties. When you purchase a product or a service from our web site, we will share select Personal Information, such as your shipping address, to third party fulfillment companies, in order to deliver the product or service to you. We also share your Personal Information with third parties that provide advertising and marketing services for us, including distribution of e-mail and mobile text messages to our customers and potential customers. These third parties are required not to use your Personal Information, except to provide the services requested by Joann.com®, and they are bound by confidentiality agreements for their use of your Personal Information. You expressly consent to the sharing of your Personal Information with our third party service providers.</p>
-    <p>We reserve the right to share some or all of your Personal Information with our parent company, Jo-Ann Stores, Inc., our subsidiaries, joint ventures and other companies under the common control of Jo-Ann Stores, Inc. (collectively, "Affiliates"). We will require our Affiliates to honor this Privacy Policy.</p>
-    <p>Regardless of any choices you make regarding your Personal Information, we may disclose your Personal Information if we believe in good faith that disclosure is necessary to (a) comply with laws or to respond to subpoenas or other judicial orders served on Joann.com®; or (b) to protect and defend the rights or property of Joann.com® or third parties.</p>
-    <p>To provide offers that are of interest to you, we may allow other companies to place advertisements on our web site. As a result of your visit to our web site, advertisement server companies may collect information such as your domain type, your IP address, and clickstream information.</p>
-    <p>If our company or our assets are sold to an unrelated company, that unrelated company will possess the Personal Information collected by us, and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
+<h5 align="justify">5. Our Disclosure of Your Personal Information</h5>
+    <p align="justify">Except as otherwise stated in this Privacy Policy, we do not sell, rent, or share your Personal Information with third parties. When you purchase a product or a service from our web site, we will share select Personal Information, such as your shipping address, with third party fulfillment companies in the United States, in order to deliver the product or service to you. We also share your Personal Information with third party service providers in the United States that provide advertising and marketing services for us, including distribution of e-mail and mobile text messages to our customers and potential customers. These third party service providers are required not to use your Personal Information, except to provide the services requested by Joann.com®, and they are bound by confidentiality agreements for their use of your Personal Information. You expressly consent to the sharing of your Personal Information with our third party service providers in the United States.</p>
+    <p align="justify">We reserve the right to share some or all of your Personal Information with our parent company, Jo-Ann Stores, Inc., our subsidiaries, joint ventures and other companies in the United States under the common control of Jo-Ann Stores, Inc. (collectively, "Affiliates"), for the purposes described in this policy. We will require our Affiliates to honor this Privacy Policy.</p>
+    <p align="justify">Regardless of any choices you make regarding your Personal Information, we may disclose your Personal Information if we believe in good faith that disclosure is necessary to (a) comply with laws or to respond to subpoenas or other judicial orders served on Joann.com® or (b) to protect and defend the rights or property of Joann.com® or third parties.</p>
+    <p align="justify">To provide offers that are of interest to you, we may allow other companies to place advertisements on our web site. As a result of your visit to our web site, advertisement server companies may collect information such as your domain type, your IP address, and clickstream information.</p>
+    <p align="justify">We may also use and disclose Personal Information in connection with a contemplated reorganization or reorganization of our business, in connection with financing or a sale or other transaction involving the disposal of all or part of our business or assets, including for the purpose of permitting the due diligence required to assess whether to proceed with a transaction.  If the sale proceeds, the purchaser will be entitled to use and disclose the Personal Information collected by us, and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
      <div class="divider"></div>
-				<hr class="clear">
+				<hr align="JUSTIFY" class="clear">
                 
-<h5>6. How You Can Stop Receiving Communications</h5>
-    <p>When you receive newsletters or promotional communications from us, including e-mail, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the "unsubscribe" instructions provided in the e-mail you receive, or by contacting us directly. Please see the Contact Information section in the upper left-hand area of this page.</p>
-    <p>You may change any of the Personal Information in your account by editing your <a href="https://www.joann.com/joann/profile/login.jsp">My Account information.</a></p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
-     <div class="divider"></div>
-				<hr class="clear">
-                
-<h5>7. Information From Children</h5>
-    <p>We do not intentionally gather Personal Information about visitors to our web site who are under the age of 13. If a child has provided us with personally identifiable information, we ask that a parent or guardian contact us and we will delete that information.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
-     <div class="divider"></div>
-				<hr class="clear">
-                
-<h5>8. Links to Other Web Sites</h5>
-    <p>Our web site may provide a link to another web site or location. We provide these links merely for your convenience and we do not endorse such other web site or location or its contents. We have no control over, do not review, and are not responsible for these other web sites or their content. Our Privacy Policy does not apply to these other web sites. The privacy policies of the operators of those web sites will be applicable when you access their web sites via links provided by us.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
-     <div class="divider"></div>
-				<hr class="clear">
-                
-<h5>9. Security</h5>
-    <p>Joann.com® has implemented electronic means of protecting your Personal Information. Even though Joann.com® has taken steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Joann.com® cannot fully eliminate security risks associated with Personal Information. Please <a href="http://www.joann.com/safeshopping/">click here</a> to see information about safe shopping on our web site.</p>
-    <p> <a href="#container" title="back to top" class="floatedright">Back to top</a>    </p>
-    <hr class="clear">
-     <div class="divider"></div>
-				<hr class="clear">
-                
-     <h5>10. Your California Privacy Rights</h5>
-    <p>Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties' direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at customer.service@joann.com with "Request for California Privacy Information" on the subject line and in the body of your message.  Be sure to provide in the request sufficient information to properly identify you and/or the members of your family.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
-     <div class="divider"></div>
-				<hr class="clear">
-    
-    <h5>11. How You Can Reach Us</h5>
-<p>If you have any questions or concerns regarding this Privacy Policy, please contact us:</p>
-	<p>
+<h5 align="justify">6. How You Can Stop Receiving Communications</h5>
+    <p align="justify">When you receive newsletters or promotional communications from us, including e-mail, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the "<a href="http://www.joann-mail.com/CustomerPreferences/CustomerUpdate.aspx">unsubscribe</a>" instructions provided in the e-mail you receive, or by contacting us directly. Once you have submitted your e-mail address to unsubscribe, please note that you may continue to receive emails for a short time while our system updates your request. Please use the Contact Us page to inform the Customer Service Department of your selection or follow the instructions below in Section 11. </p>
+    <p align="left">You may change any of the Personal Information in your account by editing your <a href="https://www.joann.com/joann/profile/login.jsp">My Account information.</a></p>
+    <p align="left">If you are in need of any additional assistance please <a href="http://www.joann.com/joann/common/contactus.jsp">contact us</a>.</p>
+    <p align="justify">
     		Joann.com<br>
     		Attn: Manager of Customer Service<br>
     		5555 Darrow Road<br>
-    		Hudson, OH 44236</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
+    		Hudson, OH 44236<br>
+			Phone:  1-888-739-4120<br>
+            <br>customer.service@joann.com</p>
+
+<div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+</div>
+        <hr align="JUSTIFY" class="clear">
      <div class="divider"></div>
-				<hr class="clear">
+				<hr align="JUSTIFY" class="clear">
                 
-<h5>12. Privacy Policy Updates</h5>
-    <p>This Privacy Policy is subject to revision and changes. If you object to any changes, you must cease using our web site. Continued use of our web site following any changes will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy as revised.</p>
-    <p>This policy was last updated in April 2012.</p>
-        <a href="#container" title="back to top" class="floatedright">Back to top</a>
-        <hr class="clear">
+<h5 align="justify">7. Information from Children</h5>
+    <p align="justify">We do not intentionally gather Personal Information about visitors to our web site who are under the age of 13. If you learn that your child has provided us with his/her Personal Information, we ask that you contact us and we will delete that information.</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
      <div class="divider"></div>
-				<hr class="clear">
+				<hr align="JUSTIFY" class="clear">
+                
+<h5 align="justify">8. Links to Other Web Sites</h5>
+    <p align="justify">Our web site may provide a link to another web site or location. We provide these links merely for your convenience and we do not endorse such other web site or location or its contents or any goods or services available through such web site. We have no control over, do not review, and are not responsible for these other web sites or their content or any goods or services available through such web site. Our Privacy Policy does not apply to these other web sites. The privacy policies of the operators of the web sites will be applicable when you access their web sites via links provided by us.</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
+     <div class="divider"></div>
+				<hr align="JUSTIFY" class="clear">
+                
+<h5 align="justify">9. Security</h5>
+    <p align="justify">Joann.com® has implemented electronic means of protecting your Personal Information. Even though Joann.com® has taken steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Joann.com® cannot fully eliminate security risks associated with Personal Information. Please <a href="http://www.joann.com/safeshopping/">click here</a> to see information about safe shopping on our web site.</p>
+    <p align="justify"> <a href="#container" title="back to top" class="floatedright">Back to top</a>    </p>
+    <hr align="JUSTIFY" class="clear">
+     <div class="divider"></div>
+				<hr align="JUSTIFY" class="clear">
+                
+     <h5 align="justify">10. Your California Privacy Rights</h5>
+    <p align="justify">Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties' direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at customer.service@joann.com with "Request for California Privacy Information" on the subject line and in the body of your message. Be sure to provide in the request sufficient information to properly identify you and/or the members of your family.</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
+     <div class="divider"></div>
+				<hr align="JUSTIFY" class="clear">
+    
+    <h5 align="justify">11. How You Can Reach Us</h5>
+<p align="justify">If you have any questions or concerns regarding this Privacy Policy, to request access to your Personal Information in our records, or the correction of that information, or to opt-out of receiving information as permitted under this Privacy Policy, please contact us at:</p>
+	<p align="justify">
+    		Joann.com<br>
+    		Attn: Manager of Customer Service<br>
+    		5555 Darrow Road<br>
+    		Hudson, OH 44236<br>
+            <br>customer.service@joann.com</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
+     <div class="divider"></div>
+				<hr align="JUSTIFY" class="clear">
+                
+<h5 align="justify">12. How to Request Access to or the Correction of Your Personal Information</h5>
+    <p align="justify">Except in limited circumstances governed by law, you may obtain access to and have your Personal Information in our records corrected.  A request for access or correction must be made in writing to the address provided in Section 11.</p>
+    
+    <h5 align="justify">13. Privacy Policy Updates</h5>
+    <p align="justify">This Privacy Policy is subject to revision and changes. If you object to any changes, you must cease using our web site. Continued use of our web site following any changes will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy as revised.</p>
+    <p align="justify">This policy was last updated in June 2012.</p>
+        <div align="justify"><a href="#container" title="back to top" class="floatedright">Back to top</a>
+        </div>
+        <hr align="JUSTIFY" class="clear">
+     <div class="divider"></div>
+				<hr align="JUSTIFY" class="clear">
                 
     
-    <hr class="clear">
-</div>
+    <hr align="JUSTIFY" class="clear">
+<div align="justify"><!-- Updated 6/10/12 --></div>
+</ul></div>
 				<div class="divider"></div>
 				<div class="block" id="flex_promo">
 					<!-- start slotfooter Banner 1 -->
@@ -461,7 +559,7 @@ document.write('<iframe src="HTTPS://bs.serving-sys.com/BurstingPipe/ActivitySer
 <!-- end slot Banner 1 -->
 
 <!-- start slotfooter Banner 2 -->
-<a href="/studentdiscount/?icn=Footer&amp;ici=Non_Profit"><img src="/static/footer/Student_Banner.gif" alt="Jo-Ann Non-Profit Discount Card>"></a>
+<a href="/studentdiscount/"><img src="/static/footer/Student_Banner.gif" alt="Student Discounts>"></a>
 <!-- end slot Banner 2 --></div>
 				<div class="divider"></div>
 			</div>
@@ -487,8 +585,8 @@ function handleEnterFunct(){
 <div id="footer" class="block" role="footer">		<div id="footerform" role="form" aria-label="Email signup form">
            <div id="email_submit">
 			<p>Sign up for e-mail updates.</p>
-				<form action="/joann/common/content_custservice.jsp?_DARGS=/joann/common/footer.jsp" method="post" id="email_submit"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="-3962354224409066908" type="hidden" name="_dynSessConf"><label for="esubmit">e-mail address</label>
-					<div class="form-row" style="height:30px"><input value="" maxlength="255" type="text" onkeypress="return handleEnterFunct();" class="e_tbox" style="height:16px" name="esubmit" id="esubmit"><input value=" " type="hidden" name="_D:esubmit"><input value="/joann/common/content_custservice.jsp?SEOURL=true&amp;CATID=cat30050&amp;categoryPath=/privacypolicy/" type="hidden" name="/com/joann/commerce/profile/FooterEmailFormHandler.URIWithQueryString"><input value=" " type="hidden" name="_D:/com/joann/commerce/profile/FooterEmailFormHandler.URIWithQueryString"><input value="go" type="submit" name="/com/joann/commerce/profile/FooterEmailFormHandler.emailFooterAccount" id="email_submit_btn"><input value=" " type="hidden" name="_D:/com/joann/commerce/profile/FooterEmailFormHandler.emailFooterAccount"><br></div>
+				<form action="/joann/common/content_custservice.jsp?_DARGS=/joann/common/footer.jsp" method="post" id="email_submit"><input value="ISO-8859-1" type="hidden" name="_dyncharset"><input value="1116936855527940516" type="hidden" name="_dynSessConf"><label id="esubmit_label" for="esubmit">e-mail address:</label>
+					<div class="form-row"><input value="" maxlength="255" type="text" onkeypress="return handleEnterFunct();" class="e_tbox" style="height:16px" name="esubmit" id="esubmit"><input value=" " type="hidden" name="_D:esubmit"><input value="/joann/common/content_custservice.jsp?SEOURL=true&amp;CATID=cat30050&amp;categoryPath=/privacypolicy/" type="hidden" name="/com/joann/commerce/profile/FooterEmailFormHandler.URIWithQueryString"><input value=" " type="hidden" name="_D:/com/joann/commerce/profile/FooterEmailFormHandler.URIWithQueryString"><input value="go" type="submit" name="/com/joann/commerce/profile/FooterEmailFormHandler.emailFooterAccount" id="email_submit_btn"><input value=" " type="hidden" name="_D:/com/joann/commerce/profile/FooterEmailFormHandler.emailFooterAccount"><br></div>
 				<input value="/joann/common/footer.jsp" type="hidden" name="_DARGS"></form></div>
 		</div>
 			<div role="navigation" aria-label="Our Company">
@@ -563,7 +661,7 @@ function handleEnterFunct(){
 				<li class="first"><h4>Find Jo-Ann on:</h4></li>
 				<li><a href="/blog" onclick="cmCreateManualPageviewTag(&quot;Blogger&quot;,&quot;cat1303850&quot;,&quot;/blog&quot;, window.location.href)" target="_blank" id="smBL"><img src="/static/socialMedia/blogger.png" height="24" width="24" alt="Connect on">Blogger</a></li>
 				<li><a href="/facebook" onclick="cmCreateManualPageviewTag(&quot;Facebook&quot;,&quot;cat1303850&quot;,&quot;/facebook&quot;, window.location.href)" target="_blank" id="smFB"><img src="/static/socialMedia/facebook.png" height="24" width="24" alt="Connect on">Facebook</a></li>
-				<li><a href="/myspace" onclick="cmCreateManualPageviewTag(&quot;MySpace&quot;,&quot;cat1303850&quot;,&quot;/myspace&quot;, window.location.href)" target="_blank" id="smMS"><img src="/static/socialMedia/myspace.png" height="24" width="24" alt="Connect on">MySpace</a></li>
+				<li><a href="/pinterest" onclick="cmCreateManualPageviewTag(&quot;Pinterest&quot;,&quot;cat1303850&quot;,&quot;/pinterest&quot;, window.location.href)" target="_blank" id="smPT"><img src="/joann/images/pinterest.png" height="24" width="24" alt="Connect on">Pinterest</a></li>
 				<li><a href="/twitter" onclick="cmCreateManualPageviewTag(&quot;Twitter&quot;,&quot;cat1303850&quot;,&quot;/twitter&quot;, window.location.href)" target="_blank" id="smTW"><img src="/static/socialMedia/twitter.png" height="24" width="24" alt="Connect on">Twitter</a></li>
 				<li><a href="/youtube" onclick="cmCreateManualPageviewTag(&quot;You Tube&quot;,&quot;cat1303850&quot;,&quot;/youtube&quot;, window.location.href)" target="_blank" id="smYT"><img src="/static/socialMedia/youtube.png" height="24" width="24" alt="Connect on">You&nbsp;Tube</a></li>
 				<li><a href="/artfire" onclick="cmCreateManualPageviewTag(&quot;Art Fire&quot;,&quot;cat1303850&quot;,&quot;/artfire&quot;, window.location.href)" target="_blank" id="smAF"><img src="/static/socialMedia/artfire.png" height="24" width="24" alt="Connect on">Art&nbsp;Fire</a></li>
@@ -576,8 +674,7 @@ function handleEnterFunct(){
 		</div>
 </div>	
  
-<script language="javascript1.2" src="/webtrends/DS_SA.js" type="text/javascript">
-</script>
+<script src="/webtrends/DS_SA.js" type="text/javascript"></script>
 
 <script type="text/javascript">
                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -603,12 +700,12 @@ ebRand = ebRand * 1000000;
 //<![CDATA[ 
 document.write('<iframe src="HTTPS://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=172257&amp;ifrm=1&amp;rnd=' + ebRand + '&amp;Session='+ebSession+'" width=0 height=0 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="#000000"></iframe>');
 //]]>
-</script><iframe src="HTTPS://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=172257&amp;ifrm=1&amp;rnd=408508.3794141089&amp;Session=" width="0" height="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe>
+</script><iframe src="HTTPS://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=172257&amp;ifrm=1&amp;rnd=376736.1256875845&amp;Session=" width="0" height="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe>
 <noscript>
 <img width="1" height="1" style="border:0" src="HTTPS://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=172257&amp;Session=ebSession&amp;ns=1"/>
 </noscript>
 <!-- End Media Mind  -->                       
- 
+
 <!-- Begin Monetate tag v4. Place before end of document body. DO NOT ALTER. -->
 <script type="text/javascript">
 var monetateT = new Date().getTime();
@@ -623,9 +720,9 @@ var monetateT = new Date().getTime();
 
 <!-- End Monetate tag. -->
 
-
+</div>
            
 
 
 
-</i18n:bundle></body></html>
+</i18n:bundle><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
