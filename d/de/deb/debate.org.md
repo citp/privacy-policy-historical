@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debate.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602114804id_/http%3A//www.debate.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debate.org privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124093730id_/http%3A//www.debate.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Debate.org
 
