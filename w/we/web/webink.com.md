@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518024613id_/http%3A//www.webink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124060959id_/http%3A//www.webink.com/privacy) for the most accurate reproduction.*
 
 # WebINK and Your Privacy
 
@@ -16,12 +16,13 @@ Separately, we send product update notifications via email to provide updates an
 
 In addition, when you interact with the Website, our servers may keep an activity log that does not identify you individually (“Anonymous Information”). Generally, this Anonymous Information is collected through “traffic data”. We collect and store certain administrative and traffic information with each use of the service or Website including: source IP address, time of access, date of access, web page(s), type of browser used, session identification number, search terms, search results, access times and referring websites addresses.
 
-Extensis respects the rights you give us when opting to receive e-mail communications and enforces internal policies to preserve those rights. It is our objective to retain the long-term ability to continue to communicate with our users.  
+Extensis respects the rights you give us when opting to receive e-mail communications and enforces internal policies to preserve those rights. It is our objective to retain the long-term ability to continue to communicate with our users.
+
 If you do not want Extensis or Extensis representatives to contact you, you may always change your mind about how you want to interact with Extensis. As part of your preference flexibility, you'll always have the option to opt back in or opt back out and have Extensis contact you based on your previous or new preferences. For instructions, please see the section "Contact Us" below.
 
 If you choose not to register or provide personal information, you can still visit most Extensis websites; however, you will not have access to areas that require personal identification.
 
-Extensis membership and the use of log files (cookies)
+## Extensis membership and the use of log files (cookies)
 
 Extensis offers free membership to all Website visitors. In order to establish membership, visitors are requested to provide both personal information and preferences. This information is stored and protected by your user-established member ID and password. As part of your membership, you promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by the Website's registration form (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Extensis has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Extensis has the right to suspend or terminate your account and refuse any and all current or future use of the Website (or any portion thereof). You are entirely responsible for the security and confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify us of any unauthorized use of your account or any other breach of security of which you become aware. You are responsible for taking precautions and providing security measures best suited for your situation and intended use of the Services and the Website. Please note that anyone able to provide your personal information will be able to access your account so you should take reasonable steps to protect this information.
 
@@ -29,7 +30,7 @@ There is an additional "remember me" option. By selecting it, you allow Extensis
 
 Extensis also utilizes cookies and hosted tracking with our Website. Once a user enters our site, a cookie follows them through their click stream path. Examples of information being collected by these cookies and the hosted tracking include the number of times a user came to our site(s), and the paths they took to get there. Extensis uses the data collected from Website visitor cookies and hosted tracking in aggregate form only and does not collect any personal information. Use of this information helps us better understand what users are seeking and learning at our Website(s) and helps us identify potential navigation issues.
 
-How Extensis will protect your personal information
+## How Extensis will protect your personal information
 
 Your personal information that has been offered to Extensis has been done through an encrypted format, to prevent loss, misuse or alteration of the data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Extensis cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we will endeavor to ensure its security on our systems.
 
@@ -39,7 +40,7 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 If Extensis requests general demographic information, this information is limited to reporting purposes only; members remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities. Extensis may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide an up-front statement to that effect.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law or where we have a good-faith belief that (a) such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Website; (b) such action is necessary to protect and defend our rights or property, the Website or our uses; (c) such action is necessary to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public.
+p>Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law or where we have a good-faith belief that (a) such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Website; (b) such action is necessary to protect and defend our rights or property, the Website or our uses; (c) such action is necessary to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public.
 
 The Website is published in the United States. We make every effort to protect the personal information of all users of the Website. We attempt to comply with local data protection and consumer rights laws to the extent they may apply to the Extensis services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to Extensis.
 
