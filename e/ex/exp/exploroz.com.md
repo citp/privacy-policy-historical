@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526115535id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124215639id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz Articles
 
@@ -13,15 +13,9 @@ Please note that separate privacy policies apply to the use of sites that are av
   
 
 
-  
-
-
 ## Go to top 1\. Your personal information is important to us
 
-ExplorOz recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ExplorOz handles your personal information and safeguards your privacy. ExplorOz is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our privacy policy not only complies with relevant laws but represents industry best practice.  
-
-
-  
+ExplorOz recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ExplorOz handles your personal information and safeguards your privacy. ExplorOz is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our [privacy policy](https://web.archive.org/Privacy.aspx) not only complies with relevant laws but represents industry best practice.  
 
 
   
@@ -29,16 +23,13 @@ ExplorOz recognises that your privacy is very important to you and that you have
 
 ## Go to top 2\. ExplorOz Visitor & Membership systems
 
-ExplorOz utilises a system of user registration (free service) and [Membership](https://web.archive.org/Membership/Default.aspx) (annual subscription fee) with various features that are designed to offer a more rewarding and personalised online experience. However, in order to protect these Site features from unscrupulous attack by software programs, we restrict the non-registered user from accessing these Site features.
+ExplorOz utilises a system of user registration (free service) and Membership (annual subscription fee) with various features that are designed to offer a more rewarding and personalised online experience. However, in order to protect these Site features from unscrupulous attack by software programs, we restrict the non-registered user from accessing these Site features.
 
 To obtain the full benefits of Site use, users are required to register with ExplorOz by providing their email address and then using the site whilst logged on using this email account each time they visit the Site. If you do not view the site with your profile then you cannot access the restricted areas of the site and cannot use the interactive features of the site that enable you to add content (publish) to the Site. The Site however, contains many active pages of content and features that can be viewed in "read-only" mode if you do not register or do not login. 
 
-The [Membership](https://web.archive.org/Membership/Default.aspx) system provides enhanced viewing facilities, access to Member-only services and tools in addition to the free services accessible by all registered users. 
+The Membership system provides enhanced viewing facilities, access to Member-only services and tools in addition to the free services accessible by all registered users. 
 
-You can learn more about enhancing your online experience through [Membership](https://web.archive.org/Membership/Default.aspx) by [clicking here](http://www.exploroz.com/Membership/About.aspx). 
-
-  
-
+You can learn more about enhancing your online experience through Membership by [clicking here](http://www.exploroz.com/Membership/About.aspx). 
 
   
 
@@ -66,9 +57,6 @@ Any further collection of your personal information other than that explained ab
   
 
 
-  
-
-
 ## Go to top 4\. Preserving your privacy
 
 We understand that most internet users are concerned about their privacy, want to keep control of their personal information, and may not trust the web sites which they visit. In fact, research shows around a third of internet users give false information online rather than saying who they really are. 
@@ -78,14 +66,11 @@ ExplorOz understands that even with our privacy policy, some people still will n
   
 
 
-  
-
-
 ## Go to top 5\. Cookies
 
 Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies (for more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm). In some instances this may mean you will not be able to take full advantage of parts of the Site. For instance, you may not be able to login. 
 
-The use of cookies can enhance your enjoyment of what is offered by ExplorOz, because they can help personalise your experience of our website. They can make it easier for you to [shop](https://web.archive.org/Shop/Default.aspx) online and can ensure that information provided to you is most relevant to your interests. Cookies can provide us with aggregated information on how people use our websites, and which advertisements are effective, which helps us to keep improving our Site. We also use cookies to operate the Visitor & [Membership](https://web.archive.org/Membership/Default.aspx) systems, as they help us to identify visitors to the site who have previously registered. 
+The use of cookies can enhance your enjoyment of what is offered by ExplorOz, because they can help personalise your experience of our website. They can make it easier for you to [shop](https://web.archive.org/Shop/Default.aspx) online and can ensure that information provided to you is most relevant to your interests. Cookies can provide us with aggregated information on how people use our websites, and which advertisements are effective, which helps us to keep improving our Site. We also use cookies to operate the Visitor & Membership systems, as they help us to identify visitors to the site who have previously registered. 
 
 Cookies in and of themselves do not personally identify users, although they do identify a user's browser. The cookies simply contain a unique identifier which help us to know what our customers find interesting and useful on our website, almost like a continuing questionnaire. 
 
@@ -97,12 +82,9 @@ Telstra’s digital advertising network is responsible for placing some of the a
   
 
 
-  
-
-
 ## Go to top 6\. Using and disclosing your personal information
 
-ExplorOz will not use or disclose any information about you without your consent, or access your [communications](https://web.archive.org/OntheRoad/Communications/Default.aspx) on our websites, unless: 
+ExplorOz will not use or disclose any information about you without your consent, or access your communications on our websites, unless: 
 
   * Required by law.
   
@@ -126,15 +108,7 @@ We will not give any of your personal information to Advertisers or any other or
   
 
 
-  
-
-
-Suppress Ad - Members Only
-
 We will not send you "spam" (advertising information) without first asking you whether you wish to have promotional information sent to you. If you are receiving promotional information about ExplorOz or its affiliates and do not wish to receive this information any longer, you may remove your name from our list either by visiting the website from which the communication was sent and following the instructions on how to withdraw your information from that site (where that facility is available), or emailing us at info@ExplorOz.com and asking to be removed from our mailing list. Please allow two days for this request to be processed.   
-
-
-  
 
 
   
@@ -144,12 +118,9 @@ We will not send you "spam" (advertising information) without first asking you w
 
 ExplorOz will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Your information is stored on secure servers that are protected in controlled facilities. 
 
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by ExplorOz and I.T. Beyond Pty Ltd. However, neither ExplorOz nor I.T. Beyond Pty Ltd. will not be held responsible for [events](https://web.archive.org/Events/Default.asp) arising from unauthorised access to your personal information. 
+In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by ExplorOz and I.T. Beyond Pty Ltd. However, neither ExplorOz nor I.T. Beyond Pty Ltd. will not be held responsible for [events](https://web.archive.org/Events/Default.aspx) arising from unauthorised access to your personal information. 
 
 You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the ExplorOz website. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security. 
-
-  
-
 
   
 
@@ -157,9 +128,6 @@ You can also play an important role in keeping your personal information secure,
 ## Go to top 9\. You can access the information we keep about you
 
 As indicated above in section 3, if you do not log on using a registered profile, we do not collect information which identifies you personally. If, however, you log on using a registered profile you are able to access, change and update your details at any time. If you wish to know what other information we hold about you whilst you have been logged onto the Site, please send an email to us at info@ExplorOz.com advising us of the email address you used to register your account. We will endeavour to respond to your request within 24 hours.  
-
-
-  
 
 
   
@@ -173,15 +141,9 @@ ExplorOz provides links to websites outside of the Site. These linked sites are 
   
 
 
-  
-
-
 ## Go to top 11\. What to do if you have a problem or question
 
-If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please [contact us](https://web.archive.org/AboutUs/Contact.aspx) at info@ExplorOz.com   
-
-
-  
+If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our [privacy policy](https://web.archive.org/Privacy.aspx), or you have a problem or complaint, please [contact us](https://web.archive.org/AboutUs/Contact.aspx) at info@ExplorOz.com   
 
 
   
@@ -195,6 +157,7 @@ Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Defau
   
 
 
-  
+## Go to top 13\. Further information on privacy
+
   
 
