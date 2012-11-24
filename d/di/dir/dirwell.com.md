@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125004608id_/http%3A//www.dirwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124141330id_/http%3A//www.dirwell.com/privacy-policy) for the most accurate reproduction.*
 
 # Directory Well - Web Directory- Privacy Policy
 
@@ -16,9 +16,9 @@ The information collected by **DirWell** depends solely on your use of our direc
 
 
 
- **DirWell** uses all the information collected for the purposes of billing, providing services, identification and authentication, sending the eNewsletter, and contact.
+**DirWell** uses all the information collected for the purposes of billing, providing services, identification and authentication, sending the eNewsletter, and contact.
 
- **DirWell** never shares your personal information or email addresses with any third parties, except service providers, such as the credit-card payment processors who carry on functions on our behalf. They need access to your personal information to perform their job, but they do not have permission to use, share, distribute or sell this information for any other purposes.
+**DirWell** never shares your personal information or email addresses with any third parties, except service providers, such as the credit-card payment processors who carry on functions on our behalf. They need access to your personal information to perform their job, but they do not have permission to use, share, distribute or sell this information for any other purposes.
 
 ### Personal Data Security
 
@@ -34,7 +34,7 @@ In addition, certain information may be disclosed to service providers, such as 
 
 ### Third Parties
 
- **DirWell** uses hosting partners and other third party vendors to offer the related networking and technology required to run **DirWell** Web Directory. Users' activity information on our website may be shared with our advertisers or partners (if any), in order to see the most viewed pages, browser information and search engine usage, number of repeat and unique visitors etc. This is done to improve our website and serve our clients and users better.
+**DirWell** uses hosting partners and other third party vendors to offer the related networking and technology required to run **DirWell** Web Directory. Users' activity information on our website may be shared with our advertisers or partners (if any), in order to see the most viewed pages, browser information and search engine usage, number of repeat and unique visitors etc. This is done to improve our website and serve our clients and users better.
 
 Our directory also contains links to third-party websites in the form of advertisers, submitted sites and informational sites. We make sure the sites we link to are genuine. However, we don't take responsibility for any privacy breach on such websites or the use of your personal information collected on their websites. We suggest you read the privacy policy and terms of use of any website visited through our links.
 
