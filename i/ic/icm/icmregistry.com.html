@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icmregistry.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604061455id_/http%3A//www.icmregistry.com/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icmregistry.com privacy policy that was archived on 2012-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124064720id_/http%3A//www.icmregistry.com/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -40,25 +40,55 @@
 
 </script>
 <script>
+
 $(window).load(function() {	
-	//if the cookie hasLaunch is not set, then show the modal window
-		if (!readCookie('hasLaunch')) {
-		//launch it
+
+	//select all the a tag with name equal to modal
+	$('a[name=modal]').click(function(e) {
+		//Cancel the link behavior
+		e.preventDefault();
 		
-			
+		//Get the A tag
+		var id = $(this).attr('href');
+	
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
 		
-		//then set the cookie, so next time the modal won't be displaying again.
-		createCookie('hasLaunch', 1, 365);
-	}
+		//transition effect		
+		$('#mask').fadeIn(1000);	
+		$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 
+	
+	});
 	
 	//if close button is clicked
-	$('.window .close').click(function () {
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
 		$('#mask').hide();
 		$('.window').hide();
 	});		
 	
 	//if mask is clicked
-		
+	$('#mask').click(function () {
+		$(this).hide();
+		$('.window').hide();
+	});			
 	
 
 	$(window).resize(function () {
@@ -83,54 +113,6 @@ $(window).load(function() {
 	});	
 	
 });
-
-function createCookie(name,value,days) {
-    if (days) {
-        var date = new Date();
-        date.setTime(date.getTime()+(days*24*60*60*1000));
-        var expires = "; expires="+date.toGMTString();
-    }
-    else var expires = "";
-    document.cookie = name+"="+value+expires+"; path=/";
-}
- 
-function readCookie(name) {
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-    }
-    return null;
-}
-
-function launchWindow(id) {
-	
-		//Get the screen height and width
-		var maskHeight = $(document).height();
-		var maskWidth = $(window).width();
-	
-		//Set heigth and width to mask to fill up the whole screen
-		$('#mask').css({'width':maskWidth,'height':maskHeight});
-		
-		//transition effect		
-		$('#mask').fadeIn(1000);	
-		$('#mask').fadeTo("slow",0.8);	
-	
-		//Get the window height and width
-		var winH = $(window).height();
-		var winW = $(window).width();
-              
-		//Set the popup window to center
-		$(id).css('top',  winH/2-$(id).height());
-		$(id).css('left', winW/2-$(id).width()/2);
-	
-		//transition effect
-		$(id).show(); 
-	
-
-}
 
 </script>
 <meta name="norton-safeweb-site-verification" content="nm2rkuigz50jh8xfshrmygbdfiayexc3zcu7qv53adz7d1ebza8w0nm-zp41tyqgzgu9p7v-g78ai8xax-4dqukeiquh9ld11ehmr8i68vh64y8dltm-b74zjx2ir14e">
@@ -229,15 +211,15 @@ Time: 2:00 PM EDT
 <div style="width:595px; margin-left:9px; padding:20px; padding-left:10px; padding-right:10px; background:#ffffff; border-top:1px solid #d5d5d5;">
 <a href="http://www.icmregistry.com/inta/booklet-gtld-e.pdf" target="_blank"><img src="/images/modal/inta/img-gtldbrochure.gif" border="0" usemap="#Map" style="padding-right:4px;">
 <map name="Map">
-  <area shape="rect" coords="71,64,155,85" href="http://stager.icmregistry.com/inta/index.php?file=booklet-gtld-e">
+  <area shape="rect" coords="71,64,155,85" href="http://pww.icmregistry.com/inta/pdf-server.php?file=booklet-gtld-e">
 </map>
 </a><a href="http://www.icmregistry.com/inta/Domain-Disputes-Overview.pdf" target="_blank"><img src="/images/modal/inta/img-disputeresolution.gif" border="0" usemap="#Map2" style="padding-right:4px;">
 <map name="Map2">
-  <area shape="rect" coords="72,58,165,79" href="http://www.icmregistry.com/inta/index.php?file=Domain-Disputes-Overview">
+  <area shape="rect" coords="72,58,165,79" href="http://pww.icmregistry.com/inta/pdf-server.php?file=Domain-Disputes-Overview">
 </map>
 </a><a href="http://www.icmregistry.com/inta/Registries-Trademarks-Whitepaper.pdf" target="_blank"><img src="/images/modal/inta/img-whitepaper.gif" border="0" usemap="#Map3">
 <map name="Map3">
-  <area shape="rect" coords="72,56,159,79" href="http://www.icmregistry.com/policies/registries-trademarks-whitepaper/index.php?file=Registries-Trademarks-Whitepaper">
+  <area shape="rect" coords="72,56,159,79" href="http://pww.icmregistry.com/inta/pdf-server.php?file=Registries-Trademarks-Whitepaper">
 </map>
 </a></div>
 </div>
@@ -251,7 +233,6 @@ Time: 2:00 PM EDT
   <div id="mask"></div>
 </div>
 <div id="masking">
-
 <script type="text/javascript">
 $(document).ready(function(e) {
 	if ($("#alertbox").text().length > 0) {
@@ -263,7 +244,7 @@ $(document).ready(function(e) {
 
 <div id="header">
 <div id="logo"><div id="alertbox" class="alertboxstyle"></div>
-<a href="/"><img src="/images/logo2.png"></a>
+<a href="/"><img src="/images/xxx_logo.png" width="130" height="70"></a>
 </div>
 
 <div id="interact">
@@ -275,7 +256,7 @@ $(document).ready(function(e) {
 
 </div>
 
-<div style="margin-bottom:10px; width:820px; margin-left:190px; margin-top:80px; position:absolute; z-index:99999999;">         
+<div style="margin-bottom:10px; width:820px; margin-left:190px; margin-top:50px; position:absolute; z-index:99999999;">         
             
             <div id="xxxmenu-buttonbox" align="center">
           <div class="botonitos-breadcrumb"> <a href="/about/" class="xxxmenu-tablink" onmouseover="setVisiblityFacadeSub3('sub3', 'inline');" onmouseout="setVisiblityFacadeSub3('sub3','none');">ABOUT</a></div>
@@ -411,7 +392,7 @@ function setVisiblityFacadeSub5(var1, var2) {
           <div class="breadcrumbbox">
                  <a href="/press/" class="xxxmenu-tabsublink">Press Releases</a>
                  <a href="/press/in-the-news/" class="xxxmenu-tabsublink">In The News</a>
-                 <a href="/press/multimedia/" class="xxxmenu-tabsublink">Multimedia Center</a>
+                 <a href="http://www.gavin.xxx" class="xxxmenu-tabsublink" target="_blank">Multimedia Center</a>
                  </div>
                 </div>
           <div class="xxxmenu-divsub3" align="center">
@@ -630,13 +611,15 @@ purposes. To make a request to the ICM under California's privacy law, please se
 			<li><a href="/registrars/portal">Registrar Login</a></li>
 		</ul>
 		<ul class="column3b">Programs
-			<li><a href="http://www.premium.xxx/">Premium Domains</a></li>
+			<li><a href="http://www.icmregistry.com/premium">Premium Domains</a></li>
 			<li><a href="http://performers.icmregistry.com/">Adult Performer Program</a></li>
+            <li><a href="http://www.icmregistry.com/newgtld">.SEX, .PORN New gTLDs</a></li>
+            <li><a href="http://www.icmregistry.com/adplatform">Search.xxx Ad Program Offer</a></li>
 		</ul>
 		<ul class="column4b">Press
 			<li><a href="/press/in-the-news/">In The News</a></li>
 			<li><a href="/press/">Press Releases</a></li>
-            <li><a href="/press/multimedia/">Multimedia Center</a></li>
+            <li><a href="http://www.gavin.xxx" target="_blank">Multimedia Center</a></li>
 		</ul>
 		<ul class="column5b">Other
 			<li><a href="https://member-icmregistry.custhelp.com/app/report_abuse">Report Abuse</a></li>
