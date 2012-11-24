@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the did.ie privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602062257id_/http%3A//www.did.ie/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the did.ie privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124181834id_/http%3A//www.did.ie/content/privacy-policy) for the most accurate reproduction.*
 
 # Policies / Privacy Policy / D.I.D Electrical - D.I.D Electrical
 
