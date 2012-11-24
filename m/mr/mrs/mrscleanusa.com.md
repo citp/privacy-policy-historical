@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507132118id_/http%3A//www.mrscleanusa.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124025703id_/http%3A//www.mrscleanusa.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mrs Clean House Cleaning and Maid Service
 
@@ -76,3 +76,5 @@ Upon request we provide site visitors with access to all information [including 
 Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office.
+
+Benefit from our expert house cleaning tips, backed up by a professional house cleaning company with over 35 YEARS OF EXPERIENCE. Check our new cleaning website with tips on [house cleaning, organizing and stain removal](http://www.housecleaningcentral.com/) and [home remedies](http://www.homeremedycentral.com/ "Home Remedy Central").
