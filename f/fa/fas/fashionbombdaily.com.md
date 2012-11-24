@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526004607id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124184721id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « The Fashion Bomb Blog /// All Urban Fashion… All the Time - All Urban Fashion // All the Time
+# Privacy Policy « The Fashion Bomb Blog /// All Fashion… All the Time - All Fashion // All the Time
 
 Privacy Policy
 
@@ -78,3 +78,16 @@ The personally identifiable information we collect is securely stored within our
 6\. Revisions and Amendments
 
 If you have further privacy concerns please do not hesitate to ask us by contacting thefashionbomb@gmail.com. This Privacy Policy is effective as of June 24, 2008. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. The Fashion Bomb reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.FashionBombDaily.com. Any such change, update or modification will be effective immediately upon posting on The Fashion Bomb.
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%0D%0A%0D%0AAt%20The%20Fashion%20Bomb%2C%20we%20are%20committed%20to%20protecting%20the%20privacy%20of%20our%20users%20and%20visitors.%20%20The%20following%20Privacy%20Policy%20outlines%20the%20information%20The%20Fashion%20Bomb%2C%20LLC.%20%28The%20Fashion%20Bomb%29%20may%20collect%20and%20how%20we%20may%20use%20that%20informat "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&srcTitle=The+Fashion+Bomb+Blog+%2F%2F%2F+All+Fashion...+All+the+Time+All+Fashion+%2F%2F+All+the+Time "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=The+Fashion+Bomb+Blog+%2F%2F%2F+All+Fashion...+All+the+Time+All+Fashion+%2F%2F+All+the+Time&summary=Privacy%20Policy%0D%0A%0D%0AAt%20The%20Fashion%20Bomb%2C%20we%20are%20committed%20to%20protecting%20the%20privacy%20of%20our%20users%20and%20visitors.%20%20The%20following%20Privacy%20Policy%20outlines%20the%20information%20The%20Fashion%20Bomb%2C%20LLC.%20%28The%20Fashion%20Bomb%29%20may%20collect%20and%20how%20we%20may%20use%20that%20informat "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Ffashionbombdaily.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
