@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainpetdog.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501235519id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainpetdog.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124072445id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,8 +49,6 @@ We reserve the right to change this privacy policy at any time. The fact that th
  **Third Parties**
 
 We have contracted with Overture services, Inc. (“Overture”) to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture. For more information about how the information collected by Overture is used, please see Overture’s privacy policy at http://www.overture.com/d/USm/about/company/ccprivacyPolicy.jhtml
-
-Sincerely,
 
  **Notification of Changes to Privacy Policy**
 
