@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cable.co.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525215808id_/http%3A//www.cable.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cable.co.uk privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124182004id_/http%3A//www.cable.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,4 +91,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ## Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to privacy@cable.co.uk or by post to Cable.co.uk, Unit 50, Elms Business Centre, Main Road, Great Haywood, Stafford ST18 0SB.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to privacy@cable.co.uk or by post to Existent Ltd., The Coach House, Charter House, Sandford Street, Lichfield, WS13 6QA .
