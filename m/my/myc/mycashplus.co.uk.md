@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603051234id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124021203id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
 
 # Security & privacy on the Cashplus prepaid card site. Contact us | Cashplus
 
@@ -49,13 +49,13 @@ The latest browsers support 128-bit encryption. Older browsers (such as Internet
 
 ### Secure Socket Layer (SSL)
 
-A "Secure Socket Layer" is a commonly used method of managing the security of messages transmitted across the Internet and is used by us to connect your computer to our secure server. You can tell that SSL is in use if you are using Internet Explorer or Netscape Navigator when a small padlock icon appears on your browser status bar. If you have problems getting to secure mode, install one of the latest browsers and try the website again. 
+A "Secure Socket Layer" is a commonly used method of managing the security of messages transmitted across the Internet and is used by us to connect your computer to our secure server. You can tell that SSL is in use if the URL in the search bar starts with https:// or / and a lock icon is displayed on your browser. If you have problems getting to secure mode, install one of the latest browsers and try the website again. 
 
 ### Which browser do I need to view this website?
 
 Our website has been designed to work with a variety of the latest browsers on either Apple Macintosh computers or Windows based PCs. 
 
-If you’re using an older browser such as Internet Explorer 3, Opera 3 and 4, you’ll be able to view the information pages, but you may not be able to apply for a card or access your account information. To make an application online we recommend that you upgrade to the latest versions. 
+If you’re using an older browser you’ll be able to view the information pages, but you may not be able to apply for a card or access your account information. To make an application online we recommend that you upgrade to the latest versions. 
 
 ### Need to change your screen resolution?
 
@@ -63,7 +63,7 @@ We recommend viewing this website with a screen resolution of 1024x768 or above.
 
 ### Do you need plug-ins?
 
-"Plug-ins" are additional software programs required by some websites to make them work properly. An example is Flash Player from Adobe. Our website doesn't need any plug-ins to work effectively. 
+"Plug-ins" are additional software programs required by some websites to make them work properly. An example is Flash Player from Adobe. Our website doesn't need any plug-ins to work effectively, however you may need a PDF reader such as [Adobe Acrobat Reader](http://get.adobe.com/uk/reader/ "Adobe Acrobat Reader") to download certain documents. 
 
 ### Having difficulty accessing your account from work?
 
@@ -81,7 +81,7 @@ We'll never send emails to you requesting security or any other confidential inf
 
 ## Cookies Policy
 
-APS Group is committed to ensuring that all site visitors' privacy is protected and that they have a positive experience on the APS Group sites. APS does not put personal information in our cookies and the majority of cookies are there to support processes and will expire when the browser is closed. Any persistent cookies are to improve user experience. 
+APS Group is committed to ensuring that all site visitors' privacy is protected and that they have a positive experience on the APS Group sites. **We use cookies to provide you with the best possible online experience on our website**. However, if you would like to, you can change your cookie settings at any time. APS does not put personal information in our cookies and the majority of cookies are there to support processes and will expire when the browser is closed. Any persistent cookies are to improve user experience. 
 
 ### What is a cookie?
 
@@ -129,7 +129,7 @@ Majority of browsers will have a default 'medium' cookie setting, allowing 1st p
 
   * Internet Explorer: Tools > Internet Options > Privacy
   * Firefox: Tools > Options > Privacy
-  * Google Chrome: Settings > Under the Bonnet > Privacy
+  * Google Chrome: Settings > Privacy > Content Settings
 
 
 
