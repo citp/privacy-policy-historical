@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605063753id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124234908id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubergizmo
 
@@ -10,11 +10,11 @@ lease read this statement carefully before using proceeding to access Ubergizmo.
 
 ### Information Collection
 
-UberGizmo is the sole owner of the information collected on www.ubergizmo.com. Ubergizmo may collect information from our users at several different points on our Web site.
+Ubergizmo is the sole owner of the information collected on www.ubergizmo.com. Ubergizmo may collect information from our users at several different points on our Web site, including IP addresses present on our server log files (see below).
 
 ### Mailing List
 
-Ubergizmo may launch a mailing list in 2005. In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization than the third party service that hosts the newsletter service.
+In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization than the third party service that hosts the newsletter service.
 
 ### Third Party Cookies
 
@@ -54,4 +54,4 @@ Whenever Ubergizmo changes our privacy policy, we will post those changes to thi
 
 ### Contact Information
 
-If you have any questions or suggestions regarding our privacy policy, please contact us (see Contact page).
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.ubergizmo.com/contact/).
