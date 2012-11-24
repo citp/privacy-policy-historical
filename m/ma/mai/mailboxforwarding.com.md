@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailboxforwarding.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507090452id_/http%3A//www.mailboxforwarding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailboxforwarding.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124110659id_/http%3A//www.mailboxforwarding.com/privacy.php) for the most accurate reproduction.*
 
 # Mailbox Forwarding - View Postal Mail Online, Mail Forwarding, Post Office Box, and Virtual Address PO Box Services
 
@@ -24,13 +24,13 @@ By signing up for an account with Mailbox Forwarding, you consent to receiving e
 
 **Form 1583**
 
-In regard to [USPS Form 1583](https://web.archive.org/web/20120507090452id_/http%3A//www.mailboxforwarding.com/form1583.php), which you must fill out by law after signing up for an account with Mailbox Forwarding, the USPS has enacted the following act:
+In regard to [USPS Form 1583](https://web.archive.org/web/20121124110659id_/http%3A//www.mailboxforwarding.com/form1583.php), which you must fill out by law after signing up for an account with Mailbox Forwarding, the USPS has enacted the following act:
 
 > Your information will be used to authorize the delivery of your mail to the designated addressee as your agent. Collection is authorized by 39 USC 401, 403, and 404. Providing the information is voluntary, but if not provided, we cannot provide this service to you. We do not disclose your information without your consent to third parties, except for the following limited circumstances: to a congressional office on your behalf; to financial entities regarding financial transaction issues; to a USPS® auditor; to entities, including law enforcement, as required by law or in legal proceedings; to contractors and other entities aiding us to fulfill the service; and for the purpose of identifying an address as an address of an agent who receives mail on behalf of other persons. Information concerning an individual who has filed an appropriate protective court order with the postmaster will not be disclosed except pursuant to court order. For more information on our privacy policies, see our privacy link on usps.com®.
 
 **Contact Us**
 
-If you have further questions that this Privacy Policy did not address, please [contact us](https://web.archive.org/web/20120507090452id_/http%3A//www.mailboxforwarding.com/support/index.php?a=add).
+If you have further questions that this Privacy Policy did not address, please [contact us](https://web.archive.org/web/20121124110659id_/http%3A//www.mailboxforwarding.com/support/index.php?a=add).
 
 |  |  | 
 
