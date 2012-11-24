@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firepolemarketing.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526114138id_/http%3A//www.firepolemarketing.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firepolemarketing.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124214232id_/http%3A//www.firepolemarketing.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Firepole Marketing Privacy Policy
+# Firepole Marketing Privacy Policy | Firepole Marketing Blog
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
