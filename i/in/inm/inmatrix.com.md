@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623145855id_/http%3A//inmatrix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124094150id_/http%3A//inmatrix.com/privacy.shtml) for the most accurate reproduction.*
 
-# Zoom Player - Contact Us
+# Zoom Player - Privacy Policy
 
 **User Information**  
 All users who view our pages retain complete anonymity where Inmatrix is concerned. As information is delivered, Inmatrix does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. Inmatrix does, however, collect information which is specific to how you use the Internet. Inmatrix servers note non-personally identifying details such as, but not limited to, the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, and your IP address. This information is obtained solely for the purpose of site statisticss and measuring the site's effectiveness. 
