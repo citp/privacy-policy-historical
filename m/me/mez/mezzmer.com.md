@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mezzmer.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526122240id_/http%3A//www.mezzmer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mezzmer.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124141041id_/http%3A//www.mezzmer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mezzmer.com
 
