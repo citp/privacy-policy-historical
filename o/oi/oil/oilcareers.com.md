@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530055031id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124071332id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -50,7 +50,7 @@ If you wish to review or receive copies of the personal information we hold abou
 
 | Privacy Team  
 ---  
-OilCareers Limited  
+OilCareers.com  
 22 Abercrombie Court  
 Arnhall Business Park  
 Westhill  
