@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627042528id_/http%3A//www.gerber.com/AllStages/public/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125004817id_/http%3A//www.gerber.com/AllStages/public/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | All Stages | Gerber
 
 Thank you for visiting Gerber.com and for your interest in the Start Healthy, Stay Healthy Resource Center. The Gerber.com Website (also, “our Website” or “our Site”) and the Start Healthy, Stay Healthy Resource Center (also, “SHSH Resource Center”) are owned and operated by the Gerber Products Company/Nestlé Infant Nutrition (collectively, “Gerber,” “we,” or “our”). The following is a description of the kinds of information Gerber may collect online through the Gerber.com Website or in connection with the SHSH Resource Center, how we use and share that information, the steps we take to protect it, and the choices you may have to control the use or disclosure of your information (collectively, “Privacy Policy” or “Policy”).
 
-We encourage you to read this Privacy Policy before you provide Gerber any of your personal information. If you have any questions or concerns regarding this Privacy Policy, please contact us by clicking [here](https://web.archive.org/web/20120627042528id_/http%3A//www.gerber.com/AllStages/Contact_Us/Default.aspx) or by calling 1-800-4GERBER.
+We encourage you to read this Privacy Policy before you provide Gerber any of your personal information. If you have any questions or concerns regarding this Privacy Policy, please contact us by clicking [here](https://web.archive.org/web/20121125004817id_/http%3A//www.gerber.com/AllStages/Contact_Us/Default.aspx) or by calling 1-800-4GERBER.
 
 *  **What does this Privacy Policy apply to?**
 
