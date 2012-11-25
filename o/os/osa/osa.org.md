@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527090522id_/http%3A//www.osa.org/About_Osa/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125202059id_/http%3A//www.osa.org/About_Osa/privacy_policy.aspx) for the most accurate reproduction.*
 
-# About OSA
+# The Optical Society - Learn About The Optical Society of America (OSA)
 
 ## **OSA Privacy Policy**
 
