@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510160652id_/http%3A//www.edmodo.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125110221id_/http%3A//www.edmodo.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Edmodo | Corporate Privacy Policy
 
