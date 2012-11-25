@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesgofree.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427185238id_/http%3A//gamesgofree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesgofree.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125084239id_/http%3A//gamesgofree.com/privacy_policy) for the most accurate reproduction.*
 
-# Free games – GamesGoFree.com – Download and play for free!
+# Free games - GamesGoFree.com - Download and play for free!
 
 1\. Introduction
 
