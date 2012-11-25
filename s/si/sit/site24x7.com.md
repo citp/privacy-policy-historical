@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617182423id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125080318id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Site24x7 - Privacy Policy
 
@@ -7,19 +7,12 @@
 
 * * *
 
-9th December 2009
+5th July 2012
 
-This is a website owned by Zoho Corporation Pvt. Ltd.
+This is a website owned by Zoho Corporation Pvt. Ltd.   
 
-Our postal address is 
 
-**DLF IT Park, Block 7, Ground floor, No. 1/124,  
-Shivaji Garden, Nandambakkam Post,  
-Mount PH Road, Ramapuram  
-Chennai 600 089, INDIA  
-**
-
-We can be reached via e-mail at [support@site24x7.com](mailto:support@site24x7.com) or you can reach Site24x7 Customer Support Services by telephone at 888 900 9646. 
+We can be reached via e-mail at [support@site24x7.com](mailto:support@site24x7.com) or you can reach Site24x7 Customer Support Services by telephone at +1 408 352 9117. 
 
 ## **General**
 
