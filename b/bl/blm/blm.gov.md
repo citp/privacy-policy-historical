@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610224909id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blm.gov privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125064112id_/http%3A//www.doi.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
