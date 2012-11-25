@@ -1,49 +1,89 @@
-> *The following text is extracted and transformed from the mypcbusiness.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619113000id_/http%3A//www.bemotivatedtoday.com/content.asp%3FPageId%3D401) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypcbusiness.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125092320id_/http%3A//www.mypcbusiness.com/privacy.cgi) for the most accurate reproduction.*
 
-# PRIVACY POLICY Create a passive income automatically, 24/7, earn residual income from home
+# MyPCBusiness - Privacy Policy
 
-PRIVACY POLICY  
+MyPCBusiness Privacy Policy
 
+We're serious about online privacy, and have created this Privacy Policy to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of user information.
 
-**  
-**  
-Last Updated: December 15, 2010
+What information does MyPCBusiness collect from visitors?
 
-BeMotivatedToday.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent this information to any unauthorized third party. Period.
+MyPCBusiness collects information from our visitors and users of our website and uses the information for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
 
-**How we gather information from users**
+As a user of this website, MyPCBusiness may collect your personally identifiable information when you subscribe to the MyPCBusiness service. The information that we collect is limited to your name, email address and other contact information.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. Like most websites, BeMotivatedToday.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may help us identify how you found our website. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+Why is information collected?
 
-**What we do with the information we collect**
+Information may be collected in an effort to enhance your user experience, provide you with information regarding MyPCBusiness services, and/or to provide you with the products and/or services that you request.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content. We respect your privacy and do not share your information with anyone.
+We, or our authorized third-party affiliates, may also collect general information about transactions as they correspond to our advertisements, products and services. This aggregate information may include various types of demographic and usage information, but 
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+_does not include personally identifiable information_
 
-We may use Personally Identifiable Information collected on BeMotivatedToday.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by BeMotivatedToday.com and other topics we think you might find of interest. 
+.
 
-Personally Identifiable Information collected by BeMotivatedToday.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+This information is used in an aggregated manner to determine advertising effectiveness and is sometimes shared with our advertising partners for the same limited purpose.
 
-**Affiliated sites, linked sites and advertisements**
+How does MyPCBusiness protect my information?
 
-BeMotivatedToday.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a BeMotivatedToday.com page, certain content that is actually created or hosted by a third party. Also, through BeMotivatedToday.com you may be introduced to, or be able to access, information, websites, features, offered by other parties. BeMotivatedToday.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+We have implemented a variety of security measures to maintain the safety of your personally identifiable information. Users' personal information is contained behind secured networks and is only accessible by certain key employees.
 
-Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information to make your experience more relevant to your needs. BeMotivatedToday.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+Should it be necessary to transmit your personally identifiable information to a reputable third party vendor to fulfill our service commitment to you, MyPCBusiness will require all recipients of such information to maintain it as confidential, use the information for the limited and intended purpose and agree not to disclose such information.
 
-**Children  
-**  
-BeMotivatedToday.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe BeMotivatedToday.com has any information from or about anyone under 13, please contact us.  
+Will MyPCBusiness disclose the information it collects to others?
 
+MyPCBusiness does not rent, sell or share any of the information collected by this site with unrelated 3rd-parties, except when we have your permission, or under the following circumstances:
 
-**Changes to this Policy**
+1\. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights;
 
-BeMotivatedToday.com reserves the right to change our policies at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+2\. We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving threats to the physical safety of any person, violations of MyPCBusiness's Terms of Use, or as otherwise required by law;
 
-**Governing law  
-**  
-This policy and the use of this Site are governed by Republic of South African law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Capetown. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+3\. We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates located in the U.S. who promote MyPCBusiness and earn over $600 in commissions in a calender year.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Cape Town. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+4\. We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about User Testers located in the U.S. who receive over $600 in payments from MyPCBusiness in a calender year.
 
-BeMotivatedToday.com is controlled, operated and administered entirely within the Republic of South Africa. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Does MyPCBusiness use "cookies" or pixel "tags"?
+
+Cookies are bits of information that a website can transfer to a visitor's browser to help tailor and keep records of his or her visit to the site. Cookies allow website owners to better customize a site to your individual preferences.
+
+The use of cookies is standard on the Internet and most major websites use them. We may use cookies to help provide you with a better experience on our site; however, we do not store personally identifying information in cookies.
+
+Like many Web sites, MyPCBusiness may also use pixel tags, also known as beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional and advertising campaigns, as a supplement to our server logs and other methods of traffic and response measurement.
+
+We may also implement pixel tags provided by other companies, and limit the collection of information for the same purpose. We do not store personally identifying information in pixel tags.
+
+Can I access or modify the Personal Identifying Information collected?
+
+You can view and/or modify the information provided to us at any time by logging in to your account, and clicking the "Profile" link. You may also submit your request to modify your account information via any of the methods below.
+
+What if I want to Opt-Out of email communications from MyPCBusiness?
+
+MyPCBusiness provides every user with the opportunity to opt-out of receiving future promotional communications from us.
+
+You may do so in the following ways. Please note however that even if you opt-out, you may still receive important announcements or updates regarding your MyPCBusiness account unless you cancel your account.
+
+1\. Email: [support@mypcbusiness.com](mailto:support@mypcbusiness.com?subject=&cc=&bcc=&body=)  
+  
+2\. Website: [http://www.mypcbusiness.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
+  
+3\. Postal Mail: MyPCBusiness, LLC, 453 E. Wonderview Ave. Suite 126, Estes Park, CO 80517
+
+Can children or minors use MyPCBusiness?
+
+MyPCBusiness does not knowingly collect or solicit any information from or about anyone under the age of 18. If we discover we have received such information in violation of this policy, we will delete that information immediately.
+
+If you believe MyPCBusiness has any information from or about anyone under the age of 18, please contact us. If you are under 18, you may use MyPCBusiness only under the supervision of a parent or guardian.
+
+Links to Other Sites
+
+This website may contain links to other sites, and we want you to know that MyPCBusiness is not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+
+Your consent
+
+By using this website, you consent to the collection and use of the information you provide per this Privacy Policy. We also reserve the right to change our Privacy Policy. Should this be necessary, we will post any changes here so that you're always aware of the information that we collect and how we may or may not intend to use it.
+
+Contacting MyPCBusiness
+
+If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above.
+
+This Privacy Policy was last updated June 12, 2012.
