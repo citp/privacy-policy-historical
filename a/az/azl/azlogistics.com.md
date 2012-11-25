@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the azlogistics.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518012424id_/http%3A//azlogistics.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlogistics.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125102837id_/http%3A//azlogistics.com/privacy-policy) for the most accurate reproduction.*
 
-# azlogistics.com - Logistics Directory and Research Site
+# Privacy Policy - azlogistics.com
 
-## Privacy Policy
-
-The privacy of our visitors is important to us.
+The privacy of our visitors is very important to us.
 
 At azlogistics.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit azlogistics.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-Log Files  
+_Log Files_  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-Cookies and Web Beacons  
+_Cookies and Web Beacons_  
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as your account or forums.
 
 We also use third party advertisements on azlogistics.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.
@@ -20,4 +18,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
