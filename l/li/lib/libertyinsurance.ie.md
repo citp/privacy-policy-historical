@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyinsurance.ie privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623071203id_/http%3A//www.libertyinsurance.ie/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyinsurance.ie privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125070339id_/http%3A//www.libertyinsurance.ie/company/privacy.html) for the most accurate reproduction.*
 
 # Liberty Insurance Security and Privacy Statement | Liberty Insurance Ireland
 
