@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628201501id_/http%3A//www.parkcameras.com/editorial/3/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125013923id_/http%3A//www.parkcameras.com/editorial/3/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Policy - Park Cameras Online
 
 ## Cameras
 
-Canon Compact CamerasCasio Compact CamerasFuji Compact CamerasLeica Compact CamerasNikon Compact CamerasOlympus Compact CamerasPanasonic Compact CamerasPentax Compact CamerasRicoh Compact CamerasSamsung Compact CamerasSony Compact CamerasSigma Compact CamerasCanon EOS DSLRsNikon DSLRsOlympus DSLRsPentax DSLRsSigma DSLRsSony DSLRsFuji CSCsNikon CSCsOlympus CSCsPanasonic CSCsPentax CSCsSamsung CSCsSony CSCsPentax CamerasMamiya CamerasBuyer's Guide - Compact CamerasBuyer's Guide - Digital SLRsBuyer's Guide - Compact System CamerasBuyer's Guide - Medium Format
+Canon Compact CamerasCasio Compact CamerasFuji Compact CamerasLeica Compact CamerasNikon Compact CamerasOlympus Compact CamerasPanasonic Compact CamerasPentax Compact CamerasRicoh Compact CamerasSamsung Compact CamerasSony Compact CamerasSigma Compact CamerasCanon EOS DSLRsNikon DSLRsOlympus DSLRsPentax DSLRsSigma DSLRsSony DSLRsCanon CSCsFuji CSCsNikon CSCsOlympus CSCsPanasonic CSCsPentax CSCsSamsung CSCsSony CSCsPentax CamerasMamiya CamerasBuyer's Guide - Compact CamerasBuyer's Guide - Digital SLRsBuyer's Guide - Compact System CamerasBuyer's Guide - Medium Format
 
 ## Lenses
 
-CanonFujiLeicaMamiyaNikonOlympusPanasonicPentaxSamsungSigmaSonyTamronTokinaZeissCanon Fit SLR LensesFour Thirds Fit SLR LensesNikon Fit SLR LensesPentax/ Samsung Fit SLR LensesLeica LensesSigma Fit SLR LensesSony/ Minolta Fit SLR LensesFuji X MountNikon 1 MountSamsung NX FitSony E-Mount (Sony NEX)Micro Four Thirds FitMamiya LensesPentax LensesSLR Lens AccessoriesSLR lens casesSLR lens hoods/ lens caps
+CanonFujiLeicaMamiyaNikonOlympusPanasonicPentaxSamsungSigmaSonyTamronTokinaZeissCanon Fit SLR LensesFour Thirds Fit SLR LensesNikon Fit SLR LensesPentax/ Samsung Fit SLR LensesLeica LensesSigma Fit SLR LensesSony/ Minolta Fit SLR LensesCanon EF-M MountFuji X MountNikon 1 MountSamsung NX FitSony E-Mount (Sony NEX)Micro Four Thirds FitMamiya LensesPentax LensesSLR Lens AccessoriesSLR lens casesSLR lens hoods/ lens caps
 
 ## [Filters](http://www.parkcameras.com/g/26/Filters.html)
 
@@ -48,7 +48,7 @@ Audio SoftwareDesktop SuitesGraphic DesignOffice SoftwareOperating SystemsPhoto 
 
 ## Sound & Vision
 
-19-32in Televisions37-46in Televisions50in TelevisionsDVD PlayersBlu-ray PlayersCablesDigital ProjectorsHome CinemaMedia CentresStandsWall BracketsStandard Definition CamcordersHigh Definition CamcordersProfessional Camcorders
+19-32in TelevisionsDVD PlayersBlu-ray PlayersCablesDigital ProjectorsHome CinemaMedia CentresStandsWall BracketsStandard Definition CamcordersHigh Definition CamcordersProfessional Camcorders
 
 ## [Camcorder Accessories](http://www.parkcameras.com/g/3/Camcorder-Accessories.html)
 
