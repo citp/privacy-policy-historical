@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519092008id_/http%3A//www.speedycash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125105221id_/http%3A//www.speedycash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SpeedyCash.com
+# 
 
 **What we do**  
 **How does Speedy Cash®/Rapid Cash protect my personal information?** |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.   
