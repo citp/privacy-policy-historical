@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhousedeals.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514004004id_/http%3A//www.myhousedeals.com/policies/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhousedeals.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125065350id_/http%3A//www.myhousedeals.com/policies/privacy-policy.asp) for the most accurate reproduction.*
 
 # MyHouseDeals.com Privacy Policy
 
