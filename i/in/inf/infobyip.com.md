@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobyip.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617043725id_/http%3A//www.infobyip.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobyip.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125081856id_/http%3A//www.infobyip.com/privacypolicy.php) for the most accurate reproduction.*
 
 # None
 
