@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527055540id_/http%3A//www.etc.in/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125235953id_/http%3A//www.etc.in/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: ETC Channel Official Website
+# Privacy Policy :: ETC Channel Official Website: Bollywood, Bollywood News, Movie Reviews, Latest Trailers, Actors, Actress, Latest Posters, Komal Nahta
 
 ZEEL is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
