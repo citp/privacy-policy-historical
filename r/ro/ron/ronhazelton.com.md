@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526071519id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronhazelton.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125205654id_/http%3A//www.ronhazelton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Ron Hazelton Online
 
@@ -23,6 +23,8 @@ We use “cookies” on this site. A cookie is a piece of data stored on a site 
 We use a tracking cookie to help us improve your access to our site and identify repeat visitors to our site. Tracking cookies enable us to track and target the interests of our users to enhance the experience on our site. Usage of a tracking cookie is in no way linked to any personally identifiable information on our site.
 
 In addition, some of our advertisers, including Google, may use a tracking cookie to track your interests, including which advertisements you have clicked on in the past. They will use this information to provide more relevant advertising to you. We make no warranties, express or implied, to the privacy or security practices of Google and other advertisers. We advise you to check their privacy policies.
+
+One of our partners offers an [opt-out system](http://www.networkadvertising.org/choices/) for their anonymous data tracking services, and you can view their opt-out program [here](http://www.networkadvertising.org/choices/).
 
 We will never at any time sell demographic information we may capture on our site.
 
