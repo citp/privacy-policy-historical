@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620105949id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125050142id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
 
-_Last Revised:_ 03/28/2012
+_Last Revised:_ 11/14/2012
 
 ## I. GENERAL MATTERS
 
@@ -12,7 +12,7 @@ At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a
 
 ### B. Scope of Policy
 
-This Policy applies to AmericanGreetings.com and our co-branded sites <http://greetings.aol.com/>, <http://www.msn.americangreetings.com/>, and <http://www.yahoo.americangreetings.com/>. This Policy does not apply to the websites of other companies or organizations, even if we link to those websites. You should carefully review the privacy policies of those websites in order to determine how they treat your personal information.
+This Policy applies to AmericanGreetings.com and our co-branded site <http://www.msn.americangreetings.com/>. This Policy does not apply to the websites of other companies or organizations, even if we link to those websites. You should carefully review the privacy policies of those websites in order to determine how they treat your personal information.
 
 European Data Protection Statement: AmericanGreetings.com and the data that we collect from you through AmericanGreetings.com is stored on a host server located in the United States, which is outside of the European Economic Area. By submitting your personal data, you agree to this transfer, storing, and processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
@@ -198,7 +198,7 @@ If you are a Member or Registered User, you may edit your information by signing
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, AG commits to resolve complaints about your privacy and our collection or use of your personal information. If you are concerned about our use of your personal information, please contact us at [help@americangreetings.com](mailto:help@americangreetings.com?subject=personal%20information) with "personal information" in the subject line, or call us at 800-711-4474 between 9am and 5pm eastern standard time.
 
-AG has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe harbor Principles to an independent dispute resolution mechanism the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by AG, please visit the BBB EU Safe Harbor Website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+AG has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe harbor Principles to an independent dispute resolution mechanism the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by AG, please visit the BBB EU Safe Harbor Website at [www.bbb.org/us/european-dispute-resolution/consumer/](http://www.bbb.org/us/european-dispute-resolution/consumer/) for more information and to file a complaint.
 
 ## V. OTHER MATTERS
 
