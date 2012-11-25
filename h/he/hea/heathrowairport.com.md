@@ -1,69 +1,117 @@
-> *The following text is extracted and transformed from the heathrowairport.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132908id_/http%3A//www.heathrowairport.com/portal/page/General/Heathrow%255EGeneral%255EMisc%255EPrivacy%2Bstatement/75e6d950e3435110VgnVCM20000039821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrowairport.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126002513id_/http%3A//www.heathrowairport.com/help/privacy-notice) for the most accurate reproduction.*
 
-# BAA Heathrow: Privacy policy
+# Heathrow: Privacy notice
 
-Updated February 2009  
-  
-Please read carefully
+**Last updated: October 2012**
 
-1\. Introduction  
-BAA Airports Limited and its group companies ("BAA") each take their obligations with regard to your personal information seriously. For a list of BAA group companies, please click here. This Privacy policy sets out the ways BAA handles your personal information collected via our websites (our “Websites") and through your participation and contribution in BAA related activities. BAA is registered as a data controller under the Data Protection Act. Any personal information collected by BAA is handled in accordance with applicable data protection legislation.
+  * How we use your information
+  * Access to personal information
+  * Complaints or queries
+  * Disclosure of personal information
+  * Privacy and cookies
+  * Links to other websites
+  * Changes to this privacy notice
+  * How to contact us
+  * List of Heathrow companies
 
-2\. The information we collect about you and the way we use it  
-You may be asked to give us personal details when purchasing, registering or subscribing to an Airport service or product, taking part in customer research and surveys, service or product trials, entering competitions or providing feedback on various issues relating to BAA. If you give us your personal details we will inform you of the uses we make of that information at the time we collect it from you.
 
-If you are giving us your personal details in the course of purchasing, registering or subscribing for a service, then we will of course use it in order to provide you with that service. We will use your information to communicate with you and to personalise our service. We may contact you by post, email, or telephone (including mobile SMS).
 
-We may use your information to send you offers and news about our airport services or products or those of other carefully selected companies which we think may be of interest to you. Your confirmation emails (which may include details of bookings, airport services, product registration or subscription made through our Websites) may also include marketing material which we think may  be of interest to you. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
+## How we use your information
 
-Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification and screening, immigration and customs control, safety and security, administrative and legal purposes, statistical and marketing analysis with a view to improving our products and services, the Websites and the user experience, systems testing, maintenance  and development, customer research and surveys,  customer relations and to help us in future dealings with you. If we use your information for the purposes of statistical or marketing analysis, your information will be anonymised so you cannot be personally identified from it.
+This privacy notice tells you what to expect when Heathrow collects personal information via our websites. LHR Airports Limited and its group companies ("Heathrow") each take their obligations with regard to your personal information seriously. This privacy notice applies to information we collect about:
 
-We may disclose your personal information to others where we are required or permitted to do so by law, or if you send us any material that is unlawful, offensive, abusive, threatening, defamatory, obscene, discriminatory or infringes the rights of anyone else, in order to prevent you from continuing to do so.  
-If you are under 16 you must obtain consent from a parent or guardian before providing us with any personal information.
+  * people who purchase Heathrow products and services, e.g. car parking
+  * people who purchase third party services which are offered via Heathrow websites, eg flights and hotels;
+  * people who subscribe or register to receive information from Heathrow e.g. airport newsletters;
+  * people who participate in Heathrow research and surveys;
+  * people who enter competitions;
+  * people who provide feedback to Heathrow via our websites;
+  * job applicants; and
+  * visitors to our website.
 
-All personal information is held in a secure environment. All personal data that BAA collects is used in accordance with the Data Protection Act 1998.
 
-BAA may use third party processors to handle personal data collected, these processors may be located in the UK or abroad. When using processors, we ensure that appropriate contractual safeguards, as dictated by the Data Protection Act 1998, are put in place.
 
-3\. Cookies  
-BAA collects information about your use of the Websites from cookies.
+If you are giving us your personal information in the course of purchasing, registering, or subscribing to a service or product, then we will only use your information in order to provide you with that service or for closely related purposes. We use some carefully selected third parties to help us deliver these services and products to you but they are only allowed to use your personal information to deliver the service or product you have purchased, registered or subscribed to. Some of our trusted third parties in supporting these services will transfer your information overseas, but we make sure that your information remains protected and secure.
 
-When you enter the Websites your computer will automatically be issued with a cookie. A cookie is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used.
+We will keep your personal information relating to services or products purchased in line with our retention policy which ensures that we keep your details for no longer than is necessary. Your information will be retained in a secure environment and access to it will be restricted according to the 'need to know' principle.
 
-BAA cookies record those areas of the Websites that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Websites, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website.
+When you purchase certain products and services from Heathrow we may send you confirmation emails; these may also include marketing which may be of interest to you. We do our best to tailor this information so that it is useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
 
-In addition, we would also like to make you aware that, although external to BAA, third party cookies are served on the Websites and can be used to track internet activity after a user has left the Website. Third party cookies usually have a long lifetime as they are ‘harvested’ and ‘refreshed’ whenever a user visits a page where the same or a similar cookie is being used.
+## Access to personal information
 
-You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites.
+Individuals can find out if we hold any personal information by making a 'subject access request' under the Data Protection Act 1998. If we do hold information about you we will:
 
-4\. Your rights under the Data Protection Act  
-Under the Data Protection Act, you have the right to ask us what information we hold about you, the source of that information, and the uses to which it has been put. Such a request must be in writing and should be directed to the address below.
+  * give you a description of it;
+  * tell you why we were holding it;
+  * tell you who it could be disclosed to; and
+  * let you have a copy of the information in an intelligible form.
 
-5\. Contact us  
-If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from BAA in the future, you can contact:
+
+
+To make a request to Heathrow for any personal information we may hold you need to put a request in writing using the contact details at the end of this notice.
+
+If we do hold information about you, you can ask us to correct any mistakes by contacting us using the contact details provided.
+
+## Complaints and Queries
+
+Heathrow tries to meet the highest standards when collecting and using personal information. For this reason we take any complaints we receive about this seriously. We encourage people to bring it to our attention if they think our collection or use of personal information is unfair, misleading or inappropriate.
+
+## Disclosure of personal information
+
+In the majority of cases we will not disclose your personal information to others unless we have previously gained your consent. However there will be circumstances where we may disclose your personal information without your consent e.g. where we are required by law to disclose information or where the information is required to prevent or detect a crime. In the case of all disclosures we will always ensure the disclosure is legitimate and proportionate for the purpose.
+
+## Privacy & Cookies
+
+### What are cookies?
+
+Cookies are small text files which are stored on your computer when you visit certain web pages. At Heathrow we use cookies to understand how our sites are used which helps us to improve your overall online experience. Some of the cookies we use are necessary for some of our sites to work whilst other cookies are used to provide tailored advertising by trusted third parties. The cookies we and our third parties place on your computer do not collect personally identifiable information like your name, address or payment details. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+The privacy of your information is important to us and so we want to keep you well informed about cookies. We shall continue to work on initiatives in relation to recent cookie legislation to ensure you have the best experience when visiting our websites.
+
+### The different types of cookies we use
+
+Heathrow use the following categories of cookies on our websites:
+
+**Strictly necessary** – These cookies are essential for certain features of our websites to work for example when you make payments for car parking. These cookies do not record identifiable personal information and we do not need your consent to place these cookies on your device. Without these cookies some services you have asked for cannot be provided.
+
+**Performance** – These cookies are used to collect anonymous information about how you use our websites. This information is used to help us improve our websites and understand how effective our adverts are. In some case we use trusted third parties to collect this information for us but they only use the information for the purposes explained. By using our websites, you agree that we can place these types of cookies on your device.
+
+**Functionality** \- These cookies are used to provide services or remember settings to enhance your visit for example text size or other preferences. The information these cookies collect is anonymous and does not enable us to track your browsing activity on other websites. By using our websites, you agree that we can place these types of cookies on your device.
+
+**Targeting and Advertising** – These cookies are used by trusted third parties to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. Information contained in these cookies is anonymous and doesn't contain your personal information. To find out more about cookies used for targeting and advertising follow [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.networkadvertising.org](http://www.networkadvertising.org/) or contact us at [website_feedback@baa.com](mailto:website_feedback@baa.com) for further information about the trusted third parties we use.
+
+### Managing cookies
+
+If you'd prefer to restrict, block or delete cookies from Heathrow and our third party advertisers, or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser to learn how to change your cookie preferences. If you choose to disable all cookies we cannot guarantee the performance of our websites and some features may not work as expected.
+
+## Links to other websites
+
+This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
+
+## Changes to this privacy notice
+
+We keep our privacy notice under regular review and we will place any updates on this webpage. At the start of this privacy notice we will tell you when it was last updated.
 
 Data Protection Manager  
-BAA Airports Limited  
-Heathrow Point West  
-234 Bath Road  
-Hayes  
-Middlesex UB3 5AP
+LHR Airports Limited  
+The Compass Centre  
+Nelson Road  
+Hounslow  
+TW6 2GW Middlesex
 
-6\. Links to third party websites  
-This Privacy policy applies solely to the Websites and does not apply to any third party websites you may access from the Websites.
+This privacy notice does not provide exhaustive detail of all aspects of Heathrow's collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the contact address above.
 
-7\. Updates to the Privacy policy  
-BAA may amend this Privacy policy from time to time in order to meet change in the regulatory environment, business needs, or to satisfy the needs of our customers, properties, strategic marketing partners, and service providers. Updated versions will be posted to our Websites and date stamped so that you are aware of when the Privacy policy was last updated.
+## List of Heathrow companies
 
-List of  BAA group companies
+  * Aberdeen Airport Limited
+  * LHR Airports Limited
+  * Heathrow Enterprises Limited
+  * Glasgow Airport Limited
+  * Heathrow Airport Limited
+  * Heathrow Express Operating Company Limited
+  * Southampton International Airport Limited
+  * Stansted Airport Limited
 
-Aberdeen Airport Limited  
-BAA Airports Limited  
-BAA Enterprises Limited  
-Edinburgh Airport Limited  
-Gatwick Airport Limited  
-Glasgow Airport Limited  
-Heathrow Airport Limited  
-Heathrow Express Operating Company Limited  
-Southampton International Airport Limited  
-Stansted Airport Limited
+
+
+[Back to top]
