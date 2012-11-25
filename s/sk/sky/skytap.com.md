@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skytap.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234428id_/http%3A//www.skytap.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skytap.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063911id_/http%3A//www.skytap.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skytap
 
@@ -56,6 +56,6 @@ www.skytap.com
 710 2nd Ave. Suite 1130  
 Seattle, WA 98104  
 (206) 866-1162  
-[info@skytap.com](mailto:info@skytap.com)
+info@skytap.com 
 
 This document was last updated on March 21, 2012.
