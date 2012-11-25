@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydestinationinfo.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519024940id_/http%3A//www.mydestination.com/en/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydestinationinfo.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125090151id_/http%3A//www.mydestination.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy My Destination
 
@@ -15,6 +15,8 @@ The Website allows you to access and use a range of information relating to trav
 MY DESTINATION may collect certain personal data from you via the Website if you choose to submit it to MY DESTINATION via forms completed by you on the Website. Personal data about you may also be collected by MY DESTINATION if you contact MY DESTINATION with queries or to request further information about the Website or any other matter.
 
 The types of personal data which MY DESTINATION may collect from you in the ways referred to above when using the Website may include name, address, telephone number, e-mail address, demographic information and contact preferences.
+
+MY DESTINATION does not store credit card details. Any transactions completed on third party websites are subject to their privacy policies and terms & conditions.
 
 In relation to certain third party portals to which MY DESTINATION provides access on the Website for searching for and booking services such as hotel accommodation, restaurants, car rentals, flights, entertainment tickets and other services, certain additional personal data may be collected by the relevant third party which may include financial data, and debit or credit card details through a separate third party website. Such data is not collected or stored by MY DESTINATION, and MY DESTINATION will have no liability or responsibility with respect to any such personal data submitted by you in this way to such third parties. You should refer to the relevant third party's own privacy policy for further information (see Links below).
 
@@ -56,18 +58,19 @@ MY DESTINATION may use cookies for collecting data about you on the Website. Coo
 
 **Subject Access Requests**
 
-Under the Data Protection Act 1998, MY DESTINATION must provide you with a readable copy of all personal data which MY DESTINATION holds about you, within 40 days of receiving your written request for such copies (a subject access request). The Data Protection Act 1998 allows MY DESTINATION to charge a fee of up to ï¿½10 pounds for this. Evidence to prove your identity (for example passport, driver's licence and/or current bills) will be required before any personal data held by MY DESTINATION will be disclosed to you. To make a subject access request contact MY DESTINATION on the contact details below.
+Under the Data Protection Act 1998, MY DESTINATION must provide you with a readable copy of all personal data which MY DESTINATION holds about you, within 40 days of receiving your written request for such copies (a subject access request). The Data Protection Act 1998 allows MY DESTINATION to charge a fee of up to �10 pounds for this. Evidence to prove your identity (for example passport, driver's licence and/or current bills) will be required before any personal data held by MY DESTINATION will be disclosed to you. To make a subject access request contact MY DESTINATION on the contact details below.
 
 **Updating Personal Data**
 
 If the personal data which MY DESTINATION holds about you is inaccurate in any way, where appropriate, you may have the data completed, rectified, amended and/or deleted. You should contact MY DESTINATION to update any of your personal data or to request access to your personal data via:
 
-Address| Subject Access Request  
+Address
+
+Subject Access Request  
 MY DESTINATION  
 Acre House, 11/15 William Road,  
-London NW1 3ER, United Kingdom  
----|---  
-  
+London NW1 3ER, United Kingdom 
+
 MY DESTINATION reserves the right to refuse to provide you with a copy of any of your personal data, subject to the Data Protection Act 1998. If MY DESTINATION refuses your request, it will give you reasons for its refusal.
 
 **Amendment to this Privacy Policy**
@@ -77,3 +80,5 @@ MY DESTINATION may amend this Privacy Policy from time to time and such amendmen
 **Governing Law**
 
 This Privacy Policy will be governed by English law and the parties hereby submit to the exclusive jurisdiction of the English courts.
+
+"Living on Earth is expensive, but it does include a free trip around the sun every year" \- Unknown
