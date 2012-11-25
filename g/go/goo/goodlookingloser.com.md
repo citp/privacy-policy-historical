@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527201034id_/http%3A//www.goodlookingloser.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125190638id_/http%3A//www.goodlookingloser.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Looking Loser
 
