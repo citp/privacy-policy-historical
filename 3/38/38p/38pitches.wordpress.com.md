@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 38pitches.wordpress.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427013501id_/http%3A//38pitches.wordpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38pitches.wordpress.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125084031id_/http%3A//38pitches.wordpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy « 38 Pitches
 
