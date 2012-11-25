@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvbeurope.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531065844id_/http%3A//www.tvbeurope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbeurope.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125034948id_/http%3A//www.tvbeurope.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TVBEurope Magazine Online & In Print
+# Privacy Policy | Europe's Broadcast Industry News & Analysis | TVBEurope
 
 INTENT MEDIA LIMITED ("We" or "Our") are committed to protecting and respecting your privacy. 
 
