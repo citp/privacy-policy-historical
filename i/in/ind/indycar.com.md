@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indycar.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522145541id_/http%3A//www.indycar.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indycar.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125055859id_/http%3A//www.indycar.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
@@ -61,7 +61,7 @@ If you ever wish to access your User Information, or to have your User Informati
 If you would like to contact us with questions or comments concerning the accuracy and/or privacy of your information, or if you believe that IRL has not adhered to this Privacy Statement, please notify us by contacting the following: 
 
   * Indy Racing League, LLC
-  * 4565 West 16th Street
+  * 4551 West 16th Street
   * Indianapolis, Indiana 46222
   * e-mail: online@indycar.com
   * Phone: 317-492-6549
