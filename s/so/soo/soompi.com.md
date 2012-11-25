@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621183652id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soompi.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125033705id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Soompi
 
 Soompi Media LLC, a California limited liabity corporation (“Soompi.com”), created this Privacy Policy in order to demonstrate Soompi.com’s firm commitment to your privacy and privacy-related concerns. The following sets forth Soompi.com’s information gathering, use and dissemination practices.
 
