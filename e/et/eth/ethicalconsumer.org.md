@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616050958id_/http%3A//www.ethicalconsumer.org/websiteinformation/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125150634id_/http%3A//www.ethicalconsumer.org/websiteinformation/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Ethical Consumer
 
@@ -14,7 +14,7 @@ You signify your consent to our collecting and using your personal information i
 
 If you are simply browsing the site then we do not request any personally identifying information from you.
 
-However, we do collect a limited amount of non-personally identifying information which your internet browser makes available whenever you visit a website. 
+However, we do collect a limited amount of non-personally identifying information which your internet browser makes available whenever you visit a website.
 
 www.ethicalconsumer.org does record IP addresses, your browser type and language, the date, time and nature of your query and produces server logs – as all Web Servers do.
 
@@ -36,7 +36,7 @@ Google may also transfer this information to third parties where required to do 
 ### Site Cookies
 
   
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. 
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  
 
@@ -51,21 +51,19 @@ Your credit or debit card details will be obtained when you enter your card deta
 
 This allows your order to be processed and fulfilled and permits us to track your order status. We also ask for your telephone number, which enables us to contact you if there is a problem with your order.
 
-### 
-
 ### Registered Users  
  
 
-We require customers personal information, including name, address and and e-mail address in order for us to supply website services. Some of the information requested is voluntary; compulsory fields are clearly marked on the registration form.
+We require customers personal information, including name, address and and e-mail address in order for us to supply website services and monthly email newsletter. Some of the information requested is voluntary; compulsory fields are clearly marked on the registration form.
 
 ### Using Your Data  
  
 
 We never rent, sell or share your personally identifying information with other companies or individuals.
 
-Using the email addresses provided at registration, we will provide an regular email newsletter. You have the option to opt out of receiving further email newsletters. 
+Using the email addresses you provided at registration or subscription, we reserve the right periodically send emails about developments or changes to our services or the administration of your account.
 
-We may also periodically send emails about developments or changes to our services or the administration of your account.
+We also  provide a regular email newsletter. Subscribers have the option to opt out of receiving further email newsletters, but Registered Users accept them as part of their free service and cannot opt out. 
 
 ### Publishing Emails and Letters  
  
