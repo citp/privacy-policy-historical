@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the activeactivities.com.au privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616051512id_/http%3A//www.activeactivities.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeactivities.com.au privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125023026id_/http%3A//www.activeactivities.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kids Activities - Sports, Games and Activities for Kids | ActiveActivities
 
 ## Commitment to Privacy
 
-ActiveActivities.com.au takes privacy seriously and recognises the importance of privacy protection. The type of information we collect will depend on how you use the website. Our policy for dealing with any personal information that you might share with us while visiting this website is explained below: 
+ActiveActivities.com.au takes privacy seriously and recognises the importance of privacy protection. The type of information we collect will depend on how you use the website.
+
+Our policy for dealing with any personal information that you might share with us while visiting this website is explained below:
 
 ### What information do we collect & store?
 
@@ -38,7 +40,7 @@ The circumstances under which we **disclose** information about you:
 
 
 
-You can refuse to accept cookies by turning them off in your browser, but certain functionality within the site may be limited. 
+You can refuse to accept cookies by turning them off in your browser, but certain functionality within the site may be limited.
 
 ### Links to other websites
 
@@ -59,4 +61,8 @@ You can refuse to accept cookies by turning them off in your browser, but certai
 
 
 
-While ActiveActivities.com.au takes these actions to protect your privacy, given the nature of the Internet we cannot be held responsible for events arising from unauthorised access to personal information. Please help us by notifying us should there be any unauthorised use or access to your account. **The ActiveActivities Team**
+While ActiveActivities.com.au takes these actions to protect your privacy, given the nature of the Internet we cannot be held responsible for events arising from unauthorised access to personal information.
+
+Please help us by notifying us should there be any unauthorised use or access to your account.
+
+**The ActiveActivities Team**
