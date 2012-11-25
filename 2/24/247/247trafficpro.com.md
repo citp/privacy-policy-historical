@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247trafficpro.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603072718id_/http%3A//www.247trafficpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247trafficpro.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126001459id_/http%3A//www.247trafficpro.com/privacy.php) for the most accurate reproduction.*
 
 # 247TrafficPro
 
