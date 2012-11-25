@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033435id_/http%3A//www.nyandcompany.com/nyco/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125115636id_/http%3A//www.nyandcompany.com/nyco/company/privacy.jsp) for the most accurate reproduction.*
 
 # New York & Company
 
