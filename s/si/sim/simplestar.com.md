@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605100537id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125074609id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
 
 # Roxio - Privacy Statement
 
