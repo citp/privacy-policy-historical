@@ -1,33 +1,68 @@
-> *The following text is extracted and transformed from the pageglimpse.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229003140id_/http%3A//www.pageglimpse.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageglimpse.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125105920id_/http%3A//www.pageglimpse.com/privacy) for the most accurate reproduction.*
 
-# PageGlimpse.com - Privacy Policy
+# Privacy Policy
 
-RADSense Software takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+##  1\. What information do we collect? 
 
-### Information Collection and Use
+**1.1** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When you register for services provided by RADSense Software we collect personal information, aggregate information on what pages users access or visit and information volunteered by the users (such as surveys information). RADSense Software does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances 
+**1.2** When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [ Terms of Service](https://web.archive.org/web/20101229003140id_/http%3A//www.pageglimpse.com/info/terms), or as otherwise required by law.
+**1.3** Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-We transfer information about you if RADSense Software or PageGlimpse is acquired by or merged with another company. In this event, RADSense Software will notify you before information about you is transferred and becomes subject to a different privacy policy.
+##  2\. What do we use your information for? 
 
-RADSense Software uses collected information for the following general purposes: to contact you, improve products and services, billing, identification and authentication, research. 
+**2.1** Any of the information we collect from you may be used in one of the following ways:
 
-### Cookies
+  * To personalize your experience (your information helps us to better respond to your individual needs) 
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) 
+  * To send periodic emails
 
-RADSense Software may set and access RADSense Software cookies on your computer
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
-Cookies are required to use the services provided by RADSense Software.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We might use cookies to record current session information, but do not use permanent cookies.
+##  3\. Do we use cookies? 
 
-### Changes
+**3.1** Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-RADSense Software may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. 
+**3.2** We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-### Questions
+##  4\. Do we disclose any information to outside parties? 
 
-Any questions about this Privacy Policy should be addressed to [support@pageglimpse.com](mailto:support@pageglimpse.com) or by mail at: RADSense Software Inc., 3319 Covered Bridge Dr E, Dunedin, FL USA 
+**4.1** We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+##  4\. Third party links.
+
+**5.1** Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+##  4\. California Online Privacy Protection Act Compliance
+
+**6.1** Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+##  7\. Childrens Online Privacy Protection Act Compliance
+
+**7.1** We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+##  8\. Online Privacy Policy Only
+
+**8.1** This online privacy policy applies only to information collected through our website and not to information collected offline
+
+##  9\. Your Consent
+
+**9.1** By using our site, you consent to our privacy policy.
+
+##  10\. Changes to our Privacy Policy
+
+**10.1** If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 8/07/2011
+
+##  11\. Contacting Us
+
+**11.1** If there are any questions regarding this privacy policy you may [**contact us**](https://web.archive.org/Contact).
+
+**Site Disclaimer:**
+
+All trademarks are the property of their respective owners. The facts, figures, reviews, records, stats, and other data presented on this page is for suggestion and information purposes only. PageGlimpse.com is not responsible for any incorrect or incomplete information. PageGlimpse.com does not take responsibility for any user-reviews of websites inside its resource and reserves the right to keep or remove those. It is highly recommended that you review all the data for accuracy.
