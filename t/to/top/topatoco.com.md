@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topatoco.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609220850id_/http%3A//www.topatoco.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DTO) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topatoco.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125015020id_/http%3A//www.topatoco.com/merchant.mvc%3FScreen%3DPRIVACY%26Store_Code%3DTO) for the most accurate reproduction.*
 
 # TopatoCo: Privacy Policy
 
