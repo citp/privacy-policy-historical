@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 101waystomakemoney.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620035647id_/http%3A//www.101waystomakemoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101waystomakemoney.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125090309id_/http%3A//www.101waystomakemoney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | 101 Ways To Make Money
 
 Protecting your privacy is important to us. We hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site.
 
@@ -43,4 +43,4 @@ If your personally identifiable information changes, or if you no longer desire 
 Change in customer internet privacy statement  
 From time to time we may revise its Privacy Policy if we make material changes to this policy, we will notify you here, either by email, or by means of a notice on our home page. Please check back periodically for any updates.
 
-Rating: 0.0/ **10** (0 votes cast)
+Rating: 10.0/ **10** (2 votes cast)
