@@ -1,288 +1,488 @@
-<!--The following is the downloaded HTML source of the projectpayday.com privacy policy that was archived on 2009-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223074334id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the projectpayday.com privacy policy that was archived on 2012-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126000540id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-
-<title>Project Payday Privacy Policy</title>
-
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
+
+<title>Project Payday - Realistic Extra Income for the Average Joe</title>
 
 <link rel="shortcut icon" href="favicon.ico">
 
 <style type="text/css">
 <!--
 
-body,td {
+a:link, a:visited, a:hover, a:active {
+	color: #014e0a;
+}
+
+body,td,p {
 	font-family: Verdana, Arial, Helvetica;
 	font-size: 14px;
 	color: #000000;
 }
 
 font.header,td.header {
-
 	font-family: Verdana, Arial, Helvetica;
-	font-size: 16px;
-	font-weight: bold;
-	color: #000000;
+	font-size: 22px;
+	font-weight: bolder;
+	color: #26701b;
+}
 
+font.join,td.join {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #0000ff;
+}
+
+font.small,td.small {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 12px;
+	color: #000000;
 }
 
 font.fine,td.fine {
-
 	font-family: Verdana, Arial, Helvetica;
 	font-size: 10px;
 	color: #000000;
-
 }
 
 -->
 </style>
 
+<script language="javascript" type="text/javascript">
+<!--
+
+function checkForm() {
+    var why = "";
+
+    var form_val = document.getElementById('userid').value;
+    if (form_val.length < 5){
+        why += "You entered an invalid email address or User Id.\n";
+    }
+
+    form_val = document.getElementById('password').value;
+    if ((form_val.length < 4)||(form_val.length > 20)){
+        why += "Your password must be 4-20 characters.\n";
+    }
+
+    if (why != "") {
+       alert("Oops! Please fix the errors listed below:\n\n" + why);
+       return false;
+    }
+
+   leaving=false;
+    return true;
+}
+
+function exitpop () {
+	if (leaving == true) {
+		//window.location = 'http://www.projectpayday.com/r/pwp?p1test';
+	}
+}
+
+function showPop(strFile){
+  var newWin = window.open(strFile, "newWin", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=600,xscreen=0,yscreen=0,top=0,left=0");
+}
+
+function showPop2(strFile){
+  var newWin = window.open(strFile, "newWin", "toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=640,height=450,xscreen=0,yscreen=0,top=0,left=0");
+}
+
+function showPop3(strFile){
+  var newWin = window.open(strFile, "newWin", "toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=850,height=600,xscreen=0,yscreen=0,top=0,left=0");
+}
+
+
+  function checkForm2() {
+    var why = "";
+
+    why += checkFirst(info.firstname.value);
+    why += checkLast(info.lastname.value);
+    why += checkEmail(info.email.value);
+    why += checkEmail2(info.email.value,info.email2.value);
+    why += checkPassword(info.password.value);
+    why += checkPassword2(info.password.value,info.password2.value);
+
+    if (why != "") {
+      alert("Oops! Please fix the errors listed below:\n\n" + why);
+      return false;
+    }
+
+    return true;
+}
+
+function checkFirst (strng) {
+    var error = "";
+    if (strng == "") { error = "You forgot to enter your First name.\n"; }
+    return error;
+}
+
+function checkLast (strng) {
+    var error = "";
+    if (strng == "") { error = "You forgot to enter your Last name.\n"; }
+    return error;
+}
+
+function checkEmail (strng) {
+    var error="";
+//  var emailFilter=/^.+@.+..{2,4}$/;
+    var emailFilter = /^(?:[a-zA-Z0-9!#$%&'*+-/=?^_`{|}~])+(?:.([a-zA-Z0-9!#$%&'*+-/=?^_`{|}~])+)*@(?:(?:(?:[a-zA-Z0-9]{1,63})|(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]){0,61}[a-zA-Z0-9])).)+(?:com|net|org|edu|aero|asia|biz|cat|coop|gov|info|int|jobs|mil|mobi|museum|name|pro|tel|travel|ac|ad|ae|af|ag|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az|ba|bb|bd|be|bf|bg|bh|bi|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cs|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|im|in|io|iq|ir|is|it|je|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|me|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz|na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz|om|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|ps|pt|pw|py|qa|re|ro|rs|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zr|zw)$/i;
+    if (!(emailFilter.test(strng))) {
+        error = "You did not enter a valid Email address.\n";
+    }
+    return error;
+}
+
+function checkEmail2 (strng,strng2) {
+     var error = "";
+
+     if (strng != strng2) {
+         error = "You entered 2 different Email addresses.\n";
+     }
+
+     return error;
+}
+
+function checkPassword (strng) {
+    var error = "";
+
+    if ((strng.length < 4) || (strng.length > 20)) {
+        error = "Your Password must be 4-20 characters.\n";
+    }
+
+     return error;
+}
+
+function checkPassword2 (strng,strng2) {
+     var error = "";
+
+     if (strng != strng2) {
+         error = "You entered 2 different Passwords.\n";
+     }
+
+     return error;
+}
+
+
+// -->
+
+</script>
+
+
+
 </head>
 
-<body bgcolor="#ffffff" background="/images/bg.gif" link="#014e0a" vlink="#014e0a" alink="#014e0a"><center>
+<body bgcolor="#ffffff"><center>
+  <table border="0" style="bordercolor:#000000" bgcolor="#ffffff" width="800" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td>
+        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td>
+              <div style="background-image: url(/images/header_wide.png);
+                          width: 100%;
+                          height: 159px;
+                          background-repeat: no-repeat;
+                          background-position: center center;"><!-- id=header -->
+                <div style="margin-top:20px;
+                              width: 370px;
+                              float: right;
+                              color: #fff;"><!-- class=headerLogin -->
+                  <div style="width:100%;
+                                float: right;
+                                height: 24px;
+                                font-size: 11px;
+                                vertical-align: middle;"><!-- id=loginControl -->
+                                        <form action="/cgi-bin/login.cgi" method="POST" onsubmit="return checkForm();">
+                      <div style="text-align: left;
+                                  padding-bottom: 4px;
+                                  padding-left: 15px;
+                                  width: 100%;
+                                  padding-right: 4px;
+                                  padding-top: 4px;"><!-- class=loginHeader -->
+                          Already a member? Login below.
+                        <a href="/forgot.cgi" style="color: #ffc700;" onclick="leaving=false">Forgot your password?</a>
+                      </div>
+                      <div style="text-align: right;
+                                  padding-bottom: 4px;
+                                  padding-left: 4px;
+                                  padding-right: 4px;
+                                  float: left;
+                                  vertical-align: middle;
+                                  font-weight: bold;
+                                  padding-top: 4px;"><!-- class=loginText -->
+                        Login
+                      </div>
+                      <div style="text-align: left;
+                                  margin-top: 2px;
+                                  width: 110px;
+                                  float: left;
+                                  vertical-align: middle;"><!-- class=loginTextbox -->
+                        <input type="text" name="userid" maxlength="255" id="userid" value="" style="border-bottom:#bbb 1px solid;
+                                      border-left:#bbb 1px solid;
+                                      border-top:#bbb 1px solid;
+                                      border-right:#bbb 1px soild;
+                                      padding-bottom:2px !important;
+                                      padding-left: 2px !important;
+                                      width:105px;
+                                      padding-right: 2px !important;
+                                      font-size:11px;
+                                      padding-top: 2px !important;">
+                      </div>
+                      <div style="text-align: right;
+                                  padding-bottom: 4px;
+                                  padding-left: 4px;
+                                  padding-right: 4px;
+                                  float: left;
+                                  vertical-align: middle;
+                                  font-weight:bold;
+                                  padding-top: 4px;"><!-- class=passwordText -->
+                        Password
+                      </div>
+                      <div style="text-align: left;
+                                  margin-top: 2px;
+                                  width: 110px;
+                                  float: left;
+                                  vertical-align: middle;"><!-- class=passwordTextbox -->
+                        <input type="password" name="password" maxlength="20" id="password" value="" style="border-bottom:#bbb 1px solid;
+                                      border-left:#bbb 1px solid;
+                                      border-top:#bbb 1px solid;
+                                      border-right:#bbb 1px soild;
+                                      padding-bottom:2px !important;
+                                      padding-left: 2px !important;
+                                      width:105px;
+                                      padding-right: 2px !important;
+                                      font-size:11px;
+                                      padding-top: 2px !important;">
+                      </div>
+                      <input type="submit" name="login" value="" style="background-image: url(/images/ok.png);
+                                border-bottom: medium none;
+                                text-align: left;
+                                border-left: medium none;
+                                padding-bottom: 5px;
+                                background-color: transparent;
+                                padding-left:5px;
+                                width:34px;
+                                padding-right:5px;
+                                background-repeat:no-repeat;
+                                float:right;
+                                height:34px;
+                                vertical-align:middle;
+                                border-top:medium none;
+                                border-right:medium none;
+                                padding-top: 5px;"><!-- class=loginButton -->
+                    </form>
 
-<table border="1" bordercolor="#000000" bgcolor="#ffffff" width="600" cellpadding="0" cellspacing="0"><tbody><tr><td>
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr><td><img src="/images/header.jpg" height="159" width="600"></td></tr>
-</tbody></table>
+                    <div style="text-align: left;
+                                  text-indent: 5px;
+                                  width: 100%;
+                                  height: 30px;
+                                  color: red;
+                                  clear: both;
+                                  font-weight:bold;"><!-- divErrorMessage -->
+                        <span style="text-align: left;
+                                     color: red;
+                                     font-size:18px;
+                                     font-weight: bold;"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </td>
+          </tr>
+        </tbody></table>
 
 <table border="0" width="100%" cellpadding="10" cellspacing="0">
-
 <tbody><tr><td align="right"><a href="javascript: history.go(-1)">Return to the Previous Page</a> • <a href="/index.cgi">Home</a></td></tr>
-
 <tr><td>
-
 	<font color="#26701b"><b>Project Payday Privacy Policy</b></font><br><br>
-
 	We take your privacy very seriously, and we've created this Privacy Policy in order
 	to demonstrate our firm commitment to online privacy.<br><br>
-	
-	This page outlines our information gathering and dissemination practices, and our 
+	This page outlines our information gathering and dissemination practices, and our
 	use of personally identifiable information.<br><br><br>
-
 	<b><u>What information does Project Payday collect from visitors?</u></b><br><br>
-
-	Project Payday collects information from our visitors and users of our website and uses the 
-	information internally for marketing and administration purposes, in the fulfillment of our 
+	Project Payday collects information from our visitors and users of our website and uses the
+	information internally for marketing and administration purposes, in the fulfillment of our
 	service commitment to you, or as required under the law.<br><br>
-
-	As a user of this website, Project Payday may collect your personally 
+	As a user of this website, Project Payday may collect your personally
 	identifiable information when you visit our site and create a Project Payday account.<br><br>
-
-	The personally identifiable information that we collect is limited to just your name  
-	and email address, and optionally your mailing address.<br><br>
-
-	Project Payday is the sole owner of the information collected on this site. We 
-	do not sell, share, or rent this information to others in any way.<br><br><br>
-
-
+	The personally identifiable information that we collect is limited to just your name and email
+	address. Members will also supply a phone number and mailing address.<br><br>
+	Project Payday is the sole owner of the information collected on this site.<br><br><br>
 	<b><u>Why is information collected?</u></b><br><br>
-
 	Information may be collected in an effort to enhance your user
-	experience, provide you with information regarding Project Payday services and special 
+	experience, provide you with information regarding Project Payday services and special
 	offers, and/or to provide you with the products and/or services you request.<br><br>
-
 	We, or our authorized third-party affiliates, may also collect general
 	information about purchases as they correspond to our advertisements
 	or products. This aggregate information may include demographic and
 	usage information, but will not include personally identifiable
 	information.<br><br>
-	
 	This information is used in an aggregated manner (i.e.
 	How many customers purchased product "X") to determine advertising
 	effectiveness and is sometimes shared with our advertising partners
 	for the same limited purpose.<br><br>
-
 	In addition, information is collected for the following purposes:<br><br>
-
 	<ul>
-
 	<li>Upon creating an account you must provide your name and email.</li><br><br>
-
-	<li>Certain actions may cause you to be eligible for a cash rebate. We issue 
-	rebates via PayPal or a check in the mail. If you request your rebate via 
+	<li>Certain actions may cause you to be eligible for a cash rebate. We issue
+	rebates via PayPal or a check in the mail. If you request your rebate via
 	check, you will need to provide us with your mailing address.</li><br><br>
-
-	<li>When ordering products or services your information will be collected for purposes of 
+	<li>When ordering products or services your information will be collected for purposes of
 	payment, product delivery and/or customer service.</li><br><br>
-
 	<li>By registering at our web site and creating a Project Payday account, you'll
 	be added to our internal mailing list. As a registered user, we may contact
 	you about customer service related issues, functionality changes to the web site,
-	account updates, new services, and special offers.</li><br>
-
+	account updates, new services, and special offers.</li><br><br>
+	<li>Members may called about additional products and services related to their membership.</li><br>
 	</ul><br>
-
 	<b><u>How does Project Payday protect my information?</u></b><br><br>
-
-	We have implemented a variety of security measures to maintain the safety of 
-	your personally identifiable information. Users' personal information is contained behind 
+	We have implemented a variety of security measures to maintain the safety of
+	your personally identifiable information. Users' personal information is contained behind
 	secured networks and is only accessible by certain key employees.<br><br>
-
-	We do not collect credit card or other financial information.<br><br>
-	
-	Should it be necessary to transmit your personally identifiable 
+	Should it be necessary to transmit your personally identifiable
 	information to a reputable third party vendor to fulfill our service commitment to
-	you, Project Payday will require all recipients of such 
-	information to maintain the information as confidential information, use the information 
+	you, Project Payday will require all recipients of such
+	information to maintain the information as confidential information, use the information
 	for the limited and intended purpose and agree not to disclose such information.<br><br><br>
-
 	<b><u>Will Project Payday disclose the information it collects to others?</u></b><br><br>
-
-	Project Payday does not rent, sell or share any of the information collected
+	Project Payday does not rent or sell any of the information collected
 	by this website with other people or any other companies, except to
 	provide the products or services you've purchased or requested, when we have your
 	permission, or under the following circumstances:<br><br>
-
 	<ul>
 	<li>We respond to subpoenas, court orders, or legal process, or to
 	establish or exercise our legal rights or defend against legal claims;<br><br></li>
-
 	<li>We believe it is necessary to share information in order to investigate,
 	prevent, or take action in conjunction with illegal activities, suspected
 	fraud, situations involving threats to the physical safety of
 	any person, violations of Project Payday's Terms of Use, or as otherwise
 	required by law;<br><br></li>
-
 	<li>We are required by law to provide the IRS with Tax ID numbers and/or
 	other personally identifiable information about Affiliates who promote
-	Project Payday and earn over $600 in commissions in a calender year.<br></li>
-
-	</ul><br>
-
-
+	Project Payday and earn over $600 in commissions in a calendar year.<br><br></li>
+	<li>To confirm your membership and/or offer additional products and services by phone via a third party.</li>
+	</ul>
+	In addition, you agree that registering at our web site constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR section 310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, Project Payday and affiliated entities retain the right to contact you via telemarketing in accordance with the terms of the ATSR.<br><br>
 	<b><u>Does Project Payday use "cookies" or pixel "tags"?</u></b><br><br>
-
-	Cookies are bits of electronic information that a website can transfer to a visitor's hard drive 
-	to help tailor and keep records of his or her visit to the site. Cookies allow website operators 
+	Cookies are bits of electronic information that a website can transfer to a visitor's hard drive
+	to help tailor and keep records of his or her visit to the site. Cookies allow website operators
 	to better customize a site to your individual preferences.<br><br>
-
-	The use of cookies is standard on the Internet and most major websites use them. We 
-	may use cookies to help provide you with a better experience on our site; however, we do not store 
+	The use of cookies is standard on the Internet and most major websites use them. We
+	may use cookies to help provide you with a better experience on our site; however, we do not store
 	personally identifying information in cookies.<br><br>
-
 	Like many Web sites, Project Payday may also use pixel tags, also known as
 	beacons, spotlight tags or web bugs, to improve our understanding of
 	site traffic, visitor behavior, and response to promotional campaigns,
 	as a supplement to our server logs and other methods of traffic and
 	response measurement.<br><br>
-	
 	We may also implement pixel tags provided by
 	other companies, and limit the collection of information for the same
 	purpose. We do not store personally identifying information in pixel
 	tags.<br><br><br>
-
-
 	<b><u>Can I access or modify the Personal Identifying Information collected?</u></b><br><br>
-
-	You can view and/or modify the information provided to us at any time by logging in to your 
-	account, and clicking the "Account Info" link. You may also submit your request to modify 
+	You can view and/or modify the information provided to us at any time by logging in to your
+	account, and clicking the "Account Info" link. You may also submit your request to modify
 	your account information via any of the methods below.<br><br><br>
-
-
 	<b><u>What if I want to Opt-Out of email communications from Project Payday?</u></b><br><br>
-
-	Project Payday provides every user with the opportunity to opt-out of receiving future 
-	promotional communications from us. You may do so in the following ways. Please 
-	note however that even if you opt-out, you may still receive important announcements or 
+	Project Payday provides every user with the opportunity to opt-out of receiving future
+	promotional communications from us. You may do so in the following ways. Please
+	note however that even if you opt-out, you may still receive important announcements or
 	updates regarding your Project Payday account.<br><br>
-
 	1. Email: <a href="mailto:support@projectpayday.com">support@projectpayday.com</a><br>
-	2. Website: <a href="/cancel.cgi">http://www.projectpayday.com/cancel.cgi</a><br>
+	2. Website: <a href="/unsub.cgi">http://www.projectpayday.com/unsub.cgi</a><br>
 	3. Postal Mail: 1675 Larimer St, Suite 640, Denver CO 80202<br><br><br>
-
-
+	<b><u>Project Payday Research</u></b><br><br>
+    By registering at Project Payday, you automatically become a member of our survey panel research program, ProjectPaydayResearch.com.  As such, you will receive the opportunity to participate in paid research studies. You can manage your ProjectPaydayResearch.com account by logging in <a href="http://www.projectpaydayresearch.com" target="_blank">here</a>.<br><br><br>
 	<b><u>What happens if there is a transfer of Project Payday's business?</u></b><br><br>
-
-	As we continue to develop our business, we may acquire or divest various business 
-	assets, or be acquired ourselves. In such transactions, customer 
+	As we continue to develop our business, we may acquire or divest various business
+	assets, or be acquired ourselves. In such transactions, customer
 	information generally is one of the transferred assets.<br><br>
-
-	In the event of such a transaction you will be notified prior to your personally identifiable 
-	information being subject to a new Privacy Policy, and given the opportunity to opt-out 
+	In the event of such a transaction you will be notified prior to your personally identifiable
+	information being subject to a new Privacy Policy, and given the opportunity to opt-out
 	should you desire to do so.<br><br><br>
-
-
 	<b><u>Can children or minors use Project Payday?</u></b><br><br>
-
 	Project Payday does not knowingly collect or solicit any information from
 	or about anyone under the age of 18. If we discover we have received
 	such information in violation of this policy, we will delete that information
 	immediately.<br><br>
-	
 	If you believe Project Payday has any information from or about
-	anyone under the age of 18, please contact us. If you are under 18, you may use
-	Project Payday only under the supervision of a parent or guardian.<br><br><br>
-
-
+	anyone under the age of 18, please contact us. If you are under 18, you may not use
+	Project Payday.<br><br><br>
 	<b><u>Links to Other Sites</u></b><br><br>
-
-	This website may contain links to other sites. Please be aware that Project Payday is not 
-	responsible for the privacy practices of such other sites. We encourage our users to be 
-	aware when they leave our site and to read the privacy statements of each and every website 
+	This website may contain links to other sites. Please be aware that Project Payday is not
+	responsible for the privacy practices of such other sites. We encourage our users to be
+	aware when they leave our site and to read the privacy statements of each and every website
 	that collects personally identifiable information.<br><br><br>
-
-
 	<b><u>Your consent</u></b><br><br>
-
-	By using this website, you consent to the collection and use of the information you provide 
-	per this Privacy Policy. We also reserve the right to change our Privacy Policy. If this 
-	policy is changed, we will post these changes on this page so 
+	By using this website, you consent to the collection and use of the information you provide
+	per this Privacy Policy. We also reserve the right to change our Privacy Policy. If this
+	policy is changed, we will post these changes on this page so
 	you are always aware of the information we collect and how we use it.<br><br><br>
-
-
 	<b><u>Contacting Project Payday</u></b><br><br>
-
-	If you have any questions about this Privacy Policy statement, the privacy-related 
-	practices of this website, or your dealings with this website, please contact us 
+	If you have any questions about this Privacy Policy statement, the privacy-related
+	practices of this website, or your dealings with this website, please contact us
 	via one of the methods above for immediate assistance.<br><br><br>
-
-	This Privacy Policy was last updated November 14th, 2008.<br><br>
-
+	This Privacy Policy was last updated March 3rd, 2010.<br><br>
 </td></tr></tbody></table>
+</td></tr></tbody></table><br><br>      
+    
+  <br><br>
 
-</td></tr></tbody></table><br><br>
-
-
-<table border="0" width="600" cellpadding="0" cellspacing="0">
-
-	<tbody><tr>
-		
-		<td align="center"><font class="fine">
-		
-		<a href="/login.cgi">Login</a> • 
-		<a href="/affiliates.cgi" onclick="leaving=false">Affiliates</a> •
-		<a href="/guarantee.cgi">$100 Guarantee</a> • 
-		<a href="/disclaimer.cgi">Earnings Disclaimer</a> • 
-		Privacy Policy •	
-		<a href="/terms.cgi">Terms of Use</a> • 
-		<a href="/cancel.cgi">Cancel</a> • 
-		<a href="/contact.cgi">Contact</a>
-		
-		</font></td>
-		
-	</tr>
-	
-	<tr><td><img src="/images/transdot.gif" height="5" width="1"></td></tr>
-	
-	<tr>
-	
-		<td align="center">
-		
-			<font class="fine">©2009 ProjectPayday.com, LLC. All Rights Reserved.</font>
-		
-		</td>
-		
-	</tr>
-	
-</tbody></table>
-
-
-</center>
+  <table border="0" width="700" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td align="center">
+        <font class="fine">
+          <a href="/home.cgi" onclick="leaving=false">Home</a> •
+<a href="/affiliates.cgi" onclick="leaving=false">Affiliates</a> •
+<a href="/guarantee.cgi" onclick="leaving=false">$100 Guarantee</a> •
+<a href="/disclaimer.cgi" onclick="leaving=false">Earnings Disclaimer</a> •
+Privacy Policy •
+<a href="/terms.cgi" onclick="leaving=false">Terms of Use</a> •
+<a href="javascript:showPop2('/works.cgi')" onclick="leaving=false">How It Works</a> •
+<a href="/unsub.cgi" onclick="leaving=false">Unsubscribe</a> •
+<a href="javascript:showPop3('/contact.cgi')" onclick="leaving=false">Contact</a>
+        </font>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/images/transdot.gif" height="5" width="1" alt="">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <font class="fine">Copyright © 2007-2012 ProjectPayday.com, LLC. All Rights Reserved.</font>
+      </td>
+    </tr>
+  </tbody></table>
 
 
 
-</body></html>
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("UA-126257-9");
+      pageTracker._trackPageview();
+    } catch(err) {}
+  </script>
+
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("UA-8397128-2");
+      pageTracker._trackPageview();
+    } catch(err) {}
+  </script>
+
+
+
+</center></body></html>
