@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buy4now.ie privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630034754id_/http%3A//www.buy4now.ie/portal/aspx/DynamicContent.aspx%3Floc%3DFOOTER%26subloc%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buy4now.ie privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125014353id_/http%3A//www.buy4now.ie/portal/aspx/DynamicContent.aspx%3Floc%3DFOOTER%26subloc%3DPRIVACY) for the most accurate reproduction.*
 
-# Online Shopping | Mobile Phones | Furniture | Flowers | Cosmetics | Sportswear | Perfume | Homeware | Electrical Goods | Fashion Online
+# Online Shopping | Mobile Phones | Homeware | Flowers | Cosmetics | Sportswear | Perfume | Fashion Online
 
 ### Privacy and Confidentiality Statement 
 
