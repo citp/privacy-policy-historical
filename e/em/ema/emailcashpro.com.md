@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the emailcashpro.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501033444id_/http%3A//www.emailcashpro.com/privacy.php%3Fsource%3D%26r%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailcashpro.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125202132id_/http%3A//www.emailcashpro.com/privacy.php%3Fsource%3D%26r%3D) for the most accurate reproduction.*
 
 # Get Paid To Read Emails
-
-|   
-**     [Home](http://www.emailcashpro.com/?source=&r=)  
-    [Signup](http://www.emailcashpro.com/signup.php?source=&r=)  
-    [How it works](http://www.emailcashpro.com/howitworks.php?source=&r=)  
-    [Member's Area](http://www.emailcashpro.com/edit.php?source=&r=)  
-    [Terms](http://www.emailcashpro.com/terms.php?source=&r=)  
-    [Privacy policy](http://www.emailcashpro.com/privacy.php?source=&r=)  
-    [Contact us](http://www.emailcashpro.com/contact.php?source=&r=)  
-    [FAQ](http://www.emailcashpro.com/faq.php?source=&r=)  
-**   
-[ ](http://www.emailcashpro.com/tellfriend.php?source=&r=)
-
-|  |  | 
 
 **Privacy policy**
 
@@ -31,6 +17,4 @@ Email Cash Pro takes your privacy seriously. Please read the following to learn 
 5) Cookies are used to track new members registrations. This is to ensure our members are properly credited for referring other members as well as to track earnings for our affiliates. 
 
   
-  
-|   
----|---|---|---|---
+
