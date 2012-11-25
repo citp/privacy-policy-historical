@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609085733id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125055450id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HootSuite Media
 
@@ -35,6 +35,10 @@ HootSuite Media Inc. uses third party vendors and hosting partners to provide th
   1. HootSuite Media Inc. may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
 
 
+
+**Email Preferences**
+
+You can manage your email preferences, such as opt-out or unsubscribe from emails sent by HootSuite Media, Inc., by adjusting your preferences in your account settings. You can also opt-out or unsubscribe from any future email communications from within each email correspondence that we send you.
 
 **Changes**
 
