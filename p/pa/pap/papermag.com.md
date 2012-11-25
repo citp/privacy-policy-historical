@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papermag.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624222423id_/http%3A//www.papermag.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papermag.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125093719id_/http%3A//www.papermag.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PAPERMAG - Privacy Policy
 
