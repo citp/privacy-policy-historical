@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523113522id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125023240id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is important to us. We do not disclose any personal details that you have given us unless you specifically ask us to.
 
-In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback](https://web.archive.org/web/20120523113522id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html#exclusiverights)
+In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback](https://web.archive.org/web/20121125023240id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html#exclusiverights)
 
 www.barcelona-tourist-guide.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
@@ -26,8 +26,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking  
-either of these actions shouldn't cause a problem with our site, should you so choose.
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
 ## Children's Online Privacy Protection Act
 
@@ -43,8 +42,7 @@ If **www.barcelona-tourist-guide.com** is sold, the information we have obtained
 
 ## How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information  
-through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20120523113522id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20121125023240id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know.
 
 ## Exclusive rights to use site visitor submitted material reviews/comments/questions/images etc
 
@@ -64,12 +62,10 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ## Internet Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.networkadvertising.org/).  
-
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 ## Agreeing to These Terms
 
 If you do not agree to **www.barcelona-tourist-guide.com** Privacy Policy as posted here on this website, please do not use this website or any services offered by this web site.
 
-Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here.](https://web.archive.org/web/20120523113522id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html)  
-
+Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here.](https://web.archive.org/web/20121125023240id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html)
