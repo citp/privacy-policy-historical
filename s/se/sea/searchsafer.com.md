@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the searchsafer.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622123900id_/http%3A//www.chatzum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsafer.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125112120id_/http%3A//www.searchsafer.com/privacy.html) for the most accurate reproduction.*
 
-# ChatZum Facebook Social Thumbnail Photo Zoom App
+# Search Safer - Privacy Policy
 
-This Privacy Policy governs the manner in which ChatZum collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.chatzum.com](http://www.chatzum.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ChatZum .
+This Privacy Policy governs the manner in which searchsafer collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.searchsafer.com](http://www.searchsafer.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by searchsafer .
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+searchsafer collects and uses Users personal information for the following purposes:
 
 \- To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
@@ -43,7 +45,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **Changes to this privacy policy**
 
-ChatZum has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+searchsafer has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -52,8 +54,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[ChatZum ](http://www.chatzum.com/)  
-[www.chatzum.net](http://www.chatzum.com/)  
-[email to support](mailto:support@chatzum.com)
+[searchsafer ](http://www.searchsafer.com/)  
+[email to support](mailto:support@searchsafer.com)
 
-This document was last updated on October 25, 2011
+This document was last updated on June 20, 2012
