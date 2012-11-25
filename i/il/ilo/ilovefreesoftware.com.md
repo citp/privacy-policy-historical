@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovefreesoftware.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518083922id_/http%3A//www.ilovefreesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovefreesoftware.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125012537id_/http%3A//www.ilovefreesoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Free Software || Free Software
 
@@ -44,4 +44,4 @@ Trademarks and logos
 
 All the trademarks and logos used on this site belong to their respective owners.
 
-If you have any questions or concerns, please contact us [here](https://web.archive.org/web/20120518083922id_/http%3A//www.ilovefreesoftware.com/contact-us).
+If you have any questions or concerns, please contact us [here](http://www.ilovefreesoftware.com/contact-us).
