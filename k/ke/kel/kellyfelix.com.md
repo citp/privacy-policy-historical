@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellyfelix.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531111806id_/http%3A//kellyfelix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellyfelix.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126002704id_/http%3A//kellyfelix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kelly Felix's Off-The-Cuff Blog
 
