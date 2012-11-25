@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526100520id_/http%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125232847id_/http%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Panlasang Pinoy
 
@@ -9,10 +9,6 @@ Note: the privacy practices set forth in this privacy policy are for this web si
  **Collection of Information**
 
 We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
-
- **Slide Guestbook**
-
-The guestbook uses [Slide ](http://www.slide.com/)application. Any information sent through it goes directly to Slide’s database and panlasangpinoy.com has no control of whatsoever on those information sent. Before signing the guestbook, make sure to read Slide’s [Privacy Policy.](http://www.slide.com/static/privacy)
 
  **Cookie/Tracking Technology**
 
@@ -39,3 +35,5 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: webmaster {at} panlasangpinoy {dot} com
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+[Pin It](http://pinterest.com/pin/create/button/?url=http://panlasangpinoy.com/privacy-policy/&media=&description=Privacy%20Policy)
