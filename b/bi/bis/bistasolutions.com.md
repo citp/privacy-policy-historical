@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bistasolutions.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608030830id_/http%3A//www.bistasolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistasolutions.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125032920id_/http%3A//www.bistasolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Bista Solutions - Privacy Policy erp open erp open source erp software erp for manufacturing industries vtiger crm vtiger customization vtiger implementation sugarcrm customization processmaker implementation open source erp software and support
 
