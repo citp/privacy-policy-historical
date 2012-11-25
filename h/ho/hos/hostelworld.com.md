@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609030347id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelworld.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125085119id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
 
-# Hostels Worldwide - Online Bookings, Ratings and Reviews
+# Hostelworld.com Security & Privacy Policy
 
 _Hostelworld.com has been processing online hostel reservations since 1999 and we have always placed the security of our internet transactions and our customers credit card details as our top priority._
 
