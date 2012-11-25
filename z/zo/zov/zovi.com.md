@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zovi.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604210358id_/http%3A//zovi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zovi.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125114322id_/http%3A//zovi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZOVI - High Quality Apparel and accessories brand exclusively available online. Now selling mens formal shirts and belts. Offers free shipping in India and accepts COD payments
 
