@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the neighborcity.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527123418id_/http%3A//www.neighborcity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighborcity.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125150048id_/http%3A//www.neighborcity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Neighborcity.com
 
 We respect your privacy. Please read below for more detailed information.
 
-American Home Realty Network, LLC and American Home Realty Network, Inc (hereinafter referred to as "American") respects the privacy of the information given us by its web site visitors and registered users and recognizes the importance of protecting this information against unauthorized disclosure. To that end American has adopted the privacy policy ("Policy") described below and will apply it to the information it gathers as detailed below. This Policy is current as you read it but may be amended from time to time to reflect changes and additions to it. Therefore visitors and registered users should check back for the most current version before relying on it for future use.
+American Home Realty Network, Inc., owning and operating Neighborcity.com ("American"), respects the privacy of the information given us by its web site visitors and registered users and recognizes the importance of protecting this information against unauthorized disclosure. To that end American has adopted the privacy policy ("Policy") described below and will apply it to the information it gathers as detailed below. This Policy is current as you read it but may be amended from time to time to reflect changes and additions to it. Therefore visitors and registered users should check back for the most current version before relying on it for future use.
 
 ## The Information Gathered:
 
