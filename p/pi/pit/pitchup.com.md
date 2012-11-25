@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527085805id_/http%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063731id_/http%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Pitchup.com
 
@@ -24,7 +24,7 @@ We may collect and process the following data (“Personal Information”) about
 
 (d) Details of transactions you may carry out through our site and of the completion of your orders.
 
-####  **IP addresses and cookies**
+#### **IP addresses and cookies**
 
 We may collect information about your computer; this is statistical data concerning your browsing actions enabling us to tailor the site to match your interests and preferences, and does not identify you individually. This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers.
 
@@ -66,7 +66,7 @@ We may use the information held about you in the following ways:
 
 (i) Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you. We may also also permit selected third parties to provide information on goods and services that may be of interest to you.  If you do not want your data used in this way or passed onto third parties for marketing purposes please tick the relevant box on the form in which we collect your data. You have the right to revoke such consent by being in touch with Pitchup.com, and Pitchup.com will stop transmitting your information.
 
-####  **Disclosure of your information**
+#### **Disclosure of your information**
 
 We may disclose your personal information to third parties:
 
@@ -84,19 +84,19 @@ We may disclose your personal information to third parties:
 
 (g) If we are under a duty to comply with any legal obligation to disclose or share your personal data, to protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site.  For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations. ** **
 
-####  **Third-party websites**
+#### **Third-party websites**
 
 From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data. We cannot accept any responsibility or liability for these policies.
 
-####  **Access to information**
+#### **Access to information**
 
 In accordance with the Act you can exercise the right to access any information we hold about you. 
 
-####  **Changes to our privacy policy**
+#### **Changes to our privacy policy**
 
 We will where appropriate notify you by email of any changes made to our privacy policy and these changes will also be posted on this page.
 
-####  **Contact**
+#### **Contact**
 
 We welcome any questions, comments and requests regarding this privacy policy and should be emailed to [managers@pitchup.com](mailto:managers@pitchup.com).
 
