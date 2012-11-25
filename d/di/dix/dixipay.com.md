@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dixipay.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602100754id_/http%3A//www.dixipay.com/en/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixipay.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063805id_/http%3A//www.dixipay.com/en/about/privacy.php) for the most accurate reproduction.*
 
 # DIXIPAY Online Payment System, Internet Merchant accounts, Send and receive money online, Online E-Commerce Solutions, DIXIPAY Premium MasterCard.
 
