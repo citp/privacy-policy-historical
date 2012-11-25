@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502080555id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125044137id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy
 
