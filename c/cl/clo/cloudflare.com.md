@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618021219id_/http%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125085953id_/http%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
 
 # Security policy | CloudFlare | The web performance & security company
 
@@ -12,7 +12,7 @@ As part of our service you may decide to provide information specifically to be 
 
 ### INFORMATION COLLECTION
 
-CloudFlare is the sole owner of the information collected on this site and through any CloudFlare service. As visitors browse our web site, or your sites if they are protected by CloudFlare, we sometimes track them in order to provide a better service.
+CloudFlare is the sole owner of the information collected on this site and through any CloudFlare service. As visitors browse our web site, or your sites if they are protected by CloudFlare, we sometimes track them and their interactions in order to provide a better service (e.g., using visitor log data in order to detect new threats).
 
 ### CORRECTIONS TO PERSONAL INFORMATION
 
@@ -22,9 +22,9 @@ This web site makes it easy to correct any mistakes in your personal information
 
 Our site uses "cookies" in order to provide a better service to our users. Cookies are placed by your browser on your computer's hard drive to assign a unique identification for your computer. CloudFlare never stores information we consider personal or private in a cookie. This eliminates the chance of other sites reading our cookies and learning your personal or private information. Instead, we use cookies to help direct you to the appropriate part of our web site. For example, a cookie may indicate that you are a repeat visitor to our site. We will then use that information to present you with more informative pages customized to your preferences. Our goal is to use cookies in order to provide a personally customized and easy-to-use service.
 
-If you do not want CloudFlare or other websites to use cookies, you can disable them within your browser. Some portions of the CloudFlare website are still functional without cookies. If you'd specifically like to delete all cookies CloudFlare has placed on your browser, click here. Be aware that this will reset your session, disable auto-login, and may adversely affect other functions on the CloudFlare website.
+If you do not want CloudFlare or other websites to use cookies, you can disable them within your browser. Some portions of the CloudFlare website are still functional without cookies. You may delete CloudFlare's cookies through your browser's cookie manager. Be aware that this will reset your session, disable auto-login, and may adversely affect other functions on the CloudFlare website.
 
-You may choose to enable CloudFlare to place cookies on the browsers of your visitors to your CloudFlare-protected sites. We do this to in order to track malicious visitors and reduce the chance of blocking legitimate users. If you would like, you can always opt-out of us placing cookies on your visitors' browsers.
+As part of our service, CloudFlare may place cookies on the browsers of your visitors to your CloudFlare-protected sites. We do this to in order to track malicious visitors and reduce the chance of blocking legitimate users.
 
 ### DATA AGGREGATION
 
@@ -32,15 +32,15 @@ CloudFlare may aggregate data we acquire about you and the visitors to your site
 
 ### PROMOTIONAL PARTNERS
 
-From time to time, CloudFlare may notify you about an offer from one of our promotional partners via our website. While we may target particular types of users for these offers, we will do all of the targeting within our system. Our business partners will not have any access to the targeting information, including the names of the people who may be interested in a particular product or service. Until you affirmatively respond to a promotional offer, we will not reveal any identifying information about you to any of these partners.
+From time to time, CloudFlare may notify you about an offer from one of our promotional partners (e.g., Apps Marketplace partners) via our website or email. While we may target particular types of users for these offers, we will do all of the targeting within our system. Our business partners will not have any access to the targeting information, including the names of the people who may be interested in a particular product or service. Until you affirmatively respond to a promotional offer, we will not reveal any identifying information about you to any of these partners. Note that these partners may have their own Privacy Policies and may not be covered by CloudFlare's policy.
 
 ### THIRD PARTY WEBSITES
 
 The CloudFlare website and the other websites contain links to the sites of third parties. Please be aware that we are not responsible for the privacy practices of these external sites. We encourage users to be aware when they leave our website, and to read the privacy statements of other websites. We cannot guarantee that these third parties abide by the privacy principles outlined here.
 
-### COURT ORDERS
+### LAW ENFORCEMENT
 
-It is possible that CloudFlare may be required by court order to provide information contained on our website. CloudFlare may also be required to provide information pursuant to law, applicable regulation, subpoena or other legal process. If we are ever required to provide information under these circumstances, we will, whenever possible, inform all users whose information we are compelled to reveal.
+It is possible that CloudFlare may be required by court order to provide information about our customers. CloudFlare may also be required to provide information pursuant to law, applicable regulation, subpoena or other legal process. If we are ever required to provide information under these circumstances, we will, whenever possible, attempt to inform users whose information we are compelled to reveal.
 
 ### NOTIFICATION OF CHANGES
 
