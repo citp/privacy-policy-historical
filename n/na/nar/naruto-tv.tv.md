@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naruto-tv.tv privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520043629id_/http%3A//naruto-tv.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-tv.tv privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063625id_/http%3A//naruto-tv.tv/privacy) for the most accurate reproduction.*
 
-# Privacy | Watch Naruto Shippuden Episodes Shippuuden Online Subbed and Dubbed
+# Privacy |
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
@@ -20,3 +20,7 @@ Upon request we provide site visitors with access to no information that we have
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us.
+
+Report Error
+
+## Report Error
