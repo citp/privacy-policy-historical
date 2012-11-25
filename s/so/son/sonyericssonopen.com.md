@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sonyericssonopen.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313155952id_/http%3A//www.sonyericssonopen.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyericssonopen.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125062143id_/http%3A//www.sonyopentennis.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Tennis - Sony Ericsson Open - Privacy Policy
+# Tennis - Sony Open Tennis - Privacy Policy
 
 Your privacy on the internet is of the utmost importance to us. Because we gather certain types of information about the users of this site, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy policy discloses the privacy practices for this site (“this site”) - what information we gather, how we use it and how to correct or change it. This privacy policy only addresses our activities from our servers. Other sites (including those to which this site links and third party sites or services with which IMG may have relationships) may have their own privacy policies and practices, which we do not control, and we are not responsible for nor we endorse such practices or policies. 
 
