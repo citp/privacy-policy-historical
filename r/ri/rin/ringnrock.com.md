@@ -1,157 +1,115 @@
-> *The following text is extracted and transformed from the ringnrock.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920131824id_/http%3A//ringnrock.com/help/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringnrock.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125090210id_/http%3A//www.ringnrock.com/company/privacy-policy.html) for the most accurate reproduction.*
 
-# Ringtone downloads | Ringtones for ATT, T-Mobile, Verizon and more | RingNRock.com
+# Ringtones, Wallpapers and Text Alerts for Your Mobile Phone!
 
-#### Last updated December 07, 2009
+_Effective 02/08/2012_
 
-This Privacy Policy for www.RingNRock.com outlines important information regarding the use and disclosure of information collected via this Website (defined below). RingNRock provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website. If you have any questions about the RingNRock Service, please see our full [FAQ](http://www.ringnrock.com/help/index.php?page=faqs), or contact our Customer Care team at [Contact Us](http://www.ringnrock.com/index.php?page=contactus).  If we decide to change our privacy policy, we will post those changes to this privacy statement on the home page and on any other place we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+SendMe, Inc. and its subsidiaries (including Mstyle Media LLC, ThumbplayRingtones LLC and SnakMedia LLC) (collectively " **SendMe** " " **we** " or " **us** ") are committed to protecting your privacy and providing you with an enjoyable experience when using our online properties and mobile applications (the " **Services** "). Our Services include each of the following websites (the " **Sites** "): [www.sendmemobile.com](http://www.sendmemobile.com/), [www.wt411.com](http://www.wt411.com/), [www.solow.com](http://www.solow.com/), [www.low1wins.com](http://www.low1wins.com/), [www.mstyle.net](http://www.mstyle.net/), [classic.thumbplay.com](http://classic.thumbplay.com/), [www.ringaza.com](http://www.ringaza.com/) and [www.ringnrock.com](http://www.ringnrock.com/). This Privacy Policy applies only to information provided to or collected by SendMe on the Services where this Privacy Policy is posted or made available by SendMe.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you as described above.
+SendMe has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's certification covers the information collection and use practices for the Service where this Privacy Policy is posted or through which the policy is made available by SendMe. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@sendme.com](mailto:legal@sendme.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO RINGNROCK OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY. 
+This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Services prior to the material changes taking effect. You are advised to consult this policy regularly for any changes.
 
-This Privacy Policy applies to RingNRock's collection, use, storage and disclosure of information by RingNRock on its websites, (collectively, the "Website"), and to RingNRock's other information collection, including the purchase of customer lists from third parties. RingNRock is not responsible for the information collection or privacy practices of third party web sites or applications. By reference, this Privacy Policy is incorporated into and is subject to the Website [Terms and Conditions](http://www.ringnrock.com/help/index.php?page=terms). Your use of the Website and any personal information you provide via the Website or through other official RingNRock contact remains subject to this Privacy Policy, as well as the Terms and Conditions and/or other stated policies.
+As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
-## Part 1\. Information Collection
+This Privacy Policy includes the following sections:
 
-## 1.0 General Data Collection. 
+  * Information Collection and Use
+  * Cookies and Other Technologies
+  * Information Sharing and Disclosure
+  * Changing or Deleting Your Information & Data Retention
+  * Security
+  * Phishing
+  * Your California Privacy Rights
+  * International Transfer
+  * Links to Third Party Services and Other Websites
+  * Our Policy Toward Children
+  * Contacting Us
 
-## Registration 
 
-In order to use the services on the Website, you must provide your cell phone number. We use this information to contact you about the services on our site in which you have expressed interest.  After you enter your cell phone number and sign up for a service, we will share your cell phone number with necessary third parties such as wireless carriers and third party business partners who verify, for example, your carrier and your ability to incur charges on your cell phone plan. You have the option to provide demographic information (such as income level and gender) to us in the “my library” section of the Website; we encourage you to submit this information so we can provide you a more personalized experience on our site. You can also update your information in “my library” by logging in to your account and updating your information.  
 
-#### 1.1 Survey Information.
+## Information Collection and Use
 
-RingNRock collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a RingNRock survey, order form, or a registration page either online, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a "Survey"). As used herein, "online" means using the Internet, including the Website, and related technologies. In the Surveys, RingNRock or a third party (a "Third Party") may ask an individual to provide various information to RingNRock, which may include his or her name, email address, street address, zip code, telephone number(s) (including cell phone number(s) and carrier(s)), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). RingNRock may also collect information concerning an individual from another source and use that information in combination with information provided from this Website. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to RingNRock or a Third Party, but an individual may receive incentives from RingNRock or a Third Party in exchange for providing Survey Information to RingNRock. 
+  
+Our primary goals in collecting information are to provide and improve our Services, features and content, to administer your use of the Services and to enable users to enjoy and easily navigate our Sites.
 
-#### 1.2 Third Party List Information.
+_Personally Identifiable Information._
 
-RingNRock collects information from individuals when an individual provides information to a Third Party and RingNRock subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, RingNRock seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to RingNRock and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller's list.
+  * In the course of using our Services, we will ask you to provide us with certain personally identifiable information. For example, in connection with your registration with one of our Services or when you choose to make a purchase via our Services. As used herein, " ** _Personal Information_** " means information that can be used to contact or identify you. Personal Information includes, but is not limited to, your name, mobile phone number, email address, billing address, and credit card information.
+  * In some instances you may access and/or register to use our Services through a social networking or other third party website or platform (each a " **Third Party Service** ") (e.g., Facebook). In these instances, when you access the Services via a Third Party Service, we will obtain the Personal Information you have provided to the Third Party Service (such as your "real" name and email address) from the account you have established with the applicable Third Party Service; please note that the information that we obtain may depend on the privacy settings you have with the Third Party Service. You hereby consent to SendMe's access to and collection of such Personal Information about you. We will use the information obtained from your Third Party Service account to create your account with us and to link your account to your Third Party Service account. Other than what we may share with the Third Party Service as described below under the section "Information Sharing and Disclosure", the Personal Information a Third Party Service has about you is obtained by the Third Party Service independent of our Services. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other services you use.
+  * We also collect the other information that you provide as part of registration and the administration and personalization of your use of the Services (e.g., without limitation, gender, birthday, zip code (on its own) and individual preferences) (" ** _Non-Identifying Information_** "). We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Services, complete your transactions, and administer your inquiries.
+  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. _But_ the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other SendMe Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Sites and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+  * We also use your Personal Information to contact you via email with newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See " **Changing or Deleting Information & Data Retention**" below.)
+  * If you are using one of our Services that feature distribution of content to your mobile phone like SendMe Mobile or Thumbplay Tones, by becoming a registered user of any of those Services, you consent to receipt of text messages (e.g., SMS or MMS format) to your phone, including messages regarding the services which you have requested, account status updates, and occasional newsletters.
+  * If you are a registered user of our Thumbplay Tones, RingNRock and Ringaza Services, you will also have the opportunity to opt-in to receive surveys and promotional content by our affiliates. You may opt-out of our text message newsletter by: (i) sending an email to [support@thumbplaytones.com](mailto:support@thumbplaytones.com) in the case of the Thumbplay Tones service, (ii) sending an email to [support@ringnrock.com](mailto:support@ringnrock.com) in the case of the RingNRock service, or (iii) sending an email to [support@ringaza.com](mailto:support@ringaza.com) in the case of the Ringaza service, or (iv) responding to the SMS newsletter indicating that you would like to unsubscribe.
 
-#### 1.3 Other Information.
 
-Other occasions when RingNRock obtains information from individuals include but are not limited to (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by RingNRock or by a Third Party, (2) when an individual requests assistance through RingNRock's customer service department, and/or (3) when an individual voluntarily subscribes to a RingNRock service (together, "Other Information").
 
-#### 1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.
+_Log Data._ When you visit our Services, whether as a registered user or a non-registered user just browsing (any of these, a " ** _SendMe User_** "), our servers automatically record information that your browser sends whenever you visit a website or online service (" _ **Log Data**_ "). This Log Data may include information such as your computer's Internet Protocol (" _ **IP**_ ") address, mobile device type, browser type, browser language, platform type or the webpage you were visiting before you came to our Sites, pages of our Sites that you visit, the time spent on those pages, information you search for on our Services, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services and for the Services' technical administration, to increase our Services' functionality and user-friendliness, and to better tailor our Services to our visitors' needs. For example, some of this information is collected so that when you visit the Services again, the particular Service will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to our Services meet the criteria required to process their requests.
 
-RingNRock currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, RingNRock may use other new and evolving sources of information in the future (together, "Technology Information").
+## Cookies & Other Technologies
 
-(a) Cookies. A cookie is a small amount of data stored on the hard drive of the individual's computer that allows RingNRock to identify the individual with his or her corresponding data that resides in RingNRock's database. You may read more about cookies at [cookiecentral.com](http://cookiecentral.com/) and elsewhere on the Internet. Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website. Our cookies are linked to your personal information during each individual user session. 
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Services. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by SendMe Users and web traffic routing on the Sites. Unlike persistent cookies, session cookies are deleted from your computer when you log off a website and then close your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Services or all their functionality.
 
-(b) Web Beacons. A web beacon is programming code that can be used to display an image on a web page, but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows RingNRock to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, RingNRock might place, with the consent of a Third Party website, a web beacon on the Third Party's website where baseball products are sold. When Joe, an individual listed in RingNRock's database, visits the baseball website, RingNRock receives notice by means of the web beacon that Joe visited the baseball site, and RingNRock would then update Joe's profile with the information that Joe is interested in baseball. RingNRock may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, RingNRock also uses web beacons in email messages sent to individuals listed in RingNRock's database.
+We may also use "pixel tags," "web beacons," "clear GIFs" or similar means (individually or collectively " ** _Web Beacons_** ") in connection with the Services to collect usage, demographic and geographical location data. A Web Beacon is an electronic image, often a single pixel, embedded on web pages. Web Beacons are not ordinarily visible to users. Web Beacons allow us to count users who have visited certain pages of the Sites, to deliver branded services and to help determine the effectiveness of promotional or advertising campaigns.
 
-(c) New Technology. The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is RingNRock's use of new and evolving technology. As a result, RingNRock strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
+## Information Sharing and Disclosure
 
-#### 1.5 Outside Information.
+_Aggregate Information and Non-Identifying Information._ We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
 
-RingNRock may receive and supplement information about individuals from Third Parties or from other sources of information outside of RingNRock including information located in public databases ("Outside Information").
+_Service Providers._ We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Sites-related services (e.g., without limitation, maintenance services, payment processing, database management, web analytics and improvement of the Services' features) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-#### 1.6 Personal Information.
+_Third Party Services._ We may share the information in your account (including your Personal Information) with the Third Party Service that you have linked to your account (e.g., Facebook (as further described below)). These third parties have access to your Personal Information only for this purpose (unless they have received your Personal Information independently of the Services) and are obligated not to disclose or use it for any other purpose.
 
-As used herein, Personal Information means any information that can identify an individual, such as name, phone number, email and address. This may be collected by us through Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information RingNRock gathers or receives about individuals such as usage data, file transfer data and viewing data.
+_Facebook Connect._ Certain of our Services allow users to create an account and login to the Services using their Facebook account credentials through Facebook Connect. Creating an account for the first time through Facebook Connect will prompt users to merge their account and their Facebook account. By using Facebook Connect, you are allowing SendMe to access your Facebook account information and you are agreeing to the Facebook Terms of Use in your use of the Services via Facebook. If you are not currently a registered user of our Services and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join our Services. We allow users to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by logging into their profile and selecting the option to disable Facebook Connect. Further, you can edit your privacy settings for the reviews that appear on Facebook or disconnect this service by adjusting the privacy settings through your profile page.
 
-#### 1.7 No Information Collected from Children.
+_Compliance with Laws and Law Enforcement._ SendMe cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of SendMe or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
 
-RingNRock will never knowingly collect any personal information about children under the age of thirteen (13). If RingNRock obtains actual knowledge that it has collected personal information about a child under the age of thirteen (13), that information will be maintained solely for regulatory compliance purposes. RingNRock has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
+_Business Transfers._ SendMe may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-#### 1.8 Log File Information.
+## Changing or Deleting Your Information & Data Retention
 
-When users log in to access their account, our servers may automatically record and archive certain information that web-browsers send whenever visiting a Website. These server logs may include information vital to validating the user's authorization to access the account. Information, such as a web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a user's entry and activity on the Website.
+Except for registered users of the RingNRock service, all registered users of our Services may review, update or correct the Personal Information in their account by updating this information in their "user preferences" associated with their account. For example, registered users of the SendMe Mobile Service may do so via the " ** _My Mobile_** " feature of that Service, registered users of the Thumbplay Tones Service may do so via the " ** _Your Account & Settings_**" feature of that Service and registered users of the Ringaza Service may do so via the " ** _My Locker_** " feature of that Service. Registered users of the RingNRock Service are not able to review, update or correct the Personal Information in their accounts.
 
-## Part 2\. Personal Information Usage
+If you would like us to delete your Personal Information part of your account in our system, please contact us at [help@sendme.com](mailto:help@sendme.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. Deletion of your information will result in termination of your account. We will retain an archived copy of your records to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-#### 2.1 Discretion to Use Information.
+## Security
 
-RINGNROCK MAY USE YOUR INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION. The following paragraphs in Section 2 describe how RingNRock currently uses Personal Information, but RingNRock may change or broaden its use at any time. As noted, RingNRock may update this policy from time to time.  RingNRock on its own behalf or by using one of its service providers may use Personal Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, and package stuffers, among other possible uses. If we perform any of these functions, we will give you the option to opt out of receiving this information. 
+We employ reasonable physical, technological, and administrative security measures and attempt to ensure they are applicable under the circumstances. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-#### 2.2 Solicited Email and SMS Messages.
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on these Sites in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-RingNRock only sends SMS messages and customer service emails to individuals who have agreed on the Website to receive SMS messages and email from RingNRock during service initiation and activation and as a part of the Services. RingNRock does not send unsolicited SMS or email messages.  As a result, statutes requiring certain formatting for unsolicited email are not applicable to RingNRock's email messages.
+## Phishing
 
-#### 2.3 Targeted Advertising.
+Identity theft and the practice currently known as "phishing" are of great concern to SendMe. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
 
-RingNRock on its own behalf or by using one of its service providers may use Personal Information to target advertising to an individual.  When an individual is using the Internet, RingNRock uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Personal Information, and RingNRock attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. RingNRock may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.  You can opt out of receiving this advertising by emailing us at the email below. 
+## Your California Privacy Rights
 
-#### 2.4 Mobile Phone SMS Messaging.
+California Civil Code Section 1798.83 permits users of the Services who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident and have provided SendMe with Personal Information within the last year, you may make such a request by emailing us at the following email address with the email's subject titled as "California Privacy Rights": [legal@sendme.com](mailto:legal@sendme.com).
 
-In certain cases, when requested by an individual, RingNRock or a Third Party may use Personal Information to provide customized content and advertising via SMS messaging to an individual's cell phone. RingNRock is not responsible for the privacy practices or the content of such Third Parties.
+Within 30 days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for such third parties' direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. A request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the email address above.
 
-#### 2.5 Use of Technology Information.
+## International Transfer
 
-RingNRock uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Personal Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, and (3) to determine which areas of RingNRock's websites are most frequently visited. This information helps RingNRock to better understand the online habits of individuals so that RingNRock can target advertising and promotions to them. 
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, SendMe transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-#### 2.6 Profiles of Individuals.
+## Links to Third Party Services and Other Websites
 
-RingNRock supplements Personal Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Personal Information such as information obtained from public databases.
+Our Services may contain links to other websites, services or applications, e.g.:
 
-#### 2.7 Storage of Personal Information.
+  * Your account with us will be linked to the applicable Third Party Service.
+  * Certain of our Services are accessible via Third Party Services.
+  * There may be advertisements served to you within the Services.
+  * You may be brought to the website of our third party payment processors. 
 
-RingNRock stores the Personal Information in a database on RingNRock computers. Our computers have security measures (such as a firewall and access control list) in place to protect against the loss, misuse, and alteration of the information under RingNRock's control. Notwithstanding such measures, RingNRock cannot guarantee that its security measures will prevent RingNRock computers from being illegally accessed, and the Personal Information on them stolen or altered. No method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, while we strive to protect your personal information, we do not and cannot guarantee its security. 
 
-## Part 3\. Personal Information Dissemination
 
-#### 3.1 Third Parties.
+If you click on another third party link, you will be directed to that third party’s website or online service.  The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third party websites or services.  These other third party services may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other sites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites and online services you visit. 
 
-RingNRock operates sites on behalf of some of its customers (for example, other businesses that contract with us to operate mobile storefronts or other services for them). When we operate sites on behalf of such customers, we may disclose your information (including personally identifiable information) to them when you provide it to us as part of registering for those sites or "opting in" for promotions, programs or offerings from those customers. Our customers will use and disclose the information we provide them pursuant to their own policies regarding such information. RingNRock also maintains channels and other features on RingNRock's own site(s) in cooperation with third parties (e.g., to feature the work of certain musicians or other artists, or record labels/publishers), and we may disclose your email address, telephone number or mobile identification number, and other personally identifiable information to such third parties when you provide it to us as part of subscribing to such channels or features. RingNRock's customers and other third parties that we cooperate with will use and disclose the information we provide them pursuant to their own policies regarding such information. We recommend that you review those policies before providing us with personal information in connection with sites, promotions, programs or offerings from such customers and third parties, and before subscribing to channels or features we operate in cooperation with customers or third parties. In addition, traffic data and personal data may be used by RingNRock for editorial and feedback purposes, for marketing and promotional purposes, for statistical analysis of users' behavior, for product development, for site improvement, and to inform advertisers of how many visitors have seen or clicked on their advertisements or viewed their promotions. In these cases, data is maintained and reviewed on an aggregate (i.e., group) basis. We may share this information with our customers and other parties, but when we do so it does not include personally identifying information. In addition, we use traffic and personal data to customize and tailor your experience on RingNRock sites, such as to help us display content that we think you may be interested in.
+## Our Policy Toward Children
 
-**Service Providers**
+The Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [legal@sendme.com](mailto:legal@sendme.com).  If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 
-We use other third parties such as a live chat and customer service provider to provide services on our site.  When you use these services, we will share your information as necessary for the third party to provide that service.  These third parties use your personally indefinable information to fulfill the necessary service.
+## Contacting Us
 
-**Information Sharing**
-
-RingNRock does not share Personal Information with third parties for promotional or marketing purposes unrelated to our mobile services without your consent nor do we sell your personal information to third parties.  
-
-#### 3.2 Legal Process.
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-#### 3.3 Summary Data.
-
-RingNRock may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
-
-##  
-
-## Part 4\. Privacy Practices of Third Parties
-
-#### 4.1 Advertiser cookies and web beacons.
-
-Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Website and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. RingNRock does not control Advertisers' use of such technology and RingNRock has no responsibility for the use of such technology to gather information about individuals.
-
-#### 4.2 Links.
-
-The Website and email messages sometimes contain hypertext links to the websites of Third Parties. RingNRock is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by Third Parties. Such links are provided for your convenience and reference only. RingNRock does not operate or control in any respect any information, software, products or services available on such Third Party websites. The inclusion of a link to a website does not imply any endorsement of the services or the site, its contents, or its sponsoring organization. We strongly advise you to read the privacy policies of these Third Parties. 
-
-#### 4.3 Affiliated Companies.
-
-Should RingNRock be subject to an acquisition, merger, sale or other change of control or business entity status, RingNRock reserves the right to transfer or assign the Information collected from the Website to a successor entity. In the event of such a transfer or assignment, the successor entity shall be bound by the terms and conditions of this Privacy Policy. Please see above to see how you will be notified. 
-
-##  
-
-## Part 5\. Individuals Outside of the United States
-
-Currently the Website is only for United States citizens or persons legally residing in the United States or its territories. Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by RingNRock in the United States. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States.
-
-##  
-
-## Part 6\. Cancellation Procedures
-
-If you wish to discontinue receiving messages from RingNRock, you must cancel your subscription. You have several options to do this:
-
-#### 6.1 Cancel via an SMS message.
-
-To cancel your subscription via an SMS message, text "STOP", "END", or "QUIT" to 72825.
-
-#### 6.2 Cancel via the Website.
-
-To cancel your subscription via the Website, please see [Customer Care](http://www.ringnrock.com/index.php?action=unsubscribe). 
-
-**6.3 Questions.**
-
-MBmobile, LLC, the owner and operator of the Website, is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the website www.RingNRock.com.  Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [legaladministrator@mbmobile.com](mailto:legaladministrator@mbmobile.com) or MBmobile, LLC, 1490 W. 121st Ave. Ste 210, Westminster, CO 80234, Attn:  Legal Administrator.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-**If you have questions about this policy, please contact us at**[ legalnotices@mbmobile.com](mailto:legalnotices@mbmobile.com) **.**  
-**  
-California User Consumer Rights.**   In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
+If you have any questions about this Privacy Policy, please contact us at [legal@sendme.com](mailto:legal@sendme.com) or at: SendMe, Inc., 150 Spear Street, 14th Floor, San Francisco, California 94105.
