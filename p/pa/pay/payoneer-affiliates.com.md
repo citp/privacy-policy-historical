@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payoneer-affiliates.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622095021id_/http%3A//www.payoneer-affiliates.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payoneer-affiliates.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125091458id_/http%3A//www.payoneer-affiliates.com/privacy.aspx) for the most accurate reproduction.*
 
 # Payoneer uses MasterCard prepaid cards to enable payouts from websites to individuals worldwide.
 
