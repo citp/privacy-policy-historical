@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happystudio.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614070638id_/http%3A//www.happystudio.com/Parents/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happystudio.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125033005id_/http%3A//www.happystudio.com/Parents/Policy) for the most accurate reproduction.*
 
 # Happy Studio - McDonald's Happy Studio - Privacy Policy
 
@@ -8,12 +8,11 @@ This Privacy Policy applies to your use of both the Happy Studio website and the
 
 This Privacy Policy contains the following sections (click on each heading to go straight to that section):
 
-* ##  Who operates Happy Studio?
+* ## Who operates Happy Studio?
 
 Happy Studio is operated and controlled by McDonald’s Europe Limited, which is established in the United Kingdom and whose registered office address is:
 
-178/180 Edgware Road   
-London, W2 2DS.
+178/180 Edgware Road  London, W2 2DS. 
 
 * ##  Do children need to get a parent or guardian’s permission to use Happy Studio?
 
@@ -31,7 +30,7 @@ We have made every effort to ensure that Happy Studio is safe for children. For 
 
 Within the Grown Up’s Section there is a “Dashboard” which lets parents or guardians monitor their children’s accounts to see what games and activities they’re playing, what are their strengths and interests, how long they have spent using Happy Studio and check out all the creative gifts the child has made for their parent or guardian.
 
-There are absolutely no food or other product promotions on Happy Studio. Additionally Happy Studio is completely closed, with no links to other websites or services from the kids section, so parents can be sure where their child is playing is safe and secure.
+There are absolutely no food or other product promotions on Happy Studio. Additionally, Happy Studio will not provide links from the kids section to websites or services provided by others; we may, however, provide links to McDonald’s own microsites which we may create for kids enjoyment from time to time.  We will ensure in the process that those sites are also safe and secure.
 
 We know you, as parents, may wish to share your child’s creations with your family and friends. So it is possible to share content on Facebook or through email from the Grown Ups section of Happy Studio. This is only accessible by parents or guardians.
 
@@ -115,9 +114,9 @@ Cookies are pieces of information that a website transfers to someone’s comput
 
 A cookie is a bit like the person behind the till at your local McDonald’s. That person doesn’t know your name or where you live, but they do recognise you and remember your favourite order so that the next time you visit they can guess what you’re going to want and make the service even quicker than normal!
 
-Like most websites, the Happy Studio website uses cookies for a variety of purposes in order to improve your online experience. For example, we use cookies to remember your login email. We may also use a special type of a cookie, called a “Flash” cookie which allows us to store some of your preferences on the website (for example, how loud you want the sound on the website).
+Like most websites, the Happy Studio website uses cookies for a variety of purposes in order to improve your online experience. For example, we use cookies to remember your login email. We may also use a special type of a cookie, called a “Flash” cookie which allows us to store some of your preferences on the website (for example, how loud you want the sound on the website). We also use cookies to track activity on Happy Studio, for example, so that we can provide you with information about your child’s activities via the Parents' Panel. We may use additional cookies if we need to do so to facilitate your child’s participation in a challenge, draw or free giveaway.
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You can do this through your browser settings. Each browser is different, so you'll probably need to take a look at your Help menu. If you turn cookies off, you may not be able to take advantage of all the fun and exciting features of this website. Unless you turn cookies off via your browser settings, we will assume that you consent to the use of cookies on the Happy Studio website.
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You can do this through your browser settings. Each browser is different, so you'll probably need to take a look at your Help menu. If you turn cookies off, you may not be able to take advantage of all the fun and exciting features of this website; in particular, you may not be able to use the Parents Panel and your child may not be able to participate in our challenges, draws and free giveaways. Unless you turn cookies off via your browser settings, we will assume that you consent to the use of cookies on the Happy Studio website.
 
 * ##  Will this Privacy Policy change?
 
