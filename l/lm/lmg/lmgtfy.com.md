@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501075459id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125031159id_/http%3A//lmgtfy.com/privacy.html) for the most accurate reproduction.*
 
 # LMGTFY Privacy Policy
 
@@ -18,4 +18,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-© LMGTFY, 2009-2011 | GOOGLE is a trademark of Google Inc. | Not associated with Google™ in any way.
+© LMGTFY, 2009-2012 | GOOGLE is a trademark of Google Inc. | Not associated with Google™ in any way.
