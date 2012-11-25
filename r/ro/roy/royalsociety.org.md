@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527110645id_/http%3A//royalsociety.org/about-us/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalsociety.org privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125033958id_/http%3A//royalsociety.org/about-us/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Society
 
@@ -110,5 +110,4 @@ The Royal Society
 6-9 Carlton House Terrace  
 London  SW1Y 5AG
 
-Or by e-mail to:  
-[communications@royalsociety.org](mailto:communications@royalsociety.org)
+Or by e-mail to: 
