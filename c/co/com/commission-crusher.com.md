@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commission-crusher.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623042233id_/http%3A//www.commission-crusher.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commission-crusher.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125111946id_/http%3A//www.commission-crusher.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Your Privacy Rights Summarized**
 
-**Social Paradigm, Inc. [hereinafter referred to as “Company”, “us” or “we”] collects personal information about you and distributes that information to provide with services and products you request on this website.   In addition, we distribute that information to others to provide you with other products and services. This summary and the full policy below describes how information is collected and distributed and your choices with respect to your personal information. Please review our full  Privacy Policy for detailed information on our information and privacy practices.**
+**Paradigm International, Inc. [hereinafter referred to as “Company”, “us” or “we”] collects personal information about you and distributes that information to provide with services and products you request on this website.   In addition, we distribute that information to others to provide you with other products and services. This summary and the full policy below describes how information is collected and distributed and your choices with respect to your personal information. Please review our full  Privacy Policy for detailed information on our information and privacy practices.**
 
 ## Information We Collect and Retain Summarized
 
@@ -33,15 +33,16 @@ You may also turn off cookies through your web browser.  However, this may affe
 
 You may contact us for questions or concerns about our privacy practices by writing to us at:   
 Privacy Officer  
-18 Harbour St #404  
-Toronto, ON M5J2Z6
+BPM 322220, Rue Gabriel Lippmann 34  
+Munsbach, 5365  
+Luxembourg
 
   
 
 
 **FULL PRIVACY POLICY**
 
-Social Paradigm, Inc. is committed to advising you of the right to your privacy and strives to provide a safe and  secure user experience. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to this web site. 
+Paradigm International, Inc. is committed to advising you of the right to your privacy and strives to provide a safe and  secure user experience. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to this web site. 
 
 By registering or using this site, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by you in the manner described in this Statement. Please read this Statement carefully as it affects your rights and liabilities under the law. If you disagree with the way we collect and process personal information, please do not use this website.
 
