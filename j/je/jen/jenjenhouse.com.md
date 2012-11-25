@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenjenhouse.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521000048id_/http%3A//www.jenjenhouse.com/about/help.php%3Fpage_id%3D86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjenhouse.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125190521id_/http%3A//www.jenjenhouse.com/about/help.php%3Fpage_id%3D86) for the most accurate reproduction.*
 
 # Privacy Notice-JenJenHouse.com
 
@@ -6,7 +6,9 @@ JenJenHouse.com respects your privacy and takes your online safety seriously. In
 
 ###  **JenJenHouse.com’s Privacy Policy**
 
-Thank you for accessing the website ("Site") of JenJenHouse.com Limited (all references to “us” and “our" refer to JenJenHouse.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
+Thank you for accessing the website ("Site") of JenJenHouse.com (all references to “us” and “our" refer to JenJenHouse.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
+
+JenJenHouse.com (or the “Site”) is owned by ReadMob Technologies (HK) Limited registered under HongKong SAR laws with registered address at 9B, Amtel Building, 148 Des Voeux Road, Central, Hong Kong.
 
 This Privacy Policy explains:  
 1\. how we collect, use, and (under certain conditions) disclose your personal information;  
