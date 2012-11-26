@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611040649id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126051159id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Growthink
 
