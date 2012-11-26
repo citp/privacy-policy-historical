@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528065846id_/http%3A//www.anypromo.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126044809id_/http%3A//www.anypromo.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Promotional Products - AnyPromo
 
