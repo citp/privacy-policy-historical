@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cesim.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329130534id_/http%3A//cesim.web10.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesim.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126050051id_/http%3A//cesim.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Cesim Business Simulations
 
 ## Last Updated: August 3, 2011
 
