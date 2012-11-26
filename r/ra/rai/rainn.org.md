@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617065530id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126140022id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RAINN | Rape, Abuse and Incest National Network
-
-The page you requested does not exist. A search for _donate shopping for rainn_ resulted in this page.
 
 ## Privacy Policy
 
