@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vgamenetwork.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620003345id_/http%3A//www.vgamenetwork.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgamenetwork.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126104531id_/http%3A//www.vgamenetwork.com/front/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - VGameNetwork
+# Privacy Policy
 
 BigRebelMedia ("VGameNetwork") operates a variety of web sites ("Web Site" or "Site") including www.vgamenetwork.com and is committed to protecting the privacy of our Web Site users ("Users") and BigRebelMedia members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. BigRebelMedia will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
