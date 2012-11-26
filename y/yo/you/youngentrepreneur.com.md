@@ -1,76 +1,103 @@
-> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630031318id_/http%3A//www.youngentrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126122024id_/http%3A//www.entrepreneur.com/privacypolicy/index.html) for the most accurate reproduction.*
 
-# Where Young Entrepreneurs Meet and Start-Up | YoungEntrepreneur.com
+# Entrepreneur.com Online Privacy Statement
 
-This privacy notice discloses the privacy practices for YoungEntrepreneur.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+(The policies stated within this document are applicable to Entrepreneur.com and other sites owned and operated by Entrepreneur.com Inc. on the World Wide Web.)
 
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+#### Your Privacy Is Serious Business To Us!
 
+The privacy of our visitors and members is very important to us. Since we do gather information about you, we provide this privacy statement to enable you to understand the terms and conditions associated with the collection of this data, as well as how we use it and how you can correct or change it. In addition, we make to you the following pledge:
 
+#### The Entrepreneur.com Privacy Pledge
 
-**Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email, forums or other direct contact from you. We will not sell or rent this information to anyone.
+1\. Unless you otherwise agree (as indicated below), the information you give us or that we collect about you will not be shared with any third party, except with those third parties providing services to us ("our service providers") and then only in the form of statistical information which has been aggregated with other user information for the purposes of our own website research and development in an effort to better serve your needs.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to get you a requested quote etc. We partner with other parties to provide specific services such as quote requests. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+2\. We will never contact you without your permission, and we will immediately terminate any communications with you upon request. 
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+#### Electronic Newsletters
 
-In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
+You can choose to subscribe to one of our FREE electronic newsletters. These newsletters are distributed through our service provider. To subscribe, simply check the box for each newsletter you wish to receive, provide your e-mail address and zip code and then submit. From time-to-time, you may be asked to provide additional information such as job title, number of employees, country of origin, and type of business. As a subscriber to our newsletter, you also agree to receive advertisements, promotions, and special communications from Entrepreneur and its partners. You can remove yourself from our newsletter e-mail lists by simply following the "Unsubscribe" directions included in each newsletter you receive or send an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com) . Please be assured that the information you give us or that we collect about you in connection with your subscription to our electronic newsletters will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
-We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
+#### Special Offers
 
-We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+You can also choose to subscribe to our "special offer" lists and provide you with information and valuable offers by e-mail from us and our partners. Subscription to these lists is completely voluntary, and you may unsubscribe at any time. To subscribe, simply check the box for each category of interest, provide your e-mail address and zip coden then submit. From time-to-time, you may be asked to provide additional information such as job title, number of employees, country of origin, and type of business. Offers you receive through this subscription will be identified in the message header as part of your participation in the Entrepreneur.com list. To unsubscribe, simply follow the directions provided in the footer of the e-mail or send an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com) . We want you to receive only those offers of interest to you. Please be assured that the information you give us or that we collect about you in connection with your subscription to our special offers will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
-We share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+#### Franchise & Business Opportunity Lead Submission
 
-From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+The information, which you voluntarily provide in responding to those franchise and business opportunity advertisers conducting recruitment campaigns on our site ("lead information"), will only be shared with those specific franchise and/or business opportunity advertisers you have selected for the purpose of receiving additional information about them. Please be assured that, except for those franchise and/or business opportunity advertisers you have selected, the information you give us or that we collect about you in connection with this lead generation program will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
-**Your Access to and Control Over Information**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+#### Expert Columnist Lead Submission
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Express any concern you have about our use of your data.
+The information, which you voluntarily provide in responding to certain columnists on our site, will only be shared with those columnists you have selected for the purpose of receiving additional information about their products or services. Please be assured that, except for those columnists you have selected, the information you give us or that we collect about you in connection with this lead generation program will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
+#### _Ask Entrepreneur_ Submissions
 
+The information, which you voluntarily provide in submitting questions for those expert columnists participating in the _Ask Entrepreneur_ program, will only be shared with the specific columnists to whom your questions have been assigned. Please be assured that, except for the columnists to whom your questions have been assigned, the information you give us or that we collect about you in connection with this program will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
-**Security**  
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+#### _Entrepreneur Assist_ Registration
 
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+The information you voluntarily provide in registering to access the _Entrepreneur Assist_ suite of interactive resources will only be shared with the named co-sponsor of this service, which may use such information to apprise you of its goods and/or services. Please be assured that, except for any co-sponsor of the _Entrepreneur Assist_ service, the information you give us or that we collect about you in connection with your registration for this service will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
+#### SmallBizBooks.com, & Entrepreneur Press Registration
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+You will be required to register in order to make purchases at our online stores, SmallBizBooks.com and EntrepreneurPress.com. To register, you're required to supply your name and shipping address, phone number, a username and password. Optional information includes the name of your company and a fax number. The information gathered from this process ("registration information") is stored in the SmallBizBooks.com and EntrepreneurPress.com databases and is also saved to a cookie. This allows SmallBizBooks.com and EntrepreneurPress.com members to enter the site without having to login each time. When you make a purchase at SmallBizBooks.com or EntrepreneurPress.com, your credit card information is secured using 128-bit SSL encryption technology. Please be assured that the registration information you give us or that we collect about you will not be shared with any third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
-Legally required disclosures:  
-YoungEntrepreneur.com reserves the right to disclose personally identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights and to comply with judicial proceedings, court order or legal processes served on the Website.
+#### Contests And Sweepstakes
 
-Business Transitions:  
-In the event that YoungEntrepreneur.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.
+All contests and sweepstakes on any of our websites are conducted in accordance with applicable federal and state laws. The information you voluntarily provide by participating in any such contest or sweepstakes event will be used to verify participant identity and to contact winners, and may be shared with named co-sponsors, which may use such information to apprise you of their goods and/or services. Please be assured that, except to the extent shared with co-sponsors, the information you give us or that we collect about you in connection with your participation in any such contest or sweepstakes event will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at: terms@YoungEntrepreneur.com
+#### Usage Reports
 
-You can print or save the this privacy policy to your computer.
+In order to better understand traffic patterns on any site owned and operated by Entrepreneur.com, we analyze our site activity to obtain overall usage statistics. These usage statistics provide us with certain information obtained through the use of cookies and from data within the browser string (information contained in every user's browser). Information we collect from the browser string includes domain name, browser type, operating system, geographic origin, referring domain and MIME type. Cookies allow us to track behavior on the site to determine content preferences and usage patterns. This information is for internal consumption and is only shared with third parties on a statistically aggregated basis. No specific or personally identifiable information collected through this process is ever shared with a third party.
 
-Use of the YoungEntrepreneur.com (“Website”) to receive quotes or to register as a Vendor in our YE Vendor Network indicates your agreement with this privacy policy.
+#### E-Mail Data Analysis
 
-This privacy policy does not apply to the practices of companies that YoungEntrepreneur.com does not own or control, or to people who YoungEntrepreneur.com does not employ.
+From time-to-time, we provide our e-mail lists (newsletters & special offers) to our service providers, which in turn provide us with specialized services, such as e-mail message deployment, merge-purge (identifying and removing duplicate addresses) of lists, statistical analysis and other data processing. Please be assured that the information you give us or that we collect about you in connection with your subscription to our electronic newsletters and/or special offers will not be shared with any third party, except with our service providers and then for the purposes stated in the above Privacy Pledge.
 
-People Seeking Quotes: As a Quote Seeker you need only provide the following information:
+#### Cookies
 
-  1. Answer a few qualifying questions specific to the product or service for which you are seeking quotes.
-  2. Provide basic contact information including: Name, Company Name, Position, Address, Phone Number, Email Address, and Website.
+All sites owned and operated by Entrepreneur.com use cookies. A cookie is a small data file written to your hard drive. Cookies allow us to understand user behavior so we can more effectively develop information and programs to serve you better. Our third-party ad serving company, delivers a one-time cookie to your hard drive in order to better track ad impressions and click-through rates generated by your activity on our websites. Advertisers require information regarding ad impressions and click-through rates, and by providing them with this information, we are able to keep our websites free to our visitors. Please be assured that, except for sharing impressions and click-through rates with our third-party advertisers, the information you give us or that we collect about you in connection with our use of cookies will not be shared with any other third party, except with our service providers and then only in the form and for the purposes stated in the above Privacy Pledge.
 
+If you're concerned about the use of cookies, you have the option to set your browser to warn you before accepting cookies, or to turn off cookies entirely. The options to warn or disable cookies can be found in the "Options" or "Preferences" feature of your browser. You do not need to enable cookies in oder to use any site owned and operated by Entrepreneur.com, Inc.
 
+#### Links to Other Sites
 
-**Ownership of Quote Seeker Information:**  
-As the purpose of YoungEntrepreneur.com’s Vendor Match Program is to match Quote Seekers with approved YoungEntrepreneur.com Vendors, information submitted for the purpose of receiving free quotes will be owned by YoungEntrepreneur.com and will also become the property of the Vendors in our Approved YoungEntrepreneur.com Vendor Group. By placing a request to receive free quotes, the Quote Seeker accepts this use of their information.
+Please be aware that when you're on Entrepreneur.com or any site owned by Entrepreneur.com, or when you receive an e-mail message from us on behalf of a marketer according to permission granted through our opt-in process for newsletters and special offers, you could be directed to other sites that are beyond our control, such as the marketer's site. There may also be links to other sites from Entrepreneur.com pages or from the e-mail message we send you that take you outside Entrepreneur.com. These other sites may send their own cookies to visitors, collect data or solicit personal information. The privacy policies of these other sites may be significantly different from this privacy policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there.
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**NOTICE:** [Click here](http://www.ftc.gov/bcp/edu/pubs/articles/naps22.pdf) for important information about safe surfing from the Federal Trade Commission.
 
-Contact Details: : If you have questions or concerns regarding this privacy policy, you should first complete our [Contact Form](https://web.archive.org/contact/) or you may also send us correspondence at the following address: YoungEntrepreneur.com, 3120 West Carefree Hwy, Suite 1-128, Phoenix, AZ 85086
+#### Third-Party E-Mail Collection
+
+In addition to Entrepreneur.com visitors providing permission to receive newsletters and special offers, we do work with various marketing partners to promote our newsletters and special offers to their visitors. Each promotion on third-party sites is branded under Entrepreneur.com.
+
+#### Security
+
+Protecting the security of your personal information is very important to us. When we store information you've provided to us, that information is protected by security measures that include "firewalls" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network), "intrusion detection systems" (a combination of computer hardware and software that helps detect any unauthorized visitors), "secure socket layer" (data encryption used when transmitting certain information such as personal information from a form or a transaction within SmallBizBooks.com or EntrepreneurPress.com) and other security measures such as secure storage. Unfortunately, no data transmission over the internet or data repository can be guaranteed to be 100% secure. As a result, while Entrepreneur.com strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction or inadvertent disclosure of your personal information.
+
+#### Reporting Unsolicited E-Mail
+
+Despite our concerted efforts to prevent unsolicited (spam) e-mail relayed through Entrepreneur.com servers, unsolicited e-mail may sometimes get through. Entrepreneur.com NEVER sends unsolicited or spam e-mail. We view spam as a serious violation of privacy and a misuse of the internet in general. If you receive an unsolicited e-mail with a domain of Entrepreneur.com, please send it immediately to [abuse@entrepreneur.com](mailto:abuse@entrepreneur.com) . Upon receipt of the e-mail, we will do our utmost to track down the offender and take any actions necessary to stop spam messages.
+
+#### Correcting Information
+
+You can correct or update any information you have provided to Entrepreneur.com by following the instructions in any electronic newsletter or offering we send, or you may correct your information by sending an e-mail to [memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com) .
+
+#### Deactivating
+
+Any user receiving our electronic newsletter or who receives regular offers from our partners may opt out of our email list at any time by simply following the instructions to "Unsubscribe" within each newsletter or offering or send an an email with "unsubscribe" in the subject line to [unsubscribe@entrepreneur.com](mailto:unsubscribe@entrepreneur.com).
+
+#### Changes to the Entrepreneur Privacy Policy
+
+This privacy policy may be modified from time to time. If there is a significant change, we will indicate on our sites that our privacy policy has changed and provide a link to the new policy.
+
+#### Contacting Entrepreneur
+
+Should you have any questions, concerns or suggestions, you may contact Entrepreneur.com by e-mail at [memberservices@entrepreneur.com](mailto:memberservices@entrepreneur.com) or at the following address:
+
+Entrepreneur.com Inc.  
+Privacy Policy Issues  
+2445 McCabe Way, Suite 400  
+Irvine, CA 92614  
+(949) 261-2325
+
+Effective Date: November 6, 2007
