@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616002812id_/http%3A//www.irishcentral.com/services/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126234034id_/http%3A//www.irishcentral.com/services/privacy_policy) for the most accurate reproduction.*
 
 # IrishCentral
 
@@ -84,7 +84,36 @@ During your visit to the Website you may view as part of a frame that includes o
 
 We do not knowingly collect or solicit personally identifying information from or about children under the age of 13.  By submitting any personally identifying information, you certify that you are at least 13 years of age.  If we discover that we have received any information from or about a child under 13 in violation of this statement, we will delete that information.  If you believe that we have collected personally identifying information from or about a child under the age of 13, please contact us at the address provided in the “QUESTIONS” section below.
 
-## IX. Changes to this Privacy Statement
+## IX. Facebook 
+
+#### **The general privacy policy published by IrishCentral.com applies to content provided by and your use of the IrishCentral Facebook app (the "App"). For full details see[ http://www.irishcentral.com/services/privacy_policy/](http://www.irishcentral.com/services/privacy_policy/)
+
+This is the additional IrishCentral.com privacy policy for the App.  
+As a registered Facebook user, you are also subject to Facebook's privacy policy. Please check your Facebook account privacy settings for further information.
+
+Collecting information about you  
+We collect different types of information about App users for four main reasons:  
+1\. To personalise the content of the App for individual users.  
+2\. To help us to monitor and improve the App.  
+3\. To advertise on the App.  
+4\. With user consent, to market services to individual users.
+
+Our principles  
+1\. We do our utmost to protect user privacy through the appropriate use of security technology. This means:  
+\- we ensure that we have appropriate physical and technological security measures to protect your information  
+\- we ensure that when we outsource any processes, the service provider has appropriate security measures  
+2\. We will respect your privacy. You should only receive marketing emails from IrishCentral.com, if you have requested to do so and if you choose, from carefully chosen third parties. It will be made clear to you where you have these choices, for example, tick boxes will let you decide whether you wish to receive marketing.  
+3\. We will collect and use individual user details only where we have legitimate business reasons and are legally entitled to do so.  
+4\. We will be transparent in our dealings with you as to what information about you we will collect and how we will use your information.  
+5\. We will use personal data only for the purpose(s) for which they were originally collected and we will ensure personal data are securely disposed of.
+
+Sharing your information with us and others  
+When you first access the App, you will be presented with a Facebook permissions page, which will advise you about the Facebook information you will be sharing with the App and other Facebook users. You can then decide whether or not to share your Facebook information by using the App. If you decide not to grant permission you will not be able to use the App.  
+By granting permission you will be agreeing to share your Facebook user details (including your name, profile picture, gender, networks, user ID and any other information you choose to share according to your Facebook account settings) as well as the user details of your Facebook friends, and information about your use of the App,
+
+**
+
+## X. Changes to this Privacy Statement
 
 This Privacy Statement may be amended or modified from time to time.  Any such changes will be posted here and will be effective immediately unless a later effective date is specified.
 
