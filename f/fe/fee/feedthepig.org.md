@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedthepig.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211164049id_/http%3A//www.aicpa.org/PrivacyandTerms/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedthepig.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126105107id_/http%3A//www.aicpa.org/PrivacyandTerms/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # AICPA and CPA2Biz Joint Privacy Policy
 
@@ -25,7 +25,12 @@ Your preferences are collected through information you provide via your membersh
 **Collection of Passive Information  
 **Upon any use of the Sites, providing email address, enrolling in programs, or completing various forms, we collect non-identifying information through the use of cookies technology and/or Internet Protocol (IP) address tracking/URL tracking.  This technology collects non-personal information such as, but not limited to, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, advertisement viewing, and performance to personalize the content to better serve you and all website users.  We collect this information to perform effective capacity planning, administer the Sites, troubleshoot website performance, track aggregate users' movements, gather aggregate demographics and accurately document transactional information for business partners. 
 
-Our Sites may contain advertisements, whose related cookies may collect data, but also track your movement and behavior on other sites. These cookies, from third-party advertisers or from links accessed via our Sites, are not controlled by us. If you do not want to save site-related cookies on your hard drive, you can adjust your browser settings to delete and/or not accept cookies.  However, if you adjust your browser in this manner, we cannot guarantee that all applications on the Sites will function properly for you. Additionally, the Network Advertising Initiative (NAI) provides an “Opt-out Tool” that was developed for their member companies to allow consumers to "opt out" of the behavioral advertising delivered by the NAI member companies (<http://www.networkadvertising.org/>).
+**The Use of Cookies for Advertising**  
+Our Sites may contain advertisements, whose related cookies may collect data, but also track your movement and behavior on other sites. These types of cookies, from third-party advertisers or from links accessed via our Sites, are not controlled by us. 
+
+We utilize our own cookies to track visitor behavior on aicpa.org to optimize your experience on our site and provide promotional advertising on other sites for AICPA and CPA2Biz products or services. To accomplish this, we partner with various third party vendors, including Google and DoubleClick, who use these cookies to display relevant ads based on your browsing sessions on aicpa.org.
+
+If you do not want to save site-related cookies on your hard drive, you can adjust your browser settings to delete and/or not accept cookies.  However, if you adjust your browser in this manner, we cannot guarantee that all applications on the Sites will function properly for you and your experience may not be optimized. Additionally, the Network Advertising Initiative (NAI) provides an “Opt-out Tool” that was developed to allow consumers to "opt out" of the behavioral advertising delivered by the NAI member companies such as Google and DoubleClick ([http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/)).
 
 **Use of Information and Sharing and Disclosure to Third Parties  
 **We use personally identifiable information collected for membership, non-member/customer activity, and account maintenance.  We may communicate with you regarding membership benefits, any program enrollment or special interest group, or account billing and maintenance and potential membership.  We also communicate with members regarding peer review or ethics inquiries, violations and/or sanctions.  We use and maintain various records regarding interactions such as, but not limited to, continuing professional education.  In addition, we use and maintain your information as determined by the organizations’ business needs, or as required or permitted by law.  Some member information or customer transaction email or communications are not available for opt out (see Choice and Opt Out, below). 
@@ -121,4 +126,4 @@ Hours of Operation: (9 am – 6 pm, EST, M-F)
 ---|---  
   
 **Websites Covered  
-**This policy covers aicpa.org, cpa2biz.com, and all other AICPA and CPA2Biz affiliated sites that link to this policy.
+**This policy covers AICPA.org, CPA2Biz.com, and all other AICPA and CPA2Biz affiliated sites that link to this policy.
