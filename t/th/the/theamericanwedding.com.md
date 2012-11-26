@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527062328id_/http%3A//www.theamericanwedding.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126085831id_/http%3A//www.theamericanwedding.com/customerservice/privacy) for the most accurate reproduction.*
 
 # Your Privacy Is Important | Customer Service | The American Wedding
 
@@ -74,7 +74,7 @@ Special Offers and Updates
 We send new registrants a welcoming email to verify password and username. Established members may occasionally receive information on products, services and special promotions. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Opt-in/out & Update section.
 
 Service Announcements  
-Service announcements are not promotional in nature. They are sent to our customers to provide specific services or information. For instance, when a customer's order is shipped from our manufacturing facility, we will advise the customer by email of the shipping specifics, and provide (if applicable) a tracking number, and method for the customer to track their order. We may send email notices to our users advising them of changes to this policy, or to our terms and conditions. Additionally, from time to time, we may send a service email to all our users in order to clean our database. Such messages allow us to purge invalid email addresses, and also afford all users an opportunity to review and change, if desired, their opt in/opt out status.
+Service announcements are not promotional in nature. They are sent to our customers to provide specific services or information. For instance, when a customer's order is shipped from our manufacturing facility, we will advise the customer by email of the shipping specifics, and provide (if applicable) a tracking number, and method for the customer to track their order. We may send email notices to our users advising them of changes to this policy, or to our terms and conditions or to announce new products/product lines. Additionally, from time to time, we may send a service email to all our users in order to clean our database. Such messages allow us to purge invalid email addresses, and also afford all users an opportunity to review and change, if desired, their opt in/opt out status.
 
 Customer Service  
 We communicate with users on a regular basis to provide requested services. In regard to issues relating to their account we may reply via email or phone, fax, postal mail, or such other communications as we deem most appropriate.
