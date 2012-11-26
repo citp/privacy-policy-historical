@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620120336id_/http%3A//www.cashreview.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126155935id_/http%3A//www.cashreview.net/privacy) for the most accurate reproduction.*
 
-# Privacy | CashReview.net
+# Privacy – CashReview.net
 
 _What Information Do We Collect?_
 
@@ -32,11 +32,15 @@ We do not use cookies.
 
 _Do We Disclose Any Information to Outside Parties?_
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist in operating this website, conducting this business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce my site policies, or protect our own (or others) rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist in operating this website, conducting this business, or servicing you, so long as those parties agree to keep this information confidential.
+
+We may also release your information when we believe release is appropriate to comply with the law, enforce my site policies, or protect our own (or others) rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 _Third party links:_
 
-Occasionally, at our discretion, we may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of this website and welcome any feedback about these third party sites.
+Occasionally, at our discretion, we may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.
+
+Nonetheless, we seek to protect the integrity of this website and welcome any feedback about these third party sites.
 
 _California Online Privacy Protection Act Compliance:_
 
