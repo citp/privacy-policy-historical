@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529143815id_/http%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045758id_/http%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Personal Money Store
+# Personal Money Store Privacy Policy
 
 Our Privacy Policy is designed to help you understand our online information practices, so that you are able to make an informed and educated decision about how we collect and use your information. While reading through our Policy, it is important to note that any reference to “You” or “Your” refers to you as a user of our online program. Moreover, any reference to “We”, “Us”, “Our” or “Our Website” refers to our Web site.
 
