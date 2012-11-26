@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527223219id_/http%3A//www.tvtraxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126042323id_/http%3A//www.tvtraxx.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TVTraxx
 
@@ -51,7 +51,7 @@ TV Traxx is intended for a general audience. Registration for certain services 
 
 How to Contact Us
 
-If you have any questions or concerns about TV Traxx Privacy Policy or its implementation, you may contact us by going to the following link: <http://www.tvtraxx..com/contact>.
+If you have any questions or concerns about TV Traxx Privacy Policy or its implementation, you may contact us by going to the following link: [http://www.tvtraxx..com/contact](https://www.tvtraxx..com/contact "Contact Us").
 
 Changes to this Privacy Policy and Additional Information
 
