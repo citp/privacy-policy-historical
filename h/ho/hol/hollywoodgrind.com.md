@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hollywoodgrind.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217092136id_/http%3A//cdn.hollywoodgrind.com/images/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodgrind.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126041120id_/http%3A//cdn.hollywoodgrind.com/images/privacy-policy.html) for the most accurate reproduction.*
 
 # Hollywood Grind Privacy Policy
 
-**Hollywood Grind Privacy Policy – Last Updated February, 2009**
+**Hollywood Grind Privacy Policy � Last Updated February, 2009**
 
 Thank you for visiting Hollywood Grind ("we" or "us") Web site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit on Web pages where this policy is posted.
 
