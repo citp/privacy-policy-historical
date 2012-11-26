@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zentyal.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527063020id_/http%3A//www.zentyal.org/legal-notice-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zentyal.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126235114id_/http%3A//www.zentyal.org/legal-notice-privacy-policy) for the most accurate reproduction.*
 
 # Legal notice and privacy policy | Zentyal - The Linux Small Business Server
 
 ### About Zentyal
 
-Zentyal is the trade mark of the services of eBox Tecnologies, S.L. (hereinafter, EBOX), a company in force and duly constituted in accordance with the Spanish Law, with Tax Identity number B65160798 and home offices in Zaragoza (Spain), c/ María de Luna num. 11, N 19, and inscribed in the Commercial Registry of Zaragoza, book 3619, paper 180, leaf Z-46369.
+Zentyal is the trade mark of the services of eBox Tecnologies, S.L. (hereinafter, EBOX), a company in force and duly constituted in accordance with the Spanish Law, with Tax Identity number B65160798 and home offices in Zaragoza (Spain), c/ María de Luna num. 11, N 19, and inscribed in the Commercial Registry of Zaragoza, book 3619, paper 180, leaf Z-46369. 
 
 According to Spanish Act 34/2002, of July 11th, on Information Society Services and Electronic Commerce, we inform that you can contact us through our address info@zentyal.com, phone number +34 976 73 35 06 of fax +34 976 73 37 19. 
 
-Our public opening hours are from 9am to 2pm and from 5pm to 8pm, monday to friday.
+Our public opening hours are from 9am to 2pm and from 5pm to 8pm, Monday to Friday.
 
 ### Intellectual Property
 
