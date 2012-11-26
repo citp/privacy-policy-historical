@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526110701id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126090648id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
 
 # Dextronet Privacy Policy
 
-[en, txt, common, back](https://web.archive.org/)
+Privacy Policy
+
+[Back](https://web.archive.org/)
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You retain rights to all your information and data.
 
