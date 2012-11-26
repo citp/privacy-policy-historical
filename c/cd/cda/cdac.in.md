@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdac.in privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525215911id_/http%3A//cdac.in/index.aspx%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdac.in privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091517id_/http%3A//www.cdac.in/index.aspx%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
 
 # C-DAC: Privacy Policy
 
@@ -52,7 +52,7 @@ We take reasonable steps to protect your personally identifiable information as 
 
 Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20120525215911id_/http%3A//cdac.in/legal.aspx).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/index.aspx?id=legal_notice).
 
 How to Contact Us
 
