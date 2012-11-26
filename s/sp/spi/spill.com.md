@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625020059id_/http%3A//www.spill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spill.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126232601id_/http%3A//www.spill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Spill.com Privacy Policy
 
