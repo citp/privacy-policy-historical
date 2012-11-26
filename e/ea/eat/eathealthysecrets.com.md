@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eathealthysecrets.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620081448id_/http%3A//www.eathealthysecrets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eathealthysecrets.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127004124id_/http%3A//www.eathealthysecrets.com/privacy.php) for the most accurate reproduction.*
 
 # Must see video - Foods to NEVER Eat?
 
