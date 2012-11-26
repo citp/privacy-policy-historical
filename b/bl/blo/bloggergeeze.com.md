@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggergeeze.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509225916id_/http%3A//www.bloggergeeze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggergeeze.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126103900id_/http%3A//www.bloggergeeze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bloggergeeze
+# Privacy Policy - Bloggergeeze | Bloggergeeze
 
   
 Privacy Policy : If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tonsblogger [at] gmail [dot] com.
