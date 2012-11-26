@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526125047id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091203id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Religion News Service | About | Privacy Policy
 
