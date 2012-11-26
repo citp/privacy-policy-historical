@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520155129id_/http%3A//www.nationalmortgagenews.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126012511id_/http%3A//www.nationalmortgagenews.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
 # National Mortgage News - Privacy Policy
 
