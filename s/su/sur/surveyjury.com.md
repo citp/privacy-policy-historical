@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611031807id_/http%3A//www.surveyjury.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyjury.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126224455id_/http%3A//www.surveyjury.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Survey Jury | World's Fastest growing paid survey panels Directory for All Countries...
+# Privacy Policy | Survey Jury
 
 Survey Jury respects your privacy. We have absolutely no intentions to use any information provided to us in any way that would violate your privacy. Since I am not a lawyer, I will try to describe, in layman's terms, what this exactly includes or excludes.
 
