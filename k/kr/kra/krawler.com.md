@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krawler.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504073621id_/http%3A//www.krawler.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krawler.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126215944id_/http%3A//www.krawler.com/privacy-statement) for the most accurate reproduction.*
 
 # Krawler's Privacy Commitment | We value your trust
 
