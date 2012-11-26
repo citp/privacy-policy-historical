@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatelabelnutra.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527032018id_/http%3A//www.privatelabelnutra.com/information.php%3Finfo_id%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatelabelnutra.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045705id_/http%3A//www.privatelabelnutra.com/information.php%3Finfo_id%3D32) for the most accurate reproduction.*
 
 # - PrivateLabelNutra.com
 
