@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physioadvisor.com.au privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604153730id_/http%3A//www.physioadvisor.com.au/7651050/physioadvisor-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioadvisor.com.au privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126072339id_/http%3A//www.physioadvisor.com.au/7651050/physioadvisor-privacy-policy.htm) for the most accurate reproduction.*
 
 # PhysioAdvisor - Privacy Policy
 
