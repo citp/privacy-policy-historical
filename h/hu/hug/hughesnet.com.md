@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hughesnet.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605140442id_/http%3A//legal.hughesnet.com/SubscriberPolicies.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hughesnet.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126232049id_/http%3A//legal.hughesnet.com/SubscriberPolicies.cfm) for the most accurate reproduction.*
 
 # Hughes Subscriber Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Hughes Subscriber Privacy Policy**
 
-This notice (the “Subscriber Privacy Policy”) describes the privacy policy of Hughes Network Systems, LLC (HUGHES) as it relates to Hughes' HughesNet® service (the "Service"). This Privacy Policy does not apply to the use of Hughes’ Websites at [www.hughes.com](http://www.hughes.com/), [www.hughesnet.com](http://www.hughesnet.com/), [www.gethughesnet.com](http://www.gethughesnet.com/), and any other site maintained or operated by Hughes (collectively, the “Website”). The privacy policies applicable to your use of the Website is available on our [Public Website Privacy Policy](https://web.archive.org/web/20120605140442id_/http%3A//legal.hughesnet.com/PublicWebsitePrivacyPolicy.cfm) page.
+This notice (the “Subscriber Privacy Policy”) describes the privacy policy of Hughes Network Systems, LLC (HUGHES) as it relates to Hughes' HughesNet® service (the "Service"). This Privacy Policy does not apply to the use of Hughes’ Websites at [www.hughes.com](http://www.hughes.com/), [www.hughesnet.com](http://www.hughesnet.com/), [www.gethughesnet.com](http://www.gethughesnet.com/), and any other site maintained or operated by Hughes (collectively, the “Website”). The privacy policies applicable to your use of the Website is available on our [Public Website Privacy Policy](https://web.archive.org/web/20121126232049id_/http%3A//legal.hughesnet.com/PublicWebsitePrivacyPolicy.cfm) page.
 
 Hughes is committed to protecting the privacy of its subscribers. This Privacy Policy governs only Hughes’ treatment of information about subscribers to Hughes’ HughesNet service. By applying for or continuing to use the Service, you agree to the terms of this Policy. This Privacy Policy does not apply to any goods or services controlled by third parties, even if those third parties are partners of Hughes. 
 
@@ -51,11 +51,6 @@ Hughes employs reasonable measures to protect your personal information against 
 
 **Questions**
 
-Please direct questions, concerns, or comments about this Privacy Policy to our email address at guest.services@hughes.com. Alternatively, you may contact us at:
-
-> Hughes Network Systems, LLC  
->  Attn: Privacy  
->  11717 Exploration Lane  
->  Germantown, MD 20876
+Please direct questions, concerns, or comments about this Privacy Policy to our email address at guest.services@hughes.com.
 
 Revised 10-1-08
