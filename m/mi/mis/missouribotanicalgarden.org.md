@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missouribotanicalgarden.org privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603222929id_/http%3A//www.missouribotanicalgarden.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missouribotanicalgarden.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126085932id_/http%3A//www.missouribotanicalgarden.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,4 +6,6 @@ The Missouri Botanical Garden, operators of this website, recognizes the importa
 
 As a method of tracking the use of this website, the Garden may utilize technology known as "cookies," which enables us to relate a visitor's use to any information that the visitor may have specifically and knowingly provided. Any such voluntarily provided identifying information, if applicable, may be used by the Garden for editorial, marketing or promotional purposes. Such identifying information, if applicable, will not be transferred to any other party unless otherwise stated at the time of collection.
 
-The Garden only collects any type of personally identifying information to the extent that it serves our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information. Information collected from children under the age of 13 is only done following the consent of a parent or guardian and such information will not be shared to any third party for any purpose. 
+The Garden only collects any type of personally identifying information to the extent that it serves our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information. Information collected from children under the age of 13 is only done following the consent of a parent or guardian and such information will not be shared to any third party for any purpose.
+
+The Garden never sells our member lists to telemarketing or direct mail firms. However, from time to time we do exchange the names of our members with other cultural institutions in the St. Louis area. If you do not wish your name to be included in such exchanges, please email [membership@mobot.org](mailto:membership@mobot.org). 
