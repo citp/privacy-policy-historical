@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505063140id_/http%3A//line6.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126181922id_/http%3A//line6.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Line 6 - Privacy Policy
 
@@ -19,7 +19,15 @@ The Website is not intended for use by children under the age of thirteen (13). 
 
  _Registration Information About You_
 
-We ask for Personal Information about you when you create a " **User Account** " in order to purchase software, software upgrades, product accessories, and other materials from Line 6 (including, without limitation, your name, billing address, email address, credit card number and expiration date). We ask for Personal Information about you when you register your Line 6 product(s) with us (including, without limitation, your name, address, and email address). We ask for Personal Information about you when you register for a user name to participate in the Website bulletin boards (including, without limitation, your email address). We may also ask you for information about your interests, preferences and future needs, so that we can improve the Website content.
+We ask for Personal Information about you when you create a " **User Account** ". User Accounts are required for you to (a) purchase software, software upgrades, product accessories, and other materials from directly Line 6 (including, without limitation, your name, billing address, email address, credit card number and expiration date); (b) register your Line 6 product(s) with us (including, without limitation, your name, email address, and residential address); and (c) participate in the Website forums and bulletin boards.
+
+ _Product Support and Service Information_
+
+We may ask for Personal Information and non-personal information in connection with our technical support and product repair services. All such requests are linked to your User Account for ease of access by you.
+
+ _My Profile Information_
+
+We may ask for Personal Information and non-personal information about your interests, preferences and future needs. This information is stored in the ‘My Profile’ section of your User Account and may be modified by you at any time.
 
  _Newsletter Subscription Information_
 
@@ -43,9 +51,12 @@ Any and all information, including personal and non-personal information, that y
 
 We may automatically track certain information about your use of the Website. Line 6 tracks and logs individual log-in times, IP addresses, connection speeds, and browser types for system administration purposes. This information will be used to prepare statistical data, analyzed to improve troubleshooting techniques and responses, and used to improve the value of the materials and services available through the Website.
 
-Cookies are small text files that are stored on the site visitor's computer and used to gather and keep track of non-personal information related to you. Information collected through cookies is not linked to any personally identifiable information. Cookies help Line 6 review the Website traffic patterns and improve the Website. Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the convenience features the Website.
+ _Cookies_
 
- _Sensitive Information_
+Cookies are small text files that are stored on your computer and used to gather and keep track of non-personal information related to you. Information collected through cookies is not linked to any personally identifiable information. Cookies help Line 6 review the Website traffic patterns and improve the Website.  
+ Privacy and Cookies: Please be assured that the data contained in the cookies used by Line 6 are completely anonymous and do not contain any Personal Information.  Third Party Cookies: When you visit the Website you may notice some cookies that aren’t related to Line 6. If you go on to a page that contains embedded content, for example from YouTube, you may be sent cookies from those websites. Additionally, Line 6 uses Google in connection with our dealer locater service and Google Analytics. Line 6 does not control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.  Managing Cookies: Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the convenience features the Website. Please refer to your browsers help documentation on how to adjust your privacy settings.  Additional Information about Cookies: For more information about cookies, visit aboutcookies.org. 
+
+_Sensitive Information_
 
 We do not request, and we ask that you not provide, " **sensitive information,** " that is, Personal Information indicating medical or health conditions, racial or ethnic origin, political opinions, religions or philosophical beliefs, trade union membership or information specifying sexual orientation. This information is not relevant to the use of the Website.
 
@@ -61,6 +72,10 @@ We will use the information collected under the "Automated Data Capture" section
 
 Line 6 may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to prevent injury or property damage. We will usually attempt to notify you when we are making such a disclosure, but we may not do so in an emergency or when we are prohibited by law or court order from giving such notice.
 
+ _Retention_
+
+Line 6 will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
  _Information Sharing and Third Party Service Partners_
 
 Line 6 does not rent, sell or share personal information about you with other people or non-affiliated companies without your consent (see our Opt-Out Policy below) or unless we have a good faith belief that access, use, preservation or disclosure is reasonably necessary to (a) satisfy any law, regulation, legal process or enforceable governmental request, (b) enforce any applicable Terms of Service (including investigation of potential violations thereof), or (c) detect, prevent or otherwise address fraud, security or technical issues.
@@ -70,7 +85,7 @@ Line 6 provides some of the Website's services through contractual arrangements 
 If Line 6 becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide reasonable notice before personal information is transferred and becomes subject to a different privacy policy. Such notice may be given by a clear and concise statement on the Website home page that there has been an update to this Privacy Policy.
 
 **OPT-OUT POLICY**  
-Line 6 allows you to opt out of our use of your Personal Information for purposes other than the purpose for which it was provided. This would include, by way of example, marketing and promotional mailings relating to Line 6 products and services. You may exercise this option at the time your Personal Information is collected by checking the appropriate ["NO THANKS"] box. And, in some cases, we ask you to affirmatively indicate your consent to receive marketing and promotional materials. If you do not affirmatively indicate your consent to do so, we will not send you any additional materials other than those required by our specific agreement with you.
+Line 6 allows you to opt out of our use of your Personal Information for purposes other than the purpose for which it was provided. This would include, by way of example, marketing and promotional mailings relating to Line 6 products and services. You may exercise this option at the time your Personal Information is collected by checking the appropriate ["NO THANKS"] box. And, in some cases, we ask you to affirmatively indicate your consent to receive marketing and promotional materials. If you do not affirmatively indicate your consent to do so, we will not send you any additional materials other than those required by our specific agreement with you. You may also change your opt-out preferences at any time by modifying your User Account settings.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
 Line 6 collects various types of personally identifiable information about you during the course of our customer relationship. Under California law, if you are a resident of California, you may make a written request to Line 6 about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, Line 6 is allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use such information for its direct marketing purposes.
@@ -80,13 +95,13 @@ If you would like to exercise your rights under California law, please send our 
    Postal Address: 26580 Agoura Road, Calabasas, California 91302 Attn: Customer Service
 
 **ACCESS AND INTEGRITY OF STORED PERSONAL INFORMATION**  
-Line 6 gives you access to a broad range of Personal Information Line 6 maintains about you. You can help Line 6 maintain the accuracy of your information by notifying us of any change to your Personal Information. You also may delete Personal Information that you have provided, subject to your understanding that certain deletions may affect our ability to provide the Line 6 services you have requested. Edit your User Account [here](https://web.archive.org/account/).
+Line 6 gives you access to a broad range of Personal Information Line 6 maintains about you. You can help Line 6 maintain the accuracy of your information by notifying us of any change to your Personal Information by updating your User Account. You also may delete Personal Information that you have provided, subject to your understanding that certain deletions may affect our ability to provide the Line 6 services you have requested. Edit your User Account [here](https://web.archive.org/account/).
 
 **LINKS**  
 The Website may include links to other sites. This Privacy Policy applies to the Line 6 Website only. Any information you submit to linked sites will be subject to the privacy policies of those sites, if any. You should review those policies carefully before providing any information to these linked sites.
 
 **SECURITY**  
-Line 6 undertakes practical and reasonable steps to protect Personal Information from unauthorized or accidental access, disclosure, misuse or processing, or from alteration, destruction or loss. Personal Information that we collect resides on servers located in Line 6's premises and is accessible only to personnel who, by virtue of their duties, are required to have access and have been trained in, and tasked with, the observance of the principles embodied in this Privacy Policy.
+Line 6 undertakes practical and reasonable steps to protect Personal Information from unauthorized or accidental access, disclosure, misuse or processing, or from alteration, destruction or loss. Personal Information that we collect is accessible only to personnel who, by virtue of their duties, are required to have access and have been trained in, and tasked with, the observance of the principles embodied in this Privacy Policy. 
 
   * We work to protect the security of your information during transmission by using OpenSSL software (see www.openssl.org for more information). 
   * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
@@ -106,5 +121,5 @@ If we decide to change this Privacy Policy, we will post those changes here so t
 
 [](http://www.etrust.org/cert/875564.html)
 
-COPYRIGHT © 2010 LINE 6, INC. ALL RIGHTS RESERVED.  
-LAST DATE OF MODIFICATION: September 1, 2010. 
+COPYRIGHT © 2012 LINE 6, INC. ALL RIGHTS RESERVED.  
+LAST DATE OF MODIFICATION: August 27, 2012. 
