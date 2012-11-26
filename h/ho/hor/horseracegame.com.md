@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609074221id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126150013id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Our Racing Games - Horse Racing Simulation, LLC
 
@@ -8,7 +8,7 @@ has created this privacy statement in order to demonstrate our firm commitment t
 
 Personal Information Collected
 
-We collect the following personal information when registering for our free game: your first and last name, your email address, a user identification (user ID), year of birth, zip code (if you’re a resident of the United States) and country. We utilize only email addresses to communicate with our members. The amount of communication depends on the level of your engagement with our game and community. Players can opt out or opt in for individual communications specifically associated with certain aspects of our game and community in which players are active. In addition, a player can opt out of all email communications at any time.
+We collect the following personal information when registering for our free game: your first and last name, your email address, a user identification (user ID), year of birth, zip code (if you're a resident of the United States) and country. We utilize only email addresses to communicate with our members. The amount of communication depends on the level of your engagement with our game and community. Players can opt out or opt in for individual communications specifically associated with certain aspects of our game and community in which players are active. In addition, a player can opt out of all email communications at any time.
 
 Our site links to our online store which uses an order form for customers to order products and services. During the ordering process we collect your name, mailing address, email address and telephone number (Contact Information) and your account or credit card information (Financial Information). Our online store will charge your credit card or account for the products and services you order. We use your name and address to ship your order if you selected the US Mail shipping option. We use your email address to send you download instructions and to inform you of program bug fixes, new product releases and new product offerings such as horse data files. We use your telephone number to contact you in the event of a problem with your order or your installation. You may opt-out of future contract from us; see the choice/opt-out section below.
 
@@ -20,7 +20,7 @@ Our site contains links to other sites. [www.horseracegame.com](http://www.horse
 
 Policy Changes
 
-[HorseRaceGame](http://www.horseracegame.com/) has the right to modify its privacy policy from time to time as long as those modifications do not include the direct disclosure of our customer’s personal information we have collected to any unrelated third party.
+[HorseRaceGame](http://www.horseracegame.com/) has the right to modify its privacy policy from time to time as long as those modifications do not include the direct disclosure of our customer's personal information we have collected to any unrelated third party.
 
 Security
 
@@ -32,7 +32,7 @@ We will keep your Contact Information and Financial Information private and will
 
 Choice/Opt-Out
 
-Our site allows our users to opt out of our email list by either clicking on the opt out selection on each and every email we send or by simply sending an email to [support@horseracegame.com](mailto:support@horseracegame.com) with the subject ‘Opt Me Out’. All such requests are honored promptly, usually within 24 to 48 hours.
+Our site allows our users to opt out of our email list by either clicking on the opt out selection on each and every email we send or by simply sending an email to [support@horseracegame.com](mailto:support@horseracegame.com) with the subject 'Opt Me Out'. All such requests are honored promptly, usually within 24 to 48 hours.
 
 Correct/Update of Information
 
