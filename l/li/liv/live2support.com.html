@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the live2support.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510212344id_/http%3A//www.live2support.com/privacyls.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the live2support.com privacy policy that was archived on 2012-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126091612id_/http%3A//live2support.com/privacyls.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Live2Support - Privacy Statement</title>
@@ -32,7 +32,7 @@ p {font-family : tahoma;	font-size: 12px;color: #333333; text-align:left;backgro
 padding-top:15px;
 }
 </style>
-<script type="text/JavaScript">
+<script type="text/javascript" async="" src="https://live2support.com/js/lsjs1.php?stid=1&amp;cmi=&amp;jqry=Y"></script><script type="text/JavaScript">
 <!--
 function stopError() {   return true; }
 window.onerror = stopError;
@@ -111,36 +111,39 @@ $(document).ready(function () {
     <div style="float:right; padding-right:0px;">
    <div id="l2s_trk" style="z-index: 99; display: inline; border: 0px solid rgb(0, 0, 0); padding-right: 100px; visibility: hidden;"><a href="http://live2support.com" style="font-size:1px;">Live Support</a></div>
 <script type="text/javascript"><!-- 
-	var l2slay_himg="https://live2support.com/imgs/hdimg.jpg";
-	var l2slay_bcolor="#000000";
-	var l2slay_pos="L";
+	var l2slay_himg="https://live2support.com/js/lyrjs/css/ui-lightness/images/h1.png";
+    var l2slay_bcolor="#000000";
+    var l2slay_pos="L";
 	var l2sdialogofftxt="Leave a Message";
 	var l2sdialogontxt="Live Chat Online";
-	function l2sinitLoader() { 
-	var l2s_pht=escape(location.protocol); 
-	if(l2s_pht.indexOf("http")==-1) l2s_pht='http:';
-	document.getElementById('l2s_trk').style.visibility='hidden'; 
-  	var script = document.createElement("script"); 
-  	script.src = unescape(l2s_pht)+"//live2support.com/js/lsjs1.php?stid=1&jqry=Y";
-  	script.type = "text/javascript";
-  	document.getElementsByTagName("body")[0].appendChild(script);
-}
-// setTimeout("l2sinitLoader()",1000);
-window.onload=function () { l2sinitLoader();}
-//--></script>
-<!-- live2support.com tracking codes closed -->
+     var l2s_pht=escape(location.protocol); if(l2s_pht.indexOf("http")==-1) l2s_pht='http:';  
+//  function l2s_load() { document.write('<scr'+'ipt type="text/javascr'+'ipt" src ="'+unescape(l2s_pht)+'//live2support.com/js/lsjs1.php?stid=1&cmi=&jqry=N"  defer=true>'+'</scr'+'ipt>');  } 
+// l2s_load();  document.getElementById('l2s_trk').style.visibility='hidden'; 
+
+(function () { 
+document.getElementById('l2s_trk').style.visibility='hidden'; 
+var l2scd = document.createElement('script'); l2scd.type = 'text/javascript'; l2scd.async = true; 
+l2scd.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'live2support.com/js/lsjs1.php?stid=1&cmi=&jqry=Y'; 
+var l2sscr = document.getElementsByTagName('script')[0]; l2sscr.parentNode.insertBefore(l2scd, l2sscr); 
+})(); 
+
+//-->
+
+</script>
+<div id="dialog3l2s" title="" style="display:none;"></div><!-- live2support.com tracking codes closed -->
     </div>
   </div>
   <div style="width:100%; height:26px; padding-top:13px; top:100px;">
     <ul id="nav">
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/" class="ahlink">HOME</a></li>
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/benefits.php" class="ahlink">BENEFITS</a></li>
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/features_live_chat.php" class="ahlink">FEATURES</a></li>
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/pricing.php" class="ahlink">PRICING</a></li>
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/" class="ahlink">HOME</a></li>
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/benefits.php" class="ahlink">BENEFITS</a></li>
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/features_live_chat.php" class="ahlink">FEATURES</a></li>
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/pricing.php" class="ahlink">PRICING</a></li>
+      <!--
       <li style="width:17%; text-align:left; color:#ffffff;">SUPPORT OUTSOURCING
         <div style="padding:6px 0px 0px 0px; margin:0px; ">
           <ul style="margin:0px;">
-            <li style="border-bottom:1px solid #002346;"><a href="/support-outsourcing/">Chat Support</a></li>
+            <li style="border-bottom:1px solid #002346;"><a href="/support-outsourcing/" >Chat Support</a></li>
             <li style="border-bottom:1px solid #002346;"><a href="/support-outsourcing/email-support-outsourcing.php">Email Support </a></li>
             <li style="border-bottom:1px solid #002346;"><a href="/support-outsourcing/customer-support-outsourcing-features.php">Features</a></li>
             <li style="border-bottom:1px solid #002346;"><a href="/support-outsourcing/customer-support-outsourcing-benefits.php">Benefits</a></li>
@@ -149,9 +152,11 @@ window.onload=function () { l2sinitLoader();}
         </div>
         <div class="clear"></div>
       </li>
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/howwork.php" class="ahlink">HOW IT WORK</a></li>
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/order.php" class="ahlink">SIGN UP</a></li>
-      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/contactus.php" class="ahlink">CONTACT US</a></li>
+      -->
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/howwork.php" class="ahlink">HOW IT WORK</a></li>
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:16%;"><a href="/order.php" class="ahlink">SIGN UP</a></li>
+      <!--
+      <li style="float: left;text-align: center;margin: 0px;overflow: hidden; width:11%;"><a href="/contactus.php"  class="ahlink">CONTACT US</a></li>-->
     </ul>
     <div class="clear"></div>
   </div>
@@ -287,7 +292,7 @@ window.onload=function () { l2sinitLoader();}
           <div style="padding-top:0px; padding-left:5px; line-height:27px; width:16%; float:left;"><strong>Offers</strong><br>
               <a href="/order.php">15 Days Free Trial</a><br>
               <a href="/downloads/">Free Download Application</a><br>
-              <a href="/freehosting.php">1 Year Free Hosting</a><br>
+              <!-- a href="/freehosting.php" >1 Year Free Hosting</a><br / -->
               <a href="/affiliate.php">Affiliate Program </a><br>
           </div>
         
@@ -342,4 +347,4 @@ pageTracker._setDomainName(".live2support.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<script src="https://live2support.com/js/lsjs1.php?stid=1&amp;jqry=Y" type="text/javascript"></script></body></html>
+</body></html>
