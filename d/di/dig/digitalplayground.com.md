@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628145004id_/http%3A//redirect.digitalplayground.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091458id_/http%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
 
-# Digital Playground :: Privacy Policy
+# Privacy Policy
 
 * * *
 
