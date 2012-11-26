@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529215457id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127002604id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : PDF to Word, PDF Converter, PDF2Word
 
@@ -17,7 +17,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on the Solid Documents Limited Web site. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Solid Documents Web site. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 > E-mail address - we use this to e-mail download links and registration codes to you and let you know about updates to our software.
 
