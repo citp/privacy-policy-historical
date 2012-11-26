@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625062408id_/http%3A//www.craftsman.com/shc/s/nb_10155_12602_NB_PrivacyPolicy%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126042936id_/http%3A//www.craftsman.com/privacypolicy/nb-100000000227111%3FadCell%3DWF) for the most accurate reproduction.*
 
 # Craftsman
 
@@ -11,11 +11,12 @@
   * Can I Disable Cookies?
   * How Do We Handle Personally Identifiable Information Collected on Children?
   * What About Links to Other Sites?
-  * What About Online Advertisements?
+  * What about Interest Based Ads - Online Advertisements?
   * Is My Information Secure?
   * How Can I Access My Information?
   * Can I “Opt-Out” of Receiving Promotional E-mails?
   * Will I Receive Notice of Changes to the Privacy Policy?
+  * Secure Password Guidelines
 
 
 
@@ -59,7 +60,7 @@ Back to top
 
 How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click [here](https://web.archive.org/shc/s/nb_10155_12602_NB_ChildrensPrivacyPolicy?adCell=W5) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Please click [here](https://web.archive.org/childrensprivacypolicy/nb-100000000227038?adCell=W5) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
 
   * Collection of children’s personal information
   * Use of children’s personal information
@@ -78,17 +79,15 @@ This Site may contain links to other Sites outside the Sears Holdings family of 
 
 Back to top
 
-What About Online Advertisements?
+What about Interest Based Ads - Online Advertisements?
 
 **Our Sites**
 
-This Site may carry advertisements from other companies. Some of these advertisements may be personalized, meaning that they are intended to be relevant to you based, for example, on commercial interests you have expressed in your online activities. You may opt-out of receiving this type of targeted advertising by visiting the Network Advertising Initiative’s (NAI) opt-out page [here](http://www.networkadvertising.org/managing/opt_out.asp). You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies. Please note that if you delete your cookies, use another computer, or change browsers, you will need to repeat this process. In addition, opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests.
+This Site may carry advertisements from other companies. Some of these advertisements may be personalized, meaning that they are intended to be relevant to you based on what we or the online advertising network serving the ad know about you or your computer's browsing activity, for example, anonymous information collected across multiple websites that you visit may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. You may opt-out of receiving this type of targeted advertising by visiting the Network Advertising Initiative's (NAI) opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> . You may also visit [http://www.aboutads.info/consumers](http://www.aboutads.info/consumers/) to learn about interest-based ads and how to opt-out from interest-based ads served by some or all participating companies. Please note that if you delete your cookies, use another computer, or change browsers, you will need to repeat this process. In addition, opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests.
 
 **Other Web Sites**
 
-We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-The Network Advertising Initiative offers useful information about Internet advertising companies, including information about how to opt-out of personalized advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf . If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20121126042936id_/http%3A//www.craftsman.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp) The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
 Back to top
 
@@ -113,5 +112,22 @@ Back to top
 Will I Receive Notice of Changes to the Privacy Policy?
 
 As mentioned above, from time to time we may modify this Privacy Policy to reflect industry initiatives or changes in the law, changes in our collection or use practices, or changes in our Site’s features or technology, and such modifications shall be effective upon posting on this Site. Your continued use of this Site after we post a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
+
+Back to top
+
+Secure Password Guidelines
+
+As an additive security measure, Sears recommends the following guidelines when establishing your online profile password:
+
+Password should contain:
+
+  * at least 8 characters
+  * at least 1 uppercase letter (A-Z)
+  * at least 1 lowercase letter (a-z)
+  * at least 1 numeric value (0-9)
+
+
+
+It is also a sound practice to differentiate passwords across multiple online accounts. Using the same credentials for multiple online accounts creates the potential for security breaches.
 
 Back to top
