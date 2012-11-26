@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527224044id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126224610id_/http%3A//cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
 
 # CMLibrary: About Us: Privacy Policy
 
@@ -6,15 +6,7 @@
   
 * * *
 
-**HOLIDAY HOURS - All libraries will be closed Monday, May 28 2012 for Memorial Day.[Learn more](http://charmeck.org/mecklenburg/county/MediaRoom/PR/Pages/COUNTYANNOUNCESCLOSINGSFORMEMORIALDAYHOLIDAY.aspx)
-
-* * *
-
-Summer Hours begin June 3; all libraries closed Sundays. [Learn more](http://ow.ly/b04sH)
-
-* * *
-
-North County Regional Library will be closed for improvements from May 7 until June 9. [Learn more](http://www.cmlibrary.org/about_us/info.asp?id=37) **
+****
 
 * * *  
   
@@ -43,9 +35,9 @@ The Library is committed to protecting the privacy of visitors to its web sites.
 
 **Related Documents:**
 
-  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20120527224044id_/http%3A//www.cmlibrary.org/About_Us/policiesPac.asp)
-  * [Internet Use Policy](https://web.archive.org/web/20120527224044id_/http%3A//www.cmlibrary.org/About_Us/policiesInternet.asp)
-  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20120527224044id_/http%3A//www.cmlibrary.org/About_Us/policiesSafetyNet.asp)
+  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20121126224610id_/http%3A//cmlibrary.org/About_Us/policiesPac.asp)
+  * [Internet Use Policy](https://web.archive.org/web/20121126224610id_/http%3A//cmlibrary.org/About_Us/policiesInternet.asp)
+  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20121126224610id_/http%3A//cmlibrary.org/About_Us/policiesSafetyNet.asp)
 
 
 
