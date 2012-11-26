@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendrabbit.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527054338id_/http%3A//www.trendrabbit.com/privacy-policy-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendrabbit.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126043647id_/http%3A//www.trendrabbit.com/privacy-policy-4) for the most accurate reproduction.*
 
 # Privacy Policy -
 
