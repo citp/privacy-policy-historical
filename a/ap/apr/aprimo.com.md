@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510091745id_/http%3A//www.aprimo.com/Secondary_.aspx%3Fid%3D241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aprimo.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126235053id_/http%3A//www.aprimo.com/Secondary_.aspx%3Fid%3D241) for the most accurate reproduction.*
 
 # Aprimo -- Integrated Marketing Software
 
