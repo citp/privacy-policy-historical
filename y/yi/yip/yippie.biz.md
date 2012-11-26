@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615062354id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126071250id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
 
 # Privacy Policy - YiPpIe!
 
