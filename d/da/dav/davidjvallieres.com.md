@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davidjvallieres.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527013817id_/http%3A//davidjvallieres.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjvallieres.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126042727id_/http%3A//davidjvallieres.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Get Published Now With David J Vallieres
+# Privacy | David J Vallieres
 
 ### PRIVACY POLICY
 
@@ -55,6 +55,8 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties such as Aweber.com who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+Your personal information will never be disclosed unless required by law.
+
  **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site by carefully screening any such offers and advertisements and welcome any feedback about these sites. You can assume that any links to external website or resources contained on this site are affiliated links meaning that we would receive a commission if you clicked the link and purchased something on the site you visited.
@@ -81,7 +83,7 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on March 23, 2012
+This policy was last modified on June 27, 2012
 
  **Contacting Us**
 
@@ -90,7 +92,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 DavidJVallieres.com  
 ℅ InfoProductLab LLC  
 PO Box 53  
-Washington Mills, New York 13479 USA
+Washington Mills, New York 13479 USA  
+Email:  
+
 
 
 
