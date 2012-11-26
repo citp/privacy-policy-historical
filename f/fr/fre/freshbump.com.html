@@ -1,19 +1,518 @@
-<!--The following is the downloaded HTML source of the freshbump.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626190111id_/http%3A//groundwavemedia.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freshbump.com privacy policy that was archived on 2012-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126100140id_/http%3A//freshbump.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>GMG Privacy Policy</title>
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <meta name="description" content="FreshBump">
+    <meta name="keywords" content="FreshBump">
+    <meta name="google-site-verification" content="LXb1svOsFs6edjzEHYhWhd6Z9aSs3tZaG2hRtxryxCU">
+    <meta name="copyright" content="FreshBump.com">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="revisit-after" content="1 day">
+    <meta name="DC.title" content="FreshBump.com">
+    <meta name="robots" content="all">
+    
+    <link rel="Shortcut Icon" type="image/ico" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="apple-touch-icon" href="/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/touch-icon-iphone4.png">
+    <!--[if lte IE 7]>
+    <link rel="stylesheet" type="text/css" href="/css/ie_fixes.css" />
+    <![endif]-->
+    
+    <title>
+    	Freshbump | Inspiration for Designers and Creatives    </title>
+    
+	
+        
+    <script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jflow.1.2.js"></script>
+    <script type="text/javascript" src="/js/jquery.form.min.js"></script>
+    <script type="text/javascript">
+    /* <![CDATA[ */
+	// Preload some images
+	jQuery.preloadImages = function(){
+		for(var i = 0; i<arguments.length; i++){
+			jQuery("<img>").attr("src", arguments[i]);
+	 	}
+	}
+	
+	jQuery.preloadImages("/graphics/nav_on_left.gif", "/graphics/nav_on_right.gif", "/graphics/button_bump_hover.gif",
+	"/graphics/button_top_arrow_left_over.gif","/graphics/button_top_arrow_right_over.gif");
+	
+	function cancelAddImage(event) {
+		if (document.all) {
+			location.reload(true);
+		} else {
+			jQuery("#addImageBlock").fadeOut("fast", function() { 
+				
+				jQuery('#cancelAddImage').show();
+				jQuery('.imagePreview').show();
+				jQuery(".message").hide();
+				jQuery("#actualForm").show();
+				jQuery('#addImageForm').resetForm();
+				jQuery('#addImageForm').show();
+				jQuery(".lastcolumn").addClass("last");
+				jQuery("#end").show();
+				jQuery('.imagePreview').hide();
+				document.forms['addImageForm'].editPost.value = "";
+				
+				jQuery(".beforelast").removeClass("last");
+				jQuery(".beforelastBottom").removeClass("last");
+			
+			});
+		}
+	}
+	
+	function editAddImage(edit_id) {
+		document.forms['addImageForm'].editPost.value = edit_id.toString();
+		jQuery('#cancelAddImage').show();
+		jQuery('#actualForm').show();
+		jQuery('.imagePreview').hide();
+	}
+	
+	jQuery(document).ready(function(){  
+		
+		// ---------------------
+		// Add Image Fader
+		// ---------------------
+		
+		
+
+		jQuery("a#addImageButton").click(function(event){  
+			
+			jQuery("#addImageBlock").fadeIn("normal");
+			
+			jQuery(".lastcolumn").removeClass("last");
+			jQuery("#end").hide();
+			
+			jQuery(".beforelast").addClass("last");
+			jQuery(".beforelastBottom").addClass("last");
+		});
+		
+		jQuery("a#cancelAddImage").click(cancelAddImage);
+		
+		// ---------------------
+		// Add Image Form Setup
+		// ---------------------
+		var options = { 
+			target:'#addImageAlert'
+		}; 
+		jQuery('#addImageForm').ajaxForm(options); 
+		jQuery('#submitImageButton').click(function(event){
+			jQuery("#cancelAddImage").hide();
+			jQuery(".loader").fadeIn("normal");
+			jQuery(".message").hide();
+		});
+		
+		// ---------------------
+		// Sign In Fader
+		// ---------------------
+		jQuery("a.signInButton").click(function(event){  
+			jQuery("a.signInButton").addClass("signInActive");
+			jQuery("#signInBlock").slideDown("normal");
+			jQuery(".signInLoader").hide();
+		});
+		
+		jQuery("a#cancelSignIn").click(function(event){
+			jQuery("#signInBlock").slideUp("fast", function() {
+				jQuery("a.signInButton").removeClass("signInActive");
+				jQuery(".signInMessage").hide();
+				jQuery(".signInLoader").hide();
+			});
+		});
+		
+		// ---------------------
+		// Sign In Form Setup
+		// ---------------------
+		var options = { 
+			target:'#signInAlert'
+		}; 
+		jQuery('#signInForm').ajaxForm(options); 
+		jQuery('#signInImageButton').click(function(event){
+			jQuery("#cancelSignIn").hide();
+			jQuery(".signInLoader").fadeIn("normal");
+			jQuery(".signInMessage").hide();
+		});
+		
+		// ---------------------
+		// Bump Functions
+		// ---------------------
+		jQuery("a.bump").click(function(event){
+			var postid = this.id;
+			postid = postid.substr(5); // remove post_ from post_1234
+			jQuery("#bumpButtonWrapper_"+postid).replaceWith("<span class=\"bumpLoader\" id=\"bumploader_"+this.id+"\"><img src=\"/graphics/ajax-loader.gif\" alt=\"Loading ...\" /></span>");
+			jQuery.post("/php/bump.php", { postID: postid },
+			function(data){
+				jQuery("#dataBlock_"+postid).addClass("bumped");
+				jQuery("#bumploader_"+postid).replaceWith("<span class=\"bumped-button\">BUMPED</span>");
+				
+				var newbumptotal = jQuery("#bump_total_id_"+postid).attr('class');
+				newbumptotal = parseInt(newbumptotal);
+				newbumptotal = newbumptotal + 1;
+				//jQuery("#bump_total_id_"+postid).replaceWith("IT WORKED");
+				jQuery("#bump_total_id_"+postid).replaceWith("<strong class=\"bumps-total\">"+newbumptotal+" <em>Bumps</em></strong>");
+			});
+		});
+		
+		// ---------------------
+		// Categories Dropdown
+		// ---------------------
+		jQuery("a#categoriesButton").click(function(event){  
+			jQuery("#categoriesBlock").slideDown("normal");
+		});
+		
+		jQuery("a#cancelCategories").click(function(event){
+			jQuery("#categoriesBlock").slideUp("fast");
+		});
+		
+		// ---------------------
+		// Top Bumps Slider
+		// ---------------------
+		jQuery("#myController").jFlow({
+			slides: "#mySlides",
+			controller: ".jFlowControl", // must be class, use . sign
+			slideWrapper : "#jFlowSlide", // must be id, use # sign
+			selectedWrapper: "jFlowSelected",  // just pure text, no sign
+			width: "430px",
+			height: "39px",
+			duration: 600,
+			prev: ".jFlowPrev", // must be class, use . sign
+			next: ".jFlowNext" // must be class, use . sign
+		});
+
+		// Info Button Pop-Up
+		jQuery("a[rel=info]").click(function(){
+			jQuery(this).next("div").show("slow");
+		});
+		jQuery("a[rel=close_info]").click(function(){
+			jQuery(this).parent("div.info").css('display', 'none');
+		});
+		jQuery("body").click(function(){
+			jQuery("div.info").each(function(){
+				jQuery(this).css('display', 'none');
+			});
+		});
+		jQuery("div.info").click(function(e){
+			e.stopPropagation();
+		});
+	});
+        /* ]]> */
+	</script>
+	<!-- EVERYGUYED NETWORK -->
+	<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'4d13dafe-b044-458b-86d6-c0d67e04c7f0'});var st_type='wordpress3.0.1';</script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://everyguyed.com/everyguyed_network_assets/css/network_header_view.css.php">
+	<link rel="stylesheet" type="text/css" href="http://everyguyed.com/everyguyed_network_assets/css/style.css">
+	<script type="text/javascript" src="http://everyguyed.com/everyguyed_network_assets/js/main.js"></script>
+	<!-- END EVERYGUYED NETWORK -->
+
+	<!-- Start of Indieclick setup
+	<script type='text/javascript'>
+		 /* <![CDATA[ */
+		 var OA_zones = {
+		 	'indieclick_zone:254401' : 254401,
+		 	'indieclick_zone:572102' : 572102,
+		 	'indieclick_zone:254301' : 254301,
+		 	'indieclick_zone:410802' : 410802
+		 }
+		 /* ]]> */
+	</script>
+	<script type='text/javascript'
+	        src='http://optimize.indieclick.com/www/delivery/spcjs.php?id=21302'></script>
+	End of Indieclick setup -->
+
+	<!-- Google Ads -->
+	<script type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+	</script>
+	
+	<script type="text/javascript">
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/1055389/Freshbump_160x600_Sidebar_HP', [160, 600], 'div-gpt-ad-1333175517231-0').addService(googletag.pubads());
+	googletag.defineSlot('/1055389/Freshbump_300x250_Index_HP', [300, 250], 'div-gpt-ad-1333175517231-1').addService(googletag.pubads());
+	googletag.defineSlot('/1055389/Freshbump_300x250_Sidebar_HP', [300, 250], 'div-gpt-ad-1333175517231-2').addService(googletag.pubads());
+	googletag.defineSlot('/1055389/Freshbump_728x90_Top_HP', [728, 90], 'div-gpt-ad-1333175517231-3').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
+	</script>
+	<!-- /Google Ads -->
+
+</head>	
+
+
+
 <body>
-This is the web site of Groundwave Media Group Inc..
+
+	<div id="nh">
+    <div class="nh-content">
+        <div id="nh-popup">Other Sites</div>
+        <div class="nh-collapsed">
+            <div class="nh-left"><strong>EveryGuyed</strong> Network</div>
+            <div class="nh-right"><a href="http://everyguyed.com/everyguyed_network_assets/css/network_header_view.css.php?set=full&amp;redirect=http://freshbump.com">Show</a></div>
+            <div style="clear:both;"></div>
+        </div>
+        <ul class="nh-top-nav">
+            <li>
+                <h4 class="nh-button nh-network-button"><a href="http://everyguyed.com"><strong>EveryGuyed</strong> Network</a></h4>
+                <div class="nh-network-menu nh-menu" style="display:none;">
+                    <ul class="nh-menu-content">
+                        <li class="first">
+                            <div class="nh-menu-col">
+                                <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/everyguyed.jpg" alt="EveryGuyed" class="no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/everyguyed.jpg" title="Advice. Fashion. Style. Grooming. Education." alt="EveryGuyed" class="nh-blog-image nh-everyguyed no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/amog.jpg" title="The Definitive Men's Network. Men's Style, Defined." alt="AMOG" class="nh-blog-image nh-amog no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/definitivetouch.jpg" title="Contemporary. Refined. Independent. Menswear." alt="DefinitiveTouch" class="nh-blog-image nh-definitivetouch no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/formatmag.jpg" title="Streetwear. Lowbrow. Skate. Sneakers. Toys. Music." alt="FormatMag" class="nh-blog-image nh-formatmag no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/freshbump.jpg" title="Style. Art. Design. Graphic. Auto. Gadget." alt="Freshbump" class="nh-blog-image nh-freshbump no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/assemblist.jpg" title="Luxury. Style. Auto. Estate. Travel. Liquor." alt="Assemblist" class="nh-blog-image nh-assemblist no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/theshoebuff.jpg" title="Contemporary. Independent. Footwear." alt="TheShoeBuff" class="nh-blog-image nh-theshoebuff no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/thecarry.jpg" title="Bags. Luggage. Wallets. Cases." alt="TheCarry" class="nh-blog-image nh-thecarry no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/suitored.jpg" title="Formalwear. Suits. Ties. Cufflinks." alt="Suitored" class="nh-blog-image nh-suitored no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/framegeek.jpg" title="Eyewear. Glasses. Sunglasses." alt="FrameGeek" class="nh-blog-image nh-framegeek no-lazy-load">
+                                                                    <img src="http://everyguyed.com/everyguyed_network_assets/images/blogs/finercut.jpg" title="Grooming. Skincare. Fragrance. Hair." alt="FinerCut" class="nh-blog-image nh-finercut no-lazy-load">
+                                                            </div>
+                            <div class="nh-menu-col">
+                                <strong class="nh-blog-title">EveryGuyed</strong><br>
+                                <span class="nh-blog-categories">Advice. Fashion. Style. Grooming. Education.</span><br>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="nh-menu-col">
+                                <h4>Fashion</h4>
+                                <ul>
+                                    <li><a href="http://definitivetouch.com">DefinitiveTouch</a></li>
+                                    <li><a href="http://formatmag.com">FormatMag</a></li>
+                                    <li><a href="http://framegeek.com">FrameGeek</a></li>
+                                    <li><a href="http://suitored.com">Suitored</a></li>
+                                    <li><a href="http://thecarry.com">TheCarry</a></li>
+                                    <li><a href="http://theshoebuff.com">TheShoeBuff</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="nh-menu-col">
+                                <h4>Style</h4>
+                                <ul>
+                                    <li><a href="http://amog.com">AMOG</a></li>
+                                    <li><a href="http://assemblist.com">Assemblist</a></li>
+                                    <li><a href="http://finercut.com">FinerCut</a></li>
+                                    <li><a href="http://freshbump.com">Freshbump</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <a href="" class="nh-menu-close">
+                        <img class="nh-menu-bar" src="http://everyguyed.com/everyguyed_network_assets/images/header_menu_bar.png" alt="Close Menu">
+                    </a>
+                </div>
+            </li>
+            <li>
+                <h4 class="nh-button">Subscribe</h4>
+                <div class="nh-subscribe-menu nh-menu" style="display:none;">
+                    <h4>Subscribe to Freshbump</h4>
+                    <ul>
+                        <li>
+                            <a href="http://feeds.feedburner.com/freshbump">
+                                <div class="nh-icon nh-bw" style="background-position:0 0;"></div>
+                                <div class="nh-icon nh-colour" style="background-position:0 -32px;"></div>
+                                <strong>RSS</strong>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://twitter.com/freshbump">
+                                <div class="nh-icon nh-bw" style="background-position:-32px 0;"></div>
+                                <div class="nh-icon nh-colour" style="background-position:-32px -32px;"></div>
+                                <strong>Twitter</strong>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.facebook.com/#!/pages/freshbump/110296142349750">
+                                <div class="nh-icon nh-bw" style="background-position:-64px 0;"></div>
+                                <div class="nh-icon nh-colour" style="background-position:-64px -32px;"></div>
+                                <strong>Facebook</strong>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <div class="nh-icon nh-bw" style="background-position:-96px 0;"></div>
+                                <div class="nh-icon nh-colour" style="background-position:-96px -32px;"></div>
+                                <strong>E-mail</strong>
+                            </a>
+                        </li>
+                    </ul>
+                    <a href="#" class="nh-menu-close">
+                        <img class="nh-menu-bar" src="http://everyguyed.com/everyguyed_network_assets/images/header_menu_bar.png" alt="Close Menu">
+                    </a>
+                </div>
+            </li>
+            <li>
+                <h4 class="nh-button">Share</h4>
+                <div class="nh-share-menu nh-menu" style="display:none;">
+                    <h4>Share This Page</h4>
+                    <ul>
+                    <li>
+                        <span class="st_twitter_large"></span>
+                        <strong>Tweet</strong>
+                    </li>
+                    <li>
+                        <span class="st_facebook_large"></span>
+                        <strong>Facebook</strong>
+                    </li>
+                    <li>
+                        <span class="st_email_large"></span>
+                        <strong>E-mail</strong>
+                    </li>
+                    <li>
+                        <span class="st_reddit_large"></span>
+                        <strong>Reddit</strong>
+                    </li>
+                    <li>
+                        <span class="st_digg_large"></span>
+                        <strong>Digg</strong>
+                    </li>
+                    <li>
+                        <span class="st_delicious_large"></span>
+                        <strong>Delicious</strong>
+                    </li>
+                    <li>
+                        <span class="st_stumbleupon_large"></span>
+                        <strong>Stumble</strong>
+                    </li>
+                                        </ul>
+                </div>
+            </li>
+            <li class="nh-last">
+                <h4 class="nh-button nh-hide-button"><a href="http://everyguyed.com/everyguyed_network_assets/css/network_header_view.css.php?set=collapsed&amp;redirect=http://freshbump.com">Hide</a></h4>
+            </li>
+        </ul>
+    </div>
+</div>
+<div id="header">
+	<div class="content-normal">
+		<h1><a href="/">FreshBump</a></h1>
+        <div id="navigation">
+        	<ul>
+            	<li style="width:75px"><a href="http://www.freshbump.com/featured/contact/"><span>Contact</span></a></li>
+            	            		<li style="width:75px"><a class="signInButton"><span>Sign In</span></a></li>
+                    <li style="width:84px" class="current"><span>Register</span></li>
+               	                <li style="width:68px"><a href="/about/"><span>About</span></a></li>
+                <li style="width:86px"><a href="/featured/"><span>Featured</span></a></li>
+                <li style="width:64px"><a href="/"><span>Home</span></a></li>
+          	</ul>
+        </div>
+  </div>
+</div><!-- header -->
+    <div id="subheader">
+	<div class="content-normal">
+    	<div id="todays-top-bumps">
+        
+        	<h2>Today's Top Bumps</h2>
+<div id="top-posts">
+                    <a href="/nature-and-surf-photography-by-stuart-gibson/" title="5 Bumps Today">
+					
+					<img src="/graphics/image_files/tiny_nature-and-surf-photography-by-stuart-gibson.jpg" alt="5 Bumps Today"></a>
+                                    <a href="/cutting-board-with-collapsible-bin/" title="5 Bumps Today">
+					
+					<img src="/graphics/image_files/tiny_cutting-board-with-collapsible-bin.jpg" alt="5 Bumps Today"></a>
+                                    <a href="/watch-warm-flat-screen-tv-and-fireplace-in-one-/" title="5 Bumps Today">
+					
+					<img src="/graphics/image_files/tiny_watch-warm-flat-screen-tv-and-fireplace-in-one-.jpg" alt="5 Bumps Today"></a>
+                                    <a href="/ecolofts-at-hotel-end-mico/" title="5 Bumps Today">
+					
+					<img src="/graphics/image_files/tiny_ecolofts-at-hotel-end-mico.jpg" alt="5 Bumps Today"></a>
+                        
+</div>
+
+        </div>
+        
+        <div id="search-area">
+        	<form action="/" method="get" style="margin:0; padding:0">
+                <fieldset title="search">
+                    <input type="text" name="q" value="Search the Site ..." onfocus="if (this.value == 'Search the Site ...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search the Site ...';}" class="textbox">
+            		<input type="image" src="/graphics/button_go.gif" class="goButton">
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="buttons-leaderboard">
+	<div class="content-normal">
+    	<div class="buttons">
+	    <a href="/rss/feed.php"><img src="/graphics/button_subscribe.gif" alt="Subscribe to our Feed" class="big-rss"></a>
+	    <a id="addImageButton"><img src="/graphics/button_addnext.gif" alt="Add the Next Image" class="add-next"></a>
+                           	<div id="addImageBlock">
+                	<h2>Add the Next Image</h2>
+                    <p style="margin-top:0; margin-bottom:15px"><br>
+                    Sorry, but you must be <a href="/register/">Registered</a> or<br><a class="signInButton">Signed In</a> to add a new image!<br><br>
+                    <a id="cancelAddImage">Nevermind, close this window.</a></p>
+                </div>
+                        
+        </div>
+
+        <div class="leaderboard">
+			<!-- Freshbump_728x90_Top_HP -->
+			<div id="div-gpt-ad-1333175517231-3" style="width:728px; height:90px;">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1333175517231-3'); });
+			</script>
+			</div>
+        </div><!-- .leaderboard -->
+
+        <div id="signInBlock">
+            <h2>Get Signed In:</h2>
+            <div class="signInLoader"><img src="/graphics/ajax-loader.gif" alt="Loading ..."></div>
+            <div class="signInMessage"><div id="signInAlert"></div></div>
+        
+            <form action="/php/jquery_signin.php" id="signInForm" method="post" class="login-form">
+                <div id="actualSignInForm" style="display:inline">
+                <input type="hidden" name="signin_submit" value="1">
+               
+                <!-- USERNAME -->
+                <strong>Username:</strong>
+                <input name="username" type="text" class="textbox">
+                
+                <!-- PASSWORD -->
+                <strong>Password:</strong>
+                <input name="password" type="password" class="textbox">
+                
+                <input type="checkbox" value="1" name="remember">
+		<span style="position:relative; top:-2px; font-size:9px">Remember Me</span>
+		<span style="position:relative; top:-2px; font-size:9px; right: -15px;"><a href="/php/reset-pw.php?new_req=t">Forgot Your Password?</a></span><br><br>
+              
+                <input type="submit" id="signInImageButton" class="submit-button" value="Sign In!">&nbsp;&nbsp;<a id="cancelSignIn"><strong style="display:inline;">Close Window</strong></a>
+	</div>
+            </form>
+        </div>
+    </div>
+</div>
+   	
+    <!-- Get Registered -->
+    <div id="main-content">
+		<div class="content-normal">
+            
+            <div class="left-window">
+            	<h2>Privacy Policy</h2>
+This is a web site of Alpha Brand Media, Inc.
 <br><br>
-This is a privacy policy for all GMG sites including assemblist.com, definitivetouch.com, everyguyed.com, finercut.com, formatmag.com, framegeek.com, freshbump.com, hellokisses.com, suitored.com, thecarry.com, theshoebuff.com
+This is a privacy policy for all ABM sites including assemblist.com, definitivetouch.com, everyguyed.com, finercut.com, formatmag.com, framegeek.com, freshbump.com, suitored.com, thecarry.com, theshoebuff.com
 <br><br>
-Our postal address is<br>
-873 St. Clair W. St 3<br>
-Toronto, ON, M6C 1C4<br>
-We can be reached via e-mail at info@everyguyed.com<br>
-or you can reach us by telephone at 647-886-4866
+Our postal address is
+1075 Bathurst St. Toronto, ON
+We can be reached via e-mail at info@everyguyed.com
 <br><br>
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 <br><br>
@@ -29,22 +528,150 @@ From time to time, we make the e-mail addresses of those who access our site ava
 <br><br>
 From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 <br><br>
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-http://www.indieclick.com
-http://www.mtvtribes.com
-http://www.hypecircle.com
-http://www.largetail.com
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: http://www.indieclick.com
 <br><br>
-To prevent ad-server tracking, you can disable cookies on your browser or opt out via the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising site</a>
+To prevent ad-server tracking, you can disable cookies on your browser or opt out via the Network Advertising site
 <br><br>
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 <br><br>
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-Consumers can access this information by e-mail us at the above address.
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the above address.
 <br><br>
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 <br><br>
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+<br><br>
+Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.
+<br><br>
+End users may opt out of behavioral targeting through the opt-out link located at http://www.networkadvertising.org/managing/opt_out.asp
+<br><br>
+Everyguyed is participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising: http://www.aboutads.info/choices/.<br><br>
+            </div>
+        
+            <div class="right-window">
+                <h2>Get Signed In</h2>
+                                
+                <form action="/php/signin.php" method="post">
+                    <input type="hidden" name="signin_submit" value="1">
+                   
+                    <!-- USERNAME -->
+                    <strong>Username:</strong>
+                    <input name="username" type="text" class="textbox">
+                    
+                    <!-- PASSWORD -->
+                    <strong>Password:</strong>
+                    <input name="password" type="password" class="textbox">
+                    
+                    <input type="checkbox" value="1" name="remember"> <span style="position:relative; top:-2px; font-size:12px">Remember Me</span><br>
+                  
+                    <input type="submit" class="submit-button" value="Sign In!">
+                </form>
+            </div>
+    
+        <div class="clear"></div>
+        
+  	</div>
+    
+    <div id="footer">
+	<div class="content-normal">
+    	<div class="left">
+			        	<h3>Top Posters:</h3>
+            
+            <table class="top-users-table" cellspacing="0" cellpadding="0">
+            	<tbody><tr><th>Username</th><th style="text-align:center; width:50px;">Bumped</th></tr>
+				<tr><td style="background:#1F1F1F;"><a href="/?member_id=15">Freshbump</a></td><td style="background:#1F1F1F; text-align:center;"><strong>30436</strong></td></tr><tr><td><a href="/?member_id=624">laurasweet</a></td><td style="text-align:center;"><strong>3391</strong></td></tr><tr><td style="background:#1F1F1F;"><a href="/?member_id=2464">miguelfds</a></td><td style="background:#1F1F1F; text-align:center;"><strong>3002</strong></td></tr><tr><td><a href="/?member_id=754">ImALongShot</a></td><td style="text-align:center;"><strong>2948</strong></td></tr><tr><td style="background:#1F1F1F;"><a href="/?member_id=1149">BUZZ-BEAST</a></td><td style="background:#1F1F1F; text-align:center;"><strong>2675</strong></td></tr><tr><td><a href="/?member_id=1005">ohthatstweet</a></td><td style="text-align:center;"><strong>2438</strong></td></tr><tr><td style="background:#1F1F1F;"><a href="/?member_id=621">Ally</a></td><td style="background:#1F1F1F; text-align:center;"><strong>2325</strong></td></tr>           	</tbody></table>
+        </div>
+        <div class="middle">
+				<h3>Top Bumpers:</h3>
+
+	<table class="top-users-table" cellspacing="0" cellpadding="0">
+		<tbody><tr><th>Username</th><th style="text-align:center; width:50px;">Bumps</th></tr>
+		<tr>
+			<td><a href="/?member_id=204">wizardsleevetoys</a></td>
+			<td style="text-align:center;"><strong>4200</strong></td>
+		</tr>
+		<tr>
+			<td style="background:#1F1F1F;"><a href="/?member_id=32">Scottycross</a></td>
+			<td style="background:#1F1F1F; text-align:center;"><strong>2898</strong></td>
+		</tr>
+		<tr>
+			<td><a href="/?member_id=1156">Shiz</a></td>
+			<td style="text-align:center;"><strong>1780</strong></td>
+		</tr>
+		<tr>
+			<td style="background:#1F1F1F;"><a href="/?member_id=136">davecarter</a></td>
+			<td style="background:#1F1F1F; text-align:center;"><strong>1768</strong></td>
+		</tr>
+		<tr>
+			<td><a href="/?member_id=292">Balo!!</a></td>
+			<td style="text-align:center;"><strong>1704</strong></td>
+		</tr>
+		<tr>
+			<td style="background:#1F1F1F;"><a href="/?member_id=120">asmalldharma</a></td>
+			<td style="background:#1F1F1F; text-align:center;"><strong>1172</strong></td>
+		</tr>
+		<tr>
+			<td><a href="/?member_id=45">alfienumeric</a></td>
+			<td style="text-align:center;"><strong>922</strong></td>
+		</tr>
+	</tbody></table>
+        </div>
+        <div class="right">
+			<!-- Freshbump_300x250_Sidebar_HP -->
+			<div id="div-gpt-ad-1333175517231-2" style="width:300px; height:250px;">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1333175517231-2'); });
+			</script>
+			</div>			
+        </div>
+    </div>
+    <div class="clear">&nbsp;</div>
+    
+<!-- Start Halogen tag -->
+<script src="http://publishers.halogennetwork.com/audience/Every_Guyed.js" type="text/javascript"></script>
+<!-- End Halogen tag -->
+
+<!-- Start Viglink tag -->
+<script type="text/javascript">
+	var vglnk = { api_url: '//api.viglink.com/api',
+		key: '20e3385d91ed3a5cd9bcbb162c5b6f7e' };
+
+	(function(d, t) {
+		var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+		s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+			'//cdn.viglink.com/api') + '/vglnk.js';
+		var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+	}(document, 'script'));
+</script>
+<!-- End Viglink tag -->
+
+ 	<div class="footer-bottom">
+    	<div class="content-normal">
+            <a href="/">Home</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/about/">About</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+	    <!--<a href="http://groundwavemedia.com/privacy.html">Privacy Policy</a>-->
+        <a href="/privacy-policy.php">Privacy Policy</a>
+	    &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/register/">Register/Sign In</a>
+	    &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/featured/?p=2009">Advertise with Us</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/rss/feed.php" class="rss">Our Feed</a>
+        </div>
+    </div>
+</div><!-- footer -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7486765-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
-</body></html>
+
+</div></body></html>
