@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527122715id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091423id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
-
-**Privacy Policy**
 
 This privacy policy applies to the services offered by Ticket Solutions Pty Ltd (ACN106907206) t/as oztix of PO Box 476, Annerley, Qld, 4103 Queensland Australia ('We', 'Our' or 'Us')
 
