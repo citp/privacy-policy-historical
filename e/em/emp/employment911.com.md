@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employment911.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526105915id_/http%3A//www.employment911.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employment911.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126101851id_/http%3A//www.employment911.com/privacy.aspx) for the most accurate reproduction.*
 
 # Employment 911's Privacy Policy
 
