@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528150913id_/http%3A//www.wrestlenewz.com/wrestling/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091516id_/http%3A//www.wrestlenewz.com/wrestling/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WWE News, TNA News, WWE Divas Photos, TNA Knockouts Photos - WNZ
 
@@ -60,9 +60,9 @@ Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of 7/29/2010 and last updated 11/16/2011.
 
-Help WNZ out and share this post...
+Be Sociable, Share!
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
