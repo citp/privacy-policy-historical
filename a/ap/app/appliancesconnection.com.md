@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505094908id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126042812id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AppliancesConnection.com
 
@@ -86,7 +86,7 @@ Transactional Information
 
 We make every effort to ensure that your purchase experience at AppliancesConnection.Com is secure. We use state-of-the-art data encryption technology to protect against loss, misuse or alteration of your user information. Secure Socket Layers (SSLs) encrypt the information sent between your computer and our database. In addition, we use Internet fraud screening to protect credit card transactions. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
 
-To be sure you're browsing secure pages, check your web browser status bar (located at the bottom of the window) for the closed padlock icon. This icon appears in the latest versions of Internet Explorer and Firefix to tell you that you are viewing a secure web page. Also, all browsers display an "s" after the "http" (https://�) in the website address to indicate that you're in a secure environment.
+To be sure you're browsing secure pages, check your web browser status bar (located at the bottom of the window) for the closed padlock icon. This icon appears in the latest versions of Internet Explorer and Firefix to tell you that you are viewing a secure web page. Also, all browsers display an "s" after the "http" (https://…) in the website address to indicate that you're in a secure environment.
 
 We also protect your purchase by preventing the shipment of merchandise to a fraudulent address. All billing addresses are verified electronically and all alternate shipping addresses are verified manually. Any customer shipping to an address that differs from the billing address must put this alternate address on file with his or her credit card company. We then call the credit card issuer to verify that the customer has indeed put the information on file.
 
