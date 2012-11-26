@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bibleinfo.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527130018id_/http%3A//www.bibleinfo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibleinfo.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126220021id_/http%3A//www.bibleinfo.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bibleinfo.com
+
+## You are here
 
 Your privacy is important to Bibleinfo.com. As a user of our website, you will learn about the Bible perhaps for yourself, perhaps on behalf of someone else. At Bibleinfo.com, we understand that your spiritual life is a personal and private subject, and we want you to feel as comfortable as possible visiting our website and using its services. This Privacy Policy will tell you what information we collect, how we protect it and what choices you have about how that information is used. We urge you to read our Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
