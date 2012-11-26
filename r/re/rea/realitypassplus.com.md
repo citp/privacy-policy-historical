@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realitypassplus.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518100511id_/http%3A//join.realitypassplus.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitypassplus.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126160646id_/http%3A//www.realitypassplus.com/tour3/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-**Reality Pass Plus**
+**REALITYPASSPLUS.COM**
 
 **PRIVACY POLICY STATEMENT**  
   
