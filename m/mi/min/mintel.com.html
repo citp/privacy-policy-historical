@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the mintel.com privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605025718id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mintel.com privacy policy that was archived on 2012-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126060449id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <!-- Sina Weibo (chinese twitter) -->
+    <meta property="wb:webmaster" content="14ef502f7c89a6b5">
+    <!-- End Weibo -->
 
     <!-- ClickTale web analytics -->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -20,21 +24,24 @@
     <meta name="google-site-verification" content="NUNCv7433Xg9OobiKx_XatSR2_gie_YhfT0GyE7lzuI">
     <meta name="bitly-verification" content="19b5b07208e3">
 
-    <link href="/stylesheets/stylesheet-min.r235199.css" type="text/css" rel="stylesheet">
+    <link href="/stylesheets/stylesheet-min.r248724.css" type="text/css" rel="stylesheet">
+    <!--[if IE 6]>
+    <link href="/stylesheets/stylesheet_ie6-min.r248724.css" type="text/css" rel="stylesheet">
+    <![endif]-->  
     
-    <link href="/stylesheets/stylesheet_en-min.r235199.css" type="text/css" rel="stylesheet">
+    <link href="/stylesheets/stylesheet_en-min.r248724.css" type="text/css" rel="stylesheet">
     
 
     
     
 
     <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-    <script type="text/javascript">
-        google.load("prototype", "1.6");
-        google.load("scriptaculous", "1.8");
-    </script>
+    
+    <script src="/javascript/prototype/prototype.js" type="text/javascript"></script>
+    <script src="/javascript/scriptaculous/scriptaculous.js" type="text/javascript"></script>
+    
 
-    <script src="/javascript/common-min.r235199.js" type="text/javascript"></script>
+    <script src="/javascript/common-min.r248724.js" type="text/javascript"></script>
 
     
 
@@ -43,7 +50,9 @@
 
     <script type="text/javascript">
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-4719493-1']);
+    
+      _gaq.push(['_setAccount', 'UA-4719493-1']);
+    
     _gaq.push(['_setSiteSpeedSampleRate', 10]);
     _gaq.push(['_trackPageview']);
 
@@ -54,9 +63,12 @@
     })();
     </script>
 
+    
+
     <script>document.observe('dom:loaded', init_main_menu);</script>
   </head>
   <body class="groupsite_body">
+     
     <div id="content">
     
     <div id="header">
@@ -67,9 +79,8 @@
         </div>
         <div id="top_nav">
             <ul id="top_menu">
-                <!--<li style="padding: 0;"><img alt="" src="/images/header/bg_topnav_left.gif"></li>
-                <li class="blue"><a href="http://portal.mintel.com/">Client Login</a></li>-->
-                <li style="padding: 0;"><img alt="" src="/images/header/bg_topnav_grey_edge.gif"></li>
+                <li style="padding: 0; margin-top:1px;"><img alt="" src="/images/header/bg_topnav_left.gif"></li>
+                <li class="blue" style="margin-top:1px;"><a href="https://portal.mintel.com/portal/login?next=/">Client Login</a></li>
                 <li style="padding-left: 10px;">
                     <a href="/contact-form">Contact Us</a>
                 </li><li>|</li>
@@ -79,26 +90,29 @@
                 
 
 <li id="language_value">
-    <span class="clickable">
+    <span class="clickable curr_language">
         
         
             English
+        
         
         
         <ul id="language_menu" style="display: none;">
             <li><span class="clickable" onclick="change_language('en');">English</span></li>
             <li><span class="clickable" onclick="change_language('zh');">中文</span></li>
             <li><span class="clickable" onclick="change_language('ja');">日本語</span></li>
+            <!--<li><span class="clickable" onclick="change_language('pt-br');">Portugu&ecirc;s Brasileiro</span></li>-->
         </ul>
     </span>
 </li>
-<form id="language_form" style="display: none;" method="POST" action="/i18n/setlang/"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="cda28bd8375acdbf3665eb77ddda1fbd"></div>
+<form id="language_form" style="display: none;" method="POST" action="/i18n/setlang/"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="0599f379ddbf4154c7122969ce49393c"></div>
     <input type="hidden" id="language_input" name="language" value="en">
 </form>
 <script type="text/javascript">
     $('language_value').observe("mouseover", show_language_menu);
     $('language_value').observe("mouseout", hide_language_menu);
 </script>
+
                 <li class="search_container">
                     <form method="get" action="/search" name="search">
                         <div>
@@ -144,7 +158,7 @@
                 
                     
                     <li id="careers-mintel">
-                        <a href="/careers-mintel">Careers <img src="/images/header/deselected_dropdown_menu_arrow.gif" style="position: relative; top: -3px;"></a>
+                        <a href="/careers-mintel">Careers</a>
                     </li>
                 
                     
@@ -278,53 +292,6 @@
         
     
         
-            <div id="careers-mintel_drop" class="drop_down_menu" style="display: none;">
-                <div class="menu_name"><a href="/careers-mintel">Careers <img src="/images/header/selected_dropdown_menu_arrow.gif" style="position: relative; top: -3px;"></a></div>
-                <table class="drop_down_menu_items"><tbody><tr><td>
-                <div style="width: 165px; height: 1px; margin:0 padding: 0;"></div>
-                <ul class="top_level">
-                    
-                        <li>
-                            
-                                <a href="/careers-emea-apac">Europe &amp; Asia</a>
-                            
-                            
-                                <ul>
-                                    
-                                        <li><a href="/careers-emea-apac-development">Career Development</a></li>
-                                    
-                                        <li><a href="/careers-emea-apac-opportunities">Job Opportunities</a></li>
-                                    
-                                        <li><a href="/careers/graduate/uk">Graduate Roles</a></li>
-                                    
-                                </ul>
-                            
-                        </li>
-                        
-                    
-                        <li>
-                            
-                                <a href="/careers-us">United States</a>
-                            
-                            
-                                <ul>
-                                    
-                                        <li><a href="/careers-us-development">Career Development</a></li>
-                                    
-                                        <li><a href="/careers-us-training">Training &amp; Programs</a></li>
-                                    
-                                        <li><a href="/careers-us-opportunities">Job Opportunities</a></li>
-                                    
-                                </ul>
-                            
-                        </li>
-                        
-                    
-                </ul>
-                <div style="clear: both;"></div>
-                </td></tr></tbody></table>
-            </div>
-        
     
         
     
@@ -394,13 +361,6 @@
 
     </div>
     
-        <div class="large_top_image small" style="background-image: url(/images/uploads/banner_contactus.jpg);">
-            <h1>Contact Us</h1>
-            Wherever You Are We're There To Answer Your Questions
-            
-        </div>
-    
-
     
     <div id="breadcrumbs">
         <a href="/" style="margin: 0;"><img src="/images/breadcrumbs/home.png"></a>
@@ -469,8 +429,9 @@
 <p>Mintel views all personal information that it collects as a valuable and confidential asset of which we take great care to ensure its safety</p>
 <p><strong>What we do with the information collected<br></strong> When you visit this site your IP address is recorded. We use your IP address to help diagnose problems with our server and to create statistical reports about usage. Your IP address is used to help identify you when you buy from our site and to gather broad demographic identification that will not be tied to your identity.</p>
 <p>This site also uses "cookies", which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your search results so you can go back to them) and to keep track of the number of users accessing our site and the information they access. Our information sites will NOT function correctly if you disable cookies.</p>
-<p>This site uses "Web Beacons” as part of its web analytics service. Mintel may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. Mintel does not collect personally identifiable information that you do not voluntarily enter in this website. Mintel does not track your browsing habits across web sites which do not use Mintel services. </p>
-<p>You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. Third parties are not permitted to use Web Beacons on the Site.</p>
+<p>For a more thorough discussion of how cookies are used on Mintel sites, including details of how to opt-out of certain services please see our <a href="/cookie-use">Cookie Use on Mintel Websites</a> page</p>
+<p>Some Mintel sites use the ClickTale web analytics service.  ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type into the site. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website.  Mintel does not track your browsing habits across web sites that do not use ClickTale analytics.  For more information see <a href="http://www.clicktale.com/privacy_service.aspx">Privacy Policy for Information Collected by the ClickTale Web Analytics Service</a>. </p>
+<p>We are using the information collected by ClickTale service to further improve the usability of our web sites.  You can choose to disable the Service at <a href="http://www.clicktale.net/disable.html">http://www.clicktale.net/disable.html</a>.</p>
 <p>We may share your information with third parties who assist us in providing our service to you, e.g. our supplier Barclaycard Merchant Services may collect credit card information in order to process any payments you make.</p>
 <p>Mintel Group maintains a strict “no-spam” policy. We will not sell, trade, rent or lease your personal information to others without your consent. We use your personal information to provide requested information and to keep you informed of Mintel’s commercial products and services to help ensure that the information we provide to you is relevant to your specific needs. If you do not wish to continue receiving marketing information, please notify us by email at <a href="mailto:data.controller@mintel.com">data.controller@mintel.com</a> alternatively you can use our opt-out policy which is detailed below.</p>
 <p>If permission is granted, user information may be used to send occasional emails containing offers from our partners. This will only ever be provided to users who have specifically given us permission to use their information in this way.</p>
@@ -553,14 +514,6 @@
     <!-- salesforce scripts -->
     <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
     <script type="text/javascript">__sfga();</script>
-    <!-- hubspot tracking code -->
-    <script type="text/javascript">
-    var hs_portalid=40980; 
-    var hs_salog_version = "2.00";
-    var hs_ppa = "mintel.demo.hubspot.com"
-    document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://mintel.demo.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-    <!-- end hubspot -->
     <!-- silverpop analytics -->
     <!--
     Disabling Silverpop as invalid cookie names appear to cause a CSRF validation error when changing language 
