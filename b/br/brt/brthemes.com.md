@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brthemes.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124122630id_/http%3A//www.brthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brthemes.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126162300id_/http%3A//www.brthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Mobile Phones Theme Blog !! Nokia Themes ~ Wallpapers ~ Screensavers » Privacy Policy
 
@@ -25,9 +25,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 Rating: 10.0/ **10** (2 votes cast)
-
-Popularity: 3%
-
-### Related Posts
-
-No related posts.
