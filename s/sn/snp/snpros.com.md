@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the snpros.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608012456id_/http%3A//www.snpros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snpros.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126043815id_/http%3A//snpros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SNpros.com
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the SNpros.com website, or it's affiliate websites. On some pages, you can request services and register to receive materials. The types of personal information collected at these pages are:
+Privacy Policy 
+
+At SNpros.com, we take privacy concerns very seriously. Your right to privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on the SNpros.com website, or it's affiliate websites. On some pages, you can request services and register to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Address
@@ -16,10 +18,15 @@ We use the information you provide only to complete your request. We do not shar
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [[here]](http://www.google.com/privacy_ads.html). Other third-party vendors also serve ads on our site. You may visit our vendors' websites to opt out of cookies (if the vendor offers this capability). You can opt out of some, but not all, of these vendor cookies in one location at the Network Advertising Initiative's opt-out website [[here]](http://www.networkadvertising.org/managing/opt_out.asp).
+  
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. You can access all your personally identifiable information that we collect online and maintain by emailing a detailed request to [info@snpros.com](mailto:%20info@snpros.com). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request detailing the error. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@snpros.com](https://web.archive.org/web/20120608012456id_/http://snpros.com/privacy-policy/%22mailto:).
+Cookies & 3rd Party Advertisements
 
-| 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. You can access all your personally identifiable information that we collect online and maintain by emailing a detailed request to [info@SNpros.com](mailto:%20info@SNpros.com). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request detailing the error. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
+
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@SNpros.com](https://web.archive.org/web/20121126043815id_/http://www.snpros.com/privacy-policy/%22mailto:).
