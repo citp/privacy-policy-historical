@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerball.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614140019id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerball.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126063755id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Powerball
 
