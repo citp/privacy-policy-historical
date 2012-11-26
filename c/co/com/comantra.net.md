@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comantra.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505005034id_/https%3A//www.comantra.net/site/cms_pages/4/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comantra.net privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126052143id_/http%3A//www.comantra.net/site/cms_pages/4/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy:comantra kolkata | comantra | comantra e solutions | comantra services | comantra phone calls
+# comantra | comantra india | comantra esolutions | comantra.net
 
 1 . What information do Comantra Agents collect from me?  
 2 . When does Comantra collect information from me?  
