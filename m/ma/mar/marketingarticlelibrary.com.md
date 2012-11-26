@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingarticlelibrary.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528114543id_/http%3A//www.marketingarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingarticlelibrary.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126161047id_/http%3A//www.marketingarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
-# MARKETING ARTICLE LIBRARY- Sales, Advertising, Internet Marketing, Promotions, Publicity, Affiliate Marketing, Sales Training...
+# MARKETING ARTICLE LIBRARY- Free Marketing Articles on Sales, Advertising, Internet Marketing, Promotions, Publicity, Affiliate Marketing, Sales Training...
 
 ## Our Address & Contact Information
 
@@ -40,7 +40,7 @@ MarketingArticleLibrary.com does not knowingly collect or solicit Personally Ide
 
 **Contacting Us**
 
-We can be reached by [emailing us.](https://web.archive.org/web/20120528114543id_/http%3A//www.marketingarticlelibrary.com/contacts.php)
+We can be reached by [emailing us.](https://web.archive.org/web/20121126161047id_/http%3A//www.marketingarticlelibrary.com/contacts.php)
 
 **Changes to this Policy**
 
