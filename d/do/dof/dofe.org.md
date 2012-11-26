@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126213939id_/http%3A//www.dofe.org/en/content/cms/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofe.org privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045140id_/http%3A//www.dofe.org/en/content/cms/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - the DofE
 
@@ -12,7 +12,7 @@ By using our online services **you are accepting** the practices described in th
 
 There are two types of information you provide us with when using our online services: personal information you knowingly choose to disclose that is collected by us and information collected by us as you interact with our services.
 
-We collect your personal information because it helps us support Operating Authorities, DofE centres and groups and participants in achieving an Award. It enables us to give convenient access to our online services and support mechanisms. In addition, personal information helps us to continue to develop and improve the way the DofE operates and supports its network.
+We collect your personal information because it helps us support Licensed Organisations, DofE centres and groups and participants in achieving an Award. It enables us to give convenient access to our online services and support mechanisms. In addition, personal information helps us to continue to develop and improve the way the DofE operates and supports its network.
 
 #### What information does the DofE collect and why?
 
@@ -46,7 +46,7 @@ We may therefore use this information about you for the following purposes:
 
 The DofE will not provide any information collected from the DofE website or eDofE that personally identifies you to any other company or organisation, unless it is required to do so by law, Court Order by other Government or law enforcement authorities or as described in this policy.   
 
-Data collected on eDofE is shared with the relevant licensed Operating Authority and DofE centre, as a necessity to enable young people to complete their DofE programme and achieve an Award and for DofE Leaders to be managed effectively. 
+Data collected on eDofE is shared with the relevant Licensed Organisations and DofE centre, as a necessity to enable young people to complete their DofE programme and achieve an Award and for DofE Leaders to be managed effectively. 
 
 The DofE has partnered with leading supplier DG3 to enable participants to create an Achievement Pack on approval of an Award, using a secure online environment.
 
@@ -107,4 +107,6 @@ If you have any questions about this privacy policy, the privacy practices of th
 
 **Post:** The Duke of Edinburgh's Award, Gulliver House, Madeira Walk, Windsor SL4 1EU
 
-**Last Updated:** 21 May 2010
+The Duke of Edinburgh's Award (the DofE) is a Registered Charity No: 1072490, in Scotland SC038254 and a Royal Charter Corporation No: RC000806.
+
+**Last Updated:**  11 June 2012
