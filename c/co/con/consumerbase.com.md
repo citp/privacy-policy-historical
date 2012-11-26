@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527123915id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerbase.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091231id_/http%3A//www.consumerbase.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Privacy Policy was created in 2003 and most recently updated in November 2010.
+The Privacy Policy was created in 2003 and most recently updated in November, 2010, and again in June, 2012.
 
-Organ Worldwide, LLC, ConsumerBase LLC, Email Lookup, Reports 2008, Official Referral, Value Seekers, BehaviorBase and ResponderInfo as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” have a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it.
+Organ Worldwide, LLC, ConsumerBase LLC, ListFinder.com, NetPostmaster.com, FastCount.com as well as affiliates, divisions, contractors and all data sources and suppliers, all of which are referred to herein as "The Company” have a deep commitment to the privacy of every individual about whom it holds information. Since we gather individual consumer data, we want users to fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how we correct or change it.
 
 Company asserts that protecting consumer privacy is our greatest concern. We pledge to conduct our business according to the following principles:
 
@@ -62,7 +62,7 @@ Please note that information sent on behalf of third party advertisers is prepar
 
 The Company maintains security guidelines to protect the loss, misuse, or alteration of information in its database. Access to personally identifiable information is only provided to authorized employees of The Company. Employees at the Company are made aware of our security guidelines during our employee orientation process. Our security guidelines are reviewed at least quarterly based on our fiscal calendar.
 
-With any specific questions regarding our privacy policy, we can be reached via email at privacy@consumerbase.com. The Company takes online privacy extremely seriously.
+With any specific questions regarding our privacy policy, we can be reached via email at [privacy@consumerbase.com](mailto:privacy@consumerbase.com). The Company takes online privacy extremely seriously.
 
 **Consumer Advocacy**
 
@@ -79,4 +79,4 @@ Privacy Department
 ConsumerBase LLC  
 1603 Orrington Avenue, Floor 9  
 Evanston, IL 60201-3841  
-[privacy@consumerbase.com](http://www.consumerbase.com/mailto:privacy@consumerbase.com)
+[privacy@consumerbase.com](mailto:privacy@consumerbase.com)
