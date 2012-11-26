@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pinkooo.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526093611id_/http%3A//www.pinkooo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkooo.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126042949id_/http%3A//www.pinkooo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Pinkooo.com: Free Article Submission, Social Bookmarking, Ask Questions & Find Answers, Web Directory, Free Classifieds, Business Directory, Online Press Releases, Find Jobs Online, Scripts & Source Codes for Developers, Online Shopping, Travel, Online Videos, Web Design & Development, E-Business Solutions and More.
 
-[](https://web.archive.org/web/20120526093611id_/http%3A//www.pinkooo.com/index.html)
+[](https://web.archive.org/web/20121126042949id_/http%3A//www.pinkooo.com/index.html)
 
 Custom Search 
 
