@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offlinerockstaracademy.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526132309id_/http%3A//offlinerockstaracademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlinerockstaracademy.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126022722id_/http%3A//offlinerockstaracademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Offline RockStar Academy
 
@@ -36,3 +36,9 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Offline RockStar Academy then you may contact us at http://offlinerockstaracademy.com/support/
 
 Last updated Sun, 14 August 2011 11:20
+
+## Tell Us What You Liked
+
+You need to select a star rating 
+
+Please write a review 
