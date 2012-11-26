@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511032346id_/http%3A//www.curves.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126081219id_/http%3A//www.curves.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Curves - Privacy Policy
 
