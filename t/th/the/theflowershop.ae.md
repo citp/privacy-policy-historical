@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525215941id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127003536id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy, theflowershop.ae
 
@@ -12,15 +12,15 @@ Our definition of personal information does not include "aggregate" information.
 
 We collect the personal information that you provide us, such as when you:
 
-  * Sign up for or register on Theflowershop.ae;
-  * Register to use Theflowershop.ae or sign up for news or notifications of specials or other promotions on Theflowershop.ae;
+  * Sign up for or register on Flowershop.ae;
+  * Register to use Flowershop.ae or sign up for news or notifications of specials or other promotions on Flowershop.ae;
   * Place an order or purchase products or services at our online store or over the phone;
   * Contact us for any reason, such as by replying to inquires by mail, fax or through our website, by telephone through customer service, or in person at one of our locations; or
   * We may automatically collect some information when you visit our website, such as your computer's network address and operating system, the site from which you linked to us, your site activity and the time and date of your visit and purchases. This information may be collected through the use of "cookies" (see Online Specifics below). We also receive information from third parties who provide services or special promotions or products and we may combine this information with the other personal information we maintain about you. In either case, this policy statement governs this information.
 
 
 
-## C. Use of Personal Information by Theflowershop.ae
+## C. Use of Personal Information by Flowershop.ae
 
 The personal information we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest, and understand your needs so that we can serve you better. For example, we may use your telephone number, your email or your postal address to: (1) alert you about product recalls or safety issues; or (2) special opportunities and programs. We also may use personal information we collect to provide you with promotional information, which is information we believe will add value to your shopping, such as coupons or promotions. If you prefer not to receive Promotional Information from us, we make it easy for you to let us know. You may contact us at any time to decline Promotional Information (see Choice below).
 
@@ -38,7 +38,7 @@ We may contract with others to perform tasks or services on our behalf. For exam
 
 ## E. Other Uses and Disclosures
 
-In addition, we may use or disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or authorities, to respond to any claims, or to protect the rights, property or personal safety of Theflowershop.ae, our clients, our employees or the public. 
+In addition, we may use or disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or authorities, to respond to any claims, or to protect the rights, property or personal safety of Flowershop.ae, our clients, our employees or the public. 
 
 ## F. Protection of Personal and Credit Card Information
 
@@ -46,7 +46,7 @@ We have adopted security measures in an effort to protect personal information f
 
 We collect, process and maintain payment information, including credit card information, in compliance with the data security rules adopted by credit card companies such as Visa, MasterCard and American Express. This means that we do not retain debit card PINs or credit card security codes, and that any time we maintain a credit card number, such as when you create an online account, we use access controls and strong encryption to protect it. Further, when you enter personal information online, that information is encrypted using a security protocol called SSL (Secure Sockets Layer), which encrypts all information prior to transmitting it over the Internet. We also use SSL to allow you to securely view your online account and registration information. 
 
-Online account information is accessible only by using a password. To protect the confidentiality of personal information in your online account, you must keep your password confidential. You are responsible for all uses of [www.theflowershop.ae](http://www.theflowershop.ae/) by anyone using your password. If others have access to your computer or email, they may be able to find your password and obtain information about you (such as your address or phone number), or change information in your user profile. You should not use an email account operated by an employer because many employers have the legal right to view your email or online accounts. Please advise us immediately at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae) if you believe your password has been misused.
+Online account information is accessible only by using a password. To protect the confidentiality of personal information in your online account, you must keep your password confidential. You are responsible for all uses of [www.flowershop.ae](http://www.theflowershop.ae/) by anyone using your password. If others have access to your computer or email, they may be able to find your password and obtain information about you (such as your address or phone number), or change information in your user profile. You should not use an email account operated by an employer because many employers have the legal right to view your email or online accounts. Please advise us immediately at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae) if you believe your password has been misused.
 
 ## G. Choice
 
@@ -54,7 +54,7 @@ We give you the opportunity to opt-out of receiving certain information or to re
 
 1\. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at Toll-Free (UAE): : 800-44848; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
 
-2\. If you do not want to receive Promotional Information (see Use of Personal Information by Theflowershop.ae) or information about related services, you can: (a) call our customer service representatives at Toll-Free (UAE): : 800-44848 (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
+2\. If you do not want to receive Promotional Information (see Use of Personal Information by Flowershop.ae) or information about related services, you can: (a) call our customer service representatives at Toll-Free (UAE): : 800-44848 (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
 
 3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at Toll-Free (UAE): : 800-44848; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. or (d) click on unsubscribe from our promotional emails.
 
@@ -62,13 +62,13 @@ We give you the opportunity to opt-out of receiving certain information or to re
 
 ##### 1\. What Are Cookies and Are You Required to Accept Them?
 
-Cookies are small files that are stored on your computer. At Theflowershop.ae, we use cookies to help optimize your shopping experience. For example, we use cookies to customize our home page for you and to better display pages according to your browser type. Theflowershop.ae does not store in cookies any personal information about you. 
+Cookies are small files that are stored on your computer. At Flowershop.ae, we use cookies to help optimize your shopping experience. For example, we use cookies to customize our home page for you and to better display pages according to your browser type. Theflowershop.ae does not store in cookies any personal information about you. 
 
-While cookies are optional for browsing Theflowershop.ae, they are required for registering, logging on, shopping or adding items to your cart. If you wish to purchase items or set up an account on Theflowershop.ae, you will need to accept a Theflowershop.ae cookie. 
+While cookies are optional for browsing Flowershop.ae, they are required for registering, logging on, shopping or adding items to your cart. If you wish to purchase items or set up an account on Theflowershop.ae, you will need to accept a Flowershop.ae cookie. 
 
 ##### 2\. Use of the Theflowershop.ae Web Site by Children
 
-We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 18 years of age. If you are under 18, you should not provide information on the Theflowershop.ae Website and should ask your parent to do so for you. 
+We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 18 years of age. If you are under 18, you should not provide information on the Flowershop.ae Website and should ask your parent to do so for you. 
 
 ##### 3\. Online Links to Other Web Sites
 
