@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321110155id_/http%3A//hudson.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126025931id_/http%3A//us.hudson.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
-
-| 
+# Privacy Policy - US | Hudson
 
 | 
 
-### Hudson Highland Group, Inc. provides professional recruitment and talent management services globally, a business built on trust and privacy. This is why we are committed to protecting the personal information of employees, clients and candidates. We encourage you to review the statements below explaining how we collect and use information you share with us.
+| 
+
+### Hudson Global, Inc. provides professional recruitment and talent management services globally, a business built on trust and privacy. This is why we are committed to protecting the personal information of employees, clients and candidates. We encourage you to review the statements below explaining how we collect and use information you share with us.
 
 |  |   
 ---|---|---  
@@ -85,6 +85,6 @@ You have the following rights:
 
 ## QUESTIONS
 
-If you have any questions about how your personal information is used, or if you want to access, correct or remove your personal information, please contact us at [inquiry@hudson.com](mailto:inquiry@hudson.com). You may write to us at: Hudson Highland Group, Inc., Attn: Chief Information Officer - Privacy Policy, 560 Lexington Avenue, 4th & 5th Floors, New York, NY 10022
+If you have any questions about how your personal information is used, or if you want to access, correct or remove your personal information, please contact us at [inquiry@hudson.com](mailto:inquiry@hudson.com). You may write to us at: Hudson Global, Inc., Attn: Chief Information Officer - Privacy Policy, 560 Lexington Avenue, 4th & 5th Floors, New York, NY 10022
 
  _Last updated July 2011_
