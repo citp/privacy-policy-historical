@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526125826id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091507id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ Fantasy Football Tips, News and Views from Fantasy Football Scout
 
@@ -9,6 +9,53 @@ This Privacy Policy, together with our terms of use, explains what happens to an
 We do update this Policy from time to time so please do return and review this Policy regularly.
 
 For the purpose of the Data Protection Act 1998 our data controller is Fantasy Football Scout Ltd.
+
+### Use of Cookies
+
+Like most websites, we use cookies to improve your user experience by enabling our site to “remember” you and your settings for your next visit. 
+
+A cookie is small text file, stored on your computer or mobile device. It will contain an anonymous identifier so that our site can recognise you when you use the same browser to return. 
+
+Cookies do various tasks on our site, like remembering you’re logged in, remembering that you’ve voted in our polls and whether you’ve chosen to hide or show comment replies. We also use cookies to measure traffic to our site. Without a cookie, our site will identify you as a new user on every visit.
+
+This site and our advertisers use cookies to serve you with advertisements that we believe are relevant to you and your interests. You might see these advertisements on this website and on other sites that you visit. However, we do not tell our advertisers who you are.
+
+Advertisers sometimes use their own cookies to provide you with targeted advertising. For example, advertisers may use a profile they have built on sites that you have previously visited to present you with more relevant advertisements during your visit to this website. If you are based in the European Union and would like to learn more about how advertisers use these types of cookies or to choose not to receive them, please visit www.youronlinechoices.eu. If you are based in the United States and would like to learn more, please visit http://www.aboutads.info/choices/.
+
+Although cookies are used across almost every site on the internet, some users do not like the idea of this information being stored on their computer. Through your browser settings, it is possible to delete existing cookies and block them from being used in the future. However, this will mean you could lose some functionality on our site – such as the ability for us to remember if you’re logged in.
+
+This website – [www.aboutcookies.org](https://web.archive.org/web/20121126091507id_/http://www.fantasyfootballscout.co.uk/privacy-policy/www.aboutcookies.org) – will help you explore your options when it comes to removing and turning off cookies in your browser. We’ve listed links below to all the major browsers and mobile browsers offering instructions on how to change your settings.
+
+**Browsers**  
+[Internet Explorer](http://support.microsoft.com/kb/196955)  
+[Chrome](http://www.google.com/support/chrome/bin/answer.py?answer=95647)  
+[Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)  
+[Firefox](http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies)  
+[Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+
+**Mobile Devices**  
+[Android](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=169022)  
+[Safari](http://support.apple.com/kb/HT1677)  
+[Windows](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)  
+[Blackberry](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
+
+### Opting Out Of Advertising Cookies
+
+As well as using the information provided on the ‘How to Manage Cookies’ Page, the partner company responsible for serving advertising onto our website have developed a solution for users to opt-out of receiving any further advertising cookies from this site by dropping a final cookie. This will allow them (the advertising partner) to identify a user as having opted out, and then refrain from serving that user any targeted advertising. Please be aware that this does not mean you will not see advertising, only that adverts will not be targeted to you, the user.
+
+Please be aware of the following before you click the following link -
+
+Advertising cookies are used to improve the quality and relevance of the advertising being displayed to each visitor
+
+Advertising cookies are used to identify a browser; advertising cookies do not track individuals and do not gather any personally identifiable information.
+
+This website serves advertising and will continue to do so, even if the user chooses to opt-out.
+
+Once you click the link, another advertising cookie will be delivered to your device in order to identify you as a user that has opted-out. If this cookie is deleted at any time, the user must complete this process again to get the “opt-out” cookie placed on their browser again.
+
+If you would like to drop this final cookie onto your device, please click on the following link -
+
+[Opt Out of Ad Cookies](http://delivery.ads-creativesyndicator.com/adserver/info.php?action=optout&redir=http%3A%2F%2Fwww.fantasyfootballscout.co.uk)
 
 ### Information We Collect
 
@@ -21,20 +68,6 @@ In operating our website we may collect and process the following data about you
   * Information you provide to us relating to the subscription of services.
 
 
-
-### Use of Cookies
-
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
-
-We may on occasion gather information regarding your computer whilst you are on our website. This enables us to improve our services and to provide statistical information regarding the use of our website to our advertisers and/or partners where appropriate.
-
-Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
-
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and the service that we provide to you. As an example, should you take part in the polls on our website, a cookie file will be stored in order to register that you have made a vote in a given poll.
-
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
-
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
 
 ### Use of Your Information
 
@@ -80,4 +113,4 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 ### Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at mark@fantasyfootballscout.co.uk
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at support@fantasyfootballscout.co.uk
