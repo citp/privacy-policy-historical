@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seorankings.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510152806id_/http%3A//www.seorankings.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seorankings.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126155810id_/http%3A//www.seorankings.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Rankings.com
 
@@ -20,6 +20,9 @@ DoubleClick DART cookies
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Seattle, you may see Seattle hotel advertisements when viewing a non-related site, such as on a site about golf). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx.
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to certain services or programs, such as logging into forums or accounts.
+
+**Affiliate Disclosure**  
+Once in a while we may include affiliate links and advertisements on this website. This is a very legitimate and common way to monetize and pay for the operation of a website. In general, if there is a link that leads you from one website to buy something on another you should probably assume that it’s an affiliate link and the referrer is getting a commission.
 
 **Policy Changes, Questions & Comments**  
 Our privacy policy may change at any time. We’ll post changes to this policy on this page. Additional questions about this policy should be emailed using [this form](http://www.seorankings.com/contact).
