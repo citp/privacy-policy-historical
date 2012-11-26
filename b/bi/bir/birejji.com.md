@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birejji.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616133809id_/http%3A//birejji.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birejji.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126093852id_/http%3A//birejji.com/privacy.php) for the most accurate reproduction.*
 
 # Birejji
 
