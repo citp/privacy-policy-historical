@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618022255id_/http%3A//www.civicuk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126052056id_/http%3A//www.civicuk.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -29,7 +29,7 @@ JSESSIONID |
 This is a simple token used by Java applications to identify your unique session on the website. Typically used to maintain the integrity of your session while transacting information with a website (accessing secure areas, forms submissions etc)  
   
 civicAllowCookies  
-civicShowCookieIcon | Cookie Control: When you click "I'm happy with this..." on the Cookie Control user interface, a cookie is set in order to remember your preference. **These cookies are set only after the user has given consent to us to use cookies.**  
+civicShowCookieIcon | Cookie Control cookies. These cookies are set in order to remember preferences in regards to cookies.   
 __utma | 
 
 Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website.
