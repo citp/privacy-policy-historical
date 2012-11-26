@@ -1,221 +1,83 @@
-<!--The following is the downloaded HTML source of the pandawhale.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620065136id_/http%3A//pandawhale.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pandawhale.com privacy policy that was archived on 2012-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126160625id_/http%3A//pandawhale.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!-- head prefix is used for Facebook Open Graph integration --><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# pandawhale: http://ogp.me/ns/fb/pandawhale#">
 <title>Privacy Policy - PandaWhale</title>
-<link rel="stylesheet" href="/css/pandawhale_browser.css?mt=1340148936" type="text/css" media="screen" charset="utf-8">
-<link rel="stylesheet" href="/dojo/dijit/themes/tundra/tundra.css?mt=1340149060" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/css/pandawhale_browser.css?mt=1352945743" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="/dojo/dijit/themes/tundra/tundra.css?mt=1353546245" type="text/css" media="screen" charset="utf-8">
 <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script src="/dojo/dojo/dojo.js?mt=1340149089" type="text/javascript" data-dojo-config="parseOnLoad: true, async: true"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=18981369756"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//swiftype.com/embed.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script src="/dojo/dojo/dojo.js?mt=1353546264" type="text/javascript" data-dojo-config="parseOnLoad: true, async: true"></script>
 <script type="text/javascript">
 
 require(
 [
-    "dojo/_base/declare",
-    "dojo/_base/lang",
-    "dojo/_base/window",
-    "dojo/cookie",
-    "dojo/dom",
-    "dojo/dom-class",
-    "dojo/dom-construct",
     "dojo/ready",
-    "dojo/query",
-    "dojo/_base/xhr",
-    "dijit/Dialog",
-    "dijit/MenuBar",
-    "dijit/PopupMenuBarItem",
-    "dijit/DropDownMenu",
-    "dijit/MenuItem",
-    "dijit/PopupMenuItem",
-    "dijit/CheckedMenuItem",
-    "pandawhale/widget/importButton",
-    "pandawhale/widget/propsButton",
-    "pandawhale/widget/convoStasher",
-    "pandawhale/widget/loginDialog"
+    "dojo/cookie"
 ],
 
 function(
-    declare,
-    lang,
-    win,
-    cookie,
-    dom,
-    domClass,
-    domConstruct,
     ready,
-    query,
-    xhr,
-    Dialog,
-    MenuBar,
-    PopupMenuBarItem,
-    DropDownMenu,
-    MenuItem,
-    PopupMenuItem,
-    CheckedMenuItem,
-    importButton,
-    propsButton,
-    convoStasher,
-    loginDialog
+    cookie
 ) {
 ready(function() {
     var loginPlatform = cookie("login-platform");
     if (loginPlatform) {
         // user just logged in
         mixpanel.track("Login");
+        var emailForMP = "";
+        if (!emailForMP) {
+            emailForMP = "";
+        }
         mixpanel.register({ Platform: loginPlatform, UserID: "", Username: "" });
+        mixpanel.people.set({
+            "$username" : "",
+            "$first_name" : "",
+            "$last_name" : "",
+            "$created" : "",
+            "$last_login" : new Date(),
+            "$email" : emailForMP
+        });
         mixpanel.identify("");
         mixpanel.name_tag("");
         cookie("login-platform", "", {expire: -1});
     }
-    // load FB scripts so that they can be used by menu
-
-    var navMenuBar = new MenuBar();
-
-    navMenuBar.onItemHover = function(item) {
-        this.onItemClick(item);
-    }
-
-    // defines "convosMenu" dijit DropDownMenu object and populates it
-                var newConvoLoginDialogArgs = {
-            uniqueStr: "nav-new-convo-login-dialog",
-            nextPage: "http://pandawhale.com/stash/new",
-            message: "You must log in before you can create a new convo."
-        };
-        var newConvoLoginDialog = new loginDialog(newConvoLoginDialogArgs, dom.byId("newconvo-login-root"));
-
-        var facebookConvoLoginDialogArgs = {
-            uniqueStr: "nav-facebook-convo-login-dialog",
-            nextPage: document.URL,
-            message: "You must log in before you can stash a Facebook story."
-        };
-        var facebookConvoLoginDialog = new loginDialog(facebookConvoLoginDialogArgs, dom.byId("facebookconvo-login-root"));
-
-    // Start New Convo has sub-options, so it's a dropdown instead of MenuItem
-    var convosMenu = new DropDownMenu({});
-    convosMenu.addChild(new MenuItem({
-        label: "Start New Convo",
-        onClick: lang.hitch(newConvoLoginDialog, newConvoLoginDialog.show)
-    }));
-
-    convosMenu.addChild(new MenuItem({
-        label: "Stash From Facebook",
-        iconClass: "facebookIcon",
-        onClick: lang.hitch(facebookConvoLoginDialog, facebookConvoLoginDialog.show)
-    }));
-    var importWidget = new importButton({
-        uid: false,
-        hasPlatform: "false"
-    }, "twitterimportnode");
-    convosMenu.addChild(new MenuItem({
-        label: "Stash From Twitter",
-        iconClass: "twitterIcon",
-        onClick: lang.hitch(importWidget, importWidget.showTwitterDialog)
-    }));
-
-    navMenuBar.addChild(new PopupMenuBarItem({
-        label: "Add Convo",
-        popup: convosMenu,
-        onMouseUp: function() {
-            window.location.href = "http://pandawhale.com/stash/new";
-        }
-    }));
-
-    // defines "stashMenu" dijit DropDownMenu object and populates it
-    
-            var stashPagesLoginDialogArgs = {
-            uniqueStr: "nav-stash-pages-login-dialog",
-            nextPage: document.URL,
-            message: "You must log in before you can see this page."
-        };
-        var stashPagesLoginDialog = new loginDialog(stashPagesLoginDialogArgs, dom.byId("stashpages-login-root"));
-
-    var stashMenu = new DropDownMenu({});
-    stashMenu.addChild(new MenuItem({
-        label: "My Stashed Convos",
-        onClick: lang.hitch(stashPagesLoginDialog, stashPagesLoginDialog.show)
-    }));
-
-    stashMenu.addChild(new MenuItem({
-        label: "My Stashes",
-        onClick: lang.hitch(stashPagesLoginDialog, stashPagesLoginDialog.show)
-    }));
-
-    /*
-    stashMenu.addChild(new MenuItem({
-        label: "Stashes I Follow",
-        onClick: lang.hitch(stashPagesLoginDialog, stashPagesLoginDialog.show)
-    }));
-    */
-    navMenuBar.addChild(new PopupMenuBarItem({
-        label: "Stash",
-        popup: stashMenu,
-        onMouseUp: function(){}
-    }));
-
-
-    var messageMenu = new DropDownMenu();
-    navMenuBar.addChild(new PopupMenuBarItem({
-        label: "Messages",
-        popup: messageMenu,
-        onMouseUp: function() {
-            window.location.href = "http://pandawhale.com/messages";
-        }
-    }));
-
-    // [User name] section in menu bar
-    // defines "userMenu", populates it, and appends to navMenuBar
-        // doesn't need any MenuItems. Just label the menu and append to nav bar
-    var userMenu = new DropDownMenu({});
-    navMenuBar.addChild(new PopupMenuBarItem({
-        label: "Log In",
-        popup: userMenu,
-        onMouseUp: function() {
-            document.location.href = "/login.php?next=" + encodeURIComponent(document.URL);
-        }
-    }));
-
-    navMenuBar.placeAt("navmenubar");
-    navMenuBar.startup();
 });
-
-function trackFBPost(postId) {
-    var xhrContent = {
-        auth: "",
-        platform: "facebook",
-        post_id: postId
-    };
-    xhr.post({
-        url: "http://pandawhale.com/syndicate-out.php",
-        content: xhrContent,
-        handleAs: "json",
-        error: function(error) {
-        }
-    });
-}
 
 });
 </script>
-<!-- start Mixpanel --><script type="text/javascript">(function(d,c){var a,b,g,e;a=d.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===d.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';b=d.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);c._i=[];c.init=function(a,d,f){var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";g="disable track track_links track_forms register register_once unregister identify name_tag set_config".split(" ");for(e=0;e<
-g.length;e++)(function(a){b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}})(g[e]);c._i.push([a,d,f])};window.mixpanel=c})(document,[]);
-mixpanel.init("7ba8a65709a84b5a58163ed227fabbe2");</script><!-- end Mixpanel -->
+<!-- start Mixpanel --><script type="text/javascript">(function(c,a){var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g= a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1;window.mixpanel=a})(document,window.mixpanel||[]); mixpanel.init("7ba8a65709a84b5a58163ed227fabbe2");</script><!-- end Mixpanel -->
 </head>
 <body class="tundra">
 <div class="main_wrapper">
+<div class="signupbanner"><a class="signupbannerlink" href="/login.php?banner=v2">Sign up and get the BEST of PandaWhale!</a> <a href="/login.php?banner=signup">Sign Up</a> <a href="/login.php?banner=login">Login</a></div>
 <div class="navlist_wrapper">
-    <a href="http://pandawhale.com"><img id="banner-image" src="/images/Surfing_header_orange.png?mt=1335899724"></a>
+    <a href="http://pandawhale.com"><img id="banner-image" src="/images/pandawhale-logo-small.png?mt=1348006528"></a>
 </div>
-<div class="navmenuwrapper">
-<div id="navmenubar"></div>
-<div class="clear_both"></div>
-<div id="twitterimportnode"></div>
-<div id="tweetnode"></div>
-<div id="stashconvonode" data-auth="" data-type="pandawhale-convo" data-id="null"></div>
-<div id="stashcommentnode" data-auth="" data-type="pandawhale-comment" data-id="null"></div>
-<div id="stashpages-login-root"></div>
-        <div id="newconvo-login-root"></div>
-        <div id="facebookconvo-login-root"></div>
-</div><div class="stashlist_wrapper">
+<div class="swiftTypeBoxContainer">
+<form>
+  <input type="text" id="st-search-input" class="st-search-input">
+</form>
+<div id="st-results-container"></div>
+<script type="text/javascript">
+  var Swiftype = window.Swiftype || {};
+  (function() {
+    Swiftype.key = 'K6vszyQprsyrAeQGQNuq';
+    Swiftype.inputElement = '#st-search-input';
+    Swiftype.resultContainingElement = '#st-results-container';
+    Swiftype.attachElement = '#st-search-input';
+    Swiftype.renderStyle = "overlay";
+
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.src = "//swiftype.com/embed.js";
+    var entry = document.getElementsByTagName('script')[0];
+    entry.parentNode.insertBefore(script, entry);
+  }());
+</script>
+</div>
+<div class="clear_both"></div><div class="stashlist_wrapper">
 <h2>PandaWhale Privacy Policy</h2>
 
 <p>PandaWhale, Inc. (“PandaWhale”) takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from a policy originally provided by Automattic (WordPress.com)) describes how we treat the information we collect when you visit and use the websites and applications provided by PandaWhale and is made available under the Creative Commons Sharealike license. Please read this notice very carefully.</p> 
@@ -268,13 +130,14 @@ mixpanel.init("7ba8a65709a84b5a58163ed227fabbe2");</script><!-- end Mixpanel -->
 
 <p>Although most changes are likely to be minor, PandaWhale may change its Privacy Policy from time to time, and in PandaWhale’s sole discretion. PandaWhale encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a PandaWhale account, you should also check your dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
 </div> <!-- close stashlist wrapper --><div id="footer">
-    <a href="/about/tos">Terms of Service</a> |
-    <a href="/about/privacy"> Privacy Policy</a> |
-    <a href="/about/goodies" class="red"> Bookmarklet</a> |
+    <a href="/about/story">About</a> |
+    <a href="/about/tos">Terms</a> |
+    <a href="/about/privacy">Privacy</a> |
+    <a href="/login.php">Log In</a> |
+    <a href="/about/goodies" class="red">Browser Extensions</a> |
     © PandaWhale, Inc. 2012. All rights reserved.
 </div>
 </div><!-- Close main_wrapper -->
-
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -293,6 +156,28 @@ if (typeof mixpanel !== 'undefined') {
     mixpanel.register_once({ 'initial referrer': document.referrer });
 }
 </script>
+
+<!-- Google +1 button -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- twitter follow button -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<div id="fb-root"></div>
+
+<!-- FB Like button -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=18981369756";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 </body></html>
