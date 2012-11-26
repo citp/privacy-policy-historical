@@ -1,152 +1,121 @@
-> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630063527id_/http%3A//www.protus.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126075905id_/http%3A//www.myfax.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Protus | Privacy
+# MyFax - Privacy Policy
 
-  
-j2 Global Canada (formerly known as Protus IP Solutions, Inc.) ("j2 Global") is dedicated to establishing a trusting relationship with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained by j2 Global, including but not limited to [http://www.myfax.com](http://www.myfax.com/), [http://www.my1voice.com](http://www.my1voice.com/), [www.campaigner.com](http://www.campaigner.com/) and [http://www.jblast.com](http://www.jblast.com/). Because j2 Global wants to demonstrate its commitment to our users' privacy, we are disclosing: 
+This Privacy Policy is effective on February 7, 2012 for current users, and upon acceptance for new users. 
 
-  * What personally identifiable information j2 Global collects.
-  * How j2 Global uses the information. 
-  * With whom j2 Global may share user information.
-  * Your choices about collection, use and distribution of the information. 
-  * The safeguarding procedures that are in place to protect the loss, misuse or alteration of information under j2 Global control.
-  * How users can correct any inaccuracies in the information. 
+This privacy policy is between you and j2 Global, Inc., j2 Global Canada, Inc., and/ or j2 Global Ireland Limited, as set forth in the [Customer Agreement](http://www.myfax.com/legal/terms.aspx) (collectively, the "Company", "we", "us" or "our"). We are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. 
 
-If users have questions or concerns regarding this statement, they should contact j2 Global Customer Support by email at [cpo@j2global.com](mailto:cpo@j2global.com). 
+This privacy policy ("Policy") covers the information practices relating to the MyFax Web Site, [www.MyFax.com](http://www.myfax.com/) ("Site") and all MyFax Service ("Service") offered now or in the future. For purposes of this policy, "MyFax account" is defined as the account through which you access the Service. We do not share information obtained from users through our Site or Service with third parties except as otherwise specifically set forth in this Policy. In this Policy we describe the following: 
 
-A) Information Collection
+1\. What personally identifiable information the Company collects.   
+2\. How the Company uses the information and with whom the Company may share users' information.   
+3\. What choices are available to users regarding collection, use and distribution of the information.   
+4\. What types of security procedures are in place to protect the loss, misuse or alteration of this   
+    information to the extent under the Company's control.   
+5\. How users can correct any inaccuracies in the information.   
+6\. How we will notify you of any changes to this Policy.   
+7\. The Company's participation in the Safe Harbor program.   
+8\. The Company's data retention practices. 
 
-j2 Global is the sole owner of the information collected on its web properties, including [http://www.myfax.com](http://www.myfax.com/), [http://www.my1voice.com](http://www.my1voice.com/), [www.campaigner.com](http://www.campaigner.com/) and [http://www.jblast.com](http://http//www.jblast.com). j2 Global collects information from its users at several different points on our Web sites. 
+## 1\. Information Collection
 
-1) Registration
+The Company collects information from its users at several different points on the Site and through the Service, both directly from users (including through interactions with Customer Service and Sales) and through the use of technologies such as cookies, log files and clear gifs. 
 
-In order to use j2 Global services at any level, and to access certain information or areas of the website (including various downloads, "Test Drives", webinars, etc.), a user must first complete the registration form. During registration a user is required to give contact information (such as name, telephone number or an email address). We use this information to contact the user about services on our sites. It is optional customer to provide demographic information (such as income level and gender), but encouraged so we can provide a more personalized experience on our sites. 
+**a. Registration**   
+In order to use the Service, you must first complete the registration process. During registration you are required to provide contact information (such as name, phone number and email address), and we will provide you with a password. We use this registration information to provide the service, and to contact you with updates about the Service and other services that may be of interest. We may request or require that users provide general demographic information (such as job title and industry), so we can provide a more personalized experience. Paying users must also provide payment information (such as a credit card number and expiration date). This information is used for billing purposes and to process users' orders. If we have trouble processing a user's order and/or collecting payment, the contact information is used to contact the user. If you begin but fail to complete the registration process for MyFax Service, we may contact you in an effort to help you sign up for MyFax or send you other emails with details about MyFax or other services that may be of interest. You can opt-out of receiving these emails by clicking on the opt-out link included in the emails. 
 
-2) Order
+**b. Test MyFax**   
+If you elect to use the "Take a Test Drive” tool on the Site, you will automatically receive a sample fax by email. We may also send you other emails with details about MyFax or other services that may be of interest. You can opt-out of receiving these emails by clicking on the opt-out link included in the emails. 
 
-When a user purchases a paying service, we request information from the user on our order form. A user must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user. 
+**c. Entity Users**   
+We may collect information pertaining solely to corporations, governmental or educational entities, or other businesses or not for profit entities, such as a company's address. We may use any such information without restriction. 
 
-3) Profile 
+**d. Cookies**   
+A cookie is a piece of data stored on users' computers tied to information about the users. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small file stored on users' hard drives for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Use of a cookie is not linked to any personally identifiable information while on the Site except if users choose to store their user names and passwords so that users do not have to enter it each time they access their account. Then a persistent cookie will be stored on your computer which is linked to your account information. If you reject the persistent cookie, you may still use the Site but you will be limited in some areas of it. Persistent cookies also enable us to track and target the interests of our users to enhance their experience on the Site. See the "Profile" section below. Some of our business partners (for example, third party advertisers) may use cookies on the Site, in emails or in our advertisements on other Web sites. The cookies are not linked to any personally identifiable information. This Policy covers the use of cookies by the Company and does not cover the use of cookies by any third party advertisers. Our third party advertisers have their own privacy policies which you should consult. In order to create a user-friendly experience, some of our third party promotions and advertisements are designed to automatically transmit users' information onto the third party's landing page when users chooses to "click" upon a third party's advertisement or promotion. For more information about receiving the Company's advertisements on other Web sites, and for opting out of this practice, please see the "Choice/Opt-out" section below. 
 
-We store information that we collect through cookies and log files to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web sites, and to direct pertinent marketing promotions to them. We do not share personally identifiable elements of your profile with other third parties. Your profile is shared in aggregate form only. 
+**e. Log Files**   
+Like most Web sites, our servers use log files to analyze trends, administer the Site, track users' movements in the aggregate and gather information to improve the user experience and the Service. 
 
-4) Cookies
+**f. Clear Gifs**   
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and we may use them to track the online movements of our users. Clear gifs are invisible on the page and are much smaller than cookies, about the size of the period at the end of this sentence. We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of receiving promotional emails, please see the "Choice/Opt-out" section below. 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+**g. Profile**   
+We may store information that we collect through cookies, log files and clear gifs to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences and Service usage. We may also gather information about users and users' preferences from third parties. Please see the Third Party Intermediaries; Supplementation of Information section below. Consequently, information may be tied to users' personally identifiable information to improve the content of the Site for users, improve our Service and provide new services that are likely to be of interest to users and to direct pertinent product updates and marketing promotions to users if they have opted in to receive those promotions. 
 
-By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the "Profile" section, above. 
+**h. Children's Privacy**   
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information of a child under the age of 13, we will delete that information from our systems. For tips on protecting children's privacy online, please the [FTC's Web site](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html). 
 
-5) Log Files
+## 2\. Use of Personally Identifiable Information
 
-Like most Web sites, our servers use log files to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+**a. Legal, Security and Safety**   
+The Company does not release personally identifying information about our users (other than as disclosed in this Policy) or monitor, edit or disclose the contents of users' private communications through the Service except where the Company in good faith believes that such action is necessary to: (1) comply with the law or where we have a good-faith belief that such disclosure is necessary to comply with a current judicial proceeding, a court order or legal process served on us; (2) investigate, prevent or take action regarding illegal activity; (3) protect and defend the rights or property of the Company; or (4) to protect the personal safety of our users or the public. For example, we may disclose personal information to law enforcement, other government officials or third parties in response to criminal or civil subpoenas. Sometimes, these subpoena requests come from our third party Internet, telecommunications and collocation providers all over the world who supply the network required for us to deliver our Service. In order to maintain the integrity of our network, we often cooperate with requests from these third party providers and/or requests from law enforcement or other governmental officials directed to these providers. In cases where the Company believes that disclosure of any information about a user (including account information) is necessary, we reserve the right to disclose all information in our possession about such user. 
 
-6) Clear Gifs
+**• Civil Subpoena Policy**   
+To request user information from the Company in a civil case, you must serve the Company with a valid subpoena, court order or search warrant and agree to the Company's terms of compensation below. All civil subpoenas should be directed to: j2 Global, Inc. Subpoena Department 6922 Hollywood Boulevard 5th Floor, Los Angeles, CA 90028 Fax: 1-310-943-2400. Upon receipt of a valid subpoena, it is the Company's policy to notify the subscriber whose information is sought. In non-emergency circumstances, the Company will generally not produce the subpoenaed subscriber's identity information until approximately two weeks after receipt of the subpoena, unless a formal objection is filed by the user or we are legally required to do so. The Company charges $90.00 per hour for research (plus additional fees if testimony or deposition is required), $0.25 per page, and $22.00 to respond via Federal Express. We will invoice the person or entity submitting the subpoena following receipt and the subpoena proponent must make payment within 15 days from the date of receipt of our invoice. Checks should be made out to j2 Global, Inc. 
 
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information. 
+**b. Provision of Service**   
+Users should also be aware (and hereby agree) that certain technical processing of and access to fax messages and their content may be required to: (a) provide the Service, including without limitation, routing and indexing the messages; (b) conform to connecting networks' technical requirements; (c) prevent or minimize disruptions to the Service; or (d) conform to other similar requirements. 
 
-We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section. 
+**c. Welcome Email and Special Offers**   
+We send all new users a welcome email to verify their information (such as name and email address) and password. Users may occasionally receive emails promoting the Company's services and third party services that may be of interest to them ("Promotional Emails"). To opt-out of receiving these Promotional Emails, please see the Choice / Opt-out section below. We may also contact users by other communication channels such as telephone or mail using contact information provided by users or obtained from third party sources as set forth in the section on Third Party Intermediaries; Supplementation of Information below. 
 
-7) Children's Privacy
+**d. Product Updates, Newsletters, Service Announcements**   
+We might send you communications which contain usage tips, product updates or updates to the Customer Agreement or this Policy. If necessary, we will also send you Service-related announcements. For instance, if a Service is temporarily suspended for maintenance, we may send users an email. Users cannot opt-out of these non-promotional communications unless they deactivate their account. 
 
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. j2 Global encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: 
+**e. Customer Service**   
+We communicate with users in reply to requests for assistance or regarding issues relating to users' accounts. We may reply via email, phone, Web chat, mail or other available method, in accordance with users' wishes. 
 
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. Know how your child's information is treated. 
+**f. Abuse; Spam and Junk Faxes**   
+The Company has a zero tolerance policy for abuse. While we cannot be responsible for external communications received through the Service, it is our intention to use all legally available means to prevent use of the Service for any illegal purpose, including but not limited to distribution and receipt of unsolicited commercial faxes ("junk faxes"). We also specifically restrict users from taking any actions which impose an unreasonable or disproportionately large load on the Company's resources. We ask that any users who are annoyed by receipt of such junk faxes or otherwise impacted by illegal use of the Service to please report such activity [here](http://www.myfax.com/support/report-fax-spam.aspx). 
 
-Check out the [FTC's site](http://www.onguardonline.gov/topics/kids-privacy.aspx) for more tips on protecting children's privacy online. 
+**g. Third Party Intermediaries; Supplementation of Information**   
+In order for the Company to properly fulfill its obligations, to improve our Service and direct information to users about services that may be of interest to users, we may use third parties and may share users' information with these third parties. For example, the Company verifies the billing address on all credit card transactions and may obtain credit reports for some corporate users. We use an outside credit card processing company to bill users for Service. In addition, we may use third parties to host certain portions of our Site, to fulfill certain requests for information from our users and to comply with legal requirements. In order to personalize a user's experience and provide relevant offers from us or our third party advertisers, we may share users' information with third parties to learn more about users and their preferences. These companies are not to store or use personally identifiable information for any secondary purposes and the information obtained from these third party sources is maintained in a manner consistent with this Privacy Policy. 
 
-B) Information Use and Sharing of Information
+## 3\. User Choices Regarding Collection, Use and Distribution of Personally   
+    Identifiable Information.
 
-j2 Global acts as a passive conduit for the distribution and receipt of its user's fax, voice and e-mail communications and therefore will not monitor, edit, or disclose the contents of a user's private communications unless j2 Global in good faith believes that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on j2 Global; (2) protect and defend the rights or property of j2 Global; or (3) act under exigent circumstances to protect the personal safety of its users or the public. Users should also be aware (and hereby agree) that certain technical processing of and access to fax, voice and email messages and their content may be required to: (a) route the messages; (b) conform to connecting networks' technical requirements; (c) prevent or minimize disruptions to j2 Global's services; or (d) conform to other similar requirements. 
+**a. Business Transitions**   
+In the event the Company goes through a business transition, such as a merger, acquisition by another company or sale of a portion of its assets, users' personal information will, in most instances, be included as part of the assets transferred. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given a choice not to have their information used in this different manner, as described in the notification of changes section, below. 
 
-Subject to the legal exceptions listed in the Privacy Policy, j2 Global will not disclose to third parties the fax numbers, phone numbers or email addresses uploaded to our Web sites by our users for the purpose of using j2 Global products or services. 
+**b. Choice/Opt-Out**   
+Users may opt-out of receiving Promotional Emails by clicking the opt-out link included in Promotional Emails. We also utilize third party advertisers to display advertisements for our Service on other web sites. If you would like more information about receiving the Company's advertisements on other Web sites, or would like to opt out of this practice, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
 
-1) Communications from the Site
+**c. Links**   
+This Policy applies solely to information collected by the Company through the Site, the Service and Customer Service. The Company has advertising and affiliate relationships with third party sites which drive interested parties to our Site. Information that is collected on their Web sites does not fall within this Policy. The Company may also have co-brand relationships with some Web sites. A Web site is a co-brand of the Company if it offers Company technology or services to its users under a different brand. The Co-Branded Web sites and third party sites will have their own privacy policies specific to each site, and the user should read them carefully before registration. 
 
- **a) Special Offers, Free Trials and Updates**   
-We send all new customers welcoming emails and may communicate with them to introduce and explain their new services. Visitors to our website that are not customers but provide j2 Global with contact information may receive emails from j2 Global that contain information about our services, special offers and other promotions. Established users will occasionally receive emails containing information about us, updates on new service features, service usage tips, information about third party services or other j2 Global services that are likely to be of interest to our users, and customers satisfaction questions. Visitors and j2 Global users may opt-out of such notices. Please see the Choice and Opt-out sections. We may contact former customers to gather feedback on the services. 
+**d. Surveys**   
+Periodically, users might be asked to participate in surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to respond or provide information. The requested information may include contact information (such as name and address) and demographic information (such as gender). Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Company's Service. Users' personally identifiable information will not disclosed or shared with third parties unless set forth in this Policy or we obtain your permission. We may use an intermediary to conduct these surveys, but the intermediary may not use users' personally identifiable information for any secondary purposes. 
 
-**b) Invoices and Account Statements**   
-We send all customers regular emails summarizing usage and credit card charges. These emails are a part of the j2 Global service, and users cannot opt-out of receiving them, though they can deactivate their account. Information identifying the credit card is not included in these communications. 
+**e. Tell-A-Friend**   
+If users are offered the opportunity to use our referral service for informing a friend about our Service, and elect to do so, we ask users for the friend's name and email address. The Company will automatically send the friend a one-time email on the users' behalf inviting them to visit the Company's Site. The Company stores this information for the sole purpose of sending this email and tracking the success of our referral program. 
 
-**c) Service Announcements**   
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+**f. Sweepstakes; Contests; Giveaways**   
+Periodically, we might offer users an opportunity to participate in sweepstakes, contests and giveaways. Participation in these promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information may include contact information (such as name and address) and demographic information (such as gender). Users' personally identifiable information will not disclosed or shared with third parties unless set forth in this Policy or we obtain your permission. We may use an intermediary to conduct these promotions, but the intermediary may not use users' personally identifiable information for any secondary purposes. 
 
-**d) Customer Service**   
-We communicate with users on a regular basis to provide requested services and regarding issues relating to their accounts. We reply via email or phone, in accordance with the users wishes. 
+**g. Special Notification for California Residents**   
+Individual users who reside in California and have provided their personally identifiable information to the Company may request once per calendar year information about Company's disclosures of certain categories of personally identifiable information to third parties for their direct marketing purposes. Such requests should be directed to the Chief Privacy Officer at [cpo@j2global.com](mailto:cpo@j2global.com). Within thirty days of receiving such a request, we will provide a list of categories of personal information shared during the immediately preceding calendar year with other businesses for their direct marketing purposes, and the names and addresses of those third parties. The Company reserves its right to not respond to requests submitted other than to the email address specified in this section. 
 
-**e) Surveys**   
-Periodically, our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). Survey information will be used for purposes of monitoring or improving the use and satisfaction of j2 Global's services. Users' personally identifiable information is not shared with third parties unless we give prior notice and a choice to opt-out. Though we may use an intermediary to conduct these surveys, they may not use customers' personally identifiable information for any secondary purposes. 
+## 4\. Security
 
-**f) Referral Programs**   
-Periodically, j2 Global offers referral services, asking a user to inform a friend about our service. We collect the name and email address of the friend, and will automatically send an email invitation to the friend. j2 Global stores this information for the sole purpose of sending this email and tracking success of the programs. 
+The Company takes every reasonable precaution to protect its users' information. When our registration/order forms ask users to enter their personally identifiable information, that information is protected with encryption software called SSL. Any activities after you log into your account are also encrypted with SSL. 
 
-2) Sharing
+While we use SSL encryption to protect personally identifiable information online, we also employ security measures to protect user-information off-line. All of our users' information, not just the personally identifiable information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerks or a Customer Service representative) are granted access to personally identifiable information. Finally, the Company servers that store personally identifiable information are in a secure environment. 
 
- **a) Legal Disclaimer**   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. For example, j2 Global may disclose personal information to law enforcement, other government officials, or third parties in response to criminal or civil subpoenas. Sometimes, these requests come from our third party Internet, telecommunications and service providers all over the world who supply the network required for us to deliver our services. In order to maintain the integrity of our network, we often cooperate with requests from these third party providers and/or requests from law enforcement or other governmental officials directed to these providers. 
+## 5\. Changing Your Personally Identifiable Information
 
-j2 Global may share personal information with its affiliates or third-party service providers as necessary. In the event that a j2 Global affiliate or third-party service provider is located outside of Canada, personal information may be processed and stored in such foreign country and the governments, courts or law enforcement or regulatory agencies of that country may be able to obtain disclosure of your personal information through the laws of the foreign country. 
+If a user's personally identifiable information changes (such as phone, credit card or email), users can change their information by logging into their account on the Site. If users have cancelled their account, they must call Customer Service to change their personally identifiable information. 
 
-**b) Aggregate Information (non-personally identifiable)**   
-We may share aggregated demographic information with our partners. This is not linked to any personally identifiable information. 
+## 6\. Notification of Changes
 
-**c) Third Party Intermediaries**   
-We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes 
+If we decide to change our Policy in a non-material way, we will post those changes in this Policy, and other places we deem appropriate, so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
-**d) Business Transitions**   
-In the event j2 Global goes through a business transition, such as a merger, or acquisition by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified as required by applicable privacy laws. 
+If, however, we change our Policy in a material way, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have deleted/deactivated their account, then they will not be contacted if we change our Policy, nor will their personal information be used in this new manner. 
 
-**e) Spam and Junk Faxes**   
-j2 Global does NOT share your fax number or email address externally. While we cannot be responsible for external communications received through j2 Global services, if we are given notice that a j2 Global Service is being used for spam or junk faxes, then we will deactivate that client. If you feel that you have received a junk fax, you may report a junk fax using the tools in MYFAXCENTRAL. 
+## 7\. Safe Harbor
 
-C) Choice/Opt-out
+The Company is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). 
 
-j2 Global users and visitors who do not wish to receive our promotional communications may opt-out from receiving these communications by clicking the opt-out link included at the bottom of every promotional message. 
+## 8\. Data Retention
 
-j2 Global users may not opt-out of receiving invoices and usage information, service announcements, and customer service communications, although they can deactivate their account. 
-
-D) Links
-
-j2 Global' Web sites contain links to other sites. Please be aware that j2 Global is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our sites and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by j2 Global's Web sites. j2 Global has advertising and affiliate relationships with dozens of third party sites that drive interested parties to our sites. Information that is collected on these sites does not fall within the auspices of this policy. j2 Global has Co-Brand relationships with some websites. A site is a Co-Brand of j2 Global if it offers j2 Global technology or services to its users under a different brand. The Co-Branded sites will have their own privacy policies specific to each site, and the user should read them carefully before registration. 
-
-E) Safeguards and Data Retention
-
-1) User Information
-
-j2 Global takes every precaution to protect its user's information. When users submit sensitive information via j2 Global's Web sites, their information is protected both online and off-line. 
-
-When our registration/order forms ask users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our paid order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
-
-While we use SSL encryption to protect sensitive information online, we also employ security measures to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerks or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment. 
-
-2) Message Content Handling
-
-We will store your personal Transmissions on our servers for a limited time and will endeavor to purge old transmissions from its servers when the expiration period has run out (up to 365 days).We use industry-standard efforts to safeguard the confidentiality of your transmissions (as well as your personally identifiable information), such as firewalls and SSL technology. These are the same technologies that most websites use to safeguard credit card information and other personal information. However, that said, "perfect security" does not exist over telephone lines and the Internet and j2 Global accordingly accepts only limited liability for security breaches. 
-
-3) Data Retention
-
-The time period for which we keep information varies according to what the information is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed. 
-
-F) Supplementation of Information
-
-In order for j2 Global to properly fulfill its obligations to users and understand our customer demographics it is necessary for us to supplement the information we receive with information from 3rd party sources. j2 Global verifies the billing address on all credit card transactions and may obtain credit reports for some corporate customers. The information obtained from these third party sources is maintained in a manner consistent with j2 Global's Privacy Policy. 
-
-G) Correcting/Updating/Deleting/Deactivating Personal Information
-
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information by contacting j2 Global Customer Service. 
-
-H) Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes in this privacy statement, and other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-Contact Information
-
-If you have any questions or suggestions regarding our privacy policy, please email cpo@j2global.com or contact 
-
-Privacy Officer  
-j2 Global Canada, Inc.  
-2 Gurdwara Road, 3rd Floor   
-Ottawa, Ontario, Canada  
-K2E 1A2
+The time period for which we keep information varies according to how we use the information. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we do not retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed. 
