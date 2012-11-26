@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicsyn.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623093056id_/http%3A//www.sonicsyn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicsyn.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126094921id_/http%3A//www.sonicsyn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sonicsyn
 
