@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubuy.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525121634id_/http%3A//www.ubuy.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuy.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126075958id_/http%3A//ubuy.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # ubuy.com
 
