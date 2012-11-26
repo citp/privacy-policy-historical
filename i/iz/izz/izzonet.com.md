@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izzonet.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619145533id_/http%3A//www.izzonet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izzonet.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126114135id_/http%3A//www.izzonet.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Izzonet
 
@@ -29,6 +29,10 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. ?We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. ?If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
+We do not share personal information with any third party. By agreeing to the Terms and Conditions, you affirm not to disclose any private information belonging to both general users and customers to your IzzoNet eCommerce store.
+
+We are committed to ensure that we respect and protect our customer's privacy we do not share customer's information with third parties.
+
 IF YOU, FOR YOURSELF OR ON BEHALF OF ONE OR MORE PERSONS YOU ARE REPRESENTING WITH RESPECT TO IzzoNet SERVICES, DO NOT AGREE TO ANY OF THE FOREGOING TERMS, YOU MUST, FOR YOURSELF AND ON BEHALF ANY SUCH PERSON(S), DISCONTINUE THE REGISTRATION PROCESS, DISCONTINUE YOUR USE OF THE SERVICES, AND, IF YOU ARE ALREADY A MEMBER, CANCEL YOUR ACCOUNT. AS OF NOW , ANY CONTINUATION BY YOU IN USING THE SERVICES CONSTITUTES FOR YOU AND THOSE REPRESENTED BY YOU AN EXPRESS AFFIRMATION AND COMMITMENT TO BE (OR TO CONTINUE TO BE, AS APPLICABLE) LEGALLY BOUND BY AND TO COMPLY WITH ALL OF THESE TERMS.
 
-All rights reserved © 2012 Izzonet
+All rights reserved © 2012 IzzoNet
