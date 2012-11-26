@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105557id_/http%3A//www.xcaret.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045344id_/http%3A//www.xcaret.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D23) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are Experiencias Xcaret S.A. de C.V., a business group that has cultural, natural, ecological and adventure parks that offer our visitors ecological, cultural and fun experiences. We are located at Carretera Chetumal – Pto Juárez Km 282 Playa del Carmen, Quintana Roo. Our phone numbers are: +52 (998) 884-9422 - +52 (988) 251-6560. The head of the Data Protection is the Web Services department who can be contacted by email at the following address: 
-
-This Privaciy Notice is part of the following websites: : http://www.xcaretexperiencias.com/, http://www.xcaret.com.mx/, http://www.xelha.com, http://www.xplor.travel, http://www.xichen.com.mx/, http://www.agencias-online.com/, http://www.repsclub.com/ y http://www.fotoxplor.com/.
-
-This Privacy Notice is part of the use of the web site: www.xcaretexperiencias.com
-
 One of the priorities of Experiencias Xcaret S.A. de C.V. is to respect our users privacy and keep secure all information and personal data collected, so that you will share information only with Experiencias Xcaret S.A. de C.V. unless otherwise specified. 
-
-**Information requested**  
-Among the information requested on our website are: 
 
 When using our online service, we will be requesting **bank details and / or credit card** such as: 
 
