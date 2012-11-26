@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710034753id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetoyshop.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126201236id_/http%3A//www.thetoyshop.com/privacy) for the most accurate reproduction.*
 
-# The Toy Shop
+# Privacy Policy
 
 **TheToyShop.com** is a trading name of The Entertainer (Amersham) Ltd. Registered in the United Kingdom.
 
@@ -22,6 +22,18 @@ When you use this site and have not advised us to the contrary, you are agreeing
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
 
+### Personal Data
+
+We are working with Struq to display personalised banners to past visitors of www.TheToyShop.com.  
+\- Struq may place cookies on the browsers of visitors to TheToyShop.com and may send its own cookies to the visitors' cookie file. The cookies will allow Struq to apply its Personalised Retargeting technology and to serve Personalised banners.  
+\- Struq only employs anonymous cookies for Personalised banners, the Cookie is a means by which information relating to internet activity is recorded.  
+\- Struq will collect and use these data in accordance with all applicable laws and regulations (including but not limited to laws governing privacy, and data protection)  
+\- The data collected and used by Struq is at its sole discretion will only contain non-personal data.  
+\- This data will be anonymous and will not contain the name, address, telephone number, email address or IP address of the Visitors.  
+\- Struq's Privacy Policy will be available at the following address http://www.struq.com/privacypolicy/ .  
+\- Struq's Opt out page is available at http://www.struq.com/consumer-opt-out/ which includes information for users on how to opt-out of being cookie retargeted.  
+
+
 ### What if you think we have incorrect information, or you would like a copy of the information we hold about you?
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A fee of £10 will be payable. If you would like a copy of the information held on you, please write to: 
@@ -31,7 +43,7 @@ The Entertainer (Amersham) Ltd.
 Boughton Business Park   
 Bell Lane   
 Little Chalfont   
-Bucks HP6 6GL **
+Bucks HP6 6GL**
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
 
