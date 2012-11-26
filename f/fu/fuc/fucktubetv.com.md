@@ -1,36 +1,22 @@
-> *The following text is extracted and transformed from the fucktubetv.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427003354id_/http%3A//www.fucktubetv.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fucktubetv.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126071044id_/http%3A//fucktubetv.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-* **Overview**
+### Privacy Policy
 
-Thank you for visiting fucktubetv.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+We know that you care how information about you is used and shared, and your privacy is important to us. We thank you for visiting this web site (the "Web Site") and reviewing our Privacy Policy. This notice describes our privacy policy. **By visiting our website, you are accepting the practices described in this Privacy Notice.** Please note that this Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-* **What Type of Information We Collect**
+Collection of Information **Information You Give Us:** We receive and store any information you voluntarily provided us with on our website. We use the information that you provide for such purposes as responding to your requests, providing our services and communicating with you, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+**Automatic Information:**  
+We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," other technologies to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising and we obtain certain types of information when your web browser accesses our sites. Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our website, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for ggregate use. Personal information is not being collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
+Uses Distribution of Information We may use personal information to provide the services you've requested, including services that display customized content and advertising. We do share information but only as described below. Otherwise we will not provide your personal information without your consent. We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Furthermore we engage other companies and individuals to perform functions on our behalf or provide us with services . Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide us for any secondary purposes. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may share information with third parties when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services We may share aggregated non-personal information with third parties outside of The Web Site.
 
-* **Uses May Include**
+Links The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
+Children The Web Site is not directed to children. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
+IndemnificationYou agree to indemnify, defend and hold harmless the Web Site and its members, managers, officers, employees, agents and the assigns of same, from and against any and all loss, costs, expenses (including reasonable attorneys' fees and expenses), claims, damages and liabilities related to or associated with your use of the Web Site and any violation of this Privacy Policy by you.
 
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
-
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
-
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
-
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
-
-
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.
+Conditions of Use, Notices, and Revisions If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of United States . If you have any concern about privacy at our web site, please send us a thorough description to information@trafficmedia.com, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use, but you should check our website frequently to see recent changes.
