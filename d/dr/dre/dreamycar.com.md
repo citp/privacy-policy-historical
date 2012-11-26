@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamycar.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104091738id_/http%3A//www.dreamycar.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamycar.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126055129id_/http%3A//dreamycar.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
