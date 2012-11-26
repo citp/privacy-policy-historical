@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526142811id_/http%3A//store.magpul.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126043655id_/http%3A//store.magpul.com/privacy_notice) for the most accurate reproduction.*
 
 # Magpul Industries Ecommerce
 
-**OUR COMMITMENT TO PRIVACY**
+**OUR COMMITMENT to PRIVACY**
 
 The Magpul Industries Corp. Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our customers. The Policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us. 
 
