@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vstplanet.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502080448id_/http%3A//www.vstplanet.com/Privacy%2520Police%2520for%2520vstplanet.com.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vstplanet.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126074549id_/http%3A//vstplanet.com/Privacy%2520Police%2520for%2520vstplanet.com.htm) for the most accurate reproduction.*
 
 # VSTPLANET - VST Plugins Free - Virtual instruments and effects
 
