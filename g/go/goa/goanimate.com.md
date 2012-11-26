@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614105728id_/http%3A//goanimate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126052150id_/http%3A//goanimate.com/privacy) for the most accurate reproduction.*
 
 # We treat your personal information very carefully
 
@@ -17,7 +17,7 @@ You can generally visit our Site without revealing any personally identifiable i
 
 We also may collect clear gifs and web bugs through your use of the Site. We also may collect all of the foregoing personally identifiable information about you from third party websites on which you post your animations through application programming interfaces and when you request an animation posted or created on our Site on a third party site as the animations are hosted on our Site.
 
-In order to provide the best possible service and to allow us to make certain internal reports, we collect aggregate information about the use of the Services, including information about users accessing the site or viewing animations or using our Services on other sites, such as internet protocol addresses, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time.
+In order to provide the best possible service and to allow us to make certain internal reports, we collect aggregate information about the use of the Services, including information about users accessing the site or viewing animations or using our Services on other sites, such as internet protocol addresses, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, and the date and time. We may also use purpose-built tools provided by third parties to access, monitor, analyze, use and disclose this data.
 
 We may use your personal information to register to use our Site and Services, deliver you certain Services, provide you with notices regarding services you have purchased or might want to purchase, improve the content and general administration of our Site and send you targeted advertising.
 
