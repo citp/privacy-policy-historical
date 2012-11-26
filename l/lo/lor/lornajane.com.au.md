@@ -1,66 +1,50 @@
-> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126102649id_/http%3A//www.lornajane.com.au/terms-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126044752id_/http%3A//www.lornajane.com.au/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lorna Jane
 
-Privacy Policy
+**Our Commitment to Your Privacy**
 
-This statement sets out Lorna Jane Pty Ltd's ('Lorna Jane') policies relating to the personal information you provide to us in the course of your customary.  
-By submitting your personal information, you are agreeing to the collection, use and disclosure of personal information by Lorna Jane as set out in this Privacy Statement.
+Lorna Jane PTY LTD. (“Lorna Jane”) respects your privacy. We are particularly sensitive to privacy issues on the Internet, including our digital applications and therefore we provide this Privacy Policy so you know about our online information practices and understand how we treat the information we receive about you from the Internet. 
 
-1\. National Privacy Principles
+ **The Information We Collect**
 
-We recognise that the privacy of our customers is extremely important. This Privacy Policy is consistent with the National Privacy Principles ('NPPs') contained in the Privacy Amendment (Private Sector) Act 2000 (Cth) (‘the Privacy Act’) and reflects Lorna Jane’s commitment to information management practices that protect our customers’ privacy.  
-The following statement sets out how we handle your personal information and safeguard your privacy. Personal information includes your name, e-mail and mailing addresses, contact numbers and date of birth.
+In general, you can use the application and browse our website and other Lorna Jane owned digital properties without telling us who you are or revealing any personal information about yourself. We are, however, able to determine your IP address. We use your IP address to help diagnose problems with our server, to administer our website, to measure the use of our website and to improve the content of our website. In short we use your IP to gather aggregate demographic information. There are a few places where we give you an opportunity to provide us your personal information. This refers to information that lets us know the specifics of who you are. When you engage in certain activities on our website or with the application, such as ordering a product, entering a contest or sweepstakes, connecting via a social network, creating and maintaining a user account, filling out a survey, sending us feedback, requesting owners and parts manuals or registering your product online, we may ask you to provide certain information. If you choose to share any personal information with us, you will see that the amount and type of personal information we request depend on how you use our website. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), email address, telephone and facsimile numbers, and other personal identifying information. When ordering products on our website, you may be asked to provide a credit card number. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
 
-2\. Purpose of information collected
+The Lorna Jane iPhone application allows users to record and share workout information, challenge friends, and compete on an online leaderboard hosted at nowmove.com and nowmoveit.com.au, which are digital properties of Lorna Jane PTY LTD.  iPhone application users have the option to share this data to their friends or restrict it to their own use only. Use of the Lorna Jane iPhone application will record specific information about users workouts including date, activity type, time taken, distanced travleed, calories burned, max speed, avergae speed, activity locations, and other variables related to their workouts. Users of the application may chose to login ito the iPhone application with Facebook, at which point this information will be shared with their Facebook account. Users may chose to suspend this data sharing at any time. For users who chose not to login to the application with Facebook, their data will be submitted to nowmoveit.com/nowmoveit.com..au as an anonymous entry. 
 
-Lorna Jane collects personal information for some or all of the following purposes:  
-(a) To register our customers as authorised members of our website;  
-(b) To enter customers into competitions or promotional activities offered by Lorna Jane or our agencies, contractors, related companies and promotional partners;  
-(c) to monitor and improve the quality and standard of service provided to our customers by Lorna Jane, our agencies, contractors, related companies and promotional partners;  
-(d) to provide marketing information to our customers about products and services of Lorna Jane or any one or more of our agencies, contractors, related companies and promotional partners via email, post or SMS; and  
-(e) to arrange for delivery of products of Lorna Jane or any one or of our agencies, contractors, related companies and promotional partners.  
-If you do not provide any information requested, Lorna Jane may not be able to either provide you with product information or to fulfil one or more other purposes of collection of your personal information.  
-Collection from third party  
-Lorna Jane may collect personal information about you from a third party source. We will take reasonable steps to contact you and make you aware of the purposes for which we have collected your personal information which has been obtained from a third party source.  
-Customers under 18  
-We are mindful that some customers who register as members may be under the age of 18. In the interests of their personal safety, we urge children to check with their parents before providing us with any personal information and ask parents to discuss these issues with their children. Lorna Jane will also ensure that appropriate disclosures are made at the time of collection of other information from minors, and will only collect this information where it is appropriate to do so.  
-Personal information about other people  
-You must not provide personal information to Lorna Jane about another person, unless that person has authorised us, through you, to collect, use and disclose personal information about that person for the purposes described in this Privacy Policy.
+ **The Way We Use Information  **
 
-3\. Use of Information
+We may use your personal information for particular purposes such as processing your order or for marketing research and other marketing purposes and for providing you with the latest product and promotional information and other information that might be useful to you. We may use your personal information to deliver information to you and to contact you regarding administrative notices. We may share this information with Lorna Jane affiliates or other business partners to support your customer relationship with the company. We must release your credit card information to the card-issuing bank to confirm payment for products purchased on our website; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us provide customer service. We will not give or sell this information to any other company for its use in marketing or solicitation. 
 
-We use your personal information for the primary purpose for which it has been provided, or for purposes related to or ancillary to that primary purpose, that is, for the purposes of you becoming a registered user of the website and any other purposes outlined above as nominated or requested by you.  
-By providing us with your personal information, you agree to receive communications from Lorna Jane or our agencies, contractors, related companies and promotional partners. You may choose to opt out of receiving these communications and we will give you the opportunity to do that each time we contact you, except in the instance where receipt of the communications are essential to the participation in a competition.
+ **Updating and Correcting Your Personal Information**
 
-4\. Disclosure of information
+You may access and correct your personal information by writing us at: 
 
-We will not rent, trade, spam or sell any personally identifiable information that you give us to any third party unless we receive your prior consent. However, when you register you may opt in to receive information about special promotional offers from some of our promotional partners.  
-Lorna Jane may from time to time engage third party contractors to carry out work. Third party contractors are prohibited from using collected personal information about you, except for the specific purpose for which that personal information has been supplied by Lorna Jane to the contractor.  
-Your personal information is only provided to third parties where required by law or to our agencies, contractors, related companies and promotional partners where they require your information for the purposes of the promotion or to contact you with special offers. In such cases we have taken steps to ensure that any third party access to personal information complies with the NPPs.  
-Foreign countries  
-Lorna Jane will not transfer your personal information to foreign countries without your express or implied consent.
+Lorna Jane Head Office  
+857 Kingsford Smith Drive  
+Eagle Farm, Queensland,   
+Australia, 4009
 
-5\. Accuracy and security of your personal information
+Please include your name, address, and/or email address when you contact us. We encourage you to promptly update your personal information if it changes. 
 
-We will take all reasonable steps to secure any personal information which we and our agencies, contractors, related companies and promotional partners hold about you and to keep that information accurate and up-to-date. Personal information will be stored electronically.
+ **Your Choice on Collection and Use of Your Information  **
 
-If any personal information held by Lorna Jane about you is incorrect, you should contact us immediately, so that we can take reasonable steps to correct incorrect information about you.
+We may, from time to time, send you electronic mailings, text messages, and other direct communications, regarding our products and services. We will send you these mailings only if you indicated that you do not object to these offers. If you do not wish to receive further information from Lorna Jane you can send us an e-mail at [marketing@lornajane.com] and tell us that you do not want to receive future communications. You may ask to have the information on your account deleted or removed, however, because we keep track of past transactions, you cannot delete information associated with past transactions on our website. In addition, it may be impossible to completely delete your information without some residual information because of backups.
 
-6\. Access To Personal Information
+We will encourage our service partners to adopt and post privacy policies. However, the use of your personal information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control. The Lorna Jane website may contain links to other non-Lorna Jane websites. Lorna Jane is not responsible for the privacy practices or the content of such websites and you should exercise your best judgment when sharing personal information on these websites.
 
-Lorna Jane will, on request, provide you with access to personal information held by us about you, subject to any limitations or exceptions in the Privacy Act. Lorna Jane will deal with requests for access within a reasonable time. We may charge you for the reasonable costs incurred by Lorna Jane in providing you with such information. If Lorna Jane refuses to provide you with access to personal information about you, we will provide you with reasons for the refusal, in accordance with the requirements of the Privacy Act.
+ **Our Commitment to Security of Your Personal Information**
 
-7\. What if you have a complaint or a question?
+We want you to have continuing trust in Lorna Jane and in our products and services and, so, we have put in place reasonable physical, electronic and managerial procedures to safeguard and secure your personal information.
 
-If you have any queries relating to our Privacy Statement, or if you have a problem or wish to lodge a complaint in relation to an alleged breach of your privacy, please write to us at the following address:  
-Lorna Jane Pty Ltd  
-Attention: Privacy Officer  
-PO Box 1032, Fortitude Valley QLD 4006  
-Or by Fax No: +61 7 3252 4740
+In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
 
-8\. Changes to this Privacy Statement
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through our website cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-We reserve the right to amend this Privacy Statement at any time. You will be notified of any amendments through the replacement of this policy with an updated version.
+ **Children's Privacy Policy**
 
-________________________________________
+The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age, and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of our websites.  Lorna Jane does not knowingly collect any information from children under the age of 13.
+
+We may amend our Children's Privacy Policy at any time. We will provide parents notice by email or posting on our website of any material changes in the way we intend to collect, use, and/or share a child's personal information. We will apply material changes in our Children's Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
+
+By using this website you are agreeing to the terms of the Lorna Jane Privacy Policy.  We reserve the right to modify our privacy policy as business needs require. We will post such changes on our website.
