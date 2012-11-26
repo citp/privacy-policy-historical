@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528070232id_/http%3A//christianscience.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126234913id_/http%3A//christianscience.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy / Christian Science
 
@@ -14,21 +14,13 @@ You have the option of joining our online discussion forums (or communities) and
 
 Required:
 
+  * Name
   * E-mail address
   * Username/screen name
 
 
 
-Optional:
-
-  * Name
-  * Age
-  * City/Town/Region/State
-  * Country
-
-
-
-When you register, your username will be made visible to all public users of the Site, but you will have the option to make any other personal information private or public. Your privacy settlings may be adjusted [here](https://community.christianscience.com/edit-profile!input.jspa?).
+When you register, your username will be made visible to all public users of the Site, but you will have the option to make any other personal information private or public. Your privacy settings may be adjusted [here](https://community.christianscience.com/edit-profile!input.jspa?).
 
 ###  **How will we use the information we collect?**
 
@@ -43,6 +35,8 @@ If you have any questions or concerns regarding what is done with your informati
 ###  **What are cookies?   How do we use them?**
 
 A cookie is a small piece of data that is sent to your browser from christianscience.com’s web server and is stored on your computer’s hard drive. Cookies cannot be used to collect data from any user's computer. Cookies can only be used in conjunction with visits within our site.
+
+ChristianScience.com uses cookies to track information about your activity on our site in order to deliver better and more personalized services.  Cookies allow us to track registration information you have submitted and anonymously identify which areas of the site you have visited.  A cookie assigned during a visit on the forums will be deleted once you log out, and another will not be added again until your next visit.
 
 We may link to Sites which may use cookies. Christianscience.com does not own or control these entities or sites, and this statement of policy does not cover how these companies use their cookies. 
 
