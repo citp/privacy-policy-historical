@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526113035id_/http%3A//www.eyeconic.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045754id_/http%3A//www.eyeconic.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Eyeconic | Privacy Policy
 
 [](https://web.archive.org/Home)
 
-|  |  |  |  | 
-
-[Home
-
-](https://web.archive.org/Home) |  | 
-
-Privacy Policy  
-  
----|---|---  
-   
-| 
+|  | 
 
 Privacy Policy
 
@@ -158,6 +148,4 @@ Category Information**
   
 **We reserve the right to add, delete or alter categories from time to time.   
   
-  |    |     
-  
-© 2012, Eyeconic, Inc. All rights reserved. All brands are the marks or registered trademarks of their respective owners. 
+© 2012 Eyeconic, Inc. All rights reserved. VSP and eyeconic.com are registered trademarks, and Eyeconic is a trademark, of Vision Service Plan. 
