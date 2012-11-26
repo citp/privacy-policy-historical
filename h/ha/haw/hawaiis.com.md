@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiis.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528180817id_/http%3A//www.hawaiis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiis.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127004026id_/http%3A//www.hawaiis.com/privacy-policy) for the most accurate reproduction.*
 
 # American Dream Realty Privacy Policy
 
