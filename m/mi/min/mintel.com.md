@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605025718id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126060449id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Mintel Group Ltd | Mintel
 
@@ -29,9 +29,11 @@ Mintel views all personal information that it collects as a valuable and confide
 
 This site also uses "cookies", which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your search results so you can go back to them) and to keep track of the number of users accessing our site and the information they access. Our information sites will NOT function correctly if you disable cookies.
 
-This site uses "Web Beacons” as part of its web analytics service. Mintel may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. Mintel does not collect personally identifiable information that you do not voluntarily enter in this website. Mintel does not track your browsing habits across web sites which do not use Mintel services. 
+For a more thorough discussion of how cookies are used on Mintel sites, including details of how to opt-out of certain services please see our [Cookie Use on Mintel Websites](https://web.archive.org/cookie-use) page
 
-You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. Third parties are not permitted to use Web Beacons on the Site.
+Some Mintel sites use the ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type into the site. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. Mintel does not track your browsing habits across web sites that do not use ClickTale analytics. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). 
+
+We are using the information collected by ClickTale service to further improve the usability of our web sites. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 We may share your information with third parties who assist us in providing our service to you, e.g. our supplier Barclaycard Merchant Services may collect credit card information in order to process any payments you make.
 
