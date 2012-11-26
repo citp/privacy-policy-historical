@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tommyswiss.com.au privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624054048id_/http%3A//www.tommyswiss.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommyswiss.com.au privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126093826id_/http%3A//www.tommyswiss.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Designer Furniture | Bed Frames | Mattresses - Buy Online @ Tommy Swiss - Privacy Policy
+# Privacy Policy
 
 **Our Commitment to Privacy**  
 Tommy Swiss is committed to preserving the privacy of all our customers and users of our website at http://www.tommyswiss.com.au. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
