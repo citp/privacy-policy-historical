@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theflowershop.ae privacy policy that was archived on 2012-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525215941id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theflowershop.ae privacy policy that was archived on 2012-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127003536id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy, theflowershop.ae</title>
@@ -9,7 +9,10 @@
 	<meta name="Description" content="">
     <base href="http://www.theflowershop.ae/">
 	<!--CSS-->
-	<link href="assets/css/style_home.css?8313" rel="stylesheet" type="text/css">
+	<link href="assets/css/style.css?61112" rel="stylesheet" type="text/css">
+    <link href="assets/css/accounts.css?241012" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="tcal.css?14612">
+	<script type="text/javascript" src="tcal.js"></script>
 	<!--[if IE 6]>
     <link href="assets/css/ie6style.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="assets/js/ie6pngfix.js"></script>
@@ -24,6 +27,54 @@
 <script type="text/javascript" src="js/js.js"></script>
 <script type="text/javascript" src="js/messages.js"></script>
 <meta name="google-site-verification" content="Pk14fTofoHcnaSxqncm1uB9pRrMUNxuVUzrhfV9mAyQ">
+<script type="text/javascript">
+// Popup window code
+function printPopup(url) {
+	popupWindow = window.open(
+		url,'popUpWindow','height=755,width=1050,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+}
+function display_pdivs(oid,pid)
+{
+	for(i=1; i<parseInt(pid); i++)
+	document.getElementById('proDiv'+oid+'_'+i).style.display = 'block';
+	document.getElementById('moredtDiv'+oid).style.display = 'none';
+}
+function validate_tracking()
+{
+	var ordval = document.track_order.order_id.value;
+	if(ordval == '' || ordval == 'Enter Order Number')
+	{
+	 alert('Please enter Order NO.');
+	 document.track_order.order_id.value = '';
+	 document.track_order.order_id.focus();
+	 return;
+	}
+	document.track_order.submit();
+}
+var showhidevar;
+function popup_disable(obid)
+{
+	showhidevar = setTimeout(function(){document.getElementById(obid).style.display='none';},1000);	
+}
+function popup_enable(obid,div1,div2,div3,div4,div5,div6,div7,div8)
+{
+	document.getElementById(div1).style.display='none';
+	document.getElementById(div2).style.display='none';
+	document.getElementById(div3).style.display='none';
+	document.getElementById(div4).style.display='none';
+	document.getElementById(div5).style.display='none';
+	document.getElementById(div6).style.display='none';
+	document.getElementById(div7).style.display='none';
+	document.getElementById(div8).style.display='none';
+	clearTimeout(showhidevar);
+	document.getElementById(obid).style.display='block';
+}
+function popup_enable2(obid)
+{
+	clearTimeout(showhidevar);
+	document.getElementById(obid).style.display='block';
+}
+</script>
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=68928691"></script></head>
 <body>
 
@@ -35,12 +86,16 @@ function monitorClick(e)
         var evt = (e)?e:event;
        
         var theElem = (evt.srcElement)?evt.srcElement:evt.target;
-
+        var emval = document.getElementById('keywords').value;
         while(theElem!=null){
 		//alert(theElem);
 		//alert(theElem.id);
-          if(theElem.id == "helpbxDiv" || theElem.id == "hlpDiv"  || theElem.id == "hlpDiv1" || theElem.id == "div1" || theElem.id == "div2" || theElem.id == "div3" || theElem.id == "div4" || theElem.id == "div5" || theElem.id == "div6" || theElem.id == "div7" || theElem.id == "div8" || theElem.id == "div9" || theElem.id == "div10" || theElem.id == "div11" || theElem.id == "div12" || theElem.id == "div13" || theElem.id == "div14" || theElem.id == "div15") {
+          if(theElem.id == "helpbxDiv" || theElem.id == "hlpDiv"  || theElem.id == "hlpDiv1" || theElem.id == "div1" || theElem.id == "div2" || theElem.id == "div3" || theElem.id == "div4" || theElem.id == "div5" || theElem.id == "div6" || theElem.id == "div7" || theElem.id == "div8" || theElem.id == "div9" || theElem.id == "div10" || theElem.id == "div11" || theElem.id == "div12" || theElem.id == "div13" || theElem.id == "div14" || theElem.id == "div15" || theElem.id == "div16") {
             document.getElementById('helpbxDiv').style.display = 'block';
+            return true;
+          }
+		  if(theElem.id != "keywords" && emval == '') {
+            document.getElementById('keywords').value = 'Search...';
             return true;
           }
 		  break;
@@ -54,7 +109,11 @@ function monitorClick(e)
         
       }
 </script>
+<script type="text/javascript" src="js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="js/MTjs.js"></script>
 <div id="div1" class="HelpBxFixr">
+<div class="BtnChatWrp"> <a class="BtnChat" href="http://server.iad.liveperson.net/hc/68928691/?cmd=file&amp;file=visitorWantsToChat&amp;site=68928691&amp;byhref=1&amp;SESSIONVAR!skill=theflowershop&amp;imageUrl=http://www.theflowershop.ae/images/liveperson" target="chat68928691" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/68928691/?cmd=file&amp;file=visitorWantsToChat&amp;site=68928691&amp;SESSIONVAR!skill=theflowershop&amp;imageUrl=http://www.theflowershop.ae/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat68928691','width=475,height=400,resizable=yes');return false;"></a> </div>
 <div class="BtnHelpWrp"> <a id="hlpDiv" class="BtnHelp" href="javascript:;" onclick="document.getElementById('helpbxDiv').style.display='block';"></a> </div>
 <div class="HlpBxPos" id="helpbxDiv" style="display:none;">
 <div class="HlpBxWrp" id="div2">
@@ -319,33 +378,60 @@ function monitorClick(e)
 
 </div>
 </div><div id="Header">
-<a class="LogoTheFlowerShop" href="http://www.theflowershop.ae/"><img src="assets/images/LogoTheFlowerShop.jpg" width="223" height="47" alt="TheFlowerShop Logo"></a>
-<a class="HdrInterflora" href="http://www.theflowershop.ae/international-delivery.php"></a>
 
 <div class="HdrLnksWrp">
- <a class="HdrCart" href="http://www.theflowershop.ae/shopping_cart.php">0 Item(s): 0.00&nbsp;DHS</a>
- 
- <span class="DelDay">Same-Day Nationwide Delivery</span>
- <span class="TollFree">&nbsp;</span>
+	<a class="DestinLink" href="javascript:;" onclick="document.getElementById('contMenu').style.display='block';document.getElementById('a_e').className='AlphaRange2';document.getElementById('f_j').className='AlphaRange';document.getElementById('k_o').className='AlphaRange';document.getElementById('p_t').className='AlphaRange';document.getElementById('u_z').className='AlphaRange';">United Arab Emirates</a>
+	<p class="TxtContainer"><a href="https://www.theflowershop.ae/login.php">Sign In</a> | <a href="https://www.theflowershop.ae/account.php">My Account</a> | <a id="div16" href="javascript:;" onclick="document.getElementById('helpbxDiv').style.display='none';">Help</a> | <a href="http://www.theflowershop.ae/faqs.php">FAQ</a> | <a href="http://www.theflowershop.ae/testimonials.php">Testimonials</a></p>
 </div>
 
-<div class="UsrNameWrp"> <p class="TxtContainer"><a href="https://www.theflowershop.ae/login.php">Sign In</a>, <a class="UsrAcount" href="https://www.theflowershop.ae/account.php">My Account</a></p> <a class="DestinLink" href="javascript:;" onclick="document.getElementById('contMenu').style.display='block';document.getElementById('a_e').className='AlphaRange2';document.getElementById('f_j').className='AlphaRange';document.getElementById('k_o').className='AlphaRange';document.getElementById('p_t').className='AlphaRange';document.getElementById('u_z').className='AlphaRange';">United Arab Emirates <span class="DestinLinkBgRt"></span></a></div>
 
-<div class="HelpBtnWrp"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/68928691/?cmd=file&amp;file=visitorWantsToChat&amp;site=68928691&amp;byhref=1&amp;SESSIONVAR!skill=theflowershop&amp;imageUrl=http://www.theflowershop.ae/images/liveperson" target="chat68928691" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/68928691/?cmd=file&amp;file=visitorWantsToChat&amp;site=68928691&amp;SESSIONVAR!skill=theflowershop&amp;imageUrl=http://www.theflowershop.ae/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat68928691','width=475,height=400,resizable=yes');return false;"><img src="https://server.iad.liveperson.net/hc/68928691/?cmd=repstate&amp;site=68928691&amp;channel=web&amp;ver=1&amp;imageUrl=https://www.theflowershop.ae/testflower/images/liveperson&amp;skill=theflowershop&amp;d=1580386390532" id="_lpChatBtnImage" name="hcIcon" alt="Chat Button" width="124" height="32" border="0"></a>
+<div class="IconicLnxWrp">
+	<a class="LogoTheFlowerShop" href="http://www.theflowershop.ae/"><img src="assets/images/LogoTheFlowerShopY.jpg" width="190" height="47" alt="Flowershop Logo"></a>
+	<a class="IntfloraDevl" href="international-delivery.php"></a>
+	<p class="SameDayDel">&nbsp;</p>
+	<div class="HelpBtnWrp"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/68928691/?cmd=file&amp;file=visitorWantsToChat&amp;site=68928691&amp;byhref=1&amp;SESSIONVAR!skill=theflowershop&amp;imageUrl=http://www.theflowershop.ae/images/liveperson2" target="chat68928691" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/68928691/?cmd=file&amp;file=visitorWantsToChat&amp;site=68928691&amp;SESSIONVAR!skill=theflowershop&amp;imageUrl=http://www.theflowershop.ae/images/liveperson2&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat68928691','width=475,height=400,resizable=yes');return false;"><img src="https://server.iad.liveperson.net/hc/68928691/?cmd=repstate&amp;site=68928691&amp;channel=web&amp;ver=1&amp;imageUrl=https://www.theflowershop.ae/images/liveperson2&amp;skill=theflowershop&amp;d=1580386394352" id="_lpChatBtnImage" name="hcIcon" alt="Chat Button" width="79" height="39" border="0"></a>
 <script type="text/javascript">
 var ptcl = (("https:" == document.location.protocol) ? "https" : "http");
-document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.net/hc/68928691/?cmd=repstate&site=68928691&channel=web&ver=1&imageUrl='+ptcl+'://www.theflowershop.ae/testflower/images/liveperson&skill=theflowershop'+'&d='+((new Date()).getTime());</script></div>
+document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.net/hc/68928691/?cmd=repstate&site=68928691&channel=web&ver=1&imageUrl='+ptcl+'://www.theflowershop.ae/images/liveperson2&skill=theflowershop'+'&d='+((new Date()).getTime());</script></div>
+	<p class="TollFreeNumb">&nbsp;</p>
+
+	<div class="CartIcoWrp" id="CartIcoWrp"> <a class="HdrCart" href="http://www.theflowershop.ae/shopping_cart.php"><p> <span class="Qty">0</span> Item(s) <br> 0.00&nbsp;DHS</p></a>
+    
+<!-- Cart Drop Down: Start -->
+	<div id="ScroldCartWrp" style="display:none;">
+    
+    <div class="DropCartTopBg">
+	<div class="CartIcoWrp"> <a class="HdrCart" href="http://www.theflowershop.ae/shopping_cart.php"><p> <span class="Qty">0</span> Item(s) <br> 0.00&nbsp;DHS</p></a></div>
+    </div>
+
+    <div class="ItemsWrp">
+    <div class="BtnViewCartWrp">Your shopping cart is empty.</div>
+     </div>
+     <div class="DropCartBtmBg"></div>
+     
+    	
+    
+    
+    </div>
+<!-- Cart Drop Down: End -->
+    
+    </div>
+
+
+</div>
 
 <div class="NavigContainer">
 <ul class="Navigation">
-<li><a href="http://www.theflowershop.ae/birthday-gifts.html"><strong>Birthday</strong></a></li>
+<li><strong><a href="http://www.theflowershop.ae/birthday-gifts.html?page_size=500">Birthday</a></strong></li>
 
 <li><a href="http://www.theflowershop.ae/gifts/occasion_259.html">Occasion</a>
    <div class="DropMenuWrp">
-											<a href="http://www.theflowershop.ae/birthday-gifts.html" title="Birthday">Birthday</a>
+	 								<a href="http://www.theflowershop.ae/birthday-gifts.html" title="Birthday">Birthday</a>
+								<a href="http://www.theflowershop.ae/gifts/uae-national-day_50569.html" title="UAE National Day"><strong>UAE National Day</strong></a>
+								<a href="http://www.theflowershop.ae/christmas-gifts.html" title="Christmas Gifts">Christmas Gifts</a>
 								<a href="http://www.theflowershop.ae/anniversary-gifts.html" title="Anniversary">Anniversary</a>
-								<a href="http://www.theflowershop.ae/gifts/new-baby_285.html" title="New Baby">New Baby</a>
 								<a href="http://www.theflowershop.ae/gifts/get-well_282.html" title="Get Well">Get Well</a>
+								<a href="http://www.theflowershop.ae/gifts/new-baby_285.html" title="New Baby">New Baby</a>
 								<a href="http://www.theflowershop.ae/love-romantic-gifts.html" title="Love and Romance">Love and Romance</a>
 								<a href="http://www.theflowershop.ae/sympathy-gifts.html" title="Sympathy">Sympathy</a>
 								<a href="http://www.theflowershop.ae/gifts/im-sorry-flowers_286.html" title="I'm Sorry Flowers">I'm Sorry Flowers</a>
@@ -354,22 +440,22 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
 								<a href="http://www.theflowershop.ae/gifts/just-because_289.html" title="Just Because">Just Because</a>
 								<a href="http://www.theflowershop.ae/gifts/thinking-of-you_292.html" title="Thinking of You">Thinking of You</a>
 								<a href="http://www.theflowershop.ae/gifts/congratulations_291.html" title="Congratulations">Congratulations</a>
-								<a href="http://www.theflowershop.ae/christmas-gifts.html" title="Christmas Gifts">Christmas Gifts</a>
 								<a href="http://www.theflowershop.ae/all-occasions-gifts.html" title="Any Occasion">Any Occasion</a>
    </div>
 </li>
 
 <li><a href="http://www.theflowershop.ae/flowers.html"><strong>Flowers</strong></a>
    <div class="DropMenuWrp">
-   <a class="ViewAll" href="http://www.theflowershop.ae/flowers.html?page_size=500">View all »</a>   
+	 <a class="ViewAll" href="http://www.theflowershop.ae/flowers.html?page_size=500">View all »</a>   
    	 	<a href="http://www.theflowershop.ae/roses.html" title="Roses">Roses</a>
 	<a href="http://www.theflowershop.ae/gifts/lillies_311.html" title="Lillies">Lillies</a>
 	<a href="http://www.theflowershop.ae/gifts/daisies_312.html" title="Daisies">Daisies</a>
 	<a href="http://www.theflowershop.ae/gifts/tulips_313.html" title="Tulips">Tulips</a>
-	<a href="http://www.theflowershop.ae/gifts/carnations_314.html" title="Carnations">Carnations</a>
+     <a href="http://www.theflowershop.ae/gifts/luxury-collections_333.html">Luxury Collection</a>
+     <a href="http://www.theflowershop.ae/gifts/carnations_314.html" title="Carnations">Carnations</a>
      <a href="http://www.theflowershop.ae/gifts/orchids_50563.html" title="Orchids">Orchids</a>
 	 <a href="http://www.theflowershop.ae/gifts/hand-bouquets_50558.html" title="Hand-Bouquets">Hand-Bouquets</a>
-     <a href="http://www.theflowershop.ae/gifts/luxury-collections_333.html">Luxury Collection</a>
+     <!--<a href="" title="Corsage">Corsage</a>-->
    </div>
 </li>
 
@@ -386,23 +472,30 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
 								<a href="http://www.theflowershop.ae/gifts/green_302.html" title="Green">Green</a>
    </div>
 </li>
+
 <li><a href="http://www.theflowershop.ae/gourmet.html"><strong>Gourmet</strong></a>
    <div class="DropMenuWrp">
-   <a class="ViewAll" href="http://www.theflowershop.ae/gourmet.html?page_size=500">View all »</a>
+	 <a class="ViewAll" href="http://www.theflowershop.ae/gourmet.html?page_size=500">View all »</a>
    <!--<a href="gifts/valentines-day-gifts_50559.html"><strong>Valentine's Day Gifts</strong></a>-->
 	 								<a href="http://www.theflowershop.ae/godiva-chocolates.html" title="Godiva Chocolates">Godiva Chocolates</a>                                
 	 <a href="http://www.theflowershop.ae/gifts/brunetti-cakes_50561.html" title="Brunetti Cakes">Brunetti Cakes</a>
      <a href="http://www.theflowershop.ae/gifts/wafi-gourmet_318.html" title="Wafi Gourmet">Wafi Gourmet</a>
-     <a href="http://www.theflowershop.ae/gifts/perfect-endings-cupcakes_331.html" title="Perfect Endings Cupcakes">Perfect Endings Cupcakes</a>
+     <!--<a href="" title="Perfect Endings Cupcakes">Perfect Endings Cupcakes</a>-->
      <a href="http://www.theflowershop.ae/gifts/forrey-galland_325.html" title="Forrey &amp; Galland">Forrey &amp; Galland</a>
+     <a href="http://www.theflowershop.ae/gifts/chocoa_50566.html" title="ChoCo'a">ChoCo'a</a>
+     <a href="http://www.theflowershop.ae/gifts/ghraoui_50568.html" title="Ghraoui">Ghraoui</a>
    </div>
 </li>
+
 <li><a href="http://www.theflowershop.ae/cakes.html?page_size=200">Cakes</a>
 <div class="DropMenuWrp">
+<a class="ViewAll" href="http://www.theflowershop.ae/cakes.html?page_size=500">View all »</a>
 <a href="http://www.theflowershop.ae/gifts/brunetti-cakes_50561.html" title="Brunetti Cakes">Brunetti Cakes</a>
-<a href="http://www.theflowershop.ae/gifts/perfect-endings-cupcakes_331.html" title="Perfect Endings Cupcakes">Perfect Endings Cupcakes</a>
+<a href="http://www.theflowershop.ae/gifts/cheese-cakes_50567.html" title="Cheese Cakes">Cheese Cakes</a>
+<!--<a href="" title="Perfect Endings Cupcakes">Perfect Endings Cupcakes</a>-->
 </div>
 </li>
+
 <li><a href="http://www.theflowershop.ae/gifts/plants_93.html">Plants</a>
    <div class="DropMenuWrp">
    <a class="ViewAll" href="http://www.theflowershop.ae/gifts/plants_93.html?page_size=200">View all »</a>
@@ -423,18 +516,26 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
 	 <a class="ViewAll" href="http://www.theflowershop.ae/international-delivery.php">View all »</a>
    </div>
 </li>
+
 <li><a href="http://www.theflowershop.ae/customer-service.html">Customer Service</a>
    <div class="DropMenuWrp">
 	 <a href="http://www.theflowershop.ae/contact.php">Contact Us</a>
 	 <a href="http://www.theflowershop.ae/email_us.php">Email Us</a>
+     <a href="https://www.theflowershop.ae/account_history_track.php">Track Order</a>
+     <a href="https://www.theflowershop.ae/account.php">My Account</a>
 	 <a href="http://www.theflowershop.ae/faqs.php">FAQs</a>
 	 <a href="http://www.theflowershop.ae/terms.php">Terms &amp; Conditions</a>
 	 <a href="http://www.theflowershop.ae/privacy.php">Privacy Policy</a>
-     <a id="hlpDiv1" href="javascript:;" onclick="document.getElementById('helpbxDiv').style.display='block';">Need Help?</a>
+     <a id="hlpDiv1" href="javascript:;" onclick="document.getElementById('helpbxDiv').style.display='block';">Need Help?</a>     
+     <a href="http://www.theflowershop.ae/testimonials.php">Testimonials</a>
    </div>
 </li>
+
 </ul>
+
+<div class="SrchWrp"><form name="quick_find" action="http://www.theflowershop.ae/advanced_search_result.php" method="get"><input name="keywords" id="keywords" type="text" class="SrchFld" value="Search..." onclick="this.value=''"><input class="BtnSearch" name="BtnSearch" type="image" src="assets/images/Trans.gif"></form></div>
 </div>
+
 
 <div class="clear">&nbsp;</div>
 </div><!-- Header: End -->
@@ -447,7 +548,6 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
    <a href="http://www.theflowershop.ae/">Home</a>
    <a href="http://www.theflowershop.ae/customer-service.html">Customer Service</a>
    <a class="Active" href="http://www.theflowershop.ae/privacy.php">Privacy Policy</a>
-   <div class="SrchWrp"><form name="quick_find" action="http://www.theflowershop.ae/advanced_search_result.php" method="get"><input name="keywords" type="text" class="SrchFld" value="Search..." onclick="this.value=''"><input class="BtnSearch" name="BtnSearch" type="image" src="assets/images/BtnSearch.jpg"></form></div>
 </div>
 
 <!-- Column Left: Start -->
@@ -526,8 +626,8 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
 <h2>B. Collection of Personal Information</h2>
 <p>We collect the personal information that you provide us, such as when you:</p>
 <ul>
-<li>Sign up for or register on Theflowershop.ae;</li>
-<li>Register to use Theflowershop.ae or sign up for news or notifications of specials or other promotions on Theflowershop.ae;</li>
+<li>Sign up for or register on Flowershop.ae;</li>
+<li>Register to use Flowershop.ae or sign up for news or notifications of specials or other promotions on Flowershop.ae;</li>
 <li>Place an order or purchase products or services at our online store or over the phone;</li>
 <li>Contact us for any reason, such as by replying to inquires by mail, fax or through our website, by telephone through customer service, or in person at one of our locations; or</li>
 <li>We may automatically collect some information when you visit our website, such as your computer's network address and operating system, the site from which you linked to us, your site activity and the time and date of your visit and purchases. This information may be collected through the use of "cookies" (see Online Specifics below). We also receive information from third parties who provide services or special promotions or products and we may combine this information with the other personal information we maintain about you. In either case, this policy statement governs this information.</li>
@@ -535,7 +635,7 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
 
 <span class="DashLine"></span>
 
-<h2>C. Use of Personal Information by Theflowershop.ae</h2>
+<h2>C. Use of Personal Information by Flowershop.ae</h2>
 <p>The personal information we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest, and understand your needs so that we can serve you better. For example, we may use your telephone number, your email or your postal address to: (1) alert you about product recalls or safety issues; or (2) special opportunities and programs. We also may use personal information we collect to provide you with promotional information, which is information we believe will add value to your shopping, such as coupons or promotions. If you prefer not to receive Promotional Information from us, we make it easy for you to let us know. You may contact us at any time to decline Promotional Information (see Choice below).</p>
 
 <span class="DashLine"></span>
@@ -552,7 +652,7 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
 <span class="DashLine"></span>
 
 <h2>E. Other Uses and Disclosures</h2>
-<p>In addition, we may use or disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or authorities, to respond to any claims, or to protect the rights, property or personal safety of Theflowershop.ae, our clients, our employees or the public. </p>
+<p>In addition, we may use or disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or authorities, to respond to any claims, or to protect the rights, property or personal safety of Flowershop.ae, our clients, our employees or the public. </p>
 
 <span class="DashLine"></span>
 
@@ -561,7 +661,7 @@ document.getElementById('_lpChatBtnImage').src=ptcl+'://server.iad.liveperson.ne
 </p><p>
 We collect, process and maintain payment information, including credit card information, in compliance with the data security rules adopted by credit card companies such as Visa, MasterCard and American Express. This means that we do not retain debit card PINs or credit card security codes, and that any time we maintain a credit card number, such as when you create an online account, we use access controls and strong encryption to protect it. Further, when you enter personal information online, that information is encrypted using a security protocol called SSL (Secure Sockets Layer), which encrypts all information prior to transmitting it over the Internet. We also use SSL to allow you to securely view your online account and registration information. 
 </p><p>
-Online account information is accessible only by using a password. To protect the confidentiality of personal information in your online account, you must keep your password confidential. You are responsible for all uses of <a href="http://www.theflowershop.ae">www.theflowershop.ae</a> by anyone using your password. If others have access to your computer or email, they may be able to find your password and obtain information about you (such as your address or phone number), or change information in your user profile. You should not use an email account operated by an employer because many employers have the legal right to view your email or online accounts. Please advise us immediately at <a href="mailto:customerservice@theflowershop.ae">customerservice@theflowershop.ae</a> if you believe your password has been misused.</p>
+Online account information is accessible only by using a password. To protect the confidentiality of personal information in your online account, you must keep your password confidential. You are responsible for all uses of <a href="http://www.theflowershop.ae">www.flowershop.ae</a> by anyone using your password. If others have access to your computer or email, they may be able to find your password and obtain information about you (such as your address or phone number), or change information in your user profile. You should not use an email account operated by an employer because many employers have the legal right to view your email or online accounts. Please advise us immediately at <a href="mailto:customerservice@theflowershop.ae">customerservice@theflowershop.ae</a> if you believe your password has been misused.</p>
 
 <span class="DashLine"></span>
 
@@ -570,7 +670,7 @@ Online account information is accessible only by using a password. To protect th
 </p><p>
 1. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at  Toll-Free (UAE):  : 800-44848; (b) email us at <a href="mailto:customerservice@theflowershop.ae">customerservice@theflowershop.ae</a>; or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates.
 </p><p>
-2. If you do not want to receive Promotional Information (see Use of Personal Information by Theflowershop.ae) or information about related services, you can: (a) call our customer service representatives at Toll-Free (UAE):  : 800-44848 (b) email us at <a href="mailto:customerservice@theflowershop.ae">customerservice@theflowershop.ae</a>; or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates.
+2. If you do not want to receive Promotional Information (see Use of Personal Information by Flowershop.ae) or information about related services, you can: (a) call our customer service representatives at Toll-Free (UAE):  : 800-44848 (b) email us at <a href="mailto:customerservice@theflowershop.ae">customerservice@theflowershop.ae</a>; or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates.
 </p><p>
 3. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at Toll-Free (UAE):  : 800-44848; (b) email us at <a href="mailto:customerservice@theflowershop.ae">customerservice@theflowershop.ae</a>; (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. or (d) click on unsubscribe from our promotional emails.</p>
 
@@ -580,13 +680,13 @@ Online account information is accessible only by using a password. To protect th
 <p>
 </p><h5>1. What Are Cookies and Are You Required to Accept Them?</h5>
 <p></p><p>
-Cookies are small files that are stored on your computer. At Theflowershop.ae, we use cookies to help optimize your shopping experience. For example, we use cookies to customize our home page for you and to better display pages according to your browser type. Theflowershop.ae does not store in cookies any personal information about you. 
+Cookies are small files that are stored on your computer. At Flowershop.ae, we use cookies to help optimize your shopping experience. For example, we use cookies to customize our home page for you and to better display pages according to your browser type. Theflowershop.ae does not store in cookies any personal information about you. 
 </p><p>
-While cookies are optional for browsing Theflowershop.ae, they are required for registering, logging on, shopping or adding items to your cart. If you wish to purchase items or set up an account on Theflowershop.ae, you will need to accept a Theflowershop.ae cookie. 
+While cookies are optional for browsing Flowershop.ae, they are required for registering, logging on, shopping or adding items to your cart. If you wish to purchase items or set up an account on Theflowershop.ae, you will need to accept a Flowershop.ae cookie. 
 </p><p>
 </p><h5>2. Use of the Theflowershop.ae Web Site by Children</h5>
 <p></p><p>
-We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 18 years of age. If you are under 18, you should not provide information on the Theflowershop.ae Website and should ask your parent to do so for you. 
+We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 18 years of age. If you are under 18, you should not provide information on the Flowershop.ae Website and should ask your parent to do so for you. 
 </p><p>
 </p><h5>3. Online Links to Other Web Sites</h5>
 <p></p><p>
@@ -632,8 +732,8 @@ Information we automatically collect as a result of your online activity is gene
 <div id="FooterWrp">
 
     <div class="FtrLinks">
-    						<a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-						<a href="http://www.theflowershop.ae/about-dubai.html">About Dubai</a> <a href="http://www.theflowershop.ae/contact.php">Contact Us</a> <a href="http://www.theflowershop.ae/customer-service.html">Customer Service</a> <a href="http://www.theflowershop.ae/terms.php">Terms of use</a> <a href="http://www.theflowershop.ae/privacy.php">Privacy</a> <a href="http://www.theflowershop.ae/arabic/privacy.php">العربية</a>     <!--<span class="CopyRights">&copy; 2010-11 All rights reserved, Worldwide <a href="http://www.theflowershop.ae/">www.theflowershop.ae</a></span>-->
+    						<!--<a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>-->
+						<a href="http://www.theflowershop.ae/about-dubai.html">About Dubai</a> <a href="http://www.theflowershop.ae/contact.php">Contact Us</a> <a href="http://www.theflowershop.ae/customer-service.html">Customer Service</a> <a href="http://www.theflowershop.ae/terms.php">Terms of use</a> <a href="http://www.theflowershop.ae/privacy.php">Privacy</a><a href="http://www.theflowershop.ae/testimonials.php">Testimonials</a> <a href="http://www.theflowershop.ae/arabic/privacy.php">العربية</a>     <!--<span class="CopyRights">&copy; 2010-11 All rights reserved, Worldwide <a href="http://www.theflowershop.ae/">www.theflowershop.ae</a></span>-->
     </div>
 
 <!-- Interflora: Begin -->
@@ -651,8 +751,20 @@ Information we automatically collect as a result of your online activity is gene
       <address class="address">Emirates Towers, Level 41, Sheikh Zayed Road<br>P.O Box 31303, Dubai<br>United Arab Emirates<br></address>
     </div>
 
-
 <div class="clear">&nbsp;</div>
+<!-- BEGIN Jasmina -->
+<script type="text/javascript">
+        document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "perf.clickmena.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script id="pap_x2s6df8d" src="https://perf.clickmena.com/scripts/trackjs.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+        PostAffTracker.setAccountId('340af518');
+try {
+            PostAffTracker.track();
+        } catch (err) { }
+
+</script>
+<!-- End Jasmina -->
 </div>
 
 </div>
@@ -729,7 +841,23 @@ var google_conversion_value = 0;
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1025963031/?label=3rmBCOOUnQIQl-ib6QM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+<!-- Google Code for Testing New Remarketing Code -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1025963031;
+var google_conversion_label = "a9vkCKP6ugMQl-ib6QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1025963031/?value=0&amp;label=a9vkCKP6ugMQl-ib6QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
