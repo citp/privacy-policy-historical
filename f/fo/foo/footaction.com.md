@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footaction.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616154213id_/http%3A//www.footaction.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footaction.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126101042id_/http%3A//www.footaction.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
-# Footaction
+# Customer Service - OtherServices - Privacy Policy | Footaction
 
 
 
