@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529170400id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-temps.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126234034id_/http%3A//www.net-temps.com/about/index.htm%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # About Net-Temps
 
