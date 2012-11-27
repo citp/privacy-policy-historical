@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldawide.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530061435id_/http%3A//www.worldawide.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldawide.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127183428id_/http%3A//www.worldawide.com/about) for the most accurate reproduction.*
 
 # worldawide.com » Privacy Policy
 
