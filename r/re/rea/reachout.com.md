@@ -1,84 +1,101 @@
-> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511074052id_/http%3A//us.reachout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127023347id_/http%3A//www.reachout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : ReachOut.com USA
+# Privacy policy | Reach out Australia
 
-Effective August 26, 2009. Last Revised October 28, 2011.
+The Inspire Foundation, it’s staff and volunteers who operate [http://au.reachout.com](http://au.reachout.com/), [http://forums.reachout.com](http://forums.reachout.com/), [http://www.inspire.org.au](http://www.inspire.org.au/), and any ReachOut.com and Inspire Foundation social media profiles, respect and are committed to maintaining the privacy of all visitors to this site. This policy (“Privacy Policy”) sets out how we deal with the collection, security, quality, use and disclosure of your Personal Information and Sensitive Information in accordance with the Privacy Act 1988 (Cth). 
 
-###  1\. Privacy policy
+Your use of [http://au.reachout.com](http://au.reachout.com/), [http://forums.au.reachout.com](http://forums.au.reachout.com/), [www.inspire.org.au](https://web.archive.org/web/20121127023347id_/http%3A//www.reachout.com/www.inspire.org.au), or any other website through which you communicate with us (including through ReachOut.com and Inspire Foundation social media profiles such as Facebook, Twitter, Youtube, Myspace, etc) (referred to in this policy as the ‘Sites’) indicates that you accept this Privacy Policy, and consent to the collection and use by us of your Personal Information and Sensitive Information according to the terms below.
 
-The ReachOut website located at www.reachout.com, including all of its subsites and related services (collectively the “Site”) is operated by the Inspire USA Foundation (“Inspire USA”). Inspire USA respects and is committed to maintaining the privacy of all visitors to this Site. Your use of this Site indicates that you accept this Privacy Policy, and consent to the collection and use by us of any information that personally identifies you (“Personal Information”) according to the terms below, and to the Site’s Terms of Use available here. Inspire USA reserves the right to modify the content, nature and accessibility of the Site, in which case the Privacy Policy will continue to apply.
+If you have any questions, comments or concerns about this Privacy Policy, please [contact us.](https://web.archive.org/web/20121127023347id_/http%3A//www.reachout.com/~/link.aspx?_id=93C92F9391BA46FB80630BF1B0978385&_z=z)
 
-Inspire USA may revise this Privacy Policy at any time by placing a notice on the Site advising that the Privacy Policy has changed. You will be deemed to have accepted and agreed to the revised Privacy Policy if you continue to use the Site after notice of the revised Privacy Policy has been placed on the Site. If revisions to the Privacy Policy are unacceptable to you or cause you to no longer be in compliance with the Privacy Policy, you must cease using the Site.
+##  **1.    What types of information do we collect?**
 
-###  2\. Collection of Personal Information
+The main types of information we collect are:
 
-You can browse the Site without telling us who you are or revealing any other Personal Information. In some cases, we may ask for your Personal Information in order to provide the services you request or to help improve the Site. We will only collect Personal Information which you voluntarily provide to us when using the Site, including without limitation:
+(a)   **  Personal Information:** this is information or opinions about you where your identity is apparent, or can be reasonably ascertained, from the information or opinion.  We will only collect Personal Information that you provide to us when using the Sites.    
+(b)     **Non-Personal Information:** this information includes the search terms you have used on our Sites, the pages you have visited and various log information including the internet protocol (IP) address of the computer you are using, information about your browser such as the type and language, the date and time of your request and cookies to identify your browser.   
+Non-Personal Information is not capable of identifying the individual user. 
 
-If you subscribe to the Site, you will be required to submit your email address to enable us to keep you up-to-date on the latest news and to respond to your feedback
+Occasionally, we also collect limited Sensitive Information. This includes Personal Information about an individual’s racial origin, ethnic origin, religious or philosophical beliefs, political opinions, sexual preferences, or membership in trade unions, political associations, trade associations and criminal record.  It also includes health information (i.e. information or an opinion about someone’s health, wishes about health services or health services provided to them). 
 
-If you would like to apply to be a ReachOut Contributing Editor or a member of a special project team with the Site, you will need to provide your name, age, gender, contact details and racial and cultural background
+## 2\.    When do we collect Personal Information?
 
-If you choose to contribute any “User Submissions”, as defined in the Site’s Terms of Use, we will collect your IP address and you may also be required to submit your name, email address, mailing address, age, school, or other information.
+You can browse through the Sites without telling us who you are or providing any Personal Information. With your consent however, in the following circumstances we will collect Personal Information about you:
 
-If you choose to voluntarily complete one of the Site’s surveys, we may ask you for certain information to help us understand who is using the Site, including your age, gender, race, ethnicity, satisfaction with the Site, year in school, employment status, etc. IP addresses of survey respondents may be collected, but Inspire will not share such information with any third parties except for Inspire USA’s affiliated entities, contracted service providers or professional advisors, and such information will be promptly erased once the data from all respondents is sent to Inspire USA for analysis.
+(a)     **Registration:** You can register to be a ReachOut.com member through [http://au.reachout.com](http://au.reachout.com/). To do so, you will need to provide your email address age, gender, postcode, username and password. You may fill this out or have your details prefilled using Facebook Connect.  
+(b)     **Applications for ReachOut.com volunteer or internship opportunities:** You can apply through the Sites to participate in ReachOut.com volunteer opportunities or internships. To do so, you will need to provide your name, age, gender and contact details.  
+(c)     **Newsletter service:** Whether you are a member or not, you can sign-up to receive enewsletters through the Sites. To do so, you will need to provide your email address.   
+(d)     **SMS service:  ** Members have the choice to sign up for the ReachOut.com SMS service. To do so, you will need to provide your mobile phone number.   
+(e)     **Posting information on the Sites:** You may choose to post Personal Information about yourself on the Sites. Any information that is disclosed on the Sites becomes public information and we recommend that you exercise caution when disclosing Personal Information on the Sites.   
+(f)     **Competitions:** You may participate in competitions offered on the Sites. To do so, you will need to provide your name, age, gender and contact details.   
+(g)     **Stories:** You may choose to submit a story for publication on the Sites. To do so, you will need to provide your name (or a pseudonym), age, gender, post code and email address.  
+(h)     **Surveys:** You may choose to participate in surveys on the Sites. To do so, you will need to provide your age, gender, post code and email address. 
 
-###  3\. Use of Personal Information
+## 3\.    When do we collect Sensitive Information?
 
-Inspire USA uses Personal Information to fulfil and process the requests of users, including to provide technical support or account maintenance. We may also use this information to provide you with updated information on new projects commenced by Inspire USA, to alert you to special events organized by Inspire USA, to let you know when new content has been added to the site, and to conduct research, surveys or engage in other marketing purposes.
+We only collect Sensitive Information in a very limited number of circumstances.  You can browse through the Sites and access all features of the Sites without disclosing Sensitive Information. However, with your consent, we will collect Sensitive Information about you in the following circumstances:
 
-In relation to the ReachOut Contributing Editor application form and the Special Project Team Member application form, any demographic information we may ask you to provide is used to help us have appropriate age, gender, racial and cultural, and geographic locations represented.
+(a)    when you apply through the Sites to be a ReachOut.com volunteer or intern. In applying for these positions required you will need to indicate a nationality that you strongly identify with; and  
+(b)    when conducting surveys and research projects for the purposes of improving the services we offer. 
 
-Subject to the exceptions listed below, Personal Information will only be accessed by Inspire USA management and personnel, Inspire USA’s affiliated entities including the Inspire Foundation, and Inspire USA’s contracted service providers and professional advisors, all of whom are bound by this Privacy Policy, and we will not give your personal information to advertisers and other organizations without your express consent.
+Other than this, we do not wish to be informed of Sensitive Information about you or others.  If you choose to post Sensitive Information about yourself on the Sites this becomes public information. We recommend that you exercise caution when disclosing Sensitive Information on the Sites.
 
-In the following circumstances, Inspire USA may disclose your Personal Information without your consent:  
-if we believe there is a serious and imminent threat to the life, health or safety of yourself or another person (for example, if we learn that a person is suffering abuse or has made statements of an intent to commit self-harm or harm another)  
-to investigate or report on activity which we believe on reasonable grounds to be unlawful
+## 4\.    When do we collect Non-Personal Information?
 
-if disclosure is required or authorized by law (for example, in response to a subpoena or where a regulatory authority has the power to request the provision of certain records or information)
+As you navigate through the Sites or conduct searches on the Sites, Non-Personal Information (including log information such as your page request, IP address, date and time of your request and cookies that identify your browser) is collected without you actively providing it. This information allows us to understand how the Sites are used and identify ways in which it can be improved. 
 
-if disclosure is reasonably necessary to enable an enforcement body to perform its functions, for example:
+Cookies are pieces of information sent to your computer's hard disk when you access information on that site. Each time you use your computer to access the same site, the information that was previously received is sent back to the site by your browser. Cookies do not identify individual users and do not allow us access to Personal Information or Sensitive Information about you.  However, when you visit a Site operated by us, our servers may record Non-Personal Information about your usage, the time and duration of your visit, the pages you visit and style settings. 
 
-the prevention, detection, investigation, prosecution or punishment of criminal offences; and
+If you do not agree to the use of cookies, you can set the preferences on your browser to remove all cookies and reject cookies in the future, but this may mean you do not have full access to the Sites’ features. 
 
-the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.
+## 5\.    How do we use the information we collect?
 
-If Inspire USA deems necessary in its sole discretion to protect its legal and legitimate business interests.
+(a)   **  Personal Information: **The Personal Information you provide us may be used for a number of purposes connected with services we offer, including:
 
-You acknowledge that Inspire USA’s right to disclose Personal Information under the Privacy Policy may involve disclosure to entities located outside the United States. Where Inspire USA is required or authorized to disclose your Personal Information, you consent to the disclosure of your Personal Information to foreign entities.
+  * fulfilling and processing your requests;
+  * responding to your queries;
+  * keeping you up to date on our latest news and special events;
+  * conducting research or surveys;
+  * employee and volunteer recruitment; 
+  * improving the quality of the Sites and the services we provide;
+  * reporting to ReachOut.com funders; and
+  * purposes related to those described above which would reasonably be expected by you.
 
-###  4\. Sharing Personal Information
 
-You may have the option to publicly post or otherwise disclose your Personal Information in certain portions of the Site. Any information that is posted or otherwise disclosed in these areas becomes public information. You post such Personal Information on the Site at your own risk. Please exercise caution when deciding to disclose Personal Information to others. Inspire USA cannot control the actions of other users of the Site with whom you may choose to share Personal Information. Therefore, we cannot and do not guarantee that Personal Information that you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. Any improper collection or misuse of Personal Information provided on the Site is a violation of the Terms of Use.
 
-###  5\. Security of information
+In addition, we may use your Personal Information to conduct marketing in relation to the Sites or our services, including by way of email and SMS. You always have the right to opt-out of receiving this information. 
 
-Inspire USA will take reasonable steps to ensure your Personal Information is protected from modification, misuse, disclosure, loss and unauthorized access. While Inspire USA will take reasonable precautions against potential breaches of your Personal Information, no website or Internet transmission is completely secure. Consequently, Inspire USA cannot, and does not, guarantee that unauthorized access, hacking, data loss, disclosure, misuse, modification or any other breaches will not occur. Inspire USA urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place, and logging out of your online user account and closing your web browser after you are finished using the Site.
+(b)     **Sensitive Information:** The Sensitive Information provided in relation to volunteer or internship applications will only be used to ensure appropriate ethnic representation, demographic diversity in youth involvement activities and suitability for these roles. If you provide Sensitive Information through surveys or for research projects this information may be used in internal research reports and/or in funding reports. Where possible however, we will de-indentify this information. 
 
-###  6\. Cookies and session information
+(c)     **Non-Personal information:** Non-Personal Information may be used and combined with Personal Information to provide better services to users of the Sites, customise the Sites based on your preferences, compile and analyse statistics and trends and otherwise administer and improve the Sites for your use. 
 
-Cookies are pieces of information that a site sends to your computer’s hard disk when you access information on that site. Each time you use your computer to access the same site, the information that was previously received is sent back to the site by your browser. We use session ID cookies to confirm that users are logged in. These cookies terminate once you close the browser. Cookies do not identify individual users. However, when you visit the Site, our servers may record information about your usage, the time of your visit, its duration, the pages you visit and style settings. If you do not agree to the use of cookies, you can set the preferences on your browser to remove all cookies and reject cookies in the future.
+## 6\.    When will we disclose your Personal Information?
 
-Inspire USA may use information to publish aggregate statistics about usage, registration, traffic patterns and other related site information that does not personally identify users. This is important to ensure that our content and services continue to meet the general needs of our users. IP addresses may be collected, but Inspire will not share such information with any third parties except for Inspire USA’s affiliated entities, contracted service providers or professional advisors, and such information will be promptly erased once the data from all users of the service is sent to Inspire USA for analysis.
+Personal Information or Sensitive Information that you provide (including information you post on the Sites or otherwise communicate with us) may be disclosed to our management and personnel, contracted service providers, professional advisers and funders. When disclosing this information we will take reasonable steps to ensure that the recipient is bound by confidentiality and privacy obligations. 
 
-You may have the option to register and login as a member of the Site, in which case your preferred style settings will be linked to your member name and password. This login information is retained from session to session unless you change your member name or password.
+We will not disclose the Personal Information or Sensitive Information that you provide to advertisers or other organisations without your express consent, although if you post this information on the Sites it will become publically available.
 
-###  7\. Third-party links
+There are however certain circumstances where we are entitled to disclose Personal Information without your consent, including if we believe there is a serious and imminent threat to the life, health or safety of yourself or the public, for legally permitted law enforcement activities, or where required or authorised by or under law. 
 
-This Privacy Policy applies only to information collected by Inspire USA through the Site. From time to time, the Site may provide links to third-party websites. This Privacy Policy does not apply to third-party websites, whether or not the Site provides a link to such websites. You are encouraged to review the policies of any and all such websites carefully, as your rights will be governed by those websites’ respective privacy policies. Alternatively, there may be unauthorized third-party websites that may link to our Site without our knowledge or control. Inspire USA (a) is not responsible for the content of any third-party websites, (b) expressly disclaims any statements or assertions made on any third-party websites, and (c) denies all liability associated with your use of, and the content on, any third-party websites.
+Our right to disclose Personal Information under this Privacy Policy may involve disclosure to entities located outside of Australia. Where we are required or authorised by or under law to do so, you also consent to the disclosure of your Personal Information to foreign entities. 
 
-###  8\. Minors and Children Under Age 13
+In the event that you provide Sensitive Information to us, we will only use or disclose this information where we have received your consent or where we are required to do so by law. 
 
-We recommend that minors 13 years of age or older ask their parents for permission before sending any Personal Information to anyone over the Internet.
+## 7\.    How can you access the Personal Information we hold about you?
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register on the Site or send any Personal Information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any Personal Information to Inspire USA or on the Site. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us.
+We will take all reasonable steps to keep your Personal Information or Sensitive Information up to date and accurate. If you would like to access a copy of the Personal Information or Sensitive Information we hold about you, or believe that the information we have is not up-to-date, complete or accurate, please [contact us](https://web.archive.org/Contact-Us) as specified below.  You have the right to request the correction of any information which relates to you and we will take the appropriate steps to correct information we hold about you. 
 
-###  9\. Access to information
+## 8\.    Our commitment to information security
 
-Please contact us if you believe that the Personal Information that you have provided to us is not up-to-date, complete or accurate. You have the right to request the correction of any information which relates to you and is inaccurate. If you would like us to delete any Personal Information that you have disclosed only to us as part of registering or subscribing with the Site, please let us know and we will take reasonable steps to delete it unless we are required by law to keep it.  
-However, if you publicly disclose your Personal Information on the Site, (e.g., you include Personal Information in a comment to an article on the Site or in an User Submission), such information becomes public information. We may not be able to remove such publicly disclosed Personal Information. Please be aware of this before you choose to publicly disclose your Personal Information on the Site.
+We will take all reasonable steps to ensure your Personal Information and Sensitive Information is protected from modification, misuse, disclosure, loss and unauthorised access.   
+Remember that no internet transmission is ever completely secure or error-free and the Sites may contain links or references to other websites to which this Privacy Policy might not apply. You should always read the privacy policy of every website you visit, especially when you provide Personal Information, Sensitive Information or make posts or other contributions to these sites.   
+We will not be held responsible for events arising from unauthorised access to your Personal Information or Sensitive information. 
 
-If you have any questions, comments or concerns about our Privacy Policy, please send an email to [policies@inspire.org](mailto:policies@inspire.org) or write us at:
+## 9\.    Changes to this Privacy Policy
 
-**Inspire USA Foundation**  
-657 Mission Street, #507  
-San Francisco, CA 94105
+We may from time to time change this Privacy Policy and will post updated versions of this Privacy Policy on the Sites. Users of the Sites are advised that continued use of the Sites following any changes means you accept the changes, regardless of whether you have been given specific notice of the change. 
+
+## 10\.    How to contact us
+
+If you want to access or correct your Personal Information or Sensitive Information, opt out of receiving our marketing materials, cancel your membership with us, or have any questions about this Privacy Policy [please contact us.  ](https://web.archive.org/Contact-Us)  
+
