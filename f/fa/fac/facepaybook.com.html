@@ -1,0 +1,502 @@
+<!--The following is the downloaded HTML source of the facepaybook.com privacy policy that was archived on 2012-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127094454id_/http%3A//www.facepaybook.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<title>FacePayBook - Social Network That Pays!</title>
+<meta name="description" content="FacePayBook is a social network which pays, unique mlm system based on social network system!!!!">
+<meta name="keywords" content="FacePayBook.com">
+<meta name="title" content="FacePayBook - Social Network That Pays!">
+<meta name="copyright" content="Copyright 2008, Buddy Zone">
+<meta name="rating" content="safe for kids">
+<meta name="distribution" content="global">
+<meta name="classification" content="Portal">
+<meta name="revisit-after" content="3 Days">
+<meta name="robots" content="index,follow">
+<meta name="Creator" content="Ankur Jain, vastal1980@hotmail.com, www.vastal.com">
+<meta name="Publisher" content="www.vastal.com, Ankur Jain">
+<meta name="Author" content="www.vastal.com, Ankur Jain, vastal1980@hotmail.com">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="copyright" content="Copyright 2008, ">
+<meta name="distribution" content="global">
+<meta name="rating" content="general, safe for kids">
+<meta name="robots" content="index,follow">
+<meta name="Revisit-After" content="3 Days">
+<meta name="Creator" content="Ankur Jain, vastal1980@hotmail.com, Vastal I-Tech &amp; Co., www.vastal.com">
+<meta name="Publisher" content=", Vastal I-Tech &amp; Co.">
+<meta name="Author" content="Ankur Jain, vastal1980@hotmail.com, Vastal I-Tech &amp; Co., www.vastal.com"><link rel="stylesheet" type="text/css" href="styles/css.css">
+<link rel="stylesheet" type="text/css" href="styles/css_t.css">
+<link rel="stylesheet" type="text/css" href="styles/myspace_css.css">
+<link rel="stylesheet" type="text/css" href="styles/css_profile.css">
+<link rel="stylesheet" type="text/css" href="styles/screen.css" media="screen">
+<link rel="stylesheet" type="text/css" href="styles/messages.css">
+<link rel="stylesheet" type="text/css" href="styles/menu.css">
+<link rel="stylesheet" type="text/css" href="styles/new_css.css">
+<link rel="stylesheet" type="text/css" href="styles/new_css_pets.css">
+<link rel="stylesheet" type="text/css" href="styles/facebook.css">
+<link rel="stylesheet" type="text/css" href="styles/colorbox.css">
+<!--[if lte IE 7]>
+<style type="text/css">
+html .jquerycssmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script language="javascript" type="text/javascript" src="jquery/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="jquery/jquery_ui.js"></script>
+<!-- Popup box here -->
+<script language="javascript" src="jquery/popbox/popup.js" type="text/javascript"></script>
+<!-- Popup box here -->
+
+
+<link rel="stylesheet" type="text/css" href="footer_chat/styles/main.css">
+<link rel="stylesheet" type="text/css" href="footer_chat/styles/chat_window.css">
+<link rel="stylesheet" type="text/css" href="footer_chat/styles/messages_panel.css">
+<link rel="stylesheet" type="text/css" href="footer_chat/styles/chats_panel.css">
+<link rel="stylesheet" type="text/css" href="footer_chat/styles/settings_panel.css">
+
+<link href="footer_chat/jquery/jquery_ui_css/jquery-ui-1.8.7.custom.css" rel="stylesheet" type="text/css" media="screen">
+
+<script language="javascript" type="text/javascript" src="footer_chat/jquery/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="footer_chat/jquery/jquery_ui.js"></script>
+<script language="javascript" type="text/javascript" src="footer_chat/js/jquery_cookie.js"></script>
+
+<script language="javascript" type="text/javascript" src="js/chat_window.js"></script>
+
+<script language="javascript" type="text/javascript" src="footer_chat/js/cookies.js"></script>
+	
+
+<!-- Color Box -->
+<script language="javascript" src="jquery/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
+<!-- Color Box --><!--[if lte IE 7]>
+<style type="text/css">
+html .jquerycssmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+<script src="js/menu.js" type="text/javascript"></script>
+<script src="menu/SpryMenuBar.js" type="text/javascript"></script>
+<link href="menu/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+// Functions for timer
+var timerID = null;
+var timerRunning = false;
+
+function stopclock(){
+   if(timerRunning)
+      clearInterval(timerID)
+   timerRunning = false
+}
+
+function startclock()
+{
+   // Make sure the clock is stopped
+   stopclock()
+   timerID = setInterval("check_request()", 3000)
+   //timerID = setInterval("check_from_id()",20000)
+   //timerID = setInterval("check_to_id()",25000)
+   timerRunning = true
+}
+// Functions for timer
+
+// Functions to check chat requests
+	function check_request()
+	{
+		var url="chat_im/ajax_scripts/check_chat_requests.php";
+		http.open("GET", url, true);
+      	http.onreadystatechange=response_check_request;
+      	http.send(null);		
+	}
+	
+   function response_check_request()
+   {
+    if(http.readyState==4)
+    {
+        if(http.status==200)
+        {
+            var results = http.responseText;
+			if(results!="none")
+			{
+				// There is a new chat request show the window and delete the chat request!				
+				var randomnumber=Math.floor(Math.random()*10000);
+				window.open("chat_im/chat_window.php?request_id=" + results, randomnumber,"width=500,height=400,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,copyhistory=no,resizable=no");
+			}
+			else
+			{
+				window.setTimeout("check_from_id()", 500);
+			}			
+        }
+        else
+        {
+            //alert(http.status);
+        }
+    }
+   }
+	
+// Functions to check chat requests
+
+// Function to check open chat requests
+	function check_from_id()
+	{
+		var url="chat_im/ajax_scripts/check_active_from_id.php";
+		http.open("GET", url, true);
+      	http.onreadystatechange=response_check_from_id;
+      	http.send(null);				
+	}
+
+
+   function response_check_from_id()
+   {
+    if(http.readyState==4)
+    {
+        if(http.status==200)
+        {
+            var results = http.responseText;
+			if(results!="" && results!="none")
+			{
+				// There is a new chat request show the window and delete the chat request!				
+				var randomnumber=Math.floor(Math.random()*10000);				
+				window.open("chat_im/chat_window.php?request_id=" + results, randomnumber,"width=500,height=400,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,copyhistory=no,resizable=no");
+			}
+			else
+			{
+				window.setTimeout("check_to_id()", 500);
+			}			
+        }
+        else
+        {
+            //alert(http.status);
+        }
+    }
+   }
+
+	function check_to_id()
+	{
+		var url="chat_im/ajax_scripts/check_active_to_id.php";
+		http.open("GET", url, true);
+      	http.onreadystatechange=response_check_to_id;
+      	http.send(null);				
+	}
+
+
+   function response_check_to_id()
+   {
+    if(http.readyState==4)
+    {
+        if(http.status==200)
+        {
+            var results = http.responseText;
+			if(results!="" && results!="none")
+			{
+				// There is a new chat request show the window and delete the chat request!				
+				var randomnumber=Math.floor(Math.random()*10000);								
+				window.open("chat_im/chat_window.php?request_id=" + results, randomnumber,"width=500,height=400,toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,copyhistory=no,resizable=no");
+			}
+        }
+        else
+        {
+            //alert(http.status);
+        }
+    }
+   }
+
+// Function to check open chat requests
+
+
+// Functions for http Ajax
+function get()
+{
+ var xmlhttp;
+ if(window.XMLHttpRequest)
+ {
+  xmlhttp=new XMLHttpRequest();
+ }
+ else if(window.ActiveXObject)
+ {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  if(!xmlhttp)
+  {
+   xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ }
+return xmlhttp;
+}
+var http=get();
+// Functions for http Ajax
+</script><!-- Popup box here -->
+<script language="javascript" src="jquery/popbox/popup.js" type="text/javascript"></script>
+<!-- Popup box here -->
+</head>
+<body>
+<script type="text/javascript" src="js/top_nav_search.js"></script>
+
+<!-- Nav.php -->
+
+		
+
+<table id="facebook_top_bar">
+
+<tbody><tr>
+
+<td>
+
+<div align="center">
+
+<table id="facebook_top_bar_inner">
+
+<tbody><tr>
+
+<td width="20%">
+
+<a href="index.php">
+
+<img src="images/logo.png">
+
+</a>
+
+</td>
+
+<td width="30%">&nbsp;</td>
+
+<td width="50%">
+
+<form name="form1" method="post" action="login1.php">
+
+<table width="50%" cellpadding="0" cellspacing="0" align="left">
+
+<tbody><tr>
+
+<td class="txt_label_white" align="left">
+
+Email:
+
+</td>
+
+<td>&nbsp;</td>
+
+<td class="txt_label_white" align="left">
+
+Password:
+
+</td>
+
+<td>&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td class="txt_label_white" align="left">
+
+<input type="text" name="email" size="20">
+
+</td>
+
+<td>&nbsp;</td>
+
+<td class="txt_label_white" align="left">
+
+<input type="password" name="password" size="20">
+
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+
+<input type="submit" name="submit" value="Login">
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td id="top_bar_link" align="left">
+
+<input type="checkbox" name="remember_email" value="on">&nbsp;Remember Me
+
+</td>
+
+<td>&nbsp;</td>
+
+<td class="txt_label_white" align="left">
+
+<a href="forgot_password.php" id="top_bar_link">Forgot Your Password?</a>
+
+</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+</tr>
+
+</tbody></table>
+
+</form>
+
+</td>
+
+</tr>
+
+</tbody></table>
+
+</div>
+
+	
+
+</td>
+
+</tr>
+
+</tbody></table>
+
+
+
+<table width="930" align="center" cellpadding="0" cellspacing="0" style="margin-top:35px;">
+<tbody><tr>
+<td>
+<div align="left">
+
+	
+
+<!-- Login Place -->
+
+</div></td>
+
+
+
+<td width="85%" valign="top">
+
+<table width="100%" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+
+<td valign="top">
+
+<br><!-- Nav.php -->
+</td></tr><tr>
+<td width="1%">
+<img src="images/spacer.gif">
+</td>
+<td width="99%">
+<table width="100%" border="0" cellspacing="0" cellpadding="4" class="dark_b_border2">
+<tbody><tr>
+<td class="dark_blue_white2">
+Privacy Policy
+</td>
+</tr>
+
+<tr>
+<td>
+<div class="WordSection1"><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"><font face="Arial" size="2">Learn more about cookies and similar technologies.</font></p><p class="MsoNormal"><font face="Arial" size="2"><b>Data Use Policy</b></font></p><p class="MsoNormal"><b style="font-family: Arial; font-size: small; ">Information we receive and how it is used</b></p><p class="MsoNormal"><font face="Arial" size="2">Learn about the types of information we receive, and how that information is used.</font></p><p class="MsoNormal"><font face="Arial" size="2"><b>Sharing and finding you on Facepaybook</b></font></p><p class="MsoNormal"><font face="Arial" size="2">Get to know the privacy settings that help you control your information on facepaybook.com.</font></p><p class="MsoNormal"><font face="Arial" size="2"><b>Other websites and applications</b></font></p><p class="MsoNormal"><font face="Arial" size="2">Learn about things like social plugins and how information is shared with the games, applications and websites you and your friends use off Facepaybook.</font></p><p class="MsoNormal"><font face="Arial" size="2"><b>How advertising and Sponsored Stories work</b></font></p><p class="MsoNormal"><font face="Arial" size="2">See how ads are served without sharing your information with advertisers, and understand how we pair ads with social context, such as newsfeed-style stories.</font></p><p class="MsoNormal"><font face="Arial" size="2"><b>Cookies, pixels and other system technologies</b></font></p><p class="MsoNormal"><font face="Arial" size="2">Find out how cookies, pixels and tools (like local storage) are used to provide you with services, features and relevant ads and content.</font></p><p class="MsoNormal"><font face="Arial" size="2"><b><br></b></font></p><p class="MsoNormal"><font face="Arial" size="2"><b>CONTACT US</b></font></p><p class="MsoNormal"></p><p class="MsoNormal"><font face="Arial" size="2">If you have questions or complaints regarding our Data Use Policy or practices, please contact us by mail. Our mailing address is Ashneh Teleservices Ltd., 103, Sham Peng Tong Plaza, Victoria, Mahe, Seychelles.You may also contact us through this help page.</font></p><p></p><div><br></div><p></p><p></p></div>
+<!-- middle_content -->
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<!-- middle_content -->
+<!-- Middle Text -->
+<br>
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+<div id="footerbg">
+<div id="footer">
+<!--
+<div class="footer-sponsor" align="center">
+-->
+<!-- Ads Area -->
+<!-- Ads Area -->
+<!--
+</div>
+-->
+<p>
+</p><table width="100%" cellpadding="4" cellspacing="0">
+<tbody><tr>
+<td>
+Copyright 2012, FacePayBook.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="tos.php">TOS</a> | 
+<a href="privacy_policy.php">Privacy Policy</a> | 
+<a href="aff_banner_code.php">Promote Our Site</a> | 
+<a href="contact_us.php">Contact Us</a> | 
+<a href="advertise.php">Advertise with Us</a> | 
+<a href="about_us.php">About Us</a> | 
+<a href="browse.php">Friends</a> | 
+<a href="blog_public.php">Blogs</a> |   
+<a href="videos.php">Videos</a>
+<br>
+<br>
+<br>
+<br>
+Powered By <a href="http://www.vastal.com/">Buddy Zone</a>
+</td>
+</tr>
+</tbody></table>
+<p></p>  
+</div>
+</div><!-- END FOOTER BG -100% WIDTH-->
+<!-- END CONTAINER -100% WIDTH -->
+<!-- Google Translate Element -->
+<div id="footpanel">
+<ul id="mainpanel">
+	<li><a href="http://www.facepaybook.com/" class="home">FacePayBook <small>FacePayBook</small></a></li>
+
+	<!-- Facebook Area Starts Here -->
+	    <li style="margin-top:2px;">
+		<div id="fb-root"></div>
+		<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+        <fb:like href="http://www.facepaybook.com/" send="false" layout="button_count" width="50" show_faces="false" font="">
+        </fb:like>
+    </li>
+	<!-- Facebook Area Ends Here -->
+    
+    <!-- Google Area Starts Here -->    
+	    <li style="margin-top:2px;">
+        <!-- Place this tag where you want the +1 button to render -->
+        <g:plusone size="medium" annotation="none"></g:plusone>        
+        <!-- Place this render call where appropriate -->
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+    </li>    
+    <!-- Google Area Ends Here -->    
+
+		
+    <li><a href="http://www.facepaybook.com/videos.php" class="videos">Videos <small>Videos</small></a></li>
+	
+    <!-- Notifications Area Starts Here -->
+    				
+        <li id="alertpanel">
+    		<a href="login.php" class="alerts">Login <small>Login</small> </a>
+        </li>
+	    <!-- Notifications Area Ends Here -->
+   
+   		    
+</ul>
+</div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18621176-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body></html>
