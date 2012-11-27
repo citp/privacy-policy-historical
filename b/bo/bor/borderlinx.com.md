@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the borderlinx.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523114605id_/http%3A//www.borderlinx.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderlinx.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127055102id_/http%3A//www.borderlinx.com/pages/privacy) for the most accurate reproduction.*
 
 # Borderlinx | Privacy policy
+
+## New Terms and conditions as of August 2011 governing use of this website and Borderlinx services
 
 We know that the privacy of your personal information is important to you. We respect your privacy and are committed to maintaining the confidentiality and security of any personal data which we receive from you and retain on your behalf.
 
