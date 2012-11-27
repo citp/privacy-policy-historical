@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booktrib.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621001259id_/http%3A//booktrib.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktrib.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127085012id_/http%3A//booktrib.com/about/privacy-policy) for the most accurate reproduction.*
 
 # BookTrib | Privacy Policy »
 
