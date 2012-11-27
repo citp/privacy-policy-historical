@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615103304id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127085117id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
 
-# TuneUp Utilities 2012 - Company - Privacy Policy
+# TuneUp Utilities 2013 - Company - Privacy Policy
 
 This privacy policy is designed to inform users of TuneUp websites about how TuneUp (“TuneUp” or “we”) gathers and uses anonymous and profile information, and in what circumstances TuneUp will disclose such information. TuneUp will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws.
 
