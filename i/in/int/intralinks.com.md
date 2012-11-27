@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235623id_/http%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127020431id_/http%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IntraLinks
 
@@ -8,7 +8,7 @@ Except as described in this Privacy Policy, we will not, without your consent, d
 
 Please note our website includes hyperlinks to other websites neither owned nor managed by us. IntraLinks is not associated with these third-party websites and does not review their privacy policies. We cannot guarantee the privacy of any information that may be obtained by third parties at these other websites. We strongly encourage you to review the privacy policies of any website you visit before supplying personally identifiable information through that website.
 
-**  ** **Click a link below for our policy on each topic:******
+ **  ** **Click a link below for our policy on each topic:******
 
   * What information does IntraLinks collect through its public website, and how is this information used?
   * What information does IntraLinks collect about users of its permissioned-based Service and how is this information used?
@@ -70,7 +70,9 @@ You also may decline to receive mail or email from us that does not relate direc
 
 If you choose to contact us using an online form or otherwise submit information to us through our website, your web browser will create a temporary Cookie. This temporary Cookie records your email address and makes it faster and easier to submit forms to us. Once you have finished using the form or submitting your information, the Cookie is automatically deleted. We do not collect any information stored in this temporary Cookie. If your browser is set not to accept Cookies, your form information may not be received by IntraLinks.
 
-We also use Cookies to help identify you to the Service and provide you with an additional level of security. After you have accessed the Service and supplied your user ID and password, a temporary Cookie is placed on your computer indicating that you have been verified to access the Service. This Cookie enables you to enter an Exchange throughout your current working session and will remain on your computer until you log out of that Exchange or you close your web browser. If your browser is set not to accept Cookies, you will not be able to sign into and/or use the Service. Again, these Cookies are temporary and are not used for tracking your behavior within or outside of the Service. Except as described in this Privacy Policy, we do not use Cookies in conjunction with the Service. Top
+We also use Cookies to help identify you to the Service and provide you with an additional level of security. After you have accessed the Service and supplied your user ID and password, a temporary Cookie is placed on your computer indicating that you have been verified to access the Service. This Cookie enables you to enter an Exchange throughout your current working session and will remain on your computer until you log out of that Exchange or you close your web browser. If your browser is set not to accept Cookies, you will not be able to sign into and/or use the Service. Again, these Cookies are temporary and are not used for tracking your behavior within or outside of the Service. Except as described in this Privacy Policy, we do not use Cookies in conjunction with the Service.
+
+Also, third party companies under agreement with us may deploy cookies or similar technologies to collect and assemble non-personal and technical information from our users (collectively, “Audience Cookies”). Such Audience Cookies, which do not identify you personally, may be placed when you access our websites or others under contract with these third parties. We and these third parties may use such non-personally identifiable information in combination with your visits in order to present advertisements about IntraLinks services likely to be of interest to you. The use of cookies by third parties is subject to their own privacy policies. Please click [here](http://www.aboutads.info/ "AboutAds.info") to learn more and to find out what choices you have to "opt out" of the targeted advertising delivered by these networks. Top
 
 ## How will I be notified of changes to this Privacy Policy?
 
