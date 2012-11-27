@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529050334id_/http%3A//www.kutv.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172123id_/http%3A//www.kutv.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # KUTV :: Station Info - Privacy Policy
 
@@ -28,11 +28,9 @@ The Website allows certain advertisements/postings which include links to other 
 
 [an error occurred while processing this directive] 
 
-[](https://web.archive.org/sections/station/advertise/)
-
 ## Forecast
 
-Today will be partly cloudy with a chance of showers in the afternoon followed by a setting sun and eventually darkness. If you wait long enough, the sun will then rise to a new day. 
+Weather update for the morning of November 27, 2012.  Lots of sunshine is expected today as a ridge of high pressure sits over the Intermountain West.  However, along the Wasatch Front, the valley inversions are locked firmly in place & hazy skies will be the result.  The inversions look like they will stick around for a good majority of the week, not clearing out until at least Thursday or Friday.  Clouds will increase late in the week ahead of our next storm.  That system will impact the region late next weekend and early next week.   \- Lindsay Storrs, 2 News Weather Team.
 
 [an error occurred while processing this directive] 
 
