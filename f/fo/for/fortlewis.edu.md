@@ -1,83 +1,57 @@
-> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2007-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071031110009id_/http%3A//www.fortlewis.edu/faculty_staff/privacy_policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127225924id_/http%3A//www.fortlewis.edu/businesspolicies/InformationTechnology/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Web Site Privacy Policy
+# Business Policies > Information Technology > Privacy Statement
 
-**Fort Lewis College  
-** **Web Site Privacy Policy**
-
-This policy addresses Fort Lewis College’s standardized process for access to and for the collection, storage, use, transfer, and security of personally identifiable information that may be obtained through use of the Fort Lewis College website.
-
-Personally identifiable information is information about an individual that could reasonably be used to identify that individual. Examples of personal information include an individual's first and last name, residential address, telephone number, and email address.
-
-Fort Lewis College fully supports the protection of individual privacy and minimizes the collection of personally identifiable information to the least amount of information required to complete a particular transaction. This policy extends to the collection of all personally identifiable information, regardless of the source or the medium.
-
-This Privacy Policy covers the following topics:
-
-  * Collection and Use of Personally Identifiable Information 
-  * Public Records 
-  * Cookies 
-  * Security 
-  * Disclaimer 
-  * Contact Information 
+  * Issued: 11-07
+  * Revised:
 
 
 
-**Collection and Use of Personally Identifiable Information  
-** Fort Lewis College may collect personally identifiable information about your visit to our website. This information may include:
+**Fort Lewis College Privacy Statement  
+Commitment to Individual Privacy**
 
-  * Internet Protocol (IP) address and domain name used (an IP address is a numerical identifier assigned to your Internet Service Provider or directly to your computer) 
-  * Type of browser used 
-  * Date and time that you visited this site 
-  * Web pages or services that you accessed at this site.
+Fort Lewis College (FLC) is committed to protecting the privacy and accuracy of confidential information submitted by employees, students, and visitors. Since Fort Lewis College is a public institution, some information collected, including information gathered from the from the FLC web sites, may be subject to the Colorado Public (Open) Records Act. Thus, in some cases FLC may be compelled by law to release information gathered from our Web servers. This may include server log information, e-mail messages sent to an individual identified on the web site, and information collected from web-based forms.  
+Colorado Public (Open) Records Act (C.R.S. 24-72 201 et seq.)
+
+The State of Colorado requires that all public records be open for inspection by any person at reasonable times, except as otherwise provided by law. Under the Colorado Public (Open) Records Act, all records made or maintained by a state institution such as FLC are “public,” regardless of the format or medium of such records. Certain personal information may be protected by state and federal law. However, all information becomes a public record once it is provided and may be subject to public inspection and copying, if not protected by federal or state law.  
+Family Educational Rights and Privacy Act (20 U.S.C. §1232g)
+
+FLC complies with the Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. §1232g, which generally prohibits the release of education records other than public directory information, without the student’s permission. For more information about FERPA and the current FLC FERPA policy please see the Registrar’s web site. Students who wish to have their personally identifiable information removed from the campus directory should notify the Registrar’s Office.  
+Information Collection
+
+It is FLC’s policy to collect the least amount of personally identifiable information required to fulfill its required duties and responsibilities, to complete a particular transaction, deliver a services, or as required by state and federal law. This policy applies to the collection of all personally identifiable information, regardless of the source or medium.
+
+For site administration functions, information, other than personal information linked to a particular individual, is collected for analysis and statistical purposes of Web site navigation. This information is used to help diagnose problems, assess what information is of most interest, determine technical design specifications, identify and manage system performance and/or problem areas, and other administration functions.  
+You may choose whether or not to provide personal information to FLC via the Internet. If you choose not to provide the personal information we request, you can still visit most of FLC Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.  
+Security
+
+Wherever your personal information may be held within FLC or on its behalf, we intend to take reasonable and appropriate steps to protect the information that you share with us from unauthorized access or disclosure.
+
+In the event of unauthorized access or disclosure (breach) of personally identifiable information (PII) limited to full name, social security number and or credit card number, FLC will notify, to the best of our ability, the individuals of the security breach within 14 days, provided notification will not impede a law enforcement investigation. A breach will be determined by the following factors:
+
+  * Was there unauthorized access to PII?
+  * Was PII actually acquired?
+  * Was the PII data unencrypted?
+  * Has illegal or misuse of the PII data occurred?
+  * Likelihood of reasonable harm to the individual
 
 
 
-The information we collect or store is used to improve the content of our web services and to help us understand how the public is using these services. In addition, we use your IP address to direct Internet traffic to you.
+Browser Cookies
 
-If you send an email message to us during your visit to our site, the following information will be collected:
+Some of our Web pages utilize "cookies." A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies may serve to recall personal information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. If you do choose to block cookies with your browser, some FLC web sites may no longer work for you.  
+Accuracy and Security of Confidential Information
 
-  * Email address used to send the email message 
-  * Contents of the email. 
+FLC makes reasonable efforts to ensure that the personal information retained about individuals is accurate. Every faculty member, staff member and student has the ability to check and update personal information such as his or her address, phone number, etc. online at https://webopus.fortlewis.edu. FLC deploys industry standard security measures to protect against the loss, misuse, or unauthorized alteration or release of personal information stored in electronic form.  
+Third Party Services
 
+On FLC’s behalf, third parties may provide certain services available on FLC web sites. FLC may provide information, including personal information, to third-party service providers to help us deliver programs, products, information and services. FLC will take reasonable steps to ensure that these third-party service providers are obligated to protect personal information on our behalf.  
+Disclaimer
 
+The information provided in this privacy statement should NOT be construed as giving business, legal, or other advice, or as warranting the security of information provided through the FLC web sites. FLC web sites contain links to many external web sites. FLC is not responsible for the privacy practices or the content of these external web sites.
 
-We collect this information to ensure we respond appropriately. For example, we may need to address issues you identify, make improvements to our website, or forward your email message to another agency for appropriate action.
+Comments and Feedback
 
-It is our policy to collect no personally identifiable information about you unless that information is required to complete a particular transaction. In addition, we collect no personally identifiable information about you unless you voluntarily participate in activities that ask for information. Choosing not to participate in these activities will not affect your ability to use any other features of our website.
+Please send comments, questions or concerns to [privacy@fortlewis.edu](mailto:privacy@fortlewis.edu). When sending us comments, please include a current e-mail address. Please do not send attachments with the message.
 
-Finally, personally identifiable information shall not include information collected in furtherance of any regulatory, investigative, or criminal justice purpose; information collected in furtherance of litigation in which the state is a party; or information that is required to be collected pursuant to any state or federal statute or regulation.
-
-**Public Records  
-** The State Open Records Act is applicable to this Privacy Policy pursuant to the Colorado Revised Statutes, Title 24, Article 72, Part 2, which states the following: "It is declared to be the public policy of this state that all public records shall be open for inspection by any person at reasonable times, except as provided in this part 2 or as otherwise specifically provided by law."
-
-If personal information is requested on the website or is volunteered by the user, state and federal law may protect that information. However, all information becomes a public record once it is provided and may be subject to public inspection and copying if not protected by federal or state law.
-
-Users are cautioned that the collection of personal information requested from or volunteered by children online or by email will be treated the same as information provided by an adult and may be subject to public access.
-
-**Cookies**  
-To better serve our users, we may use "cookies" to customize your browsing experience with us. Cookies are simple text files stored on your computer by your web browser. Cookies provide a method of distinguishing among visitors to our website.
-
-Cookies created on your computer by using this website do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature only to store a randomly-generated identifying tag on your computer. You can refuse a cookie or delete a cookie file from your computer by using any of the widely-available methods. Our services are provided in such a way that the use of cookies is not mandatory.
-
-**Security Statement**  
-The Office of External Affairs and the Department of Computing and Telecommunications, developers and managers of the Fort Lewis College website, have taken several steps to safeguard the integrity of its website, including but not limited to authentication, monitoring, and auditing. Security measures have been integrated into the design, implementation, and day-to-day practices of the entire operating environment as part of a continuing commitment to risk management.
-
-**Disclaimer**  
-The Fort Lewis College website contains links to other websites, including websites operated by other government agencies, nonprofit organizations, and private businesses. When you link to another website, you leave our site, which means that this Privacy Policy will no longer apply. When you link to another website, you are subject to the privacy policy of that website.
-
-Neither Fort Lewis College nor any employee of the State of Colorado:
-
- Warrants the accuracy, reliability, or timeliness of any information published by this system; or 
-
- Endorses any content, viewpoints, products, or services linked from this system. 
-
-Neither Fort Lewis College nor any employee of the State of Colorado shall be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Portions of such information may be incorrect or obsolete. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
-
-**Contact Information  
-** To offer feedback about this website or about this Privacy Policy, you can contact:
-
-[Robin Cole, Webmaster](mailto:cole_r@fortlewis.edu)  
-Fort Lewis College  
-1000 Rim Drive  
-Durango, CO 81301-3999  
-
+[Previous](https://web.archive.org/businesspolicies/Facilities/OfficialBuildingNames.aspx)  [Next](https://web.archive.org/businesspolicies/InformationTechnology/SoftwareLicenses.aspx)
