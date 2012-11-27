@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obsidiandawn.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521103558id_/http%3A//www.obsidiandawn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obsidiandawn.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127024827id_/http%3A//www.obsidiandawn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Obsidian Dawn
 
