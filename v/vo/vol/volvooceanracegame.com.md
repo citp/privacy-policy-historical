@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volvooceanracegame.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620111930id_/http%3A//www.unitedgames.com/company-profile/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvooceanracegame.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127075050id_/http%3A//www.unitedgames.com/company-profile/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « UnitedGames
 
