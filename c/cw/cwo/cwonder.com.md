@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwonder.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403060333id_/http%3A//www.cwonder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwonder.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127060140id_/http%3A//www.cwonder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,9 @@ Welcome to CWonder.com, which is owned and operated by C. Wonder, LLC ("C. Wonde
 
 This policy is subject to the provisions of our [Terms and Conditions of Use](http://www.cwonder.com/terms-conditions/), which are incorporated by reference into this policy.
 
-**Categories of** **Personal Information We Collect**  
+**Categories of** **Personal Information We Collect**
+
+** **  
 We collect personal information from you when you register for a Site account, place an order with us, subscribe to CWonder.com E-mail Updates (our e-mail newsletter), or otherwise send a request or inquiry to us. In general, the types of personal information we collect include:
 
   * Registration Information: When you register with us, we may collect your name, shipping and billing address, e-mail, phone number and other contact information.
@@ -26,7 +28,9 @@ We collect personal information from you when you register for a Site account, p
 
 We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you.
 
-**How We Use Your Information**  
+**How We Use Your Information**
+
+** **  
 In general, we use the information we collect from you, including any personal information, for the following purposes:
 
   * To process and fulfill your order, including to send you e-mails to confirm your order status and shipment, or to otherwise communicate with you about your order
@@ -100,7 +104,9 @@ _**Flash Cookies**_. We may use local shared objects, also known as Flash cookie
 
 Flash cookies are different from browser cookies because of the amount and type of data stored. In addition, you can not control, delete, or disable the acceptance of Flash cookies through your browser. To learn how to manage your settings for Flash cookies, visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118.
 
-**Your** **Choices Regarding Marketing**  
+**Your** **Choices Regarding Marketing**
+
+** **  
 We use personal information that you provide to us to send you direct mail or e-mail advertisements for products or services [that we or other companies that we work with offer and] that we think you may be interested in. 
 
 If you do not want to receive these communications, you can update your marketing information-sharing preferences using the following methods:  
@@ -114,30 +120,37 @@ If you do not want to receive these communications, you can update your marketin
  99 Madison Avenue  
  New York, NY 10016
 
-
-
-
 Please note your preference as stated below:
 
 "I prefer not to receive e-mail advertisements, such as updates regarding products and services, special promotions or upcoming events." (You may also click the designated link at the bottom of all CWonder.com e-mail advertisements to be removed from future e-mail updates.)
 
 "I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events." (Please note that direct mail requests may take up to six to eight weeks to become effective.)
 
-**Links to Other Websites and Services**  
+**Links to Other Websites and Services**
+
+** **  
 Websites provided by C. Wonder may include links to other Internet sites maintained by third parties. C. Wonder provides these links to you solely as a convenience, and the inclusion of these links and associated sites does not imply endorsement by C. Wonder of the linked sites. You access these sites at your own risk and by accessing them you leave C. Wonder's website. Linked sites are not under the control of C. Wonder and C. Wonder is not responsible for the contents of these sites.
 
-**Children's Privacy**  
+**Children's Privacy**
+
+** **  
 This site is not intended for children. We do not knowingly collect personal information from, or target our Site to, children under the age of 13. If we become aware that any child under the age of 13 has submitted any personal information to C. Wonder through the Site, we will delete his or her information from our files.
 
-**Security**  
+**Security**
+
+** **  
 We maintain commercially reasonable physical, electronic and procedural safeguards to protect the confidentiality and security of personal information transmitted to us using this website. For example, to guard your information, our website uses SSL technology, which encrypts your credit card number, name and address so only C. Wonder is able to decode this information. To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please email us at [customercare@cwonder.com](mailto:customercare@cwonder.com) to place an order by email. You should be aware that despite our best efforts, no data security measures can guarantee 100% security all of the time.
 
 There are also certain steps you should take to safeguard your account and information. For example, you should select a secure password that only you know, and should always sign out of your account when finished. It is your responsibility to protect the confidentiality of your password in order to prevent unauthorized access to your account. You are responsible for all activities that occur under your account and password. You should immediately change your password and notify us if you discover or suspect any unauthorized use of your account.
 
-**Changes** **to this Privacy Policy**  
+**Changes** **to this Privacy Policy**
+
+** **  
 This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy, or if our information practices change materially with regard to personal information that we have previously collected from you, we will notify you by posting the policy changes on our website with a new effective date and/or notifying you by [email], and will give you the choice of opting out of the material changes.
 
-**Protecting Your Personal Information**  
+**Protecting Your Personal Information**
+
+** **  
 You may come in contact with websites, e-mails or texts that try to lure you into providing personal information with the offer of a C. Wonder gift card. C. Wonder does not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to [customercare@cwonder.com](mailto:customercare@cwonder.com)  so that we can follow up. We take these matters, and the protection of our customers' sensitive information, very seriously. 
 
 If you have questions regarding our Privacy Policy please contact us at: 
