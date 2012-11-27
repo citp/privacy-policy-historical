@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519152323id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127144619id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
 
 # Privacy Policy - Art Supplies from Utrecht featuring fine art supplies, school art supplies, discount art supplies, artist paints brushes, acrylics, watercolor supplies, artist oil paints, artist canvas and more
 
@@ -48,12 +48,28 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 The information we collect may be disclosed when we are legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site and applicable laws, or to protect against misuse or unauthorized use of our Web site. 
 
+## California Shine the Light Law
+
+Under California's "Shine the Light" law, (Civil Code Section 1798.83), California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain, once per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information from us, please use the Customer Service link below and then the Contact us link, write "Request for California Privacy Information" on the subject line of your message, and we will send you a reply email containing the requested information. Not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+
+## Children
+
+We do not knowingly collect personally-identifiable information from children under the age of thirteen (13). The site is not directed at children under the age of thirteen (13), and by using the site, you represent that you are not under the age of thirteen (13).
+
+## Right to Transfer
+
+Notwithstanding anything to the contrary set forth in this Privacy Policy, we reserve the right to disclose and/or transfer your personal information to a third party in connection with a proposed or actual purchase, sale, merger, or any other type of acquisition or financing of all or any portion of Utrecht.
+
+## Pixel Tags
+
+We use Pixel tags also known as a clear GIF or web beacon, to analyze online behavior and measure the effectiveness of our website. Through a pixel tag we can determine information about your visit to our site including the pages you view, the features you use, the links you access and other information. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site.
+
 ##  Company Information: 
 
 Utrecht Art Supplies   
 6 Corporate Drive   
 Cranbury, NJ 08512   
 1-800-223-9132   
-[ ](https://web.archive.org/web/20120519152323id_/http%3A/customer_service/)[Customer Service ](https://web.archive.org/Customer-Service---Home-g9t0.utrecht)  
-[ www.utrechtart.com ](https://web.archive.org/web/20120519152323id_/http%3A/)   
+[ ](https://web.archive.org/web/20121127144619id_/http%3A/customer_service/)[Customer Service ](https://web.archive.org/Customer-Service---Home-g9t0.utrecht)  
+[ www.utrechtart.com ](https://web.archive.org/web/20121127144619id_/http%3A/)   
 |  |  
