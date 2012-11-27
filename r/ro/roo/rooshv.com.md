@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510065543id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127100943id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Roosh V
+# Privacy Policy
 
-[Home](http://www.rooshv.com/ "Browse to: Home") / Privacy Policy 
+Privacy Policy
 
 The webmaster of this site can be reached [via e-mail](https://web.archive.org/bio).
 
