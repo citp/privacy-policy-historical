@@ -1,0 +1,5 @@
+> *The following text is extracted and transformed from the chitkara.edu.in privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172907id_/http%3A//www.chitkara.edu.in/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Chitkara University
+
+CHITKARA UNIVERSITY, respects your right to privacy. When you visit the CHITKARA UNIVERSITY Official Web site, the following information may be collected from you, either voluntarily or involuntarily: Your computer or network's IP address, which must be validated in order for you to access the CHITKARA UNIVERSITY Official Web site; Your e-mail address and message when you communicate electronically with us; Information about your visit is gathered in an aggregate manner for quality control, security and improvement of our site. Your information is kept confidential, unaltered, and used only by the CHITKARA UNIVERSITY, to administer your request. CHITKARA UNIVERSITY, does not disclose or sell any personally identifiable information collected at this site to other companies or organizations. 
