@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libervis.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630210240id_/http%3A//www.libervis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libervis.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127063857id_/http%3A//www.libervis.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
