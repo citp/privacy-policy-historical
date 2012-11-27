@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getauto.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605031435id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getauto.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127123927id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dominion Enterprises : Dominion Enterprises
+# Privacy Policy - Dominion Enterprises
 
 ### Dominion Enterprises Privacy Policy
 
