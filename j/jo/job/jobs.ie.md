@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127050510id_/http%3A//jobs.ie/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs.ie - Jobs in Ireland. Irish Jobs.
 
-|  [ ](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/)  
----  
-|  | [Jobseekers](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/) |  |   |  | [Employers](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/Employ.aspx) |  |   |  | [Training Courses](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/TrainingCourses/) |  |   |  | [Deals](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/Deals/) |  |   |   |  [Home](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/) | [About](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/About.html) | [Help](https://web.archive.org/web/20120509224429id_/http%3A//jobs.ie/Help.aspx)     
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-  
+  * [Jobs by email](https://web.archive.org/web/20121127050510id_/http%3A//jobs.ie/JobsByEmail.aspx) 
+  * [Upload your CV](https://web.archive.org/web/20121127050510id_/http%3A//jobs.ie/JobSeeker/UploadCV.aspx) 
+  * [CV Centre](https://web.archive.org/web/20121127050510id_/http%3A//jobs.ie/JobSeeker/CVCentre.aspx) 
+
 
 
 **Jobs.ie: Privacy and Security**
@@ -27,7 +26,7 @@ Changes to our Privacy Policy
 User Feedback and ComplaintsABOUT OUR PRIVACY POLICY  
 
 
-  * Our website JOBS.IE which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (e.g. alljobs.ie, counciljobs.ie, cvdatabase.ie, cvfinder.ie, cvsearch.ie, dentaljobs.ie, employedemployee.ie, employment.ie, floristjobs.ie, fundaccounting.ie, fundaccountingjobs.ie, golfclubjobs.ie, governmentjobs.ie, hotrecruit.ie, infojobs.ie, job.ie, jobsni.ie, locumjobs.ie, lotsofjobs.ie, lovelyjobs.ie, monsterjobs.ie, mortgagejobs.ie, perfectjobs.ie, salary.ie, sweetjobs.ie, unemployment.ie, wages.ie, okrecruit.com) (the **“Website”** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions](http://www.jobs.ie/TermsOfUse.html) ) (the “ **Jobs.ie Service** ”) are operated by Jobs.ie Ltd., Unit 1A Waters Edge, Charlotte Quay Dock, Dublin 4, Ireland] (" **we** ", “ **us** ” and “ **our** ”). The Website and the Jobs.ie Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. 
+  * Our website JOBS.IE which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (e.g. alljobs.ie, counciljobs.ie, cvdatabase.ie, cvfinder.ie, cvsearch.ie, dentaljobs.ie, employedemployee.ie, employment.ie, floristjobs.ie, fundaccounting.ie, fundaccountingjobs.ie, golfclubjobs.ie, governmentjobs.ie, hotrecruit.ie, infojobs.ie, job.ie, jobsni.ie, locumjobs.ie, lotsofjobs.ie, lovelyjobs.ie, monsterjobs.ie, mortgagejobs.ie, perfectjobs.ie, salary.ie, sweetjobs.ie, unemployment.ie, wages.ie, okrecruit.com) (the **“Website”** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions](http://www.jobs.ie/TermsOfUse.html) ) (the “ **Jobs.ie Service** ”) are operated by Jobs.ie Ltd., Unit 1A Waters Edge, Charlotte Quay Dock, Dublin 4, Ireland (" **we** ", “ **us** ” and “ **our** ”). The Website and the Jobs.ie Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. 
   * This policy, our [Terms and Conditions](http://www.jobs.ie/TermsOfUse.html) and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Customer (i.e. a recruiter) then the Jobs.ie Customer Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 
