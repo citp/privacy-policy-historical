@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optionrally.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619084745id_/http%3A//www.optionrally.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionrally.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127171246id_/http%3A//www.optionrally.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Binary options trading | Optionrally.com
 
-LFG INVESTMENTS LTD. (" **we, our or us** ") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit [www.optionrally.com](http://www.optionrally.com/) (the " **Site** ) and when you use any part of our service available through the Site or our mobile application (the " **Service** ").  
+Tifozi Investments LTD. (" **we, our or us** ") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit [www.optionrally.com](http://www.optionrally.com/) (the " **Site** ) and when you use any part of our service available through the Site or our mobile application (the " **Service** ").  
 This Policy may be amended or updated from time to time. If we make any material changes to this Policy, we will post a notice of these changes on our website and in this Policy. You are advised to consult this Policy regularly for any changes.  
 This Policy is an integral part of the Site’s and Service’s General Terms and Conditions (the " **Terms and Conditions** ").
 
@@ -50,4 +50,4 @@ Your information may be processed, maintained or transferred outside of your sta
 **6\. Contacting Us**  
 If you have any concerns or questions about this Policy, please contact us at [support@optionrally.com.](mailto:support@optionrally.com)
 
-Copyright © 2012, LFG Investments Ltd. All rights reserved.
+Copyright © 2012, Tifozi Investments LTD. All rights reserved.
