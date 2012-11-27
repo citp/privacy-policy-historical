@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreet.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508212735id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreet.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127013601id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MainStreet
 
