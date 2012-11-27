@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ulust.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143057id_/http%3A//www.ulust.com/%3Fpage%3Dpp%26wm_login%3D%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26ref_url%3Ddefault%26country%3DUnited%2BStates) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulust.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127120015id_/http%3A//www.ulust.com/%3Fpage%3Dpp%26wm_login%3Dmakesyouclick%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26from%3Ds1%26ref_url%3Dhttp%253A%252F%252Fwww.ulust.com%252Frobots.txt) for the most accurate reproduction.*
 
-# ULust.Com - Over 7 Million Horny Singles
+# ULust - No Strings Attached, Adult Dating & Sex Dating
 
 **OUR WEB SITE PRIVACY POLICY**
 
