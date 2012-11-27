@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618140054id_/http%3A//www.ensighten.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensighten.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127090853id_/http%3A//www.ensighten.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ensighten
 
@@ -51,6 +51,14 @@ By using our site, you consent to our online privacy policy.
 ##  **Changes to Our Privacy Policy**
 
 If we change our privacy policy, we will post those changes on this page in addition to updating the Privacy Policy modification date at the top. 
+
+##  Dispute Resolution 
+
+If you believe that Ensighten has not adhered to this Statement, please contact Ensighten by e-mail at [privacy@ensighten.com](mailto:privacy@ensighten.com?subject=Ensighten%20Privacy%20Policy). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Ensighten are unable to reach a resolution to the dispute, you and Ensighten will settle the dispute exclusively under the rules of the American Arbitration Association ([www.adr.org](http://www.adr.org/)). 
+
+##  Note to Users Outside of the United States 
+
+Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. We adhere to and have certified our compliance with the Safe Harbor Privacy Principles, including notice, choice, onward transfer, security, data integrity, access, and enforcement, of the United States/European Union Data Protection Safe Harbor Framework and the United States/Switzerland Data Protection Safe Harbor Framework, both of which are made available by the U.S. Department of Commerce at <http://www.export.gov/safeharbor>. Our certification can also be viewed at <http://www.export.gov/safeharbor>. 
 
 ##  **If You Contact Us**
 
