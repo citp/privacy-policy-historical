@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ismmagic.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514020526id_/http%3A//www.ismmagic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismmagic.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127064752id_/http%3A//www.ismmagic.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Policies
 
