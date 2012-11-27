@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127070508id_/http%3A//www.webanalyticsassociation.org%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127090440id_/http%3A//www.digitalanalyticsassociation.org%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# WAA Privacy and Private Information Collection Policies - Web Analytics Association
+# DAA Privacy and Private Information Collection Policies - Digital Analytics Association
 
 ## Members list usage policy
 
-  1. No member of WAA may solicit for, or use the official membership list for any commercial purposes. This is a direct violation of our privacy policy. Any exceptions must be given explicit advanced approval in writing by the Board of Directors Chairman.
+  1. No member of DAA may solicit for, or use the official membership list for any commercial purposes. This is a direct violation of our privacy policy. Any exceptions must be given explicit advanced approval in writing by the Board of Directors Chairman.
   2. Members wishing to communicate events or messages to other members may do so by requesting inclusion in an upcoming newsletter. Please contact .
-  3. Members may also post events on the events section of the site by sending all details to the [membership office](mailto:staylor@webanalyticsassociation.org).[](https://web.archive.org/en/calendarevents/)
+  3. Members may also post events on the [events section](https://web.archive.org/events/event_list.asp) of the site by sending all details to the 
 
 
 
-## WAA Privacy Policy
+## DAA Privacy Policy
 
-The Web Analytics Association (WAA) is dedicated to protecting your privacy when using our website. Please read this policy to understand how we collect and use information gathered through this website, and to understand your rights regarding these practices.
+The Digital Analytics Association (DAA) is dedicated to protecting your privacy when using our website. Please read this policy to understand how we collect and use information gathered through this website, and to understand your rights regarding these practices.
 
 ### Personal Information Collection & Usage
 
-The WAA may collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number and similar information which identify you. We collect this information so that you may obtain access to members-only portions of our website and/or to receive WAA products and services. We do not sell or rent personal information to other organizations. Where necessary, our site collects credit card information for the purpose of billing the user for requested services. Information collected through the Site may be shared with third parties that provide services on behalf of the site, such as credit card processors. Third parties may only use the data for the purpose for which it was provided.
+The DAA may collect personal information from our visitors on a voluntary basis. Personal information may include name, title, company, address, phone number and similar information which identify you. We collect this information so that you may obtain access to members-only portions of our website and/or to receive DAA products and services. We do not sell or rent personal information to other organizations. Where necessary, our site collects credit card information for the purpose of billing the user for requested services. Information collected through the Site may be shared with third parties that provide services on behalf of the site, such as credit card processors. Third parties may only use the data for the purpose for which it was provided.
 
-However, some WAA events or services may be co-sponsored or provided in connection with other companies not under the direct control of the WAA. These include seminars, educational events, conferences, newsletters, discussion groups and similar services. Whenever we provide such services, we will disclose the name of our sponsor or provider, and will disclose any WAA information collection and use practices which may differ from those practices set forth in this policy. Co-sponsors of WAA services and events may require registration information from you which will be used by the co-sponsor or its partners to contact you regarding such services or events. When signing up or registering for any such services or events where the WAA is not the sole sponsor and provider, you should be aware of any differing privacy practices by our partners and read all disclosures available to you. Though the WAA makes reasonable efforts to only work with reputable partners, we cannot control their privacy practices in every instance regarding the personal information you voluntarily provide to them.
+However, some DAA events or services may be co-sponsored or provided in connection with other companies not under the direct control of the DAA. These include seminars, educational events, conferences, newsletters, discussion groups and similar services. Whenever we provide such services, we will disclose the name of our sponsor or provider, and will disclose any DAA information collection and use practices which may differ from those practices set forth in this policy. Co-sponsors of DAA services and events may require registration information from you which will be used by the co-sponsor or its partners to contact you regarding such services or events. When signing up or registering for any such services or events where the DAA is not the sole sponsor and provider, you should be aware of any differing privacy practices by our partners and read all disclosures available to you. Though the DAA makes reasonable efforts to only work with reputable partners, we cannot control their privacy practices in every instance regarding the personal information you voluntarily provide to them.
 
 If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information through the website. This can also be done by contacting us at:
 
-Web Analytics Association  
+Digital Analytics Association  
 401 Edgewater Place  
 Suite 600  
 Wakefield MA 01880 USA  
@@ -30,7 +30,7 @@ Phone +1-781-876-8933
 Toll Free +1-800-349-1070  
 Fax +1-781-224-1239
 
-Or .
+Or emailing our .
 
 ### Anonymous Information We Collect
 
@@ -44,7 +44,7 @@ Like many websites, we may also use pixel tags, also known as beacons, spotlight
 
 #### Clickstream
 
-No clickstream data collection is being used for this website at the current time. However, we have many vendors who are the industry leaders in this area as members in the WAA.
+No clickstream data collection is being used for this website at the current time. However, we have many vendors who are the industry leaders in this area as members in the DAA.
 
 #### Changes to Policies; Opt-out Process
 
@@ -52,21 +52,27 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 However, if at any time in the future we plan to use personal information in a way that differs from this policy, users will be notified by either 30 days notice displayed prominently on the website or by email. We will provide you the opportunity to opt-out of such differing uses.
 
-By registering with the website, you consent to receive information and updates on our services directly from the WAA. You may opt-out of such communications by sending an email to insert WAA opt-out email address, by following unsubscribe procedures on the website or by following the unsubscribe instructions within each email.
+By registering with the website, you consent to receive information and updates on our services directly from the DAA. You may opt-out of such communications by sending an email to insert DAA opt-out email address, by following unsubscribe procedures on the website or by following the unsubscribe instructions within each email.
 
-#### Cookiers
+#### Cookies
 
-At the current time, our site makes use of cookies to keep you logged in throughout your visit to the site.
+At the current time, our site makes use of cookies to keep you logged in through-out your visit to the site.
+
+#### Third Party Cookies and Privacy Policies
+
+The DAA website is hosted by YourMembership.com. You can [view their privacy policy](http://www.digitalanalyticsassociation.org/ams/legal-privacy.htm).
+
+Services used on the DAA website, including [AddThis](http://www.addthis.com/privacy/privacy-policy) and [Facebook Connect](https://www.facebook.com/help/?page=229348490415842) also have their own separate privacy policies. This is not an exhaustive list.
 
 #### Other Websites
 
-Our website may contain links to other websites not maintained by the WAA, including in connection with WAA co-sponsored events, publications, newsletters and other services. Other websites may also reference or link to our website. Clicking a link on our website may bring you to a third party website.
+Our website may contain links to other websites not maintained by the DAA, including in connection with DAA co-sponsored events, publications, newsletters and other services. Other websites may also reference or link to our website. Clicking a link on our website may bring you to a third party website.
 
-We encourage you to be aware when you leave our website and to read the privacy statements of each and every website that you visit. We are not responsible for the privacy practices or the content of such other websites.
+We encourage you to be aware when you leave our website and to read the privacy statements of each and every website that you visit. **We are not responsible for the privacy practices or the content of such other websites.**
 
 #### Security
 
-The security of your personal information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software for purchases. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are allowed access to your personal information. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and the WAA, and the WAA and you, will be free from unauthorized access by third parties such as hackers and your use of the website demonstrates your assumption of this risk.
+The security of your personal information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software for purchases. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are allowed access to your personal information. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and the DAA, and the DAA and you, will be free from unauthorized access by third parties such as hackers and your use of the website demonstrates your assumption of this risk.
 
 #### Website Legal Disclaimer
 
@@ -76,7 +82,7 @@ Use of this website is governed by the provisions contained in the Legal Disclai
 
 For questions or concerns relating to privacy, we can be contacted at:
 
-Web Analytics Association  
+Digital Analytics Association  
 401 Edgewater Place  
 Suite 600  
 Wakefield MA 01880 USA  
@@ -84,4 +90,4 @@ Phone +1-781-876-8933
 Toll Free +1-800-349-1070  
 Fax +1-781-224-1239
 
-Or .
+Or emailing our .
