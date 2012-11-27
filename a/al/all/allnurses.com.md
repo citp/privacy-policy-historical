@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624004148id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127013550id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
 # Privacy Policy for Nurses | Nursing Students
-
-  * [Sign Up! It's Free!](http://allnurses.com/register.php)
-  * [What's New](http://allnurses.com/search.php?do=getnew)
-  * [Site Map](http://allnurses.com/sitemap.php)
-  * [Help](http://allnurses.com/information-center/)
-  * [Log In](http://allnurses.com/whyjoin-info.html)
-
-
 
 ## Commitment To Your Privacy
 
