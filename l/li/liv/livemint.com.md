@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livemint.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606145249id_/http%3A//www.livemint.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemint.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127165801id_/http%3A//www.livemint.com/Object/DSH31Msx7jzRq6nPedwI1I/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy : livemint
+# Privacy & Policy - Livemint
 
 HT Media Ltd and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (personal information) you share with us 
 
@@ -22,10 +22,10 @@ Tracking technologies may record information such as Internet domain and host na
 
 To protect your privacy, we have adopted the following principles: 
 
-  * Notice 
-  * Choice 
-  * Security 
-  * Access/Accuracy 
+  * Notice
+  * Choice
+  * Security
+  * Access/Accuracy
 
 
 
@@ -55,19 +55,21 @@ By using this Web site, you consent to the terms of our Terms of Use and to HT M
 
 Information security 
 
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
-  * We restrict access of your personal information to our employees who need to know that information in order to operate, develop or improve our services. 
+  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+  * We restrict access of your personal information to our employees who need to know that information in order to operate, develop or improve our services.
 
 
 
 Updating your information
 
-  * We provide mechanisms for updating and correcting your personal information for our services. For more information, please see the help pages for each service. 
+  * We provide mechanisms for updating and correcting your personal information for our services. For more information, please see the help pages for each service.
+
+
 
 Children
 
-  * HT Media Ltd will not contact children under age 13 about special offers or for marketing purposes without a parent’s consent 
-  * HT Media Ltd does not solicit personal information from a child under age 13 in any given activity or promotion. 
+  * HT Media Ltd will not contact children under age 13 about special offers or for marketing purposes without a parent’s consent
+  * HT Media Ltd does not solicit personal information from a child under age 13 in any given activity or promotion.
 
 
 
@@ -89,7 +91,7 @@ Information Sharing and Disclosure
 
 Confidentiality and Security 
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
   * We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you. We seek to ensure compliance with the requirements of the Information Technology Act, 2000 and rules made thereunder to ensure the protection and preservation of your privacy
 
 
