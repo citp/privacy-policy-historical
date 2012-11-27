@@ -1,59 +1,70 @@
-> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309062728id_/https%3A//www.rentalsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127153219id_/https%3A//www.rentalsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rentalsystems
 
-[](https://web.archive.org/register)
+This privacy policy applies only to this website (the “Site”).  
+If you do not accept this privacy policy, you must not use the Site.
 
-[](https://web.archive.org/register)
+## Collection of Personal Information
 
-Rentalsystems makes managing rentals easy. Designed for both holiday home owners and professional agents, it is a complete booking and payment system and gives you access to  
-6 million potential customers. 
+We collect personal information from you (such as name, address, telephone number, email address etc) when you fill in registration forms, submit comments to the Site, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. 
 
-## Privacy policy
+## Collection of Other Information
 
-In order to process your booking we need to collect certain personal details from you. These details will include, where applicable, the names of party members, at least the party leader’s contact details (including email address), at least the party leader’s credit/debit card details, etc which we do not store. If we need further details we will ask you for these. We will use the contact details you have given us to correspond with you in relation to your booking or enquiry. We will also need to pass your details to the third parties who need to know them so that your chosen accommodation can be provided or your enquiry can be dealt with. The owner of the accommodation you have booked or enquired about may contact you direct using the details you have given us. Your details may be passed to third parties in countries outside of the European Economic Area if necessary in order to arrange for your booking to be provided or enquiry answered. These countries may not provide the same level of protection for your personal data as the UK. By submitting your booking or your enquiry to us, you agree to your personal details being processed in this way.
+### Use of Cookies
 
-If you have subscribed to our e-mail service or have made a booking for, or an enquiry about, the services we offer, we may send you very occasional and targeted promotional e-mails about the services and special deals we offer unless you have opted out of receiving these.
+In addition to personal information you provide, we may also collect information about you automatically when you visit the Site or access content in our electronic communications with you.
 
-We may need to disclose our customer database, including any personal data relating to you contained therein, to a third party who acquires or attempts to acquire all or substantially all of the assets or stocks in our company or our website whether by merger, acquisition, reorganisation or otherwise.
+The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site or within electronic communications. A cookie is a small text file that is placed on your computer’s hard drive by your browser. Cookies allow us to identify your computer and find out details about your visit and browsing habits so that we can offer you a more personalised experience and manage, monitor and improve services.
 
-Except where expressly permitted by the Data Protection Act, we will only deal with the personal details you give us as set out above unless you agree or tell us otherwise. We have appropriate security measures in place to protect this information.
+Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site.
 
-You are generally entitled to ask us (by letter or e-mail) what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We will charge a fee to respond to such a request. We promise to respond to your request within 40 days of receiving your written request and fee. In certain limited circumstances we are entitled to refuse your request.
+The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 
-If you believe that any of your personal details which we are processing are inaccurate or incorrect please contact us immediately.
+Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
 
-This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement. As our privacy statement may change due to developments in the law, we would encourage you to reread our privacy statement from time to time so that you are aware of any changes in how we gather and use personal information.
+For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site [click here](https://web.archive.org/privacy-policy/cookies-rs.aspx).
 
-Our website uses cookies. A ‘cookie’ is information that a website stores on your computer so that it can remember something about you at a later time. The purpose of cookie is to identify users and to personalise their visit by customising a web page for their use.
+You can learn more about cookies and how to reject cookies using different types of browser by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/). Separate tools are also available for managing local shared objects or ‘Flash cookies’ from the [Adobe](http://www.adobe.com/) website. These cookies may be used to manage the effective delivery of services using video or other flash related content.
 
-Online booking calendar and  
-payment engine
+### Use of Your Information
 
-Choose to automate responses, payment reminders and arrival instructions
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):
 
-Customise pricing and discounts for last minute or long term bookings
+  * personalising your visits to the Site to improve the services provided to you;
+  * informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting;
+  * customer service and support;
+  * communicating (and personalising such communication) with you;
+  * enabling you to share our content with others e.g. using an ‘Email a friend’ or ‘Share this’ functionality;
+  * conducting market research; and/or
+  * carrying out technical and statistical analysis to measure the performance of our services and the Site.
 
-See statistics of advert performance - views, click throughs and more...
 
-Free contract template with terms and conditions
 
-Access to 6 million potential customers through Villarenters.com and the Daily Mail Group
+### Sharing Your Information
 
-Simple 6 stage process to create a great looking, detailed advert
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
 
-Unlimited photos at no extra cost
+We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group.
 
-Google maps to help show exact location
+Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group. 
 
-Show customer reviews
+Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
 
-Low commission pricing structure - no risk to you
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information.
 
-Secure online payments with
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
-Established in 2003 and owned by the Daily Mail Group
+### Keeping Your Personal Information Secure
 
-Already used by thousands of owners and property agents
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England.
 
-Dedicated customer support team
+### Accessing Your Personal Information
+
+If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other privacy queries, please write to us (including full details of your request) at the following email address: [thesupportdesk@rentalsystems.com](mailto:thesupportdesk@rentalsystems.com?subject=Website%20Enquiry)
+
+We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
+
+## Changes to this Privacy Policy
+
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.
