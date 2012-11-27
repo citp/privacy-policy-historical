@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511212838id_/http%3A//www.cartoonnetworkindia.com/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127143723id_/http%3A//www.cartoonnetworkindia.com/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network India | Free Games and Online Video from Ben 10, Gumball and Adventure Time!
 
@@ -76,7 +76,7 @@ As we have taken special precautions to aid in the safety of your child's World 
 
 If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address, mailing address and telephone number: 
 
-Email: [_privacyasiapac@turner.com_](https://web.archive.org/web/20120511212838id_/http%3A//www.cartoonnetworkindia.com/parents/privacyasiapac@turner.com)   
+Email: [_privacyasiapac@turner.com_](https://web.archive.org/web/20121127143723id_/http%3A//www.cartoonnetworkindia.com/parents/privacyasiapac@turner.com)   
 Mailing Address: Turner Privacy Officer   
 Turner Broadcasting System Asia Pacific, Inc.   
 30/F Oxford House, Taikoo Place, 979 King's Road,   
