@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626185245id_/http%3A//www.theoutnet.com/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127170919id_/http%3A//www.theoutnet.com/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Help | THE OUTNET
 
@@ -74,7 +74,7 @@ In addition to disclosures identified in the purposes above, from time to time w
 Alternatively you can change your email preferences or opt out of all emails by logging into My Account. To opt out of the direct mail service or updates, please contact Customer Care at +1 888 9 OUTNET(688638) or send an email to [customercare.usa@theoutnet.com](mailto:customercare.usa@theoutnet.com). It is not our current policy to share our customers' personal details with third parties other than as stated herein.
 
 Should you choose to have your name and personal data removed from our database altogether, you can do so by sending an email to [customercare.usa@theoutnet.com](mailto:customercare.usa@theoutnet.com) or by writing to us at:   
-THE OUTNET, c/o Customer Care, NET-A-PORTER LLC, 7NET-A-PORTER LLC, 30-30 47th Avenue, 3rd Floor, Long Island City, NY 11101, USA.
+THE OUTNET, c/o Customer Care, The NET-A-PORTER Group LLC, 100 Fifth Avenue, New York, NY 1001, USA.
 
   * [How you can access and, if necessary, change the personal information THE OUTNET maintains]()
     * If for any reason you are concerned that the personal information held by THE OUTNET is not correct, please visit the website and, after logging into the site using the 'Sign In' menu on the home page, your personal information will be made available for review and change in the 'My Account' section. Only you or, upon your request, a Customer Care advisor may access your personal data from the website using your password and User ID. Information may be changed online within My Account, Address book, and My Emails. You can change or delete saved credit card details each time you make a purchase. You will also be able to delete saved credit card details by adding or editing a shipping/billing address. If you prefer, you may contact us by email at [customercare.usa@theoutnet.com](mailto:customercare.usa@theoutnet.com) and we will amend your personal details.
