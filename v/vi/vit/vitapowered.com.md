@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitapowered.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007211624id_/http%3A//vitapowered.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitapowered.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127065859id_/http%3A//www.panpowered.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - pan Powered
 
@@ -14,7 +14,7 @@ pan considers privacy with the utmost of seriousness and is strongly committed t
 
 Performance Assessment Network, Inc.
 
-** ("pan") adheres to the Safe Harbor Principles published by the U.S. Department of Commerce (the "Safe Harbor Principles") with respect to personal information (as defined below) it receives from the European Union.
+** ("pan") complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. pan has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view pan's certification, please visit <http://www.export.gov/safeharbor/>
 
 This notice outlines our general policy and practices for implementing the Safe Harbor Principles, including the type of information to which this notice applies, how we use personal information, and the choices individuals have regarding our use of, and their ability to correct, that personal information. If there is any conflict between the policies in this notice and the Safe Harbor Principles, the Safe Harbor Principles will govern. 
 
