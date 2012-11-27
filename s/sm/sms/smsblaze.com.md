@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsblaze.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620202758id_/http%3A//www.smsblaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsblaze.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127163749id_/http%3A//www.smsblaze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,13 +31,17 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Children’s Privacy**  
 Some Portions of the Web site may be used by children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our web site.
 
-#### People also searches: :
+#### people also searches:
 
-  * [www onlysms net](http://www.smsblaze.com/smstext/www-onlysms-net/ "www onlysms net")
-  * [onlysms net](http://www.smsblaze.com/smstext/onlysms-net/ "onlysms net")
-  * [m onlysms](http://www.smsblaze.com/smstext/m-onlysms/ "m onlysms")
-  * [m only sms net](http://www.smsblaze.com/smstext/m-only-sms-net/ "m only sms net")
-  * [www onlysms com](http://www.smsblaze.com/smstext/www-onlysms-com/ "www onlysms com")
-  * [m sms net](http://www.smsblaze.com/smstext/m-sms-net/ "m sms net")
+  * [onlysms net](http://www.smsblaze.com/messages/onlysms-net/ "onlysms net")
+  * [www onlysms net](http://www.smsblaze.com/messages/www-onlysms-net/ "www onlysms net")
+  * [Only sms net](http://www.smsblaze.com/messages/only-sms-net/ "Only sms net")
+  * [www onlysms com](http://www.smsblaze.com/messages/www-onlysms-com/ "www onlysms com")
+  * [m only sms net](http://www.smsblaze.com/messages/m-only-sms-net/ "m only sms net")
+  * [m onlysms](http://www.smsblaze.com/messages/m-onlysms/ "m onlysms")
+  * [onlysmsnet](http://www.smsblaze.com/messages/onlysmsnet/ "onlysmsnet")
+  * [m sms net](http://www.smsblaze.com/messages/m-sms-net/ "m sms net")
+  * [onlysmsnet com](http://www.smsblaze.com/messages/onlysmsnet-com/ "onlysmsnet com")
+  * [by-m onlysms net](http://www.smsblaze.com/messages/by-m-onlysms-net/ "by-m onlysms net")
 
 
