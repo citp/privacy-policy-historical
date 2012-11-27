@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618212929id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127080056id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - ROZEE.PK | Jobs in Pakistan, Careers in Pakistan, Employment, Careers
+# Privacy Policy - Jobs in Pakistan, Careers in Pakistan, Employment, Careers | ROZEE.PK
 
 | 
 
@@ -89,6 +89,9 @@ If at any time, you have questions or concerns about this Privacy Policy or beli
   
    
 **Contact Information**  
-ROZEE.PK is the name under which Naseeb Networks, Inc., a Silicon Valley corporation with its principal place of business at 1299 Del Mar Avenue, Suite 260 , San Jose , CA 95128 and certain of its affiliated companies worldwide, do business. [Naseeb Networks, Inc](http://www.naseebnetworks.com/). is the legal entity which determines the purposes and means of processing the information gathered at www.rozee.pk. You can also contact us at support@rozee.pk.
+ROZEE.PK is the name under which Naseeb Networks, Inc., a Silicon Valley corporation with its principal place of business at 1299 Del Mar Avenue, Suite 260 , San Jose , CA 95128 and certain of its affiliated companies worldwide, do business. [Naseeb Networks, Inc](http://www.naseebnetworks.com/). is the legal entity which determines the purposes and means of processing the information gathered at www.rozee.pk. You can also contact us at support@rozee.pk.  
+   
+**Refund Policy**  
+All sales are final. Refunds are solely at the discretion of ROZEE.PK. For further details email refunds@rozee.pk
 
 Thank you for using ROZEE.PK. 
