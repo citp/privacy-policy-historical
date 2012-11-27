@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the readingcinemas.com.au privacy policy that was archived on 2012-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528055945id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readingcinemas.com.au privacy policy that was archived on 2012-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127090607id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     	<!--[if lt IE 7]>
@@ -31,7 +31,7 @@
 		<script type="text/javascript" src="http://readingcinemas.com.au/js/jquery-1.4.1.min.js"></script>
 		<script type="text/javascript" src="http://readingcinemas.com.au/js/cufon-yui.js"></script>
 		<script type="text/javascript" src="http://readingcinemas.com.au/js/Futura_Std_400-Futura_Std_700-Futura_Std_oblique_400-Futura_Std_oblique_700.font.js"></script>
-		<!--[if gte IE 8]> <script type="text/javascript"> Cufon.set('engine', 'canvas'); </script> <![endif]-->
+		<!--[if gte IE 9]> <script type="text/javascript"> Cufon.set('engine', 'canvas'); </script> <![endif]-->
 		<!--[if gte IE 9]> <script type="text/javascript"> Cufon.set('engine', 'canvas'); </script> <![endif]-->
 		<script type="text/javascript" src="http://readingcinemas.com.au/js/superfish.js"></script>
 		<script type="text/javascript" src="http://readingcinemas.com.au/js/iepngfix_tilebg.js"></script>
@@ -57,24 +57,44 @@
     <div class="login-box">
         <h2><span>REEL</span> Club Login</h2>
         <ul class="social-icons">
-			            <!--<li><a href="http://www.flickr.com/" target="_blank" class="flickr"></a></li>-->
+			<li><a href="https://facebook.com/readingcinemasaustralia" target="_blank" class="facebook" title="Facebook"></a></li><li><a href="http://www.youtube.com/ReadingsCinema" target="_blank" class="youtube" title="Youtube"></a></li>            <!--<li><a href="http://www.flickr.com/" target="_blank" class="flickr"></a></li>-->
         </ul>                           
         <div class="clearboth"></div>
 
-        		
-            <form action="https://readingcinemas.com.au/member_login" method="post" id="loginform" name="loginform">
+        			<script>
+			$(function(){
+				var p=0;
+				$('#loginform').submit(function(){
+					$email=$(this).find('#loginemail').val();
+					
+					 var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+			        if(reg.test($email)==false){
+						showPopup('<span style="color:red">Error</span','<p>The Email Address field must contain a valid email address.</p>');
+						return false;
+					}
+					else{
+						$('#sub_btn').hide().attr('disabled','disabled');;
+						$('#loading').show();
+						return true;
+					}
+				});
+			});
+			</script>
+			
+            <form action="https://readingcinemas.com.au/member_login" method="post" id="loginform" name="loginform" target="signin">
                 <div class="login-form">
                     <div class="login-form-inner">
-                        <input type="text" class="text" name="email" value="Email »" onfocus="clearText(this)" onblur="clearText(this)" autocomplete="off">
+                        <input type="text" class="text" id="loginemail" name="email" value="Email »" onfocus="clearText(this)" onblur="clearText(this)" autocomplete="off">
                         <input type="password" class="text" name="pwd" value="Pass »" onfocus="clearText(this)" onblur="clearText(this)" autocomplete="off">
                         <p><a href="http://readingcinemas.com.au/member_register">Register</a>&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;  <a href="http://readingcinemas.com.au/member_forget_password">Forgot Password</a></p>
 						
                     </div>
 
-                   <input type="submit" class="signinBtn">
-					
+                    <input type="submit" class="signinBtn" id="sub_btn">
+					<img src="http://readingcinemas.com.au/images/frontend/loading_profile.gif" style="display:none;width:94px;height:24px;" id="loading">
+
                 </div><!--end of login-form-->
-            </form>
+            </form><iframe src="" name="signin" style="width:1px;height:1px;float:left;"></iframe>
         		
     </div><!--end of login-box-->
 </div><!--end of header-->
@@ -191,6 +211,9 @@
 			<a href="http://readingcinemas.com.au/deals#Spit the Dummy" class="fBook">Spit the Dummy</a>
 			</li>
 			<li>
+			<a href="http://readingcinemas.com.au/deals#Reading Reel Club" class="fBook">Reading Reel Club</a>
+			</li>
+			<li>
 			<a href="http://readingcinemas.com.au/deals#Senior's Discount Card" class="fBook">Senior's Discount Card</a>
 			</li>
 			<li class="omega">
@@ -201,7 +224,7 @@
 	</ul>
 
 	<div class="searchBox">	
-		<form method="post" name="frm_sitesearch" id="frm_sitesearch">	
+		<form method="post" name="frm_sitesearch" id="frm_sitesearch" action="javascript:void(0);">	
 		<input class="textbox" name="sitesearch" autocomplete="off" id="sitesearch" value="Search.." type="text" onfocus="if (this.value==this.defaultValue) this.value='';">
 		
 		 <div class="suggestionsBox" id="suggestions" style="display: none;">
@@ -437,9 +460,11 @@
 
 							<div id="leftAd" class="fLeft">
 
-<a href="http://readingcinemas.com.au/movie/232" target="_self"><img src="http://readingcinemas.com.au/wpdata/images/3441-o.png" alt="AU MIB3 Competition"></a>
-<img src="http://readingcinemas.com.au/wpdata/images/3341-o.png" alt="AU Townsville closed for renovations">
-<a href="http://readingcinemas.com.au/movie/364" target="_self"><img src="http://readingcinemas.com.au/wpdata/images/3457-o.png" alt="AU Get The Gringo coming soon"></a>
+<a href="http://readingcinemas.com.au/giftideas" target="_blank"><img src="http://readingcinemas.com.au/wpdata/images/4593-o.png" alt="AU Seasonal Promo"></a>
+<a href="http://readingcinemas.com.au/public_competition/96" target="_self"><img src="http://readingcinemas.com.au/wpdata/images/4668-o.png" alt="AU Hobbit Competition"></a>
+<a href="http://readingcinemas.com.au/movie/375" target="_self"><img src="http://readingcinemas.com.au/wpdata/images/4663-o.png" alt="AU Skyfall combo"></a>
+<a href="http://readingcinemas.com.au/movie/291" target="_self"><img src="http://readingcinemas.com.au/wpdata/images/4624-o.png" alt="AU TTS: Breaking Dawn Part 2 Now Showing"></a>
+<a href="http://readingcinemas.com.au/movie/493" target="_self"><img src="http://readingcinemas.com.au/wpdata/images/4661-o.png" alt="AU Red Dawn"></a>
 </div>
 <style>  #leftAd img {  width:295px !important; height:auto !important;}</style>
 						</div><!--end of sidebar-->
