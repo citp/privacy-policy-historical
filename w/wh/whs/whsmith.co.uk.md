@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228224824id_/http%3A//www.whsmith.co.uk/Support/HelpSitePrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128005246id_/http%3A//www.whsmith.co.uk/support/HelpSitePrivacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | Using the site | Help | WHSmith
 
@@ -16,11 +16,11 @@ This information is collected and held securely. We use the SSL, the best securi
 
 Reputable third-party banking and distribution institutions process your orders. They also handle credit card and debit card transactions and order fulfillment. They too are under strict legal and contractual obligations to keep your personal information private. 
 
-For more information about our security and privacy policies, see [WHSmith.co.uk terms and conditions](https://web.archive.org/web/20111228224824id_/http%3A//www.whsmith.co.uk/Support/HelpSiteTerms.aspx) or complete our [contact form](https://web.archive.org/web/20111228224824id_/http%3A//www.whsmith.co.uk/Support/HelpContactUs.aspx).
+For more information about our security and privacy policies, see [WHSmith.co.uk terms and conditions](https://web.archive.org/web/20121128005246id_/http%3A//www.whsmith.co.uk/support/HelpSiteTerms.aspx) or complete our [contact form](https://web.archive.org/web/20121128005246id_/http%3A//www.whsmith.co.uk/support/HelpContactUs.aspx).
 
-**Advertising cookies**
+**Cookies**
 
-WHSmith.co.uk does not display ads. However, from time to time we may engage in advertising on other websites to promote this website. The advertising partners we use may serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk.](https://web.archive.org/web/20111228224824id_/http%3A//www.whsmith.co.uk/Support/www.youronlinechoices.co.uk)
+Cookies are small text files. Many websites place cookies on your computer when you visit. Cookies are used to make websites work, or to make them work more efficiently, and to provide useful information to website operators. The [table here explains what cookies we use and why](https://web.archive.org/web/20121128005246id_/http%3A//www.whsmith.co.uk/support/HelpSiteCookies.aspx). Many web browsers allow users to control most cookies through their browser settings. More information about cookies, including details on viewing what cookies have been set and how to delete them is available at allaboutcookies.org.
 
   
 
