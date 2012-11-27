@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackberryfreeware.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531213352id_/http%3A//www.blackberryfreeware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberryfreeware.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127040035id_/http%3A//www.blackberryfreeware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blackberry Freeware – Free Blackberry Software
 
