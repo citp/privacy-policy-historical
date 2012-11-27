@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeystreams.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520173343id_/http%3A//www5.hockeystreams.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeystreams.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127102936id_/http%3A//www4.hockeystreams.com/privacy_policy) for the most accurate reproduction.*
 
 # Hockey Streams - Privacy Policy
 
@@ -14,8 +14,9 @@ By using our Website you are agreeing to the terms of this Privacy Policy. If yo
 
 HockeyStreams™ will not collect any Personal Information about you (that is your name, address, telephone number, or email address) unless you provide it voluntarily. If you do not want your Personal Information collected do not submit it to us. 
 
-If you do submit Personal Information we will store and process that information to better understand your needs, offer certain products and services in connection with our Website; communicate to you; provide customer service; provide a personalized shopping experience; prevent fraud; fulfill your orders, including delivery and billing; complete payment method processing and improve our products and services.   
-,br /> Any Personally Identifiable Information submitted to use (for example: Name, Address, Phone Number, IP Address) are not shown to the public. The website administrators however do need to track this information.
+If you do submit Personal Information we will store and process that information to better understand your needs, offer certain products and services in connection with our Website; communicate to you; provide customer service; provide a personalized shopping experience; prevent fraud; fulfill your orders, including delivery and billing; complete payment method processing and improve our products and services. 
+
+Any Personally Identifiable Information submitted to use (for example: Name, Address, Phone Number, IP Address) are not shown to the public. The website administrators however do need to track this information.
 
 We will not distribute or sell your Personal Information to any outside company for marketing or solicitation of any product not affiliated with HockeyStreams™ and your Personal Information will only be used to support your relationship with HockeyStreams™ and its partners. 
 
