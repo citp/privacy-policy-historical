@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgamewallpapers.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504012027id_/http%3A//bestgamewallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgamewallpapers.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127015117id_/http%3A//bestgamewallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Game Wallpapers
 
