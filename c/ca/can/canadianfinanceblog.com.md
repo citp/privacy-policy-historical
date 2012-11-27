@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadianfinanceblog.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517165735id_/http%3A//canadianfinanceblog.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianfinanceblog.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127030502id_/http%3A//canadianfinanceblog.com/disclaimer) for the most accurate reproduction.*
 
-# Disclaimer and Privacy Policy – Canadian Finance Blog
+# Disclaimer and Privacy Policy - Canadian Finance Blog
 
 ### Disclaimer
 
