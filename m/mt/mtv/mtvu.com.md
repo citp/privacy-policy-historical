@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530015203id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172642id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | mtvu.com
+# PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS – | mtvu.com
+
+02.01.2007  by mtvU. 
 
 Last Modified: March 11, 2011
 
@@ -144,7 +146,7 @@ In the event that we, or our Affiliates, unknowingly sends an email or text mess
 
 **i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
 
-·         With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20120530015203id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+·         With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20121127172642id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
 
 See below for more information on removing Flash cookies.
 
@@ -274,4 +276,4 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 
 Copyright © 2011 MTV Networks On Campus Inc., a subsidiary of Viacom International Inc. – All Rights Reserved.
 
-**
+**** **
