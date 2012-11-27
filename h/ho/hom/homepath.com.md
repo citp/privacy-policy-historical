@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528070533id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127130335id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Fannie Mae
 
@@ -87,4 +87,4 @@ Fannie Mae
 Washington, DC 20016
 
 E-mail:  
- **[Privacy_WorkingGroup@fanniemae.com](mailto:Privacy_WorkingGroup@fanniemae.com?subject=Fannie%20Mae%20Online%20Privacy%20Notice)**
+ **[Privacy_WorkingGroup@fanniemae.com](https://web.archive.org/portal/jsp/contact-us-form.html?emailID=ten)**
