@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526030001id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127025554id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheContaminated - Cool Pictures, Weird Pictures, Funny Pictures
 
@@ -21,17 +21,17 @@ If you have any questions about this privacy statement, the practices of this si
 
 Amazing Stories
 
-#### [Top 5 Things Not To Miss in Prague](http://thecontaminated.com/top-5-things-not-to-miss-in-prague/ "Top 5 Things Not To Miss in Prague")
+#### [Visiting Thailand on a Budget](http://thecontaminated.com/visiting-thailand-on-a-budget/ "Visiting Thailand on a Budget")
 
-[](http://thecontaminated.com/top-5-things-not-to-miss-in-prague/ "Top 5 Things Not To Miss in Prague")
+[](http://thecontaminated.com/visiting-thailand-on-a-budget/ "Visiting Thailand on a Budget")
 
-Prague is an ancient city with full of contrasts. The large number of contrasts makes the city more interesting, appealing as well as more magical. The architectural splendors that every year invites ...
+Many people would love to visit Thailand but think that they would not be able to afford it. However, it is not worth giving up on the idea because there are always ways to make a budget stretch if yo...
 
-#### [9 Best Ever Investments](http://thecontaminated.com/9-best-ever-investments/ "9 Best Ever Investments")
+#### [The Biggest Online Poker hand Ever Played?](http://thecontaminated.com/the-biggest-online-poker-hand-ever-played/ "The Biggest Online Poker hand Ever Played?")
 
-[](http://thecontaminated.com/9-best-ever-investments/ "9 Best Ever Investments")
+[](http://thecontaminated.com/the-biggest-online-poker-hand-ever-played/ "The Biggest Online Poker hand Ever Played?")
 
-We have created for your delectation, a list of the 9 best investments ever. Given that this is such a broad topic (does Eisenhower’s decision to invest in rail count? Or is it just companies!?), an...
+People from all over the world play online poker for many different reasons. Some do it to while away a few hours each night and maybe see if they can make a few bucks. Some players never play for rea...
 
 Cool Stuff
 
