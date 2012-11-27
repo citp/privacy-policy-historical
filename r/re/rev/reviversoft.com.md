@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306035343id_/http%3A//reviversoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127225628id_/http%3A//reviversoft.com/company/privacy) for the most accurate reproduction.*
 
-# ReviverSoft | Privacy Policy
+# ReviverSoft Privacy Policy
 
-Effective Date: 08/22/2011
+Effective Date: 05/16/2012
 
 ReviverSoft, LLC's ("ReviverSoft") privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase ReviverSoft products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how ReviverSoft uses the information, and how we safeguard your Personal Information when you submit it to us at www.reviversoft.com. At ReviverSoft, protecting your privacy is important to us. After all, online privacy and security is what we're all about. **You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by ReviverSoft in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
 
@@ -96,7 +96,10 @@ For sales questions: sales@reviversoft.com
 For technical support: http://www.reviversoft.com/support/  
 Send all other correspondence to:
 
-ReviverSoft, LLC  
-2121 North California Blvd., Suite 290  
+ReviverSoft LLC  
+1875 Olympic Blvd., Suite 202.  
 Walnut Creek, CA 94596.  
-USA
+USA  
+[www.reviversoft.com](http://www.reviversoft.com/) | [Contact Us](mailto:suggestions@reviversoft.com?subject=Suggestions)  
+Copyright 2012 ReviverSoft LLC  
+All Rights Reserved 
