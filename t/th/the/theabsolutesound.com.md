@@ -1,49 +1,87 @@
-> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127181937id_/http%3A//www.theabsolutesound.com/privacy) for the most accurate reproduction.*
 
-# The Absolute Sound: Privacy Policy
+# Privacy Policy | The Absolute Sound
 
-[](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/index.html) |   
----|---  
----  
-[](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/index.html) | [](https://web.archive.org/current.html) | [](http://www.avguide.com/tas/subscribe.jsp) | [](https://www.avguide.com/tas/backissues.jsp) | [](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/reviews.html) | [](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/contact.html) | [](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/about.html)  
-  
-**Privacy Policy**
+###  **Introduction**
 
-We have great respect for your privacy. In order to keep you informed of our privacy practices concerning this website, we have provided the following privacy policy. If you have questions, please direct them to [our privacy handler](mailto:privacy@nFusion.com). 
+theabsolutesound.com (we” or “us”) values its visitors’ privacy. This privacy policy is effective June 18, 2012; it summarizes what information we might collect from a registered user or other visitor (“you”), and what we will and will not do with it.
 
-**Personal Information and Your Privacy**
+Please note that this privacy policy does not govern the collection and use of information by companies that theabsolutesound.com does not control, nor by individuals not employed or managed by theabsolutesound.com. If you visit a Web site that we mention or link to, be sure to review its privacy policy before providing the site with information.
 
-Our web site is dynamically personalized just for you. We collect demographic data based on your browsing choices, and also when you fill out your user profile on our site in order to help you find the information you are looking for. That demographic information will not be linked to you as an individual without your explicit consent in the registration process -- and you can register for a later contact without allowing us to link that information with you personally. The choice is yours, but we can serve you better the more you tell us about your needs. 
+###  What we do with your personally identifiable information
 
-Aggregate usage information for our website is collected and analyzed in order to help us improve the web site. This information is collected in aggregate form and is generally not associated with any personal information. We use the [Webtrends Live](http://www.webtrendslive.com/) software to track aggregate website usage, and our use of this information conforms to their [privacy policy](http://www.webtrendslive.com/privacy_policy.htm). 
+It is always up to you whether to disclose personally identifiable information to us, although if you elect not to do so, we reserve the right not to register you as a user or provide you with any products or services. “Personally identifiable information” means information that can be used to identify you as an individual, such as, for example:
 
-Personal information provided to us directly (for example, registering for our newsletter, or providing contact information so we can contact you) will not be sold or rented to any third party. We will use the information for our normal business operations, which may require that we provide it to administrators, consultants, vendors, or others operating on our behalf. Aggregate or demographic data may be shared with clients or consultants in aggregate form only. 
+•   your name, company, email address, phone number, billing address, and shipping address
 
-**Cookies**
+•   your theabsolutesound.com user ID and password (if applicable)
 
-Our website makes use of cookies to enable the personalized functionality of the site. These cookies do not contain any personally identifiable information. If you wish, you may configure your browser to reject cookies, though this may cause some website functions to be disabled. 
+•   credit card information (if applicable) 
 
-**Security**
+•   any account-preference information you provide us
 
-We are committed to keeping your personal information safe. We do not collect any personally sensitive information, aside from contact information. We do not knowingly collect information from children. 
+•   your computer’s domain name and IP address, indicatingwhere your computer is located on the Internet
 
-**Email**
+•   session data for your login session, so that our computer can ‘talk’ to yours while you are logged in
 
-We may occasionally send targeted mailings to specific market segments. Lists for electronic mailings are acquired only from legitimate opt-in vendors or existing customer lists. Lists for physical mailings are acquired from traditional sources. If you believe you were sent something in error, or are having trouble unsubscribing, please mail [our mail abuse handler](mailto:abuse@nFusion.com) to ensure that appropriate action can be taken. We use only opt-in lists, so if you didn't opt-in, we want to know! 
+If you do provide personally identifiable information to us, either directly or through a reseller or other business partner, we will:
 
-**Limitation of Scope**
+•   not sell or rent it to a third party without your permission — although unless you opt out (see below), we may use your contact information to provide you with information we believe you need to know or may find useful, such as (for example) news about our services and products and modifications to the Terms of Service;
 
-This policy is official only in regard to our website. It does not necessarily reflect privacy practices for other divisions of our organization, or other organizations with which we do business. 
+•   take commercially reasonable precautions to protect the information from loss, misuse and unauthorized access, disclosure, alteration and destruction;
 
-**Notification of Changes**
+•   not use or disclose the information except:
 
-We will make a good-faith effort to notify registered users via email if this policy changes. However, we reserve the right to make changes without notice. 
+•   as necessary to provide services or products you have ordered, such as (for example) by providing it to a carrier to deliver products you have ordered;
 
-**Questions**
+•   in other ways described in this privacy policy or to which you have otherwise consented;
 
-If you have questions about your privacy on our site, please contact our [privacy officer](mailto:privacy@nFusion.com). 
+•   in the aggregate with other information in such a way so that your identity cannot reasonably be determined (for example, statistical compilations);
 
-[Home](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/index.html) | [Current Issue](https://web.archive.org/current.html) | [Subscriptions](http://www.avguide.com/tas/subscribe.jsp) | [Back Issues](https://www.avguide.com/tas/backissues.jsp) | [Reviews](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/reviews.html) | [Contact Us](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/contact.html) | [About Us](https://web.archive.org/web/20060615173749id_/http%3A//theabsolutesound.com/about.html)
+•   as required by law, for example, in response to a subpoena or search warrant;
 
-  
+•   to outside auditors who have agreed to keep the information confidential;
 
+•   as necessary to enforce the Terms of Service;
+
+•   as necessary to protect the rights, safety, or property of theabsolutesound.com, its users, or others; this may include (for example) exchanging information with other organizations for fraud protection and/or risk reduction.
+
+###  Other information we collect
+
+We may collect other information that cannot be readily used to identify you, such as (for example) the domain name and IP address of your computer. We may use this information, individually or in the aggregate, for technical administration of our Web site(s); research and development; customer- and account administration; and to help us focus our marketing efforts more precisely.
+
+###  Cookies
+
+theabsolutesound.com uses “cookies” to store personal data on your computer. We may also link information stored on your computer in cookies with personal data about specific individuals stored on our servers. If you set up your Web browser (for example, Internet Explorer or Firefox) so that cookies are not allowed, you might not be able to use some or all of the features of our Web site(s).
+
+External data storage sites
+
+We may store your data on servers provided by third party hosting vendors with whom we have contracted.
+
+###  **Your privacy responsibilities**
+
+To help protect your privacy, be sure:
+
+•   not to share your user ID or password with anyone else;
+
+•   to log off the theabsolutesound.com Web site when you are finished;
+
+•   to take customary precautions to guard against “malware” (viruses, Trojan horses, bots, etc.), for example by installing and updating suitable anti-virus software.
+
+###  Notice to European Union users
+
+theabsolutesound.com ‘s operations are located primarily in the United States. If you provide information to us, the information will be transferred out of the European Union (EU) to the United States. By providing personal information to us, you are consenting to its storage and use as described herein.
+
+###  Information collected from children
+
+You must be at least 13 years old to use theabsolutesound.com Web site(s) and service(s). theabsolutesound.com does not knowingly collect information from children under 13. (See the U.S. Children’s Online Privacy Protection Act.)
+
+###  Changes to this privacy policy
+
+We reserve the right to change this privacy policy as we deem necessary or appropriate because of legal compliance requirements or changes in our business practices. If you have provided us with an email address, we will endeavor to notify you, by email to that address, of any material change to how we will use personally identifiable information.
+
+###  Questions or comments?
+
+If you have questions or comments about theabsolutesound.com‘s privacy policy, send email to support@theabsolutesound.com, or contact us via any of the ways described in the About Us page.
+
+Thank you for choosing theabsolutesound.com!
