@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614025009id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price2spy.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127091547id_/http%3A//www.price2spy.com/en/meta_navigation/privacy_refund_policy.html) for the most accurate reproduction.*
 
-# Price2Spy - Competitor price monitoring tool - Privacy Policy
+# Price2Spy - Competitor price monitoring tool - Privacy / Refund Policy
 
 This privacy policy sets out how WEBCentric uses and protects any information that you give WEBCentric when you use this website. 
 
@@ -52,4 +52,12 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ### Links to other websites
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+### Refund policy
+
+Since Price2Spy offers 30-day trial, we assume you have enough time test it's features and see their benefits to your business. 
+
+Therefore, we will accept refund requests only if it appears that Price2Spy cannot any longer monitor the sites it was able to monitor in your trial period. 
+
+Refund requests must be made up to 30 days after the payment.
