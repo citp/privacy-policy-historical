@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pickmonitor.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603104050id_/http%3A//www.line.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickmonitor.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127173055id_/http%3A//www.pickmonitor.com/privacy) for the most accurate reproduction.*
 
-# Line.com Privacy Policy
+# Pick Monitor Privacy Policy
 
-This privacy notice discloses the privacy practices for www.line.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for www.pickmonitor.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
@@ -58,4 +58,4 @@ This web site may contain links to other sites. Please be aware that we are not 
 
 From time-to-time our site may request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-**If you feel that we are not abiding by this privacy policy, you should[contact us immediately](http://www.line.com/contact).**
+**If you feel that we are not abiding by this privacy policy, you should[contact us immediately](http://www.pickmonitor.com/contact).**
