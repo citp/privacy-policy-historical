@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the nanohub.org privacy policy that was archived on 2012-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610052601id_/http%3A//nanohub.org/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nanohub.org privacy policy that was archived on 2012-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127225944id_/http%3A//nanohub.org/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-gb"><!--<![endif]--><head>
+<!DOCTYPE html><html dir="ltr" lang="en-gb" class="unknown unknown"><!--<![endif]--><head>
 		<link rel="stylesheet" type="text/css" media="screen" href="/templates/zepar/css/main.css">
 		<link rel="stylesheet" type="text/css" media="print" href="/templates/zepar/css/print.css">
 		
@@ -16,7 +16,8 @@
   <title>nanoHUB.org - Privacy Policy</title>
   <link href="/templates/zepar/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/templates/zepar/html/mod_reportproblems/mod_reportproblems.css?v=1328196037" type="text/css">
-  <script type="text/javascript" src="/media/system/js/jquery.js"></script>
+  <link rel="stylesheet" href="/modules/mod_notices/mod_notices.css?v=1349877889" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/jquery.js"></script>
   <script type="text/javascript" src="/media/system/js/jquery.ui.js"></script>
   <script type="text/javascript" src="/media/system/js/jquery.fancybox.js"></script>
   <script type="text/javascript" src="/media/system/js/jquery.tools.js"></script>
@@ -32,7 +33,19 @@
 		<![endif]-->
 	</head>
 	<body>
-		
+		<div id="sitenotice" class="modnotices low">
+	<p>
+		The nanoHUB maintenance is complete.  <!--Scheduled maintenance on the Coates and Rossmann clusters is now complete.  Thank you for your patience.--><!--Some nanoHUB simulation jobs may be adversely affected by scheduled maintenance that will bring down the Coates and Rossmann clusters from 8 AM EDT (12:00 UTC) on Monday October 8, 2012 through 6PM EDT (22:00 UTC) on Tuesday October 9, 2012.  We apologize for any inconvenience.--><!--Scheduled maintenance:  nanoHUB.org is due to be rebooted on Tuesday, September 11, 2012 at about 7am EDT (11:00 UTC).  It will take about 30 minutes.  Sessions will be preserved;  however they will be inaccessible during the reboot.  SSH connections to tools, using Virtual SSH, will be severed but can be re-established afterwards.--><!--Scheduled maintenance is now complete.  Thank you for your patience.--><!--Scheduled maintenance:  nanoHUB tools may experience a brief outage on Thursday, August 16, 2012 from 11am-11.30am EDT (15:00-15:30 UTC).  Open tool sessions may be terminated and new sessions may not complete successfully during this time window.  Please plan accordingly.  We apologize for any inconvenience.--><!--There is a scheduled outage that will affect nanoHUB.org simulation runs from Tuesday, May 15, 2012 at 6am EDT (10:00 UTC) until Thursday, May 17, 2012 at 5pm EDT (21:00 UTC). This outage will affect simulation jobs running on the Rossmann and Coates machines. Further details about affected tools can be found <a href="/topics/outage">HERE.</a>   We apologize for the inconvenience.--><!--The scheduled maintenance is now complete.  Thank you for your patience.--> <!--The Rossmann and Coates machines will be offline from Friday August 5 at 5pm EDT (21:00 UTC) until Wednesday August 17. The Steele Cluster will be offline from Monday August 8 at 8am EDT (12:00 UTC) until Tuesday Aug 9 at 7pm EDT(23:00 UTC). Simulation jobs sent to these machines will not run during the outage. Jobs sent to Rossmann and Coates will run on Steele until the 17th. Further details about affected tools can be found <a href="/topics/outage">HERE.</a>   We apologize for the inconvenience.-->
+
+<!--A new VNC proxy technology solving some firewall issues for tools will be tentatively deployed today, Monday July 25.  Most users should not notice any difference.  Rarely, a few users may experience intermittent issues when starting tools;  if you are affected, please let us know.  Your browser and Java versions would be useful;  we appreciate your patience and assistance in tracking any issues.-->
+ <!--nanoHUB.org tools and home directories will be unavailable from 7:30am EDT to approximately 3:00pm EDT today (July 14, 2011), for the installation of a new file server.  All tool sessions will be shut down.  We apologize for the inconvenience.--><!--nanoHUB.org was unavailable earlier this morning because of a filesystem outage. We apologize for the inconvenience.--><!--Certain nanoHUB simulation programs will be unavailable for a few minutes today for a system reboot.  The set of programs that are affected is listed <a href="/topics/outage">HERE.</a>   We apologize for the inconvenience.-->
+<!--Today's maintenance has been completed.-->
+<!-- nanoHUB.org file services and applications will be unavailable from 8:00am EDT to approximately 9:30am EDT on Monday, March 21, 2011.  We apologize for the inconvenience. -->
+<!--nanoHUB.org was unavailable this morning because of a filesystem outage.  Additional outages may be necessary today.  We apologize for the inconvenience..-->
+<!--nanoHUB.org will be unavailable from 6:30am EST to approximately 11:00am EST on Thursday, December 2, 2010.  We apologize for the inconvenience.-->
+<!--Some nanoHUB services are still unavailable, we are working to restore these services as soon as possible.-->	</p>
+</div>
+
 		<div id="header">
 			<h1><a href="/" title="nanoHUB.org">nanoHUB.org</a></h1>
 		
@@ -108,8 +121,16 @@
 						</label>
 <label for="captcha-answer">
 Please answer the question: <span class="required">required</span><br>
-	What is the sum of 0 and 4?	<input type="text" name="captcha[answer]" id="captcha-answer" value="" size="3" class="option">
-	<input type="hidden" name="captcha[krhash]" id="captcha-krhash" value="542e7">
+	Sharks live in...
+	<select name="captcha[answer]" id="captcha-answer">
+		<option value="">- Select an answer -</option>
+		<option value="Beer barrels">Beer barrels</option>
+		<option value="Greenhouses">Greenhouses</option>
+		<option value="Apricots">Apricots</option>
+		<option value="The Sea">The Sea</option>
+		<option value="House">House</option>
+	</select>
+	<input type="hidden" name="captcha[krhash]" id="captcha-krhash" value="58751">
 </label>
 <input type="hidden" name="captcha[instance]" id="captcha-instance" value="0">
 						<label id="trBotcheck-label" for="trBotcheck">
@@ -135,8 +156,8 @@ Please answer the question: <span class="required">required</span><br>
 						<input type="hidden" name="problem[tool]" value="">
 						<input type="hidden" name="problem[os]" value="unknown">
 						<input type="hidden" name="problem[osver]" value="">
-						<input type="hidden" name="problem[browser]" value="mozilla">
-						<input type="hidden" name="problem[browserver]" value="5.0">
+						<input type="hidden" name="problem[browser]" value="unknown">
+						<input type="hidden" name="problem[browserver]" value="">
 						<input type="hidden" name="verified" value="0">
 						<input type="hidden" name="reporter[org]" value="">
 						<input type="hidden" name="option" value="com_support">
@@ -254,6 +275,17 @@ Please answer the question: <span class="required">required</span><br>
 			</ul>
 		</div><!-- / #footer -->
 		</div><!-- / #wrap -->
-		
+		<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-4210163-3']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
 	
 </body></html>
