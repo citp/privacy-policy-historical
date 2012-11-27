@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the ostraining.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615170356id_/http%3A//www.ostraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ostraining.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127230015id_/http%3A//www.ostraining.com/privacy) for the most accurate reproduction.*
 
-# OSTraining.com Privacy Policy - OSTraining
+# Privacy Policy - OSTraining
 
-OSTraining.com Privacy Policy  
-  
 We at Open Source Training LLC (“OSTraining,” “Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the ostraining.com site (the “Website”) or any related services offered by the Company (the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the OSTraining Terms and Conditions which can be found at <http://ostraining.com/terms>.
 
 ### i. What Does This Privacy Policy Cover?
