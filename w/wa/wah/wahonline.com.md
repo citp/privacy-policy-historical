@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahonline.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521180559id_/http%3A//www.wahonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahonline.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127182217id_/http%3A//www.wahonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Kenny's MLM Success Secrets
 
@@ -129,3 +129,5 @@ APPLICABLE LAW
 Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).  
 COPYRIGHT AND LICENSE  
 This “Privacy Policy” is copyrighted © 2009 Rione X IP Group LLC and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, visit our website at http://www.internetlawcompliance.com.
+
+### Share and Enjoy
