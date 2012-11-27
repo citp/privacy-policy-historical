@@ -1,73 +1,65 @@
-> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510001513id_/http%3A//www.12fly.com.my/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127085844id_/http%3A//www.12fly.com.my/privacy-policy) for the most accurate reproduction.*
 
-# 12fly.com.my Travel: Discount airfare, flights, hotels, vacations packages and more
+# Privacy Policy
 
-## Privacy & Security Policy  
-  
----  
-  
-### Privacy Policy  
-  
-#### Information We Request
+“12FLY” provides this Privacy Policy to inform users of this mobile application (the “App”, and collectively with the Site, the "Services") about our policies and procedures regarding the collection, use and disclosure of personally identifiable information.
 
-You will NOT be asked for any personal details that are irrelevant to contacting you. All we need to know are the details that are necessary to carry out your travel reservations.The type of personal information we request are: (1). Username and Password (2). Name (3). Address (4). Gender (5). Date of birth (6). Nationality (7). Email address (8). Telephone number (9). Fax Number (10). Credit Card Information (name of cardholder, credit card number and expiry date) (11). Travel details, including (a). proposed check-in and check-out dates (b). number of rooms required (c). proposed pick-up and drop-off dates & time, (d). flight information - flight number, arrival and departure time, (e). number of passengers, (f). name(s), date(s) of birth, nationality, gender, telephone number, email address, passport number of all passengers We request this information when you register as a member, make reservations for our products or services, utiliz our online services (such as sending eCards or Member Incentive Program), request for our newsletter or participate in our special programs and online contests.  
-  
-#### Use Of Your Information
+**Changes**
 
-We use the information you provide for one or more of the following purposes: (a). To process your travel reservation purchases and confirm your travel arrangements; (b). To improve our content, service and product offerings; (c). To enhance our service to you the next time you visit our site by providing you with the most personalized Web experience possible; (d). To send you periodic newsletters which contain new services, special offers and promotions should you request it. (e). To fulfill your request when you use our eCard or Member Incentive Program services; (f). To post your messages on Travel Board or on our Feedback service; (g). To provide you with customer support should you request it; (h). To statistically analyze site usage; (i). To improve our marketing and promotional efforts; (j). In specific situations, to resolve disputes, troubleshoot problems and enforce our User Agreement. We share your information with outside parties including our service providers (for example, hotels, tour and transfer operators, airlines, cruise operators) and third-party intermediaries (for example, credit card companies and banks) as they are information essential to processing your travel reservations.  
-  
-#### Demographic Information
+This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site, and by email if you have provided us with your email address. The changes shall take effect after we post or otherwise notify you about the changes. You are advised to consult this Privacy Policy regularly for any changes.
 
-Please note that we may also provide aggregate demographic statistics about our customers to third parties but these statistics will never ever identify any single user.  
-  
-#### How We Protect Your Information
+**Your Consent**
 
-All of your 12fly.com.my account management activities are conducted through the most advanced security systems that guarantee communication between your browser and the Tourstech Solutions Sdn Bhd servers is encrypted to ensure that no other party can intercept your personal information. 12fly.com.my uses the industry-standard encryption method Secure Socket Layer (SSL) protocol to protect your information.
+By using the Services, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in Malaysia. If you reside outside the Malaysia, your personally identifiable information will be transferred to Malaysia, and processed and stored there under Malaysia privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in Malaysia.
 
-Other than the purposes and parties aforementioned, your personal information will not be provided to spammers, advertisers, direct marketing companies or any other unsolicited mailers, without your consent.  
-  
-#### Newsletters and Updates
+**Information Collection**
 
-You can always decline to receive our periodic newsletters or updates by clicking the "Unsubscribe" button at the bottom of the newsletter, or unchecking the newsletter box when you register or by indicating your preference in your account.  
-  
-#### Contests and Promotion
+Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Services unless you register with us. When you register with us and use the Services, you provide information about yourself. Depending on how you use the Services, such information that you provide to us may include: (a) your name, email address, age (to comply with legal requirements), user name, password and other registration information; (b) your interaction with the Services and advertisements; (c) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (d) information you provide us when you contact us for help; (e) credit card information and (f) information you enter into our system when using the Services, such as contact information and project management information.
 
-We run contests and promotions on our site in which we ask visitors for contact information (such as their email address). We use this information to contact the winners. In addition, we occasionally participate in or conduct joint contests and promotions with third parties. In these instances, certain information such as name and contact information are shared with the third parties for contest or promotion eligibility verification purposes or for the selection of winning entries, or to ship prizes and promotional material to those who enter. Whenever we participate in such a contest or promotion, we explicitly state which third party will receive the information. Visitors can elect not to share their information with third parties by not participating in these promotions. Visitors who do elect to share information with third parties must contact the third party directly to opt out of receiving future mailings from the third party. Should yo be chosen as a winner or have purchased any of our promotional packages, you must consent to the disclosure of your personal information for publicity purposes.  
-  
-#### Links To Other Sites
+In addition, we may collect certain information that cannot be used to personally identify any user, and may be provided to third parties. Such non-personal data ordinarily includes aggregate, summary, or other usage data, and may include, by way of example, statistics regarding total users, information regarding types of Internet browsers used by users, and widget usage patterns. We also collect non-personal data about each users IP address to help diagnose problems with our server, and to administer our Services.
 
-Please note that our site links to other sites and that the privacy policies of these sites may differ from ours. We advise you to check the privacy policies of other Web sites before disclosing any personal information. In any event, please note that these sites do not share your personal information with us. 
+We do not access or store information that you have saved on your mobile device such as contacts and appointments. Although in order to provide the Services, our Applications may interact with some features on your mobile device, such as your calendar and e-mail applications, all processing occurs on the mobile device itself, and no information is transferred to 12FLY.
 
-Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our Web site. In these cases you are no longer on 12fly.com.my and are now on a different Web site whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used. You can always know what site you are on by checking the location bar within your browser.  
-  
-#### Cookies
+**Links; Third-Party Applications**
 
-Usage of a cookie is in no way linked to any personally identifiable information while on our site. Our Web site requires the use of cookies purely for programming purposes. We use cookies as a mechanism to remember the information that is selected from one page to another. This allows you to leave a search page with information you have selected, come back later, and still have the search preferences intact. If you switch off your cookies, you will still be able to browse the site without problems.  
-  
-#### Logging
+The Services may include links or otherwise allow you to access and submit information to third-party applications or sites. This Privacy Policy applies to the Services only. Any information you submit to linked sites or other applications will be subject to the privacy policies of those sites or applications, if any.
 
-Our Web site automatically logs the following information: (a). your IP address; (b). the browser type; (c). the domain name(s); and (d). access time(s). This information is used to analyze trends and do not link to your personal information. Please note that we may also provide aggregate statistics to third parties but these statistics will never ever identify any single user.  
-  
-#### Change / Modify Personal Information
+**Use of Information**
 
-12fly.com.my gives you the opportunity to review, correct or update your account information. You can do this by accessing the home page and clicking on the member login button. Your account is password-protected so that only you can access it and view the member information relevant to your account. Please note that we do not retain your credit card information online, as such you will not be able to access, correct or update it.  
-  
-#### Changes To Privacy Policy
+We may track usage data and user traffic patterns throughout our Site to improve the content of our Site and the quality of our service. We may use your information (a) to deliver the Services and features desired by you, (b) to improve our services to you, (c) to personalize content and offers that may be of interest to you, (d) to respond to your inquiries, and (e) to fulfill your request for products or services. 
 
-If we change our privacy policy, we will post our new policy on this page so that you are always informed of the way that we use information we collect. Your continued use of our Web site following the posting of changes to these terms will mean you accept those changes. Regardless of later updates, we will never use the personally identifiable information you submit under this current policy in a new way without first notifying you and providing you with an opportunity to opt out or otherwise prevent that use.  
-  
-#### Notices
+We do not share personal identifying information collected on the Services, including email addresses, with third parties for their direct marketing or solicitation. We will use your contact information to contact your from time to time to provide you with important information or required notices. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
 
-We will post a notice on the site when we make any changes in our Privacy Policy. This Privacy Policy contains an effective date of when it was last changed. You will need to check the Privacy Policy to see if the date has changed since your last visit. We may amend or update our Privacy Policy at any time to reflect changes to our business practices. In the event that you do not approve of the changes, you may direct requests to enquiry@12fly.com.my to deactivate your account or "opt-out" of proceeding with the services of the site. Your continued use of our Web site following the posting of changes to these terms will mean those changes are accepted.  
-  
-#### Disclaimer
+**Cookies**
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.  
-  
-#### How To Contact Us
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. 12fly uses cookies to help identify and track visitors, their usage of 12fly websites, and their website access preferences. 12fly visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using 12fly's Services, with the drawback that certain features of our Services may not function properly without the aid of cookies.
 
-If you have any questions regarding security and privacy issues, please contact us at enquiry@12fly.com.my  
-  
-### Security Policy  
-  
-To ensure that every transaction made on 12fly.com.my is safe, we use the most advanced encryption technology. Our secure server encrypts all of your personal information (including name, address, credit card number and travel itinerary) so that it cannot be read as the information travels over the Internet. The advanced technology employed by 12fly.com.my makes it virtually impossible for our users' credit card information to be used fraudulently. However, in the unlikely event that you encounter unauthorized travel charges on your credit card statement as a result of purchases made online, you should follow the reporting procedures outlined by your credit card provider and contact us immediately. 
+**Advertising**
+
+Advertisements that appear on the Services are delivered to users by our advertisers. We may from time-to-time use advertising network providers to help present advertisements on the Services. In the event we use such advertising networks on the Services, we will list such network here. Since our use of advertising networks may change form time-to-time, we encourage you to review this privacy policy periodically for changes. Advertisers and ad networks use cookies, web beacons or similar technologies on your browser to help present offers, better target and measure the effectiveness of their advertisements by using data gathered on an anonymous basis over time and across their network of Web pages to determine the preference of their audiences. These cookies and web beacons do not collect any personal information from your computer, such as your e-mail address. The use of cookies and web beacons by advertisers and ad networks is subject to their own privacy policies. In the event we use advertising networks, you will have the opportunity to find out more about ad network providers and the choices you have about these technologies.
+
+**Children**
+
+We do not use the Services to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [app@12fly.com.my](mailto:app@12fly.com.my). We will delete such information from our files.
+
+**Acquisition**
+
+We reserve the right to transfer your personal information in the event of a transfer of ownership of 12FLY, such as an acquisition by or merger with another company. If an acquiring company should plan to materially change this privacy policy, we will notify you beforehand.
+
+Managing Your Personal Data
+
+In the event you desire to discontinue the Services and have your information removed from our systems, please send your request to [app@12fly.com.my](mailto:app@12fly.com.my).
+
+**Security**
+
+12fly is very concerned about safeguarding the confidentiality of your personally identifiable information. We require physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to authorized employees who need to know that information in order to operate, develop or improve our services. Please be aware that, although we endeavor to provide reasonable security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of personal data or non-personal data arising in connection with the theft thereof. Likewise, you are responsible for safeguarding the confidentiality of any usernames and passwords to the Services, and we bear no liability for access to, or use or disclosure of personal data if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of such user's password.
+
+**How to Contact 12FLY**
+
+If you have any questions or concerns about this Privacy Policy or its implementation, or if you believe there are inaccuracies in your account information you may contact us as follows:
+
+12FLY
+
+21 Jalan Tung Shin, 50200 Kuala Lumpur, Malaysia
+
+Email: [app@12fly.com.my](mailto:app@12fly.com.my)
