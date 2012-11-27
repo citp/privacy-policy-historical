@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503024202id_/http%3A//www.course-notes.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the course-notes.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127154544id_/http%3A//course-notes.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Course-Notes.Org
 
@@ -49,4 +49,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-In addition, the above website adheres to the following Privacy Policy as stated on the Network Advertising Initiative page: http://www.networkadvertising.org[](http://www.networkadvertising.org/index.asp)
+In addition, the above website adheres to the following Privacy Policy as stated on the Network Advertising Initiative page: [http://www.networkadvertising.org](http://www.networkadvertising.org/)[](http://www.networkadvertising.org/index.asp)
