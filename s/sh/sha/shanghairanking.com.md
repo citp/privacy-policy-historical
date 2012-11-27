@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shanghairanking.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609043659id_/http%3A//www.shanghairanking.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghairanking.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127112606id_/http%3A//www.shanghairanking.com/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,4 @@ We will continue to invest in high-quality security and do our utmost to protect
 ### Contacting the SHANGHAIRANKING.COM  
 
 
-If you have any questions or comments about this Privacy Policy or any other aspects of this Web site, please contact us via email at [shanghairanking@gmail.com](mailto:shanghairanking@gmail.com).
+If you have any questions or comments about this Privacy Policy or any other aspects of this Web site, please contact us via email at [contact@shanghairanking.com](mailto:contact@shanghairanking.com).
