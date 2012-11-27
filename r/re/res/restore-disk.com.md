@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restore-disk.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509004857id_/http%3A//www.restore-disk.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restore-disk.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127123218id_/http%3A//restore-disk.com/Privacy.html) for the most accurate reproduction.*
 
 # Restore-Disk.com Privacy
 
