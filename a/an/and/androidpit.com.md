@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidpit.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221030450id_/http%3A//www.androidpit.com/en/android/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidpit.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128004111id_/http%3A//www.androidpit.com/privacy) for the most accurate reproduction.*
 
 # Android Apps, Tests, Blog, News and Forum - AndroidPIT
 
@@ -25,4 +25,4 @@ Greifswalder Str. 207
 10405 Berlin  
 Germany 
 
-Phone: +49 / 30 / 64836622 
+Phone: +49 / 30 / 60985754 
