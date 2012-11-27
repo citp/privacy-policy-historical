@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the appsumo.com privacy policy that was archived on 2012-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528151043id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appsumo.com privacy policy that was archived on 2012-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127174809id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-      <link href="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/styles/global6.css" rel="stylesheet" type="text/css">
-      
-      <link href="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/styles/global6-global4compatible.css" rel="stylesheet" type="text/css">
+      <link href="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/styles/global6.css" rel="stylesheet" type="text/css">
+      <link href="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/styles/global6-global4compatible.css" rel="stylesheet" type="text/css">
       
     
     <style></style>
     <link rel="alternate" type="application/rss+xml" title="Active Deals" href="/active.rss">
     
-      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
-      <script type="text/javascript" src="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/js/jquery.placeholder.min.js"></script>
-      <script type="text/javascript" src="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/js/jquery.mailcheck.min.js"></script>
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/js/jquery-1.7.2.min.js"></script>
+      <script type="text/javascript" src="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/js/jquery.placeholder.min.js"></script>
+      <script type="text/javascript" src="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/js/jquery.mailcheck.min.js"></script>
+      <script type="text/javascript" src="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/js/bootstrap-modal.js"></script>
+      <script type="text/javascript" src="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/js/bootstrap-tooltip.js"></script>
     
     
     <script type="text/javascript">
@@ -72,6 +73,19 @@
         return false;
       }
 
+      function lns_click(loc, ssmsg, url, title) {
+        loc = loc || '';
+        ssmsg = ssmsg || '';
+        url = url || encodeURIComponent(location.href);
+        title = title || encodeURIComponent(document.title);
+        var width = 600;
+        var height = 382;
+        var shareurl = 'http://www.linkedin.com/shareArticle?mini=true&url='+url+'&title='+title+'&summary=&source=AppSumo';
+        window.open(shareurl, '_blank', 'toolbar=0,status=0,width='+width+',height='+height);
+        $.getJSON("/sumostats/p/lnkdshare/"+loc+"/"+ssmsg,function(data){});
+        return false;
+      }
+
       var AppSumo = {
         canshare: true,
         authTw: function() {
@@ -107,7 +121,6 @@
         },
         emailshare: function(event) {
           if (AppSumo.canshare) {
-            console.log(event);
             window.loc = $(event.currentTarget).attr('location') ? $(event.currentTarget).attr('location') : '';
             window.ssmsg = $(event.currentTarget).attr('ssmsg') ? $(event.currentTarget).attr('ssmsg') : '';
             $.getJSON("/sumostats/p/emailshare/"+window.loc+"/"+window.ssmsg,function(data){});
@@ -125,14 +138,37 @@
               AppSumo.canshare = true;
             }, 4000);
           }
+        },
+        
+        happiness: function(score) {
+          if (score) {
+            $.getJSON("/account/happiness_ajx/?score=" + score, function(data) {
+            });
+            var states = ['bad', 'disappointing', 'ok', 'good', 'amazing'];
+            $('#happiness_question').text(states[score-1]);
+            $('#happiness_rating').val(score);
+            $('#HappinessPopover').modal('show');
+          } else {
+            window.location='http://www.appsumo.com/happy/';
+          }
+        },
+        
+        happinessSubmit: function(score) {
+          var score = $('#happiness_rating').val();
+          var reason = $('#happiness_reason').val();
+          $.post("/account/happiness_ajx/",
+            {
+              'score': score,
+              'reason': reason
+            },
+            function(data) {
+              $('#HappinessPopover').modal('hide');
+              $('.happy').hide();
+            },
+            "json"
+          );
         }
       }
-      $(document).ready(function(){
-        //$('.twitter_share').click(function(){AppSumo.twittershare();});
-        $('.linkedin_share').click(function(){AppSumo.lnkdshare();});
-        $('.email_share').click(function(event){AppSumo.emailshare(event);});
-      });
-      
       
     </script>
     <meta name="google-site-verification" content="u_j4WV2p0-VICaT8L3GSlVmUNb_9_W-cb7Y9aBr3Dv0">
@@ -142,10 +178,10 @@
     <meta name="keywords" content="AppSumo, AppSumo.com, Entrepreneurs, Store for Entrepreneurs, Tools, Education, Deals, Startups, Lean, Lean Startups">
     <title>Privacy Policy</title>
     <meta property="og:title" content="AppSumo: The Store for Entrepreneurs">
-    <meta name="description" content="AppSumo focuses on two core beliefs: A good Education and the best Tools make your job easier. We want to teach every entrepreneur and give them the tools they need.">
-    <meta property="og:description" content="AppSumo focuses on two core beliefs: A good Education and the best Tools make your job easier. We want to teach every entrepreneur and give them the tools they need.">
-    <link rel="image_src" href="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/images/v3/appsumo-with-bg.png">
-    <meta property="og:image" content="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/images/v3/appsumo-with-bg.png">
+    <meta name="description" content="AppSumo promotes great products to help you in your career and life.">
+    <meta property="og:description" content="AppSumo promotes great products to help you in your career and life.">
+    <link rel="image_src" href="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/images/v3/appsumo-with-bg.png">
+    <meta property="og:image" content="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/images/v3/appsumo-with-bg.png">
     <meta property="og:type" content="">
     
     
@@ -179,12 +215,16 @@
             
               <div class="navigation">
                 <ul>
-                  <li class="first "><a href="/featured/" title="Featured Deal">Featured Deal</a></li>
-                  <li><a href="/free/" title="Free Deals">Free Deals</a></li>
-                  <li><a href="/all/" title="All Deals">All Deals</a></li>
-                  <li><a href="/suggest/" title="Suggest Deals">Suggest Deals</a></li>
-                  <li><a href="/giveaways/">Giveaways</a>
-                  </li><li class="last"></li>
+                  <li class="first "><a href="/" title="Featured Deal">Featured Deal</a></li>
+                  
+                    <li><a href="/all/" title="All Deals">All Deals</a></li>
+                  
+                  
+                    <li><a href="/suggest/" title="Suggest Deals">Suggest Deals</a></li>
+                  
+                  
+                  
+                  <li class="last"></li>
                 </ul>
                 <!-- <span>Talk to us 415 886 SUMO</span> -->
                 
@@ -200,35 +240,32 @@
                   </ul>
                 
               </div>
-            
-      
+
+              
+
             
           </div>
         </div>
+
         <div class="header-filler"></div>
         
           <!-- Search bar -->
           <div class="content" style="padding-bottom:0px;height:54px;">
             <form method="GET" action="/search/">
-              <input type="text" name="q" id="search" placeholder="Search AppSumo…" title="Search AppSumo…" value="" style="width:343px;">
+              <input type="text" name="q" id="search" placeholder="Search AppSumo…" title="Search AppSumo…" value="" style="width:345px;">
               <button type="submit" name="" class="search-bt"></button>
             </form>
-            
-            <div class="search-extra">
-              
-                <a style="line-height: 48px;">AppSumo loves you.</a>
-                <span style="vertical-align: middle; padding: 8px 0 0 18px;">
-                  <iframe src="//www.facebook.com/plugins/like.php?href=facebook.com%2Fappsumo&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=191053347589442" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:20px;" allowtransparency="true"></iframe>
-                  <a href="https://twitter.com/appsumo" class="twitter-follow-button" data-link-color="559DAF" data-width="130px" data-show-count="false">follow @appsumo</a>
-                </span>
-                <div class="search-border"></div>
-               
+            <div class="search-extra"><div class="happy">Happy?<a class="bt-happy-start" href="javascript:void(0);"></a><a class="bt-happy-arrow" href="javascript:void(0);"></a><div class="happy-buttons"><a class="bt-happy-mad" href="javascript:void(0);" onclick="AppSumo.happiness(1);" rel="tooltip" title="I hated my AppSumo experience today"></a><a class="bt-happy-meh" href="javascript:void(0);" onclick="AppSumo.happiness(2);" rel="tooltip" title="Today's AppSumo experience was disappointing"></a><a class="bt-happy-neutral" href="javascript:void(0);" onclick="AppSumo.happiness(3);" rel="tooltip" title="AppSumo was 'ok' today"></a><a class="bt-happy-happy" href="javascript:void(0);" onclick="AppSumo.happiness(4);" rel="tooltip" title="I enjoyed my time on AppSumo today"></a><a class="bt-happy-love" href="javascript:void(0);" onclick="AppSumo.happiness(5);" rel="tooltip" title="AppSumo ROCKED IT today!"></a><a class="bt-happy-question" href="javascript:void(0);" onclick="AppSumo.happiness(0);" rel="tooltip" title="What is this about?"></a></div></div><div class="happy-submitted" title="Project Happiness" onclick="AppSumo.happiness(0);" style="display:none;">Thank you! <span class="rating"></span></div>
+              <span style="vertical-align: middle; padding: 8px 0 0 40px;">
+                <iframe src="//www.facebook.com/plugins/like.php?href=facebook.com%2Fappsumo&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=191053347589442" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:20px;" allowtransparency="true"></iframe>
+                <a href="https://twitter.com/appsumo" class="twitter-follow-button" data-link-color="559DAF" data-width="130px" data-show-count="false">follow @appsumo</a>
+              </span>
             </div>
+            <div class="search-border"></div>
           </div>
         
       </div>
-        
-      <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js#appId=191053347589442"></script></div>
+      <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
       <script>
         window.fbAsyncInit = function() {FB.init({appId: '191053347589442', status: true, cookie: true,
                    xfbml: true, channelUrl: document.location.protocol+'//'+document.location.host+'/static/fbchannel/channel.html'});
@@ -246,7 +283,7 @@
         };
         (function() {
           var e = document.createElement('script'); e.async = true;
-          e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#appId=191053347589442';
+          e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
           document.getElementById('fb-root').appendChild(e);
         }());        
       </script>
@@ -263,8 +300,9 @@
                     
                     
                     
-                    <div class="content"><div style="margin: 20px;">
-                      
+                    
+                      <div class="content"><div style="margin: 20px;">
+                        
 <h2>Privacy Policy</h2><br>
 
 <p>We WILL NEVER sell your email address to anyone. You can always unsubscribe from our lovely daily newsletter by clicking unsubscribe on the bottom right of the email.</p>
@@ -368,14 +406,16 @@ Austin, TX 78702<br>
 For Customers<br>
 Customer Service Inquiries | support@appsumo.com <br>
 
-                    </div></div>
+                      </div></div>
+                    
                   </td>
                 </tr>
               </tbody></table>
             </div>
           </div>
-          <div id="subscribe" style="margin: 10px 0 -10px 0; padding: 54px 0 0 0; height: auto;">
-          </div>
+          
+            <div id="subscribe" style="margin: 10px 0 -10px 0; padding: 44px 0 18px 0; height: auto;"></div>
+          
         </div>
       
 
@@ -396,8 +436,8 @@ Customer Service Inquiries | support@appsumo.com <br>
         <div class="wrapped">
           <div id="who-we-are">
             <span style="font-weight:bold;font-size:18px;">Who are you? What is this!?</span>
-            <p>AppSumo partners with people who make the coolest apps out there to offer you exclusive price deals on their products. Mom would approve.</p>
-            <p><img src="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/images/RS_PoweredByLogo-gray-appsumo.png" style="margin-top: 40px; width: 116px; height: 34px;"></p>
+            <p>AppSumo promotes great products to help you in your career and life.</p>
+            <p><img src="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/images/RS_PoweredByLogo-gray-appsumo.png" style="margin-top: 40px; width: 116px; height: 34px;"></p>
           </div>
           <div id="feedback">
             <h4>Tell us what deals you want!</h4>
@@ -413,13 +453,12 @@ Customer Service Inquiries | support@appsumo.com <br>
               <li><a href="/previous">Previous Deals</a></li>
               <li><a href="/business/">Partnership</a></li>
               <li><a href="http://blog.appsumo.com">Blog</a></li>
-              <li><a href="http://dir.appsumo.com">Web App Directory</a></li>
               <li><a href="/privacy/">Privacy Policy</a></li>
             </ul>
           </div>
           <div class="clear"></div>
         </div>
-        <a href="/ignore/" style="text-decoration: none; font-size: 0; line-height: 0;"><img src="https://s3.amazonaws.com/static.appsumo.com/ec44b2bb0f1fc911f2ec64c57d49e5d20e50682f/images/ignore.gif"></a>
+        <a href="/ignore/" style="text-decoration: none; font-size: 0; line-height: 0;"><img src="https://s3.amazonaws.com/static.appsumo.com/1d6afc532cc28c369d4264ea3798d72b03de4a20/images/ignore.gif"></a>
       </div>
     
 
@@ -443,8 +482,22 @@ Customer Service Inquiries | support@appsumo.com <br>
       </script>
     
 
+    <div class="modal hide fade" style="width:640px;margin-left:-320px;" id="HappinessPopover">
+      <div class="modal-header">
+        <a class="close" data-dismiss="modal">×</a>
+        <h3>What made your experience with AppSumo <span id="happiness_question">ok</span> today?</h3>
+      </div>
+      <div class="modal-body">
+        <input type="hidden" id="happiness_rating" value="">
+        <textarea id="happiness_reason" placeholder="Share your thoughts" style="height:144px;"></textarea>
+      </div>
+      <div class="modal-footer"><a href="#" class="bt-cancel" data-dismiss="modal"></a> <a class="bt-submit-answer" href="javascript:void(0);" onclick="AppSumo.happinessSubmit();" style="margin:0 0 0 10px;"></a></div>
+    </div>
+
+    <div style="position:absolute;z-index:10000;top:0px;left:0px;">
     
 
+    
     
     
       <!-- Google Code for Welcome Mat Visitors Remarketing List -->
@@ -468,5 +521,41 @@ Customer Service Inquiries | support@appsumo.com <br>
 
       
     
+    <script>
+      $(document).ready(function(){
+        $('div.happy').hover(function() {$('.happy').addClass('hover');}, function() {$('.happy').removeClass('hover');});
+        //$('.twitter_share').click(function(){AppSumo.twittershare();});
+        $('.linkedin_share').click(function(){AppSumo.lnkdshare();});
+        $('.email_share').click(function(event){AppSumo.emailshare(event);});
+
+        $('#HappinessPopover').on('shown', function() {
+          $('#HappinessPopover').css({'margin-top': function () {return -($(this).height() / 2);}});
+        }).on('hidden', function() {
+          var rating = $('#happiness_rating').val();
+          $('.happy').hide();
+          $('.happy-submitted .rating').removeClass().addClass('rating rating-' + rating);
+          $('.happy-submitted').show();
+        });
+
+        // Support for AJAX loaded modal window.
+        // Focuses on first input textbox after it loads the window.
+        $('[data-toggle="modal"]').click(function(e) {
+          e.preventDefault();
+          var href = $(this).attr('href');
+          if (href.indexOf('#') == 0) {
+            $(href).modal('open');
+          } else {
+            $.get(href, function(data) {
+              $('<div class="modal fade" >' + data + '</div>').modal();
+            }).success(function() { $('input:text:visible:first').focus(); });
+          }
+        });
+
+        if (!$('body').hasClass('ie7'))
+          $("[rel=tooltip]").tooltip();
+      });
+      
+    </script>
+    </div>
   
 </body></html>
