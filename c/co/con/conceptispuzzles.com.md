@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptispuzzles.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519160439id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptispuzzles.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127173505id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/220) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,7 +9,6 @@
   * Traffic statistics
   * Sharing statistics with the community
   * Cookies
-  * Facebook applications
 
 
 
@@ -35,18 +34,12 @@ Up
 
 ##  Sharing statistics with the community
 
-Some of the above statistical information as well as information provided in the Member profile form may be used for our own development and marketing purposes to improve the quality and fun of our puzzles. From time to time we may also share this information with our publishers and puzzle fans, in the form of [news items](https://web.archive.org/web/20120519160439id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info/news) containing statistical data about puzzling preferences, market trends and so on. All information in such cases will remain strictly anonymous.
+Some of the above statistical information as well as information provided in the Member profile form may be used for our own development and marketing purposes to improve the quality and fun of our puzzles. From time to time we may also share this information with our publishers and puzzle fans, in the form of [news items](https://web.archive.org/web/20121127173505id_/http%3A//www.conceptispuzzles.com/index.aspx%3Furi%3Dinfo/doc/index.aspx?uri=info/news) containing statistical data about puzzling preferences, market trends and so on. All information in such cases will remain strictly anonymous.
 
 Up
 
 ##  Cookies
 
 It is impossible to provide any advanced user based services nowadays without using Internet cookies. Thus, cookies must be turned on in your browser to register to Conceptis' community. The cookies are used to hold your username, password and viewing options, allowing you to login. For instructions on how to enable your cookies in your browser [see here](http://www.google.com/cookies.html).
-
-Up
-
-##  Facebook applications
-
-When using Conceptis Facebook applications for the first time you are required to allow access to a basic set of information from your Facebook account as specified in the application permission request. This information includes name, profile picture, gender, networks, User ID, list of friends and any other information you've shared with everyone. Conceptis' Facebook applications comply with both Conceptis Privacy statement and Facebook's Developer Policy [see here](http://developers.facebook.com/policy/).
 
 Up
