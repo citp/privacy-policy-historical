@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531223546id_/http%3A//myzone.org/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127171805id_/http%3A//www.myzone.org/privacy-policy/index.html) for the most accurate reproduction.*
 
 # MYZONE - Privacy Policy
 
@@ -10,7 +10,9 @@ _By "Myzone" we mean Myzone Limited and its subsidiaries and affiliates which in
 
 _We collect information from you when you register your Myzone belt on our site. We also collect information from Myzone facilities (health clubs, community hubs, schools or employers etc.)._ _
 
-When registering your Myzone belt on our website you will be asked to enter information including your name, e-mail address, date of birth, gender, height, weight, phone number and member/employee number (if applicable).
+When registering your Myzone belt on our website you will be asked to enter information including your name, e-mail address, date of birth, gender, height, weight, phone number and member/employee number (if applicable).In addition you may provide (either through manually inputting data or through the use of compatible devices) biometric data such as blood pressure, bone mass, fat mass, basal metabolic rate, waist circumference, fat free mass, total body water, visceral fat and metabolic age.
+
+If you have installed a Myzone application on a mobile phone device you may also capture images to record food consumption and, for users aged 18 or over, body shape. 
 
 Myzone facilities will be asked to provide their contact details including their telephone number, email address and Twitter account.
 
@@ -25,8 +27,7 @@ _The primary reason for requesting information is to personalise your experience
 • To improve our website(we continually strive to improve our website based on the information and feedback we receive from you)  
 • To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs)  
 • To administer a contest, promotion, survey or similar function. Note: you can unsubscribe from receiving marketing communications by contacting us in writing.  
-• To send periodic emails. The email address you provide will only be used to send you information and updates pertaining to your Myzone belt or matters which are believed may be of interest.
-
+• To send periodic emails. The email address you provide will only be used to send you information and updates pertaining to your Myzone belt or matters which are believed may be of interest.  
 • We request information from Myzone facilities so that they can register as a Myzone site owner, access the names of those that have registered belts at their facility, so they can communicate with them, and to enhance belt users’ experience of the Myzone system.
 
 _
@@ -59,9 +60,11 @@ _
 
  _ **Do we disclose any information to outside parties?**_
 
-_We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except in the following situations: _Subcontractors._ From time to time we may share information with subcontractors that provide us with services. These services include, among other things, assisting us in operating our website, conducting our business, or servicing you. We require our subcontractors to agree to keep the personal information that they receive confidential. _Your Facilities._ If you register or use your Myzone belt at a facility (health club, community hub, school or employer etc.), your information may be accessed by individuals engaged by those facilities (for example, so that they can deliver a service to you) and you expressly consent to your personal information being used in this manner. It must be noted that such individuals are not our employees or agents (except to the extent that they may collect in some situations consent to our privacy policies on our behalf) and you should satisfy yourself that the facility has procedures in place to protect your privacy (and, if applicable, the privacy of any child – see ‘Children’s Online Privacy’, below).To enable users to enjoy the Myzone experience it is mandatory and unavoidable for facilities to have access to personal information including the name, email address, gender, date of birth, belt ID, and maximum and resting heart rates of belt users. Facilities can also access data showing when belt users have participated in any class activity, the duration of such activity, and the amount of calories burnt. The facilities do not have access to any personal biometric data. **If you do not consent to facilities having access to such information you should not proceed with your belt registration.**_
+_We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except in the following situations: _Subcontractors._ From time to time we may share information with subcontractors that provide us with services. These services include, among other things, assisting us in operating our website, conducting our business, or servicing you. We require our subcontractors to agree to keep the personal information that they receive confidential. _Your Facilities._ If you register or use your Myzone belt at a facility (health club, community hub, school or employer etc.), your information may be accessed by individuals engaged by those facilities (for example, so that they can deliver a service to you) and you expressly consent to your personal information being used in this manner. It must be noted that such individuals are not our employees or agents (except to the extent that they may collect in some situations consent to our privacy policies on our behalf) and you should satisfy yourself that the facility has procedures in place to protect your privacy (and, if applicable, the privacy of any child – see ‘Children’s Online Privacy’, below).To enable users to enjoy the Myzone experience it is mandatory and unavoidable for facilities to have access to personal information including the name, email address, gender, date of birth, belt ID, and maximum and resting heart rates of belt users. Facilities can also access data showing when belt users have participated in any class activity, the duration of such activity, and the amount of calories burnt. The facilities do not have access to any personal biometric data unless you permit them to have such access._
 
 |   |  __Business Transition._ In the event that we, or substantially all of our assets, are acquired, your information will be transferred to the acquiring company. _Sharing Your Information with Law Enforcement._ We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of a person or entity. _Sharing Your Information as Permitted by Law._ We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.
+
+You may Choose to Share your Information. You may choose to grant permission to 1) your facility so that they can view your biometric data and 2) your friends and trainers etc. by reference to their email address so that they can view one or more of your activities, food diary, biometrics and (provided you are aged 18 or over) body images.
 
 Notwithstanding the above, we may provide anonymised (non-personally identifiable) information to other parties for marketing, advertising, or other uses.
 
@@ -91,9 +94,9 @@ _By registering your Myzone belt and by Myzone facilities registering their faci
 
  _ **Changes to our Privacy Policy**_
 
-_If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
+_If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes or display a message on our website, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 08/03/12.
+This policy was last modified on 05/06/12.
 
 _
 
