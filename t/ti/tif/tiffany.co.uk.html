@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tiffany.co.uk privacy policy that was archived on 2012-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120529175028id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tiffany.co.uk privacy policy that was archived on 2012-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127182936id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" xml:lang="en-GB"><head>
   <title>Tiffany &amp; Co. | Privacy Policy | United Kingdom</title> 
@@ -12,8 +12,8 @@
 
   <!-- Global Javascripts -->
 
-<link rel="stylesheet" type="text/css" href="/shared/css/screen.css?v=17">
-<link rel="stylesheet" type="text/css" href="/Local/en-GB/css/local.css?v=7.3">
+<script type="text/javascript" src="/dtagent42_jn3_3154.js" data-dtconfig="rid=RID_-1060742306|rpid=384545812|domain=tiffany.co.uk|doNotInstrument=clk|tp=500,50,0"></script><link rel="stylesheet" type="text/css" href="/shared/css/screen.css?v=20">
+<link rel="stylesheet" type="text/css" href="/Local/en-GB/css/local.css?v=10">
 
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -21,6 +21,8 @@
 	var locale = 'en-GB';
 	var qString = '';
 	var rootUrl = 'http://www.tiffany.co.uk';
+    var contextRootUrl = 'http://www.tiffany.co.uk';
+    var contextSecureRootUrl = 'https://www.tiffany.co.uk';
     var isStmtInternal = "False";
 	var originalPageTitle = document.title;
 	var configExpTime = 30
@@ -34,13 +36,13 @@
 
 	// If Mac platform, also use the Macintosh style sheet.
 	if (navigator.platform.indexOf('Mac') != -1) {
-		document.write('<link rel="stylesheet" href="/Shared/css/screen_mac.css?v=8">');
-		document.write('<link rel="stylesheet" href="/Local/'+locale+'/css/local_mac.css?v=7.1">');
+		document.write('<link rel="stylesheet" href="/Shared/css/screen_mac.css?v=9">');
+		document.write('<link rel="stylesheet" href="/Local/'+locale+'/css/local_mac.css?v=9">');
 	}	
 	
     if(isStmtInternal.toLowerCase() == "true")
 	{
-	    document.write('<link rel="stylesheet" href="/Local/'+locale+'/css/internal.css?v=7.1">');
+	    document.write('<link rel="stylesheet" href="/Local/'+locale+'/css/internal.css?v=8">');
 	}
 
 	function isIEUnsupported() 
@@ -212,7 +214,22 @@
 		}
 		return false;
 	}
-
+	function isAndroidMobile()
+	{
+		if (navigator.userAgent.match(/Android/i) != null && navigator.userAgent.match(/Mobile/i) != null)
+		{
+			return true;
+		}
+		return false;
+	}	
+	function isAndroidTablet()
+	{
+		if (navigator.userAgent.match(/Android/i) != null && navigator.userAgent.match(/Mobile/i) == null)
+		{
+			return true;
+		}
+		return false;
+	}
     function isMobile()
     {
 	    return isIPhone() || isIPad() || isIPod() || isAndroid();
@@ -220,7 +237,7 @@
     
     function isSmallMobile()
     {
-		return isIPhone() || isIPod() || isAndroid();
+		return isIPhone() || isIPod() || isAndroidMobile();
     }
 
     function isTablet()
@@ -242,7 +259,7 @@
     
     if (isMobile())
     {
-		document.write('<link rel="stylesheet" type="text/css" href="/Shared/css/mobileTweaks.css?v=4">');
+		document.write('<link rel="stylesheet" type="text/css" href="/Shared/css/mobileTweaks.css?v=5">');
     }
 	
 //-->
@@ -253,12 +270,12 @@
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/model/ProductModel.js?v=8"></script>
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/factories/URLFactory.js?v=5"></script>
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/factories/StringLib.js?v=4.0"></script>
-<script language="JavaScript" type="text/javascript" src="/Shared/scripts/shared.js?v=20"></script>
+<script language="JavaScript" type="text/javascript" src="/Shared/scripts/shared.js?v=22"></script>
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/model/HistoryManager.js?v=5"></script>
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/factories/XMLUtils.js?v=4.0"></script>
-<script language="JavaScript" type="text/javascript" src="/Shared/scripts/customDropDown.js?v=8"></script><style>.ddlReset, .ddl, .vddl {display:none}</style>
-<script language="JavaScript" type="text/javascript" src="/Shared/scripts/playFlash.js?v=11"></script>
-<script language="JavaScript" type="text/javascript" src="/Shared/scripts/marketing.js?v=13"></script>
+<script language="JavaScript" type="text/javascript" src="/Shared/scripts/customDropDown.js?v=10"></script><style>.ddlReset, .ddl, .vddl {display:none}</style>
+<script language="JavaScript" type="text/javascript" src="/Shared/scripts/playFlash.js?v=14"></script>
+<script language="JavaScript" type="text/javascript" src="/Shared/scripts/marketing.js?v=15"></script>
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/model/Debug.js?v=5"></script>
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/vo/ErrorVO.js?v=4.0"></script>
 <script language="JavaScript" type="text/javascript" src="/Shared/scripts/vo/ServiceVO.js?v=4.0"></script>
@@ -270,7 +287,7 @@
 
 
 <!-- Start Google Analytics Header -->
-<script language="Javascript" type="text/javascript" src="/Shared/Scripts/SiteTracking/SiteTrackingGA.js?v=6"></script>
+<script language="Javascript" type="text/javascript" src="/Shared/Scripts/SiteTracking/SiteTrackingGA.js?v=7"></script>
 
 <!-- End Google Analytics Header -->
 
@@ -322,7 +339,6 @@ BrowserUtils.addOnLoadHandler(function() {
 	}
 //-->
 </script>
-<!--VSS BEGIN--><!--$$Workfile: newJavascript.ascx $--><!--$$Date: 3/22/07 9:54a $--><!--$$Revision: 3 $--><!--VSS END-->
 
 
   <script language="javascript" type="text/javascript">
@@ -400,13 +416,13 @@ BrowserUtils.addOnLoadHandler(function() {
 </div>
 
 
-<script src="/ScriptResource.axd?d=lZrLoBkp6kWzqYEZRi3IfozTFZh1J9LruqLRAhW6TD1wffZoi7tHQ2v3dckdsUpvyC_H7aglqqf1GSCNmvwGXVXfKfFLHRMLMrQTkqWlBTu4fGZLBZaQ774ta4-J9wFMc-KhXd80XMS66KFoDjvQhv-HT8AfHl73Vz5v_yQTV3Y2JNK10&amp;t=ffffffff940d030f" type="text/javascript"></script>
-<script src="/Shared/scripts/services/SearchValidationService.js?v=3" type="text/javascript"></script>
-<script src="/Shared/scripts/services/AdvancedSearchMenuService.js" type="text/javascript"></script>
-<script src="/Shared/scripts/services/GetProductsAndCategoriesService.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=38Hk_cuq3_g-rXCrDleG-0G5u8ItLTAAzpirPvnDDB08836VUi8fkcazvR7mKc-ewubNKLIXOLET5uDBBfjE-VWymsmBFf1U3xuWFGfN0OWgVChKOwRR9_eRtzzFJZ3DxIVnIfCA7G2laDpgy0Udc2awGU5JM_DhMVOJpPGxXAvTXlx50&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script src="/Shared/scripts/services/SearchValidationService.js?v=3.1" type="text/javascript"></script>
+<script src="/Shared/scripts/services/AdvancedSearchMenuService.js?v=1.0" type="text/javascript"></script>
+<script src="/Shared/scripts/services/GetProductsAndCategoriesService.js?v=1.0" type="text/javascript"></script>
 <script src="/Shared/scripts/services/itemPage/GetProductsService.js?v=9" type="text/javascript"></script>
-<script src="/Shared/scripts/services/browseItemPage/GetCatalogueProductsService.js?v=7" type="text/javascript"></script>
-<script src="/Shared/scripts/services/EmailSubscribeService.js" type="text/javascript"></script>
+<script src="/Shared/scripts/services/browseItemPage/GetCatalogueProductsService.js?v=9" type="text/javascript"></script>
+<script src="/Shared/scripts/services/EmailSubscribeService.js?v=1.1" type="text/javascript"></script>
 <script src="/Shared/scripts/services/ErrorLogService.js?v=1.0" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -438,10 +454,22 @@ AddMultipleShoppingBagItems:function(strSku,strSkuAndQuantity,selectedSku,cid,mc
 return this._invoke(this._get_path(), 'AddMultipleShoppingBagItems',false,{strSku:strSku,strSkuAndQuantity:strSkuAndQuantity,selectedSku:selectedSku,cid:cid,mcid:mcid,origin:origin},succeededCallback,failedCallback,userContext); },
 DeleteShoppingBagItem:function(sku,selectedSku,quantity,succeededCallback, failedCallback, userContext) {
 return this._invoke(this._get_path(), 'DeleteShoppingBagItem',false,{sku:sku,selectedSku:selectedSku,quantity:quantity},succeededCallback,failedCallback,userContext); },
+ValidateShoppingBagItemWithServicing:function(sku,selectedSku,quantity,cid,mcid,origin,cat_id,cat_item_id,p_cat_id,p_cat_item_id,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'ValidateShoppingBagItemWithServicing',false,{sku:sku,selectedSku:selectedSku,quantity:quantity,cid:cid,mcid:mcid,origin:origin,cat_id:cat_id,cat_item_id:cat_item_id,p_cat_id:p_cat_id,p_cat_item_id:p_cat_item_id},succeededCallback,failedCallback,userContext); },
+ValidateShoppingBagMultipleItemsWithServicing:function(strSku,strSkuAndQuantity,selectedSku,cid,mcid,origin,cat_id,cat_item_id,p_cat_id,p_cat_item_id,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'ValidateShoppingBagMultipleItemsWithServicing',false,{strSku:strSku,strSkuAndQuantity:strSkuAndQuantity,selectedSku:selectedSku,cid:cid,mcid:mcid,origin:origin,cat_id:cat_id,cat_item_id:cat_item_id,p_cat_id:p_cat_id,p_cat_item_id:p_cat_item_id},succeededCallback,failedCallback,userContext); },
+AddPKBSavedItem:function(sku,selectedSku,cid,mcid,qty,priceMarketID,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'AddPKBSavedItem',false,{sku:sku,selectedSku:selectedSku,cid:cid,mcid:mcid,qty:qty,priceMarketID:priceMarketID},succeededCallback,failedCallback,userContext); },
 AddSavedItem:function(sku,selectedSku,cid,mcid,qty,succeededCallback, failedCallback, userContext) {
 return this._invoke(this._get_path(), 'AddSavedItem',false,{sku:sku,selectedSku:selectedSku,cid:cid,mcid:mcid,qty:qty},succeededCallback,failedCallback,userContext); },
-DeleteSavedItem:function(sku,succeededCallback, failedCallback, userContext) {
-return this._invoke(this._get_path(), 'DeleteSavedItem',false,{sku:sku},succeededCallback,failedCallback,userContext); }}
+DeleteSavedItem:function(wlItemID,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'DeleteSavedItem',false,{wlItemID:wlItemID},succeededCallback,failedCallback,userContext); },
+GetStoreLocations:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetStoreLocations',false,{},succeededCallback,failedCallback,userContext); },
+CalculateTaxes:function(shippingInfo,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'CalculateTaxes',false,{shippingInfo:shippingInfo},succeededCallback,failedCallback,userContext); },
+GetStateAndCityForPostalCode:function(postalCode,isNDDApplicable,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetStateAndCityForPostalCode',false,{postalCode:postalCode,isNDDApplicable:isNDDApplicable},succeededCallback,failedCallback,userContext); }}
 PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
 PageMethods._staticInstance = new PageMethods();
 PageMethods.set_path = function(value) { PageMethods._staticInstance.set_path(value); }
@@ -467,8 +495,33 @@ PageMethods.SubmitEmailMarketingPreference= function(emailAddress,mobileEmailAdd
 PageMethods.AddShoppingBagItem= function(sku,selectedSku,quantity,cid,mcid,origin,onSuccess,onFailed,userContext) {PageMethods._staticInstance.AddShoppingBagItem(sku,selectedSku,quantity,cid,mcid,origin,onSuccess,onFailed,userContext); }
 PageMethods.AddMultipleShoppingBagItems= function(strSku,strSkuAndQuantity,selectedSku,cid,mcid,origin,onSuccess,onFailed,userContext) {PageMethods._staticInstance.AddMultipleShoppingBagItems(strSku,strSkuAndQuantity,selectedSku,cid,mcid,origin,onSuccess,onFailed,userContext); }
 PageMethods.DeleteShoppingBagItem= function(sku,selectedSku,quantity,onSuccess,onFailed,userContext) {PageMethods._staticInstance.DeleteShoppingBagItem(sku,selectedSku,quantity,onSuccess,onFailed,userContext); }
+PageMethods.ValidateShoppingBagItemWithServicing= function(sku,selectedSku,quantity,cid,mcid,origin,cat_id,cat_item_id,p_cat_id,p_cat_item_id,onSuccess,onFailed,userContext) {PageMethods._staticInstance.ValidateShoppingBagItemWithServicing(sku,selectedSku,quantity,cid,mcid,origin,cat_id,cat_item_id,p_cat_id,p_cat_item_id,onSuccess,onFailed,userContext); }
+PageMethods.ValidateShoppingBagMultipleItemsWithServicing= function(strSku,strSkuAndQuantity,selectedSku,cid,mcid,origin,cat_id,cat_item_id,p_cat_id,p_cat_item_id,onSuccess,onFailed,userContext) {PageMethods._staticInstance.ValidateShoppingBagMultipleItemsWithServicing(strSku,strSkuAndQuantity,selectedSku,cid,mcid,origin,cat_id,cat_item_id,p_cat_id,p_cat_item_id,onSuccess,onFailed,userContext); }
+PageMethods.AddPKBSavedItem= function(sku,selectedSku,cid,mcid,qty,priceMarketID,onSuccess,onFailed,userContext) {PageMethods._staticInstance.AddPKBSavedItem(sku,selectedSku,cid,mcid,qty,priceMarketID,onSuccess,onFailed,userContext); }
 PageMethods.AddSavedItem= function(sku,selectedSku,cid,mcid,qty,onSuccess,onFailed,userContext) {PageMethods._staticInstance.AddSavedItem(sku,selectedSku,cid,mcid,qty,onSuccess,onFailed,userContext); }
-PageMethods.DeleteSavedItem= function(sku,onSuccess,onFailed,userContext) {PageMethods._staticInstance.DeleteSavedItem(sku,onSuccess,onFailed,userContext); }
+PageMethods.DeleteSavedItem= function(wlItemID,onSuccess,onFailed,userContext) {PageMethods._staticInstance.DeleteSavedItem(wlItemID,onSuccess,onFailed,userContext); }
+PageMethods.GetStoreLocations= function(onSuccess,onFailed,userContext) {PageMethods._staticInstance.GetStoreLocations(onSuccess,onFailed,userContext); }
+PageMethods.CalculateTaxes= function(shippingInfo,onSuccess,onFailed,userContext) {PageMethods._staticInstance.CalculateTaxes(shippingInfo,onSuccess,onFailed,userContext); }
+PageMethods.GetStateAndCityForPostalCode= function(postalCode,isNDDApplicable,onSuccess,onFailed,userContext) {PageMethods._staticInstance.GetStateAndCityForPostalCode(postalCode,isNDDApplicable,onSuccess,onFailed,userContext); }
+var gtc = Sys.Net.WebServiceProxy._generateTypedConstructor;
+Type.registerNamespace('Cms.BL.BizEntities.Stores');
+if (typeof(Cms.BL.BizEntities.Stores.CmsStore4PKB) === 'undefined') {
+Cms.BL.BizEntities.Stores.CmsStore4PKB=gtc("Cms.BL.BizEntities.Stores.CmsStore4PKB");
+Cms.BL.BizEntities.Stores.CmsStore4PKB.registerClass('Cms.BL.BizEntities.Stores.CmsStore4PKB');
+}
+Type.registerNamespace('Tco.BL.BizEntities');
+if (typeof(Tco.BL.BizEntities.JSONshippingData) === 'undefined') {
+Tco.BL.BizEntities.JSONshippingData=gtc("Tco.BL.BizEntities.JSONshippingData");
+Tco.BL.BizEntities.JSONshippingData.registerClass('Tco.BL.BizEntities.JSONshippingData');
+}
+if (typeof(Tco.BL.BizEntities.JSONTaxData) === 'undefined') {
+Tco.BL.BizEntities.JSONTaxData=gtc("Tco.BL.BizEntities.JSONTaxData");
+Tco.BL.BizEntities.JSONTaxData.registerClass('Tco.BL.BizEntities.JSONTaxData');
+}
+if (typeof(Tco.BL.BizEntities.Address) === 'undefined') {
+Tco.BL.BizEntities.Address=gtc("Tco.BL.BizEntities.Address");
+Tco.BL.BizEntities.Address.registerClass('Tco.BL.BizEntities.Address');
+}
 Type.registerNamespace('Tco.Framework.ErrorManagement');
 if (typeof(Tco.Framework.ErrorManagement.ErrorPriority) === 'undefined') {
 Tco.Framework.ErrorManagement.ErrorPriority = function() { throw Error.invalidOperation(); }
@@ -481,7 +534,28 @@ Tco.Framework.ErrorManagement.ErrorPriority.registerEnum('Tco.Framework.ErrorMan
   <div id="container">
    <!-- Header -->
 
+<script type="text/javascript">
 
+    function TrackMenuItemEvent(menu, menuItemName) {
+        //GA
+        TrackEvent('Menus', 'Menu Items', menu + ' | ' + menuItemName, '');
+
+        //Omniture
+        s.prop4 = menu + ' -> ' + menuItemName;
+        void (s.t());
+    }
+
+    function TrackMenuEvent(menu) {
+        //GA
+        TrackEvent('Menus', 'Header',  menu, '');
+
+        //Omniture
+        s.prop3 = menu;
+        s.eVar8 = menu;
+        void (s.t());
+    }
+
+</script>
 <div id="skip-nav"><a href="#tiffany-content">Skip to main content</a></div>
 
     
@@ -497,6 +571,10 @@ Tco.Framework.ErrorManagement.ErrorPriority.registerEnum('Tco.Framework.ErrorMan
 				navDisabled=false;
 				navOnOff(); 
 				emailsignupregex = /^\s*([0-9a-zA-Z]([-!#$%&*+_~'.\w]*[0-9a-zA-Z])*@[0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*\.[a-zA-Z]{2,9})\s*$/i;
+                
+                   
+                isStoreSearchAvailable = true;
+                 
 			</script> 
 		    <ul id="nav">
 		    <li id="nav0">
@@ -508,28 +586,19 @@ Tco.Framework.ErrorManagement.ErrorPriority.registerEnum('Tco.Framework.ErrorMan
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=622067&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | New Jewellery','');">New Jewellery</a></li>
 <li class="subnavSpacer">&nbsp;</li><li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=287458&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Bracelets','');">Bracelets</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=287461&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Brooches','');">Brooches</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=287463&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Tiffany Charms','');">Tiffany Charms</a></li>
+<li><a href="/Shopping/Category.aspx?cid=288216&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Charms','');">Charms</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=287464&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Earrings','');">Earrings</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=287465&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Necklaces &amp; Pendants','');">Necklaces &amp; Pendants</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=287466&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Rings','');">Rings</a></li>
+<li class="subnavSpacer">&nbsp;</li><li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288222&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Men\'s Jewellery','');">Men's Jewellery</a></li>
+<li class="subnavSpacer">&nbsp;</li><li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=481154&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Tiffany Diamonds','');">Tiffany Diamonds</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288158&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Silver Jewellery','');">Silver Jewellery</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288156&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Statement Jewellery','');">Statement Jewellery</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288157&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Tiffany Alphabet','');">Tiffany Alphabet</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=287462&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Tiffany Celebration® Rings','');">Tiffany Celebration® Rings</a></li>
+<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=287462&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Tiffany Celebration® Rings','');">Tiffany Celebration® Rings</a></li>
+<li><a href="/Shopping/Default.aspx?mcat=148203" onclick="TrackEvent('Menus','Menu Items','Jewellery | Tiffany Engagement Rings','');">Tiffany Engagement Rings</a></li>
+<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=649502&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Tiffany Yellow Diamonds','');">Tiffany Yellow Diamonds</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288152&amp;mcat=148204" onclick="TrackEvent('Menus','Menu Items','Jewellery | Wedding Bands','');">Wedding Bands</a></li>
 <li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav2">
-<a href="http://www.tiffany.co.uk/Shopping/Default.aspx?mcat=148210" class="globalnav" onclick="TrackEvent('Menus','Header','Diamonds','');">Diamonds</a>
-<ul>
-<li class="navBlank"><a href="#">&nbsp;</a></li>
-<li><a href="/Shopping/CategoryBrowse.aspx?mcat=148210&amp;cid=287458&amp;search_params=s+5-p+1-c+287458-r+201323351-x+-n+12-ri+-ni+1-t+" onclick="TrackEvent('Menus','Menu Items','Diamonds | Bracelets','');">Bracelets</a></li>
-<li><a href="/shopping/CategoryBrowse.aspx?cid=288216&amp;mcat=148210#p+1-n+12-cg+viewPaged-c+288216-s+5-r+201323351-t+-ri+-ni+1-x+-pu+-f+" onclick="TrackEvent('Menus','Menu Items','Diamonds | Charms','');">Charms</a></li>
-<li><a href="/Shopping/CategoryBrowse.aspx?mcat=148210&amp;cid=287464&amp;search_params=s+5-p+1-c+287464-r+201323351-x+-n+12-ri+-ni+1-t+" onclick="TrackEvent('Menus','Menu Items','Diamonds | Earrings','');">Earrings</a></li>
-<li><a href="/Shopping/Default.aspx?mcat=148203" onclick="TrackEvent('Menus','Menu Items','Diamonds | Engagement Rings','');">Engagement Rings</a></li>
-<li><a href="/Shopping/CategoryBrowse.aspx?mcat=148210&amp;cid=287465&amp;search_params=s+5-p+1-c+287465-r+201323351-x+-n+12-ri+-ni+1-t+" onclick="TrackEvent('Menus','Menu Items','Diamonds | Necklaces &amp; Pendants','');">Necklaces &amp; Pendants</a></li>
-<li><a href="/Shopping/CategoryBrowse.aspx?mcat=148210&amp;cid=287466&amp;search_params=s+5-p+1-c+287466-r+201323351-x+-n+12-ri+-ni+1-t+" onclick="TrackEvent('Menus','Menu Items','Diamonds | Rings','');">Rings</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=287462&amp;mcat=148210" onclick="TrackEvent('Menus','Menu Items','Diamonds | Tiffany Celebration® Rings','');">Tiffany Celebration® Rings</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=649502&amp;mcat=148210" onclick="TrackEvent('Menus','Menu Items','Diamonds | Tiffany Yellow Diamonds','');">Tiffany Yellow Diamonds</a></li>
-<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav3">
 <a href="http://www.tiffany.co.uk/Shopping/Default.aspx?mcat=148205" class="globalnav" onclick="TrackEvent('Menus','Header','Watches','');">Watches</a>
 <ul>
 <li class="navBlank"><a href="#">&nbsp;</a></li>
@@ -537,59 +606,41 @@ Tco.Framework.ErrorManagement.ErrorPriority.registerEnum('Tco.Framework.ErrorMan
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288171&amp;mcat=148205" onclick="TrackEvent('Menus','Menu Items','Watches | Men\'s Watches','');">Men's Watches</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288141&amp;mcat=148205" onclick="TrackEvent('Menus','Menu Items','Watches | Cocktail Watches','');">Cocktail Watches</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=684226&amp;mcat=148205" onclick="TrackEvent('Menus','Menu Items','Watches | All Watches','');">All Watches</a></li>
-<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav4">
-<a href="http://www.tiffany.co.uk/Shopping/Default.aspx?mcat=148208" class="globalnav" onclick="TrackEvent('Menus','Header','Men\'s','');">Men's</a>
-<ul>
-<li class="navBlank"><a href="#">&nbsp;</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288180&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Gifts for Him','');">Gifts for Him</a></li>
-<li><a href="/Shopping/CategoryBrowse.aspx?cid=288161&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Bracelets','');">Bracelets</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288160&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Cuff Links','');">Cuff Links</a></li>
-<li><a href="/Shopping/CategoryBrowse.aspx?cid=288171&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Watches','');">Watches</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288170&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Men\'s Necklaces &amp; Pendants','');">Men's Necklaces &amp; Pendants</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288176&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Men\'s Rings','');">Men's Rings</a></li>
-<li><a href="/Shopping/CategoryBrowse.aspx?cid=288177&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Wedding Bands','');">Wedding Bands</a></li>
-<li class="subnavSpacer">&nbsp;</li><li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288142&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Money Clips &amp; Card Holders','');">Money Clips &amp; Card Holders</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288181&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Men\'s Key Rings','');">Men's Key Rings</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288182&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Men\'s Writing Instruments','');">Men's Writing Instruments</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288183&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Men\'s Fragrance','');">Men's Fragrance</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288184&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Barware','');">Barware</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288185&amp;mcat=148208" onclick="TrackEvent('Menus','Menu Items','Men\'s | Men\'s Sterling Accessories','');">Men's Sterling Accessories</a></li>
-<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav5">
+<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav3">
 <a href="http://www.tiffany.co.uk/Shopping/Default.aspx?mcat=148206" class="globalnav" onclick="TrackEvent('Menus','Header','Designers &amp; Collections','');">Designers &amp; Collections</a>
 <ul>
 <li class="navBlank"><a href="#">&nbsp;</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288187&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Elsa Peretti®','');">Elsa Peretti®</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288189&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Paloma Picasso®','');">Paloma Picasso®</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288188&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Frank Gehry®','');">Frank Gehry®</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288190&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Jean Schlumberger','');">Jean Schlumberger</a></li>
 <li class="subnavSpacer">&nbsp;</li><li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288191&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Tiffany 1837™','');">Tiffany 1837™</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=554142&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Tiffany Beads','');">Tiffany Beads</a></li>
+<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=1638643&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Tiffany Enchant','');">Tiffany Enchant</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=573050&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Tiffany Keys','');">Tiffany Keys</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=675129&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Tiffany Locks','');">Tiffany Locks</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=579740&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Tiffany Metro','');">Tiffany Metro</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288196&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Return to Tiffany™','');">Return to Tiffany™</a></li>
+<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288196&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Return to Tiffany™','');">Return to Tiffany™</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=473573&amp;mcat=148206" onclick="TrackEvent('Menus','Menu Items','Designers &amp; Collections | Victoria','');">Victoria</a></li>
-<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav6">
+<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav4">
 <a href="http://www.tiffany.co.uk/Shopping/Default.aspx?mcat=148212" class="globalnav" onclick="TrackEvent('Menus','Header','Accessories','');">Accessories</a>
 <ul>
 <li class="navBlank"><a href="#">&nbsp;</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=476276&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Sunglasses','');">Sunglasses</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288211&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Fragrance','');">Fragrance</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=731586&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Handbags','');">Handbags</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=660754&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Tiffany Leather Goods','');">Tiffany Leather Goods</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=667912&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Small Leather Goods','');">Small Leather Goods</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=297640&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Key Rings','');">Key Rings</a></li>
+<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=96681&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Men\'s Accessories','');">Men's Accessories</a></li>
 <li><a href="/Shopping/CategoryBrowse.aspx?cid=288210&amp;mcat=148212#p+1-n+12-cg+viewPaged-c+288210-s+5-r+201323338-t+-ri+-ni+1-x+-pu+-f+" onclick="TrackEvent('Menus','Menu Items','Accessories | Sterling Accessories','');">Sterling Accessories</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=297641&amp;mcat=148212" onclick="TrackEvent('Menus','Menu Items','Accessories | Writing Instruments','');">Writing Instruments</a></li>
 <li class="subnavSpacer">&nbsp;</li><li><a href="/Shopping/CategoryBrowse.aspx?cid=288187&amp;mcat=148206#p+1-n+12-cg+viewPaged-c+288187-s+5-r+201425721-t+-ri+-ni+1-x+-pu+-f+" onclick="TrackEvent('Menus','Menu Items','Accessories | Elsa Peretti Accessories','');">Elsa Peretti Accessories</a></li>
-<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav7">
+<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li><li id="nav5">
 <a href="http://www.tiffany.co.uk/Shopping/Default.aspx?mcat=148207" class="globalnav" onclick="TrackEvent('Menus','Header','Gifts','');">Gifts</a>
 <ul>
 <li class="navBlank"><a href="#">&nbsp;</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=262626&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Graduation Gifts','');">Graduation Gifts</a></li>
+<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288153&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Christmas Gifts For Her','');">Christmas Gifts For Her</a></li>
+<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288180&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Christmas Gifts for Him','');">Christmas Gifts for Him</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=622982&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | New Gifts','');">New Gifts</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288153&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Gifts for Her','');">Gifts for Her</a></li>
-<li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288180&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Gifts for Him','');">Gifts for Him</a></li>
 <li class="subnavSpacer">&nbsp;</li><li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288212&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Anniversary Gifts','');">Anniversary Gifts</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/Category.aspx?cid=288202&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Baby Gifts','');">Baby Gifts</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288211&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Fragrance','');">Fragrance</a></li>
@@ -597,92 +648,39 @@ Tco.Framework.ErrorManagement.ErrorPriority.registerEnum('Tco.Framework.ErrorMan
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288215&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Gifts for the Home','');">Gifts for the Home</a></li>
 <li><a href="http://www.tiffany.co.uk/Shopping/CategoryBrowse.aspx?cid=288179&amp;mcat=148207" onclick="TrackEvent('Menus','Menu Items','Gifts | Wedding Gifts','');">Wedding Gifts</a></li>
 <li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul></li> 
-		   
-		        <style>
-                #divHeader #nav9 { 
-	                z-index:95;
-	                position:absolute;
-	                width:228px;
-					height:21px;
-	                top:0px; 
-	                padding-left:677px
-                }
-                #nav9 a.wot:link, #nav9 a.wot:visited {
-	                width:228px;
-	                height:21px;
-	                margin:0;
-	                padding:0;
-	                background:url('/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue1b.gif') 0 0 no-repeat; line-height:21px
-                }
-                #nav9 .wot span {
-	                margin: 0 0 0 -3000px;
-                }
-                </style>
-                 
-                <!--[if IE 7]>
-                <style type="text/css">
-                #divHeader #nav9 { 
-	                padding-left:628px
-                }
-                </style>
-                <![endif]-->
-                 
-                <script>
-                    $('document').ready(function () {
-                        animateBanner();
-                    })
-                    function animateBanner() {
-                        $('#nav9 a').prepend('<img src="/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue1b.gif" id="hometrue1" width="228" height="21" />');
-                        $('#hometrue1').css('display', 'none');
-                        $('#nav9 a').prepend('<img src="/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue2b.gif" id="hometrue2" width="228" height="21" />');
-                        $('#hometrue2').css('display', 'none');
-                        $('#nav9 a').prepend('<img src="/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue3b.gif" id="hometrue3" width="228" height="21" />');
-                        $('#hometrue3').css('display', 'none');
-                        $('#hometrue2').load(function () {
-                            $('#hometrue2').delay(700).fadeIn(700, function () {
-                                $('#nav9 a').css('background', 'url("/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue2b.gif")');
-                                $('#hometrue2').css('display', 'none');
-                                $('#hometrue3').delay(2500).fadeIn(700, function () {
-                                    $('#nav9 a').css('background', 'url("/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue3b.gif")');
-                                    $('#hometrue3').css('display', 'none');
-                                    $('#hometrue1').delay(2500).fadeIn(700, function () {
-                                        $('#nav9 a').css('background', 'url("/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue1b.gif")');
-                                        $('#hometrue1').css('display', 'none');
-                                        $('#hometrue2').delay(2500).fadeIn(700, function () {
-                                            $('#nav9 a').css('background', 'url("/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue2b.gif")');
-                                            $('#hometrue2').css('display', 'none');
-                                            $('#hometrue3').delay(2500).fadeIn(700);
-                                        });
-                                    });
-                                });
-                            });
-                        });
-                    }
-                </script> 
-                 
-                <li id="nav9"><a class="wot" href="http://www.whatmakeslovetrue.com/" target="_blank" onclick="OmnitureExitLinkTracking(this,'WMLT from Global Nav'); " onfocus="this.blur()"><img src="/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue3b.gif" id="hometrue3" width="228" height="21" style="display: none;"><img src="/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue2b.gif" id="hometrue2" width="228" height="21" style="display: none;"><img src="/Shared/Seasonal/Modules/WhatMakesLoveTrue/images/hometrue1b.gif" id="hometrue1" width="228" height="21" style="display: none;"><span>What Makes Love True</span></a></li>
+                <li id="nav9"><a class="wot" href="/About/Default.aspx?isMenu=1" onclick="TrackMenuEvent('The World Of Tiffany');" onfocus="this.blur()"><span>The World of Tiffany</span></a>
+                <ul>
+                    <li class="navBlank"><a href="#">&nbsp;</a></li>
+<li><a href="/About/TheTiffanyStory/default.aspx" onclick="TrackMenuItemEvent('The World Of Tiffany', 'The Tiffany Story');">The Tiffany Story</a></li>
+ <li><a href="/About/News/" onclick="TrackMenuItemEvent('The World Of Tiffany', 'People and Parties');">People and Parties</a></li><li><a href="/CSR/" onclick="TrackMenuItemEvent('The World Of Tiffany', 'Corporate Responsibility');">Corporate Responsibility</a></li><li class="subnavSpacer">&nbsp;</li><li><a href="http://whatmakeslovetrue.com" target="_blank" onclick="TrackMenuItemEvent('The World Of Tiffany', 'What makes Love True');OmnitureExitLinkTracking(this,'WMLT from Global Nav');">What Makes Love True</a></li>
+
+<li class="navBlankEnd"><a href="#">&nbsp;</a></li></ul>
+                </li>
                 
-                <li id="navbar"><img src="/Shared/images/header/navbar.gif" alt="">&nbsp;</li>
-                
+
+                <li id="navbar">&nbsp;</li>
+
                 <li id="navTable">
 		    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-	    		<td width="1%" id="navSearch"><a href="javascript:;" oncontextmenu="return false;" class="globalnav" onmouseover="stopTimer(); return setStatus(this);" onclick="HandleEStoreSession();checkifSearchOpen();TrackEvent('Menus','Header','Search','');" onmouseout="closeSearchTime(); return clearStatus();">Search</a></td>
-				
+                
 				<td width="32%">&nbsp;</td>
 	    		<td width="1%" id="navSaved"><a class="globalnav" href="http://www.tiffany.co.uk/Customer/Wishlist/WishList.aspx?isMenu=1&amp;" onmouseover="showInlineSavedItems();" onmouseout="hideInlineSavedItems();" onclick="clearInterval(openWishlistTimeout);TrackEvent('Menus','Header','Saved Items','');">Saved Items<span id="spanSavedItemCount">&nbsp;</span></a></td>
 				
-	    		<td width="32%" id="navShopBagSpacer">&nbsp;</td>
+	    		<td width="98%" id="navShopBagSpacer">&nbsp;</td>
 	    		<td width="1%" id="navShopBag"><a class="globalnav" href="http://www.tiffany.co.uk/Customer/ShoppingBag.aspx?isMenu=1&amp;hdr=1&amp;" onmouseover="HandleEStoreSession();showInlineShoppingBag();" onmouseout="hideInlineShoppingBag();" onclick="clearInterval(openShoppingTimeout);TrackEvent('Menus','Header','Shopping Bag','');">Shopping Bag<span id="spanShoppingBagCount"> </span></a></td>
 	    		
 		    </tr></tbody></table>
                 </li>
+
                 
                 
-			    <li id="navSignOut">
-			        
-			        <a class="globalnav" href="http://www.tiffany.co.uk/Customer/Account/sign_out.aspx?isMenu=1&amp;OriginURL=/Service/policy_vis.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Header','Sign Out','');">Sign Out</a>
-			    </li>
-			    
+                
+                <li id="navAux">
+                      			            
+      			        <span id="navSignOut"><a class="globalnav" href="http://www.tiffany.co.uk/Customer/Account/sign_out.aspx?isMenu=1&amp;OriginURL=/Service/policy_vis.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Header','Sign Out','');">Sign Out</a>
+			            <span class="subnavbar"></span></span>
+                      <a id="navSearchStores" href="javascript:;" oncontextmenu="return false;" class="globalnav" onmouseover="stopTimer(); return setStatus(this);" onclick="HandleEStoreSession();checkifSearchOpen('store');TrackEvent('Menus','Header','Store Locations','');" onmouseout="closeSearchTime(); return clearStatus();">Store Locations</a><span class="subnavbar"></span><a id="navSearch" href="javascript:;" oncontextmenu="return false;" class="globalnav" onmouseover="stopTimer(); return setStatus(this);" onclick="HandleEStoreSession();checkifSearchOpen('search');TrackEvent('Menus','Header','Search','');" onmouseout="closeSearchTime(); return clearStatus();">Search</a>
+                </li>
                 
 		    </ul>
 	    </div>	 
@@ -698,8 +696,8 @@ Tco.Framework.ErrorManagement.ErrorPriority.registerEnum('Tco.Framework.ErrorMan
 <script type="text/javascript" src="/shared/scripts/model/CategoriesModel.js?v=5"></script>
 <script type="text/javascript" src="/shared/scripts/views/ViewLocator.js"></script>
 <script type="text/javascript" src="/shared/scripts/services/ServiceLocator.js"></script>
-<script type="text/javascript" src="/shared/scripts/services/SearchValidationService.js?v=3"></script>
-<script type="text/javascript" src="/shared/scripts/services/AdvancedSearchMenuService.js?v=2"></script>
+<script type="text/javascript" src="/shared/scripts/services/SearchValidationService.js?v=3.1"></script>
+<script type="text/javascript" src="/shared/scripts/services/AdvancedSearchMenuService.js?v=2.1"></script>
 <script type="text/javascript" src="/shared/scripts/services/ErrorLogService.js?v=1.0"></script>
 <script type="text/javascript" src="/shared/scripts/vo/StateSnapshotVO.js"></script>
 <script type="text/javascript" src="/shared/scripts/vo/ErrorVO.js"></script>
@@ -707,12 +705,35 @@ Tco.Framework.ErrorManagement.ErrorPriority.registerEnum('Tco.Framework.ErrorMan
 
 
 <script type="text/javascript">
-var didYouMeanLiteral = 'Did you mean {0} ?';
+    var didYouMeanLiteral = 'Did you mean {0} ?';
+    var txtSearchInstructions = 'Search items by keyword...';
+    var txtStoreSearchInstructions = 'Enter a city, town or postcode...';
 if((agt.indexOf('firefox') > 0) && agt.indexOf('mac') > 0 ){
 			is_minor = parseFloat(agt.substring(agt.indexOf('firefox')+8,agt.indexOf('firefox')+15));
 			is_major = parseInt(is_minor);
 			if (is_major < 3) {document.write('<style>#spanSearchInput{position: fixed; position:expression("absolute");}#advSearchDrops {position:fixed;}#seachBrdButton{padding-top:131px; border-top:0px; }#searchButton{padding-left:204px} #advSearchButton {border-top:#EBEBEB 1px solid; padding:10px 0px}</style>');}
-		}
+}
+
+
+function TrackViewMoreStoreEvents() {
+    //GA
+    TrackEvent('Menus', 'Header', 'View More Stores and Events', '')
+
+    //Omniture
+    s.eVar8 = "View More Stores and Events - Header";
+    void (s.t());
+}
+
+function TrackViewAllStoresInCountry(countryandLoc) {
+    //GA
+    TrackEvent('Menus', 'Header', 'View ALL Stores in' + countryandLoc, '')
+
+    //Omniture
+    s.eVar8 = 'View ALL Stores in' + countryandLoc;
+    void (s.t());
+}
+
+
 </script>
 
 				<div id="search" onmouseover="stopTimer();" onmouseout="closeSearchTime();">
@@ -725,14 +746,18 @@ if((agt.indexOf('firefox') > 0) && agt.indexOf('mac') > 0 ){
 							<!--Code to be sent if an error message-->
 							<!--<p id="searchErrorFormat">Your Search for "xxyyzz" produced no results. <br>Please try again.</p>-->						
 						</div>
+
 						<div id="searchWrapper">
-							<span id="spanSearchInput"><input name="ctlHeader$ctlSearch$searchInput" type="text" id="ctlHeader_ctlSearch_searchInput" class="bodyTextNoLnHght"></span>
+							<span id="spanSearchInput"><input name="ctlHeader$ctlSearch$searchInput" type="text" id="ctlHeader_ctlSearch_searchInput" class="bodyTextNoLnHght" onclick="this.value=''; $('#ctlHeader_ctlSearch_searchInput').css('color', '#000'); $('#ctlHeader_ctlSearch_searchInput').css('font-style', 'normal');"></span>
 									<span id="searchButton"><a class="footer" href="javascript:submitSearch();"><img src="/local/en-US/images/btn/search.gif" id="ctlHeader_ctlSearch_imgSimpleSearch" onmouseover="rollOver(this)" onmouseout="MM_swapImgRestore()" onmousedown="setOn(this);" alt="Search"></a></span>
 						</div>	
 						
 </div>
 						<!--End Simple Search-->
-											
+                        <div id="ctlHeader_ctlSearch_divStoreLinks">
+                         <a href="/Locations/Default.aspx?isMenu=1" onclick="TrackViewMoreStoreEvents();">View more stores and events</a>
+                        <a href="http://www.tiffany.co.uk/locations/CountryStoreLocationList.aspx?country=United Kingdom&amp;source=Header" onclick="TrackViewAllStoresInCountry(' United Kingdom | Header')"><span>View All Stores in United Kingdom</span></a></div>
+                        				
 						<div id="divAdvSearch"><a href="javascript:openAdvSearch();" id="advSearch">Advanced Search</a></div>
 						
 						<div id="ctlHeader_ctlSearch_pnlAdvancedSearch">
@@ -766,9 +791,10 @@ if((agt.indexOf('firefox') > 0) && agt.indexOf('mac') > 0 ){
 						</div>
 						
 </div>
-						<!--End Advanced Search-->	
+						<!--End Advanced Search-->		
 											
 				</div>
+
 				<script type="text/javascript">
 				BrowserUtils.addOnLoadHandler(initSearch);
 				</script>
@@ -787,13 +813,14 @@ if (locale != 'en-US-EStr' && locale != 'ja-JP-EStr') {
 }
 var STATEMENT_SITE_USER_MODE = 0;
 var HIDE_SAVE_FOR_LATTER = 0;
+var HIDE_ADD_TO_SHOPPING_BAG = 0;
 </script>
 	<div id="divConfirm" class="divHeaderNonSecure">
 		<div id="addConfirmation">
 			<table border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr valign="middle">
-					<td><img id="confirmImage" align="left" width="50" height="50" alt=""></td>
-					<td width="76"><span id="confirmMessage"></span></td>
+				<tbody><tr>
+					<td valign="top"><img id="confirmImage" align="left" width="50" height="50" alt=""></td>
+					<td valign="middle" width="76"><span id="confirmMessage"></span></td>
 				</tr>
 			</tbody></table>
 		</div>
@@ -803,6 +830,42 @@ var HIDE_SAVE_FOR_LATTER = 0;
 	<!-- End Logo/Header Links Background image -->
 
 <div name="tiffany-content" id="tiffany-content"></div>
+<script language="JavaScript" type="text/javascript">
+<!--
+    //This the enum for GTrade Response Errors
+    var GTradeAjaxErrorType =
+    {
+        "Offline": 0,
+        "TimeOut": 1,
+        "ParserError": 2,
+        "UrlNotFound": 404,
+        "InternalServerError": 500
+    };
+    //Method to Retrive Error messages based in Error Type
+    function GetGTradeAjaxErrorMessage(errType) {
+        var errMsg = '';
+        //Error Keys are to be updated once added to the resource file
+        switch (errType) {
+            case GTradeAjaxErrorType.Offline:
+                errMsg = ''; // 'You are offline!!\n Please Check Your Network.';
+                break;
+            case GTradeAjaxErrorType.TimeOut:
+                errMsg = ''; // 'Request Time out.';
+                break;
+            case GTradeAjaxErrorType.ParserError:
+                errMsg = ''; // 'Error.\nParsing JSON Request failed.';
+                break;
+            case GTradeAjaxErrorType.UrlNotFound:
+                errMsg = ''; // 'Requested URL not found.';
+                break;
+            case GTradeAjaxErrorType.InternalServerError:
+                errMsg = ''; // 'Internel Server Error.';
+                break;
+        }
+        return errMsg;
+    }
+-->
+</script>
    <!-- Begin Content -->
 	<div id="divPageContent">
 		<div id="divGenPage">
@@ -1057,23 +1120,228 @@ accordance with this privacy policy.</p>
 
 
 <div name="cookies" id="cookies"></div>
-<h3>Cookies</h3>
+<h3>Cookie Policy</h3>
 
-<p>We use cookies for certain areas of our Website, including but not limited to session cookies, persistent cookies and web beacons.  Cookies are files that store information on your hard drive or browser that means that our Website can recognise that you have visited our Website before.  They make it easier for you to maintain your preferences on the Website, and by seeing how you use the Website, we can tailor the Website around your preferences and measure usability of the Website. We use cookies to:</p>
+<p>We are committed to protecting and respecting your privacy. We want you to 
+know how we use cookies on your computer or other electronic device. This 
+policy (“Cookies Policy”) sets out how we use and protect any personal 
+information collected through the use of cookies when you use this Website. If 
+you have any questions about this policy or do not agree with it, please 
+contact our customer services department by email at 
+<a href="mailto:ukcustomerservice@tiffany.com">ukcustomerservice@tiffany.com</a> 
+or by telephone Toll Free on 00 800 2000 1122 before continuing your use of 
+this Website.</p>
+
+<p>We may change this policy from time to time by updating this page.&nbsp; You should check this page from time to time to ensure you are happy with any changes.&nbsp; This policy is effective from June 20, 2012.</p>
+
+<h3>What are cookies?</h3>
+
+<p>Cookies are small files that store information on your hard drive or browser 
+that means that our Website can recognise that you have visited our Website 
+before. They make it easier for you to maintain your preferences on the 
+Website, and by seeing how you use the Website, we can tailor the Website 
+around your preferences and measure usability of the Website.</p>
+
+<h3>What do we use cookies for?</h3>
+
+<p>We do not use any information obtained from cookies identifying individual 
+customers for marketing purposes. We use cookies to:</p>
 
 <ul class="ulDashed">
-    <li>Record your session information (such as the
-particular Products you purchase from our Website);</li>   
-    <li>Record your specific information on the web
-pages you select to view; and</li>
-    <li>Retain your answer to our question regarding
-residency.</li>
+    <li>record your session information (such as the particular products you 
+    purchase from our Website);</li>
+    <li>record your specific information on the web pages you select to view; 
+    and</li> 
+    <li>retain your answer to our question regarding residency.</li>
 </ul>
 
-<p>You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer.  On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”.  However please note that this may prevent you from taking full advantage of the Website.  You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting <a href="http://www.allaboutcookies.org/manage-cookies/index.html" target="_blank">www.allaboutcookies.org</a>. No information obtained from cookies from which individual customers can be identified will be used by us for marketing purposes.</p>
+<h3>Which cookies do we use?</h3>
 
- 
+<p>The following are the cookies we use on our Website:</p>
 
+<table class="tblSimple cookieList">
+    <thead>
+        <tr>
+            <th class="cookieName">Name of Cookie</th>
+            <th class="cookieType">Type of Cookie</th>
+            <th class="cookieReason">Reason for use</th>
+            <th class="cookieImpact">Privacy Impact</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="cookieName">siteid</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Remembers your site preference so that the "Choose your country" webpage does not always show up</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">assortmentid</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Identifies which section of the site currently being browsed</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">priceMarketid</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Displays the correct local currency</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">hascookies1<br>
+            cookietest</td>
+            <td class="cookieType">Functionality cookies</td>
+            <td class="cookieReason">Check whether cookies are accepted or have been disabled</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">csrel</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Redirects users from China site preference back to international page</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">SiteIDForModules</td>
+            <td class="cookieType">Performance cookie</td>
+            <td class="cookieReason">Identifies how long the user has been on the site and identifies geographic location via URL. The information is used for trending purposes on an aggregated basis</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">introHP&lt;SiteID&gt;</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Prevents homepage intros from repeating each time</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">ShowFlash</td>
+            <td class="cookieType">Performance cookie</td>
+            <td class="cookieReason">Tracks how many times a Flash video has been viewed</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">_URLReferrer</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Provides the proper linkage back to the category you came from when the “Back to” link is selected</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">mysid2</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Only applicable to users who have registered. Remembers registered users’ username and address at check-out</td>
+            <td class="cookieImpact">Medium<br>
+            (only applicable if you register as a user)</td>
+        </tr>
+        <tr>
+            <td class="cookieName">custLastVisit</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Saves item in shopping (only if selected “Yes please” at “Remember my items?” option)</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">ShoppingBagCnt</td>
+            <td class="cookieType">Strictly necessary cookie</td>
+            <td class="cookieReason">Tracks Shopping Bag Count, without it, the Website would not be able to be cached and could not remember the items selected for purchase</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">SavedItemsCnt</td>
+            <td class="cookieType">Strictly necessary cookie</td>
+            <td class="cookieReason">Tracks Shopping Bag Count, without it, the Website would not be able to be cached and could not remember the items selected for purchase</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">rtbResponseData</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Saves RTB fields in encrypted format</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">isGco</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Identifies whether the user chooses Guest Checkout or registered user path</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">gcs</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Tracks the Guest Checkout Session once user chooses Guest Checkout flow</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">reasontosignin</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Ensures that the proper sign in page and destination page can be returned</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">samebrowsersession</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">For Session Management, to display the sign-out link</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">RegSignedIn</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Displays whether the user is signed into registry</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">siregid</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">Shows signed in Registry ID</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">last_activity<br>
+            LstActTm</td>
+            <td class="cookieType">Functionality cookies</td>
+            <td class="cookieReason">Hide / show “Sign-out” link based on session timeout</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">partner</td>
+            <td class="cookieType">Performance cookie</td>
+            <td class="cookieReason">Identifies when a visitor has been redirected via another website by means of a Tiffany banner ad or link</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">prefRegSite</td>
+            <td class="cookieType">Functionality cookie</td>
+            <td class="cookieReason">(On mobile sites only) for users to select view mobile or view full site</td>
+            <td class="cookieImpact">Low</td>
+        </tr>
+        <tr>
+            <td class="cookieName">Omniture</td>
+            <td class="cookieType">Performance cookie</td>
+            <td class="cookieReason">Omniture saves set of cookies for its analytics tracking</td>
+            <td class="cookieImpact">Medium<br>
+            (third party analytics cookie)</td>
+        </tr>
+        <tr>
+            <td class="cookieName">Google Analytics</td>
+            <td class="cookieType">Performance cookie</td>
+            <td class="cookieReason">Google saves set of cookies for its analytics tracking</td>
+            <td class="cookieImpact">Medium<br>
+            (third party analytics cookie)</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Managing your cookie choices</h3>
+<p>You can disable the cookies from your browser and delete all cookies 
+currently stored on your computer. On Microsoft Internet Explorer, this can be 
+done by selecting "Tools/Internet Options" and reviewing your privacy settings 
+or selecting "delete cookies". However, please note that this may prevent you 
+from taking full advantage of the Website. You can find out how to do this for 
+your particular browser by clicking "help" on your browser's menu or by 
+visiting <a href="http://www.allaboutcookies.org/manage-cookies/index.html" target="_blank">www.allaboutcookies.org</a>.</p>
+
+<p>If you have any further questions about your privacy or how we use cookies 
+on our site, please do not hesitate to contact our customer services department 
+by email at <a href="mailto:ukcustomerservice@tiffany.com">ukcustomerservice@tiffany.com</a> 
+or by telephone Toll Free on 00 800 2000 1122.</p>
+
+<p>This policy was last updated June, 20 2012.</p>
 				</div>
             </div>
 			<!--End Page Content Area-->
@@ -1095,15 +1363,7 @@ residency.</li>
 	    <span id="footerNumber">UK 00 800 2000 1122</span>
 	    <a id="footerlink0" class="" href="http://www.tiffany.co.uk/Service/Default.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','Customer Service','');">Customer Service</a>
 		
-	    <a id="footerlink1" class="" href="https://www.tiffany.co.uk/Customer/Account/YourAccount.aspx?isMenu=1&amp;destYA=true&amp;" onclick="TrackEvent('Menus','Footer','Your Account','');">Your Account</a>
-		
-	    <a id="footerlink2" class="" href="http://www.tiffany.co.uk/About/Default.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','About Tiffany','');">About Tiffany</a>
-		
 	    <a id="footerlink5" class="" href="http://www.tiffany.co.uk/Catalogues/Default.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','Catalogues','');">Catalogues</a>
-		
-	    <a id="footerlink6" class="" href="http://www.tiffany.co.uk/About/News/Default.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','People &amp; Parties','');">People &amp; Parties</a>
-				
-	    <a id="footerlink7" class="" href="http://www.tiffany.co.uk/Locations/Default.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','Stores &amp; Events','');">Stores &amp; Events</a>
 		
 		<a id="footerlink8" href="javascript:subscribeFooter();TrackEvent('Menus','Footer','Email Sign Up','');" onmouseover="return setStatus(this);" onmouseout="return clearStatus();">Email Sign Up</a>
 				
@@ -1112,7 +1372,7 @@ residency.</li>
 
 <!-- email marketing control starts here -->
 
-<script type="text/javascript" src="/Shared/scripts/Services/EmailSubscribeService.js?v=1.1"></script>
+<script type="text/javascript" src="/Shared/scripts/Services/EmailSubscribeService.js?v=1.2"></script>
 <script type="text/javascript" language="javascript">
    var blnSubscribeReady = false;
    var blnSubscribeFromFooter = true; 
@@ -1133,7 +1393,7 @@ residency.</li>
    var countryddlID = 'ctlFooter_emailMarketingCtl_ddlCountryList';
    
 </script>
-<script type="text/javascript" language="javascript" src="/shared/scripts/emailSignup.js?v=4"></script>
+<script type="text/javascript" language="javascript" src="/shared/scripts/emailSignup.js?v=5"></script>
 
 <div id="divSubscribeEntry" class="subscribeFooter" style="display:block;"> 
 	<div id="divTitle">
@@ -1186,27 +1446,31 @@ residency.</li>
   
 
 <div id="divChooseYourCountry">     
+        
+            <span id="foundation"><a id="footerlinkTiffanyFoundation" href="http://www.tiffanyandcofoundation.org/" target="_blank" onclick="TrackEvent('Menus','Footer','Foundation','');FooterClick('Foundation');">FOUNDATION</a></span>
+        
     	
     	    <span id="tiffanyWatch"><a href="http://www.tiffanywatches.com" target="_blank" onclick="TrackEvent('Menus','Footer','TIFFANYWATCHES.COM','');FooterClick('TIFFANYWATCHES.COM');">TIFFANYWATCHES.COM</a></span>
     	 
         
-	        <span id="tiffanyPressLink"><a href="http://www.tiffany.co.uk/Press" target="_blank" onclick="TrackEvent('Menus','Footer','Tiffany For The Press','');">Tiffany For The Press</a></span>
+	        <span id="tiffanyPressLink"><a href="http://www.tiffany.co.uk/Press" target="_blank" onclick="TrackEvent('Menus','Footer','Tiffany For The Press','');">Press</a></span>
 		
+        
+	        <span id="tiffanyCareers"><a href="http://www.tiffanycareers.com" target="_blank" onclick="TrackEvent('Menus','Footer','Tiffany Careers','');FooterClick('Tiffany Careers');">Careers</a></span>
+		
+        
+		    <span id="investors"><a id="footerlinkInvestors" href="http://investor.tiffany.com/" target="_blank" onclick="TrackEvent('Menus','Footer','Investors','');FooterClick('Investors');">Investors</a></span>
+        
 		
 	    	<span id="termsOfUse"><a class="" href="http://www.tiffany.co.uk/service/policy_ter.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','Terms Of Use','');">Terms Of Use</a></span>
 		
 		
 	        <span id="privacyPolicy"><a class="navHere" href="http://www.tiffany.co.uk/Service/policy_vis.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','Privacy Policy','');">Privacy Policy</a></span>
 		
-		
-	        <span id="tiffanyCareers"><a href="http://www.tiffanycareers.com" target="_blank" onclick="TrackEvent('Menus','Footer','Tiffany Careers','');FooterClick('Tiffany Careers');">Tiffany Careers</a></span>
-		
-		
-		    <span id="investors"><a id="footerlinkInvestors" href="http://investor.tiffany.com/" target="_blank" onclick="TrackEvent('Menus','Footer','Investors','');FooterClick('Investors');">Investors</a></span>
         
-        
-		    <span id="csrFooterLink"><a id="footerlinkCSR" href="/csr">Corporate Responsibility</a></span>
-        
+	        <span id="tiffanyAccessbility"><a class="navHere" href="http://www.tiffany.co.uk/Service/Accessibility.aspx?isMenu=1&amp;" onclick="TrackEvent('Menus','Footer','Accessibility','');">Accessibility</a></span>
+		
+
 		
 		<span id="linkChooseYourCountry"><a href="http://www.tiffany.com/International.aspx" id="ctlFooter_ctlCountryList_ancChooseYourCountry" onfocus="this.blur()" onclick="TrackEvent('Menus','Footer','Choose Your Country','');">Choose Your Country</a></span>
 		
@@ -1246,7 +1510,7 @@ function FooterClick(link)
   
         <!-- Start to get the date of the posting of data -->
         <script type="text/javascript">
-            var GA_SUBMIT_DATE = "05-29-2012";
+            var GA_SUBMIT_DATE = "11-27-2012";
         </script>            
         <!-- End to get the date of the posting of data -->
         <!-- Start Google Analytics Tracking Calls.We will call Track Page view(virtual) from Helper class -->
@@ -1387,7 +1651,7 @@ function sendOmnitureItemEmailClicks() {
 <script type="text/javascript" language="JavaScript">
 <!--
 s_account = "tiffanyruk";
-s.server = "epd05";
+s.server = "epd09";
 
 
 // If the container Page does not set the PagName on server side, default it here.
