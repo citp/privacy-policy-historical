@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618150152id_/http%3A//www.allyoucanread.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyoucanread.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127061231id_/http%3A//www.allyoucanread.com/privacy-policy.html) for the most accurate reproduction.*
 
 # AllYouCanRead.com Privacy Policy
+
+[Home](http://www.allyoucanread.com/) / Privacy Statement
 
 AMIXIMA Corp ("AMIXIMA") recognizes the importance of protecting the privacy of personal information collected about its users. AMIXIMA adopted this Privacy Policy to inform AllYouCanRead.com users how it does collect, store, and use personal information. "Personal information" includes, but is not limited to, usage data, along with the name, address, telephone number, e-mail address, and credit card information of AllYouCanRead.com users. Therefore, AMIXIMA does not sell or otherwise disclose any individually identifiable personal information about any user without an express and informed consent of such user. Nor does AMIXIMA include in AllYouCanRead.com any functionality for performing "reverse searches" to identify AllYouCanRead.com users from their e-mail addresses. However, AMIXIMA reserves the right to analyze and utilize user data in order to more effectively optimize the user experience and to present certain opportunities to users for their benefit. AMIXIMA also reserves the right to share with its partners and third parties some personal information on the aggregate basis only and provided that such use of personal information does not violate any expectations of privacy of or agreement with any AllYouCanRead.com user. AMIXIMA's intent is to balance its legitimate business interests in collecting and using personal information against the reasonable expectations of privacy of its users.
 
 ## Information Collection and Use
 
-### Information Collection
+**Information Collection**
 
 AMIXIMA is the sole owner of the information collected on AllYouCanRead.com. AMIXIMA collects information from our users at following points on our Web site. 
 
 **Registration**  
 In order to customize AllYouCanRead site, a user must first complete the registration form. During registration a user is required to give contact information (such as email address). We do not collect user's name and address. We use this information to contact the user about services on our site for which he has expressed interest. It is also required for the user to provide demographic information (such as age group, gender, city and country), and unique identifiers (such as, username and password).
 
-### Information Use
+**Information Use**
 
 AMIXIMA uses personal information for: developing enhancements to AllYouCanRead.com; marketing and promotional purposes; and evaluating AllYouCanRead.com usage by analyzing and otherwise using personal information and related data in the aggregate, but not with respect to any individual AllYouCanRead.com user.In addition, AMIXIMA uses personal information to direct e-mail to AllYouCanRead.com users who provide their e-mail address in connection with specific promotions, or to direct e-mail regarding AllYouCanRead.com updates and service enhancements to users who opt in during the AllYouCanRed.com registration process.
 
@@ -55,7 +57,7 @@ AMIXIMA takes every precaution to protect our users' information. When users sub
 
 If users have any questions about the security at our Web site, users can send an email to: **allyoucanread[AT]amixima[DOT]com**.
 
-## Correcting/Updating/Deleting/Deactivating Personal Information
+## Correcting / Updating / Deleting / Deactivating Personal Information
 
 If a user's personally identifiable information changes (such as email or country), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support at: **allyoucanread[AT]amixima[DOT]com** .
 
