@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the opentopia.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630071745id_/http%3A//www.opentopia.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opentopia.com privacy policy that was archived on 2012-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127060501id_/http%3A//www.opentopia.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html version="HTML+RDFa 1.1" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -13,19 +13,18 @@
 <link rel="stylesheet" href="/css/newstyle.css" type="text/css">
 <link type="text/css" href="/css/basic.css" rel="stylesheet" media="screen">
 <link type="text/css" href="/themes/custom-theme/jquery-ui-1.8.5.custom.css" rel="stylesheet">	
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/js/jquery.js"></script>
 <script src="/js/jquery-ui.js"></script>
 <script src="/js/ui.selectmenu.js"></script>
 <script src="/js/jquery.simplemodal.js"></script>
 <script src="/js/jquery.loginmodal.js"></script>
 <script src="/js/jquery.forgetmodal.js"></script>
 <script src="/js/jquery.forgetsuccessmodal.js"></script>
-<script src="/js/application.js?time=1341040664"></script>
+<script src="/js/application.js?time=1353996300"></script>
 <script src="/admin/app/webroot/js/tiny_mce/tiny_mce.js"></script>
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
 <link rel="shortcut icon" href="/favicon.ico">
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+</head>
 <body>
 <div class="container">
 
@@ -40,7 +39,8 @@
 		<div id="headerright">
 			<div id="headertop">
 									<span id="welcome">Welcome, guest </span>
-					<div class="fb-login-button" style="display:inline"><a href="https://www.facebook.com/dialog/oauth?client_id=102047243191178&amp;redirect_uri=http%3A%2F%2Fwww.opentopia.com%2Fprivacy.php&amp;state=0545de232ca25d6d8a873469205a07e3">FBLogin</a></div>
+					<div class="fb-login-button" data-show-faces="false" data-width="200" data-max-rows="1" style="display:inline"></div>
+					<!--<div class="fb-login-button" style="display:inline"><a href="https://www.facebook.com/dialog/oauth?client_id=102047243191178&redirect_uri=http%3A%2F%2Fwww.opentopia.com%2Fprivacy.php&state=5a0377663b410e17219cb48efd89e48a">FBLogin</a></div>-->
 					or <a href="/login.php">Sign In</a>/<a href="/join.php">Join OpenTopia</a>
 							</div>
 			<div id="menu">
@@ -165,14 +165,24 @@
 
 <div id="fb-root"></div>
 <script>
+// Load the FB SDK Asynchronously
+(function(d){
+   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+   if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   ref.parentNode.insertBefore(js, ref);
+ }(document));
 window.fbAsyncInit = function() {
   FB.init({
     appId      : '102047243191178',
-    status     : true, 
-    cookie     : true,
+	 channelUrl : '//www.opentopia.com/channel.html', // Channel File
+    status     : true, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
     xfbml      : true,
     oauth      : true,
   });
+
   FB.Event.subscribe('auth.login', function(response) {
           window.location.reload();
   });
@@ -183,14 +193,11 @@ window.fbAsyncInit = function() {
     //window.location.reload();
 	 window.location.href = "/index.php?logout=1";
   });
-};
-(function(d){
-   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-   js = d.createElement('script'); js.id = id; js.async = true;
-   js.src = "//connect.facebook.net/en_US/all.js";
-   d.getElementsByTagName('head')[0].appendChild(js);
-}(document));
 
+
+
+
+};
 
 
   FB.Event.subscribe('auth.sessionChange', function(response) {
