@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630142220id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127163829id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Endsleigh Insurance Services Limited
 
@@ -22,11 +22,15 @@
 
 [](https://web.archive.org/Pages/Login.aspx?Source=http%3A%2F%2Fwww%2Eendsleigh%2Eco%2Euk%2FMedia%2FPages%2Fprivacy%5Fpolicy%2Easpx)
 
-At Endsleigh we are committed to protecting your privacy. All your information is collected and handled lawfully in accordance with the Data Protection Act 1998 (as amended from time to time). This Privacy Policy should be read in conjunction with the Website [Terms and Conditions](https://web.archive.org/about/pages/website_terms.aspx "Terms and conditions").
+At Endsleigh we are committed to protecting your privacy. All your information is collected and handled lawfully in accordance with the Data Protection Act 1998 (as amended from time to time). 
+
+This Privacy Policy should be read in conjunction with the [Website Terms and Conditions](https://web.archive.org/about/pages/website_terms.aspx "Terms and conditions").
 
 **What information do we collect and how is it used?**
 
-We only collect the information that you actively provide us with. This is generally information provided when you request a quote or purchase a product or service from us. Information we hold about you may be used for the following purposes: 
+We collect information that you actively provide us with, either when requesting a quote or purchasing a product or service from us. In addition, we may search external sources (e.g. the edited electoral roll, county court judgments, bankruptcy registers) to assess your insurance application and check your information is accurate. These searches may be recorded by credit agencies but won't affect your credit standing. If you proceed to purchase a policy, please be aware that these searches may be conducted again when your policy is due for renewal. 
+
+Information we hold about you may be used for the following purposes: 
 
   * To enable us to identify you when you contact us or we contact you; 
   * To enable us to identify products or services for which you may be eligible; 
@@ -39,8 +43,6 @@ We only collect the information that you actively provide us with. This is gener
 
 
 To contact you in any way, where you have previously consented, about products or services offered by us, other companies in the Endsleigh group and carefully selected third parties. 
-
-The information you provide will be processed by Endsleigh's website agency Tamar, which will not disclose your details to any other parties.
 
 **Will Endsleigh disclose the information it collects to third parties?**
 
@@ -60,7 +62,7 @@ In some exceptional circumstances we may deal with people who contact us on your
 
 **Cookies**
 
-[Click here](http://www.endsleigh.co.uk/Pages/cookie-policy.aspx "Endsleigh cookie policy") to read our cookie policy.
+Read our [Endsleigh cookie policy](http://www.endsleigh.co.uk/Pages/cookie-policy.aspx "Endsleigh cookie policy"). 
 
 **Storage of information**
 
@@ -72,7 +74,7 @@ Endsleigh maintains web logs in order to evaluate the popularity of its pages an
 
 **How can you prevent further contact?**
 
-If you decide at any time that you do not want to receive information about other products and services offered by us, companies in our group and carefully selected third parties, please let us know. You can do this by phoning us on 0844 472 2592. 
+If you decide at any time that you do not want to receive information about other products and services offered by us, companies in our group and carefully selected third parties, please let us know. You can do this by phoning us on **0844 472 2592**. 
 
 **Changes to this policy**
 
@@ -80,4 +82,4 @@ If we change our Privacy Policy, we will post any changes on these pages so that
 
 **Tell us what you think**
 
-Endsleigh welcomes your comments about privacy. Please [contact us](https://web.archive.org/about/pages/ContactUs.aspx) with any requests or complaints on the subject. 
+Endsleigh welcomes your comments about privacy. Please [contact us](https://web.archive.org/about/pages/ContactUs.aspx "Contact Us") with any requests or complaints on the subject. 
