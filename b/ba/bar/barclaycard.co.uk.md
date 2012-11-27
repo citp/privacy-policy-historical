@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605061854id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127102534id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
 
-# Barclaycard Privacy and Cookie Policy
+# Barclaycard Privacy and Cookie Policy | Barclaycard
 
 Please read our privacy policy carefully before using this website ("the Site"). In this policy "we", "us", "our" and “ours” means Barclays Bank PLC and "you" means the person using the Site.
 
@@ -32,42 +32,48 @@ Please remember that any messages you send over the internet aren't secure unles
 
 So for your own security, please don't send us any personal or account information by standard email.
 
-## Cookies
+What are cookies and how do we use them?
 
-Cookies are harmless text files which web servers store on your computer's hard drive when you visit a site. They allow the server to recognise you when you revisit the site, thus speeding up your experience.
+Cookies are text files containing small amounts of information, which your computer or mobile device downloads when you visit a website. When you return to websites – or visit other websites that use the same cookies – they recognise these cookies and therefore your browsing device.
 
-For example, they can remember your login details so that you don’t have to type them in every time you revisit a site. And since they don’t collect personal information about you from your computer, they are completely harmless. 
+Cookies do lots of different jobs, like helping us understand how this website is being used, letting you navigate between pages efficiently, remembering your preferences, and generally improving your browsing experience.  Cookies can also help ensure marketing you see online is more relevant to you and your interests.
 
-## New requirements on cookies 
+You can learn about the cookies we use and how to manage them below.  
+ 
 
-With regards to the new requirements on Cookies following the revision of the e-Privacy Directive, Barclays is working towards implementing the new requirements in line with recent guidance from the Information Commissioner's Office.
+## Managing cookies on this website
 
-We are updating our websites to comply with the new cookies regulation and these changes will be applied in the very near future.
+We use cookies on our website to make your browsing experience better. By using this website you accept our use of cookies.  
+You can control how cookies are placed on your device and remove existing cookies; all you have to do is change your web browser settings.
 
-## Types of cookies 
+Please be aware that restricting cookies may affect the functionality of this website, for example, you would not be able to log into mybarclaycard if you disable cookies on your browser.    
 
-Depending on their origins and ownership, all cookies can be first or third party cookies. First party cookies are owned and created by the website you're viewing. While third party cookies are owned and created by an independent company that may be providing a service to the website owners. 
+## What types of cookies do we use?
 
-## What we use cookies for 
+The type of cookies used on most websites can generally be put into 1 of 4 categories, based on the International Chamber of Commerce guide to cookie categories; Strictly Necessary, Performance, Functionality and Targeting.
 
-Many companies use cookies to help speed up your online experience. For instance, you save time when you don’t have to enter your login details every time you return to a site. 
+### Strictly Necessary Cookies
 
-We use cookies to:
+These cookies are essential, as they enable you to move around the website and use its features, such as accessing secure areas. Without these cookies, services you've asked for can't be provided. These cookies don’t gather information about you that is used for marketing or remembering where you've been on the internet.
 
-  * Keep your data secure when you use our online account services such as mybarclaycard. Cookies store information about your preferences to prevent unauthorised access to your account. Without cookies, we can’t ensure your data is secure, so you may not be able to use the service
-  * Gather information about pages visited by people who are browsing our site
-  * Temporarily store details entered into our calculators, tools, illustrations and demonstrations
-  * Store details of marketing, product and other preferences in order to improve our targeting and ensure a better experience for customers who visit our sites
-  * Evaluate the advertising and promotional effectiveness of our websites. We own the anonymous data that’s collected, and don't share it with anyone. 
+### Performance Cookies
 
+These cookies collect information about how you use a website, for example which pages you go to most often and if you get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how a website works.
 
+These cookies are not used to target you with online marketing. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience.
 
-## What we don’t use cookies for 
+### Functionality Cookies
 
-We don't use cookies to track websites you visit after you leave our sites or store personal information which other people could read. And we'll never sell or distribute cookie information without your prior consent. 
+These cookies allow a website to remember choices you make (such as your user name, language or the region you're in) and tailor the website to provide enhanced features and content for you. For instance, a website may be able to provide you with local weather reports or traffic news. These cookies can also be used to remember changes you've made to text size, font and other parts of pages that you can customise. They may also be used to provide services you've asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymous and they cannot track your browsing activity on other websites.
 
-## Changing your cookie settings 
+Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience.
 
-Cookies form a ‘trail’ of pages you’ve visited online, and won't damage your computer or collect personal information from it. However, if you’d like to stop receiving cookies from us and other sites, all you have to do is change your browser settings by following the manufacturer’s guidelines. 
+### Targeting Cookies
 
-Just bear in mind that some of our online services can’t function without cookies, so your access may be restricted.
+These cookies are used to tailor marketing to you and your interests.  They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and this information may be shared with other organisations such as advertisers. Although these cookies can track your visits to other websites, they don’t usually know who you are.
+
+Without these cookies, online advertisements you encounter will be less relevant to you and your interests.
+
+## What happens to cookies that have been downloaded in the past?
+
+Cookies set prior to you changing your settings may still be on your computer. You can remove them using your browser settings.
