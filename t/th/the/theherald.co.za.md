@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616011623id_/http%3A//www.peherald.com/content/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127132813id_/http%3A//www.peherald.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,43 +53,3 @@
 **8.  Security The importance of security for all personal information associated with You is of the utmost concern to us. While the Owner exercises great care in providing secure transmission of Your personal information, no data transmission over the Internet can be guaranteed to be 100% secure. The Owner cannot guarantee the security of any information you transmit to, or from the Owner's Web Site. **
 
 **9.  E-Mail The Owner may periodically send e-mails to You about services, products or promotions offered by the Owner and its advertisers to the e-mail address provided by You.**
-
-[Ruffstuff786](http://www.peherald.com/news/article/6772) _15 June 2012 8:11 am_
-
-Bring the popcorn and cooldrinks.This will be very interesting to hear.I just want to let the ANCYL know that they are not untouchable, those that are untouchable is dead.The ANC don't eat their young...
-
-[White Settler](http://www.peherald.com/news/article/6772) _15 June 2012 12:33 am_
-
-Once again our delinquent Malema amuses me with his idiocy. Name calling and slander is a puerile way of venting your jealousy but our dear Juju calls it public debate. I am going to miss him....
-
-[alvonhumb](http://www.peherald.com/news/article/6766) _14 June 2012 1:42 pm_
-
-Come on Zanoxolo - this is an easy one:- simply open the books in the interests of transparency and let us know what the official government business was in Durban that required a 10 stay stay in a 4*...
-
-[Bokkie](http://www.peherald.com/news/article/6765) _14 June 2012 10:59 am_
-
-Sies tog, as if "name and shame" your calprits will clear your name Cele....
-
-[Bokkie](http://www.peherald.com/news/article/6758) _14 June 2012 10:57 am_
-
-That is just ridigulous. What does Zuma ever put back that he takes from the taxpayers? Nothing SA is still falling apart with crime, no services, no jobs, no houses, just EMPTY PROMISES and yet we...
-
-[Showahed](http://www.peherald.com/news/article/6738) _14 June 2012 7:39 am_
-
-That is why Police should be sweeping the main road through Charlo/Broadwood to Buffelsfontein as well as Burt Drive Cotswold intersection for these so-called work seekers. They sit around these areas...
-
-[Tash](http://www.peherald.com/news/article/6745) _13 June 2012 5:12 pm_
-
-Not a man but a DOG and PIG, a F.... don't even have words for a person like this. Hopefully all evidence will help to put him away and then his new in-mates can give him some of his own medicine - ca...
-
-[mozboy](http://www.peherald.com/news/article/6738) _13 June 2012 3:47 pm_
-
-This story just reinforces why i do not employ garden workers. Poor lady! I will continue to make use of competent educated landscaping companies. Let the poor stay poor if they cannot behave...
-
-[mozboy](http://www.peherald.com/news/article/6738) _13 June 2012 3:47 pm_
-
-This story just reinforces why i do not employ garden workers. Poor lady! I will continue to make use of competent educated landscaping companies. Let the poor stay poor if they cannot behave...
-
-[Ruffstuff786](http://www.peherald.com/news/article/6746) _13 June 2012 1:37 pm_
-
-Can someone please tell Jacob Zuma that it is illegal to practise comedy without a license.This is one big JOKE.Just imagine, a Butcher operating on people.LMAO at this ANC JOKE....
