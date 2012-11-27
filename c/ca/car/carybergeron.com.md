@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carybergeron.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124150256id_/http%3A//www.carybergeron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carybergeron.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127042227id_/http%3A//www.carybergeron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Cary Bergeron
 
@@ -66,8 +66,4 @@ Various Web sites may be linked to from this site. If you link to another site, 
 
 If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us at webmaster@snapinmedia.com. You will be required to provide identifier information to assure that this information is not released to others. We reserve the right to modify this policy in the future. If we do so, notice will be posted on our home page.
 
-### Join My Blog Newsletter
-
-|    
-Get personal coaching to make money online by joining [The Adsense Guild](http://www.adsenseguild.com/). The most complete and advanced system on the Internet. Real help, real people and real results from personal coaching and advice.   
----|---
+Rating: 0.0/ **5** (0 votes cast)
