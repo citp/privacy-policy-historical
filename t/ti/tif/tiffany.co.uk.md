@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529175028id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127182936id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
 
 # Tiffany & Co. | Privacy Policy | United Kingdom
 
@@ -68,7 +68,7 @@ We will not transfer or disclose your personal information to third parties othe
 
 
 
-unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20120529175028id_/http%3A//www.tiffany.co.uk/Service/Policy_ter.aspx) or [Terms of Sale ](https://web.archive.org/web/20120529175028id_/http%3A//www.tiffany.co.uk/Service/Policy_tos.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
+unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20121127182936id_/http%3A//www.tiffany.co.uk/Service/Policy_ter.aspx) or [Terms of Sale ](https://web.archive.org/web/20121127182936id_/http%3A//www.tiffany.co.uk/Service/Policy_tos.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
 
 Given that we are an international company, this process may include sending personal information to other countries, whose data protection laws may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area. Please see the section on 'Security and storage' below.
 
@@ -92,14 +92,67 @@ All information provided through our Website, telephone, catalogue and in store 
 
 We may link to other websites which are not within our control. When we do this, we will try and make it as clear as possible that you are leaving our Website. We are not responsible for these websites in any way. Once you have left our Website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Cookies
+### Cookie Policy
 
-We use cookies for certain areas of our Website, including but not limited to session cookies, persistent cookies and web beacons. Cookies are files that store information on your hard drive or browser that means that our Website can recognise that you have visited our Website before. They make it easier for you to maintain your preferences on the Website, and by seeing how you use the Website, we can tailor the Website around your preferences and measure usability of the Website. We use cookies to:
+We are committed to protecting and respecting your privacy. We want you to know how we use cookies on your computer or other electronic device. This policy (“Cookies Policy”) sets out how we use and protect any personal information collected through the use of cookies when you use this Website. If you have any questions about this policy or do not agree with it, please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122 before continuing your use of this Website.
 
-  * Record your session information (such as the particular Products you purchase from our Website);
-  * Record your specific information on the web pages you select to view; and
-  * Retain your answer to our question regarding residency.
+We may change this policy from time to time by updating this page.  You should check this page from time to time to ensure you are happy with any changes.  This policy is effective from June 20, 2012.
+
+### What are cookies?
+
+Cookies are small files that store information on your hard drive or browser that means that our Website can recognise that you have visited our Website before. They make it easier for you to maintain your preferences on the Website, and by seeing how you use the Website, we can tailor the Website around your preferences and measure usability of the Website.
+
+### What do we use cookies for?
+
+We do not use any information obtained from cookies identifying individual customers for marketing purposes. We use cookies to:
+
+  * record your session information (such as the particular products you purchase from our Website);
+  * record your specific information on the web pages you select to view; and
+  * retain your answer to our question regarding residency.
 
 
 
-You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. However please note that this may prevent you from taking full advantage of the Website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/manage-cookies/index.html). No information obtained from cookies from which individual customers can be identified will be used by us for marketing purposes.
+### Which cookies do we use?
+
+The following are the cookies we use on our Website:
+
+Name of Cookie | Type of Cookie | Reason for use | Privacy Impact  
+---|---|---|---  
+siteid | Functionality cookie | Remembers your site preference so that the "Choose your country" webpage does not always show up | Low  
+assortmentid | Functionality cookie | Identifies which section of the site currently being browsed | Low  
+priceMarketid | Functionality cookie | Displays the correct local currency | Low  
+hascookies1  
+cookietest | Functionality cookies | Check whether cookies are accepted or have been disabled | Low  
+csrel | Functionality cookie | Redirects users from China site preference back to international page | Low  
+SiteIDForModules | Performance cookie | Identifies how long the user has been on the site and identifies geographic location via URL. The information is used for trending purposes on an aggregated basis | Low  
+introHP<SiteID> | Functionality cookie | Prevents homepage intros from repeating each time | Low  
+ShowFlash | Performance cookie | Tracks how many times a Flash video has been viewed | Low  
+_URLReferrer | Functionality cookie | Provides the proper linkage back to the category you came from when the “Back to” link is selected | Low  
+mysid2 | Functionality cookie | Only applicable to users who have registered. Remembers registered users’ username and address at check-out | Medium  
+(only applicable if you register as a user)  
+custLastVisit | Functionality cookie | Saves item in shopping (only if selected “Yes please” at “Remember my items?” option) | Low  
+ShoppingBagCnt | Strictly necessary cookie | Tracks Shopping Bag Count, without it, the Website would not be able to be cached and could not remember the items selected for purchase | Low  
+SavedItemsCnt | Strictly necessary cookie | Tracks Shopping Bag Count, without it, the Website would not be able to be cached and could not remember the items selected for purchase | Low  
+rtbResponseData | Functionality cookie | Saves RTB fields in encrypted format | Low  
+isGco | Functionality cookie | Identifies whether the user chooses Guest Checkout or registered user path | Low  
+gcs | Functionality cookie | Tracks the Guest Checkout Session once user chooses Guest Checkout flow | Low  
+reasontosignin | Functionality cookie | Ensures that the proper sign in page and destination page can be returned | Low  
+samebrowsersession | Functionality cookie | For Session Management, to display the sign-out link | Low  
+RegSignedIn | Functionality cookie | Displays whether the user is signed into registry | Low  
+siregid | Functionality cookie | Shows signed in Registry ID | Low  
+last_activity  
+LstActTm | Functionality cookies | Hide / show “Sign-out” link based on session timeout | Low  
+partner | Performance cookie | Identifies when a visitor has been redirected via another website by means of a Tiffany banner ad or link | Low  
+prefRegSite | Functionality cookie | (On mobile sites only) for users to select view mobile or view full site | Low  
+Omniture | Performance cookie | Omniture saves set of cookies for its analytics tracking | Medium  
+(third party analytics cookie)  
+Google Analytics | Performance cookie | Google saves set of cookies for its analytics tracking | Medium  
+(third party analytics cookie)  
+  
+### Managing your cookie choices
+
+You can disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting "Tools/Internet Options" and reviewing your privacy settings or selecting "delete cookies". However, please note that this may prevent you from taking full advantage of the Website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/manage-cookies/index.html).
+
+If you have any further questions about your privacy or how we use cookies on our site, please do not hesitate to contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122.
+
+This policy was last updated June, 20 2012.
