@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the crowdsavings.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507164044id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsavings.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127022818id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Crowd Savings.com
 
 To unsubscribe: [http://www.crowdsavings.com/unsubscribe](https://web.archive.org/unsubscribe)
 
-**Last Updated:** _February 18th, 2011_
+ **Last Updated:** _February 18th, 2011_
 
-This Privacy Policy discloses the privacy practices of CrowdSavings, LLC, a Delaware limited liability company (“CrowdSavings” or “us” or “we”), with respect to the _www.crowdsavings.com_ website, any subdomains of _www.crowdsavings.com_ , and any other website pages on which services are provided by us (collectively, the “Site”). Our Terms and Conditions governs your use of the Site and our online services (including any content or information therein).
+This Privacy Policy discloses the privacy practices of CrowdSavings.com, LLC, a Delaware limited liability company (“CrowdSavings.com” or “us” or “we”), with respect to the _www.crowdsavings.com_ website, any subdomains of _www.crowdsavings.com_ , and any other website pages on which services are provided by us (collectively, the “Site”). Our Terms and Conditions governs your use of the Site and our online services (including any content or information therein).
 
 Our Privacy Policy was developed as an extension of our commitment to combine quality coupons and deals for products and services with integrity in dealing with our users. We are committed to protecting your privacy online. Our Privacy Policy is designed to assist you (the “User”) in understanding how we collect, use and store the personal information you provide to us.
 
@@ -69,9 +69,9 @@ In an effort to prevent unauthorized access, disclosure or accidental loss of yo
 California law permits visitors who are California residents to request certain information regarding our disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us at:
 
 **Privacy - California**  
-5405 Cypress Center Drive, Suite 110  
-Tampa, Florida 33609  
-(800) 285-3499 
+5300 W Cypress St. Suite 245  
+Tampa, FL 33607  
+888-647-2830
 
 #### 9\. Contacting Us.
 
@@ -80,6 +80,6 @@ If you desire not to receive information about products or services we think may
 If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:
 
 **Privacy**  
-5405 Cypress Center Drive, Suite 110  
-Tampa, Florida 33609  
-(800) 285-3499 
+5300 W Cypress St. Suite 245  
+Tampa, FL 33607  
+888-647-2830
