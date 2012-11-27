@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paleoplan.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528145632id_/http%3A//www.paleoplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleoplan.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127184359id_/http%3A//www.paleoplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Paleo Plan
 
