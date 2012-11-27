@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616043500id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127160134id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies.aspx) for the most accurate reproduction.*
 
-# TV Licensing - TV Licensing’s privacy policy
+# TV Licensing - TV Licensing privacy and security policies
 
 'TV Licensing' is a trade mark of the BBC and is used under licence by companies contracted by the BBC to administer the collection of the television licence fee and enforcement of the television licensing system. We (the BBC) are a public authority in respect of our television licensing functions and we retain overall responsibility. We are also the data controller of personal data processed by TV Licensing.
 
@@ -146,7 +146,7 @@ We use Performance Cookies for internal purposes to help us to provide you with 
 
 This table lists the performance cookies that are used by TV Licensing all of which are set by our third party measurement and research companies:
 
-Cookie Name | Purpose  
+Cookie Name or Type | Purpose  
 ---|---  
 WT_FPC | This cookie is used to anonymously track your session on the TV Licensing website as part of the Webtrends session tracking (see table ‘Cookies set by third party companies’ under 4.8.2 below for further information on use of Webtrends). This information, in the form of summary usage metrics, is used to improve the customer experience on the website. This cookie expires after 10 years.  
 ACOOKIE | This cookie is used to anonymously track your session by the Webtrends Data Collector domain to improve the Webtrends Analytics reporting when sites span multiple domains. This cookie expires after 2 years.  
@@ -160,9 +160,9 @@ ACOOKIE | This cookie is used to anonymously track your session by the Webtrends
 
 These Google Analytics tracking cookies are used on the TV Licensing Cash Plans website to anonymously track a user’s session through the website and provide summary usage metrics that assist in traffic analysis and site improvements. ‘_utmc’ is a session cookie which expires when you close your browser. The others are persistent cookies and expire between 30 minutes and two years.
 
-Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. [Find out how to reject or delete this cookie](http://www.google.com/intl/en/privacypolicy.html).  
+Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  
   
-id | PHD, our on-line marketing partner, uses Doubleclick 'Floodlight Tags' on specific pages on the TV Licensing website to set the ‘id’ cookie on a user’s browser (a ‘persisent’ cookie). These Floodlight Tags are used to measure the effectiveness of online marketing campaigns for TV Licensing. They are used to track customer activity on the TVL Website once the user has viewed online TV Licensing advertising.  
+Doubleclick | PHD, our on-line marketing partner, uses Doubleclick 'Floodlight Tags' on specific pages on the TV Licensing website to allow cookies to be set on a user's browser. These tags allow PHD's own "id" cookie to be set as well as cookies served at different times by other suppliers on our behalf. These cookies are used to measure the effectivenes of online marketing campaigns for TV Licensing by measuring customer activity on the TV Licensing website once the user has viewed online TV Licensing advertising.  
   
 #### 4.8. How can I view and control cookies?
 
