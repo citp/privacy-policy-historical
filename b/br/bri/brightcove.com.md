@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604181937id_/http%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcove.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127100326id_/http%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightcove
 
