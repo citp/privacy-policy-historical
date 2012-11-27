@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopwiki.co.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606065800id_/http%3A//www.shopwiki.co.uk/wiki/Help%253APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127101229id_/http%3A//www.shopwiki.co.uk/w/Help%253APrivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -110,4 +110,4 @@ Attn:  Privacy
 New York, NY 10011  
 privacy@ShopWiki.com
 
-[Terms of Use](https://web.archive.org/wiki/Help%3ATerms-and-Conditions)
+[Terms of Use](https://web.archive.org/w/Help%3ATerms-and-Conditions)
