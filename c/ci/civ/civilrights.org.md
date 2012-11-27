@@ -1,13 +1,74 @@
-> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528183312id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127043042id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Leadership Conference on Civil and Human Rights
+# Privacy and Security Policy - The Leadership Conference on Civil and Human Rights
 
-We do not sell, rent, exchange or otherwise disclose our mailing lists or information about our site visitors. 
+**1.  Policy**
 
-We capture limited information about visits to the site, but this information is used only to analyze general traffic patterns (e.g. what pages are most/least popular) and to perform routine system maintenance. 
+ The Leadership Conference on Civil Rights and The Leadership Conference Education Fund (collectively “The Leadership Conference”) have a long history of working to uphold principles of fairness, justice, and equality under the law for all Americans and to create a nation that lives up to its ideals. In that spirit, The Leadership Conference is committed to respecting the privacy of its website users. As an advocacy organization, The Leadership Conference’s mission includes providing timely information and using online technologies to communicate with potential advocates and information seekers.
 
-If you choose to submit content to civilrights.org and provide personally identifiable information about yourself, we will not use the information for any purpose other than to continue educating you about civil rights issues. 
+The Leadership Conference includes as part of its mission, the effort to build users' trust and confidence in the Internet by promoting fair information practices. To fulfill this mission, The Leadership Conference agrees to exercise reasonable precautions to maintain the confidentiality of information provided by you in connection with accessing and using the Site.  
 
-Action alerts on civilrights.org may request zip code information so that we can match you with your members of Congress. If you are interested in receiving future alerts, we ask for your email address so that we may send you these updates. This information is not used for any other purpose. 
+As a nonprofit, nonpartisan advocacy organization providing information and opportunities to contact elected officials, we gather certain types of personally identifiable information ("Personal Information") from users of the Site. It is important for you to know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us as well as  the Personal Information that is collected passively through the use of cookies on  the Site.  The Leadership Conference agrees to post prominently and in plain language its specific privacy policies.
 
-We also collect e-mail addresses for our email publications. Your e-mail address for these publications is not used for any other purpose.
+This Privacy Policy sets forth The Leadership Conference’s current policies and practices with respect to Personal Information of the users of the Site.  Your continued participation on this Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below.
+
+**2.  Collection and Use of Information**
+
+Generally, you may browse the Site without providing any Personal Information.  We do not collect Personal Information about individuals except when specifically and knowingly provided by such individuals.  In collecting your personal information, we limit our use to the reasons given for collection of the information.  The Site provides certain activities where we gather Personal Information from users of the Site, such as an activity that requires that a user complete a registration process.  Registration to participate in these Site activities may require the submission of your full name, postal address, e-mail address, and other Personal Information.  You will also have the ability to opt-in to additional mailing list services, such as e-mail news alerts.
+
+Unless otherwise provided in a separate registration page, we do not request contact information for a mobile phone, text messaging or any wireless device that includes a domain name address (such as "wireless.bellsouth.com") as part of the contact information.  Federal law prohibits the sending of commercial e-mail messages directly to a wireless device that uses a domain name, unless you have first given your affirmative consent.  We may inadvertently collect a wireless device number that includes a domain name when you send us an inquiry or register for the mailing list.  However, we will not knowingly use that contact information for sending commercial e-mail.  
+
+We use your Personal Information to provide you with the services you request and to respond to  questions related to The Leadership Conference  or the Site.  We may also use your Personal Information to notify you about updates, action alerts, new features, and activities on behalf of The Leadership Conference or the Site that may be of interest to you. 
+
+From time to time, we may post information about job opportunities on the Site.  If interested in learning more about these opportunities, you can submit a resume and a cover letter.  Applications will be handled by our human resources director, Crystal Smith-Hunt, and we will make reasonable efforts to review the applications in a timely fashion.  We will share your application with members of the staff to assess the application's qualifications. We will not distribute or share Personal Information submitted in relation to employment with any third party without your consent.
+
+We may also use your Personal Information for operational and business purposes, or to find out how we can improve our organization and Site via surveys or online tracking mechanisms.  We use aggregate Personal Information collected directly during the registration process and via cookies to help us evaluate and modify existing services and features.. (For more information on “cookies” and our policy on the use of cookies see below).  We also use your Personal Information to develop new services and features that may be of interest to you.
+
+**3.  Disclosure of Information**
+
+We will not sell, exchange, rent, lease or otherwise disclose your Personal Information or sensitive Personal Information to any third party without your consent.  However, The Leadership Conference may disclose Personal Information in special cases: (1) when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights of The Leadership Conference or to anyone that could be harmed by such activities, including threats to the physical safety of any person; (2) when we believe in good faith that the law requires it; and (3) to any affiliate or to any third party who may acquire The Leadership Conference. 
+
+**4.  Your Rights to Review and Correct Your Personal Information**
+
+You may contact The Leadership Conference by sending an e-mail including the subject line of “Personal Information Request” to [info@civilrights.org](mailto:info@civilrights.org) to ask if we are keeping Personal Information about you. If we do have Personal Information about you, we will provide you with a readable copy of such Personal Information at no charge.  Factual errors in your Personal Information, including out-of-date information, can be corrected by sending us a request that credibly shows our error.
+
+**5.  Vendors**
+
+We use third-party vendors for various purposes. For example, we use a vendor to store and send email addresses. When you sign up to receive information from The Leadership Conference or fill out a form to take action, the information is received and stored on the servers of our third-party service, [Blackbaud](https://www.blackbaud.com/). The Leadership Conference does not permanently store on its servers email addresses and other personal information collected from our websites.
+
+Any time a vendor’s data collection, use or security practices differs from the data collection/use practices described in this Privacy Policy in a manner that would impact users of The Leadership Conference Site, we will either describe on the page of The Leadership Conference Site where such optional functions appear the specific data collection, use or security practices of such vendor that would apply if you elect to use that optional function or we will provide a link to that third-party service provider's privacy policy.
+
+**6.  Opt-Out Procedures**
+
+You may always opt-out of receiving communications from us by clicking on the removal link provided at the bottom of email sent by The Leadership Conference. ****
+
+**7.  Security of Information**
+
+You can be assured that the Personal Information collected through the Site is secure and is maintained in a responsible manner consistent with current industry standards. The importance of security for all Personal Information associated with our subscribers is of utmost concern to us. 
+
+In order to most efficiently serve you, credit card transactions are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.  Financial transactions related to your purchases from The Leadership Conference are handled by **[Blackbaud](https://www.blackbaud.com/). **Information relating to your financial transactions will not be maintained on The Leadership Conference servers.  Please visit the Web sites of **[Blackbaud](https://www.blackbaud.com/) **to familiarize yourself with its terms and conditions and with its privacy policies.
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure.  As a result, while we strive to protect your Personal Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through the Site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
+
+**8.  "Cookies" **
+
+You should be aware that non-Personal Information and data may be automatically collected on the Site through the use of “cookies.”  “Cookies” are small text files (no larger than 4k) stored as text on a computer hard drive.  Websites can use "cookies" to recognize repeat visitors, facilitate the visitor's ongoing access to and use of the site, and allow a site to track usage behavior and compile aggregate data that will allow content improvements.  “Cookies” are not programs that come onto a visitor's system and damage files.  The use of “cookies” is common in the Internet industry, and many major websites use them to provide useful features to their customers.  Generally “cookies” work by assigning a unique number to the visitor that has no meaning outside the assigning site.  If a visitor does not want information collected through the use of “cookies”, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature.  The Leadership Conference uses “cookie” technology but only to obtain non-Personal Information from online visitors in order to improve their online experience and facilitate their visit within the Site.  
+
+**9.  Links to Third-Party Web sites**
+
+The Site may contain links to the websites of third parties not affiliated with The Leadership Conference.  You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by the Site or The Leadership Conference of the content, advertising or business practices.  The Leadership Conference is NOT responsible for the privacy practices or the content on any of these other websites, including any sites that may indicate a special relationship or “partnership” with The Leadership Conference.  The Leadership Conference does not disclose unique identifiers to those responsible for the linked sites.  The linked sites, however, may collect Personal Information from you when you link to their sites.  This collecting of information is not subject to the control of The Leadership Conference.  To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from the Site.
+
+**10.  Our Commitment to Children's Privacy**
+
+Protecting the privacy of the very young is especially important.  We never collect or maintain information at the Site from persons we know to be under age 13, and no part of our Site is designed to attract anyone under age 13.  Please do not communicate with or contact us if you are under age 13.  By your participation in our Site activities, you certify that you are at least 13 years of age and meet any other eligibility requirements of the Site. **  
+**
+
+**11.  Accountability**
+
+The Leadership Conference is committed to maintaining and strengthening consumer trust in our Site, by strictly adhering to the Privacy Policy set forth.  **Further,** The Leadership Conference **holds its employees responsible to handle personal data consistently with the Privacy Policy.** ****
+
+**12\. Changes to this Privacy Policy**
+
+The Leadership Conference may revise this Privacy Policy over time as new features are added to the Site or as Internet law and standards evolve.  We will post those changes prominently but we do recommend that you read this Privacy Policy each time you visit the Site.  Changes will not apply retroactively to Personal Information that was collected before the changes to the Privacy Policy, except as may be required by law.
+
+**Effective Date:   8/22/2012**
