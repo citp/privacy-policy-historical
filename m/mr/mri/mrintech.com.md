@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrintech.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620044610id_/http%3A//mrintech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrintech.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128052946id_/http%3A//mrintech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MrinTech
 
@@ -51,4 +51,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 When you make a comment or contact us using the [**Contact Page**](http://mrintech.com/contact), your E-mail Address  is required. Please be assured that your E-mail address will only be used for responding to your E-mail or Comment and will never be made publicly available. We will never sell your email address to any third parties, ever.
 
-**Feel free to contact the Blog Author using the[Contact Page](https://web.archive.org/web/20120620044610id_/http%3A//contact), for any other query/information.**
+**Feel free to contact the Blog Author using the[Contact Page](https://web.archive.org/web/20121128052946id_/http://mrintech.com/contact), for any other query/information.**
