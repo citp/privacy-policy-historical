@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530141021id_/http%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128132248id_/http%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UserVoice
 
@@ -88,13 +88,13 @@ UserVoice complies with the US-EU Safe Harbor Framework as set forth by the U.S.
 
 In compliance with the Safe Harbor Principles, UserVoice commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact UserVoice at:
 
-**UserVoice, Inc.**  
-425 Bush St., Suite 600  
-San Francisco, CA 94108  
+**UserVoice Inc.**  
+121 2nd St, Floor 4  
+San Francisco, CA 94105  
 [support@uservoice.com](mailto:support@uservoice.com)  
 Attn: Chief Executive Officer 
 
-UserVoice has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by UserVoice please visit the BBB EU SAFE HARBOR web site at [ www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20120530141021id_/http://www.uservoice.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+UserVoice has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by UserVoice please visit the BBB EU SAFE HARBOR web site at [ www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20121128132248id_/http://www.uservoice.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Changes to this privacy policy
 
@@ -105,5 +105,5 @@ From time to time, we may make changes to this privacy policy. In order to ensur
 If you have any questions about this privacy statement, the practices of the UserVoice Website and UserVoice Services, or your dealings with UserVoice, please contact us at: [support@uservoice.com](mailto:support@uservoice.com) or by mail at:
 
 **UserVoice Inc.**  
-425 Bush St. Suite 600  
-San Francisco, CA 94108 
+121 2nd St, Floor 4  
+San Francisco, CA 94105 
