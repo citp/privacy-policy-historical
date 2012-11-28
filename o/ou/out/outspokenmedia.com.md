@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604062847id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128040921id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Outspoken Media
 
@@ -38,3 +38,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, writing to us at the above address.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
+
+  
+
