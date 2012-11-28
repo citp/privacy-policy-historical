@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankpo.in privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529031134id_/http%3A//bankpo.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankpo.in privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128220654id_/http%3A//bankpo.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BANK JOBS | IBPS EXAMS
 
@@ -37,8 +37,6 @@ We allow users to comment on the site. However we hold all rights to accept or r
 While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to our site and you are solely responsible for maintaining the secrecy of any passwords or other account information.
 
 In addition other Internet sites or services that may be accessible through our site have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. 
-
-[**visit WWW.JOBSBHAI.COM for latest GOVERNMENT JOBS**](http://jobsbhai.com/)
 
 —————————————————————————————-
 
