@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tristancafe.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530182154id_/http%3A//tristancafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tristancafe.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128134405id_/http%3A//tristancafe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : TristanCafe
+# Privacy Policy - TristanCafe
 
 TRISTANCAFE.COM fully respects your privacy. In fact, when you register in our social network and forums, only the username, password, and email address are required. Your IP address is also recorded in our database upon registration. This information is used for system administration, social network management and forum moderation, and can also be used to create broad demographic summaries of the countries where our visitors come from. Other information such as name, sex, location, birthday, etc are completely optional. In any case, we absolutely do NOT sell, loan, or otherwise disclose any such personal information to anyone, particularly third parties such as marketers and advertisers. At most, advertisers are presented with only broad statistics such as country demographics of visitors and number of registered members. This is not linked to any personal information that can identify any individual person.
 
