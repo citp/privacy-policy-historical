@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wpexplorer.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327090731id_/http%3A//www.wpexplorer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpexplorer.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128231447id_/http%3A//www.wpexplorer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy for www.wpexplorer.com**
+## **Privacy Policy for www.wpexplorer.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at aoclarkejr@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sympleworkz[at]gmail[dot]com.
 
 At www.wpexplorer.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.wpexplorer.com and how it is used.
 
@@ -29,6 +29,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Website Disclosure**
-
-For our full affiliate disclosure please see the following link: [Disclosure](http://www.wpexplorer.com/disclosure.html "Disclosure")
+We reserve the right to change this policy at any time.
