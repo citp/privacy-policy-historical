@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529053859id_/http%3A//www.adready.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128044603id_/http%3A//www.adready.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AdReady | AdReady
+# Privacy Policy - AdReady, INC.
 
 ## Introduction
 
@@ -38,7 +38,7 @@ Advertisements from AdReady link to third-party web sites. Those sites may have 
 
 ### Opt-Out and Your Choices
 
-AdReady respects your decision to opt-out of cookie-based tracking. If you wish to opt out of targeted ads based on the AdReady cookie, please [click here](https://web.archive.org/consumer_opt_out).  Our opt-out tool will not opt you out of other parties’ cookies.  You can also visit the Digital Advertising Alliance’s opt-out page to opt-out of other cookies [here](http://www.aboutads.info/choices/). In order to do this, we will put a cookie on your computer that indicates you have opted out. Note, if you change computers, browsers or delete your cookies, you will need to re-opt-out. Also, you will still see advertisements from AdReady clients, but they will be un-personalized.
+AdReady respects your decision to opt-out of cookie-based tracking. If you wish to opt out of targeted ads based on the AdReady cookie, please [click here](http://www.adready.com/consumer_opt_out).  Our opt-out tool will not opt you out of other parties’ cookies.  You can also visit the Digital Advertising Alliance’s opt-out page to opt-out of other cookies [here](http://www.aboutads.info/choices/). In order to do this, we will put a cookie on your computer that indicates you have opted out. Note, if you change computers, browsers or delete your cookies, you will need to re-opt-out. Also, you will still see advertisements from AdReady clients, but they will be un-personalized.
 
 ### Blocking Non-Personal Information Collection
 
