@@ -1,22 +1,31 @@
-<!--The following is the downloaded HTML source of the pashtotube.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504024931id_/http%3A//pashtotube.com/page/2/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pashtotube.com privacy policy that was archived on 2012-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121128195315id_/http%3A//pashtotube.com/page/2/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 <!-- ClipBucket v2 -->
+
 <meta name="copyright" content="ClipBucket - PHPBucket ClipBucket 2007 - 2012">
+
 <meta name="author" content="Arslan Hassan - http://clip-bucket.com/arslan-hassan">
+
 <link rel="shortcut icon" href="http://pashtotube.com/favicon.ico">
+
 <link rel="icon" type="image/ico" href="http://pashtotube.com/favicon.ico">
 
+
+
 <!-- RSS FEEDS -->
+
 <link rel="alternate" type="application/rss+xml" title="Recently added videos" href="http://pashtotube.com/rss/recent">
 <link rel="alternate" type="application/rss+xml" title="Most Viewed Videos" href="http://pashtotube.com/rss/views">
 <link rel="alternate" type="application/rss+xml" title="Top Rated Videos" href="http://pashtotube.com/rss/rating">
 <link rel="alternate" type="application/rss+xml" title="Videos Being Watched" href="http://pashtotube.com/rss/watching">
 
 
-<title>Pashto Tube - Privacy Policy</title>
+
 
 <meta name="keywords" content="pashto, pashto songs,Pashto HD Songs, pashto vidoes, video songs, afghan video songs, pashto drama, pashto msuic, pashto singers,">
 
@@ -24,21 +33,43 @@
 
 <meta name="distribution" content="global">
 
-<link href="http://pashtotube.com/styles/stage/theme/main.css" rel="stylesheet" type="text/css">
-<link href="http://pashtotube.com/styles/stage/theme/jscroll.css" rel="stylesheet" type="text/css">
+
+
+
+
+<title>Pashto Tube - Privacy Policy</title>
+
+
+
+<link href="http://pashtotube.com/styles/ptube/theme/main.css" rel="stylesheet" type="text/css">
+
+
 
 <!-- Setting Template Variables -->
+
+
 <!-- Setting Template Variables -->
+
+
+
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+
 var baseurl = 'http://pashtotube.com';
-var imageurl = 'http://pashtotube.com/styles/stage/images';
+
+var imageurl = 'http://pashtotube.com/styles/ptube/images';
+
+
 </script>
+
+
+
+<script type="text/javascript" src="http://pashtotube.com/styles/ptube/layout/functions/theme_functions.js"></script>
 
 <script>
 var baseurl = 'http://pashtotube.com';
-var imageurl = 'http://pashtotube.com/styles/stage/images';
+var imageurl = 'http://pashtotube.com/styles/ptube/images';
 </script>
 <link rel="stylesheet" href="http://pashtotube.com/styles/global/jquery_ui.css" type="text/css" media="all">
 <script type="text/javascript" src="http://pashtotube.com/js/jquery.js"></script>
@@ -97,9 +128,6 @@ function switchEmbedCode(type)
  
 </script>
 
-	<link rel="stylesheet" href="http://pashtotube.com/plugins/cb_carousel/css/cbcStyle.css">
-<script src="http://pashtotube.com/plugins/cb_carousel/js/jquery.caroufred.js"></script>
-	
 	
 	
 <style>
@@ -109,7 +137,17 @@ Author: Samir Tuladhar
 Author URI: http://www.samirtuladhar.com
 */
 
-#box{position: absolute;left: -80px;border: 1px solid #ccc;padding: 10px;top:166px; background-color:#FFF;
+#box{position: absolute;left: -80px;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #EAEAEA;
+	border-left-color: #EAEAEA;
+	border-bottom-color: #EAEAEA;padding: 10px;top:-1px; background-color:#FFF;
+	
 }
 
 #box div{margin-bottom:5px}
@@ -135,6 +173,160 @@ Author URI: http://www.samirtuladhar.com
     </script>
 
 
+	<script type="text/javascript">
+
+
+	
+	
+	var download = 0;
+	var total_size = 0;
+	var cur_speed = 0;
+	
+	var status_refesh = 1 //in seconds
+	var result_page = 'http://server1.pashtotube.com/actions/file_results.php';
+	var download_page = 'http://pashtotube.com/plugins/cb_multiserver/api/remote_upload.php';
+	var server_path = 'http://server1.pashtotube.com';
+	var count = 0;
+	
+	
+	var force_stop = false;
+	var remoteObjID = randomString();
+	
+	
+	function ms_remote_upload()
+	{
+		
+		
+		$('#remoteUploadBttn').attr("disabled","disabled").hide();
+		$('#ytUploadBttn').attr("disabled","disabled");
+		$('#remoteUploadBttnStop').show();
+		var file = $("#remote_file_url").val();
+		force_stop = false;		
+		var theError = false;
+		
+		$.post(baseurl+'/actions/file_downloader.php',
+			{check_url:file},function(data)
+			 {
+				  if(data.err)
+				  	theError = true;
+			  },"json"
+		);
+			
+			
+		if(!file || file=='undefined' || theError)
+		{
+			alert("Please enter file url");
+			$('#remoteUploadBttn').attr('disabled','').show();
+			$('#remoteUploadBttnStop').attr("disabled","disabled").hide();
+			$('#ytUploadBttn').attr("disabled","");
+			return false;
+		}
+		
+		var ajaxCall = $.ajax({
+			  url: download_page,
+			  type: "POST",
+			  data: ({file:file,file_name:file_name,server_path:server_path}),
+			  dataType : 'json',
+			  beforeSend : function()
+			  {
+				  
+				  ms_status_update();
+				  var remoteFileName = getName(file);
+				 $("#loading").html('<div style="float: left; display: inline-block;"><img src="'+imageurl+'/ajax-loader.gif"></div><div style="float: left; line-height: 16px; padding-left:5px">'+lang.remoteUploadFile+'</div><div class="clear"></div>');
+				 $('#remoteFileName').replaceWith('"'+remoteFileName+'"');
+			  },
+			  success: function(data)
+			  {
+				  
+				  if(data.error)
+				  {		  
+					force_stop = true;
+					$('#remoteUploadBttn').attr('disabled','');
+					$('#ytUploadBttn').attr("disabled","");
+					alert(data.error);
+				  }				  
+				  $("#loading").html('');
+				  
+				  var vid = data.vid;
+				  
+				   $.post(baseurl+'/actions/file_uploader.php',
+				  {"getForm":"get_form","title":$("#remote_file_url").val(),"objId":remoteObjID},
+				  function(data)
+				  {
+					    $('#remoteUploadBttnStop').hide();
+						$('#ytUploadBttn').hide();
+						$('#remoteForm').append(data);
+							$('#cbSubmitUpload'+remoteObjID)
+							.before('<span id="updateVideoDataLoading" style="margin-right:5px"></span>')
+							.attr("disabled","")
+							.attr("value",lang.saveData)
+							.attr("onClick","doUpdateVideo('#uploadForm"+remoteObjID+"','"+remoteObjID+"')")
+							.after('<input type="hidden" name="videoid" value="'+vid+'" id="videoid" />')
+							.after('<input type="hidden" name="updateVideo" value="yes" id="updateVideo" />');
+				  },'text');
+			  }
+		   }
+		);
+		
+		$('#remoteUploadBttnStop').click(function() { 
+		ajaxCall.abort(); force_stop=true; $("#loading").html('');$('#remoteDownloadStatus').hide(); $(this).hide();$('#remoteUploadBttn').attr('disabled','').show(); });
+		
+		
+	}
+	
+	
+	function ms_status_update()
+	{
+		
+
+		$.getJSON(result_page+"?file_name="+file_name+"&jsoncallback=?", function(data)
+	{
+				
+				  if(data)
+				  {
+					  var total = data.total_size;
+					  var download = data.downloaded;
+					  var total_fm = data.total_size_fm;
+					  var download_fm = data.downloaded_fm;
+					  var speed = data.speed_download;
+					  var eta = data.time_eta;
+					  var eta_fm = data.time_eta_fm;
+					  var time_took = data.time_took;
+					  var time_took_fm = data.time_took_fm;
+					   
+					  if(speed/1024/1024>1)
+					  {
+						var theSpeed = Math.round(speed / 1024/1024) + " Mbps";
+					  }else
+						var theSpeed = Math.round(speed/ 1024 ) + " Kbps";
+					  
+					perc_download = Math.round(download/total*100);
+					
+					$('#remoteDownloadStatus').show();
+					//$('#prog_bar').width(perc_download+'%');
+					$('#prog_bar').animate({width:perc_download+'%'},1000);
+					$('#prog_bar').html(perc_download+'%');
+					$('#dspeed').html(theSpeed);
+					$('#eta').html(eta_fm);
+					$('#status').html(download_fm+' of '+total_fm);
+				  }
+					
+					var intval = status_refesh*1000;
+					if(perc_download<100 && !force_stop)
+					setTimeout(function(){ms_status_update()},intval);
+					
+					else if(perc_download==100 && total>1)
+					{
+						
+						$('#time_took').html('Time Took : '+time_took_fm);
+					}
+			}
+			);
+		
+	}
+	
+	
+</script>
 	<script type="text/javascript" src="http://pashtotube.com/player/cbplayer/cbplayer.js"></script>
 <!-- Ending Plugin Headers -->
 
@@ -169,128 +361,402 @@ $(function() {
 
 <!-- ClipBucket version 2.6 -->
 
-<script src="http://pashtotube.com/styles/stage/theme/functions.js" type="text/javascript"></script>
-<script src="http://pashtotube.com/styles/stage/theme/jscroll.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+<!-- Including Common Js -->
+
+
+
+<!-- End Including Common Js -->
+
+
+
+
 
 <script type="text/javascript">
-$(document).ready(function() {
+
 	
-;
+
+	$(document).ready(function() {
+
+	
+
+	
+	
+
+		$("#searchSelectWrapper ul li a").filter('#videos').parent().addClass('selected');	
+
+		$('#selectedText').text($("#searchSelectWrapper ul li a").filter('#videos').text());
+
+		$('#searchType').val($("#searchSelectWrapper ul li a").filter('#videos').attr('id'));
+
+	
+
+	
+							   
+
+	$('.user_login').hide();					   
+
+	
+
+	$('#user_login').toggle(
+
+		function() {
+
+			$('.user_login').slideDown('normal');
+
+		},
+
+		function() {
+
+			$('.user_login').slideUp('normal');
+
+		}
+
+								
+
+	);
+
+	$("#searchSelectWrapper ul li a").bind({
+
+		click : function(event) {
+
+			event.preventDefault();
+
+			$("#searchType").val($(this).attr('id'));
+
+			$('#selectedText').text($(this).text());
+
+			$(this).parent().parent().children().removeClass('selected');
+
+			$(this).parent().addClass('selected')
+
+			$('#searchSelectWrapper').hide();
+
+		}
+
+	});
+
+	/*$('.tabs li').click(
+
+		function() {
+
+			$('.tabs li').removeClass('selected')
+
+			$(this).addClass('selected');
+
+		}
+
+	);*/
+
+	
+
+	$('.tabs li').each(function(index, value){
+
+		$(value).click(function(){
+
+			{	
+
+				$(this).parent().children().filter('.selected').removeClass('selected');
+
+				$(this).addClass('selected');
+
+			}
+
+		})
+
+	});
+
+	$('#lang_selector').click(function(){
+
+  	//do redirection
+
+	});
+
+	
+
+		$('#lang_selector').change(function(){
+
+		  var optionSelectedValue = $('#lang_selector option:selected').val();
+
+		  if(optionSelectedValue)
+
+		  window.location = "?set_site_lang="+optionSelectedValue;
+
+		});
 
 		
-		$("#searchSelectWrapper ul li a").filter('#videos').parent().addClass('selected');	
-		$('#selectedText').text($("#searchSelectWrapper ul li a").filter('#videos').text());
-		$('#query').val("Search "+$("#searchSelectWrapper li a").filter('#videos').text());
-		$('#searchType').val($("#searchSelectWrapper ul li a").filter('#videos').attr('id'));
-	
+
+		
 		
 	
-	ToggleSearch('#query');
-	$('#lang_selector').change(function(){
-	  var optionSelectedValue = $('#lang_selector option:selected').val();
-	  if(optionSelectedValue)
-	  window.location = "?set_site_lang="+optionSelectedValue;
+			
+
 	});
+
 	
-	$('.scroll_div').jScrollPane({
-									"showArrows": true,
-									"scrollbarWidth": 15,
-									"dragMaxHeight": 127,
-									"reinitialiseOnImageLoad": true
-								 });						 	
-})
+
+	function ToggleView(obj) {
+
+		var obj = $(obj),
+
+			obj_id = obj.attr('id'),
+
+			parent = obj.parent().attr('id'),
+
+			target = $("#"+parent).next().attr('id');
+
+			//alert('#'+parent+' #'+target+' .grid_view');
+
+			if(obj_id == "grid") {
+
+				$('#'+parent+' + #'+target+' .grid_view').removeClass('list_view');
+
+				$.cookie("current_style","grid_view")
+
+				$('.vid_sp').hide();		
+
+				$('.truncatedtitle').hide();	
+
+				$('.fulltitle').show();	
+
+			} else {
+
+				$('#'+parent+' + #'+target+' .grid_view').addClass('list_view');
+
+				$.cookie("current_style","list_view")
+
+				$('.vid_sp').show();
+
+				$('.truncatedtitle').show();	
+
+				$('.fulltitle').hide();			
+
+			}
+
+	}
+
+
 
 </script>
 
 
 
 
+
 <!--[if lte IE 6]>
+
 <style type="text/css">
+
 .clearfix { height: 1%; }
+
 </style>
+
 <![endif]-->
 
+
+
 <!--[if IE 7]>
-<link href="http://pashtotube.com/styles/stage/theme/ie7.css" rel="stylesheet" type="text/css" />
+
+<link href="http://pashtotube.com/styles/ptube/theme/ie7.css" rel="stylesheet" type="text/css" />
+
 <![endif]-->
+
+
+
+<script type="text/javascript">
+
+function bookmarkSite(title, url) {
+
+	if (window.sidebar) { // firefox
+
+		window.sidebar.addPanel(title, url,"");
+
+		return false;
+
+	} else if( document.all ) { //MSIE
+
+		window.external.AddFavorite( url, title);
+
+		return false;
+
+	} else if(window.opera && window.print) {
+
+		alert("Your using Opera. Press Shift+Ctrl+D to add '"+title+"' in bookmarks");
+
+		return false;
+
+	} else if(navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
+
+		alert("Your using either Chrome or Safari. Press Ctrl+D to add '"+title+"' in bookmarks.")	
+
+	} else {
+
+		alert("Sorry, your browser doesn't support this");	
+
+	}
+
+}
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+		
+
+	$('.tabs li').click(
+
+		function() {
+
+			$('.tabs li').removeClass('selected')
+
+			$(this).addClass('selected');
+
+		}
+
+	);
+
+	$('#lang_selector').click(function(){
+
+  //do redirection
+
+});
+
+
+
+	$('#lang_selector').change(function(){
+
+	  var optionSelectedValue = $('#lang_selector option:selected').val();
+
+	  if(optionSelectedValue)
+
+	  window.location = "?set_site_lang="+optionSelectedValue;
+
+	});
+
+
+
+	get_video('recent_viewed_vids','#ajax_vdos');
+
+	getAjaxPhoto('last_viewed','#ajax_photo');
+
+	
+
+	formActions('.dm_form_tag','.dm_input');
+
+	
+
+	addFirstClass();	
+
+	horScroller();
+
+});
+
+
+
+</script>
+
+
+
+
 
 </head>
 
-<!-- Global Header Ends Here --><body>
-<div id="quicklist_box" class="quickListContainer"></div>
+
+
+<!-- Global Header Ends Here -->
+<body>
+
+<!---->
 
 
 
-<div id="header" class="relative">
+<!-- Including Commong header -->
 
-	<div class="wrap relative">
+<div class="container_container">
 
-    	<div class="logo_placeholder">
+	<div class="topHead">
+<div id="container" class="container_header clearfix">
+<!-- Loading Quicklist Box -->
+<div id="quicklist_box"></div>
 
-        <a href="http://pashtotube.com"><img src="http://pashtotube.com/styles/stage/images/dot.gif" alt="Pashto Tube - Privacy Policy" width="174" height="60" border="0" id="logo_icon" title="Pashto Tube - Privacy Policy" class="logo"></a>
+<div id="header">
+	<div>
+    <a href="http://pashtotube.com"><img src="http://pashtotube.com/styles/ptube/images/dot.gif" alt="Pashto Tube - Privacy Policy" name="logo_icon" width="326" height="64" border="0" id="logo_icon" title="Pashto Tube - Privacy Policy" class="logo"></a>
+</div> <!--LOGO END-->
 
-        </div>
+    <div class="login_con clearfix">
+        <div class="user_login clearfix">
+                	<a href="http://pashtotube.com/forgot.php" class="forget" title="Forget Username/Password, Click Here"></a>
+            <form action="http://pashtotube.com/signup.php" method="post" name="login" style="margin:0px; padding:0px;">
+                <input type="text" value="Username" id="cb_head_username" name="username" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">
+                <input type="password" value="Password" id="cb_head_password" name="password" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">                
+                <input type="submit" value="Login" id="login_head_bttn" name="login">
+                <input type="checkbox" name="rememberme" id="rememberme"> <span class="remember">Remember Me</span>
+                
+			</form> 
+         
+        </div> <!--USER_LOGIN CLASS END-->
+      
+         <div id="user_login">
+            <a href="javascript:void(0)">
+                        	Member Login
+                
+            </a>
+        </div> <!--USER_LOGIN ID END--><div class="updatedUpload">
+         		<a href="http://pashtotube.com/signup">Register for free</a>
+                  
+    </div>
+    </div> <!--LOGIN_CON END-->
+    
+        
+</div> <!--HEADER ID END-->
+</div>
+<div class="navigation">
 
-		<div class="moveR home_search round_12 clearfix">
+    <ul>
+		<li id="cbHomeTab" class="little_big selected"><a href="http://pashtotube.com">Home</a></li><li id="cbVideosTab" class="little_big"><a href="http://pashtotube.com/videos/">Videos</a></li><li id="cbChannelsTab" class="little_big"><a href="http://pashtotube.com/channels/">Channels</a></li><li id="cbSignupTab" class="little_big"><a href="http://pashtotube.com/signup">Signup</a></li>
+        <li><a href="http://pashtotube.com/upload">Upload Video</a></li>
+        
+    </ul>
+    
+    <div class="moveR dm_form_tag full_round clearfix">
+    	<form action="http://pashtotube.com/search_result.php" method="get" name="search" id="search" style="padding:0px; margin:0px;">
+			<span class="dm_search_icon moveL"></span>
+			<input type="text" name="query" id="query" class="dm_input moveL" value="">
+			<input type="submit" name="submit" id="submit" class="dm_search_button moveL" value="Search">
+        </form>
+    </div>
+</div> <!--navigation end-->
 
-        	<form action="http://pashtotube.com/search_result.php" method="get" class="relative">
-
-            	
-            	<input type="text" id="query" name="query" class="moveL home_input small tahoma" value="">
-
-                <input type="hidden" name="type" id="searchType" value=""> 
-
-                <button type="submit" class="moveR small tahoma round_12 home_search_btn relative">Search</button>
-
-                <div class="searchSelection round_3 textCenter blue_grad border absolute" onclick="$('#searchSelectWrapper').toggle();">
-
-                	<div id="selectedSearch">
-
-                		<span id="selectedText" class="small bold"></span>
-
-                    </div>
-
-                    <div id="searchSelectWrapper" class="absolute  drop_shadow">
-
-                        <ul>
-
-                            
-                                <li>
-
-                                <a id="users" href="#" onclick="SearchThis(this); return false;" class="small bold noDecoration">Users</a>
-
-                                </li>
-
-                            
-                                <li>
-
-                                <a id="videos" href="#" onclick="SearchThis(this); return false;" class="small bold noDecoration">Videos</a>
-
-                                </li>
-
-                            
-                        </ul>    
-
-                    </div>                    
-
-                </div>                
-
-            </form>
-
-        </div> <!-- search end -->
+</div>
+    <div class="break2"></div>
+    
+    
+    <div id="container" class="container clearfix">
 
         
 
-        <ul class="navigation">
+        <div class="nav_shadow"></div>
 
-			<li id="cbHomeTab" class=" selected"><a href="http://pashtotube.com">Home</a></li><li id="cbVideosTab" class=""><a href="http://pashtotube.com/videos/">Videos</a></li><li id="cbChannelsTab" class=""><a href="http://pashtotube.com/channels/">Channels</a></li><li id="cbSignupTab" class=""><a href="http://pashtotube.com/signup">Signup</a></li>
-            <li style="background-color:#C40000; -khtml-border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; border-radius:5px;">
-            <a href="http://pashtotube.com/upload">Upload Video</a></li>
-							
-        </ul>
+        <div id="content" style="">
 
-<div></div><div id="floating-box">
+        
+
+        <div></div><div id="floating-box">
     <div id="box">
     
         <div><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=174075139327522&amp;xfbml=1"></script><fb:like href="" send="false" layout="box_count" width="40" show_faces="false" font=""></fb:like></div>
@@ -314,75 +780,28 @@ $(document).ready(function() {
   
 <!-- Floating box stops here -->
 
-    </div> <!-- wrap end -->
+        
 
-</div> <!-- header end -->
+        <!-- Message -->
 
-<div class="break"></div>
+        
 
-<div style="width:999px; margin-left:auto; margin-right:auto;">
 
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-4159180438368909";
-/* 728x90, After 1st Post */
-google_ad_slot = "1630403971";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
-            <!-- Featured Videos -->
 
-            <div style="width:265px; float:right; margin-right:-2px;">
+
+
+
+
+
+
+
+
+
+
 
             
-
-            
-             
-                    <div id="6831_block" class="video_block video_grad clearfix" style="display:inline-block; width:116px; margin:0px; padding:6px;">
-        	<div class="moveL video_thumb">
-                	<a href="http://pashtotube.com/video/XRBX6HRA86RK/Narey-Me-Wale-Na-Awre-Gul-Panra-amp-Bakhtiar-Khattak-2012" title="Narey Me Wale Na Awre - Gul Panra &amp; Bakhtiar Khattak 2012"><img src="http://pashtotube.com/files/thumbs/13359355647e489-1.jpg" width="115" height="75" class="border"></a>
-                    <p class="video_viwesz smaller round_8" style="left:0p;x">192 Views</p>
-       				<p class="video_duration smaller round_8">05:51</p>        
-                <img src="http://pashtotube.com/styles/stage/images/dot.gif" class="add_icon absolute" onclick="add_quicklist(this,'6831')" title="Add Narey Me Wale Na Awre - Gul Panra &amp; Bakhtiar Khattak 2012 to Quicklist" alt="Quicklist">
-                                 
-            </div> <!-- video_thumb end -->    
-</div> <!-- 6831_block end -->
-
-                
-                    <div id="6313_block" class="video_block video_grad clearfix" style="display:inline-block; width:116px; margin:0px; padding:6px;">
-        	<div class="moveL video_thumb">
-                	<a href="http://pashtotube.com/video/M8SAN6Y56M89/Gul-Panra-amp-Rahim-Shah-Lal-Pari-Original-Video-Song-2012" title="Gul Panra &amp; Rahim Shah (Lal Pari) Original Video Song 2012"><img src="http://pashtotube.com/files/thumbs/1328191013b49db-4.jpg" width="115" height="75" class="border"></a>
-                    <p class="video_viwesz smaller round_8" style="left:0p;x">70,135 Views</p>
-       				<p class="video_duration smaller round_8">06:08</p>        
-                <img src="http://pashtotube.com/styles/stage/images/dot.gif" class="add_icon absolute" onclick="add_quicklist(this,'6313')" title="Add Gul Panra &amp; Rahim Shah (Lal Pari) Original Video Song 2012 to Quicklist" alt="Quicklist">
-                                 
-            </div> <!-- video_thumb end -->    
-</div> <!-- 6313_block end -->
-
-                
-            
-            </div>
-
-    		<!-- Featured Videos End -->
-
-</div>
-
-<div class="break2"></div>
-
-
-
-
-
-
-
-
-
-    <div class="wrap clearfix">
-    <div class="container clearfix" style="width:98%;">
-        <!--[if gte mso 9]><xml>
+				<div style="width:98%; margin:auto"><!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -906,50 +1325,129 @@ personal information you have already provided to us, we will attempt to obtain
 your consent before implementing such revisions with respect to such
 information.</span>
 
-
-    </div>
 </div>				 		
 
-<div class="break"></div>
-<div class="break"></div>
-<div class="footer_bg clearfix">
-	<div class="wrap">
-    	<h2 class="rockwell big moveL">Pashto Tube</h2>
-        <div class="moveR foot_links">
-               
-                	            	<li><a class="small bold" href="http://pashtotube.com">Home</a></li>
-                            	            	<li><a class="small bold" href="http://pashtotube.com/contact">Contact Us</a></li>
-                            	            	<li><a class="small bold" href="http://pashtotube.com/page/2/privacy-policy">Privacy Policy</a></li>
-                            	            	<li><a class="small bold" href="http://pashtotube.com/page/4/how-to-use-pashtotube">How to use Pashtotube</a></li>
-                            </div>
-    </div> <!-- wrap end -->
-</div> <!-- footer_bg end -->
-<div class="break2"></div>
-<div class="rockwell small textCenter uppercase" style="font-size:0px;"></div>
-<center>
-<a href="http://www.mobilefun.pk/" target="_blank">Mobile Price</a> | <a href="http://www.raagrang.com/" target="_blank">Pashto Mp3</a> | <a href="http://www.coverslike.com/" target="_blank">Facebook Cover Photos</a>
-</center>
-<br>
+            
+        </div> <!--CONTENT END-->
+
+
+
+
+
+        <div id="footer">
+
+
+
+          
+
+            <!--FOOTER CLASS END-->
+
+            <div class="clearfix IE7_lang_change"></div>
+
+
+
+<div class="dm_footer">
+
+	<div id="content">
+
+
+
+
+
+    <ul class="footLinks">
+
+        
+        
+        	<li><a href="http://pashtotube.com">Home</a></li>
+
+        
+        
+        
+        	<li><a href="http://pashtotube.com/contact">Contact Us</a></li>
+
+        
+        
+        
+        	<li><a href="http://pashtotube.com/page/8/dmca">DMCA</a></li>
+
+        
+        
+        
+        	<li><a href="http://pashtotube.com/page/2/privacy-policy">Privacy Policy</a></li>
+
+        
+        
+        
+        	<li><a href="http://pashtotube.com/page/4/how-to-use-pashtotube">How to use Pashtotube</a></li>
+
+        
+        
+        
+    </ul>
+
+    <div class="break"></div>
+
+    <div class="break"></div>
+
+    <div style="font-size:0px;">
+
+    </div>
+
+    </div>
+
+</div>	
+
+
+
+
 
  
+
 <script type="text/javascript">
 
+
+
   var _gaq = _gaq || [];
+
   _gaq.push(['_setAccount', 'UA-15664748-1']);
+
   _gaq.push(['_trackPageview']);
 
+
+
   (function() {
+
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
   })();
 
+
+
 </script>
- 
 
  
+
+
+
+ 
+
 <center>
+
 <script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('683do3cf2s5o')</script>
+
 </center>
+
+
+        </div> <!--FOOTER ID END-->
+
+    </div>
+
+</div>
+
+
 
 </body></html>
