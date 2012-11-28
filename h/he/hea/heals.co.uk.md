@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629212300id_/http%3A//www.heals.co.uk/ordering-online-at-heals/privacy-policy/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128041055id_/http%3A//www.heals.co.uk/ordering-online-at-heals/privacy-policy/pcat/privacy) for the most accurate reproduction.*
 
 # Heal's | Privacy Policy
 
