@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iproduction.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602061039id_/http%3A//www.iproduction.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iproduction.com privacy policy that was archived on 2012-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121128201342id_/http%3A//www.iproduction.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Privacy Statement</title>
@@ -8,27 +8,27 @@
 		<meta name="description" content="">
 	<link rel="stylesheet" href="/css/styles.css" type="text/css">
 	
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.iproduction.com/custom/js/jquery.min.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.iproduction.com/custom/js/jquery.min.js"></script>
 	
-		<script type="text/javascript" src="http://www.iproduction.com/custom/js/jquery-ui.min.js"></script>
-	<link type="text/css" href="http://www.iproduction.com/css/smoothness/jquery-ui.css" rel="stylesheet">
+		<script type="text/javascript" src="http://cdn.iproduction.com/custom/js/jquery-ui.min.js"></script>
+	<link type="text/css" href="http://cdn.iproduction.com/css/smoothness/jquery-ui.css" rel="stylesheet">
 	
-		<script type="text/javascript" src="http://www.iproduction.com/custom/js/jquery.cycle.lite.min.js"></script>
+		<script type="text/javascript" src="http://cdn.iproduction.com/custom/js/jquery.cycle.lite.min.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function(){
 		$('.cycle').cycle({timeout: 8000});
 	});
 	</script>
 	
-		<script type="text/javascript" src="http://www.iproduction.com/custom/js/jquery.plugin.validate.js"></script>
+		<script type="text/javascript" src="http://cdn.iproduction.com/custom/js/jquery.plugin.validate.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function(){
 		$('form.validate').validate({'response_type':'dialog'});
 	});
 	</script>
 	
-		<script type="text/javascript" src="/custom/js/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
-	<link rel="stylesheet" href="/custom/js/fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen">
+		<script type="text/javascript" src="http://cdn.iproduction.com/custom/js/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
+	<link rel="stylesheet" href="http://cdn.iproduction.com/custom/js/fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen">
 	<script type="text/javascript">
 	$(document).ready(function(){
 		if ($('a.fancybox').length > 0) {
@@ -39,9 +39,32 @@
 	});
 	</script>
 	
+		<script type="text/javascript">
+	$(document).ready(function() {
+		$('.navButtons li').hover(
+		  function () {
+			// Strip "menu-" prefix to get ID
+			var menu_id = $(this).attr('id').substr(5);
+			$("#hidden-"+menu_id).delay(0).fadeIn();
+			$(this).addClass("on");
+		  }, 
+		  function () {
+			// Strip "menu-" prefix to get ID
+			var menu_id = $(this).attr('id').substr(5);
+			$("#hidden-"+menu_id).hide()
+			$("#hidden-"+menu_id).clearQueue();
+			$(this).removeClass("on");
+		  }
+		);
+		$('div.hidden-div').hover(function(){
+		  $(this).toggle();
+		});
+	});
+	</script>
+	
 		
 	<!--[if IE 6]>
-	<link rel="stylesheet" href="/css/styles-ie6.css" type="text/css" />
+	<link rel="stylesheet" href="http://cdn.iproduction.com/css/styles-ie6.css" type="text/css" />
 	<script type="text/javascript">
 	$(document).ready(function(){
 		$("input[type=submit], input[type=button]").addClass("button");
@@ -50,11 +73,21 @@
 	});
 	</script>
 	<![endif]-->
-		<script type="text/javascript">
-
+		
+					
+    <!-- Start Google Analytics Code -->
+<script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-27191935-1']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(
+	['_setAccount', 'UA-35378835-1'],
+	['_setDomainName', 'none'],
+	['_setAllowLinker', true]
+  );
+  
+
+  
+  _gaq.push(['_trackPageview', '']);
+
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -62,14 +95,16 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+
 </script>
+<!-- End Google Analytics Code -->
 
 </head>
 <body>
 <div id="page">
 	<div id="header">
 		<div id="branding" class="clear">
-			<div id="logo"><a href="/"><img src="/media/ui/branding_logo.gif" width="223" height="122" alt="iproduction - The Internet Publishing Platform"></a></div>
+			<div id="logo"><a href="/"><img src="http://cdn.iproduction.com/media/ui/branding_logo.gif" width="223" height="122" alt="iproduction - The Internet Publishing Platform"></a></div>
 		</div>
 		<div id="navigationSearchContainer">
 			<div id="search">
@@ -78,19 +113,19 @@
 <input type="hidden" name="zkDo" value="search">
 <input type="hidden" name="script" value="zkSearch">
 <input type="hidden" name="per_page" value="25">
-					<input type="image" src="/media/ui/btn_search.png" id="searchButton" value="Search">
+					<input type="image" src="http://cdn.iproduction.com/media/ui/btn_search.png" id="searchButton" value="Search">
 				</form>
 			</div>
 			<div id="social">
 				<ul>
 					<li>
-						<a href="/blogs/"><img src="/media/ui/icon_social_blog.png" alt="Blog"></a>
+						<a href="/blogs/"><img src="http://cdn.iproduction.com/media/ui/icon_social_blog.png" alt="Blog"></a>
 					</li>
 					<!--li>
-						<a href="#"><img src="/media/ui/icon_social_youtube.png" alt="YouTube" /></a>
+						<a href="#"><img src="http://cdn.iproduction.com/media/ui/icon_social_youtube.png" alt="YouTube" /></a>
 					</li-->
 					<li>
-						<a href="http://www.linkedin.com/company/iproduction" target="_blank"><img src="/media/ui/icon_social_linkedin.png" alt="LinkedIn"></a>
+						<a href="http://www.linkedin.com/company/iproduction" target="_blank"><img src="http://cdn.iproduction.com/media/ui/icon_social_linkedin.png" alt="LinkedIn"></a>
 					</li>
 				</ul>
 			</div>
@@ -98,28 +133,64 @@
 								<a href="#loginBox" id="loginButton" class="fancybox">Log In</a>
 							</div>
 			<div class="navigationMain">
-				<ul>
-					<li id="navigationMain1">
-						<a href="/why_iproduction/">Why iProduction</a>
-					</li>
-					<li id="navigationMain2">
-						<a href="/system_overview/">System Overview</a>
-					</li>
-					<li id="navigationMain3">
-						<a href="/technology/">Technology</a>
-					</li>
-					<li id="navigationMain4">
-						<a href="/news_events/">News &amp; Events</a>
-					</li>
-					<li id="navigationMain5">
-						<a href="/customers/">Customers</a>
-					</li>
-					<li id="navigationMain6">
-						<a href="/about/">About Us</a>
-					</li>
-				</ul>
-			</div>
+	<ul class="navButtons">
+		<li id="menu-solutions">
+			<a href="/solutions/">Solutions</a>
+		</li>
+		<li id="menu-services">
+			<a href="/services/">Services</a>
+		</li>
+		<li id="navigationMain3">
+			<a href="/technology/">Technology</a>
+		</li>
+		<li id="navigationMain4">
+			<a href="/news_events/">News &amp; Events</a>
+		</li>
+		<li id="navigationMain5">
+			<a href="/customers/">Customers</a>
+		</li>
+		<li id="navigationMain6">
+			<a href="/about/">About Us</a>
+		</li>
+	</ul>
+	<div id="hidden-solutions" class="hidden-div hidden-div-btn" style="display:none;">
+		<div class="clear">
+			
+<div class="col-1 left">
+	<ul>
+			<li><a href="/solutions/iproadb">Audience Database Builder</a></li>
+			<li><a href="/solutions/iprocms">Content Management System</a></li>
+			<li><a href="/solutions/iprodrm">Digital Rights Management</a></li>
+			<li><a href="/solutions/iprocommerce">E-Commerce</a></li>
+			<li><a href="/solutions/ipromail">Email &amp; Marketing Automation</a></li>
+			<li><a href="/solutions/iproleads">Lead Generation</a></li>
+			<li><a href="/solutions/cms_integration">Open Source CMS Integration</a></li>
+		</ul>
+</div>
+<div class="col-2 left">
+		<p><strong><a href="/news/drupal_audience_development-122-1.html">Healthcare Innovation Center – an integrated lead generation microsite</a></strong></p>
+	<p class="snippet">In October 2012, SourceMedia’s Health Data Management, an online B2B magazine, created the Healthcare Innovation Center. This online microsite takes the form of a virtual hospital in which healthcare CIOs, CMIOs, IT directors and others can learn about innovations in the field. Once readers register at any Health Data Management site, they need never register again either at the microsite or any other Health Data Management site. Source Media accomplished this using IProADB.</p>
+		<p><strong><a href="/news/-121-1.html">IProADB integrates Autism File with Belvoir Media Group’s company systems</a></strong></p>
+	<p class="snippet">IProADB’s WordPress plug-in allowed Belvoir Media Group LLC to integrate its newly acquired publication -- Autism File -- with its other publications that use a different CMS.</p>
+		<p><strong><a href="/news/-116-1.html">IProduction will be featured at ABM Executive Forum 2012</a></strong></p>
+	<p class="snippet">We are fortunate to have Dennis Arndt of CQ Roll Call present our 10-minute solution spotlight at the ABM Executive Forum.</p>
+	</div>
+ 
 		</div>
+	</div>
+	<div id="hidden-services" class="hidden-div hidden-div-btn" style="display:none;">
+		<div class="clear">
+			
+<div class="col-1 left">
+	<ul>
+			<li><a href="/services/audience_database.html">Audience Database Planning</a></li>
+			<li><a href="/services/digital_transformation.html">Digital Transformation Planning</a></li>
+		</ul>
+</div>
+ 
+		</div>
+	</div>
+</div>		</div>
 	</div>
 	<div id="breadcrumbContainer">
 		<ul id="breadcrumb" class="clear">
@@ -133,7 +204,7 @@
 	<div id="content" class="clear">
 		<div id="columnMain">
 						
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 function full_diagram_lightbox() {
     var width = document.documentElement.clientWidth + document.documentElement.scrollLeft;
 
@@ -160,15 +231,23 @@ function full_diagram_lightbox() {
     div.style.width = '775px';
     document.body.appendChild(div); 
         
-    div.innerHTML = '<a href="#"><img src="/media/ui/publish_full_wheel.gif" height="775" width="775" /></a>';
+    div.innerHTML = '<a href="#"><img src="http://cdn.iproduction.com/media/ui/publish_full_wheel.gif" height="775" width="775" /></a>';
     
-    div.onclick = function() 
-    {
+    div.onclick = function() {
       document.body.removeChild(document.getElementById('layer'));
       document.body.removeChild(document.getElementById('box'));
     };
-    
     return false;
+}
+</script>
+
+<script type="text/javascript" language="javascript">
+function rtSubject(formName) {
+	if (formName == undefined || formName == null){var formName = 'supportForm';}
+	var thisForm = document.forms[formName];
+	thisForm.subject.value = thisForm.web.value + ' - ' + thisForm.priority.value + ' - ' + thisForm.request_brief.value;
+//	alert(thisForm.subject.value);
+//	return true;
 }
 
 </script>
@@ -177,25 +256,25 @@ function full_diagram_lightbox() {
 
 		
 <h1>Privacy Statement</h1>
-<p>iProduction takes a firm position on privacy. We take your concerns seriously and want make sure they are clearly stated as they apply to your site visit.</p>
-<p>iProduction will not use any personal information gathered: including  email address, name, address, company name and phone number and sell it to any outside company. The information gathered is used to contact you concerning our products.</p>
+<p>IProduction takes a firm position on privacy. We take your concerns seriously and want make sure they are clearly stated as they apply to your site visit.</p>
+<p>IProduction will not use any personal information gathered: including  email address, name, address, company name and phone number and sell it to any outside company. The information gathered is used to contact you concerning our products.</p>
 <p>This privacy statement is subject to change. Users may view the privacy statement, including any revisions, by clicking on the "Privacy Statement" link at the bottom of any page of this website. If the changes represent a material departure from our current statement or materially affect users' rights and obligations, if feasible, the changes will be posted on this page 30 days in advance of their effective date.</p>
 
 <h2>Passive Data Collection and Use</h2>
-<p>Like most Web sites, iproduction.com also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on iproduction.com, search queries, your click-stream data, the location that referred you to iproduction.com and the average number of pages viewed. If you visit another Web site prior to browsing iproduction.com, that Web site might place personally identifiable information within a URL, which may be logged by us. Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. Note that logging your IP address does not in and of itself provide us with your name, e-mail address or home or work address. We use this log information for systems administration and troubleshooting purposes and may also use it to gather general demographic information about you such as your general location and your Internet Service Provider.</p>
+<p>Like most Web sites, IProduction.com also collects and logs information automatically and through the use of electronic tools that may be transparent to you, such as your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on IProduction.com, search queries, your click-stream data, the location that referred you to IProduction.com and the average number of pages viewed. If you visit another Web site prior to browsing IProduction.com, that Web site might place personally identifiable information within a URL, which may be logged by us. Your IP address is the identifier assigned to your particular computer when you access the Internet. Depending on how you connect to the Internet, your IP address may always be the same, or it may change each time you access the Internet. Note that logging your IP address does not in and of itself provide us with your name, e-mail address or home or work address. We use this log information for systems administration and troubleshooting purposes and may also use it to gather general demographic information about you such as your general location and your Internet Service Provider.</p>
 
 <h2>Use of Personally Identifiable Information</h2>
-<p>Personally Identifiable Information may be accessed by iProduction personnel. We endeavor to keep your Personally Identifiable Information inaccessible to other users of iproduction.com.</p>
-<p>We reserve the right to disclose Personally Identifiable Information when deemed necessary or appropriate to comply with the law, respond to claims, protect our computer systems and customers, ensure the integrity and operation of our business and systems, or protect the rights, property or safety of iproduction.com.
+<p>Personally Identifiable Information may be accessed by IProduction personnel. We endeavor to keep your Personally Identifiable Information inaccessible to other users of IProduction.com.</p>
+<p>We reserve the right to disclose Personally Identifiable Information when deemed necessary or appropriate to comply with the law, respond to claims, protect our computer systems and customers, ensure the integrity and operation of our business and systems, or protect the rights, property or safety of IProduction.com.
 We will not disclose your Personally Identifiable Information without your advance permission except as explained in this privacy statement or as explained at the time the information was collected.</p>
 
 <h2>E-mail</h2>
-<p>iProduction does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific service. If a user granted permission to receive solicitations (referred to as e-newsletter list) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may opt out in their newsletter from receiving e-mail sent on behalf of Iproduction.com.</p>
+<p>IProduction does not rent, sell, barter or give away its user or member lists or its users' or members' names, e-mail addresses or mailing addresses for use by advertisers and other third parties for the purpose of solicitations, unless the user has previously given his or her consent at the time of general registration or registration for a specific service. If a user granted permission to receive solicitations (referred to as e-newsletter list) at the time of registration but subsequently wishes to opt out from receiving such solicitations, the user may opt out in their newsletter from receiving e-mail sent on behalf of IProduction.com.</p>
 <p>Our HTML-encoded e-mail messages include graphic files, which we use to gather information about e-mails sent to our members. When such a message is opened in an HTML-capable e-mail program, the recipient's computer accesses our server to retrieve the graphic file, and allows us to record and store the date and time, the recipient's e-mail address, and other standard logging information.</p>
 
 <h2>General</h2>
-<p>In the event of the sale or merger of iProduction, ownership of the user registration information described in this Privacy Statement will be transferred to the acquiring or successor company.</p>
-<p>iProduction endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at:</p>
+<p>In the event of the sale or merger of IProduction, ownership of the user registration information described in this Privacy Statement will be transferred to the acquiring or successor company.</p>
+<p>IProduction endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at:</p>
 
 <p>Office: iProduction, 1080 West County Road E, St. Paul, MN 55126</p>
 
@@ -212,8 +291,8 @@ We will not disclose your Personally Identifiable Information without your advan
 	<div class="navigationMain">
 		<ul>
 			<li class="first"><a href="/">Home</a></li>
-			<li><a href="/why_iproduction/">Why iProduction?</a></li>
-			<li><a href="/system_overview/">System Overview</a></li>
+			<li><a href="/solutions/">Solutions</a></li>
+			<li><a href="/services/">Services</a></li>
 			<li><a href="/technology/">Technology</a></li>
 			<li><a href="/news_events/">News &amp; Events</a></li>
 			<li><a href="/customers/">Customers</a></li>
