@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529054336id_/http%3A//www.esmo.org/about-esmo/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmo.org privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128051043id_/http%3A//www.esmo.org/about-esmo/terms-of-use/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and Data Security Policy - European Society for Medical Oncology (ESMO)
 
 This privacy policy applies to your use of the websites (collectively referred to as the “Website”), operated by The European Society for Medical Oncology, a Swiss-based not-for-profit corporation, referred to interchangeably hereafter as “ESMO”. 
 
-The “Website” includes, without limitation, the ESMO website (www.esmo.org) and any specific versions (e.g., [oncologypro.esmo.org](http://oncologypro.esmo.org/?token=)) or filters thereof, the European Action against Rare Cancers website ([www.rarecancerseurope.org](http://www.rarecancerseurope.org/)), the ESMO Press Centre, and any other online platforms used by ESMO which could require your personal data.
+The “Website” includes, without limitation, the ESMO website (www.esmo.org) and any specific versions (e.g., [oncologypro.esmo.org](http://oncologypro.esmo.org/?token=)) or filters thereof, the Rare Cancers Europe website ([www.rarecancerseurope.org](http://www.rarecancerseurope.org/)), the ESMO Press Centre, and any other online platforms used by ESMO which could require your personal data.
 
 ESMO respects your privacy and is committed to protecting the confidentiality of your personal information. This policy explains how ESMO collects and uses Member, customer and site visitor information, and how it protects your privacy. It also explains how you can manage your own personal information held by ESMO in the ‘My ESMO’ area on the ESMO website.
 
@@ -89,7 +89,11 @@ ESMO takes every precaution to ensure that this information is stored in a safe 
 #### 1.3.4.1 Unique Email Address
 
 For your convenience and security, your email address is unique to you in the system. (ESMO does not permit two different persons to have the same email address in the system). You are strongly recommended to use an email address which is personal to you and that is not shared with others. This is to ensure that communications which are sent to you personally are not read by others, and that others do not gain access to the information in your ‘My ESMO’ account. Furthermore, ESMO may use your email address to communicate with you about value added products linked either to your membership or your congress attendance.   
-Your unique email permits automated retrieval of your login details, which are sent to your personal email address.
+Your unique email permits automated retrieval of your login details, which are sent to your personal email address. 
+
+### 1.3.5 Data from surveys and questionnaires
+
+ESMO conducts a number of surveys or questionnaires every year whereby we collect data from volunteer respondents about a certain number of topics that are of interest to us as a society or to the practice of oncology. The respondent data remains completely anonymous, unless the respondents specifically choose to share their contact data. Upon completion of the survey or questionnaire, to ensure confidentiality, information is transmitted via Secure Socket Layer (SSL) to the survey tool platform. Data entered are stored on the survey tool server, which is accessible through a dedicated ESMO account only. When exported, data are stored on ESMO's internal server. To ensure the complete anonymity of all respondents, all data collected are kept confidential and no individual respondent’s answers will be disclosed at any time by ESMO or Rare Cancers Europe.
 
 [To top](http://www.esmo.org/about-esmo/terms-of-use/privacy-policy.html#)
 
