@@ -1,30 +1,122 @@
-> *The following text is extracted and transformed from the specialsavings.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618121555id_/http%3A//www.specialsavings.com/forum/content.php%3F116-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialsavings.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128014945id_/http%3A//privacy-policy.truste.com/verified-policy/www.specialsavings.com) for the most accurate reproduction.*
 
-# Special Savings - Privacy Policy
+# Privacy Policy for www.specialsavings.com
 
-Updated Jan 2011 
+Effective on June 21, 2011 
 
-**_Our Philosophy._**  
-Your trust is our greatest asset. We make every reasonable effort to ensure that information held by SpecialSavings.com Web site is confidential and secure. We disclose our information-security practices to you as clearly and fully as possible. These practices receive continuous oversight, and many of our business decisions, including Web design, technology selections, and third-party business relationships, begin and end with considerations for your privacy.   
-Changes to Policy. While our philosophy will not change, the details of the policy will change over time as we add additional services and form relationships with new business partners. Please refer back to this page periodically. The date the policy was last revised will always appear at the top of the policy pages.   
-Contacting Us. If you have any questions about this Privacy and Confidentiality Policy, the practices of SpecialSavings.com Web site, your dealings with SpecialSavings.com, or would like to provide comments, please contact us at [info@SpecialSavings.com](mailto:info@SpecialSavings.com). 
+This privacy statement describes how Performersoft Inc collects and uses the personal information you provide on our Web site: [www.specialsavings.com ](http://www.specialsavings.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**_Site Ownership, Scope, and Applicability of The Policy_**.  
-This Policy applies only when you are within the SpecialSavings.com-powered environment and only to information that SpecialSavings.com collects. Please be advised that individual merchant practices outside the SpecialSavings.com-powered Web site are the legal owners of those sites and can customize their sites in two ways that fall outside the scope of the SpecialSavings.com Privacy and Confidentiality Policy:   
-A merchant or a user could put a link on the site that takes you to a site or service that is not part of the SpecialSavings.com-powered environment. Once there, you will no longer be interacting with a SpecialSavings.com server, and you should no longer see any SpecialSavings.com trademarks or legends that refer to SpecialSavings.com. If you leave the SpecialSavings.com-powered environment in this way, you can no longer be assured that the operator of the other site or service will follow the privacy policies and information security practices that are described in the SpecialSavings.com policy. We generally strive to provide buffer pages to inform you when you are leaving our environment, but we cannot monitor all site customizations made by individual medical practices.   
-If you ever have reason to believe that another website has used its SpecialSavings.com-powered Web site to obtain information that it has used inappropriately, please contact us at [info@SpecialSavings.com](mailto:info@SpecialSavings.com).
+**TRUSTe**
 
-**_Activity Tracking_**.   
-We collect and use activity statistics so we can understand the ways in which our sites and services are being utilized. We also provide this data, stripped of all personal identifiers, to our 3rd parties, affiliated and non affiliate partners or potential partners. Activity related data is stored anonymously and it is only used in the form of aggregated statistics. This aggregated, anonymous data may also be shared with business partners. Activity related data cannot be used to target you with solicitations of any kind.   
-With the exception of your User ID and Secure Messages, you have full, online access to any and all information that you provide to us for purposes of viewing and changing it.   
-Collection and Stewardship of Other Information. We only collect information that is required in order to provide you with services. We design our sites so that you must make express, informed choices to use services that ask for personal information and authorize us to have access to your personal information. If you do choose to provide us with personal information, we will hold that information in the strictest confidence taking all reasonable steps to protect your personal health information.   
-At any time, you can opt out of any service you have been using and revoke your authorization for our access to your information. We monitor and adopt best practices from industry guidelines and applicable statutes, and we follow appropriate information security practices.  
-When you request information from us, the information you provide may be shared with third party partners in order to fulfill your request.   
-Third Parties. We work with business partners to provide the highest-quality service available. Our business partner contracts include protective language regarding consumer privacy in those cases where we feel the nature of the partner's role demands it. We do not disclose personal information to any third party without clearly noting the purpose of such disclosure at the point where you choose to use the service and obtain your authorization.   
-Use of Cookies. Similar to other commercial Websites, this website utilizes standard technology called "cookies" and web server logs to collect information about how the Web Site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at this Web Site, and the Web Sites visited just before and just after this Web Site. This information is collected on an aggregate basis, sometimes using a third party service to collect Measurement Data in connection with your IP address. None of this information is associated with you as an individual.   
-A cookie is a small text file that Web sites use to recognize a user. At its simplest, cookie technology works by carrying a unique ID generated by the server that creates the cookie. A cookie does not pose a threat to the computer that accepts it.  
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies. 
+Performersoft Inc is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-**_Protecting Children_**. None of our sites or services are directed at children, and we make every reasonable effort to ensure that we do not accept personal information from persons under 13 years of age.   
-Legal Requests. SpecialSavings.com cooperates with law enforcement inquiries as a matter of policy. We will use IP addresses and other available information to attempt to identify a user when we are legally compelled to do so or when we feel it is necessary to protect our services, sites, customers, or others.   
-Legal Disclaimer. Unfortunately, no data protection method or combination of methods can be guaranteed 100 percent secure. We take all reasonable steps to protect your personal information as described throughout this policy, but we cannot ensure or warrant our ability to do so. As a result, you use SpecialSavings.com content, products, and services at your own risk. SpecialSavings.com will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties.
+If you have questions or concerns regarding this policy, you should first contact us at [support@specialsavings.com ](mailto:support@specialsavings.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+
+## Collection and Use of Personal Information
+
+We collect the following personal information from you
+
+  * Contact Information such as name, email address, mailing address, phone number
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
+
+
+
+We also collect the following information from you
+
+  * Demographic information such as age, education, gender, interests and zip code
+
+
+
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+
+We use this information to
+
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
+  * List you in our member directory made available only to other members
+
+
+
+**Choice/Opt-Out**
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@specialsavings.com ](mailto:support@specialsavings.com).
+
+We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+
+**Information Obtained from Third Parties**
+
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+## Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if Performersoft Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
+
+
+
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [support@specialsavings.com ](mailto:support@specialsavings.com). 
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Performersoft Inc. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can contact us at [support@specialsavings.com ](mailto:support@specialsavings.com)
+
+## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [support@specialsavings.com ](mailto:support@specialsavings.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Performersoft Inc 
+
+15500 SW Jay Street #32118 
+
+Beaverton, OR, United States 97006
