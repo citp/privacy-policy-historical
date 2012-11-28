@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junnatsukawa.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531002439id_/http%3A//www.junnatsukawa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junnatsukawa.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128211529id_/http%3A//www.junnatsukawa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jun Natsukawa
 
@@ -19,5 +19,3 @@ We also use third party advertisements on  **http://www.junnatsukawa.com**  to
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-[avastlic 2013 válida](http://www.junnatsukawa.com/search/avastlic-2013-valida/ "avastlic 2013 válida")
