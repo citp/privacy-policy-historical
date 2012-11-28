@@ -1,43 +1,43 @@
-> *The following text is extracted and transformed from the novelgames.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042716id_/http%3A//www.novelgames.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelgames.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128134308id_/http%3A//www.novelgames.com/privacystatement) for the most accurate reproduction.*
 
 # Novel Games - Privacy Statement
 
-We respect your privacy and will try to protect it by all means. We will keep all your personal information strictly secret and will not disclose any of your personal information to any third party.
+We respect your privacy and strive to protect it by all means. All your personal information will be kept in top secret and will not be disclosed to any third parties.
 
 Novel Games Limited would like to show our commitment to protect your privacy through this privacy statement.
 
 ## Information Collection and Use
 
-All personal information collected will only be used to provide better products and better services. All personal information collected will not be disclosed to any third party.
+All personal information collected will only be used to provide better products and services and will not be disclosed to any third parties.
 
 ## Activity Log
 
-Your activity within this web site will be automatically logged by the server. The information collected will only be used to analyze problems and improve our products and services. We will not disclose your personal information collected to any third party.
+Your activity within this website will be automatically logged by the server. The information collected will only be used to analyze problems and improve our products and services. Your personal information will not be disclosed to any third parties.
 
 ## Cookies
 
-Our web site does not collect personal information through cookies.
+Our website does not collect personal information through cookies.
 
 ## Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may collect information (not including your name, address, email address and contact number) from your visits to our website as well as other sites to provide advertisements about goods and services of interest to you. If you would like to receive more information about this practice and to know your choices about not having the information used by these companies, [please click here](http://www.google.com/privacy_ads.html).
 
 ## Security
 
-We use industry standard methods to protect your personal information submitted through this site. When you submit information in the order form, all your personal information will be encrypted with 128 bit SSL encryption method before sending to us. All personal information sent will not be accessible to any third party.
+We use methods of industry standard to protect your personal information submitted through this site. When you submit the order forms, all your personal information will be encrypted with 128 bit SSL encryption before sending to us. All personal information sent will not be accessible by any third parties.
 
-## Buy Products
+## Purchase of Products
 
-We use a third party provider to process orders, your personal information collected will only be used for billing purposes and for sending you the products. We will use the information collected to contact you if there's any need (eg. when there's a bug fix for the product), if you don't want to be contacted, simply send us a email and you will never be contacted. All personal information collected will not be disclosed to any third party.
+We use a third-party provider to process orders. Your personal information collected will only be used for billing purposes and for sending you the products. We will use the information collected to contact you if necessary (eg. when a bug fix is available for the product). If you do not wish to be contacted, please send us an email. All personal information collected will not be disclosed to any third parties.
 
 ## Contests and Prizes
 
-There will be contests and prizes for players of our games. Your personal information collected will only be used for sending you the prizes. We will use the information collected to contact you if there's any need (eg. when there's a bug fix for the product), if you don't want to be contacted, simply send us an email and you will never be contacted. All personal information collected will not be disclosed to any third party.
+Contests and prizes will be available for players of our games. Your personal information collected will only be used for sending you the prizes. We will use the information collected to contact you if necessary (eg. when a bug fix is available for the product). If you do not wish to be contacted, please send us an email. All personal information collected will not be disclosed to any third parties.
 
 ## Newsletters
 
-You only need to provide an email address to subscribe to our free newsletter. When you don't want to receive the newsletter, you can unsubscribe it and be removed from our mailing list immediatedly. All personal information collected will not be disclosed to any third party.
+You only need to provide an email address to subscribe to our free Newsletters. If you no longer wish to receive our Newsletters, you can unsubscribe and your email address will be removed from our mailing list immediately. All personal information collected will not be disclosed to any third parties.
 
 ## Links to Other Sites
 
-This web site contains links to other web sites. We are not responsible for the contents or the privacy practises of those web sites.
+This website contains links to other websites. We are not responsible for the contents or the privacy practice of those websites.
