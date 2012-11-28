@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617185226id_/http%3A//www.treasureisland.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128174407id_/http%3A//www.treasureisland.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Treasure Island Hotel and Casino, Las Vegas
 
@@ -8,7 +8,7 @@ Treasure Island, LLC (TI) is the owner and operator of the Treasure Island Hotel
 
 We hope that you enjoy our luxurious facilities, our exciting entertainment, and our quality customer service. Because we value your patronage and respect your privacy, we are providing you with this TI Privacy Policy ("Privacy Policy").  This Privacy Policy pertains to the TI Web Sites and the TI Hotel and Casino defined below (collectively, "us" or "we").  This Privacy Policy describes how Personal Information (defined below) about you may be used and disclosed by TI in the course of business.  It also describes how you can opt-out of some uses of Personal Information.
 
-Please review this Privacy Policy carefully. [Click here](https://web.archive.org/privacy_policy_faq.aspx) to view Frequently Asked Questions or you may contact us at [TI-General@treasureisland.com](mailto:TI-General@treasureisland.com), call (702) 894-7111, or write to Treasure Island Hotel & Casino, Attn: Privacy Policy, 3300 Las Vegas Blvd South, Las Vegas, NV 89109. Users of TI Web Sites should also click here to review the [Terms of Use](https://web.archive.org/web/20120617185226id_/http%3A//www.treasureisland.com/terms_of_use.aspx) for TI Web Sites. 
+Please review this Privacy Policy carefully. [Click here](https://web.archive.org/privacy_policy_faq.php) to view Frequently Asked Questions or you may contact us at [TI-General@treasureisland.com](mailto:TI-General@treasureisland.com), call (702) 894-7111, or write to Treasure Island Hotel & Casino, Attn: Privacy Policy, 3300 Las Vegas Blvd South, Las Vegas, NV 89109. Users of TI Web Sites should also click here to review the [Terms of Use](https://web.archive.org/web/20121128174407id_/http%3A//www.treasureisland.com/terms_of_use.php) for TI Web Sites. 
 
 ### **I. SCOPE OF PRIVACY POLICY**
 
@@ -93,7 +93,7 @@ Although you may request to opt-out of sharing Personal Information for marketin
 >  (5) to comply with legal, regulatory or administrative requirements of any governmental authorities;   
 >  (6) to protect and defend TI, its subsidiaries and affiliates, and all of their officers, directors, employees, attorneys and agents in connection with any legal action, claim or dispute;   
 >  (7) to satisfy any contractual obligation to indemnify its contractors, Partners or other third parties in connection with any legal action, claim or dispute;   
->  (8) to enforce the [Terms of Use](https://web.archive.org/terms_of_use.aspx) of TI Web Sites;   
+>  (8) to enforce the [Terms of Use](https://web.archive.org/terms_of_use.php) of TI Web Sites;   
 >  (9) to prevent imminent physical harm or threats to public safety;   
 >  (10) to third party vendors that TI may use to perform functions on behalf of TI, such as companies that process credit card transactions;   
 >  (11) to prevent fraud; and   
@@ -161,7 +161,7 @@ It is important that you review and understand the privacy policies posted on an
 
 Certain areas and activities at the TI Hotel and Casino and TI Web Sites are intended for use only by persons 21 years of age or older.
 
-If you are under the age of 21, we ask that you do not access or attempt to access any portions of the Web Sites that are restricted to persons age 21 or older, including but not limited to any Web Sites containing password-restricted information (see TI [Terms of Use](https://web.archive.org/terms_of_use.aspx) for more information). 
+If you are under the age of 21, we ask that you do not access or attempt to access any portions of the Web Sites that are restricted to persons age 21 or older, including but not limited to any Web Sites containing password-restricted information (see TI [Terms of Use](https://web.archive.org/terms_of_use.php) for more information). 
 
 We reserve the right to verify your age at any time for any reason and may refuse admittance or service to a person who does not have valid age identification at any time.
 
