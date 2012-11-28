@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pashtotube.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024931id_/http%3A//pashtotube.com/page/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pashtotube.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128195315id_/http%3A//pashtotube.com/page/2/privacy-policy) for the most accurate reproduction.*
 
 # Pashto Tube - Privacy Policy
 
