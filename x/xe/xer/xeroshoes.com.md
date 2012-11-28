@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907072408id_/http%3A//www.invisibleshoe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128212609id_/http%3A//www.xeroshoes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | InvisibleShoe.com
+# Privacy Policy | Xero Shoes
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
@@ -71,7 +71,4 @@ If you have any questions regarding this Policy, or your dealings with our web s
 Feel The World, Inc.  
 PO Box 7018, Boulder, CO 80306  
 303.447.3100  
-support@invisibleshoe.com
-
-  
-
+support@xeroshoes.com
