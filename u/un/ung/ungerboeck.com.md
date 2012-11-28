@@ -1,85 +1,71 @@
-> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605101610id_/http%3A//ungerboeck.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128043159id_/http%3A//ungerboeck.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Terms of Use & Privacy policy
 
-  
+The ungerboeck.com (http://ungerboeck.com) website is owned by Ungerboeck Systems International, Inc., a Missouri corporation, with principal offices located at 100 Ungerboeck Park, O’Fallon, MO 63368. 
 
+**Collection of personal information**
 
-#### Privacy Policy
+Personal data is information that could identify a specific individual such as names, addresses, e-mail addresses, and telephone numbers ("Personal Information"). If during your visit to this site you order products or services, enter a competition, or submit other information to us, you may provide us with Personal Information. 
 
-Our Privacy Policy is designed to assist you - businesses, consumers and the general public - in understanding how we collect and use the personal information you provide to us, and to help you make informed decisions when using our web site and all of our related services therein. ****
+**Use of personal information**
 
-#### ****Contact Information
+If you choose to provide us with Personal Information it will be used to provide the information, products or services you request or which we think may be of interest to you, to communicate with you for the same purpose or for any other purposes stated at the time at which the data is collected and subject to any preferences indicated by you at the time. 
 
-To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at:
+For example, if you subscribe for a free newsletter, we will collect and use your email address and other contact details only for the purposes of sending you the newsletter unless we have requested and you have consented to our using your data for marketing or other purposes. Where a fee is payable for a service or product we will also use your information for billing and payment collection purposes. 
 
-Ungerboeck Systems International, Inc.  
-100 Ungerboeck Park  
-O’Fallon, MO 63368  
-636-300-5606  
-[web_master@ungerboeck.com](mailto:web_master@ungerboeck.com)
+**Data retention**
 
-#### What Information Do We Collect?
+Data is held for the lifetime your subscription is active for the purposes of contacting you effectively after which time it is depersonalized and non-identifiable. We do not collect any additional information about you other than that outlined above. 
 
-When visiting the our web site, you may provide us with two types of information: personal information you voluntarily choose to disclose that is collected on an individual basis, and Web site use information gathered on a collective basis as you and others browse our Web site.
+**How your personal information is kept accurate and up to date?**
 
-Registration Information  
-You will provide us information about yourself, your firm or company, and your practices when you register to be a user of our services, register for certain services, or register for e-mail newsletters and alerts.
+We are committed to ensuring that your Personal Information is kept accurate and up to date at all times. However, we can only make changes to your Personal Information if you notify us. It is your responsibility to let us know if there are inaccuracies or changes to your Personal Information at any time. Please notify us at privacy@ungerboeck.com or by post at the following address, Ungerboeck.com Team, 100 Ungerboeck Park, O’Fallon, MO 63368 if there are any changes to or inaccuracies in your Personal Information providing us with sufficient information to identify you, so that any changes can be made. 
 
-E-Mail Information  
-If you choose to correspond with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses.
+**Security**
 
-#### How Do We Use the Information That You Provide to Us?
+We will ensure that all Personal Information supplied is held securely in accordance with all applicable data protection laws and regulations. We take appropriate security measures to prevent unauthorized access, improper use or disclosure, unauthorized modification or unlawful destruction or accidental loss of Personal Information. 
 
-Generally, we use personal information for purposes of managing and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.
+**Disclosures of and the international transfer of your personal information**
 
-#### What Are Cookies?
+USI does not sell or otherwise release your Personal Information to third parties for the purpose of allowing them to market their products and services to you. In order to provide our services we may, however, need to share your Personal Information with other companies within the USI Group, and/or third party suppliers that process data on our behalf. 
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+Since USI operates globally, this may mean that we could transfer your data to other countries, including countries outside the European Economic Area (EEA). However, in all circumstances, we will take steps to ensure that your Personal Information receives the same level of protection as within the EEA that it is kept secure and used only in accordance with our instructions and for the purposes we have indicated to you at the time of collection of the data. 
 
-#### How Do We Use Information We Collect from Cookies?
+We also reserve the right to disclose your Personal Information as required by law or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, request from a regulator or any other legal process served on us. In the event that USI is subject to a takeover or acquisition we may disclose your Personal Information to the new owner of the business. 
 
-As you visit our Web site, the site uses its cookies to differentiate you from other customers.
+**Direct marketing**
 
-Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+We will send you marketing communications which we think may be of interest to you in line with your previously expressed marketing preferences. If you no longer wish to receive such marketing communications, please contact us at privacy@ungerboeck.com or by post at the following address, Ungerboeck.com Team, 100 Ungerboeck Park, O’Fallon, MO 63368 at any time to exercise your opt-out rights or follow the instructions contained in each marketing communication. 
 
-####  
+**Site traffic information and cookies**
 
-#### Sharing Information with Third Parties
+Servers located within USI and hosted by third party service providers outside the European Economic Area automatically log data about your visit to our site based on your IP address. This information does not identify you as an individual, but identifies the computer or other device you use to access the website. This information we collect is used to see where the site is being used in the world to ensure coverage, and for click stream analysis to help better understand site usage.
 
-****We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you.
+During the course of your visit to our website, we may also automatically download short text files called "cookies" to your computer. Cookies enable us to provide you with a better online experience by enabling the site to know that you have visited before and in some cases to record preferences in order to personalize your visit.. Cookies do not identify the individual user, but only the computer that is being used to view the site. We also use analytics cookies to enhance the performance of the website by collecting information about how many visitors we have and how they use the website (e.g. which pages most visitors go to most often).
 
-In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party.
+The information these cookies collect is not used to identify who you are, send you targeted advertising or remember where you’ve been on the internet.
 
-We also use third parties to facilitate our business, including, but not limited to, sending e-mail and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities.
+By continuing to use this website, you agree to our use of cookies for the limited purposes described above. 
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, e-mail, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+To delete or stop cookies being placed on your computer, refer to the help menu on your internet browser. In a few cases blocking cookies may reduce the functionality of some sites or prevent access to them depending on your chosen browser options. For further information about how to switch off cookies, visit www.aboutcookies.org. This link will take you to another website that is opened in a new window. USI is not responsible for the content of the www.aboutcookies.org website. 
 
-####  
+**Questions about your personal Information**
 
-#### How Do We Protect Your Information? 
+If you have any questions relating to this privacy statement or the personal data we hold about you or wish to amend the details we hold about you please email us at privacy@ungerboeck.com or by post at the following address, Ungerboeck.com Team, 100 Ungerboeck Park, O’Fallon, MO 63368. 
 
-E-Mail is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by e-mail. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [web_master@ungerboeck.com](mailto:web_master@ungerboeck.com) if you have any questions or concerns.
+**Children**
 
-####   
-What About Other Web Sites Linked to Our Web Site?
+USI does not knowingly collect information from children. 
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+**Changes to this privacy statement**
 
-####  
+We keep our privacy statement under regular review and reserve the right to modify this privacy statement from time to time. We will place any updates on this webpage. By continuing to use this privacy statement after such changes have been made, you are indicating your acceptance of the changes. This privacy policy was last updated on June 18th, 2012. 
 
-#### Your Consent
+**Hyperlinks**
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. At any time you may request to view any and all changes and updates, via surface mail.
+Our website may contain links to other sites which are outside our control and are not covered by this privacy statement. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy statement, which may differ from ours. We encourage you to read the privacy statements on the other websites you visit. 
 
-####  
+[Privacy Statement](https://web.archive.org/PrivacyPolicy.aspx)
 
-#### Customer Data 
-
-Some customers of USI use the Company’s services to host data and information (“Customer Data”). 
-
-USI will not review, share, distribute, or reference any such Customer Data except as provided in any USI Software License, Maintenance, or Hosting Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the USI Software License, Maintenance, or Hosting, or as may be required by law.  Access to Customer Data is limited to expressly authorized personnel of USI for the purposes outlined above. 
-
-#### Notification of Changes
-
-The Privacy Policy is subject to periodic review and change. In order to view the current Privacy Policy, simply check this section of the website. If we materially change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so users are aware of what information we collect, how it is used, and under what circumstances, if any, we disclose it. In some cases where we post a notice, we may also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+© 1996-2012 Ungerboeck Systems International, Inc.
