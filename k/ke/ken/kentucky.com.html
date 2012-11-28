@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kentucky.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523181356id_/http%3A//www.kentucky.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kentucky.com privacy policy that was archived on 2012-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121128134851id_/http%3A//www.kentucky.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <title>Kentucky.com Lexington, KY</title>
@@ -21,9 +21,9 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A160107850809562%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ALexington%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20120523181356id_%2Fhttp%3A%2F%2Fwww.kentucky.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A63007535656575%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ALexington%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20121128134851id_%2Fhttp%253A%2F%2Fwww.kentucky.com%2Fprivacy_policy%2523navlinks%253D%252AHome%253Ami_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/432b391e3c78e4c260b1d657d4fc939c-min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/mistatic/cache/stylesheets/80b959a51b78486d9f42882a095cdfa2-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.kentucky.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -61,6 +61,19 @@
 	miAppControler.prototype.findnsave = 0;
   miAppControler.prototype.dealsaver = 1;
 
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
+	*/  
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
+
 
 
         var pageInfo = {'version':1.0};
@@ -86,7 +99,7 @@ mianalytics.channel = "Static";
 
 <script type="text/javascript">
 var auth_cookie_name = "heraldleader_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/1386c93302454ed6bf10ebae34cbafbc-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/a33939f9bbe0a0becb2247d374aebe7f-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.kentucky.com/mistats/mianalytics.js"></script>
@@ -102,6 +115,14 @@ var auth_cookie_name = "heraldleader_user_auth";
     mi.commenting = new mi.Commenting();
     
     mi.commenting.setConf( "accountName", "kentucky" );
+    
+    
+    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
+    if(disqus2012cookie.load()){
+            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
+    }
+    
+    
     
 </script>
 
@@ -139,16 +160,15 @@ $(document).ready(function() {
 </head>
 
 
-<body class="section" id="section_">
-
-<div class="sbb_wrap">
+<body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
-<div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=154263911770414?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=154263911770414?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=154263911770414?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=265379898187337?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=265379898187337?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=265379898187337?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
     </div>
 </div>
 
@@ -161,7 +181,7 @@ $(document).ready(function() {
     <div id="mast_top">
         <ul id="sales_nav">
             <li class="classifed first"><a href="/classified-ads#navlink=navbar">Classifieds</a></li>
-            <li class="jobs"><a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?lr=cbcb_lh&amp;SB:s_freeloc=Lexington+KY&amp;siteID=lex_nav#navlink=navbar">Jobs</a></li>
+            <li class="jobs"><a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?lr=cbcb_lh&amp;SB:s_freeloc=Lexington+KY&amp;siteID=cb_lh#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
             <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li>
@@ -169,20 +189,25 @@ $(document).ready(function() {
         </ul>
         
         <div id="weather">
+
+            
+
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt=""></a>
+            <a href="/weather/"><img id="weather_icon" alt="Fog" src="http://media.kentucky.com/mistatic/images/weather/icons/11.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp"></div>
+                <div id="weather_curr_temp" class="current_temp">25°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
-        </div><!-- #weather -->            <div class="weather_sponsor" id="dart_150x25_weather_1">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=154263911770414?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=154263911770414?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=154263911770414?" border="0" alt="Advertisement"></a></noscript> 
-
-            </div>    </div><!-- end mast_top -->
+        </div><!-- #weather -->
+            <div class="weather_sponsor" id="dart_150x25_weather_1">
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=265379898187337?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=265379898187337?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=265379898187337?" border="0" alt="Advertisement"></a></noscript> 
+            </div>
+    </div><!-- end mast_top -->
     <div class="clear"></div>
     
     <div id="mast_main">
@@ -210,7 +235,7 @@ $(document).ready(function() {
         </div>
         <div id="member" class="signin">
             <ul id="services_nav">
-                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script></a>
+                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script><span class="down_arrow"></span></a>
                     <ul class="member_options">
                         <li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
                         <li><a href="/reg-bin/tint.cgi?mode=logout">Sign out</a></li>
@@ -235,7 +260,7 @@ $(document).ready(function() {
                         </a>
                     </li>
                     
-                    <li>
+                    <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.kentucky.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
                         </a>
@@ -272,20 +297,20 @@ $(document).ready(function() {
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=154263911770414?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=154263911770414?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=154263911770414?" border="0" alt="Advertisement"></a></noscript> 
-
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=265379898187337?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=265379898187337?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=265379898187337?" border="0" alt="Advertisement"></a></noscript> 
         </li>
         <li><a href="/#navlinks=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
                                             <ul class="subnav">
-                                                        <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/counties/#navlink=subnav" title="">Counties</a></li>                                <li><a href="/education/#navlink=subnav" title="">Education</a></li>                                <li><a href="/news_review/#navlink=subnav" title="">Kentucky News Review</a></li>                                <li><a href="http://weather.bloginky.com/#navlink=subnav" title="">Kentucky Weather Blog</a></li>                                <li><a href="/local-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/fayette-county/#navlink=subnav" title="">Lexington</a></li>                                <li><a href="/lexington-most-wanted/#navlink=subnav" title="">Lexington Most Wanted</a></li>                                <li><a href="/merlene-davis/#navlink=subnav" title="">Merlene Davis</a></li>                                <li><a href="/nation-world/#navlink=subnav" title="">Nation/World</a></li>                                <li><a href="/neighbors/#navlink=subnav" title="">Neighbors</a></li>                                <li><a href="/news-multimedia/#navlink=subnav" title="">Photos &amp; Videos</a></li>                                <li><a href="/politics/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/public-safety/#navlink=subnav" title="">Public Safety</a></li>                                <li><a href="/databases/#navlink=subnav" title="">Salaries/Databases</a></li>                                <li><a href="/state/#navlink=subnav" title="">State</a></li>                                <li><a href="/tom-eblen/#navlink=subnav" title="">Tom Eblen</a></li>                                <li><a href="/watchdog/#navlink=subnav" title="">Watchdog</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
+                                                        <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/counties/#navlink=subnav" title="">Counties</a></li>                                <li><a href="/education/#navlink=subnav" title="">Education</a></li>                                <li><a href="/kentucky-most-wanted/#navlink=subnav" title="">Kentucky Most Wanted</a></li>                                <li><a href="http://weather.bloginky.com/#navlink=subnav" title="">Kentucky Weather Blog</a></li>                                <li><a href="/local-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/fayette-county/#navlink=subnav" title="">Lexington</a></li>                                <li><a href="/lexington-most-wanted/#navlink=subnav" title="">Lexington Most Wanted</a></li>                                <li><a href="/merlene-davis/#navlink=subnav" title="">Merlene Davis</a></li>                                <li><a href="/nation-world/#navlink=subnav" title="">Nation/World</a></li>                                <li><a href="/neighbors/#navlink=subnav" title="">Neighbors</a></li>                                <li><a href="/news-multimedia/#navlink=subnav" title="">Photos &amp; Videos</a></li>                                <li><a href="/politics/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/public-safety/#navlink=subnav" title="">Public Safety</a></li>                                <li><a href="/databases/#navlink=subnav" title="">Salaries/Databases</a></li>                                <li><a href="/state/#navlink=subnav" title="">State</a></li>                                <li><a href="/tom-eblen/#navlink=subnav" title="">Tom Eblen</a></li>                                <li><a href="/watchdog/#navlink=subnav" title="">Watchdog</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
                                             <ul class="subnav">
                                                         <li><a href="/high_school/#navlink=subnav" title="">High School</a></li>                                <li><a href="/horses/#navlink=subnav" title="">Horses</a></li>                                <li><a href="http://johnclay.bloginky.com/#navlink=subnav" title="">John Clay's Blog</a></li>                                <li><a href="/john-clay/#navlink=subnav" title="">John Clay's Columns</a></li>                                <li><a href="/kentucky-speedway/#navlink=subnav" title="">Kentucky Speedway</a></li>                                <li><a href="/louisville-cardinals/#navlink=subnav" title="">Louisville Cardinals</a></li>                                <li><a href="/mark-story/#navlink=subnav" title="">Mark Story</a></li>                        </ul>                </li>                <li><a href="/kentucky-sports/#navlink=navbar" title="University of Kentucky Sports">UK Sports</a>
                                             <ul class="subnav">
                                                         <li><a href="/kentucky-sports-baseball/#navlink=subnav" title="">Baseball</a></li>                                <li><a href="/kentucky-sports-mens-basketball/#navlink=subnav" title="">Basketball - Men</a></li>                                <li><a href="/kentucky-sports-womens-basketball/#navlink=subnav" title="">Basketball - Women</a></li>                                <li><a href="/kentucky-sports-football/#navlink=subnav" title="">Football</a></li>                                <li><a href="/kentucky-sports-archives/#navlink=subnav" title="">Game Archive</a></li>                                <li><a href="http://johnclay.bloginky.com/#navlink=subnav" title="">John Clay's Blog</a></li>                                <li><a href="/john-clay/#navlink=subnav" title="">John Clay's Columns</a></li>                                <li><a href="/mark-story/#navlink=subnav" title="">Mark Story</a></li>                                <li><a href="http://ukrecruiting.bloginky.com/#navlink=subnav" title="">Next Cats: Recruiting</a></li>                                <li><a href="/kentucky-sports-recruiting/#navlink=subnav" title="">Recruiting</a></li>                                <li><a href="/kentucky-sports-photos/#navlink=subnav" title="">UK Photos</a></li>                                <li><a href="http://videos.kentucky.com/vmix_hosted_apps/p/grid?class_id=1&amp;genre=4018#navlink=subnav" title="">UK Videos</a></li>                                <li><a href="/kentuckysports/more-sports/#navlink=subnav" title="">More UK Sports</a></li>                        </ul>                </li>                <li><a href="/entertainment/#navlink=navbar" title="Lexgo: Entertainment in Lexington &amp; Beyond">Entertainment</a>
                                             <ul class="subnav">
-                                                        <li><a href="/2011/08/19/1848806/welcome-to-our-second-bar-guide.html#navlink=subnav" title="">Bar Guide</a></li>                                <li><a href="/books/#navlink=subnav" title="">Books</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics &amp; Games</a></li>                                <li><a href="/contests/#navlink=subnav" title="">Contests</a></li>                                <li><a href="/entertainment_video/#navlink=subnav" title="">Entertainment Videos</a></li>                                <li><a href="http://calendar.kentucky.com/#navlink=subnav" title="">Events Calendar</a></li>                                <li><a href="http://fashfood.bloginky.com/#navlink=subnav" title="">Fashion</a></li>                                <li><a href="/food/#navlink=subnav" title="">Food</a></li>                                <li><a href="/games/#navlink=subnav" title="">Gaming</a></li>                                <li><a href="/home-garden/#navlink=subnav" title="">Home &amp; Garden</a></li>                                <li><a href="/living/#navlink=subnav" title="">Living</a></li>                                <li><a href="/movies/#navlink=subnav" title="">Movies</a></li>                                <li><a href="/music/#navlink=subnav" title="">Music</a></li>                                <li><a href="/restaurants/#navlink=subnav" title="">Restaurants</a></li>                                <li><a href="http://copiousnotes.bloginky.com/#navlink=subnav" title="">Rich Copley's Blog</a></li>                                <li><a href="/snapped/#navlink=subnav" title="">Snapped Party Pics</a></li>                                <li><a href="/stage-dance/#navlink=subnav" title="">Stage &amp; Dance</a></li>                                <li><a href="/tv/#navlink=subnav" title="">TV &amp; DVDs</a></li>                                <li><a href="/visual-arts/#navlink=subnav" title="">Visual Arts</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion and Editorial">Opinion</a>
+                                                        <li><a href="/2012/08/22/2307515/welcome-to-our-third-lexington.html#navlink=subnav" title="">Bar Guide</a></li>                                <li><a href="/books/#navlink=subnav" title="">Books</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics &amp; Games</a></li>                                <li><a href="/contests/#navlink=subnav" title="">Contests</a></li>                                <li><a href="/entertainment_video/#navlink=subnav" title="">Entertainment Videos</a></li>                                <li><a href="http://calendar.kentucky.com/#navlink=subnav" title="">Events Calendar</a></li>                                <li><a href="http://fashfood.bloginky.com/#navlink=subnav" title="">Fashion</a></li>                                <li><a href="/food/#navlink=subnav" title="">Food</a></li>                                <li><a href="/games/#navlink=subnav" title="">Gaming</a></li>                                <li><a href="/home-garden/#navlink=subnav" title="">Home &amp; Garden</a></li>                                <li><a href="/living/#navlink=subnav" title="">Living</a></li>                                <li><a href="/movies/#navlink=subnav" title="">Movies</a></li>                                <li><a href="/music/#navlink=subnav" title="">Music</a></li>                                <li><a href="/restaurants/#navlink=subnav" title="">Restaurants</a></li>                                <li><a href="http://copiousnotes.bloginky.com/#navlink=subnav" title="">Rich Copley's Blog</a></li>                                <li><a href="/snapped/#navlink=subnav" title="">Snapped Party Pics</a></li>                                <li><a href="/stage-dance/#navlink=subnav" title="">Stage &amp; Dance</a></li>                                <li><a href="/tv/#navlink=subnav" title="">TV &amp; DVDs</a></li>                                <li><a href="/visual-arts/#navlink=subnav" title="">Visual Arts</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion and Editorial">Opinion</a>
                                             <ul class="subnav">
                                                         <li><a href="/editorials/#navlink=subnav" title="">Editorials</a></li>                                <li><a href="/joel-pett-cartoon/#navlink=subnav" title="">Joel Pett</a></li>                                <li><a href="/larry-dale-keeling/#navlink=subnav" title="">Larry Dale Keeling</a></li>                                <li><a href="/larry-webster/#navlink=subnav" title="">Larry Webster</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters to the Editor</a></li>                                <li><a href="/op-ed/#navlink=subnav" title="">Op-Ed</a></li>                                <li><a href="/submit-letter/#navlink=subnav" title="">Submit a Letter</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/kentucky/#navlink=navbar" title="Obituaries">Obituaries</a>
                                             <ul class="subnav">
@@ -420,34 +445,37 @@ $(document).ready(function() {
         </div>
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=154263911770414?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=154263911770414?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=154263911770414?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=265379898187337?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=265379898187337?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=265379898187337?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r2">
 
 </div>
 <div id="sidebar_r3">
-<div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=154263911770414?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=154263911770414?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=154263911770414?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=265379898187337?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=265379898187337?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=265379898187337?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r4">
 
 </div>
 <div id="sidebar_r5">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=154263911770414?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=154263911770414?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=154263911770414?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=265379898187337?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=265379898187337?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.ken00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=265379898187337?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 
 <div id="sidebar_r6">
@@ -468,32 +496,67 @@ $(document).ready(function() {
 
 <div id="page_footer">
     
-    <section class="widget">
-    <h2 class="heading">Stay Connected</h2>
-    <div id="footer_connect_links">
-        <ul class="connect">
-            
-                    <li><a href="http://www.subscribetohl.com" class="subscribe" title="Subscriber Services"><span>Subscriber Services</span></a></li>
-                
-                    <li><a href="http://www.kentucky.com/apps#navlink=*stayconnected" class="phone_apps" title="Phone Apps"><span>Phone Apps</span></a></li>
-                
-                    <li><a href="/mobile#navlink=*stayconnected" class="mobile" title="Mobile Site"><span>Mobile Site</span></a></li>
-                
-                    <li><a href="/rss#navlink=*stayconnected" class="rss" title="News Feeds"><span>News Feeds</span></a></li>
-                
-                    <li><a href="http://digital.olivesoftware.com/Olive/ODE/LexingtonHeraldLeader/login/login.aspx?Reader=http://digital.olivesoftware.com/Olive/ODE/LexingtonHeraldLeader/&amp;ID=2&amp;d=2008-12-15&amp;r=none&amp;c=f3f80268967d031d46f41c5fc54526f9#navlink=*Home:mi_navigation#navlinks=*stayconnected" class="e_edition" title="e-Edition"><span>e-Edition</span></a></li>
-                
-                    <li><a href="http://www.facebook.com/kentuckycom#navlink=*stayconnected" class="facebook" title="Facebook"><span>Facebook</span></a></li>
-                
-                    <li><a href="http://twitter.com/heraldleader" class="twitter" title="Twitter"><span>Twitter</span></a></li>
-                
-                    <li><a href="/e-reader#navlink=*stayconnected" class="ereader" title="e-Reader"><span>e-Reader</span></a></li>
-                
-                    <li><a href="http://lhl.vrvm.com/cb/301/subscribe.html#navlink=*stayconnected" class="text_alerts" title="Text Alerts"><span>Text Alerts</span></a></li>
-                
-        </ul>
-    </div><!-- /#footer_connect_links -->
-</section>
+    
+<div id="stay_connected">
+    <h2 class="heading"><span class="section_label">Stay Connected</span></h2>
+    
+<div class="item newsletters">
+    <a href="/reg-bin/tint.cgi?mode=edit#newsletters#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Email Newsletters&nbsp;<span>&gt;</span>
+            <div class="description">Manage newsletter subscriptions</div>
+        </div>
+    </a>
+</div>
+
+<div class="item tablets">
+    <a href="/tablet#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Tablets&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for tablet devices</div>
+        </div>
+    </a>
+</div>
+
+<div class="item mobile">
+    <a href="/mobile#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Mobile&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for your mobile phone</div>
+        </div>
+    </a>
+</div>
+
+<div class="item social_media">
+    <a href="/social-media#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Social Media&nbsp;<span>&gt;</span>
+            <div class="description">Get updates via Facebook and Twitter</div>
+        </div>
+    </a>
+</div>
+
+<div class="item e_edition">
+    <a href="https://registration.heraldleader.com/clickshare/oliveAuth.do?From=http%3a%2f%2fdigital.olivesoftware.com%2fOlive%2fODE%2fLexingtonHeraldLeader%2fLogin%2fLogin.aspx%3fReader%3dhttp%253a%252f%252fdigital.olivesoftware.com%252fOlive%252fODE%252fLexingtonHeraldLeader%252f#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">e-Edition&nbsp;<span>&gt;</span>
+            <div class="description">Your daily paper delivered to your computer</div>
+        </div>
+    </a>
+</div>
+
+<div class="item home_delivery">
+    <a href="http://www.subscribetohl.com/#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Home Delivery&nbsp;<span>&gt;</span>
+            <div class="description">Manage your home delivery account</div>
+        </div>
+    </a>
+</div>
+
+</div>
+<div class="clear"></div>
+
 	<div id="footer_text_links">
 		<p class="links">
 			
@@ -520,7 +583,10 @@ $(document).ready(function() {
                 <p class="links"><span class="footer_partner_title">Kentucky.com Partners</span>:
                 
                     &nbsp;
-                    <a href="http://www.khsaa.org/" target="_blank" title="visit our friends at thd Kentucky High School Athletics Association">Kentucky High School Athletics Association</a>
+                    <a href="http://www.khsaa.org/" target="_blank" title="visit our friends at the Kentucky High School Athletics Association">Kentucky High School Athletics Association</a>
+                    
+                    &nbsp;|&nbsp;
+                    <a href="http://www.ihigh.com/" target="_blank" title="visit our partners at iHigh">iHigh</a>
                     
                     &nbsp;|&nbsp;
                     <a href="http://www.wkyt.com/" target="_blank" title="visit our partners at WKYT-TV">WKYT-TV</a>
@@ -535,14 +601,16 @@ $(document).ready(function() {
                 
     </div><!-- /#footer_partner_links -->
 
-    <div id="copyright">©  www.kentucky.com and wire service sources. All Rights Reserved.
+    <div id="copyright">© 2012 www.kentucky.com and wire service sources. All Rights Reserved.
         <a href="http://www.kentucky.com">http://www.kentucky.com</a></div>
 
     <a href="/" class="logo" title="Kentucky.com">
         <img alt="Kentucky.com" src="/mistatic/images/logo/HeraldLeader_footer.png">
     </a>
 
-        
+</div><!-- /#page_footer -->
+
+
 
 <div id="mistatstag" style="display:none;">        
 <!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
@@ -581,9 +649,10 @@ mistats.channel='Privacy Policy';
 <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 </div>
 
-</div><!-- /#page_footer -->
 
 </footer>
+
+
 
 
 
