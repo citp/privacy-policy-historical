@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabnewsexpress.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617222506id_/http%3A//punjabnewsexpress.com/company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabnewsexpress.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128043333id_/http%3A//punjabnewsexpress.com/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
