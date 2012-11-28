@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529033748id_/http%3A//diversityinc.com%3Fpage_id%3D1808) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversityinc.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128043107id_/http%3A//www.diversityinc.com%3Fpage_id%3D1808) for the most accurate reproduction.*
 
-# Privacy Policy - Corporate Diversity, Diversity in the Workplace, Diversity Benchmarking, Diversity Metrics, Diversity Consulting, Diversity Management, Diversity and Inclusion, Diversity Magazine, Diversity Events, Diversity Web Seminars, Diversity Articles, Diversity in Business
+# Privacy Policy - DiversityInc
 
-We are strongly committed to safeguarding subscribers’ privacy on DiversityIncBestPractices.com. We operate under the following strict privacy policy:
+We are strongly committed to safeguarding subscribers’ privacy on DiversityInc.com. We operate under the following strict privacy policy:
 
 The only information we obtain about our subscribers is information we need to process credit-card charges for subscription fees. The information collected is never revealed, sold or made public for any reason.
 
