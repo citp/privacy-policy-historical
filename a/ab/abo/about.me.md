@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620131116id_/http%3A//privacy.aol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128150725id_/http%3A//privacy.aol.com/privacy-policy) for the most accurate reproduction.*
 
 # Full Privacy Policy - AOL Privacy
 
-Print as PDF
+Print
 
 This privacy policy applies to the information AOL Inc. collects about you as a user of AOL sites, services, and the software we use to provide you our services. Some of these services may provide you with additional information and choices about your privacy, which you should review.
 
