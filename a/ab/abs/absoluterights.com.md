@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absoluterights.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608060233id_/http%3A//www.absoluterights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluterights.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128131712id_/http%3A//www.absoluterights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ We automatically collect and/or track the following:
   1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
   2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
   3. information, user specific or aggregate, on what pages our visitors access; and
-  4. E-mail addresses of visitors that communicate with DigitalMarketer.com via e-mail.
+  4. E-mail addresses of visitors that communicate with AbsoluteRights.com via e-mail.
 
 
 
@@ -43,7 +43,7 @@ If you choose to provide personal information, it will be used for the following
 
 **Section 4: Your Opt-Out Rights**
 
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATabsoluterightsDOTcom (Please replace “AT” with @ and “DOT” with .)
 
 **Section 5: We Do Not Intend to Collect Data from Children**
 
@@ -59,11 +59,11 @@ We reserve the right to change this policy at any time by notifying you of the e
 
 **Section 8: Our Contact Information**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATabsoluterightsDOTcom (Please replace “AT” with @ and “DOT” with .)
 
 **Section 9: Anti Spam Policy. Can-Spam Act Compliance**
 
-DigitalMarketer.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from Absolute Rights in the following circumstances:
+AbsoluteRights.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from Absolute Rights in the following circumstances:
 
   1. Acknowledging your application has been received and requesting additional action
   2. Requests for additional information to support your current application
@@ -76,7 +76,7 @@ DigitalMarketer.com is dedicated to ensuring compliance with the ‘Can-Spam Act
 
 To ensure compliance with the Can-Spam Act, AbsoluteRights.com has implemented the following guidelines for email delivery:
 
-  1. All emails sent to you by Absolute Rights will clearly identify Absolute Rights as the sender. FROM / SENDER: someone@AbsoluteRights.com or someone@drivingtraffic.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @AbsoluteRights.com or @DrivingTraffic.com).
+  1. All emails sent to you by Absolute Rights will clearly identify Absolute Rights as the sender. FROM / SENDER: someone@AbsoluteRights.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @AbsoluteRights.com).
   2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
   3. Any email from Absolute Rights will include the ability to unsubscribe from future email messages.
   4. Unsubscribing will ensure the customer is removed from ALL lists at Absolute Rights; this excludes customer service emails regarding the processing and status of a current product.
@@ -90,7 +90,7 @@ To ensure compliance with the Can-Spam Act, AbsoluteRights.com has implemented t
 
 Web site: AbsoluteRights.com
 
-Email Address: supportATdrivingtrafficDOTcom
+Email Address: supportATabsoluterightsDOTcom
 
 (Please replace “AT” with @ and “DOT” with .)
 
@@ -104,4 +104,7 @@ From time to time, Absolute Rights will enter into an arrangement with a third p
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of Absolute Rights. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+We hope this information satisfies any questions or concerns you may have regarding the email practices of Absolute Rights. If you have additional questions or wish to discuss this matter further, please contact us at: supportATabsoluterightsDOTcom (Please replace “AT” with @ and “DOT” with .)  
+
+
+## Share this article
