@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523195230id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128144050id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Extreme micro and mini bikinis. The-Bikini.com sexy micro bikinis, thongs and strings for women and men
+# the-Bikini.com Information page. Micro bikinis for sexy women
 
   
 
@@ -16,20 +16,20 @@ Share with Friends
   
 
 
+Latest Comment
+
+Got the order and everything is perfect! I will send some pictures of us in our new thongs soon Love the new mini thong with zipper on my wife, and she thinks it is the hottest bathing we have bought fro you yet! Very very sexy! Can't wait to show it off at the beach and watch all the heads turn! Brian   
+[more comments...](https://web.archive.org/information/?action=comments)
+
+  
+
+
 Bikini Fashion Show
 
 [](https://web.archive.org/movies/defile.html)  
 
 
   
-  
-
-
-Latest Comment
-
-I have to say the range of quality of your thongs and g-strings is so much better than any other online stores. I went looking for a micro g-string bikini for my fiance and a g-string and thong for myself and I ended up coming back to the-bikini. The mens thong fits and feels better than any thong i've ever worn and my fiance loves her single string g-string, mini g-string and Radikal g-string. Thank you for providing amazing outfits that we keep buying from you everytime, no reason to look anywhere else. Todd.   
-[more comments...](https://web.archive.org/information/?action=comments)
-
   
   
   
@@ -126,4 +126,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20120523195230id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20121128144050id_/http%3A//www.the-bikini.com/contact/). 
