@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the galleryofarticles.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305050140id_/http%3A//galleryofarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galleryofarticles.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128032210id_/http%3A//galleryofarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gallery of Articles
 
-Number of View: 0
-
- **Gallery of Articles** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+**Gallery of Articles** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
