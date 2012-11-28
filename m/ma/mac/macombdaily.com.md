@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macombdaily.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225500id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macombdaily.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128010017id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » Journal Register Company -
+# Privacy Policy | Journal Register Company
 
 **PRIVACY POLICY / TERMS OF USE**
 
