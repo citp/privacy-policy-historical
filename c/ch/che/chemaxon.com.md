@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529233505id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128191604id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « ChemAxon – cheminformatics platforms and desktop applications
 
@@ -66,6 +66,6 @@ If you have questions about our handling of personal information, you may write 
 
 ### Corporate Identity
 
-ChemAxon Limited is located at Máramaros köz 3/a, Budapest, 1037 Hungary
+ChemAxon Limited is located at Záhony utca 7, Budapest, 1031 Hungary
 
-This Privacy Policy is effective as of 1 January 2010.
+This Privacy Policy is effective as of 1 January 2012.
