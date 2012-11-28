@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestlaneshul.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529062428id_/http%3A//www.forestlaneshul.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestlaneshul.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128010032id_/http%3A//www.forestlaneshul.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy and Terms
 
