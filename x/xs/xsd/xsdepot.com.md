@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsdepot.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170151id_/http%3A//www.xsdepot.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsdepot.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128200820id_/http%3A//www.xsdepot.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -26,14 +26,6 @@ This site gives users the option to remove their information from our database t
 
 
 
-##  Change/Modify
-
-This site gives users the following option for changing and modifying information previously provided.
-
-  * Please contact our [Change of Information Department](https://web.archive.org/Forms/18-Corrections)
-
-
-
 ##  Personal Information Privacy
 
 The information gathered by XSDepot.com during the order process is for the purposes of processing orders and providing updates on the status of your order. XSDepot.com will disclose your personal information to third parties to charge your credit card, process your order, ship your order, offer customer service and provide you with a credit. For example, your card-issuing bank must be given your personal credit card information for payment confirmation. XSDepot.com must also disclose to parcel delivery services your address and telephone information in order to ship and deliver the items that you ordered.
@@ -42,6 +34,8 @@ XSDepot.com does not sell, trade, or rent your personal information to others.
 
 XSDepot.com may be required by judicial authorities or other law enforcement agencies to provide personal information. XSDepot.com will disclose personal information upon receipt of a subpoena, court order or in cooperation with a law enforcement investigation. Law enforcement agencies will have the full cooperation of XSDepot.com in identifying individuals or groups who use the services of XSDepot.com for illegal activities. XSDepot.com also reserves the right to report any activities that we may believe to be unlawful to law enforcement agencies.
 
+To update/change account information, please contact your Personal Reseller Representative or email Resellers@XSDepot.com.
+
 ##  Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
@@ -49,4 +43,5 @@ If you have any questions about this privacy statement, the practices of this si
 www.XSDepot.com  
 280 Opportunity Way  
 LaGrange, Ohio 44050  
-United States
+United States  
+1 (800) 755-4619
