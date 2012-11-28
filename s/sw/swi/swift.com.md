@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508224010id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128041345id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
 
 # SWIFT - Privacy statement
 
@@ -10,8 +10,8 @@ This Statement explains how we use personal data collected from you on our websi
 
   * [swift.com](http://www.swift.com/)
   * <http://www.swiftcommunity.net/> (with its own [Terms of Use](https://www.swiftcommunity.net/termsofuse.cfm) confirming this Statement)
-  * our annual Sibos website, available at www.sibos[year].com (currently <http://www.sibos2010.com/>)
-  * <http://www.3skey.com/> , and
+  * our Sibos website, available at [sibos.com](http://www.sibos.com/)
+  * <http://www.3skey.com/>, and
   * other URLs that redirect to [swift.com](http://www.swift.com/).
 
 
@@ -61,11 +61,11 @@ You may always delete your data by using your login and password.
 
 When you register for Sibos or other events, we collect personal data related to your participation to the event. 
 
-We process your data for purposes relating to event registration, administration, security management, accounting, records keeping, to offer event-related products (such as the Sibos Networkbook) and services (such as mySibos) and for conducting satisfaction surveys. 
+We process your data for purposes relating to event registration, administration, security management, accounting, records keeping, to offer event-related products (such as the Sibos Networkbook) and services (such as Sibos on line) and for conducting satisfaction surveys. 
 
 The list of participants is sent in advance of the event to the exhibiting companies to allow them to present their products and services directly to you, and may be used by us for our own advertising and marketing purposes. You may opt out of this list in the online registration process. 
 
-You may contact [events-mailing.unsubscribe@swift.com](mailto:events-mailing.unsubscribe@swift.com) to unsubscribe from the Sibos and other events mailing lists. 
+Further information regarding processing of your personal data can be available in the respective registration forms and policies (such as the Sibos Registration Policy). 
 
 ### Newsletters and Other Customer Communications
 
@@ -95,7 +95,9 @@ When you browse our websites, you do so anonymously. For our internal purposes, 
 
 Cookies are small pieces of information that are stored by your browser on your computer's hard drive or in your browser memory. We use cookies for authentication purposes (for example to access the secure area of [http://www.swift.com](http://www.swift.com/) ), to track user sessions (for example login information on both the secure and public areas of <http://www.swift.com/> ), to repopulate fields (for example to access the Sibos Exhibitor Guide), or to track online acceptance (for example to track acceptance of the disclaimer of our translation service over the last 24 hours) or language preference. 
 
-The information stored with cookies may include your name, first name, registration number on <http://www.swift.com/> , language preference, login ID, and IP addresses. Cookies stored in your browser memory are deleted when closing your browser. 
+The third-party add-ons that we use to collect statistics of our sites’ resources usage may also rely on cookies for their operation. 
+
+The information stored with cookies may include your name, first name, registration number on <http://www.swift.com/> , language preference, login ID, and IP addresses. 
 
 **Web Acceleration Services**
 
