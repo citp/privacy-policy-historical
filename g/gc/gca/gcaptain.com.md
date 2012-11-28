@@ -1,58 +1,100 @@
-> *The following text is extracted and transformed from the gcaptain.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223013809id_/http%3A//jobsite.gcaptain.com/jobs/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcaptain.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128043404id_/https%3A//gcaptain.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy: gCaptain.com | Maritime and Offshore Industry Jobs
+# Privacy Policy | gCaptain - Maritime & Offshore News
 
-gCaptain.com ("gCaptain") is committed to preserving the privacy of all visitors to www.gCaptain.com (“the Site”). Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
+**What information do we collect?**
 
-  
-**By registering or using this Site, you consent to the collection, use and transfer of your information under the terms of this policy.  **
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-INFORMATION THAT WE COLLECT FROM YOU 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-When you visit or register on the Site you may be asked to provide certain information about yourself including but not limited to your name, address, email address, and telephone number If you apply for jobs, the information you provide in any application form will also be stored. In addition, if you upload your resume to the Site it will be stored on our server. We may also collect information about your usage of our Site, as well as information about you from e-mails or letters you send to us, or from e-mails you send in response to jobs advertised on our Site.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-USE OF YOUR INFORMATION 
+**What do we use your information for?**
 
-Your information will enable us to provide you with access to all parts of our Site and to supply our services, which may include providing you with our newsletter, and to contact you when necessary. We will also use and analyze the information we collect so that we can administer, support, improve and develop our business, which may include contacting you to notify you of our current or future services. 
+Any of the information we collect from you may be used in one of the following ways:
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the Site or our services. Further, where you have consented, we might also use your information to let you know about other services that we offer which may be of interest to you and we may contact you by regular mail, telephone or fax, as well as by e-mail. 
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-The information we collect from your usage of our site may be used to contact you by email through our candidate matching technology service where appropriate.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-We retain all information and resumes indefinitely. If you change your mind about being contacted in the future, please let us know or, if you would like us to delete your personal information or to remove a resume that you have uploaded, please either delete your details via your "My Account" login or send an email and provide details of your request.   
-gCaptain reserves the right to retain information that you have requested be deleted where there is a legitimate legal reason why such information or resume should be retained by gCaptain. 
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-If you reply to job listings then your emails will be sent with the relevant personal information to the advertisers via gCaptain servers. 
+; To process transactions
 
-Where you have applied by e-mail for a job advertised on our Site we may contact you periodically by email to keep you informed of the services we provide.  
-DISCLOSURE OF YOUR INFORMATION 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-The information you provide to us will be held on computers solely owned ** ** by gCaptain. 
+; To administer a contest, promotion, survey or other site feature
 
-Where your consent has been given, your information will be shared with businesses looking to recruit or advertise on this Site. Your information may be accessed by or given to our staff working within and outside the United States and to third party companies whom we may use to provide part of our services. We may also pass aggregate statistical information on the usage of our Site to third parties but this will not include information that can be used to identify you. 
+; To send periodic emails
 
-In no circumstances will we pass your information to third parties to enable them to contact you themselves about products and services that they offer. Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent. Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-COOKIES 
+**How do we protect your information?**
 
-gCaptain uses cookies to store small amounts of information on your computer.  Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the Site. Cookies make it easier for you to log on to and use the Site during future visits. They also allow us to monitor website traffic and to personalize the content of the Site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features of the Site. If you do not wish to receive cookies in the future, please let us know. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-SECURITY 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-We employ security measures to protect your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. No website can ever be completely secure, however, and therefore gCAPTAIN EXPRESSLY DISCLAIMS ALL LIABILITY FOR ANY DIRECT, INDIRECT, SPECIAL AND CONSEQUENTIAL DAMAGES RELATED TO ANY UNAUTHORIZED ACCESS TO OR USE OF INFORMATION ON THE SITE.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-We are dedicated to providing a safe environment for you to conduct your job search.  Although we closely monitor the site against fraud, we ask that you take precautions in the information you are sharing with potential employers. Never include your social security number, credit card numbers or bank information on your resume, cover letter or profile information.  Additionally do not provide this information to another party over the phone, email, or through the mail unless you are confident in their identity.   
+**Do we use cookies?**
 
-If you come across a suspicious job posting listed on our site please notify us.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-ACCESSING AND UPDATING 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You are entitled to see the information supplied by you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-CHANGES TO OUR PRIVACY POLICY 
+**Do we disclose any information to outside parties?**
 
-Any changes to our privacy policy in the future will be posted to the Site and, where appropriate, through e-mail notification. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-CONTACT 
+**Third party links**
 
-Please email comments, queries and requests relating to our use of your information are welcomed.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Job Site Information**
+
+This privacy policy does not pertain in full to all jobs, resume postings and information on our job board. The job board is managed by jobtarget who has their own privacy policy located at: http://www.jobtarget.com/corp/privacy-policy/
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+**Effective Date** – This Privacy Policy is effective on 26 May 2012
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on 26 May 2012
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Unofficial Networks, LLC  
+admin@gcaptain.com  
++1.805.720.6268
+
+Or Use Our Contact Form: <http://gcaptain.com/contact/>
