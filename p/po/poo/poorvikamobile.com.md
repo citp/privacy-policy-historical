@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poorvikamobile.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040122id_/http%3A//poorvikamobile.com/privacy_policy.php%3FosCsid%3Ddc2ae74316abcf067c6b3d3f25022b54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poorvikamobile.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128122105id_/http%3A//poorvikamobile.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Poorvika
 
