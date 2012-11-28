@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gixmi.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511031746id_/http%3A//www.gixmi.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gixmi.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128062524id_/http%3A//www.gixmi.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Desi Girls
 
