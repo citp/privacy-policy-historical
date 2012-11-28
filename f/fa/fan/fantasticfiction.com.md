@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticfiction.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123114828id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfiction.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128130803id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,7 +16,7 @@
 
 Information Automatically Logged
 
-We use a session cookie to record which pages you look at. This enables us to compile the "Top Authors" page and the "also looked at" section on our author pages. 
+This web site does not set any cookies. 
 
 Advertisers
 
@@ -24,7 +24,7 @@ We use Google to display ads on our site. These ads may contain cookies which ar
 
 Personal Information
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
+This web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
 
 Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
 
