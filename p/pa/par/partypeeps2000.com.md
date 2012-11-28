@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partypeeps2000.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531110118id_/http%3A//www.pp2g.com/Info/info/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypeeps2000.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128180317id_/http%3A//www.pp2g.com/Info/info/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -61,7 +61,7 @@ This statement and the policies outlined herein are not intended to and do not c
     * [Booking Offices](https://web.archive.org/BookingOffices/1)
   * [MEDIA](https://web.archive.org/Pictures/1)
     * [Pictures](https://web.archive.org/Pictures/1)
-    * [Picture Charts](https://web.archive.org/Pictures/Charts-201205-1)
+    * [Picture Charts](https://web.archive.org/Pictures/Charts-201211-1)
     * [Search](https://web.archive.org/Search/MediaPicture)
     *  
     * [PP2G.TV Videos](https://web.archive.org/Videos/1)
