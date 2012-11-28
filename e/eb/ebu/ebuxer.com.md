@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebuxer.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525195412id_/http%3A//ebuxer.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuxer.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128182602id_/http%3A//ebuxer.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
-# eBuxer.com : Privacy Policy
+# eBuxer.com : Privacy
 
 _**Last Updated:** "21:55 GMT on 22nd August 2011"_
 
