@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxxdownload.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129121923id_/http%3A//www.maxxdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxxdownload.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128100314id_/http%3A//www.maxxdownload.com/privacy.php) for the most accurate reproduction.*
 
 # MaxxDownload.com Privacy Policy
 
