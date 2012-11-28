@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopersofstortford.co.uk privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128070905id_/http%3A//www.coopersofstortford.co.uk/security-policy-andamp-privacy-artlcs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopersofstortford.co.uk privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128012940id_/http%3A//www.coopersofstortford.co.uk/security-policy-andamp-privacy-artlcs_security) for the most accurate reproduction.*
 
 # Security Policy & Privacy
 
@@ -34,3 +34,23 @@ With respect to security: We have appropriate security measures in place in our 
 
 **The Enterprise Department Ltd , 11 Bridge Street, Bishop's Stortford, HERTS, CM23 2JU  
 Vat No. 650062669 **
+
+  
+
+
+## What are cookies
+
+Computer cookies are small text files that a website transfers to your computer. Cookies cannot harm your computer and are anonymous. They do not contain any information that could be used to identify you, nor do they contain any confidential information such as your email address or credit card details.  
+Using 'cookies' helps us to make our website easier for you to use and helps us to give you a more personalised web experience, such as enabling us to present information about products and promotions which we believe will be of interest to you. 
+
+## Are cookies safe
+
+Yes. The information stored in cookies is anonymous and secure. It cannot be used to identify you personally and cannot harm your computer. 
+
+## Can I switch cookies off
+
+The Coopers of Stortford website uses these cookies to make our website easier to use and to allow us to provide the best possible standard of service. Cookies are an essential part of how our website works, however if you wish to reject our cookies you can configure your browser to do so. If you choose not to consent to the use of cookies your experience of our website will be severely impaired and many important aspects of the site will not work at all for you.
+
+## Our use of advertisements
+
+You may see adverts for Coopers of Stortford products on other websites that you visit. We allow other business partners to serve these advertisements on our behalf. All banners of this type feature an "i" icon that provides more information from each advertising network and instructions on how to opt out. We do not provide any personally identifiable customer information to these advertisers or third-party websites.
