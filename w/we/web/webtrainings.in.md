@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtrainings.in privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004810id_/http%3A//www.webtrainings.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrainings.in privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128112010id_/http%3A//www.webtrainings.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy of Web Trainings Institute
+# Privacy Policy of Web Trainings Institute | Web Trainings Institute
 
 The privacy of our visitors to [www.webtrainings.in](http://www.webtrainings.in/)[](http://www.itinfo.co.in/) is important to us.
 
