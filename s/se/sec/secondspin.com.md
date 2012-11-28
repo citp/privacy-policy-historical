@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511035821id_/http%3A//www.secondspin.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128041523id_/http%3A//www.secondspin.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # SecondSpin.com
 
@@ -13,12 +13,6 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **General Policy**  
 We reserve the right to refuse service, terminate accounts or cancel orders at our discretion.
-
-Trans World Entertainmenet Corporation  
-Attn: SecondSpin.com  
-900 N. Rohlwing Rd.  
-Itasca, IL 60143  
-[customerservice@secondspin.com](mailto:customerservice@secondspin.com)
 
 **SecondSpin.com's Personal Information Gathering Practices**
 
