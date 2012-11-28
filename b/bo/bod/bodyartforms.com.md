@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131183041id_/http%3A//privacy-policy.truste.com/verified-policy/www.bodyartforms.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128021125id_/http%3A//privacy-policy.truste.com/verified-policy/www.bodyartforms.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.bodyartforms.com
 
 Effective on March 17, 2011 
 
-This privacy statement describes how Bodyartforms collects and uses the personal information you provide on our Web site: [www.bodyartforms.com ](https://www.bodyartforms.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Bodyartforms collects and uses the personal information you provide on our Web site: [www.bodyartforms.com ](http://www.bodyartforms.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
