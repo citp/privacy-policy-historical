@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 12thblog.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530015813id_/http%3A//www.12thblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12thblog.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128131801id_/http%3A//www.12thblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : 12thBlog
+# Privacy Policy - 12thBlog
 
 **12thblog** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
