@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsytime.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528133829id_/http%3A//artsytime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsytime.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128031028id_/http%3A//artsytime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Artsy Time
 
