@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530011518id_/http%3A//mlmhelpdesk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128131301id_/http%3A//mlmhelpdesk.com/privacy-statement) for the most accurate reproduction.*
 
 # Mlm Company Review | MLM Help Desk
 
