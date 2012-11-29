@@ -1,74 +1,56 @@
-> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605153133id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129043357id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Data Center Knowledge
 
   * ## [Privacy Policy](http://www.datacenterknowledge.com/privacy-policy/ "Privacy Policy")
 
-_November 12th, 2008 : Rich Miller_
+**Privacy Policy**
 
-**Privacy Policy and Terms of Service**
+This Privacy Policy governs the manner in which iNET Interactive collects, uses, maintains and discloses information collected from users (each, a “User”) of any of the websites within the iNET Interactive network (the “Websites”).
 
-Data Center Knowledge is committed to ensuring the privacy of its visitors and registered members and wants you to fully understand our terms and conditions. This privacy statement describes how any personal, and anonymous, information is collected and managed and how you can request changes to any sharing of this information that may occur.
+**Privacy**
 
-Data Center Knowledge’ servers automatically recognize a visitor’s IP address and domain name. These items do not reveal any personally identifiable information about you. The information is used to compile statistics that enable us to study page impression levels and unique users visiting to the site. This information helps us to understand the areas of our sites that people visit in order to deliver better content and site navigation.
+iNET Interactive is committed to safeguarding the information Users entrust to iNET Interactive and believes every User should know how iNET Interactive utilizes the information collected from the Websites. This Websites is not directed at children under 13 years of age.
 
-**Cookies**
+**The Information We Collect**
 
-Like most sites, Data Center Knowledge uses cookies. Cookies are small data files that some Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you’ve visited. Cookies do not tell us who you are unless you’ve specifically given us personally identifiable information. A cookie can’t read data off your hard drive or read cookie files created by other sites.
+iNET Interactive may collect personally identifiable information (including demographic and biographic information, business affiliations, and survey responses) from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. Information gathered from each of the Websites will be combined and stored in a single central source. iNET Interactive may also collect information about how Users use our Websites, for example, by tracking the number of unique views received by the pages of the Websites, or the domains from which Users originate. We may use “cookies” to track how Users use our Websites. A cookie is a piece of software that a Web server can store on the Users’ PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Websites. We currently use third party ad software to serve ads on our site. The cookies received with banner ads served by this software is used to collect and build anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals.
 
-Cookies allow a publisher to provide automatic logins to improve your experience with our sites. For example, we may use a cookie to identify our registered members so they don’t have to re-enter a user id and password when they sign-in or comment on articles or in forums. Cookies can also be used to help us to better understand how visitors interact with our sites leading to the delivery of more relevant content, or they can be used to control the number of times an advertisement is served to the same visitor. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf. Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
+**How We Use Information**
 
-Among our advertisers serving cookies is Google, which uses the DoubleClick DART cookie to serve ads to our users based on their visits to Data Center Knowledge and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+iNET Interactive and its trusted affiliates, independent contractors, and business partners may use personally identifiable information collected through the Websites to contact Users regarding products and services, and otherwise to enhance Users’ experience with iNET Interactive and such affiliates, independent contractors, and business partners. iNET Interactive may also use information collected through our Websites for research regarding the effectiveness of the Websites and the marketing, advertising and sales efforts of iNET Interactive, its trusted affiliates, independent contractors and business partners.
 
-Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
+**Disclosure of Information**
 
-[**Pixel Tags**](http://en.wikipedia.org/wiki/Pixel%20Tags)
+iNET Interactive may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of iNET Interactive’s business.
 
-Data Center Knowledge may also use pixel tags, also known as beacons, web bugs or clear gifs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns. A Pixel tag is a graphic image, often transparent and usually no larger than 1 pixel x 1 pixel, which works in combination with cookies to track usage of a Web page or e-mail containing it.
+iNET Interactive also reserves the right to disclose information if: (1) the disclosure is necessary or useful to our provision of services; (2) we believe in good faith the disclosure is required by law (such as a search warrant, subpoena or court order); (3) we believe in good faith the disclosure is necessary to protect our rights, interests, or property; or (4) we are acting in good faith to protect an individual’s personal safety.
 
-**Online Ad Serving**
+**Maintenance of Information**
 
-When you visit our Web sites, Data Center Knowledge uses third-party advertising companies to serve some or all of the advertisements on our sites, and, in some cases, in our newsletters. Often, these third-party advertising companies may employ cookie and pixel tag technologies to measure the advertisements’ effectiveness. These companies may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites in order to provide advertisements about goods and services that may interest you. As part of our relationship with such companies, we do not provide them any personally identifiable information.
+We utilize industry standard information technology security to keep Users’ information secure. We also attempt to have privacy protection controls in place with our vendors in order to ensure that Users’ personal information is protected from unauthorized access or disclosure. All of our employees must abide by our Privacy Policy. Only authorized employees are permitted to access Users’ personally identifiable information. If an employee violates our privacy policies, he or she will be subject to our disciplinary action, up to and including termination. Nevertheless, iNET Interactive cannot guarantee that Users’ information will be completely secure.
 
-**Protecting Your Information**
+**Updating Your Information**
 
-Data Center Knowledge never shares your personal information with anyone without your permission. For example, some free content available to our subscribers, such as white papers and research reports, requires that you share specific personal information with the publisher or sponsor of that content. In such instances, you are notified before you download or view the content of the specific information required and of exactly who will receive it.
+It is important that we keep only the most accurate, up-to-date information about you in our records. Therefore, if you believe that our records contain information that needs to be updated, you can email us at privacy@inetinteractive.com to correct or update your contact information. You may also email us at privacy@inetinteractive.com to remove your name, telephone and fax numbers, and postal and email addresses from lists that we maintain for purposes of sending out notices or updates or to request that we refrain from disclosing your personally-identifiable information to third parties.
 
-By subscribing to Data Center Knowledge you implicitly give us permission to share your information with vendors who are essential in the delivery of services and features included in your subscription. For example, our Web-hosting and e-mail delivery vendors may need to store your information on their servers while helping us send you your weekly newsletters. However, these essential vendors will use your personal information only as needed to deliver products and services which you have requested from Data Center Knowledge.
+**Children’s Privacy**
 
-The necessary disclosure of any of the above information to third parties will be governed by the following principles:
+iNET Interactive is not designed to attract individuals under the age of 18. In accordance with the Children’s Online Privacy Protection Act (COPPA), we do not collect or store any personal information, even in aggregate, about children under the age of 13. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe that iNET Interactive has any information from or about anyone under the age of 13, please contact us at the contact points specified below.
 
-    * 1\. Where Data Center Knowledge is required to do so by law and any order of the court.
-    * 2\. Where Data Center Knowledge intends to co-operate with the investigation of any alleged unlawful activities without being required to by virtue of any court order or other legal requirement.
-    * 3\. Where it is necessary to protect the rights of Data Center Knowledge, its employees or members.
+**Interest-based Advertising**
 
-**Newsletters**
+iNET Interactive uses advanced ad serving technology to offer interest-based advertising. This platform uses unique cookies to identify and collect data such as web browser type, browsing habits etc. and to store that data for advertising purposes, including interest-based advertising. The data we collect with this targeting is considered non-personally identifiable information (Non-PII). Non-PII data is information that cannot be used to identify, contact or locate a particular individual or entity. We use this data in order to deliver you more relevant advertising and to enhance your experience. We also offer a method for you to opt-out of this advanced targeting by clicking the button below.
 
-Through the registration process for any Data Center Knowledge Newsletter, we request some personal information such as your e-mail address, etc. We will never give your personal information to any third party vendor without your prior consent. We may, however, make our email and postal lists available, on a rental basis, to carefully screened providers of related goods and services. These activities help us to pay for the daily information we provide on Data Center Knowledge web site. If you do not wish to receive information from third party vendors, please use the unsubscribe link provided in the email. If you do not wish to receive our newsletter, please use the unsubscribe link provided in the newsletter.
+[Click here to opt-out of interest-based advertising](http://dpmsrv.com/opt-out)
 
-**Data Center Knowledge Email Announcements**
+**Privacy Policy Revisions**
 
-In addition, we may, from time to time, send you e-mails announcing new Data Center Knowledge Web site features and initiatives. If you do not wish to receive messages of this nature from Data Center Knowledge, please use the unsubscribe link provided in the email.
+iNET Interactive reserves the right to periodically revise this policy. In the event we modify our policy, we will give reasonable notice of the change on our home page. Since notice of any such policy change will not appear on our website indefinitely and may only be posted for a limited time, it will be incumbent upon you to check our Privacy Policy regularly to see if we have made any modifications.
 
-**Surveys**
+**Questions**
 
-Occasionally, Data Center Knowledge conducts user surveys to better understand the needs of our audience in order to improve our features. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party without the user’s consent.
-
-**Security**
-
-We use all reasonable precautions to securely maintain all information given to us by our registered members and we are not responsible for any breach of the reasonable security measures installed to protect the said information. We are not responsible for the private policies of any site linked to, or from, Data Center Knowledge.
-
-[**Opt Out**](http://en.wikipedia.org/wiki/Opt_out%20Policy)
-
-Data Center Knowledge gives users options whenever necessary, and practical. Such choices include: Opting not to receive our electronic messages, opting not to provide certain optional personal information when registering for an account.
-
-**Transfer of Information**
-
-Data Center Knowledge reserves the right to transfer any information accumulated as described above in the event of the sale of part or all of Data Center Knowledge. By visiting our Web sites and by registering you consent to the collection and use of information in the manner herein described.
-
-**Privacy Policy Changes**
-
-This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page. If there is a significant change, we will indicate it on our sites and provide a link to the new policy.
+Users may direct questions concerning this Privacy Policy by email to privacy@inetinteractive.com.
 
 
 
