@@ -1,0 +1,509 @@
+<!--The following is the downloaded HTML source of the loandepot.com privacy policy that was archived on 2012-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129204321id_/http%3A//www.loandepot.com/Content/Public/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	loanDepot.com
+</title><link href="../../Styles/Site.css" rel="stylesheet" type="text/css"><link href="../../Styles/validationEngine.jquery.css" rel="stylesheet" type="text/css">
+    <!--used for GoogleAnalytics-->
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+    <!--used for validationEngine-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
+    <!-- used for validationEngine-->
+    <script src="http://cdn.jquerytools.org/1.2.5/jquery.tools.min.js" type="text/javascript"></script>
+    <!--used for TOOLTIPS-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            try {
+                $('.RadComboBox').tooltip({ position: 'center right', offset: [-2, 10], effect: 'fade', opacity: 0.9 });
+            }
+            catch (err) { }
+            try {
+                $('.riTextBox').tooltip({ position: 'center right', offset: [-2, 10], effect: 'fade', opacity: 0.9 });
+            }
+            catch (err) { }
+            try {
+                $('.RadButton').tooltip({ position: 'top center', offset: [-10, 0], effect: 'fade', opacity: 1.0 });
+            }
+            catch (err) { }
+        });
+
+
+
+
+        var LD = {
+            overlays: {}
+        };
+
+        jQuery(function ($) {
+
+            // overlays
+            var overlays = LD.overlays = {
+
+                // core functionality
+                el: {
+                    _screen: $('#screen')
+                },
+                open: function (id) {
+                    this._show_screen();
+                    var obj = this.el[id] = this.el[id] || $('#' + id);
+                    var win = $(window);
+                    var w = (win.width() - obj.outerWidth()) / 2,
+				h = (win.height() - obj.outerHeight()) / 2;
+                    obj.css({ top: h, left: w }).show();
+                },
+                close: function (id) {
+                    this.el[id].hide();
+                    this._hide_screen();
+                },
+                _show_screen: function () {
+                    this.el._screen.show();
+                    var body = this._body = this._body || $('body');
+                    body.css({ overflow: 'hidden', marginRight: 0 });
+                },
+                _hide_screen: function () {
+                    this.el._screen.hide();
+                    this._body.css({ overflow: 'auto', marginRight: 0 });
+                }
+            };
+
+        });
+    </script>
+
+    
+        <link href="../../Styles/LD.css" rel="stylesheet" type="text/css" media="all" title="loanDepotStyles">
+		<link href="../../Styles/validationEngine.jquery.css" rel="stylesheet" type="text/css" media="all" title="loanDepotStyles">
+		<script src="../../Scripts/jquery-1.7.1.js" type="text/javascript"></script>
+		<script src="../../Scripts/jquery.tools.min.js" type="text/javascript"></script>
+		<script src="../../Scripts/jquery.megaDropdowns.js" type="text/javascript"></script>
+		<script src="../../Scripts/jquery-ld.js" type="text/javascript"></script>
+		<script src="../../Scripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+		<script src="../../Scripts/browserDetect.js" type="text/javascript"></script>
+		<script src="../../Scripts/validationEngine.jquery.js" type="text/javascript"></script>
+		<script src="../../Scripts/jquery.cycle.lite.min.js" type="text/javascript"></script>
+		<script type="text/javascript">
+				$(function(){
+					$(".Sub .Content .Row .NavSeal").hover(
+					function(){
+						$(this).stop().fadeTo('slow',0.4);
+					},					function(){
+						$(this).stop().fadeTo('slow',1);
+
+				});	
+					});
+
+		</script>
+		<script type="text/javascript">
+			$(function() {
+				var Pathname = window.location.pathname;//Get URL 
+				var PathSlashesReplaced = Pathname.replace(/\//g, "");//Replace all "/\//g" with empty string
+				var PathSlashesReplacedNoFirstDash = PathSlashesReplaced.replace("-","");//Replace all "-" with empty string
+				var PathDotsReplaced = PathSlashesReplacedNoFirstDash.replace(".","");//Replace all "." with empty string 
+				var PathExtReplaced= PathDotsReplaced.replace("aspx","");//Replace all "aspx" with empty string 
+				var PathURLSpaceReplaced= PathExtReplaced.replace("%","");//Replace all "aspx" with empty string 
+				var PathTWOSpaceReplaced= PathURLSpaceReplaced.replace("0","");//Replace all "aspx" with empty string 
+				var PathZEROSpaceReplaced= PathTWOSpaceReplaced.replace("2","");//Replace all "aspx" with empty string 
+				var PathURL2SpaceReplaced= PathZEROSpaceReplaced.replace("%","");//Replace all "aspx" with empty string 
+				var PathTWO2SpaceReplaced= PathURL2SpaceReplaced.replace("0","");//Replace all "aspx" with empty string 
+				var PathZERO2SpaceReplaced= PathTWO2SpaceReplaced.replace("2","");//Replace all "aspx" with empty string 
+				var PathURL3SpaceReplaced= PathZERO2SpaceReplaced.replace("%","");//Replace all "aspx" with empty string 
+				var PathTWO3SpaceReplaced= PathURL3SpaceReplaced.replace("0","");//Replace all "aspx" with empty string 
+				var PathZERO3SpaceReplaced= PathTWO3SpaceReplaced.replace("2","");//Replace all "aspx" with empty string 
+				var NewClass = PathZERO3SpaceReplaced.replace(/(\.[\s\S]+)/ig, "");//Not exactly sure what this does....It works though
+				$("body").addClass(PathZERO3SpaceReplaced);//Get body and add class variable
+				if ( $("body").attr("class") == "")//If body class is equal to null
+				{
+						$("body").attr("class","home-page");//If body class is equal to null
+				}
+			});
+	
+
+		</script>
+		
+<script type="text/javascript">
+$(document).ready(function(){
+  $(".scroll").click(function(event){
+    event.preventDefault();
+    var offset = $($(this).attr('href')).offset().top;
+    $('html, body').animate({scrollTop:offset}, 500);
+  });
+});
+</script>
+
+</head>
+<body class="browserChrome browserChrome6 web111924321id_http3Awwwloandepot.comContentPublicPrivacyPolicy.">
+    <div id="fb-root">
+    </div>
+    <script>        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));</script>
+    <form method="post" action="PrivacyPolicy.aspx" id="form1">
+<input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDE0MTY0NDcPZBYCZg9kFgJmD2QWAgIDD2QWBgIDD2QWAgIBD2QWAmYPFgIeCWlubmVyaHRtbAUOMS04ODgtMzM3LTY4ODhkAgUPZBYCAgEPZBYCAgEPZBYEZg9kFgxmDxYCHgdWaXNpYmxlaGQCAg8WAh8BaGQCBA8WAh8BaGQCBg8WAh8BaGQCCA8WAh8BaGQCCg9kFgwCAw8WAh8ABQUzLjI1JWQCBQ8WAh8ABQszLjQwNyUgQVBSKmQCCQ8WAh8ABQQyLjUlZAILDxYCHwAFCzIuNzA5JSBBUFIqZAIPDxYCHwAFBTMuMjUlZAIRDxYCHwAFCzMuNDE3JSBBUFIqZAIBD2QWAmYPFgIfAAUOMS04ODgtMzM3LTY4ODhkAgcPZBYEZg9kFgJmDxYCHwAFDjEtODg4LTMzNy02ODg4ZAIFD2QWAgIBDxYCHwAFjAU8ZGl2IHN0eWxlPSJ3aWR0aDogNzAwcHg7IGhlaWdodDogNTAwcHg7IGJhY2tncm91bmQ6IHVybCgnLi4vLi4vSW1hZ2VzL0JhY2tncm91bmRzL3NwbGFzaFBlb3BsZS5qcGcnKSBuby1yZXBlYXQ7Ij4KPGgxIHN0eWxlPScgY29sb3I6ICMwMDAwMDA7IGRpc3BsYXk6IGJsb2NrOyBmb250OiBib2xkIDIzcHgvMjZweCBoZWx2ZXRpY2EsYXJpYWwsc2Fucy1zZXJpZjsgbWFyZ2luOiAwIGF1dG87IHBhZGRpbmc6IDMwcHggMCAxMHB4OyB0ZXh0LWFsaWduOiBjZW50ZXI7IHdpZHRoOiA1MjVweDsgJz5QbGVhc2Ugd2FpdCB3aGlsZSB3ZSByZXRyaWV2ZSB5b3VyIHJhdGVzPC9oMT4KPHAgc3R5bGU9IiBjb2xvcjogIzAwMDAwMDsgZm9udDogYm9sZCAxMnB4LzE2cHggaGVsdmV0aWNhLGFyaWFsLHNhbnMtc2VyaWY7IHdpZHRoOiA1MjVweDsgdGV4dC1hbGlnbjogY2VudGVyOyBtYXJnaW46IDAgYXV0bzsgZGlzcGxheTogYmxvY2s7IGNsZWFyOiBib3RoOyAiPlRoYW5rIHlvdSBmb3IgdmlzaXRpbmcgbG9hbkRlcG90LmNvbTwvcD4KPGltZyBzcmM9Ii4uLy4uL0ltYWdlcy9CYWNrZ3JvdW5kcy9sb2FkQmFyLmdpZiIgYWx0PSIiIHN0eWxlPSIgZGlzcGxheTogYmxvY2s7IG1hcmdpbjogMCBhdXRvOyBwYWRkaW5nOiAyMHB4IDAgMDsiIC8+CjwvZGl2PgoKZGTVXp5/Gnvx3l3WiON7y+RdKR9P04jVbiH1MXTMhnuLqw==">
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a89093640-ae6b-44c3-b8ea-010c934f8924%3aea597d4b" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+    
+    <!------------ This Is Needed for Overlays ------------->
+    <div id="screen">
+    </div>
+    <!------------ This Is Needed for Overlays ------------->
+    
+        <div id="NavigationBody">
+				<div id="NavigationContainer">
+						<a href="../../Default.aspx"><img class="ldlogo" src="../../Images/Icons/btn_logo.jpg"></a>
+						<div id="AssistanceContainer">
+								<div class="Column">
+										<p>Questions? Mortgage Experts are standing by!</p>
+										<span class="txtCallNow">Call Now:</span> <span class="Orange Bold">
+												<label id="NavigationContent_phone1_lblPhone">1-888-337-6888</label>
+										</span> 
+
+								</div>
+						</div>
+						<ul id="Navigation">
+								<li><a href="../../RateViewer.aspx" class="btnRateSearch MainNavBtn">Rate Search</a></li>
+								<li id="navLoanOptions"><a href="../../LoanOptions/LoanOptions.aspx" class="btnLoanOptions MainNavBtn">Loan Options</a>
+										<div class="Sub">
+												<div class="Top"><br class="clear"></div>
+												<div class="Content">
+														<div class="Row">
+																<div class="SubChild">
+																		<ul>
+																				<li><a href="../../LoanOptions/FixedRate.aspx" class="btnSubChild"><b>Fixed Rate loans</b></a></li>
+																				<li><a href="../../LoanOptions/ARM.aspx" class="btnSubChild"><b>Adjustable Rate Mortgage</b></a></li>
+																																						
+                                                                                <li><a href="../../LoanOptions/Jumbo.aspx" class="btnSubChild"><b>Jumbo Loans</b></a></li>
+																				<li><a href="../../LoanOptions/FHA.aspx" class="btnSubChild"><b>FHA Loans</b></a></li>
+																				<li><a href="../../LoanOptions/OurRateGuarantee.aspx" class="btnSubChild"><b>5 Year Rate Guarantee</b></a></li>
+																		</ul>
+																		<br class="clear">
+																</div>
+																<div class="MenuSeperator"></div>
+															<a class="NavSeal" href="../../LoanOptions/OurRateGuarantee.aspx"></a>
+																		<br class="clear">
+														</div>
+														<br class="Clear">
+												</div>
+												<div class="Bottom"><br class="clear"></div>
+										</div>
+								</li>
+								<li id="navRefinanceAHome"><a href="../../Refinance/RefinanceYourHome.aspx" class="btnRefinanceAHome MainNavBtn">Refinance A Home</a>
+										<div class="Sub">
+												<div class="Top"><br class="clear"></div>
+												<div class="Content">
+														<div class="Row">
+																<div class="SubChild">
+																		<ul>
+																				<li><a href="../../Refinance/EightGreatReasons.aspx" class="btnSubChild"><b>Great Reasons to Refinance</b></a></li>
+																				<li><a href="../../Refinance/RefinanceProcess.aspx" class="btnSubChild"><b>Refinance Process</b></a></li>
+																				<li><a href="../../LoanOptions/LoanOptions.aspx" class="btnSubChild"><b>Loan Options</b></a></li>
+																				<li><a href="../../Refinance/RefinanceFaqs.aspx" class="btnSubChild"><b>Refinance Questions</b></a></li>
+																		</ul>
+																		<br class="clear">
+																</div>
+																<div class="MenuSeperator"></div>
+															<a class="NavSeal" href="../../LoanOptions/OurRateGuarantee.aspx"></a>
+															<br class="clear">
+														</div>
+														<br class="Clear">
+												</div>
+												<div class="Bottom"><br class="clear"></div>
+										</div>
+								</li>
+								<li id="navPurchaseAHome"><a href="../../Purchase/PurchaseAHome.aspx" class="btnPurchaseAHome MainNavBtn">Purchase A Home</a>
+										<div class="Sub">
+												<div class="Top"></div>
+												<div class="Content">
+														<div class="Row">
+																<div class="SubChild">
+																		<ul>
+																				<li><a href="../../Purchase/GetPreApproved.aspx" class="btnSubChild"><b>Get Pre-Approved</b></a></li>
+																				<li><a href="../../Purchase/PurchaseProcess.aspx" class="btnSubChild"><b>Purchase Process</b></a></li>
+																				<li><a href="../../LoanOptions/LoanOptions.aspx" class="btnSubChild"><b>Loan Options</b></a></li>
+																				<li><a href="../../Purchase/PurchaseFaqs.aspx" class="btnSubChild"><b>Purchasing Questions</b></a></li>
+																		</ul>
+																</div>
+																<div class="MenuSeperator"></div>
+															<a class="NavSeal" href="../../LoanOptions/OurRateGuarantee.aspx"></a>
+														</div>
+														<br class="Clear">
+												</div>
+												<div class="Bottom">
+												</div>
+										</div>
+								</li>
+								<li><a href="../../MortgageCalculators.aspx" class="btnCalculators MainNavBtn">Calculators</a></li>
+								<li><a href="../../About/AboutloanDepot.aspx" class="btnResources MainNavBtn">About Us</a>
+										<div class="Sub">
+												<div class="Top"></div>
+												<div class="Content">
+														<div class="Row RowResources">
+																<div class="SubChild">
+																		<ul>
+																				<li><a href="../../About/AboutloanDepot.aspx" class="btnSubChild"><b>About loanDepot</b></a></li>
+																				<li><a href="../../About/Leadership.aspx" class="btnSubChild"><b>Leadership</b></a></li>
+																				<li><a href="../../About/ResponsibleLending.aspx" class="btnSubChild"><b>Responsible Lending</b></a></li>
+																				<li><a href="../../About/Contactus.aspx" class="btnSubChild"><b>Contact Us</b></a></li>
+																				<li><a href="../../About/MissionAndValues.aspx" class="btnSubChild"><b>Our Mission and Values</b></a></li>
+																				<li><a href="../../About/InTheNews.aspx" class="btnSubChild"><b>In The News</b></a></li>
+																				<li><a href="../../Careers.aspx" class="btnSubChild"><b>Careers</b></a></li>
+																		</ul>
+																		<br class="clear">
+																</div>
+																<div class="MenuSeperator"></div>
+															<a class="NavSeal" href="../../LoanOptions/OurRateGuarantee.aspx"></a>
+																		<br class="clear">
+														</div>
+														<br class="Clear">
+												</div>
+												<div class="Bottom">
+												</div>
+										</div>
+								</li>
+								<li><a href="../../ApplyOnline.aspx" class="btnApplyOnline MainNavBtn">Apply Now</a></li>
+						</ul>
+				</div>
+		</div>
+
+    
+        
+<div id="InteriorBody">
+	<div class="AllContent" id="QuestionList">
+		<div id="PrivacyPolicy" class="Company">
+				<div class="CompanyContent">
+						<div class="LeftCol">
+								<h2 class="contentHeader ">Privacy Policy</h2>
+                <p>loanDepot® values your patronage and protecting your confidential information is a priority. Our policies and procedures reinforce the fact that loanDepot strongly believes in protecting the confidentiality and security of the information we collect about you as a customer, potential customer or former customer. We have adopted the following policies and procedures to safeguard the personal information about you in our possession.</p>
+                <h2>Our Privacy Pledge</h2>
+								<ul class="LicensesList">
+										<li><span>We do not sell or rent customer information. </span></li>
+										<li><span>We share customer information with certain employees and with companies providing services on our behalf in order to service your needs. </span></li>
+										<li><span>Our policy is to require all employees and companies providing services on our behalf to keep customer information confidential.</span></li>
+										<li><span>Our privacy policy applies to potential customers as well as current and former customers. </span></li>
+								</ul>
+                <h2>Safeguarding Personal Information<br>We have adopted policies and procedures designed to protect your personal information from unauthorized use or disclosure.</h2>
+                <ul class="LicensesList">
+										<li><span>We have implemented physical, electronic and procedural safeguards to maintain confidentiality and integrity of the personal information in our possession and to guard against unauthorized access. These include among other things, procedures for controlling access to customer files, building security programs and information technology security measures such as the use of passwords, firewalls, virus prevention and use detection software.</span></li>
+										<li><span>We continue to assess new technology as it becomes available and to upgrade our physical and electronic security systems as appropriate.</span></li>
+										<li><span>Our policy is to permit employees to access your personal information only if they have a business purpose for using such information, such as administering, providing or developing our products or services.</span></li>
+										<li><span>Our policy, which governs the conduct of all of our employees, requires all employees to safeguard personal information about the consumers and customers we serve or have served in the past.</span></li>
+								</ul>
+								<p>This is the fun part. Once you've been pre-approved and have an idea of what price range you qualify for, you can work with a real estate agent to view homes for sale in the areas you'd like to live. Once you find a home you like, you can work with the real estate agent to draw up an offer and complete a purchase agreement. The seller has the option to submit a counter-offer and you may go through several rounds of counters. Once you and the seller agree to the price and terms, escrow will be opened. Typical escrow periods are 30 days but 45 and 60 day escrows are not uncommon.</p>
+                <h2>Information We Collect About You</h2>
+                <p>We collect information about you to help us serve your financial needs, to provide you with quality products and services and to fulfill legal and regulatory requirements. We consider non-public information about you in our possession to be personal information, even if you cease to be a customer. The personal information we collect about you may include among other things:</p>
+                <ul class="LicensesList">
+										<li><span>Identifying information, such as your name, age, address, phone number and social security number</span></li>
+										<li><span>Employment information</span></li>
+										<li><span>Financial information such as your income, assets and liabilities, as well as information about your savings, investments, insurance and business.</span></li>
+								</ul>
+                <p>Typically, we collect this information on applications and other forms you complete, through conversations you may have with our loan originators and processors, with our other representatives, and in some cases, over our website. We may also collect information from a wide range of other sources in order to process and/or underwrite your loan. These sources may include among others, employers, attorneys, banks, title insurers, insurance companies and credit reporting agencies.</p>
+                <h2>Sharing Information With Companies That Provide Services For Us</h2>
+                <p>We share personal information about you, as required or permitted by law, with third parties, such as service providers who assist us in the day to day operations of our company in the administration, processing, servicing and sale of your loan. These third parties include among others, title companies, appraisers, insurance companies, underwriting services, processing services, printing companies, software providers, marketing services and purchasers of loans. Our policy is to require third party service providers to enter into confidentiality agreements with us, prohibiting them from using any personal information they obtain for any other purpose other than those for which they were retained or as required by law. We may also disclose information about you, when necessary or required, in legal and arbitration proceedings and to government agencies.</p>
+                <h2>Changes To Our Privacy Policy</h2>
+                <p>We may make changes to our privacy policy in the future. If you choose to receive e-mail messages or newsletters from us, you may later modify your choice by contacting us at 1-888-337-6888 . You also will be given the opportunity, in any general bulk commercial e-mail that we send to you, to opt out of receiving such messages in the future. We will attempt to address your request immediately but it may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as processing requests, conditional loan offers, requests for additional information, service updates or announcements, administrative notices and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. Note: If we have already provided your information to a third party as part of your loan application then you may have to change your preferences directly with that third party.</p>
+								<p>Our Do Not Call policy states that you may instruct us not to call you for marketing purposes by informing us at 1-888-337-6888 . Our employees are trained through Policies and Procedures to take action on your instructions within 30 days. Please note that we may still need to contact you for legitimate business reasons such as servicing of your loan or other non-marketing purposes.</p>
+								<p>If you do not want us to send you postal mail for marketing purposes, you may remove your name from current and future mailing lists by contacting us at 1-888-337-6888 .</p>
+                <h2>Contacting Us</h2>
+								<p>If you have any questions about this privacy policy, please write us at loanDepot, 26642 Towne Centre Drive, Foothill Ranch CA, 92610.</p>
+								<p>1-888-337-6888</p>
+						</div>
+					    <div class="RightCol">
+						    
+<div class="AppContainer">
+	<div class="Top">
+		<h2 class="hdrApp">Today's Mortgage Rates</h2>
+	</div>
+	<div class="Body">
+		<div class="Content">
+			
+
+
+
+
+
+
+
+
+<div id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_FlatRateBar">
+		<div class="Column Row">
+					<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_name1" class="RBRate_lblRow RBRate_lblColumn">30 Year Fixed</span>
+					<span class="RBRate_TeaserRow RBRate_TeaserColumn">
+						<span class="txtRateApr">
+							<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_int1" class="ColumnRateInterest">3.25%</span>
+							<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_apr1" class="ColumnRateApr">3.407% APR*</span>
+						</span>
+					</span>
+		</div>
+		<div class="Column Row">
+					<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_name2" class="RBRate_lblRow RBRate_lblColumn">15 Year Fixed</span>
+					<span class="RBRate_TeaserRow RBRate_TeaserColumn">
+						<span class="txtRateApr">
+							<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_int2" class="ColumnRateInterest">2.5%</span>
+							<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_apr2" class="ColumnRateApr">2.709% APR*</span>
+						</span>
+					</span>
+		</div>
+		<div class="Column Row">
+					<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_name3" class="RBRate_lblRow RBRate_lblColumn">20 Year Fixed</span>
+					<span class="RBRate_TeaserRow RBRate_TeaserColumn">
+						<span class="txtRateApr">
+							<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_int3" class="ColumnRateInterest">3.25%</span>
+							<span id="MainContent_MainContent02_LDSideBar1_RateDisplayBar1_apr3" class="ColumnRateApr">3.417% APR*</span>
+						</span>
+					</span>
+		</div>
+</div>
+
+			<div class="RatesAction">
+				<p>View and customize rates and payments for a variety of loans</p>
+				<a href="../../RateViewer.aspx" class="CustomizeRates">customize my rates</a>
+			</div>
+		</div>
+		<br class="Clear">
+	</div>
+	<img src="../../Images/Backgrounds/SmallQRFPanel/bg_qrfpanelbottom.png" class="Clear" alt="">
+</div>
+	<a href="http://www.la.bbb.org/business-reviews/Real-Estate-Loans/LoanDepotcom-in-Foothill-Ranch-CA-100089796" target="_blank"><img src="../../Images/Icons/icon_bbb.png" alt=""></a>
+<div class="Smallpanel">
+	<div class="Top"></div>
+	<div class="Body">
+		<div class="Content">
+			<h2>Call Us for a Quote</h2>
+			<p>Talk to a licensed mortgage banker who can answer all your questions, quote rates and find your best loan.</p>
+			<b class="Orange"><label id="MainContent_MainContent02_LDSideBar1_PhoneNumber1_lblPhone">1-888-337-6888</label></b>
+		</div>
+	</div><img src="../../Images/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt=""></div>
+<div class="Smallpanel">
+	<div class="Top">
+	</div>
+	<div class="Body">
+		<div class="Content">
+			<h2>We’ll Call you</h2>
+			<p>Fill out a short contact form and we’ll have a mortgage expert call or email you back.</p>
+			<a href="RequestACallback.aspx" class="RACActionButton ActionButton"></a>
+		</div>
+	</div><img src="../../Images/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt=""></div>
+<div class="Smallpanel">
+	<div class="Top"></div>
+	<div class="Body">
+		<div class="Content">
+			<h2>Apply Online </h2>
+			<p>Apply with our online application. View and lock in your rate online, all from the convenience of your home</p>
+			<a href="../../ApplyOnline.aspx" class="AOActionButton ActionButton"></a>
+		</div>
+	</div><img src="../../Images/Backgrounds/SmallPanel/bg_smpanelbottom.png" class="Clear" alt=""></div>
+<a class="OfficialSeal yrgbox" href="../../LoanOptions/OurRateGuarantee.aspx"></a>
+
+					    </div>
+				</div>
+			<br class="Clear">
+		</div>
+	</div>
+</div>
+
+
+    <br class="Clear">
+    
+        <div id="FooterNavigationBody">
+				<div id="FooterNavigationContainer">
+						<div id="FooterNavigation">
+								<div class="Column">
+										<ul>
+												<li><b>Popular Links</b></li>
+												<li><a href="../../RateViewer.aspx">Rate Search</a></li>
+												<li><a href="../../ApplyOnline.aspx">Apply Now</a></li>
+												<li><a href="../../About/AboutloanDepot.aspx">About loanDepot</a></li>
+												<li><a href="../../MortgageCalculators.aspx">Calculators</a></li>
+												<li><a href="../../Careers.aspx">Careers</a></li>
+										</ul>
+										<ul>
+												<li><b></b></li>
+												<li><a href="../../LoanOptions/OurRateGuarantee.aspx">5 Year Rate Guarantee</a></li>
+												<li><a href="Licensing.aspx">Licensing</a></li>
+												<li><a href="PrivacyPolicy.aspx">Privacy Policy</a></li>
+												<li><a href="TermsOfUse.aspx">Terms of Use</a></li>
+										</ul>
+								</div>
+								<div class="Column AssociationIconContainer">
+										<div class="AssociationIcons">
+										</div>
+								</div>
+								<div class="Column Address">
+										<p>
+												<b>loanDepot.com LLC</b></p>
+										<p>
+												26642 Towne Centre Drive<br>
+												Foothill Ranch, CA 92610</p>
+										<p>
+												Toll Free: <b>
+														<label id="FooterContent_phone2_lblPhone">1-888-337-6888</label>
+												</b>
+										</p>
+										<ul class="SocialMediaIcons">
+												<li><a href="https://www.facebook.com/pages/loanDepot/122038777815264" target="_blank">
+														<img src="../../Images/Icons/SociaMedia/icon_facebook.png"></a></li>
+												<li><a href="http://www.linkedin.com/company/loandepot" target="_blank">
+														<img src="../../Images/Icons/SociaMedia/icon_linkedin.png"></a></li>
+												<li><a href="http://twitter.com/#!/loandepot" target="_blank">
+														<img src="../../Images/Icons/SociaMedia/icon_twitter.png"></a></li>
+												<li><a href="http://www.youtube.com/user/loanDepotCA" target="_blank">
+														<img src="../../Images/Icons/SociaMedia/icon_youtube.png"></a></li>
+										</ul>
+								</div>
+						</div>
+				</div>
+		</div>
+		<div id="FooterDisclaimerBody">
+				<div id="FooterDisclaimerContainer">
+						<span class="EHLenderIcon"></span>
+						<p>
+								<b>© 2009-2012 loanDepot.com LLC, All rights reserved. NMLS#174457</b></p>
+						<p>
+								Rate Assumptions</p>
+						<p>
+								* Rate displayed are subject to change and assumes that you are buying or refinancing an owner-occupied single family home, all borrowers have credit
+								scores of 740 or higher, debt-to-income ratios of 35% or lower, asset and reserve requirements are met, and your property
+								has a loan-to-value of 80% or less. The Annual Percentage Rate (APR) is based on a loan amount of $200,000 and may include
+								up to 3 points. (Points include any origination, discount and lender fees.) On adjustable-rate loans, interest rates are
+								subject to potential increases over the life of the loan, once the initial fixed-rate period expires.Please contact one
+								of our Mortgage Bankers at 1-888-337-6888 for a customized rate and payment quote.</p>
+						<p class="RateGuaranteeDisclosureContainer" style="display:none">**Refinancing within the 60 month period is conditional on whether the program type or applicable state/federal laws contain “seasoning” restrictions that would make refinancing during a specific period illegal. For example, waiting until after the 12th month, but before the 60th month may be required. Your loan approval for the future refinance is not guaranteed. You must fully qualify for the selected refinance and meet all the requirements of the loan program you select at the time you apply for the refinance. The appraised value of your home for the future refinance is not guaranteed. There must be a full appraisal of your home when the new refinance is requested and the value at that time must be acceptable for the program and loan terms you request. The interest rate for the future refinance is not guaranteed. You will have to qualify for the loan requested, and will be quoted the interest rates in effect at the time of your next refinance.</p>
+				</div>
+		</div>
+				
+<div id="wait_ad" class="overlay">
+    <div id="FooterContent_wait_ad1_wait_ad"><div style="width: 700px; height: 500px; background: url('../../Images/Backgrounds/splashPeople.jpg') no-repeat;">
+<h1 style=" color: #000000; display: block; font: bold 23px/26px helvetica,arial,sans-serif; margin: 0 auto; padding: 30px 0 10px; text-align: center; width: 525px; ">Please wait while we retrieve your rates</h1>
+<p style=" color: #000000; font: bold 12px/16px helvetica,arial,sans-serif; width: 525px; text-align: center; margin: 0 auto; display: block; clear: both; ">Thank you for visiting loanDepot.com</p>
+<img src="../../Images/Backgrounds/loadBar.gif" alt="" style=" display: block; margin: 0 auto; padding: 20px 0 0;">
+</div>
+
+</div>
+</div>
+
+
+
+    </form>
+    <!--used for GoogleAnalytics-->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-12105805-1");
+            pageTracker._trackPageview();
+        } catch (err) { }</script>
+
+
+</body></html>
