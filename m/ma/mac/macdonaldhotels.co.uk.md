@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macdonaldhotels.co.uk privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311063600id_/http%3A//www.macdonaldhotels.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdonaldhotels.co.uk privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129124522id_/http%3A//www.macdonaldhotels.co.uk/privacy-policycookies) for the most accurate reproduction.*
 
 # Privacy policy - Macdonald Hotels UK
 
@@ -46,6 +46,30 @@ By registering or placing an order on this website, you consent to the collectio
   * We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
 
 
+
+**Use of cookies on the Macdonald Hotels website**
+
+We do use cookies on our website to enhance your user experience with us.  A cookie is a text file which contains information relating to your web journey and behaviour.  It is stored in your web browser to enable us to personalise your experience next time you visit our website.
+
+ Cookies are extremely useful as they can quicken up the web journey for you and can also allow a website to recognise a user's device. 
+
+ Listed below, is an outline of the cookies used on our website.  If you would like any further information, we recommend the following source: [ http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx)
+
+**Necessary cookies to allow your customer journey**
+
+Some cookies are essential to your web journey to enable to you to access secure parts of the website, this would include making an online booking, taking an e-payment or an online enquiry.  Without cookies, you would be unable to do these purchases online.
+
+**Analytical tracking cookies to allow us to improve your experience**
+
+Our tracking cookies collect information anonymously about how you browse and use our website, what pages you visit, how you entered the site and where you left it.  This data is anonymous and not specific to you yet helps us to make improvements to your web experience by identifying pages where more visitors may be exiting the website or where visitors may be struggling to find necessary information. 
+
+**Marketing cookies to measure performance**
+
+Our marketing cookies allow us to measure the effectiveness of our online marketing campaigns, for example our email marketing.  They collect data anonymously of general visit patterns and trends to understand the likes and dislikes of our consumers.  They are also used to target you with relevant information specific to your browser activity and which pages you visit on the website.
+
+**Managing your cookies**
+
+You will be able to use the Help menu bar on most browsers to get information on how to block or prevent cookies. This will give you information on how to disable cookies altogether, however it should be noted that this will stop you being able to do simple e-commerce functions on the Macdonald Hotels website and we strongly recommend that you leave your cookies enabled, so that we can continue to help evolve websites and your user experience. 
 
 **Changes to our Privacy Policy:**
 
