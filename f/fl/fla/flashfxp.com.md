@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530195828id_/http%3A//www.flashfxp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130002305id_/http%3A//www.flashfxp.com/privacy) for the most accurate reproduction.*
 
 # FlashFXP Privacy Policy
 
@@ -41,7 +41,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 After a transaction, your private information (i.e. credit card number) will not be stored on our servers.
 
 **Private Information Security**   
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, PayPal and share-it! keep this information encrypted and secure on your behalf. 
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, PayPal, Avangate, and share-it! keep this information encrypted and secure on your behalf. 
 
 **Do we use cookies?**   
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
@@ -72,7 +72,7 @@ By using our site, you consent to our privacy policy.
 **Changes to our Privacy Policy**   
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **October 6, 2009**
+This policy was last modified on **August 3, 2012**
 
 **Contacting Us**   
 If there are any questions regarding this privacy policy you may contact us using the information below. 
@@ -82,7 +82,7 @@ OpenSight Software, LLC
 Quincy, Illinois 62305  
 United States
 
-[Online Contact Form](https://web.archive.org/contact.php)
+[Online Contact Form](https://secure.flashfxp.com/portal/contact)
 
 **Privacy Policy Customer Pledge**   
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
