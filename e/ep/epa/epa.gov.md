@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619022348id_/http%3A//www.epa.gov/epahome/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129061132id_/http%3A//www.epa.gov/epahome/usenotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice | US EPA
-
- 
 
 * * *
 
@@ -53,8 +51,6 @@ Top of page
 
  **EPA and Privacy:** Please be assured that the privacy of our visitors is of utmost importance to us. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us. 
 
-Top of page
-
 We want to inform you that, for each HTTP request (which is what your Web browser generates when you request a page or part of a page from a website) received; we collect and store only the following information, in what is called a log file: 
 
   * the date and time
@@ -67,7 +63,13 @@ We want to inform you that, for each HTTP request (which is what your Web browse
 
 
 
-We use the information that we automatically collect to measure the number of visitors to the different areas of our sites, and to help us make our pages more useful to visitors. This includes analyzing these logs periodically to determine the traffic through our servers, the number of pages served, and the level of demand for pages and topics of interest. 
+The information above is also collected by Google Analytics on behalf of EPA. Google Analytics uses first-party persistent cookies, which the government classifies as Tier 2 persistent cookies. Tier 2 persistent cookies do not collect any personally identifiable information, but only those metrics listed above. In addition, persistent cookies can identify return visitors to [www.epa.gov](http://www.epa.gov/) by setting a small file in internet Web browsers. Unless you first opt-out (see below), the Google Analytics code used will automatically set a persistent cookie in the browser of the computer you are using to access [www.epa.gov.](http://www.epa.gov/)
+
+Traffic statistics for [www.epa.gov](http://www.epa.gov/) are only reported to us anonymously and in the aggregate, and no information provided by Google Analytics is traceable to any specific individual. We use the information that we automatically collect to measure the number of visitors to the different areas of our sites, and to help us make our pages more useful to visitors. This includes analyzing Web traffic to determine the types of devices and browsers that view EPA Web pages most often and the level of demand for specific pages and topics of interest. 
+
+You can opt-out by changing the cookie settings in your browser. For instructions on how to disable cookies in some of the most popular Web browsers, visit <http://www.usa.gov/optout_instructions.shtml>. Google also provides an Opt-Out Browser Add-on for newer browsers: <http://tools.google.com/dlpage/gaoptout>. Opting-out will still allow you to obtain comparable information from EPA websites. 
+
+For more information about the federal government's use of persistent cookies, please refer to the Office of Management and Budget's (OMB) Memo Guidance for the Online Use of Web Measurement and Customization Technologies.
 
 Top of page
 
@@ -86,7 +88,7 @@ Top of page
 
 
 
-Some EPA pages have "session cookies," to facilitate use of that particular page. These disappear when the Web user terminates a Web session and closes the browser. EPA also permits the use of persistent cookies for the collection of Web metrics; however, EPA does not collect any personally identifiable information about visitors to our Web pages. All EPA pages using persistent cookies link to the [EPA Persistent Cookie Notice](http://www.epa.gov/epahome/cookies.html), which details the types of information collected and how to opt-out by changing the cookie settings in your browsers.
+EPA pages have "session cookies," to facilitate use of a particular page and to identify the number and type of pages viewed during visits to [www.epa.gov](http://www.epa.gov/). Session cookies disappear when the Web user terminates a Web session and closes the browser. EPA also permits the use of persistent cookies for the collection of Web metrics; however, EPA does not collect any personally identifiable information about visitors to our Web pages (see "EPA and Privacy" above). 
 
 If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies. 
 
