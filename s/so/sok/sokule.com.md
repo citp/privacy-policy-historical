@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sokule.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531214740id_/http%3A//www.sokule.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokule.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129152944id_/http%3A//www.sokule.com/privacy.html) for the most accurate reproduction.*
 
 # Sokule Sokule - Main
 
