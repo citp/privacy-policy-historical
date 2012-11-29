@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324063600id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129134927id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Eton Store
 
@@ -18,7 +18,7 @@ This information is collected for the following purposes:
 
 User information is retained for in-house research to:
 
-  * Improve our understanding of our customers’ needs in relation to product development, ensure effective communication and aid strategic development.
+  * Improve our understanding of our customersâ€™ needs in relation to product development, ensure effective communication and aid strategic development.
   * All results of such research and analysis will be collated as aggregated information and will not reveal any personal facts about individual customers.
   * For certain services, such as purchases, we may request credit card or other payment information which we process in encrypted form on secure servers.
   * Indumenti will maintain appropriate measures to ensure that users' personal details are not misused, accidentally destroyed, lost or altered within the Indumenti server environment.
