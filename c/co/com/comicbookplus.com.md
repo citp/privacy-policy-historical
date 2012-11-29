@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613172750id_/http%3A//comicbookplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129031653id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.*
 
-# Comic Book Plus - Privacy Policy
-
-Rest assured we take your privacy very seriously. Beneath is our privacy policy. This policy was last revised February 2012.
-
-ComicBookPlus.com is committed to maintaining the privacy of personal information that you provide when using this site.
-
-This Privacy Policy describes how your personal information is treated after you visit ComicBookPlus.com hereafter referred to as "our Web site". 
+# Privacy Policy - Comic Book Plus
 
 ## Links To Other Web Sites
 
@@ -55,3 +49,5 @@ When we make any material change to this Privacy Policy, we will inform you by p
 ## Comments And Questions
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact the following email address: [team@ComicBookPlus.com](mailto:team@ComicBookPlus.com)
+
+**Disclaimer:** If you have come to this site to find pirated or illegal material, you will be disappointed! We only hold comic books and images that are in the Public Domain. If you suspect that any of our content may be infringing copyright, then please use our [contact page](https://web.archive.org/contact/) to let us know. So we can investigate further.
