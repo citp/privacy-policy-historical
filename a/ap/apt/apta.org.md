@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616170131id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apta.org privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129125346id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # APTA Web Sites & Forums Privacy Policy
 
@@ -28,7 +28,7 @@ APTA will make every attempt to protect any personal information submitted to us
 
 ## Cookies
 
-Cookies are small files that allow us to track our users' interaction with the Web Site. Cookies do not identify the user personally, just the computer used to access the Web Site. The Web Site uses session cookies. These files are generated whenever a user accesses the Web Site and they are terminated once the user leaves the Web Site. The Web Site does not use persistent cookies, which have to be deleted manually. If for some reason you don't want your information collected via cookies, you should have the option to disable the cookie function through your Internet browser. However, some areas of the Web Site may require cookies to be enabled.
+Cookies are small files used to send information from our Web Site to your Web browser. The Web Site uses session cookies, which are destroyed when a user closes the Internet browser, and permanent cookies, which remain on the user's hard drive until manually deleted by clearing the cache. Cookies are used for many purposes, including allowing users to access member-protected content without logging in before loading each page. Permanent cookies allow users to utilize the "remember me" feature to avoid having to log in to the Web Site after closing the previous Internet browser session. Cookies are also used in user analytics and the user's personal identity is not tracked.
 
 ## External Links
 
