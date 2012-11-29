@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serversmtp.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601002430id_/http%3A//serversmtp.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serversmtp.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129151630id_/http%3A//www.serversmtp.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | www.serversmtp.com
+# Privacy Policy | smtp mail server
 
 ### Introduction
 
