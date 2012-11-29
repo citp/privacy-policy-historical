@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iec.ch privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531093704id_/http%3A//www.iec.ch/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iec.ch privacy policy that was archived on 2012-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129111727id_/http%3A//www.iec.ch/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="EN" id="iec-ch"><!-- #BeginTemplate "/Templates/content_0levels.dwt" --><!-- DW6 --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -24,7 +24,7 @@
     <link href="/css/search_boxform.css" rel="stylesheet" type="text/css">
     <!--[if lte IE 6]> <link href="/css/iec-template-ie6.css" rel="stylesheet" type="text/css" /> <![endif]-->
     <!-- JS -->
-    <script src="/js/multi-column.js" type="text/javascript"></script> 
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/multi-column.js" type="text/javascript"></script> 
     <script type="text/javascript" src="/js/website-iec.js"></script>
     <!-- JQUERY -->
     <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
@@ -216,11 +216,11 @@ getCurrentLayout();
                         {   
                             var f2 = document.searchduplicateform.duplicatefield;
                             f2.value = term;  
-                            var str = term;
+                            var str = term;	   
+							str = str.replace("&", "&#38;");	
                             str = str.replace("<", "&lt;");
                             str = str.replace(">", "&gt;");	  
-                            str = str.replace("/", "&#47;");	
-                            str = str.replace("&", "&#38;");	  	
+                            str = str.replace("/", "&#47;");	                              	
                             return "<div class=\"icon_container\">" + "<span class=\"btn_txt\">" + str + "</span>" + item.name  + "</div>" ; 					
                         });	 
                     }
@@ -465,21 +465,22 @@ document.write(year)
 </div></div>
 <div class="clear" style="height:10px;"></div>
 <!-- end Footer -->
-<!-- Yahoo! Web Analytics - All rights reserved -->
-<script type="text/javascript" src="http://d.yimg.com/mi/eu/ywa.js"></script>
+<!-- Google Analytics - All rights reserved -->
 <script type="text/javascript">
-/*globals YWA*/
-var YWATracker = YWA.getTracker("10001570328891");
-/*
-YWATracker.setDocumentName("");
-YWATracker.setDocumentGroup("");
-*/
-YWATracker.submit();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34398331-1']);
+  _gaq.push(['_setDomainName', 'iec.ch']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
-<noscript>
-<div><img src="http://s.analytics.yahoo.com/p.pl?a=10001570328891&amp;js=no" width="1" height="1" alt="" /></div>
-</noscript>
-<!-- End of Yahoo! Web Analytics Code -->
+<!-- End of Google Analytics Code -->
 </div>
 <!-- end Main-container div -->
 
