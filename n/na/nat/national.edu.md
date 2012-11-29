@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national.edu privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626075211id_/http%3A//www.national.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.edu privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129104356id_/http%3A//www.national.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | National American University
 
