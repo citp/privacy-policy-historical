@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528143948id_/http%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130003512id_/http%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dev4Press
 
@@ -53,6 +53,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.dev4press.com/
-
-support@gdragon.info
+Website: http://www.dev4press.com/  
+Email: support@dev4press.com
