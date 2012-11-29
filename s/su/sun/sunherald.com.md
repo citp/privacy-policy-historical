@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609102734id_/http%3A//www.sunherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129103228id_/http%3A//www.sunherald.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.*
 
 # The Sun Herald Gulfport, MS
 
@@ -70,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 The Sun Herald is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of The Sun Herald in order to access general The Sun Herald content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, or 228-896-2100, or [web@example.com](mailto:web@example.com)
+The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, or 228-896-2100, or [fixit@sunherald.com](mailto:fixit@sunherald.com)
 
 ### Member mail and e-mail offers
 
@@ -106,7 +106,7 @@ In addition, our advertisers, content providers, partners and other Internet sit
 
 ### Notice to California Residents - Your California Privacy Rights:
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom The Sun Herald may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [web@example.com](mailto:web@example.com).
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom The Sun Herald may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [fixit@sunherald.com](mailto:fixit@sunherald.com).
 
 ### International users
 
@@ -118,4 +118,4 @@ The Sun Herald supports P3P, the Platform for Privacy Preferences, which allows 
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, at 228-896-2100 or at [web@example.com](mailto:web@example.com).
+If you have any questions or comments about our policies, we may be reached at The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, at 228-896-2100 or at [fixit@sunherald.com](mailto:fixit@sunherald.com).
