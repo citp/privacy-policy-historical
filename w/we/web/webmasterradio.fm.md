@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522045846id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129071118id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy « Online Radio / Podcast Network for the B2B and Digital Marketing Industry :: WebmasterRadio.FM
-
-  
-
-
-[](http://www2.webmasterradio.fm/feed/rss/)
 
 What information do we collect?
 
