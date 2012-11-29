@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524054211id_/http%3A//www.blackamericaweb.com/%3Fq%3Dstatic/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129184142id_/http%3A//www.blackamericaweb.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Static Page | Black America Web
+# Privacy Policy | Black America Web
 
 BlackAmericaWeb.com Privacy Policy
 
@@ -22,7 +22,7 @@ BlackAmericaWeb.com's primary goal in collecting personal information is to prov
 
 By delivering targeted advertisements, BlackAmericaWeb.com allows advertisers to reach a targeted audience. From time to time, advertisers on BlackAmericaWeb.com will seek to reach specific segments of our audience (e.g. females 35 and older). We will take the advertisement and display it to users meeting those criteria. This kind of advertisement targeting is done with banner ads as well as promotional email.
 
-We use customer contact information from our online registration, surveys, promotions, giveaways, contests, and order forms for tracking purposes, our own internal evaluation, and to send you information from our company.  Information collected as part of a contest, survey, promotion, or giveaway will be maintained for a minimum of 120 days beyond the end date of the event. After 120 days, the information may be destroyed or kept at the company’s discretion.  From time to time, our business partners or other companies may send you promotional material. If you supply contact information, it may also be used to contact you about products and services in which you have indicated an interest, and may be shared with our advertisers, business partners, or other companies who may want to contact you. (Users may opt out of receiving future mailings -- see the choice/opt-out section below.)
+We use customer contact information from our online registration, surveys, promotions, giveaways, contests, and order forms for tracking purposes, our own internal evaluation, and to send you information from our company. Information collected as part of a contest, survey, promotion, or giveaway will be maintained for a minimum of 120 days beyond the end date of the event. After 120 days, the information may be destroyed or kept at the company’s discretion. From time to time, our business partners or other companies may send you promotional material. If you supply contact information, it may also be used to contact you about products and services in which you have indicated an interest, and may be shared with our advertisers, business partners, or other companies who may want to contact you. (Users may opt out of receiving future mailings -- see the choice/opt-out section below.)
 
 We may use cookies to deliver to you content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. Advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by advertisers on our site.
 
