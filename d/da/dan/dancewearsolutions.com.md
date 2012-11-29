@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancewearsolutions.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531110520id_/http%3A//www.dancewearsolutions.com/CustomerService/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancewearsolutions.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129161612id_/http%3A//www.dancewearsolutions.com/CustomerService/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -58,7 +58,7 @@ We are always here to help you. Please feel free to contact us using one of thes
 
 **E-mail** [info@dancewearsolutions.com](mailto:info@dancewearsolutions.com)
 
-**Phone** Ordering and General Questions 1.866.542.6500 M-F 8 am – 4:30 pm CDT  
+**Phone** Ordering and General Questions 1.866.542.6500 M-F 8 am – 4:30 pm CST  
 **Faxing** an Order 1.877.773.5175
 
 **Postal Mail**  
@@ -66,4 +66,4 @@ Dancewear Solutions
 6750 Manchester Ave.  
 St. Louis MO, 63139  
 
-  *[CDT]: Central Daylight Time
+  *[CST]: Central Standard Time
