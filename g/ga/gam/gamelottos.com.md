@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamelottos.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608040412id_/http%3A//www.gamelottos.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelottos.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130004345id_/http%3A//www.gamelottos.com/page/3.html) for the most accurate reproduction.*
 
 # Online games - Privacy Policy
 
