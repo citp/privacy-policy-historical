@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530030911id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129030102id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
 
 # Socialserve.com - Privacy Guidelines
 
@@ -63,8 +63,8 @@ Socialserve.com takes our users' and clients' privacy seriously. As a nonprofit 
 Copyright ©1999 - 2012 - Non-Profit Industries, Inc. - All rights reserved  
 Email: [info@socialserve.com](https://web.archive.org/SendEmail.html?type=Questions "Email Socialserve.com") - Socialserve.com - PO Box 35305 - Charlotte, NC 28235 
 
-Phone: 704.334.8722 - Fax: 704.334.0779  
+Phone: 704.334.8722 - Fax: 704.334.0779   
 Toll-Free: 1.877.428.8844 - Toll-Free Fax: 1.866.265.7811 - TTD/TTY: 7-1-1 [ [ Relay Service](http://www.fcc.gov/cgb/dro/trsphonebk.html) ]   
-Page Loaded: 05/29/12 23:09 (Eastern Time) - Version 4.0
+Page Loaded: 11/28/12 22:01 (Eastern Time) - Version 4.0
 
 [](http://www.hud.gov/offices/fheo/FHLaws/yourrights.cfm "Fair Housing Act of 1968") [](http://www.disability.gov/ "Universally Accessible")
