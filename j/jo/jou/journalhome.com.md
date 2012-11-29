@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the journalhome.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522032153id_/http%3A//www.journalhome.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalhome.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129025215id_/http%3A//www.journalhome.com/%3Ftype%3Dhome%26more%3Dprivacy) for the most accurate reproduction.*
 
-# Terms of Service — http://www.journalhome.com/
+# JournalHome.com — Get a Free Blog Here
 
 ## JournalHome Privacy Policy.
 
