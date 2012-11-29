@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511060431id_/http%3A//budk.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129223706id_/http%3A//budk.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Swords, Collectible Knives and Swords, Bowie Knives, Fantasy Swords and More from BUDK.com
+# Privacy and Security
 
 * * *
 
- Updated: April 22, 2010
-
+  
 **Scope of this Online Privacy Statement**  
 This Online Privacy Statement describes how BUDK uses, shares and protects the personal information we collect through BUDK.com. “Personal information” is information that identifies you personally, either alone or in combination with other information. Personal information may include, for example, your name, address, email address, credit card information, and transaction history.
 
