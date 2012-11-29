@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgameawards.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627032603id_/http%3A//flashgameawards.com/about.php%3Fabout%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgameawards.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129171841id_/http%3A//flashgameawards.com/about.php%3Fabout%3Dprivacy) for the most accurate reproduction.*
 
 # Flash Game Awards | The Game Starts Here
 
