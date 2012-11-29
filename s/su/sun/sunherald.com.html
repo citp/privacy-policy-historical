@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sunherald.com privacy policy that was archived on 2012-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120609102734id_/http%3A//www.sunherald.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunherald.com privacy policy that was archived on 2012-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129103228id_/http%3A//www.sunherald.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <title>The Sun Herald Gulfport, MS</title>
@@ -21,15 +21,15 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A231225799415268%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ASun%20Herald%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20120609102734id_%2Fhttp%3A%2F%2Fwww.sunherald.com%2Fprivacy-policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A198462600094382%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ASun%20Herald%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20121129103228id_%2Fhttp%253A%2F%2Fwww.sunherald.com%2Fprivacy_policy%2523navlinks%253D%252AHome%253Ami_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/43657e478040f7a8515469dc91efcfe6-min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/mistatic/cache/stylesheets/4e2bdb0e9d9b9aeb051988de779a5cc4-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.sunherald.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js" type="text/javascript"></script>
-
+            <script type="text/javascript" src="http://s.ppjol.net/pp.js">{ 'zone':"Eg9TI1Q8H0EqajA5D-64DP", 'mode':"meter", 'debug':0 }</script> 
 <script type="text/javascript">
 
 
@@ -59,13 +59,20 @@
 	 2 = display static coupon ad
 	*/
 	miAppControler.prototype.findnsave = 0;
-        miAppControler.prototype.dealsaver = 1;
+  miAppControler.prototype.dealsaver = 1;
 
-        /* Surveywall
-	 0 = disable Google microsurvey  
-         1 = enable Google microsurvey
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
 	*/  
-        miAppControler.prototype.surveywall = 0;
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
 
 
 
@@ -92,7 +99,7 @@ mianalytics.channel = "Static";
 
 <script type="text/javascript">
 var auth_cookie_name = "sunherald_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/5a4b1da4cb20a259981d58ff91eb5e12-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/a33939f9bbe0a0becb2247d374aebe7f-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.sunherald.com/mistats/mianalytics.js"></script>
@@ -108,6 +115,14 @@ var auth_cookie_name = "sunherald_user_auth";
     mi.commenting = new mi.Commenting();
     
     mi.commenting.setConf( "accountName", "sunherald" );
+    
+    
+    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
+    if(disqus2012cookie.load()){
+            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
+    }
+    
+    
     
 </script>
 
@@ -145,16 +160,15 @@ $(document).ready(function() {
 </head>
 
 
-<body class="section" id="section_">
-
-<div class="sbb_wrap">
+<body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
-<div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=89454033883654.9?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=89454033883654.9?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=89454033883654.9?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=433371738679231?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=433371738679231?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=433371738679231?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
     </div>
 </div>
 
@@ -179,19 +193,21 @@ $(document).ready(function() {
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Cloudy" src="http://media.sunherald.com/mistatic/images/weather/icons/07.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Clear" src="http://media.sunherald.com/mistatic/images/weather/icons/33.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">75°</div>
+                <div id="weather_curr_temp" class="current_temp">37°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
-        </div><!-- #weather -->            <div class="weather_sponsor" id="dart_150x25_weather_1">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=89454033883654.9?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=89454033883654.9?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=89454033883654.9?" border="0" alt="Advertisement"></a></noscript> 
-
-            </div>    </div><!-- end mast_top -->
+        </div><!-- #weather -->
+            <div class="weather_sponsor" id="dart_150x25_weather_1">
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=433371738679231?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=433371738679231?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=433371738679231?" border="0" alt="Advertisement"></a></noscript> 
+            </div>
+    </div><!-- end mast_top -->
     <div class="clear"></div>
     
     <div id="mast_main">
@@ -219,7 +235,7 @@ $(document).ready(function() {
         </div>
         <div id="member" class="signin">
             <ul id="services_nav">
-                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script></a>
+                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script><span class="down_arrow"></span></a>
                     <ul class="member_options">
                         <li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
                         <li><a href="/reg-bin/tint.cgi?mode=logout">Sign out</a></li>
@@ -244,7 +260,7 @@ $(document).ready(function() {
                         </a>
                     </li>
                     
-                    <li>
+                    <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.sunherald.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
                         </a>
@@ -281,25 +297,26 @@ $(document).ready(function() {
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=89454033883654.9?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=89454033883654.9?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=89454033883654.9?" border="0" alt="Advertisement"></a></noscript> 
-
+                
+        
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=433371738679231?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=433371738679231?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=433371738679231?" border="0" alt="Advertisement"></a></noscript> 
         </li>
-        <li><a href="/#navlinks=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="">News</a>
+        <li><a href="/#navlinks=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
                                             <ul class="subnav">
-                                                        <li><a href="/local-news/#navlink=subnav" title="">Communities</a></li>                                <li><a href="/latest-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/military/#navlink=subnav" title="">Military</a></li>                                <li><a href="/political-news/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/weather-news/#navlink=subnav" title="">Weather</a></li>                                <li><a href="/state-news/#navlink=subnav" title="">State</a></li>                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>                                <li><a href="/neighbors/#navlink=subnav" title="">Neighbors</a></li>                                <li><a href="/hurricane-katrina/#navlink=subnav" title="">Hurricane Katrina</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="">Sports</a>
+                                                        <li><a href="/local-news/#navlink=subnav" title="">Communities</a></li>                                <li><a href="/latest-news/#navlink=subnav" title="">Latest News</a></li>                                <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/military/#navlink=subnav" title="">Military</a></li>                                <li><a href="/political-news/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/weather-news/#navlink=subnav" title="">Weather</a></li>                                <li><a href="/state-news/#navlink=subnav" title="">State</a></li>                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>                                <li><a href="/neighbors/#navlink=subnav" title="">Neighbors</a></li>                                <li><a href="/hurricane-katrina/#navlink=subnav" title="">Hurricane Katrina</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
                                             <ul class="subnav">
-                                                        <li><a href="/high-school-sports/#navlink=subnav" title="">High School</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/saints/#navlink=subnav" title="">Saints</a></li>                                <li><a href="/southern-miss/#navlink=subnav" title="">Southern Miss</a></li>                                <li><a href="/miss-state/#navlink=subnav" title="">Mississippi State</a></li>                                <li><a href="/ole-miss/#navlink=subnav" title="">Ole Miss</a></li>                                <li><a href="/surge/#navlink=subnav" title="">Surge</a></li>                                <li><a href="/hornets/#navlink=subnav" title="">Hornets</a></li>                                <li><a href="/auto-racing/#navlink=subnav" title="">Auto Racing</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/sunherald/#navlink=navbar" title="">Obituaries</a>
-                                    </li>                <li><a href="/opinion/#navlink=navbar" title="">Opinion</a>
+                                                        <li><a href="/high-school-sports/#navlink=subnav" title="">High School</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/saints/#navlink=subnav" title="">Saints</a></li>                                <li><a href="/southern-miss/#navlink=subnav" title="">Southern Miss</a></li>                                <li><a href="/miss-state/#navlink=subnav" title="">Mississippi State</a></li>                                <li><a href="/ole-miss/#navlink=subnav" title="">Ole Miss</a></li>                                <li><a href="/surge/#navlink=subnav" title="">Surge</a></li>                                <li><a href="/hornets/#navlink=subnav" title="">Hornets</a></li>                                <li><a href="/auto-racing/#navlink=subnav" title="">Auto Racing</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/sunherald/#navlink=navbar" title="Obituaries">Obituaries</a>
+                                    </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
                                             <ul class="subnav">
-                                                        <li><a href="/editorials/#navlink=subnav" title="">Editorials</a></li>                                <li><a href="/opinion/#navlink=navbar" title="">More Opinions</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters</a></li>                                <li><a href="/sound-off/#navlink=subnav" title="">Sound Off</a></li>                                <li><a href="/geoff-pender/#navlink=subnav" title="">Geoff Pender</a></li>                                <li><a href="/charlie-mitchell/#navlink=subnav" title="">Charlie Mitchell</a></li>                                <li><a href="/editorial-cartoons/#navlink=subnav" title="">Cartoons</a></li>                                <li><a href="/george-thatcher/#navlink=subnav" title="">George Thatcher</a></li>                                <li><a href="/jimmie-bell/#navlink=subnav" title="">Jimmie Bell</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="">Living</a>
+                                                        <li><a href="/editorials/#navlink=subnav" title="">Editorials</a></li>                                <li><a href="/opinion/#navlink=subnav" title="">More Opinions</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters</a></li>                                <li><a href="/sound-off/#navlink=subnav" title="">Sound Off</a></li>                                <li><a href="/geoff-pender/#navlink=subnav" title="">Geoff Pender</a></li>                                <li><a href="/charlie-mitchell/#navlink=subnav" title="">Charlie Mitchell</a></li>                                <li><a href="/editorial-cartoons/#navlink=subnav" title="">Cartoons</a></li>                                <li><a href="/george-thatcher/#navlink=subnav" title="">George Thatcher</a></li>                                <li><a href="/jimmie-bell/#navlink=subnav" title="">Jimmie Bell</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
                                             <ul class="subnav">
-                                                        <li><a href="/art-culture/#navlink=subnav" title="">Arts</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/food-drink/#navlink=subnav" title="">Food &amp; Drink</a></li>                                <li><a href="/home/#navlink=subnav" title="">@Home</a></li>                                <li><a href="/health/#navlink=subnav" title="">Health &amp; Fitness</a></li>                                <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/the-buzz/#navlink=subnav" title="">The Buzz</a></li>                                <li><a href="/events/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/sudoku/#navlink=subnav" title="">Sudoku</a></li>                                <li><a href="http://www.sunherald.com/static/advertising/asktheexpert/#navlink=subnav" title="">Ask the Expert</a></li>                                <li><a href="http://www.relish.com/" title="">Relish</a></li>                                <li><a href="http://www.tvguide.com/listings/setup/localizeus.aspx?RedirectUrl=/Listings" title="">TV Guide</a></li>                        </ul>                </li>                <li><a href="http://www.biloxi.com/#navlink=navbar" title="Biloxi.com">Biloxi.com</a>
+                                                        <li><a href="/art-culture/#navlink=subnav" title="">Arts</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/food-drink/#navlink=subnav" title="">Food &amp; Drink</a></li>                                <li><a href="/home/#navlink=subnav" title="">@Home</a></li>                                <li><a href="/health/#navlink=subnav" title="">Health &amp; Fitness</a></li>                                <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/the-buzz/#navlink=subnav" title="">The Buzz</a></li>                                <li><a href="/events/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/sudoku/#navlink=subnav" title="">Sudoku</a></li>                                <li><a href="http://www.sunherald.com/static/advertising/asktheexpert/#navlink=subnav" title="">Ask the Expert</a></li>                                <li><a href="http://www.relish.com/#navlink=subnav" title="">Relish</a></li>                                <li><a href="http://www.tvguide.com/listings/setup/localizeus.aspx?RedirectUrl=/Listings/#navlink=subnav" title="">TV Guide</a></li>                        </ul>                </li>                <li><a href="http://www.biloxi.com/#navlink=navbar" title="Biloxi.com">Biloxi.com</a>
                                             <ul class="subnav">
                                                         <li><a href="http://www.biloxi.com/biloxi-com-home/#navlink=subnav" title="">Home</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-attractions/#navlink=subnav" title="">Attractions</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-beaches/#navlink=subnav" title="">Beaches</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-casinos/#navlink=subnav" title="">Casinos</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-dining/#navlink=subnav" title="">Dining</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-events/#navlink=subnav" title="">Events</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-nightlife/#navlink=subnav" title="">Nightlife</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="http://www.biloxi.com/biloxi-com-shopping/#navlink=subnav" title="">Shopping</a></li>                        </ul>                </li>                <li><a href="http://findnsave.sunherald.com/#navlink=navbar" title="SunHerald.com Newspaper Ads">Local Deals</a>
                                             <ul class="subnav">
-                                                        <li><a href="http://biloxi.dealsaver.com/#navlink=subnav" title="">Today's Hot Deal</a></li>                                <li><a href="http://findnsave.sunherald.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.sunherald.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.sunherald.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                                <li><a href="http://findnsave.sunherald.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                        </ul>                </li>
+                                                        <li><a href="http://biloxi.dealsaver.com/#navlink=subnav" title="">Today's Hot Deal</a></li>                                <li><a href="http://findnsave.sunherald.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.sunherald.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.sunherald.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                                <li><a href="http://findnsave.sunherald.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                                <li><a href="/static/advertising/marketingkit#navlink=subnav" title="">Online Marketing Kit</a></li>                                <li><a href="http://specialsections.sunherald.com/SS/Tiles.aspx#navlink=subnav" title="">Real Estate Weekly</a></li>                        </ul>                </li>                <li><a href="http://www.sunherald.com/plus#navlink=navbar" title="Digital Subscriptions">Digital Subscriptions</a>
+                                    </li>
     </ul>
 </div>
 
@@ -377,7 +394,7 @@ $(document).ready(function() {
 <h3>Children's privacy</h3>
 <p>The Sun Herald is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of The Sun Herald in order to access general The Sun Herald content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.</p>
 
-<p>The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, or 228-896-2100, or <a href="mailto:web@example.com">web@example.com</a></p>
+<p>The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, or 228-896-2100, or <a href="mailto:fixit@sunherald.com">fixit@sunherald.com</a></p>
 </div>
 
 <h3>Member mail and e-mail offers</h3>
@@ -409,7 +426,7 @@ $(document).ready(function() {
 
 
 <h3>Notice to California Residents - Your California Privacy Rights:</h3>
-<p>If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom The Sun Herald may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to <a href="mailto:web@example.com">web@example.com</a>.</p>
+<p>If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom The Sun Herald may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to <a href="mailto:fixit@sunherald.com">fixit@sunherald.com</a>.</p>
 
 
 <h3>International users</h3>
@@ -419,7 +436,7 @@ $(document).ready(function() {
 <p>The Sun Herald supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While The Sun Herald supports P3P, the resulting code has inherent limitations such that it does not fully and may not accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code or other privacy principals for all purposes.</p>
 
 <h3>Contact Information</h3>
-<p>If you have any questions or comments about our policies, we may be reached at The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, at 228-896-2100 or at <a href="mailto:web@example.com">web@example.com</a>.</p>
+<p>If you have any questions or comments about our policies, we may be reached at The Sun Herald, 205 DeBuys Road, Gulfport, MS 39507, at 228-896-2100 or at <a href="mailto:fixit@sunherald.com">fixit@sunherald.com</a>.</p>
 </div>
 
 
@@ -428,34 +445,37 @@ $(document).ready(function() {
         </div>
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=89454033883654.9?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=89454033883654.9?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=89454033883654.9?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=433371738679231?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=433371738679231?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=433371738679231?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r2">
 
 </div>
 <div id="sidebar_r3">
-<div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=89454033883654.9?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=89454033883654.9?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=89454033883654.9?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=433371738679231?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=433371738679231?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=433371738679231?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r4">
 
 </div>
 <div id="sidebar_r5">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=89454033883654.9?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=89454033883654.9?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=89454033883654.9?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+                
+        
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=433371738679231?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=433371738679231?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.sun00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=433371738679231?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 
 <div id="sidebar_r6">
@@ -476,30 +496,76 @@ $(document).ready(function() {
 
 <div id="page_footer">
     
-    <section class="widget">
-    <h2 class="heading">Stay Connected</h2>
-    <div id="footer_connect_links">
-        <ul class="connect">
-            
-                    <li><a href="http://www.discountednewspapers.com/biloxi-sun-herald/index.html?source=ordercapture" class="subscribe" title="Home Delivery"><span>Home Delivery</span></a></li>
-                
-                    <li><a href="/mobile-options/#navlink=*stayconnected" class="phone_apps" title="Mobile Apps"><span>Mobile Apps</span></a></li>
-                
-                    <li><a href="/mobile-options/#navlink=*stayconnected" class="mobile" title="Mobile Site"><span>Mobile Site</span></a></li>
-                
-                    <li><a href="/rss" class="rss" title="News Feeds"><span>News Feeds</span></a></li>
-                
-                    <li><a href="https://e-edition.sunherald.com/" class="e_edition" title="e-Edition"><span>e-Edition</span></a></li>
-                
-                    <li><a href="/facebook-twitter/#navlink=*stayconnected" class="facebook" title="Facebook"><span>Facebook</span></a></li>
-                
-                    <li><a href="/facebook-twitter/#navlink=*stayconnected" class="twitter" title="Twitter"><span>Twitter</span></a></li>
-                
-                    <li><a href="/e-reader" class="ereader" title="e-Reader"><span>e-Reader</span></a></li>
-                
-        </ul>
-    </div><!-- /#footer_connect_links -->
-</section>
+    
+<div id="stay_connected">
+    <h2 class="heading"><span class="section_label">Stay Connected</span></h2>
+    
+<div class="item newsletters">
+    <a href="/reg-bin/tint.cgi?mode=edit#newsletters#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Email Newsletters&nbsp;<span>&gt;</span>
+            <div class="description">Manage newsletter subscriptions</div>
+        </div>
+    </a>
+</div>
+
+<div class="item tablets">
+    <a href="/tablet#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Tablets&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for tablet devices</div>
+        </div>
+    </a>
+</div>
+
+<div class="item mobile">
+    <a href="/mobile#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Mobile&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for your mobile phone</div>
+        </div>
+    </a>
+</div>
+
+<div class="item social_media">
+    <a href="/social-media#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Social Media&nbsp;<span>&gt;</span>
+            <div class="description">Get updates via Facebook and Twitter</div>
+        </div>
+    </a>
+</div>
+
+<div class="item e_edition">
+    <a href="/e-edition#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">e-Edition&nbsp;<span>&gt;</span>
+            <div class="description">Your daily paper delivered to your computer</div>
+        </div>
+    </a>
+</div>
+
+<div class="item home_delivery">
+    <a href="http://www.discountednewspapers.com/biloxi-sun-herald/index.html?source=ordercapture#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Home Delivery&nbsp;<span>&gt;</span>
+            <div class="description">Manage your home delivery account</div>
+        </div>
+    </a>
+</div>
+
+<div class="item digital_subscriptions">
+    <a href="/plus#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Digital Subscriptions&nbsp;<span>&gt;</span>
+            <div class="description">Manage your online subscriptions</div>
+        </div>
+    </a>
+</div>
+
+</div>
+<div class="clear"></div>
+
 	<div id="footer_text_links">
 		<p class="links">
 			
@@ -525,7 +591,7 @@ $(document).ready(function() {
     
     </div><!-- /#footer_partner_links -->
 
-    <div id="copyright">©  www.sunherald.com and wire service sources. All Rights Reserved.
+    <div id="copyright">© 2012 www.sunherald.com and wire service sources. All Rights Reserved.
         <a href="http://www.sunherald.com">http://www.sunherald.com</a></div>
 
     <a href="/" class="logo" title="The Sun Herald">
@@ -535,7 +601,6 @@ $(document).ready(function() {
 </div><!-- /#page_footer -->
 
 
-    
 
 <div id="mistatstag" style="display:none;">        
 <!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
@@ -570,12 +635,14 @@ mistats.channel='Privacy Policy';
 <script language="JavaScript" type="text/javascript" src="http://media.sunherald.com/mistats/products/pubsys.js"></script>
 <script language="JavaScript" type="text/javascript" src="http://media.sunherald.com/mistats/finalizestats.js"></script>
 
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmbiloxi%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.sunherald.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.sunherald.com%2Fprivacy-policy%2F\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DSUN%7CSUNHERALD%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmbiloxi%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.sunherald.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.sunherald.com%2Fprivacy_policy%2F\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DSUN%7CSUNHERALD%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
 <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 </div>
 
 
 </footer>
+
+
 
 
 
