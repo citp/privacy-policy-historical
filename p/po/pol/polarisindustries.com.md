@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the polarisindustries.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508115727id_/http%3A//www.polarisindustries.com/en-us/Company/Privacy/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarisindustries.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129152004id_/http%3A//www.polaris.com/en-us/company/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
-| 1. | Introduction  
+
+
+
+1. | Introduction  
 ---|---  
 1.1. | Polaris Industries Inc. and its subsidiaries (collectively, "Polaris") have created this privacy policy ("Privacy Policy") in order to communicate their policies and practices relating to the collection, use and disclosure of information about you obtained on the websites operated by Polaris ("Polaris Websites"). This Privacy Policy does not apply to any information about you that Polaris may have obtained by other means, for example as part of a warranty registration. You should contact Polaris to obtain its policies and practices in relation to the collection, use and disclosure of such information.   
 1.2. | Please read Polaris’ Privacy Policy carefully. Polaris may change or update this Privacy Policy periodically; see Section 8, "Changes and Updates to Privacy Policy." You can view the most current version of the Privacy Policy at any time by clicking on the hyperlink labeled "Privacy Policy" located on each page of the Polaris Websites.  
