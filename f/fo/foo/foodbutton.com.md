@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodbutton.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530195501id_/http%3A//www.foodbutton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbutton.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130002226id_/http%3A//www.foodbutton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Easy Recipes, Healthy Eating Ideas and Chef Recipe
 
@@ -72,25 +72,27 @@ Ten years ago, Elizabeth Schneider, the doyenne...
 
 [](http://www.pjtra.com/t/R0BFS0NJQ0BGQ0RMRUBFRUpDSA)
 
-[](http://www.foodbutton.com/warm-spinach-salad/)
+First, he goes onto the roof. It will be...
 
-Ingredients 3 tablespoons extra-virgin olive...
+[more >](http://www.foodbutton.com/is-your-supper-safe/)
 
-[more >](http://www.foodbutton.com/warm-spinach-salad/)
+[](http://www.foodbutton.com/copycat-famous-dave%e2%80%99s-corn-bread-with-honey-jalapeno-glaze/)
 
-What a cheese bonanza. Not only is today...
+I am a huge corn bread fan and nobody does...
 
-[more >](http://www.foodbutton.com/grilled-cheese-day-12-recipes-from-the-l-a-times-test-kitchen/)
+[more >](http://www.foodbutton.com/copycat-famous-dave%e2%80%99s-corn-bread-with-honey-jalapeno-glaze/)
 
-Sveba-Dahlen develops, markets and manufactures...
+[](http://www.foodbutton.com/copycat-starbucks-caramel-scones/)
 
-[more >](http://www.foodbutton.com/sveba-dahlen-ab-bakery-equipment-and-ovens-for-professional-baking/)
+3 cups unbleached all-purpose flour 1/2 cup...
 
-[](http://www.foodbutton.com/new-miami-restaurants/)
+[more >](http://www.foodbutton.com/copycat-starbucks-caramel-scones/)
 
-AltaMare When owner Claudio Giordano moved...
+[](http://www.foodbutton.com/asparagus-topped-with-creamy-tarragon-sauce/)
 
-[more >](http://www.foodbutton.com/new-miami-restaurants/)
+This sauce is like a luscious, creamy bearnaise...
+
+[more >](http://www.foodbutton.com/asparagus-topped-with-creamy-tarragon-sauce/)
 
 [](http://www.foodbutton.com/crab-and-avocado-salad/)
 
