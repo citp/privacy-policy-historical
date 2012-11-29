@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530080900id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129125011id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Tip and Trick
+# Privacy Policy « Tip and Trick Tip and Trick
 
 Thanks for visiting Tip and Trick. Your privacy on the Internet is of the utmost importance to us. At Tip and Trick, we want to make your experience online satisfying and safe.
 
@@ -43,16 +43,3 @@ Tip and Trick may occasionally conduct user surveys to better target our content
 **YOUR CONSENT**
 
 By using this site, you consent to the collection and use of this information by Tip and Trick. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-  * [Free Online Phonemyphone Service Helps Locating Misplaced Mobile Phone](http://www.tipandtrick.net/2008/free-online-phonemyphone-service-helps-locating-misplaced-mobile-phone/ "Permanent Link: Free Online Phonemyphone Service Helps Locating Misplaced Mobile Phone")
-  * [How to Remove Pinned Programs From the Taskbar in Windows 7](http://www.tipandtrick.net/2010/how-to-remove-pinned-programs-from-the-taskbar-in-windows-7/ "Permanent Link: How to Remove Pinned Programs From the Taskbar in Windows 7")
-  * [Free Genuine License Code for Privacy Guardian by Signing Up PC Tools Newsletter](http://www.tipandtrick.net/2008/free-genuine-license-code-for-privacy-guardian-by-signing-up-pc-tools-newsletter/ "Permanent Link: Free Genuine License Code for Privacy Guardian by Signing Up PC Tools Newsletter")
-  * [Enable Lock Pages in Memory to Prevent Database Paging to Disk](http://www.tipandtrick.net/2008/enable-lock-pages-in-memory-to-prevent-database-paging-to-disk/ "Permanent Link: Enable Lock Pages in Memory to Prevent Database Paging to Disk")
-  * [How to Remove Recycle Bin Icon in Windows 7](http://www.tipandtrick.net/2010/how-to-remove-recycle-bin-icon-in-windows-7/ "Permanent Link: How to Remove Recycle Bin Icon in Windows 7")
-  * [How to Change the Default Setting for Power Button Action in Windows 7](http://www.tipandtrick.net/2010/how-to-change-the-default-setting-for-power-button-action-in-windows-7/ "Permanent Link: How to Change the Default Setting for Power Button Action in Windows 7")
-  * [Steganos Security Suite 2007 Full Version Free Download and Serial Number](http://www.tipandtrick.net/2008/steganos-security-suite-2007-full-version-free-download-and-serial-number/ "Permanent Link: Steganos Security Suite 2007 Full Version Free Download and Serial Number")
-  * [New HP Elite Autofocus Webcam](http://www.tipandtrick.net/2008/new-hp-elite-autofocus-webcam/ "Permanent Link: New HP Elite Autofocus Webcam")
-  * [How to Disable Windows Vista CD/DVD Disc Burning/Recording Function](http://www.tipandtrick.net/2008/how-to-disable-windows-vista-cddvd-disc-burningrecording-function/ "Permanent Link: How to Disable Windows Vista CD/DVD Disc Burning/Recording Function")
-  * [Not a Hack: Lahore Electric Supply Companies (LESCO) Website Privacy Leaks](http://www.tipandtrick.net/2008/not-a-hack-lahore-electric-supply-companies-lesco-website-privacy-leaks/ "Permanent Link: Not a Hack: Lahore Electric Supply Companies \(LESCO\) Website Privacy Leaks")
-
-
