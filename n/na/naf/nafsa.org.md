@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522084341id_/http%3A//www.nafsa.org/legal_information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129231846id_/http%3A//www.nafsa.org/privacypolicy) for the most accurate reproduction.*
 
-# NAFSA | About | Privacy Policy
-
-  
-
+# Privacy Policy | NAFSA
 
 #### January 2002
 
@@ -15,7 +12,7 @@ Most data NAFSA collects are used only to help NAFSA better serve its members. I
 
 ### From General Visitors
 
-NAFSA does not collect any information from visitors browsing its Web site. Visitors to the public areas of NAFSA's Web site browse anonymously. Only aggregate data -- such as the number of hits per page -- are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.
+NAFSA does not collect any information from visitors browsing its Web site. Visitors to the public areas of NAFSA's Web site browse anonymously. Only aggregate data—such as the number of hits per page—are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.
 
 ### From NAFSA Members, Conference Registrants, and Other Visitors
 
@@ -43,4 +40,4 @@ This Web site contains links to other Web sites. NAFSA has no control over and i
 
 ## Questions?
 
-[Please contact us.](https://web.archive.org/contact.sec/webmaster_feedback)
+[Please contact us.](https://web.archive.org/webmaster)
