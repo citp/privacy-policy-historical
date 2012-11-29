@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618045029id_/http%3A//www.bluelounge.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130005816id_/http%3A//www.bluelounge.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Bluelounge - Privacy Policy
 
 * * *
 
-If users have questions or concerns regarding this statement, they should contact Bluelounge Design LLC via the contact information provided at page end.
+If users have questions or concerns regarding this statement, they should contact Bluelounge Pte. Ltd. via the contact information provided at page end.
 
 ### Information Collection
 
-Bluelounge Design LLC is the sole owner of the information collected from www.bluelounge.com
+Bluelounge Pte. Ltd. is the sole owner of the information collected from www.bluelounge.com
 
 ### Customer Orders
 
@@ -22,7 +22,8 @@ We store information that we collect via browser cookies, log files, and/or thir
 
 ### Browser Cookies
 
-A browser cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file instructions.
+A browser cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file instructions.  
+Advertising cookies may be placed to enable our display advertising partner to present you with retargeting advertising on other sites based on your previous interaction with our website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
 ### Third-Party Advertising
 
@@ -54,7 +55,7 @@ Under no circumstances will a client purposely receive spam or any other non-Blu
 
 Bluelounge takes every precaution to protect our client's information. When users submit sensitive information via the web site, their information is protected both on- and off- line.
 
-When our order form asks users to enter sensitive information such as credit card number, that information is encrypted and is protected with encryption software - SSL. While on a secure page, such as our order form, the icon on the bottom right of Web browsers such as Safari, Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked or open, when users are just 'surfing'.
+When our order form asks users to enter sensitive information such as a credit card number, that information is encrypted and is protected with encryption software - SSL. While on a secure page, such as our order form, an icon will appear on web browsers such as Safari, Firefox, Google Chrome and Microsoft Internet Explorer as locked, as opposed to un-locked or open, when users are just 'surfing'.
 
 While we use SSL encryption to protect sensitive information on-line, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job, for example, our customer service representatives, are granted access to personally identifiable information.
 
@@ -63,8 +64,8 @@ While we use SSL encryption to protect sensitive information on-line, we also do
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:  
-**Bluelounge Design LLC**  
-32 S. Raymond Ave, Suite 9  
-Pasadena, CA 91105  
-Tel: +1 314-699-9076  
+**Bluelounge Pte. Ltd.**  
+8 Wilkie Road #03-01  
+Wilkie Edge  
+Singapore 228095  
 Email: [support (at) bluelounge (dot) com](mailto:support@bluelounge.com)
