@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftbig.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617163441id_/http%3A//www.giftbig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftbig.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129031920id_/http%3A//www.giftbig.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy & Policies | GiftBig.com
 
@@ -17,7 +17,9 @@ QwikCilver implements standard measures to protect against unauthorized access t
 
 **B.   ****Shared Personal Information**
 
-You are required to submit your personal information at the time of making an online purchase of QwikCilver Gift Cards. QwikCilver uses an online payment gateway that is operated by a third party and the personal information that you share with QwikCilver is transferred and shared with such third party payment gateway operator. The said operator may also have access to your online purchase history/details that you make from [giftBig.com](http://www.giftbig.com/).
+You are required to submit your personal information at the time of making an online purchase of QwikCilver Gift Cards. QwikCilver uses an online payment gateway that is operated by a third party and the personal information that you share with QwikCilver is transferred and shared with such third party payment gateway operator. The said operator may also have access to your online purchase history/details that you make from [www.giftbig.com](http://www.giftbig.com/=/).
+
+You are required to submit your personal information at the time of making an online purchase of QwikCilver Gift Cards. QwikCilver uses an online payment gateway that is operated by a third party and the personal information that you share with QwikCilver is transferred and shared with such third party payment gateway operator. The said operator may also have access to your online purchase history/details that you make from [www.giftbig.com](http://www.giftbig.com/=/).
 
 Extremely sensitive information like you credit-card details are transacted upon secure sites digitally under encryption, thereby providing the highest possible degree of care are available as per current technology. You are advised, however, that Internet technology is not 100% safe and you should exercise discretion on using the same.
 
