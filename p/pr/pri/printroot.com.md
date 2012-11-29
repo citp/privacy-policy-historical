@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printroot.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527110527id_/http%3A//www.printroot.com/forum/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printroot.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129125951id_/http%3A//www.printroot.com/forum/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - PrintRoot Forums
 
