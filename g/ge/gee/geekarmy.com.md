@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekarmy.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610111303id_/http%3A//www.geekarmy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekarmy.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129035453id_/http%3A//www.geekarmy.com/privacy.php) for the most accurate reproduction.*
 
 # Geek Army Funny - Cool Pictures, Funny Pictures, Funny Videos, Humor for geeks in all of us!
 
