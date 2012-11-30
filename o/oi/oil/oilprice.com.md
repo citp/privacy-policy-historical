@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608225649id_/http%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130152703id_/http%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,9 @@ OilPrice.com contains links to media and other websites that are not owned or co
 OilPrice.com owns a copy of the the personal information of visitors and members collected at OilPrice.com. Members whose data is collected also own a copy of the information about themselves and their own activities with OilPrice.com. OilPrice.com's ownership does not mean that it will share or sell your personal information to anyone without your authorization or consent. OilPrice.com will not share or sell this information with the exception of those terms disclosed in this Privacy Statement.
 
 OilPrice.com will aggregate information about users of the site. "Aggregated Information" means information where personally identifying information is removed, and lots of visitors and members data is aggregated together to become statistical information for OilPrice.com about how the site is used. Aggregated information that is not personally identifying for users is solely owned by OilPrice.com and is used to improve our services. Statistical information may be shared with other parties.
+
+ **We do not store credit card information. Nor do we share any customer details with any third parties.**  
+
 
 ## Surveys or Contests
 
@@ -44,11 +47,11 @@ OilPrice.com allows many activities for member that will result in revealing of 
 
 ## Choice/Opt-out
 
-At any time, you can change your OilPrice.com account information. To delete your account [send us an email](https://web.archive.org/web/20120608225649id_/http%3A//oilprice.com/contact). If you request deletion through email, OilPrice.com will delete your information within 30 days. However, please note that some personal information may need to be maintained if it is for billing or required by law. Some employees will have access to our personal information, but this will be limited to those whose jobs are dependent on such information.
+At any time, you can change your OilPrice.com account information. To delete your account [send us an email](https://web.archive.org/web/20121130152703id_/http%3A//oilprice.com/contact). If you request deletion through email, OilPrice.com will delete your information within 30 days. However, please note that some personal information may need to be maintained if it is for billing or required by law. Some employees will have access to our personal information, but this will be limited to those whose jobs are dependent on such information.
 
 ## Changes in this Privacy Policy
 
 This Privacy Statement is a living document. OilPrice.com may update this policy at any time for any reason. If we significantly change how we handle personal information, we will notify the primary email address specified in your OilPrice.com account.
 
-If you have questions or suggestions please use you the feedback form or you can [contact us](https://web.archive.org/web/20120608225649id_/contact).  
+If you have questions or suggestions please use you the feedback form or you can [contact us](https://web.archive.org/web/20121130152703id_/contact).  
 
