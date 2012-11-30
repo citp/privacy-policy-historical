@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seashepherd.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601021416id_/http%3A//www.seashepherd.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seashepherd.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130200405id_/http%3A//www.seashepherd.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sea Shepherd
 
