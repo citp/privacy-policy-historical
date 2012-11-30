@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621112221id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130083202id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -15,7 +15,7 @@ This statement outlines how we will use and protect information that you provide
 
 ## 1\. How we will use your personal data
 
-We may collect personal information about you if you take part in a consultation or if you register with us as a doctor.
+We may collect personal information about you if you take part in a consultation, if you request to join one of our mailing lists or if you register with us as a doctor.
 
 ### Registration of doctors
 
@@ -23,7 +23,7 @@ If you provide your details when inquiring about registration or sitting the Pro
 
   * To process your enquiry or application
   * To compile statistics
-  * To send you relevant GMC documents and our newsletter GMCtoday
+  * To send you relevant GMC information and our e-newsletter, _GMC News_
   * We will supply information to the Department of Health, professional, education and training bodies so they can compile statistics
   * We may retain details of your application on our files and may disclose that information to overseas regulators in the EEA and elsewhere.
 
@@ -35,7 +35,7 @@ If you subsequently obtain registration from the GMC we will use the information
   * Administer and maintain your registration
   * Process complaints
   * Compile statistics
-  * Keep you updated with information about the GMC including guidance, news and election material.
+  * Keep you updated with information about the GMC including guidance and news*.
 
 
 
@@ -46,6 +46,8 @@ All registered doctors’ Level 1 information will be published in the List of R
 We will provide Level 2 information in response to telephone or written enquiries. Level 2 information is a registered doctor’s Level 1 information plus the date on which their annual retention fee is due.
 
 We will provide Level 3 Information to the UK health departments, employers and other regulatory bodies. Level 3 information consists of registered doctors’ Level 1 and 2 information plus, date of birth, photograph, passport details, registered address and whether a doctor is subject to investigation under the fitness to practise procedures.
+
+*We work hard to avoid cluttering up your inbox. We use technology to tailor the material we send you. We use "open tracking" in our email campaigns. If you open one of our emails and download the images contained in the email, or click on a link contained within the email, we will record this information. This helps us to understand your professional interests and develop our communications based on your preferences. If you do not wish to participate in "open tracking", your email application (Outlook, Hotmail, Gmail etc.) can be configured to prevent the downloading of email images and you should not click through the links contained in the email.
 
 ### Third Party Service Providers
 
@@ -176,7 +178,7 @@ The following cookies are set by third parties who provide a service to the GMC:
 Name | Purpose | Cookie type  
 ---|---|---  
 WEBTRENDS_ID | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
-ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the siteimprove the site. | Persistent  
+ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
   
 ## 4\. Website security: how we protect your information
 
