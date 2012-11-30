@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scubastore.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617001043id_/http%3A//www.scubastore.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubastore.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130170311id_/http%3A//www.scubastore.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
 # New TradeInn
 
