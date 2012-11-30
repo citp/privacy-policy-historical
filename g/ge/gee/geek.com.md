@@ -1,172 +1,121 @@
-> *The following text is extracted and transformed from the geek.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219093811id_/http%3A//geek.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geek.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130091007id_/http%3A//www.ziffdavis.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Ziff Davis, Inc. Privacy Policy « Ziff Davis
 
-### (Last Updated Oct 5, 2010)  
-(Effective Date May 24, 2008)
+Updated May 2012
 
-Geeknet, Inc. (“Geeknet”), comprised of the Internet sites Geek.net, Sourceforge.net, Slashdot.org, ThinkGeek.com, Geek.com, fossfor.us, and freshmeat.net (the “Sites”), is committed to protecting the privacy of users of the Sites. Geeknet intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Geeknet collects about users and how that information may be used.
+**Ziff Davis, Inc. Privacy Policy**
 
-Geeknet reserves the right to update and change this Privacy Statement from time to time. If Geeknet makes material changes to its privacy practices, a prominent notice will be posted on this web page. Each time a user uses the Sites, the current version of the Privacy Statement applies. Accordingly, a user should check the date of this Privacy Statement (which appears at the top) and review for any changes since the last version. If a user does not agree to the Privacy Statement, the user should not use the Sites.
+This Privacy Policy describes what information Ziff Davis and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.
 
-Geeknet complies with the United States (“US”)/European Union (“EU”) Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use, and retention of data from the EU. Individuals who wish to file a complaint or who take issue with Geeknet's EU Safe Harbor policies should direct such communication to Geeknet Legal Services - Privacy via written communication at the contact information provided below. Filing a complaint in English will expedite the process. Geeknet will investigate and attempt to resolve complaints regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Statement. For complaints that cannot be resolved between Geeknet and the complainant, Geeknet participates in the dispute resolution procedures of the panel established by the EU data protection authorities to resolve disputes pursuant to the Safe Harbor framework.
+**What we collect:**
 
-Geeknet agrees to notify users of the following privacy principles: Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.
+**Part 1- ‘ _Personal Information’_**
 
-## NOTICE
+Personal Information generally means information which might reasonably be used to specifically identify you and may include information such as your name, address, age, credit card details, email and phone number. We collect such personal information when you provide it to us, such as when you:
 
-Geeknet provides this Privacy Statement to make users aware of Geeknet privacy practices, and of the choices a user may make about the way the user’s information is collected and used.
+  * Subscribe to the PC Magazine Digital Edition
+  * Register with any of our Ziff Davis B2B sites including Toolbox.com
+  * Purchase software license or a product
+  * Sign up for email newsletters or white papers
+  * Enter a sweepstakes
+  * Register for site membership and webinars
+  * Participate in surveys
+  * Create a profile or
+  * Otherwise communicate with us.
 
-### Children
 
-Users represent they are of legal age to create binding and financial obligations for any liability users may incur as a result of their use of the Sites. The Sites are not directed to children under the age of 13, and Geeknet will never request personally identifiable information from anyone whom it knows to be under the age of 13 without verifiable parental or guardian consent. Geeknet does not knowingly collect, or wish to obtain, personally identifiable information from children. If Geeknet becomes aware that a user is under the age of 13 and has provided personally identifiable information without prior verifiable parental or guardian consent, it will remove user’s personally identifiable information from its files.
 
-### What information Geeknet collects
+Several of the services that we offer require registration as a condition of use. We may also receive personal information about you from other sources and add it to the information you have provided to us.
 
-Geeknet may collect two types of information from users of Sites: "personally identifiable information" (such as name, email address, postal address, telephone, birth date) and "aggregate information" (such as frequency of visits to Sites, IP address, Site pages most frequently accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user of the Sites. Aggregate information is non-personally identifiable/anonymous information about users of the Sites. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
+Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in our forums, blogs, wikis, chat rooms, or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas that allow users to upload or post content. We discourage users from posting personally identifiable information in this fashion, and any personally identifiable information you post to these areas is not covered by this Policy. You can change your publicly available information at any time via your profile page.
 
-On the Sites, users may order products or services, and register to receive materials. Personally identifiable information collected on the Sites includes community forum content, diaries, profiles, photographs, name, unique identifiers (e.g., passwords), contact and billing information (e.g., email address, postal address, telephone, fax), and transaction information.
+**Part 2-** **_Other Information We Collect:_**
 
-In order to tailor Geeknet’s subsequent communications to users and continuously improve the Sites’ products and services, Geeknet may also ask users to provide information regarding their interests, demographics, experience with its products, and detailed contact preferences.
+_Web Beacons_  are electronic files that allow a web site to count users who have visited that page or to access certain cookies. When you receive email messages or newsletters from us, we may use web beacons, customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
 
-### Web beacons
+_Cookies_   are small text files that are placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. Like many other web sites, Ziff Davis sites use cookies to enable you to sign in to our services and to help personalize your online experience. We may use a cookie to identify members so they do not have to re-enter a user ID and password when they wish to download a utility, post to a discussion, or sign into an account. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies can also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf.
 
-Geeknet uses web beacons from time to time. Such web beacons may be provided by Geeknet’s third party advertising companies to help manage and optimize Geeknet’s online advertising. To opt out of targeted advertising delivered by Network Advertising Initiative members, click here: <http://www.networkadvertising.org/consumer/opt_out.asp> . A web beacon is a string of code that provides a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data, or determining how many times a specific web page has been viewed. Web beacons enable Geeknet to recognize a browser’s cookie when a browser visits a Site, and to learn which banner ads bring users to each Site. For example, when a user visits a web page, the code for the page may include instructions to go to another server to gather a single pixel graphic image. Web beacons are not placed on a user’s computer, and users remain anonymous.
+_Pixel Tags,  _also known as clear gifs, beacons, spotlight tags or web bugs, are a method for passing information from the user’s computer to a third party Web site. Used in conjunction with cookies, Ziff Davis may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns. Pixel tags are also used as a supplement to our server logs and other methods of traffic and response measurement, and are sometimes used in conjunction with small Javascript-based applications. We may also implement pixel tags provided by other companies for the same purpose.
 
-### Cookies
+You need not have cookies turned on to visit all of our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of a Ziff Davis web site, you must have cookies enabled to access any member related pages (i.e., Discussion Boards, Member Profile pages, Search for a Member).
 
-Geeknet uses cookies on the Sites. A cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to a user based on a user’s browsing program. Geeknet may use cookies to personalize a user’s pages at a Site, to remember a user when the user registers for products or services, or to track visits to a Site. If a user does not want Geeknet to deploy cookies in the user’s browser, the user may set the browser to reject cookies or to notify the user when a web site tries to place cookies in the browser program. Rejecting cookies may affect a user’s ability to use some of the products, features, functions, or services on a Site. Cookies do not contain personally identifiable information.
+**What We Provide to Third Parties:**
 
-The ads appearing on the Sites are delivered to visitors by Google, Inc. (“Google”), Geeknet’s current third party web advertising partner. The third party advertising technology that Geeknet uses on the Sites uses information derived from a user’s visits to the Sites to target advertising within the Sites. In addition, Geeknet’s advertisers may use other third party advertising technology to target advertising on the Sites. In the course of serving advertisements to the Sites, Google may place or recognize a unique cookie on a user’s browser. Information about users’ visits to the Sites, such as the number of times users have viewed an ad (but not users’ names, addresses, or other personally identifiable information), are used to serve ads to visitors. Google's use of cookies enable it to serve ads to users based on such user's visit to Geeknet's sites and other sites on the Internet. As with other cookies, and consistent with Geeknet’s policy on cookies stated above, the user may block or delete such cookies from the user's drive or memory. For more information about Google, Google’s use of cookies, and how to "opt out" of Google’s email/information lists, please click here: <http://www.google.com/privacy_ads.html> Geeknet has no access or control over third party cookies.
+_Statistical Reports and Mailing Lists  _The aggregate statistics that describe our online audience, which are often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis and our brands. In addition, we make certain information such as the name of our users, their mailing address, phone number, email addresses, and – in certain circumstances – their employer’s name, company size and other industry data (when voluntarily submitted by the user) available on a rental or other basis (e.g. sale) to third party providers of goods and services. To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control what is Collected section below.
 
-### Log files
+_Email Deployment, Data Analysis E-Commerce and Other Services  _We provide customer lists,  email addresses and other information to third party companies and contractors who provide us with specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses), subscription fulfillment, and customer support and service, research, statistical analysis, data and website hosting and other data and transaction processing. These companies work on our behalf and we do not provide our lists or other data to them for their own, permanent use. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They should also maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-Geeknet web servers may automatically log aggregate information, such as a user’s IP address, domain name, browser type, date and time of access, and other log file data. This information may be used to analyze trends or administer the Sites. Log files do not contain personally identifiable information.
+Please note that we engage third party service providers for the purpose of processing sales of subscriptions, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, or other services. These service providers have access to or are provided with certain personal information (including credit card information) in order to provide us with the applicable service.
 
-With respect to Sourceforge.net, Geeknet contracts with third party mirror providers, who deliver integrated communications services, including Internet access services, to deploy mirrors of downloads in order to make file downloading via Sourceforge.net faster and more convenient. Geeknet has no control over the privacy or logging policies of mirror providers, or the implementation thereof, and such policies may differ from this Privacy Statement.
+_Webcasts  _At times we produce and host sponsored webcasts for a variety of companies (“Sponsors”). Data collected during the registration process and the actual event may be shared with those Sponsors and others, and is governed by our policy and the third party’s privacy policy and may be used by us and the Sponsor for follow-up purposes.
 
-### How Geeknet uses the information collected
+_Contests/Sweepstakes  _Data collected during the registration for contests and sweepstakes is used by us and may be shared with sponsors. Please read the contest rules carefully before you submit your data.
 
-Geeknet may use the personally identifiable information a user submits for any purposes related to Geeknet’s business, including, but not limited to:
+_Co-Branded Sites and Services  _When you use a co-branded service (a service operated with a service or site partner of Ziff Davis), or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Use of your information by such partners is subject to their privacy policies as well as ours.
 
-  1. To understand a user’s needs and create content that is relevant to the user;
-  2. To generate statistical studies;
-  3. To conduct market research and planning by sending user surveys;
-  4. To notify user referrals of Geeknet services, information, or products when a user requests that Geeknet send such information to referrals;
-  5. To improve services, information, and products;
-  6. To help a user complete a transaction, or provide services or customer support;
-  7. To communicate back to the user;
-  8. To update the user on services, information, and products;
-  9. To personalize a Site for the user;
-  10. To notify the user of any changes with a Site which may affect the user;
-  11. To enforce terms of use on a Site; and
-  12. To allow the user to purchase products, access services, or otherwise engage in activities the user selects.
+_White Papers/Other Sponsored Downloads  _Ziff Davis hosts product listings and offers informational downloads for a variety of third party vendors. When registration is required in order to receive or view the download, some or all data collected during product registration and/or Ziff Davis web site registration may be shared with the vendor (and other third parties).
 
+_Ecommerce_  When shopping on certain of our sites or pages, users may need to provide personally identifiable information necessary to fulfill an online order, including name, billing address, shipping address, telephone number, email address, credit card number (with expiration date), and any of the above information needed to send a package to a gift recipient. If a user creates an account, the credit card information above will not be stored under their account. When placing an order, credit card information may be either temporarily stored on a Ziff Davis server and then immediately transferred to a secure server of a PCI compliant third party or will be immediately entered onto a secure server of a PCI compliant third party. We partner with a number of third parties to process and fulfill orders, send transactional emails, and ensure delivery of downloads and packages. While these third parties may have access to personal information in order to perform their duties, they are not permitted to use it for other purposes. __
 
+**What Third parties and Ziff Davis May Collect:**
 
-User names, identifications (“IDs”), and email addresses (as well as any additional information that a user may choose to post) may be publicly available on a Site when users voluntarily and publicly disclose personally identifiable information, such as when a user posts personally identifiable information in conjunction with content subject to an Open Source license, or as part of a message posted to a public forum or a publicly-released software application. Users may not be able to change or remove public postings once posted. Such personally identifiable information may be used by visitors of these pages to send unsolicited messages. Geeknet is not responsible for any consequences which may occur from the use of personally identifiable information that a user chooses to submit to public pages.
+_Online Ad Serving.  _Ziff Davis and some of our advertisers use third-party advertising service companies to serve advertisements when you visit our sites. Often, these third-party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web and e-mail advertisement and to create a record of interaction with our site content that they use in conjunction with their advertising which appears on other sites, or for reporting web site traffic, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data.   **The specific providers we use are subject to change.   **As of the date of the posting of this policy, some of **** the current providers include **** DoubleClick, Omniture SiteCatalyst and Google Analytics (for information about how to opt out of tracking methods for these entities and others [**click here**](http://www.aboutads.info/))
 
-With respect to surveys, in the event that responses are publicly disclosed, users will be notified at the time they take the survey. Geeknet will disclose only aggregate information regarding its users, which as stated earlier is anonymous information that does not identify any specific individual. Circumstances under which Geeknet would publicly disclose such aggregate information include, but are not limited to, sharing survey results with the site population, providing data to Geeknet advertisers on user preferences and/or demographics, and publicizing overall usage data in press communications.
+**What Ziff Davis does with the Information it Collects**
 
-Where surveys allow users to submit written comments, and where Geeknet advises users of the possibility of such disclosure at the time they take the survey, Geeknet reserves the right to disclose any information provided by users, provided that no personal information identifying a specific user is disclosed. Participation in surveys is at a user's option; Geeknet does not conduct mandatory surveys.
+**Personal Information.** How we use personal information is described in the Section _What We Provide to Third Parties._
 
-## CHOICE/OPT OUT
+**Emails.   **We use email addresses to send offers of services or products (and as set forth in the Section _What We Provide to Third Parties_ ). Any recipient will be able to unsubscribe from receiving these emails.
 
-A user makes the decision whether to proceed with any activity that requests personally identifiable information. If a user does not provide requested information, the user may not be able to complete certain transactions.
+**Other Information: Ad Serving and Ziff Davis.  **At times we display ads both on our network of owned and operated web sites and on non-Ziff Davis web sites. When you visit one of our web sites or view ads that we serve off of our network elsewhere on the Internet, you may see multiple kinds of ads, such as text ads next to search results and graphical ads shown on web pages. Sometimes these ads are based on the content of the page on which they appear. Other times these ads are generated by matching the ad to your interests as inferred from your browsing activities collected online. Either way, Ziff Davis tries to show you relevant ads, and to do so, we may use information we know or receive about you like your gender, location or interests.
 
-Users who use the personally identifiable information of other users agree to use such information only for:
+_Interest-based Ads:_  We use cookies, Javascript, pixel tags and other technology to collect information about your visit (“Online Data”) to our sites and other third party partner websites that we do not own or operate but with whom we have agreements.  We analyze what pages you visit on our sites and the third party sites, what products or services you view, and whether you view or click on ads that are shown to you. We use this information to send you interest based ads. All such data is also collected anonymously, and is aggregated with other data we collect and/or similar data collected by partners to create segments, groups of users and certain general interest categories or segments that we have inferred based on (a) demographic or interest data, and a general geographic location derived from your IP address, (b) the pages you view and links you click when using our sites and services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests.
 
-  1. Using services offered through a Site;
-  2. Site transaction-related purposes and not for unsolicited commercial messages; or
-  3. Other purposes that the other user expressly chooses.
+We store page views, clicks and search terms used for ad personalization targeting separately from your contact information or other data that directly identifies you (such as your name, e-mail address) which we obtained as described above under _Personal Information_ and we do not combine the two sets of data.
 
+We will engage third party providers to assist with the collection, storage and segmentation of this Online Data; and the providers are required to maintain the confidentiality of this information. These efforts do not result in the collection of personally identifiable information such as name or address; and we do not intentionally collect data that we consider to be sensitive such as health or medical information. This data is not sold or transferred to any third party. Except as may be set forth elsewhere in this policy, this Online Data is retained for not more than 180 days after which it shall expire except in certain situations when the same user subsequently visits one of our sites or a partner’s site in which event the 180 day period will commence again.
 
+**_How You Can Change or Control what is Collected:_**
 
-Users are not licensed to add other users to a Site, even users who entered into transactions with them, or to their mail lists without consent.
+_Cookies._  Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.  You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon AdChoice
 
-Geeknet encourages users to evaluate privacy and security policies of any of the Sites’ transaction partners before entering into transactions or choosing to disclose personally identifiable information.
+However, if you ‘turn off,’ purge or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions or services available on our websites. Please [click here](http://www.aboutads.info/) to learn more about the use of cookies, your opt out choices, and more.
 
-### Emails
+Ziff Davis supports the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information [click here](http://www.aboutads.info/)), and has Evidon Inc.’s assurance platform to comply with these Principles. As part of this service, online ads that we place using behavioral data we collect are expected to be delivered with the Advertising Option Icon (also referred to as the _Forward i_ ) or similar icon that helps consumers understand how their data is being used and provides choices for consumers who want more control. Online advertisements on our sites targeted to you based on previously collected online data about you by third parties should also have the Advertising Option Icon.  This icon is also at the bottom of each of our web pages. The Advertising Option icon provides information (and links to other information) on online behavioral ads, who is collecting and using your online data, how you can opt out and more.
 
-Geeknet will not use or share the personally identifiable information provided to it online in ways unrelated to the items described above without first letting a user know and offering the user a choice. If a user no longer wishes to receive direct marketing materials, Geeknet will provide instructions in each of its emails on how to be removed from any lists. Geeknet will make commercially reasonable efforts to honor such requests.
+_Pixel Tags._ You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
 
-### Profile or User ID Display
+_Updating Your Registration Information._ You can correct or change the information collected during site registration at any time at the profile page links shown below or by sending email to the addresses shown below. Please allow five to ten business days for corrections or changes to be publicly displayed or implemented throughout our systems.
 
-A user’s personally identifiable information may be publicly available through a user's profile or user ID display. In such cases, users have the option and discretion to opt out of publicly displaying their real names at any time by changing their display name under the Sites’ user preferences. Profile or user ID display may allow other users to see a user’s activities, including purchase and sales content, ratings, and comments.
+_Your Newsletter Subscriptions._ You can opt-in to newsletter mailing lists, or remove yourself at any time through the [newsletter subscription management page](http://www.pcmag.com/newsletter_manage) (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow five to ten business days for changes to take effect.
 
-### Email Display
+_Your Subscription Information._ You can correct or change your PC Magazine Digital Edition subscription information and your preferences as to our ability to provide your information to third parties for their own marketing purposes click [here](http://www.pcmag.com/article2/0,2817,1329747,00.asp).  Please allow two to four weeks for changes to take effect (if you are a new subscriber, your information may not be immediately available at this URL – please allow up to four weeks from placing your subscription order for processing). You can correct or change your Toolbox.com subscriptions and preferences using the account settings[ here](http://it.toolbox.com/home/settings). Please note member service-related communications are an integral part of the Toolbox.com service to which you subscribe and you will continue to receive these emails as part of the Toolbox.com service.
 
-Users may have the opportunity to use a service to send electronic mail to another user or email list. In such cases, a user's valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt out of such a display, but may choose to refrain from using such service to transmit an email message.
+_Stop Sharing of Lists.   _Many customers appreciate the offerings they receive from the third party providers of goods and services to whom we provide lists of our customers, but here is what to do if you no longer wish for us to share this information with such providers:
 
-Geeknet offers an email alias service that allows a user to create an email alias that forwards to the user’s personal email account. Geeknet does not publish a user’s personal email address, but does publicize email aliases which may allow an individual to identify or contact a user. A user who obtains an email alias may not opt out of such publication of the email alias.
+If you are a registered user of our sites, you can change your preferences via the following profile page links: [ExtremeTech](http://www.extremetech.com/sign_up/0,1213,,00.asp?success_page=%2Fview%5Fprofile%2F0,,,00+en%2DUSS%5F01DBC%2Easp&success_title=View+Member+Profile&failure_page=http%3A%2F%2Fziffdavis%2Ecom%2Fabout%2Fprivacy); [PCMag.com and the PCMag.com Utility Library](http://www.pcmag.com/join/0,2949,,00.asp?success_page=%2Fview%5Fprofile%2F0,,,00+en%2DUSS%5F01DBC%2Easp&success_title=View+Member+Profile&failure_page=http%3A%2F%2Fziffdavis%2Ecom%2Fabout%2Fprivacy); [LogicBuy.com ](http://www.logicbuy.com/viewprofile.aspx) and [Smart Device Central](http://www.smartdevicecentral.com/pages/sign_in.aspx?ReturnUrl=%2fmembers%2fview_profile.aspx%3fpagetype%3dview_profile&pagetype=view_profile); one of the [Ziff Davis B2B Focus sites; ](http://www.focus.com/about/email-policy/)and for a [Toolbox.com site](http://it.toolbox.com/home/settings), or send an email to [ZDinfo2012@ziffdavis.com](mailto:ZDinfo2012@ziffdavis.com). If you provided your contact information to PCMag.com in order to download a white paper, case study or other document provided by a Ziff Davis advertiser or to enter a PCMag.com contest sponsored by a Ziff Davis advertiser, please send an email with your preference request changes to: [ZDinfo2012@ziffdavis.com](mailto:ZDinfo2012@ziffdavis.com).
 
-### Photographs
+Please allow up to ten business days for any changes to be implemented throughout our systems.
 
-Users may have the opportunity to submit photographs to the Sites for product promotions, contests, and other purposes to be disclosed at the time of request. In these circumstances, the Sites are designed to allow the public to view, download, save, and otherwise access the photographs posted. By submitting a photograph, users waive any privacy expectations users have with respect to the security of such photographs, and Geeknet’s use or exploitation of users’ likeness. All photographs submitted to Geeknet become the property of Geeknet and will not be returned.
+**Other Useful Information Regarding Your Privacy**
 
-## ONWARD TRANSFER
+_Change of Ownership of Ziff Davis._ **** Some or all personal information maintained by Ziff Davis may be subject to transfer to another company in the event of a change of ownership of Ziff Davis or sale of any part of Ziff Davis.
 
-### With whom may Geeknet share information?
+_Security_. We believe we use reasonable precautions to keep the personal information you disclose to our websites secure and to only release this information to third parties that share our commitment to privacy. However, we cannot guarantee there will not be a breach and we are not responsible for any breach of security or for the actions of any third parties.
 
-Geeknet will not sell, rent, or lease a user’s personally identifiable information to others, except as described in this Privacy Statement. Unless Geeknet has a user’s permission or as required by law, Geeknet will only share the personally identifiable information a user provides online with other entities that are part of the Geeknet corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on Geeknet’s behalf. These third parties are prohibited from using users’ information for any other purpose, including their own marketing.
+_Children._ **** Ziff Davis web sites are not intended for use by children, especially those under 13. No one under age 13 should provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases on our sites. If, notwithstanding these prohibitions, your children disclose information about themselves in our public discussion areas, consequences may occur that are not intended for children (e.g., they may receive unsolicited messages from other parties).
 
-When Geeknet uses third parties to assist in processing a Site’s user personally identifiable information, Geeknet requests that they comply with Geeknet privacy practices, and other appropriate confidentiality and security measures.
+_Links to Other Sites._ Ziff Davis web site may contain links to other sites whose information practices may be different from ours.  We do not have control over the information that is submitted to, or collected by, these third parties.  You should consult the privacy policy of these other sites to learn how your privacy is protected.
 
-Please be advised that in certain instances, it may be necessary for Geeknet to disclose a user’s personally identifiable information without a user’s permission to government officials or otherwise as required by legal obligations. Geeknet may disclose such personally identifiable information when responding to subpoenas, court orders, or legal process, or to establish or exercise legal rights or defend against claims, including fraud or infringement investigations.
+_Compliance with Law and Other Terms._ **** Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our [**Terms of Use**](http://www.ziffdavis.com/about/terms) or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
 
-Data collected online may be combined with information a user provides through other means of communication, such as postal mail or third parties to further carry out the purposes described above under the heading “NOTICE, How Geeknet uses the information collected regarding users”.
+_International._ Ziff Davis operates websites in the United States and, depending on your country of residence, the submission of personally identifiable information to our sites may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
 
-When users choose to provide Geeknet with personally identifiable information, users consent to the transfer and storage of such information by Geeknet servers in the United States.
+**Please visit our**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **page for more information concerning your use of Ziff Davis websites and other services. The**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **are incorporated by reference into this Privacy Policy.**
 
-In addition, Geeknet reserves the right to share aggregate information collected from users of the Sites, without prior notice, with entities that are part of the Geeknet corporate family and unrelated third parties. As stated earlier, aggregate information is used in a collective manner and no single person can be identified by such compiled information.
+_Changes to the Privacy Policy_ We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change, we may indicate on our sites that our Privacy Policy has changed. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of our sites shall be deemed your acceptance of the Privacy Policy.
 
-Geeknet shares certain Sourceforge.net data with the University of Notre Dame for the sole purpose of supporting academic and scholarly research on free and/or open source software. Geeknet has given the University of Notre Dame permission to share this data with other academic researchers studying free and/or open source software. When such Sourceforge.net data is transmitted to the University of Notre Dame, Geeknet makes reasonable efforts to remove any personally identifiable information, but does not guarantee the complete removal of all information that may identify a user, such as user names or other publicly displayed information.
+**We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.**
 
-### Service Orders
-
-To purchase services, users may be asked to be directed to a third party site, like PayPal, to pay for their purchases. If applicable, the third party site may collect payment information directly to facilitate a transaction. None of this information will be captured or stored by Geeknet.
-
-### Links to third party web sites
-
-Links to third party web sites on the Sites are provided solely as a convenience to the user. When a user uses these links, the user leaves the Sites. Geeknet has not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. Geeknet does not endorse or make any representations about the third party sites, or any information, services, or products found on the sites. If a user decides to access any of the linked sites, Geeknet encourages the user to read their privacy statements. The user accesses such sites at user’s own risk.
-
-### Project Web
-
-Sourceforge.net offers project web services that permit project teams to share information among developers and end users. The project web services include a pool of web servers which serve project related web content and support common scripting language. Geeknet hosts these web servers, but does not review or control any of the web content, which is created by project teams. Web content created by project teams may contain codes or other technology that collect personally identifiable information. Before linking to, accessing or otherwise using the project web services, a user should take those steps necessary, in such user’s discretion, to protect its privacy.
-
-### Bankruptcy or Sale of business
-
-Geeknet reserves the right to share or transfer personally identifiable information and aggregate information to a third party should Geeknet ever file for bankruptcy or in the event of a sale, merger or acquisition of Geeknet, provided such third party agrees to adhere to the terms of this Privacy Statement.
-
-## DATA INTEGRITY AND ACCESS
-
-Should a user find inaccuracies in such user’s information, or desire to close an account or view the personally identifiable information Geeknet may have regarding the user, the user may contact Geeknet through the communication methods described below, or when technically feasible, directly on a Site. Geeknet will make commercially reasonable efforts to respond to requests for access within thirty (30) days of receiving requests. Geeknet may decline to process users’ access or update requests to their personally identifiable information if the requests require disproportionate technical effort, jeopardize the privacy of other users, or are impractical (for instance, requests concerning information residing on backup tapes).
-
-## SECURITY
-
-To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, Geeknet implements physical, electronic, and managerial procedures to safeguard and secure the information Geeknet collects. Geeknet uses encryption when collecting or transferring sensitive personally identifiable information. However, Geeknet does not guarantee that unauthorized third parties will never defeat measures taken to prevent improper use of personally identifiable information.
-
-Internal Geeknet access to users’ nonpublic personally identifiable information is restricted to Geeknet’s administrators and individuals on a need-to-know basis. These individuals are bound by confidentiality agreements.
-
-User passwords are keys to accounts. Use unique numbers, letters, and special characters for passwords and do not disclose passwords to other people in order to prevent loss of account control. Users are responsible for all actions taken in their accounts. Notify Geeknet of any password compromises, and change passwords periodically to maintain account protection. In addition to passwords, Sourceforge.net users also obtain encryption keys for the release of files for download, development of web content, and other services. Users are responsible for all actions taken with encryption keys, and must promptly notify Geeknet of any security compromises involving such encryption keys.
-
-## ENFORCEMENT
-
-In the event Geeknet becomes aware that the security of a Site has been compromised or user’s personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to security attacks or fraud, Geeknet reserves the right to take reasonable appropriate measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities.
-
-If Geeknet becomes aware that a user's personally identifiable information has been disclosed in a manner not permitted by this Privacy Statement, Geeknet will make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that Geeknet knows this information.
-
-If a user has comments or questions about Geeknet's privacy statement, please contact:
-
-Email: [legal@geek.net](mailto:legal@geek.net)  
-Telephone: (650) 694-2100  
-Fax: (650) 288-1579
-
-Postal Mail:  
-Attn: Geeknet, Inc. Legal Services - Privacy  
-Geeknet, Inc.  
-650 Castro Street, Suite 450  
-Mountain View, CA 94041
-
-[We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)  
-[ ](http://export.gov/safeharbor)
+**Questions?** If you have any questions on our Privacy Policy, you can contact us at [HR@ziffdavis.com](mailto:HR@ziffdavis.com); be sure to include _Ziff Davis Privacy Policy Question_  in the subject line.
