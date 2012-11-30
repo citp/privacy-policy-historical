@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the transperfect.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530224503id_/http%3A//www.transperfect.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transperfect.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130174443id_/http%3A//www.transperfect.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | TransPerfect Translations
+# Privacy Policy | TransPerfect
 
-**Safe** **Harbor** – As part of its overall global privacy compliance efforts, TransPerfect adheres to the Safe Harbor Agreement concerning the transfer of personal identifiable data from the European Union to the United States of America. TransPerfect also applies the same principles from data received from Switzerland. We follow the Principles of Safe Harbor as set out by the United States Department of Commerce. This statement outlines our general policies and practices for implementing the Principles of Safe Harbor, including the type of data we collect and how we process it.
+**Safe** **Harbor Compliance** – As part of its overall global privacy compliance efforts, TransPerfect complies with both the US/EU Safe Harbor Framework and the US/Swiss Safe Harbor Framework concerning the transfer of personal identifiable data from the European Union and Switzerland to the United States of America. We follow the Safe Harbor Privacy Principles as set out by the United States Department of Commerce. This statement outlines our general policies and practices for implementing the Principles of Safe Harbor, including the type of data we collect and how we process it.
 
 The term “processing” of personal data includes any operation or set of operations performed upon personal data such as collecting, storing, retrieving, consulting, using, disclosing, disseminating, and otherwise making available the personal data.
 
-This Privacy Policy may change from time to time based on changes made to the Safe Harbor Principles. Any changes made necessary will be reflected in an update to this policy and disseminated.
+This Privacy Policy may change from time to time based on changes made to the Safe Harbor Privacy Principles. Any changes made necessary will be reflected in an update to this policy and disseminated.
 
 TransPerfect’s privacy practices are self-certified, but have been independently reviewed by a Quality Management Systems Consultant as well as legal counsel experienced with Safe Harbor Compliance.
 
-Any questions about TransPerfect’s Privacy Policy or for a more detailed description of TransPerfect’s privacy compliance efforts (as outlined in our Privacy Manual) please contact our Privacy Officer, Ali Zeren, Esq. ([azeren@transperfect.com](mailto:azeren@transperfect.com)) or by telephone at 212-689-5555 x 1494.
+Any questions about TransPerfect’s Privacy Policy or for a more detailed description of TransPerfect’s privacy compliance efforts (as outlined in our Privacy Manual) please contact our Privacy Officer, Rebecca Burns, Esq. ([rburns@transperfect.com](mailto:rburns@transperfect.com?subject=Safe%20Harbor)) or by telephone at 212-689-5555 x 1494.
 
-For more information about Safe Harbor, please go to: <http://www.export.gov/safeharbor/>
+For more information about the Safe Harbor program and to view TransPerfect's certification, please go to: <http://www.export.gov/safeharbor/>
 
 **Scope** – This Privacy Policy applies to all personal information received by TransPerfect in any format. TransPerfect will ensure all global data handled by our offices conforms to this Privacy Policy.
 
@@ -54,6 +54,6 @@ Back-up tapes that are stored offsite are handled by authorized personnel of Tra
 
 **Enforcement** – TransPerfect undertakes to verify compliance with its Privacy Policy not less than once per year and in connection with TransPerfect’s annual review and self-certification. TransPerfect will use its best commercial efforts to ensure that compliance with this Privacy Policy is maintained and that the Privacy Policy is accurate, comprehensive, and continues to conform to applicable law. We encourage CVEs to raise and discuss any issues or concerns with TransPerfect’s Privacy Officer directly who address and resolve such complaints regarding the use of data and noncompliance with our Privacy Policy. All issues will be officially documented within the framework of our ISO 9001 certified quality management system.
 
-With respect to complaints related to our Privacy Policy that cannot be resolved through our internal Corrective/Preventive Action Process, we agree to abide by the dispute resolution procedures established by the EU Data Protection Authorities.
+With respect to complaints related to our Privacy Policy that cannot be resolved through our internal Corrective/Preventive Action Process, we agree to abide by the dispute resolution procedures established by the EU Data Protection Authorities, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner of Switzerland.
 
 _Effective: 22-Sep-2010_
