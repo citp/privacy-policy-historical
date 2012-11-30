@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630214245id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130140940id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
 
-# Privacy | MoneySmart
+# Privacy | MoneySmart by ASIC
 
-Any information gathered when you use the MoneySmart website will not be disclosed or distributed further without your consent.
+Any information gathered when you use the MoneySmart website or MoneySmart apps will not be disclosed or distributed further without your consent.
 
 We comply with the Information Privacy Principles in the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/ "Privacy Act 1988 \(Cth\)") which regulates the collection, storage, quality, use and disclosure of personal information.  We also follow the Federal Government website guidelines issued by the [Australian Privacy Commissioner](http://www.privacy.gov.au/ "Australian Privacy Commissioner").
 
@@ -56,7 +56,7 @@ As there may be security risks in sending information via the internet, you shou
 
 If you have any concerns about your privacy when using this website, email us at [info@moneysmart.gov.au](mailto:info@moneysmart.gov.au "info@moneysmart.gov.au") or phone the ASIC Infoline on 1300 300 630.
 
-Last updated: 13 Mar 2012
+Last updated: 20 Aug 2012
 
 Helpful
 
