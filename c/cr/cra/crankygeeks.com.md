@@ -1,169 +1,121 @@
-> *The following text is extracted and transformed from the crankygeeks.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415073858id_/http%3A//www.pcmagnetwork.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankygeeks.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130091007id_/http%3A//www.ziffdavis.com/about/privacy) for the most accurate reproduction.*
 
-# PCMag Digital Network : Privacy Policy
+# Ziff Davis, Inc. Privacy Policy « Ziff Davis
 
-Last Updated: March 9, 2008 
+Updated May 2012
 
-####  Ziff Davis Media Privacy Policy
+**Ziff Davis, Inc. Privacy Policy**
 
-  
-Ziff Davis Media Inc. (together with its direct and indirect parent and subsidiary entities, “Ziff Davis”) is committed to protecting your privacy. This Privacy Policy describes the ways that personally identifiable and anonymous information about our online users, event registrants and print subscribers is gathered, our information sharing practices, and how online users and print subscribers may request changes to the way this information is shared.
+This Privacy Policy describes what information Ziff Davis and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.
 
-Please note that we updated this Privacy Policy as of March 9, 2008.
+**What we collect:**
 
-Please also note that Enterprise Media Group, Inc., doing business since August 2007 as [Ziff Davis Enterprise](http://www.ziffdavisenterprise.com), is an independent party and is not related to us. This Privacy Policy does not apply to any information collected or possessed by Ziff Davis Enterprise. Please contact Ziff Davis Enterprise or view its applicable privacy policy if you have any questions about information collected or possessed by Ziff Davis Enterprise.
+**Part 1- ‘ _Personal Information’_**
 
-**Personally Identifiable Information We Collect**
+Personal Information generally means information which might reasonably be used to specifically identify you and may include information such as your name, address, age, credit card details, email and phone number. We collect such personal information when you provide it to us, such as when you:
 
-We collect personally identifiable information when you provide it to us, such as when you subscribe to our magazines (either directly with us or through another company such as a subscription agency), sign up for email newsletters, enter a contest, register for site membership or an online event, participate in surveys, attend face to face events, or otherwise communicate with us. Several of the services that we offer, including but not limited to file downloads, message boards, webcasts and online trade shows, require registration as a condition of use; when you register with or sign into one of our sites you are no longer anonymous. We may also receive information about you from other sources and add it to the information you have provided to us.
+  * Subscribe to the PC Magazine Digital Edition
+  * Register with any of our Ziff Davis B2B sites including Toolbox.com
+  * Purchase software license or a product
+  * Sign up for email newsletters or white papers
+  * Enter a sweepstakes
+  * Register for site membership and webinars
+  * Participate in surveys
+  * Create a profile or
+  * Otherwise communicate with us.
 
-**Information You Volunteer and How It Is Displayed to Others Online**
 
-Ziff Davis is not responsible for the information you volunteer about yourself in the course of discussions in our forums, chat rooms, or other forms of publicly accessible interaction, or information that you choose to make public in your member profile. As a member, you can view, correct or change your publicly available information at any time via your member profile page. It may take a brief period of time for any corrections or changes to be publicly displayed or implemented throughout our systems. To view or change your profile, please follow the link for the site from which you registered:  
 
+Several of the services that we offer require registration as a condition of use. We may also receive personal information about you from other sources and add it to the information you have provided to us.
 
-  * [ExtremeTech ](http://www.extremetech.com)  
+Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in our forums, blogs, wikis, chat rooms, or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas that allow users to upload or post content. We discourage users from posting personally identifiable information in this fashion, and any personally identifiable information you post to these areas is not covered by this Policy. You can change your publicly available information at any time via your profile page.
 
-  * [PCMag.com and the PC Magazine Utility Library ](http://www.pcmag.com)  
+**Part 2-** **_Other Information We Collect:_**
 
-  * [ Smart Device Central](http://www.smartdevicecentral.com/members/view_profile.aspx)
-  * [1UP.com](http://www.1up.com/do/mySettings)  
+_Web Beacons_  are electronic files that allow a web site to count users who have visited that page or to access certain cookies. When you receive email messages or newsletters from us, we may use web beacons, customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
 
-  * [ GameVideos.com](http://www.1up.com/do/mySettings)  
+_Cookies_   are small text files that are placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. Like many other web sites, Ziff Davis sites use cookies to enable you to sign in to our services and to help personalize your online experience. We may use a cookie to identify members so they do not have to re-enter a user ID and password when they wish to download a utility, post to a discussion, or sign into an account. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies can also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf.
 
-  * [MyCheats.com](http://www.1up.com/do/mySettings)  
+_Pixel Tags,  _also known as clear gifs, beacons, spotlight tags or web bugs, are a method for passing information from the user’s computer to a third party Web site. Used in conjunction with cookies, Ziff Davis may use pixel tags to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns. Pixel tags are also used as a supplement to our server logs and other methods of traffic and response measurement, and are sometimes used in conjunction with small Javascript-based applications. We may also implement pixel tags provided by other companies for the same purpose.
 
-  * [ GameTab.com](mailto:accountprivacy@filefront.com)  
+You need not have cookies turned on to visit all of our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of a Ziff Davis web site, you must have cookies enabled to access any member related pages (i.e., Discussion Boards, Member Profile pages, Search for a Member).
 
-  * [ FileFront.com](mailto:accountprivacy@filefront.com)
+**What We Provide to Third Parties:**
 
+_Statistical Reports and Mailing Lists  _The aggregate statistics that describe our online audience, which are often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis and our brands. In addition, we make certain information such as the name of our users, their mailing address, phone number, email addresses, and – in certain circumstances – their employer’s name, company size and other industry data (when voluntarily submitted by the user) available on a rental or other basis (e.g. sale) to third party providers of goods and services. To learn how you can make choices about how this information is used or shared, please visit the How You Can Change or Control what is Collected section below.
 
+_Email Deployment, Data Analysis E-Commerce and Other Services  _We provide customer lists,  email addresses and other information to third party companies and contractors who provide us with specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses), subscription fulfillment, and customer support and service, research, statistical analysis, data and website hosting and other data and transaction processing. These companies work on our behalf and we do not provide our lists or other data to them for their own, permanent use. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They should also maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-  
-Profile information is currently not retained for Ziff Davis's blogs, including DL.TV, Cranky Geeks, Appscout, GearLog, Technoride, What's New Now, or GoodCleanTech.  
-For privacy information, related links, and contact information for Ziff Davis magazines and events, please see “Mailing Lists” below. 
+Please note that we engage third party service providers for the purpose of processing sales of subscriptions, to fulfill your orders for product purchases, to honor your request to be removed from promotional mailings, or other services. These service providers have access to or are provided with certain personal information (including credit card information) in order to provide us with the applicable service.
 
-**What We Provide to Third Parties**
+_Webcasts  _At times we produce and host sponsored webcasts for a variety of companies (“Sponsors”). Data collected during the registration process and the actual event may be shared with those Sponsors and others, and is governed by our policy and the third party’s privacy policy and may be used by us and the Sponsor for follow-up purposes.
 
-**Statistical Reports and Analysis**
+_Contests/Sweepstakes  _Data collected during the registration for contests and sweepstakes is used by us and may be shared with sponsors. Please read the contest rules carefully before you submit your data.
 
-Naturally, the aggregate statistics that describe our print and online audience, which is often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize Ziff Davis and its brands. 
+_Co-Branded Sites and Services  _When you use a co-branded service (a service operated with a service or site partner of Ziff Davis), or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Use of your information by such partners is subject to their privacy policies as well as ours.
 
-**Mailing Lists**
+_White Papers/Other Sponsored Downloads  _Ziff Davis hosts product listings and offers informational downloads for a variety of third party vendors. When registration is required in order to receive or view the download, some or all data collected during product registration and/or Ziff Davis web site registration may be shared with the vendor (and other third parties).
 
-We make email and postal lists of our customers available on a rental basis, to carefully screened providers of quality goods and services. Many customers appreciate the offerings they receive, but here's what to do if you don't wish for us to share this information:   
+_Ecommerce_  When shopping on certain of our sites or pages, users may need to provide personally identifiable information necessary to fulfill an online order, including name, billing address, shipping address, telephone number, email address, credit card number (with expiration date), and any of the above information needed to send a package to a gift recipient. If a user creates an account, the credit card information above will not be stored under their account. When placing an order, credit card information may be either temporarily stored on a Ziff Davis server and then immediately transferred to a secure server of a PCI compliant third party or will be immediately entered onto a secure server of a PCI compliant third party. We partner with a number of third parties to process and fulfill orders, send transactional emails, and ensure delivery of downloads and packages. While these third parties may have access to personal information in order to perform their duties, they are not permitted to use it for other purposes. __
 
+**What Third parties and Ziff Davis May Collect:**
 
-  * If you are a subscriber to a Ziff Davis magazine and would prefer that your contact information not be provided to third parties, please log in and change your preferences at <http://subhelp.ziffdavis.com>. (If you are a new subscriber, your information may not be immediately available at this URL – please allow up to 4 weeks from placing your subscription order for processing.)   
+_Online Ad Serving.  _Ziff Davis and some of our advertisers use third-party advertising service companies to serve advertisements when you visit our sites. Often, these third-party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web and e-mail advertisement and to create a record of interaction with our site content that they use in conjunction with their advertising which appears on other sites, or for reporting web site traffic, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data.   **The specific providers we use are subject to change.   **As of the date of the posting of this policy, some of **** the current providers include **** DoubleClick, Omniture SiteCatalyst and Google Analytics (for information about how to opt out of tracking methods for these entities and others [**click here**](http://www.aboutads.info/))
 
-  * If you are a registered user of our other sites, you can change your preferences via the profile page links shown above. It may take a brief period of time for any changes to be implemented throughout our systems.  
+**What Ziff Davis does with the Information it Collects**
 
-  * If you are a registered user of PC Magazine PCMagCasts, please send an email with your preference request to pcmagcast@pcmag.com. Please see below for details on privacy policies for PCMagCasts.   
+**Personal Information.** How we use personal information is described in the Section _What We Provide to Third Parties._
 
-  * If you are a registered attendee of DigitalLife events, please send email with your preference request to info@digitallife.com. Please see below for details on Ziff Davis event privacy policies. 
+**Emails.   **We use email addresses to send offers of services or products (and as set forth in the Section _What We Provide to Third Parties_ ). Any recipient will be able to unsubscribe from receiving these emails.
 
+**Other Information: Ad Serving and Ziff Davis.  **At times we display ads both on our network of owned and operated web sites and on non-Ziff Davis web sites. When you visit one of our web sites or view ads that we serve off of our network elsewhere on the Internet, you may see multiple kinds of ads, such as text ads next to search results and graphical ads shown on web pages. Sometimes these ads are based on the content of the page on which they appear. Other times these ads are generated by matching the ad to your interests as inferred from your browsing activities collected online. Either way, Ziff Davis tries to show you relevant ads, and to do so, we may use information we know or receive about you like your gender, location or interests.
 
+_Interest-based Ads:_  We use cookies, Javascript, pixel tags and other technology to collect information about your visit (“Online Data”) to our sites and other third party partner websites that we do not own or operate but with whom we have agreements.  We analyze what pages you visit on our sites and the third party sites, what products or services you view, and whether you view or click on ads that are shown to you. We use this information to send you interest based ads. All such data is also collected anonymously, and is aggregated with other data we collect and/or similar data collected by partners to create segments, groups of users and certain general interest categories or segments that we have inferred based on (a) demographic or interest data, and a general geographic location derived from your IP address, (b) the pages you view and links you click when using our sites and services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests.
 
-Any mailing sent to our lists is reviewed before it is sent, and when we rent our mailing lists, we typically monitor them to help ensure they are used only for the approved purpose. 
+We store page views, clicks and search terms used for ad personalization targeting separately from your contact information or other data that directly identifies you (such as your name, e-mail address) which we obtained as described above under _Personal Information_ and we do not combine the two sets of data.
 
-Ziff Davis also provides profile reports on specific companies, based on subscriber-reported and publicly available data, to carefully screened providers of quality goods and services. These include contact information for the company and its key personnel.
+We will engage third party providers to assist with the collection, storage and segmentation of this Online Data; and the providers are required to maintain the confidentiality of this information. These efforts do not result in the collection of personally identifiable information such as name or address; and we do not intentionally collect data that we consider to be sensitive such as health or medical information. This data is not sold or transferred to any third party. Except as may be set forth elsewhere in this policy, this Online Data is retained for not more than 180 days after which it shall expire except in certain situations when the same user subsequently visits one of our sites or a partner’s site in which event the 180 day period will commence again.
 
-**Email and Postal Mail Deployment, Data Analysis and Other Data Services**
+**_How You Can Change or Control what is Collected:_**
 
-We provide customer lists and other information to third party companies who provide specialized services, such as email message deployment, merge-purge (identifying and removing duplicate addresses), postal mailing, subscription fulfillment, customer service and telemarketing, research, statistical analysis, hosting and other data and transaction processing. These companies work on our behalf and we do not provide our lists or other data to them for their own, permanent use. Please note that we may provide certain personal information (including credit card information) directly to third parties solely for the purpose of processing sales of subscriptions or other services through our sites, and that such third parties' collection and use of that information shall be governed by such third party's own privacy policy. In addition, we may enter into agreements with certain reputable third parties to “enhance” the data they already possess about certain individuals, as a result of which if such a third party already possesses certain personally identifiable information about you, we may provide that third party with other personally identifiable information about you in our possession.
+_Cookies._  Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.  You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon AdChoice
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide to other companies lists of customers who have opted-out of email promotion for Ziff Davis or other products, so these customers can be suppressed from mailings those companies send on Ziff Davis's behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file.
+However, if you ‘turn off,’ purge or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions or services available on our websites. Please [click here](http://www.aboutads.info/) to learn more about the use of cookies, your opt out choices, and more.
 
-**Ziff Davis Magazines, Seminars, Events, Sites and Other Publications and Services**
+Ziff Davis supports the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information [click here](http://www.aboutads.info/)), and has Evidon Inc.’s assurance platform to comply with these Principles. As part of this service, online ads that we place using behavioral data we collect are expected to be delivered with the Advertising Option Icon (also referred to as the _Forward i_ ) or similar icon that helps consumers understand how their data is being used and provides choices for consumers who want more control. Online advertisements on our sites targeted to you based on previously collected online data about you by third parties should also have the Advertising Option Icon.  This icon is also at the bottom of each of our web pages. The Advertising Option icon provides information (and links to other information) on online behavioral ads, who is collecting and using your online data, how you can opt out and more.
 
-As a Ziff Davis customer, you can also expect to receive relevant email and postal offers for Ziff Davis publications, seminars, events, web sites and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the links in the previous section titled “Mailing Lists."
+_Pixel Tags._ You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
 
-**Change of Ownership of Ziff Davis Properties**
+_Updating Your Registration Information._ You can correct or change the information collected during site registration at any time at the profile page links shown below or by sending email to the addresses shown below. Please allow five to ten business days for corrections or changes to be publicly displayed or implemented throughout our systems.
 
-The mailing list(s) associated with Ziff Davis properties may also be subject to transfer to another company in the event of a change of ownership (as was the case in July 2007 when we sold the assets of our Enterprise Group to a third party). 
+_Your Newsletter Subscriptions._ You can opt-in to newsletter mailing lists, or remove yourself at any time through the [newsletter subscription management page](http://www.pcmag.com/newsletter_manage) (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow five to ten business days for changes to take effect.
 
-**Anonymous Information We Collect**
+_Your Subscription Information._ You can correct or change your PC Magazine Digital Edition subscription information and your preferences as to our ability to provide your information to third parties for their own marketing purposes click [here](http://www.pcmag.com/article2/0,2817,1329747,00.asp).  Please allow two to four weeks for changes to take effect (if you are a new subscriber, your information may not be immediately available at this URL – please allow up to four weeks from placing your subscription order for processing). You can correct or change your Toolbox.com subscriptions and preferences using the account settings[ here](http://it.toolbox.com/home/settings). Please note member service-related communications are an integral part of the Toolbox.com service to which you subscribe and you will continue to receive these emails as part of the Toolbox.com service.
 
-**Cookies**
+_Stop Sharing of Lists.   _Many customers appreciate the offerings they receive from the third party providers of goods and services to whom we provide lists of our customers, but here is what to do if you no longer wish for us to share this information with such providers:
 
-As you probably know, cookies are small pieces of information that many Web sites store on your computer's hard drive when you visit them. They don't tell us who you are unless you've specifically given us personally identifiable information. Cookies stored on your hard drive by a Ziff Davis site are not accessible to other sites.
+If you are a registered user of our sites, you can change your preferences via the following profile page links: [ExtremeTech](http://www.extremetech.com/sign_up/0,1213,,00.asp?success_page=%2Fview%5Fprofile%2F0,,,00+en%2DUSS%5F01DBC%2Easp&success_title=View+Member+Profile&failure_page=http%3A%2F%2Fziffdavis%2Ecom%2Fabout%2Fprivacy); [PCMag.com and the PCMag.com Utility Library](http://www.pcmag.com/join/0,2949,,00.asp?success_page=%2Fview%5Fprofile%2F0,,,00+en%2DUSS%5F01DBC%2Easp&success_title=View+Member+Profile&failure_page=http%3A%2F%2Fziffdavis%2Ecom%2Fabout%2Fprivacy); [LogicBuy.com ](http://www.logicbuy.com/viewprofile.aspx) and [Smart Device Central](http://www.smartdevicecentral.com/pages/sign_in.aspx?ReturnUrl=%2fmembers%2fview_profile.aspx%3fpagetype%3dview_profile&pagetype=view_profile); one of the [Ziff Davis B2B Focus sites; ](http://www.focus.com/about/email-policy/)and for a [Toolbox.com site](http://it.toolbox.com/home/settings), or send an email to [ZDinfo2012@ziffdavis.com](mailto:ZDinfo2012@ziffdavis.com). If you provided your contact information to PCMag.com in order to download a white paper, case study or other document provided by a Ziff Davis advertiser or to enter a PCMag.com contest sponsored by a Ziff Davis advertiser, please send an email with your preference request changes to: [ZDinfo2012@ziffdavis.com](mailto:ZDinfo2012@ziffdavis.com).
 
-Like many other web sites, Ziff Davis sites use cookies to improve your experience with our online content. For example, we may use a cookie to identify members so they don't have to re-enter a user ID and password when they wish to download a utility or post to a discussion. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf. However, our cookies do not contain any information that is, in itself, personally identifying. For more information and to opt-out of cookies we use to track how you interact with our sites, please [click here](http://www.omniture.com/privacy/2o7#optout). 
+Please allow up to ten business days for any changes to be implemented throughout our systems.
 
-Some of our advertisers and content providers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers and content providers. You need not have cookies turned on to visit our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of a Ziff Davis web site, you must have cookies enabled to access any member related pages (i.e., Discussion Boards, Member Profile pages, Search for a Member).
+**Other Useful Information Regarding Your Privacy**
 
-Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.
+_Change of Ownership of Ziff Davis._ **** Some or all personal information maintained by Ziff Davis may be subject to transfer to another company in the event of a change of ownership of Ziff Davis or sale of any part of Ziff Davis.
 
-**Pixel Tags**
+_Security_. We believe we use reasonable precautions to keep the personal information you disclose to our websites secure and to only release this information to third parties that share our commitment to privacy. However, we cannot guarantee there will not be a breach and we are not responsible for any breach of security or for the actions of any third parties.
 
-Like many web sites, Ziff Davis may also use pixel tags, also known as clear gifs, beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
+_Children._ **** Ziff Davis web sites are not intended for use by children, especially those under 13. No one under age 13 should provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases on our sites. If, notwithstanding these prohibitions, your children disclose information about themselves in our public discussion areas, consequences may occur that are not intended for children (e.g., they may receive unsolicited messages from other parties).
 
-**Online Ad Serving**
+_Links to Other Sites._ Ziff Davis web site may contain links to other sites whose information practices may be different from ours.  We do not have control over the information that is submitted to, or collected by, these third parties.  You should consult the privacy policy of these other sites to learn how your privacy is protected.
 
-Ziff Davis uses Doubleclick, Advertising.com and other third-party advertising service companies to serve advertisements when you visit our sites. These companies may use information (not including your name, address, e-mail address, telephone number, or any other personally identifiable information you've provided us) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. For this purpose, these companies may monitor our sites using cookies and pixel tags for the purpose of reporting web site traffic, statistics, advertisement data and/or other activities on our sites. The information collected through the use of these pixel tags is not personally identifiable. For more information about Doubleclick's information collection practices, and to know your choices about not having this information used by DoubleClick, click [here](http://www.doubleclick.net/us/corporate/privacy). And for more information about Advertising.com's information collection practices, click [here](http://www.advertising.com/abt_privacy.php).
+_Compliance with Law and Other Terms._ **** Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our [**Terms of Use**](http://www.ziffdavis.com/about/terms) or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
 
-Several companies provide email deployment services for our email messages. The personally identifiable information (such as e-mail addresses) that we provide to these vendors for the purposes of e-mail deployment is used by them only for that purpose and not for any other business activity. These vendors may also create their own cookies on your computer, for the purpose of tracking your interaction with the email messages you receive.
+_International._ Ziff Davis operates websites in the United States and, depending on your country of residence, the submission of personally identifiable information to our sites may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
 
-Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, click here.
+**Please visit our**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **page for more information concerning your use of Ziff Davis websites and other services. The**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **are incorporated by reference into this Privacy Policy.**
 
-**PC Magazine PCMagCasts, Online Expos and Learning Centers**
+_Changes to the Privacy Policy_ We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change, we may indicate on our sites that our Privacy Policy has changed. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of our sites shall be deemed your acceptance of the Privacy Policy.
 
-PC Magazine PCMagCasts produce and host sponsored webcasts and online trade shows for a variety of companies (or Sponsors). All data collected during the registration process and the actual event will be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy (except as noted in the following sentence) and may be used by the Sponsor for follow-up purposes. Ziff Davis will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis uses the data. For details on how PCMagCast Sponsors use the information you provide, please contact the Sponsor directly.
+**We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.**
 
-PC Magazine PCMagCasts also automatically receive and record information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and media player (e.g., Real Media, Windows Media) information. This is done in conjunction with our broadcast providers. Your data is collected and retained by the providers for the purposes of delivering PCMagCast content appropriately, traffic reporting, and enabling re-registration for future events. In addition, the providers use cookie technology to identify you as a registered user of the PCMagCast service.
-
-If you have any questions about PCMagCasts, please contact pcmagcast@pcmag.com.
-
-**Ziff Davis Events**
-
-Ziff Davis events, such as DigitalLife®, are produced for a variety of companies (or Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy (except as noted in the following sentence) and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly.
-
-If you have any questions regarding DigitalLife, please contact info@digitallife.com. 
-
-**Contests and Sweepstakes**
-
-Ziff Davis publications and web sites periodically conduct contests and sweepstakes. If you choose to enter, the data you provide will be subject to the official rules of the specific contest, as well as this Privacy Policy. Data collected during the registration for such contests and sweepstakes may be shared with sponsors. Please read the contest rules carefully before you submit your data.
-
-**Co-Branded Sites and Services**
-
-When you use a co-branded service within our network of sites, or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Use of your information by such partners is subject to their applicable privacy policies.
-
-**White Papers and Other Sponsored Downloads**
-
-Ziff Davis hosts sponsored product listings and offers informational downloads for a variety of companies (or Sponsors). When registration is required in order to receive or view the download, all data collected during product registration and/or Ziff Davis Web site registration will be shared with the Sponsor. When shared, this data is governed by the individual Sponsor's privacy policy (except as noted in the following sentence) and may be used by the Sponsor for follow-up purposes. Similarly, Ziff Davis will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Ziff Davis uses the data. For details on how Sponsors use the information you provide, please contact the Sponsor directly.
-
-**Changing Your Privacy Options**
-
-**Update Your Registration Information**
-
-You can correct or change the information collected during site registration at any time at the profile page links shown above by sending email to the addresses shown above. It may take a brief period of time for any corrections or changes to be publicly displayed or implemented throughout our systems.
-
-**Update Your Newsletter Subscriptions**
-
-You can opt-in to newsletter mailing lists, or remove yourself at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 5-10 business days for changes to take effect.
-
-**Update Your Print Subscription Information**
-
-You can correct or change your print subscription information at http://subhelp.ziffdavis.com. Please allow 2-4 weeks for changes to take effect. 
-
-**Security**
-
-We use reasonable precautions to keep the personal information you disclose to our magazines and websites secure and to only release this information to third parties we believe share our commitment to privacy. However, we are not responsible for any breach of security or for the actions of these parties.
-
-**Children**
-
-Ziff Davis web sites are not intended for use by children, especially those under 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites.  
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
-
-**Compliance with Law**
-
-Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our [Terms of Service](http://www.pcmagnetwork.com/about/terms) or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
-
-**Changes to the Ziff Davis Privacy Policy**
-
-This Privacy Policy may be modified from time to time. If there is a significant change, we will indicate on our sites that our Privacy Policy has changed.   
-Questions?
-
-If you have any questions on our Privacy Policy, you can contact us at [site_feedback@pcmag.com](mailto:site_feedback@pcmag.com).
-
-[ ](/print_it.php?title=Privacy Policy)
+**Questions?** If you have any questions on our Privacy Policy, you can contact us at [HR@ziffdavis.com](mailto:HR@ziffdavis.com); be sure to include _Ziff Davis Privacy Policy Question_  in the subject line.
