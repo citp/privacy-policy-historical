@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502054026id_/http%3A//java.dzone.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javalobby.org privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201000715id_/http%3A//java.dzone.com/page/privacy) for the most accurate reproduction.*
 
 # DZone Privacy Policy | Javalobby
 
@@ -45,5 +45,3 @@ We use reasonable precautions to protect the personal information you disclose f
 ### Accessing and Updating your Information
 
 The instructions to change your information may be found in the 'Edit Account' area of your user profile. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [feedback@dzone.com](mailto:feedback@dzone.com).
-
-_(Note: Opinions expressed in this article and its replies are the opinions of their respective authors and not those of DZone, Inc.)_
