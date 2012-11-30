@@ -1,26 +1,31 @@
-> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602070851id_/http%3A//www.jiwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiwire.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130145846id_/http%3A//www.jiwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JiWire
 
 [](https://privacy.truste.com/privacy-seal/JiWire,-Inc-/validation?rid=93133448-aaff-47bd-ad5f-445ccd76d33b "TRUSTe online privacy certification")
 
-### JiWire Advertising Privacy Policy
+###  JiWire Advertising Privacy Policy
 
-### JiWire Website Privacy Policy 
+###  JiWire Website Privacy Policy 
 
-#### JiWire Advertising Privacy Policy  
- **Effective Date: 03/30/12**
+####  JiWire Advertising Privacy Policy  
+ **Effective Date: 09/10/12**
 
-**Introduction**  
+**Introduction**
+
 This privacy policy applies to JiWire, Inc.’s (JiWire, we, us, our) advertising solution. This privacy policy describes how JiWire collects and uses the information we obtain from our WiFi network partners as well as our third-party mobile application partners. It also describes the choices available to you regarding our use of your information.
 
 JiWire is a location-based media company that provides an advertising platform and revenue model for public Wi-Fi networks and mobile applications. JiWire partners with these services to bring advertising revenue into their services, so they have additional income to provide great public Wi-Fi access and useful mobile applications for the on-the-go lifestyle.
 
 We work only with public Wi-Fi networks that you have opted in to connect to and with mobile applications that have received your permission before your device transmits any location information.
 
+JiWire has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) including transparency, accountability and choice regarding the collection and use of your information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only the information that is collected by JiWire through their WiFi network partners and third-party mobile application partners.
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@jiwire.com](mailto:privacy@jiwire.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
 _Laptops and mobile device on Wi-Fi_ : Every public Wi-Fi access point in the JiWire network is mapped in our system. When you connect to the hotspots, our servers know the location of the public Wi-Fi access point. In that way, we are able to serve you ads that are relevant to what is currently around you.
 
-_Mobile device_ : If you explicitly agree to share your location when you sign into an app, that information can be shared with JiWire when an ad is shown on your screen. JiWire works only with apps that offer a clear opt-in dialog box when you open the app.
+_Mobile device_ : If you agree to share your location when you sign into an app, that information can be shared with JiWire when an ad is shown on your screen. JiWire works only with apps that offer you the ability to opt-out of having your location data collected. 
 
 JiWire knows you value your privacy and we pledge to protect it and adhere to industry standards for Internet and mobile advertising. We take privacy very seriously and the company does not sell, rent or share any personally identifiable information.
 
@@ -37,10 +42,10 @@ We automatically collect and receive information about visitors such as, but not
 **How We Use and Disclose Information**  
 JiWire uses the collected information to target and display advertisements that may be of interest to you.
 
-We may provide aggregated information to our subsidiaries, third party partners and agents to improve advertisement targeting, make and create offers, provide reporting to advertisers and clients, and to improve our systems and products.
+We may provide the collected information to our subsidiaries, third party partners and agents to improve advertisement targeting, make and create offers, provide reporting to advertisers and clients, and to improve our systems and products.
 
 **Opting Out**  
-If you don't want JiWire to identify your device with a Cookie and Web Beacon, you can opt-out by sending an email to [privacy@jiwire.com](mailto:privacy@jiwire.com). The privacy manager will respond within three business days to remove your device from future tracking.
+If you wish to not have the information we collect used for the purpose of serving you targeted ads while you access the networks of our WiFi partners, you may opt-out by [clicking here](http://preferences-mgr.truste.com/?type=jiwire&pid=jiwire01&aid=jiwire01&cid=jiwire&w=300&h=250).  If you wish to not have the information we collect used for the purpose of serving you targeted ads while you access the third-party applications of our mobile partners, you may opt-out by selecting the  icon within the advertisement and following the instructions.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 If you want to completely turn off location-based services on your iPhone, iPad or Android device, see these helpful instructions at [www.jiwire.com/location-services](http://www.jiwire.com/location-services). By turning off the location-based services, you will lose all the benefits of location-based advertising on your phone.
 
@@ -49,10 +54,10 @@ If you want to completely turn off location-based services on your iPhone, iPad 
 We follow generally accepted standards to protect the information we collect, both during transmission and once we receive it.  No method of transmission, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
 **How long is the data stored?**  
-JiWire retains the data it collects through its advertising solution for a period of up to 5 years.
+JiWire retains the data it collects through its advertising solution for a period of up to 2 and a half years.  After this time the data is anonymized, aggregated and then stored for analytical purposes.
 
 **Tracking of children**  
-JiWire doesn't knowingly track the personally identifiable information of people under the age of 13 or knowingly track information from sites directed to people under the age of 13.
+JiWire does not knowingly track the personally identifiable information of people under the age of 13 or knowingly track information from sites directed to people under the age of 13.
 
 **Updates to privacy policy**  
 We may change or update our privacy policy at our discretion. If we make changes to this Privacy Policy, we will notify you by posting a prominent announcement on our Site so that any changes are easy to find. We will obtain your consent before making any material changes to information we collect and the manner in which we use it. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
