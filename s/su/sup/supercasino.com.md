@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531224437id_/http%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercasino.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130034647id_/http%3A//www.supercasino.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SuperCasino.com - Online Casino
+# Privacy Policy - SuperCasino.com
 
-Version 2.2 – 23/02/2012
+Version 2.3 – 16/08/2012
 
 This policy sets out the basis on which your personal data will be collected, held and used by us. SuperCasino is a trading name of NetPlay TV Group Ltd of The Old Presbytery, Alderney, GY9 3TF. References to "SuperCasino" are taken to refer to NetPlay TV Group Ltd. We are regulated by the Alderney Gambling Control Commission and are registered with both the Bailiwick of Guernsey’s Data Protection Office and the Information Commissioner’s Office in the United Kingdom. Should we for any reason elect to change this Privacy Policy the changes will be posted here, so that you are always kept informed of how we collect and use the information, and when we may disclose it to others.
 
@@ -61,7 +61,7 @@ If You post or share information on the Service(s) including without limitation 
 
 ### 6\. GENERAL
 
-On our website we have links to other websites - to point you in the direction of other information or advice. However, you need to be aware that these sites may have different security or privacy policies to us. We cannot be responsible for any information you give to them. Netplay TV Group Ltd is an Alderney based company. Although Alderney is in the Channel Islands it is not part of the European Economic Area - so when you register with us you are accepting that your personal details will be sent out of the EEA. However, the authorities in Alderney make us stick to the same rigorous data protection standards as those in the UK. We in turn ensure that anyone we use to manage your data also sticks to data protection standards similar to those in the UK. This privacy policy forms part of our website Terms and Conditions. These Terms and Conditions shall be governed by and construed in accordance with the laws of Alderney and subject to the jurisdiction of the courts of Alderney.
+On our website we have links to other websites - to point you in the direction of other information or advice. However, you need to be aware that these sites may have different security or privacy policies to us. We cannot be responsible for any information you give to them. Netplay TV Group Ltd is an Alderney based company. Although Alderney is in the Channel Islands it is not part of the European Economic Area - so when you register with us you are accepting that your personal details will be sent out of the EEA. However, the authorities in Alderney make us stick to the same rigorous data protection standards as those in the UK. We in turn ensure that anyone we use to manage your data also sticks to data protection standards similar to those in the UK. This privacy policy forms part of our website Terms and Conditions. These Terms and Conditions shall be governed by and construed in accordance with the laws of Alderney and subject to the jurisdiction of the courts of Alderney. This privacy policy is published in a number of languages for information purposes and ease of access by players. It is only the English version that is the legal basis of the relationship between You and the Company and in case of any discrepancy between a non-English version and the English version of this privacy policy, the English version shall prevail.
 
 Questions about this Privacy Policy can be addressed to:
 
