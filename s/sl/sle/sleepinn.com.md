@@ -1,18 +1,28 @@
-> *The following text is extracted and transformed from the sleepinn.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230173651id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepinn.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130101908id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Choice Hotels Privacy and Security Policy
 
 Choice Hotels International, Inc. and its subsidiaries (“Choice”, “we” or “us”) are committed to providing you with an efficient and customized Internet experience. We are also committed to protecting your privacy and ensuring your Internet experience is secure. That is why we want you to be informed about your privacy choices when you visit our website. This online Privacy and Security Policy describes the information we collect through our websites, how we use that information, and how we protect your personally identifiable information.  
 
-Some countries also require notice about other means of collecting personal information. This policy also sets forth our practices for obtaining personal information from other sources, such as written or verbal communications or information collected at a hotel. This statement covers personal information that is subject to the European Union Data Protection Directive, commonly referred to as the “EU Privacy Directive”. We have chosen to comply with the EU Privacy Directive by joining the US Department of Commerce’s “Safe Harbor” program, which satisfies its obligations under the EU Privacy Directive.  
+Some countries also require notice about other means of collecting personal information. This policy also sets forth our practices for obtaining personal information from other sources, such as written or verbal communications or information collected at a hotel. 
 
-Choice engages in periodic self-assessments to determine our compliance with the Safe Harbor program and this privacy statement.  For any disputes alleging mishandling of personally identifiable information in violation of the Safe Harbor, Choice participates in the BBBOnline Dispute Resolution Program.
+Hotels franchised under Choice’s brand (“Franchised Hotels”) are independently owned and operated. Your personal information collected or maintained directly by the Franchised Hotels is not subject to this policy, unless such information has been shared with us.  If you book a reservation directly with a hotel and that hotel utilizes our proprietary property management system, your personal information related to that reservation will be transmitted to and processed by Choice.  
 
-Your personally identifiable information that we collect is processed in the United States of America. By submitting your personal information to us, you agree to the transfer and processing of your personal information outside the European Economic Area in accordance with the terms of this Policy. 
+By submitting your personal information to us, you agree to the transfer and processing of your personal information outside the European Economic Area in accordance with the terms of this Policy.
 
-Hotels franchised under Choice’s brand (“Franchised Hotels”) are independently owned and operated. Your personal information collected or maintained directly by the Franchised Hotels is not subject to this policy, unless such information has been shared with us.  If you book a reservation directly with a hotel and that hotel utilizes our proprietary property management system, your personal information related to that reservation will be transmitted to and processed by Choice.    
+ **What Is Your Compliance With Safe Harbor?**  
+Choice complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Choice has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/.
 
- **What information do we collect?**  
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Choice commits to resolve complaints about your privacy and our collection or use of your personal information.  For European Union or Swiss citizens with inquiries or complaints regarding this privacy statement, please first contact us at:
+
+Choice Hotels International  
+Attention: Privacy Officer  
+6811 E. Mayo Blvd., Suite 100  
+Phoenix, Arizona 85054
+
+Choice has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Choice, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
+
+**What information do we collect?**  
 We collect information from you that allows us to provide services and content that are customized to your needs. You are anonymous on this site until you provide us with this information, unless you:
 
   * access this site from a link in an e-mail we sent you; or
@@ -73,7 +83,7 @@ If you choose to apply for a Choice Privileges Visa Signature card, you will be 
 
 Although unlikely, in certain instances, Choice may disclose your personally identifiable information when Choice has reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Choice or to others.  Choice may also disclose your personally identifiable information when Choice believes the law requires it.
 
-Special Notification to California Residents:  If you reside in California and have provided Choice your personally identifiable information, you may request a list from us of third parties with whom we shared your personally identifiable information for their own direct marketing purposes during the preceding calendar year. Such requests must be submitted to us at: Privacy@choicehotels.com or Privacy Office, Choice Hotels International, 10750 Columbia Pike, Silver Spring, Maryland 20901 (USA).  This request may be made no more than once per calendar year.
+Special Notification to California Residents:  If you reside in California and have provided Choice your personally identifiable information, you may request a list from us of third parties with whom we shared your personally identifiable information for their own direct marketing purposes during the preceding calendar year. Such requests must be submitted to us at: Privacy@choicehotels.com or Choice Hotels International, Attention: Privacy Officer, 6811 E. Mayo Blvd., Suite 100, Phoenix, Arizona 85054.  This request may be made no more than once per calendar year.
 
  **How do I opt-out of marketing communications or otherwise change my privacy preferences?**  
 We respect the right of each visitor to control how his or her personal information is used. If you do not want us to provide your information to our business partners, or if you do not wish to receive promotional communications from us or our affiliates concerning special offers, discounts, airline bonuses, or contests, select one of the following options to provide us with your privacy preferences:
@@ -82,13 +92,13 @@ We respect the right of each visitor to control how his or her personal informat
 
 \- OR -
 
-If you do not have an online profile and do not wish to create one, [click here](https://secure.choicehotels.com/ires/en-US/html/PrivacyProfile?sid=xm7He.ur2h9g1cH.9) to provide us with your privacy preferences.
+If you do not have an online profile and do not wish to create one, [click here](https://secure.choicehotels.com/ires/en-US/html/PrivacyProfile) to provide us with your privacy preferences.
 
 \- OR -
 
 Use the “Unsubscribe” function in the e-mail you received from us.
 
-You can also e-mail us at Privacy@choicehotels.com or write to Privacy Office, Choice Hotels International, 10750 Columbia Pike, Silver Spring, Maryland 20901 (USA). Please include your name, address, e-mail address and Choice Privileges number (if applicable) and clearly state the nature of your request.
+You can also e-mail us at Privacy@choicehotels.com or write to Choice Hotels International, Attention: Privacy Officer, 6811 E. Mayo Blvd., Suite 100, Phoenix, Arizona 85054. Please include your name, address, e-mail address and Choice Privileges number (if applicable) and clearly state the nature of your request.
 
 Choice makes every reasonable effort to maintain the accuracy of personal information.  If you become aware that information Choice maintains about you is incorrect or if you would like to update your information, please contact us as indicated above.
 
@@ -104,7 +114,7 @@ You can generally set your browser to not accept cookies or to notify you when y
 
 Choice uses pixels or transparent GIF files to help manage its online advertising. These files enable Choice and its advertising partners to recognize unique codes on your web browser, which in turn, enable Choice to learn which advertisements bring users to its websites. The information that Choice collects and shares is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address.
 
-Choice partners with third party ad networks to either display advertising on Choice websites or to manage its advertising on other sites.  Choice’s ad network partners use cookies and web beacons to collect non-personally identifiable information about your activities on Choice’s websites and other sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here:<http://preferences.truste.com/truste/>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+Choice partners with third party ad networks to either display advertising on Choice websites or to manage its advertising on other sites.  Choice’s ad network partners use cookies and web beacons to collect non-personally identifiable information about your activities on Choice’s websites and other sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: <http://preferences.truste.com/truste/>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 **What if I apply for a career at Choice Hotels on Choicehotels.com?**  
 If you apply online for employment at Choice, you may be asked to provide us your name, address, e-mail and resume. Choice will use this information solely with respect to your job search and to determine your qualifications for a career with Choice.
@@ -115,9 +125,9 @@ Choice is only responsible for the privacy and security policy and content on th
  **What about changes to the Privacy and Security Policy?**  
 By using our site you consent to our collection and use of your personal information as described in this policy. Choice reserves the right to modify this privacy and security policy and related business practices at any time by posting updated text on this site. Any changes to this policy become effective upon posting of the revised policy to this site. Use of the site following such changes constitutes your acceptance of the revised policy then in effect.
 
-This policy was last modified on October 18, 2011.  
+This policy was last modified on July 25, 2012.  
  **  
 What if there's a difference between versions of the Privacy and Security Policy?**  
 As a service to our customers, we make this privacy and security policy available in several different languages. In the event of any discrepancies between the various translations of the policy, the English version of the policy is the authoritative one.
 
-Thank you for visiting our site, and for taking the time to read this policy. If you have any questions about this policy, please [e-mail us](mailto:privacy@choicehotels.com) at Privacy@choicehotels.com or write to us at Privacy Office, Choice Hotels International, Inc., 10750 Columbia Pike, Silver Spring, MD 20901.
+Thank you for visiting our site, and for taking the time to read this policy. If you have any questions about this policy, please [e-mail us](mailto:privacy@choicehotels.com) at Privacy@choicehotels.com or write to us at Choice Hotels International, Attention: Privacy Officer, 6811 E. Mayo Blvd., Suite 100, Phoenix, Arizona 85054.
