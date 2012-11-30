@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trustfax.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517010830id_/http%3A//www.trustfax.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustfax.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130190044id_/http%3A//trustfax.com/Privacy.jsp) for the most accurate reproduction.*
 
 # TrustFax
 
 This Privacy Policy is effective on May 1, 2010 for current users, and upon acceptance for new users. 
 
-Data on Call, Inc., (the "Company", "we", "us" or "our") is dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. This privacy policy ("Policy") covers the information practices relating to the TrustFax Website, [www.trustfax.com](https://web.archive.org/index.html) ("Site") and all TrustFax services ("Services") offered now or in the future. For purposes of this policy, "account" is defined as the account through which you access the Services. We do not share information obtained from users through our Site or Services with third parties except as otherwise specifically set forth in this Policy. In this Policy we describe the following: 
+Data on Call, Inc., (the "Company", "we", "us" or "our") is dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. This privacy policy ("Policy") covers the information practices relating to the TrustFax Website, [www.trustfax.com](https://web.archive.org/web/20121130190044id_/http%3A//trustfax.com/index.jsp) ("Site") and all TrustFax services ("Services") offered now or in the future. For purposes of this policy, "account" is defined as the account through which you access the Services. We do not share information obtained from users through our Site or Services with third parties except as otherwise specifically set forth in this Policy. In this Policy we describe the following: 
 
   1. What personally identifiable information the Company collects.
   2. How the Company uses the information and with whom the Company may share users' information.
@@ -17,7 +17,7 @@ Data on Call, Inc., (the "Company", "we", "us" or "our") is dedicated to establi
 
 
 
-## 1\. Information Collection
+##  1\. Information Collection 
 
 The Company collects information from its users at several different points on the Site and through the Services, both directly from users (including through interactions with Customer Service and Sales) and through the use of technologies such as cookies, log files and clear gifs. 
 
@@ -47,9 +47,9 @@ We may store information that we collect through cookies, log files and clear gi
 
 ### G. Children's Privacy
 
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information of a child under the age of 13, we will delete that information from our systems. For tips on protecting children's privacy online, please visit the FTC Website: <http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html>.
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information of a child under the age of 13, we will delete that information from our systems. For tips on protecting children's privacy online, please visit the FTC Website: <http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html>. 
 
-## 2\. Use of Personally Identifiable Information
+##  2\. Use of Personally Identifiable Information 
 
 ### A. Legal, Security and Safety
 
@@ -81,11 +81,11 @@ The Company has a zero tolerance policy for abuse. While we cannot be responsibl
 
 ### H. Third Party Intermediaries; Supplementation of Information
 
-In order for the Company to properly fulfill its obligations, to improve our Services and direct information to users about services that may be of interest to users, we use third parties and we may share users' information with these third parties. For example, the Company verifies the billing address on all credit card transactions and may obtain credit reports for some corporate users. We use an outside credit card processing company to bill users for Services. In addition, we may use third parties to host certain portions of our Site, to fulfill certain requests for information from our users and to comply with legal requirements. In order to personalize a user's experience and provide relevant offers from us or our third party advertisers, we may share users' information with third parties to learn more about users and their preferences. These companies are not to store or use personally identifiable information for any secondary purposes and the information obtained from these third party sources is maintained in a manner consistent with this Privacy Policy.
+In order for the Company to properly fulfill its obligations, to improve our Services and direct information to users about services that may be of interest to users, we use third parties and we may share users' information with these third parties. For example, the Company verifies the billing address on all credit card transactions and may obtain credit reports for some corporate users. We use an outside credit card processing company to bill users for Services. In addition, we may use third parties to host certain portions of our Site, to fulfill certain requests for information from our users and to comply with legal requirements. In order to personalize a user's experience and provide relevant offers from us or our third party advertisers, we may share users' information with third parties to learn more about users and their preferences. These companies are not to store or use personally identifiable information for any secondary purposes and the information obtained from these third party sources is maintained in a manner consistent with this Privacy Policy. 
 
 top
 
-## 3\. User Choices Regarding Collection, Use and Distribution of Personally Identifiable Information.
+##  3\. User Choices Regarding Collection, Use and Distribution of Personally Identifiable Information. 
 
 ### A. Business Transitions
 
@@ -113,11 +113,11 @@ Periodically, we might offer users an opportunity to participate in sweepstakes,
 
 ### G. Special Notification for California Residents
 
-Individual users who reside in California and have provided their personally identifiable information to the Company may request once per calendar year information about Company's disclosures of certain categories of personally identifiable information to third parties for their direct marketing purposes. Such requests should be directed to the Chief Privacy Officer at cpo@j2global.com. Within thirty days of receiving such a request, we will provide a list of categories of personal information shared during the immediately preceding calendar year with other businesses for their direct marketing purposes, and the names and addresses of those third parties. The Company reserves its right to not respond to requests submitted other than to the email address specified in this section.
+Individual users who reside in California and have provided their personally identifiable information to the Company may request once per calendar year information about Company's disclosures of certain categories of personally identifiable information to third parties for their direct marketing purposes. Such requests should be directed to the Chief Privacy Officer at cpo@j2global.com. Within thirty days of receiving such a request, we will provide a list of categories of personal information shared during the immediately preceding calendar year with other businesses for their direct marketing purposes, and the names and addresses of those third parties. The Company reserves its right to not respond to requests submitted other than to the email address specified in this section. 
 
 top
 
-## 4\. Security
+##  4\. Security 
 
 The Company takes every reasonable precaution to protect its users' information. Our registration/order forms ask users to enter their personally identifiable information, that information is protected with encryption software called SSL. Any activities after you log into your account are also encrypted with SSL. 
 
@@ -125,13 +125,13 @@ While we use SSL encryption to protect personally identifiable information onlin
 
 top
 
-## 5\. Changing Your Personally Identifiable Information
+##  5\. Changing Your Personally Identifiable Information 
 
 If a user's personally identifiable information changes (such as phone, credit card, email or postal address), users can change their information by logging into their account on the Site. If users have cancelled their account, they must call Customer Service to change their personally identifiable information. 
 
 top
 
-## 6\. Notification of Changes
+##  6\. Notification of Changes 
 
 If we decide to change our Policy in a non-material way, we will post those changes in this Policy, and other places we deem appropriate, so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
@@ -139,13 +139,13 @@ If, however, we change our Policy in a material way, we will notify users via em
 
 top
 
-## 7\. Safe Harbor
+##  7\. Safe Harbor 
 
 The Company is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Website at http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. 
 
 top
 
-## 8\. Data Retention
+##  8\. Data Retention 
 
 The time period for which we keep information varies according to how we use the information. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we do not retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed. 
 
