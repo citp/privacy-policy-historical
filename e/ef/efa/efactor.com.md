@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201153153id_/http%3A//privacy-policy.truste.com/verified-policy/www.efactor.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130102433id_/http%3A//privacy-policy.truste.com/verified-policy/www.efactor.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.efactor.com
 
 Effective on November 13, 2009 
 
-This privacy statement describes how E.Factor Corp. collects and uses the personal information you provide on our Web site: [www.efactor.com ](https://www.efactor.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how E.Factor Corp. collects and uses the personal information you provide on our Web site: [www.efactor.com ](http://www.efactor.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
