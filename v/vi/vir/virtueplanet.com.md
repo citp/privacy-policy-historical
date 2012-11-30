@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtueplanet.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212130100id_/http%3A//www.virtueplanet.com/virtueplanetpolicies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtueplanet.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130111536id_/http%3A//www.virtueplanet.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VirtuePlanetPolicies
+# Privacy Policy | Policies
 
 The VirtuePlanet Privacy Policy describes how we treat personal information when you use VirtuePlanet's products and services, including information provided when you use VirtuePlanet. In addition, the following describes our privacy practices that are specific to VirtuePlanet. 
 
