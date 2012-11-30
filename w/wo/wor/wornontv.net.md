@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531071224id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130043615id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
 
-# Privacy - Worn on TV - Fashion from TV Shows
+# Privacy - WornOnTV - Fashion from TV Shows
 
 ## Privacy Policy
 
