@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512203623id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130083732id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - that's melbourne
+# Privacy – City of Melbourne What's On
 
 The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs.
 
@@ -18,16 +18,17 @@ Collection and use of personal information
   
 The City of Melbourne will only collect personal information supplied by you to this web site when it is necessary to do so.  The information will be collected and used for purposes including but not limited to the following:
 
-  * where you choose to use an online form to e-mail the last page you visited to a friend;
-  * to provide you with newsletters/updates where you have subscribed to them;
-  * to contact you in relation to any business listings/events you have listed on the site; and
-  * to respond to any general enquiries you have contacted us about.
+  * where you choose to use an online form to e-mail the last page you visited to a friend
+  * to provide you with newsletters/updates where you have subscribed to them
+  * to contact you in relation to any business listings/events you have listed on the site
+  * to respond to any general enquiries you have contacted us about
+  * to promote your business or event on the City of Melbourne's websites or the websites of other tourism organisations (such as Tourism Victoria)
+  * photographs submitted with your business or event listing may also be used in City of Melbourne marketing promotions and materials
 
 
 
 #### Cookies
 
-  
 A Cookie is a block of data that is shared between a web server and a user’s browser. Cookies give the server information about a user’s identify (or, at least, the computer’s ID, or the client’s ID), even if he or she is not the person actually using the computer at the time.
 
   
