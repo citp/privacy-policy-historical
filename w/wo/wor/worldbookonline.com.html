@@ -1,238 +1,443 @@
-<!--The following is the downloaded HTML source of the worldbookonline.com privacy policy that was archived on 2012-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616221844id_/http%3A//www.worldbookonline.com/wb/subscribe/Help%3Fid%3Dprivacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldbookonline.com privacy policy that was archived on 2012-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130231613id_/http%3A//www.worldbook.com/world-book-corporate/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en"><head>
- <title>World Book Online Subscription</title>
- <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
- <link rel="stylesheet" href="/subscribe/styles/styles.css">
-<!-- <SCRIPT language="Javascript" src="/subscribe/scripts/Validate.js" type="text/javascript"></SCRIPT> -->
-</head>
-<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#000000" link="#330099" vlink="#330099" alink="#990033" rightmargin="0">
-<a name="top"></a>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<!-- START NAVBAR -->
- <tbody><tr>
-  <td width="100%" colspan="2">
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<meta name="google-site-verification" content="92_fl4cDl4Ms4G8Az2igezrz6VMSPbEM6MZaPjOMlSQ">
 
-<link href="/wb/styles/subscribe/styles.css" rel="stylesheet" type="text/css">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript">
-<!--
-function chooseNavBar()
-{
-	if( window.name=='helppage')
-	{
-		document.write('<tr><td valign=top width="100%" ><img src="/wb/images/subscribe/logo.jpg" alt=""></td><tr><td bgcolor="#C5EBFF" colspan="4">&nbsp;&nbsp;&nbsp;&nbsp;</td><tr><td bgcolor="#C5EBFF" colspan="4">&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>');
-	}
-	else
-	{
-		document.write('<tr><td valign=top width="100%" ><img src="/wb/images/subscribe/logo.jpg" alt=""></td><tr><td bgcolor="#C5EBFF" colspan="4">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.worldbook.com">World Book Home</a></td></tr>');
-	}
 
-}
-//-->
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="/templates/wb_template/css/reset.css" type="text/css">
+<link rel="stylesheet" href="/templates/wb_template/css/template.css" type="text/css">
+
+<!--[if IE]>
+	<link rel="stylesheet" href="/templates/wb_template/css/ie.css" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" href="/templates/wb_template/css/ie7.css" type="text/css" />
+<![endif]-->
+ 
+<!--[if IE 8]>
+ <link rel="stylesheet" type="text/css" href="/templates/wb_template/css/ie8.css" />
+<![endif]-->
+
+<script type="text/javascript" src="/templates/wb_template/js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="/templates/wb_template/js/jquery.imagetick.js"></script>
+
+<script type="text/javascript">
+var $wbQuery = jQuery.noConflict();
+
+$wbQuery(document).ready(function() {
+	$wbQuery('#menu li:last').addClass('noDivider');
+	$wbQuery('.homeRight').wrap('<div class="homeRight-top" />');
+	$wbQuery('.homeRight').wrap('<div class="homeRight-bot" />');
+	$wbQuery('.rightFooter').wrap('<div class="rightFooter-top" />');
+	$wbQuery('.rightFooter').wrap('<div class="rightFooter-bot" />');
+	$wbQuery('#footer .moduletable-top-footer-menu li a').wrap('<div class="btn-right" />');
+	$wbQuery('#footer .moduletable-top-footer-menu li a').wrap('<div class="btn-left" />');
+	$wbQuery('#secondaryMenu ul li a span').wrap('<span class="btn-left" />');
+	$wbQuery('#secondaryMenu ul li a span.btn-left').wrap('<span class="btn-mid" />');
+	$wbQuery('#homeRight .homeRight a.wrap').wrap('<div class="imgWrap" />');
+	$wbQuery('#secondaryMenu .menu .btn-left').hover(
+		function () { $wbQuery(this).children().addClass('hover'); },
+		function () { $wbQuery(this).children().removeClass('hover');
+	});
+	$wbQuery('#secondaryMenu .menu .btn-right').hover(
+		function () { $wbQuery(this).children().addClass('hover'); },
+		function () { $wbQuery(this).children().removeClass('hover');
+	});
+
+	$wbQuery('.moduletable-top-footer-menu li div').hover(
+		function () { $wbQuery(this).children().addClass('hover'); $wbQuery(this).children().children().addClass('hover'); },
+		function () { $wbQuery(this).children().removeClass('hover'); $wbQuery(this).children().children().removeClass('hover');
+	});
+	$wbQuery('#vmMainPage input:radio').css('height','12px');
+	$wbQuery('#vmMainPage input:checkbox').css('height','12px');
+
+	//fix pagination widths
+	$pagAll = $wbQuery('#pag-all').width();
+	if($pagAll < 5) { $pagAll = 10; }
+	$pagination = $wbQuery('#pag-wrap').width() + $pagAll;
+	$pagResults = $wbQuery('#pag-results').width();
+	$wbQuery('.pagination-results').width($pagination + $pagAll + $pagResults +10);
+	$wbQuery('.k2Pagination').width($wbQuery('.pagination-results').width() + 8);
+
+
+
+//	$wbQuery("input[name='data_01']").imageTick({
+//		tick_image_path: "/templates/wb_template/images/btn-qz-radio-on.png",
+//		no_tick_image_path: "/templates/wb_template/images/btn-qz-radio-off.png",
+//		image_tick_class: "radios"
+//	});
+
+
+	$wbQuery('#ad-home-print').click(function() {
+	 	window.location = $wbQuery(this).find('a').attr('href');
+	 	return false;
+	});
+
+	$wbQuery('#ad-home-digital').click(function() {
+		window.location = $wbQuery(this).find('a').attr('href');
+		return false;
+	});
+
+
+});
 </script>
 
-<table class="topnav" cellspacing="0" cellpadding="0" width="100%" border="0">
 
-<script language="JavaScript">
-<!--
-	chooseNavBar();
-//-->
-</script><tbody><tr><td valign="top" width="100%"><img src="/wb/images/subscribe/logo.jpg" alt=""></td></tr><tr><td bgcolor="#C5EBFF" colspan="4">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.worldbook.com">World Book Home</a></td></tr>
-
-</tbody></table>
-
-
-
-
-
-  </td>
- </tr>
-<!--END NAVBAR-->
-<!-- START CONTENT -->
- <tr>
-  <td colspan="2" width="100%" align="center" valign="middle">
+  <base href="http://www.worldbook.com/world-book-corporate/privacy-policy">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="World Book, privacy policy">
+  <meta name="title" content="Privacy Policy">
+  <meta name="author" content="Barb Bulla">
+  <meta name="description" content="World Book is concerned about privacy on the Web. We have created this Privacy Policy to let you know how World Book collects, uses and safeguards the information that is collected and used on the Site. This Privacy Policy works in conjunction with the Terms and Conditions of Use but does not modify or supercede them.">
   
+  <title>Privacy Policy</title>
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
+  <link rel="stylesheet" href="http://www.worldbook.com/components/com_k2/css/k2.css" type="text/css">
+  <link rel="stylesheet" href="http://www.worldbook.com/templates/wb_template/html/com_k2/default/item.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css">
+  <link rel="stylesheet" href="http://www.worldbook.com/modules/mod_wbchoseaccounttype/assets/css/osx.css" type="text/css">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://www.worldbook.com/components/com_k2/js/k2.js"></script>
+  <script type="text/javascript" src="/plugins/system/rokbox/rokbox.js"></script>
+  <script type="text/javascript" src="/plugins/system/rokbox/themes/light/rokbox-config.js"></script>
+  <script type="text/javascript" src="http://www.worldbook.com/modules/mod_wbchoseaccounttype/assets/js/jquery.simplemodal.js"></script>
+  <script type="text/javascript" src="http://www.worldbook.com/modules/mod_wbchoseaccounttype/assets/js/osx.js"></script>
+  <script type="text/javascript">
 
-<title>WBOL Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="Expires" content="0">
-<script language="JavaScript">
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+var K2RatingURL = 'http://www.worldbook.com/';
+var rokboxPath = '/plugins/system/rokbox/';
+  </script>
+  <meta property="og:email" content="">
+<meta property="og:site_name" content="">
+<meta property="og:description" content=" World Book is concerned about privacy on the Web. We have created this Privacy Policy to let you know how World Book collects, uses and safeguards the information that is collected and used on the Site. This Privacy Policy works in conjunction with the  Terms and Conditions  of Use but does not modify or supercede them.
+ 
+&nbsp;
+User-Supplied Information
+ 
+World Book (WB) will not publish (or authorize the publishing of) your name, payment method information, e-mail or physical address in connection with any information you provide to WB or communications you send to WB without your consent except that: 1) WB may share information with third parties in any aggregated form that does not specifically identify any particular user; 2) WB may provide your payment method information as reasonably required to obtain payment; and 3) WB or third parties may publish information and communications that you send WB.
+You agree that WB may use and share with third parties (such as affiliates, licensors, contractors, or consultants) the data related to this Agreement. You also agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area.
+You agree that the content posted in chat rooms, bulletin boards, and similar forums (Forums) are not endorsed by, and shall not be considered reviewed, screened or approved by, WB or any party on their behalf. However, WB reserves the right for any reason to remove any such content and to restrict or deny, in its sole discretion, any user access to Forums without notice.
+ 
+ 
+&nbsp;
+World Book's Collection of Your Information
+In the course of using the Site, World Book may ask you for your name, e-mail address, postal address, telephone number, fax number and other registration information. World Book also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using, the type of operating system you are using, the domain name of your ISP (Internet service provider), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited.
+ 
+ 
+&nbsp;
+How World Book Uses the Information
+ 
+World Book uses the non-personally identifiable information (Aggregate Data) to improve the design and content of the Site. World Book may use the Aggregate Data to analyze Site usage as well as create products and services to fit your needs. Also, World Book may share this Aggregate Data with World Book's sponsors, advertisers and other third-party vendors. You also agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area. World Book shall own such Aggregate Data and might maintain copies of such as part of its records.
+Except as otherwise indicated, World Book uses the personally identifiable information (Personal Information) you provide: (a) to communicate with you and to assist you with any questions you have about your subscription and the Site; (b) to cooperate with government officials or parties in litigation under process of law, or as otherwise required by law; (c) to protect the security or integrity of the Site; (d) to protect against a threat to safety or destruction of property; and/or (e) to protect against legal liability. In all cases, however, World Book agents, employees and licensors who have access to Personal Information are required to protect this information in a manner that is consistent with this Privacy Policy. World Book will not use the Personal Information, except as set forth herein, without your permission; provided, however, World Book shall own all such Personal Information and maintain copies of such as part of its records and you agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area.
+World Book may use the Personal Information that it collects to offer you other products or services that World Book believes may be of interest to you. Some of World Book's third-party licensors related to your transactions may be supplied with your Personal Information and may use your Personal Information for their own marketing purposes; however, as with World Book personnel, any parties with access to such Personal Information are required to act in a manner consistent with this Privacy Policy. World Book also may make its mailing list available to companies whose products and services might interest you. If you do not wish to receive any such information or to allow World Book the right to use your Personal Information as described in this paragraph, please contact World Book in the manner identified in the Opt-Out section below. The Aggregate Information and Personal Information may be transferred, distributed or sold as part of World Book or its assets.
+ 
+ 
+&nbsp;
+How to Contact World Book to Opt-Out
+ 
+You may choose not to receive such marketing information and/or to allow World Book to use your information to send you information regarding products and services that might be of interest to you by simply notifying World Book directly at http://store.worldbook.com/wb/register? or, if you are a home user of the Site, please go to the My Account tab on the home page to change your Contact Information. Upon receipt and processing of an opt-out request, World Book will, within a commercially reasonable amount of time, remove your information from any future marketing communications.
+ 
+ 
+&nbsp;
+Security; No Liability
+World Book has implemented security measures to help protect against the risk of loss, misuse and alteration of any information under World Book's control. Personal Information provided to World Book is encoded using Secure Socket Layer (SSL) technology, a powerful encryption protocol that protects data as it travels over the Internet, provided your browser supports it. Nevertheless, such security measures may not prevent all loss, misuse or alteration of information on the Site, and World Book and its third-party licensor's are not responsible for any damages or liabilities relating to any such security failures. Furthermore, the Site contains links to other sites. World Book is not responsible for nor can World Book ensure the privacy practices or content of such other sites.
+ 
+ 
+&nbsp;
+Cookies
+Cookies are pieces of data sent from a Web server to a Web browser that enable a Web server to identify users that visit a site hosted by that server. World Book may use Cookies in order to identify you to our Site so that World Book can provide more customized information and services to you. In general, if you choose, you can identify or disable the use of Cookies by reviewing your browser's preferences and options; however, the Site will not function correctly if you disable the cookies.
+ 
+ 
+&nbsp;
+Modification of Privacy Policy
+ 
+World Book may change this Privacy Policy at any time, consistent with the terms set forth in the Terms and Conditions of Use, including by posting the changed or amended Privacy Policy on the Site. Your continued viewing of or use of the Site following the posting of any changes to this Privacy Policy will signify your assent to any such changes or amendments.">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:type" content="website">
+<meta property="og:image" content="">
+<meta property="og:url" content="http://www.worldbook.com/world-book-corporate/privacy-policy">
+<meta property="fb:app_id" content="">
+  <link type="text/css" href="http://www.worldbook.com/modules/mod_swmenupro/styles/menu166.css" rel="stylesheet">
+  <script type="text/javascript" src="http://www.worldbook.com/modules/mod_swmenupro/DropDownMenuX_Packed.js"></script>
+
+<!-- Arc: added fb ID to fix error message on product fb like button -->
+<meta property="fb:app_id" content="249861031720897">
+<meta property="fb:admins" content="603483211">
+
+</head>
+<body class="productPage">
+	<div id="master">
+	<div id="header">
+		<div id="topMenu">		<div class="moduletable">
+					
+       
+
+		<div id="osx-modal-content">
+
+<form method="POST" action="index.php">
+    <input type="hidden" name="option" value="com_wbredirectuser">
+    <input type="hidden" name="task" value="go">
+			<!--<h2>Welcome to Worldbook.com</h2>-->
+			<!--<div class="close"><a href="#" class="wb-choose-close">x</a></div>-->
+			<div id="osx-modal-data">
+                            <br><br><br>
+                            <p><span class="wb_select_useraccount_heading">Welcome! Please select your site:</span></p>
+                            <p>
+<span class="wb_select_useraccount_choice"><input type="radio" name="wb_user_account_group" value="schools" checked="checked"> World Book for School &amp; Library</span> <br> <span class="wb_select_useraccount_choice"><input type="radio" name="wb_user_account_group" value="consumer"> World Book for Home &amp; Family</span><input type="hidden" name="3d016f14438bad67992f19ed753f8f2b" value="1">
+<input type="hidden" name="redirect_url" value="L3dvcmxkLWJvb2stY29ycG9yYXRlL3ByaXZhY3ktcG9saWN5">      
+<input type="hidden" name="redirect_menu_id" value="201">                          
+                                
+<br><br><br>
+<input id="submit" type="submit" value="Go!">
+                            </p>
+                        </div>
+                        </form>
+                </div>		</div>
+			<div class="moduletable-logo">
+					<p><a href="/"><img style="border-width: 0px; border-style: none;" alt="logo" src="/images/stories/logo.png" height="86" width="383"></a></p>		</div>
+	</div>
+		<div id="topCart">		<div class="moduletable_cartcheckout">
+					<ul class="menu"><li class="item43"><a href="https://www.worldbook.com/my-cart"><img src="/images/stories/menu_cart.gif" align="left" alt="my-cart"><span>My Cart</span></a></li><li class="item44"><a href="https://www.worldbook.com/checkout"><img src="/images/stories/menu_checkout.gif" align="left" alt="checkout"><span>Checkout</span></a></li></ul>		</div>
+	</div>
+		<div id="menu">		<div class="moduletable-search">
+					<form action="/world-book-corporate/privacy-policy/itemlist/search" method="get">
+<div class="search-search"><input name="searchword" maxlength="200" alt="Go" id="mod_search_searchword" class="inputbox-search" type="text" size="200" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Go" class="button-search" onclick="this.form.searchword.focus();">
+</div>
+                           <!-- To show the menu module -->
+            <input type="hidden" value="176" name="Itemid">
+</form>
+
+		</div>
+			<div class="moduletable-menu">
+					
+<!--SWmenuPro6.5 J1.5 gosumenu by http://www.swmenupro.com-->
+<div align="left">
+<table cellspacing="0" cellpadding="0" id="menu166" class="ddmx166"> 
+<tbody><tr> 
+<td class="item11"> 
+<a href="/home" class="item1">Home</a><div class="section" style="border:0 !important;"></div> 
+</td> 
+<td class="item11"> 
+<a href="/all" class="item1">Browse All Products</a><div class="section" style="border:0 !important;"></div> 
+</td> 
+<td class="item11"> 
+<a href="javascript:void(0);" class="item1">Browse By Type</a><div class="section"><a href="/browse-by-type/encylopedias" class="item2" style="">Encylopedias</a>
+<a href="/browse-by-type/reference" class="item2" style="">Desk Reference Books</a>
+<a href="/browse-by-type/online" class="item2" style="">Online &amp; Digital</a>
+<a href="/browse-by-type/activity" class="item2" style="">Activity Books for Kids</a>
+<a href="/browse-by-type/learntoread" class="item2" style="">Learn to Read</a>
+<a href="/browse-by-type/kids" class="item2" style="">Pre-K to 2nd Grade Books</a>
+<a href="/browse-by-type/highschool-adults" class="item2" style="">High School &amp; Adult Books</a>
+<a href="/browse-by-type/middleschool" class="item2" style="">Middle School Books</a>
+<a href="/browse-by-type/childrens" class="item2" style="">Elementary School Books</a>
+<a href="/browse-by-type/packages" class="item2" style="border-bottom:1px none #0a7dbe;">Packages</a>
+</div></td> 
+<td class="item11"> 
+<a href="javascript:void(0);" class="item1">Browse By Subject</a><div class="section"><a href="/browse-by-subject/animals" class="item2" style="">Animals</a>
+<a href="/browse-by-subject/christmas" class="item2" style="">Christmas</a>
+<a href="/browse-by-subject/geography" class="item2" style="">Geography</a>
+<a href="/browse-by-subject/history" class="item2" style="">History</a>
+<a href="/browse-by-subject/kidsreading" class="item2" style="">Reading</a>
+<a href="/browse-by-subject/science" class="item2" style="border-bottom:1px none #0a7dbe;">Science</a>
+</div></td> 
+<td class="item11"> 
+<a href="/new-products" class="item1">New Products</a><div class="section" style="border:0 !important;"></div> 
+</td> 
+<td class="item11"> 
+<a href="/outlet-store" class="item1">Outlet Store</a><div class="section" style="border:0 !important;"></div> 
+</td> 
+<td class="item11-last"> 
+<a href="/sign-in" class="item1">Sign In</a><div class="section" style="border:0 !important;"></div> 
+</td> 
+</tr> 
+</tbody></table></div> 
+<script type="text/javascript">
 <!--
-function showHelpPage(url)
-{
-var openHelp = window.open(url,'helppage', config='toolbar=no,menubar=no,scrollbars=yes,resizable=yes,status=no');
+function makemenu166(){
+var ddmx166 = new DropDownMenuX('menu166');
+ddmx166.delay.show = 0;
+ddmx166.iframename = 'ddmx166';
+ddmx166.delay.hide = 50;
+ddmx166.position.levelX.left = -1;
+ddmx166.position.levelX.top = 0;
+ddmx166.position.level1.left = 0;
+ddmx166.position.level1.top = -1; 
+ddmx166.fixIeSelectBoxBug = false;
+ddmx166.activesub='' ;
+ddmx166.init(); 
 }
-//-->
+if ( typeof window.addEventListener != "undefined" )
+window.addEventListener( "load", makemenu166, false );
+else if ( typeof window.attachEvent != "undefined" ) { 
+window.attachEvent( "onload", makemenu166 );
+}
+else {
+if ( window.onload != null ) {
+var oldOnload = window.onload;
+window.onload = function ( e ) { 
+oldOnload( e ); 
+makemenu166() 
+} 
+}  
+else  { 
+window.onload = makemenu166();
+} }
+--> 
+</script>  
+
+<!--End SWmenuPro menu module-->
+		</div>
+	</div>
+	</div>
+		<div id="content-bot">
+		<div id="content">
+			<div id="content-inner">
+				
+				
+				
+
+<script type="text/javascript" src="/templates/wb_template/js/jquery.carousel.min.js"></script>
+
+        <div id="k2Container">
+            <div id="item-left-top">
+                <div id="item-left-bottom">
+                    <div id="item-left">
+
+                        <div id="product-desc-wrap">
+                            <div id="product-desc">
+                                <h2 class="itemTitle">Privacy Policy </h2>
+                                <div class="itemIntroText">
+                                    <p align="JUSTIFY">World Book is concerned about privacy on the Web. We have created this Privacy Policy to let you know how World Book collects, uses and safeguards the information that is collected and used on the Site. This Privacy Policy works in conjunction with the  <a href="/world-book-corporate/terms-a-conditions">Terms and Conditions </a> of Use but does not modify or supercede them.</p>
+<p><strong> </strong></p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY"><strong>User-Supplied Information</strong></p>
+<p><strong> </strong></p>
+<p>World Book ("WB") will not publish (or authorize the publishing of) your name, payment method information, e-mail or physical address in connection with any information you provide to WB or communications you send to WB without your consent except that: 1) WB may share information with third parties in any aggregated form that does not specifically identify any particular user; 2) WB may provide your payment method information as reasonably required to obtain payment; and 3) WB or third parties may publish information and communications that you send WB.</p>
+<p>You agree that WB may use and share with third parties (such as affiliates, licensors, contractors, or consultants) the data related to this Agreement. You also agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area.</p>
+<p align="JUSTIFY">You agree that the content posted in chat rooms, bulletin boards, and similar forums ("Forums") are not endorsed by, and shall not be considered reviewed, screened or approved by, WB or any party on their behalf. However, WB reserves the right for any reason to remove any such content and to restrict or deny, in its sole discretion, any user access to Forums without notice.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY"><strong>World Book's Collection of Your Information</strong></p>
+<p align="JUSTIFY">In the course of using the Site, World Book may ask you for your name, e-mail address, postal address, telephone number, fax number and other registration information. World Book also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using, the type of operating system you are using, the domain name of your ISP (Internet service provider), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY"><strong>How World Book Uses the Information</strong></p>
+<p><strong> </strong></p>
+<p>World Book uses the non-personally identifiable information ("<strong><em>Aggregate Data</em></strong>") to improve the design and content of the Site. World Book may use the Aggregate Data to analyze Site usage as well as create products and services to fit your needs. Also, World Book may share this Aggregate Data with World Book's sponsors, advertisers and other third-party vendors. You also agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area. World Book shall own such Aggregate Data and might maintain copies of such as part of its records.</p>
+<p align="JUSTIFY">Except as otherwise indicated, World Book uses the personally identifiable information ("<strong><em>Personal Information</em></strong>") you provide: (a) to communicate with you and to assist you with any questions you have about your subscription and the Site; (b) to cooperate with government officials or parties in litigation under process of law, or as otherwise required by law; (c) to protect the security or integrity of the Site; (d) to protect against a threat to safety or destruction of property; and/or (e) to protect against legal liability. In all cases, however, World Book agents, employees and licensors who have access to Personal Information are required to protect this information in a manner that is consistent with this Privacy Policy. World Book will not use the Personal Information, except as set forth herein, without your permission; provided, however, World Book shall own all such Personal Information and maintain copies of such as part of its records and you agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area.</p>
+<p align="JUSTIFY">World Book may use the Personal Information that it collects to offer you other products or services that World Book believes may be of interest to you. Some of World Book's third-party licensors related to your transactions may be supplied with your Personal Information and may use your Personal Information for their own marketing purposes; however, as with World Book personnel, any parties with access to such Personal Information are required to act in a manner consistent with this Privacy Policy. World Book also may make its mailing list available to companies whose products and services might interest you. If you do not wish to receive any such information or to allow World Book the right to use your Personal Information as described in this paragraph, please contact World Book in the manner identified in the "<strong>Opt-Out</strong>" section below. The Aggregate Information and Personal Information may be transferred, distributed or sold as part of World Book or its assets.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY"><strong>How to Contact World Book to Opt-Out</strong></p>
+<p><strong> </strong></p>
+<p>You may choose not to receive such marketing information and/or to allow World Book to use your information to send you information regarding products and services that might be of interest to you by simply notifying World Book directly at http://store.worldbook.com/wb/register? or, if you are a home user of the Site, please go to the "My Account" tab on the home page to change your Contact Information. Upon receipt and processing of an "opt-out" request, World Book will, within a commercially reasonable amount of time, remove your information from any future marketing communications.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY"><strong>Security; No Liability</strong></p>
+<p align="JUSTIFY">World Book has implemented security measures to help protect against the risk of loss, misuse and alteration of any information under World Book's control. Personal Information provided to World Book is encoded using Secure Socket Layer (SSL) technology, a powerful encryption protocol that protects data as it travels over the Internet, provided your browser supports it. Nevertheless, such security measures may not prevent all loss, misuse or alteration of information on the Site, and World Book and its third-party licensor's are not responsible for any damages or liabilities relating to any such security failures. Furthermore, the Site contains links to other sites. World Book is not responsible for nor can World Book ensure the privacy practices or content of such other sites.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY"><strong>Cookies</strong></p>
+<p align="JUSTIFY">"Cookies" are pieces of data sent from a Web server to a Web browser that enable a Web server to identify users that visit a site hosted by that server. World Book may use Cookies in order to identify you to our Site so that World Book can provide more customized information and services to you. In general, if you choose, you can identify or disable the use of Cookies by reviewing your browser's preferences and options; however, the Site will not function correctly if you disable the cookies.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY"><strong>Modification of Privacy Policy</strong></p>
+<p><strong> </strong></p>
+<p>World Book may change this Privacy Policy at any time, consistent with the terms set forth in the Terms and Conditions of Use, including by posting the changed or amended Privacy Policy on the Site. Your continued viewing of or use of the Site following the posting of any changes to this Privacy Policy will signify your assent to any such changes or amendments.</p>
+                                </div>
+                            </div>
+                        </div> <!-- End product-desc-wrap -->
+                        <div class="clr"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="clr"></div>
+        </div>
+        
+<!-- JoomlaWorks "K2" (v2.4.1) | Learn more about K2 at http://getk2.org -->
+
+
+				
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer-wrap">
+	<div id="footer">
+				<div class="moduletable">
+					
+<img src="http://ad.retargeter.com/seg?add=461276&amp;t=2" width="1" height="1">		</div>
+			<div class="moduletable">
+						
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2457371-1");
+pageTracker._initData();
+pageTracker._trackPageview("");
 </script>
+		</div>
+			<div class="moduletable-top-footer-menu">
+					<ul class="menu"><li class="item134"><a href="http://www.worldbookonline.com/training/welcome_email/welcome_downloadables.html"><span>Promote Your World Book Web Subscription</span></a></li><li class="item135"><a href="http://www.worldbookonline.com/training/"><span>Training Site</span></a></li><li class="item136"><a href="/sales-rep-locator"><span>Sales Rep Locator</span></a></li></ul>		</div>
+			<div class="moduletable-footer-menu">
+					<ul class="menu"><li class="parent active item212"><span class="separator"><span>World Book Corporate:</span></span><ul><li class="item197"><a href="/world-book-corporate/about-world-book"><span>About World Book</span></a></li><li class="item199"><a href="/world-book-corporate/career-opportunities"><span>Career Opportunities</span></a></li><li id="current" class="active item201"><a href="/world-book-corporate/privacy-policy"><span>Privacy Policy</span></a></li><li class="item202"><a href="/world-book-corporate/safe-shopping-guarantee"><span>Safe Shopping Guarantee</span></a></li><li class="item200"><a href="/world-book-corporate/terms-a-conditions"><span>Terms &amp; Conditions</span></a></li><li class="item198"><a href="/world-book-corporate/world-book-news"><span>World Book News</span></a></li></ul></li><li class="parent item213"><span class="separator"><span>Websites:</span></span><ul><li class="item204"><a href="/component/wbredirectuser/go/consumer"><span>Home &amp; Family</span></a></li><li class="item206"><a href="/websites/international"><span>International</span></a></li><li class="item205"><a href="/component/wbredirectuser/go/schools"><span>School &amp; Library Site</span></a></li><li class="item203"><a href="http://www.worldbookonline.com"><span>Sign in to World Book Web</span></a></li><li class="item207"><a href="/websites/specialty-sites"><span>Specialty Sites</span></a></li></ul></li><li class="parent item214"><span class="separator"><span>Help Section:</span></span><ul><li class="item209"><a href="/help-section/contact-us"><span>Contact Us</span></a></li><li class="item208"><a href="/help-section/customer-service"><span>Customer Service</span></a></li><li class="item211"><a href="/help-section/order-tracker" target="_blank"><span>Order Tracker</span></a></li><li class="item210"><a href="/help-section/returns-policy"><span>Returns Policy</span></a></li></ul></li></ul>		</div>
+	
+		<div id="rightFooter">
+					<div class="moduletable rightFooter">
+					<p class="title">Become a World Book Insider:</p>
+<p>Sign up for our Newsletter and get inside info, special offers and more.</p>
+<p class="center"><a target="_blank" href="http://visitor.r20.constantcontact.com/d.jsp?llr=rwh5szaab&amp;p=oi&amp;m=1100370353873">Sign up now.</a></p>
+<p class="title">Join the Conversation:</p>
+<p><a href="/share-your-story"><img src="/images/stories/connect/wb_stories.png" alt="wb_stories" height="12" width="170"></a></p>
+<p>&nbsp;</p>
+<div class="connect" style="margin-bottom: 0; padding-left: 13px;">
+<div><a href="http://www.facebook.com/WorldBook" target="_blank"><img src="/images/social-icons/facebook.png" alt="connect-facebook" style="margin-right: 10px; margin-top: 5px;" height="32" width="32"></a> <a href="http://twitter.com/#!/worldbookinc" target="_blank"><img src="/images/social-icons/twitter.png" alt="connect-twitter" style="margin-right: 10px; margin-top: 5px;" height="32" width="32"></a> <a href="https://plus.google.com/102338484810269931625?prsrc=3" rel="publisher" style="text-decoration: none;"> <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border: 0; width: 32px; height: 32px; margin-right: 10px; margin-top: 5px;"></a> <a href="http://www.youtube.com/user/WorldBookNetwork?blend=12&amp;ob=5" target="_blank"><img src="/images/social-icons/youtube.png" alt="connect-youTube" style="margin-top: 5px;" height="32" width="32"></a>
+<div class="clr"></div>
+</div>
+<div style="padding-left: 18px; margin-top: 7px;"><a href="http://www.linkedin.com/company/48102?trk=tyah" target="_blank"> </a> <a href="http://www.linkedin.com/company/48102?trk=tyah" target="_blank"> </a> <a href="http://www.linkedin.com/company/48102?trk=tyah" target="_blank"><img src="/images/social-icons/linkedin61.png" alt="connect-linkedin" style="margin-right: 10px; margin-top: 5px;" height="34" width="34"></a><!-- Place this tag where you want the su badge to render --> <!-- Place this snippet wherever appropriate --> <a href="http://pinterest.com/worldbook/"><img src="/images/social-icons/pinterest.png" alt="connect-pinterest" style="margin-right: 10px; margin-top: 5px;" height="32" width="32"></a> <a id="stumbleupon_anchor" href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121130231613id_%2Fhttp%253A%2F%2Fwww.worldbook.com%2Fworld-book-corporate%2Fprivacy-policy" target="_blank"><img src="/images/social-icons/stumbleupon.png" alt="Stumbleupon Icon" style="margin-top: 5px;" height="32" width="32"></a>
+<script type="text/javascript">
+// <![CDATA[
+            
 
-
-
-<br>
-<blockquote>
-<p><font face="Verdana, Arial, Helvetica, sans-serif" size="4" color="#000080">
-<b>PRIVACY POLICY</b></font></p>
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">
-  World Book is concerned about privacy on the 
-  Web. We have created this Privacy Policy to let you know how World Book collects, 
-  uses and safeguards the information that is collected and used on the Site. 
-  This Privacy Policy works in conjunction with the <a href="/wb/subscribe/Help?id=terms.html"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#0000ff">Terms and Conditions</font></a>
-of Use but does not modify or supercede them.</font></p>
-<p align="JUSTIFY"></p>
-<b>
-<p align="JUSTIFY"><a name="collection"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">User-Supplied Information</font></a></p><a name="collection">
-</a></b><a name="collection">
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">World Book ("WB") will not publish (or authorize the publishing of) your name, payment method information, e-mail or physical address in connection with any information you provide to WB or communications you send to WB without your consent except that: 1) WB may share information with third parties in any aggregated form that does not specifically identify any particular user; 2) WB may provide your payment method information as reasonably required to obtain payment; and 3) WB or third parties may publish information and communications that you send WB.<br><br>
-You agree that WB may use and share with third parties (such as affiliates, licensors, contractors, or consultants) the data related to this Agreement.  You also agree that such information may be transferred to such entities in any country whether or not a member of the European Economic Area.<br><br>
-You agree that the content posted in chat rooms, bulletin boards, and similar forums ("Forums") are not endorsed by, and shall not be considered reviewed, screened or approved by, WB or any party on their behalf.  However, WB reserves the right for any reason to remove any such content and to restrict or deny, in its sole discretion, any user access to Forums without notice.</font></p>
-<p align="JUSTIFY"></p>
-<b>
-</b></a><b><p align="JUSTIFY"><a name="collection"></a><a name="collection"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">World Book's Collection of Your Information</font></a></p><a name="collection">
-</a></b><a name="collection">
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">In the course of using the Site, World Book 
-  may ask you for your name, e-mail address, postal address, telephone number, 
-  fax number and other registration information. World Book also may collect certain 
-  non-personally identifiable information when you visit many of our Web pages 
-  such as the type of browser you are using, the type of operating system you are using, the domain name of your ISP (Internet service provider), aggregate data about the number of visits to 
-  the Site and/or aggregate data about the pages visited.</font></p>
-<p align="JUSTIFY"></p>
-<b>
-</b></a><b><p align="JUSTIFY"><a name="collection"></a><a name="information"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">How World Book Uses the Information</font></a></p><a name="information">
-</a></b><a name="information">
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">World Book uses the non-personally identifiable 
-  information ("<b><i>Aggregate Data</i></b>") to improve the design and content 
-  of the Site. World Book may use the Aggregate Data to analyze Site usage as 
-  well as create products and services to fit your needs. Also, World Book may 
-  share this Aggregate Data with World Book's sponsors, advertisers and other 
-  third-party vendors. You also agree that such information may be transferred 
-  to such entities in any country whether or not a member of the European Economic 
-  Area. World Book shall own such Aggregate Data and might maintain copies of 
-  such as part of its records.</font></p>
-<p align="JUSTIFY"></p>
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">Except as otherwise indicated, World Book uses 
-  the personally identifiable information ("<b><i>Personal Information</i></b>") 
-  you provide: (a) to communicate with you and to assist you with any questions 
-  you have about your subscription and the Site; (b) to cooperate with government 
-  officials or parties in litigation under process of law, or as otherwise required 
-  by law; (c) to protect the security or integrity of the Site; (d) to protect 
-  against a threat to safety or destruction of property; and/or (e) to protect 
-  against legal liability. In all cases, however, World Book agents, employees 
-  and licensors who have access to Personal Information are required to protect 
-  this information in a manner that is consistent with this Privacy Policy. World 
-  Book will not use the Personal Information, except as set forth herein, without 
-  your permission; provided, however, World Book shall own all such Personal Information 
-  and maintain copies of such as part of its records and you agree that such information 
-  may be transferred to such entities in any country whether or not a member of 
-  the European Economic Area.</font></p>
-<p align="JUSTIFY"></p>
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">World Book may use the Personal Information 
-  that it collects to offer you other products or services that World Book believes 
-  may be of interest to you. Some of World Book's third-party licensors related 
-  to your transactions may be supplied with your Personal Information and may 
-  use your Personal Information for their own marketing purposes; 
-  however, as with World Book personnel, any parties with access to such Personal 
-  Information are required to act in a manner consistent with this Privacy Policy. 
-  World Book also may make its mailing list available to companies whose products 
-  and services might interest you. If you do not wish to receive any such information 
-  or to allow World Book the right to use your Personal Information as described 
-  in this paragraph, please contact World Book in the manner identified in the 
-  "<b>Opt-Out</b>" section below. The Aggregate Information and Personal Information 
-  may be transferred, distributed or sold as part of World Book or its assets.</font></p>
-<p align="JUSTIFY"></p>
-<b>
-</b></a><b><p align="JUSTIFY"><a name="information"></a><a name="contactopt"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">How to Contact World Book to Opt-Out</font></a></p><a name="contactopt">
-</a></b><a name="contactopt">
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">You may choose not to receive such marketing 
-  information and/or to allow World Book to use your information to send you information 
-  regarding products and services that might be of interest to you by simply notifying 
-  World Book directly at http://www.worldbook.com/wb/register? or, if you are 
-  a home user of the Site, please go to the "My Account" tab on the home page 
-  to change your Contact Information. Upon receipt and processing of an "opt-out" 
-  request, World Book will, within a commercially reasonable amount of time, remove 
-  your information from any future marketing communications.</font></p>
-<p align="JUSTIFY"></p>
-<b>
-</b></a><b><p align="JUSTIFY"><a name="contactopt"></a><a name="liability"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">Security; No Liability</font></a></p><a name="liability">
-</a></b><a name="liability"> 
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">World Book has implemented security measures 
-  to help protect against the risk of loss, misuse and alteration of any information 
-  under World Book's control. Personal Information provided to World Book is encoded 
-  using Secure Socket Layer (SSL) technology, a powerful encryption protocol that 
-  protects data as it travels over the Internet, provided your browser supports 
-  it. Nevertheless, such security measures may not prevent all loss, misuse or 
-  alteration of information on the Site, and World Book and its third-party licensor's 
-  are not responsible for any damages or liabilities relating to any such security 
-  failures. Furthermore, the Site contains links to other sites. World Book is 
-  not responsible for nor can World Book ensure the privacy practices or content 
-  of such other sites. </font></p>
-<p align="JUSTIFY"></p>
-<b>
-</b></a><b><p align="JUSTIFY"><a name="liability"></a><a name="cookies"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">Cookies</font></a></p><a name="cookies">
-</a></b><a name="cookies">
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">"Cookies" are pieces of data sent from a Web 
-  server to a Web browser that enable a Web server to identify users that visit 
-  a site hosted by that server. World Book may use Cookies in order to identify 
-  you to our Site so that World Book can provide more customized information and 
-  services to you. In general, if you choose, you can identify or disable the 
-  use of Cookies by reviewing your browser's preferences and options; however, 
-  the Site will not function correctly if you disable the cookies.</font></p>
-<p align="JUSTIFY"></p>
-<b>
-</b></a><b><p align="JUSTIFY"><a name="cookies"></a><a name="privacypolicy"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">Modification of Privacy Policy</font></a></p><a name="privacypolicy">
-</a></b><a name="privacypolicy">
-<p align="JUSTIFY"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000080">World Book may change this Privacy Policy at 
-  any time, consistent with the terms set forth in the Terms and Conditions of 
-  Use, including by posting the changed or amended Privacy Policy on the Site. 
-  Your continued viewing of or use of the Site following the posting of any changes 
-  to this Privacy Policy will signify your assent to any such changes or amendments.</font></p>
-<p align="JUSTIFY"></p>
-<b>
-<br><br>
-</b></a></blockquote><a name="privacypolicy"><b>
-
-
-
-   
-  </b></a></td>
- </tr>
-<!--END CONTENT-->
-<!-- START COPYRIGHT -->
- <tr>
-  <td bgcolor="#ffffff" colspan="2" align="center" valign="top" width="100%">
-   
-
-
-
-
-
-<!-- Changed for WBDP-471 -->
-
-
-
-<!--
-Host Name:sol128
--->
-<table align="left" cellspacing="0" cellpadding="0" border="0" width="475">
-	<tbody><tr>
-		<td align="left" width="34">
-			<img alt="World Book Logo" src="/wb/images/subscribe/footer_logo.gif">
-		</td>
-		<td align="left">
-			<font class="footer">© 2012 World Book, Inc. All rights reserved. <br> &nbsp;WORLD BOOK and the GLOBE DEVICE
-			are registered trademarks of World Book, Inc. 
-			</font>
-		</td>
-	</tr>
-</tbody></table>
-<br>
-
-  </td>
- </tr>
-<!-- END COPYRIGHT -->
-</tbody></table>
-
+            var a = document.getElementById('stumbleupon_anchor');
+            var newhref = encodeURIComponent(document.URL);
+            a.setAttribute('href', 'http://www.stumbleupon.com/submit?url='+ newhref);
+// ]]>
+</script>
+<div class="clr"></div>
+</div>
+</div>		</div>
+	
+		</div>
+		<div id="homeClear"></div>
+		<div id="copyright"></div>
+		<div id="homeClear"></div>
+	</div>
+</div>
 
 
 </body></html>
