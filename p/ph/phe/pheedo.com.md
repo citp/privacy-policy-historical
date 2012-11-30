@@ -1,89 +1,63 @@
-> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330024114id_/http%3A//www.pheedo.com/site/corp_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201004727id_/http%3A//site.pheedo.com/privacy-policy) for the most accurate reproduction.*
 
-# Pheedo :: Privacy
+# — Privacy Policy
 
-## Privacy Policy
+**This Privacy Policy is effective as of November 16, 2009.**
 
-* * *
+Pheedo provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at Pheedo (“Site”) or collected through our content distribution service, including via social networking sites, SMS, WAP and Instant Messaging (“Service”). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
-## What Personal Information About Customers Does Pheedo Collect?
+By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing” means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US.
 
-  * **Information You Give Us:** Pheedo collects personal information when you register with Pheedo to use our products or services or when you enter into promotions or sweepstakes. Pheedo also collects information about your transactions with us. When you register or enter into a transaction we ask for information such as your name, email address, billing address, phone number, credit card information, and certain optional information. You may opt not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future services for you, and communicating with you.
-  * **Automated Information:** We receive and store certain types of information automatically whenever you interact with us. For instance, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses www.pheedo.com. Pheedo automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request. Pheedo receives IP addresses from all users because this information is automatically reported by your browser each time you view a web page.
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Pheedo if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.
-  * **Information from Other Sources:** Pheedo may combine information about you that we have with information we obtain from business partners or other companies.
+If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at privacy at pheedo dot com.
 
+**Information Collection and Use**
 
+Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Site, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.
 
-### What About Cookies?
+Information Collected Upon Registration. If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to Pheedo. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with.
 
-  * Cookies are small text files that your Web browser stores on your computer's hard drive. These text files only contain information you have already given to us and enable our systems to recognize your browser and to provide personalized features within Pheedo's services and products.
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Pheedo's features, and we recommend that you leave them turned on.
+If you contact us by email or through the Site, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
 
+**Use of Contact Information**
 
+In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
-### How Does Pheedo Use The Information It Collects?
+**Log Data**
 
-Pheedo uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, customer contact, notifying you of new services or products, research, and anonymous reporting.
+When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service
 
-### Does Pheedo Share the Information It Receives?
+**Cookies**
 
-Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Pheedo, Inc. controls that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
+Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our service. A cookie is a small data file that we transfer to your computer’s hard disk. We do not use cookies to collect personally identifiable information. Pheedo may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
-  * **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include sending e-mail and postal mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the event that Pheedo, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  * **Subscription to RSS Feeds via Email:** Pheedo provides services that enable users to receive updates of our advertiser and publisher partnersâ€™ RSS feeds via email. In order to provide this service Pheedo collects the email addresses of users. Pheedo may share the email addresses with the advertiser and/or publisher partnersâ€™ on whose behalf we deliver the RSS feed content. 
-  * **Protection of Pheedo and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Pheedo, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+**Information Sharing and Disclosure**
 
+**Service Providers** We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
 
+**Compliance with Laws and Law Enforcement** Pheedo cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Pheedo or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
-### What About Aggregate or Non-Personally Identifiable Information?
+**Business Transfers** Pheedo may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy.
 
-Pheedo aggregates (gathers up data across all user accounts) personal information and may disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing, promotional, or other business purposes. However, in these situations, we do not disclose any information that could be used to identify you personally. _For example, we may disclose to third parties information about how many people used our services in the last week, but we will not disclose who those people are._ Certain information, such as your name, email address, password, credit card number, and bank account number, are not disclosed to these third parties in a personally identifiable manner without your explicit consent.
+**Changing or Deleting Information**
 
-### How Secure Is Information About Me?
+If you are a registered user of the Site, you may access and update or correct the information you provided to us by e-mailing us at privacy at pheedo dot com.
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards to protect personal information about you. 
-  * Your Pheedo Account Information is password-protected. 
-  * In certain areas, Pheedo uses industry-standard SSL-encryption to protect data transmissions. 
+**Security**
 
+Pheedo is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
 
+We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-### Which Information Can I Access?
+**Links to Other Websites**
 
-Pheedo gives you access to a range of information about your account and your interactions with Pheedo for the limited purpose of viewing and, in certain cases, updating that information.
+Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-### What Choices Do I Have?
+**Our Policy Towards Children**
 
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Pheedo features. 
-  * You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records. 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use important Pheedo features if you do not use cookies. 
-  * A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Pheedo if we cannot recognize you, we want you to be aware that these tools exist. 
-  * In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, _[Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.shtm)_. 
-
-
-
-### Children
-
-Pheedo does not provide its services to children under 13 years of age.
-
-### Conditions of Use, Notices, and Revisions
-
-If you choose to visit Pheedo, your visit and any dispute over privacy is subject to this Notice and our Terms of Service including limitations on damages, arbitration of disputes, and application of the law of the state of Oregon. If you have any concern about privacy at Pheedo, please contact us with a thorough description, and we will try to resolve it.
-
-### Changes to this Privacy Policy
-
-  * Our business changes constantly, and our Privacy Notice and the Terms of Use will change also. We may e-mail periodic reminders of our notices and conditions but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. 
-  * We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Pheedo account or by placing a prominent notice on our site. 
-
-
+The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacy at pheedo dot com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
 
 ### Questions and Suggestions
 
-If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20120330024114id_/http%3A//www.pheedo.com/site/corp_contact.php) or you can contact us at:
+If you have questions or suggestions, please [contact us online](http://site.pheedo.com/contact/ "Contact Pheedo") or mail to:
 
-Pheedo Customer Care - Privacy Policy Issues 469 Ninth Street, Suite 210 Oakland, CA 94607
-
-Version 9.9.09
+Pheedo Customer Care – Privacy Policy Issues 492 Ninth Street, Suite 230 Oakland, CA 94607
