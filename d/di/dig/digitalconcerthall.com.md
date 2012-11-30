@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalconcerthall.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002005id_/http%3A//www.digitalconcerthall.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalconcerthall.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130094123id_/http%3A//www.digitalconcerthall.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy - The Berliner Philharmoniker's Digital Concert Hall
 
