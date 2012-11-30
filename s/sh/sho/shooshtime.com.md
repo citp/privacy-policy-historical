@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shooshtime.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040045id_/http%3A//www.shooshtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shooshtime.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130235645id_/http%3A//shooshtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Porn, Amateur Porn, XXX, Free Porno Sex Tube
 
