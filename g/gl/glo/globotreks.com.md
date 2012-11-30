@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604124850id_/http%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130145339id_/http%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
