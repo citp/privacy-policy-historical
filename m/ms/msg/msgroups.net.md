@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the msgroups.net privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602103654id_/http%3A//msgroups.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msgroups.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130230546id_/http%3A//msgroups.net/site%7Eprivacy) for the most accurate reproduction.*
 
 # MSGROUPS.NET Privacy Policy
 
-#####  Privacy Policy
+####  Privacy Policy
 
 MSGROUPS.NET is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
