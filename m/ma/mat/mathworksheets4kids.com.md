@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mathworksheets4kids.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530072313id_/http%3A//www.mathworksheets4kids.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworksheets4kids.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130013452id_/http%3A//www.mathworksheets4kids.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At www.mathworksheets4kids.com, we respect our visitors privacy and it is extremely important to us. If you have any queries regarding our privacy policy, please feel free to contact us at webmistress@mathworksheets4kids.com. This privacy policy outlines what information we collect or receive from our visitors and how it is used.
 
-We use log files to identify our visitors internet protocol (IP) addresses, browser’s type, internet service provider (ISP), demographic information, date and time of visit, length of visit, number of hits and track the visitors movement around the site but we do not collect any information such as name, email id, sex, age and any other personally identifiable.
+We use log files to identify our visitors internet protocol (IP) addresses, browser's type, internet service provider (ISP), demographic information, date and time of visit, length of visit, number of hits and track the visitors movement around the site but we do not collect any information such as name, email id, sex, age and any other personally identifiable.
 
 We also use google analytics to track information about our visitors movements, clicks and other information as we used in log files but not personally identifiable.
 
-Our site privacy policy is different from our blog’s privacy. Please read our blog’s privacy policy. 
+Our site privacy policy is different from our blog's privacy. Please read our blog's privacy policy. 
 
 www.mathworksheets4kids.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
@@ -32,4 +32,4 @@ Visitors can opt-out of some, but not all, of these cookies in one location at N
 
 www.mathworksheets4kids.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We may change our privacy policy at any time without information. It is user’s responsibility to find the latest updates in privacy policy by visiting to our site. 
+We may change our privacy policy at any time without information. It is user's responsibility to find the latest updates in privacy policy by visiting to our site. 
