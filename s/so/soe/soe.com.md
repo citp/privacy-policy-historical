@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623005242id_/http%3A//soe.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soe.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130113429id_/http%3A//www.soe.com/sonyonline/privacy.vm%3Flocale%3Den_US) for the most accurate reproduction.*
 
 # Sony Online Entertainment
 
