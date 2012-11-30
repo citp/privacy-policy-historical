@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scubastore.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617001043id_/http%3A//www.scubastore.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scubastore.com privacy policy that was archived on 2012-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130170311id_/http%3A//www.scubastore.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!-- InstanceBegin template="/Templates/eng_template.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -10,15 +10,152 @@
 <meta http-equiv="Content-Language" content="en">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="/css/generalScubastore.css">
+<link rel="stylesheet" type="text/css" href="/css/generalScubastore.css?9">
+<link href="/css/banderas-sprite.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/suggest_scuba/ajax_search_valid.js"></script> 
+<link rel="stylesheet" type="text/css" href="/css/suggest.css">	
 <!-- InstanceBeginEditable name="head" -->
 <link rel="stylesheet" type="text/css" href="/css/ayudaUno.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="/js/jquery.easing.js"></script>
 <!-- InstanceEndEditable -->
+<script type="text/javascript">
+$(document).ready(function() {
 
-</head>
+		
+	
+	 $("#contactLink_eng").click(function(){
+                    if ($("#contactFormScubastore").is(":hidden")){
+						$("#contactFormScubastore").css("display","block");
+						$("#mail_capt").css("display","block");
+						$("#primerSloganCapt").css("display","block");
+						$("#segundoSloganCapt").css("display","block");
+						$("#primerSloganCaptGracias").css("display","none");
+						$("#segundoSloganCaptGracias").css("display","none");
+						
+                    }
+                    else{
+						$("#contactFormScubastore").css("display","none");
+                    }
+                });
+
+});
+
+$(function() {		
+$(".botonMailOkNew").click(function() {
+	valor = document.getElementById('mailCaptNew').value;
+	if (/\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w)+/.test(valor)) 
+		{
+		if(document.pipicalzaslargas.acponuevo.checked)
+			{
+			var dataString = 'email='+ valor+'&idioma=eng'+'&widget=1';
+			//alert (dataString);return false;
+			
+			$.ajax({
+		    type: "POST",
+			url: "/?action=add_newsletter",
+			data: dataString,
+			success: function() {
+			$("#mail_capt").hide("fast");
+	        $("#primerSloganCapt").hide("slow");
+			$("#segundoSloganCapt").hide("slow");
+			$("#primerSloganCaptGracias").show("slow");
+			$("#segundoSloganCaptGracias").show("slow");
+			setTimeout('$("#contactFormScubastore").hide("fast");', 8000); 
+			}
+			});
+			return false;
+			}
+		else
+			{
+			alert("You need to accept our Terms and Conditions!")
+			return false;
+			}	
+		}
+	else
+	{
+		alert("The email address is not correct!")
+		return false;
+	}
+		
+    return false;
+	});
+});
+
+	function cerrar_banner()
+{
+	document.getElementById('widgetOutlet').style.display='none';
+	document.getElementById('medioOut').style.display='none';
+	  $.ajax({
+        type: "POST",
+        url: "/index.php?action=cerrar_outeltinn",
+        });
+}
+	
+</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
+<div class="box">
+            <div id="contactFormContainer">
+                <div id="contactFormScubastore">
+                
+                <div class="logoTiendaCapt">
+                	<div style="width:180px; float:left;"><img src="/images/restyling/logo_bigScubastore.jpg"></div>
+                    <div style="width:25px; float:right;"><p style="text-align:right;"><a href="#" onclick="javascript:document.getElementById('contactFormScubastore').style.display='none';"><img src="/images/restyling/cap_mail/cerrar.png" style="border:none;"></a></p></div>
+                </div>
+                <div class="primerSloganCapt" id="primerSloganCapt">
+                	<p class="primeraeng" style="width:185px; font-size:15px;">COUNTDOWN DISCOUNTS!</p>
+                    <p class="logoConfianzaeng"> <img src="/images/restyling/cap_mail/logo_trusted.png"></p>
+                    <div style="float:left; width:100%; margin-bottom:10px; margin-top:-10px;">
+						<p class="segundaeng">SAVE UP TO 70% ON OUR EXCLUSIVE DEALS. </p>
+					</div>
+                </div>
+                <div class="segundoSloganCapteng" id="segundoSloganCapt">
+                	<p>SUSCRIBE FOR FREE AND GET ALL OUR EXCLUSIVE OFFERS IN ADVANCE.</p>
+                    <ul>
+                   		 <li>No more overflowing inbox, just one daily email can save you up to 70% off <strong>TOP BRANDS</strong>.</li>
+                         <li>Secure Payment <strong>guaranteed</strong>.</li>
+                         <li>Grab fast: <strong>Limited Deal Quantities</strong> for a <strong>limited duration</strong>.</li>
+                    </ul>
+                </div>
+                <div id="primerSloganCaptGracias">
+					<p class="segundaeng">Thanks for Joining! You're going to love it.</p>
+                </div>
+                <div id="segundoSloganCaptGracias" style="margin-top:25px;">
+                    <p>Now that you have been added to our exclusive email list, <span style="font-weight:bold;">you will be the first to know about sales</span>, trends, exclusive offers and 
+						new arrivals.<br><br>Check your inbox every day to discover our deals with huge discounts on top brands.</p><br>
+                    <div class="cuadradoFaceGra">
+                    <p>You can also visit our <a href="http://www.facebook.com/pages/wwwscubastorecom/50453555659" title="Facebook" style="color:#414042;" target="_blank">Facebook</a> page and <br>click the <a href="http://www.facebook.com/pages/wwwscubastorecom/50453555659" title="Facebook" target="_blank"><img src="/images/restyling/cap_mail/icon_face_eng.png" alt="Facebook" style="martin-top:0px; line-height:12px; vertical-align:middle;"></a></p>
+                    </div>
+                </div>
+                    <form id="captacion" action="/" method="get" name="pipicalzaslargas">
+				  <div id="mail_capt">  
+                         <p><img src="/images/restyling/cap_mail/sobre.png" style="float:left; margin-right:10px;"><input id="mailCaptNew" type="text" value="Your e-mail" onclick="this.value='';"><input id="sendMail" type="button" name="submit" value="" class="botonMailOkNew" style="margin-right:0px;"><input type="hidden" name="idioma" value="eng">
+                            <input type="hidden" name="action" value="add_newsletter"><input type="hidden" name="widget" value="1"></p>
+                        <p class="aceptoeng"><input type="checkbox" name="acponuevo"> I accept your <a href="/?action=terminos&amp;idioma=eng">Privacy Policy</a>.</p>
+                   </div>
+				   </form>
+                   <div class="marcasCapt">
+                   		<img src="/images/restyling/cap_mail/marcas_Scubastore.png">
+                   </div>
+                </div>
+                <div id="contactLink_eng"></div>
+            </div>
+            
+            
+            
+        </div>
+        
+        <div class="widgetOutlet" id="widgetOutlet">
+         		<div class="imagen">
+         				<a href="http://www.outletinn.com/deals"><img src="/images/outletinn/etiquetaOutWidgetNueva_eng.png"></a>
+         			</div>
+         		
+         </div>
+         <div class="medioOut" id="medioOut">
+         			<div class="texto"><p>OUTLETINN, THE WORLD'S TOP SPORTS BRANDS &amp; CASUAL PRODUCTS AT OUTLET PRICES &nbsp;&nbsp;|&nbsp;&nbsp;  <span>UP TO 70% OFF</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="javascript: cerrar_banner();" class="enlaceXwidgOut"><img src="/images/outletinn/closeWidgetDown.png" style="border:none"></a></p></div>
+         			<div class="equis"></div>
+         		</div>
 	<div class="handler">
 		<div class="contentHandler">
 			<div class="content">
@@ -147,9 +284,7 @@
 				<div class="pregunta">
                     	<p><a href="/index.php?action=ayuda_three&amp;idioma=eng#question-fifty-six" title="How do I exchange an item for a like item? (The same item but a different size or color)?" class="preguntaPeA">How do I exchange an item for a like item? (The same item but a different size or color)?</a></p>
                     </div>
-				<div class="pregunta">
-                    	<p><a href="/index.php?action=ayuda_three&amp;idioma=eng#question-fifty-seven" title="How do I get a refund?" class="preguntaPeA">How do I get a refund?</a></p>
-                    </div>
+				 
 				<div class="pregunta">
                     	<p><a href="/index.php?action=ayuda_three&amp;idioma=eng#question-fifty-eight" title="What should I do if I receive the wrong item?" class="preguntaPeA">What should I do if I receive the wrong item?</a></p>
                     </div>
@@ -283,9 +418,10 @@ To find out the purpose and extent of the collection of data, the further proces
         	<div class="top">
             	<div class="left">
                 	<ul>
-                    	<li><img src="/images/restyling/box.png" alt="products">&nbsp;<span>8.787</span> products</li>
-                        <li><img src="/images/restyling/user.png" alt="customers">&nbsp;<span>230.812</span> customers</li>						
+                    	<li><img src="/images/restyling/box.png" alt="products">&nbsp;<span>8.029</span> products</li>
+                        <li><img src="/images/restyling/user.png" alt="customers">&nbsp;<span>305.966</span> customers</li>						
                     </ul>
+                    
                 </div>
                 <div class="right">
                 	<p><a href="/scuba-diving/seguimiento_de_pedidos" title="Order tracking">Order tracking</a> | <a href="/?action=devoluciones&amp;idioma=eng" title="Returns">Returns</a> | <a href="/index.php?action=ayuda&amp;idioma=eng" title="FAQ">FAQ</a> | <a href="/scuba-diving/contacto" title="Contact">Contact</a></p>
@@ -295,10 +431,11 @@ To find out the purpose and extent of the collection of data, the further proces
             	<div class="first">				
                 	<p class="logo"><a href="/scuba-diving" title="scuba-diving"><img src="/images/restyling/logo_bigScubastore.jpg" alt="scuba-diving"></a></p>
                     <p class="slogan">dive shop</p>
+                    
                 </div>
                 <div class="second">
                 	<p class="secondLineOne">We Guarantee</p>
-                    <p class="secondLineTwo"><span>LOWEST WEB PRICES</span></p>
+                    <p class="secondLineTwo"> <span>LOWEST WEB PRICES</span></p>
                     <p class="secondLineThree"><span class="primertxtcontent">Get the best online deals on </span><span class="secondtxtcontent">featured brands</span></p>
                 </div>
                 <div class="third">
@@ -353,18 +490,21 @@ To find out the purpose and extent of the collection of data, the further proces
                     </ul>
                 </div>
                 <div class="buscador">
-					<form name="buscador" method="get" action="/">
-                	<div class="pri"></div>
+					<form name="find" action="/index.php" method="get">
+                	<div class="pri" onclick="document.buscador.submit();"></div>
                     <div class="seg">
-                    	<input type="text" name="paraula" value="">
-						<input type="hidden" name="idioma" value="eng">							
-						<input type="hidden" name="action" value="listado_productos_subfamilia">		
+						<input type="text" name="paraula" onkeyup="waitToSuggest('eng', this);">		
+						<input type="hidden" name="idioma" value="eng">
+						<input type="hidden" name="id_producte_seleccionat" value="">
+						<input type="hidden" name="action" value="listado_productos_subfamilia">								
 						<input type="hidden" name="cadena" id="txtSearch" value="">
-                    </div>
+						<div id="search_suggest" class="" style="background:white;font-size:13px;font-family:Helvetica;"></div>
+					</div>
                     <div class="ter"></div>
 	    			</form>
 	            </div>
 	        </div>
+             
         </div>
 		</div>
 	</div>
@@ -377,68 +517,65 @@ To find out the purpose and extent of the collection of data, the further proces
                     <ul>
 					 
                   	 	 <li>
-                         <p class="comentComent">You guys are AMAZING!! My order arrived in less than 2 days, from Spain to Singapore! I'm impressed!
-Keep it up.
-</p>
-						 <p class="comentName">Fai Yong</p>
+                         <p class="comentComent">Perfect mask, the best i ever had :-) as usely super service Diveinn scubastore </p>
+						 <p class="comentName">Bentk</p>
                          </li>
                   	 	 <li>
-                         <p class="comentComent">Muchas gracias, Ilenia. I appreciate your prompt response and for finding a solution so quickly. I'm looking forward to receiving the Cressi Edy II very soon!
- 
-Best regards,
-
-</p>
-						 <p class="comentName">Franka</p>
+                         <p class="comentComent">Dear Maria,
+Thank you for your prompt reply and for a good news.
+It is pleasure to have a contact with such competent seller ;)
+I definitely will return to scubastore ;)</p>
+						 <p class="comentName">Tomas</p>
                          </li>
                   	 	 <li>
-                         <p class="comentComent">Thank you for exultant service. It is my 4th time to buy from Scubastore and it is nice to ad a name and picture to the e-mail. It is a pleasure to deal with you and I advice all my friends in South Africa to buy from you</p>
-						 <p class="comentName">Dick Jacobs</p>
-                         </li>
-                  	 	 <li>
-                         <p class="comentComent">TITULO:Love it!.   COMENTARIO: Beautiful suit. Looks awesome and fits like a glove. Shipping was really fast. Spain to Australia in 5 days. Overall really pleased with it and \"scubastore.com\".</p>
-						 <p class="comentName">K.j. Montgomery</p>
-                         </li>
-                  	 	 <li>
-                         <p class="comentComent">Today i got my new Galileo Luna from your shop. The deliverytime is unbelievable. One day from you to germany. Your professional paysystem (paypal), the tracking overview, and the contact are simply best! I can only say \"thank you\" and my next item will be ordered at your website! 
-
-Thank you!
-
-Kim</p>
-						 <p class="comentName">Kim</p>
-                         </li>
-                  	 	 <li>
-                         <p class="comentComent">Dear Ilenia,
-
-My second purchase arrived today, just a few days after ordering. Thanks to the Scubastore team for their swift and efficient work. 
-
-I am very happy with the quality and fit of all items.
-
-Thanks for your assistance.
-
-Best regards,
-</p>
-						 <p class="comentName">Bruce Lightfoot</p>
-                         </li>
-                  	 	 <li>
-                         <p class="comentComent">Order lastnight around 8:00PM here in the land of Texas and this morning 10:00AM got a tracking number and the order has been shipped!!!.  Man, you guys are fast. Hat offs to scubastore. Can't wait to try out my cressi competion.  Thanks Scubastore.</p>
-						 <p class="comentName">hnguyen6</p>
+                         <p class="comentComent">Hi Silvia,
+Just wanted to let you know my ski boots arrived safely and they are fantastic!
+I wanted to thank you and the whole Snowinn company for all the wonderful service and help that you have given me in getting these boots to me!
+Thank you and I will definitely order from you again!
+Very gratefully 
+Lisa attwood </p>
+						 <p class="comentName">Lisa</p>
                          </li>
                   	 	 <li>
                          <p class="comentComent">Many thanks Francesco for the prompt reply. As in the past your clarification has been great. I've placed my order.
 Cheers, Ken
 
 </p>
-						 <p class="comentName">Kenneth Boddy</p>
+						 <p class="comentName">Kenneth Boddy </p>
                          </li>
                   	 	 <li>
-                         <p class="comentComent">Hi Ilenia,
-You are always so helpfull. I need to send some thank you to the store to let them know you are always very nice.
-Thank you</p>
-						 <p class="comentName">Customer</p>
+                         <p class="comentComent">Thanks guys! Finally I found the best price for this package online! All computers should come with their interface included!!! I go for it - thanks!</p>
+						 <p class="comentName">DGB</p>
                          </li>
                   	 	 <li>
-                         <p class="comentComent">i got a mail for scubastore 25mai, that my reg was payd and shiped. 26mai i got it in kirkenes. less than 24hr from spain to nort of norway. thank you scubastore, i will order all my things from you here after.</p>
-						 <p class="comentName">Kols</p>
+                         <p class="comentComent">Thanx Maria,
+It's a pleasure to do business with people when they exceed your expectations. I'll be back in the near future for a couple of Apeks reg's, which I know will fit. ;o)</p>
+						 <p class="comentName">Mark</p>
+                         </li>
+                  	 	 <li>
+                         <p class="comentComent">Dear customer service
+THe replacement part was delivered to my place by DHL shortly after I notified you the problem. I am very impressed by your handling of the problem (replacement of defective part and correction of shipment mistake). I feel very safe in recommending you to my friends.
+Best reegards
+
+Patrick Vincent
+ </p>
+						 <p class="comentName">Patrick</p>
+                         </li>
+                  	 	 <li>
+                         <p class="comentComent">Yesterday I recieved the order ? and I am very satisfied ! Everything is as orderd ? just like ecpected ! I normally trust people ? but it is wonderfull that it is possible to do business across Europe !
+Thank you very much for the service you did !
+I will recommend you to all who ask me !
+Best regards
+</p>
+						 <p class="comentName">Med venlig hilsen</p>
+                         </li>
+                  	 	 <li>
+                         <p class="comentComent">Verry pleased with this suit for my spearfishing. My first open cell. Good price, and i had it delivered to my doorstep in middle of Norway 40 hour after ordering :) </p>
+						 <p class="comentName">Norway</p>
+                         </li>
+                  	 	 <li>
+                         <p class="comentComent">Cressi Lontra 3  a very good suit  (semi dry style) i used it in the Sweden winter.Very nice suit, it's really warm and has a snug fit.  Superfast delivery !!!  Great service by Scubastore Team !!!  Thank you! </p>
+						 <p class="comentName">Commodore</p>
                          </li>
                      </ul>
                 </div>
@@ -484,7 +621,7 @@ Thank you</p>
                     	<div class="news">
                         	<p class="titulo_pie_pagina">SIGN UP FOR OUR NEWSLETTER TO RECEIVE SPECIAL OFFERS BEFORE ANYONE ELSE!</p>
                             <p class="mail_news"><input name="newslater" type="text" value="Your e-mail" onclick="this.value='';" id="mail_pie" class="mail">
-							<input type="hidden" name="idioma" value="eng">
+							<input type="hidden" name="idioma" value="eng" id="idioma">
                             <input type="hidden" name="action" value="add_newsletter">
 							<input name="Enviar" value="Send" type="submit" class="boton_news greyBtnStyle"></p>
                             <p class="acepto"><input type="checkbox" name="terminos"> I have read, understand and I accept your <a href="/?action=politica&amp;idioma=eng" title="Privacy Policy">Privacy Policy</a>. </p>
@@ -525,7 +662,7 @@ Thank you</p>
                     <li class="bike"><a href="http://www.bikeinn.com/bike" title="Bike"><img src="/images/restyling/bike.png" alt="bikeinn" class="logoHeaderTop"></a></li>
                     <li class="smash"><a href="http://www.smashinn.com/tennis" title="Tennis"><img src="/images/restyling/smash.png" alt="smashinn" class="logoHeaderTop"></a></li>
                     <li class="wave"><a href="http://www.waveinn.com/nautical-fishing" title="nautical-fishing"><img src="/images/restyling/wave.png" alt="waveinn" class="logoHeaderTop"></a></li>
-                    <li class="moto"><a href="http://www.motoinn.com/motorcycle-equipment" title="motorcycle-equipment"><img src="/images/restyling/moto.png" alt="motoinn" class="logoHeaderTop"></a></li>
+                    <li class="moto"><a href="http://www.motardinn.com/motorcycle-equipment" title="motorcycle-equipment"><img src="/images/restyling/moto.png" alt="motardinn" class="logoHeaderTop"></a></li>
                 </ul>
             </div>
             <div class="right">
@@ -786,10 +923,17 @@ Thank you</p>
         </div>
     </div>
   <script src="/js/jquery.scrolling-parallax.js" type="text/javascript"></script>
-  <script type="text/javascript" src="/js/validar_newslater.js"></script>
+  <script type="text/javascript" src="/js/validar_newslater_eng.js"></script>
   <link rel="stylesheet" href="/js/chosen.css">
   <script src="/js/chosen.jquery.js" type="text/javascript"></script>
   <script type="text/javascript"> $(".chzn-select").chosen(); $(".chzn-select-deselect").chosen();  </script>
+  <script type="text/javascript">
+	  $(function() {
+		  $.scrollingParallax("/images/restyling/bgScubastore1.jpg", {
+			staticScrollLimit : false
+		  });
+	  });
+  </script>
   <script type="text/javascript" language="javascript">
 		function muestra_capa(capa){
 			document.getElementById(capa).style.display = 'block'
@@ -798,13 +942,6 @@ Thank you</p>
 			document.getElementById(capa).style.display = 'none'
 		}
 	</script>
-  <script type="text/javascript">
-	  $(function() {
-		  $.scrollingParallax('/images/restyling/bgScubastore.jpg', {
-			staticScrollLimit : false
-		  });
-	  });
-  </script>
 	
     <link href="/css/themes/carousel/prototype-ui.css" rel="stylesheet" type="text/css">
 <script src="/js/carrousel.js" type="text/javascript"></script>
@@ -814,6 +951,23 @@ Thank you</p>
 	<!-- InstanceEndEditable -->	
 	  
 	  <script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-118849-4']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })(); </script>
+<script type="text/javascript">
+adroll_adv_id = "42PQSF5AVBGVRBFPXHOISZ";
+adroll_pix_id = "DT7QH5FTCZE6BEDJBOCPU3";
+(function () {var oldonload = window.onload;
+window.onload = function(){
+__adroll_loaded=true;
+var scr = document.createElement("script");
+var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+scr.setAttribute('async', 'true');
+scr.type = "text/javascript";
+scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+};
+}());
+</script>
+
 	  
 
 <!-- InstanceEnd --></body></html>
