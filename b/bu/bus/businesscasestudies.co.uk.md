@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesscasestudies.co.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601130535id_/http%3A//businesscasestudies.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscasestudies.co.uk privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130145309id_/http%3A//businesscasestudies.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # The Times 100
 
@@ -26,7 +26,7 @@ If you are aged 16 or under, please get your parent/guardian's permission before
 
 ### The Times 100 is produced by:
 
-Wilson & Wilson Publishing Ltd  
+Business Case Studies LLP  
 Commer House  
 Station Road  
 Tadcaster  
