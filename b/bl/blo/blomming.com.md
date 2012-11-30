@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530094247id_/http%3A//blomming.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blomming.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130010709id_/http%3A//blomming.com/legal/privacy) for the most accurate reproduction.*
 
 # Blomming - Static - Privacy
 
@@ -11,8 +11,8 @@ By accepting the Privacy Policy and the Terms of Service in registration, you ex
 
 Using Blomming’s services you acknowledge and accept that: 
 
-  * Blomming Srl with registered office in Milano (ITALY), Via Santa Croce 4, VAT number IT07199240966, is the treatment referent for your personal data;
-  * Blomming Srl will elaborate your personal data to provide the Services according to the Terms and this Privacy Policy;
+  * Blomming Spa with registered office in Napoli (ITALY), Via Francesco Caracciolo 17, VAT number IT07199240966, is the treatment referent for your personal data;
+  * Blomming Spa will elaborate your personal data to provide the Services according to the Terms and this Privacy Policy;
 
 
 
@@ -108,6 +108,6 @@ If your questions are not answered online, you may write to us at:
 
 
   * E-Mail: info AT blomming.com 
-  * Address: Blomming Srl, Via Santa Croce 4, 20122 Milano (ITALY).
+  * Address: Blomming Spa, Via Francesco Caracciolo 17, 80122 Napoli (ITALY).
 
 
