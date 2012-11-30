@@ -1,0 +1,389 @@
+<!--The following is the downloaded HTML source of the brilliant.org privacy policy that was archived on 2012-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130044039id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-us"><head><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=326254770799145"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <title>Brilliant</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+
+    <link rel="stylesheet" href="http://cdn1.staticbrilliant.org/site_media/version-DnMecnwUFS/build/styles.css" type="text/css" media="all">
+ 
+
+        
+            <!--[if lt IE 6]><script type="text/javascript">var ie_version = -1;</script><![endif]-->
+            <!--[if IE 6]><script type="text/javascript">var ie_version = 6;</script><![endif]-->
+            <!--[if IE 7]><script type="text/javascript">var ie_version = 7;</script><![endif]-->
+            <!--[if IE 8]><script type="text/javascript">var ie_version = 8;</script><![endif]-->
+            <!--[if IE 9]><script type="text/javascript">var ie_version = 9;</script><![endif]-->
+            <!--[if gt IE 9]><script type="text/javascript">var ie_version = 10;</script><![endif]-->
+
+            
+            
+
+    <script type="text/javascript">
+        (function (w, loc) {
+            var u = /cdn\d\.staticbrilliant\.org|781382595\.r\.cdn77\.net/;
+            if(u.test(loc.host)){ w.location=loc.protocol+'//www.brilliant.org'+loc.pathname;}
+        })(window,window.location);
+    </script>
+
+
+
+
+    
+    <script type="text/javascript">
+        var analytics_super_properties = {"debug": false, "account_type": "anonymous", "test_account": false, "identity": "259p8xtn3aox2jbfimkvjd976eep541g"};
+    </script>
+
+    
+    <script type="text/javascript">
+        
+
+
+    <!-- start Mixpanel -->
+
+    (function(c,a){var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=
+    a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1;window.mixpanel=a})(document,window.mixpanel||[]);
+    mixpanel.init("9839e265610a538902f6c10038885c59");
+
+    <!-- end Mixpanel -->
+
+    <!-- Start Google Analytics -->
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-33841253-1']);
+          // _gaq.push(['_setDomainName', 'none']); // uncomment this for localhost testing
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+    <!-- End Google Analytics -->
+
+
+    <!-- Start CrazyEgg -->
+
+        
+        
+        
+        
+            
+        
+
+    <!-- End CrazyEgg -->
+
+
+
+
+var analytics = {
+    track:
+        function (event_name, property_data)
+        {
+            action = property_data['action']; 
+            if (typeof(action) === 'undefined')
+            {
+                action = 'none';
+            }
+            
+
+            
+                try {
+                    mixpanel.track(event_name, property_data);
+                } catch (e) {
+                    if(typeof Raven !== 'undefined') {
+                        var methods = [];
+                        if(typeof mixpanel !== 'undefined' && mixpanel !== null) {
+                            for(method in mixpanel) {
+                                methods.push(method + '(' + (typeof mixpanel[method]) + ')');
+                            }
+                        } else {
+                            methods.push('none -- mixpanel is null or undefined');
+                        }
+                        methods = methods.join(', ');
+                        Raven.process('Mixpanel error: ' + methods, window.location.href, null, null, new Date());
+                    }
+                }
+                _gaq.push(['_trackEvent', event_name, action]);
+            
+        },
+
+    people_set:
+        function (people_set_data)
+        {
+            
+                
+
+                
+                    mixpanel.people.set(people_set_data);
+                
+            
+        },
+
+    people_increment:
+        function (people_increment_data)
+        {
+            
+                
+
+                
+                    mixpanel.people.increment(people_increment_data);
+                
+            
+        },
+
+    set_super_properties:
+        function ()
+        {
+            
+
+            
+                mixpanel.register(analytics_super_properties);
+            
+        },
+
+    identify:
+        function (identity)
+        {
+            
+                
+
+                
+                    mixpanel.identify(identity);
+                
+            
+        }
+    }
+
+analytics.set_super_properties()
+analytics.identify( "259p8xtn3aox2jbfimkvjd976eep541g" )
+
+    </script>
+
+    
+    <script type="text/javascript">
+        
+    </script>
+
+
+
+            
+        </head>
+
+        <body class="no-js body-flatpages footer-noline">
+
+            
+            
+
+            
+
+            
+
+                <div id="header">
+                    <div class="container clearfix">
+                        <div id="logo"><a href="/">Brilliant</a></div>
+                        
+                        <div id="nav">
+                            
+                            
+                                <p class="not-logged-in">
+                                    <span>Challenge your mind and earn rewarding academic opportunities   </span>
+                                    <a href="/account/login/" class="btn">Log in</a>
+                                    <a href="/account/signup/" class="btn signup">Sign up</a>
+                                </p>
+                            
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+
+            
+
+
+            <div id="system-msgs" class="clearfix">
+                <div class="container">
+                
+                
+                
+                </div>
+            </div>
+
+
+            
+
+
+            <div id="wrapper" class="container clearfix">
+
+                
+
+
+                    
+    
+                    <div id="main" class="container">
+                        
+	<div id="flatpage">
+		<div class="color-border">
+	<div class="cb0"></div>
+	<div class="cb1"></div>
+	<div class="cb2"></div>
+	<div class="cb3"></div>
+</div>
+
+
+		
+    
+    
+    
+		
+
+
+<div class="jump-to">
+		<h4>Jump to...</h4>
+		<ul>
+			<li><a href="#pp-one">General</a></li>
+			<li><a href="#pp-two">Information We Collect</a></li>
+			<li><a href="#pp-three">Use of Information Obtained by Brilliant Scholars</a></li>
+			<li><a href="#pp-four">Sharing Your Personally-Identifiable Information with Third Parties</a></li>
+			<li><a href="#pp-five">Links</a></li>
+		</ul>
+	</div>
+
+<div class="flatpage-left">
+	<h1>Privacy Policy</h1>
+
+	<h3 id="pp-one">1. General</h3>
+	
+	<p>By using, accessing or participating in the Service, you agree to the terms of this privacy policy (the “Privacy Policy”). Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms and Conditions, located at <a href="/terms-of-use/">brilliant.org/terms-of-use/</a>. We reserve the right to change our Privacy Policy at any time. If we do this, we will post a notice that we have made changes to this Privacy Policy on the Website for at least 7 days after the changes are posted and will indicate at the bottom of the Privacy Policy the date these terms were last revised. Any revisions to this Privacy Policy will become effective the earlier of (i) the end of the foregoing 7-day period or (ii) the first time you access or use the Service after any such changes. If you do not agree to abide by this Privacy Policy, you are not authorized to use, access or participate in the Service.</p>
+	
+	<h3 id="pp-two">2. Information We Collect</h3>
+	
+	<p>When you use the Service you provide us with two types of information: (i) information you submit via the Service and (ii) information regarding your use of the Service collected by us as you interact with the Service.</p>
+	
+	<p>When you enter the Website, we collect your browser type and IP address. This information is gathered for all Website visitors. In addition, we store certain information from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies to confirm that users are logged in. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Website.</p>
+	
+	<p>Through the registration process you may provide us with your name, email address, hometown, and other information that may be requested during the registration process.</p>
+	
+	<p>When you use the Service you may submit information and content to your profile, generate Activity Data through engaging in educational activities on the Service, or send messages and otherwise transmit information to other users. We store this information so that we can provide you the Service and offer personalized features.</p>
+	
+	<h3 id="pp-three">3. Use of Information Obtained by Brilliant Scholars</h3>
+	
+	<p>We may use your contact information to send you notifications regarding new services offered by Alltuition (the sole owner of Brilliant Scholars) and its partners that we think you may find valuable. Alltuition may also send you service-related announcements from time to time through the general operation of the Service. Generally, you may opt out of such emails, although Alltuition reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
+	
+	<p>Profile information is used by Alltuition primarily to be presented back to and edited by you when you access the Service and to be presented to other users. In some cases, other users may be able to supplement your profile, including by submitting comments.</p>
+	
+	<p>Alltuition may use aggregate or anonymous data collected through the Service, including Activity Data, for any purpose. This data may be used by Alltuition and shared with third parties in any manner.</p>
+	
+	<h3 id="pp-four">4. Sharing Your Personally-Identifiable Information with Third Parties</h3>
+	
+	<p>Alltuition shares your personally-identifiable information only in limited circumstances where Alltuition believes such sharing is reasonably necessary to offer the Service, legally required or, permitted by you. For example:</p>
+	
+	<p>We may provide personally-identifiable information to service providers who help us bring you the Service, such as hosting the Service at a co-location facility or sending email updates. In connection with these operations, our service providers may have access to personally-identifiable information for use for a limited time. Where we utilize service providers for the processing of any of personally-identifiable information, we implement reasonable contractual protections limiting the use of that personally-identifiable information to the provision of services to Alltuition.</p>
+	
+	<p>We may be required to disclose personally-identifiable information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other personally-identifiable information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Service or using the Alltuition name, or to prevent imminent harm. This may include sharing personally-identifiable information with other companies, lawyers, agents or government agencies.</p>
+	
+	<p>If the ownership of all or substantially all of the Alltuition business, or individual business units or assets owned by Alltuition that are related to the Service, were to change, your personally-identifiable information may be transferred to the new owner. In any such transfer of information, your personally-identifiable information would remain subject to this section.</p>
+	
+	<h3 id="pp-five">5. Links</h3>
+	
+	<p>The Service may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave the Service to read the privacy statements of other websites that collect personally identifiable information. This Privacy Policy applies solely to information collected by Alltuition via the Service.</p>
+	
+	<p><em>Last revised on November 20th, 2012</em></p>
+</div>
+
+<div style="clear:both;"></div>
+	
+
+	</div>
+
+                    </div>
+                
+    
+</div>
+
+
+<div id="footer" class="row container">
+     
+    <p>
+    	
+    	<a href="/faq/">FAQ</a>
+        <a href="/prizes/">Points Exchange</a>
+        <a href="/terms-of-use/">Terms of Use</a>
+        <a href="/privacy_policy/">Privacy Policy</a>
+        <a href="mailto:support@brilliant.org" target="_blank">Contact Us</a>
+    
+    	
+    </p>
+    
+</div>
+
+
+
+<div style="display:none;">
+    <form action="#" id="page-needs-refresh"><input type="text" value="0"></form>
+</div>
+
+
+
+    
+    <script type="text/javascript" src="http://cdn2.staticbrilliant.org/site_media/version-5JIGCqzOLT/build/lib.js"></script>
+    <script type="text/javascript" src="http://cdn2.staticbrilliant.org/site_media/version-BOiBk3HIOg/build/brilliant.js"></script>
+ 
+
+    
+    
+    
+
+    
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.async=true;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=326254770799145";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+
+    <script type="text/javascript">
+        VERSIONS = { 
+            account_personalinfo: 1,
+assessment_diagnostic: 1,
+profile_scoresbyweek: 1,
+prizes_prize: 1,
+assessment_statusdots: 1,
+profile_avatar: 1,
+profile_live_challenge_signup: 1,
+profile_clubs: 1,
+profile_cities: 1,
+sidebar: 1,
+profile_profile: 1,
+assessment_pointscounter: 1,
+profile_minibiography: 1,
+profile_accomplishments: 1,
+profile_favoritequote: 1,
+assessment: 1,
+assessment_bonusquestion: 1,
+prizes_mastersession: 1,
+assessment_leaderboard: 1,
+account_selecttimezone: 1,
+prizes_prizes: 1,
+assessment_weekcountdown: 1,
+homepage: 1,
+index_getnotified: 1,
+profile_competitions: 1,
+assessment_topicpage: 1,
+profile_languages: 1,
+profile_interests: 1
+        } ;
+    </script>
+    <!-- site_is_live -->
+    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","c624bf3608",1057579,"NlwEYUBVCkoHWxdQVg8WIEBcVxBQCVZMW0sIVQpcU1oQFwRZEFwXB1UHQUJVA1wVAiVVWBVpB1JXYg1cEQ==",0,46,new Date().getTime(),"","","","",""])</script>
+
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
