@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucbi.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112323id_/http%3A//www.ucbi.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucbi.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130042016id_/http%3A//www.ucbi.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | United Community Bank
 
