@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbtutor.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531103501id_/http%3A//www.vbtutor.net/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbtutor.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130024616id_/http%3A//www.vbtutor.net/index.php/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visual Basic Tutorial and Resource Center
 
