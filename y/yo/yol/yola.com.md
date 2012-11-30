@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yola.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529141502id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yola.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130072233id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Yola
 
@@ -21,6 +21,8 @@ We collect two basic types of information with our service, namely personal info
 ##  Updating/Accessing/Amending Personally Identifiable Information
 
 If your personally identifiable information changes, or if you no longer desire our service, you may update your profile or delete it by clicking on the Profile link after you log in and then clicking the Delete Account link at the bottom of the page. Alternatively, you can email our Customer Support at  [support@yola.com](mailto:support@yola.com).
+
+**Google Apps™ users:** Deleting the Yola app from your Google Apps™ Control Panel DOES NOT delete your Yola account. To delete your Yola account, please follow the instructions provided above. 
 
 ##  Active Collection
 
