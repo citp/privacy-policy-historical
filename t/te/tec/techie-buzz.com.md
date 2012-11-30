@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techie-buzz.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505212942id_/http%3A//techie-buzz.com/privacy-policy%3Futm_source%3Dmenu%26utm_medium%3Dheader%26utm_campaign%3Dmenulinks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techie-buzz.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130230821id_/http%3A//techie-buzz.com/privacy-policy%3Futm_campaign%3Dbottomabout) for the most accurate reproduction.*
 
-# Privacy Policy | Techie Buzz
+# Privacy Policy - Techie Buzz
 
 ### Techie Buzz respects your privacy
 
@@ -22,9 +22,9 @@ A "cookie" is a small data text file that is placed in your browser and allows T
 
 ### Google and DoubleClick DART Cookies
 
-  * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
 
