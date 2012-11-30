@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630132024id_/http%3A//www.c-sharpcorner.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-sharpcorner.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130012806id_/http%3A//www.c-sharpcorner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Mindcracker Network - Privacy Policy
 
-Date: June 30, 2012
+Date: November 29, 2012
 
 Mindcracker Network is a premier network of community websites for Microsoft developers. We recognize our users and members as our biggest asset, strive to provide them a quality service and are committed to respect their personal information and protecting it from any harm.  
 
@@ -32,3 +32,5 @@ A cookie is a piece of text asking permission to be placed on your computer's ha
 #####  Privacy Policy Changes 
 
 This privacy policy is subject to change any time without any prior notification. We will post the updated date in this document whenever we update our privacy policy. Please visit this page back to learn latest about our privacy policy. 
+
+[](http://www.c-sharpcorner.com/AdRedirector.aspx?BannerId=692&target=http://www.infragistics.com/products/windows-forms/?cm_campid=5B748A7F-FD24-E211-8898-000C295BAB59&utm_source=c_sharpcorner_com&utm_medium=Pay_per_Impression&utm_content=Run_of_Site_Right_Banner&utm_campaign=Jquery)
