@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818030511id_/http%3A//privacy-policy.truste.com/verified-policy/www.djcity.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130074854id_/http%3A//privacy-policy.truste.com/verified-policy/www.djcity.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.djcity.com
 
-Effective on March 8, 2010
+Effective on March 8, 2010 
 
-This privacy statement describes how DJCity, Inc. collects and uses the personal information you provide on our Web site: [www.djcity.com](http://www.djcity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how DJCity, Inc. collects and uses the personal information you provide on our Web site: [www.djcity.com ](http://www.djcity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
 DJCity, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact us at [info@djcity.com](mailto:info@djcity.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact us at [info@djcity.com ](mailto:info@djcity.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
@@ -53,7 +53,7 @@ We use this information to
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@djcity.com](mailto:info@djcity.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@djcity.com ](mailto:info@djcity.com).
 
 We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
 
@@ -70,9 +70,9 @@ We may provide your personal information to companies that provide services to h
 We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
   * if DJCity, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so. 
+  * to any other third party with your prior consent to do so.
 
 
 
@@ -98,7 +98,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@djcity.com](mailto:info@djcity.com)
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@djcity.com ](mailto:info@djcity.com)
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
@@ -110,7 +110,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [info@djcity.com](mailto:info@djcity.com).
+To review and update your personal information to ensure it is accurate, contact us at [info@djcity.com ](mailto:info@djcity.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -118,10 +118,10 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-DJCity, Inc.
+DJCity, Inc. 
 
 4041 Sepulveda Blvd 
 
 Culver City, CA, United States 90230
 
-Phone: 310-737-9200
+Phone: 855-435-2489
