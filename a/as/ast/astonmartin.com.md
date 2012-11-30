@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609004549id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130185446id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,11 +95,43 @@ We may link to other websites which are not within our control. Once you have le
 
 ## Cookies
 
-We use cookies on Aston Martin.com 
+We use cookies on www.astonmartin.com. Cookies are files that store information on your hard drive or internet browser which mean that Aston Martin can recognise that you have visited our website before. They make it easier for you to maintain your preferences (if expressed) on www.astonmartin.com, and by seeing how you use our website, we can tailor www.astonmartin.com around your preferences and measure its usability. 
 
-Cookies are files that store information on your hard drive or browser which mean that Aston Martin can recognise that you have visited our website before. They make it easier for you to maintain your preferences (if expressed) on www.astonmartin.com, and by seeing how you use our website, we can tailor www.astonmartin.com around your preferences and measure its usability. 
+You can, should you choose, disable the cookies from your chosen browser(s) and delete all cookies currently stored on your computer.  However please be aware this may prevent you from taking full advantage of the website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting http://www.allaboutcookies.org/manage-cookies/index.html
 
-You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may prevent you from taking full advantage of the website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting <http://www.allaboutcookies.org/manage-cookies/index.html> cookie will be used by us for marketing purposes.
+**Information on the type of Cookies we Use**
+
+The majority of the cookies we use do not collect any data which allow us to personally identify you. If you submit personal information on our website (via forms or purchases) this is clearly marked with the appropriate data protection information and an explanation on how we may use the data you provide to us. If we do place a cookie which does allow us to personally identify you we will seek your permission at the appropriate time.
+
+**Outside of the United States of America we only utilise two types of cookie:**
+
+1) **Analytics Cookies** – These enable us to learn more about how visitors are using our website so we can improve our online experience.  These cookies do not collect any personal data. This is served from our analytics provider and is classed as a ‘third party cookie’. Third party cookies are those that are set by a domain different to the one that you are visiting.
+
+2) **Shopping Basket / Registration Cookies** – When visiting our online store http://store.astonmartin.com if you place a product into your basket or create an account we will create and place a cookie so we can subsequently remember you and allow you to complete your purchase. This is served from our own website and is classed as a ‘first party cookie’. First party cookies are those that are set by the same domain to the one that you are visiting. A similar cookie is stored if you register for our Pre-Owned vehicle locator ([http://used.astonmartin.com](http://used.astonmartin.com/)) or have access to any areas of our site which are password protected.
+
+**Within the United States of America we utilise three types of cookie:**
+
+1) **Analytics Cookies** – These enable us to learn more about how visitors are using our website so we can improve our online experience.  These cookies do not collect any personal data. This is served from our analytics provider and is classed as a ‘third party cookie’. Third party cookies are those that are set by a domain different to the one that you are visiting.
+
+2) **Shopping Basket / Application Cookies** – When visiting our online store http://store.astonmartin.com when you place a product into your basket or create an account we will create and place a cookie so we can subsequently remember you and allow you to complete your purchase. This is served from our own website and is classed as a ‘first party cookie’. First party cookies are those that are set by the same domain to the one that you are visiting.
+
+3) **Behavioural Cookies** – On selected pages we serve cookies from our marketing partner Quantcast (http://www.quantcast.com/) which allow us to tell whether you entered our site from an online advertisement and your subsequent on site behaviour.  These cookies may allow you to have online advertisements outside of Aston Martin made more relevant based on your browsing history.
+
+**It is important to note:**
+
+1) Cookies cannot carry viruses or install malware and do not hamper the performance of your browsing device in any way.
+
+2) By using the Aston Martin website, you are agreeing to our Privacy and Cookie policies and consent to the use of cookies as described on this page. If you do not agree to such use, please see above for details on how to adjust your browser settings.
+
+3) Aston Martin Lagonda Ltd. cannot be held liable for the content or cookies served by sites we may link to.
+
+4) If you interact with Aston Martin on a social network you may have cookies dropped on to your browsing device. We do not control the setting of, and accept no liability in connection with, these cookies – please look at the third-party websites for more information about what they do with cookies and how you can manage them.
+
+**Find out more on cookies:**
+
+[http://www.aboutcookies.org](http://www.aboutcookies.org/)
+
+Or email us for further information: [cookies@astonmartin.com](mailto:cookies@astonmartin.com)
 
 ## Phishing
 
@@ -137,6 +169,3 @@ Due to the global nature of Aston Martin, it may be necessary to send your perso
 We take all reasonable steps to retain personal information only for as long as we need to process your job application. We may also retain your details after a decision has been reached regarding your suitability for current jobs for vacancies that may become available in the future. 
 
 If no longer wish us to store your personal information, please contact us by using the enquiry form on this page <http://site.astonmartin.com/eng/contactus/websitecomments> and we will delete it from our database unless we need to continue to hold some details about you after your relationship with us has ended, for example for legal and regulatory purposes.
-
-  
-
