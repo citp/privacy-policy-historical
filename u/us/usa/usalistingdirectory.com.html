@@ -1,0 +1,262 @@
+<!--The following is the downloaded HTML source of the usalistingdirectory.com privacy policy that was archived on 2012-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130100927id_/http%3A//www.usalistingdirectory.com/usalistingdirectoryprivacypolicyread.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>USA listing Web Directory&nbsp;- usalistingdirectoryprivacypolicyread  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/CloudBay/style/main.css">
+<meta name="keywords" content="USA Directory, Listing submission of websites, promotion,marketing,advertising sites, url submitting directory, American websites, America yellow and white pages directory for web marketing">
+<meta name="description" content="USA Directory, Listing submission of websites, promotion,marketing,advertising sites, url submitting directory, American websites, America yellow and white pages directory for web marketing">
+<meta name="author" content="USA listing Directory">
+<meta name="copyright" content="USA listing Directory">
+<meta name="generator" content="PHP Link Directory 4.0.0">
+<!--  
+<script type="text/javascript" src="/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.usalistingdirectory.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div></div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/CloudBay/images/logo.gif" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get">
+<label class="searchLabel">Search:</label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+<div class="searchBtn">
+<div class="searchBtnLeft"></div>
+<button class="searchBtnCenter" type="submit">GO</button>
+<div class="searchBtnRight"></div>
+</div>
+</form>
+</div>
+</div>
+<div class="hMenuContainer"><div class="center"><div class="hMenu"><a href="/submit.php" title="Submit your link to the directory">Submit Link</a><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a><a href="/contact.php" title="Contact directory owner">Contact</a><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a></div></div></div><div class="path"><a href="/" style="font-weight: bold;">USA listing web Directory</a> <img src="/templates/CloudBay/images/pathArrow.gif" alt=" - "> usalistingdirectoryprivacypolicyread</div><div class="center1"><div class="leftContainer" style="width: 215px;">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		 <ul class="boxPopCats">
+<li>
+<a href="                                            /detail/myceisonline--continuing-education-insurance-school-336485.htm" title="Read more about: Myceisonline - Continuing Education Insurance School">Myceisonline - Continuing E...</a>
+</li>
+<li>
+<a href="                                            /detail/ereplicabay-com-blog-335608.htm" title="Read more about: Ereplicabay.com Blog">Ereplicabay.com Blog</a>
+</li>
+<li>
+<a href="                                            /detail/hennessy-335053.htm" title="Read more about: Hennessy">Hennessy</a>
+</li>
+<li>
+<a href="                                            /detail/deep-links-web-directory-333713.htm" title="Read more about: Deep Links Web Directory">Deep Links Web Directory</a>
+</li>
+<li>
+<a href="                                            /detail/www-electroniccigarettebuy-ca-333595.htm" title="Read more about: www.ElectronicCigaretteBuy.ca">www.ElectronicCigaretteBuy.ca</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>			<br>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><h1>Privacy Policy for www.usalistingdirectory.com/</h1>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us.</p>
+<p>At http://www.usalistingdirectory.com we consider the privacy of our  visitors to be extremely important. This privacy policy document  describes in detail the types of personal information is collected and  recorded by http://www.usalistingdirectory.com and how we use it.</p>
+<p><strong>Log Files</strong><br> Like many other Web sites, http://www.usalistingdirectory.com makes use  of log files. These files merely logs visitors to the site - usually a  standard procedure for hosting companies and a part of hosting  services's analytics. The information inside the log files includes  internet protocol (IP) addresses, browser type, Internet Service  Provider (ISP), date/time stamp, referring/exit pages, and possibly the  number of clicks. This information is used to analyze trends, administer  the site, track user's movement around the site, and gather demographic  information. IP addresses, and other such information are not linked to  any information that is personally identifiable.</p>
+<p><strong>Cookies and Web Beacons</strong><br>http://www.usalistingdirectory.com  uses cookies to store information about visitors' preferences, to  record user-specific information on which pages the site visitor  accesses or visits, and to personalize or customize our web page content  based upon visitors' browser type or other information that the visitor  sends via their browser.</p>
+<p><strong>DoubleClick DART Cookie</strong></p>
+<p>→ Google, as a third party vendor, uses cookies to serve ads on http://www.usalistingdirectory.com.<br> → Google's use of the DART cookie enables it to serve ads to our site's  visitors based upon their visit to http://www.usalistingdirectory.com  and other sites on the Internet. <br> → Users may opt out of the use of the DART cookie by visiting the Google  ad and content network privacy policy</p>
+<p><strong>Our Advertising Partners</strong></p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......</p>
+<ul>
+<li>Google</li>
+<li>Commission Junction</li>
+</ul>
+<p><em>While each of these advertising partners has their own Privacy  Policy for their site.You may consult&nbsp; from advertisers websites to find the privacy policy for each of the  advertising partners of http://www.usalistingdirectory.com.</em></p>
+<p>These third-party ad servers or ad networks use technology in their  respective advertisements and links that appear on  http://www.usalistingdirectory.com and which are sent directly to your  browser. They automatically receive your IP address when this occurs.  Other technologies (such as cookies, JavaScript, or Web Beacons) may  also be used by our site's third-party ad networks to measure the  effectiveness of their advertising campaigns and/or to personalize the  advertising content that you see on the site.</p>
+<p>http://www.usalistingdirectory.com has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p><strong>Third Party Privacy Policies</strong></p>
+<p>You should consult the respective privacy policies of these  third-party ad servers for more detailed information on their practices  as well as for instructions about how to opt-out of certain practices.  http://www.usalistingdirectory.com's privacy policy does not apply to,  and we cannot control the activities of, such other advertisers or web  sites.</p>
+<p>If you wish to disable cookies, you may do so through your  individual browser options. More detailed information about cookie  management with specific web browsers can be found at the browsers'  respective websites.</p>
+<p><strong>Children's Information</strong><br>We  believe it is important to provide added protection for children  online. We encourage parents and guardians to spend time online with  their children to observe, participate in and/or monitor and guide their  online activity. http://www.usalistingdirectory.com does not knowingly collect any  personally identifiable information from children under the age of 13.   If a parent or guardian believes that http://www.usalistingdirectory.com  has in its database the personally-identifiable information of a child  under the age of 13, please contact us immediately (using the contact in  the first paragraph) and we will use our best efforts to promptly  remove such information from our records.</p>
+<p><strong>Online Privacy Policy Only</strong><br> This privacy policy applies only to our online activities and is valid  for visitors to our website and regarding information shared and/or  collected there. This policy does not apply to any information collected offline or via  channels other than this website.</p>
+<p><strong>Consent</strong><br> By using our website, you hereby consent to our privacy policy and agree to its terms.</p>
+<p><strong>Update</strong><br>This Privacy Policy was last updated on: Thursday, September 27th, 2012.<br><em>Should we update, amend or make any changes to our privacy policy, those changes will be posted here.</em></p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div>
+<div class="rightContainer">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Top Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/arts_humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+</li>
+<li>
+<a href="/business_and_economy/" title="Business &amp; Economy">Business &amp; Economy</a>
+</li>
+<li>
+<a href="/computers_and_internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+</li>
+<li>
+<a href="/education/" title="Education">Education</a>
+</li>
+<li>
+<a href="/entertainment/" title="Entertainment">Entertainment</a>
+</li>
+<li>
+<a href="/health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/news_and_media/" title="News &amp; Media">News &amp; Media</a>
+</li>
+<li>
+<a href="/recreation_and_sports/" title="Recreation &amp; Sports">Recreation &amp; Sports</a>
+</li>
+<li>
+<a href="/reference/" title="Reference">Reference</a>
+</li>
+<li>
+<a href="/science_and_technology/" title="Science and Technology">Science and Technology</a>
+</li>
+<li>
+<a href="/shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/blogs/" title="Blogs">Blogs</a>
+</li>
+<li>
+<a href="/society/" title="Society">Society</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</div><div style="clear: both; height: 30px;"></div></div><div class="footer"><a rel="nofollow" href="http://www.usalistingdirectory.com/usalistingdirectoryprivacypolicyread.html">Read Privacy Policy</a></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12867407-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>
