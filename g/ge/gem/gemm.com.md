@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629003930id_/http%3A//www.gemm.com/c/info.cgi%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130144506id_/http%3A//www.gemm.com/c/info.cgi%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # GEMM's Privacy Policy
 
@@ -15,14 +15,15 @@ Because we serve as a link between GEMM buyers and sellers, we need to ask each 
 Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically.
 
   
- **What information do we collect?**
+**What information do we collect?**
 
 When you place an order on GEMM, we need to know your name, e-mail address, mailing and shipping address, credit card number, and expiration date. This information allows us to process and fulfill your order and to notify you of your order status. GEMM may use the information, on occasion, to notify our visitors about updates to our site, and certain programs that become available to our customers. This information is also available to our sellers so that they can process orders on their own behalf. Sellers registered with GEMM have agreed to abide by the terms of GEMM`s privacy policy and will be immediately removed from GEMM should they fail to do so.
 
   
- **Will GEMM disclose the information it collects to outside parties?**
+**Will GEMM disclose the information it collects to outside parties?**
 
-GEMM does not sell, trade, or rent your personal information to others. GEMM may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information. GEMM may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of GEMM, our users, or others.
+GEMM does not sell, trade, or rent your personal information to others. ~~GEMM may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information.~~ Update: GEMM does not allow any third party tracking whatsoever, even though it is accepted as commonplace on almost every other web site. We are commited to putting your privacy first.   
+GEMM may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of GEMM, our users, or others.
 
   
  **What are "cookies" and how do we use them?**
