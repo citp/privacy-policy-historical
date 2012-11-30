@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530043708id_/http%3A//www.explorica.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorica.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130015349id_/http%3A//www.explorica.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Explorica
 
