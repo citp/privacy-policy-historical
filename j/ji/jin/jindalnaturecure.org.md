@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jindalnaturecure.org privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126181445id_/http%3A//www.jindalnaturecure.org/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jindalnaturecure.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130093137id_/http%3A//www.jindalnaturecure.org/privacypolicy.htm) for the most accurate reproduction.*
 
 # Untitled Page
 
