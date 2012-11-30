@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531025633id_/http%3A//www.eurocontrol.int/articles/privacy-policy-ip-address) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocontrol.int privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130050353id_/http%3A//www.eurocontrol.int/articles/privacy-policy-ip-address) for the most accurate reproduction.*
 
 # Privacy Policy / IP address | EUROCONTROL
 
@@ -10,7 +10,7 @@ The following personal information may be collected  in case of registration or
 
   * Name, job title and organisation
   * Contact information including e-mail address
-  * Other information relevant to visitor surveys. 
+  * Other information relevant to visitor surveys.
 
 
 
@@ -27,6 +27,17 @@ EUROCONTROL may collect personal information by which you can be identified for 
 
 
 EUROCONTROL only keeps the data for the time necessary to fulfil the purpose of collection or further processing.
+
+Our website requires the use of some cookies to enable you to browse our website. We use cookies for some of the following reasons:
+
+  * has_js cookie: checks if JavaScript is enabled in your browser
+  * boost-gzip cookie: checks for cache control
+  * ARPTwww cookie: our host information
+
+
+
+At no point do our cookies or those of our third parties store your personal information.  
+It is possible to turn off your cookies through your website browser settings however this will affect the functionality and experience of our site.
 
 EUROCONTROL is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure EUROCONTROL has put in place suitable physical, electronic and managerial procedures to safeguard and secure the information collected online.
 
