@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606152634id_/http%3A//www.experian.com.au/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com.au privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130153839id_/http%3A//www.experian.com.au/legal/privacy.html) for the most accurate reproduction.*
 
 # Experian Australia | Privacy statement
 
@@ -8,13 +8,13 @@
 
 ### About this statement
 
-This privacy policy statement sets out the data processing practices carried out through your use of this web site by Experian Asia Pacific Pty Ltd.("Experian").
+This privacy policy statement sets out the data processing practices carried out through your use of this web site by Experian Australia Pty Ltd.("Experian").
 
 If you have any requests concerning your personal information or any queries with regard to these practices please contact us at [privacy@ap.experian.com](mailto:privacy@ap.experian.com).
 
 #### Links
 
-This privacy policy only covers Experian's web site at [www.experian.com.au](http://www.experian.com.au/). Additional web sites within the Group are governed by their respective privacy statements. We are not responsible for the data policies or procedures or the content of other linked web sites outside of the Group.
+This privacy policy only covers Experian Australia's web site at [www.experian.com.au](http://www.experian.com.au/). Additional web sites within the Group are governed by their respective privacy statements. We are not responsible for the data policies or procedures or the content of other linked web sites outside of the Group.
 
 #### Information collected
 
@@ -28,11 +28,11 @@ We process personal information collected via this web site for the purposes of:
   * Providing you with the services that you have subscribed to or registered for 
   * Dealing with your requests and enquiries. 
   * Carrying out customer and marketing research. 
-  * Providing you with information about products and services offered by Experian 
+  * Providing you with information about products and services offered by Experian Australia 
 
 
 
-We do not sell personal information collected through this site or use your personal information for any other purposes than those stated above.
+We DO NOT sell personal information collected through this site or use your personal information for any other purposes than those stated above.
 
 #### Cookies
 
@@ -52,4 +52,4 @@ We will only disclose personal information to reputable companies and suppliers 
 
 Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing this web site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
 
-If you would like us to update your information please let us know. We may occasionally ask you to do this and you have the right to access and update your data at any time by accessing this system. Data will not be kept for longer than is necessary and will be removed from our database at your request. If you wish Experian to delete your profile, please contact us.
+If you would like us to update your information please let us know. We may occasionally ask you to do this and you have the right to access and update your data at any time by accessing this system. Data will not be kept for longer than is necessary and will be removed from our database at your request. If you wish Experian Australia to delete your profile, please contact us.
