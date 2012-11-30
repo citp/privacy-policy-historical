@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604000709id_/http%3A//www.fox8live.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130015354id_/http%3A//www.fox8live.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
-# This Web Site’s Privacy Policy - New Orleans Local News, Weather, Sports, Investigations
+# This Web Site’s Privacy Policy - FOX 8 WVUE New Orleans News, Weather, Sports
 
 This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
