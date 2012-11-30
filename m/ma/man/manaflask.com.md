@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528063531id_/http%3A//www.manaflask.com/en/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130015748id_/http%3A//www.manaflask.com/en/privacy/policy) for the most accurate reproduction.*
 
 # Top Raiding: Guides, Streams, Interviews and Blogs
 
