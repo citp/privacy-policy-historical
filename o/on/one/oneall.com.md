@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530140326id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneall.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130073818id_/http%3A//www.oneall.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | oneall.com
 
@@ -6,13 +6,13 @@
 
 ###  About us 
 
-OneAll SARL/LLC (“OneAll”) is a registered technology company offering a set of web-delivered tools and services for establishing and optimizing a site’s connection with many social providers such as Facebook, Twitter, Yahoo! and LinkedIn amongst others. 
+OneAll LLC (“OneAll”, ”we”, ”us”) is a registered technology company offering a set of web-delivered tools and services for establishing and optimizing a site’s connection with many social providers such as Facebook, Twitter, Yahoo! and LinkedIn amongst others. 
 
 The OneAll social optimization platform enables online businesses (“Developers”) to (a) easily connect their sites to all the major social platforms and integrate with Open ID and other external authentication providers; (b) offer their site visitors (“End Users”) on-site authentication, sharing and social features to enhance their connected experience; and (c) analyze a site’s social activity with helpful use data and metrics. 
 
 OneAll’s technology also enables Developers and their End Users to easily distribute web content applications such as photos, videos and other widgets (“Web Applications”) to social networks and a wide variety of other web destinations, and directly to mobile devices. 
 
-We provide this Privacy Policy to inform you of our privacy practices as they pertain to our website, www.oneall.com (the “Site”). We also intend for this policy to inform you about our privacy practices as they pertain to your use of our Web Applications and services (collectively, the “Service”). This Privacy Policy applies to all aspects of the Service, whether made available or accessed via our Site, via the websites of our partners, via other third parties, or on mobile devices. 
+We provide this Privacy Policy to inform you of our privacy practices as they pertain to our website, oneall.com (the “Site”) and subdomains of this domain. We also intend for this policy to inform you about our privacy practices as they pertain to your use of our Web Applications and services (collectively, the “Service”). This Privacy Policy applies to all aspects of the Service, whether made available or accessed via our Site, via the websites of our partners, via other third parties, or on mobile devices. 
 
 This Privacy Policy may be updated from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to consult this Privacy Policy regularly for any changes. 
 
@@ -21,7 +21,7 @@ This Privacy Policy may be updated from time to time. We will notify you of any 
 We collect personally identifiable information (“PII”) via the Site and the Service. PII is any information that may be used to contact, identify or locate an individual, and includes, but is not limited to, your name, phone number, email address and postal addresses. OneAll generally collects PII under the following scenarios: 
 
   1. When you choose to provide us with your PII via the Site; including, when you send us an email asking a question, we use that information to answer your question and will store it for a reasonable time. 
-  2. We periodically publishe an email newsletter. If you provide us with your email address for the purposes of receiving OneAll’s email newsletter, we may also email you with further information and offers from OneAll and/or third parties that we believe you may find useful or interesting. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided within the email. 
+  2. We periodically publish an email newsletter. If you provide us with your email address for the purposes of receiving OneAll’s email newsletter, we may also email you with further information and offers from OneAll and/or third parties that we believe you may find useful or interesting. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided within the email. 
   3. The Service may enable you to send emails to your friends. If you provide your email address or your friends’ email addresses for these purposes, OneAll will store those email addresses, but will not use them to send promotional emails to you or your friends (unless you or your friends independently sign up to receive promotional emails from OneAll.) 
   4. When Developers and OneAll Clients register to use the Service via the Site, OneAll collects their name, company, email address, website URL and telephone number. OneAll also asks them to select a password for their account. OneAll uses this information to help maintain their account. 
   5. If you choose to use the Service via one of the many open standards for user authentication and access control (e.g., OpenID, OAuth, etc.) that enable you to link the Service with accounts you have already established with social networking platforms (e.g., Facebook, Twitter, etc.) and/or email platforms (e.g., Yahoo! Mail), OneAll will collect the PII as well as other information that you have already provided to the social networking or email platform. This PII may include your name, email address, postal address, and demographic information such as age, gender and income. Although OneAll won’t use your PII in this manner without your affirmative (“Opt-in”) consent, OneAll may use the demographic information collected this way to increase the relevance of the content that you see while online. In all instances, OneAll obtains and uses this information in accordance with the policies of the social networking or email platform. 
@@ -83,6 +83,4 @@ Information collected on this Site or via the Service may be transferred to — 
 
 ###  9\. Changes to this Privacy Policy 
 
-This privacy policy is subject to change. If we make any substantive changes in the way that we use the information collected through the Site or the Service, we will post a clear and conspicuous notice of those changes on the Site and in this privacy policy 
-
-**Last Modified: 15 February 2012**
+This privacy policy is subject to change. If we make any substantive changes in the way that we use the information collected through the Site or the Service, we will post a clear and conspicuous notice of those changes on the Site and in this privacy policy. 
