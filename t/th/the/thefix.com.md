@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601033814id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130221428id_/http%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fix
 
@@ -9,8 +9,6 @@
 The Fix (and TheFix.com) is a business of Recovery Media, LLC.  The Fix respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of The Fix or our services, or otherwise provide us with information through various means the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
  **Information we collect about you**
-
- **In General**.
 
 We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
@@ -28,27 +26,25 @@ We may collect personal information that can identify you such as your name and 
 
  **How we use the information we collect**
 
-In general
-
 We may use information that we collect about you to:
 
-  * deliver the products and services that you have requested;
-  * provide you with customer support;
-  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our partners, or other third parties;
-  * develop and display content and advertising tailored to your interests on our site and other sites;
-  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * enforce our terms and conditions;
-  * manage our business and
-  * perform functions as otherwise described to you at the time of collection.
+  * Deliver the products and services that you have requested;
+  * Provide you with customer support;
+  * Perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * Communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our partners, or other third parties;
+  * Develop and display content and advertising tailored to your interests on our site and other sites;
+  * Verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * Enforce our terms and conditions;
+  * Manage our business and
+  * Perform functions as otherwise described to you at the time of collection.
 
 
 
-Financial information.
+Financial information
 
 We may use financial information or payment method to process payment for any purchases made on our website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
-Job applicants.
+Job applicants
 
 If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with our partners for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
 
@@ -69,7 +65,7 @@ Personal information. We do not share your personal information with others exce
 
 Any third parties to whom we may disclose personal information may have their own privacy policies, which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
-Aggregated and non-personal information.
+Aggregated and non-personal information
 
 We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
