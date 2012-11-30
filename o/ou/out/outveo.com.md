@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outveo.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626130036id_/http%3A//outveo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outveo.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130010512id_/http%3A//outveo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Outsourcing Projects Made Easy
+# Privacy Policy - Project Management Software For Entrepreneurs Who Outsource
 
 **HOW WE PROTECT YOUR PRIVACY**
 
@@ -64,11 +64,7 @@ If you are concerned about the topic covered by this policy, you should read it 
 
 You may also mail your concerns to us at the following address:
 
-OutVeo.com  
-5 Wooland Court  
-Fleet, Hampshire  
-GU52 6XS  
-United Kingdom
+OutVeo.com 5 Wooland Court Fleet, Hampshire GU52 6XS United Kingdom
 
 **CALIFORNIA PRIVACY RIGHTS**
 
@@ -76,12 +72,8 @@ If you are a California resident and our customer, Cal. Civ. Code § 1798.83 per
 
 To request this information, please send an e-mail to support[at]reactorpublishing.com or write us at the following address:
 
-OutVeo.com  
-5 Wooland Court  
-Fleet, Hampshire  
-GU52 6XS  
-United Kingdom
+OutVeo.com 5 Wooland Court Fleet, Hampshire GU52 6XS United Kingdom
 
 This privacy policy was last updated on 03-22-2010.
 
-##### Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at OutVeo.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at OutVeo.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
