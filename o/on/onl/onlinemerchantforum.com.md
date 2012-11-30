@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemerchantforum.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531093642id_/http%3A//www.onlinemerchantforum.com/forums/announcement.php%3Ff%3D395%26a%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemerchantforum.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130020343id_/http%3A//www.onlinemerchantforum.com/forums/announcement.php%3Ff%3D395%26a%3D18) for the most accurate reproduction.*
 
 # Announcements - Announcements
 
