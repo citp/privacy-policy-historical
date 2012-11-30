@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thegreengrid.org privacy policy that was archived on 2012-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524235302id_/http%3A//www.thegreengrid.org/en/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegreengrid.org privacy policy that was archived on 2012-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130175826id_/http%3A//www.thegreengrid.org/en/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	The Green Grid › Privacy Policy
@@ -14,16 +14,46 @@
 	<script src="/js/jquery-1.2.6.min.js" type="text/javascript" charset="utf-8"></script>
 	<script src="/js/jquery.plugins.js" type="text/javascript" charset="utf-8"></script>
 	<script src="/js/site.js" type="text/javascript" charset="utf-8"></script>
-    <!-- BEGIN FOXYCART FILES -->
-    <link rel="stylesheet" href="//cdn.foxycart.com/static/scripts/colorbox/1.3.18/style1_fc/colorbox.css" type="text/css" media="screen" charset="utf-8">
+<!-- BEGIN FOXYCART FILES -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript" charset="utf-8"></script>
-    <script src="//cdn.foxycart.com/thegreengrid/foxycart.colorbox.js" type="text/javascript" charset="utf-8"></script>
-    <!-- END FOXYCART FILES -->
+    <script src="//cdn.foxycart.com/thegreengrid/foxycart.js" type="text/javascript" charset="utf-8"></script>
+<!-- END FOXYCART FILES -->
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-16589433-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    //tag file download links as google analytics pageviews
+    if (typeof jQuery !== 'undefined') {
+        jQuery(document).ready(function() {
+            jQuery('a.download').click(function() {
+                _gaq.push(['_trackEvent', 'Download', 'File', jQuery(this).attr('href')]);
+            });
+            jQuery('a.launchtool').click(function() {
+                _gaq.push(['_trackEvent', 'Launch', 'Tool', jQuery(this).attr('href')]);
+            });
+	    jQuery('a.purchase_full_version').click(function() {
+                _gaq.push(['_trackEvent', 'Purchase', 'WhitePaper', jQuery(this).attr('href')]);
+            });
+	    jQuery('a.download_abstract').click(function() {
+                _gaq.push(['_trackEvent', 'Download', 'Abstract', jQuery(this).attr('href')]);
+            });
+        });
+    }
+</script>
 </head>
 <body class="internal">
 	<form name="form1" method="post" action="/en/PrivacyPolicy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzODM0NzA5MTMPZBYEAgEPZBYGAgEPFgIeB2NvbnRlbnQFAmVuZAICDxYCHwAFDlByaXZhY3kgUG9saWN5ZAIDDxYCHwAFDlByaXZhY3kgUG9saWN5ZAIDEGRkFgYCAQ9kFgJmD2QWAmYPZBYGAgIPEA8WBh4NRGF0YVRleHRGaWVsZAUDa2V5Hg5EYXRhVmFsdWVGaWVsZAUFdmFsdWUeC18hRGF0YUJvdW5kZ2QQFQIJ5pel5pys6KqeB0VuZ2xpc2gVAgVqYS1KUAJlbhQrAwJnZxYBAgFkAgMPFgIeBFRleHQFejxhIGhyZWY9IiNUQl9pbmxpbmU/JmFtcDtpbmxpbmVJZD1zaWduX2luIiBjbGFzcz0idGhpY2tib3ggc2lnbmluIj5TaWduIEluJm5ic3A7PGltZyBhbHQ9ImxvY2siIHNyYz0iL2ltZy9sb2NrLmdpZiIgLz48L2E+ZAIJDw9kFgIeB29uY2xpY2sFlgFqYXZhc2NyaXB0OmNhbGxfTG9naW5XcmFwcGVyKCk7IFdlYkZvcm1fRG9Qb3N0QmFja1dpdGhPcHRpb25zKG5ldyBXZWJGb3JtX1Bvc3RCYWNrT3B0aW9ucygnY3RsMDRfYnRuTG9naW4nLCAnJywgdHJ1ZSwgJ0xvZ2luR3JvdXAnLCAnJywgZmFsc2UsIGZhbHNlKSlkAgUPZBYCZg9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgMWBgIBD2QWAmYPFQEWL2VuL1ByaXZhY3lQb2xpY3kuYXNweGQCAg9kFgJmDxUBGy9lbi9UZXJtc0FuZENvbmRpdGlvbnMuYXNweGQCAw9kFgJmDxUBES9lbi9zaXRlLW1hcC5hc3B4ZAIHDxYCHwQFowINCgkJPHA+VGhlIEdyZWVuIEdyaWQgaXMgY29uZHVjdGluZyBhIHN1cnZleSB0byBnYXRoZXIgZmVlZGJhY2sgb24gdGhlIFdlYiBzaXRlLsKgV291bGQgeW91IGxpa2UgdG8gcGFydGljaXBhdGU/PC9wPg0KICAgIDxwPg0KICAgICAgPGEgY2xhc3M9ImFycm93IiBocmVmPSJodHRwOi8vd3d3Lnpvb21lcmFuZy5jb20vU3VydmV5Lz9wPVdFQjIyOUpSQ1RROTc5IiB0YXJnZXQ9Il9ibGFuayI+WWVzPC9hPiA8YSBjbGFzcz0iYXJyb3ciIG9uY2xpY2s9InRiX3JlbW92ZSgpOyIgaHJlZj0iIyI+Tm88L2E+IDwvcD5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRVwaGhlYWRlcl8wJGJ0blVzYUZsYWcFF3BoaGVhZGVyXzAkYnRuSmFwYW5GbGFnBRNwaGhlYWRlcl8wJGJ0bkxvZ2luew1dv2adzoZOxytC0XQ/Ue4KkHE=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI5ODM3MTczNw9kFgQCAQ9kFgYCAQ8WAh4HY29udGVudAUCZW5kAgIPFgIfAAUOUHJpdmFjeSBQb2xpY3lkAgMPFgIfAAUOUHJpdmFjeSBQb2xpY3lkAgMQZGQWBgIBD2QWAmYPZBYCZg9kFgYCAg8QDxYGHg1EYXRhVGV4dEZpZWxkBQNrZXkeDkRhdGFWYWx1ZUZpZWxkBQV2YWx1ZR4LXyFEYXRhQm91bmRnZBAVAgnml6XmnKzoqp4HRW5nbGlzaBUCBWphLUpQAmVuFCsDAmdnFgECAWQCAw8WAh4EVGV4dAV6PGEgaHJlZj0iI1RCX2lubGluZT8mYW1wO2lubGluZUlkPXNpZ25faW4iIGNsYXNzPSJ0aGlja2JveCBzaWduaW4iPlNpZ24gSW4mbmJzcDs8aW1nIGFsdD0ibG9jayIgc3JjPSIvaW1nL2xvY2suZ2lmIiAvPjwvYT5kAgkPD2QWAh4Hb25jbGljawWWAWphdmFzY3JpcHQ6Y2FsbF9Mb2dpbldyYXBwZXIoKTsgV2ViRm9ybV9Eb1Bvc3RCYWNrV2l0aE9wdGlvbnMobmV3IFdlYkZvcm1fUG9zdEJhY2tPcHRpb25zKCdjdGwwNF9idG5Mb2dpbicsICcnLCB0cnVlLCAnTG9naW5Hcm91cCcsICcnLCBmYWxzZSwgZmFsc2UpKWQCBQ9kFgJmD2QWAmYPZBYCZg8WAh4LXyFJdGVtQ291bnQCAxYGAgEPZBYCZg8VARMvUHJpdmFjeVBvbGljeS5hc3B4ZAICD2QWAmYPFQEYL1Rlcm1zQW5kQ29uZGl0aW9ucy5hc3B4ZAIDD2QWAmYPFQEOL3NpdGUtbWFwLmFzcHhkAgcPFgIfBAXZAw0KCQk8cD4NCiAgICAgIDxpbWcgYWx0PSIiIHN0eWxlPSJXSURUSDogMjUwcHg7IEhFSUdIVDogNzJweCIgc3JjPSJ+L21lZGlhLzVEQkM0RTA2Q0RDNjQwQjBBMTQ4NzM5NUZCNUNGREU5LnBuZz93PTI1MCZhbXA7aD03MiZhbXA7YXM9MSIgLz4NCiAgICA8L3A+DQogICAgPHA+VGhhbmtzIGZvciB2aXNpdGluZyBUaGUgR3JlZW4gR3JpZCB3ZWJzaXRlISBXZSBhcmUgYWx3YXlzIHdvcmtpbmcgdG8gaW1wcm92ZSBvdXIgc2l0ZSBhbmQgd291bGQgYXBwcmVjaWF0ZSB5b3VyIGlucHV0LjwvcD4NCiAgICA8cD5QbGVhc2UgPGEgaHJlZj0iaHR0cDovL3d3dy56b29tZXJhbmcuY29tL1N1cnZleS9XRUIyMkdLN1VGUk05UyIgdGFyZ2V0PSJfYmxhbmsiPmNsaWNrIGhlcmU8L2E+IHRvIHRha2UgYSBicmllZiB3ZWJzaXRlIHN1cnZleS48L3A+DQogICAgPGEgb25jbGljaz0idGJfcmVtb3ZlKCk7IiBocmVmPSIjIj5ObyBUaGFua3M8L2E+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUVcGhoZWFkZXJfMCRidG5Vc2FGbGFnBRdwaGhlYWRlcl8wJGJ0bkphcGFuRmxhZwUTcGhoZWFkZXJfMCRidG5Mb2dpbrpXjJessQc8MBKF92tBxyrwqStz">
 </div>
 
 
@@ -34,7 +64,7 @@ function DoTheCallback(arg, ctx) {WebForm_DoCallback('phheader_0',arg,ClientCall
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKvjaqfDAKgi7/HDgLVqZGgAQL08enzBgLq58SfBwKwpZHQCALriZ7TCwKymsOwDA73K8U5WUrWQZcakvZ1pZJaKWb8">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKskZ3XBgKgi7/HDgLVqZGgAQL08enzBgLq58SfBwKwpZHQCALriZ7TCwKymsOwDIu1JFSrOC/DA6rNKIZZsfzSfp9y">
 </div>
 	<div id="graph">
 		<div id="static_graph"></div>
@@ -297,16 +327,16 @@ function DoTheCallback(arg, ctx) {WebForm_DoCallback('phheader_0',arg,ClientCall
     </div>        
         
     <div class="footer-links">
-	    <span>© 2011 The Green Grid</span>        
+	    <span>© 2012 The Green Grid</span>        
         
                 <ul>
                 <li><a href="http://www.vtmgroup.com/" target="_blank">VTM Association Management</a></li>
             
-                <li><a href="/en/PrivacyPolicy.aspx">Privacy Policy</a></li>
+                <li><a href="/PrivacyPolicy.aspx">Privacy Policy</a></li>
             
-                <li><a href="/en/TermsAndConditions.aspx">Terms and Conditions</a></li>
+                <li><a href="/TermsAndConditions.aspx">Terms and Conditions</a></li>
             
-                <li><a href="/en/site-map.aspx">Site Map</a></li>
+                <li><a href="/site-map.aspx">Site Map</a></li>
             
                 </ul>
             
@@ -319,43 +349,14 @@ function DoTheCallback(arg, ctx) {WebForm_DoCallback('phheader_0',arg,ClientCall
 		<a href="#TB_inline?&amp;inlineId=surveypopup" class="thickbox survey">survey</a>
 		<div id="surveypopup" class="clearfix">
 			
-		<p>The Green Grid is conducting a survey to gather feedback on the Web site.&nbsp;Would you like to participate?</p>
-    <p>
-      <a class="arrow" href="http://www.zoomerang.com/Survey/?p=WEB229JRCTQ979" target="_blank">Yes</a> <a class="arrow" onclick="tb_remove();" href="#">No</a> </p>
+		<p>
+      <img alt="" style="WIDTH: 250px; HEIGHT: 72px" src="~/media/5DBC4E06CDC640B0A1487395FB5CFDE9.png?w=250&amp;h=72&amp;as=1">
+    </p>
+    <p>Thanks for visiting The Green Grid website! We are always working to improve our site and would appreciate your input.</p>
+    <p>Please <a href="http://www.zoomerang.com/Survey/WEB22GK7UFRM9S" target="_blank">click here</a> to take a brief website survey.</p>
+    <a onclick="tb_remove();" href="#">No Thanks</a>
 		</div>
 	</div>
-	
-<script type="text/javascript">
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-16589433-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-    //tag file download links as google analytics pageviews
-    if (typeof jQuery !== 'undefined') {
-        jQuery(document).ready(function() {
-            jQuery('a.download').click(function() {
-                _gaq.push(['_trackEvent', 'Download', 'File', jQuery(this).attr('href')]);
-            });
-            jQuery('a.launchtool').click(function() {
-                _gaq.push(['_trackEvent', 'Launch', 'Tool', jQuery(this).attr('href')]);
-            });
-	    jQuery('a.purchase_full_version').click(function() {
-                _gaq.push(['_trackEvent', 'Purchase', 'WhitePaper', jQuery(this).attr('href')]);
-            });
-	    jQuery('a.download_abstract').click(function() {
-                _gaq.push(['_trackEvent', 'Download', 'Abstract', jQuery(this).attr('href')]);
-            });
-        });
-    }
-</script>
-
 	</form>
 
 
