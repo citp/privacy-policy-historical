@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622113851id_/http%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130101633id_/http%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
-Last revised on February 21, 2011
+Last revised on November 29, 2012
 
 Introduction 
 
@@ -100,8 +100,6 @@ Children can only use our services under the supervision of their parents/legal 
 
 If you have questions or comments about this privacy policy, please email us at [support@wiziq.com](mailto:support@wiziq.com) or contact us at: [www.WizIQ.com](http://www.wiziq.com/)
 
-**Sikhya Solutions, LLC.  
-Attn: Privacy Policy issues  
-3782 Lake Spring Ave  
-Concord, NC 28027**  
-
+WizIQ Inc., 2 On The Common,  
+PO Box 36, Royalston, MA - 01368  
+Ph. +1-919-647-4727 | Fax: +1.919.882.9917
