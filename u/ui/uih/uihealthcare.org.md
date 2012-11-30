@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531220008id_/http%3A//www.uihealthcare.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D21932%26libID%3D22162) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130163723id_/http%3A//www.uihealthcare.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D21932%26libID%3D22162) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We use secure socket layer (SSL) encryption to protect the transmission of infor
 
 ## Obtaining information from us
 
-If you want to get non-medical information about you that may be in our records: The Freedom of Information Act and the Privacy Act of 1974 provide you certain rights to get information about you that is in our records. To learn more about the circumstances under which you can get and correct this information, [visit our Freedom of Information Act page](http://www.uiowa.edu/~our/services/public-records.html "visit our Freedom of Information Act page"). 
+If you want to get non-medical information about you that may be in our records: The Freedom of Information Act and the Privacy Act of 1974 provide you certain rights to get information about you that is in our records. To learn more about the circumstances under which you can get and correct this information, [visit our Freedom of Information Act page](https://publicrecords.uiowa.edu/ "visit our Freedom of Information Act page"). 
 
  You may also obtain [details about how your medical information may be used and disclosed and how you can get access to that information.](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=21841&libID=22071 "information about how your medical information may be used and disclosed and how you can get access to that information.")
 
