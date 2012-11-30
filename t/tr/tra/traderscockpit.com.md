@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderscockpit.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601112326id_/http%3A//www.traderscockpit.com/%3FpageView%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderscockpit.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130181049id_/http%3A//www.traderscockpit.com/%3FpageView%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Stock Market India, Market Strategies, Share Price, NSE, Nifty, India Stock Market
 
@@ -18,3 +18,5 @@ No employee may put any sensitive content on any insecure machine (i.e., nothing
 Your password must be atleast 6 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at support@traderscockpit.com, but in any event you should change your password immediately via the Service. 
 
 **D. We do not disclose or sell email addresses or mobile numbers**
+
+**The DoubleClick cookie**
