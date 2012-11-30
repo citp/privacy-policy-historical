@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bingoliner.co.uk privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504091714id_/http%3A//www.bingoliner.co.uk/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bingoliner.co.uk privacy policy that was archived on 2012-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121201002347id_/http%3A//www.bingoliner.co.uk/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head id="page_head"><link href="App_Themes/site/dd.css" type="text/css" rel="stylesheet"><link href="App_Themes/site/style.css" type="text/css" rel="stylesheet"><meta http-equiv="Content-Type" content="text/html;"><meta name="robots" content="follow,index"><link id="link_Icon" rel="shortcut icon" type="image/x-icon" href="App_Themes/site/Icons/favicon.ico">
     
@@ -21,6 +21,10 @@
                     $("#header-flash").html("<object id='Object3' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='860' height='166'><param name='movie' value='/App_Themes/site/Flash/header.swf' /><param name='wmode' value='transparent' /><EMBED src='/App_Themes/site/Flash/header.swf' quality='high' WIDTH='860' HEIGHT='166' NAME='myMovieName' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/go/getflashplayer' wmode='transparent'></EMBED></object>");
                 }
                 $(document).pngFix();
+                $("#sidePlayNow").click(function(){
+                    
+                    //do nothing
+                });
             }); 
             function callhomepageJS() {
                 window.location = "http://www.bingoliner.co.uk/";
@@ -68,13 +72,13 @@
     <div id="winners-sub">
         <table>
             <tbody><tr>
+                <td><a href="/winners/photo-gallery.aspx">Winners Gallery</a><br><img src="App_Themes/site/Images/dropdown-line.gif" id="header_nav_Img2" style="height:1px;padding-top:4px;"></td>
+            </tr>
+            <tr>
                 <td><a href="/winners/recent.aspx">Recent Winners</a><br><img src="App_Themes/site/Images/dropdown-line.gif" style="height:1px;padding-top:4px;"></td>    
             </tr>
             <tr>
-                <td><a href="/winners/big-progressive.aspx">Progressive Winners</a><br><img src="App_Themes/site/Images/dropdown-line.gif" id="header_nav_Img2" style="height:1px;padding-top:4px;"></td>    
-            </tr>
-            <tr>
-                <td><a href="/winners/photo-gallery.aspx">Winners Gallery</a><br></td>
+                <td><a href="/winners/big-progressive.aspx">Progressive Winners</a><br></td>    
             </tr>
         </tbody></table>
     </div>
@@ -126,6 +130,16 @@
 
     $(document).ready(function () {
         $("td.line").height("1px");
+        $("#whatson-sub td, #winners-sub td, #help-sub td").hover(function(){
+            $(this).find("a").css("color", "#993300");
+        }, function(){
+            $(this).find("a").css("color", "#fff");
+        });
+        $("#whatson-sub td, #winners-sub td, #help-sub td").click(function(){
+            window.location = $(this).find("a").attr("href");
+        });
+
+
         var whatsonOffset = $('#nav-whatson').position();
         var winnersOffset = $('#nav-fame').position();
         var helpOffset = $('#nav-contactus').position();
@@ -146,15 +160,15 @@
             $("#help-hover").show();
         });
 
-        $("#whatson-hover").css('left', (whatsonOffset.left + 3));
-        $("#winners-hover").css('left', (winnersOffset.left + 3));
+        $("#whatson-hover").css('left', (whatsonOffset.left));
+        $("#winners-hover").css('left', (winnersOffset.left));
         $("#help-hover").css('left', (helpOffset.left + 3));
 
         $("#whatson-hover").click(function () {
             window.location = "/whats-on.aspx";
         });
         $("#winners-hover").click(function () {
-            window.location = "/winners/recent.aspx";
+            window.location = "/winners/photo-gallery.aspx";
         });
         $("#help-hover").click(function () {
             window.location = "/contactus.aspx";
@@ -162,9 +176,9 @@
 
         $("#whatson-hover").mouseover(function () {
             var position = $('#nav-whatson').position();
-            $("#whatson-hover").css('left', (position.left + 10));
+            $("#whatson-hover").css('left', (position.left + 14));
             $("#whatson-hover").show();
-            $("#whatson-sub").css('left', (position.left + 10));
+            $("#whatson-sub").css('left', (position.left + 14));
             $("#whatson-sub").show();
             topMenu = true;
         });
@@ -186,9 +200,9 @@
 
         $("#winners-hover").mouseover(function () {
             var position = $('#nav-fame').position();
-            $("#winners-hover").css('left', (position.left + 6));
+            $("#winners-hover").css('left', (position.left - 4));
             $("#winners-hover").show();
-            $("#winners-sub").css('left', (position.left + 6));
+            $("#winners-sub").css('left', (position.left - 4));
             $("#winners-sub").show();
             topWinnersMenu = true;
         });
@@ -210,7 +224,7 @@
 
         $("#help-hover").mouseover(function () {
             var position = $('#nav-contactus').position();
-            $("#help-hover").css('left', (position.left + 6));
+            $("#help-hover").css('left', (position.left + 9));
             $("#help-hover").show();
             $("#help-sub").css('left', (position.left - 75));
             $("#help-sub").show();
@@ -241,15 +255,6 @@
     <div id="intro">
         <div id="intro-text"><h1>Online Bingo: Play Bingo Games with No Deposit on the UK's top Bingo Site - Bingo Liner UK</h1></div>
         <div id="intro-dd">
-            <select id="country-dd" name="country-dd" style="width:180px;" onchange="if (this.options[this.selectedIndex].value != ''){ location = this.options[this.selectedIndex].value;}">
-                <option value="" title="/App_Themes/site/Images/Flags/world.gif">Other Countries</option>                
-                <option value="http://www.bingoliner.com/offer/10-dk.aspx" title="/App_Themes/site/Images/Flags/dk.gif">Bingo Liner Denmark</option>
-                <option value="http://www.bingoliner.com/offer/10-se.aspx" title="/App_Themes/site/Images/Flags/se.gif">Bingo Liner Sweden</option>
-                <option value="http://www.bingoliner.es/offer/10-es.aspx" title="/App_Themes/site/Images/Flags/es.gif">Bingo Liner Spain</option>
-                <option value="http://www.bingoliner.com/offer/10-no.aspx" title="/App_Themes/site/Images/Flags/no.gif">Bingo Liner Norway</option>
-                <option value="http://www.bingoliner.com/offer/10-fr.aspx" title="/App_Themes/site/Images/Flags/fr.gif">Bingo Liner France</option>                
-                <option value="http://www.jetbingo.com/" title="/App_Themes/site/Images/Flags/jetbingo.gif">Jet Bingo</option>
-            </select>
         </div>
     </div>
 
@@ -514,11 +519,6 @@
                 <h3>Types of Bingo</h3>
                 <ul>
                     <li><a href="articles/bonus-bingo-games">Bonus Bingo Games</a></li>
-                    <li><a href="articles/free-online-bingo">Free Online Bingo</a></li>
-                    <li><a href="articles/bingo-games.aspx">Bingo Games</a></li>
-                    <li><a href="articles/online-bingo.aspx">Online Bingo</a></li>
-                    <li><a href="articles/internet-bingo.aspx">Internet Bingo</a></li>
-                    <li><a href="articles/no-deposit-bingo.aspx">No Deposit Bingo</a></li>
                     <li><a href="articles/free-bingo.aspx">Free Bingo</a></li>
                     <li><a href="articles/uk-bingo.aspx">UK Bingo</a></li>
                     <li><a href="offer/20.aspx">Minimum £20 Free Bingo Game</a></li>
@@ -527,6 +527,7 @@
                     <li><a href="newsletters.aspx">Bingo Newsletter</a></li>            
                     <li><a href="articles.aspx">Bingo Articles</a></li>
                     <li><a href="winners/recent.aspx">Recent Winners</a></li>
+                    <li><a href="http://www.bingoliner.co.uk/vip-newsletters.aspx">Vip Newsletter</a></li>
                     
                 </ul>
             </div>
@@ -552,7 +553,11 @@
                     <li><a href="games/fruit-frenzy-online-3-reel-slots.aspx">3 Reel Video Slots</a></li>
                     <li><a href="games/slots-of-bingo-online-5-reel-slots.aspx">5 Reel Video Slots</a></li>
                     <li><a href="games/roulette-online-casino-game.aspx">Roulette</a></li>
+                    <li><a href="articles/dos-and-donts-of-online-bingo-play">Online Bingo Do’s and Don’ts</a></li>
+                    <li><a href="articles/dos-and-donts-of-bingo-chat">Bingo Chat Guidelines</a></li>
                     <li style="margin-bottom:15px;"><a href="games/roulette-online-casino-game.aspx">Online Casino</a></li>
+
+
                     <li><a href="http://server.iad.liveperson.net/hc/45813911/?cmd=file&amp;file=visitorWantsToChat&amp;site=45813911&amp;SESSIONVAR!skill=Bingoliner.UK&amp;SESSIONVAR!survey6233017=website&amp;referrer=" target="chat45813911" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/45813911/?cmd=file&amp;file=visitorWantsToChat&amp;site=45813911&amp;SESSIONVAR!skill=Bingoliner.UK&amp;SESSIONVAR!survey6233017=website&amp;referrer='+document.location,'chat45813911','width=472,height=320');return false;">Live Help</a></li>            
                     <li><a href="payment-options.aspx">Payment Options</a></li>            
                 </ul>
@@ -572,19 +577,21 @@
                     <li><a href="refer-a-friend.aspx">Refer a Friend</a></li>
                     <li><a href="http://www.bingoreward.co.uk/?affid=2000017" target="_blank">Affiliates</a></li>            
                     <li><a href="sitemap.aspx">Sitemap</a></li>
+                    <li><a href="faq.aspx#uninstall">Uninstall</a></li>
                 </ul>
             </div>   
                                  
             <div id="footer_bottom">
                 <img src="App_Themes/site/images/logo_itechlabs.gif" alt="iTech Labs">&nbsp;<a href="http://www.gamcare.org.uk" target="_blank"><img src="App_Themes/site/images/logo_gamcare.gif" alt="Gamecare" class="noborder"></a>&nbsp;<img src="App_Themes/site/images/logo_verisign.gif" alt="VeriSign">&nbsp;<img src="App_Themes/site/images/logo_18.gif" alt="No under 18s" class="noborder">&nbsp;<img src="App_Themes/site/images/logo_usa.gif" alt="We Do Not Accept USA Players" class="noborder">&nbsp;<a href="http://www.gamblingcontrol.org" target="_blank"><img src="App_Themes/site/images/logo_alderney.gif" alt="Licensed in Alderney" border="0"></a>&nbsp;<img src="App_Themes/site/images/logo_safe.gif" alt="Certified Safe Download">&nbsp;<img src="App_Themes/site/images/logo_leapfrog.gif" alt="Leapfrog Gaming" border="0">
                 <p>
-                     Copyright 2010 Bingo Liner UK - The place for bingo, featuring daily prizes and a wide variety of bingo games!
+                     ©2012 Bingo Liner UK - Play bingo games online around the world. Bingo Liner is also available also in <a href="http://www.bingoliner.com/" target="_blank">Australia</a>, <a href="http://www.bingoliner.com/" target="_blank">Canada</a>, <a href="http://www.bingoliner.com/offer/10-se.aspx" target="_blank">Sweden</a>, <a href="http://www.bingoliner.com/offer/10-es.aspx" target="_blank">Spain</a>, <a href="http://www.bingoliner.com/offer/10-no.aspx" target="_blank">Norway</a> &amp; <a href="http://www.bingoliner.com/offer/10-fr.aspx" target="_blank">France</a>.
                 </p>                
             </div>
         </div>
                 
          </div> 
-	<a href="download.aspx" id="sidePlayNow">
+
+    <a href="download.aspx" id="sidePlayNow">    
 	    <div id="side-playnow">			
 	    </div>
 	</a>
