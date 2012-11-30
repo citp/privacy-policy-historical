@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balltribe.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530203810id_/http%3A//balltribe.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balltribe.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130010454id_/http%3A//balltribe.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BallTribe
 
