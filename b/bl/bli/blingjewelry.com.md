@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504094142id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130141818id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
-# Bling Costume, Antique Jewelry Privacy Policy
+# Privacy Policy - Find Out Which Information We Collect & for What Purposes
 
 **SHARING**  
 BlingJewelry.com will not sell, share, or rent this information to third parties in any manner that differs from what is disclosed in this statement. While we use third party credit card processing companies to bill users for goods and services, these companies do not retain, share, store or use your personal information for any secondary purposes except for the purpose of providing these services.
@@ -15,4 +15,4 @@ From time to time, you may receive promotional and special offers through e-mail
 BlingJewelry.com is also partnered with Google to offer a prompt purchase option called Google Checkout. View Google [Privacy Policy](https://checkout.google.com/files/privacy.html).   
 
 
-If you would like further information about Blingjewelry.com, please email us at [contact@Blingjewelry.com](mailto:%20contact@blingjewelry.com). 
+If you would like further information about Blingjewelry.com, please email us at [contact@Blingjewelry.com](mailto:%20contact@blingjewelry.com).
