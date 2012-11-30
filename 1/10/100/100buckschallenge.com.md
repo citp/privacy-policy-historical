@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100buckschallenge.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415205225id_/http%3A//100buckschallenge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100buckschallenge.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130065914id_/http%3A//100buckschallenge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Internet Marketing Challenge Blog
 
