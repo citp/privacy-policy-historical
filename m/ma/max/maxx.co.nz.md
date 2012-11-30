@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the maxx.co.nz privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601210254id_/http%3A//www.maxx.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxx.co.nz privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130144602id_/http%3A//www.maxx.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
 
-# MAXX - Privacy Statement
+# AT Public Transport - Privacy Statement
 
-Auckland Transport (AT) has created this Privacy Statement in relation to the MAXX website [www.maxx.co.nz](http://www.maxx.co.nz/) (the **MAXX Website** ) and the related services offered in conjunction with the MAXX Website ( **Related Services** ) in order to demonstrate its firm commitment to privacy.
+Auckland Transport (AT) has created this Privacy Statement in relation to the AT Public Transport website [www.AT.co.nz](http://www.at.co.nz/) (formerly the **MAXX Website** ) and the related services offered in conjunction with the AT Public Transport Website ( **Related Services** ) in order to demonstrate its firm commitment to privacy.
 
-This Privacy Statement should be read in conjunction with the [General Terms and Conditions of Website Use](https://web.archive.org/terms-and-conditions-of-use.aspx). By viewing and using the MAXX Website and/or Related Services, you will be deemed to agree to this Privacy Statement. If you do not agree to this Privacy Statement you should stop accessing and using the MAXX Website and Related Services and you should not disclose information to Auckland Transport.
+This Privacy Statement should be read in conjunction with the [General Terms and Conditions of Website Use](https://web.archive.org/terms-and-conditions-of-use.aspx). By viewing and using the AT Public Transport Website and/or Related Services, you will be deemed to agree to this Privacy Statement. If you do not agree to this Privacy Statement you should stop accessing and using the AT Public Transport Website and Related Services and you should not disclose information to Auckland Transport.
 
-MAXX is brought to you by Auckland Transport (AT). For more information about Auckland Transport, please visit the [Auckland Transport website](http://www.aucklandtransport.govt.nz/).
+[www.AT.co.nz](http://www.at.co.nz/) is brought to you by Auckland Transport (AT). For more information about Auckland Transport, please visit the [Auckland Transport website](http://www.aucklandtransport.govt.nz/).
 
 Auckland Transport is committed to protecting our customers' personal information. We have created this Privacy Policy to help you understand how we collect, use and protect your personal information when you visit our websites,contact us or use our products and services.
 
