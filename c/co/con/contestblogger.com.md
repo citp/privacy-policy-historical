@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the contestblogger.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524013931id_/http%3A//www.contestblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestblogger.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130160845id_/http%3A//www.contestblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## [Contest Blogger](https://web.archive.org/)
-
-### The Best Website for __Thousands__ of Daily Contests & Sweepstakes!
-
-[](http://www.facebook.com/contestblogger) [](http://twitter.com/contestblogger)
 
 We are committed to protecting your privacy at Contest Blogger. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement.
 
