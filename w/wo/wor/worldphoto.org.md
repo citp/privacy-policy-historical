@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldphoto.org privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040142id_/http%3A//www.worldphoto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldphoto.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130091133id_/http%3A//worldphoto.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Photography Organisation
 
