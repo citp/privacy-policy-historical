@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the 2old2play.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505041449id_/http%3A//www.2old2play.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2old2play.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130012926id_/http%3A//www.2old2play.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 2old2play - The Community for Older Gamers
 
 Effective **1/1/2009**
 
-**Our Commitment To Privacy**  
+ **Our Commitment To Privacy**  
 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**The Information We Collect:**  
+ **The Information We Collect:**  
 
 
 This notice applies to all information collected or submitted on the 2old2play.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:  
@@ -77,7 +77,7 @@ You can correct factual errors in your personally identifiable information by cl
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**How To Contact Us**  
+ **How To Contact Us**  
 
 
 Should you have other questions or concerns about these privacy policies, please call us at (773) 527-2961 or send us an email using the [Contact Form](http://www.2old2play.com/modules.php?name=Contact_Us).  
