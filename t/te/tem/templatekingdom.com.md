@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601091618id_/http%3A//www.templatekingdom.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatekingdom.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130162202id_/http%3A//www.templatekingdom.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Template Kingdom
 
@@ -58,4 +58,4 @@ Template Kingdom (hereafter referred to as Template Kingdom) has created this pr
 
 ### Contacting us regarding our privacy policy
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@templatekingdom.com](mailto:privacy@templatekingdom.com)
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@templatekingdom.com](http://www.cloudflare.com/email-protection#b7c7c5dec1d6d4cef7c3d2dac7dbd6c3d2dcded9d0d3d8da99d4d8da)
