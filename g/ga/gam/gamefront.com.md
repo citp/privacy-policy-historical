@@ -1,89 +1,113 @@
-> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625153700id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefront.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130092337id_/http%3A//www.gamefront.com/privacy) for the most accurate reproduction.*
 
 # GAMEFRONT MEDIA PRIVACY POLICY | GameFront
 
-Last Updated: April 10, 2009
+**GameFront.com   Privacy Policy**
 
-GameFront (together with its direct and indirect parent and subsidiary entities, “GameFront”) is committed to protecting your privacy. This Privacy Policy describes the ways that personally identifiable and anonymous information about our online users, event registrants and print subscribers is gathered, our information sharing practices, and how online users and print subscribers may request changes to the way this information is shared.
+**Effective as of August 1, 2012**
 
-**Personally Identifiable Information We Collect**
+At gamefront.com, a website and related mobile application operated by FileFront, LLC (“FileFront”), we are committed to respecting people’s privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. By using Gamefront.com, you consent to the collection and use of your information by FileFront as described in this Policy, and you signify your agreement to the GameFront Privacy Policy. References to the “site” in this document shall encompass the gamefront.com mobile application.
 
-We collect personally identifiable information when you provide it to us, such as when you subscribe to our magazines (either directly with us or through another company such as a subscription agency), sign up for email newsletters, enter a contest, register for site membership or an online event, participate in surveys, attend face to face events, or otherwise communicate with us. Several of the services that we offer, including but not limited to file downloads, message boards, webcasts and online trade shows, require registration as a condition of use; when you register with or sign into one of our sites you are no longer anonymous. We may also receive information about you from other sources and add it to the information you have provided to us.
+**Information submitted by you for inclusion on your GameFront profile.**
 
-**Information You Volunteer and How It Is Displayed to Others Online**
+Information, pictures and media files you upload to your account (“Submissions”) will be posted on the site, subject to our [Terms and Conditions](http://www.gamefront.com/tos/) and accessible by all visitors to the site, and FileFront has no control over, and shall incur no responsibility for, how such visitors will use such Submissions.  FileFront reserves the right (but not the obligation) to remove or edit Submissions, but does not regularly review Submissions.
 
-GameFront is not responsible for the information you volunteer about yourself in the course of discussions in our forums, chat rooms, or other forms of publicly accessible interaction, or information that you choose to make public in your member profile.
+We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our [Terms and Conditions](http://www.gamefront.com/tos/). You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
 
-**What We Provide to Third Parties**
+Please remember that if you post any of your personal information in public areas of the website, such as in online forums or chat rooms, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of the website.
 
-**Statistical Reports and Analysis**
+**What personal information does _FileFront_ collect?**
 
-Naturally, the aggregate statistics that describe our print and online audience, which is often based on the information you provide when you subscribe, register, or browse our sites, help us sell advertising and otherwise publicize GameFront and its brands.  
-**  
-Email and Postal Mail Deployment, Data Analysis and Other Data Services**
+When you register for the website, we collect personal information such as name, age, and email in order to set up your account.
 
-In order to comply with the Federal CAN-SPAM Act of 2003, you may opt-out of the GameFront newsletter.
+In addition to the information we collect upon your initial registration with Gamefront.com, we may ask you for personal information at other times, including, but not limited to, when you enter promotions or contests, and when you respond to a survey. We also use “cookies” (as described in our “cookies” section below) to track your activities on our websites.
 
-**GameFront Magazines, Seminars, Events, Sites and Other Publications and Services**
+Upon cancelling your GameFront account, you have the right to request deletion of your account information, subject to our need to keep appropriate archives for our business operations.
 
-As a GameFront customer, you can also expect to receive relevant email notices of events and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from leading companies.
+For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third-party sources and our web logs and add it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include email addresses you enter into a form or pages viewed by a user at a particular IP address.
 
-**Change of Ownership of GameFront Properties**
+**What do we do with the personal information we collect?**
 
-The mailing list(s) associated with GameFront properties may also be subject to transfer to another company in the event of a change of ownership (as was the case on April 1, 2009 when we bought the assets of GameFront from Ziff Davis Media).
+**1.       **It is used to set up and maintain your Gamefront.com account.  If you provide us with your mobile phone information, we may use such information to communicate with you regarding Gamefront.com by SMS, MMS, text message or other electronic means to a mobile device.
 
-**Anonymous Information We Collect  
-**  
-**Cookies**
+**2.**   Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email.
 
-As you probably know, cookies are small pieces of information that many Web sites store on your computer’s hard drive when you visit them. They don’t tell us who you are unless you’ve specifically given us personally identifiable information. Cookies stored on your hard drive by a GameFront site are not accessible to other sites.
+**3.       **Your personal information will never be sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you email about items that we feel you should know about. This includes special promotional items that FileFront endorses, membership changes, terms and conditions changes, Holiday cards, and the latest happenings on Gamefront.com.  When we send you emails that include a link to the website, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual.
 
-Like many other web sites, GameFront sites use cookies to improve your experience with our online content. For example, we may use a cookie to identify members so they don’t have to re-enter a user ID and password when they wish to download a utility or post to a discussion. As another example, cookies can be used to control the number of times you see advertisements, like pop-ups. By allowing us to better understand how users interact with the site over time, cookies also help us improve your experience and deliver more relevant content to you. Cookies may be created directly by our sites for these purposes, or by third-party companies operating on our behalf.
+**What non-personal information does _FileFront_ collect?** ** **
 
-Some of our advertisers and content providers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers and content providers. You need not have cookies turned on to visit our sites, though cookies may be required in order for you to participate in certain areas. If you choose to become a member of the GameFront web sites, you must have cookies enabled to access any member related pages. Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.  
-**  
-Pixel Tags**
+When you visit Gamefront.com, we collect some basic information that does not identify individual users. This includes which pages are visited, which advertisements are viewed, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible.
 
-Like many web sites, GameFront may also use pixel tags, also known as clear gifs, beacons, spotlight tags or web bugs, to improve our understanding of site traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. Pixel tags are sometimes used in conjunction with small Javascript-based applications, also for the purpose of traffic measurement. We may also implement pixel tags provided by other companies for the same purpose. You can disable pixel tags by changing your browser settings to omit images and disable Javascript; or there are commercial software packages available that can omit pixel tags and most advertisements.
+#### Behavioral advertising
 
-**Online Ad Serving**
+We analyze the non-personal information we collect or obtain from third parties and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests and online actions. We and our clients and partners then use these anonymous user profiles, groups and audiences to design and deliver customized advertising campaigns or other relevant content.  We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number.  Our technology and services are designed to limit our use of consumer data to anonymous, non-personal information.
 
-GameFront uses numerous third-party advertising service companies to serve advertisements when you visit our site. These companies may use information (not including your name, address, e-mail address, telephone number, or any other personally identifiable information you’ve provided us) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. For this purpose, these companies may monitor our sites using cookies and pixel tags for the purpose of reporting web site traffic, statistics, advertisement data and/or other activities on our sites. The information collected through the use of these pixel tags is not personally identifiable.
+When you visit any of the websites that participate in our ad network and view ads from FileFront’s advertisers, FileFront automatically receives and stores certain types of non-personally identifiable information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies and pixels, none of the foregoing by itself or together can be tracked to a specific individual’s personally identifiable information, and the non-personally identifiable information collected by FileFront will not be shared with third parties, except as expressly indicated in this Privacy Policy. The non-personally identifiable information collected through your use of the websites of our ad network, is used to provide relevant, targeted advertising and improve FileFront’s advertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. FileFront may track visits to its ad network and this information may be used over time to help predict your consumer interest segments and select the ad content you see. FileFront may also use non-personally identifiable profile-based anonymous information with other non-personally identifiable information.  FileFront does not create or use potentially sensitive data segments such as health-related segments, to provide its targeted online behavioral advertising for brand advertisers. ** **
 
-Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of the third-party advertising providers including information on [how to](http://www.gamefront.com/howtos) opt out of their tracking methods, click here.
+**Opt-out** ** **
 
-**Contests and Sweepstakes**
+Users who no longer wish to receive our email updates or other notifications may opt-out of receiving these communications by following the instructions contained in the applicable email.
 
-GameFront periodically conduct contests. If you choose to enter, the data you provide will be subject to the official rules of the specific contest, as well as this Privacy Policy. Data collected during the registration for such contests may be shared with sponsors. Please read the contest rules carefully before you submit your data.
+In addition, you may choose to not participate in our personalized advertising services by “opting out” of such personalized advertising services through the Network Advertising Initiative’s [Consumer Opt-out Program](http://www.networkadvertising.org/managing/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp"). Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies.
 
-**Co-Branded Sites and Services**
+#### Data retention
 
-When you use a co-branded service within our network of sites, or register or otherwise provide information on a co-branded site, you grant us permission to pass the information collected back to that service or site partner. Use of your information by such partners is subject to their applicable privacy policies.
+We and our partners may retain the anonymous user data we collect for up to nine (9) months from the date of its collection.  In addition, we maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.
 
-**White Papers and Other Sponsored Downloads**
+**With whom do we share your information and for what purpose?**
 
-GameFront hosts sponsored product listings and offers informational downloads for a variety of companies (or Sponsors). When registration is required in order to receive or view the download, all data collected during product registration and/or GameFront Web site registration will be shared with the Sponsor. When shared, this data is governed by the individual Sponsor’s privacy policy (except as noted in the following sentence) and may be used by the Sponsor for follow-up purposes. Similarly, GameFront will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how GameFront uses the data. For details on how Sponsors use the information you provide, please contact the Sponsor directly.  
-**  
-Changing Your Privacy Options**
+FileFront does not sell, rent, or trade any personally identifying information with others. However, when one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s). If you do not want your information to be shared, you will be able to choose not to allow the transfer by not using or signing up for that particular service, promotion or contest.
 
-**Update Your Registration Information**
+We may also share aggregate user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
 
-You can correct or change the information collected during site registration at any time at the profile page links shown above by sending email to the addresses shown above. It may take a brief period of time for any corrections or changes to be publicly displayed or implemented throughout our systems.
+We may contract with third parties to conduct research and marketing on our behalf.  Such third parties will be fully bound by an obligation of confidentiality to FileFront and may not use any personally-identifiable information provided by us other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
+
+We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. To fulfill your requests for products and services (e.g., provide you with content via your mobile phone), we may share the personally identifiable information you provide with your mobile phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities’ use of information. To learn more about your provider’s privacy practices, you should consult its privacy policy.
+
+**What information do parties other than FileFront collect?**
+
+**S** ome entities that have links on our site may collect personally identifying information about you when you access or utilize those links.  FileFront does not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy.
+
+It is important to note that those entities may not follow the same privacy policies as FileFront. For instance, if you click on an advertisement on Gamefront.com, you may be taken away from Gamefront.com to an entirely different site.  These links can also be from advertisers, content providers and/or partners who may use Gamefront.com’s logo and/or style as a result of a co-branding agreement yet they may still not follow the same privacy policies as FileFront.
+
+Applications you use or download from our site may contain third party digital rights management systems (“DRMS”) which may allow for communication between your software and the third party and utilize security features (e.g., preventing distribution of or access to the applications in the event of unauthorized use). These DRMS are subject to their own license agreements and you agree that we shall not be responsible for any loss or damage of any sort relating to the use of the DRMS or your dealings with such third parties. The applications may also contain DRMS produced by us which allow for communication between the applications you use or download and our systems and which collect information describing your computer system in order to prevent illegal or unauthorized use of the applications. ** **
+
+**What are “cookies” and “web beacons” and how do we use them?** ** **
+
+Our site may use “cookies” and “web beacons” to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services.  A “web beacon” is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use “cookies” to remember information you gave us so you don’t have to re-enter it each time you visit the site. By showing us how and when visitors use the site, “cookies” and “web beacons” allow us to see which site areas and content are popular, and  help us target content and advertisements based on user behavior. In addition, “cookies” will allow us to display in your profile which FileFront and affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors.   Some advertisers or websites that have links on our site may also use their own “cookies.” We do not control these “cookies.” You should check the privacy policy of these advertisers or websites to see whether and how they use “cookies.”
+
+Most browsers are initially set to accept “cookies.” If you’d prefer, you can set yours to refuse “cookies.” You will not be able to use our service if you turn off the “cookies” option. ** **
 
 **Security**
 
-We use reasonable precautions to keep the personal information you disclose to our magazines and websites secure and to only release this information to third parties we believe share our commitment to privacy. However, we are not responsible for any breach of security or for the actions of these parties.
+Our member accounts are secured by member-created passwords.  In addition, we use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.  ** **
 
-**Children**
+However, please note that we cannot guarantee the security of member account information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of our member information at any time.
 
-GameFront web sites are not intended for use by children, especially those under 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites.
+**COPPA compliance**
 
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.  
-**  
-Compliance with Law**
+Our site is not directed to children under the age of 13. We assume products purchased through credit card means are purchased by adults.  We have designed this privacy policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”). We will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties.
 
-Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our Terms of Service (http://www.gamefront.com/tos/) or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of GameFront, any of our users or the public, or to respond to an emergency.  
-**  
-Changes to the GameFront Privacy Policy**
+If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database.
 
-This Privacy Policy may be modified from time to time. If there is a significant change, we will indicate on our sites that our Privacy Policy has changed.
+We believe that parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
+
+## Business transitions
+
+In the event FileFront goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+
+**California User Consumer Rights.**
+
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). For more information about protecting your privacy, you may wish to visit: http: //www.ftc.gov
+
+We make an effort to protect the personal information of all users of Gamefront.com.  If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to Gamefront.com. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION.** Users of Gamefront.com located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States. ** **
+
+**Cooperation with law enforcement; fraud protection** ** **
+
+FileFront fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to disclose information about members who we believe are in violation of applicable laws or regulations, or as required to respond to a subpoena, court orders or other legal process requiring such disclosure. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful and to exchange information with other companies and organizations for fraud protection.  ** **
+
+**Changes to our Privacy Policy**
+
+Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the Gamefront.com website.  Users are bound by any changes to the Privacy Policy when they use Gamefront.com after such changes have been first posted.  Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of Gamefront.com, and you are responsible for reviewing such legal notices for changes.
+
+Any questions regarding our Privacy Policy should be directed to [privacy@gamefront.com](mailto:privacy@gamefront.com).
