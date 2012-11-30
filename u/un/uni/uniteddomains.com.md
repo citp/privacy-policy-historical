@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uniteddomains.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621063201id_/http%3A//www.uniteddomains.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteddomains.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130161328id_/http%3A//www.uniteddomains.com/service/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - United Domains
+# Privacy Policy • United Domains
 
 This Privacy Policy governs the manner in which United Domains (UD) uses, maintains and discloses information collected from its customers and users of its website.
 
@@ -19,7 +19,7 @@ UD may request or collect personal information from online users in a variety of
 The data we collect is information that identifies you personally, such as:
 
   * Your name
-  * E-mail address
+  * Email address
   * Postal address
   * Telephone and fax numbers
   * URL
@@ -46,7 +46,7 @@ UD may occasionally engage third parties, including its own subsidiaries and aff
 
 ## Special Offers and Updates
 
-Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, UD gives them the opportunity to opt-out from receiving these types of communications.
+Our customers and users will occasionally receive newsletters or emails with information on products, services, or special offers. Out of respect for the privacy of our users, UD gives them the opportunity to opt-out from receiving these types of communications.
 
 ## Service Announcements
 
@@ -70,6 +70,6 @@ You are responsible for the security of your Customer ID and passwords. Make sur
 
 ## Questions
 
-Any questions concerning this Privacy Policy may be directed by e-mail to [privacypolicy@ud.com](mailto:privacypolicy@ud.com).
+Any questions concerning this Privacy Policy may be directed by email to [privacypolicy@ud.com](mailto:privacypolicy@ud.com).
 
-To report abuse of this policy, please direct e-mail to [abuse@ud.com](mailto:abuse@ud.com).
+To report abuse of this policy, please direct email to [abuse@ud.com](mailto:abuse@ud.com).
