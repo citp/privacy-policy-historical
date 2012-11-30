@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628060158id_/http%3A//www.thrillist.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130100159id_/http%3A//www.thrillist.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Thrillist
+# Privacy Policy - Thrillist
 
 Thrillist will never sell our integrity. Just as importantly, Thrillist will never rent, share, or sell our subscriber list. Not even for really hot sex. We appreciate you letting us into your email, and we promise not to abuse that trust. We make this promise because we understand just how much you value your privacy. The policy below describes how we treat the information we collect when you visit our site and/or register for Thrillist. Please read this carefully. There will not be a test, but it's still important. 
 
