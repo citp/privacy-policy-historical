@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531094723id_/http%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130085107id_/http%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy
 
-[ ](http://watchdog.truste.com/pvr.php?page=complaint&url=)
+[](https://privacy.truste.com/privacy-seal/Briefing-com/validation?rid=a13d2a83-f198-42e1-8647-b9390a03ed05 "TRUSTe online privacy certification")
 
 Effective on: 9/19/11
 
@@ -120,9 +120,7 @@ Briefing.com shares Web site usage information about users with a reputable thir
 
 **These are the instances in which we will share users' personal information:**
 
-We share personal information with _Investor's Business Daily_ and the _Wall Street Journal Online_ division. 
-
-As part of a free trial to Briefing.com, new users are offered the opportunity to also take a free trial to IBD or WSJ Online. If a reader opts-in for either of these services, their name, mailing address and phone number are shared with the respective company. E-mail addresses are released for the WSJ Online offer.
+We share personal information with Investor's Business Daily. As part of a free trial to Briefing.com, new users are offered the opportunity to also take a free trial subscription to IBD. If a reader opts-in for this service, their name, mailing address and phone number are shared.
 
 **Third Party Intermediaries**
 
@@ -130,7 +128,7 @@ We use an outside credit card processing company to bill users for goods and ser
 
 **Service Providers**
 
-We partner with other third parties [MarketWatch, Zacks, GARBAN Information Systems, Quote.com, Morningstar, RiskMetrics, Yahoo! Finance and World Investor Link] to provide specific services. [For example, stock quotes and charting features.] This is content licensed to Briefing.com for the benefit of our readers. We do not share any information with our third party content providers. 
+We may license content from other third parties such as Capital IQ, Deutsche Borse, FactSet, Wall Street Horizon and Retail Metrics for the benefit of our readers. We do not share any information with our third party content providers. 
 
 **Business Transitions**
 
@@ -144,15 +142,15 @@ Users who no longer wish to receive our newsletter and promotional communication
 
 This Web site contains links to other sites. Please be aware that we, Briefing.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Briefing.com. 
 
-Briefing.com has co-branded relationships in place with the following companies:  MarketWatch, Zacks ,GARBAN InformationSystems, Quote.com, Morningstar, RiskMetrics, Reuters and World Investor Link. As a reader, when you are viewing content from any of these third party providers, you have left Briefing.com's site.
-
 **Logging in with Facebook Connect**
 
 You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
 **Surveys**
 
-From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes demographic information (such as income and online trading habits). This anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Though we may use an intermediary to conduct these surveys, they may not use users' personally identifiable information for any secondary purposes. Security
+From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes demographic information (such as income and online trading habits). This anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Though we may use an intermediary to conduct these surveys, they may not use users' personally identifiable information for any secondary purposes. 
+
+**Security**
 
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
