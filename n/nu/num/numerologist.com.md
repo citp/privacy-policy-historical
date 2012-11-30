@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311115545id_/http%3A//privacy-policy.truste.com/verified-policy/numerologist.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130182020id_/http%3A//privacy-policy.truste.com/verified-policy/numerologist.com) for the most accurate reproduction.*
 
 # Privacy Policy for numerologist.com
 
 Effective on March 24, 2010 
 
-This privacy statement describes how Atlantic Private Equity Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com ](https://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Atlantic Private Equity Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com ](http://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
 Atlantic Private Equity Incorporated is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact us at [blair@numerologist.com ](mailto:blair@numerologist.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact us at [info@numerologist.com ](mailto:info@numerologist.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
@@ -44,7 +44,7 @@ We use this information to
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [blair@numerologist.com ](mailto:blair@numerologist.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@numerologist.com ](mailto:info@numerologist.com).
 
 ## Information Sharing
 
@@ -79,7 +79,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ## Security
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [blair@numerologist.com ](mailto:blair@numerologist.com)
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@numerologist.com ](mailto:info@numerologist.com)
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
@@ -87,7 +87,7 @@ In order to make a purchase from us, you must use our shopping cart provider to 
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [blair@numerologist.com ](mailto:blair@numerologist.com).
+To review and update your personal information to ensure it is accurate, contact us at [info@numerologist.com ](mailto:info@numerologist.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -97,8 +97,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Atlantic Private Equity Incorporated 
 
-14525 SW Millikan Way # 28110 
+PO Box 35-082 New Zealand 
 
-Beaverton, OR, United States 97005-2343
+Christchurch, CA, United States 11111
 
 Phone: (971)2282986
