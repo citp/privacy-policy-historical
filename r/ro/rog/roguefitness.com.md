@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602110517id_/http%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130224828id_/http%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,6 +58,10 @@ We collect information from you in several different ways on this Site. One goal
 (iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it’s possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
 
 (v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+
+**3\. Contests and Other Promotions.**
+
+From time to time, we may offer contests, sweepstakes or other promotions. Participation in these promotions may require registration (see 1. Information Collection, above). If you participate in these promotions, we collect contact information such as your name, address, and email address and we may share this information with co-sponsors or other third parties involved in the presentation of the promotion that we identify in the rules or entry materials. We don’t control these third parties’ privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We may also share some of your entry information with third parties or the public in connection with the administration of the promotion, such as winner selection and prize fulfillment, and as permitted by the promotion's official rules, such as on a winners' list.
 
 ## DATA SECURITY
 
