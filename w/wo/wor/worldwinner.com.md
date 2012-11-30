@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618204221id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130093005id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
 
 # GSN Privacy Policy - GSN.com - watch.play.win.
 
@@ -78,6 +78,13 @@ All postings, whether in a chat room, on message boards or other method of commu
 
 The Website may contain links to, or advertisements concerning, other websites. Other websites may also reference, advertise, or link to GSN. GSN is not responsible for the privacy practices or the content of such other websites and expressly disclaims all liability associated with your use of, and the content on, such other websites and advertisements. You should check the applicable privacy policy of any website you may click through to. 
 
+We partner with SteelHouse to deliver offers that are relevant to your interests based on what you've viewed on our site. SteelHouse's cookies only collect Non-Personally Identifiable Information for online marketing purposes. This information is anonymous and cannot be traced back to any individual. To learn more, please visit SteelHouse's Privacy Policy. To receive less relevant offers and decline to be included in our online offers through SteelHouse, click here. To opt-out of all online marketing provided by members of the Network Advertising Initiative (NAI) of which SteelHouse is a member, click here.
+
+Privacy Policy: <http://www.steelhouse.com/privacy-policy>  
+Opt-Out: <http://www.steelhouse.com/opt-out>  
+Network Advertising Initiative: [http://www.networkadvertising.org](http://www.networkadvertising.org/)  
+
+
 #### Consent to Processing in the United States
 
 By providing any personal information to the Website, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to the collection and processing of such information in the United States of America . 
@@ -105,4 +112,4 @@ GSN is dedicated to protecting your personal information and welcomes comments a
 
 GSN reserves the right to change this policy at any time by notifying registered guests via email of the existence of a new Privacy Policy and posting it on the Website. Any changes to the Privacy Policy shall be effective when posted. 
 
-Last Updated: 1/7/04 
+Last Updated: 10/15/2012 
