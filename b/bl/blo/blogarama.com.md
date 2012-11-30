@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogarama.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531230128id_/http%3A//www.blogarama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogarama.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130231232id_/http%3A//www.blogarama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogarama
 
