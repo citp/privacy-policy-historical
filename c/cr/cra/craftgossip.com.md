@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the craftgossip.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530010609id_/http%3A//craftgossip.com/craftgossipcom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftgossip.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130080158id_/http%3A//craftgossip.com/craftgossipcom-privacy-policy) for the most accurate reproduction.*
 
 # CraftGossip.com Privacy Policy · Craft Gossip | CraftGossip.com
-
- 
 
 ## Privacy Statement for CraftGossip.com
 
@@ -10,17 +8,21 @@
 
 #### Information Automatically Logged
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information that is for our records only. __
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information that is for our records only.
 
 #### Cookies
 
-Our Site uses cookies to keep track of your session for logging in purposes. We do not use cookies for any other purpose. __
+Our Site uses cookies to keep track of your session for logging in purposes. We do not use cookies for any other purpose.
 
 #### Advertisers
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
 These ad companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
+
+**Notice Regarding Online Behavioral Advertising.**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 #### Registration
 
