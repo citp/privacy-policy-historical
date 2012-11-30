@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautyhigh.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531233948id_/http%3A//www.beautyhigh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyhigh.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130234759id_/http%3A//beautyhigh.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Beauty High
+# Privacy Policy | Beauty High
 
 Welcome to StyleCaster! StyleCaster, Inc. (“ **StyleCaster** ,” “ **we** ,” “ **us** ,” or “ **our** “) operates a number of websites (including  **www.StyleCaster.com** , **news.StyleCaster.com** ,  **BeautyHigh.com** ) (the applicable website on which you are, a “ **Site** “) as well as a number of related services, including our mobile application (collectively, the “ **Services** “). The focus of our Sites and Service is to let you get opinions, give opinions, communicate with other users, and connect with people like you.
 
