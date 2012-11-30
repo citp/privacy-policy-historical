@@ -1,29 +1,37 @@
-> *The following text is extracted and transformed from the dressup121.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611131147id_/http%3A//www.dressup121.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressup121.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130082132id_/http%3A//www.dressup121.com/privacy.htm) for the most accurate reproduction.*
 
-# 
+# DressUp121.com
 
-**Personal Information**  
-DressUp121.com is committed to protecting your privacy online. DressUp121.com does not collect any personal information. 
+**Personal Information** ****  
+Here, at DressUp121.com your personal information will not be collected. DressUp121.com does everything to make sure your online privacy is protected. 
 
-**IP address and logging**  
-Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
+**IP address and logging**   
+Once you log in at our site, your IP will be used to collect information about your site visiting habits as well as some demographic information. 
 
-**Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit DressUp121.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+**Third Party Advertising**   
+At our site, third party companies will have access to some of your anonymous information that will be used to improve your online experience and provide advertisements about products and services that are of more interest to you. This is usually done by cookies or third party web beacon. The information they collect cannot lead to you personally and they include info about the ads that you’ve clicked, type of your browser, etc. You can learn more about this here:[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+**Third Party Cookies**   
+Third party cookies may be recognized or placed on your browser by our third party advertiser, only in order to make the advertisements you see more relevant to you. 
 
-**Liability**  
-It is DressUp121.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, DressUp121.com will immediately disable and remove games in question.
+**Liability**   
+At any time, you can report any sort of intellectual property violation. DressUp121.com will instantly remove any game that is reported in accordance with copyright organization or owner. 
 
-**Special Note About Google Advertising**  
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+**External Links**   
+There are links to the other sites at DressUp121.com. DressUp121.com, however, cannot be responsible for the contents and privacy policies of those sites. 
 
-**Special Note On DoubleClick DART Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on our site.  
-Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL <http://www.google.com/privacy_ads.html>
+DressUp121.com allows you to use the services of our site only if you agree to its “Privacy Policy” and “Terms of Use” conditions in full. You agree to these terms automatically when you visit DressUp121.com and/or use any game or anything else displayed on this site. If you don’t agree with any part of these terms and conditions, you are not allowed to use the contents of this site. These terms and conditions are prone to changes and it is your responsibility to keep up to date 
 
-**Contact**  
-dressup121 @ gmail.com
+**Access Restrictions**   
+You can use DressUp121.com on your own if you have 13 years or more. Younger visitors are allowed only in presence of their parents. 
+
+**Proprietary Rights of the Games**   
+Since the majority of software and games are submitted by their creators, DressUp121.com cannot be held responsible for any intellectual rights or properties violation. However, DressUp121.com will response in a short notice to any report of such violation. 
+
+**Outgoing and Incoming Links**   
+DressUp121.com cannot be held responsible for the contents and policies of the sites that link to our site or any of the outgoing links. 
+
+**Advertisments**   
+DressUp121.com cannot be held responsible about the advertisements published on our site. 
+
+﻿ 
