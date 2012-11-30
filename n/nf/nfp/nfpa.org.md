@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601113824id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfpa.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130224359id_/http%3A//www.nfpa.org/displayContent.asp%3FcategoryID%3D88) for the most accurate reproduction.*
 
-# NFPA :: Privacy Policy
+# Privacy Policy
 
 This is the web site of the National Fire Protection Association. 
 
@@ -25,9 +25,11 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 **Customer E-mail Lists: Collection, Usage  and Preference Options**
 
-By supplying NFPA with your email address (while creating an account on our website, placing an order on-line or through our call center, requesting catalog or other information, or during an NFPA hosted event, etc.), we will use that email address for NFPA marketing solicitations and electronic newsletter deployments.  You can opt-out of these electronic communications at anytime by following the instructions in our emails or by logging into your on-line NFPA profile and visiting the email preference page.  For further assistance, you may email us at [custserv@NFPA.org](mailto:custserv@NFPA.org) or call us at 1-800-344-3555.
+By supplying NFPA with your email address (while creating an account on our website, placing an order on-line or through our call center, requesting catalog or other information, or during an NFPA hosted event, etc.), we will use that email address for NFPA marketing solicitations and electronic newsletter deployments. You can opt-out of these electronic communications at anytime by following the instructions in our emails or by logging into your on-line NFPA profile and visiting the email preference page. In addition to the emails just described, all NFPA Members, as part of their member benefits, receive NFPA Journal Update and other Member information. If you are an NFPA Member and would like to opt-out of receiving these NFPA Member Benefit emails, you may email us at [custserv@NFPA.org](mailto:custserv@NFPA.org) or call us at 1-800-344-3555.
 
-From time to time, we make the email addresses of those who register on our site available to other reputable organizations whose products and services we think you might find interesting.  For sponsored training events, we may also provide your email address to the event sponsor(s). If you do not want to NFPA to share your email address with other organizations, please click [here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=272412627&n=800) and register your email address to be suppressed from third party sharing.
+From time to time, we make the email addresses of those who register on our site available to other reputable organizations whose products and services we think you might find interesting. For sponsored training events, we may also provide your email address to the event sponsor(s). If you do not want to NFPA to share your email address with other organizations, [please register your email address to be suppressed from third party sharing](http://ebm.cheetahmail.com/r/regf2?a=0&aid=272412627&n=800).
+
+For questions or further assistance email us at [custserv@NFPA.org](mailto:custserv@NFPA.org) or call us at 1-800-344-3555.
 
 **Online Behavioral Advertising**
 
@@ -54,3 +56,7 @@ NFPA has a ‘Secure’ transaction system in place to verify and protect your c
 **NFPA Membership Lists**
 
 From time to time, NFPA may make its customer lists available to other reputable organizations whose products or services you might find interesting. NFPA does not rent its membership list to other organizations; however it is possible that members might be included in our customer lists if they have purchased merchandise from NFPA. If you do not want us to share your name and address with other companies or organizations, please let us know by either sending an e-mail to the above address, calling the above telephone number, or writing to the above address. Be specific in telling us that you do not want NFPA to share your full name and address with others.
+
+Back.
+
+top of page
