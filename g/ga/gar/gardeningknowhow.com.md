@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613114450id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeningknowhow.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130084715id_/http%3A//www.gardeningknowhow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Gardening Know How Gardening Know How
 
- | 
-
- **What information do we collect?**
+**What information do we collect?**
 
 We collect information from you when you register on our site, place an order, respond to a survey or fill out a form.
 
@@ -89,5 +87,3 @@ http://www.gardeningknowhow.com
 Bedford, Ohio 44146  
 USA  
 questions@gardeningknowhow.com
-
-|  
