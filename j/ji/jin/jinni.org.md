@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jinni.org privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601161259id_/http%3A//www.jinni.org/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinni.org privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201005919id_/http%3A//www.jinni.org/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Jinni.org - Free Classifieds
+# Houston, USA - Jinni.org - Free Classifieds
 
 Jinni.org respects your privacy. We have a firm commitment to you to protect your privacy. The following discloses our information collection and use practices for our Website. 
 
