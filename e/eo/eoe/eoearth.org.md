@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eoearth.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531221455id_/http%3A//www.eoearth.org/article/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoearth.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130162339id_/http%3A//www.eoearth.org/article/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,8 +17,8 @@ If you have questions or suggestions, please contact us at [eoe@eoearth.org](mai
 
 ## Citation
 
-[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Lead Author);[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Topic Editor) "Privacy Policy". In: Encyclopedia of Earth. Eds. Cutler J. Cleveland (Washington, D.C.: Environmental Information Coalition, National Council for Science and the Environment). [First published in the Encyclopedia of Earth November 13, 2008; Last revised Date November 13, 2008; Retrieved May 31, 2012 <<http://www.eoearth.org/article/Privacy_Policy>>
+[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Lead Author);[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Topic Editor) "Privacy Policy". In: Encyclopedia of Earth. Eds. Cutler J. Cleveland (Washington, D.C.: Environmental Information Coalition, National Council for Science and the Environment). [First published in the Encyclopedia of Earth November 13, 2008; Last revised Date November 13, 2008; Retrieved November 30, 2012 <<http://www.eoearth.org/article/Privacy_Policy>>
 
 ## The Author
 
-[](https://web.archive.org/profile/EoE_Cutler) Editor-in-Chief The Encyclopedia of Earth Cutler J. Cleveland is the founding Editor-in-Chief of the Encyclopedia of Earth. Dr. Cleveland is currently a Professor in the Department of Geography and Environment at Boston University, with joint appointments in the Center for Energy and Environmental Studies and the Pardee Center for the Study of the Longer Range Future. He also is a Senior Fellow at the National Council for Science and the Environment in Washington D.C. Dr. Cleveland is als ... [(Full Bio)](https://web.archive.org/profile/EoE_Cutler)
+[](https://web.archive.org/profile/EoE_Cutler) Cutler J. Cleveland  is Professor of Earth and Environment at Boston University, where he also is on the faculty of the Center for Energy and Environmental Studies. Professor Cleveland is Editor-in-Chief of the Encyclopedia of Energy (Elsevier, 2004), winner of an American Library Association award, the Dictionary of Energy (Elsevier, 2005), Handbook of Energy (Elsevier, forthcoming), and is the Founding Editor-in-Chief of the Encyclopedia of Earth.  He is the recipient of the Adelma ... [(Full Bio)](https://web.archive.org/profile/EoE_Cutler)
