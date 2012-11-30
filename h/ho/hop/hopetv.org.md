@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopetv.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627023434id_/http%3A//www.hopetv.org/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopetv.org privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201003535id_/http%3A//www.hopetv.org/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: HOPE CHANNEL
 
