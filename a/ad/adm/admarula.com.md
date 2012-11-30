@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the admarula.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531222628id_/http%3A//www.admarula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarula.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130222559id_/http%3A//www.admarula.com/privacy-policy) for the most accurate reproduction.*
 
-# AdMarula Affiliate Network - Privacy Policy | AdMarula
+# AdMarula Performance Marketing Network - Privacy Policy | AdMarula
 
 ### Privacy Policy
 
-All references to “the Company”", “we”, “us” and “our” in these terms and conditions are deemed to refer to AdMarula (Proprietary) Limited, registration number 2011/009369/07, a limited liability company incorporated in the Republic of South Africa and having its registered address at Cabernet House West, Brandwacht Office Park, Trumali Road, Stellenbosch, 7600.
+All references to “the Company”", “we”, “us” and “our” in these terms and conditions are deemed to refer to AdMarula (Proprietary) Limited, registration number 2011/009369/07, a limited liability company incorporated in the Republic of South Africa and having its registered address at 56 Shortmarket Street, Cape Town, 8000.
 
 All references to “you” and “your” are deemed to refer to any user and/or visitor of www.admarula.com (“ **Website** “).
 
