@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkdex.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605095719id_/http%3A//www.linkdex.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdex.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130171004id_/http%3A//www.linkdex.com/about/about-linkdex/privacy-policy) for the most accurate reproduction.*
 
-# LINKDEX PRIVACY POLICY
+# Privacy Policy | Linkdex
 
 We respect the privacy of your personal information.  This policy sets out how we use any personal information collected from you, or that you provide to us, when using our service.
 
@@ -30,7 +30,7 @@ We do not disclose or sell your information outside our corporate group.
 
 We may use your information to send you information about products, services, promotions and events which may be of interest to you.
 
-You can opt-out of receiving marketing communications from us at any time by contacting us at [support@linkdex.com](mailto:customer.services@linkdex.com).
+You can opt-out of receiving marketing communications from us at any time by contacting us at [support@linkdex.com](mailto:customer.services@linkdex.com).
 
 **Disclosure of your information**
 
@@ -45,6 +45,3 @@ We may also disclose your personal information to third parties:
 
 
 Version 31-03-11
-
-
-
