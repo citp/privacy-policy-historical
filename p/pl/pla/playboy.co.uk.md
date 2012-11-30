@@ -1,161 +1,84 @@
-> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129121429id_/http%3A//www.playboy.co.uk/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130075419id_/http%3A//www.playboy.com/privacy-policy) for the most accurate reproduction.*
 
-# Playboy
+# Hot Girls, Sexy Girls, Naked Women, Nude Pics, Sexy Women, Playmates, Playboy Magazine, Naked Celebs, Playboy.com
 
-## Playboy TV UK/Benelux Limited. Privacy Policy
+This Privacy Policy (the "Policy") applies to Playboy Plus Entertainment, Inc.’s ("PBP") family of websites (the "Sites"). These include playboy.com; cyber.playboy.com; and any other websites at which this Policy appears. It does NOT apply to other online or offline websites, products or services of PBP or PBP's affiliates. This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the "Effective Date" at the top. We may also use alternative methods to alert you to changes to the Policy. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites or any portion of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of the Sites or any portion of the Sites.
 
-Effective as of February 18 2009
+We collect personal information that you provide to us such as your name, e-mail address, street address and telephone number. We also collect your credit card number, credit card expiration date and banking information from you. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from one of the Sites. When you participate in special events such as contests and polls, you may be asked to provide your name, e-mail, username and password, telephone number and birth date. We may also collect information from our online surveys if you choose to participate, such as age, gender and income level.
 
-This Privacy Policy (the "Policy") applies to the playboy.co.uk website (the "Site").
+When you visit any of our Sites, we collect certain anonymous demographic information about you, including your IP address, zip code and browser program. We also collect information regarding your use of the Sites through the use of cookies (see below for more about cookies).
 
-This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the "Effective Date" at the top. We encourage you to check this page periodically for any changes. By using or navigating this Site, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or revisit our Site.
+If you choose to post messages, comments or other information in one of the public forums on any of our Sites, we will maintain on the Sites such information about you as you choose to disclose in your posting.
 
-**What information do we collect and what do we do with the information we collect?**
+If you send us personal correspondence, such as emails or letters, we may collect such information into a file specific to you. We will maintain a record or notes of communications with you regarding your account.
 
-We collect personal information that you provide to us such as your name, e-mail address, street address and telephone number. We also collect credit card information from you. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from our Site. We may also collect information from our online surveys such as age, gender and income level.
+We use your information in order to process your credit card payments, to fulfill your orders and/or requests, to facilitate your viewing of our Sites, to communicate with you, and to provide you with information about PBP, some of our partners and third party companies in which we think you may be interested. We also use this information to compile broad demographic and Site usage information about our users in general that does not contain anything that could be used to identify you personally.
 
-We also collect IP addresses and anonymous demographic information and may use this data to: tailor your experience at our sites; provide content in which we think you may be interested; display content according to your preferences; and analyse traffic to our sites.
+PBP uses your e-mail address to contact you when necessary and to send periodic e-mail newsletters and promotional e-mails to you about services and products offered by us as well as by third party companies in which we think you may be interested.
 
-We use the information provided to us to fulfil your order or request; to provide you with information about our services, some of our partners and third party companies in which we think you may be interested; and to contact you when necessary.
+We use IP addresses and anonymous demographic information to tailor your experiences at our Sites by showing content in which we think you will be interested and displaying content according to your preferences. Anonymous demographic information is shared with advertisers and market researchers on an aggregate basis.
 
-Anonymous demographic information will be shared with advertisers and market researchers on an aggregate basis.
+We use information collected to evaluate and improve our services. We may develop and use, in our sole discretion, consumer research, which may be based on your use of our services.
 
-We may develop and use, in our sole discretion, consumer research which may be based on your use of our services.
+Personal information collected on and/or through the Sites is stored and processed in the United States and by using any of the Sites, you consent to any such transfer of information outside of your country to the United States.
 
-Personal information collected on the sites is stored and processed in the United KingdomUSA and by using our sites you consent to any such transfer of information outside of your country.
+In some cases, we will share information we collect (including personal information and/or anonymous demographic information) with third party companies who may offer products or services in which we believe you may be interested. We also share this information with third parties with whom we partner to co-promote and administer sweepstakes and contests on our Sites.
 
-**Do we share the information we collect with third parties?**
+We may also share information we collect with third party service providers to manage certain aspects of the services we provide, such as maintaining our servers and processing or fulfilling orders for products and services you purchase through the Sites.
 
-In some cases, we will share information we collect (including personal information or anonymous demographic information) with third party companies with whom we partner to co-promote and administer sweepstakes and contests on our sites.
+We may also disclose your information in special cases if required to do so by law, court order or governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of PBP, another user or anyone else that could be harmed by such activities.
 
-We may also share information we collect with third party service providers to manage certain aspects of the services we provide, such as maintaining our servers and processing or fulfilling orders for products and services you purchase through the sites.
+In the event of a change in ownership or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all user information collected in connection with the Sites, including but not limited to email addresses, to a separate entity. PBP will notify you (via a posting on the Sites or the Policy or via email (in our discretion)) of such a transfer, and you may choose to modify your registration information at that time. This means that if you are concerned about your personal data migrating to a new owner, you can deactivate your account.
 
-We may also disclose your information in special cases if required to do so by law, court order or other governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of Playboy TV UK/Benelux Limited, another user or anyone else who could be harmed by such activities.
+No. The Sites may offer chat rooms, forums, message boards and/or news groups to our users. Please remember that any information disclosed in these areas becomes public information. Accordingly, you should exercise caution when deciding to disclose your personal information in any public forum, and you do so at your own risk. 
 
-**What information will third-party advertisers get from the sites?**
+Yes. Cookies are pieces of information generated by web servers and stored on your computer for future access. The Sites use cookie technology to enhance your online experience by making it easier for you to navigate through our Sites or to make a feature work better. Generally, cookies can be disabled at your discretion. However, you must accept cookies in order to navigate the Sites; register for a subscription to any of the Sites.
 
-The sites allow other companies, called third-party ad servers or ad networks, to serve advertisements within the sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript or Web Beacons) to measure the effectiveness of their advertisements and to personalise the advertising content you see.
+Yes. Some of our Sites may contain electronic images known as "web beacons" or single-pixel GIFs that allow us to count visitors to our Sites and deliver co-branded services. Web beacons collect limited, non-personal information including cookie number, time and date of a page view and a description of the page on which the web beacon resides.
 
-The sites do not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific programme or feature for which you will have the ability to opt in or opt out. However, please note that if an advertiser asks the sites to show an advertisement to a certain audience (for example, men aged 18-34) or audience segment (for example, men aged 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+PBP takes reasonable precautions to maintain the security of any information obtained from and about you and to protect against the loss, misuse and alteration of information under our control. Our third party payment processors provide you with a secure web page through which to submit your billing information when you join the membership portion of any of our Sites, and we are not responsible for their handling or use of your information. The personally identifiable information held by PBP is stored in a secure location behind a firewall with limited administrative access.
 
-You should consult the respective privacy policies of these third-party ad servers for more information on their practices and for instructions on how to opt out of certain practices. The sites' privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites. Any data obtained by third-party ad servers, which is subsequently shared with the sites, is maintained and handled by the  sites in accordance with this privacy policy.
+In addition, your subscriber account is secured by a password created by you. Do not share your password with anyone. It is your responsibility to keep your password confidential, and PBP cannot be held liable for any loss or misuse of your password.
 
-**What information is Publicly Available?**
+No. The Sites may contain links to other Internet sites, resources and sources of PBP. By clicking on any banner advertisement or other link, you will be redirected off the Sites and to third party websites. PBP is not responsible for the privacy policies or content of such websites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding external links to the site administrator or webmaster of that third party website.
 
-When you create an account on the Site, some information regarding your account and your account activity will be provided to other users of the Site. This may include the date you opened your account, the date you last logged in to your account, your age (if you choose to make it public), your country, your rating for videos and the number of videos you have watched.
+All e-mails you receive from us will include specific instructions on how to unsubscribe, and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
 
-Your account name (not your email address) is displayed to other users when you engage in certain activity on the Site, such as uploading videos or sending messages via the Site. Other users can contact you via messages and comments.
+  1. Send an email to [admin@playboy.com](mailto:admin@playboy.com) (please indicate that you would like to be unsubscribed from PBP emails);
+  2. Select the opt-out link at the bottom of any PBP email and follow the instructions provided;
+  3. Send a letter to the following address: 
+    * Playboy Plus Entertainment, Inc.
+    * 2300 West Empire Avenue, 7th Floor
+    * Burbank, CA 91504
 
-You can also choose to add personal information that will be visible to other users on your My Playboy page (the public facing page for your account on the Site). This may include a profile picture, your name, gender, relationship status or other details.
 
-If you choose to add certain features to your channel page, these features and your activity associated with these features will be displayed to other users and may be aggregated and shared with your confirmed friends or other users. Such shared activity may include videos you add as favourites, videos you rate and videos you have uploaded.
 
-Any videos that you submit to the Site may be redistributed through the Internet and other media channels and may be viewed by the general public.
+Please note, however, you cannot opt out of receiving emails from us regarding your account and/or the status of an order.
 
-You can also make your account private which will not be reached by other users of the Site.
+You may correct or update the personal information you have provided to PBP by sending us an email at [admin@playboy.com](mailto:admin@playboy.com).
 
-**Do we use cookies?**
+Please note, however, that even if you update or remove your personal information from our live database, your data may be retained in our backup files and archives.
 
-Yes. Cookies are pieces of information generated by web servers and stored in your computer for future access. The Site uses cookie technology to enhance your online experience by making it easier for you to navigate through our Site or make a feature work better. Generally, cookies can be disabled. However, you must accept cookies in order to navigate the Site; register for our membership Site and order products from our online store(s).
+PBP recognizes the importance of protecting your privacy. If you have any questions about this Privacy Policy, the practices of our Sites or your dealings with PBP, please contact us at admin@playboy.com or by mail at 2300 West Empire Avenue, 7th Floor, Burbank, California 91504.
 
-**How to reject cookies**
+Please note that persons under the age of 18 are prohibited from viewing our Sites, and PBP does not knowingly collect any personal information from persons under the age of 18.
 
-Adjust your browser settings to reject cookies (for mobile phones you will have to refer to your handset manufacturer's help manual) using one of the following procedures (depending on your website browser):
+California residents who have an established business relationship with PBP may choose to opt out of PBP disclosing personal information about them to third parties for marketing purposes.
 
-**If you're using Internet Explorer 6.0 or 7.0:**
+From time to time, we may share your personal information with carefully screened companies that offer products or services that we believe you may enjoy. If you do not want us to share your personal information with such third parties, please send us your name, email address, street address and phone number to [admin@playboy.com](mailto:admin@playboy.com).
 
-1\. Choose Tools, then
+Your opt out request will be processed within 30 days of the date it was received.
 
-2\. Internet Options
+Certain companies such as web analytics partners, advertisers, application developers and ad networks may use cookies, web beacons, and applications (or "widgets") on the Sites as described below.
 
-3\. Click the Privacy tab
+PBP may allow certain partners to include web beacons within pages on the Sites. PBP may also share portions of our log file data, including IP address, with these partners for analytics purposes. In the event your IP address is shared, this information may be used to estimate general location and other technographics (such as connection speed, whether you have visited the Sites in a shared location, and type of the device used to visit the Sites). These partners aggregate information about our advertising and what you see on the Sites and then provide auditing, research and reporting for us and our advertisers. PBP allows web beacons from and shares log file data with the following partners (click to visit their websites):
 
-4\. Click on Custom Level
+[http://www.nielsen-netratings.com](http://www.nielsen-netratings.com/)
 
-5\. Click on the 'Advanced' button
+None of the personal identifying information you provided to PBP in connection with your account is shared with our advertisers or our partners as part of our analytics programs.
 
-6\. Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate.
+The following third parties offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. Please visit each company's privacy policy to better understand the controls available to you.
 
-**If you're using Firefox 2.0:**
+<http://www.nielsen-netratings.com/privacy/sitecensus.htm>
 
-1\. Choose Tools, then
-
-2\. Options
-
-3\. Click the Privacy icon
-
-**If you're using Firefox 1.0 or 1.5:**
-
-1\. Choose Tools, then
-
-2\. Options
-
-3\. Click the Privacy icon
-
-4\. Click the Cookies tab
-
-**If you're using Opera 8.0 or 9.0:**
-
-1\. Choose Tools, then
-
-2\. Preferences
-
-3\. Advanced
-
-4\. Cookies
-
-**If you're using Opera 7.0:**
-
-1\. Choose File, then
-
-2\. Preferences
-
-3\. Privacy
-
-If you have set your device to reject or have opted out of receiving cookies you can still browse playboy.co.uk anonymously until such time as you wish to register for playboy.co.uk services. For further information on cookies please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/ "Link to aboutcookies.org").
-
-**Do we use web beacons?**
-
-Yes. Our Site may contain electronic images known as "web beacons" or single-pixel gifs that allow us to count visitors to our Site and deliver co-branded services. Web beacons collect limited information including cookie number, time and date of a page view and a description of the page on which the web beacon resides.
-
-**Is the Site secure?**
-
-We are committed to maintaining the security of your information and have measures in place to protect against the loss, misuse and alteration of the information under our control. All credit transactions occur in a secure area of the Site using Secure Sockets Layer ("SSL") software to process orders. SSL encrypts the information you input on the Site. In addition, all information is stored in a secure location behind a firewall with limited administrative access.
-
-**Does this Policy apply to linked sites other than the Site?**
-
-No. The Site contains links to other Internet sites, resources and sources of Playboy TV UK/Benelux Limited. By clicking on an ad banner or other link, you will be redirected off the Site and to third party websites. Playboy TV UK/Benelux Limited is not responsible for the privacy policies of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding external links to the site administrator or webmaster of that third party website.
-
-**What are usersâ€™ choices?**
-
-You may, of course, decline to submit personally identifiable information through the sites, in which case you can still explore the sites, but Playboy may not be able to provide certain services to you. Some advanced Playboy features may, for authentication purposes, require you to sign up for other Playboy services like Video on Demand.
-
-You may update or correct your personal profile information and email preferences at any time by visiting your My Playboy page.
-
-You can control the information that is available to other Users and your confirmed friends at any time, by editing your account and the features included on your channel page.
-
-**Email Privacy Policy**
-
-**Why did you receive a mailing from us?**
-
-Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.  We also use double â€˜â€™opt-inâ€™â€™ method to confirm your email and protect your personal data.
-
-If you believe you have received unwanted, unsolicited email sent via the system or purporting to be sent via the email system, please forward a copy of that email with your comments to us for review.
-
-**How can you stop receiving email from us?**
-
-Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the Unsubscribe at the end of any email.
-
-**How we protect your privacy**
-
-We use appropriate security measures to protect against the loss, misuse and alteration of data used by our system.
-
-**Sharing and Usage**
-
-We will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information, and to contracted service providers for purposes of providing services relating to our communications with you.
-
-**Use of Web Beacons**
-
-When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails. When you click on a link in an email, we may record this individual response to allow us to customise our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the Web Beacon resides (the URL).
-
-Web Beacons can be refused when delivered via email. If you do not wish to receive Web Beacons via email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.
+* * *
