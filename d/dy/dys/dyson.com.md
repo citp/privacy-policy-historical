@@ -1,38 +1,12 @@
-> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2008-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081230203747id_/http%3A//www.dyson.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130221437id_/http%3A//www.dyson.com/support/privacy.aspx) for the most accurate reproduction.*
 
-# Dyson
-
-Dyson Direct Inc. is committed to protecting the privacy of users of our website, www.dyson.com. We are therefore disclosing here our online information collection and use practices. These practices relate to information collected by Dyson Direct Inc. on this website.
-
-We constantly review our privacy practices, especially as we change our products and services offered to you online. As we make such changes, our privacy practices may change as well. Any such changes will be reflected in our privacy policy, which when updated will be posted on this page without notification.
-
-Questions regarding this privacy policy should be directed to the website coordinator at [webmaster@dyson.com](mailto:webmaster@dyson.com).
-
-You may also contact us at:
-
-**Dyson Direct Inc.**
-
-600 W. Chicago Avenue, Suite 275   
-Chicago   
-Illinois   
-60610
-
-**Tel:** 1-866-693-9766
-
-  * What personally identifiable information do we collect about you?
-  * What do we do with the information we collect?
-  * With whom do we share the information we collect?
-  * What opt out rights and rights to obtain details of the information we hold on you do you have?
-  * Links to third party websites
-  * What kind of security is used to protect your information?
-
-
+# Dyson Privacy Policy | Dyson.com
 
 ## What personally identifiable information do we collect about you?
 
 We collect information on our website users in several ways, including through cookies, registration and emails sent to us via our website. Our information collection includes the following:
 
-  * We require registering users of our website and owners registering their products online to provide us with a name, telephone number, email address (if they have one), postal address and zip code. We may also ask for additional information to assist us with our development of new products.
+  * We require registering users of our website and owners registering their products online to provide us with a name, telephone number, email address (if they have one), postal address and zip code. We may also ask for additional information to assist us with our development of new products. 
   * If you purchase a product through our website we will require you to provide us with the above information plus your payment and delivery details.
   * If you send us email messages, you will automatically provide us with your electronic mail address, as well as any other personally identifiable information you include in the text of your message.
   * We collect and store from all visitors to our website, whether they actively provide us with information or merely browse our website, the internet protocol (IP) address of the computer they are using, the browser software they use and their operating system, the date and time they access our website, the internet address of the website from which they linked directly to our website, and other similar information. We use this type of information to track website usage, to measure the number of visitors to the different sections of our website and to help us make our website more useful.
@@ -63,7 +37,7 @@ Back to top
 If you wish to opt out of being contacted by Dyson Direct Inc. or its agents about our products and services, you may either do so at the time you provide us with your contact details, or at any time by
 
   * (i) using the unsubscribe option included in all our promotional email correspondence, or
-  * (ii) sending an email to [service@dyson.com](mailto:service@dyson.com), or 
+  * (ii) sending an email to [service@dyson.com](mailto:service@dyson.com), or
   * (iii) writing to us at Dyson Direct Inc., 600 W. Chicago Avenue, Suite 275, Chicago, Illinois 60610 stating that you do not wish to receive such communications.
 
 
