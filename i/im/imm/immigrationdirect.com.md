@@ -1,59 +1,56 @@
-> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629082458id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130201723id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Immigration Direct - Immigration Services Online
 
-_This privacy policy is effective as of and was last updated on March 3, 2010._
+_This privacy policy is effective as of and was last updated on October 10, 2012._
 
 ## _Types of Information We Collect and How We Use It_
 
 Immigration Direct ("we" or "us" or "our") respects the privacy concerns of each visitor ("you" or "your") to its website - www.immigrationdirect.com (the "Website") - and has created this Privacy Policy to explain the type of information gathered from your visit to and use of the Website and our services, and how such information may be used. Please take a moment to review this Privacy Policy and feel free to contact us with any questions at [privacy@immigrationdirect.com](mailto:privacy@immigrationdirect.com).
 
+We make every effort to comply with the privacy laws and regulations of the United States of America. We make no representation that this Website is governed by or operated in accordance with the laws of other nations or jurisdictions. Those who choose to access the Website do so on their own initiative and at their own risk, and are responsible for complying with all applicable laws, rules and regulations.
+
+## _Personally Identifiable Information_
+
 As a general policy, no 
 
 _"Personally Identifiable Information"_
 
-(as defined below) is automatically collected from your visit to the Website. However, certain non-personal information, including the type of browser being used, its operating system and your IP address (
+(as defined below) is automatically collected from your visit to the Website. 
 
- _"Non-Personally Identifiable Information"_
-
-), may be automatically recorded by the standard operation of the Website's internet servers. This 
-
-_Non-Personally Identifiable Information_
-
-can be used to help diagnose server problems, administer the Website and generally enhance your online experience.
-
- _"Personally Identifiable Information"_
+_"Personally Identifiable Information"_
 
 includes, without limitation: (i) contact data (such as your first and last name, physical street address, city, state, zip code, phone number and email address), (ii) financial data (such as your credit card number, expiration date, and verification code), (iii) demographic data (such as your zip code and gender), and (iv) other legal data (such as your social security number and other sensitive information used to complete and generate the proper documents based upon the specific information and direction).
 
 We will collect and use Personally Identifiable Information about you in a number of ways, including:
 
-  * responding to your request for products or services offered through the Website; and
-  * notifying you about products, services, and other opportunities we think will be of interest to you.
+  * responding to your request for products or services offered through the Website; and  
+
+  * notifying you about products, services, and other opportunities we think will be of interest to you.  
+
 
 
 
 By utilizing the Website, you are consenting to the use and disclosure of your Personally Identifiable Information as described in this Privacy Policy. 
 
-If you would like to make corrections or updates to your 
-
-_Personally Identifiable Information_
-
-, including your email address, phone number, mailing address, credit card information or password reminder phrase, you can easily make them through the edit profile section of your account.
-
-We will also collect certain information arising out of your use of the Website, such as Cookies, or augment the data we collect with other information from other online or offline sources. We reserve the right to collect information about you and store it in connection with other online or offline information we may possess or obtain about you. 
+If you would like to make corrections or updates to your Personally Identifiable Information, including your email address, phone number, mailing address, credit card information or password reminder phrase, you can easily make them through the edit profile section of your account.We reserve the right to collect information about you and store it in connection with other online or offline information we may possess or obtain about you.
 
 ## _Sources of Information_
 
-The _Personally Identifiable Information_ which we collect may come from a number of sources, including:
+The Personally Identifiable Information which we collect and use may come from a number of sources, including:
 
-  * _Registration Information_ , which you provided when registering for our services or products, offered through the Website. For example, you will be required to submit personal information such as your name, address, email, and date of birth to verify your identity prior to establishing your account.
-  * _Billing information_ , such as a credit card number, which is required to process the payment for the products or services you order from us.
+  * Registration Information, which you provided when registering for our services or products, offered through the Website. For example, you will be required to submit personal information such as your name, address, email, and date of birth to verify your identity prior to establishing your account.
+  * Billing information, such as a credit card number, which is required to process the payment for the products or services you order from us.
   * Other information we collect, such as the city of your birth and your mother's maiden name, which is used to verify your identity in the event you forget your login information required for our online products or services.
   * Information you provide to us in response to our communications. For example, we may request that you provide your e-mail address so that we may send you notifications, alerts, special offers and newsletters.
   * Information that you provide to us through customer service communications and correspondence and general feedback.
+  * Information you provide us responding to products or services offered through the Website.
 
 
+
+## _Non-Personally Identifiable Information_
+
+Certain non-personal information, including but not limited to the type of browser being used, its operating system and your IP address ( _"Non-Personally Identifiable Information"_ ), may be automatically recorded by the standard operation of the Website's internet servers. This Non-Personally Identifiable Information can be used to help diagnose server problems, administer the Website and generally enhance your online experience. We will also collect certain information arising out of your use of the Website, such as cookies, or web beacons, or augment the data we collect with other information from other online or offline sources. We reserve the right to collect information about you and store it in connection with other online or offline information we may possess or obtain about you. This Non-Personally Identifiable Information can be used to help diagnose server problems, administer the Website and generally enhance your online experience.
 
 ## _Cookies_
 
@@ -67,30 +64,21 @@ All of your Personally Identifiable Information and Non-Personally Identifiable 
 
 ## _Sharing_
 
-We may share certain of the User Information, including Personally Identifiable Information, with affiliated and non-affiliated third parties, including without limitation in connection with the following:
+We may share certain of your User Information, including Personally Identifiable Information, with affiliated and non-affiliated third parties, including without limitation in connection with the following:
 
-  *  _Special Offers_ \- We sometimes disclose the information we collect to our affiliated companies for marketing purposes and to enhance our products or services to better suit your needs. When identifying methods of improving our products or services, or if we think a product or service may be of interest to you, we may extend select special offers of goods or services to you. If you would like to opt-out of receiving these offers, please refer to the "Offering You Choices - Marketing Options," section below.
-  
+_Vendors_ \- We sometimes disclose the information we collect to companies that operate various services for us, such as marketing, distribution, advertising, or certain product functionalities, or who otherwise provide goods or services which may be of interest to you. If you provide information to us, you are expressly consenting to receiving telephone calls, emails or text messages, or direct mail, from us, or on our behalf, regarding the products and services offered on the Website.
 
-  *  _Vendors_ \- We sometimes disclose the information we collect to companies that operate various services for us, such as marketing, distribution, advertising, or certain product functionalities, or who otherwise provide goods or services which may be of interest to you. If you provide information to us, you are expressly consenting to receiving telephone calls, emails or text messages, or direct mail, from us, or on our behalf, regarding the products and services offered on the Website; and
-  
+_E-Commerce Providers on our Website_ \- If you provide Personally Identifiable Information to one of our Website's e-commerce providers or advertisers (if any), this transaction will occur in connection with the site of the e-commerce provider, vendor or advertiser, not on the Website, and, as such, the Personally Identifiable Information you provide is collected pursuant to and controlled by the privacy policy of such e-commerce provider, vendor or advertiser. We are not responsible for such parties' privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the e-commerce site with which you transact business or to contact the operator of such site for more information.
 
-  *  _As Permitted by Law_ \- We may share your non-public Personally Identifiable Information with non-affiliated third parties as permitted by law.
-  
+_As Permitted by Law_ \- We may share your Personally Identifiable Information with non-affiliated third parties as permitted by law.
 
- _Personally Identifiable Information_
+_Transferability of Information_ \- We may share your User Information and other date with businesses controlling, controlled by, or under common control with us. In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personally Identifiable Information and other User Information will likely be among the assets transferred, and you hereby consent to such transfer.
 
-will not be sold, leased or otherwise made available to any person or entity not authorized by or associated with us. However, please be advised that certain Personally Identifiable Information becomes a matter of public record upon the filing of certain documents with the appropriate government agency or court.
+_Bankruptcy_ \- In the event we file for bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditor's rights generally, we may not be able to control how your Personally Identifiable Information is treated, transferred, or used. if such an event occurs, your Personally Identifiable Information may be treated like any other asset of ours and sold, transferred or shared with third parties, or used in ways not contemplated or permitted under this Privacy Policy, without notice to you or your consent.
 
-In addition to the above, we may disclose your
+In addition to the above, we may disclose your Personally Identifiable Information in special cases when we have reason to believe that disclosing this information is necessary: (a) to identify, contact or bring legal action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with: (i) our legal rights or property, (ii) another visitor or anyone else that could be harmed by such activities; or (b) by operation of law.
 
- _Personally Identifiable Information_
-
-in special cases when we have reason to believe that disclosing this information is necessary: (a) to identify, contact or bring legal action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with: (i) our legal rights or property, (ii) another visitor or anyone else that could be harmed by such activities; or (b) by operation of law.
-
- _Transferability of Information_
-
-\- In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personally Identifiable Information and any information you provide to us will likely be among the assets transferred, and you hereby consent to such transfer.
+Personally Identifiable Information will not be sold, leased or otherwise made available to any person or entity not authorized by or associated with us. However, please be advised that certain Personally Identifiable Information becomes a matter of public record upon the filing of certain documents with the appropriate government agency or court.
 
 ## _Offering You Choices - Marketing Options_
 
@@ -98,13 +86,13 @@ You have choices when it comes to learning about our new offers, products or ser
 
 ## _Links_
 
-We are deeply committed to your right to privacy. However, please note that this Website's Privacy Policy only applies to the Website and not to any other websites that you may access from the Website, each of which may have privacy polices that are materially different from this Privacy Policy. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every other website, as we are not responsible or liable for the commitments and obligations made to you in any privacy policy or the terms and conditions of any such website. 
+We are deeply committed to your right to privacy. However, please note that this Website's Privacy Policy only applies to the Website and not to any other websites that you may access from the Website, each of which may have privacy policies that are materially different from this Privacy Policy. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every other website, as we are not responsible or liable for the commitments and obligations made to you in any privacy policy or the terms and conditions of any such website.
 
 ## _Security_
 
 We restrict access to nonpublic personal information about you or your children (if applicable) to our employees who need to have access to such information in order to provide products or services to you, as well as to authorized third parties (as stated above). We maintain physical, electronic, and procedural safeguards designed to protect your nonpublic personal information. We protect your information over the internet by using a secure web server, which allows web browser programs (Netscape, Microsoft Internet Explorer, Safari or Firefox) to interact with our web server via an encrypted session. Depending on which browser you use, you will know you are in secured area by "https" or a lock appearing in the lower right hand corner of your browser window. When you visit the Website, you may move in and out of secured areas. Anytime that you are on a page ordering products or services, or viewing your personal credit report, you will be in a secured area.
 
-Notwithstanding the forgoing, we cannot guarantee that our security measures will prevent our computers from being illegally accessed, and the data on them stolen or altered, and we assume no liability or responsibility to you or to any third party arising out of any loss, misuse, destruction, or alteration of your information.
+Notwithstanding the forgoing, we cannot guarantee that our security measures will prevent our computers from being illegally accessed, and the data on them stolen or altered, and we assume no liability or responsibility to you or to any third party arising out of any loss, misuse, destruction, or alteration of your information. You should always take great care in handling and disclosing your personal information. For example, avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
 
 ## _Persons Under the Age of 18_
 
@@ -123,3 +111,11 @@ By using the Website, you hereby accept all of the terms set forth in our Privac
 ## _Privacy Complaints_
 
 If you believe that we have not complied with this Privacy Policy, please contact us at [privacy@immigrationdirect.com](mailto:privacy@immigrationdirect.com).
+
+Disclaimer: The information provided on this site is not legal advice but general information on issues commonly encountered when dealing with immigration matters. Immigration Direct is not affiliated with the United States government, is not a law firm, and is not a substitute for an attorney or law firm. Immigration Direct does not provide legal advice, opinions or recommendations to its users about their possible legal rights, legal remedies, legal defenses, legal options or legal strategies, selection of forms, or answers to specific questions on forms. Immigration Direct only provides self-help services at a user's direction. Communications between you and Immigration Direct are not protected by any privilege. Purchase price does not include application or filing fees that may be charged by the United States Citizenship and Immigration Services or by any other agency. Please note that your access to and use of this site is subject to   
+Immigration Direct's Terms of Use, which, by using this site, you are agreeing to.
+
+The "Immigration Direct" mark and the "Simplifying Immigration" mark are service marks registered with the   
+United States Patent and Trademark Office under the laws of the United States of America.
+
+Copyright © 2007-2012 Immigration Direct. All Rights Reserved. 
