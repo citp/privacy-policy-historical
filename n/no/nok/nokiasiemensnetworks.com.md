@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiasiemensnetworks.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514055626id_/http%3A//www.nokiasiemensnetworks.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiasiemensnetworks.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130201223id_/http%3A//www.nokiasiemensnetworks.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nokia Siemens Networks
 
@@ -22,11 +22,11 @@ If you place an order for a product, request a service, register for a user acco
 
 **Because** Nokia Siemens Networks **are committed to protecting your privacy,** Nokia Siemens Networks **do not engage in the practice of selling or trading personal data to other companies for promotional purposes.**
 
-**Usage of Subcontractors  
-** We may use subcontractors to provide some products or services to you. We also may need to share your personal data with these subcontractors so that they can provide services to us. Our subcontractors are not permitted to use such personal data for any other purposes and we impose confidentiality requirements on their services.
+**Usage of Subcontractors**  
+We may use subcontractors to provide some products or services to you. We also may need to share your personal data with these subcontractors so that they can provide services to us. Our subcontractors are not permitted to use such personal data for any other purposes and we impose confidentiality requirements on their services.
 
-**Visitor Identification - Usage of "Cookies"  
-** From time to time, information may be placed on your computer to improve this site and Nokia Siemens Networks services for you. This information is commonly referred to as a "cookie", which many web sites use. Cookies are pieces of data stored on your computer's hard drive or browser, and not on this site. They typically enable collection of certain information about your computer, including your internet protocol address, your computer's operating system, your browser type and the address of any referring sites.
+**Visitor Identification - Usage of "Cookies"**  
+From time to time, information may be placed on your computer to improve this site and Nokia Siemens Networks services for you. This information is commonly referred to as a "cookie", which many web sites use. Cookies are pieces of data stored on your computer's hard drive or browser, and not on this site. They typically enable collection of certain information about your computer, including your internet protocol address, your computer's operating system, your browser type and the address of any referring sites.
 
 The use of cookies provides benefits to you, such as eliminating the need for you to enter your password frequently during a session, or, where applicable, re-enter items you place in a shopping cart from visit to visit if you do not finish a transaction on an earlier visit. By showing how and when our visitors use this site or other Nokia Siemens Networks sites, the use of cookies allows Nokia Siemens Networks to continue to improve the sites. We use cookies and/or web beacons (also known as 'clear gifs' - small single pixel image files that can be used to recognize a user's navigation through the site) to tell us how you found our site, which parts of the site you liked the most and the way you accessed the various pages on the site. This information is generally only used in aggregated form and as part of statistics about overall user activity, however if you register for access to certain parts of this site or one of our other sites, we may be able to link the general information about your browsing with your username or email address, or with any information you input onto one of our web forms or other interactive content. We will only link this information to your username or email address for the purpose of understanding how users access the site and for improving the layout and site content.
 
@@ -45,10 +45,10 @@ Nokia Siemens Networks will on its own initiative, or at your request, free of c
 **Minors**    
 Nokia Siemens Networks ´s policy is to request that "Minors" (the age of Minors is determined by local law where you reside) do not make purchases or engage in other legal acts on this site without the consent of a parent or legal guardian, unless permitted by applicable local law.
 
-**External Links  
-** This site may contain links to other sites. Please note that Nokia Siemens Networks is not responsible for the privacy practices or contents of any other sites. We recommend that you read the privacy policies of such sites.
+**External Links**  
+This site may contain links to other sites. Please note that Nokia Siemens Networks is not responsible for the privacy practices or contents of any other sites. We recommend that you read the privacy policies of such sites.
 
-**Changes to this Policy  
-** Nokia Siemens Networks may from time to time change this Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Policy is changed in a material, adverse way, Nokia Siemens Networks will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy.
+**Changes to this Policy**  
+Nokia Siemens Networks may from time to time change this Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Policy is changed in a material, adverse way, Nokia Siemens Networks will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy.
 
 Copyright Nokia Siemens Networks 2008. All rights reserved.
