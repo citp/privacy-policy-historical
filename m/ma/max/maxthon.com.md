@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602194256id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130075350id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxthon
 
-Maxthon Asia Limited (Maxthon) is strongly committed to protecting the privacy of its users. The purpose of this Maxthon privacy policy is to inform you of the types of information we may gather about you when you visit Maxthon.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to Maxthon PC browsers, android browsers, websites, Maxthon Passport services, Maxthon SkyFile and 'Powered by Maxthon SkyFile' services.
+Maxthon (Asia) Ltd. (Maxthon) is strongly committed to protecting the privacy of its users. The purpose of this Maxthon privacy policy is to inform you of the types of information we may gather about you when you visit Maxthon.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to Maxthon PC browsers, android browsers, websites, Maxthon Passport services, Maxthon SkyFile and 'Powered by Maxthon SkyFile' services.
 
 This policy applies only to Maxthon, and not to other companies' or organizations' websites to which we link or to other products that may be distributed with the browser. You should carefully review the privacy policy of these other sites and products.
 
