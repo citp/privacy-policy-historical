@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622055809id_/http%3A//omgdroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130224123id_/http%3A//omgdroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,3 +56,10 @@ If you feel that this site is not following its stated information policy, you m
 Third party vendors, including Google, show our ads on sites on the internet.
 
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Tony is a mobile enthusiast with a passion for Android smartphones and tablets. He is the Site Founder and Editor-in-Chief, and can typically be found crashing a public Hangout on Google+.
+
+[]()[](http://www.facebook.com/asimons81)[](http://twitter.com/#!/tonytha1andonly)[](https://plus.google.com/u/0/111491466248379228198/about)
+
+  
+
