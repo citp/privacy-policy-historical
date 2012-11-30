@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131024010id_/http%3A//privacy-policy.truste.com/verified-policy/www.crystalgraphics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130170320id_/http%3A//privacy-policy.truste.com/verified-policy/www.crystalgraphics.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.crystalgraphics.com
 
 Effective on December 31, 2010 
 
-This privacy statement describes how CrystalGraphics, Inc. collects and uses the personal information you provide on our Web site: [www.crystalgraphics.com ](https://www.crystalgraphics.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how CrystalGraphics, Inc. collects and uses the personal information you provide on our Web site: [www.crystalgraphics.com ](http://www.crystalgraphics.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
