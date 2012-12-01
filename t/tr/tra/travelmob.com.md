@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601103111id_/http%3A//travelmob.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201142152id_/http%3A//travelmob.com/pages/policies) for the most accurate reproduction.*
 
-# travelmob
+# Vacation rentals, short term rentals, villas and apartments - travelmob
 
 1
 
@@ -8,11 +8,11 @@ This is the privacy policy ( **Privacy Policy** ) of travelmob Pte Ltd ( **trave
 
 2
 
-**Billing Information** means credit card and related billing information. **Identity Information** means information about you that can be used to contact or identify you. It includes your name, phone number, email address, identity numbers and address, but excludes Billing Information. **Including** and similar expressions are construed without limitation. **Non-Identifying Information** is information that is not Identity Information, including zip or postal code, individual preferences and demographic information. **Personal Information** means Identity Information and Billing Information together. **Service** means to provide and improve our Site, services, features, content, use of and other dealing with the Site. **Site** means[ www.travelmob.com](http://travelmob.com/). **User** means a Member and any person visiting or browsing the Site or who in any other manner deals with the Services. **using, processing** or similar operations on information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within travelmob. **You** means a User. 
+**Billing Information** means credit card and related billing information. **Identity Information** means information about you that can be used to contact or identify you. It includes your name, phone number, email address, identity numbers and address, but excludes Billing Information. **Including** and similar expressions are construed without limitation. **Non-Identifying Information** is information that is not Identity Information, including zip or postal code, individual preferences and demographic information. **Personal Information** means Identity Information and Billing Information together. **Service** means to provide and improve our Site, services, features, content, use of and other dealing with the Site. **Site** means[ www.travelmob.com](http://www.travelmob.com/). **User** means a Member and any person visiting or browsing the Site or who in any other manner deals with the Services. **using, processing** or similar operations on information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within travelmob. **You** means a User. 
 
 3
 
-This Privacy Policy may be amended from time to time. Your continued use or other dealing with the Site is deemed to be acceptance of the Privacy Policy, as amended from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the meanings given to them in our prevailing Terms of Service ([www.travelmob.com/pages/policies)](http://travelmob.com/pages/policies). 
+This Privacy Policy may be amended from time to time. Your continued use or other dealing with the Site is deemed to be acceptance of the Privacy Policy, as amended from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the meanings given to them in our prevailing Terms of Service ([www.travelmob.com/pages/policies)](http://www.travelmob.com/pages/policies). 
 
 4
 
