@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outrigger.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630091524id_/http%3A//www.outrigger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outrigger.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201081128id_/http%3A//www.outrigger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for outrigger.com
 
 ## Privacy Policy
 
-Outrigger Hotels & Resorts values your business and respects your right to privacy. The information you provide to us is collected with the intent of servicing you better.
+Outrigger Hotels and Resorts values your business and respects your right to privacy. The information you provide to us is collected with the intent of servicing you better.
 
 **What information is collected?  
 **  
@@ -40,7 +40,7 @@ If we should change our privacy policies, those changes will be posted on this p
 
 **Opt-in and Opt-out  
 **  
-If you have given us your permission for promotional email communications we will occasionally send you special offers, promotions, contests, sweepstakes, travel information and hotel updates. If you prefer not to receive promotional email communications from us, you may discontinue them at any time by exercising the unsubscribe option associated with such emails or by [**unsubscribing here**](http://promo.outrigger.com/EmailOptIn/OptInEmailUnsubscribe.aspx) **.**
+If you have given us your permission for promotional email communications we will occasionally send you special offers, promotions, contests, sweepstakes, travel information and hotel updates. If you prefer not to receive promotional email communications from us, you may discontinue them at any time by exercising the unsubscribe option associated with such emails or by [**unsubscribing here**](http://promo.outrigger.com/EmailOptIn/OptInEmailUnsubscribe.aspx "Link opens in a new window") **.**
 
 ## Terms of Use
 
@@ -70,7 +70,7 @@ If you have any questions or concerns about our Privacy Policy or Terms of Use, 
 Email: [reservations@outrigger.com](mailto:reservations@outrigger.com?subject=Outrigger.com%20Privacy%20Policy)
 
 Mailing Address:  
-Outrigger Hotels & Resorts   
+Outrigger Hotels and Resorts   
 2375 Kuhio Avenue  
 Honolulu, HI 96815 USA
 
