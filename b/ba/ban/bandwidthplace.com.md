@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625020916id_/http%3A//www.bandwidthplace.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidthplace.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201043601id_/http%3A//www.bandwidthplace.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Bandwidth Place | Privacy Policy | Bandwidth Place
+# Bandwidth Place | Privacy Policy | BandwidthPlace
 
 Privacy Policy for Bandwidthplace.com
 
