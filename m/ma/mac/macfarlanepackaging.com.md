@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macfarlanepackaging.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623075508id_/http%3A//www.macfarlanepackaging.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macfarlanepackaging.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201105113id_/http%3A//www.macfarlanepackaging.com/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy Policy
 
@@ -46,14 +46,14 @@ When becoming a new customer on line with Macfarlane Packaging or purchasing goo
 
 ## Our use of cookies
 
-When using the Macfarlane Group Websites,  we want to ensure your user experience is as easy, useful and reliable as possible. When services are delivered on the Internet, this occassionally requires placing small amounts of information on your computer. These files are known as cookies. They cannot be used to identify you personally but purely exist to improve services for you.
+When using the Macfarlane Group Websites, we want to ensure your user experience is as easy, useful and reliable as possible. When services are delivered on the Internet, this occasionally requires placing small amounts of information on your computer. These files are known as cookies. They cannot be used to identify you personally but purely exist to improve services for you.
 
 ## Cookies used by this website
 
-There are two cookie types that you may encounter on Macfarlane Group Wesbites. These are known as ; 'First party cookies' and 'Third party cookies'.
+There are two cookie types that you may encounter on Macfarlane Group Wesbites. These are known as; 'First party cookies' and 'Third party cookies'.
 
-**First party cookies:**  these are cookies that are neccessary for our website to function and ensure a positive user experience.  
- **Third party cookies:**  these are cookies delivered by other companies’ and determine ways in which we can improve or enhance our website.
+**First party cookies:**  these are cookies that are necessary for our website to function and ensure a positive user experience.  
+ **Third party cookies:**  these are cookies delivered by other companies and determine ways in which we can improve or enhance our website.
 
 Please see below for a further description of these cookies and the time they remain resident on your computer...
 
@@ -65,7 +65,7 @@ Please see below for a further description of these cookies and the time they re
 
 ## Third party cookies:
 
-Used by  Google Analytics and Yahoo. 
+Used by Google Analytics and Yahoo. 
 
 **Provider:  **Google Analytics  
  **Name:  **__utma  
