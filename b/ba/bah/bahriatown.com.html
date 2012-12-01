@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bahriatown.com privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531202632id_/http%3A//bahriatown.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D33%26Itemid%3D44) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bahriatown.com privacy policy that was archived on 2012-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121201074936id_/http%3A//www.bahriatown.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D33%26Itemid%3D44) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta name="verify-v1" content="q5WnPGKp8+CaiSoaigOPmz1CMDxkMAIw4zdwvLTOca8=">
@@ -24,6 +24,98 @@
 <!-- JoomlaWorks "Tabs & Slides" Plugin (v2.3) ends here -->
 	<link rel="shortcut icon" href="http://www.bahriatown.com/images/favicon.ico">
 	 
+
+<script language="JavaScript">
+	if (window.attachEvent)
+		window.attachEvent("onload", showPopup);
+	else
+		window.addEventListener("load", showPopup, false);
+
+	function showPopup()
+	{
+		/* This function shows an image in the popup window. */	
+		return;
+		
+		re1= new RegExp ('bahriatown.com\/$');
+		re2= new RegExp ('bahriatown.com\/index.php$');		
+		
+		var a=1;	
+		if(re1.test(self.location.href) || re2.test(self.location.href))
+			a=1;
+		else
+			return;
+		
+		var lft = (screen.width - 405)/2;
+		var slft = lft.toString()+'px';
+		var dvBab = document.getElementById('dvBab');
+		var dvBabShadowL = document.getElementById('dvBabShadowL');
+		var dvBabShadowB = document.getElementById('dvBabShadowB');
+		
+		if(document.all)
+		{
+			dvBab.style.left = lft;
+			dvBab.style.top = 50;
+			dvBabShadowL.style.left = lft-5;
+		    dvBabShadowL.style.top = 80;
+			
+			dvBabShadowB.style.left = lft-5;
+			dvBabShadowB.style.top = 686 + 51;
+		}
+		else
+		{
+			dvBab.style.left = slft;
+			dvBab.style.top = '50px';
+			var hold= lft-5;
+			dvBabShadowL.style.left = hold.toString()+'px';
+			dvBabShadowL.style.top = '80px';
+
+			dvBabShadowB.style.left = hold.toString()+'px';
+			dvBabShadowB.style.top = '736px';
+		}
+	
+	    var page_screen = document.getElementById('page_screen');
+		var imgCl = document.getElementById('imgclose');
+		var h = document.body.parentNode.scrollHeight; 	
+		var w =  document.body.parentNode.scrollWidth; 	
+		var imgLft = lft + 405;
+
+		if(document.all)
+		{
+			page_screen.style.height = h;
+			page_screen.style.width = w;
+			imgCl.style.top = 35;
+			imgCl.style.left = imgLft;
+		}		
+		else
+		{
+			page_screen.style.height = h.toString() + 'px';
+			page_screen.style.width = w.toString() + 'px';
+			imgCl.style.top = '35px';
+			imgCl.style.left = imgLft.toString()+'px';
+		}		
+		
+		page_screen.style.visibility = "visible";
+		dvBab.style.visibility = "visible";
+		dvBabShadowL.style.visibility = "visible";
+		dvBabShadowB.style.visibility = "visible";
+		//var msg= '<img src="images/stories/BETMFestival.jpg" alt="Bahria Town Tameer e Millat Festival" width="540" height="915" border="0"/>';
+		  var msg= '<img src="images/stories/BETMFestival.jpg" alt="Bahria Town Tameer e Millat Festival" width="404" height="686" border="0"/>';
+
+		dvBab.innerHTML =  msg;
+		imgCl.style.visibility = 'visible';
+	}
+
+	function closePopup()
+	{
+		document.getElementById('imgclose').style.visibility = 'hidden';
+		document.getElementById('dvBab').style.visibility = 'hidden';
+		document.getElementById('dvBabShadowL').style.visibility = 'hidden';
+		document.getElementById('dvBabShadowB').style.visibility = 'hidden';
+		document.getElementById('page_screen').style.visibility = 'hidden';
+	}
+
+</script> 
+
 </head>
 
 <body>
@@ -32,7 +124,8 @@
     <div id="headers">
       <div id="h1"><table border="0" width="100"><tbody><tr><td><a href="index.php"><img src="images/stories/bahria_town_logo.png" alt=" " width="63" height="76" align="left"></a> </td></tr></tbody></table></div>
             <div id="h2holder">
-              <div id="h2"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel">Home</a><span class="mainlevel"> | </span><a href="index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=49" class="mainlevel">Careers</a><span class="mainlevel"> | </span><a href="index.php?option=com_facileforms&amp;Itemid=135" class="mainlevel">Register For News</a><span class="mainlevel"> | </span><a href="index.php?option=com_facileforms&amp;Itemid=143" class="mainlevel">Feedback</a><span class="mainlevel"> | </span><a href="http://125.209.79.83/Lotus%20Software/Portals/portals.nsf/home?OpenForm" class="mainlevel">Member Portal</a></td></tr></tbody></table><br></div>
+              <div id="h2"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel">Home</a><span class="mainlevel"> | </span><a href="index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=49" class="mainlevel">Careers</a><span class="mainlevel"> | </span><a href="index.php?option=com_facileforms&amp;Itemid=135" class="mainlevel">Register For News</a><span class="mainlevel"> | </span><a href="index.php?option=com_facileforms&amp;Itemid=143" class="mainlevel">Feedback</a><span class="mainlevel"> | </span><a href="http://125.209.79.83/Lotus%20Software/Portals/portals.nsf/home?OpenForm" class="mainlevel">Member Portal</a><span class="mainlevel"> | </span><a href="#" onclick="javascript: window.open('http://bahriatown.com/images/stories/CustRecUpdationForm.pdf', '', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=780,height=550'); return false" class="mainlevel"><span style="color: red; font-size:10px;font-weight:bold;">Record Updation Form</span></a>
+</td></tr></tbody></table><br></div>
                 <div id="search">
 <form action="index.php?option=com_search" method="get">
 <table>
@@ -223,7 +316,6 @@ menu10798.addItem("Facts & Figures", "index.php?option=com_content&task=view&id=
 menu10798.addItem("Real Estate Sector", "index.php?option=com_content&task=view&id=25&Itemid=98", "0");
 var menu10799 = ms.addMenu(document.getElementById("menu10799"));
  menu10799.addItem("Members\' Portal", "index.php?option=com_content&task=view&id=308&Itemid=99", "0");
-menu10799.addItem("Chairman\'s Message", "index.php?option=com_content&task=view&id=13&Itemid=99", "0");
 menu10799.addItem("Our Mission & Vision", "index.php?option=com_content&task=view&id=16&Itemid=99", "0");
 menu10799.addItem("Serving the Nation", "index.php?option=com_content&task=view&id=229&Itemid=99", "0");
 menu10799.addItem("Divisions", "index.php?option=com_content&task=view&id=15&Itemid=99", "0");
@@ -258,28 +350,29 @@ menu107100107.addItem("Mall of Lahore", "index.php?option=com_content&task=view&
 menu107100107.addItem("Green Valley", "index.php?option=com_content&task=view&id=358&Itemid=86", "0");
 menu107100107.addItem("Bahria Homes", "index.php?option=com_content&task=view&id=359&Itemid=86", "0");
 menu107142.addItem("Rawalpindi", "index.php?option=com_content&task=blogcategory&id=58&Itemid=87", "0");
-var menu107100350 = menu107142.addMenu(menu107142.items[1],0,0);
-menu107100350.addItem("Bahria Enclave Apartments", "index.php?option=com_content&task=view&id=350&Itemid=87", "0");
-menu107100350.addItem("Bahria Enclave Islamabad", "index.php?option=com_content&task=view&id=310&Itemid=87", "0");
-menu107100350.addItem("About Bahria Town Rawalpindi", "index.php?option=com_content&task=view&id=191&Itemid=87", "0");
-menu107100350.addItem("About Rawalpindi", "index.php?option=com_content&task=view&id=108&Itemid=87", "0");
-menu107100350.addItem("Safari Villas", "index.php?option=com_content&task=view&id=76&Itemid=87", "0");
-menu107100350.addItem("Meadows", "index.php?option=com_content&task=view&id=94&Itemid=87", "0");
-menu107100350.addItem("Phase 9", "index.php?option=com_content&task=view&id=92&Itemid=87", "0");
-menu107100350.addItem("Phase 1-7", "index.php?option=com_content&task=view&id=84&Itemid=87", "0");
-menu107100350.addItem("Phase 8", "index.php?option=com_content&task=view&id=93&Itemid=87", "0");
-menu107100350.addItem("Phase - 8 Extension", "index.php?option=com_content&task=view&id=284&Itemid=87", "0");
-menu107100350.addItem("Bahria/ Safari Homes", "index.php?option=com_content&task=view&id=91&Itemid=87", "0");
-menu107100350.addItem("Awami Villas", "index.php?option=com_content&task=view&id=89&Itemid=87", "0");
-menu107100350.addItem("Bahria Heights", "index.php?option=com_content&task=view&id=88&Itemid=87", "0");
-menu107100350.addItem("Executive Lodges", "index.php?option=com_content&task=view&id=87&Itemid=87", "0");
-menu107100350.addItem("Overseas Enclave", "index.php?option=com_content&task=view&id=85&Itemid=87", "0");
-menu107100350.addItem("Safari Apartments", "index.php?option=com_content&task=view&id=78&Itemid=87", "0");
-menu107100350.addItem("Safari Valley", "index.php?option=com_content&task=view&id=77&Itemid=87", "0");
-menu107100350.addItem("Safari Valley - Rafi Block (Booking closed)", "index.php?option=com_content&task=view&id=109&Itemid=87", "0");
-menu107100350.addItem("Safari Mall", "index.php?option=com_content&task=view&id=120&Itemid=87", "0");
-menu107100350.addItem("River View Commercial", "index.php?option=com_content&task=view&id=60&Itemid=87", "0");
-menu107100350.addItem("Civic Center", "index.php?option=com_content&task=view&id=62&Itemid=87", "0");
+var menu107100361 = menu107142.addMenu(menu107142.items[1],0,0);
+menu107100361.addItem("Bahria Greens", "index.php?option=com_content&task=view&id=361&Itemid=87", "0");
+menu107100361.addItem("Bahria Enclave Apartments", "index.php?option=com_content&task=view&id=350&Itemid=87", "0");
+menu107100361.addItem("Bahria Enclave Islamabad", "index.php?option=com_content&task=view&id=310&Itemid=87", "0");
+menu107100361.addItem("About Bahria Town Rawalpindi", "index.php?option=com_content&task=view&id=191&Itemid=87", "0");
+menu107100361.addItem("About Rawalpindi", "index.php?option=com_content&task=view&id=108&Itemid=87", "0");
+menu107100361.addItem("Safari Villas", "index.php?option=com_content&task=view&id=76&Itemid=87", "0");
+menu107100361.addItem("Meadows", "index.php?option=com_content&task=view&id=94&Itemid=87", "0");
+menu107100361.addItem("Phase 9", "index.php?option=com_content&task=view&id=92&Itemid=87", "0");
+menu107100361.addItem("Phase 1-7", "index.php?option=com_content&task=view&id=84&Itemid=87", "0");
+menu107100361.addItem("Phase 8", "index.php?option=com_content&task=view&id=93&Itemid=87", "0");
+menu107100361.addItem("Phase - 8 Extension", "index.php?option=com_content&task=view&id=284&Itemid=87", "0");
+menu107100361.addItem("Bahria/ Safari Homes", "index.php?option=com_content&task=view&id=91&Itemid=87", "0");
+menu107100361.addItem("Awami Villas", "index.php?option=com_content&task=view&id=89&Itemid=87", "0");
+menu107100361.addItem("Bahria Heights", "index.php?option=com_content&task=view&id=88&Itemid=87", "0");
+menu107100361.addItem("Executive Lodges", "index.php?option=com_content&task=view&id=87&Itemid=87", "0");
+menu107100361.addItem("Overseas Enclave", "index.php?option=com_content&task=view&id=85&Itemid=87", "0");
+menu107100361.addItem("Safari Apartments", "index.php?option=com_content&task=view&id=78&Itemid=87", "0");
+menu107100361.addItem("Safari Valley", "index.php?option=com_content&task=view&id=77&Itemid=87", "0");
+menu107100361.addItem("Safari Valley - Rafi Block (Booking closed)", "index.php?option=com_content&task=view&id=109&Itemid=87", "0");
+menu107100361.addItem("Safari Mall", "index.php?option=com_content&task=view&id=120&Itemid=87", "0");
+menu107100361.addItem("River View Commercial", "index.php?option=com_content&task=view&id=60&Itemid=87", "0");
+menu107100361.addItem("Civic Center", "index.php?option=com_content&task=view&id=62&Itemid=87", "0");
 menu107142.addItem("Karachi", "index.php?option=com_content&task=blogcategory&id=63&Itemid=103", "0");
 var menu107100115 = menu107142.addMenu(menu107142.items[2],0,0);
 menu107100115.addItem("About Karachi", "index.php?option=com_content&task=view&id=115&Itemid=103", "0");
@@ -517,7 +610,6 @@ menu108115.addItem("Picture Galleries", "index.php?option=com_content&task=view&
 menu108115.addItem("Virtual Tours", "index.php?option=com_content&task=view&id=104&Itemid=118", "0");
 menu108115.addItem("Press Releases", "index.php?option=com_content&task=blogcategory&id=3&Itemid=119", "0");
 menu108115.addItem("Press Advertisements", "index.php?option=com_content&task=blogcategory&id=54&Itemid=120", "0");
-menu108115.addItem("Chairman Press Releases", "index.php?option=com_content&task=blogcategory&id=84&Itemid=154", "0");
 function init108() {
 if (TransMenu.isSupported()) {
 TransMenu.initialize();
@@ -628,7 +720,7 @@ window.onload = init108();
 		</td><td>			<table class="contentpaneopen">
 			<tbody><tr>
 								<td class="contentheading" width="100%">
-					<a href="https://web.archive.org/web/20120531202632id_/http%3A//bahriatown.com/index.php?option=com_content&amp;task=view&amp;id=276&amp;Itemid=44" class="contentpagetitle">
+					<a href="https://web.archive.org/web/20121201074936id_/http%3A//www.bahriatown.com/index.php?option=com_content&amp;task=view&amp;id=276&amp;Itemid=44" class="contentpagetitle">
 						Bahria Cares</a>
 									</td>
 							</tr>
@@ -698,8 +790,20 @@ pageTracker._trackPageview();
         </div>
 </div>
 
+<!--
+<div id="page_screen" style='position:absolute; top: 0px; left: 0px; margin:0px; border-width:0px;  z-index: 100; opacity: 0.5; background-color:#7f7f7f; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; filter: alpha(opacity=50); visibility:hidden;'>&nbsp;</div>
+<div id="dvBab" style="position:absolute; width:405px; height:686px margin-top:7px;margin-left:10px; border-width:5px; border-color:black; z-index: 105; visibility:hidden;"></div>
+<div id="dvBabShadowL" style='position:absolute; width:15px; height:656px; margin: 0px; padding: 0px; border-width:0px; z-index: 105; background-color:#000000; visibility:hidden; opacity: 0.5;  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; filter: alpha(opacity=50);'></div>
+<div id="dvBabShadowB" style='position:absolute; width:395px; height:17px; margin: 0px; padding: 0px; border-width:0px; z-index: 105; background-color:#000000; visibility:hidden; opacity: 0.5; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; filter: alpha(opacity=50);'></div>
+<img onclick="closePopup();" id="imgclose" src="images/popupclose.png" alt="Close this popup." width="28" height="28" border="0" style="position:absolute; z-index: 110; cursor: pointer; visibility:hidden;"/>
+-->
+
+
 
 <script type="text/javascript" language="javascript">
+
+	rufstyle();
+
  	/* This code replaces the link target for "Bahria Cares". This was needed because this link must take directly to the CSR page which was not  possible through the component used for this section in joomla. */
 
 	/* Loop thru all anchor elements to get "Bahria Cares". */
@@ -887,5 +991,31 @@ pageTracker._trackPageview();
 		lftMenuOptions +=  lftMenuOptionsFt;
 		document.getElementById('left').innerHTML = lftMenuOptions;
 	}
+	
+	function rufstyle()
+	{
+		/* Set 'Record Updation Form' top menu link style. */
+		var holda = document.getElementsByTagName('a');
+		var str = '';
+		
+	    for(var i=0; i<=holda.length; i++)
+		{
+			var hold = holda[i];
+			
+			try
+			{
+				if(hold.innerHTML.indexOf('Record Updation Form') >=0)
+				{
+					str = '<span style="color: red; font-size:10px;font-weight:bold;">Record Updation Form</span>';	
+					holda[i].innerHTML = str;
+				}
+				
+			}
+			catch (ex)
+			{
+			}
+		}
+	}
+	
 </script>
 </div></body></html>
