@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618063653id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201144133id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Mouse tracking and heat maps with Mouseflow
 
@@ -68,7 +68,7 @@ We take appropriate security measures to protect against unauthorized access to 
 
 We restrict access to personal information to a limited number of Mouseflow employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-When we receive formal written complaints posted using our contact form, it is Mouseflow’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mouseflow and an individual.
+When we receive formal written complaints posted using our [contact form](https://web.archive.org/support/), it is Mouseflow’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mouseflow and an individual.
 
 ### A.5. Policy Modifications
 
@@ -76,7 +76,7 @@ We may change this Privacy Policy from time to time. When Mouseflow makes change
 
 ### A.6. Contacting us about Privacy
 
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our contact form.
+If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our [contact form](https://web.archive.org/support/).
 
 ## B. PRIVACY POLICY FOR USE OF CLIENT INFORMATION
 
@@ -136,7 +136,7 @@ We take appropriate security measures to protect against unauthorized access to 
 We restrict access to personal information to Mouseflow employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 If Mouseflow becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.  
-When we receive formal written complaints posted using our contact form, it is Mouseflow’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mouseflow and an individual.
+When we receive formal written complaints posted using our [contact form](https://web.archive.org/support/), it is Mouseflow’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mouseflow and an individual.
 
 ### B.5. Policy Modifications
 
@@ -144,4 +144,4 @@ We may change this Privacy Policy from time to time. When Mouseflow makes change
 
 ### B.6. Contacting us about Privacy
 
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our contact form.
+If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our [contact form](https://web.archive.org/support/).
