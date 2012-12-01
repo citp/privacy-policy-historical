@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqueblogdesigns.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519042126id_/http%3A//www.uniqueblogdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqueblogdesigns.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201051708id_/http%3A//www.uniqueblogdesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unique Blog Designs
 
@@ -15,13 +15,13 @@ Like most websites, we use cookies and/or web beacons to enhance your experience
 Any of the information we collect from you may be used in one of the following ways:
 
   * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+(your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions:  
 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  * To administer a contest, promotion, survey or other site feature 
+  * To administer a contest, promotion, survey or other site feature
   * To send periodic emails:  
 
 
@@ -84,8 +84,7 @@ This policy was last modified on March 10, 2009.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Unique Blog Designs  
-28150 N. Alma School Pkwy. #103-438  
-Scottsdale, Arizona 85262  
-United States of America  
-contact [at] uniqueblogdesigns dot com.
+Unique Blog Designs, LLC  
+159 Western Ave. W – Suite A450  
+Seattle, WA 91821  
+[info] at uniqueblogdesigns [dot] com
