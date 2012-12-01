@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmjuniversity.edu.in privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602054024id_/http%3A//www.cmjuniversity.edu.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmjuniversity.edu.in privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201035525id_/http%3A//www.cmjuniversity.edu.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Official Website - CMJ University, CMJ University Shillong, CMJ University Meghalaya, CMJ University Programs, MBA, CMJ University Courses
 
