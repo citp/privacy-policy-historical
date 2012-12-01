@@ -1,27 +1,38 @@
-> *The following text is extracted and transformed from the clublexus.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524015919id_/http%3A//www.clublexus.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clublexus.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201125646id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dclublexus.com) for the most accurate reproduction.*
 
-# ClubLexus - Privacy Policy
+# Privacy Policy
 
-Club Lexus believes protection of your private information is an important part of our service. Please read the following to fully understand how we utilize the content you provide. The information here is subject to change from time to time, and it's your responsibility to periodically read and understand this information. By accessing any service of ClubLexus you signify your acceptance of the ClubLexus Privacy Policy.
+## Privacy Policy Highlights
 
-1) When you register as a member of Club Lexus, we will ask for your personal information. Some items such as emails are mandatory for us to send out vital information like password. Optional items are entirely up to the user to provide at their discretion. On Occasion, the collection of this information is analyzed so that we can better serve our members. We will not release this data to any other sources outside of Club Lexus period. 
+Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full [Privacy Policy](https://web.archive.org/web/20121201125646id_/http://www.internetbrands.com/privacy/privacy-main.html). It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our [FAQ page](https://web.archive.org/web/20121201125646id_/http://www.internetbrands.com/privacy/privacy-faq.html) for answers to common questions.
 
-2) While utilizing Club Lexus services, the IP address of the internet connection you are utilizingwill be logged on the Club Lexus administrator server. We will only use the IP address information we collected to investigate any possible issues where we need to document member activities. 
+  * ### Personal Information
 
-3) Club Lexus website utilizes the use of cookies on your machine. The use of cookies will allow us to better serve your experience with the site by remembering your password, personal setup on the forum, threads read and etc. Cookies may also have be required when making purchases through Club Lexus. 
+We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
 
-You have the choice to disable the use of cookies on your browser interface. This will limit some functionality on the Club Lexus website. Some browser do not support cookies at all, these applications may limit the convenience of your interaction with the site. 
+  * ### Your Choices
 
-Cookies are utilized only for your convenience and never to obtain any personal information for use by Club Lexus for malicious or illegal intent. 
+    * You can stop receiving promotional emails from us by following the instructions in the email you receive.
+    * You may cancel your registration or deactivate your account, or update your preferences at any time.
+    * You can manage cookies using your browser controls.
+    * You can [opt out](https://web.archive.org/web/20121201125646id_/http://www.internetbrands.com/privacy/privacy-main.html#section4) of the use of certain cookies.
+    * Individual products or services may offer additional controls or preferences.
+  * ### Uses of Information
 
-4) On Club Lexus there are various links to other website on the Internet. These links may be our advertisers,links provided by other members of the forum, or even personal member pages. If you click on the links and are brought to other sites, ClubLexus does not have any control of the service provided once you leave our site. 
+Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
 
-ClubLexus assumes no responsibility when you navigate to other sites through ClubLexus. They might contain other kinds of privacy risks that we do not have control over. Our Privacy Policy is limited to the Club Lexus site. 
+  * ### How to Contact Us
 
-5) Security on all your personal information at Club Lexus is a priority. We do not release any of your personal information to other companies without your acknowledgement. Your personal password maintains access to your personal information. 
+    * Use our Privacy [Contact form](https://web.archive.org/web/20121201125646id_/http://www.internetbrands.com/privacy/privacy-contact-form.php), or write to us at the address below.
+  
 
-While your security and privacy is a priority to Club Lexus, we cannot guarantee 100% that your data is secure. We work hard to insure the data maintained by our servers utilize the latest in security counter measures. 
+    * Privacy Office
+    * Internet Brands, Inc.
+    * 909 N. Sepulveda Blvd., 11th Floor
+    * El Segundo, CA 90245 U.S.A.
+  * ### Information Sharing
 
-6) The items we classified as personal information and are protected by the Privacy Policy include the following: name, address, phone number, email address, date of birth, password, and your personal customization of the website. 
+We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
 
-By using any part of this site, you agree to the Privacy Policy of Club Lexus. If you do not agree with any part of the policy, please do not use ClubLexus. In the case of a policy change, your continued usage of this site after this publicly available notice is modified agrees you to the changes. If you continue to use the service of Club Lexus after we post up new changes to the policy, it means that you agree to the new policy as well. If you have any questions, please contact the administrator at administrator@clublexus.com.
+
+
