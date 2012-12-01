@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postermywall.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607081330id_/http%3A//www.postermywall.com/index.php/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postermywall.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201024055id_/http%3A//www.postermywall.com/index.php/info/privacypolicy) for the most accurate reproduction.*
 
 # PosterMyWall | Privacy Policy
 
