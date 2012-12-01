@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212215641id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd) for the most accurate reproduction.*
 
 # Welcome to wickedlasers.com
 
-[](https://privacy.truste.com/privacy-seal/Wicked-Lasers/validation?validationId=f570c22c-a684-43a0-9813-8fa6476466e1)**Effective October 28, 2011**
+[](https://privacy.truste.com/privacy-seal/Wicked-Lasers/validation?validationId=f570c22c-a684-43a0-9813-8fa6476466e1&referer=wickedlasers.com)**Effective October 28, 2011**
 
 This privacy statement describes how **wickedlasers.com** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
 
@@ -10,17 +10,17 @@ This privacy statement describes how **wickedlasers.com** collects and uses your
 
 ## Expected Uses »
 
-](https://web.archive.org/web/20120212215641id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Collection)
+](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Collection)
 
-Your data is only used to fulfill your order or to provide services you requested including: providing personalized content, securing your data, and/or communicating to you about your requested products or services. **[learn more »](https://web.archive.org/web/20120212215641id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Collection)**
+Your data is only used to fulfill your order or to provide services you requested including: providing personalized content, securing your data, and/or communicating to you about your requested products or services. **[learn more »](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Collection)**
 
 [
 
 ##  Tracking On This Site »
 
-](https://web.archive.org/web/20120212215641id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Tracking)
+](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Tracking)
 
-This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20120212215641id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Tracking)**
+This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Tracking)**
 
 * * *
 
@@ -40,7 +40,7 @@ If a TRUSTe client has violated its privacy agreement you can file a complaint w
   
 
 
-[](https://privacy.truste.com/privacy-seal/Wicked-Lasers/validation?validationId=f570c22c-a684-43a0-9813-8fa6476466e1)
+[](https://privacy.truste.com/privacy-seal/Wicked-Lasers/validation?validationId=f570c22c-a684-43a0-9813-8fa6476466e1&referer=wickedlasers.com)
 
  **Effective on October 28, 2011**
 
