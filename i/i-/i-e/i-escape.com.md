@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622085012id_/http%3A//www.i-escape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201061520id_/http%3A//www.i-escape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boutique Hotels and Hip Hideaways | i-escape.com
 
@@ -15,12 +15,12 @@ In order to make a reservation through our website, you are required to provide 
 
 
 
-Secure transactions can be identified by the presence of a closed lock in most browsers. We also employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
+Secure transactions can be identified by the presence of a closed lock in most browsers. We also employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires. We are PCI compliant.
 
-Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies by following the relevant instructions which can be found at www.aboutcookies.org, In that case, you may not be able to use certain features on our site. If you do not wish to receive cookies in the future, please let us know at info@i-escape.com.
+Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies by following the relevant instructions which can be found at www.aboutcookies.org; in that case, you may not be able to use certain features on our site. If you do not wish to receive cookies in the future, please let us know at info@i-escape.com.
 
 With your permission, we will keep you up to date via email about our services, latest discoveries or special offers we think you will find valuable. You may opt out of receiving these notifications from us at any time by un-ticking the relevant box in your "my escapes" profile.
 
-As a member of i-escape.com, you have the option to submit reviews on our featured properties. These are used to update reviews and ratings of the properties featured on the website, i-escape.com reserves the right to edit any contributions where necessary.
+As a member of i-escape.com, you have the option to submit reviews on our featured properties following your stay. These are used to update reviews and ratings of the properties featured on the website. i-escape.com reserves the right to edit any contributions where necessary.
 
-We are registered with the Data Protection Registrar and operate in accordance with applicable data protection legislation. Any changes to our Privacy policy in the future will be posted to the website and. where appropriate, through e-mail notification. All comments, queries and requests relation to our use of information are welcomed and should be addressed to info@i-escape.com.
+We are registered with the Data Protection Registrar under the Data Controller name of Ram Tinto Associates Ltd (RTA) and operate in accordance with applicable data protection legislation. Any changes to our Privacy policy in the future will be posted to the website and where appropriate, through email notification. All comments, queries and requests relating to our use of information are welcomed and should be addressed to info@i-escape.com.
