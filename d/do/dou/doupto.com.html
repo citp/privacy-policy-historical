@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the doupto.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620042525id_/http%3A//doupto.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doupto.com privacy policy that was archived on 2012-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121201084556id_/http%3A//doupto.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 				<title>Privacy Policy - DoUpTo</title>
@@ -39,7 +39,7 @@
 				<link rel="icon" type="image/png" href="/images/global/favicon.png">
 				
 				<link type="text/css" rel="stylesheet" href="http://d1u2y8ap6p6b3e.cloudfront.net/include/css/htmlarea.css">
-													<link type="text/css" rel="stylesheet" href="/include/css/global.css?1338220402">
+													<link type="text/css" rel="stylesheet" href="/include/css/global.css?1353706520">
 									<!--[if IE 7]>
 					<link type="text/css" rel="stylesheet" href="/include/css/ie7.css?1311054192">
 				<![endif]-->
@@ -57,7 +57,7 @@
 								<script type="text/javascript" src="http://d1u2y8ap6p6b3e.cloudfront.net/repository/include/javascript/jquery.countdown.js?1305991457"></script>
 												<script type="text/javascript" src="http://d1u2y8ap6p6b3e.cloudfront.net/repository/include/javascript/jquery.jcarousel.min.js?1298534346"></script>
 								<script type="text/javascript" src="/?action=global_js&amp;secure=0&amp;fb=0&amp;language=&amp;update_cache=&amp;debug=&amp;version=2.04"></script>
-				<script type="text/javascript" src="/include/javascript/global.js?1337252432"></script>
+				<script type="text/javascript" src="/include/javascript/global.js?1353705397"></script>
 			
 								<script type="text/javascript">
 					var _gaq = _gaq || [];
@@ -80,10 +80,14 @@
 				<script type="text/javascript">
 					$(document).ready(function() {
 												window.fbAsyncInit = function() {
-							FB.init({appId:fb_app_id, channelUrl:'//channel.php', status:true, cookie:true, xfbml:true});
+							FB.init({appId:fb_app_id, channelUrl:href_url+'channel.php', status:true, cookie:true, xfbml:true});
 							/*if (facebook_canvas) {
 								FB.Canvas.setAutoGrow();
 							}*/
+							FB.Event.subscribe('auth.login', function(response) {
+	                        	fb_uid = response.authResponse.userID;
+	                        	fb_access_token = response.authResponse.accessToken;
+	                        });
 							/*FB.Event.subscribe('auth.logout', function(response) {
 								// The user logged-out from Facebook, so we log him out of Gyro too
 								window.location = href_url+'logout?referrer=%2Flogin%3Freferrer%3Derrors__user_conflict';
@@ -103,7 +107,7 @@
 														setTimeout(function() {
 																														like_confirmation_object = {};
 															like_confirmation_object.title = 'Woohaa!';
-															like_confirmation_object.content = '&lt;p&gt;&lt;strong&gt;Yep - it\'s true!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You just got &lt;strong class=&quot;default_font_blue&quot;&gt;5 DUTs&lt;/strong&gt; :)&lt;/p&gt;';
+															like_confirmation_object.content = '<p><strong>Yep - it\'s true!</strong></p><p>You just got <strong class=\"default_font_blue\">5 DUTs</strong> :)</p>';
 															widget(like_confirmation_object);
 														}, 2000);
 													}
@@ -119,11 +123,11 @@
 							});
 						};
 						(function(d){
-							var js, id = 'facebook-jssdk';
+							var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
 							if (d.getElementById(id)) {return;}
 							js = d.createElement('script'); js.id = id; js.async = true;
 							js.src = "//connect.facebook.net/en_US/all.js";
-							d.getElementsByTagName('head')[0].appendChild(js);
+							ref.parentNode.insertBefore(js, ref);
 						}(document));
 					
 																		window.___gcfg = {
@@ -242,7 +246,7 @@
 																						<a href="/how-it-works">How it Works?</a>
 																			</div>
 								<div class="twitter" onclick="window.open('http://twitter.com/DoUpTo')"></div>
-																	<div class="facebook" onclick="quick_registration('facebook', '', '903ce03a0c8e9df15f68d32ffaf4ba8049fe8dfe', function () { window.location='privacy-policy'; })"></div>
+																	<div class="facebook" onclick="quick_registration('facebook', '', '18efc7c738ae6f2ed0deb840bace61d70b568f9b', function () { window.location='privacy-policy'; })"></div>
 																		<div class="loader_container fb"><div class="loader blue"></div></div>
 																</div>
 						</div>
@@ -290,7 +294,7 @@
 																$(document).ready(function() {
 																	category_object = {};
 																	category_object.title = 'Why Us?';
-																																		category_object.content = '&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Lowest&amp;nbsp;commissions&lt;/strong&gt;&amp;nbsp;in the micro services world!&lt;/li&gt;&lt;li&gt;Buyer - Cancel your order and get&amp;nbsp;&lt;strong&gt;100% money back guaranteed&lt;/strong&gt;&amp;nbsp;(No&amp;nbsp;annoying&amp;nbsp;credits like other sites)&lt;/li&gt;&lt;li&gt;Seller - after confirmation -&amp;nbsp;&lt;strong&gt;get paid&amp;nbsp;immediately!&lt;/strong&gt;&amp;nbsp;No need to withdraw, no need to wait.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;br&gt;&lt;div align=&quot;center&quot; class=&quot;media_youtube_container&quot;&gt;&lt;object class=&quot;media youtube&quot; style=&quot;width:570px;height:400px&quot; type=&quot;application/x-shockwave-flash&quot; data=&quot;https://www.youtube.com/v/bughVU5gK5s&amp;enablejsapi=1&amp;version=3&amp;autoplay=0&amp;loop=0&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;fs=1&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;https://www.youtube.com/v/bughVU5gK5s&amp;enablejsapi=1&amp;version=3&amp;autoplay=0&amp;loop=0&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;fs=1&quot;&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;&gt;&lt;/object&gt;&lt;/div&gt;&lt;div class=&quot;social_container&quot;&gt;&lt;span class=&quot;google_plus_button&quot;&gt;&lt;g:plusone count=&quot;true&quot; size=&quot;medium&quot; href=&quot;http://doupto.com/privacy-policy&quot;&gt;&lt;/g:plusone&gt;&lt;/span&gt;&lt;span class=&quot;fb_like_button&quot;&gt;&lt;fb:like href=&quot;http://doupto.com/privacy-policy&quot; send=&quot;true&quot; layout=&quot;button_count&quot; show_faces=&quot;false&quot;&gt;&lt;/fb:like&gt;&lt;/span&gt;&lt;/div&gt;';
+																																		category_object.content = '<div><ol><li><strong>Lowest&nbsp;commissions</strong>&nbsp;in the micro services world!</li><li>Buyer - Cancel your order and get&nbsp;<strong>100% money back guaranteed</strong>&nbsp;(No&nbsp;annoying&nbsp;credits like other sites)</li><li>Seller - after confirmation -&nbsp;<strong>get paid&nbsp;immediately!</strong>&nbsp;No need to withdraw, no need to wait.</li></ol></div><br><div align=\"center\" class=\"media_youtube_container\"><object class=\"media youtube\" style=\"width:570px;height:400px\" type=\"application/x-shockwave-flash\" data=\"https://www.youtube.com/v/bughVU5gK5s&enablejsapi=1&version=3&autoplay=0&loop=0&showinfo=0&rel=0&fs=1\"><param name=\"movie\" value=\"https://www.youtube.com/v/bughVU5gK5s&enablejsapi=1&version=3&autoplay=0&loop=0&showinfo=0&rel=0&fs=1\"><param name=\"wmode\" value=\"transparent\"><param name=\"allowfullscreen\" value=\"true\"></object></div><div class=\"social_container\"><span class=\"google_plus_button\"><g:plusone count=\"true\" size=\"medium\" href=\"http://doupto.com/privacy-policy\"></g:plusone></span><span class=\"fb_like_button\"><fb:like href=\"http://doupto.com/privacy-policy\" send=\"true\" layout=\"button_count\" show_faces=\"false\"></fb:like></span></div>';
 																});
 															</script>
 															<a href="javascript:widget(category_object)">Why Us?</a>
@@ -347,27 +351,27 @@
 															<a href="/register">New user? Sign up now! ›</a>
 														</form>
 													</div>
-																											<div class="special_category">
-																															<img src="/files/images/icons/dart.png" style="top:-38px;right:-40px;height:80px">
-																															<a href="/i-dare-you">I Dare You</a>
-														</div>
-																											<ul class="categories">
+																												<div class="special_category">
+																																	<img src="/files/images/icons/dart.png" style="top:-38px;right:-40px;height:80px">
+																																	<a href="/i-dare-you">I Dare You</a>
+															</div>
+																												<ul class="categories">
 																														<li><a href="/wtf">WTF</a></li>
-																																<li><a href="/goodwill-charity">Good Will</a></li>
-																																<li><a href="/spoil-a-friend">Spoil a Friend</a></li>
-																																<li><a href="/teaching-and-training">Teaching &amp; Training</a></li>
 																																<li><a href="/social-media">Social Media</a></li>
+																																<li><a href="/seo">SEO</a></li>
+																																<li><a href="/just-for-men">Just For Men</a></li>
 																																<li><a href="/advertising-and-marketing">Advertising &amp; Marketing</a></li>
-																																<li><a href="/business-and-accounting">Business &amp; Accounting</a></li>
+																																<li><a href="/graphics-and-photography">Graphics &amp; Photography</a></li>
+																																<li><a href="/design">Design</a></li>
 																																<li><a href="/programming">Programming</a></li>
 																																<li><a href="/video">Video</a></li>
 																																<li><a href="/tips-and-advice">Tips &amp; Advice</a></li>
-																																<li><a href="/design">Design</a></li>
-																																<li><a href="/graphics-and-photography">Graphics &amp; Photography</a></li>
+																																<li><a href="/business-and-accounting">Business &amp; Accounting</a></li>
+																																<li><a href="/teaching-and-training">Teaching &amp; Training</a></li>
 																																<li><a href="/technology">Technology</a></li>
 																																<li><a href="/writing-and-translation">Writing &amp; Translation</a></li>
-																																<li><a href="/seo">SEO</a></li>
-																																<li><a href="/just-for-men">Just For Men</a></li>
+																																<li><a href="/spoil-a-friend">Spoil a Friend</a></li>
+																																<li><a href="/goodwill-charity">Good Will</a></li>
 																																<li><a href="/music-and-audio">Music &amp; Audio</a></li>
 																																<li><a href="/other">Other</a></li>
 																													</ul>
@@ -379,7 +383,7 @@
 																$(document).ready(function() {
 																	service_request_object = {};
 																	service_request_object.title = 'Woohaa!';
-																	service_request_object.content = '&lt;p&gt;Your request is being reviewed and will appear shortly.&lt;/p&gt;';
+																	service_request_object.content = '<p>Your request is being reviewed and will appear shortly.</p>';
 																	service_request_object.content_height = '';
 																	service_request_object.callback = function () {
 																		$('form[name=service_request_form] input[name=title]').val('');
@@ -423,34 +427,34 @@
 														</div>
 													</div>
 													<div class="service_requests">
-																														<div class="request" title="Marketing my website to search engines and social media">
+																														<div class="request" title="give me 2000 likes">
 																	<div class="container">
 																		<div class="inner_container">
-																			Marketing my website to search engines and social media																			<div class="link"><a href="/advertising-and-marketing">Advertising &amp; Marketing</a> ›</div>																			<div class="by">By <a href="/170578">Arouba Arouba</a></div>
+																			Give me 2000 likes																			<div class="link"><a href="/social-media">Social Media</a> ›</div>																			<div class="by">By <a href="/171721">Tommy Rose</a></div>
 																		</div>
 																	</div>
 																	<div class="pointer">▼</div>
 																</div>
-																																<div class="request dark" title="Write trivia questions in English">
+																																<div class="request dark" title="cartoon character">
 																	<div class="container">
 																		<div class="inner_container">
-																			Write trivia questions in English																			<div class="link"><a href="/writing-and-translation">Writing &amp; Translation</a> ›</div>																			<div class="by">By <a href="/180699">Danielle  </a></div>
+																			Cartoon character																			<div class="link"><a href="/graphics-and-photography">Graphics &amp; Photography</a> ›</div>																			<div class="by">By <a href="/183074">Shai Finkelshtein</a></div>
 																		</div>
 																	</div>
 																	<div class="pointer">▼</div>
 																</div>
-																																<div class="request" title="give me 2 approved adsense accounts">
+																																<div class="request" title="Get lots of likes on my facebook page">
 																	<div class="container">
 																		<div class="inner_container">
-																			Give me 2 approved adsense accounts																			<div class="link"><a href="/advertising-and-marketing">Advertising &amp; Marketing</a> ›</div>																			<div class="by">By <a href="/180324">Jonas Bener</a></div>
+																			Get lots of likes on my facebook page																			<div class="link"><a href="/social-media">Social Media</a> ›</div>																			<div class="by">By <a href="/182619">Jack Package</a></div>
 																		</div>
 																	</div>
 																	<div class="pointer">▼</div>
 																</div>
-																																<div class="request dark last" title="design tshirt">
+																																<div class="request dark last" title="send me much traffic to my website">
 																	<div class="container">
 																		<div class="inner_container">
-																			Design tshirt																			<div class="link"><a href="/wtf">WTF</a> ›</div>																			<div class="by">By <a href="/178632">Asma .</a></div>
+																			Send me much traffic to my website																			<div class="link"><a href="/advertising-and-marketing">Advertising &amp; Marketing</a> ›</div>																			<div class="by">By <a href="/182556">Mario Oliveira</a></div>
 																		</div>
 																	</div>
 																	<div class="pointer">▼</div>
