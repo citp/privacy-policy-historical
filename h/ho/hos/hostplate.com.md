@@ -1,0 +1,36 @@
+> *The following text is extracted and transformed from the hostplate.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201075354id_/http%3A//hostplate.com/privacy-policy) for the most accurate reproduction.*
+
+# Hostplate.com provides Dedicated servers and VPS with unlimited bandwidth | » Privacy Policy
+
+  * **Why Customer Privacy matters to Hostplate**  
+The customer’s right to privacy is of great importance to Hostplate. Hostplate recognizes that when a customer chooses to provide Hostplate with personal information, the customer places confidence in our ability to handle customer privacy in a responsible manner. Hostplate believes this information should be used solely to improve the services provided for the customer. Hostplate has put this privacy policy together to state that we protect the customer’s personal information. 
+
+**Personal Information Collected by Hostplate**  
+When making a purchase at Hostplate, Hostplate will collect the customer’s contact information, which includes name, address, e-mail address and phone number. 
+
+**Protecting Customer Privacy**  
+Hostplate will take appropriate steps to protect the customer’s privacy. Whenever the customer provides sensitive information (for example a credit card number to make a purchase), Hostplate will take all reasonable steps to protect it, such as encrypting the customer’s card number. Hostplate will also take reasonable security measures to protect the customer’s personal information in storage. Occasionally Hostplate may disclose the customer’s name and address to third parties when required for delivering specific services and products requested by the customer. Hostplate will not provide any of the customer’s personal information to other companies or individuals for marketing purposes without the customer’s permission. 
+
+**Use of Cookies**  
+Hostplate uses cookies for various reasons, for example, cookies enable Hostplate to track information during the domain name registration and package sign-up process. These cookies do not track individual information. Information Hostplate may track includes: The customer’s Internet Protocol address Browser version or computer operating system used by the customer Number of links the customer click within the website State or country from which the customer accessed the site Date and time of the customer’s visit Name of the customer’s Internet service provider Web page the customer came from when visiting www.hostplate.com Pages the customer viewed on the site Hostplate utilizes this information to make each visit more rewarding for the customer, and to provide Hostplate with information to help improve our service. Hostplate does not know (and has no interest in knowing) the identities of visitors to www.hostplate.com. 
+
+**Personal Information Available for Update by the Customer**  
+The customer can help Hostplate to improve the effectiveness and quality of service by keeping Hostplate notified of any changes to the customer’s name, address, phone number or e-mail address. The customer can do this by updating the customer’s personal details when logged into the customer’s Hostplate control panel. The personal information Hostplate collects and maintains will be subject to the version of the Privacy Policy in effect at the time of collection. Hostplate reserves the right to change the Privacy Policy from time to time and will provide notice of these changes in the news section at the Hostplate website. The customer should review the Privacy Policy periodically to make sure it meets the customer’s needs. 
+
+**Privacy and Third Party Disclosure Regarding Domain Handling**  
+As part of its obligations as a top level domain name registrar, Hostplate is required to provide certain information to naming authorities about customers who register domain names at Hostplate. This information includes personal data such as the customer’s name, address and telephone number. The relevant naming authority may make such information available for the public through open, accessible directories of domain name owners. As a condition for the purchase of a domain name at Hostplate the customer agrees in disclosure of his/her personal data to certain relevant domain name authorities. The customer understand and accepts that it is a condition of the purchase of a domain name from Hostplate that the customer agrees to the transfer of his/her personal data to the relevant naming authority and agrees to the naming authority making that personal data available on a public database. 
+
+**Customer data policy / Customer Data**  
+By Customer data is meant any information the customer has placed on his/her web space at Hostplate, for example e-mails, internet pages, photos and database content. 
+
+**The Customer’s Data on the Account**  
+Registration of a domain through Hostplate makes the customer the owner of the domain. The customer maintains all rights to the content that the customer places on his/her Hostplate web space. The templates and images placed at disposal by Hostplate, remains property of Hostplate. However, Hostplate does not claim any rights to the content that the customer has placed on the account. The account holder is on the other hand legally responsible for the content placed on the account. Hostplate does not form any opinion or perform any legal review of the content on a customer’s web space account. However, in case of obvious illegal content for example child pornography, phishing attempts or the like, Hostplate will act as a responsible company and inform the relevant authorities. In all other cases Hostplate will take action if a EU or US court or relevant authority orders Hostplate to do so. 
+
+**The Customer’s Responsibility for the Account at Hostplate**  
+The customer should always log out of any account when finishing a session, to ensure that others cannot access the customer’s private personal information. The customer should take this precaution even if the customer is not using a public computer at a library, an internet café‚ or the like. 
+
+**Data Security**  
+Hostplate recognizes the special responsibility that comes with the hosting of personal data on customer’s web space accounts. We want our customers to consider Hostplate a trusted place for data storage. The Hostplate data center is therefore designed to meet the highest standards of security. All customer data and Hostplate’s system data are secured through a daily remote backup of all servers via a private 10 Gbit fibre connection to a separate backup data center located 10 km from the main data center. The daily backup secures our customers’ web spaces against data loss. The backup includes all web spaces, regardless of type or size. Backup is a precaution against data loss caused by errors within Hostplate’s control. Consequently, unless the reason for the data loss is outside Hostplate’s control, we are able to recover all content after a potential failure. When restoring from a backup, the whole server and all web spaces on the server will be restored to their state prior to the failure. 
+
+
+
