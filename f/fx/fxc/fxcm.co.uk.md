@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623003449id_/http%3A//www.fxcm.co.uk/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201131208id_/http%3A//www.fxcm.co.uk/privacy-policy.jsp) for the most accurate reproduction.*
 
 # FXCM
 
@@ -18,7 +18,7 @@ When you apply for or maintain a live account with FXCM, we collect personal inf
 
 ### About Cookies
 
-Cookies are small files containing information that a Web site uses to track its visitors. FXCM may set and access FXCM cookies on your computer, enabling us to learn which advertisements and promotions bring users to our Web site. FXCM or any of its divisions may use cookies in connection with FXCM's products and services to track your activities on our Web sites. Such information that we collect and share would be anonymous and not personally identifiable.
+Cookies are small files containing information that a Web site uses to track its visitors. Please refer to our [Cookies Policy](https://web.archive.org/docs_pdfs/cookie-policy.pdf) to see how FXCM uses Cookies.
 
 ### Security Technology
 
