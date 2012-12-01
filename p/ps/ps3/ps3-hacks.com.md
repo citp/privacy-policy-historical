@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the ps3-hacks.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507002520id_/http%3A//www.dashhacks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3-hacks.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201051350id_/http%3A//www.dashhacks.com/dashhacks/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Dashhacks Inc. Privacy Policy | The Dashhacks Network
+# Privacy Policy
 
-  
-
+Submitted by [Administrator](http://www.dashhacks.com/author/62/administrator/page-1.html); January 01, 2012
 
 Dashhacks.com, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction or membership/forum activity to any other party unless required to do so by law. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information that is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
@@ -19,4 +18,10 @@ The Company keeps track of the websites and pages our client's visit, in order t
 
 The Company's websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Company or the website; (b) protect and defend the rights or property of Dashhacks.com, but not limited to this Company's websites; and, (c) act under exigent circumstances to protect the personal safety of users of the Company, its websites, or the public. 
 
-We use Mollom to protect our blog comments. [Click here](http://mollom.com/web-service-privacy-policy) to read Mollom's privacy policy.
+  
+
+
+|  |  |  [](http://www.dashhacks.com/dashhacks/info/privacy-policy.html)  
+---|---|---|---  
+  
+Tags: 
