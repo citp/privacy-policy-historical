@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcup2010southafrica.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525141252id_/http%3A//www.worldcup2010southafrica.com/privacy-policy-for-worldcup2010southafricacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcup2010southafrica.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201140717id_/http%3A//www.worldcup2010southafrica.com/privacy-policy-for-worldcup2010southafricacom) for the most accurate reproduction.*
 
 # World Cup 2014 Brazil | Privacy policy of worldcup2010southafrica.com
 
