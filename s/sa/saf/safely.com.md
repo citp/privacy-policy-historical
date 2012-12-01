@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safely.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629113917id_/http%3A//www.safely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safely.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201051943id_/http%3A//www.safely.com/privacy-policy) for the most accurate reproduction.*
 
-# Safely | Family Safety Services
+# Safely | Mobile & Digital Wellness
 
-_Last Updated: September 28, 2011_
+_Last Updated: September 27, 2012_
 
 ### Table of Contents
 
@@ -16,7 +16,7 @@ _Last Updated: September 28, 2011_
   8. Changes to the Privacy Policy and Notification Regarding Change in Use of Collected Data
   9. Location Labs Security Procedures
   10. Your California Privacy Rights
-  11. International Operations; EU Safe Harbor and How To Contact Location Labs
+  11. International Operations; US-EU and US-Swiss Safe Harbor and How To Contact Location Labs
   12. Updates to Privacy Policy
 
 
@@ -41,7 +41,7 @@ If you have questions regarding this Privacy Policy or our collection and use of
 
 ### 2\. Personal Information and Location-Data That We Collect And How We Use It
 
-Location Labs will collect personal information that is necessary for Location Labs to provide the Services or is otherwise voluntarily submitted by you. Personal Information is information you provide to Location Labs that reasonably and personally identifies you or a user associated with your account.
+Location Labs will collect personal information that is necessary for Location Labs to provide the Services or is otherwise voluntarily submitted by you. Personal Information is information you provide to Location Labs that reasonably and personally identifies you or a user associated with your account. 
 
 Location Labs provides location-based services. Due to the nature of location-based services, Location Labs necessarily collects the location of mobile devices. To the extent location-based data that Location Labs collects does or can be readily combined with other data to personally identify you, Location Labs will treat such data in the same way as other personal information. Location Labs will not process personal information in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by the individual. Location Labs collects and utilizes personal information and location data (a) to provide the Services; (b) to develop and maintain the ability to audit, research and analyze the Services with the goal of maintaining, protecting and improving our services; (c) to maintain and enhance the technical functioning of our network and services; (d) to enhance existing and/or develop new services; and (e) to investigate or take action regarding alleged or actual misuse of the Services, alleged or actual illegal activities, alleged or actual violations of the applicable terms and conditions, or as permitted or required by law.
 
@@ -56,7 +56,7 @@ Below are specific examples of information we collect and the additional ways in
     * Certain Services allow you to share the geographic location of your mobile device with other applications. Consistent with the terms of service for each such Service, you can control which applications – if any – receive such location-data, and thus, how it is disclosed with respect to such applications. Location Labs utilizes such data to provide the given Service and will disclose it consistent with the preferences configured in your account.
     * Certain mobile devices may automatically relay location data to Location Labs and we use such information to provide the Services.
   * **Account Data.** To use the Services (but not all Sites), you must create an account or otherwise register with Location Labs and, depending on the Service, you will be required to provide one or more of the following: your telephone number, name, email address, ZIP/postal code and/or a password. For certain Services you may voluntarily provide other information, including other personal information. And for a limited number of Services that require you to pay a fee to Location Labs, we will process your credit card information. All of this information is collectively referred to as Account Data. Some of this information standing alone is not personal information but when it is combined with other information, it may be deemed personal information. In that situation, we will treat the information as such.
-    * Account Data is necessary for establishing your account and requested services and we use it to provide the Services to you. We may use your Account Data to send you (a) Welcome notices; (b) service-related or security-related notices and announcements; (c) notices required or permitted to be provided under our agreement with you (“Legal Notices”); and/or (d) promotional notices.
+    * Account Data is necessary for establishing your account and requested services and we use it to provide the Services to you. We may use your Account Data to send you (a) Welcome notices; (b) service-related or security-related notices and announcements; (c) notices required or permitted to be provided under our agreement with you (“Legal Notices”); and/or (d) promotional notices. 
   * **Public Communications.** If you choose to participate in “public” postings or sessions or any other type of similar exchanges that are available as part of a given Service, you may voluntarily disclose personal information to others or the public generally, and you solely are responsible for such disclosures. When users disclose information to the public, others may collect and use such information. Location Labs has no control over third parties accessing and utilizing information you post or otherwise make available to others that you specify or the public generally.
   * **Communications With Location Labs.** When you contact Location Labs via e-mail, SMS or otherwise, such communication may include personal information and non-personal information. Location Labs uses and retains this information for the purposes stated above and to process your inquiries.
 
@@ -84,7 +84,7 @@ We use this information to analyze overall trends, to administer our webpages, t
 
 ### 4\. We Do Not Collect Personal Information From Persons Under the Age of 18 Without Proper Consent
 
-Location Labs does not direct its Sites or Services to or knowingly collect personal information from persons under the age of 18 (and if a resident of Alabama or Nebraska, not under the age of 19 and if a resident of Mississippi, not under the age of 21); provided however, Location Labs does provide its services with respect to persons under such ages for whom parental consent or other proper consent is provided to Location Labs. Any potential or current user who is under age and for whom parental/other proper consent has not been provided, must immediately cease using the Sites/services and notice should be sent to Location Labs: Privacy_support@locationlabs com. Or contact us at: Location Labs, Inc., Attn: Privacy Policy, 5980 Horton St., Suite 675, Emeryville, CA 94608.
+Location Labs does not direct its Sites or Services to or knowingly collect personal information from persons under the age of 18 (and if a resident of Alabama or Nebraska, not under the age of 19 and if a resident of Mississippi, not under the age of 21); provided however, Location Labs does provide its services with respect to persons under such ages for whom parental consent or other proper consent is provided to Location Labs. Any potential or current user who is under age and for whom parental/other proper consent has not been provided, must immediately cease using the Sites/services and notice should be sent to Location Labs: [Privacy_support@locationlabs com](mailto:Privacy_support@locationlabs%20com). Or contact us at: Location Labs, Inc., Attn: Privacy Policy, 5980 Horton St., Suite 675, Emeryville, CA 94608.
 
 ### 5\. With Whom Location Labs Shares Location-based Data And Personal Information That It Collects
 
@@ -92,7 +92,7 @@ Location Labs does not direct its Sites or Services to or knowingly collect pers
 
 **If you do not provide consent or you withdraw your consent, then you will not be allowed to access or you will be required to stop using the Service as your consent is necessary for us to provide the Service.**
 
-  * **Service Providers And Wireless Carriers.** Location Labs will share location-data and personal information with third parties with which we have a relationship in order to provide the Location Labs Services as follows: 
+  * **Service Providers And Wireless Carriers.** Location Labs will share location-data and personal information with third parties with which we have a relationship in order to provide the Location Labs Services as follows:
     * Location Labs may share with its business partners (“LL Service Providers”) any personal or non-personal information about you, including but not limited to your name, e-mail address, location data, usage patterns, uploaded images, text, information and any other content so that Location Labs may provide the Services.
     * LL Service Providers process information per our instructions. We require them to comply with our Privacy Policy and to maintain appropriate confidentiality and security measures. LL Service Providers are prohibited from using your personal information for any purpose other than provision of the Services.
     * Location Labs must exchange information with applicable Wireless Carriers (including mobile virtual network operators) to deliver the Services you request and in doing so, Location Labs must comply with your Wireless Carrier’s Privacy Policy. As such, Location Labs requests and strongly recommends that you review the privacy policy of your Wireless Carrier.
@@ -147,14 +147,15 @@ Location Labs retains all of the information it collects under this Privacy Poli
 
 Under California Civil Code sections 1798.83, California residents may request a notice describing what categories of personal customer information Location Labs shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. To the extent applicable to Location Labs, such notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Location Labs, Inc., Attn: Privacy Policy, 5980 Horton St., Suite 675, Emeryville, CA 94608. Please specify that you are requesting the California Privacy Rights Notice and allow at least 30 days for a response.
 
-### 11\. International Operations; EU Safe Harbor and How To Contact Location Labs
+### 11\. International Operations; US-EU and US-Swiss Safe Harbors and How To Contact Location Labs
 
-Location Labs stores information about Site visitors and users of the Services on servers located in the United States and Location Labs may also store such information on servers and equipment in other countries. Personal data collected within European Economic Area (“EEA”) may be transferred to, and stored at, a destination outside of EEA.  
+Location Labs stores information about Site visitors and users of the Services on servers located in the United States and Location Labs may also store such information on servers and equipment in other countries. Personal data collected within European Economic Area (“EEA”) may be transferred to, and stored at, a destination outside of EEA.
+
 The data we hold may also be processed by employees operating outside of the EEA who work for us or for one of our Service Providers. Such staff may be engaged in, among other things, (i) the processing of transactions and your payment details and (ii) the provision of support services. By submitting your personal data and/or using the Services, you agree to this transfer, storing or processing.
 
-Location Labs participates in the EU Safe Harbor Privacy Framework as administered by the United States Department of Commerce as a data controller, and has self-certified our privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+Location Labs complies with the EU Safe Harbor Privacy Framework and the US-Swiss Safe Harbor Framework as administered by the United States Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland and has self-certified our privacy practices as consistent with the Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-In compliance with the Safe Harbor Principles, Location Labs commits to resolve complaints about your privacy and our collection or use of your personal information. Any person, including European Union citizens, with inquiries or complaints regarding this privacy policy should first contact Location Labs by writing to:
+In compliance with the Safe Harbor Principles, Location Labs commits to resolve complaints about your privacy and our collection or use of your personal information. Any person, including European Union or Swiss citizens, with inquiries or complaints regarding this privacy policy should first contact Location Labs by writing to:
 
 [Privacy_support@locationlabs.com](mailto:privacy_support@locationlabs.com)
 
@@ -165,16 +166,9 @@ Attn: Privacy Policy
 5980 Horton St., Suite 675,   
 Emeryville, CA 94608 
 
-Location Labs has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your business name), you may contact the BBB EU SAFE HARBOR program at the address below:
+Location Labs has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20121201051943id_/http%3A//www.safely.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
-Council of Better Business Bureaus, Inc.  
-BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: www.bbb.org/us/safe-harbor-complaints
-
-Again, if you have any questions or concerns regarding this Privacy Policy, including the Safe Harbor Privacy Framework, you should contact us at [Privacy_support@locationlabs.com](mailto:privacy_support@locationlabs.com).
+Again, if you have any questions or concerns regarding this Privacy Policy, including the Safe Harbor Privacy Framework, you should contact us at [Privacy_support@locationlabs.com](mailto:Privacy_support@locationlabs.com).
 
 ### 12\. Updates to Privacy Policy
 
@@ -182,5 +176,6 @@ Again, if you have any questions or concerns regarding this Privacy Policy, incl
   * On May 15, 2009, revised to reflect Veriplace services and makes other updates
   * On February 18, 2011, revised to reflect WaveMarket’s new business address, that WaveMarket is dba as Location Labs, that Veriplace is now known as Universal Locator Service or ULS on a going forward basis and minor wording updates
   * On September 28, 2011, revised to reflect compliance with Safe Harbor Principles
+  * On September 27, 2012, revised to reflect updates to Safe Harbor Principles
 
 
