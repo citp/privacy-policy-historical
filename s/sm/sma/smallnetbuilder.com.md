@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615173743id_/http%3A//www.smallnetbuilder.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201012124id_/http%3A//www.smallnetbuilder.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SmallNetBuilder
 
@@ -70,9 +70,9 @@ This Privacy Policy may be modified from time to time. Any modifications to our 
 
 ### Related Items:
 
-[What else are you reading?](http://www.smallnetbuilder.com/other/blog/30327-what-else-are-you-reading)  
-[They're Out to Get You - An Introduction to Internet Security](http://www.smallnetbuilder.com/security/security-features/25235-outtogetyou)  
-[Terms of Use](http://www.smallnetbuilder.com/home/terms-of-use)  
-[Clean out the SmallNetBuilder Closet Contest Rules](http://www.smallnetbuilder.com/home/contests/29862-clean-out-the-smallnetbuilder-closet-contest-rules)  
-[About Us](http://www.smallnetbuilder.com/home/about-us)  
+[Privacy Policy](http://www.smallnetbuilder.com/home/privacy-policy/6-privacy)  
+[Staying Secure In The Cloud - Part 1](http://www.smallnetbuilder.com/cloud/cloud-services-apps/406-staying-secure-in-the-cloud-part-1)  
+[About SmallCloudBuilder](http://www.smallnetbuilder.com/home/privacy-policy/3-about-us)  
+[Opting Out Of Cisco Connect Cloud](http://www.smallnetbuilder.com/cloud/cloud-services-apps/31807-opting-out-of-cisco-connect-cloud)  
+[Staying Secure In The Cloud - Part 2](http://www.smallnetbuilder.com/cloud/cloud-services-apps/415-staying-secure-in-the-cloud-part-2)  
 
