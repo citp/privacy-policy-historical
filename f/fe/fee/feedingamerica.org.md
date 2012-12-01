@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621192726id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201103054id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Feeding America (formerly named America's Second Harvest) shares your concerns a
 
 **Feeding America's Collection and Use of Your Information**
 
-In the course of using the Site, Feeding America may ask you for your name, e-mail address, postal address, telephone number, fax number as well as other relevant information. Feeding America also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS), the domain name of your Internet service provider (e.g., America Online, Earthlink), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited.
+In the course of using the Site, Feeding America may ask you for your name, e-mail address, postal address, telephone number, fax number as well as other relevant information. Feeding America also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g. Internet Explorer or Firefox), the type of operating system you are using, (e.g., Windows XP or Mac OS), the domain name of your Internet service provider (e.g., AT&T or Verizon or Comcast ), aggregate data about the number of visits to the Site and/or aggregate data about the pages visited.
 
 **How Feeding America Uses the Information**
 
@@ -14,9 +14,11 @@ Feeding America uses the non-personally identifiable information ("Aggregate Dat
 
 Except as otherwise indicated, Feeding America uses the personally identifiable information ("Personal Information") you provide about yourself: (a) to respond to any of your inquiries or questions about our services; (b) for internal marketing purposes and as part of Feeding America's donor database; (c) to provide you additional and updated information, materials and other advertisements regarding the Feeding America services; (d) to offer you other materials and/or information that Feeding America believes may be of interest to you; (e) to cooperate with government officials or parties in litigation under process of law, or as otherwise required by law; (f) to protect the security or integrity of the Site; (g) to protect against a threat of safety or destruction of property; and/or (h) to protect against legal liability. In all cases, however, Feeding America agents, employees and contractors who have access to Personal Information are required to protect this information in a manner that is consistent with this Privacy Policy. Furthermore, Feeding America encourages all its business Partners to adopt and adhere to standards of protection consistent with this Privacy Policy. Feeding America will not use the Personal Information, except as set forth herein, without your permission; provided, however, Feeding America shall own all such Personal Information and maintain copies of such as part of its records. If you do not wish to receive any such information or to allow Feeding America the right to use your personally identifiable information as described, please contact Feeding America in the manner identified in the "Opt-Out" section below. The Aggregate Data and Personal Information may be transferred, distributed or sold as part of Feeding America or its assets.
 
+Feeding America makes postal addresses available to other reputable nonprofit and commercial organizations.  If you do not want us to share this information, you can call us anytime at 800.910.5524, or _[email us](mailto:info@feedingamerica.org?subject=Share%20Information%20from%20Privacy%20Policy)_ to have your names removed.   
+
 **Opt Out**
 
-You may choose not to receive such information and/or to allow Feeding America to use your information in the manner described above by simply checking the box provided on the contribution form itself, or by contacting us directly at [fundraise@feedingamerica.org](mailto:fundraise@feedingamerica.org). Upon receipt and processing of an "opt out" request, Feeding America will, within its commercially reasonable amount of time, remove your information from any future marketing communications.
+You may choose not to receive such information and/or to allow Feeding America to use your information in the manner described above by simply checking the box provided on the contribution form itself, or by contacting us directly at [info@feedingamerica.org](mailto:info@feedingamerica.org). Upon receipt and processing of an "opt out" request, Feeding America will, within its commercially reasonable amount of time, remove your information from any future marketing communications.
 
 **Security; No Liability**
 
@@ -38,6 +40,6 @@ Feeding America may change this Privacy Policy at any time, consistent with the 
 
 **How to Contact Feeding America for Any Reason**
 
-You may contact Feeding America with questions or comments regarding this Privacy Policy, updating any personally identifiable information or anything else related to Feeding America and/or this Site at [www.feedingamerica.org](http://feedingamerica.org/) or at 312.263.2303.
+You may contact Feeding America with questions or comments regarding this Privacy Policy, updating any personally identifiable information or anything else related to Feeding America and/or this Site at [www.feedingamerica.org](http://feedingamerica.org/) or at 800.910.5524.
 
-_Updated September 15, 2008_
+_Updated September 20, 2012_
