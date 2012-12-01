@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningshoesguru.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630121229id_/http%3A//www.runningshoesguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningshoesguru.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201074343id_/http%3A//www.runningshoesguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Running Shoes Guru
 
