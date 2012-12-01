@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628055658id_/http%3A//www.sba.gov/about-sba-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201143532id_/http%3A//www.sba.gov/about-sba-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SBA.gov
 
@@ -60,7 +60,7 @@ For site security purposes and to ensure that this service remains available to 
 
 Except for authorized law enforcement investigations, no attempts are made to identify individual users and their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html "National Archives and Records Administration General Schedule 20.").
 
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www.justice.gov/criminal/cybercrime/ccmanual/01ccma.html "Computer Fraud and Abuse Act of 1986") and the [National Information Infrastructure Protection Act](http://www.justice.gov/criminal/cybercrime/1030analysis.html "National Information Infrastructure Protection Act.").
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www.justice.gov/criminal/cybercrime/docs/ccmanual.pdf "Link to Computer Fraud and Abuse Act of 1986") and the National Information Infrastructure Protection Act.
 
 ###  Social Media and Third Party Websites
 
