@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601144504id_/http%3A//www.girlsdateforfree.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201021539id_/http%3A//www.girlsdateforfree.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Online Dating - Free to join Dating Site - %s
 
 ### Privacy Policy
 
-(' **We** ') Cupid plc are committed to protecting and respecting your privacy. 
+(' **We** ') DatingBiz, Inc are committed to protecting and respecting your privacy. 
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -80,7 +80,7 @@ We use the information we hold about you in the following ways:
 
 **Disclosure of your information**
 
-As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
+As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
 
   * Other companies in the same corporate group as us. 
 
@@ -90,16 +90,18 @@ As we continue to develop our business, we might sell or buy assets. In such tra
 
   * Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation. 
 
+  * Third party organisations that will assist us to (i) enforce or apply our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and other agreements; or (ii) to protect the rights, property, or safety of our customers, or others. 
 
 
 
-We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties. 
+
+We will also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us and to help us identify users that are potentially acting fraudulently, illegally, or in a manner otherwise than in accordance with our terms and policies. However, we will control and be responsible for the use of your information by these third parties. 
 
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
 We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. 
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@girlsdateforfree.com](mailto:unsubscribe@girlsdateforfree.com)
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@girlsdateforfree.com](mailto:unsubscribe@girlsdateforfree.com). Do note that notwithstanding your preference, both we and/or any third party that we engage reserve the right to use your data/ information to help us identify users that are potentially acting fraudulently, illegally, or in a manner otherwise than in accordance with our terms and policies. 
 
 **Marketing and other uses of your non-personal data by us and by third parties**
 
@@ -130,7 +132,7 @@ The personal data that we collect from you may be transferred to, and stored at,
 
 Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone. 
 
-Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. 
 
 **Other Websites**
 
@@ -140,7 +142,7 @@ The Site may, from time to time, contain links to and from the websites of our p
 
 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [info@girlsdateforfree.com](mailto:info@girlsdateforfree.com). Please note that we may make a small charge for this service.
 
-We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [info@girlsdateforfree.com](mailto:info@girlsdateforfree.com).
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [info@girlsdateforfree.com](mailto:info@girlsdateforfree.com). Where we and/or any third party organisation we instruct to assist us in providing our services suspect any user is potentially acting fraudulently, illegally, or in a manner otherwise than in accordance with our terms and policies, we reserve the right to retain information about that user indefinitely.
 
 **Changes to our privacy policy**
 
