@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602120821id_/http%3A//www.squarebrothers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201114342id_/http%3A//www.squarebrothers.com/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy is Assured : We wont sell your email address to anyone
 
-| 
+|   
+---  
+  
+### Privacy Policy
 
 **Privacy Policy :** This Privacy Policy governs the manner in which **Square Brothers** collects, uses, maintains and discloses information collected from users of our web site and hosting service. 
 
@@ -17,17 +20,3 @@
 **Maintenance of Information :** Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
 **Questions :** Users may direct questions concerning this Privacy Policy by email to [support@squarebrothers.com](mailto:support@squarebrothers.com)
-
-| 
-
-**1\. Experience** \- 8 Years of dedicated experience to Shared Hosting, Linux Hosting, Windows Hosting, Reseller Hosting, Server Management ( Both Windows & Linux). 
-
-**2\. 24 x 7 Support** \- We provide real 24x7 support via email, phone and live chat. Our support response times are in hours and in most cases within few minutes. 
-
-**3\. Flexibility** \- As your knowledge and requirement grows we are here to handle it efficiently with ease. Hundreds of people have started with shared hosting then grown to Reseller Hosting then Virtual Dedicated Server and then Powerful Dedicated Servers. Whether you go with Windows Hosting or Linux Hosting no matter we have a dozen of Redhat Certified Engineers & well seasoned Windows System Admins around the clock. 
-
-**4\. Easy Management** \- All our popular shared hosting plans are hosted on Linux servers which comes with Cpanel the #1 management software for customers to handle their hosting accounts. If you go with windows hosting it comes with Plesk the #1 management software for windows servers. 
-
-**5\. True Value** \- You will get the real value for your money without any hidden costs moreover in the past we were increasing the features of hosting packages without burning our customers pocket :)   
-  
----|---
