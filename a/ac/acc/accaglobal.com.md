@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accaglobal.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531220544id_/http%3A//www.accaglobal.com/en/footertoolbar/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accaglobal.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201125210id_/http%3A//www.accaglobal.com/en/footertoolbar/privacy.html) for the most accurate reproduction.*
 
 # ACCA privacy and data protection policy | ACCA | ACCA Global
 
@@ -106,41 +106,62 @@ We collect information about the Internet Protocol (IP) addresses of all visitor
 
 ### 7 Cookies
 
-Cookies are small text files that are placed on your computer by websites that you visit.  They are widely used in order to make websites work more efficiently, as well as to provide information to the owners of the site.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work more efficiently, as well as to provide information to the owners of the site. Some of the cookies we use are essential for parts of the site to operate. 
 
-Some of the cookies we use are essential for parts for the site to operate; you will find a description and purpose for each cookie within the table below.
+#### Cookies set by ACCA
 
-Why do we use cookies on the website?
+ACCA sets first party cookies to manage access to our websites and personalise content. We also set first party cookies to provide analytical data on website use which enables us to understand which areas of the website are of most relevance to you. Cookie technology also  enables us to ensure that, where you have registered for any of our online services, we maintain your confidentiality and security as you move through secure or password protected areas of the website.
 
-We use cookies on the website to:
+##### **Access**
 
-Compile statistical data on the use of the website which can be used to managed and plan enhancements to our services.
-
-To facilitate users ability to navigate through the website;
-
-Ascertain whether the website is operating at an optimal level and
-
-Personalise and improve the service we offer to you by understanding your preferences and establishing which areas of the website are of most relevance to you.
-
-We also use cookie technology to ensure that, where you have registered for any of our online services, we maintain your confidentiality and security as you move through secure or password protected areas of the website.
-
-We also use third party advertising companies to serve advertisements when you visit our website.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisement about goods and services of interest to you. 
-
-**Cookie** | **Name** | **Purpose**  
+**Service** | **Cookie Name** | **Expires**  
 ---|---|---  
-ACCAGLOBAL client identifier | ACCA-PROD-DF_80 | Allows the user computing device to identify itself to our webserver  
-MyACCA authentication | ORA_WX_SESSION
-
-ClickedFolder, SSO_ID, JSESSIONID
-
-| Session Cookies within MY ACCA used to validate login & security details to provide access to services within this area.   
-Google Analytics | __utma, __utmb, __utmc, __utmz, | These cookies are used to collect information about how visitors use our website and to gain customer insight.  These cookies do not store any of your personal details and are not shared with anyone other than ACCA.  
+ACCA Global client identifier  | ACCA-PROD-DF-80 | 1 hour  
+Access management | ORA_WX_SESSION | At the end of the session  
+Session identifier | JSESSIONID | At the end of the session  
+Time zone data | oracle.uix | 10 years  
   
-ACCA are actively monitoring the use of cookies and this table will be updated as and when we make on-going changes to any services which require the use of cookies.
+#####   
+**Analytical data**
 
-Can I decline to accept cookies?
+**Service** | **Cookie Name** | **Expires**  
+---|---|---  
+Advertisement click through | OAX | 2 Years  
+Advertisement click through | NSC_fd1efm_qppm_iuuq | At the end of the session  
+  
+#### Third - party cookies
 
-You are not obliged to accept a cookie that we (or any other web server) send to you.  Most browsers accept cookies automatically but you can modify the settings in your browser to turn off this feature.  However, cookies are integral to some areas of the website and to certain online services offered by ACCA, so if you choose not to accept cookies from us, you may not be able to utilise some areas of the website and we may not be able to provide certain online services to you.
+We use a number of services to provide us with information on the use of our website, associated external resources and to provide you with relevant advertising. These services fall into 2 distinct groups: web analytics and advertising.
+
+##### **Web analytics**
+
+These third party services collect aggregate data about how visitors arrive at and use our site and our content hosted on other sites.
+
+**Service** | **Cookie Name** | **Expires**  
+---|---|---  
+Google Analytics | _utma | 2 years  
+Google Analytics | _utmb | 30 minutes  
+Google Analytics | _utmc | At the end of the session   
+Google Analytics | _utmz | 6 months  
+Google Maps | NID | 6 months  
+Google Preferences | PREF | 2 years  
+Webvideocore | PHPSESSID | At the end of the session  
+Youtube visitor tracking | VISITOR_INFO1_LIVE | 9 months  
+  
+#### Advertising
+
+We also use third party advertising companies to serve advertisements when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+**Service** | **Cookie Name** | **Expires**  
+---|---|---  
+Addthis | _atuvc, bh, di, psc,  uit, uvc,  | 2 years  
+Addthis | dt | 30 days  
+DoubleClick | id | 2 years  
+Yieldmanager | uid | 30 days  
+  
+#### Can I decline to accept cookies?
+
+You are not obliged to accept a cookie that we (or any other web server) send to you. Most browsers accept cookies automatically but you can modify the settings in your browser to turn off this feature. However, cookies are integral to some areas of the website and to certain online services offered by ACCA, so if you choose not to accept cookies from us, you may not be able to utilise some areas of the website and we may not be able to provide certain online services to you.
 
 How do I modify my browser to turn off (disable) the cookie acceptance feature?
 
