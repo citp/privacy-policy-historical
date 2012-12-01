@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-cig.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619173352id_/http%3A//www.e-cig.com/shopping/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-cig.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201021142id_/https%3A//www.e-cig.com/shopping/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# Best Electronic Cigarettes | E Cigarettes | E Liquid Site - Electronic Cigarette privacy
+# Electronic Cigarettes | E Cigarettes | E Liquid Site - Electronic Cigarette privacy
 
 **Privacy:**
 
