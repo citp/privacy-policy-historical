@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531233532id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201070851id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
 # Nethouseprices.com - Privacy
 
@@ -33,7 +33,7 @@ Please note that where we provide links to third party websites that are not aff
 
 6\. Advertisements 
 
-Our Web site uses ad servers (such as DoubleClick) to serve the advertisements that you see on pages of our Web site. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and the opt-out procedures of Hi-media generally, please visit the information on URL <http://www.hi-media.com/infoLegale.html?lang=en>. Furthermore, the Company agrees that at all times during the term of this Agreement that it will comply with all applicable privacy and data protection laws including, but not limited to European Directive 95/46/EC.
+Our Web site uses ad services (such as Crimtan) to serve the advertisements that you see on pages of our Web site. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and the opt-out procedures of Crimtan generally, please visit the information on URL <http://www.crimtan.com/optout.html>. Furthermore, the Company agrees that at all times during the term of this Agreement that it will comply with all applicable privacy and data protection laws including, but not limited to European Directive 95/46/EC.
 
 7\. Cookies 
 
