@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadget.pk privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602051509id_/http%3A//www.gadget.pk/index.php%3Fmod%3Dcms%26func%3DdisplayPage%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadget.pk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201232907id_/http%3A//www.gadget.pk/index.php%3Fmod%3Dcms%26func%3DdisplayPage%26id%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Gadget.pk
 
