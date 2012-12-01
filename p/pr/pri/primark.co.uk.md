@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primark.co.uk privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529124149id_/http%3A//www.primark.co.uk/page.aspx%3Fpointerid%3D256858ef9ead4691978015366d6e621a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primark.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201060523id_/http%3A//primark.co.uk/page.aspx%3Fpointerid%3D256858ef9ead4691978015366d6e621a) for the most accurate reproduction.*
 
 # Privacy Statement
 
