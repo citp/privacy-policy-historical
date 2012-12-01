@@ -1,24 +1,19 @@
-> *The following text is extracted and transformed from the 888media.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220536id_/http%3A//www.888media.net/ppc-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 888media.net privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201053439id_/http%3A//888media.net/privacypolicy.php) for the most accurate reproduction.*
 
 # 888media - Delivering Results - Privacy Policy
 
-|  Privacy Policy  
----  
-Updated on June 17, 2011   
-  
-888 Media is a technology-enabled media services company whose clients and customers include both online advertisers ("Advertisers") and Internet content sites ("Publishers"). We deliver innovative products and services designed to:
+Updated on June 17, 2011 
 
-  * Enable Advertisers to better reach their target audiences; and
-  * Enable Publishers to support, grow and monetize their websites through the sale of advertisements.
+888 Media is a technology-enabled media services company whose clients and customers include both online advertisers ("Advertisers") and Internet content sites ("Publishers"). We deliver innovative products and services designed to: 
 
-
+Enable Advertisers to better reach their target audiences; and  
+Enable Publishers to support, grow and monetize their websites through the sale of advertisements.
 
 We believe that safe, secure and respectful practices regarding the use of consumer information are fundamental to our business success and to the growth and vitality of the Internet as a whole.
 
-This Privacy Policy is intended to provide consumers with clear and complete information about the consumer data we collect in connection with our Services and the way that data is stored and used by our company, our Advertisers and our Publishers. 
+This Privacy Policy is intended to provide consumers with clear and complete information about the consumer data we collect in connection with our Services and the way that data is stored and used by our company, our Advertisers and our Publishers.
 
-  
-Information We Collect
+**Information We Collect**
 
 Non-Personal Information Collected by our Services
 
@@ -28,39 +23,35 @@ In order to improve performance, we augment our click stream data with non-perso
 
 We utilize the non-personal information described above to better customize the sort of advertisements you see. We also aggregate anonymous cookie data in order to identify large audience segments that assist advertisers in targeting their campaigns to the most relevant Internet audience. We store the information collected in log files, and log files are retained in our systems for a reasonable period of time. Anonymous data stored in our log files that associates the log data to a particular computer include IP address and User ID. We purge the IP address and irreversibly obfuscate the User ID from our log files six months after collection of this information.
 
+  
+
+
 We reserve the right to disclose personally identifiable information you have disclosed to us in response to judicial process or court order or to provide information to law enforcement agencies or in connection with an investigation of matters related to public safety, as permitted by law.
 
-  
-International Transfers of Data
+**International Transfers of Data**
 
-Personally identifiable information collected by 888 Media may be stored and processed in the United Kingdom or any other country in which 888 Media or its affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer. 
+Personally identifiable information collected by 888 Media may be stored and processed in the United Kingdom or any other country in which 888 Media or its affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer.
 
-  
-Information Security
+**Information Security**
 
 888 Media follows generally accepted industry standards to protect against unauthorized access to, destruction or disclosure of data. This includes undertaking necessary physical, electronic and management activities required to protect data integrity, access and use. Any data that is stored on our servers is treated as confidential and is not made generally available to the public. Our servers are protected by firewalls and are located in secure data facilities to further increase security. Please keep in mind, however, that despite these reasonable efforts to protect data on our servers no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your personal data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
 
-  
-Transfer of Data Upon Change of Control
+**Transfer of Data Upon Change of Control**
 
 In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase or other transaction, we reserve the right to transfer all data (including any personally identifiable data) that is in our possession or under our control to such acquiring party.
 
-  
-Children's Privacy
+**Children's Privacy**
 
 888 Media is sensitive to the issue of children's privacy. Hence, our services are neither developed for, nor directed at, children. We don't offer the targeting of advertising towards anyone under the age of 13.
 
-  
-Changes to this Privacy Policy
+**Changes to this Privacy Policy**
 
 We reserve the right to make changes to this Privacy Policy by posting an updated version on this page. The date on which the current Privacy Policy was posted will always be noted at the top of this page. Any change we make to our Privacy Policy will be made in compliance with applicable law.
 
-  
-Correspondence
+**Correspondence**
 
-If you contact us, we may keep a record of that correspondence, including your email address. This relates to your correspondence with us only - we do not gather users' email addresses as part of our online advertising business.
+If you contact us, we may keep a record of that correspondence, including your email address. This relates to your correspondence with us only - we do not gather users' email addresses as part of our online advertising business. 
 
-  
-Questions and Comments
+**Questions and Comments**
 
 Questions and comments regarding this Privacy Policy should be directed to **admin@888media.net**
