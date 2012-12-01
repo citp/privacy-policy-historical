@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystockstream.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531225757id_/http%3A//mystockstream.com/pg/expages/read/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystockstream.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201062851id_/http%3A//mystockstream.com/pg/expages/read/privacy) for the most accurate reproduction.*
 
 # MyStockStream.com
 
