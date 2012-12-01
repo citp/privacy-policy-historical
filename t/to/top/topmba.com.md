@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topmba.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617131635id_/http%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topmba.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201113707id_/http%3A//www.topmba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TOPMBA
 
@@ -48,13 +48,13 @@ Controlling your personal information
 You may choose to restrict the collection or use of your personal information in the following ways:
 
 When you are asked to fill in a form on any of our websites, look for the tick box that indicates you do not want the information to be for direct marketing purposes  
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by sending an email to [calose@qs.com](mailto:carlose@qs.com) and stating that you would like to be removed from our marketing lists
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by sending an email to [onlinesupport@qs.com](mailto:carlose@qs.com) and stating that you would like to be removed from our marketing lists
 
  We may use your personal information to send you promotional information about services we offer and third parties which we think you may find of value. 
 
-To remove yourself from email communications, please send an email to [calose@qs.com](mailto:carlose@qs.com) stating that you would like to be removed from our marketing lists
+To remove yourself from email communications, please send an email to [onlinesupport@qs.com](mailto:carlose@qs.com).. stating that you would like to be removed from our marketing lists
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [calose@qs.com](mailto:carlose@qs.com).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [onlinesupport@qs.com](mailto:carlose@qs.com).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
