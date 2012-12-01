@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tomtest.net privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603002055id_/http%3A//tomtest.net%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtest.net privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201132122id_/http%3A//tomtest.net%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# TomTest.net | Privacy Policy | Get Your Premiums Here!
+# Privacy Policy | TomTest.net | Get Your Premiums Here!
 
 We collect information from you when you register on our site, respond to a survey or fill out a form.   
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or password. You may, however, visit our site anonymously.  
