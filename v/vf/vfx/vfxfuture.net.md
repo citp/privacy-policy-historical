@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfxfuture.net privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607073115id_/http%3A//vfxfuture.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfxfuture.net privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201114145id_/http%3A//vfxfuture.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » VFXFuture.net
 
