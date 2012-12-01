@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rossettijorgensen.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603001302id_/http%3A//rossettijorgensen.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rossettijorgensen.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201131214id_/http%3A//rossettijorgensen.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Rossettijorgensen.com | A PHPLink directory - About Us
 
