@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filesmonster.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522110839id_/http%3A//filesmonster.com/info.php%3Fprivacypolicy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesmonster.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201033007id_/http%3A//filesmonster.com/info/privacypolicy) for the most accurate reproduction.*
 
-# 
+# None
 
 Logging IP Addresses
 
