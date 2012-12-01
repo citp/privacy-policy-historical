@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydar.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619193120id_/http%3A//www.gaydar.co.uk/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201111818id_/http%3A//gaydar.co.uk/info/privacy.asp) for the most accurate reproduction.*
 
 # Gaydar - What you want, when you want it
 
