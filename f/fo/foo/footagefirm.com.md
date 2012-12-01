@@ -1,61 +1,112 @@
-> *The following text is extracted and transformed from the footagefirm.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604151717id_/http%3A//www.footagefirm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footagefirm.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201023434id_/http%3A//privacy-policy.truste.com/verified-policy/www.footagefirm.com) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for www.footagefirm.com
 
-**PRIVACY POLICY**
+Effective on May 24, 2010 
 
- ** _FootageFirm.com_**
+This privacy statement describes how Footage Firm, Inc. collects and uses the personal information you provide on our Web site: [www.footagefirm.com ](http://www.footagefirm.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
- **1.** ** Our Commitment to Privacy.** Protecting your privacy and the personal information you provide us is a top priority for us. For this reason, we do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. Please read this privacy policy to learn more about the policies and procedures we have put in place to achieve this goal. This notice describes our Privacy Policy. By visiting this site, you are accepting the practices described in this Privacy Policy.
+**TRUSTe**
 
-         Note that the policies and procedures we describe here apply only to FootageFirm.com (the “Site”). This privacy policy does not apply to the products or services provided by third parties that may be obtained through the use of the Site.
+Footage Firm, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
- **2. What Information is Collected. **We collect personal information and non-personal information through the Site. Personal information is information that identifies you as an individual. Non-personal information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
+If you have questions or concerns regarding this policy, you should first contact us at [support@footagefirm.com ](mailto:support@footagefirm.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
- ** _Personal information._** We may collect the following types of personal information:
+## Collection and Use of Personal Information
 
-a)       Information provided by you when placing an order through the.
+We collect the following personal information from you
 
-b)       Credit and debit card account information, including credit card numbers, billing addresses and other information collected from you when placing an order. (collectively, “Payment Information”).
-
-c)       Information you provide us through customer service correspondence and general feedback.
-
- ** _Non-Personal information._** When you visit the Site, we may collect non-personal information, such as a catalog of the Site pages you visit. Non-personal information is generally collected through the Site from the following sources: server log files, environmental variables, cookies, and other similar technologies and information that you voluntarily provide.
-
-a)       **Server Log Files.** Your Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site’s servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
-
-b)       **Environmental Variables.** We and our service providers may also collect certain environmental variables, such as computer type (Windows or Macintosh), screen resolution, OS version, Internet browser, and Internet browser version. These environmental variables are collected by most browsers, and can be used to optimize your experience on the Site.
-
-c)       **Cookies and Similar Technologies.** We and our service providers may use “cookies” or similar technologies on the Site. Cookies are data that a web server transfers to an individual’s computer for recordkeeping purposes. Cookies are an industry standard used by many websites, and can facilitate your ongoing access to and use of a particular website; cookies do not cause damage to your computer systems or files. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website, to your computer. ** **
-
-d)       **Information That You Voluntarily Provide.** We also collect non-personal information (e.g., your geographic location, etc.) when you voluntarily provide such information to us. When such information is not combined with any personal information, such information is considered to be non-personal information, as it does not personally identify you or any other user. Additionally, we may aggregate personal information in a manner such that the end-product does not personally identify you or any other user of the Site. Such aggregate information is considered non-personal information for purposes of this Policy.
-
-  1.  **3.       ****How and When the Information is Used?**
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Financial Information such as bank or brokerage account numbers, types of investments
 
 
 
- ** _Personal Information._** We may use personal information we collect in the following ways:
+We also collect the following information from you
 
-a)       **Fulfillment of Requests.** We may use personal information collected about you to provide you with products, services or information that you request.
+  * Information about your business such as company name, company size, business type
 
-b)       **Administrative Communications.** From time to time we may use personal information to send to you important information regarding the Site, or changes to our terms, conditions, and policies. Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.
 
-c)       **Other Communications.** From time to time, we may use personal information to inform you of products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not send such email marketing messages to you, please notify us by contacting 866-777-9354.
 
-d)       **Order Fulfillment.** We may use personal information, including Payment Information in order to fulfill your order.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-e)       **Internal Business Purposes.** We may also use personal information for our internal business purposes, such as data analysis and audits. In addition, we may also use personal information to enhance our information and to aid us in providing our customers with targeted promotions.
+We use this information to
 
- ** _Non-Personal Information._** Because non-personal information does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to disclose such non personal information to other third parties, for any purpose.
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
 
- **4. Legal Requests _._** We cooperate with law enforcement authorities, as well as with other third parties, to enforce laws, intellectual property rights, and to prevent fraud. In response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can, and you authorize us to, disclose your information.
 
- **5. How We Protect Your Information.** The privacy and protection of your information is important to us. We therefore use practices that are consistent with standards in the industry to protect your privacy. Subject to the other sections of this Privacy Policy, we do not make any personal information available to third parties without your permission. Please note, however, that no transmission over the Internet or telephone can be fully guaranteed in its confidentiality and non-disclosure, and as such you transmit at your own risk. 
 
-Your access to your account is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You are responsible for all actions taken with your login name and password. Your user password should be held in strict confidence. If you lose control of your password, you may lose substantial control over your account. Therefore, if your password has been compromised for any reason, you should immediately change your password. We offer you the ability to review and change the information you submit to us by logging into the site, and once logged in as a registered user, you may change your Password and user preferences. Please contact us at info (at) footagefirm.com if you are unable to change your password.
+**Choice/Opt-Out**
 
- **6. Consent.** By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@footagefirm.com ](mailto:support@footagefirm.com).
 
- **7. Changes to Privacy Policy.** If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective 30 days from the time such new policies are posted, unless otherwise stated in the change.
+## Information Sharing
 
- **8. Effective Date.** This Privacy Policy is effective as of 7/1/2009.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if Footage Firm, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
+
+
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Footage Firm, Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@footagefirm.com ](mailto:support@footagefirm.com)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [support@footagefirm.com ](mailto:support@footagefirm.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Footage Firm, Inc. 
+
+11600 Sunrise Valley Drive Suite 400 
+
+Reston, VA, United States 20191
+
+Phone: 866-777-9354
