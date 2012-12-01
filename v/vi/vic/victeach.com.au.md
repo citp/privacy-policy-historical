@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victeach.com.au privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520152639id_/http%3A//victeach.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victeach.com.au privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201215432id_/http%3A//victeach.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Victoria Teachers Mutual Bank
 
