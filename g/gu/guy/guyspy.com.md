@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601163123id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201032122id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuySpy
 
-**LAST MODIFIED: January 21, 2011**
+**LAST MODIFIED: November 29, 2012**
 
-Stark Mobile Technologies (“GuySpy” or “we”) operates GuySpy.com. We take your privacy seriously, and have created this Privacy Policy to inform you about our privacy practices. We encourage you to read the following information carefully and contact us with any questions you may have.
+Stark Mobile Technologies, LLC (“GuySpy” or “we”) operates GuySpy.com. We take your privacy seriously and have created this Privacy Policy to inform you about our privacy practices. We encourage you to read the following information carefully, to check back in regularly for changes and updates, and to contact us with any questions you may have.
 
 This Privacy Policy describes GuySpy’s use and sharing of information provided by Users. The Term “User” refers to a visitor or a member.
 
 The GuySpy Website is a general audience site and does not knowingly collect personally identifiable information (“PII”) such as names, address, phone number or email addresses, from individual who are less than 18 years of age.
 
-From time to time, GuySpy may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, and/or the features of the GuySpy Services or technology, and such modifications shall be effective upon posting by GuySpy on the GuySpy Website. Your continued use of the GuySpy Services after GuySpy posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If GuySpy materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
+From time to time, GuySpy may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, and/or the features of the GuySpy Services or technology, and such modifications shall be effective as and when they are posted on the GuySpy Website. Your continued use of the GuySpy Services after GuySpy posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes
 
 **What This Privacy Policy Covers**
 
-This Privacy Policy applies to the services offered by GuySpy, including any GuySpy branded URL (the “GuySpy  Website”), the GuySpy instant messaging service, the GuySpy  Smartphone applications, and other features, GuySpy  mobile services, and any other features, content, or applications offered from time to time by GuySpy  in connection with the GuySpy Website (collectively, the “GuySpy  Services”). This Privacy Policy applies only to the practices of companies we own or control, and people we employ or manage.
+This Privacy Policy applies to the services offered by GuySpy, including any GuySpy branded URL (the “GuySpy Website”), the GuySpy instant messaging service, the GuySpy Smartphone applications, and other features, GuySpy mobile services, [GuySpy Voice chatline services](http://www.guyspyvoice.com/), and any other features, content, or applications offered from time to time by GuySpy (collectively, the “GuySpy Services”). This Privacy Policy applies only to the practices of companies we own or control, and people we employ or manage.
 
 **What Types of Information Are Collected and Used?**
 
-The GuySpy Services collects two kinds of information: personally identifiable information (“PII”), and non-personally identifiable information (“Non-PII”). For the purposes of this Privacy Policy, PII refers to data that can be used to identify you specifically, such as your name, home address or email address and can include information you provide to us on registration (also known as “Registration PII”). Non-PII refers to data which does not allow you to be identified specifically, such as your IP address, usage preferences, or browser type.
+The GuySpy Services collects two kinds of information: personally identifiable information (“PII”), and non-personally identifiable information (“Non-PII”). For the purposes of this Privacy Policy, PII refers to data that can be used to identify you specifically, such as your name, home address or email address and can include information you provide to us on registration (also known as “Registration PII”). Non-PII refers to data which does not allow you to be identified specifically or allow your identity to be confiscated. Non-PII would include data such as your IP address, usage preferences, or browser type.
 
-In addition to the PII collected by GuySpy, GuySpy members may also choose to provide or store additional PII information in their public or semi-public profiles, including, but not limited to, date of birth, interests, hobbies, lifestyles, groups or communities with whom you associate (schools, companies, politics), videos and/or pictures, private messages, bulletins or personal statements (collectively “Profile Information”). Profile Information is provided voluntarily at a User’s sole discretion and is generally outside of this policy. GuySpy members can change their Registration PII and Profile Information at any time and can control how visitors, other members, and GuySpy communicate with them by controlling their account settings, available within the “Edit Profile” portion of their GuySpy profile.
+In addition to the PII collected by GuySpy, GuySpy members may also choose to provide or store additional PII information either through the sharing of location information or in their public or semi-public profiles, including, but not limited to, date of birth, interests, hobbies, lifestyles, groups or communities with whom you associate (schools, companies, politics), videos and/or pictures, private messages, bulletins or personal statements (collectively “Profile Information”). Location and Profile Information is provided voluntarily at a User’s sole discretion and is generally outside of this policy. GuySpy members can change their Registration PII, their location sharing and Profile Information at any time and can control how visitors, other members, and GuySpy communicate with them by controlling their account settings, available within the “Edit Profile” portion of their GuySpy profile.
 
 Non-PII could include your IP address, browser type, and cookies, as well as statistical and aggregated data on how GuySpy is being used. This data is used to manage and improve the GuySpy Services, track usage, and for security purposes. Cookies are small bits of information that GuySpy places on your computer. GuySpy uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the GuySpy Services. Data in cookies may be read to authenticate user sessions or provide services.
 
@@ -32,20 +32,30 @@ We may collect PII, such as your name, home and/or billing address, email addres
 
 PII may be used for the following purposes:
 
-  * **To establish and maintain a responsible commercial relationship with you, and to provide ongoing service.**  For example, when you register as a member to use the GuySpy Services, we collect information allowing us to confirm your identity, and accurately bill and collect for the GuySpy Services you receive. We may also collect credit card or bank account information, based on your preferred method of payment for the GuySpy Services. Profile Information you provide in structured profile fields or questions (“Structured Profile Information”), information you add to open-ended profile fields and questions (“Non-Structured Profile Information”) and other voluntarily provided PII may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your music interests we might display an advertisement to make sure you are advised when your favorite band is coming to town.
-  * **To market our services.**  With your consent, we may use your telephone number, email address, and/or mailing address to send you information regarding special offers, contests, affiliated products and/or services, and other initiatives we think may be of interest to you (“Marketing Communications”). You can opt out from receiving Marketing Communications at any time by using the methods outlined below. Without your consent, we may also send you important communications related to your membership account such as service announcements and administrative messages (“Membership Communications”). Membership Communications are a feature of your account and allowing delivery may be a condition of using the GuySpy Services.
-  * **To meet legal and regulatory requirements.**  For example, we may use information to respond to a subpoena, court order, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * **To allow Users to get the most out of the GuySpy Services.**  In order to locate other GuySpy Members that you may already know in the physical world. GuySpy also allows Users to browse for certain Profile Information in order to help connect with Members (i.e. schools and/or companies where Users may have attended or worked). GuySpy may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Edit Profile.” Search engines may index the portion of a Member’s profile(including the Profile Information it contains) that is publicly displayed.
+  * **To establish and maintain a responsible commercial relationship with you, and to provide ongoing service.** For example, when you register as a member to use the GuySpy Services, we collect information allowing us to confirm your identity, and accurately bill and collect for the GuySpy Services you receive. We may also collect credit card or bank account information, based on your preferred method of payment for the GuySpy Services. Profile Information you provide in structured profile fields or questions (“Structured Profile Information”), information you add to open-ended profile fields and questions (“Non-Structured Profile Information”) and other voluntarily provided PII may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your music interests we might display an advertisement to make sure you are advised when your favorite band is coming to town.
+  * **To market our services.** With your consent, we may use your telephone number, email address, and/or mailing address to send you information regarding special offers, contests, affiliated products and/or services, and other initiatives we think may be of interest to you (“Marketing Communications”). You can opt out from receiving Marketing Communications at any time by using the methods outlined below. Without your consent, we may also send you important communications related to your membership account such as service announcements and administrative messages (“Membership Communications”). Membership Communications are a feature of your account and allowing delivery may be a condition of using the GuySpy Services.
+  * **To meet legal and regulatory requirements.** For example, we may use information to respond to a subpoena, court order, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * **To allow Users to get the most out of the GuySpy Services.** In order to locate other GuySpy Members that you may already know in the physical world. GuySpy also allows Users to browse for certain Profile Information in order to help connect with Members (i.e. schools and/or companies where Users may have attended or worked). GuySpy may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Edit Profile.” Search engines may index the portion of a Member’s profile (including the Profile Information it contains) that is publicly displayed.
 
 
 
-**How We Use Non-PII**  
-From time to time, we may ask you to provide us with non-PII which does not allow us to identify you specifically, such as IP address, zip code, GuySpy Services usage preferences, and demographic data such as income bracket, age, or gender. Your non-PII may be aggregated and used internally, or may be shared with third parties for any lawful purpose, without your permission. Third parties will not be able to use this information to identify you in any way.  
-Some of the ways in which we may use your non-PII include:
+**How We Use Non-PII**
 
-  * **To manage and develop the GuySpy Services.**  We track and analyze customer usage of the GuySpy Services and its supporting facilities in the aggregate to help us maximize efficiency, plan for future growth, and identify features for enhancing your overall user experience.
-  * **To manage and develop our website.**  We track and analyze customer usage of the GuySpy Services in the aggregate to maintain our website and/or identify problems on our servers.
-  * **Cookies.**  GuySpy may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided.
+From time to time, we may ask you to provide us with non-PII which does not allow us to identify you specifically, such as location, IP address, zip code, GuySpy Services usage preferences, and demographic data such as income bracket, age, or gender. Your non-PII may be aggregated and used internally, or may be shared with third parties for any lawful purpose, without your permission. Third parties will not be able to use this information to identify you in any way.
+
+Some of the ways in which we may use your non-PII include (including location):
+
+  * **To manage and develop the GuySpy Services.** We track and analyze customer usage of the GuySpy Services and its supporting facilities in the aggregate to help us market our services, maximize efficiency, plan for future growth, and identify features for enhancing your overall user experience.
+  * **To manage and develop our website.** We track and analyze customer usage of the GuySpy Services in the aggregate to maintain our website and/or identify problems on our servers.
+  * **Cookies.** GuySpy may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided.
+
+
+
+In addition, here are some of the ways in which we may use your location information:
+
+  * **Determining location.** We may determine your location either through the GPS in your mobile device or through an approximation of your location based on the IP address of your general location.
+  * **Location restrictions.** You may adjust your profile settings to prevent the sharing of your location, to generalize your location or to provide your specific location.
+  * **Use of location information.** We use your location information to search for other users and present them to you based on their distance from your location. We also use your location information to place you on a map for other users to see.
 
 
 
@@ -56,11 +66,12 @@ We will not sell or rent your personal information to anyone. We may disclose pe
   * we have your consent to disclose the information;
   * we need to disclose the information to affiliates or companies who work on our behalf to provide you with the GuySpy Services (these companies do not have any right to use your personal information beyond what is necessary to assist us);
   * we respond to subpoenas, court orders, or other legal process; or
-  * we find that your actions on the Website or the GuySpy Services violate the Terms of Use.
+  * we find that your actions on the Website or the GuySpy Services violate the Terms of Use.
 
 
 
-Any such disclosure of your personal information is made on a confidential basis with the information to be used only for the purpose for which it was disclosed.  
+Any such disclosure of your personal information is made on a confidential basis with the information to be used only for the purpose for which it was disclosed.
+
 GuySpy Services may be linked to Internet sites operated by other companies. GuySpy Services may also carry advertisements from other companies. GuySpy is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the GuySpy Services or for the privacy practices of third party Internet advertising companies. Once you leave GuySpy Services via such a link, access a third party application (such as widgets), or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
 
 **How Do We Protect Your Information?**
@@ -100,9 +111,9 @@ If there are any matters that have not been expressly addressed in this Privacy 
 The Privacy Officer can be contacted as follows:
 
 Attn: Privacy Officer  
-Stark Mobile Technologies  
-1045 Howe Street, Suite 400  
-Vancouver, B.C. V6Z 2A9  
-Email: [privacy@guygpy.com](mailto:privacy@guyspy.com)
+Stark Mobile Technologies, LLC  
+5605 Riggins Court, Suite 262  
+Reno Nevada 89502-6501  
+Email: [privacy@guyspy.com](mailto:privacy@guyspy.com)
 
-© 2012 GuySpy. All Rights Reserved 
+© 2012 Stark Mobile Technologies, LLC. All Rights Reserved 
