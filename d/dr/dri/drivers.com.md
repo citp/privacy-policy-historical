@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620031506id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201064215id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
 
-# Drivers.com - Instantly Update Outdated or Corrupt Toshiba DVD Drivers
-
-### Drivers.com Privacy Policy
+# Download Drivers - Automatic Driver Updates With the World's Leading Device Drivers Website
 
 This privacy notice discloses the privacy practices for http://www.drivers.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -37,7 +35,7 @@ Links - This web site contains links to other sites. Please be aware that we are
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone 512-373-3518 or by emailing us directly at driverscom@drivershq.com.
 
-### Driver Common Sense Policy
+## Driver Common Sense Policy
 
 All driver(s) and names used on this web site are copyrighted and the property of the company supplying the drivers. When using a company's driver you will bound to that company's own legal agreement (we suggest you read the agreements).
 
@@ -45,7 +43,7 @@ Drivers.com is NOT responsible for any damage that the information on this web s
 
 All product names and company names used herein are for identification purposes only and may be trademarks or registered trademarks of their respective owners. Drivers.com is in no way affiliated or representing any of the companies represented on this web site.
 
-### Refund Policy
+## Refund Policy
 
 If we are unable to provide the updated driver that we have presented when you did the free scan for functioning hardware devices we will be happy to provide you with a refund. Please use the contact page and include info about the driver that was not available for update.
 
