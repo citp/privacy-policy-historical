@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121002722id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201043157id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
 
 # HomeNetPro.coms Privacy Policy Statement
 
-Privacy Statement
+Privacy Policy
 
-Last Updated: January 1st, 2006
+**Last Updated:** **July 21st 2012**
 
 HomeNetPro.Com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
-How we gather information from users
+**How we gather information from users:**
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, HomeNetPro.Com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
-What we do with the information we collect
+**What we do with the information we collect:**
 
 Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
@@ -22,7 +22,7 @@ We may use Personally Identifiable Information collected on HomeNetPro.Com to co
 
 Personally Identifiable Information collected by HomeNetPro.Com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
-Affiliated sites, linked sites and advertisements
+**Affiliated sites, Linked sites and Advertisements:**
 
 HomeNetPro.Com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a HomeNetPro.Com page, certain content that is actually created or hosted by a third party. Also, through HomeNetPro.Com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. HomeNetPro.Com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
@@ -30,23 +30,23 @@ While on our site, our advertisers, promotional partners or other third parties 
 
 You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of HomeNetPro.Com and this policy.
 
-Children
+**Children:**
 
 HomeNetPro.Com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe HomeNetPro.Com has any information from or about anyone under 13, please contact us at the address listed below.
 
-_**Contacting Us**_
+**Contacting Us** :
 
-We can be reached by contacting :
+**We can be reached by contacting :**
 
-Email: support (at) homenetpro.com
+**Email:** support (at) homenetpro (dot) com
 
-Mail: HomeNetPro.Com 703 Hickory Carlsbad, NM 88220.
+**Snail Mail:** Southwest Web Technologies, LLC 703 Hickory St. Carlsbad, NM 88220.
 
-Changes to this Policy
+**Changes to this Policy:**
 
 HomeNetPro.Com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-Governing law
+**Governing law**
 
 This policy and the use of this Site are governed by US law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Carlsbad, NM. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
@@ -56,13 +56,13 @@ HomeNetPro.Com is controlled, operated and administered entirely within HomeNetP
 
 **Privacy Policy Continued**
 
-     This is the web site of: **Chris Simpson**
+     **This is the web site of:** Southwest Web Technologies, LLC
 
-     Our postal address is:  703 Hickory
+     **Our postal address is:**    703 Hickory St.
 
-                                       Carlsbad, NM 88220
+                                          Carlsbad, NM 88220
 
-     We can be reached via e-mail at: Support (at) HomeNetPro.com 
+     We can be reached via e-mail at: Support (at) HomeNetPro (dot) com 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address except for the IP address of the originating visitor..
 
@@ -86,18 +86,16 @@ If you choose to post information on our site or maintain email, snailmail or te
 
 **No Use of Our Site by Persons Under 13**
 
-No person under 13 should disclose information on this site. You may learn more about protecting children's privacy online by visiting www.ftc.gov/kidzprivacy.
+No person under 13 should disclose information on this site. You may learn more about protecting children's privacy online by visiting www.ftc.gov/kidzprivacy. ****
 
 **Passive Information Collected**
 
 Our site utilizes a standard technology called "cookies" to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. Passive Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit "cookie" information about yourself, you may turn off the cookie function in your web browser; please consult the "Help" section of your browser to correctly do so.
 
-  
 **What is a Cookie?**
 
 Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user's web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user's transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
-  
 **How Do We Use the Information Collected?**
 
 Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other products or services we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us an email .
