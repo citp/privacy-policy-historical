@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geforce.co.uk privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601235640id_/http%3A//www.geforce.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geforce.co.uk privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201125321id_/http%3A//www.geforce.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
-# Information - GeForce
+# Information | GeForce
 
 ### Introduction
 
