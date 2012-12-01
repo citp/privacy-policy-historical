@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repley.net privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531094419id_/http%3A//www.repley.net/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repley.net privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201120951id_/http%3A//www.repley.net/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Repley.net
 
