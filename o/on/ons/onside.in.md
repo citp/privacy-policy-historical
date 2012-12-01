@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onside.in privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603142455id_/http%3A//www.onside.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onside.in privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201215552id_/http%3A//www.onside.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnSide.In - Tricks | Technology | Make Money
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.onside.in/contact-us/ "contact us") by email at rohithvr2009@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at rohithvr2009@gmail.com.
 
 At www.onside.in, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.onside.in and how it is used.
 
