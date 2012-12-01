@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the datingbuddies.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192811id_/http%3A//www.datingbuddies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingbuddies.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201021604id_/http%3A//www.datingbuddies.com/privacy) for the most accurate reproduction.*
 
-# Online dating with www.datingbuddies.com - Privacy Policy
+# Privacy Policy - www.datingbuddies.com
 
 ## This Privacy Policy is effective for www.datingbuddies.com members  
-Last edition — March 1, 2009
+Last edition — Novermber 26, 2012
 
 The www.datingbuddies.com web-site and the service is the member of Dating Factory network, which is operated by Caerus AG, a company registered under the laws of Switzerland, whose registered office is Lauriedstrasse 1, CH-6300, Zug, Switzerland. 
 
@@ -16,7 +16,7 @@ www.datingbuddies.com may change some clauses of this Policy from time to time, 
   3. We will not share your personal information with any third party for marketing purposes without your permission. 
   4. We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the www.datingbuddies.com website. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting. 
   5. Your individual use of www.datingbuddies.com website and your interaction with other members through this site will be kept strictly private. 
-  6. We may from time to time send you emails from third parties of promotions that we feel will be of benefit for you to the email you provided us with. You may unsubscribe to these at any time by changing your profile settings. 
+  6. We may from time to time send you emails from third parties or promotions that we feel will be of benefit for you to the email you provided us with. You may unsubscribe from www.datingbuddies.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every www.datingbuddies.com email. 
   7. In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by www.datingbuddies.com to safely identify you each time you logon and use the site and to keep your session active when you don’t use the website for some time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous. 
   8. Our members have the following choices to modify or delete their information from our database: 
     * Send an email to [Customer support](https://web.archive.org/contacts/)
