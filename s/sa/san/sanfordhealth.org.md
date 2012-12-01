@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626175939id_/http%3A//www.sanfordhealth.org/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201212056id_/http%3A//www.sanfordhealth.org/Home/Privacy) for the most accurate reproduction.*
 
 # Sanford Health
 
@@ -6,7 +6,7 @@ At Sanford, we vow to keep any information that we collect via our web site conf
 
 We will notify you whether the information you are providing is being submitted through a secure or unsecured site. (When you come across a web page that is secured, your browser will likely display a "closed lock" or other symbol to inform you that SSL has been enabled. The web address should also now start with "https://" rather than "http://". In a nutshell, SSL allows a secure connection between your web browser and a web server. This secure information "tunnel" is being widely adopted by numerous companies for client services. From credit card purchases to online banking transactions.)
 
-Sending an email directly to an email address that is found on our web site is not considered secure. We have identified areas of the web site that are secure and encourage you to only submit highly sensitive and/or personal information through those sites. Those areas include Patient Pre-Registration, Online Gifts, Online Applications, and iValley.
+Sending an email directly to an email address that is found on our web site is not considered secure. We have identified areas of the web site that are secure and encourage you to only submit highly sensitive and/or personal information through those sites. Those areas include Patient Pre-Registration, Online Gifts, Online Applications, and My Sanford Chart.
 
 The information that is gathered through our web site is not shared with any entities outside of Sanford, unless you have specifically authorized us to share that information or, in Sanford's good-faith belief, it is required under the law.
 
