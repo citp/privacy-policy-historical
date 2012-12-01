@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512034213id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201123742id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
 
-# San Francisco Daily Draws | Online Draws | RoyalDraw.com - Privacy
+# Toronto Daily Draws | Online Draws | RoyalDraw.com - Privacy
 
 This Privacy Policy discloses the privacy practices in effect for the Royal Coupon (http://www.royalcoupon.com) and Royal Draw (http://www.royaldraw.com) websites (collectively referred to as the "Site"). Royal Coupon Inc. (referred to as "us", "we", or "Royal Coupon") is the provider and operator of the Site and all its contents. Please read the following to learn what information we collect from you (referred to as "you" or "User") and how we use that information. Royal Coupon is committed to protecting your privacy online. If you have any questions concerning this privacy policy please email us. 
 
@@ -98,5 +98,5 @@ Areas may exist on our Site where Users can publicly post information about them
 Royal Coupon Inc.   
 160 Confederation Parkway   
 Vaughan, Ontario, L4K 4T8   
-Email [info@royalcoupon.com](mailto:info@royalcoupon.com).   
-Phone (905) 760-0040 
+Email: [info@royalcoupon.com](mailto:info@royalcoupon.com).   
+Fax: (905) 760-0094 
