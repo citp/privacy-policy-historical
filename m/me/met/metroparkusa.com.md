@@ -1,63 +1,171 @@
-> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205194922id_/http%3A//metroparkusa.com/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroparkusa.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201043527id_/http%3A//www.metroparkusa.com/customer-service%23privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Metropark / Customer Service
 
-###  Introduction
+For the holiday season, METROPARKUSA.com will extend the period allowed for returns to accept all non-clearance items purchased after November 1st to be returned for a full refund by January 15th, 2013. 
 
-Metropark USA, Inc recognizes that your privacy and the protection of your personal information are important to you. This statement discloses how Metropark USA, Inc helps protect your personal information while using the Metropark USA, Inc online store Web site Services. By using the Metropark USA, Inc online store Web site, you consent to the data practices described in this statement.
+##  Website Orders
 
-###  Collection of Personal Information
+Online orders are processed Monday through Friday, 1-2 business days of order placement, unless indicated in the product description. Orders placed between 1pm EST Friday thru midnight EST Sunday will be processed the following Monday. On occasion, an order may be placed on hold. In that event, we will contact you within one business day to gather the information we need to expedite the order. If we attempt to contact you and do not receive a response after five business days, we reserve the right to cancel your order. 
 
-When you register for the Metropark USA, Inc online store Web site, you will be asked to provide certain personal information that will be stored in your "profile." The profile contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country, (4) state or territory and (5) ZIP code. In addition to the information in your profile, the Metropark USA, Inc online store Web site may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Metropark USA, Inc online store Web site.  We may also collect data pertaining to your online transactions, purchase history, and Web site usage patterns. When you register for the Metropark USA, Inc online store Web site, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers to help verify your identity to Metropark USA, Inc when there are account issues, such as needing to reset your password.
+###  Payment
 
-###  Use of Your Personal Information
+We accept American Express, Visa, MasterCard and PayPal. Sales tax will be charged when applicable. International customers must use a valid international credit card. If the credit card cannot be verified as belonging to the person placing the order, the order will not be processed. 
 
-Metropark USA, Inc will not sell or rent your personal information to third parties. Metropark USA, Inc will not use or share your personal information in a manner that differs from what is described in this Privacy Policy without your prior consent. Metropark USA, Inc uses your personal information for the operation and maintenance of your Metropark USA, Inc online store Web site and account. For example, we use your e-mail address to send you a welcome e-mail message when you first sign up on the mailing list. You must respond to this e-mail in order to validate that you are the owner of the e-mail address associated with the Metropark USA, Inc online store Web site. Failure to respond to the e-mail and verify the address within the time stated in the email will cause the Metropark USA, Inc online store Web site account to become inactive. This process is designed to verify the validity of the e-mail address and to help prevent e-mail addresses from being used without permission in the creation of Metropark USA, Inc online store Web site. As part of the Metropark USA, Inc online store Web site, we may recommend for your consideration various products and merchandise. Accordingly, we may analyze data pertaining to your online transactions, purchase history, and Web site usage patterns on Web sites so that we can make recommendations suited especially to you. We may also send you periodic e-mails about special events or exclusive offers.
+###  Sales Tax
 
-###  California Privacy Rights
+Sales tax will be charged when applicable. 
 
-Metropark USA, Inc will not sell or rent your personal information to third parties. Beginning January 1, 2005, under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2007 will receive information regarding 2006 sharing activities).
+###  Promo Codes
 
-To obtain this information, please send an e-mail message to [info@metroparkusa.com](mailto:info@metroparkusa.com) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+We all love a deal, but there are a few little rules:
 
-###  General Disclosure of Personal Infomration
+  * Only one code may be used per order.
+  * Certain items (including all sale items) are excluded from special offers.
+  * Codes may not be applied after an order is processed.
 
-Metropark USA, Inc may occasionally hire other companies to provide limited services on our behalf, such as answering customer support inquiries. Metropark USA, Inc will only provide these companies with those pieces of your personal information needed to deliver the services, and the companies and their employees are prohibited from using that personal information for any other purpose. Metropark USA, Inc may share your personal information with third parties in order to fulfill a service or transaction you may have requested. Metropark USA, Inc may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Metropark USA, Inc; (b) protect and defend the rights or property of Metropark USA, Inc; or (c) act under exigent circumstances to protect the personal safety of users of the Metropark USA, Inc online store web site, or the public.
 
-###  Managing Your Personal Information
 
-You can always add, update, or make other changes to the information in your Metropark USA, Inc online store Web site profile.
+###  How to Place an Order
 
-###  Sharing Your Personal Information
+Placing an order with is easy. Simply follow these steps:
 
-If you choose, you may opt-in to various features which may be available as part of the Metropark USA, Inc online store Web site which allow the voluntary sharing of information between you and a group of Metropark USA, Inc online store Web site  users designated by you (i.e. a wish list). In this way, the Metropark USA, Inc online store Web Site users who are listed on each other's wish list can view information about one another's online transactions and other types of information; for example what merchandise is being purchased by the members of the wish list.
+  * Add an item to your shopping bag by clicking "add item" on the item's product detail page.
+  * When you have finished shopping, click the "cart" button at the top of the page.
+  * You will be shown your basket for review.
+  * Click "proceed to check out."
+  * On the login page new customers should click the "create account."
+  * Repeat customers should enter their email address in the "login" box and their password in the "password" box. Press "login".
+  * Complete the next 3 steps by entering all required information.
+  * On step 4, you will be presented with all your order information.
+  * Click the "confirm" button to submit the order.
+  * You will know that your order has gone through when you receive the "thank you" page with your order number.
+  * If you have not received this page, please contact Customer Service at 888.273.1125.
+  * Please be advised that once an order is confirmed, you cannot make changes to the order online.
 
-###  Security And Storage of Your Personal Information
 
-Metropark USA, Inc are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. You must type the correct password to access your information. It is your responsibility to ensure the security of your Metropark USA, Inc online store Web site account password and not to reveal this information to others. Personal information collected by Metropark USA, Inc may be stored and processed in the United States or any other country in which its affiliates, subsidiaries, or agents maintain facilities. By using the Metropark USA, Inc online store Web site, you consent to any such transfer of information outside of your country.
 
-###  Operational Information
+##  Telephone Orders
 
-Some "operational" information is used by Metropark USA, Inc in order to operate your account properly and provide the services you have requested. This operational information does not include the personal information that you provide as part of your Metropark USA, Inc profile, but may include, for example, the following: the date on which your Metropark USA, Inc online store Web site profile was last updated, whether your e-mail address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide Metropark USA, Inc online store Web site.
+Craving human contact? We'd love to chat. Call anytime Monday thru Friday, 9am-5pm (EST) at 888.273.1125.
 
-###  Aggregate Information
+##  Shipping
 
-We may collect and analyze information about your use of the Metropark USA, Inc online store Web site as aggregated with the use of the Metropark USA, Inc Services by other users ("Aggregate Information"); for example, overall usage patterns of Metropark USA, Inc online store Web site users, the total number of Metropark USA, Inc online store Web site users, the percentage of Metropark USA, Inc online store Web site users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Metropark USA, Inc online store Web site users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Metropark USA, Inc online store Web site and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information which can be used to individually identify you or any other Metropark USA, Inc online store Web site user, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
+Every attempt will be made to process and ship your order the day it's received. We will email you when the order is shipped. We are unable to ship to APO/FPO or PO Box addresses. 
 
-###  Use of Cookies
+###  US Shipping Rates
 
-A cookie is a very small text file that a Web site saves to your computer's hard disk to store information that you provide about yourself or to store your preferences. The Metropark USA, Inc online store Web site may use cookies when you sign in to the Metropark USA, Inc online store Web site. The Metropark USA, Inc online store Web site store your unique identifier, the time you signed in, and Metropark USA, Inc online store Web site profile information in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page. The Metropark USA, Inc online store Web site may also use cookies to improve the sign in experience. For example, the Metropark USA, Inc online store Web site may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be entered automatically, so that you will only need to type your password the next time you sign in. You may have the ability to accept or decline cookies using the settings on your browser. However, if you choose to decline cookies, you may not be able to sign in or use the Metropark USA, Inc online store Web site.
+All US orders are shipped via UPS and should be received within 7-10 business days after processing. Delivery time does not include Saturdays, Sundays or holidays. Saturday delivery is only available if prearranged with Customer Service. 
 
-###  Changes To This Privacy Policy
+####  Domestic shipping costs and methods
 
-Metropark USA, Inc may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the bottom of the Privacy Policy. Metropark USA, Inc  will obtain your consent for any updates to this Privacy Policy that expand the sharing or use of your personal information in ways not disclosed in this Privacy Policy.
+Method  |  Price   
+---|---  
+UPS or USPS  |  $8.00   
+UPS 2 Day  |  $19.00   
+UPS Next Day  |  $27.00   
+APO/FPO & P.O. Boxes  |  Not Available   
+  
+###  International Shipping
 
-###  Contact Us
+For orders shipped outside the United States, the billing and shipping address must be the same. Shipping will be provided via your choice of UPS or Global Express Mail through the United States Postal Service. Please use a valid street address, as we cannot ship to PO or APO boxes. International orders are not guaranteed to ship the next business day because additional verification is often necessary. UPS and the USPS state that most shipments are delivered within 4-5 business days. However, some shipments may take up to 3 weeks to arrive. Please allow time for your package to clear customs. This may take from a couple of days to several weeks. 
 
-If you have questions regarding this Privacy Policy, please submit your question to customer service online at [cs@metroparkusa.com](mailto:cs@metroparkusa.com) . You may also contact Metropark at:
+We are able to ship to countries other than those listed above. Such orders cannot be processed on line, but you may email, fax or phone in your order. We recommend faxing or phoning in your credit card number; for security purposes, email is not advised. Please contact us at [ customerservice@METROPARKUSA.com](mailto:customerservice@METROPARKUSA.com). International shipping fees range from $20 - $135 USD, depending on the country you live in, the shipping service you select, and the weight of your package. If you exchange an item, you will be responsible for shipping charges that apply to the reshipment of the item. 
 
-Metropark USA, INC.  
-5750 Grace Place  
-Los Angeles, CA 90022
+###  Customs Duties and Other Fees
 
-_Last Updated: December 30th, 2010_
+Please note that shipping charges do not include taxes or duty. The customer is solely responsible for any customs, duties, foreign taxes or other fees that his/her country may impose to take delivery of his/her order. In order to comply with export regulations, we are required by U.S. law to declare the exact value of all items ordered and to mark them as dutiable "merchandise." Declaring less than the true value is both a violation of American law and the laws of most other countries. In addition, we could lose the right to export to your country should it ever be discovered that we were misrepresenting the value. Because we are a retailer, we are prohibited by law from marking your order as "gift," even if the order is intended as a gift by its recipient. Call your local customs office for details about these charges. 
+
+##  Returns
+
+For the holiday season, METROPARKUSA.com will extend the period allowed for returns to accept all non-clearance items purchased after November 1st to be returned for a full refund by January 15th, 2012. 
+
+If you are not satisfied with your online purchase, please follow our guidelines for returns: 
+
+  * All returns require a Return Authorization (RA) number (see instructions below).
+  * All returns must be postmarked within 30 days of receipt. Returns sent after this time will not be honored.
+  * The merchandise must be in its original condition and unworn.
+  * We do not refund shipping charges.
+  * We do not accept returns/exchanges on custom-made or special order items, undergarments, or sale merchandise. These types of sales are final.
+  * We are not responsible for damages that occur during care of an item, such as dry cleaning, washing or wear.
+
+
+
+Please be advised that items that do not conform to the above guidelines are not returnable. They will be returned to you at your expense. 
+
+###  Damaged/Incorrect Items
+
+If you receive an item that is defective, damaged or incorrect, you must notify us via email within 5 business days of receiving the merchandise. Please keep the original box and packaging materials in the case of damage. We will email you a UPS label for returning the merchandise. A replacement will be sent, if available, upon receipt - with the condition that merchandise has not been worn or washed with all tags attached. 
+
+###  Exchanges
+
+If you would like to exchange an item for another color or size, please contact us via email [ customerservice@METROPARKUSA.com](mailto:customerservice@METROPARKUSA.com) or phone 888.273.1125 to ensure that the new item is available. We will only accept returns for exchange if they meet all criteria for an acceptable return (see above). Please make sure to note the exchange on the return form. We will ship the exchange to you at our expense (does not apply to international orders). 
+
+###  How to Return Merchandise
+
+Return Authorization (RA) number issued by must accompany all returns. To obtain an RA number, [request one online](https://web.archive.org/returns) or feel free to call Customer Service at 888.273.1125. Fill out the RA form and include it in the package. If you don't have a form, include a note with your RA#, name, address, phone number, email address and reason for return. (Please note that being issued an RA number does not guarantee automatic approval/credit of your return. Items are still subject to inspection.) Ship the merchandise securely wrapped, pre-paid and insured to: 
+
+METROPARKUSA.com  
+Attn: Internet Returns  
+7250 Woodmont Avenue  
+Suite 330  
+Bethesda, MD 20814 
+
+RA # _____________
+
+###  Tips on sending the perfect return package:
+
+  * Send via UPS or insured parcel post for proof of delivery. If your return package is lost, we are not responsible for reimbursement or compensation for the lost merchandise.
+  * No COD (Cash/Check on Delivery) packages will be accepted.
+  * Note your RA number on the package for proper and timely handling and processing.
+  * Include a completed RA form with the merchandise. Otherwise processing will be delayed.
+  * Package your return carefully, as we cannot return or exchange items that arrive damaged due to poor packaging.
+
+
+
+Your return will be processed within 2-3 business days of receipt. We will issue a refund to the credit card originally used for the purchase. You will receive an email notice when the credit has been issued. If you have an inquiry, call 888.273.1125 or e-mail us at [ customerservice@METROPARKUSA.com](mailto:customerservice@METROPARKUSA.com). 
+
+###  International Returns
+
+The customer is responsible for all duties or taxes. If you return an item or refuse an item and we are charged a tax, that duty or tax amount will be deducted from your order total before we credit your account. 
+
+##  Contact Us
+
+If you have any questions or concerns, feel free to drop us a line. 
+
+Email 
+     [ customerservice@METROPARKUSA.com](mailto:customerservice@METROPARKUSA.com)
+Telephone 
+     888.273.1125
+Fax 
+     301.656.6465
+Mailing Address 
+     METROPARKUSA.com  
+7250 Woodmont Avenue  
+Suite 330  
+Bethesda, MD 20814  
+
+
+##  Terms and Privacy
+
+###  How do I know my information is kept private?
+
+This Privacy Statement describes how we collect and use your information, and gives you options as to how your information is used. We suggest you review this Privacy Statement periodically, as we may update it from time to time. We post any changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. By using our web site, you consent to the collection and use of your information by , and it's parent companies Cole Jacob LLC and Skye Associates LLC.. Any communication or material sent to will be considered confidential and will become the property of , which reserves the right to use and reproduce it for any purpose whatsoever. Access and use of the Site is subject to the terms, conditions and applicable laws construed in accordance with the Laws of the State of Maryland. When you purchase from our site, we collect information that you volunteer, such as your name, email address, postal address, phone number and other information necessary to process your order. Periodically we will send you email about new products and services, discounts, special promotions or upcoming events ONLY if you have elected to receive these mailings. We also collect information you provide us when you register to participate in a contest or promotion, fill out a survey or questionnaire, or contact us (i.e. via email).
+
+###  How do I know my information is secure?
+
+We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our site, so you can feel comfortable and secure when shopping. When you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, the site is secured through Secure Sockets Layer (SSL). We always use industry-standard encryption technologies when transferring and receiving your personal information on our site. Pages requesting personal information should always have one of these icons.
+
+###  What are 'cookies' and how does use them?
+
+A "cookie" is a small data file that contains a unique identifier. Cookies can be used to store personal information about you, right on your computer. The cookie ensures that only the computer used to select items will have access to products you have chosen and billing information you've entered. Using a cookie is the safest way to make sure that only you can see the contents of your shopping cart and order form. METROPARKUSA.com does not believe that storing your personal information on a cookie is a responsible use of this information. We do not use cookies to store any of your personal or financial information on your computer. We guarantee that your data is not used for any other purpose than improving our web site and overall shopping experience.
+
+###  Can I copy anything from the site?
+
+By law, the material displayed on the site may not be downloaded for anything other than non-commercial and personal use, and then only if copyright and other proprietary notices contained on the materials are retained.
+
+###  And...Last but not least...
+
+By accessing and using this site, you submit to the jurisdiction of the Federal District Court and the District Court of Maryland and accept all terms and conditions without limitation or qualification. Everything on this site is copyrighted unless otherwise noted, and may not be used without the written permission of METROPARKUSA.com. Images of people, places, buttons and items displayed on the site are either the property of, or used with permission by, METROPARKUSA.com. The use of these images is prohibited unless specifically permitted by METROPARKUSA.com. Any unauthorized use of the images may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes. In addition, archiving, redistribution, republication or derivation of any information contained or downloaded from this site, in any medium, including but not limited to electronic, CD-ROM, or database, or publication in print, requires the written consent of METROPARKUSA.com. The trademarks, the logo and all the published names displayed on the site are the property of METROPARKUSA.com. Nothing contained on the site should be construed as granting any license or right to use any trademarks displayed on the site without the written permission of its owners. Use of the trademarks or other materials displayed on the site is completely prohibited.
+
+Thank you for visiting METROPARKUSA.com
