@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601141008id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201015132id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
 
 # Cosmic Book News Privacy Policy - Cosmic Book News
 
@@ -8,7 +8,11 @@ We collect information from you when you register on our site or subscribe to ou
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **What do we use your information for?**
 
@@ -24,8 +28,7 @@ Any of the information we collect from you may be used in one of the following w
 
 • To send periodic emails 
 
->   
->  The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 **How do we protect your information?**
 
@@ -78,7 +81,6 @@ This policy was last modified on 11/21/10
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.cosmicbooknews.com  
-P.O. Box 209  
-Lancaster, NY 14086  
-USA  
-webmaster@cosmicbooknews.com 
+webmaster@cosmicbooknews.com
+
+[Contact Form](http://cosmicbooknews.com/Contact)
