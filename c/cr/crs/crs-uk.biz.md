@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crs-uk.biz privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627223921id_/http%3A//www.crs-uk.biz/crs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crs-uk.biz privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201141408id_/http%3A//www.crs-uk.biz/crs-privacy-policy) for the most accurate reproduction.*
 
-# CRS Uk - CRS UK Privacy Policy - Asset Management Service
+# CRS Uk - CRS UK Privacy Policy - Used PC or Used Laptop
 
 CRS UK Limited (hereinafter referred to as "CRS UK " "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit our websites without disclosing any personally identifiable information about yourself (although please note that we may use cookies and collect other non-personally identifiable information about your browsing activity - see below for more information).
 
