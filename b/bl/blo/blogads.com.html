@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blogads.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629021257id_/http%3A//web.blogads.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogads.com privacy policy that was archived on 2012-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121201085402id_/http%3A//web.blogads.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
     
@@ -59,9 +59,9 @@
          just be plain text instead. Column layout for Netscape4.x included -->
     <!-- Main style sheets for CSS2 capable browsers -->
     
-      <style type="text/css" media="screen"> @import url(http://web.blogads.com/plone_new.css);</style>
+      <style type="text/css" media="screen"> @import url(http://web.blogads.com/plone_new_for_frontpage.css);</style>
+      <style type="text/css" media="screen"> @import url(http://web.blogads.com/blogads_style_guide.css);</style>
     
-
     
     <link rel="Stylesheet" type="text/css" href="http://web.blogads.com/ploneNS4.css">
 
@@ -81,9 +81,9 @@
 
     <!-- Style sheet used for printing -->
     <link rel="stylesheet" type="text/css" media="print" href="http://web.blogads.com/plonePrint.css">
-    
+    <!-- Google open sans semibold font family -->
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet" type="text/css">
-    
+
     <!-- Style sheet used for presentations (Opera is the only browser supporting this at the moment) -->
     <link rel="stylesheet" type="text/css" media="projection" href="http://web.blogads.com/plonePresentation.css">
 
@@ -97,6 +97,8 @@
     <![endif]-->
 
     <link rel="shortcut icon" href="http://web.blogads.com/favicon.ico" type="image/x-icon">
+
+    
 
     
 
@@ -142,6 +144,13 @@
     <script type="text/javascript" src="http://web.blogads.com/utils.js">
     </script>
     
+        <script type="text/javascript" src="http://web.blogads.com/jquery-1.6.2.js">
+        </script>
+        <script type="text/javascript" src="http://web.blogads.com/jquery.cycle.all.js">
+        </script>
+        <script type="text/javascript" src="http://web.blogads.com/jquery-impromptu.3.0.min.js">
+        </script>
+    
 
     <!-- meet us style sheet if available -->
     
@@ -158,11 +167,13 @@
   <body class="section-Documents">
     
     <script>
-        d = new Date();
-        utc = d.getTime() + (d.getTimezoneOffset() * 60000);
-        var today = new Date(utc + (3600000*-5));
-        if ((today.getFullYear()+'-'+today.getMonth()+'-'+today.getDate())=='2011-9-31'){
-            document.writeln('<link rel="stylesheet" href="http://i.blogads.com/static/frontpage/pirateShip.css" type="text/css" />');
+        if (document.getElementById('#focus__sel')){
+          jQuery(document).ready(function () {
+              $('#focus__sel').find('label').css({'font-weight':'normal'});
+              $('#archetypes-fieldname-blog_language label:nth-child(6)').css({'font-weight':'normal'});
+              $('#archetypes-fieldname-blog_language label:nth-child(9)').css({'font-weight':'normal'});
+              $('#archetypes-fieldname-blog_language label:nth-child(12)').css({'font-weight':'normal'});
+          });
         }
     </script>
   
@@ -363,59 +374,76 @@
 
     
 
-    
-    
-    <div id="loginBox">
+    <div id="logInBox">
 
-        <form action="https://web.blogads.com/logged_in" name="loginform" method="post">
-
-            <input type="hidden" name="came_from" value="http://web.blogads.com/Documents/privacy_policy">
-
-                <span>Email address</span>
-                <input type="text" size="15" alt="Username" accesskey="accesskeys-login" id="userName" autocapitalize="off" autocorrect="off" name="__ac_name" value="">
-
-                <span>Password</span>
-                <input type="password" size="15" alt="Password" accesskey="accesskeys-login" id="userPw" autocapitalize="off" autocorrect="off" name="__ac_password">
-
-            <!--div id="error_field" tal:condition="login_error" style="color: Red">
-                The email address or password you entered is incorrect
-            </div-->
-
-            <input type="image" id="login" name="submit" value="Log in" alt="" accesskey="accesskeys-login" src="https://web.blogads.com/loginButton.gif">
-            <a href="https://web.blogads.com/create-account">Register as an Advertiser</a><br>
-            <a href="https://web.blogads.com/create-account?forgot_password=1">Forgot Password</a>
-        </form>
-
-            
-
+     <div id="logIn">
+     <p id="logIn_p"><a href="javascript:void(0)">Log In</a></p>
+       
+       <div class="logInOpen" id="loginForm">
+           <form action="https://web.blogads.com/logged_in" name="loginform" method="post">
+     
+             <input type="hidden" name="came_from" value="http://web.blogads.com/Documents/privacy_policy">
+     
+                 <span>Email Address</span>
+                 <input type="text" size="15" alt="Username" accesskey="accesskeys-login" autocapitalize="off" autocorrect="off" id="userName" name="__ac_name" value="">
+     
+                 <span>Password</span>
+                 <input type="password" size="15" alt="Password" accesskey="accesskeys-login" autocapitalize="off" autocorrect="off" id="userPw" name="__ac_password">
+     
+             <input type="submit" id="login" name="submit" value="Log In" alt="" accesskey="accesskeys-login"> 
+             <a href="https://web.blogads.com/create-account?forgot_password=1">Forgot Password</a>
+         </form>      
+       </div>
+     </div>
+     <div id="signUp" onclick="window.location='https://web.blogads.com/create-account'"><p><a id="sign_up_link" href="https://web.blogads.com/create-account">Sign Up</a></p></div>
     </div>
-
-    <script type="text/javascript">
-    <!--
-    var email = document.getElementById('userName');
-    var password = document.getElementById('userPw');
-
-    function get_email_address() {
-        var url = window.location.toString();
-        url.match(/\?(.+)$/);
-        var params = RegExp.$1;
-        var params = params.split("&");
-        var queryStringList = {};
-        for(var i=0;i<params.length;i++) {
-          var tmp = params[i].split("=");
-          queryStringList[tmp[0]] = unescape(tmp[1]);
-       }
-       return queryStringList['email'];
-    }
-
-    if (document.getElementById('error_field') && password && email) {
-        email.value = get_email_address();
-        password.value = '';
-        password.focus();
-    }
-    -->
-    </script>
     
+     <script type="text/javascript">
+     var email = document.getElementById('userName');
+     var password = document.getElementById('userPw');
+     
+    function get_email_address() {
+         var url = window.location.toString();
+         url.match(/\?(.+)$/);
+         var params = RegExp.$1;
+         var params = params.split("&");
+         var queryStringList = {};
+         for(var i=0;i<params.length;i++) {
+           var tmp = params[i].split("=");
+           queryStringList[tmp[0]] = unescape(tmp[1]);
+        }
+        return queryStringList['email'];
+     }
+     
+     if (document.getElementById('error_field') && password && email) {
+         email.value = get_email_address();
+         password.value = '';
+         password.focus();
+     }
+     
+     function Close_login_form(event){
+        if (document.getElementById('loginForm').style.display=='block'){
+               document.getElementById('loginForm').style.display = 'none';
+        }
+     }
+     
+     jQuery("#loginForm").click(function(event) {
+        event.stopPropagation();
+     });  
+
+     jQuery("#logIn_p").click(function(event) {
+           if (document.getElementById('loginForm').style.display=='block'){
+                document.getElementById('loginForm').style.display = 'none';
+           }
+           else{
+                document.getElementById('loginForm').style.display = 'block';
+               document.getElementById('userName').focus();
+               event.stopPropagation();
+           }
+     });  
+
+     document.getElementById('wrapper').onclick = Close_login_form;
+     </script>
 
 
 
@@ -427,12 +455,16 @@
            alternative in the plone_tableless skin layer that you can use if you
            prefer layouts that don't use tables. -->
       
-     <!-- new version //-->
+    
+     <!-- old version//-->
         
             
             <script>
                 show_sov_popup();
             </script>
+
+        
+    
 
         
     
@@ -496,24 +528,27 @@
                 });
             }
         </script>
+
         <div id="active_ads_page_header" style="display:none;">
             <div style="padding-top:10px;">
               <h1>Active ads</h1>
             </div>
             
-  <div>
-<span style="color:#ff8800"><b>4/11/11</b></span> Have you tried our new Tweetable ads?  Learn how to set one up (for no extra charge!) <a href="http://www.youtube.com/blogads#p/a/u/2/MMMk7UpVPvI">here</a>.
+  <div><div class="pre_notes">
+<br>
+<span style="color:#ff8800"><span class="pre_notes_bold">8/9/12</span></span> We've rearranged the Active Ads page to make it easier for you to find the information you need. Overall ad campaign details can now be found in the gray header section of each information block on the page. The links to add custom URLs and multiple ad versions have been moved to the left side of this header, below your campaign's name. Campaign performance stats can be found on the right. Below the gray header section you'll find the details of each individual blog in your campaign, and the link to renew your ad can be found at the bottom left. We welcome any questions or feedback at <a href="mailto:ad-tech@blogads.com">ad-tech@blogads.com</a>!
 <br>
 <br>
-<span style="color:#ff8800"><b>11/22/10</b></span> Experimenting with slight variations in an ad can drive clickthru rates through the roof!  To learn how to set up multiple versions of your ad, watch our <a href="http://www.youtube.com/blogads#p/a/u/0/wQQRA3gIMsY" target="_blank">video</a>.
+<span style="color:#ff8800"><span class="pre_notes_bold">4/11/11</span></span> Have you tried our new Tweetable ads?  Learn how to set one up (for no extra charge!) <a href="http://www.youtube.com/blogads#p/a/u/2/MMMk7UpVPvI">here</a>.
 <br>
 <br>
-<span style="color:#ff8800"><b>8/30/10</b></span> Check out our new ad unit offerings to make a splash with your advertising. See how <a href="http://web.blogads.com/roughcut_adpost" target="_blank">here</a>.
-<br></div>
+<span style="color:#ff8800"><span class="pre_notes_bold">11/22/10</span></span> Experimenting with slight variations in an ad can drive clickthru rates through the roof!  To learn how to set up multiple versions of your ad, watch our <a href="http://www.youtube.com/blogads#p/a/u/0/wQQRA3gIMsY" target="_blank">video</a>.
+</div></div>
   <br>
 
         </div>
-      <div id="mainContent" class="">
+      <div id="">
+      <div id="content" class="">
             <!-- start of main content block -->
            <div>
 
@@ -523,7 +558,7 @@
 
 
 </div>
-        
+            
      
 
               
@@ -814,10 +849,6 @@ Agreement.</span>
             <!-- end of main content block -->
             
             
-            
-            
-            
-            
             <div class="clearBoth">&nbsp;</div>
       </div>
       
@@ -825,7 +856,139 @@ Agreement.</span>
       <!-- start of right (by default at least) column -->
       
       <!-- end of the right (by default at least) column -->
+      <div class=""></div>
+      </div>
 
+      
+        
+<div id="fourColumns">
+  <div id="fourColumnsContainer">
+    <div class="contactUs">
+            <h2>Contact Us</h2>
+            <ul>
+              <li class="cuBlogads"><a title="email" alt="email" href="http://web.blogads.com/contact-blogads">email</a></li>
+              <li class="cuFacebook"><a title="facebook" alt="facebook" href="http://www.facebook.com/Blogads">facebook</a></li>
+              <li class="cuTwitter"><a title="twitter" alt="twitter" href="http://www.twitter.com/Blogads">twitter</a></li>
+              <li class="cuYoutube"><a href="http://www.youtube.com/blogads" alt="KIT" title="KIT">youtube</a></li>
+              <li class="cuRequest"><a title="request a proposal" alt="request a proposal" href="http://web.blogads.com/ba_request_proposal">request a proposal</a></li>
+              <li class="cuKit"><a href="http://i.blogads.com/static/docs/BlogAdsGeneralKit.pdf" alt="KIT" title="KIT">view media kit</a></li>
+              <li class="cuPhone"><a style="font-weight:bold;" href="skype:+19196364551?call">1-(919)-636-4551</a></li>
+            </ul>
+    </div>
+    <div class="testimonials">
+        	<h2>Testimonials</h2>
+            <ul id="fat_footer_testimonials">
+  <li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Advertising with Blogads is a terrific, cost-effective, way to reach opinion leaders inside and outside the beltway.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="http://www.autoalliance.org/">Charles Territo, AutoAlliance, AutoAlliance</a> </span></p><div style="clear:both;"></div><p></p></li>
+<li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"> <p>I’m a huge fan of the Blogads platform and the flexibility it affords
+our campaigns.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="http://www.aclu.org">Eric Cade Schoenborn, Web Communications Director, American Civil Liberties Union</a></span></p><div style="clear:both;"></div><p></p> </li>
+
+  <li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>When I need to find a particular market, whether broad or niche, I think BlogAds.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="http://www.wiley.com/">Juston Payne, Associate Director, Online Advertising and Promotion, John Wiley &amp; Sons, Inc.</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Blogads makes sense for almost any advertising campaign.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="http://www.foe.org/">Nick Berning, Press Secretary, Friends of the Earth</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"> <p>Blogads is ahead of the competition as a thought leader on advertising in social media.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"> 
+<span><a href="http://www.deep-focus.net">Ian Schafer, Deep Focus</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Blogads offers a high ROI as compared with magazines, TV advertising, and other Internet ads. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="http://www.chickdowntown.com/">Amy Reed, Chickdowntown</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>The blog culture targets an audience that regular online campaigns cannot -- real people talking to real people.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="http://www.americanapparel.net/">Tiffany Srisook, American Apparel</a></span></p><div style="clear:both;"></div><p></p> </li>
+
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Blogads lives up to their promise. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span>    <a href="http://www.peta.org">Joel Bartlett, Marketing Manager, PETA</a></span></p><div style="clear:both;"></div><p></p></li>
+
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Blogads is an amazing tool that helps you advertise on some of the hottest sites on the net! <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span>    <a href="http://www.modcloth.com">Kate Sylanski, Advertising Specialist, ModCloth</a></span></p><div style="clear:both;"></div><p></p></li>
+
+<li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>New York blogs are a great way to advertise live shows!<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="http://www.artmeetscommerce.net/">Jim Glaub, Art Meets Commerce</a></span></p><div style="clear:both;"></div><p></p> </li>
+
+  <li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>I do a majority of my online advertising with Blogads and Adwords.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="www.wgbh.org">Lisa Cerqueira, Senior Publicist, Interactive Marketing, WGBH Boston</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Blogads.com is the 'Intel-inside' the blog revolution. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://grassroots.com">John Hlinko, Grassroots Enterprise</a> and <a href="http://actforlove.org">Actforlove.org</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img">
+<p>We have been blown away by the results of our blogad buys and by the range of reporting and advanced blog searching services offered on your web site.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.adferogroup.com/">Matthew Zablud, Adfero Group</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li><img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>I am so happy with all your company has done for my business. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.whitetrashpalace.com">Michelle Lamar, WhiteTrashPalace</a> </span></p><div style="clear:both;"></div><p></p></li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>My favorite 'buzz seeding' tool currently is the amazing network over at BlogAds.com in part because of the interesting things you can do when you leave the IAB standards behind.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">    <span><a href="http://www.gmdstudios.com/">Brian Clark, creator of campaigns for SharpTV, Audi and Levis, GMDstudios</a>, writing in <a href="http://www.revenews.com/brianclark/archives/000775.html#comments">Revenews.com</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>BlogAds has been an enormously successful component of nearly every online media campaign I've developed."<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.ckpcreative.com">Craig Peters, CKPcreative</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>I'm very pleased with the ROI on Blogads, both in terms of new clients and resumes for our political staffing company.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.PoliTemps.com">Chris Jones, President, Politemps</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Having experimented with Blogads last year, we've devoted a much-increased portion of our marketing budget to your service this year. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last"><span><a href="linked:http://www.thecapitol.net">Chug Roberts, Publisher, TheCapitol.Net</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>We were very pleased with the Blog campaign for VH1 Celebreality.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="linked:http://www.mediakitchen.tv">Jonathan Powell, Mediakitchen.tv</a> </span></p><div style="clear:both;"></div><p></p></li>
+<li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>I found the staff at BLOGADS to be top caliber. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.amazon.com/Precious-Novel-Sandra-Novack/dp/0812978374/ref=tmm_pap_title_0">Sandra Novack, Author of Precious</a> </span></p><div style="clear:both;"></div><p></p></li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img">I love using the blogad combination of image and link-filled text.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://audible.com">Beth Kirsch, Audible.com</a></span><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img">Blogads makes it a snap to create and customize our campaigns, and the traffic they send to our book and author sites is significant.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.aaknopf.com/">Farah Miller, Manager of New Media, The Knopf Publishing Group</a></span><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>I've been extremely pleased with the success of our BlogAds campaigns. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.echristianwebhosting.com/">Matt Wade, eChristian Web Hosting</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>My company has only been online 19 days, and sales are way ahead of expectations.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.sevenwindows.com">Robb Debenport, www.sevenwindows.com</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Businesses and ad agencies that dismiss blogs and blog ads are nuts! <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">    <span><a href="http://www.agitproperties.com/">Richard Luckett, Agitproperties</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>After my ad for Klezmer Christmas started running yesterday on TalkingPointsMemo, my traffic was up five or six fold.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.libmanmusic.com/">Paul Libman, Libman Music</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>Thanks for the blogads service. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">
+<span><a href="http://www.messagefire.com">Elias Israel, Messagefire</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img"><p>With blogads I'm getting about 50% of the customers as [name deleted].com delivers...  for about 5-10% the cost. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">    <span><a href="http://www.gapingvoid.com">Cartoonist Hugh Macleod, www.gapingvoid.com</a> </span></p><div style="clear:both;"></div><p></p></li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img">    <p>I like Blogads; I'm getting a better click-thru rate on them than I had on BCentral banner ads, for the most part. <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">        <span><a href="http://www.davidkilpatrick.com/LA_STALKER_MAIN_PAGE.htm">David Kilpatrick, Author, LA Stalker</a></span></p><div style="clear:both;"></div><p></p> </li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img">        <p>As a veteran Google advertiser and guy who understands the importance of anharmonious color schemes in obtaining Ebay Power Seller status, I'm excited by Blogads.<img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">        
+<span><a href="http://www.blackmask.com/page.php">David Moynihan, Blackmask Online</a> </span></p><div style="clear:both;"></div><p></p></li>
+  <li> <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img">        
+<p>I was pleased with the clicks I got advertising on www.amylangfield.com.  <img src="http://i.blogads.com/static/frontpage/new_design/quotes.png" class="img_last">        
+<span><a href="http://www.campware.org/">Douglas Arellanes, Head of Research and Development, www.campware.org</a></span></p><div style="clear:both;"></div></li>
+            </ul>
+<a href="/blogads_testimonials">More...</a> 
+        </div>
+<script>
+if (typeof jQuery == 'undefined'){
+     var li_s = Element.childElements(document.getElementById('fat_footer_testimonials'));
+     for (var i=0;i<li_s.length;i++){
+         Element.hide(li_s[i]);
+     }
+
+     var random_number2=0;
+     Math.floor(Math.random()*li_s.length);
+     var random_number1 = Math.floor(Math.random()*li_s.length);
+     var random_number2=random_number1;
+
+     while(random_number1==random_number2){
+        random_number2 = Math.floor(Math.random()*li_s.length);
+     }
+
+     Element.show(li_s[random_number1]);
+     Element.show(li_s[random_number2]);
+}
+else{
+    var li_s = jQuery('#fat_footer_testimonials >li');
+    jQuery(li_s).hide();
+
+    var random_number2=0;
+    Math.floor(Math.random()*li_s.length);
+    var random_number1 = Math.floor(Math.random()*li_s.length);
+    var random_number2=random_number1;
+
+    while(random_number1==random_number2){
+      random_number2 = Math.floor(Math.random()*li_s.length);
+    }
+
+    jQuery(li_s[random_number1]).show();
+    jQuery(li_s[random_number2]).show();
+}
+</script>
+
+    <div class="ourTweets">
+      <h2>Our Tweets</h2>      
+      <script src="/collatr/feeds/18/117/js"></script>
+      <a target="_blank" href="http://twitter.com/blogads" style="float: right;font-size:12px;">More...</a>
+    </div>
+    <div class="community">
+      <h2>Community</h2>
+      <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fblogads&amp;width=190&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23C9C9C9+&amp;stream=false&amp;header=false&amp;height=225" scrolling="no" frameborder="0" style="border-bottom:1px solid #AAAAAA; overflow:hidden; width:190px; height:172px;" allowtransparency="true"></iframe>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+      
       <div class="visualClear">&nbsp;</div>
 
       
@@ -833,25 +996,20 @@ Agreement.</span>
             <div class="footer" id="footer">
                   <div id="footerContainer">
                     <ul class="footerMenu">
-                        <li><a href="/faq-for-advertisers">FAQs</a>&nbsp;|</li>
-                        <li><a href="/contact-blogads">Contact</a>&nbsp;|</li>
-                        <li><a href="/about-us">About</a>&nbsp;|</li>
-                        <li><a href="/careers">Careers</a>&nbsp;|</li>
-                        <li><a href="/meet-the-blogads-team">Meet Us</a>&nbsp;|</li>
-                        <li><a target="_blank" href="http://blog.web.blogads.com">Our Blog</a>&nbsp;|</li>
-                        <li><a href="/testimonials">Testimonials</a>&nbsp;|</li>
-                        <li><a href="/blog-partners">Partners</a>&nbsp;|</li>
-                        <li><a href="/sitemap">Sitemap</a>&nbsp;|</li>
-                        <li><a href="/privacy-policy">Terms &amp; Privacy Policy</a>&nbsp;|</li>
-                        <li><a href="/dmca-compliance-policy">DMCA Compliance</a></li>
+                        <li><a href="/faq-for-advertisers">FAQs</a></li>
+                        <li><a href="/contact-blogads">Contact</a></li>
+                        <li><a href="/about-us">About</a></li>
+                        <li><a href="/careers">Careers</a></li>
+                        <li><a href="/meet-the-blogads-team">Meet Us</a></li>
+                        <li><a target="_blank" href="http://blog.web.blogads.com">Our Blog</a></li>
+                        <li><a href="/testimonials">Testimonials</a></li>
+                        <li><a href="/blog-partners">Partners</a></li>
+                        <li><a href="/sitemap">Sitemap</a></li>
+                        <li><a href="/privacy-policy">Terms &amp; Privacy Policy</a></li>
+                        <li class="last_item"><a href="/dmca-compliance-policy">DMCA Compliance</a></li>
                         
                     </ul>
                     
-                    
-                        <span>© Pressflex LLC 2002-2012</span>
-                    
-                    
-
                     
 
                 <script type="text/javascript">
@@ -882,9 +1040,8 @@ Agreement.</span>
 
     </div>
       
+    
 
-    
-    
     </div>
       <!-- end column wrapper -->
 
