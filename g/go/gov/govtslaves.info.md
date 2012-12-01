@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govtslaves.info privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601170822id_/http%3A//govtslaves.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtslaves.info privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201020732id_/http%3A//govtslaves.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - govtslaves.info : govtslaves.info
+# Privacy Policy - :
 
-Dishaw Media Group, LLC (“govtslaves”) is committed to protecting online user privacy because we care. In order to ensure your privacy, information govtslaves collects through the Shoptom.us web site at www.ShopTom.us (“Site”) is used only in the manner and for the purposes described in this Shoptom.us Privacy Policy (“Privacy Policy.”)
+Govtslaves.info (“govtslaves”) is committed to protecting online user privacy because we care. In order to ensure your privacy, information govtslaves collects through the govtslaves.info web site at www.govtslaves.info (“Site”) is used only in the manner and for the purposes described in this govtslaves.info Privacy Policy (“Privacy Policy.”)
 
 User Consent to Privacy Policy  
 Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, shall be considered a “User.” All Users are bound by the terms of this Privacy Policy. Users consent to the collection, use, and disclosure of personally identifiable User information (“Information”) pursuant to the terms of this Privacy Policy.  
@@ -13,7 +13,7 @@ Through the use of “cookies” (For more information regarding Cookies, see be
 
 Cookies  
 The Site uses a feature of Internet Web browsers called a Cookie, which is a file that a User’s Web browser places on a User’s computer’s hard drive, to assign an identification code to the computer and to collect anonymous browsing information. On this Site, cookies are used in conjunction with session variables to track a User’s shopping cart and expire as soon as an order is completed or if a shopping cart sits idle for a lengthy period without being checked-out.  
-Govtslaves does not use Cookies to retrieve Information about Users from a User’s computer unless the User knowingly and willingly provided such Information. For instance, ShopTom’s cookies do not collect any Information and the cookies do not collect, store or contain any credit card information.
+Govtslaves does not use Cookies to retrieve Information about Users from a User’s computer unless the User knowingly and willingly provided such Information. For instance, govtslaves  cookies do not collect any Information and the cookies do not collect, store or contain any credit card information.
 
 You may set your Internet Web browser to notify you when you receive a cookie or to prevent cookies from being sent. If you prevent a cookie from being sent, you may limit the functionality govtslaves can provide you when you visit the Site, especially when purchasing an item on the Site.
 
