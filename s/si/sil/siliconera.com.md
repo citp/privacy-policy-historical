@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconera.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609211049id_/http%3A//www.siliconera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconera.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201175846id_/http%3A//www.siliconera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Siliconera
 
@@ -61,11 +61,3 @@ This policy was last modified on April 15, 2010.
  **Contact**
 
 If there are any questions regarding this privacy policy submit an e-mail to privacy@siliconera.com.
-
-  * [RSS](http://www.siliconera.com/privacy-policy/feed/)
-  * [Stumble this](http://www.stumbleupon.com/submit?url=http://www.siliconera.com/privacy-policy/&title=Privacy%20Policy)
-  * [Digg it](http://digg.com/submit?phase=2&url=http://www.siliconera.com/privacy-policy/&title=Privacy%20Policy)
-  * [Share on Facebook](http://www.facebook.com/share.php?u=http://www.siliconera.com/privacy-policy/)
-  *  **No Comments »**
-
-
