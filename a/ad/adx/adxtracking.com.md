@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adxtracking.com privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326002349id_/http%3A//adxtracking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adxtracking.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202125613id_/http%3A//adxtracking.com/privacy.php) for the most accurate reproduction.*
 
 # AD-X - Privacy Policy
 
@@ -62,7 +62,7 @@ You may choose to restrict the collection or use of your personal information in
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us using our [contact form](https://web.archive.org/web/20120326002349id_/http%3A//adxtracking.com/contact.php) or by writing to us using the address found on that page.
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us using our [contact form](https://web.archive.org/web/20121202125613id_/http%3A//adxtracking.com/contact.php) or by writing to us using the address found on that page.
 
 
 
