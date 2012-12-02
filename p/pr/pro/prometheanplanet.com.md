@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124334id_/http%3A//www.prometheanplanet.com/en-us/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202152416id_/http%3A//www.prometheanplanet.com/en-us/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promethean Planet
 
 This policy (together with Our [terms of use](https://web.archive.org/en-us/support/terms-and-conditions/) and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it.
 
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Promethean Limited of Promethean House, Lower Philips Road, Blackburn, Lancashire, BB1 5TH, United Kingdom.
+For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Promethean Limited of Promethean House, Lower Philips Road, Whitebirk Industrial Estate, Blackburn, Lancashire, BB1 5TH, United Kingdom.
 
 ### 1\. INFORMATION WE MAY COLLECT FROM YOU
 
