@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the liverpool-degrees.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608044957id_/http%3A//www.liverpool-degrees.com/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-degrees.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202173707id_/http%3A//www.liverpool-degrees.com/en/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Statement of Privacy
 
-Laureate Online Education presents this Statement of Privacy to you in order to demonstrate its firm commitment to privacy. The following information discloses Laureate Online Education’s data collection, maintaining, processing and transfer practices with relation to this web-site [www.liverpool-degrees.com](http://www.liverpool-degrees.com/). 
+Laureate Online Education presents this Statement of Privacy to you in order to demonstrate its firm commitment to privacy. The following information discloses Laureate Online Education’s data collection, maintaining, processing and transfer practices with relation to this website [www.liverpool-degrees.com](http://www.liverpool-degrees.com/). 
 
-Laureate Online Education values each and every one of its web-site’s visitors and their privacy. However, please note that this web-site may contain links to other web-sites. Naturally, Laureate Online Education is not responsible for the privacy practices or the content of such other web-sites. 
+Laureate Online Education values each and every one of its website’s visitors and their privacy. However, please note that this website may contain links to other websites. Naturally, Laureate Online Education is not responsible for the privacy practices or the content of such other websites. 
 
 ### What we do with the personal information we collect
 
-The registration process to services provided by Laureate Online Education on its web-site requires you to provide it with your personal information. Such information, as well as other information which may be gathered while you are visiting Laureate Online Education’s web-site, may be used by Laureate Online Education and its affiliates (including Laureate Education, Inc. and Laureate International Universities network members ) to various ends, such as: (a) to contact you in order to confirm your registration; (b) to provide you with further information about our programmes at Roehampton and other Laureate affiliated institutions ; (c) to execute and apply your agreement(s) with Laureate Online Education; (d) to properly administer Laureate Online Education activities; (e) to contact consumers for marketing and operational purposes as you may receive telephone or email contact from us with information regarding special promotions, new products and services, or upcoming events and (f) to allow Laureate Online Education to fully provide you with the services offered by it.
+The registration process to services provided by Laureate Online Education on its web-site requires you to provide it with your personal information. Such information, as well as other information which may be gathered while you are visiting Laureate Online Education’s website, may be used by Laureate Online Education and its affiliates (including Laureate Education, Inc. and Laureate International Universities network members ) to various ends, such as: (a) to contact you in order to confirm your registration; (b) to provide you with further information about our programmes at Roehampton and other Laureate affiliated institutions ; (c) to execute and apply your agreement(s) with Laureate Online Education; (d) to properly administer Laureate Online Education activities; (e) to contact consumers for marketing and operational purposes as you may receive telephone or email contact from us with information regarding special promotions, new products and services, or upcoming events and (f) to allow Laureate Online Education to fully provide you with the services offered by it.
 
-Laureate Online Education does not sell or trade its web-site’s visitor’s personal information, such as names, addresses and mailing lists. Laureate Online Education will not share or divulge your address, telephone number, e-mail address, or any other personal information collected at its web-site to advertisers, sponsors or any other third parties, without your informed consent, except as specifically stated below, or where such disclosure is required by law or governmental request, or is reasonably necessary to: (a) comply with any legal process; (b) execute and apply your agreement(s) with Laureate Online Education; and - (c) protect the rights, property, or safety of Laureate Online Education, its employees, agents, representatives and customers, and the public.
+Laureate Online Education does not sell or trade its website’s visitor’s personal information, such as names, addresses and mailing lists. Laureate Online Education will not share or divulge your address, telephone number, e-mail address, or any other personal information collected at its web-site to advertisers, sponsors or any other third parties, without your informed consent, except as specifically stated below, or where such disclosure is required by law or governmental request, or is reasonably necessary to: (a) comply with any legal process; (b) execute and apply your agreement(s) with Laureate Online Education; and - (c) protect the rights, property, or safety of Laureate Online Education, its employees, agents, representatives and customers, and the public.
 
 ### With whom we share the personal information
 
@@ -38,8 +38,9 @@ Laureate Online Education may provide you with links to other sites. Please be a
 
 ### Contact us
 
-Should you have any questions or comments regarding this Statement of Privacy, please do not hesitate to contact **  
-Laureate Online Education**  
+Should you have any questions or comments regarding this Statement of Privacy, please do not hesitate to contact 
+
+Laureate Online Education  
 Haarlerbergweg 23C  
 1101 CH Amsterdam Z.O.  
 The Netherlands
