@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602214322id_/http%3A//www.daviscup.com/en/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202014513id_/http%3A//www.daviscup.com/en/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Davis Cup - Help - Privacy Policy
 
