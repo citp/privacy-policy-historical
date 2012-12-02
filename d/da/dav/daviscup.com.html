@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the daviscup.com privacy policy that was archived on 2012-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120602214322id_/http%3A//www.daviscup.com/en/help/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daviscup.com privacy policy that was archived on 2012-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121202014513id_/http%3A//www.daviscup.com/en/help/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>
 	Davis Cup - Help - Privacy Policy
@@ -30,6 +30,40 @@
     <script src="/ITF/Cup/js/ITF/MasterJS.js" type="text/javascript"></script>
     
     <script type="text/javascript">
+        function setCookie() {
+            var exdate = new Date();
+            exdate.setDate(exdate.getDate() + 7);
+            var c_value = escape('es') + "; expires=" + exdate.toUTCString();
+            document.cookie = "dcES=" + c_value;
+        }
+
+        function getCookie() {
+            var i, x, y, ARRcookies = document.cookie.split(";");
+            for (i = 0; i < ARRcookies.length; i++) {
+                x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+                y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+                x = x.replace(/^\s+|\s+$/g, "");
+                if (x == "dcES") {
+                    return unescape(y);
+                }
+            }
+        }
+
+        function checkCookie() {
+            var langCult = getCookie();
+            if (langCult != null && langCult != "") {
+            }
+            else {
+                setCookie();
+                window.location = "http://www.copadavis.com/es/portada.aspx";
+            }
+        }
+
+        var userLang = (navigator.language) ? navigator.language : navigator.userLanguage;
+        if (userLang.indexOf("es") > -1 && ("en" == "en")) {
+            checkCookie();
+        }
+
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-337765-2']);
         _gaq.push(['_trackPageview']);
@@ -47,11 +81,11 @@
 
     <form method="post" action="/en/help/privacy-policy.aspx" id="aspnetForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWBAIBD2QWCGYPZBYCZg9kFgJmDxYCHgRUZXh0BSFEYXZpcyBDdXAgLSBIZWxwIC0gUHJpdmFjeSBQb2xpY3lkAgIPZBYEZg8WAh4EaHJlZgUlL2l0Zi9jdXAvc2hhcmVkL2ltYWdlcy9kYy9mYXZpY29uLmljb2QCAg8WAh4HY29udGVudAWhAU91ciB3ZWJzaXRlIHByaXZhY3kgcG9saWN5IHByb3ZpZGVzIGRldGFpbHMgb2YgaG93IGFueSBpbmZvcm1hdGlvbiB0aGF0IGlzIGNvbGxlY3RlZCBhcyBhIHJlc3VsdCBvZiB5b3VyIHVzZSBvZiB0aGlzIHdlYnNpdGUgaXMgY29sbGVjdGVkLCBwcm9jZXNzZWQsIGFuZCBzdG9yZWQuZAIDD2QWAmYPZBYCZg8WAh8ABcsFDQogICAgPGxpbmsgcmVsPSdTdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgaHJlZj0nL0lURi9DdXAvU2hhcmVkL0Nzcy9kYy9NYXN0ZXJQYWdlcy5jc3MnIG1lZGlhPSdhbGwnIC8+DQogICAgPGxpbmsgcmVsPSdTdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgaHJlZj0nL0lURi9DdXAvU2hhcmVkL0Nzcy9kYy9lbi9MYW5nLmNzcycgbWVkaWE9J2FsbCcgLz4NCg0KICAgIDwhLS1baWYgSUUgN10+DQogICAgICAgIDxsaW5rIHJlbD0nU3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnIGhyZWY9Jy9JVEYvQ3VwL1NoYXJlZC9Dc3MvZGMvaWYtaWU3LmNzcycgbWVkaWE9J2FsbCcgLz4NCiAgICA8IVtlbmRpZl0tLT4NCg0KICAgIDwhLS1baWYgSUUgNl0+ICAgICANCiAgICAgICAgPGxpbmsgcmVsPSdTdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgaHJlZj0nL0lURi9DdXAvU2hhcmVkL0Nzcy9kYy9pZi1pZTYuY3NzJyBtZWRpYT0nYWxsJyAvPg0KICAgICAgICA8c2NyaXB0IHNyYz0nL0lURi9XZWIvanMvSVRGL0REX2JlbGF0ZWRQTkdfMC4wLjhhLW1pbi5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICA8c2NyaXB0IHNyYz0nL0lURi9XZWIvanMvZGMvRERfYmVsYXRlZFBOR0ZpeC5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgIA0KICAgIDwhW2VuZGlmXS0tPg0KICAgICAgICAgICAgICAgIGQCBg9kFgJmD2QWAgIBDxYCHwAFC1VBLTMzNzc2NS0yZAIDEGRkFgQCAQ9kFgQCAQ9kFgJmD2QWCAIBD2QWAmYPZBYIAgEPFgIeB1Zpc2libGVoZAICD2QWAgIBDxYGHglpbm5lcmh0bWwFDVtMaXZlIFNjb3Jlc10eBWNsYXNzBQ10b3BMaXZlU2NvcmVzHwEFX2phdmFzY3JpcHQ6IGxpdmVTY29yZXNQb3BVcCgnaHR0cDovL2xpdmUuZGF2aXNjdXAuY29tL2xpdmVzY29yZS5hc3B4P3RpZD0xMDAwMTc2ODUlMjZsYW5nPWVuJyk7ZAIDD2QWAgIBDxYGHwQFDFtMaXZlIFJhZGlvXR8FBQx0b3BMaXZlUmFkaW8fAQVCamF2YXNjcmlwdDogbGl2ZVJhZGlvUG9wVXAoJy9lbi9saXZlL3JhZGlvLmFzcHg/ZXZlbnRMYW5nPWRjLWVuJyk7ZAIED2QWAgIBDxYIHwQFCVtMaXZlIFRWXR8FBQl0b3BMaXZlVHYfAQVBaHR0cDovL3d3dy5pdGZ0ZWFtZXZlbnRzLnR2L3BhZ2UvRGF2aXNDdXAvSG9tZT9XVC5tY19pZD1EQ0hvbWViYXIeBnRhcmdldAUGX2JsYW5rZAIDD2QWAmYPZBYMZg8WAh8DaGQCBg8WAh8DaGQCCA8WAh8ABQhMYW5ndWFnZWQCCg8WAh8BBQQvZW4vZAIMDxYCHwEFBC9lcy9kAg4PFgIfA2hkAgUPZBYCZg9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBQQvZW4vZGQCCw8PFgIfBwUjL2VuL29yZ2FuaXNhdGlvbi9hYm91dC10aGUtaXRmLmFzcHhkZAIDD2QWAgIFD2QWAgIBD2QWAgIBD2QWAmYPZBYCAgIPFgIeC18hSXRlbUNvdW50Av////8PZAIDD2QWAgIDD2QWAmYPZBYEZg9kFhYCAQ9kFgJmDw8WAh8HBRYvZW4vaGVscC9hYm91dC11cy5hc3B4ZGQCAg9kFgJmDw8WAh8HBRgvZW4vaGVscC9jb250YWN0LXVzLmFzcHhkZAIEDw8WAh8HBSIvZW4vaGVscC90ZXJtcy1hbmQtY29uZGl0aW9ucy5hc3B4ZGQCBg8PFgIfBwUcL2VuL2hlbHAvcHJpdmFjeS1wb2xpY3kuYXNweGRkAggPDxYGHwcFFWh0dHA6Ly9tLmRhdmlzY3VwLmNvbR8ABQZNb2JpbGUeBlRhcmdldAUGX2JsYW5rZGQCCg8PFgIfBwVAaHR0cDovL3d3dy5pdGZ0ZWFtZXZlbnRzLnR2L3BhZ2UvRGF2aXNDdXAvSG9tZT9XVC5tY19pZD1EQ2Zvb3RlcmQWAmYPFgIfAAULZGF2aXNjdXAudHZkAgwPDxYCHwcFGi9kYXRhL3Jzcy9EYXZpc0N1cE5ld3MueG1sZGQCEA8PFgIfBwU3aHR0cDovL3d3dy5mYWNlYm9vay5jb20vcGFnZXMvRGF2aXMtQ3VwLzE2NTY4NTk1Njc5NzEwMBYCHgV0aXRsZQUQT3BlbnMgTmV3IFdpbmRvd2QCEQ8PFgIfBwUbaHR0cDovL3R3aXR0ZXIuY29tL2RhdmlzY3VwFgIfCgUQT3BlbnMgTmV3IFdpbmRvd2QCEg8PFgIfBwUnaHR0cDovL3d3dy55b3V0dWJlLmNvbS9PZmZpY2lhbERhdmlzQ3VwZGQCFA8WAh8ABf4BJmNvcHk7IElURiBMaWNlbnNpbmcgKFVLKSBMdGQuIEFsbCByaWdodHMgcmVzZXJ2ZWQuIE5vIHBvcnRpb24gb2YgdGhpcyB3ZWJzaXRlIG1heSBiZSBkdXBsaWNhdGVkLCByZWRpc3RyaWJ1dGVkLCBvciBtYW5pcHVsYXRlZCBpbiBhbnkgZm9ybS4gQnkgYWNjZXNzaW5nIGFueSBpbmZvcm1hdGlvbiBiZXlvbmQgdGhpcyBwYWdlLCB5b3UgYWdyZWUgdG8gYWJpZGUgYnkgb3VyIFByaXZhY3kgUG9saWN5IGFuZCBUZXJtcyBhbmQgQ29uZGl0aW9ucy5kAgIPFgIfA2gWAgIBDxYCHwAFMyZjb3B5OyBJVEYgTGljZW5zaW5nIChVSykgTHRkLiBBbGwgcmlnaHRzIHJlc2VydmVkLmRk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWBAIBD2QWCGYPZBYCZg9kFgJmDxYCHgRUZXh0BSFEYXZpcyBDdXAgLSBIZWxwIC0gUHJpdmFjeSBQb2xpY3lkAgIPZBYEZg8WAh4EaHJlZgUlL2l0Zi9jdXAvc2hhcmVkL2ltYWdlcy9kYy9mYXZpY29uLmljb2QCAg8WAh4HY29udGVudAWhAU91ciB3ZWJzaXRlIHByaXZhY3kgcG9saWN5IHByb3ZpZGVzIGRldGFpbHMgb2YgaG93IGFueSBpbmZvcm1hdGlvbiB0aGF0IGlzIGNvbGxlY3RlZCBhcyBhIHJlc3VsdCBvZiB5b3VyIHVzZSBvZiB0aGlzIHdlYnNpdGUgaXMgY29sbGVjdGVkLCBwcm9jZXNzZWQsIGFuZCBzdG9yZWQuZAIDD2QWAmYPZBYCZg8WAh8ABcsFDQogICAgPGxpbmsgcmVsPSdTdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgaHJlZj0nL0lURi9DdXAvU2hhcmVkL0Nzcy9kYy9NYXN0ZXJQYWdlcy5jc3MnIG1lZGlhPSdhbGwnIC8+DQogICAgPGxpbmsgcmVsPSdTdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgaHJlZj0nL0lURi9DdXAvU2hhcmVkL0Nzcy9kYy9lbi9MYW5nLmNzcycgbWVkaWE9J2FsbCcgLz4NCg0KICAgIDwhLS1baWYgSUUgN10+DQogICAgICAgIDxsaW5rIHJlbD0nU3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnIGhyZWY9Jy9JVEYvQ3VwL1NoYXJlZC9Dc3MvZGMvaWYtaWU3LmNzcycgbWVkaWE9J2FsbCcgLz4NCiAgICA8IVtlbmRpZl0tLT4NCg0KICAgIDwhLS1baWYgSUUgNl0+ICAgICANCiAgICAgICAgPGxpbmsgcmVsPSdTdHlsZXNoZWV0JyB0eXBlPSd0ZXh0L2NzcycgaHJlZj0nL0lURi9DdXAvU2hhcmVkL0Nzcy9kYy9pZi1pZTYuY3NzJyBtZWRpYT0nYWxsJyAvPg0KICAgICAgICA8c2NyaXB0IHNyYz0nL0lURi9XZWIvanMvSVRGL0REX2JlbGF0ZWRQTkdfMC4wLjhhLW1pbi5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICA8c2NyaXB0IHNyYz0nL0lURi9XZWIvanMvZGMvRERfYmVsYXRlZFBOR0ZpeC5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgIA0KICAgIDwhW2VuZGlmXS0tPg0KICAgICAgICAgICAgICAgIGQCBg9kFgJmD2QWAmYPFgIfAAULVUEtMzM3NzY1LTJkAgMQZGQWBAIBD2QWBAIBD2QWAmYPZBYIAgEPZBYCZg9kFggCAQ8WAh4HVmlzaWJsZWhkAgIPZBYCAgEPFgYeCWlubmVyaHRtbAUNW0xpdmUgU2NvcmVzXR4FY2xhc3MFDXRvcExpdmVTY29yZXMfAQVfamF2YXNjcmlwdDogbGl2ZVNjb3Jlc1BvcFVwKCdodHRwOi8vbGl2ZS5kYXZpc2N1cC5jb20vbGl2ZXNjb3JlLmFzcHg/dGlkPTEwMDAxNzY5MSUyNmxhbmc9ZW4nKTtkAgMPZBYCAgEPFgYfBAUMW0xpdmUgUmFkaW9dHwUFDHRvcExpdmVSYWRpbx8BBUJqYXZhc2NyaXB0OiBsaXZlUmFkaW9Qb3BVcCgnL2VuL2xpdmUvcmFkaW8uYXNweD9ldmVudExhbmc9ZGMtZW4nKTtkAgQPZBYCAgEPFggfBAUJW0xpdmUgVFZdHwUFDHRvcFdhdGNoTGl2ZR8BBUFodHRwOi8vd3d3Lml0ZnRlYW1ldmVudHMudHYvcGFnZS9EYXZpc0N1cC9Ib21lP1dULm1jX2lkPURDSG9tZWJhch4GdGFyZ2V0BQZfYmxhbmtkAgMPZBYCZg9kFgxmDxYCHwNoZAIGDxYCHwNoZAIIDxYCHwAFCExhbmd1YWdlZAIKDxYCHwEFBC9lbi9kAgwPFgIfAQUEL2VzL2QCDg8WAh8DaGQCBQ9kFgJmD2QWBAIBDw8WAh4LTmF2aWdhdGVVcmwFBC9lbi9kZAIDDxYCHwNnZAILDw8WAh8HBSMvZW4vb3JnYW5pc2F0aW9uL2Fib3V0LXRoZS1pdGYuYXNweGRkAgMPZBYCAgUPZBYCAgEPZBYCAgEPZBYCZg9kFgICAg8WAh4LXyFJdGVtQ291bnQC/////w9kAgMPZBYCAgMPZBYCZg9kFgRmD2QWFgIBD2QWAmYPDxYCHwcFFi9lbi9oZWxwL2Fib3V0LXVzLmFzcHhkZAICD2QWAmYPDxYCHwcFGC9lbi9oZWxwL2NvbnRhY3QtdXMuYXNweGRkAgQPDxYCHwcFIi9lbi9oZWxwL3Rlcm1zLWFuZC1jb25kaXRpb25zLmFzcHhkZAIGDw8WAh8HBRwvZW4vaGVscC9wcml2YWN5LXBvbGljeS5hc3B4ZGQCCA8PFgYfBwUVaHR0cDovL20uZGF2aXNjdXAuY29tHwAFBk1vYmlsZR4GVGFyZ2V0BQZfYmxhbmtkZAIKDw8WAh8HBUBodHRwOi8vd3d3Lml0ZnRlYW1ldmVudHMudHYvcGFnZS9EYXZpc0N1cC9Ib21lP1dULm1jX2lkPURDZm9vdGVyZBYCZg8WAh8ABQtkYXZpc2N1cC50dmQCDA8PFgIfBwUaL2RhdGEvcnNzL0RhdmlzQ3VwTmV3cy54bWxkZAIQDw8WAh8HBTdodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9wYWdlcy9EYXZpcy1DdXAvMTY1Njg1OTU2Nzk3MTAwFgIeBXRpdGxlBRBPcGVucyBOZXcgV2luZG93ZAIRDw8WAh8HBRtodHRwOi8vdHdpdHRlci5jb20vZGF2aXNjdXAWAh8KBRBPcGVucyBOZXcgV2luZG93ZAISDw8WAh8HBSdodHRwOi8vd3d3LnlvdXR1YmUuY29tL09mZmljaWFsRGF2aXNDdXBkZAIUDxYCHwAF/gEmY29weTsgSVRGIExpY2Vuc2luZyAoVUspIEx0ZC4gQWxsIHJpZ2h0cyByZXNlcnZlZC4gTm8gcG9ydGlvbiBvZiB0aGlzIHdlYnNpdGUgbWF5IGJlIGR1cGxpY2F0ZWQsIHJlZGlzdHJpYnV0ZWQsIG9yIG1hbmlwdWxhdGVkIGluIGFueSBmb3JtLiBCeSBhY2Nlc3NpbmcgYW55IGluZm9ybWF0aW9uIGJleW9uZCB0aGlzIHBhZ2UsIHlvdSBhZ3JlZSB0byBhYmlkZSBieSBvdXIgUHJpdmFjeSBQb2xpY3kgYW5kIFRlcm1zIGFuZCBDb25kaXRpb25zLmQCAg8WAh8DaBYCAgEPFgIfAAUzJmNvcHk7IElURiBMaWNlbnNpbmcgKFVLKSBMdGQuIEFsbCByaWdodHMgcmVzZXJ2ZWQuZGQ=">
 </div>
 
 <script type="text/javascript"> function storeLanguageOption(language) {document.cookie = 'itfLangOption=' + language + '; expires=Wed, 01-Jan-2020 00:00:01 GMT;';} </script>
-<script src="/ScriptResource.axd?d=SCqOodjVZ7p5LBXvQ59AHwYpwYPTw8GuPJ9q_Cn69BwhG5Ww4XTpw9Rg4H6aVxtBBCrugRm9VHv-bHYaWpjlt8ZaTdRmb3ITyFhQ8spag8jne9Iaa1vKZ6sF6kItAjKinZgAxvRyNXZn9B_ZBnNFldle3-ctXR7Jg-ALsm36Z06XX97EUylE7OWKCeTluEHW0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=0ObggmFEIEORx3zPXI-Vbub_kyX4OQHkSe0GJ5Tt2z6s-oVDnkwIgptJHqqHQ7M_1VGfwnGmfQLDeuFDc0A4hZsZ89Pz6cEbFdpsOsTFrTFPst_EN2j3Dv9aoAqFIEHadxZWz0Ek96ULAu80AoZwzeIk6VZWagFPaU2cx_PIXRou6tV6MITF_qqkoVu_QvT00&amp;t=ffffffff940d030f" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
@@ -70,8 +104,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 <script type="text/javascript">
     function openLSWindow() {
-        var URL = "http://live.fedcup.com/live.aspx?tid=100017592&language=en";
-        window.open(URL, 'objLSPopup', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=750,height=765,left=20,top=20');     // without news but with radio player
+        var URL = "http://live.daviscup.com/livescore.aspx?tid=100017691&lang=en";
+        window.open(URL, 'objLSPopup', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=770,height=650,left=20,top=20');     // without news but with radio player
         return false;
     }
 </script>
@@ -108,6 +142,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <div class="logo-holder">
     <a id="ContentPlaceHolderDefault_masterContainerHeader_ucHeaderMaster_ctl00_SiteTopBanner_7_lnkLogo" href="/en/"><img src="/itf/cup/shared/images/dc/en/logo.png" alt="www.daviscup.com/en - Logo"></a>
 </div>
+<div id="ContentPlaceHolderDefault_masterContainerHeader_ucHeaderMaster_ctl00_SiteTopBanner_7_divDC100" class="dc-100th">THE 100TH FINAL</div>
 
 
 
@@ -365,7 +400,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                         <!-- Second Level Nav  -->
                         <li>
-                            <a href="/en/history/award-of-excellence.aspx" id="hrefTopNav2Level_28476_3">Award of Excellence</a>
+                            <a href="/en/history/commitment-award.aspx" id="hrefTopNav2Level_133571_3">Commitment Award</a>
+                            
+                        </li>
+                    
+                        <!-- Second Level Nav  -->
+                        <li>
+                            <a href="/en/history/award-of-excellence.aspx" id="hrefTopNav2Level_28476_4">Award of Excellence</a>
                             
                         </li>
                     
@@ -405,19 +446,25 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                         <!-- Second Level Nav  -->
                         <li>
-                            <a href="/en/organisation/related-links.aspx" id="hrefTopNav2Level_28485_4">Related Links</a>
+                            <a href="/en/organisation/mobile-app.aspx" id="hrefTopNav2Level_127990_4">Mobile App</a>
                             
                         </li>
                     
                         <!-- Second Level Nav  -->
                         <li>
-                            <a href="/en/organisation/about-the-itf.aspx" id="hrefTopNav2Level_28486_5">About the ITF</a>
+                            <a href="/en/organisation/related-links.aspx" id="hrefTopNav2Level_28485_5">Related Links</a>
                             
                         </li>
                     
                         <!-- Second Level Nav  -->
                         <li>
-                            <a href="/en/organisation/sponsors.aspx" id="hrefTopNav2Level_28487_6">Sponsors</a>
+                            <a href="/en/organisation/about-the-itf.aspx" id="hrefTopNav2Level_28486_6">About the ITF</a>
+                            
+                        </li>
+                    
+                        <!-- Second Level Nav  -->
+                        <li>
+                            <a href="/en/organisation/sponsors.aspx" id="hrefTopNav2Level_28487_7">Sponsors</a>
                             
                         </li>
                     
@@ -587,7 +634,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <ul>
                                 <li><a href="/en/history/davis-cup-history.aspx" id="hrefSiteMap_1">Davis Cup History</a></li>
                                 <li><a href="/en/organisation/publications.aspx" id="hrefSiteMap_4">Publications</a></li>
-                                <li><a href="/en/organisation/partners.aspx" id="hrefSiteMap_3">Partners</a></li>
+                                <li><a href="/en/organisation/sponsors.aspx" id="hrefSiteMap_3">Sponsors</a></li>
                             </ul>
                         </li>
                         <li><br><a href="/en/scorecards.aspx" id="A6">Scorecards</a></li>
