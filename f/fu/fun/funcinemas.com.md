@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the funcinemas.com privacy policy that was archived on 2008-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080826023330id_/http%3A//funcinemas.com/Privacy.aspx%3Fcc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funcinemas.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202125939id_/https%3A//www.funcinemas.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# :: Fun Cinemas ::
 
-  
 **Our Commitments to You**
 
 Fun Multiplex Pvt. Ltd. (E-City), the owner of World Wide Website www.funcinemas.com (FC) wants to make your online experience satisfying and safe. Our data collection policies allow you to choose as much information as you want, to provide to us and to control how we use whatever information you give us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice your questions or concerns. Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you, which is a personalized online experience. Customer's who personalize our service visit more often - and it's the customers that visit us often who make us successful - hence we do everything we can to make FC your service with your name all over it and give you just and all the content you need. 
 
-Information collected online is often defined as being either anonymous or personally identifiable: 
+Information collected online is often defined as being either anonymous or personally identifiable 
 
 Anonymous Information: Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth - they are "anonymous" to us, much like how your hometown's bus service knows how many people take a given route - but doesn't necessarily know individually who these people are. Many of the individuals who access our services use none of the personalization features which are available to them and are therefore anonymous to us. 
 
