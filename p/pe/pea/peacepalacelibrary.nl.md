@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the peacepalacelibrary.nl privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626004656id_/http%3A//www.peacepalacelibrary.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacepalacelibrary.nl privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202230133id_/http%3A//www.peacepalacelibrary.nl/privacy) for the most accurate reproduction.*
 
 # Peace Palace Privacy statement | Peace Palace Library
 
-The Peace Palace Library needs to collect and process information about you to provide you with a customised and personal service, and to carry out its legitimate business.
+In line with common practice, when you visit the Peace Palace Library website and when you register with us, we record and store some information about you. In some cases we process this information in order to better understand our users and their needs. This is done to improve the content and the usability of our website and the services we offer. However, the Peace Palace Library recognizes the importance of privacy to users so we consequently handle such personal information with care.
 
-  * This website uses industry standard analytics packages which automatically gather information on visitors to our website.  This information is stored anonymously in server log files.  It does not identify individual users and is used only for website administration and analysis of website usage and trends.
-  * We collect only the domain name of visitors to our Web page. We collect the e-mail addresses of those who communicate with us via e-mail and aggregate information on what pages visitors access or visit.
-  * The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, and not shared with other organizations for commercial purposes.
-  * With respect to cookies: We do not set any cookies, except in the personalized service of MyPPL.If you do not want to receive e-mail from us in the future, please let us know.
-  * If you supply us with your postal address online you will only receive the information for which you provided us your address.
-  * With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
-  * From time to time, we may use visitor information for new, unanticipated uses not previously disclosed in our privacy notice.
-  * If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
-  * Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us.
+**Logfiles and cookies**  
+When you visit the Peace Palace Library website, your requests and actions are automatically logged on our server. Log files contain information such as your IP address, the date and time you accessed the website, the pages you requested for viewing, etc. Log files do not contain any personal identifiable information about you.
 
+The Peace Palace Library website (WordPress) uses Google Analytics, a third party, to track and analyze usage and volume statistical information from visitors on the website. By processing such information we are trying to identify user profiles and usage habits to improve the content and services we offer according to users’ needs. Google Analytics may use cookies to help track visitor behavior. Cookies are small amounts of information sent from a web server to your browser and stored on your computer’s hard drive.  All data collected by Google Analytics is used only to provide the Peace Palace Library with information on site usage and is not shared with any other third parties. To view the privacy policy of Google Analytics, [click here](http://www.google.com/intl/en_ALL/policies/privacy/ "Privacy policy Google Analytics").
 
+**Data protection**
 
-If you feel that this site is not following its stated information policy, please contact the Peace Palace Library
+The Peace Palace Library respects your privacy and seeks to protect your personal data. We do not sell, trade or rent the information we get from you on this website to others. The data are stored for as long as they are useful for administrative reasons.
+
+The Peace Palace website may contain links to other websites that are beyond our control. This privacy policy applies solely to the information you provide while visiting this website. Other websites to which you link may contain privacy policies that are different from this privacy policy.
+
+The current privacy policy statement is in accordance with the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens). If you feel that this site is not following its stated information policy, please contact the Peace Palace Library.
