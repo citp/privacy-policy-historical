@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the news10.net privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124084801id_/http%3A//www.news10.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news10.net privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203004924id_/http%3A//www.news10.net/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head id="Head1"><script type="text/javascript" async="" src="http://content.secondspace.com/kxtv/widgets.js"></script><link rel="stylesheet" type="text/css" href="http://content.secondspace.com/kxtv/widgets.css"><meta http-equiv="refresh" content="900"><meta name="copyright" content="Copyright © 2010 news10.net. All rights reserved. Absolutely no portions of any Document may be reproduced or re-transmitted in any form or media."><link href="/ScriptCombiner.ashx?t=text/css&amp;s=coreCSS&amp;v=16" rel="stylesheet" type="text/css"><script src="/ScriptCombiner.ashx?t=text/javascript&amp;s=coreJS&amp;v=16" type="text/javascript"></script><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head id="Head1"><script type="text/javascript" async="" src="http://content.secondspace.com/kxtv/widgets.js"></script><link rel="stylesheet" type="text/css" href="http://content.secondspace.com/kxtv/widgets.css"><meta http-equiv="refresh" content="900"><meta name="copyright" content="Copyright © 2010 news10.net. All rights reserved. Absolutely no portions of any Document may be reproduced or re-transmitted in any form or media."><link href="/ScriptCombiner.ashx?t=text/css&amp;s=coreCSS&amp;v=40" rel="stylesheet" type="text/css"><script src="/ScriptCombiner.ashx?t=text/javascript&amp;s=coreJS&amp;v=40" type="text/javascript"></script><title>
 	news10.net | Sacramento, CA
 </title>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -10,13 +10,11 @@
 	    setTimeout(function () { var s = "kxtv", a = document.getElementsByTagName("head")[0] || document.documentElement, c = document.createElement("script"), b = document.createElement("link"); c.type = "text/javascript"; c.async = true; c.src = "http://content.secondspace.com/" + s + "/widgets" + (window.__dsns_.GetCookie('dsnswidgetversion') || '') + ".js"; b.rel = "stylesheet"; b.type = "text/css"; b.href = "http://content.secondspace.com/" + s + "/widgets" + (window.__dsns_.GetCookie('dsnswidgetversion') || '') + ".css"; a.insertBefore(b, a.firstChild); a.insertBefore(c, a.firstChild); }, 200); if (typeof window.__dsns_ == "undefined") window.__dsns_ = {}; window.__dsns_.GetCookie = function (a) { a += "="; for (var c = document.cookie.split(";"), b = 0; b < c.length; b++) { for (var d = c[b]; d.charAt(0) == " "; ) d = d.substring(1, d.length); if (d.indexOf(a) == 0) return d.substring(a.length, d.length) } return null }; document.write('<style type="text/css">#dsnslocal {display:none}</style>');
     </script><style type="text/css">#dsnslocal {display:none}</style>
 
-<script type="text/javascript" src="/common/v5/gel/v1.6/lib/core/core.js">
+<script type="text/javascript" src="/common/v5/gel/v1.47/lib/core/core.js">
 </script>
 <script type="text/javascript">
 	var searchlink = "http://search.news10.net/default.aspx?ct=r&q=";
 	
-	
-
 	GEL.thepage.pageinfo = { 
 		type: "section"
 		,categoryid:""
@@ -26,6 +24,8 @@
 			,domainname: "news10.net"
 			,domainroot: "kxtv"
 		}
+		
+		,GO4TurnOffZag:"1"
 		
 	};
   
@@ -143,7 +143,7 @@
 						var _u = GEL.env.user;                 
 						return (_u.state || _u.yob || _u.zip || GEL.env.cookies.gcionid.values.status =="16") ? true : false;                 
 						})();             
-					if(!_noneedzag) {             
+					if(!_noneedzag&&GEL.thepage.pageinfo.GO4TurnOffZag!=1) {          
 					GDN.UR.Page.Load();               
 					}         
 				}     
@@ -188,6 +188,19 @@
 		_c.gcion_section_front = "section"; 
 		_c.gdn_section_front = "section"; 
 
+		
+			_c.dfp = { syncrendering:true}; 
+			
+			_c.adprovider = "dfp";
+			
+			_c.dataservice = "http://aws.gannett.com/m?";
+			try{
+				eval('('+ 'GEL.thepage.bannerData =  {"dfp": { "networkid": "7103" },"siteid": "ca-sacramento-KXTV-B3335", "inventory": [ "ca-sacramento-KXTV-B3335","","news","",""], "pageType": ""}'+')');
+			}catch(e){
+				GEL.thepage.bannerData.error=e;
+			}
+		
+		
 
 		_c.AdServer = "gannett.gcion.com";
 		_c.AdNetworkId = 5111.1;
@@ -239,122 +252,18 @@
 <meta property="fb:admins" content="100002679474592,768073508,1069235810,1399354385,1021056561,1067675056,759913121,1131130263,100000949796487,1210360081,649873786,100001997471527,1091587619,538685491,15918573">
 <meta property="fb:app_id" content="146675622056340">      
 <meta name="robots" content="noodp">
-<meta name="robots" content="noydir"><meta property="og:title" content="news10.net | Sacramento, CA"><meta property="og:url" content="http://www.news10.net/privacy/"><meta property="og:site_name" content="news10.net"><meta property="og:type" content="website"><meta property="og:image" content="http://www.news10.net/Common/v5/graphics/icons/og-icon/kxtv.png"><meta property="fb:app_id" content="146675622056340"><meta property="fb:admins" content="100002679474592,768073508,1069235810,1399354385,1021056561,1067675056,759913121,1131130263,100000949796487,1210360081,649873786,100001997471527,1091587619,538685491,15918573"><meta name="category" content="company"><script id="__gel_nsscript_http%3A%2F%2Fcontent.gannettonline.com%2Fglobal%2Fscripts%2Frevsci.js" src="http://content.gannettonline.com/global/scripts/revsci.js"></script>
-<script id="__gel_nsscript_http%3A%2F%2Fjs.revsci.net%2Fgateway%2Fgw.js%3Fcsid%3DJ06575" src="http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
-<script id="__gel_nsscript_util.Cookie" src="https://web.archive.org/common/v5/gel/v1.6/lib/cookie/cookie.js"></script>
-<script id="__gel_nsscript_legacy.GDNpreload" src="https://web.archive.org/common/v5/gel/v1.6/lib/legacy/GDN/GDNpreload.js"></script>
-<script id="__gel_nsscript_remoting" src="https://web.archive.org/common/v5/gel/v1.6/lib/remoting/remoting.js"></script>
-<script id="__gel_nsscript_util.Selector" src="https://web.archive.org/common/v5/gel/v1.6/lib/selector/selector.js"></script>
-<script id="__gel_nsscript_anim.YUIAnimator" src="https://web.archive.org/common/v5/gel/v1.6/lib/anim/yuianimator.js"></script>
-<script id="__gel_nsscript_widget" src="https://web.archive.org/common/v5/gel/v1.6/lib/widgets/widget.js"></script>
-<script id="__gel_nsscript_widget.modal" src="https://web.archive.org/common/v5/gel/v1.6/lib/widgets/modal/modal.js"></script>
-<script id="__gel_nsscript_widget.validate" src="https://web.archive.org/common/v5/gel/v1.6/lib/userauth/validateform.js"></script>
-<script id="__gel_nsscript_social.userauth" src="https://web.archive.org/common/v5/gel/v1.6/lib/userauth/userauth.js"></script>
-<script id="__gel_nsscript_social.socialprovider" src="https://web.archive.org/common/v5/gel/v1.6/lib/3rdparty/gigya/gigya.js"></script>
-<script language="javascript" type="text/javascript" src="https://web.archive.org/common/v5/gel/v1.6/lib/legacy/GDN/UAWidgets/LoggedOut.js"></script><script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/common/v5/gel/v1.6/lib/widgets/banner/banner.js"></script>
-<script id="__gel_nsscript_dateutil" src="https://web.archive.org/common/v5/gel/v1.6/lib/dateutil/dateutil.js"></script>
+<meta name="robots" content="noydir"><meta property="og:title" content="news10.net | Sacramento, CA"><meta property="og:url" content="http://www.news10.net/privacy/"><meta property="og:site_name" content="news10.net"><meta property="og:type" content="website"><meta property="og:image" content="http://www.news10.net/Common/v5/graphics/icons/og-icon/kxtv.png"><meta property="fb:app_id" content="146675622056340"><meta property="fb:admins" content="100002679474592,768073508,1069235810,1399354385,1021056561,1067675056,759913121,1131130263,100000949796487,1210360081,649873786,100001997471527,1091587619,538685491,15918573"><meta name="category" content="company"><script id="__gel_nsscript_http______content.gannettonline.com__global__scripts__revsci.js" src="http://content.gannettonline.com/global/scripts/revsci.js"></script>
+<script id="__gel_nsscript_http______js.revsci.net__gateway__gw.js__csid__J06575" src="http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
+<script id="__gel_nsscript_everypage.js" src="https://web.archive.org/common/v5/gel/v1.47/lib/everypage.js"></script>
+<script id="__gel_nsscript_legacy__GDN__GDN.js" src="https://web.archive.org/common/v5/gel/v1.47/lib/legacy/GDN/GDN.js"></script>
+<script id="__gel_nsscript_legacy__GDN__GDNpreload.js" src="https://web.archive.org/common/v5/gel/v1.47/lib/legacy/GDN/GDNpreload.js"></script>
+<script id="__gel_nsscript_legacy__GDN__GDNpostload.js" src="https://web.archive.org/common/v5/gel/v1.47/lib/legacy/GDN/GDNpostload.js"></script>
+<script id="__gel_nsscript_userauth__userauth.js" src="https://web.archive.org/common/v5/gel/v1.47/lib/userauth/userauth.js"></script>
+<script language="javascript" type="text/javascript" src="https://web.archive.org/common/v5/gel/v1.47/lib/legacy/GDN//UI.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/common/v5/gel/v1.47/lib/legacy/GDN/UREvents/ZagUser.js"></script><script id="__gel_nsscript_3rdparty__gigya__gigya.js" src="https://web.archive.org/common/v5/gel/v1.47/lib/3rdparty/gigya/gigya.js"></script>
+<script language="javascript" type="text/javascript" src="https://web.archive.org/common/v5/gel/v1.47/lib/legacy/GDN/UAWidgets/LoggedOut.js"></script><script type="text/javascript" id="__gelement_0" src="https://web.archive.org/web/20121004221526/http://www.googletagservices.com/tag/js/gpt.js"></script>
 </head>
 <body>  
 	
-<script type="text/javascript">
-    
-    window['checkCookie'] = (function () {
-        var _ = {};
-        for (
-	var 
-		c = document.cookie.split(/\s*;\s*/),
-		i = 0,
-		l = c.length,
-		a = c[i].split("=")
-	;
-	a = i < l && c[i].split("=")
-	;
-	i++
-) _[a[0]] = a[1];
-        return function (cookieName) { return _[cookieName]; }
-    })();
-    GEL.config.Interstitial = {
-        controlurl: "",
-        placementid: parseInt(1273098)
-    };
-    (function () {
-        GEL.register("dateutil", { path: "dateutil/dateutil.js", depends: [], requires: [] });
-        if (checkCookie("pre_ad") == 'inter')
-            loadBannerLib();
-        else
-            GEL.thepage.initializer.add({
-                name: "qinter",
-                namespace: ["widget.AdBanner", "dateutil"],
-                priority: 20,
-                callback: interMgr
-            });
-        function loadBannerLib() {
-            var 
-		_IMPORTER = GEL.util.importer
-		, _lib = _IMPORTER.require("widget.AdBanner")
-		, _css = GEL.ement("LINK", {
-		    href: "/common/v5/css/Interstitial_1.css",
-		    rel: "stylesheet"
-		});
-            _lib.addElement(_css);
-            _lib.addElement(_IMPORTER.require('dateutil'));
-            _lib.setAttacher("inline");
-            _lib.attach();
-        }
-        function interMgr() {
-            var _IC = GEL.config.Interstitial || {};
-            _IC.id = _IC.id || "inter";
-            _IC.controlurl = _IC.controlurl ||
-		(new GEL.widget.AdBanner.Helios({
-		    attachTo: document.body,
-		    keywords: [],
-		    keyvalues: {},
-		    placementid: parseInt(1273099),
-		    position: "Interstitial",
-		    loadoninit: false
-		})).getUrl();
-            GEL.thepage.bannerManager.add(_IC);
-        }
-    })(); 
-</script>
-<div id="go4-interstitial" class="interstitial gel-hidden">
-    <center class="go4-custom">
-        <div class="header-container">
-            <div class="header-main">
-                <div class="header-wrap">
-                    <div class="header-logo">
-                   
-                        
-                    </div>
-                    <a href="#" class="gel-hidden skip">Continue Reading&nbsp;»</a>
-                </div>
-            </div>
-        </div>
-        <div class="aggit">
-            Advertisement</div>
-        <div class="ad">
-            <script type="text/javascript">
-                (function () {
-                    var _M = GEL.thepage.bannerManager, _O, _I;
-                    if (
-		checkCookie("pre_ad") != "inter"
-		|| typeof _M != 'object'
-		|| typeof _M.get != "function"
-		|| !(_O = _M.get("inter"))
-	) return;
-                    _M.disable(_O);
-                    _O.config.mainselector = "#frmMain";
-                    _I = GEL.thepage.inter =
-		new GEL.widget.AdBanner.Interstitial(_O.config);
-                    _I.show();
-                })(); 
-            </script>
-        </div>
-        <p class="redirect">
-            You will be redirected to the page you want to view in&nbsp;<span id="ad_countdown"></span>&nbsp;seconds.
-        </p>
-    </center>
-</div>
 	<div id="modalouter" class="modal-outer-inactive"></div>
 	<form method="post" action="" id="frmMain">
 <input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="">
@@ -376,7 +285,7 @@ Sys.Application._enableHistoryInScriptManager();
 		<div id="gtv_weatherbg" style="background:url(/graphics/header/weather/nightmoonclear.jpg) no-repeat 0px;">
 <div id="gtv_marketplacenav">
 <ul>
-        <li><a href="http://www.sacandco.net/" target="">Sacramento &amp; Co</a></li>
+        <li><a href="http://www.sacandco.net/" target="">Sac &amp; Co</a></li>
     
         <li><a href="/myne/" target="">MyNeighborhood</a></li>
     
@@ -410,7 +319,7 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
-                <a href="/news/whatsbugginyou/default.aspx"><span class="rmText">What's Buggin' You</span></a>
+                <a href="/news/stockton-in-crisis/default.aspx"><span class="rmText">Stockton in Crisis</span></a>
             </li>
         
             <li>
@@ -426,7 +335,7 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
-                <a href="/news/health/default.aspx"><span class="rmText">Life/Health</span></a>
+                <a href="/news/lifestyle/default.aspx"><span class="rmText">Lifestyle &amp; Fun</span></a>
             </li>
         
             <li>
@@ -434,15 +343,15 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
-                <a href="/news/politics_govt/default.aspx"><span class="rmText">Politics</span></a>
+                <a href="http://www.news10.net/common/elections/default.aspx"><span class="rmText">Election 2012</span></a>
             </li>
         
             <li>
-                <a href="/news/watchdogs/default.aspx"><span class="rmText">News10 Watchdogs</span></a>
+                <a href="/news/watchdogs/default.aspx"><span class="rmText">Watchdog/Special Reports</span></a>
             </li>
         
             <li>
-                <a href="/news/specialreports/"><span class="rmText">Special Reports</span></a>
+                <a href="/capitol/"><span class="rmText">Politics/John Myers</span></a>
             </li>
         
             <li>
@@ -458,23 +367,23 @@ Sys.Application._enableHistoryInScriptManager();
 
 
         <div class="gtv_menu_imgcontainer_140">
-<img src="/images/video/80/60/2/1/urlbcdownload.gannett.edgesuite.net/kxtv/35121343001/35121343001_1292714351001_th-1292664860001.jpg" height="60" width="80" alt="Theres a new push from small retailers who are reaching out to holiday shoppers this season to shop small this Saturday, Nov. 26." class="" style="float:left;"></div>
-        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/164636/2/Shop-Small-aims-to-bring-business-to-local-retailers">Shop Small aims to bring business to local retailers</a></h3>
-        <p class="gtv_menu_topstory_abstract">SACRAMENTO - There's a new push&nbsp;from small retailers who are reaching out ...</p>
+<img src="/images/80/60/2/assetpool/images/121202071613_rain%20swollen%20cache%20creek%20near%20rumsey.jpg" height="60" width="80" alt="Rain-swollen Cache Creek above Rumsey in Yolo County on Sunday, Dec. 2, 2012" class="" style="float:left;"></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/219468/2/Storm-causes-rockslides-raging-river-in-Yolo-County">Storm causes rockslides, raging river in Yolo County</a></h3>
+        <p class="gtv_menu_topstory_abstract">YOLO COUNTY - Multiple rock and mudslides have closed Highway 16 in the Capay ...</p>
     
         <div class="gtv_clear"></div>
     
         <div class="gtv_menu_imgcontainer_140">
-<img src="/images/80/60/2/assetpool/images/110520024632_sheriff-lights.jpg" height="60" width="80" alt="" class="" style="float:left;"></div>
-        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/164640/2/Suspect-smashes-car-into-Sacramento-Co-apartment">Suspect smashes car into Sacramento Co. apartment</a></h3>
-        <p class="gtv_menu_topstory_abstract">SACRAMENTO COUNTY - An apartment unit at the Azure Apartments is destroyed ...</p>
+<img src="/images/80/60/2/assetpool/images/121202040330_blue-ravine-rt-tracks.jpg" height="60" width="80" alt="Wind blows down power line on Light Rail tracks in Folsom, Dec. 2, 2012" class="" style="float:left;"></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/219438/2/Sacramento-sets-rainfall-record-other-totals">Sacramento sets rainfall record; other totals</a></h3>
+        <p class="gtv_menu_topstory_abstract">SACRAMENTO - Sacramento broke a 71-year-old rainfall record for Dec. 2 with ...</p>
     
         <div class="gtv_clear"></div>
     
         <div class="gtv_menu_imgcontainer_140">
-<img src="/images/video/80/60/2/1/urlbcdownload.gannett.edgesuite.net/kxtv/35121343001/35121343001_1292591333001_th-1292558339001.jpg" height="60" width="80" alt="SACRAMENTO - This holiday season may be the last time California residents will enjoy zero sales tax on most cyber purchases." class="" style="float:left;"></div>
-        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/164627/2/Online-sales-tax-could-begin-in-January">Online sales tax could begin in January</a></h3>
-        <p class="gtv_menu_topstory_abstract">SACRAMENTO - This holiday season may be the last time California residents will ...</p>
+<img src="/images/80/60/2/assetpool/images/121202032117_stockton-driveby-shooting-640.jpg" height="60" width="80" alt="" class="" style="float:left;"></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/219435/2/Man-dies-in-drive-by-shooting-in-Stockton">Man dies in drive-by shooting in Stockton</a></h3>
+        <p class="gtv_menu_topstory_abstract">STOCKTON - A man was gunned down in a Stockton neighborhood Sunday morning.</p>
     
 
 
@@ -508,6 +417,10 @@ Sys.Application._enableHistoryInScriptManager();
         
             <li>
                 <a href="/weather/forecast/"><span class="rmText">7-Day Forecast</span></a>
+            </li>
+        
+            <li>
+                <a href="/photos/weather/"><span class="rmText">Weather Photos</span></a>
             </li>
         
             <li>
@@ -549,6 +462,10 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
+                <a href="/video/newscasts/"><span class="rmText">Newscasts</span></a>
+            </li>
+        
+            <li>
                 <a href="/video/abcplayer1.aspx"><span class="rmText">Watch ABC shows</span></a>
             </li>
         
@@ -579,6 +496,10 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
+                <a href="/life/contests/pro-pickem/"><span class="rmText">Pro-Football Pick'em</span></a>
+            </li>
+        
+            <li>
                 <a href="/sports/extra/"><span class="rmText">Toyota Sports Extra</span></a>
             </li>
         
@@ -591,7 +512,7 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
-                <a href="/news/local/article/155067/2/Sign-up-for-the-News10-Pro-Football-Pick-em-and-win-"><span class="rmText">Pro Football Pick 'Em Contest</span></a>
+                <a href="/photos/sports/"><span class="rmText">Sports Photos</span></a>
             </li>
         
             <li>
@@ -607,15 +528,15 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
-                <a href="http://bit.ly/hp882N"><span class="rmText">NCAA March Madness</span></a>
-            </li>
-        
-            <li>
                 <a href="http://www.usatoday.com/sports/sports-quiz.htm"><span class="rmText">Sports Quiz: Test your sports knowledge</span></a>
             </li>
         
             <li>
                 <a href="http://bit.ly/98bwbP"><span class="rmText">Fantasy Sports</span></a>
+            </li>
+        
+            <li>
+                <a href="http://seatgeek.com/sacramento-california-sports-tickets"><span class="rmText"><img src="/common/v5/graphics/icons/icon_tix.png" align="left" style="padding-right:5px;" border="0"> Buy Tickets</span></a>
             </li>
         </ul>
 </div>
@@ -627,23 +548,23 @@ Sys.Application._enableHistoryInScriptManager();
 
 
         <div class="gtv_menu_imgcontainer_140">
-<img src="/images/80/60/2/assetpool/images/111124021648_GoWeek.jpg" height="60" width="80" alt="The undefeated Elk Grove Thundering Herd hosts the 10-2 Folsom Bulldogs in the Division II Section Semifinals in Fridays News10 Game of the Week." class="" style="float:left;"></div>
-        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/164631/3/News10-Game-of-the-Week-6-Folsom-at-2-Elk-Grove">News10 Game of the Week: (6) Folsom at (2) Elk Grove</a></h3>
-        <p class="gtv_menu_topstory_abstract"></p>
+<img src="/images/80/60/2/assetpool/images/110802095841_49ers-logo-640.jpg" height="60" width="80" alt="" class="" style="float:left;"></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/219460/3/Rams-edge-49ers-16-13-in-overtime">Rams edge 49ers 16-13 in overtime</a></h3>
+        <p class="gtv_menu_topstory_abstract">ST. LOUIS - Rookie Greg Zuerlein kicked a 54-yard field goal with 26 seconds ...</p>
     
         <div class="gtv_clear"></div>
     
         <div class="gtv_menu_imgcontainer_140">
-<img src="/images/80/60/2/assetpool/images/110915101518_nba-lockout-640.jpg" height="60" width="80" alt="" class="" style="float:left;"></div>
-        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/164486/3/Report-NBA-owners-and-players-talking-again">Report: NBA owners and players talking again</a></h3>
-        <p class="gtv_menu_topstory_abstract">SUNNYVALE - The NBA may not want to play the Grinch this holiday season after ...</p>
+<img src="/images/80/60/2/assetpool/images/121202113826_Still1202_00005.jpg" height="60" width="80" alt="2012 Sacramento International Marathon" class="" style="float:left;"></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="http://midtown.news10.net/photo-gallery/events/108010-photos-runners-brave-downpour-2012-calif-international-marathon">PHOTOS: Marathoners brave downpour for 2012 CIM</a></h3>
+        <p class="gtv_menu_topstory_abstract">SACRAMENTO - Runners weathered the elements Sunday morning in Sacramento to ...</p>
     
         <div class="gtv_clear"></div>
     
         <div class="gtv_menu_imgcontainer_140">
-<img src="/images/80/60/2/assetpool/images/110420074801_Oakland-Athletics-640.jpg" height="60" width="80" alt="" class="" style="float:left;"></div>
-        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/164488/3/As-offer-arbitration-to-Willingham-DeJesus">A's offer arbitration to Willingham, DeJesus</a></h3>
-        <p class="gtv_menu_topstory_abstract">OAKLAND - The Oakland Athletics have offered arbitration to free agent ...</p>
+<img src="/images/80/60/2/assetpool/images/121202081858_arrowhead-stadium.jpg" height="60" width="80" alt="Arrowhead Stadium in Kansas City, Mo. (Courtesy: Getty Images)" class="" style="float:left;"></div>
+        <h3 class="gtv_menu_headline_topstory"><a href="/news/article/219409/3/Chiefs-to-play-in-wake-of-tragedy">Chiefs to play in wake of tragedy</a></h3>
+        <p class="gtv_menu_topstory_abstract">This Sunday, as the Chiefs host the Carolina Panthers, it will be no different. ...</p>
     
 
 
@@ -672,19 +593,23 @@ Sys.Application._enableHistoryInScriptManager();
             </li>
         
             <li>
+                <a href="/news/reading_connects/default.aspx"><span class="rmText">Reading Connects</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/reading_connects/10books/default.aspx"><span class="rmText">10 Books to Read</span></a>
+            </li>
+        
+            <li>
                 <a href="/hangup/default.aspx"><span class="rmText">The Great Hang Up</span></a>
             </li>
         
             <li>
-                <a href="/life/community/galleriespublic.aspx"><span class="rmText">Photo Galleries</span></a>
+                <a href="/photos/news/"><span class="rmText">News Slideshows</span></a>
             </li>
         
             <li>
-                <a href="/life/community/blogs.aspx"><span class="rmText">News10 Blogs</span></a>
-            </li>
-        
-            <li>
-                <a href="http://www.sacandco.net"><span class="rmText">Sacramento and Company</span></a>
+                <a href="http://www.sacandco.net"><span class="rmText">Sac &amp; Co</span></a>
             </li>
         
             <li>
@@ -697,14 +622,6 @@ Sys.Application._enableHistoryInScriptManager();
         
             <li>
                 <a href="http://events.news10.net/"><span class="rmText">Community Calendar</span></a>
-            </li>
-        
-            <li>
-                <a href="http://directory.news10.net/"><span class="rmText">Local Business Directory</span></a>
-            </li>
-        
-            <li>
-                <a href="/slideshows/default.aspx"><span class="rmText">News Slideshows</span></a>
             </li>
         
             <li>
@@ -727,6 +644,10 @@ Sys.Application._enableHistoryInScriptManager();
     <ul>
             <li>
                 <a href="/company/contact_us/faq.aspx"><span class="rmText">FAQs</span></a>
+            </li>
+        
+            <li>
+                <a href="/news/article/202252/339/About-News10"><span class="rmText">About Us</span></a>
             </li>
         
             <li>
@@ -787,21 +708,21 @@ Sys.Application._enableHistoryInScriptManager();
 </div>
 		</div>
 		<div id="gtv_subnav_container">
-			<div id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"></span></div>
+			<div id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"><a href="javascript:GEL.util.uautil.SearchAction();">Search people</a></span></div>
 			<div id="gtv_subnav_rightcontainer">
 				
 						<ul>
 						<li><strong>FEATURED:</strong></li>
 					
-						<li><a href="http://www.news10.net/quiz/">Daily Quiz</a></li>
+						<li><a href="/sports/pro_basketball/nba/kings_10on10/default.aspx">10 on 10</a></li>
 					
-						<li><a href="http://saxo.highschoolsports.net/section/Sacramento?site=P5">HS Sports</a></li>
+						<li><a href="/life/community/events/coatsforkids/default.aspx">Coats for Kids</a></li>
 					
 						<li><a href="/travel/traffic/default.aspx">Traffic</a></li>
 					
-						<li><a href="/holidayguide/default.aspx">Holiday</a></li>
+						<li><a href="/news/reading_connects/default.aspx">Reading</a></li>
 					
-						<li><a href="/life/community/events/coatsforkids/default.aspx">Coats for Kids</a></li>
+						<li><a href="http://www.usatodayhss.com/sacramento/">HS Sports</a></li>
 					
 						</ul>
 					
@@ -818,21 +739,172 @@ Sys.Application._enableHistoryInScriptManager();
 	</div>
 </div>
 
+<style>
+.gtv_webalerts a {padding-left:395px; line-height:35px; font-size:18px; font-weight:bold; color:white;}
+.gtv_webalert_alertblue_container {background: url(/common/v5/graphics/webalerts/blueAlertBG.jpg); background-color: #003782; width: 100%; margin:auto; height:35px;}
+.gtv_webalert_alertblue_container a {line-height:35px; font-size:18px; font-weight:bold; color: #FFFFFF;}
+</style>
 <div class="gtv_clear">
+<div id="Header_WebAlertBar_WeatherAlerts_pnlSevereWxScroller">
+	
+<div style="width: 100%; background-color: #990000;">
+<center>
+<style type="text/css">
+        .radSevereWxRotatorContainer 
+        {
+            background-color:#990000;
+            white-space:nowrap;
+            width:960px;        
+            height:25px;
+            padding-top:3px;
+            vertical-align:middle;
+            font-family: Verdana, Arial;
+            font-size: 12px;
+            color: #FFFF33;
+            font-weight:bold;
+        }
+
+        a.radSevereWxRotatorLink:link, a.radSevereWxRotatorLink:active, a.radSevereWxRotatorLink:visited
+        {
+            font-family: Verdana, Arial;
+            font-size: 12px;
+            font-weight:normal;
+            color: #FFFF33;
+            text-decoration:none;
+        }
+
+        a.radSevereWxRotatorLink:hover
+        {
+            font-family: Verdana, Arial;
+            font-size: 12px;
+            font-weight:normal;
+            color: #FFFF33;
+            text-decoration:underline;
+        }
+</style>
+<script type="text/javascript">
+
+    /***********************************************
+    * Memory Scroller script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+    ***********************************************/
+
+    var memorywidth = "960px" //scroller width
+    var memoryheight = "25px" //scroller height
+    var memorybgcolor = "#990000" //scroller background
+    var memorypadding = "0px" //padding applied to the scroller. 0 for non.
+    var borderCSS = "border: 0px;" //Border CSS, applied to scroller to give border.
+
+    var memoryspeed = 2 //Scroller speed (larger is faster 1-10)
+    var pauseit = 1 //Pause scroller onMousever (0=no. 1=yes)?
+
+    var persistlastviewedmsg = 1 //should scroller's position persist after users navigate away (1=yes, 0=no)?
+    var persistmsgbehavior = "onload" //set to "onload" or "onclick".
+
+    //Specify the scroller's content (don't delete <nobr> tag)
+    //Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+    var memorycontent = '<nobr>Hydrologic Statement issued for: <a href="/weather/alerts/Colusa/Hydrologic-Statement" class="radSevereWxRotatorLink">Colusa</a>    |    Flood Warning issued for: <a href="/weather/alerts/Colusa/Flood-Warning" class="radSevereWxRotatorLink">Colusa</a>    |    Flood Advisory issued for: <a href="/weather/alerts/Amador/Flood-Advisory" class="radSevereWxRotatorLink">Amador</a>, <a href="/weather/alerts/Calaveras/Flood-Advisory" class="radSevereWxRotatorLink">Calaveras</a>, <a href="/weather/alerts/El%20Dorado/Flood-Advisory" class="radSevereWxRotatorLink">El Dorado</a></nobr>'
+
+    ////NO NEED TO EDIT BELOW THIS LINE////////////
+    var combinedcssTable = "width:" + (parseInt(memorywidth) + 6) + "px;background-color:" + memorybgcolor + ";padding:" + memorypadding + ";" + borderCSS + ";"
+    var combinedcss = "width:" + memorywidth + ";height:" + memoryheight + ";"
+
+    var divonclick = (persistlastviewedmsg && persistmsgbehavior == "onclick") ? 'onClick="savelastmsg()" ' : ''
+    memoryspeed = (document.all) ? memoryspeed : Math.max(1, memoryspeed - 1) //slow speed down by 1 for NS
+    var copyspeed = memoryspeed
+    var pausespeed = (pauseit == 0) ? copyspeed : 0
+    var iedom = document.all || document.getElementById
+    if (iedom)
+        document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-10000px">' + memorycontent + '</span>')
+    var actualwidth = ''
+    var memoryscroller
+
+    if (window.addEventListener)
+        window.addEventListener("load", populatescroller, false)
+    else if (window.attachEvent)
+        window.attachEvent("onload", populatescroller)
+    else if (document.all || document.getElementById)
+        window.onload = populatescroller
+
+    function populatescroller() {
+        memoryscroller = document.getElementById ? document.getElementById("memoryscroller") : document.all.memoryscroller
+        memoryscroller.style.left = parseInt(memorywidth) + 8 + "px"
+        if (persistlastviewedmsg && get_cookie("lastscrollerpos") != "")
+            revivelastmsg()
+        memoryscroller.innerHTML = memorycontent
+        actualwidth = document.all ? temp.offsetWidth : document.getElementById("temp").offsetWidth
+        lefttime = setInterval("scrollmarquee()", 20)
+    }
+
+    function get_cookie(Name) {
+        var search = Name + "="
+        var returnvalue = ""
+        if (document.cookie.length > 0) {
+            offset = document.cookie.indexOf(search)
+            if (offset != -1) {
+                offset += search.length
+                end = document.cookie.indexOf(";", offset)
+                if (end == -1)
+                    end = document.cookie.length;
+                returnvalue = unescape(document.cookie.substring(offset, end))
+            }
+        }
+        return returnvalue;
+    }
+
+    function savelastmsg() {
+        document.cookie = "lastscrollerpos=" + memoryscroller.style.left
+    }
+
+    function revivelastmsg() {
+        lastscrollerpos = parseInt(get_cookie("lastscrollerpos"))
+        memoryscroller.style.left = parseInt(lastscrollerpos) + "px"
+    }
+
+    if (persistlastviewedmsg && persistmsgbehavior == "onload")
+        window.onunload = savelastmsg
+
+    function scrollmarquee() {
+        if (parseInt(memoryscroller.style.left) > (actualwidth * (-1) + 8))
+            memoryscroller.style.left = parseInt(memoryscroller.style.left) - copyspeed + "px"
+        else
+            memoryscroller.style.left = parseInt(memorywidth) + 8 + "px"
+    }
+
+    if (iedom) {
+        with (document) {
+            // document.write('<table border="0" cellspacing="0" cellpadding="0" style="' + combinedcssTable + '"><tr><td>')
+            write('<div style="position:relative;overflow:hidden;' + combinedcss + '" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=memoryspeed">')
+            write('<div id="memoryscroller" class="radSevereWxRotatorContainer" style="position:absolute;left:0px;top:0px;" ' + divonclick + '></div>')
+            write('</div>')
+            //document.write('</td></tr></table>')
+        }
+    }
+</script><span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-10000px"><nobr>Hydrologic Statement issued for: <a href="/weather/alerts/Colusa/Hydrologic-Statement" class="radSevereWxRotatorLink">Colusa</a>    |    Flood Warning issued for: <a href="/weather/alerts/Colusa/Flood-Warning" class="radSevereWxRotatorLink">Colusa</a>    |    Flood Advisory issued for: <a href="/weather/alerts/Amador/Flood-Advisory" class="radSevereWxRotatorLink">Amador</a>, <a href="/weather/alerts/Calaveras/Flood-Advisory" class="radSevereWxRotatorLink">Calaveras</a>, <a href="/weather/alerts/El%20Dorado/Flood-Advisory" class="radSevereWxRotatorLink">El Dorado</a></nobr></span><div style="position:relative;overflow:hidden;width:960px;height:25px;" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=memoryspeed"><div id="memoryscroller" class="radSevereWxRotatorContainer" style="position: absolute; left: 871px; top: 0px;"><nobr>Hydrologic Statement issued for: <a href="/weather/alerts/Colusa/Hydrologic-Statement" class="radSevereWxRotatorLink">Colusa</a>    |    Flood Warning issued for: <a href="/weather/alerts/Colusa/Flood-Warning" class="radSevereWxRotatorLink">Colusa</a>    |    Flood Advisory issued for: <a href="/weather/alerts/Amador/Flood-Advisory" class="radSevereWxRotatorLink">Amador</a>, <a href="/weather/alerts/Calaveras/Flood-Advisory" class="radSevereWxRotatorLink">Calaveras</a>, <a href="/weather/alerts/El%20Dorado/Flood-Advisory" class="radSevereWxRotatorLink">El Dorado</a></nobr></div></div>
+</center>
+</div>
+
+</div>
 
 
 
+        <div class="gtv_webalerts">
+            <div class="gtv_webalert_livevideo_container">
+    <a href="/video/liveonline/default.aspx"> News10 at 5 p.m. and 6 p.m.</a>
+            </div>
+        </div> 
+        <div style="clear: both;"></div>  
+    
 
 
 <span><!--There was an error loading the web alert for 0--></span>
-
- 
+<div class="gtv_clear"> 
 
 		<div class="gtv_padding10_0_20_0">
 			<div id="gtv_penad_container">
-				<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_0" class=" gel-hidden"><script id="__gelement_1" src="https://gannett.gcion.com/addyn/3.0/5111.1/133600/0/-1/ADTECH;alias=news.news10.net_launchpad_SF;cookie=info;loc=100;target=_blank;grp=71216;misc=1582554374000;size=728x90;noperf=1;key=news10.net+Sacramento+CA;kvtitle=news10.net--Sacramento%2C-CA"></script>
-</div>
-</div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
+				<div id="adcontainer___gelement_adbanner_0_0"></div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
 			</div>
 		</div>    
 		<div id="gtv_content">
@@ -899,7 +971,7 @@ Sys.Application._enableHistoryInScriptManager();
 			</div>
 		</div>
 		<div class="gtv_728x90_container">
-			<div id="adcontainer___gelement_adbanner_1"></div><banner position="728x90_2" id="__gelement_adbanner_1"></banner>
+			<div id="adcontainer___gelement_adbanner_1_0"></div><banner position="728x90_2" id="__gelement_adbanner_1"></banner>
 		</div>
 		
 <div style="clear: both;">
@@ -927,7 +999,7 @@ Sys.Application._enableHistoryInScriptManager();
 	<div id="ctl00_footer_FooterSitemap" class="RadSiteMap RadSiteMap_GTV">
 	<ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
 		<li class="rsmItem"><a class="rsmLink" href="/default.aspx" title="News10 Home ">Home</a></li><li class="rsmItem"><a class="rsmLink" href="/news/default.aspx" title="Sacramento News ">News</a><ul class="rsmList rsmLevel1">
-			<li class="rsmItem"><a class="rsmLink" href="/news/local/default.aspx" title="Local Sacramento News">Local</a></li><li class="rsmItem"><a class="rsmLink" href="/myne/default.aspx">Neighborhood News</a></li><li class="rsmItem"><a class="rsmLink" href="/news/whatsbugginyou/default.aspx">What's Buggin' You</a></li><li class="rsmItem"><a class="rsmLink" href="/crimemaps/default.aspx">Crime Maps</a></li><li class="rsmItem"><a class="rsmLink" href="/news/california/default.aspx">California News</a></li><li class="rsmItem"><a class="rsmLink" href="/life/entertainment/default.aspx">Entertainment</a></li><li class="rsmItem"><a class="rsmLink" href="/news/health/default.aspx">Life/Health</a></li><li class="rsmItem"><a class="rsmLink" href="/news/education/default.aspx">Education</a></li><li class="rsmItem"><a class="rsmLink" href="/news/politics_govt/default.aspx">Politics</a></li><li class="rsmItem"><a class="rsmLink" href="/news/watchdogs/default.aspx">News10 Watchdogs</a></li><li class="rsmItem"><a class="rsmLink" href="/news/specialreports/">Special Reports</a></li>
+			<li class="rsmItem"><a class="rsmLink" href="/news/local/default.aspx" title="Local Sacramento News">Local</a></li><li class="rsmItem"><a class="rsmLink" href="/myne/default.aspx">Neighborhood News</a></li><li class="rsmItem"><a class="rsmLink" href="/news/stockton-in-crisis/default.aspx">Stockton in Crisis</a></li><li class="rsmItem"><a class="rsmLink" href="/crimemaps/default.aspx">Crime Maps</a></li><li class="rsmItem"><a class="rsmLink" href="/news/california/default.aspx">California News</a></li><li class="rsmItem"><a class="rsmLink" href="/life/entertainment/default.aspx">Entertainment</a></li><li class="rsmItem"><a class="rsmLink" href="/news/lifestyle/default.aspx">Lifestyle &amp; Fun</a></li><li class="rsmItem"><a class="rsmLink" href="/news/education/default.aspx">Education</a></li><li class="rsmItem"><a class="rsmLink" href="http://www.news10.net/common/elections/default.aspx">Election 2012</a></li>
 		</ul></li>
 	</ul><ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
 		<li class="rsmItem"><a class="rsmLink" href="/weather/default.aspx" title="Weather Home">Weather</a><ul class="rsmList rsmLevel1">
@@ -935,15 +1007,15 @@ Sys.Application._enableHistoryInScriptManager();
 		</ul></li>
 	</ul><ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
 		<li class="rsmItem"><a class="rsmLink" href="/video/default.aspx" title="Sacramento News Video">Video</a><ul class="rsmList rsmLevel1">
-			<li class="rsmItem"><a class="rsmLink" href="/video/liveonline/default.aspx" title="Watch live coverage">Live streaming</a></li><li class="rsmItem"><a class="rsmLink" href="/video/abcplayer1.aspx" title="Watch ABC shows online">Watch ABC shows</a></li><li class="rsmItem"><a class="rsmLink" href="/life/content/goodfeet/default-videoplayer.aspx">Health Minute</a></li><li class="rsmItem"><a class="rsmLink" href="/video/upload/default.aspx" title="Upload your original videos to news10.net">Upload Video</a></li>
+			<li class="rsmItem"><a class="rsmLink" href="/video/liveonline/default.aspx" title="Watch live coverage">Live streaming</a></li><li class="rsmItem"><a class="rsmLink" href="/video/newscasts/" title="Watch News10 Newscasts">Newscasts</a></li><li class="rsmItem"><a class="rsmLink" href="/video/abcplayer1.aspx" title="Watch ABC shows online">Watch ABC shows</a></li><li class="rsmItem"><a class="rsmLink" href="/life/content/goodfeet/default-videoplayer.aspx">Health Minute</a></li><li class="rsmItem"><a class="rsmLink" href="/video/upload/default.aspx" title="Upload your original videos to news10.net">Upload Video</a></li>
 		</ul></li><li class="rsmItem"><a class="rsmLink" href="/sports/default.aspx" title="Sports Home">Sports</a><ul class="rsmList rsmLevel1">
-			<li class="rsmItem"><a class="rsmLink" href="http://sacramento.highschoolsports.net">HighSchoolSports.net</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/extra/">Toyota Sports Extra</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_baseball/">MLB News</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_football/nfl/">NFL News</a></li><li class="rsmItem"><a class="rsmLink" href="/news/local/article/155067/2/Sign-up-for-the-News10-Pro-Football-Pick-em-and-win-">Pro Football Pick 'Em Contest</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_hockey/">NHL News</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_basketball/">NBA News</a></li><li class="rsmItem"><a class="rsmLink" href="http://topics.gannett.com/nascar/?template=news10">NASCAR</a></li><li class="rsmItem"><a class="rsmLink" href="http://bit.ly/hp882N">NCAA March Madness</a></li><li class="rsmItem"><a class="rsmLink" href="http://www.usatoday.com/sports/sports-quiz.htm" title="Weekly Sports Quiz">Sports Quiz: Test your sports knowledge</a></li><li class="rsmItem"><a class="rsmLink" href="http://bit.ly/98bwbP">Fantasy Sports</a></li>
+			<li class="rsmItem"><a class="rsmLink" href="http://sacramento.highschoolsports.net">HighSchoolSports.net</a></li><li class="rsmItem"><a class="rsmLink" href="/life/contests/pro-pickem/">Pro-Football Pick'em</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/extra/">Toyota Sports Extra</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_baseball/">MLB News</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_football/nfl/">NFL News</a></li><li class="rsmItem"><a class="rsmLink" href="/photos/sports/">Sports Photos</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_hockey/">NHL News</a></li><li class="rsmItem"><a class="rsmLink" href="/sports/pro_basketball/">NBA News</a></li><li class="rsmItem"><a class="rsmLink" href="http://topics.gannett.com/nascar/?template=news10">NASCAR</a></li><li class="rsmItem"><a class="rsmLink" href="http://www.usatoday.com/sports/sports-quiz.htm" title="Weekly Sports Quiz">Sports Quiz: Test your sports knowledge</a></li><li class="rsmItem"><a class="rsmLink" href="http://bit.ly/98bwbP">Fantasy Sports</a></li><li class="rsmItem"><a class="rsmLink" href="http://seatgeek.com/sacramento-california-sports-tickets" title="Buy ticket for Sporting event."><img src="/common/v5/graphics/icons/icon_tix.png" align="left" style="padding-right:5px;" border="0"> Buy Tickets</a></li>
 		</ul></li>
 	</ul><ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
 		<li class="rsmItem"><a class="rsmLink" href="/life/community/default.aspx" title="Community Home">Community</a><ul class="rsmList rsmLevel1">
-			<li class="rsmItem"><a class="rsmLink" href="/life/community/events/coatsforkids/default.aspx">Coats for Kids</a></li><li class="rsmItem"><a class="rsmLink" href="/sendit/default.aspx" title="Send in Your Photos and Video">Sendit</a></li><li class="rsmItem"><a class="rsmLink" href="/hangup/default.aspx">The Great Hang Up</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/galleriespublic.aspx" title="Photo Galleries | SendIt | News and Weather for Sacramento, Stockton, Modesto, and Tahoe, California | News10.net">Photo Galleries</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/blogs.aspx" title="News10 Staff Blogs">News10 Blogs</a></li><li class="rsmItem"><a class="rsmLink" href="http://www.sacandco.net">Sacramento and Company</a></li><li class="rsmItem"><a class="rsmLink" href="/news/education/totm/default.aspx">Teacher of the Month</a></li><li class="rsmItem"><a class="rsmLink" href="/life/contests/default.aspx">Contests</a></li><li class="rsmItem"><a class="rsmLink" href="http://events.news10.net/">Community Calendar</a></li><li class="rsmItem"><a class="rsmLink" href="http://directory.news10.net/">Local Business Directory</a></li><li class="rsmItem"><a class="rsmLink" href="/slideshows/default.aspx" title="News10 Slideshows">News Slideshows</a></li>
+			<li class="rsmItem"><a class="rsmLink" href="/life/community/events/coatsforkids/default.aspx">Coats for Kids</a></li><li class="rsmItem"><a class="rsmLink" href="/sendit/default.aspx" title="Send in Your Photos and Video">Sendit</a></li><li class="rsmItem"><a class="rsmLink" href="/news/reading_connects/default.aspx">Reading Connects</a></li><li class="rsmItem"><a class="rsmLink" href="/news/reading_connects/10books/default.aspx">10 Books to Read</a></li><li class="rsmItem"><a class="rsmLink" href="/hangup/default.aspx">The Great Hang Up</a></li><li class="rsmItem"><a class="rsmLink" href="/photos/news/" title="News10 Slideshows">News Slideshows</a></li><li class="rsmItem"><a class="rsmLink" href="http://www.sacandco.net">Sac &amp; Co</a></li><li class="rsmItem"><a class="rsmLink" href="/news/education/totm/default.aspx">Teacher of the Month</a></li><li class="rsmItem"><a class="rsmLink" href="/life/contests/default.aspx">Contests</a></li><li class="rsmItem"><a class="rsmLink" href="http://events.news10.net/">Community Calendar</a></li>
 		</ul></li><li class="rsmItem"><a class="rsmLink" href="/company/contact_us/default.aspx">Contact Us</a><ul class="rsmList rsmLevel1">
-			<li class="rsmItem"><a class="rsmLink" href="/company/contact_us/faq.aspx" title="Frequently Asked Questions">FAQs</a></li><li class="rsmItem"><a class="rsmLink" href="/company/contact_us/newstips/" title="Send in story tips">News or Story tips</a></li><li class="rsmItem"><a class="rsmLink" href="/company/bios/default.aspx">Bios</a></li><li class="rsmItem"><a class="rsmLink" href="/company/jobs/default.aspx">Jobs</a></li><li class="rsmItem"><a class="rsmLink" href="/company/internships/default.aspx">Internships</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/public-service.aspx">Public Appearances/Station Tours</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/story.aspx?storyid=43031&amp;catid=94">Gannett Foundation</a></li><li class="rsmItem"><a class="rsmLink" href="/company/advertise/default.aspx">Advertise With Us</a></li><li class="rsmItem"><a class="rsmLink" href="/company/contact_us/cc/default.aspx">Closed Captioning Complaints</a></li><li class="rsmItem"><a class="rsmLink" href="/news/mobile/text.aspx" title="Text Alerts on your mobile phone">Sign up for Text Alerts</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/station/default.aspx">Daily TV Schedule</a></li>
+			<li class="rsmItem"><a class="rsmLink" href="/company/contact_us/faq.aspx" title="Frequently Asked Questions">FAQs</a></li><li class="rsmItem"><a class="rsmLink" href="/news/article/202252/339/About-News10">About Us</a></li><li class="rsmItem"><a class="rsmLink" href="/company/contact_us/newstips/" title="Send in story tips">News or Story tips</a></li><li class="rsmItem"><a class="rsmLink" href="/company/bios/default.aspx">Bios</a></li><li class="rsmItem"><a class="rsmLink" href="/company/jobs/default.aspx">Jobs</a></li><li class="rsmItem"><a class="rsmLink" href="/company/internships/default.aspx">Internships</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/public-service.aspx">Public Appearances/Station Tours</a></li><li class="rsmItem"><a class="rsmLink" href="/life/community/story.aspx?storyid=43031&amp;catid=94">Gannett Foundation</a></li><li class="rsmItem"><a class="rsmLink" href="/company/advertise/default.aspx">Advertise With Us</a></li><li class="rsmItem"><a class="rsmLink" href="/company/contact_us/cc/default.aspx">Closed Captioning Complaints</a></li><li class="rsmItem"><a class="rsmLink" href="/news/mobile/text.aspx" title="Text Alerts on your mobile phone">Sign up for Text Alerts</a></li><li class="rsmItem"><a class="rsmLink" href="/life/programming/station/default.aspx">Daily TV Schedule</a></li>
 		</ul></li>
 	</ul><input id="ctl00_footer_FooterSitemap_ClientState" name="ctl00_footer_FooterSitemap_ClientState" type="hidden">
 </div>
@@ -952,7 +1024,8 @@ Sys.Application._enableHistoryInScriptManager();
 <div id="gtv_footer_help_container">
 	<ul>
 		<li><h4>HELPFUL LINKS</h4></li>
-		<li><a href="/company/reports/">EEO Public File</a></li>
+		<li><a href="/company/reports/">EEO Public File Report</a></li>
+		<li><a href="/company/fcc/">FCC Online Public Inspection File</a></li>
 		<li><a href="http://circularcentral.shoplocal.com/kxtv/default.aspx?citystatezip=sacramento+ca" target="_blank">Weekly deals</a></li>
         <li><a href="http://register.dealchicken.com/BC15SM/home" target="_blank">Sign up for daily deals</a></li>
 
@@ -963,10 +1036,11 @@ Sys.Application._enableHistoryInScriptManager();
 	<li class="icn_follow_headline"><h4>FOLLOW US</h4></li>
 	<li class="icn_follow_twitter"><a href="http://www.twitter.com/News10_CA" target="_blank">Twitter</a></li>
 	<li class="icn_follow_facebook"><a href="http://www.facebook.com/news10" target="_blank">Facebook</a></li>
-	<li class="icn_follow_mobile"><a href="/news/mobile/mobile.aspx">Mobile</a></li>
+	<li class="icn_follow_mobile"><a href="http://www.news10.net/news/local/story.aspx?storyid=82315">Mobile</a></li>
 	<li class="icn_follow_rss"><a href="/rss/">RSS</a></li>
 	<li class="icn_follow_email"><a href="/services/default.aspx">E-mail Alerts</a></li>
 	<li class="icn_follow_text"><a href="/news/mobile/text.aspx">Text Alerts</a></li>
+    <li class="icn_follow_connectv"><a href="http://www.connectv.com/kxtv" target="_blank">ConnecTV</a></li>
 	</ul>
 </div>
 		<div id="gtv_pd_search">
@@ -986,14 +1060,15 @@ Sys.Application._enableHistoryInScriptManager();
 	<ul>
 		<li><a href="http://www.abc.com/" target="_blank"><img src="/graphics/footer/partners/partner-abc.jpg"></a></li>
 		<li><a href="http://www.gannett.com/" target="_blank"><img src="/common/v5/graphics/footer/gannettlogo.jpg"></a></li>
-		<li><a href="http://www.usatoday.com/" target="_blank"><img src="/graphics/footer/partners/partner-usat.jpg"></a></li>
+		<li><a href="http://www.usatoday.com/" target="_blank"><img src="/graphics/footer/partners/partner-usat-new.jpg"></a></li>
 		<li><a href="/company/jobs/default.aspx"><img src="/graphics/footer/partners/partner-careerbuilder.jpg"></a></li>
 		<li><a href="http://www.captivate.com" target="_blank"><img src="/graphics/footer/partners/partner-captivate.jpg"></a></li>
+          <li><a href="http://connectv.com/kxtv" target="_blank"><img src="/common/v5/graphics/footer/connectv-80.gif" alt="ConnecTV" width="80" height="19" border="0" title="ConnecTV"></a></li>
 	</ul>
 </div>	
 <div class="gtv_clear"></div>
 <div id="gtv_footer_copyright">
-	Copyright ©2011
+	Copyright ©2012
 	News10.net. All rights reserved.<br>
 	Users of this site agree to the <a href="/terms/">Terms of Service</a> and <a href="/privacy/">
 		Private Policy/California Privacy Rights</a>
@@ -1068,6 +1143,7 @@ return queryString(key);
  s.prop20 = "";
  s.prop8 = "";
  s.prop23=document.location.href;
+
  s.prop41 = "";
 
 /* Override any s_code.js default settings here */
@@ -1088,7 +1164,7 @@ document.write(unescape("%3Cscript src='" + (document.location.protocol == "http
 
 (function() { 
 	GEL.use('http://content.gannettonline.com/global/scripts/revsci.js',function(){
-    GEL.use('http://js.revsci.net/gateway/gw.js?csid=J06575',function(){
+	GEL.use('http://js.revsci.net/gateway/gw.js?csid=J06575',function(){
 	
 	 var now = new Date();
 	 var gciYear = now.getYear();
@@ -1098,15 +1174,15 @@ document.write(unescape("%3Cscript src='" + (document.location.protocol == "http
 	 DM_cat("broadcast > " + escape(s.prop6) + " > "  +  escape(s.prop7) );
 	 DM_tag();
 																	  
-    if (rsinetsegs.length > 0)
-    	{
-        	if (!RevSci.HasSegmentCookie())
-        		{
-            		RevSci.Rpc.Send(RevSci.RequestUrl(rsinetsegs));
-            		RevSci.Cookie.Set(revsci_Cookie, true);
-		        }		
-            }
-        })
+	if (rsinetsegs.length > 0)
+		{
+			if (!RevSci.HasSegmentCookie())
+				{
+					RevSci.Rpc.Send(RevSci.RequestUrl(rsinetsegs));
+					RevSci.Cookie.Set(revsci_Cookie, true);
+				}		
+			}
+		})
 	})
 })();
 //-->
@@ -1138,4 +1214,4 @@ Sys.Application.add_init(function() {
 	</script> 
 
 
-</div></form></body></html>
+</div></div></form></body></html>
