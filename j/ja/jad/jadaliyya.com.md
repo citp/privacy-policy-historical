@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jadaliyya.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603140404id_/http%3A//jadaliyya.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadaliyya.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202151435id_/http%3A//jadaliyya.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jadaliyya
 
@@ -35,4 +35,6 @@ We may use the information that we collect to send you e-mail communications, su
 
 We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the "Effective Date." We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account.
 
-_Effective Date: May 20, 2011  _
+_Effective Date: May 20, 2011_
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur vestibulum justo et molestie. Morbi convallis ornare ultricies. Duis bibendum ultricies tristique. Mauris semper ipsum vitae ante mollis cursus. Donec ornare, ante id accumsan dapibus, felis nibh pretium felis, in malesuada felis lorem vitae nisl. In a molestie mi. Ut nec dolor at purus eleifend fringilla.
