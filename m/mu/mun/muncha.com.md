@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042305id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202011001id_/http%3A//www.shop.muncha.com/Content.aspx%3FSHOW%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Send gifts and money to Nepal, Online shopping Nepal, gifts in Nepal: Muncha.com
 
@@ -9,7 +9,7 @@
 Protecting your privacy is important to us. We hope the following statement will help you understand how muncha.com collects, uses and safeguards the personal information you provide to us on our site.
 
 muncha.com adheres to the highest standards in our customers' privacy. All information (including customer accounts, transactions, and all correspondence) is handled with the utmost discretion.   
-muncha.com is a division of Muncha LLC. The policies below are applicable to muncha.com and/or its affiliates. 
+muncha.com is a division of Muncha Internet Ventures. The policies below are applicable to muncha.com and/or its affiliates. 
 
 **Collection of Personal Information**
 
@@ -31,21 +31,24 @@ Receiving email messages from muncha.com is optional.
 
 You may choose not to receive e-mail, even after granting prior permission, or you may wish to correct information you previously provided. If you do not wish to receive e-mail or wish to correct information you provided to www.muncha.com, please send an e-mail message to info@muncha.com. Or, you can write to us at the following address:
 
-**Muncha LLC  
-4009 White Porch Road  
-Plano, TX 75024  
-USA**  
-Toll Free: 1-888-357-6348  
+**Muncha Internet Ventures  
+Kupondol  
+P O Box: 1255   
+Lalitpur, Nepal **  
+Phone: 977-1-5539414, 5535757  
 E-mail: [info@muncha.com](mailto:info@muncha.com)
 
-Nepal  
-Kupondol  
-PO Box 1255  
-Lalitpur, Nepal  
-Phone: 977-1-5539414, 5535757
+USA  
+Phone: 1-859-215-0093, 1-888-357-6348 (USA toll free )
 
 UK  
 Phone: 44 0207 078 7349
+
+Australia  
+Phone: 6-(128)-310-4158
+
+France  
+Phone: 33 (0)1 7666 0612
 
   
 muncha.com will use reasonable efforts to delete records from our database when we receive requests to do so; however because of possible retention of a residual copy in a system backup file, we cannot guarantee deletion in every instance. 
