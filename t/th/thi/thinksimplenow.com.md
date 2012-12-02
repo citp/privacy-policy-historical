@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinksimplenow.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603031149id_/http%3A//thinksimplenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinksimplenow.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202164659id_/http%3A//thinksimplenow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Think Simple Now
 
@@ -62,4 +62,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Popular search terms for this article:
 
-[simple privacy policy](http://thinksimplenow.com/privacy/ "simple privacy policy"), [sample simple privacy policy](http://thinksimplenow.com/privacy/ "sample simple privacy policy"), [simple private policy example](http://thinksimplenow.com/privacy/ "simple private policy example"), [Susan Jeffers African Mango](http://thinksimplenow.com/privacy/ "Susan Jeffers African Mango"), [think simple now unsubscribe](http://thinksimplenow.com/privacy/ "think simple now unsubscribe"), [thinksimply website](http://thinksimplenow.com/privacy/ "thinksimply website"), [how to unsubscribe think simple now from facebook](http://thinksimplenow.com/privacy/ "how to unsubscribe think simple now from facebook"), [to process transactions privacy sample simple](http://thinksimplenow.com/privacy/ "to process transactions privacy sample simple"), [unsubscribe](http://thinksimplenow.com/privacy/ "unsubscribe"), [We collect information from you when you place an order subscribe to our newsletter or respond to a survey](http://thinksimplenow.com/privacy/ "We collect information from you when you place an order subscribe to our newsletter or respond to a survey")
+[simple privacy policy](http://thinksimplenow.com/privacy/ "simple privacy policy"), [PrivacyPolicy|ThinkSimpleNow](http://thinksimplenow.com/privacy/ "PrivacyPolicy|ThinkSimpleNow"), [sample of simple privacy potection policy](http://thinksimplenow.com/privacy/ "sample of simple privacy potection policy")
