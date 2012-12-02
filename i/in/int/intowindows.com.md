@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intowindows.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620165203id_/http%3A//www.intowindows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intowindows.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202021117id_/http%3A//www.intowindows.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
