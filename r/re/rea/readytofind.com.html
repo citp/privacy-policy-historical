@@ -1,0 +1,309 @@
+<!--The following is the downloaded HTML source of the readytofind.com privacy policy that was archived on 2012-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121202051619id_/http%3A//www.readytofind.com/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>ReadyToFind a 100% Human edited web directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/readytofind/style/main.css">
+<link rel="stylesheet" type="text/css" href="/templates/readytofind/style/fileuploader.css">
+<meta name="keywords" content="web directory,submit website,business directory,reciprocal link,submit site,submit article,submit link,submit url,add url,add site,list web directory,web link directory,web address directory,link web directory,directory web page">
+<meta name="description" content="ReadyToFind a 100% Human edited web directory. We review your link in 48 hours maximum and we made it personally, no automatic moderation systems are in place on our directory. We offer a free link submission as well as a featured paid one.">
+<meta name="author" content="ReadyToFind Web Directory">
+<meta name="copyright" content="Copyright (c) 2012 by ReadyToFind Web Directory. All rights reserved!">
+<meta name="netinsert" content="0.0.1.3.1.11.1.1">
+<meta http-equiv="Content-Language" content="en-US">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.readytofind.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+												jQuery.validator.messages.required = "This field is required.";
+																jQuery.validator.messages.remote = "Please fix this field.";
+																jQuery.validator.messages.email = "Invalid email address format.";
+																jQuery.validator.messages.url = "Invalid URL.";
+																jQuery.validator.messages.date = "Invalid date format.";
+																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+																jQuery.validator.messages.number = "Required numeric field.";
+																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+																jQuery.validator.messages.digits = "Required integer field.";
+																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+																jQuery.validator.messages.equalTo = "Please enter the same value again.";
+																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+									
+		
+		function fireEvent(obj, evt) {
+            var fireOnThis = obj;
+            if (document.createEvent) {
+              var evObj = document.createEvent('MouseEvents');
+                evObj.initEvent(evt, true, false);
+                fireOnThis.dispatchEvent(evObj);
+            } else if (document.createEventObject) {
+                fireOnThis.fireEvent('on'+evt);
+            }
+        }
+		
+		//valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+                onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+				
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+        $("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+    });
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+												jQuery.validator.messages.required = "This field is required.";
+																jQuery.validator.messages.remote = "Please fix this field.";
+																jQuery.validator.messages.email = "Invalid email address format.";
+																jQuery.validator.messages.url = "Invalid URL.";
+																jQuery.validator.messages.date = "Invalid date format.";
+																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+																jQuery.validator.messages.number = "Required numeric field.";
+																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+																jQuery.validator.messages.digits = "Required integer field.";
+																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+																jQuery.validator.messages.equalTo = "Please enter the same value again.";
+																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+									
+		
+		function fireEvent(obj, evt) {
+            var fireOnThis = obj;
+            if (document.createEvent) {
+              var evObj = document.createEvent('MouseEvents');
+                evObj.initEvent(evt, true, false);
+                fireOnThis.dispatchEvent(evObj);
+            } else if (document.createEventObject) {
+                fireOnThis.fireEvent('on'+evt);
+            }
+        }
+		
+		//valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+                onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+				
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+        $("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+    });
+});
+</script>
+<div id="topwrapper">
+<div id="top">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table id="login" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><label>Username:</label></td>
+<td><input type="text" name="user" value="" size="20" maxlength="25" class="text"></td>
+<td><label>Password:</label></td>	
+<td><input type="password" name="pass" value="" size="20" maxlength="25" class="text"></td>
+<td><input class="button" type="submit" name="login" value="Login"></td>
+<td class="sep"><div id="loginsplit"></div></td>
+<td><a href="/profile.php?mode=register" title="Register">Register to ReadyToFind</a></td>
+</tr>
+</tbody></table>
+<a class="lostpassword" href="/profile.php?mode=sendpassword" title="Recover your password">Lost password?</a>
+<img src="/templates/readytofind/images/lost.gif" alt="lost password">
+<input type="hidden" name="formSubmitted" value="1">
+</form>
+</div>
+</div>
+<div id="headerwrapper">
+<div id="header">
+<a class="logo" href="/"><img src="/templates/readytofind/images/logo.gif" alt="ReadyToFind a 100% Human edited web directory"></a>
+<div id="searchmenu">
+<div class="left"></div>
+<div class="center">
+<div id="searchtop">
+<form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px" id="search_form">
+<div id="inputleft"></div>
+<input onfocus="javascript: if (this.value=='Search') this.value='';" type="text" value="Search" name="search">
+<div id="inputright"></div>
+<button type="submit"></button>
+</form>
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow"><font color="#312783">Advanced</font><br><font color="#312783">Search</font></a>
+</div>
+<script type="text/javascript">
+
+var view1 = 0;
+var view2 = 0;
+
+</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/submit.php">»&nbsp;&nbsp;Link</a><br><a href="/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar2').style.display='block';" onmouseout="if(view2==0) document.getElementById('bar2').style.display='none';"><span class="dropdown">Latest</span></a><div id="bar2" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/latest-links.html">»&nbsp;&nbsp;Latest Links</a><a href="/latest-articles.html" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Latest Articles</a></div></li><li><div class="split"></div></li><li><a href="/top-hits.html" title="Browse most popular links"><span>Top Hits</span></a></li><li><div class="split"></div></li><li><a href="/contact.php">Contact</a></li></ul></div></div><div class="right"></div><a class="rss" href="/rss.php?c="><img src="/templates/readytofind/images/rss.jpg" alt="RSS"></a></div></div></div><div id="contentwrapper"><div id="content"><div id="contentTop"></div><div class="clear"></div><div id="contentMiddle"><div id="sideleft">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+</ul>
+</div><div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul><div class="path"><a href="/" id="firstPath">ReadyToFind Web Directory</a><span style="color:#E94E1B;"><b>Privacy Policy</b></span></div>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><table style="width: 750px;" border="0" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td><strong>ReadyToFind.com Privacy Statement</strong><br><br>We respect your privacy and we are committed to safeguarding your privacy while online at our site www.readytofind.com The following discloses the information gathering and dissemination practices for this website. <br><br><strong>Log Files</strong> <br><br>Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. <br><br><strong>Newsletter</strong> <br><br>If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. <br><br><strong>Cookies</strong><br><br>A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options. <br><br><strong>Links</strong><br><br>This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.<br><br><strong>Advertisers</strong><br><br>We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Chitika etc. Please check their websites for respective privacy policies. <br><br><strong>Contact Information</strong><br><br>If users have any questions or suggestions regarding our privacy policy, please contact us at: info@readytofind.com</td>
+</tr>
+</tbody>
+</table></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div id="sideright" style="width: 215px;">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+</ul>
+</div>
+<div class="clear"></div></div></div></div><div id="footerwrapper"><div id="footer"><div id="footercontent"><font color="#312783"><strong>© 2012 ReadyToFind a 100% Human edited web directory</strong></font></div></div></div>&nbsp;
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31731387-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<a title="Web Analytics" href="http://getclicky.com/66592691"><img alt="Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0"></a>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(66592691); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66592691ns.gif" /></p></noscript>
+</body></html>
