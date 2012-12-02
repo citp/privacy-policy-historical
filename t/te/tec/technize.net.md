@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the technize.net privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603040244id_/http%3A//www.technize.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technize.net privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202182809id_/http%3A//www.technize.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-This privacy policy applies to all the websites and blogs included in our network. The websites include:
-
-  1. [Technize.com](http://www.technize.com/)
-  2. [Technize.net](http://www.technize.net/)
-  3. [Teeeh.com](http://www.teeeh.com/)
-  4. [Certhacker.com](http://www.certhacker.com/)
-
-
+# Privacy Policy - Technize.NET
 
 If you have any questions about our privacy policy, you can [contact us](http://www.technize.net/contact/ "Contact us") from our website or email directly to usman@technize.com.
 
@@ -36,3 +27,9 @@ We send periodic updates to all the users who opt into our newsletter service. W
 ### Advertisements
 
 The sites in our network serve third party advertisements in order to support the expenses of the network sites. Some of the advertisers may use cookies or other web beacons in order to enhance the user’s online experience and display more relevant ads. You can also opt out of this type of advertisement. You can see [Google’s advertising and privacy policy](http://www.google.com/privacy/ads/). You may also visit [Network Advertising Opt out page](http://www.networkadvertising.org/managing/opt_out.asp) in order to get more information about the other networks that use cookies or other web beacons.
+
+Specifically, we may use Google Adsense for advertising on our site, here is an excerpt of advertising cookies from Google:
+
+> Google uses the [ DoubleClick cookie](http://support.google.com/adsense/bin/answer.py?answer=2839090) on publisher websites displaying AdSense for content ads. Subject to any applicable laws, rules and regulations, you will have the sole and exclusive right to use all data derived from your use of the DoubleClick cookie for any purpose related to your business, provided that Google may use and disclose this data subject to the terms of [Google’s advertising privacy policies](http://www.google.com/intl/en/privacy/ads/privacy-policy.html) and any applicable laws, rules and regulations.
+
+This Privacy Policy was last revised on November 5, 2012.
