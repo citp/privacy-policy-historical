@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrusinc.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628205401id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrusinc.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202152235id_/http%3A//www.toysrus.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
@@ -6,18 +6,18 @@ TOYS"R"US PRIVACY POLICY
 
 * * *
 
-  * [WHAT DOES THE TOYS"R"US PRIVACY POLICY COVER?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#cover)
-  * [WHAT INFORMATION DOES TOYS"R"US COLLECT? ](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#collect)
-  * [HOW DOES TOYS"R"US USE AND SHARE PERSONAL INFORMATION?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#share)
-  * [HOW IS MY PERSONAL INFORMATION PROTECTED?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#protect)
-  * [WHAT ARE MY CHOICES REGARDING HOW MY PERSONAL INFORMATION IS COLLECTED AND USED?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#choices)
-  * [WHAT ARE COOKIES AND HOW DOES TOYS"R"US USE THEM?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#cookies)
-  * [HOW CAN I UPDATE OR CHANGE MY PERSONAL INFORMATION?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#update)
-  * [WHAT IS TOYS"R"US' CHILDREN'S PRIVACY POLICY?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#children)
-  * [LINKED SITES](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#linked)
-  * [HOW TO CONTACT TOYS"R"US ](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#contact)
-  * [REVISIONS TO THE TOYS"R"US PRIVACY POLICY](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#revisions)
-  * [YOUR CALIFORNIA PRIVACY RIGHTS](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#california)
+  * [WHAT DOES THE TOYS"R"US PRIVACY POLICY COVER?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#cover)
+  * [WHAT INFORMATION DOES TOYS"R"US COLLECT? ](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#collect)
+  * [HOW DOES TOYS"R"US USE AND SHARE PERSONAL INFORMATION?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#share)
+  * [HOW IS MY PERSONAL INFORMATION PROTECTED?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#protect)
+  * [WHAT ARE MY CHOICES REGARDING HOW MY PERSONAL INFORMATION IS COLLECTED AND USED?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#choices)
+  * [WHAT ARE COOKIES AND HOW DOES TOYS"R"US USE THEM?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#cookies)
+  * [HOW CAN I UPDATE OR CHANGE MY PERSONAL INFORMATION?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#update)
+  * [WHAT IS TOYS"R"US' CHILDREN'S PRIVACY POLICY?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#children)
+  * [LINKED SITES](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#linked)
+  * [HOW TO CONTACT TOYS"R"US ](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#contact)
+  * [REVISIONS TO THE TOYS"R"US PRIVACY POLICY](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#revisions)
+  * [YOUR CALIFORNIA PRIVACY RIGHTS](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#california)
 
 
 
@@ -35,7 +35,7 @@ For purposes of this Privacy Policy, Toys"R"Us includes Toys"R"Us, Inc., Toys "R
 
 **By visiting a Toys"R"Us Site or Retail Store, participating in our rewards program or otherwise interacting with Toys"R"Us, you are accepting the practices described in this Privacy Policy. We suggest you review this Privacy Policy periodically, as it may be updated from time to time. This policy was last revised in April 2011.**
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -67,7 +67,7 @@ Each time you visit a Toys"R"Us Site, the web server may automatically collect c
 
 
 
-You have the choice to tell us not to collect and use this information. For more information, including how you can opt out, click here: [About Toys"R" Us Advertising](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#truadvertising)
+You have the choice to tell us not to collect and use this information. For more information, including how you can opt out, click here: [About Toys"R" Us Advertising](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#truadvertising)
 
 We operate cameras in our Retail Stores for security and operational purposes. Except for security and loss prevention purposes, we do not use these cameras to identify you personally. 
 
@@ -75,7 +75,7 @@ _Combined Information._
 
 Information you provide at our Retail Stores may be combined with information that you provide online at Toys"R"Us Sites, as well as with information about your product interests and purchases we collect automatically. The information you provide to Toys"R"Us may also be combined with demographic and other information that is available from other sources in order to allow Toys"R"Us to better communicate with you and enhance our customer service and your shopping experience.
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -111,7 +111,7 @@ _To Comply with Laws_ : Toys"R"Us may also disclose specific information when su
 
 _On Registries and Wish Lists_ : Registries and Wish Lists are made available for viewing by others. If you create your Registry or Wish List and elect to make it available online, your information will be accessible at Toysrus.com and Babiesrus.com and may be available at other sites as well. If you create your Registry or Wish List at Toysrus.com or Babiesrus.com, your Registry information may also be accessible at the Retail Stores.
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -122,7 +122,7 @@ Toys"R"Us uses industry-standard security techniques on the Toys"R"Us Sites to h
 
 "Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from Toys"R"Us asking for your personal information, do not respond. Toys"R"Us would not request your password, user name, credit card information, or other personal information through e-mail.
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -131,13 +131,13 @@ Toys"R"Us uses industry-standard security techniques on the Toys"R"Us Sites to h
 
 _Communications from Toys"R"Us_. From time to time, you may receive communications including mailings, telephone calls or e-mails from Toys"R"Us with information on products or services, discounts, special promotions, upcoming events or other offers from Toys"R"Us or its marketing partners. You may opt out of receiving e-mail communications by clicking the "Unsubscribe" link at the bottom of the e-mail received or [click here](https://secure.ed4.net/toysrus/preferencecenter/prefs.cfm) to unsubscribe from future e-mails. It may take us up to 10 days to complete this process, as permitted by law. You may opt out of receiving mailings or telephone calls by contacting us at contactus@toysrus.com or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787) and asking for a customer service representative who will instruct you on how you may opt out of receiving such communications. Please note that if you request that your name be removed from a Toys"R"Us mailing list, your name will be removed from all of the mailing lists maintained by Toys"R"Us. In addition, your personal information may be retained in the database for recordkeeping purposes and for internal research and analysis.
 
-_Interest-based advertising_. We participate in interest-based or behavioral advertising. This means that you may receive communications, special promotions, and see advertising on Toys"R"Us Sites tailored to how you browse or shop or you may see advertising for Toys"R"Us on other websites based on your particular interests and online activity. You have the choice to tell us not to collect and use this information. Learn more about this kind of advertising and how you can opt out by clicking here: [About "R" Us Advertising](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#truadvertising)
+_Interest-based advertising_. We participate in interest-based or behavioral advertising. This means that you may receive communications, special promotions, and see advertising on Toys"R"Us Sites tailored to how you browse or shop or you may see advertising for Toys"R"Us on other websites based on your particular interests and online activity. You have the choice to tell us not to collect and use this information. Learn more about this kind of advertising and how you can opt out by clicking here: [About "R" Us Advertising](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#truadvertising)
 
 **6\. What are cookies and how does Toys"R"Us use them?**
 
 The Toys"R"Us Sites use "cookies," which are small pieces of information stored by your browser on your computer's hard drive. The cookies are used to connect your computer with information stored about your preferences and product purchases both within the same website visit and from one visit to the next. (Some examples of this data include your account preferences, items added to your cart, user specific information on pages accessed and previous visits to the site.) The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies or how to disable cookies altogether. If you reject cookies, you may not be able to participate in certain activities or receive a presentation tailored to you.
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -146,7 +146,7 @@ The Toys"R"Us Sites use "cookies," which are small pieces of information stored 
 
 You may update or change your personal information by contacting us at contactus@toysrus.com or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787) and asking for a customer service representative, who will instruct you on how to update or change your personal information. To change your shipping or billing information for Toysrus.com or Babiesrus.com orders, log on, select "My Account" and make the appropriate changes.
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -155,7 +155,7 @@ You may update or change your personal information by contacting us at contactus
 
 The Toys"R"Us Sites do not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent. If Toys"R"Us learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personally identifiable information we have collected from children under 13, please contact us at contactus@toysrus.com or by calling 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787).
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -164,7 +164,7 @@ The Toys"R"Us Sites do not knowingly solicit or collect personally identifiable 
 
 The Toys"R"Us Sites may contain links to other sites, including content from other sites that is occasionally framed within a Toys"R"Us Site. If you access those links, you will leave the Toys"R"Us Sites. Toys"R"Us does not control those sites or their privacy practices, which may be different from this one. You should review the privacy policy of any site linked to or framed within a Toys"R"Us Site prior to providing any information on or to that site.
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -173,7 +173,7 @@ The Toys"R"Us Sites may contain links to other sites, including content from oth
 
 If you have questions or concerns about this Privacy Policy, please feel free to call us at 1-800-TOYSRUS (1-800-869-7787) or 1-888-BABYRUS (1-888-222-9787).
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -182,7 +182,7 @@ If you have questions or concerns about this Privacy Policy, please feel free to
 
 This Privacy Policy may be updated and revised from time to time, and we will post any changes to this policy. You agree that the information that we gather now will be subject to the Privacy Policy in effect at the time of use. We may contact you with notices concerning our Privacy Policy, but you should check the Toys"R"Us Sites periodically to review any changes.
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
@@ -191,14 +191,14 @@ This Privacy Policy may be updated and revised from time to time, and we will po
 
 This privacy policy describes how we may share your information for marketing purposes. It applies to all Toys"R"Us customers, including California residents:
 
-  * We share information with others only if we have your express consent. See above: [How does Toys"R"Us use and share personal informaion?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#share)
-  * We share your information with other parts of our business and with our service providers. See above: [How does Toys"R"Us use and share personal information?](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#share)
+  * We share information with others only if we have your express consent. See above: [How does Toys"R"Us use and share personal information?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#share)
+  * We share your information with other parts of our business and with our service providers. See above: [How does Toys"R"Us use and share personal information?](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#share)
 
 
 
-You may contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose. See above: [How to contact Toys"R"Us](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#contact)
+You may contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose. See above: [How to contact Toys"R"Us](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#contact)
 
- [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?subdisplay=privacy&display=safety#pageTop\(\))
+ [BACK TO TOP](http://www.toysrus.com/helpdesk/index.jsp?display=safety&subdisplay=privacy#pageTop\(\))
 
   
 
