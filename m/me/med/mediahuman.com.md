@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediahuman.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530105904id_/http%3A//www.mediahuman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediahuman.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202071127id_/http%3A//www.mediahuman.com/privacy.html) for the most accurate reproduction.*
 
 # MediaHuman Privacy Policy
 
