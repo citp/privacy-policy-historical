@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hamweather.net privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603160232id_/http%3A//www.hamweather.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamweather.net privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202171136id_/http%3A//www.hamweather.com/privacy) for the most accurate reproduction.*
 
-# HAMweather: Privacy Policy
+# Privacy Policy - HAMweather
 
 HAMweather, LLC understands our users' concern for how the personal information they provide to us will be used and we are therefore committed to protecting your privacy. The purpose of this privacy statement is to disclose how we collect, use and share information we collect about you on all HAMweather, LLC web sites and the choices you have regarding our use of and your ability to correct the information. This policy applies only to HAMweather, LLC and HAMweather, LLC affiliated web sites.
 
