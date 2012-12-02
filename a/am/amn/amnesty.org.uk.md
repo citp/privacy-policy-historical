@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603020537id_/http%3A//www.amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202131551id_/http%3A//amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
 
 # AIUK : Privacy Policy
 
@@ -68,8 +68,15 @@ If you have registered as a member on any of the Sites, you may be asked to prov
 9.3 If Amnesty International United Kingdom Section or substantially all of its assets are acquired by a third party, personal data held by it about its members may be one of the transferred assets. 
 
 **10\. YOUR PAYMENT DETAILS**  
-10.1 If you use our secure financial pages on any of the Sites to join Amnesty International UK or to donate money to us online, you are going through to the website of our reputable financial partner company, RSM Technology Limited, whose principal office is at Dralda House, 24-28 Crendon Street, High Wycombe, Bucks, HP13 6LS, United Kingdom ('World RSM').  World RSM handles all the secure financial transactions on the Amnesty International UK website on our behalf. The information you provide as part of any online financial transaction (such as your credit card number and contact information) is collected only so that the transaction can take place.   
-10.2 We have a valid secure socket layer certificate running on all the financial  information input pages and by working with World RSM we are ensuring that we are using the best security technology with regards to collection and transmission of personal financial data.  Also, once we receive your Information, we do everything we can to make sure that it is secure on our systems. 
+Our Payment Service Provider is Sage Pay (formerly Protx) - the largest independent payment service provider (PSP) in the UK and Ireland. Sage Pay provides a secure payment gateway (Level 1 PCI DSS), processing payments for thousands of online businesses, including ours. It is Sage Pay's utmost priority to ensure that transaction data is handled in a safe and secure way.
+
+Sage Pay uses a range secure methods such as fraud screening, I.P address blocking and 3D secure. Once on the Sage Pay systems, all sensitive data is secured using the same internationally recognised 256-bit encryption standards.
+
+Sage Pay is PCI DSS (Payment Card Industry Data Security Standard) compliant to the highest level and maintains regular security audits. They are also regularly audited by the banks and banking authorities to ensure that their systems are impenetrable.
+
+Sage Pay is an active member of the PCI Security Standards Council (PCI SSC) that defines card industry global regulation.
+
+In addition, you know that your session is in a secure encrypted environment when you see https:// in the web address, and/or when you see the locked padlock symbol alongside the URL.
 
 **11\. 'INVITE A FRIEND'**  
 We may from time to time operate an 'Invite a friend' or similar service.  This is a referral service, designed to make it easy for you to recommend the Sites and related websites or offers to a friend, and is a two-step process.  First, you send us your friend's name and email address, and secondly, we contact the friend, telling them who we are, and inviting them to join a campaign or to visit one or more of the Site.  When we contact your friend, we always advice them of the name and email address of the friend who made the original referral.  We will not use your friend's details for any other purpose. 
