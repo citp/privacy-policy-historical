@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628044950id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202165456id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
 
 # Privacy Statement for Hollywood.com | Hollywood.com
 
@@ -17,7 +17,8 @@ This Privacy Policy applies to the all of the following web sites and services o
 www.hollywood.com  
 Hollywood.com Fan Sites  
 www.starszz.com  
-www.spill.com
+www.spill.com  
+www.fan-sites.org
 
 and all sub-domains of the above
 
