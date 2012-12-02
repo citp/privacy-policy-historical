@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510060811id_/http%3A//www.directbuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202164124id_/http%3A//www.directbuy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DirectBuy
+# 
 
 We at DirectBuy ® understand that you value your privacy and we strive to respect that privacy when you are using our services. This Privacy Policy describes what information we gather from you, how we use that information and what we do to protect it. By using the DirectBuy ® website, you are expressly consenting to the information handling practices described in this policy.
 
