@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbicepscam.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124544id_/http%3A//herbicepscam.com/index.php%3F_o%3DDefault%26_m%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbicepscam.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202173743id_/http%3A//www.herbicepscam.com/index.php%3F_o%3DDefault%26_m%3Dprivacy) for the most accurate reproduction.*
 
 # Herbicepscam
 
