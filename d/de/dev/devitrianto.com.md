@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614030816id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202172511id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » All Android Apps | All Android Apps
-
-[](http://www.devitrianto.com/privacy-policy/emailpage/ "Email This Page") [Email This Page](http://www.devitrianto.com/privacy-policy/emailpage/ "Email This Page")
+# Privacy Policy - All Android Apps | All Android Apps
 
 **All Android Apps** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
