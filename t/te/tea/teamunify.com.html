@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teamunify.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630003438id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teamunify.com privacy policy that was archived on 2012-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121202013141id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head>
 	<title>TeamUnify</title>
@@ -33,6 +33,8 @@
 		<h1 id="logo"><a href="/" class="notext">TeamUnify</a></h1>
 		<div class="top">
 			<a href="#" class="contact-btn notext">contact us</a>
+            <a class="flag active" href="http://www.teamunify.com"><img src="/__corp__/css/images/flag_usa.png"></a>
+            <a class="flag" href="http://fr.teamunify.com"><img src="/__corp__/css/images/flag_france.png"></a>
 			<span class="tel"><strong>Questions?</strong> (888) 326-8643</span>
 		</div>
 	</div>	
@@ -134,7 +136,6 @@
 			<a href="#testimonials-tab" class="video-btn notext"></a>
 			<a href="#demo-tab" class="demo-btn notext"></a>
 			<a href="#company-tab" class="company-btn notext"></a>
-			<a href="#alzheimers-tab" class="alzheimers-btn notext"></a>
 		</div>
 	</div>
 </div>
@@ -143,27 +144,6 @@
 
 <div id="tabs">
 	<div class="shell">
-        <!-- Tab alzheimers -->
-		<div class="tab" id="alzheimers-tab">
-			<div class="tab-t">
-            	<h6>Help Our CEO Cure Alzheimer's</h6>
-                <a href="#" class="close-tab-btn notext	">X</a>
-			</div>
-			<div class="tab-m">
-				<div class="tab-c">
-                	<h2>Swimming the world's oceans to help cure Alzheimer's</h2>
-                    <div class="videoBlock">
-                    	<iframe src="http://fast.wistia.com/embed/iframe/c532a28fe4?videoWidth=400&amp;videoHeight=225&amp;controlsVisibleOnLoad=true&amp;plugin%5Bsocialbar%5D%5Bversion%5D=v1&amp;plugin%5Bsocialbar%5D%5Bbuttons%5D=email-twitter-googlePlus-facebook" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" width="400" height="253"></iframe>
-                    </div>
-                    <p>Thank you for your interest in helping donate to cure Alzheimer's. This terrible disease is growing at one person every minute! The money raised will help us and the next generation. Trust that every penny raised will be given to the Alzheimer's Association. Please give what you can. Click the purple Learn More &amp; Donate button and you will be sent to my personal website.
-                       <br><br>
-                       <a target="_blank" href="http://www.fristoe.com"><img src="/__corp__/css/images/btn-learnmoreanddonate.png" alt="Learn More and Donate"></a></p>
-                    
-                    <div class="cl">&nbsp;</div>
-				</div>
-			</div>
-		</div>
-		<!-- end of tab -->
 
         <!-- Tab company -->
 		<div class="tab" id="company-tab">
@@ -488,17 +468,19 @@
 
 
 	$('.error').hide();
+
+
 	// Top Contact Form Validation and Processing
 	$("#buttonContact").click(function() {
 		$('.error').hide();
 		
-		  var contact_fname = $("input#contact_first-name-field").val();
+		    var contact_fname = $("input#contact_first-name-field").val();
 			if (contact_fname == "") {
 			  $("span#contact_first-name-error").show();
 			  $("input#contact_first-name-field").focus();
 			  return false;
 			}
-		  var contact_lname = $("input#contact_last-name-field").val();
+		    var contact_lname = $("input#contact_last-name-field").val();
 			if (contact_lname == "") {
 			  $("span#contact_last-name-error").show();
 			  $("input#contact_last-name-field").focus();
@@ -609,6 +591,99 @@
 				.hide()
 				.fadeIn(1500, function() {
 				  $('#messageContact').append("<img id='checkmark' src='/__corp__/css/images/check.png' />");
+				});
+			  }
+		 	});
+
+		return false;
+	}); 
+
+
+	// Lead Form Validation and Processing
+	$("#buttonLead").click(function() {
+		$('.error').hide();
+		
+		    var lead_fname = $("input#lead_first-name-field").val();
+			if (lead_fname == "") {
+			  $("span#lead_first-name-error").show();
+			  $("input#lead_first-name-field").focus();
+			  return false;
+			}
+		    var lead_lname = $("input#lead_last-name-field").val();
+			if (lead_lname == "") {
+			  $("span#lead_last-name-error").show();
+			  $("input#lead_last-name-field").focus();
+			  return false;
+			}
+			var lead_email = $("input#lead_email-field").val();
+			if (lead_email == "") {
+			  $("span#lead_email-error").show();
+			  $("input#lead_email-field").focus();
+			  return false;
+			}
+			var lead_phone = $("input#lead_phone-field").val();
+			if (lead_phone == "") {
+			  $("span#lead_phone-error").show();
+			  $("input#lead_phone-field").focus();
+			  return false;
+			}
+			var lead_teamName = $("input#lead_team-name-field").val();
+			if (lead_teamName == "") {
+			  $("span#lead_team-name-error").show();
+			  $("input#lead_team-name-field").focus();
+			  return false;
+			}
+			var lead_teamWebsite = $("input#lead_team-website-field").val();
+			if (lead_teamWebsite == "") {
+			  $("span#lead_team-website-error").show();
+			  $("input#lead_team-website-field").focus(); 
+			  return false;
+			}
+			var lead_teamType = $("select#lead_team-type-field").val();
+			if (lead_teamType == "") {
+			  $("span#lead_team-type-error").show();
+			  $("select#lead_team-type-field").focus();
+			  return false;
+			}
+			var lead_members = $("input#lead_members-field").val();
+			if (lead_members == "") {
+			  $("span#lead_members-error").show();
+			  $("input#lead_members-field").focus();
+			  return false;
+			}
+			var lead_city = $("input#lead_city-field").val();
+			if (lead_city == "") {
+			  $("span#lead_city-error").show();
+			  $("input#lead_city-field").focus();
+			  return false;
+			}
+			var lead_state = $("input#lead_state-field").val();
+			if (lead_state == "") {
+			  $("span#lead_state-error").show();
+			  $("input#lead_state-field").focus();
+			  return false;
+			}
+			var lead_zip = $("input#lead_zip-field").val();
+			if (lead_zip == "") {
+			  $("span#lead_zip-error").show();
+			  $("input#lead_zip-field").focus();
+			  return false;
+			}
+
+			var dataLeadString = 'form=lead&fname='+ lead_fname + '&lname='+ lead_lname + '&email=' + lead_email + '&phone=' + lead_phone + '&teamName=' + lead_teamName + '&teamType=' + lead_teamType + '&city=' + lead_city + '&state=' + lead_state + '&zip=' + lead_zip + '&teamWebsite=' + lead_teamWebsite + '&members=' + lead_members + '&interest=' + lead_interest ;
+			//alert (dataContactString);return false;
+			
+			$.ajax({
+			  type: "POST",
+			  url: "/__corp__/include/processForm.php",
+			  data: dataLeadString,
+			  success: function() {
+				$('#formwrapperDownload').html("<div id='messageLead'></div>");
+				$('#messageLead').html("<h2>Request Form Received!</h2>")
+				.append("<p>We will be in touch soon.</p>")
+				.hide()
+				.fadeIn(1500, function() {
+				  $('#messageLead').append("<img id='checkmark' src='/__corp__/css/images/check.png' />");
 				});
 			  }
 		 	});
