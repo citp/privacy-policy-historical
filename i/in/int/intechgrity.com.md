@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intechgrity.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604034552id_/http%3A//www.intechgrity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechgrity.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202170737id_/http%3A//www.intechgrity.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - InTechgrity
 
@@ -13,7 +13,7 @@ We use **statcounter** and **google analytics tools** to collect the information
 
 We also use third party advertisements on **inTechgrity** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
- **DoubleClick DART cookies** The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
+**DoubleClick DART cookies** The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
   * Google, as a third party vendor, uses cookies to serve ads on our site.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit on our sites and other sites on the Internet.
@@ -43,17 +43,17 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 Please don’t copy the whole post. A short paragraph with content in quotes is acceptable with a link-back to the post at **inTechgrity.com**
 
- **Credit the Source:** You need to clearly highlight the fact that the content was derived from [http://www.](http://www.intechgrity.com/)[inTechgrity](http://www.intechgrity.com/).com
+**Credit the Source:** You need to clearly highlight the fact that the content was derived from [http://www.](http://www.intechgrity.com/)[inTechgrity](http://www.intechgrity.com/).com
 
- **Link Back:** You need to link back to the article from which you derived the excerpt.
+**Link Back:** You need to link back to the article from which you derived the excerpt.
 
 #### Advertisers
 
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Currently we work with a number of advertiser advertiser – **[Technorati Engage](https://beta.technoratimedia.com/privacy.cfm), [Infolinks](http://infolinks.com/privacy.html;jsessionid=20ACF59D29883CEB7A60AC561B706362), [Chitika](http://chitika.com/privacy_policy.php)** and **[Google Adsense](http://www.google.com/privacypolicy.html)**. Please check their websites for respective privacy policies.
 
-###  _ **Why do I see double underlined links?**_
+### _**Why do I see double underlined links?**_
 
- _These links are part of an advertising service called Infolinks. Infolinks uses the In Text method of advertising: they take my text and create links within it. If you hover your mouse over these[double underline links](http://www.infolinks.com/), you will see a small dialog box containing advertisement related to the text marked. You can choose to either move the mouse away and go on with your browsing, or to press on the box and go to the ad which is relevant to our text. __To learn more about Double Underline Link Ads –[Click Here](http://www.infolinks.com/)._
+_These links are part of an advertising service called Infolinks. Infolinks uses the In Text method of advertising: they take my text and create links within it. If you hover your mouse over these[double underline links](http://www.infolinks.com/), you will see a small dialog box containing advertisement related to the text marked. You can choose to either move the mouse away and go on with your browsing, or to press on the box and go to the ad which is relevant to our text. __To learn more about Double Underline Link Ads –[Click Here](http://www.infolinks.com/)._
 
 #### Copyrights
 
