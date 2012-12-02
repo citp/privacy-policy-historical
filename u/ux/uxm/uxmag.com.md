@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxmag.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603160253id_/http%3A//uxmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxmag.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202030943id_/http%3A//uxmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UX Magazine
 
