@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubletwist.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630014737id_/http%3A//www.doubletwist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubletwist.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202112652id_/http%3A//www.doubletwist.com/privacy) for the most accurate reproduction.*
 
 # doubleTwist - Privacy
 
@@ -34,6 +34,8 @@ _doubleTwist Services:_ the services we provide on or through the doubleTwist So
 
 _Feedback Information:_ any information that is submitted to doubleTwist by filling in the feedback forms on the Website.
 
+_Partner Service Providers:_ doubleTwist’s partner service providers and/or agents, for example social networks You elect to link to doubleTwist, mobile service providers such as the Android Marketplace You use to access the doubleTwist Services and/or doubleTwist Software and/or third party banking organizations or other providers of payment services.
+
 _Passive Information:_ information obtained from Your computer without any effort on Your part, such as a session ID token, log information, and other technical and related information, including but not limited to, technical and use information about Your computer, system, application software, peripherals and mobile or handheld devices, source and destination addressing information, the version of the doubleTwist Software You are using, statistical information regarding Your doubleTwist media library, and statistical information regarding Your use of the doubleTwist software.
 
 _Personal Data:_ any information that doubleTwist possesses relating to an identified or identifiable user of doubleTwist Services, including that individual's Communications Content, Feedback Information, Passive Information, Registration Information, Subscriber Information, Traffic Data and User Profile.
@@ -47,10 +49,6 @@ _Subscription Service:_ means any subscription service provided by doubleTwist a
 _Traffic Data:_ any data processed for the purpose of the conveyance of communication or determining bandwidth usage, including, but not limited to, the duration and size of Communications Content and information relating to the recipient(s).
 
 _User Profile:_ any information about the user, filled in by the user on the Website or on the doubleTwist Software that is meant to be shared with other users of the Website or doubleTwist Software, that can be searched for by other doubleTwist users. This includes, but is not limited to, information made available by You that can be shown on another user's friend list on the Website, the doubleTwist Software or on third party sites. In the future, doubleTwist may provide You with the option of making Your media play list public, and should You choose to do so, such information would become part of Your User Profile.
-
-This includes, but is not limited to, information made available by You that can be shown on another user's friend list on the Website or on third party sites. In the future, doubleTwist may provide You with the option of making your media play list public, and should you choose to do so, such information would become part of your User Profile.
-
-_Subscription Service:_ means any subscription service provided by doubleTwist and/or doubleTwist's partners, including but not limited to, the doubleTwist Pro service, basic doubleTwist services, and other services which may be offered.
 
 _Website:_ the website located at [www.doubleTwist.com](http://www.doubletwist.com/).
 
@@ -119,7 +117,7 @@ Except as provided below, doubleTwist shall not sell, rent, trade or otherwise t
 
 doubleTwist may share Your information with its Affiliates.
 
-In order to provide You with doubleTwist Services or other services You have requested, doubleTwist may share Your Personal Data and Traffic Data with partner service providers and/or agents (for example: social networks You elect to link to doubleTwist and/or the third party banking organization or other providers of payment services). doubleTwist will always require these third parties to take appropriate organizational, confidentiality, security and technical measures to protect Your Personal Data and Traffic Data and to observe the relevant legislation. Further, to the extent applicable, we require these entities to comply with this Privacy Policy. 
+In order to provide You with doubleTwist Services or other services You have requested, doubleTwist may share Your Personal Data and Traffic Data with Partner Service Providers. doubleTwist will always require these third parties to take appropriate organizational, confidentiality, security and technical measures to protect Your Personal Data and Traffic Data and to observe the relevant legislation. Further, to the extent applicable, we require these entities to comply with this Privacy Policy. 
 
 Please be informed that, notwithstanding the above, in the event that doubleTwist has a good faith belief that access, use, preservation or disclosure of Personal Data is reasonably necessary to: satisfy any applicable law, regulation, legal process or enforceable governmental request or enforce our Terms of Service, including investigation of potential violations thereof, or detect, prevent, or otherwise address fraud, security or technical issues, or protect against imminent harm to the rights, property or safety of doubleTwist, its users or the public as required or permitted by law, then doubleTwist will act according to that good faith belief, and reserves the right to share Personal Data with the appropriate parties, and cooperate with the appropriate legal entities. 
 
@@ -147,7 +145,7 @@ In the course of serving advertisements to the doubleTwist site, third party adv
 
 #### (No, you don't have to get out of your seat to see this.)
 
-The Website may contain links that will let You leave the Website and access another website. Linked websites are not under the control of doubleTwist and it is possible that these websites have different privacy policies. As between the Website and other websites, this Privacy Policy applies solely to Personal Data that is acquired on the Website, so doubleTwist urges You to be careful when You enter any personal information online. doubleTwist accepts no responsibility or liability for these other websites.
+The Website may contain links that will let You leave the Website and access another website. Linked websites are not under the control of doubleTwist and it is possible that these websites have different privacy policies. Additionally, you may be able to access the doubleTwist Services and/or doubleTwist Software through or by way of using accounts or services through Partner Service Providers. As between the Website and other websites and Partner Service Provider accounts and services, this Privacy Policy applies solely to Personal Data that is acquired by doubleTwist on the Website and through the doubleTwist Services, so doubleTwist urges You to be careful when You enter any personal information online. doubleTwist accepts no responsibility or liability for these other websites or Partner Service Provider accounts or services.
 
 The doubleTwist Services may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another. When You post to a message board, forum or chat area, please be aware that the information You post is made publicly available on-line and You do so at Your own risk. Additionally, please note that Your User Profile may be visible to other doubleTwist Services users and through third party websites, therefore, any Personal Data You disclose through the User Profile will be visible to other parties. You should therefore not put any type of information that You do not with other users to see in Your User Profile.
 
@@ -179,7 +177,10 @@ The revised Privacy Policy shall become effective on the date that it is posted 
 
 If You would like to correct, complete or remove Your Personal Data, please contact doubleTwist at
 
+  
 [delete@doubletwist.com](mailto:delete@doubletwist.com?subject=Personal%20Data%20Request). Within a reasonable period of time and upon verification of Your identity, doubleTwist will fulfill Your request, as long as such compliance is consistent with applicable law.
+
+Please note that when You request deletion of Your Personal Data, in some cases we may not be able to delete all of Your Personal Data and we may retain Your Personal Data afterward for the purpose of internal account management, to comply with our legal obligations, to resolve disputes, to enforce our agreements, and in furtherance of fraud prevention activities. Additionally, in order to correct or remove information You provide to certain Partner Service Providers in association with the doubleTwist Services and/or doubleTwist Software, You must contact such Partner Service Providers in accordance with their privacy policies.
 
 ### 11\. What if You live in the European Union?
 
@@ -240,4 +241,4 @@ If You have any questions about our privacy practices or this Privacy Policy, pl
 
 
 
-LAST REVISED: 10/05/2009
+LAST REVISED: 07/12
