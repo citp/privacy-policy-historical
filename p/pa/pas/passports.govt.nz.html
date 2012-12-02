@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the passports.govt.nz privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603130447id_/http%3A//www.passports.govt.nz/Your-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the passports.govt.nz privacy policy that was archived on 2012-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121202215944id_/http%3A//www.passports.govt.nz/Your-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-NZ"><head>
 <!-- version 1.03 -->
@@ -13,38 +13,54 @@
 <!-- META Desc -->
 <meta name="description" content="You may browse and access information contained within this website without providing personal information, however, where you voluntarily provide personal information (e.g. through online forms) we will only keep and use that information for the purpose with which it was collected.">
 <!--  Resources -->
-<link rel="shortcut icon" href="favicon.ico">
-<link rel="apple-touch-icon" href="apple-touch-icon.png"> 
-<link type="text/css" rel="stylesheet" href="web/passports.nsf/reset.css" media="screen" title="no title" charset="utf-8">
-<link type="text/css" rel="stylesheet" href="web/passports.nsf/style.css" media="screen" title="no title" charset="utf-8">
-<link type="text/css" rel="stylesheet" href="web/passports.nsf/mediabox.css" media="screen" title="no title" charset="utf-8">
+<!-- link rel="shortcut icon" href="favicon.ico" / -->
+<!-- link rel="apple-touch-icon" href="apple-touch-icon.png" / --> 
+<link rel="shortcut icon" href="/web/passports_clone.nsf/vwluResources/favicon/$file/favicon.ico">
+<link rel="apple-touch-icon" href="/web/passports_clone.nsf/vwluResources/apple-touch-icon/$file/apple-touch-icon.png"> 
+<link type="text/css" rel="stylesheet" href="/web/passports_clone.nsf/vwluResources/style-reset/$file/reset.css" media="screen" title="no title" charset="utf-8">
+<link type="text/css" rel="stylesheet" href="/web/passports_clone.nsf/vwluResources/style/$file/style.css" media="screen" title="no title" charset="utf-8">
+<link type="text/css" rel="stylesheet" href="/web/passports_clone.nsf/vwluResources/online-fix/$file/online-fix.css" media="screen" title="no title" charset="utf-8">
+<link type="text/css" rel="stylesheet" href="/web/passports_clone.nsf/vwluResources/style-psrp/$file/style-psrp.css" media="screen" title="no title" charset="utf-8">
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="web/passports.nsf/ie.css" media="screen" title="no title" charset="utf-8"/>
+<link type="text/css" rel="stylesheet" href="/web/passports_clone.nsf/vwluResources/style-ie/$file/ie.css" media="screen" title="no title" charset="utf-8"/>
 <![endif]-->
-<link type="text/css" rel="stylesheet" href="web/passports.nsf/print.css" media="print">
-<script type="text/javascript" async="" src="http://www.passports.govt.nz/ga.js"></script><script type="text/javascript" language="javascript" src="web/passports.nsf/mootools-1.2.4-core.js"></script>
-<script type="text/javascript" language="javascript" src="web/passports.nsf/mediaboxAdv-1.3.1.js"></script>
-<script type="text/javascript" language="javascript" src="web/passports.nsf/mootools-1.2.4.4-more.js"></script>
-
+<link type="text/css" rel="stylesheet" href="/web/passports_clone.nsf/vwluResources/style-print/$file/print.css" media="print">
+<link type="text/css" rel="stylesheet" href="/web/passports_clone.nsf/vwluResources/style-mediabox/$file/mediabox.css" media="screen" title="no title" charset="utf-8">
+<script type="text/javascript" async="" src="http://www.passports.govt.nz/ga.js"></script><script type="text/javascript" language="javascript" src="/web/passports_clone.nsf/mootools-1.2.4-core.js"></script>
+<script type="text/javascript" language="javascript" src="/web/passports_clone.nsf/mediaboxAdv-1.3.1.js"></script>
+<!-- <script  type="text/javascript" language="javascript" src="/web/passports_clone.nsf/mootools-1.2.4.4-more.js"></script> -->
+<script type="text/javascript" language="javascript" src="vwluResources/mootools-1.2.5.1-more/$file/mootools-1.2.5.1-more.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30348965-1']);
+  _gaq.push(['_setLocalRemoteServerMode']);
+  _gaq.push(['_trackPageview']);
+(function() {    
+var ga = document.createElement('script');
+ga.type = 'text/javascript'; ga.async = true;   
+ga.src = 'http://www.passports.govt.nz/ga.js';    
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();
+</script>
 <title>Your privacy - New Zealand Passports (passports.govt.nz)</title></head>
 <body text="#000000" bgcolor="#FFFFFF">
 <!-- MAIN WRAP STARTS-->
 <div id="mainWrap">
-<a href="#content" class="skiplink">Skip to content</a>
+	<a href="#content" class="skiplink">Skip to content</a>
 <form name="search" id="search" method="get" action="/Search/search.cgi">
-	<div id="home">
-		<a href="/">Home</a>
-	</div>
-   	<label id="search-lbl">Search</label>
-            	<input type="text" name="zoom_query" size="14" maxlength="88" class="search-box">
-            	<input type="submit" name="submit" class="btn-search" value="Search">
+ <div id="home">
+  <a href="/">Home</a>
+ </div>
+
+    <label id="search-lbl" for="query">Search</label>
+             <input id="query" type="text" class="search-box" maxlength="88" size="14" name="zoom_query" tabindex="1000">
+             <input type="submit" name="submit" class="btn-search" value="Search">
 </form>
 <div id="hd">
-	<div class="container">
-		<h1><a href="/">passports.govt.nz</a></h1>
-		<h2>New Zealand passports | Uruwhenua Aotearoa</h2>
-		<h2>The Department of Internal Affairs | Te Tari Taiwhenua</h2>
-	</div>
+ <div class="container">
+  <h1><a href="/">passports.govt.nz</a></h1>
+  <h2>New Zealand passports | <span lang="mi">Uruwhenua Aotearoa</span></h2>
+  <h2>The Department of Internal Affairs | <span lang="mi">Te Tari Taiwhenua</span></h2>
+ </div>
 </div><!--end of header-->
 <div id="nav">
 	<ul>
@@ -56,7 +72,7 @@
 <li><a accesskey="" href="/Lost-or-stolen-passports">Lost or stolen<br>passports</a></li>
 <li><a accesskey="" href="/Before-you-travel">Before<br>you travel</a></li>
 <li><a accesskey="" href="/Emergencies-overseas">Emergencies<br>overseas</a></li>
-<li class="last"><a accesskey="" href="/Contact-the-Passport-office---in-New-Zealand">Contact the<br>passport office</a></li>
+<li><a accesskey="" href="/Contact-the-Passport-office---in-New-Zealand">Contact the<br>passport office</a></li>
  
 	</ul>
 </div><!--end of main navigation-->
@@ -66,78 +82,132 @@
 		<div id="band"> &nbsp;	</div>
 		<div class="container">
 		<div class="content"><a name="content"></a>
-		 <h2>Your privacy</h2>
+		 <h2><em>Your privacy</em></h2>
 
 
-<h3>Personal information submitted to the Department of Internal Affairs (the Department)</h3>
+<h3><em>Personal information submitted to the Department of Internal Affairs (the Department)</em></h3>
 
 
-<p>The Department collects personal information to assist with the provision of a variety of services (for example, in the provision of passports and birth certificates). You may browse and access information contained within this website without providing personal information, however, where you voluntarily provide personal information (e.g. through online forms) we will only keep and use that information for the purpose with which it was collected.</p>
+<p>The Department collects personal information in order to provide you with a variety of services (for example, in the provision of passports and birth certificates). You may browse and access information contained within this website without providing personal information, however, where you voluntarily provide personal information (e.g. through online forms or applications) we will keep and use that information for the purpose with which it was collected.</p>
 
 
-<h3>Information matching and disclosure</h3>
+<p>If the personal information you are providing relates to births, deaths, marriages and civil union services, or passports and citizenship services (together called Identity Services), please follow this link:<br><br><a href="http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Legal-Privacy-Identity-Services-Privacy-Notice?OpenDocument">Learn more about privacy issues and personal information related to births, deaths, marriages and civil union services and passports and citizenship</a>.</p>
 
 
-<p>The Department will not disclose personal information provided by you to any third parties, except with your consent, where such disclosure is required or permitted by the Privacy Act 1993 or otherwise required or permitted by law, or where such disclosure is one of the purposes in connection with which the information was obtained. Information provided by you may be used by other government agencies to allow more effective verification of information including your identity. This is important for maintaining the integrity of our services and to help in assessing your eligibility for various services. Information matching is carried out in accordance with Part 10 of the Privacy Act and is monitored by the Office of the Privacy Commissioner. <a class="external" href="http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Legal-Privacy-Information-Matching?OpenDocument">Learn more about information matching</a>.</p>
+<h3><em>Information matching and disclosure</em></h3>
 
 
-<h3>Further privacy information</h3>
+<p>The information you provide helps us establish your identity and determine if you are eligible for a New Zealand passport. We may obtain information from other sources (including, but not limited to, the Citizenship Office and the Registrar-General of Births, Deaths and Marriages) using an information-matching programme authorized under section 78A of the Births, Deaths, Marriages and Relationships Registration Act 1995 or section 26A of the Citizenship Act 1977 and the Privacy Act 1993.Learn more about information matching.</p>
 
 
-<p>Much of the personal information collected from individuals relates to identity services. <a class="external" href="http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Legal-Privacy-Identity-Services-Privacy-Notice?OpenDocument">Learn more about privacy issues and personal information related to births, deaths, marriages and civil union services and passports and citizenship</a> (Identity Services).</p>
+<p>Under the Passports Act 1992 and the Privacy Act 1993, the Department may disclose information from your passport records, subject to agreement in writing between the Secretary of Internal Affairs and the Chief Executive of the organizationrequesting the information, to any appropriate agency, body, or person to aid border security, facilitate the processing of passengers, verify the identity of a holder of a travel document, or determine whether a person is a New Zealand citizen. Information may also be disclosed under theauthorizedinformation matching programmesreferred to above. <a href="http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Legal-Privacy-Information-Matching?OpenDocument">Learn more about information matching</a>.</p>
 
 
-<h3>Statistical information collected</h3>
+<p>The information that may be disclosed includes the information recorded in your passport, the status of your passport, the Department’s passport database key number, and other information relating to your passport that may be required.</p>
 
 
-<p>The Department may collect statistical information about your visit to help us improve the Site. This information is aggregated and non-personally identifying. It includes:</p>
+<h3><em>Statistical information collected</em></h3>
+
+
+<p>The Department may collect statistical information about your visit to help us improve the Site. This information is aggregated and does not identify individuals. It includes:</p>
 
 
 <ul class="green">
 <li>your IP address;</li>
-<li>the search terms you used; </li>
-<li>the pages you accessed on our site and the links you clicked on; </li>
-<li>the date and time you visited the site; </li>
-<li>the referring site (if any) through which you clicked through to this site; </li>
-<li>your operating system (e.g., Windows 7, Mac OSX); </li>
+<li>the search terms you used;</li>
+<li>the pages you accessed on our site and the links you clicked on;</li>
+<li>the date and time you visited the site;</li>
+<li>the referring site (if any) through which you clicked through to this site;</li>
+<li>your operating system (e.g., Windows 7, Mac OSX);</li>
 <li>the type of web browser you use (e.g. Internet Explorer, Mozilla Firefox); and</li>
 <li>other incidental matters such as screen resolution, the release of your installed Flash version and the language setting of your browser.</li>
 </ul>
 
 
-<h3>Use of statistical information</h3>
+<p><br>This statistical information can be viewed by site administrators and certain other Department staff. It may also be shared with other government agencies.</p>
 
 
-<p>The statistical information referred to above will be viewable by site administrators and certain other Department staff. It may also be shared with other government agencies.</p>
+<h3><strong><em>Data tracking used by this website</em></strong><em>&nbsp;</em></h3>
 
 
-<h3>Persistent cookies</h3>
+<p>This website uses cookies to record information about user behaviour. A cookie is a piece of code that creates a file on your computer to track the pages that you view on our website. This information is collected so that we may provide you with a better web service.</p>
 
 
-<p>This site generates persistent session cookies for the purpose of monitoring site usage. The cookies do not collect personal information. You can disable them or clear them out of the web browser you are using to view this site without affecting your ability to use the site.</p>
+<p>This data cannot be used to identify individuals or any personal information. The aggregate data is collected and stored on our internal servers only and accessed only by authorised staff. We do not share this information with any other agency.</p>
 
 
-<h3>Security</h3>
+<p><strong>Your web browser must be able to accept cookies to use the online passports renewal service</strong>.</p>
+
+
+<p>You may turn off cookies at any time. Most browsers have a feature that allows the user to refuse cookies or issues a warning when cookies are being sent - check your browser's "Help". Turning off cookies will not affect your ability to use this site, with the exception of the online renewals system.</p>
+
+
+<p>If you have any questions, please email: <a href="mailto:webmaster@dia.govt.nz">webmaster@dia.govt.nz</a></p>
+
+
+<h3><em>Security</em></h3>
 
 
 <p>The Department has procedures in place to prevent loss, unlawful access, use, modification, disclosure or other misuse of your information, consistent with good practice and as required by relevant law and policy. Particular care has been taken to ensure that only certain people with specific roles and authorised access levels are able to view your identity and transaction-related information.</p>
 
 
-<h3>Concerns, corrections or feedback</h3>
+<h3><em>Linking to passports.govt.nz</em></h3>
 
 
-<p>If you wish to view or correct any or your personal information held by the department or you have concerns about the personal information we hold on you, please <a class="external" href="mailto:privacy@dia.govt.nz?subject=Privacy%20enquiry%20about%20identity%20services">email privacy@dia.govt.nz</a></p>
+<p>You are welcome to link to our site but please follow our linking guidelines below.</p>
 
 
-<h3>More information</h3>
+<p>When someone clicks on a passports.govt.nz link on your website, they must view the site full screen, not within a frame. Using frames to display passports.govt.nz is not permitted.</p>
 
 
-<p>If you would like further information on what data is collected and how it is used, please <a class="external" href="mailto:privacy@dia.govt.nz?subject=Privacy%20enquiry%20about%20identity%20services">email privacy@dia.govt.nz</a> or write to:</p>
+<p>You or your website must not misrepresent your relationship with passports.govt.nz, or refer to passports.govt.nz as a ‘partner site’ unless you have express and written permission to do so.</p>
 
 
-<p><br>The Privacy Officer<br>Department of Internal Affairs<br>PO Box 10-526<br>Wellington 6143<br>New Zealand</p>
+<p>For further information, <a href="mailto:webmaster@dia.govt.nz?subject=Enquiry%20about%20linking%20to%20passports.govt.nz%25website">email webmaster@dia.govt.nz</a>.</p>
+
+
+<h3><em>More information</em></h3>
+
+
+<p>If you would like further information on what data is collected and how it is used, please <a href="mailto:privacy@dia.govt.nz?subject=Privacy%20enquiry%20about%20identity%20services">email privacy@dia.govt.nz</a> or write to:</p>
+
+
+<p>The Privacy Officer <br>Department of Internal Affairs <br>PO Box 10-526 <br>Wellington 6143 <br>New Zealand.</p>
+
+
+<h3><em>Concerns, corrections or feedback</em></h3>
+
+
+<p>If you wish to view or correct any or your personal information held by the department or you have concerns about the personal information we hold on you, please feel free to contact us at:</p>
+
+
+<p>The Privacy Officer<br>Department of Internal Affairs<br>PO Box 10-526<br>Wellington</p>
+
+
+<p>Phone: (04) 495 7200</p>
+
+
+<p>Email: <a href="mailto:privacy@dia.govt.nz">privacy@dia.govt.nz</a><span style="text-decoration: underline;">&nbsp;</span></p>
+
+
+<p>If you are not satisfied with our response to your concern, you have the right to contact the Privacy Commissioner:</p>
+
+
+<p>Office of the Privacy Commissioner<br>PO Box 10-094<br>Wellington, New Zealand</p>
+
+
+<p>Phone: +64-4-474 7590</p>
+
+
+<p>Enquiries Line (from Auckland): 302 8680<br>Enquiries Line (from outside Auckland): 0800 803 909</p>
+
+
+<p>Fax: +64-4-474 7595</p>
+
+
+<p>Email: <a href="mailto:enquiries@privacy.org.nz">enquiries@privacy.org.nz</a></p>
  
-		</div><!-- end class="container" -->
+		</div><!-- end class="content" -->
 <div id="ajax_content"> 
 </div>
 		</div><!-- end class="content" -->
@@ -151,6 +221,7 @@
 <!-- footer starts-->
 <div id="footer">
 	<div class="footer-top">
+
  <div id="ft">
   <div class="subnav">
    <ul>
@@ -171,15 +242,13 @@
    <a href="http://www.dia.govt.nz" id="logo-dia">The Department of Internal Affairs</a>
   </div>
 
-<!-- 
+
   <div id="banner">
    <div class="content">
    <h3><a href="http://safetravel.govt.nz/">SafeTravel.govt.nz</a></h3>
    <a href="http://safetravel.govt.nz/">Provides travel advisories and essential information for New Zealanders travelling or living overseas</a>
    </div>
   </div>
--->
-<div style="color: rgb(0, 0, 0); text-align: center; font-weight: bold; font-family: arial; background-color: PaleGoldenRod; padding: 8px; width: 980px; margin: 1.5em auto; font-size: 1.2em; -moz-box-shadow: 0pt 7px 15px rgb(0,0,0);" class="pilot-banner">We're updating newzealand.govt.nz, <a href="https://dia003.optimalworkshop.com/optimalsort/final">take our online survey</a> and you could win* a $100 gift card! <img width="45" height="43" style="vertical-align: middle;" src="http://www.dia.govt.nz/vwluResources/prez-card/$file/prez-card.png" alt="Prezzy card icon"><span style="font-size: 0.85em; font-weight: normal; margin-left: 2em;">(*<a href="http://www.dia.govt.nz/newzealand-govt-nz-prize-draw-rules">Conditions apply</a>)</span></div>
 
   <div class="container">
    <ul>
@@ -195,17 +264,6 @@
   </div>
  </div><!--end id="ft"-->
 </div><!--end id="footer-top"-->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-30348965-1']);
-  _gaq.push(['_setLocalRemoteServerMode']);
-  _gaq.push(['_trackPageview']);
-(function() {    
-var ga = document.createElement('script');
-ga.type = 'text/javascript'; ga.async = true;   
-ga.src = 'http://www.passports.govt.nz/ga.js';    
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();
-</script>
 <script type="text/javascript" src="/events.js"></script>
 <noscript><p><img src="/no_script.gif" style="border:0" alt=""/></p></noscript>
 	 <div class="clear"><!----></div>
