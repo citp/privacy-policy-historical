@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603123602id_/http%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202045459id_/http%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mag
 
@@ -37,4 +37,4 @@ We have put in place technology measures and security policies and procedures to
 **Do we use cookies?**  
 Yes. A cookie is a piece of text which asks permission to be placed on your computer’s hard drive. Your browser adds that text in a small file. A cookie helps us to analyse web traffic and allows websites to respond to you as an individual.
 
-For The Mag Shop Terms & Conditions and Privacy Policy please [click here](https://themag.gostorego.com/terms-conditions)
+For The Mag Shop Terms & Conditions and Privacy Policy please [click here](http://shop.themag.co.uk/pages/terms-conditions)
