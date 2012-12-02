@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theheart.org privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420212217id_/http%3A//www.medscape.com/public/privacy-012012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theheart.org privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202092607id_/http%3A//www.medscape.com/public/privacy) for the most accurate reproduction.*
 
 # The WebMD Health Professional Network Privacy Policy
 
-#### Services Web Sites Covered
+#### Services and Web Sites Covered
 
 This policy describes what information may be collected about you when you use the services made available through the WebMD Health Professional Network (as defined below), how this information may be used, how you can control how your information is used and what precautions are taken against unauthorized access or use of your information. The services made available through the WebMD Health Professional Network may be provided in a variety of mediums and devices now known or hereinafter developed including mobile applications, and include without limitation news, reference tools and applications, sponsored programming, personalized content, continuing medical education, communication tools and discussion boards (collectively, the "Services"). You should read the privacy policy of each website that you visit after you leave any of the WebMD Health Professional Network websites. We are not responsible for how other websites treat your privacy once you leave one of our websites.
 
