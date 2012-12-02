@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603231819id_/http%3A//www.wpwebhost.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202061635id_/http%3A//www.wpwebhost.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WPWebHost
+# Privacy Policy|WPWebHost
 
 Effective on May 5, 2011  
 WPWebHost.com is committed to protecting your privacy. This privacy policy describes how wpwebhost.com collects and uses the personal information you provide on our website: WPWebHost.com. It also describes the choices available to you regarding wpwebhost.com’s use of your personal information and the steps you can take to access this information and to request that we correct or update it.
