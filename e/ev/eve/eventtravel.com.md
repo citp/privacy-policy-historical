@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventtravel.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602095531id_/http%3A//www.eventtravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventtravel.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203003334id_/http%3A//www.eventtravel.com/privacy) for the most accurate reproduction.*
 
 # Event Travel Privacy and Data Protection Policy
 
@@ -26,7 +26,9 @@ We may occasionally release your personal or financial information to assist law
 
 **Security Measures**
 
-We take the security of your personal information very seriously. Consequently we use 128 bit Secure Socket Layer (SSL) encryption for all your transactions with  Event Travel . This system encrypts all your personal information, including credit card number, name, and address, so that it cannot be read if intercepted by a malicious third party. 
+We take the security of your personal information very seriously. Consequently we use **128 bit Secure Socket Layer (SSL)** encryption for all your transactions with  Event Travel . This system encrypts all your personal information, and all Debit/Credit Card payments are transacted by **REALEX** Secure payments so that no card data can be read or intercepted by a malicious third party. 
+
+[](http://www.realexpayments.com/images/logos/mlogos/rlx_logo.gif)
 
 **Third Party Sites**
 
