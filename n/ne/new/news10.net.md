@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124084801id_/http%3A//www.news10.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203004924id_/http%3A//www.news10.net/privacy) for the most accurate reproduction.*
 
 # news10.net | Sacramento, CA
 
