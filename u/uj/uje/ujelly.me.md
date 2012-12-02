@@ -1,45 +1,35 @@
-> *The following text is extracted and transformed from the ujelly.me privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603035204id_/http%3A//www.ujelly.me/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ujelly.me privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202030828id_/http%3A//www.ujelly.me/page/privacy.html) for the most accurate reproduction.*
 
 # U Jelly?
 
-**What information do we collect?  
-**
+**What information do we collect?**
 
-We do not collect private information from due to the lack of registration option on our website.  
+We do not collect private information from due to the lack of registration option on our website.
 
+When submitting on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, submit your content anonymously.
 
-When submitting on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, submit your content anonymously.  
+**What do we use your information for?**
 
-
-**What do we use your information for?  
-**
-
-Any of the information we collect from you may be used in one of the following ways:  
-
+Any of the information we collect from you may be used in one of the following ways:
 
 • To personalize your experience  
-(your information helps us to better respond to your individual needs)  
-
+(your information helps us to better respond to your individual needs)
 
 • To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 • To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+• To administer a contest, promotion, survey or other site feature
+
+• To send periodic emails
+
+  * The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 
-• To administer a contest, promotion, survey or other site feature  
 
-
-• To send periodic emails  
-
-
-• The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.  
-
-
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.  
-
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
 **How do we protect your information?**
 
@@ -50,6 +40,12 @@ We implement a variety of security measures to maintain the safety of your perso
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page.](http://www.google.com/policies/privacy/ads/)
+
+
 
 **Do we disclose any information to outside parties?**
 
@@ -77,4 +73,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us at admin (at) ujelly.com
+If there are any questions regarding this privacy policy you may contact us at admin (at) ujelly.me
