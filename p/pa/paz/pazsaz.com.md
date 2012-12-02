@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502225220id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202125946id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pazsaz Entertainment Network
 
-UPDATES
+| 
 
-CHANGE DETECTION
-
-|  Enter your email address to be notified automatically when this page is updated  
----  
-  
 | 
 
 [](http://www.addthis.com/bookmark.php?v=20)  
