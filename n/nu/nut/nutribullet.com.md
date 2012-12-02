@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutribullet.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124322id_/http%3A//www.nutribullet.com/index.php%3Fr%3Dsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutribullet.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202173849id_/http%3A//www.nutribullet.com/index.php%3Fr%3Dsite/privacy) for the most accurate reproduction.*
 
 # NutriBullet - Privacy Policy
 
@@ -27,7 +27,7 @@ Most browsers automatically accept cookies by default, but you can usually refus
 
   1. [Internet Explorer](http://support.microsoft.com/kb/196955)
   2. [Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
-  3. [Apple Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)
+  3. [Apple Safari](http://support.apple.com/kb/PH5042)
   4. [Google Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
 
