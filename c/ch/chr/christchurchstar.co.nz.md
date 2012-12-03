@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christchurchstar.co.nz privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524010833id_/http%3A//www.starcanterbury.co.nz/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christchurchstar.co.nz privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203051231id_/http%3A//www.christchurchstar.co.nz/legal) for the most accurate reproduction.*
 
-# Online Privacy Statement
+# Online Privacy Statement | Christchurch Star
 
 For information about the New Zealand Privacy Act and how it protects all personal information in New Zealand, [click here](http://www.privacy.org.nz/top.html). 
 
