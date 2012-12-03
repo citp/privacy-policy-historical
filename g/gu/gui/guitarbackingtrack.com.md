@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarbackingtrack.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628102702id_/http%3A//www.guitarbackingtrack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarbackingtrack.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204000325id_/http%3A//www.guitarbackingtrack.com/privacy.php) for the most accurate reproduction.*
 
 # GuitarBackingTrack.com: Free backing tracks for guitar
 
@@ -36,5 +36,3 @@ The site is currently using Google Adsense for advertising. No personal informat
 is gathered, but some info about geographic location etc. is used by Google to target   
 the ads so that some might be interesting to the site visitors.   
 Read more on Google's privacy policy [here](http://www.google.com/privacy.html). 
-
-**Check out these great free video guitar lessons at[ GuitarTricks.com](http://www.guitartricks.com/ap/gt.php?id=1129&url=http://www.guitartricks.com/trial/)**
