@@ -1,25 +1,45 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222940id_/http%3A//www.guildportal.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203193529id_/http%3A//guildportal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GuildPortal Guild Website Hosting
+# Privacy Policy | GuildPortal | WoW, SW:ToR, GW 2, LOTRO, Rift | Guild Hosting
+
+## Information Collection
 
 GuildPortal is the sole owner of the information collected on GuildPortal.com. GuildPortal collects information from our users at a single point on our web site. 
 
+## Registration
+
 In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information in the form of an e-mail address. We use this information to contact the user about services on our site in which we believe he or she may have interest. Additionally, the e-mail address of each user is used by the system in an automated fashion, for mailing out notification of "events" and other relevant items concerning the "guilds" that the user is a member of. 
+
+## Ordering Process
 
 For ordering, GuildPortal.com does not collect personal information on the user. PayPal processes the orders, and their privacy policy is the active privacy policy when performing commercial transactions. 
 
-GuildPortal uses information solely to support the functions of the service it provides. 
+## Information Use
+
+GuildPortal uses information solely to support the functions of the service it provides, and does not share it with any third parties. 
+
+## Member Profiles
 
 A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information (e-mail address + password combination) to perform the functions of the community hosting service. We do not share the user's profile with other third parties. 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser or choose to "log out," the cookie simply terminates. A persistent cookie is a small text file stored ont he user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Session ID cookies are used by GuildPortal.com to track user preferences while the user is visiting the site, to minimize load times and save on server processing. Persistent cookies are used by GuildPortal to store whether the user wants his or her password remembered, or not remembered. Some of our business partners may use cookies on our site. However, we have no access to or control over these cookies. Additionally, those advertisers have no way of extracting your personal information from GuildPortal.com cookies. Third Party Advertising The ads appearing on this web site are delivered to users through various channels, including Amazon.com's affiliates program. Information about user's visit to this site, such as the number of times they have viewed an ad (but not personal information), is used to serve ads to users on this site. This privacy statement covers the use of cookies by www.guildportal.com only and does not cover the use of cookies by any advertisers. Log Files Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. Clear Gifs (Web Beacons/Web Bugs) GuildPortal.com does not employ a software technology called clear gifs (aka Web Beacons/Web Bugs). Clear gifs are tied to user's personally identifiable information. 
+## Cookies
+
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser or choose to "log out," the cookie simply terminates. A persistent cookie is a small text file stored ont he user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Session ID cookies are used by GuildPortal.com to track user preferences while the user is visiting the site, to minimize load times and save on server processing. Persistent cookies are used by GuildPortal to store whether the user wants his or her password remembered, or not remembered. Some of our business partners may use cookies on our site. However, we have no access to or control over these cookies. Additionally, those advertisers have no way of extracting your personal information from GuildPortal.com cookies. Third Party Advertising The ads appearing on this web site are delivered to users through various channels, including Amazon.com's affiliates program. Information about user's visit to this site, such as the number of times they have viewed an ad (but not personal information), is used to serve ads to users on this site. This privacy statement covers the use of cookies by www.guildportal.com only and does not cover the use of cookies by any advertisers. Log files like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. Clear Gifs (Web Beacons/Web Bugs) GuildPortal.com does not employ a software technology called clear gifs (aka Web Beacons/Web Bugs). Clear gifs are tied to user's personally identifiable information. 
+
+## Special Offers and Updates
 
 Established members will occasionally receive information on products, services, special deals, and a possible newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. However, removing the ability for these types of communications also removes the ability for the user to receive e-mail concerning events that their guild(s) are participating in. 
 
+## Services Announcements
+
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+
+## Customer Service
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email. 
 
+## Legal Disclaimer
+
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. Aggregate Information We do not share aggregated demographic information with partners or advertisers. Links This Web site contains links to other sites. Please be aware that we, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: support@guildportal.com 
+The gnomes are saving your changes...
