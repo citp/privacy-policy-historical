@@ -1,0 +1,338 @@
+<!--The following is the downloaded HTML source of the flitetest.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203162448id_/http%3A//flitetest.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	Privacy Policy | Flite Test
+</title>
+	<link rel="alternate" type="application/rss+xml" title="FliteTest RSS Feed" href="http://flitetest.com/RSS">
+	<link rel="shortcut icon" type="image/x-icon" href="http://flitetest.com/images/flitetest_ico.png">
+	<meta name="description" content="Entertaining, educating and elevating the world of flight">
+<meta name="keywords" content="RC Planes, FPV, Scratch builds, multirotors, tricopter, FliteTest, flite, test, model, airplane, remote control, hobby">
+<meta property="og:url" content="http://flitetest.com">
+<meta property="og:description" content="Entertaining, educating and elevating the world of flight">
+<meta property="og:site_name" content="Flite Test">
+<meta property="og:title" content="Flite Test">
+<meta property="og:type" content="tv_show">
+<meta property="og:image" content="http://flitetest.com/images/flitetest_fb_logo.jpg">
+
+
+	<link href="http://flitetest.com/styles/style.css" rel="stylesheet" type="text/css">
+	<link href="http://flitetest.com/styles/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Bad+Script|Shadows+Into+Light+Two" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+	<script src="http://flitetest.com/js/suite.core.20121203050308468.js"></script>
+	<script src="http://flitetest.com/js/suite.full.js"></script>
+	<script src="http://flitetest.com/js/jquery.easing.1.3.js"></script>
+	<script src="http://flitetest.com/js/jquery.anythingslider.js"></script>
+	<script src="http://flitetest.com/js/flitetest.js"></script>
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="http://flitetest.com/styles/ie7.css" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="http://flitetest.com/styles/ie6.css" />
+	<![endif]-->
+	<script type="text/javascript" language="javascript">
+	    var siteRoot = 'http://flitetest.com/';
+		function buildSearchGroup(index, pub) {
+			var retVal = $('<h2></h2>').html(pub.name);
+			return retVal;
+		}
+		function buildSearchItem(index, item) {
+		    var result = $('<div class="search_result"></div>');
+		    var link = null;
+		    if (item.typename == 'User Account' && !item.fullpath) {
+                link = $('<a></a>').attr('href', siteRoot + 'authordetails?u=' + encodeURIComponent(item.titletext) + '&q=' + $('#search_box').val());
+            } else {
+                link = $('<a></a>').attr('href', item.fullpath + (item.fullpath.indexOf('?') >= 0 ? '&q=' : '?q=') + $('#search_box').val());
+            }
+			link.append($('<div class="search_result_title"></div>').html(item.titletext));
+			if (item.relpath)
+				link.append($('<div class="search_result_type"></div>').html(item.relpath));
+			else
+				link.append($('<div class="search_result_type">&nbsp;</div>'));
+
+			result.append(link);
+			result.append('<div class="clear"></div>');
+			return result;
+		}
+		function formatText(index, panel) {
+			return panel.attr("name");
+		}
+		function displayError(req, statusText, data) {
+			if (statusText == "parsererror" && req && req.responseText && req.responseText.indexOf('action' + '="Login.aspx') >= 0) {
+				document.location.reload();
+				return;
+			}
+			//alert(statusText);
+			if (req && req.responseText)
+				alert(req.responseText);
+
+			$('#loading').hide();
+			$('#saving').hide();
+        }
+        function refreshAd(secCnt) {
+            if (secCnt && secCnt > 0) {
+                $.each($('a[refresh=' + secCnt + ']'), function (index, item) {
+                    $.get('/privacy_policy/d9d131a62472b841a21070803b311998?adrefresh=true&t' + (new Date()).getTime() + '&z=' + $(item).attr('z') + '&w=' + $(item).attr('w') + '&h=' + $(item).attr('h'), function (data) {
+                        if(data)
+                            $(item).replaceWith(data);
+                    });
+                });
+                setTimeout("refreshAd(" + secCnt + ");", secCnt * 1000);
+            }
+        }
+        $(function () {
+            var searchResultsVisible = false;
+
+            //search
+            var searchCriteria = new Object();
+            searchCriteria.pubguid = new Array();
+            searchCriteria.pubguid.push('71d07f70e35e4d9994f97c823ef7d3d5');
+            searchCriteria.pubguid.push('81244ecd754f4aa789c479ecd6780ee1');
+            searchCriteria.pubguid.push('99b116abce2b41208e56e3d1d86100a9');
+            searchCriteria.pubguid.push('a8f4945b20f34ca5966ea43cc4edb03e');
+            searchCriteria.pubguid.push('7081eaf35139438aafa0e5395b31b827');
+            searchCriteria.pubguid.push('64b7bef21d5049e7b46d249fe7c33484');
+            searchCriteria.pubguid.push('c374207a-279a-400f-ae2b-2e25e9817205');
+            searchCriteria.finalfieldlist = 'titletext,guid,pubguid,fullpath,relpath,typename';
+
+            $('#search_box').initSuiteSearch({
+                //searchBtn: '#searchBtn',
+                resultsDiv: '#search_results',
+                dataLoadMethod: 'searchpublisheddocuments',
+                buildGroupMethod: buildSearchGroup,
+                buildItemMethod: buildSearchItem,
+                buildEmptyMethod: function () { return $('<h2>No results found.</h2>'); },
+                onLoadComplete: function () {
+                    if (!searchResultsVisible) {
+                        $('#search_results').appendTo($('body')).css({ 'top': $('#site_search_container').offset().top + 85, 'left': $('#site_search_container').offset().left - 95 });
+                        $('#search_results_modal').appendTo($('body'));
+                        $('#search_results_modal,#search_results').show();
+                        $('#search_results_modal').css({ 'height': (($(document).height())) + 'px' });
+
+                        $(window).resize(function () {
+                            $('#search_results_modal').css({ 'height': (($(document).height())) + 'px' });
+                            $('#search_results').appendTo($('body')).css({ 'top': $('#site_search_container').offset().top + 85, 'left': $('#site_search_container').offset().left - 95 });
+                        });
+                        //$('#searchResults').append('<div><a class="searchResultsMoreLink" href="Search' + '?q=' + $('#searchBox').val() + '">More Search Options</a></div>');
+                        $('#search_results').append('<div>&nbsp;</div>');
+                    }
+                },
+                onLoadError: displayError,
+                dataFilter: searchCriteria,
+                maxResults: 10,
+                resultsPage: siteRoot + 'search',
+                showResultsOnEnter: true
+            });
+
+            $('#search_results_modal').click(function () {
+                $('#search_results_modal,#search_results').hide();
+                searchResultsVisible = false;
+            });
+
+            $('.anythingSlider').anythingSlider({
+                easing: "easeInOutExpo",
+                autoPlay: true,
+                delay: 4000,
+                startStopped: false,
+                animationTime: 700,
+                hashTags: true,
+                buildNavigation: false,
+                pauseOnHover: true,
+                startText: "Go",
+                stopText: "Stop",
+                navigationFormatter: formatText
+            });
+            $("#slide-jump").click(function () {
+                $('.image_slider').anythingSlider(6);
+            });
+
+            floatAdWithScroll();
+
+            //pre-load navigation highligh image so there are no delays
+            var image = $('<img />').attr('src', 'http://flitetest.com/images/nav_highlight.png');
+
+            $.each($('a[refresh]'), function (index, item) {
+                setTimeout("refreshAd(" + $(item).attr('refresh') + ");", $(item).attr('refresh') * 1000);
+            });
+        });
+    </script>
+	
+<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
+<body>
+	<div id="search_results_modal"></div>
+    <form method="post" action="privacy_policy" id="ctl01">
+<input type="hidden" name="sm_TSM" id="sm_TSM" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjM0Njk5MDMxD2QWAmYPZBYEAgEPZBYGAgEPZBYCZg8VARtQcml2YWN5IFBvbGljeSB8IEZsaXRlIFRlc3RkAgIPFQcYaHR0cDovL2ZsaXRldGVzdC5jb20vUlNTLWh0dHA6Ly9mbGl0ZXRlc3QuY29tL2ltYWdlcy9mbGl0ZXRlc3RfaWNvLnBuZ2E8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iRW50ZXJ0YWluaW5nLCBlZHVjYXRpbmcgYW5kIGVsZXZhdGluZyB0aGUgd29ybGQgb2YgZmxpZ2h0IiAvPg0KmwE8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iUkMgUGxhbmVzLCBGUFYsIFNjcmF0Y2ggYnVpbGRzLCBtdWx0aXJvdG9ycywgdHJpY29wdGVyLCBGbGl0ZVRlc3QsIGZsaXRlLCB0ZXN0LCBtb2RlbCwgYWlycGxhbmUsIHJlbW90ZSBjb250cm9sLCBob2JieSIgLz4NCpEDPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cDovL2ZsaXRldGVzdC5jb20iLz4NCjxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0iRW50ZXJ0YWluaW5nLCBlZHVjYXRpbmcgYW5kIGVsZXZhdGluZyB0aGUgd29ybGQgb2YgZmxpZ2h0IiAvPg0KPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgY29udGVudD0iRmxpdGUgVGVzdCIvPg0KPG1ldGEgcHJvcGVydHk9Im9nOnRpdGxlIiBjb250ZW50PSJGbGl0ZSBUZXN0Ii8+DQo8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0idHZfc2hvdyIvPg0KPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJodHRwOi8vZmxpdGV0ZXN0LmNvbS9pbWFnZXMvZmxpdGV0ZXN0X2ZiX2xvZ28uanBnIi8+DQolaHR0cDovL2ZsaXRldGVzdC5jb20vc3R5bGVzL3N0eWxlLmNzczdodHRwOi8vZmxpdGV0ZXN0LmNvbS9zdHlsZXMvanF1ZXJ5LXVpLTEuOC4xOC5jdXN0b20uY3NzZAIEDxUSN2h0dHA6Ly9mbGl0ZXRlc3QuY29tL2pzL3N1aXRlLmNvcmUuMjAxMjEyMDMwNTAzMDg0NjguanMVaHR0cDovL2ZsaXRldGVzdC5jb20vFWh0dHA6Ly9mbGl0ZXRlc3QuY29tLxVodHRwOi8vZmxpdGV0ZXN0LmNvbS8VaHR0cDovL2ZsaXRldGVzdC5jb20vI2h0dHA6Ly9mbGl0ZXRlc3QuY29tL3N0eWxlcy9pZTcuY3NzI2h0dHA6Ly9mbGl0ZXRlc3QuY29tL3N0eWxlcy9pZTYuY3NzFWh0dHA6Ly9mbGl0ZXRlc3QuY29tLzAvcHJpdmFjeV9wb2xpY3kvZDlkMTMxYTYyNDcyYjg0MWEyMTA3MDgwM2IzMTE5OTggNzFkMDdmNzBlMzVlNGQ5OTk0Zjk3YzgyM2VmN2QzZDUgODEyNDRlY2Q3NTRmNGFhNzg5YzQ3OWVjZDY3ODBlZTEgOTliMTE2YWJjZTJiNDEyMDhlNTZlM2QxZDg2MTAwYTkgYThmNDk0NWIyMGYzNGNhNTk2NmVhNDNjYzRlZGIwM2UgNzA4MWVhZjM1MTM5NDM4YWFmYTBlNTM5NWIzMWI4MjcgNjRiN2JlZjIxZDUwNDllN2I0NmQyNDlmZTdjMzM0ODQkYzM3NDIwN2EtMjc5YS00MDBmLWFlMmItMmUyNWU5ODE3MjA1GHNlYXJjaHB1Ymxpc2hlZGRvY3VtZW50cxVodHRwOi8vZmxpdGV0ZXN0LmNvbS9kAgMPZBYCAhkPZBYEAgMPFgIeB1Zpc2libGVoZAIEDxYCHwBoZGQO0lOIZEvAF+9i/lmdq5hrvx90Hp5FXEZV16Mpl3SJXQ==">
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=sm_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a89093640-ae6b-44c3-b8ea-010c934f8924%3aea597d4b" type="text/javascript"></script>
+		
+		<div id="bodywrap">
+			<div id="sitewrapper">
+				<div id="tape1">&nbsp;</div>
+				<div id="tape2">&nbsp;</div>
+				<div id="header">
+					<header>
+						<div id="logo"><a href="./"><img src="images/logo.png" id="Img1" alt="Flite Test Logo"></a></div>
+						<div id="social">
+							<a href="http://www.youtube.com/show/flitetest" target="_blank"><img src="images/social_youtube.png" id="youtube" alt="YouTube"></a>
+							<a href="https://www.facebook.com/flitetest" target="_blank"><img src="images/social_facebook.png" id="facebook" alt="Facebook"></a>
+							<a href="https://twitter.com/#!/FliteTest" target="_blank"><img src="images/social_twitter.png" id="twitter" alt="Twitter"></a>
+						</div>
+						<div id="nav_links">
+							<ul>
+								<li><a href="./" id="A7">Home</a></li>
+								<li><a href="About" id="nl1">About</a></li>
+								<li><a href="Store" id="nl2">Store</a></li>
+								<li><a target="_blank" href="http://forum.flitetest.com">Forum</a></li>
+								<li><a href="Contact" id="nl4">Contact</a></li>
+							</ul>
+						</div>
+						<div id="site_search_container">
+							
+									<ul id="secured_nav">
+										<li><a href="secured/Register" id="secNav_sn4">Register</a></li>
+										<li><a href="secured/Login" id="secNav_sn5">Login</a></li>
+										<li><a href="Help" id="secNav_sn6">Help</a></li>
+									</ul>
+									<div class="welcome">&nbsp;</div>
+								
+							<input type="text" id="search_box">
+                            <div id="search_results"></div>
+						</div>
+					</header>
+				</div>
+				<div id="nav">
+					<nav>
+						<ul class="menu" id="mainmenu">
+                        <li class="nav_planes"><a href="/Planes">Planes</a></li><li class="nav_helicopters"><a href="/Helicopters">Helicopters</a></li><li class="nav_fpv"><a href="/FPV">FPV</a></li><li class="nav_scratch_builds"><a href="/ScratchBuilds">Scratch Builds</a></li><li class="nav_multi_rotor"><a href="/MultiRotor">Multi Rotor</a></li><li class="nav_miscellaneous"><a href="/Miscellaneous">Miscellaneous</a></li><li class="nav_newsroom"><a href="/News/">News</a></li><li class="nav_resources"><a href="/Authors/">Authors</a></li>
+						</ul>
+					</nav>
+				</div>
+
+				<div id="content">
+					<div id="left">
+						
+	<div class="text_content">
+		<p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>About FliteTest.com<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">Flite Test was created for people passionate about flight. Our hope is to create a show for the people that build and fly planes and helicopters as a hobby. They are the dreamers and engineers that get a thrill from the first launch of a maiden flight. The show will personify the veteran and the beginner alike giving them a chance to share common experiences with others, in turn, enhancing the RC community. The goal is to develop a creative outlet that allows us to work in our passion daily. Flite Test is designed to empower our audience. It has just enough humor, technology and information to appeal to the RC flight crowd as a whole. We hope to entertain, educate and elevate our viewers as we move forward with quality content.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">FliteTest.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at<a href="mailto:feedback@flitetest.com?subject=Privacy%20Policy" target="_blank" style="color: rgb(17, 85, 204); ">&nbsp;feedback@FliteTest.com</a>.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Information Collection and Use by FliteTest.com<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">FliteTest.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the FliteTest.com service. FliteTest.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other. FliteTest.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><br></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the FliteTest.com social networking community. Email addresses are used for the purposes of inviting other users and readers to join FliteTest, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on FliteTest.com with each other through the FliteTest.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members.&nbsp;</p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><br></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">To facilitate searching and finding friends and acquaintances on the service, FliteTest.com may allow users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked. We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive email of this type by changing their "notification" setting to "Do not send me notification emails" in the user "Account Settings" From time to time, FliteTest.com or a partner, may sponsor a promotion, sweepstake or contest on FliteTest.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Invitations and Other Communications to Non-members<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">FliteTest members can invite friends to join the service by sending invitation emails via our automated invitation system. FliteTest.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations FliteTest.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from FliteTest.com may contact FliteTest.com to request the removal of their information from our database. FliteTest members may also store email addresses of people they know in their internal FliteTest address book and may also choose to send invitations and other communications to those addresses. You may prevent FliteTest.com email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to<a href="mailto:feedback@flitetest.com?subject=Privacy%20Policy" target="_blank" style="color: rgb(17, 85, 204); ">&nbsp;feedback@FliteTest.com</a>.Please note that the email must come from the account you wish to block.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Use of Cookies<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">FliteTest.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from FliteTest.com in order to use most functions on the site Please note that FliteTest allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the FliteTest Privacy Policy.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Links<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">FliteTest.com contains links to sites. FliteTest.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on FliteTest.com. Chat Rooms, Journals and WebLogs, Message Boards, Classifieds and Public Forums Please be aware that whenever you voluntarily post public information to Journals, WebLogs, Message Boards, Classifieds or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Correcting/Updating or Removing Information<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">FliteTest.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Email Choice/Opt-out<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">Members who no longer wish to receive updates or notifications may choose not to by selecting 'Do not send me notification emails' in the user profile 'Account Settings'. Users who do not wish to receive FliteTest.com newsletters may choose not to by selecting 'Do not send me FliteTest newsletters' in the user profile 'Account Settings'. All notification emails and FliteTest.com newsletters also include the above instructions for opting-out of those communications in the future.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Third Party Advertising<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">Ads appearing on this Web site may be delivered to users by FliteTest.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by FliteTest.com and does not cover the use of cookies by any advertisers.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Security<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">FliteTest.com member accounts are secured by member-created passwords FliteTest.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on FliteTest.com, please contact us a&nbsp;<a href="mailto:feedback@flitetest.com?subject=Privacy%20Policy" target="_blank" style="color: rgb(17, 85, 204); ">feedback@FliteTest.com</a>.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Sharing and Disclosure of Information FliteTest.com Collects<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">Except as otherwise described in this privacy statement, FliteTest will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by FliteTest.com, whether or not a response is required by applicable law; (2) to enforce the FliteTest.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. FliteTest reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of FliteTest or substantially all of its assets to that successor in interest. For more information see the "Changes in Our Privacy Policy" section below.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Changes in Our Privacy Policy<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.<u></u><u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><u></u>&nbsp;<u></u></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto"><b>Contacting the Web Site<u></u><u></u></b></p><p style="margin: 0px; color: rgb(34, 34, 34); font-size: 13px; background-color: rgba(255, 255, 255, 0.917969); font-family: arial, sans-serif; " align="-webkit-auto">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at:<a href="mailto:feedback@flitetest.com?subject=Privacy%20Policy" target="_blank" style="color: rgb(17, 85, 204); ">&nbsp;feedback@FliteTest.com</a>.</p>
+	</div>
+
+					</div>
+					
+                    <div id="right">
+						<div id="ad1" class="ad_small">
+							<a href="/privacy_policy/?z=ef75bd355524466db3613072b3faa066&amp;c=bd5fdd11a682435ab025793b7c3c416f&amp;b=278d5fdc79814caabc62ac01a5e59628" target="_blank"><img src="/images/Advertisements/ft_gpmz4480_freemerch_200.gif" width="196" class="" alt="ft-gpmz4480-freemerch-200.gif"></a>&nbsp;
+<!-- BuySellAds Zone Code -->
+<div id="bsap_1277815" class="bsarocks bsap_6926de45fec1828a6ffd0edfc2adff7a"></div>
+<!-- End BuySellAds Zone Code -->
+							<div class="clear"></div>
+						</div>
+						<div class="clear"></div>
+
+						
+
+
+						<div id="zone4Ad" class="ad_vertical">
+							<a href="http://www.upaper.com/" target="_blank"><img src="http://cloud.upaper.com/image/2P413o463V3C/upaper-200x125.jpg" alt="Altitude Hobbies" width="200px" height="125px"></a>
+
+							<div class="clear"></div>
+							<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6166083963060360";
+/* Flite Test Zone 5 */
+google_ad_slot = "0372651515";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6166083963060360";
+/* Flite Test Zone 6 */
+google_ad_slot = "9426444125";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			
+				<div id="footer">
+					<footer>
+						<div class="column">
+							<h3>Channels</h3>
+							<a href="Planes" id="c1">Planes</a><br>
+							<a href="Helicopters" id="c2">Helicopters</a><br>
+							<a href="FPV" id="c3">FPV</a><br>
+							<a href="ScratchBuilds" id="c4">Scratch Builds</a><br>
+							<a href="MultiRotor" id="c5">Multi Rotor</a><br>
+							<a href="Miscellaneous" id="c6">Miscellaneous</a><br>
+						</div>
+						<div class="column">
+							<h3>Areas of Interest</h3>
+							<a href="Authors" id="a1">Authors</a><br>
+							<a href="Tips" id="a2">Tips</a><br>
+							<a href="Projects" id="a3">Projects</a><br>
+							<a href="Reviews" id="a4">Reviews</a><br>
+							<a href="Just_For_Fun" id="a5">Just for Fun</a><br>
+							<a href="Challenges" id="a6">Challenges</a><br>
+							<a href="News" id="a8">News</a><br>
+						</div>
+						<div class="column">
+							<h3>Miscellaneous</h3>
+							<a href="About" id="m1">About Us</a><br>
+							<a href="Contact" id="m2">Contact Us</a><br>
+							<a href="secured/Login" id="m3">Login</a><br>
+							<a href="secured/MyAccount" id="m4">My Account</a><br>
+							<a href="Store" id="m5">Store</a><br>
+							<a href="http://forum.flitetest.com">Forum</a><br>
+							<a href="terms_of_use" id="m6">Terms of Use</a>
+							<a href="privacy_policy" id="A9">Privacy Policy</a>
+						</div>
+						<div class="copy">
+							© 2012 FliteTest
+							<br>All rights reserved
+						</div>
+					</footer>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-25086582-1']);
+				_gaq.push(['_trackPageview']);
+
+				(function () {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+			
+	
+<!-- BuySellAds Ad Code -->
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<!-- End BuySellAds Ad Code --></form>
+
+
+</body></html>
