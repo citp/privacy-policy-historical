@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ufcundisputed.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628033607id_/http%3A//www.thq.com/us/go/cmspage/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcundisputed.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203145007id_/http%3A//www.thq.com/us/go/cmspage/policy) for the most accurate reproduction.*
 
 # Policy
 
 [](http://www.esrb.org/confirm/thq-confirmation.jsp)
 
-**Privacy Policy – updated** **March 2, 2012 ~~December 13, 2011~~** ****
+**Privacy Policy – Updated** **July 27, 2012** ****
 
 1\. Introduction
 
@@ -30,11 +30,11 @@
 
 ###  12\. What safeguards does THQ use to protect my personal information?
 
-###  13\. How do I ask a question or file a complaint? (Contact Information)
+###  13\. How do I ask a question or file a complaint? (Contact Information) 
 
 **1\. Introduction** ****
 
-THQ Inc. and its subsidiaries and affiliates (collectively " ** _THQ_** ," " ** _we_** ," " ** _us_** ," or " ** _our_** ") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy (" ** _Privacy Policy_** ") to guide how we collect, store, and use the information you provide us online. 
+THQ Inc. and its subsidiaries and affiliates (collectively " ** _THQ_** ," " ** _we_** ," " ** _us_** ," or " ** _our_** ") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ( (" ** _Privacy Policy_** ") to guide how we collect, store, and use the information you provide us online. 
 
 This Privacy Statement and the certification seal located on this page confirm that THQ is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online.](http://www.esrb.org/privacy/index.jsp) To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
 
@@ -58,9 +58,9 @@ Because the website you are currently visiting displays the ESRB Privacy Online 
 
 If you are a visitor from outside the United States, any information you provide (both personal and non-personal) may be transferred to, stored, and processed within the United States or other countries where THQ maintains facilities or business operations. 
 
-If you have any questions, complaints, or comments regarding our Privacy Policy, please contact our Privacy Policy Administrator at the address below. 
+If you have any questions, complaints, or comments regarding our Privacy Policy, please contact our Privacy Policy Administrator at the address below. address below. 
 
-###  2\. What does this Privacy Policy apply to?
+###  2\. What does this Privacy Policy apply to? 
 
 The website you are currently visiting is operated by THQ located at 
 
@@ -92,7 +92,7 @@ In order to give you the best experience on the THQ Properties, THQ may collect 
 
 
 
-The types and amount of personal information collected for these activities will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, e-mail address and (for those purchasing products online) credit card information including billing and shipping addresses. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, Internet Protocol (" ** _IP_** ") address, Steam ID, PlayStation Network ID, Xbox Live Gamertag, game play statistics, game achievements, game scores, game replays, system technical specifications, and other information (also known as " ** _demographic information_** "). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the services we provide you according to your interests and preferences. Please note, when demographic information, or any other non-personal information, is combined with personal information, we shall treat all of the information, collectively, as personal information. Additionally, Social Sites may provide us access to the personal and non-personal information you have provided to them, including your account ID with those services, your name, email address, telephone number, uploaded pictures, friends and family. Such third party information shall only be used for purposes consistent with those stated in this policy. For more on how we use your information, please read the section on use below. 
+The types and amount of personal information collected for these activities will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, e-mail address and (for those purchasing products online) credit card information including billing and shipping addresses. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, Internet Protocol (" ** _IP_** ") address, Steam ID, PlayStation Network ID, Xbox Live Gamertag, game play statistics, game achievements, game scores, game replays, system technical specifications, and other information (also known as " ** _demographic information_** "). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the services we provide you according to your interests and preferences. Please note, when demographic information, or any other non-personal information, is combined with personal information, we shall treat all of the information, collectively, as personal information. Additionally,when you sign into a THQ Property through a Social Site, Social Sites may provide us access to the personal and non-personal information you have provided to them, including your account ID with those services, your name, email address, telephone number, date of birth, country of residence and uploaded pictures, friends and family. Such third party information shall only be used for purposes consistent with those stated in this policy. For more on how we use your information, please read the section on use below. 
 
 Personal information may be collected through your active provision of it by signing up for THQ services or through other online and mobile activities, such as those described above.   The information you allow us to access varies by activity, THQ Property and Social Site, including the privacy settings you establish within the THQ Properties and applicable Social Sites. Non-personal demographic information may be obtained as described above, through the use of passively Technical Methods (as defined in Section 6) or through your active provision of such information to THQ. No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives. 
 
@@ -114,7 +114,7 @@ We may also use your personal, demographic and third party provided information,
 
 Please be advised that in some areas of the THQ Properties, you may be able to submit information about yourself in a business capacity. Although we can assure you that any personal information gathered in this context will be used solely for its intended purpose, such information is not subject to this Privacy Policy. These areas typically include an employment section where you can submit your resume online and/or an investors relations section where you can fill out an online form to request financial information about THQ. 
 
-THQ does not sell, market, trade, or otherwise distribute personally identifiable information to third parties outside of our company. 
+Except as set forth herein, THQ does not sell, market, trade, or otherwise distribute personally identifiable information to third parties outside of our company. 
 
 ###  5\. What happens if I refuse to provide my personal information to THQ?
 
@@ -152,9 +152,9 @@ From time to time, we may run contests, tournaments, or other events or activiti
 
 The THQ Properties or their purchase pages may display an "offer wall" that is hosted by an offer wall provider. The offer wall allows third party advertisers to provide certain in-game benefits, such as in-game currency, to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of those advertisers. These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information and are not offers made by THQ. After clicking on one of these advertisements, you will no longer be at a THQ Website and THQ privacy policy shall not apply to any transactions completed on such website. To properly credit user accounts and to prevent fraud, a unique identifier may be shared with the offer wall provider. This identifier is used to ensure proper crediting of your account, prevent fraud or duplicate offers and to resolve any customer service inquiries that may arise. 
 
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, we will make commercially reasonable efforts to ensure that any organization receiving personal information collected by THQ will adhere to the terms of this Privacy Policy regarding the treatment of your personal information. 
+We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, sale of assets, bankruptcy, or other similar event, we will make commercially reasonable efforts to ensure that any organization receiving personal information collected by THQ will adhere to the terms of this Privacy Policy regarding the treatment of your personal information. 
 
-Except as set forth above and in Section 14 below, we will not disclose your personal information to third parties without your express consent.  We may, however, share certain anonymous demographic data in the aggregate with third parties. 
+Except as set forth above we will not disclose your personal information to third parties without your express consent.  We may, however, share certain anonymous demographic data in the aggregate with third parties. 
 
 ###  8\. Which information is visible to the public and how does THQ protect or use it?
 
