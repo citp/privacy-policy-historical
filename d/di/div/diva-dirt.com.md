@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diva-dirt.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603124700id_/http%3A//www.diva-dirt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diva-dirt.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203135033id_/http%3A//www.diva-dirt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Diva Dirt
 
