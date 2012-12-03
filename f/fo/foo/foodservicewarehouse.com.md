@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506164230id_/http%3A//www.foodservicewarehouse.com/help-center/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203052113id_/http%3A//www.foodservicewarehouse.com/help-center/privacy.aspx) for the most accurate reproduction.*
 
 # The FoodServiceWarehouse.com Privacy Policy
 
@@ -7,6 +7,8 @@
 The information we gather from customers helps us personalize and continually improve your shopping experience at FoodServiceWarehouse.com. Here are the types of information we gather. 
 
 We receive and store any information you enter on our Web site or give us in any other way. We DO NOT store credit card information. You can choose not to provide certain information, but this can limit your access to many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+
+By providing your email address you agree to receive marketing emails from FoodServiceWarehouse.com and may unsubscribe at any time.
 
 We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses FoodServiceWarehouse.com. 
 
