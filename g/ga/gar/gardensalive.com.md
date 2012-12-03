@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425152609id_/http%3A//www.gardensalive.com/article.asp%3Fai%3D723) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203022704id_/http%3A//www.gardensalive.com/article.asp%3Fai%3D723) for the most accurate reproduction.*
 
 # <font color=red size=3><b> Gardens Alive! Privacy Policy</b></font>
 
@@ -12,6 +12,8 @@
 **  • ** | [Questions about beneficial insects?](http://www.gardensalive.com/article.asp?ai=55)  
 **  • ** | [Herbicidal Soap Gets Rid of Weeds Fast  
 ](http://www.gardensalive.com/article.asp?ai=83)  
+**  • ** | [Community Garden  
+](http://www.gardensalive.com/article.asp?ai=1133&sid=0152665&eid=)  
 **  • ** | [Gardens Alive! Privacy Policy](http://www.gardensalive.com/article.asp?ai=723)  
 **   ** |   
 **_Read more in the Gardens Alive! Library..._**[](http://www.gardensalive.com/article.asp?ai=527)  
