@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mondigroup.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612210133id_/http%3A//www.mondigroup.com/desktopdefault.aspx/tabid-20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondigroup.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203220743id_/http%3A//www.mondigroup.com/desktopdefault.aspx/tabid-20) for the most accurate reproduction.*
 
 # Mondi - Privacy
 
-[PROMOTION OF ACCESS TO INFORMATION ACT MANUAL](http://www.mondigroup.com/ResourceImage.aspx?raid=16720)
+[Mondi Ltd Promotion of Access to Information Act](http://www.mondigroup.com/ResourceImage.aspx?raid=157351)
 
 ## 1\. General
 
@@ -32,4 +32,4 @@ Any personal information we collect will be stored in the country in which it is
 
 If you have any further questions regarding this privacy policy, please email us on [info@mondigroup.com](mailto:info@mondigroup.com)
 
-Last change: 02/07/2007
+Last change: 14/09/2012
