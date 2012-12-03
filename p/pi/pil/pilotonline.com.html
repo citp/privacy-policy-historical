@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the pilotonline.com privacy policy that was archived on 2012-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607034953id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pilotonline.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203173430id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>    
-
       <meta name="google-site-verification" content="r6otw7vS7DOF-otmmHVtU2CaX1KEk6VEaZ-bM5-BSHI">    
   	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://hamptonroads.com/atom/feed">
 <link rel="alternate" type="application/atom+xml" title="Atom" href="http://hamptonroads.com/atom/feed">
 <meta name="description" content="HamptonRoads.com, PilotOnline.com &amp;amp; HamptonRoads.tv Privacy Policy Last Updated on July 23,&amp;nbsp;2009">
 <meta name="keywords" content="About Us,PilotOnline.com,hampton roads news,virginia news,norfolk news,virginia beach news,chesapeake,portsmouth,suffolk,newport news,hampton news,williamsburg news,outer banks news">
@@ -45,33 +45,64 @@
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> 
  <![endif]-->    
    
-  <script src="http://www.google.com/jsapi?key=ABQIAAAAoFOVC7u-IziWPap_Ofr2whRuTFkrcv7Y_UfR8eRnqMYYx8IhVhQqEPr4t8Na08nv6bY85dCrm4LQEA"></script>
+  <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://www.google.com/jsapi?key=ABQIAAAAoFOVC7u-IziWPap_Ofr2whRuTFkrcv7Y_UfR8eRnqMYYx8IhVhQqEPr4t8Na08nv6bY85dCrm4LQEA"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+ 
+    
     
 	 
 	<!-- Put this code in the head of all pages -->
-    
 
 
-  <script src="http://ad.crwdcntrl.net/5/c=817/pe=y/var=ccauds"></script>
-  <script>  
-     // LOTAME: prepare key/value pair of user audiences.
-     var ccKeywords = "keyword="; 
-     if (typeof(ccauds) != 'undefined') {
-       for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
-         if (cci > 0) ccKeywords += "&keyword="; 
-         ccKeywords += ccauds.Profile.Audiences.Audience[cci].abbr;
-       } 
-     }
-    
-     var OAS_url = 'http://oascentral.hamptonroads.com/RealMedia/ads/',
-         OAS_sitepage = 'www.hamptonroads.com/pilotonline.com/about_us',
-         OAS_listpos = 'Top,Top1,Right,Middle,Position1,Bottom',
-         OAS_query = ccKeywords + "/channels",
-         OAS_rns = (Math.random() + "").substring(2, 11);
-     document.write('<script type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
-  </script><script type="text/javascript" src="http://oascentral.hamptonroads.com/RealMedia/ads/adstream_mjx.ads/www.hamptonroads.com/pilotonline.com/about_us/1341433176@Top,Top1,Right,Middle,Position1,Bottom?keyword=/channels"></script>
 
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+ <!-- LOTAME -->
+<script src="http://ad.crwdcntrl.net/5/c=817/pe=y/var=ccauds"></script>
+<script>  
+ // LOTAME: prepare key/value pair of user audiences.
+ var ccKeywords = [];
+ if (typeof(ccauds) != 'undefined') {
+   for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
+     if (cci > 0){
+       ccKeywords.push(ccauds.Profile.Audiences.Audience[cci].abbr);
+     } 
+   } 
+ }     
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+  var leaderbtm =  googletag.defineSlot("/6119101/below.hamptonroads.com/about_us", [728, 90], "leaderboard-bottom").addService(googletag.pubads()).setTargeting("pos", "bottom");
+ 
+ if (ccKeywords.length > 0){ leaderbtm.setTargeting("lotame", ccKeywords); }
+ var leader = googletag.defineSlot("/6119101/hamptonroads.com/about_us", [728, 90], "leaderboard").addService(googletag.pubads()).setTargeting("pos", "top");
+ 
+ if (ccKeywords.length > 0){ leader.setTargeting("lotame", ccKeywords); }
+  var promo_topright = googletag.defineSlot("/6119101/hamptonroads.com/about_us", [220, 90], "hrpo_promo").addService(googletag.pubads()); 
+ if (ccKeywords.length > 0){ promo_topright.setTargeting("lotame", ccKeywords); }
+  var medrect =   googletag.defineSlot("/6119101/hamptonroads.com/about_us", [300, 250], "medium-rectangle").addService(googletag.pubads()); 
+ if (ccKeywords.length > 0){ medrect.setTargeting("lotame", ccKeywords); }
+  var skyhigh =  googletag.defineSlot("/6119101/hamptonroads.com/about_us", [160, 600], "skyscraper").addService(googletag.pubads()); 
+ if (ccKeywords.length > 0){ skyhigh.setTargeting("lotame", ccKeywords); }
+    googletag.defineSlot("/6119101/hamptonroads.com/about_us", [300, 150], "daily-deal").addService(googletag.pubads());
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+   });
+</script>
 	<title>Privacy Policy | HamptonRoads.com | PilotOnline.com</title>
 
 	
@@ -102,7 +133,7 @@
 								margin:12px 10px 0px 10px;
 								padding-top:4px;
 								};
-			</style><div id="weather-widget" style="background:url(http://media.hamptonroads.com/media/images/img/weather-icons/42/97.png) 50px 0px no-repeat;"><span style="color:#990000 !important; font-weight:bold; font-size:16px;">62° </span><br>forecast</div><script>
+			</style><div id="weather-widget" style="background:url(http://media.hamptonroads.com/media/images/img/weather-icons/42/66.png) 50px 0px no-repeat;"><span style="color:#990000 !important; font-weight:bold; font-size:16px;">66° </span><br>forecast</div><script>
 $("#weather-widget").mouseenter(function(){
 	$(this).css("color", "#990000");
 	$(this).css("cursor", "pointer");
@@ -124,19 +155,18 @@ $("#weather-widget").click(function(){
 <li class="leaf"><a href="https://virginianpilot.hamptonroads.com/" title="Complete digital replica of The Virginian-Pilot">ePilot</a></li>
 <li class="leaf"><a href="https://managesubscription.pilotmediacompanies.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html" title="Subscribe to the newspaper or manage your subscription">Subscriptions</a></li>
 <li class="leaf"><a href="http://thevirginianpilot.com/" title="Advertise in the newspaper and online">Advertising</a></li>
-<li class="expanded"><a href="https://vpsecure.hamptonroads.com/store/" title="Buy photos, reprints, posters, books and more from The Virginian-Pilot">Pilot Store</a>
+<li class="expanded"><a href="http://pilot-store.myshopify.com/" title="Buy photos, reprints, posters, books and more from The Virginian-Pilot">Pilot Store</a>
 <ul class="menu">
 <li class="expanded"><a href="https://vpsecure.hamptonroads.com/store/" title="Buy photos, reprints, posters, books and more from The Virginian-Pilot">Buy</a>
 <ul class="menu">
 <li class="leaf"><a href="http://pilot.mycapture.com/mycapture/" title="Buy photos from The Virginian-Pilot">Photographs</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/store/catalog/1" title="Buy reprints of multi-part series from The Virginian-Pilot">Series reprints</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/store/catalog/4" title="Buy books from The Virginian-Pilot">Books</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/store/catalog/11" title="Buy keepsakes from The Virginian-Pilot">Keepsakes</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/store/catalog/21" title="Buy keepsakes from Best of Hampton Roads">Best of Hampton Roads</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/pilot/distinction/subscribe.php" title="Subscribe to Distinction magazine">Distinction subscriptions</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/store/catalog/3" title="Buy Hampton Roads merchandise">Merchandise</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/store/content/apparel-merchandise-sportswear" title="High school, college, military and sports team gear.">Apparel</a></li>
-<li class="leaf"><a href="https://vpsecure.hamptonroads.com/store/catalog/1" title="Subscribe to Times of Tidewater">Times of Tidewater</a></li>
+<li class="leaf"><a href="http://pilot-store.myshopify.com/collections/reprint" title="Buy reprints of multi-part series from The Virginian-Pilot">Series reprints</a></li>
+<li class="leaf"><a href="http://pilot-store.myshopify.com/collections/book" title="Buy books from The Virginian-Pilot">Books</a></li>
+<li class="leaf"><a href="http://pilot-store.myshopify.com/collections/keepsake-plaque" title="Buy keepsakes from The Virginian-Pilot">Keepsakes</a></li>
+<li class="leaf"><a href="http://pilot-store.myshopify.com/collections/best-of" title="Buy keepsakes from Best of Hampton Roads">Best of Hampton Roads</a></li>
+<li class="leaf"><a href="http://pilot-store.myshopify.com/pages/subscriptions" title="Subscribe to Distinction magazine">Distinction subscriptions</a></li>
+<li class="leaf"><a href="http://pilot-store.myshopify.com/collections/all" title="Buy Hampton Roads merchandise">Merchandise</a></li>
+<li class="leaf"><a href="http://pilot-store.myshopify.com/pages/apparel-merchandise-sportswear" title="High school, college, military and sports team gear.">Apparel</a></li>
 
 </ul>
 </li>
@@ -183,23 +213,23 @@ $("#weather-widget").click(function(){
 	  
 		 
 	  <div class="adholder">
-	    <div class="leaderboard">
-			<script>
-			<!--
-		  OAS_RICH('Top');
-			//-->
-			</script>
-		
-		</div>
+      <div id="leaderboard" class="leaderboard">
+        <script type="text/javascript">
+          googletag.cmd.push(function() {
+          googletag.display("leaderboard"); 
+        });
+        </script>
+      </div> 
 
-		<div class="hrpo_promo">   
-    <script>
-    <!--
-    OAS_RICH('Top1');
-    //-->
-    </script>
-		</div>
-   </div> <!-- /adholder -->
+      <div id="hrpo_promo" class="hrpo_promo">
+        <script type="text/javascript">
+          googletag.cmd.push(function() {
+          googletag.display("hrpo_promo"); 
+          });
+        </script>
+      </div>    
+   </div> <!-- /adholder -->   
+   
 
      
 <div id="navigation">
@@ -231,10 +261,10 @@ $("#weather-widget").click(function(){
 </div>
 <nav id="main_nav">
 <ul id="main_nav_ul" class="parent_nav">
-<li class="expanded"><a href="/2007/10/pilot-news" title="News about Hampton Roads from PilotOnline.com">News</a>
+<li class="expanded"><a href="/pilot/news" title="News about Hampton Roads from PilotOnline.com">News</a>
 <ul class="menu">
-<li class="leaf topstory"><h3><a href="/2012/06/cordish-urges-norfolk-act-waterside-proposal">Top story</a></h3>
-<a href="/2012/06/cordish-urges-norfolk-act-waterside-proposal" class="nav_top_story">Cordish urges Norfolk to act on Waterside proposal</a>
+<li class="leaf topstory"><h3><a href="/2012/12/second-arrest-made-killing-norfolk-officer">Top story</a></h3>
+<a href="/2012/12/second-arrest-made-killing-norfolk-officer" class="nav_top_story">Second arrest made in killing of Norfolk officer</a>
 </li>
 <li class="expanded"><a href="/#" title="News about Hampton Roads from PilotOnline.com">Topics</a>
 <ul class="menu">
@@ -243,6 +273,7 @@ $("#weather-widget").click(function(){
 <li class="leaf"><a href="http://hamptonroads.com/crime" title="News about Hampton Roads crime from PilotOnline.com">Crime</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/pilot/news/politics" title="News about the Virginia General Assembly and state government">Politics &amp; Elections</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/schoolzone" title="News about the Hampton Roads schools from PilotOnline.com">Education</a></li>
+<li class="leaf"><a href="http://hamptonroads.com/life/health" title="Health issues and the business of medicine">Health &amp; Medicine</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/pilot/photography" title="Photography of Hampton Roads from PilotOnline.com">Photography</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/video" title="Video of Hampton Roads from PilotOnline.com">Video</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/datapilot" title="DataPilot for crime, schools, demographics and more">Databases</a></li>
@@ -262,15 +293,16 @@ $("#weather-widget").click(function(){
 
 </ul>
 </li>
-<li class="expanded"><a href="/2007/10/opinion" title="Editorials, opinion and columnist from The Virginian-Pilot">Opinion</a>
+<li class="expanded"><a href="/pilot/opinion" title="Editorials, opinion and columnist from The Virginian-Pilot">Opinion</a>
 <ul class="menu">
-<li class="leaf topstory"><h3><a href="/2012/06/bloodshed-syria-must-end">Top story</a></h3>
-<a href="/2012/06/bloodshed-syria-must-end" class="nav_top_story">The bloodshed in Syria must end</a>
+<li class="leaf topstory"><h3><a href="/2012/12/hole-hiring-norfolk-schools">Top story</a></h3>
+<a href="/2012/12/hole-hiring-norfolk-schools" class="nav_top_story">A hole in hiring at Norfolk Schools</a>
 </li>
 <li class="expanded"><a href="http://hamptonroads.com/pilot/opinion" title="Editorials, opinion and columnists from The Virginian-Pilot">Topics</a>
 <ul class="menu">
 <li class="leaf"><a href="http://hamptonroads.com/pilot/opinion" title="Editorials from The Virginian-Pilot">Editorials</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/blogs/letters-editor-bletters" title="Letters to the editor from The Virginian-Pilot">Letters to the editor</a></li>
+<li class="leaf"><a href="http://hamptonroads.com/poll" title="Vote and comment on current issues">Polls</a></li>
 
 </ul>
 </li>
@@ -293,10 +325,10 @@ $("#weather-widget").click(function(){
 
 </ul>
 </li>
-<li class="expanded"><a href="/2007/10/pilot-business" title="Business news for Norfolk, Virginia Beach and all of Hampton Roads">Business</a>
+<li class="expanded"><a href="/pilot/business" title="Business news for Norfolk, Virginia Beach and all of Hampton Roads">Business</a>
 <ul class="menu">
-<li class="leaf topstory"><h3><a href="/2012/06/pembroke-mall-auctions-contents-food-court">Top story</a></h3>
-<a href="/2012/06/pembroke-mall-auctions-contents-food-court" class="nav_top_story">Pembroke Mall auctions off contents of food court</a>
+<li class="leaf topstory"><h3><a href="/2012/12/norfolk-southern-told-pay-288000-injury-case">Top story</a></h3>
+<a href="/2012/12/norfolk-southern-told-pay-288000-injury-case" class="nav_top_story">Norfolk Southern told to pay $288,000 in injury case</a>
 </li>
 <li class="expanded"><a href="/#" title="Business Topics">Topics</a>
 <ul class="menu">
@@ -318,10 +350,10 @@ $("#weather-widget").click(function(){
 
 </ul>
 </li>
-<li class="expanded"><a href="/2007/10/pilot-military" title="Military coverage in Hampton Roads from The Virginian-Pilot">Military</a>
+<li class="expanded"><a href="/pilot/military" title="Military coverage in Hampton Roads from The Virginian-Pilot">Military</a>
 <ul class="menu">
-<li class="leaf topstory"><h3><a href="/2012/06/man-gets-prison-posing-seal-identity-theft-case">Top story</a></h3>
-<a href="/2012/06/man-gets-prison-posing-seal-identity-theft-case" class="nav_top_story">Man gets prison for posing as SEAL in identity theft case</a>
+<li class="leaf topstory"><h3><a href="/2012/12/after-70-years-navy-base-blast-fades-memory">Top story</a></h3>
+<a href="/2012/12/after-70-years-navy-base-blast-fades-memory" class="nav_top_story">After 70 years, Navy base blast fades from memory</a>
 </li>
 <li class="expanded"><a href="/#" title="Military coverage in Hampton Roads from The Virginian-Pilot">Topics</a>
 <ul class="menu">
@@ -343,15 +375,15 @@ $("#weather-widget").click(function(){
 
 </ul>
 </li>
-<li class="expanded"><a href="/2007/10/pilot-sports" title="Sports news from PilotOnline.com">Sports</a>
+<li class="expanded"><a href="/pilot/sports" title="Sports news from PilotOnline.com">Sports</a>
 <ul class="menu">
-<li class="leaf topstory"><h3><a href="/2012/06/admirals-strive-win-title-even-real-life-intrudes">Top story</a></h3>
-<a href="/2012/06/admirals-strive-win-title-even-real-life-intrudes" class="nav_top_story">Admirals strive to win title, even as real life intrudes</a>
+<li class="leaf topstory"><h3><a href="/2012/12/odus-taylor-heinicke-finalist-dudley-award">Top story</a></h3>
+<a href="/2012/12/odus-taylor-heinicke-finalist-dudley-award" class="nav_top_story">ODU's Taylor Heinicke a finalist for Dudley Award</a>
 </li>
 <li class="expanded"><a href="/#" title="Sports news from PilotOnline.com">Topics</a>
 <ul class="menu">
 <li class="leaf"><a href="http://hamptonroads.com/pilot/sports" title="Sports news about Hampton Roads from PilotOnline.com">Local sports</a></li>
-<li class="leaf"><a href="http://customwire.ap.org/dynamic/fronts/SPORTS?SITE=VANOV&amp;SECTION=SPORTS" title="National sports news from PilotOnline.com">National sports</a></li>
+<li class="leaf"><a href="http://hosted.ap.org/dynamic/fronts/SPORTS?SITE=VANOV&amp;SECTION=SPORTS" title="News on the major leagues and pros">National sports</a></li>
 <li class="leaf"><a href="http://www.757teamz.com/" title="News about Hampton Roads high school sports from PilotOnline.com">High schools</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/pilot/sports/college-football" title="Virginia Tech, U.Va., Norfolk State and other teams">College football</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/pilot/sports/odu-football" title="Old Dominion football news from PilotOnline.com">ODUBlitz.com</a></li>
@@ -378,8 +410,8 @@ $("#weather-widget").click(function(){
 </li>
 <li class="expanded"><a href="/2007/10/weather" title="Weather forecasts and news from PilotOnline.com">Weather</a>
 <ul class="menu">
-<li class="leaf topstory"><h3><a href="/2012/06/weather-highs-70s-isolated-showers-possible">Top story</a></h3>
-<a href="/2012/06/weather-highs-70s-isolated-showers-possible" class="nav_top_story">Weather: Highs in the 70s, isolated showers possible</a>
+<li class="leaf topstory"><h3><a href="/2012/12/weather-few-more-days-warmth-then-cold-again">Top story</a></h3>
+<a href="/2012/12/weather-few-more-days-warmth-then-cold-again" class="nav_top_story">Weather: Few more days of warmth, then cold again</a>
 </li>
 <li class="expanded"><a href="http://hamptonroads.com/weather" title="Weather forecasts and news from PilotOnline.com">Forecast</a>
 <ul class="menu">
@@ -430,13 +462,13 @@ $("#weather-widget").click(function(){
 <li class="expanded"><a href="http://hamptonroads.com/entertainment" title="Entertainment news from HamptonRoads.com">Entertainment</a>
 <ul class="menu">
 <li class="leaf"><a href="http://hamptonroads.com/entertainment" title="Entertainment news from HamptonRoads.com">Entertainment</a></li>
-<li class="leaf"><a href="/2012/04/opsail" title="OpSail 2012 Virginia Guide">OpSail 2012 Virginia</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/music-and-nightlife" title="Music events from HamptonRoads.com">Music &amp; Nightlife</a></li>
 <li class="leaf"><a href="http://affiliate.zap2it.com/movies/mvhome.do?aid=31dmov600" title="Movie times, locations and reviews from HamptonRoads.com">Movies</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/restaurants" title="Dining and restaurant news from Hamptonroads.com">Dining</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/celebrity" title="Celebrity news from HamptonRoads.com">Celebrities</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/events" title="Find events in the HamptonRoads.com calendar">Events</a></li>
 <li class="leaf"><a href="http://affiliate.zap2it.com/tvlistings/ZCTVHome.do?aid=31d" title="Television listings from HamptonRoads.com">Television</a></li>
+<li class="leaf"><a href="http://hamptonroads.com/holidays" title="Holidays in Hampton Roads">Holidays</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/gruss" title="Columnns by Mike Gruss">Mike Gruss</a></li>
 
 </ul>
@@ -477,6 +509,12 @@ $("#weather-widget").click(function(){
 <div class="wrapper-inner">
 
 	<div id="main">
+	  	<!-- DFP Sliding Billboard ad tag--> 
+	                   
+	<!--  / DFP Sliding Billboard ad tag-->
+	 
+	  
+	  
 				<section id="leftColumn">
 			
 		
@@ -630,25 +668,27 @@ Last Updated on July 23, 2009</p>
 		
 	
 
-		<script type="text/javascript">
-	<!--
-	OAS_RICH('Middle');
-	//-->
-	</script>
+		  <div id="medium-rectangle">
+    <script>
+      googletag.cmd.push(function() {
+      googletag.display("medium-rectangle"); 
+    });
+    </script>
+  </div>
   <div class="clear"></div>
+
+
 
 <!-- Adding Daily Deal as OAS tag. ticket:1753 -->
 <!-- <div class="clear hgt-10"></div> -->
 <div class="ad_position1">
-<script type="text/javascript">
-
-<!--
-
-OAS_RICH('Position1');
-
-//-->
-
-</script>
+	  <div id="daily-deal">
+    <script>
+      googletag.cmd.push(function() {
+      googletag.display("daily-deal"); 
+    });
+    </script>
+  </div> 
 </div>
 <!-- End ticket:1753 -->
 
@@ -712,11 +752,13 @@ OAS_RICH('Position1');
 </div><!-- /END story-tools" -->
 </td>
 <td valign="top" width="164">
-			<script type="text/javascript">
-	<!--
-	OAS_RICH('Right');
-	//-->
-	</script>
+			  <div id="skyscraper">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {
+      googletag.display("skyscraper"); 
+    });
+    </script>
+  </div> 
 	</td>
 </tr>
 </tbody></table>
@@ -779,18 +821,13 @@ OAS_RICH('Position1');
 <div class="clear"></div> 	
 <div class="adsense_leader">
 <!-- BOTTOM LEADERBOARD -->
-
- 
-
-<script>
-
-<!--
-
-OAS_RICH('Bottom');
-
-//-->
-
-</script>
+  <div id="leaderboard-bottom">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+    googletag.display("leaderboard-bottom"); 
+  });
+  </script>
+ </div>
 </div>
 
 		</div><!-- /END main -->
@@ -810,7 +847,7 @@ OAS_RICH('Bottom');
 <li class="leaf"><a href="http://hamptonroads.com/about-us" title="About Pilot Media Companies">About us</a></li>
 <li class="leaf"><a href="http://contact.hamptonroads.com/" title="Contact The Virginian-Pilot">Contact us</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/newsroom_staff" title="Newsroom staff directory for The Virginian-Pilot">News staff</a></li>
-<li class="leaf"><a href="https://commsjobs.ats.hrsmart.com/cgi-bin/a/alljobs.cgi?qty=25&amp;order=jobs.timedate%20DESC" title="Careers at Pilot Media Companies">Work for us</a></li>
+<li class="leaf"><a href="https://mypilotmediacareers.silkroad.com/" title="Careers at Pilot Media Companies">Work for us</a></li>
 <li class="leaf"><a href="http://hamptonroads.com/privacy" title="Privacy policy for PilotOnline.com">Privacy policy</a></li>
     </ul>
 </nav>
@@ -856,7 +893,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.17. -->
 
-<!-- Hit: 6 / 10; Set: 3; Q: 0; T: 355.64 ms; vpapp4.vapilot.pitdc1.expedient.net //-->
+<!-- Hit: 8 / 13; Set: 4; Q: 0; T: 1495.37 ms; vpapp3.vapilot.pitdc1.expedient.net //-->
 
 <script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
 <script type="text/javascript" src="/sites/all/themes/hamptonroads/js/hr_po_functions.js"></script>
@@ -866,5 +903,4 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
  
 
 
-<!-- 2012-06-06 23:32:25 :: 2012-06-06 23:42:25 -->
 </body></html>
