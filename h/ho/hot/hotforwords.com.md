@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042319id_/http%3A//hotforwords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203064932id_/http%3A//hotforwords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
