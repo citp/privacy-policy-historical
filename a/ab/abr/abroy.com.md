@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abroy.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602214323id_/http%3A//www.abroy.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abroy.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203043644id_/http%3A//www.abroy.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Abroy.com - Games for Smart People
 
@@ -56,7 +56,7 @@ Abroy.com PRIVACY POLICY
 
 8.3. The Site may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the site and our web-based newsletters or other communications which you may choose to receive. Often these third party advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your Personal Information by third parties in connection with their advertisements, promotions and other websites you encounter on the internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your Personal Information.
 
-8.4. This Privacy Policy does not cover any use of Personal Information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers’ tracking technology is subject to their own privacy policies. For more information about these third party servers and how to “opt out” of the ad-serving cookie. Here is the link to opt-out page on the NAI’s (<http://www.networkadvertising.org/managing/opt_out.asp>) consumer website – <http://www.valueclickmedia.com/privacy.shtml>
+8.4. This Privacy Policy does not cover any use of Personal Information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers’ tracking technology is subject to their own privacy policies. For more information about these third party servers and how to “opt out” of the ad-serving cookie. Here is the link to opt-out page on the NAI’s (<http://www.networkadvertising.org/managing/opt_out.asp>) consumer website – [http://www.valueclickmedia.com/about/privacy](http://www.valueclickmedia.com/privacy.shtml)
 
 **9\. Information and questions**
 
@@ -68,4 +68,4 @@ Abroy.com PRIVACY POLICY
 
 10.2. This Privacy Policy was last modified on the 25th of May, 2010 and is effective immediately.
 
-2010 Abroy.com - All Rights Reserved
+2012 Abroy.com - All Rights Reserved
