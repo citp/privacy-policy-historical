@@ -1,565 +1,304 @@
-<!--The following is the downloaded HTML source of the deseretbook.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629083626id_/http%3A//deseretbook.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deseretbook.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203144031id_/http%3A//deseretbook.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 	<title>DeseretBook.com - Privacy Policy</title>	
 	
 	<!-- META TAGS -->
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 	<!-- STYLESHEET -->
-	<link href="http://cdn.deseretbook.com/assets/application-834c74d9f2b63e9f9fb34af827218e2b.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://cdn.deseretbook.com/assets/application-10c56d0b490cd63a0e10b7d528d49bf7.css" media="screen" rel="stylesheet" type="text/css">
 	
+	<!--[if IE 7]>
+  	<link href="http://cdn.deseretbook.com/assets/ie7-d47219e6014b43a6085eaa22a14c3537.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <!--[if IE]>
+    <link href="http://cdn.deseretbook.com/assets/ie-5a90ce06ffb7c1dfddd17f4e38067f53.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
 
 	<!-- JAVASCRIPT -->
-	<script src="http://cdn.deseretbook.com/assets/application-53bae2573a90129d34367d32b525e5dc.js" type="text/javascript"></script>
+	<script src="http://cdn.deseretbook.com/assets/application-6ac6849cd675f1b7ecbce82d5be10281.js" type="text/javascript"></script>
 	
 	
-	<script type="text/javascript">
-  //global var to hold search suggestion status
-  retrieving = new Object;
-  retrieving['authors'] = false;
-  retrieving['categories'] = false;
-  retrieving['titles'] = false;
-  empty = new Object;
-  empty['authors'] = true;
-  empty['categories'] = true;
-  empty['titles'] = true;
-  last_q = new Object;
-  last_q['authors'] = '';
-  last_q['categories'] = '';
-  last_q['titles'] = '';
 
-
-  $(document).ready( function() {
-    $('form.search').mouseleave( function() { $('#search_suggest').hide(); $('.selected').removeClass('selected'); });
-    $('#search_box').one('focus', function() { document.getElementById('search_box').value='';});
-    $('#search_box').mouseenter( function() { 
-      if ( !empty['titles'] || !empty['authors'] || !empty['categories'] ) {
-        $('#search_suggest').show();
-      }
-    });
-  });
-
-	//This function stops the search button click from happening with invalid searches
-	$(document).ready(function() {
-		$('form.search').submit( function(e) {
-			remove_warning();
-			var q = $('input#search_box').val();
-			if (q == 'search by author, title, or sku' || q == '') {
-				add_warning(q)
-				if (e.preventDefault) {
-					e.preventDefault();
-				} else {
-					e.returnValue = false;
-				}
-				return false;
-			} else {
-				return true;
-			}
-		});
-		
-		return;
-	});
-	
-	function add_warning(q) {
-		var msg = 'Search value cannot be the default';
-		if (q == '') {
-			var msg = 'Search value cannot be blank';			
-		}
-		var warning = '<div id="warning" style="color:red;padding-top: 45px;padding-right: 400px;">' + msg + '</span>';
-		$('div.header').append(warning);
-		setTimeout('remove_warning()', 2500);
-	}
-	
-	function remove_warning() {
-		$('#warning').remove();
-		return false;
-	}
-
-  function search_suggest(e) {
-		var keyCode = e.which;
-		if (keyCode == undefined) {
-			keyCode = e.keyCode;
-		}
-		
-		if (keyCode > 45 && keyCode < 90 || keyCode == 8) {
-			remove_warning();
-			var q = $('input#search_box').val();
-	    if (q.length = 0) $('#search_suggest').hide();
-	    if (q.length < 2) {
-				if (q == 'search by author, title, or sku' || q == '') {
-					add_warning(q)
-					return false;
-				}
-	      // clean up drop down
-	      empty['authors'] = true;
-	      empty['categories'] = true;
-	      empty['titles'] = true;
-	      $('#search_suggest div').each( function() { 
-	        $('ul', this).replaceWith('<ul></ul>'); //empty lists
-	        $(this).hide(); // hide list divs (headings), create jQuery obj explicitly for IE for IE
-	      }); 
-	      $('#search_suggest').hide(); //hide container
-	      return;
-	    }
-	    get_suggestions(q, 'authors');
-	    get_suggestions(q, 'categories');
-	    get_suggestions(q, 'titles');
-		} else {
-			switch(keyCode) {
-				case 40: // down arrow
-					found = 0;
-					var found = find_selected();
-					if (found > 0) {
-						var selected = $(".selected");
-						if (selected.next().text() == "")
-							go_to_next(found)
-						else
-							selected.next().addClass("selected");
-
-						selected.removeClass("selected");
-					} else {
-						$("#search_suggest li:first").addClass("selected");
-					}
-					break;
-				case 13: // enter
-					var found = find_selected();
-					if (found > 0) {
-						var link = $(".selected").children();
-						window.location = link.attr('href');
-					}
-					break;
-				case 38: // up arrow
-					found = 0;
-					var found = find_selected();
-					if (found > 0) {
-						var selected = $(".selected");
-						if (selected.prev().text() == "")
-							go_to_prev(found)
-						else
-							selected.prev().addClass("selected");
-
-						selected.removeClass("selected");
-					} else {
-						$('#search_suggest li:last').addClass("selected");
-					}
-					break;
-			}
-		}
-  }
-
-
-
-  function get_suggestions(q, list) {
-    q = q.replace(/[^A-Za-z0-9]/g,' ');
-
-    if(retrieving[list]) return;
-    retrieving[list] = true;
-    last_q[list] = q;
-
-    //define these here to keep list in scope
-    var success_callback = function(data){ 
-      if (data.items.length != 0) {
-        $('#search_suggest_' + list).show(); 
-        $('#search_suggest_' + list + ' ul').replaceWith('<ul id="' + list + '">' + data.items + '</ul>'); 
-        empty[list] = false
-      } else {
-        $('#search_suggest_' + list).hide(); 
-        $('#search_suggest_' + list + ' ul').replaceWith('<ul id="' + list + '"></ul>'); 
-        empty[list] = true
-      }
-    };
-    var complete_callback = function() { 
-      retrieving[list] = false;
-      var new_q = $('input#search_box').val();
-      if (last_q[list] != new_q) get_suggestions(new_q, list);
-      if (empty['authors'] && empty['categories'] && empty['titles']) $('#search_suggest').hide();
-      else $('#search_suggest').show();
-    }
-
-    $.ajax({
-      url: '/ajax/suggest_' + list,
-      dataType: 'json',
-      data: 'q=' + q, 
-      success: success_callback,
-      complete: complete_callback
-    });
-
-  }
-	
-	function find_selected() {
-		var ret = 0;
-		$('#titles li').each( function(i, node) {
-			if ($(this).hasClass("selected")) {
-			 ret = 1;
-			}
-		});
-		$('#authors li').each( function() {
-			if ($(this).hasClass("selected")) {
-			 ret = 2;
-			}
-		});
-		$('#categories li').each( function() {
-			if ($(this).hasClass("selected")) {
-			 ret = 3;
-			}
-		});
-		return ret;
-	}
-	
-	function go_to_next(box) {
-		switch(box) {
-			case 1:
-				if ($('#authors > li').size() > 0)
-					$('#authors li:first').addClass("selected");
-				else if ($('#categories > li').size() > 0)
-					$('#categories li:first').addClass("selected");
-				else
-					$('#search_suggest li:first').addClass("selected");
-				break;
-			case 2:
-				if ($('#categories > li').size() > 0)
-					$('#categories li:first').addClass("selected");
-				else
-					$('#search_suggest li:first').addClass("selected");
-				break;
-		}
-	}
-	
-	function go_to_prev(box) {
-		switch(box) {
-			case 2:
-				if ($('#titles > li').size() > 0)
-					$('#titles li:last').addClass("selected");
-				else
-					$('#search_suggest li:last').addClass("selected");
-				break;
-			case 3:	
-				if ($('#authors > li').size() > 0)
-					$('#authors li:last').addClass("selected");
-				else if ($('#titles > li').size() > 0)
-					$('#titles li:last').addClass("selected");
-				else
-					$('#search_suggest li:last').addClass("selected");
-				break;
-		}
-	}
-	
-	$(document).ready(function () {
-		$('input#search_box').keypress(function(e) {
-			var code = (e.keyCode ? e.keyCode : e.which);
-			if (code == 38) {
-				if (e.preventDefault)
-					e.preventDefault();
-				e.returnValue = false;
-				return false;
-			}
-		});
-		
-		return;
-	});
-  
-</script>
-
-	<script type="text/javascript">
-
-	function showKid(element) {
-		element.css("display", "block");
-	}
-	
-	$(document).ready( function () {
-		$.each(jQuery('li.dd'), function() {
-			$(this).hoverIntent(
-				function() {
-					$(this).children("div.dd_cont").css("display", "block");
-				},
-				function() {
-					$(this).children("div.dd_cont").css("display", "none");					
-				});
-		});
-	});
-</script>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="zkyYYWCCCFvnhpF02LerVBS7Nx18WFEkr365KfPxU64=">
 
 </head>
+<body>
+  
+  <div id="container">
+    
+    <div id="header">
+  <div id="headerBg"></div>
+  <a href="/" id="headerLogo"></a> 
 
-<body id="body">
-
-
-
-
-<div class="container">
-  <div class="header_shadow">
-    <div class="header">
-      <a href="/" class="logo"></a>
-      <div class="admin">
-        <div class="account_info" id="account_info">
-          <a href="/cart?cartview=true" class="cart_img"><img alt="Cart" src="http://cdn2.deseretbook.com/assets/cart-aaae1992ab6e61e17379f8804806e1a1.gif"></a>
-<a href="/insider">Email Offers</a> &nbsp;|&nbsp;
-<a href="/stores/home">Store Locator</a> &nbsp;|&nbsp;
-<div class="dd_mini">Customer Service
+  <div id="headerAcctMenu">
   <ul>
-    <li><a href="/pages/faq">FAQ</a></li>
-    <li><a href="/pages/chat">Live Chat</a></li>
-    <li style="padding: 10px 0 0 0; margin-top:10px; text-align: center;border-top: 1px solid #DEE3CB;color: #56534C;">Order by Phone: <br><strong>1-888-846-7302</strong></li>
+  <li><a href="https://deseretbook.com/users/billing_address" class="headerAcctMenuLink">My Account</a></li>
+    <!--<li><a class="headerAcctMenuLink" href="#">Wish List</a></li>-->
+    <li><a href="/cart?cartview=true" class="headerAcctMenuLink">Shopping Cart</a></li>
+    <li><a href="/cart?cartview=true" id="headerAcctCart"><img alt="Cart" src="http://cdn1.deseretbook.com/assets/cart-ec75af234857d9fdda62f282f3cdc25b.png"></a></li>
+
+    <li><a href="/cart?cartview=true" class="headerAcctCartNum">0</a></li>
   </ul>
-</div> &nbsp;|&nbsp;
-  <div class="dd_mini">
-    <a href="https://deseretbook.com/users/login?current_url=%2Fpages%2Fprivacy">My Account</a>
-    &nbsp;|&nbsp; 
-    <ul>
-      <li><a href="https://deseretbook.com/users/new">Create Account</a></li>
-      <li><a href="https://deseretbook.com/users/login?current_url=%2Fpages%2Fprivacy">Login</a></li>
-    </ul>
-  </div>
-<a href="/cart?cartview=true"><strong>Cart</strong></a>
+</div>
 
-        </div>
+  <div id="headerSearch">
+  <form accept-charset="UTF-8" action="/search/search" class="search" method="get" name="search"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+      <input autocomplete="off" class="headerSearchField" id="headerSearchField" name="query" type="text" value="search by author, title, or sku">
+    <input id="headerSearchButton" name="commit" type="submit" value="">
+    <div id="search_suggest">
+      <div id="search_suggest_titles">
+        <h3>Titles</h3>
+        <ul></ul>
       </div>
-      
-<form accept-charset="UTF-8" action="/search/search" class="search" method="get" name="search"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-  <input class="search_btn" src="http://cdn1.deseretbook.com/assets/search_btn-41d1690133193531b1d2ca611f204ba6.jpg" type="image">
-    <input autocomplete="off" class="search_box" id="search_box" name="query" onkeyup="search_suggest(event);" type="text" value="search by author, title, or sku">
-  <div id="search_suggest">
-    <div id="search_suggest_titles">
-      <h3>Titles</h3>
-      <ul></ul>
+      <div id="search_suggest_authors">
+        <h3>Authors/Artists</h3>
+        <ul></ul>
+      </div>
+      <div id="search_suggest_categories">
+        <h3>Categories</h3>
+        <ul></ul>
+      </div>
     </div>
-    <div id="search_suggest_authors">
-      <h3>Authors/Artists</h3>
-      <ul></ul>
-    </div>
-    <div id="search_suggest_categories">
-      <h3>Categories</h3>
-      <ul></ul>
-    </div>
-  </div>
-</form>
-    </div>
-  </div>
+</form></div>
 
-  <div class="main_outer">
+  <div id="headerMenu">
+  <div id="headerMenuRibbon"></div>
+  <div id="headerMenuNav">
+    <ul>
+        <li class="dd" onmouseover="set_dd_position(this);">
+          <a href="/LDS-Books/c/1" class="headerMenuNavLink">BOOKS</a>
+          <div class="dd_cont subnav group" style="width:600px;">
 
-    <div class="nav_bar">
-  <ul>
-      <li class="dd" onmouseover="set_dd_position(this);">
-          <a href="http://deseretbook.com/LDS-Books/c/1">BOOKS</a>
-          <div class="dd_cont" style="width:600px;">
-
-            <div class="mainlinks">
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Books/Baptism/s/71">Baptism</a></li>
+                    <li><a href="/LDS-Books/Baptism/s/71">Baptism</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Biographies/g/78">Biographies</a></li>
+                    <li><a href="/LDS-Books/Biographies/g/78">Biographies</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Children-s/g/4">Children's</a></li>
+                    <li><a href="/LDS-Books/Book-eBook-Combo/s/1415">Book &amp; eBook Combo</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Cookbooks/g/6">Cookbooks</a></li>
+                    <li><a href="/LDS-Books/Children-s/g/4">Children's</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Essential-Gospel-Library/s/1242">Essential Gospel Library</a></li>
+                    <li><a href="/LDS-Books/Christmas/s/1400">Christmas</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Faith-Teachings/s/76">Faith &amp; Teachings</a></li>
+                    <li><a href="/LDS-Books/Cookbooks/g/6">Cookbooks</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Fiction/g/11">Fiction</a></li>
+                    <li><a href="/LDS-Books/Essential-Gospel-Library/s/1242">Essential Gospel Library</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/General-Authority/s/266">General Authority</a></li>
+                    <li><a href="/LDS-Books/Faith-Teachings/s/76">Faith &amp; Teachings</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Inspirational/s/253">Inspirational</a></li>
+                    <li><a href="/LDS-Books/Fiction/g/11">Fiction</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Journals/s/1318">Journals</a></li>
+                    <li><a href="/LDS-Books/General-Authority/s/266">General Authority</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Limited-Editions/s/72">Limited Editions</a></li>
+                    <li><a href="/LDS-Books/Inspirational/s/253">Inspirational</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Magazines/s/73">Magazines</a></li>
+                    <li><a href="/LDS-Books/Journals/s/1318">Journals</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Marriage-Family/g/7">Marriage &amp; Family</a></li>
+                    <li><a href="/LDS-Books/Large-Print/s/1413">Large Print</a></li>
                     </ul><ul>
-                    <li><a href="http://deseretbook.com/LDS-Books/Nonfiction/g/12">Nonfiction</a></li>
+                    <li><a href="/LDS-Books/Limited-Editions/s/72">Limited Editions</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Photo-Memory-Books/s/1321">Photo &amp; Memory Books</a></li>
+                    <li><a href="/LDS-Books/Magazines/s/73">Magazines</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Poetry/s/1313">Poetry</a></li>
+                    <li><a href="/LDS-Books/Marriage-Family/g/7">Marriage &amp; Family</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Preparedness/s/1317">Preparedness</a></li>
+                    <li><a href="/LDS-Books/Nonfiction/g/12">Nonfiction</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Previously-Out-of-Print/s/1405">Previously Out of Print</a></li>
+                    <li><a href="/LDS-Books/Photo-Memory-Books/s/1321">Photo &amp; Memory Books</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Reading-Accessories/s/221">Reading Accessories</a></li>
+                    <li><a href="/LDS-Books/Poetry/s/1313">Poetry</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Scripture-Reference/g/13">Scripture Reference</a></li>
+                    <li><a href="/LDS-Books/Preparedness/s/1317">Preparedness</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Self-Help/g/1">Self Help</a></li>
+                    <li><a href="/LDS-Books/Previously-Out-of-Print/s/1405">Previously Out of Print</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Sheet-Music/s/1315">Sheet Music</a></li>
+                    <li><a href="/LDS-Books/Reading-Accessories/s/221">Reading Accessories</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Songbooks/s/1314">Songbooks </a></li>
+                    <li><a href="/LDS-Books/Scripture-Reference/g/13">Scripture Reference</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Teaching-Aids/g/3">Teaching Aids</a></li>
+                    <li><a href="/LDS-Books/Self-Help/g/1">Self Help</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Teens/g/5">Teens</a></li>
+                    <li><a href="/LDS-Books/Sheet-Music/s/1315">Sheet Music</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Books/Wedding/s/1316">Wedding</a></li>
+                    <li><a href="/LDS-Books/Songbooks/s/1314">Songbooks </a></li>
+                    
+                    <li><a href="/LDS-Books/Teaching-Aids/g/3">Teaching Aids</a></li>
+                    
+                    <li><a href="/LDS-Books/Teens/g/5">Teens</a></li>
+                    
+                    <li><a href="/LDS-Books/Wedding/s/1316">Wedding</a></li>
                     
                 </ul>
                 <ul class="menu_links">
-                    <li><a href="/LDS-Audio/c/4"><strong>Audio Books</strong></a></li>
                     <li><a href="http://deseretbook.com/LDS-eBooks/c/61"><strong>eBooks</strong></a></li>
+                    <li><a href="/LDS-Audio/c/4"><strong>Audio Books</strong></a></li>
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Books/bestsellers/c/1">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Books/new/c/1">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-Books/bestsellers/c/1">Bestsellers</a></li>
+                    <li><a href="/LDS-Books/new/c/1">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd" onmouseover="set_dd_position(this);">
-          <a href="http://deseretbook.com/LDS-eBooks/c/61">EBOOKS</a>
-          <div class="dd_cont" style="width:600px;">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd" onmouseover="set_dd_position(this);">
+          <a href="/LDS-eBooks/c/61" class="headerMenuNavLink">EBOOKS</a>
+          <div class="dd_cont subnav group" style="width:600px;">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Action/s/1408">Action</a></li>
+                    <li><a href="/LDS-eBooks/Action/s/1408">Action</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Biography-Autobiography/s/1365">Biography / Autobiography</a></li>
+                    <li><a href="/LDS-eBooks/Biography-Autobiography/s/1365">Biography / Autobiography</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Bookshelf-Singles/s/1403">Bookshelf Singles</a></li>
+                    <li><a href="/LDS-eBooks/Book-eBook-Combo/s/1416">Book &amp; eBook Combo</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Business-Finance/s/1376">Business / Finance</a></li>
+                    <li><a href="/LDS-eBooks/Bookshelf-Singles/s/1403">Bookshelf Singles</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/General-Fiction/s/1360">General Fiction</a></li>
+                    <li><a href="/LDS-eBooks/Business-Finance/s/1376">Business / Finance</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Gospel-Teachings/s/1362">Gospel Teachings</a></li>
+                    <li><a href="/LDS-eBooks/eBook-Bundles/s/1412">eBook Bundles</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Historical-Fiction/s/1369">Historical Fiction</a></li>
+                    <li><a href="/LDS-eBooks/eBook-Exclusive/s/1410">eBook Exclusive </a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/History/s/1373">History</a></li>
+                    <li><a href="/LDS-eBooks/Fantasy/s/1411">Fantasy</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Humor/s/1366">Humor</a></li>
+                    <li><a href="/LDS-eBooks/Foreign-Language/s/1401">Foreign Language</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Inspiration/s/1370">Inspiration</a></li>
+                    <li><a href="/LDS-eBooks/General-Fiction/s/1360">General Fiction</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Literary-Classics/s/1363">Literary Classics</a></li>
+                    <li><a href="/LDS-eBooks/Gospel-Teachings/s/1362">Gospel Teachings</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Marriage-Family/s/1368">Marriage / Family</a></li>
+                    <li><a href="/LDS-eBooks/Grieving/s/1409">Grieving</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Mystery-Suspense/s/1361">Mystery / Suspense</a></li>
+                    <li><a href="/LDS-eBooks/Historical-Fiction/s/1369">Historical Fiction</a></li>
                     </ul><ul>
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Official-Church-Materials/s/1404">Official Church Materials</a></li>
+                    <li><a href="/LDS-eBooks/History/s/1373">History</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Poetry/s/1378">Poetry</a></li>
+                    <li><a href="/LDS-eBooks/Humor/s/1366">Humor</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Reference/s/1377">Reference</a></li>
+                    <li><a href="/LDS-eBooks/Inspiration/s/1370">Inspiration</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Romance/s/1407">Romance</a></li>
+                    <li><a href="/LDS-eBooks/Literary-Classics/s/1363">Literary Classics</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Scholarly/s/1374">Scholarly</a></li>
+                    <li><a href="/LDS-eBooks/Marriage-Family/s/1368">Marriage / Family</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Science-Fiction-Fantasy/s/1371">Science Fiction / Fantasy</a></li>
+                    <li><a href="/LDS-eBooks/Mystery-Suspense/s/1361">Mystery / Suspense</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Scripture-Reference/s/1364">Scripture Reference</a></li>
+                    <li><a href="/LDS-eBooks/Official-Church-Materials/s/1404">Official Church Materials</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Seasonal/s/1375">Seasonal</a></li>
+                    <li><a href="/LDS-eBooks/Poetry/s/1378">Poetry</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Self-Improvement/s/1372">Self-Improvement</a></li>
+                    <li><a href="/LDS-eBooks/Reference/s/1377">Reference</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Spanish/s/1401">Spanish</a></li>
+                    <li><a href="/LDS-eBooks/Romance/s/1407">Romance</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-eBooks/Youth/s/1367">Youth</a></li>
+                    <li><a href="/LDS-eBooks/Scholarly/s/1374">Scholarly</a></li>
+                    
+                    <li><a href="/LDS-eBooks/Science-Fiction-Fantasy/s/1371">Science Fiction / Fantasy</a></li>
+                    
+                    <li><a href="/LDS-eBooks/Scripture-Reference/s/1364">Scripture Reference</a></li>
+                    
+                    <li><a href="/LDS-eBooks/Seasonal/s/1375">Seasonal</a></li>
+                    
+                    <li><a href="/LDS-eBooks/Self-Improvement/s/1372">Self-Improvement</a></li>
+                    
+                    <li><a href="/LDS-eBooks/Youth/s/1367">Youth</a></li>
                     
                 </ul>
                 <ul class="menu_links">
-                    <li><a href="http://deseretbook.com/LDS-eBooks/c/61#q=book%20of%20mormon&amp;page=1&amp;sort=popularity&amp;facets=category:61%7Csub_category:1364,1374">Book of Mormon Study</a></li>
                     <li><a href="http://deseretbook.com/101-eBooks-for-under-5-each/l/15748">101 eBooks Under $3.99</a></li>
+                    <li><a href="http://deseretbook.com/LDS-eBooks/c/61#q=book%20of%20mormon&amp;page=1&amp;sort=popularity&amp;facets=category:61%7Csub_category:1364,1374">Book of Mormon Study</a></li>
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-eBooks/bestsellers/c/61">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-eBooks/new/c/61">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-eBooks/bestsellers/c/61">Bestsellers</a></li>
+                    <li><a href="/LDS-eBooks/new/c/61">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd">
-          <a href="http://deseretbook.com/LDS-Scriptures/c/7">SCRIPTURES</a>
-          <div class="dd_cont">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd">
+          <a href="/LDS-Scriptures/c/7" class="headerMenuNavLink">SCRIPTURES</a>
+          <div class="dd_cont subnav group">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Scriptures/Bonded-Leather/s/143">Bonded Leather</a></li>
+                    <li><a href="/LDS-Scriptures/Bonded-Leather/s/143">Bonded Leather</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Scriptures/Book-of-Mormon/s/1348">Book of Mormon</a></li>
+                    <li><a href="/LDS-Scriptures/Book-of-Mormon/s/1348">Book of Mormon</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Scriptures/Economy/s/145">Economy</a></li>
+                    <li><a href="/LDS-Scriptures/Economy/s/145">Economy</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Scriptures/Genuine-Leather/s/144">Genuine Leather</a></li>
+                    <li><a href="/LDS-Scriptures/Genuine-Leather/s/144">Genuine Leather</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Scriptures/Holy-Bible/s/1355">Holy Bible</a></li>
+                    <li><a href="/LDS-Scriptures/Holy-Bible/s/1355">Holy Bible</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Scriptures/Other-Editions/s/147">Other Editions</a></li>
+                    <li><a href="/LDS-Scriptures/Other-Editions/s/147">Other Editions</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Scriptures/Scripture-Accessories/s/150">Scripture Accessories</a></li>
+                    <li><a href="/LDS-Scriptures/Scripture-Accessories/s/150">Scripture Accessories</a></li>
                     
                 </ul>
                 <ul class="menu_links">
-                    <li><a href="/LDS-Audio/Scriptures/s/132"><strong>Audio Scriptures</strong></a></li>
-                    <li><a href="/search/search?x=0&amp;y=0&amp;query=leather+quad"><strong>Quad</strong></a></li>
-                    <li><a href="/LDS-Totes-Bags/Scripture-Tote/s/1045"><strong>Scripture Totes</strong></a></li>
                     <li><a href="/search/search?x=0&amp;y=0&amp;query=triple+combination"><strong>Triple Combination</strong></a></li>
+                    <li><a href="/LDS-Totes-Bags/Scripture-Tote/s/1045"><strong>Scripture Totes</strong></a></li>
+                    <li><a href="/search/search?x=0&amp;y=0&amp;query=leather+quad"><strong>Quad</strong></a></li>
+                    <li><a href="/LDS-Audio/Scriptures/s/132"><strong>Audio Scriptures</strong></a></li>
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Scriptures/bestsellers/c/7">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Scriptures/new/c/7">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-Scriptures/bestsellers/c/7">Bestsellers</a></li>
+                    <li><a href="/LDS-Scriptures/new/c/7">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd" onmouseover="set_dd_position(this);">
-          <a href="http://deseretbook.com/LDS-Music/c/2">MUSIC</a>
-          <div class="dd_cont" style="width:402px;">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd" onmouseover="set_dd_position(this);">
+          <a href="/LDS-Music/c/2" class="headerMenuNavLink">MUSIC</a>
+          <div class="dd_cont subnav group" style="width:402px;">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Music/Children-s/s/105">Children's</a></li>
+                    <li><a href="/LDS-Music/Children-s/s/105">Children's</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Christmas/s/103">Christmas</a></li>
+                    <li><a href="/LDS-Music/Christmas/s/103">Christmas</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Contemporary/s/106">Contemporary</a></li>
+                    <li><a href="/LDS-Music/Contemporary/s/106">Contemporary</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Inspirational/s/108">Inspirational</a></li>
+                    <li><a href="/LDS-Music/Inspirational/s/108">Inspirational</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Instrumental-Classical/s/109">Instrumental - Classical</a></li>
+                    <li><a href="/LDS-Music/Instrumental-Classical/s/109">Instrumental - Classical</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/International/s/107">International</a></li>
+                    <li><a href="/LDS-Music/International/s/107">International</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Mormon-Tabernacle-Choir/s/111">Mormon Tabernacle Choir</a></li>
+                    <li><a href="/LDS-Music/Mormon-Tabernacle-Choir/s/111">Mormon Tabernacle Choir</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Sacred/s/113">Sacred</a></li>
+                    <li><a href="/LDS-Music/Sacred/s/113">Sacred</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Sheet-Music/s/100">Sheet Music</a></li>
+                    <li><a href="/LDS-Music/Sheet-Music/s/100">Sheet Music</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Sheet-Music-Downloads/s/1395">Sheet Music Downloads</a></li>
+                    <li><a href="/LDS-Music/Sheet-Music-Downloads/s/1395">Sheet Music Downloads</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Songbooks/s/104">Songbooks</a></li>
+                    <li><a href="/LDS-Music/Songbooks/s/104">Songbooks</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Music/Soundtracks/s/115">Soundtracks</a></li>
+                    <li><a href="/LDS-Music/Soundtracks/s/115">Soundtracks</a></li>
                     
                 </ul>
                 <ul class="menu_links">
@@ -567,172 +306,170 @@
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Music/bestsellers/c/2">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Music/new/c/2">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-Music/bestsellers/c/2">Bestsellers</a></li>
+                    <li><a href="/LDS-Music/new/c/2">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd">
-          <a href="http://deseretbook.com/LDS-Audio/c/4">AUDIO </a>
-          <div class="dd_cont">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd">
+          <a href="/LDS-Audio/c/4" class="headerMenuNavLink">AUDIO </a>
+          <div class="dd_cont subnav group">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Audio/Children-s/s/123">Children's</a></li>
+                    <li><a href="/LDS-Audio/Children-s/s/123">Children's</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Audio/Christmas/s/130">Christmas</a></li>
+                    <li><a href="/LDS-Audio/Christmas/s/130">Christmas</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Audio/Fiction/s/125">Fiction</a></li>
+                    <li><a href="/LDS-Audio/Fiction/s/125">Fiction</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Audio/Non-Fiction/s/126">Non Fiction</a></li>
+                    <li><a href="/LDS-Audio/Non-Fiction/s/126">Non Fiction</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Audio/Scriptures/s/132">Scriptures</a></li>
+                    <li><a href="/LDS-Audio/Scriptures/s/132">Scriptures</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Audio/Talks-Firesides/s/1049">Talks &amp; Firesides</a></li>
+                    <li><a href="/LDS-Audio/Talks-Firesides/s/1049">Talks &amp; Firesides</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Audio/Teens/s/1166">Teens</a></li>
+                    <li><a href="/LDS-Audio/Teens/s/1166">Teens</a></li>
                     
                 </ul>
                 <ul class="menu_links">
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Audio-Talk-Inspiration/s/1384#q=&amp;page=1&amp;sort=popularity&amp;facets=sub_category:1384,1383%7Ccategory:62"><b>MP3 - Talks</b></a></li>
                     <li><a href="http://deseretbook.com/LDS-MP3-Downloads/c/62#q=&amp;page=1&amp;sort=popularity&amp;facets=category:62%7Csub_category:1386,1387,1382"><b>MP3 - Audio Books</b></a></li>
+                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Audio-Talk-Inspiration/s/1384#q=&amp;page=1&amp;sort=popularity&amp;facets=sub_category:1384,1383%7Ccategory:62"><b>MP3 - Talks</b></a></li>
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Audio/bestsellers/c/4">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Audio/new/c/4">New Releases</a></li>
-                </ul>
-              <div style="clear:both;"></div>
-            </div>
-
-          </div>
-  
-      </li>        
-      <li class="dd" onmouseover="set_dd_position(this);">
-          <a href="http://deseretbook.com/LDS-MP3-Downloads/c/62">MP3 AUDIO</a>
-          <div class="dd_cont" style="width:240px;">
-
-            <div class="mainlinks">
+            <div class="subnav_footer group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Audio-Book-General-Fiction/s/1386">Audio Book - General Fiction</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Audio-Book-Inspiration/s/1387">Audio Book - Inspiration</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Audio-Book-LDS-Fiction/s/1382">Audio Book - LDS Fiction</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Audio-Talk-Inspiration/s/1384">Audio Talk - Inspiration</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Audio-Talk-Youth/s/1383">Audio Talk - Youth</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Download-Software/s/1406">Download Software</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Music-Childrens/s/1396">Music - Childrens</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Music-Contemporary/s/1385">Music - Contemporary</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Music-Inspirational/s/1388">Music - Inspirational</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Music-Instrumental/s/1389">Music - Instrumental</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Music-Mormon-Tabernacle-Choir/s/1381">Music - Mormon Tabernacle Choir</a></li>
-                    
-                    <li><a href="http://deseretbook.com/LDS-MP3-Downloads/Sheet-Music-Downloads/s/1398">Sheet Music Downloads</a></li>
-                    
+                    <li><a href="/LDS-Audio/bestsellers/c/4">Bestsellers</a></li>
+                    <li><a href="/LDS-Audio/new/c/4">New Releases</a></li>
                 </ul>
-            </div>
-
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-MP3-Downloads/bestsellers/c/62">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-MP3-Downloads/new/c/62">New Releases</a></li>
-                </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd">
-          <a href="http://deseretbook.com/LDS-Movies/c/3">MOVIES</a>
-          <div class="dd_cont">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd" onmouseover="set_dd_position(this);">
+          <a href="/LDS-MP3-Downloads/c/62" class="headerMenuNavLink">MP3 AUDIO</a>
+          <div class="dd_cont subnav group" style="width:240px;">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Movies/Children-s/s/1036">Children's</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Audio-Book-General-Fiction/s/1386">Audio Book - General Fiction</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Christmas/s/121">Christmas</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Audio-Book-Inspiration/s/1387">Audio Book - Inspiration</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Comedy/s/1033">Comedy</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Audio-Book-LDS-Fiction/s/1382">Audio Book - LDS Fiction</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Documentary/s/1039">Documentary</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Audio-Talk-Inspiration/s/1384">Audio Talk - Inspiration</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Drama/s/1034">Drama</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Audio-Talk-Youth/s/1383">Audio Talk - Youth</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Family/s/1035">Family</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Download-Software/s/1406">Download Software</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Mormon-Tabernacle-Choir/s/1344">Mormon Tabernacle Choir</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Music-Childrens/s/1396">Music - Childrens</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Musical/s/1038">Musical</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Music-Contemporary/s/1385">Music - Contemporary</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Movies/Talks-Firesides/s/1037">Talks &amp; Firesides</a></li>
+                    <li><a href="/LDS-MP3-Downloads/Music-Inspirational/s/1388">Music - Inspirational</a></li>
+                    
+                    <li><a href="/LDS-MP3-Downloads/Music-Instrumental/s/1389">Music - Instrumental</a></li>
+                    
+                    <li><a href="/LDS-MP3-Downloads/Music-Mormon-Tabernacle-Choir/s/1381">Music - Mormon Tabernacle Choir</a></li>
+                    
+                    <li><a href="/LDS-MP3-Downloads/Sheet-Music-Downloads/s/1398">Sheet Music Downloads</a></li>
                     
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Movies/bestsellers/c/3">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Movies/new/c/3">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-MP3-Downloads/bestsellers/c/62">Bestsellers</a></li>
+                    <li><a href="/LDS-MP3-Downloads/new/c/62">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd">
-          <a href="http://deseretbook.com/LDS-Art-Home/c/8">ART &amp; HOME</a>
-          <div class="dd_cont" style="width:440px">
 
-            <div class="mainlinks" style="height:300px;">
-                  <div class="dd_group_cont">
-                    <h3><a href="http://deseretbook.com/LDS-Art-Home/Art/g/79">ART</a></h3> 
-                    <ul style="width:214px">
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Art/Temple-Art/s/1343">Temple Art</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Art/The-Savior-Art/s/1347">The Savior Art</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Art/Framed-Art/s/156">Framed Art</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Art/Matted-Prints/s/155">Matted Prints</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Art/Prints/s/158">Prints</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Art/Personalized-Art/s/1358">Personalized Art </a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Art/Personalized-Children-s-Temple-Art/s/1402">Personalized Children's Temple Art</a></li>
+          </li>        
+        <li class="dd">
+          <a href="/LDS-Movies/c/3" class="headerMenuNavLink">MOVIES</a>
+          <div class="dd_cont subnav group">
+
+            <div class="group">
+                <ul>
+                    <li><a href="/LDS-Movies/Children-s/s/1036">Children's</a></li>
+                    
+                    <li><a href="/LDS-Movies/Christmas/s/121">Christmas</a></li>
+                    
+                    <li><a href="/LDS-Movies/Comedy/s/1033">Comedy</a></li>
+                    
+                    <li><a href="/LDS-Movies/Documentary/s/1039">Documentary</a></li>
+                    
+                    <li><a href="/LDS-Movies/Drama/s/1034">Drama</a></li>
+                    
+                    <li><a href="/LDS-Movies/Family/s/1035">Family</a></li>
+                    
+                    <li><a href="/LDS-Movies/Mormon-Tabernacle-Choir/s/1344">Mormon Tabernacle Choir</a></li>
+                    
+                    <li><a href="/LDS-Movies/Musical/s/1038">Musical</a></li>
+                    
+                    <li><a href="/LDS-Movies/Talks-Firesides/s/1037">Talks &amp; Firesides</a></li>
+                    
+                </ul>
+            </div>
+
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-Movies/bestsellers/c/3">Bestsellers</a></li>
+                    <li><a href="/LDS-Movies/new/c/3">New Releases</a></li>
+                </ul>
+            </div>
+
+          </div>
+
+          </li>        
+        <li class="dd">
+          <a href="/LDS-Art-Home/c/8" class="headerMenuNavLink">ART &amp; HOME</a>
+          <div class="dd_cont subnav group" style="width:402px;">
+
+            <div class="group">
+                  <div class="group">
+                    <h3><a href="/LDS-Art-Home/Art/g/79">ART</a></h3> 
+                    <ul>
+                        <li><a href="/LDS-Art-Home/Art/Temple-Art/s/1343">Temple Art</a></li>
+                        <li><a href="/LDS-Art-Home/Art/The-Savior-Art/s/1347">The Savior Art</a></li>
+                        <li><a href="/LDS-Art-Home/Art/Framed-Art/s/156">Framed Art</a></li>
+                        <li><a href="/LDS-Art-Home/Art/Matted-Prints/s/155">Matted Prints</a></li>
+                        <li><a href="/LDS-Art-Home/Art/Prints/s/158">Prints</a></li>
+                        <li><a href="/LDS-Art-Home/Art/Personalized-Art/s/1358">Personalized Art </a></li>
+                        <li><a href="/LDS-Art-Home/Art/Personalized-Children-s-Temple-Art/s/1402">Personalized Children's Temple Art</a></li>
                     </ul>
                   </div>
-                  <div class="dd_group_cont">
-                    <h3><a href="http://deseretbook.com/LDS-Art-Home/Home-Decor/g/80">HOME DECOR</a></h3> 
+                  <div class="group">
+                    <h3><a href="/LDS-Art-Home/Home-Decor/g/80">HOME DECOR</a></h3> 
                     <ul>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Home-Decor/Figurines/s/1298">Figurines</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Home-Decor/Wall-Decor/s/164">Wall Decor</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Home-Decor/Candles/s/1297">Candles</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Home-Decor/Other-Decor/s/1304">Other Decor</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Home-Decor/Table-Top/s/163">Table Top</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Home-Decor/Nativities/s/1229">Nativities</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Figurines/s/1298">Figurines</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Wall-Decor/s/164">Wall Decor</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Candles/s/1297">Candles</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Other-Decor/s/1304">Other Decor</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Table-Top/s/163">Table Top</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Christmas-Decor/s/171">Christmas Decor</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Ornaments/s/1346">Ornaments</a></li>
+                        <li><a href="/LDS-Art-Home/Home-Decor/Nativities/s/1229">Nativities</a></li>
                     </ul>
                   </div>
-                  <div class="dd_group_cont">
-                    <h3><a href="http://deseretbook.com/LDS-Art-Home/Statues/g/81">STATUES</a></h3> 
+                  <div class="group">
+                    <h3><a href="/LDS-Art-Home/Statues/g/81">STATUES</a></h3> 
                     <ul>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Statues/Bronze-Statues/s/1293">Bronze Statues</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Statues/Marble-Statues/s/1294">Marble Statues</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Statues/Porcelain-Statues/s/1295">Porcelain Statues</a></li>
-                        <li><a href="http://deseretbook.com/LDS-Art-Home/Statues/Other-Statues/s/1296">Other Statues</a></li>
+                        <li><a href="/LDS-Art-Home/Statues/Bronze-Statues/s/1293">Bronze Statues</a></li>
+                        <li><a href="/LDS-Art-Home/Statues/Marble-Statues/s/1294">Marble Statues</a></li>
+                        <li><a href="/LDS-Art-Home/Statues/Porcelain-Statues/s/1295">Porcelain Statues</a></li>
+                        <li><a href="/LDS-Art-Home/Statues/Other-Statues/s/1296">Other Statues</a></li>
                     </ul>
                   </div>
                 <ul class="menu_links">
@@ -740,120 +477,119 @@
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Art-Home/bestsellers/c/8">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Art-Home/new/c/8">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-Art-Home/bestsellers/c/8">Bestsellers</a></li>
+                    <li><a href="/LDS-Art-Home/new/c/8">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd">
-          <a href="http://deseretbook.com/LDS-Totes/c/28">TOTES</a>
-          <div class="dd_cont">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd">
+          <a href="/LDS-Totes/c/28" class="headerMenuNavLink">TOTES</a>
+          <div class="dd_cont subnav group">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Totes/Other-Totes-Bags/s/1046">Other Totes &amp; Bags</a></li>
+                    <li><a href="/LDS-Totes/Other-Totes-Bags/s/1046">Other Totes &amp; Bags</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Totes/Scripture-Tote/s/1045">Scripture Tote</a></li>
+                    <li><a href="/LDS-Totes/Scripture-Tote/s/1045">Scripture Tote</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Totes/Temple-Bag/s/1044">Temple Bag</a></li>
+                    <li><a href="/LDS-Totes/Temple-Bag/s/1044">Temple Bag</a></li>
                     
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Totes/bestsellers/c/28">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Totes/new/c/28">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-Totes/bestsellers/c/28">Bestsellers</a></li>
+                    <li><a href="/LDS-Totes/new/c/28">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd">
-          <a href="http://deseretbook.com/LDS-Jewelry/c/5">JEWELRY</a>
-          <div class="dd_cont">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd">
+          <a href="/LDS-Jewelry/c/5" class="headerMenuNavLink">JEWELRY</a>
+          <div class="dd_cont subnav group">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/Bracelets-Charms/s/272">Bracelets &amp; Charms</a></li>
+                    <li><a href="/LDS-Jewelry/Bracelets-Charms/s/272">Bracelets &amp; Charms</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/CTR-Rings/s/139">CTR Rings</a></li>
+                    <li><a href="/LDS-Jewelry/CTR-Rings/s/139">CTR Rings</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/Keychains/s/268">Keychains</a></li>
+                    <li><a href="/LDS-Jewelry/Keychains/s/268">Keychains</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/Necklaces/s/269">Necklaces</a></li>
+                    <li><a href="/LDS-Jewelry/Necklaces/s/269">Necklaces</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/Oil-Vials/s/1305">Oil Vials</a></li>
+                    <li><a href="/LDS-Jewelry/Oil-Vials/s/1305">Oil Vials</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/Other-Jewelry/s/134">Other Jewelry</a></li>
+                    <li><a href="/LDS-Jewelry/Other-Jewelry/s/134">Other Jewelry</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/Other-Rings/s/1">Other Rings</a></li>
+                    <li><a href="/LDS-Jewelry/Other-Rings/s/1">Other Rings</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Jewelry/Pins-Tie-Tacs/s/277">Pins &amp; Tie Tacs</a></li>
+                    <li><a href="/LDS-Jewelry/Pins-Tie-Tacs/s/277">Pins &amp; Tie Tacs</a></li>
                     
                 </ul>
                 <ul class="menu_links">
-                    <li><a href="//deseretbook.com/search/search?utf8=%E2%9C%93&amp;x=0&amp;y=0&amp;query=classic+rings"><b>Classic Rings</b></a></li>
                     <li><a href="/search/search?utf8=✓&amp;x=0&amp;y=0&amp;query=designer+ring#q=designer ring&amp;page=1&amp;sort=popularity&amp;facets=category:5|sub_category:139,1"><b>Designer Rings</b></a></li>
                     <li><a href="/search/search?utf8=✓&amp;x=0&amp;y=0&amp;query=spinner+ring#q=spinner ring&amp;page=1&amp;sort=popularity&amp;facets=category:5"><b>Spinner Rings</b></a></li>
+                    <li><a href="//deseretbook.com/search/search?utf8=%E2%9C%93&amp;x=0&amp;y=0&amp;query=classic+rings"><b>Classic Rings</b></a></li>
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-                <ul style="padding: 0; margin: 0;">
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Jewelry/bestsellers/c/5">Bestsellers</a></li>
-                    <li style="padding: 0; margin: 0;"><a href="http://deseretbook.com/LDS-Jewelry/new/c/5">New Releases</a></li>
+            <div class="subnav_footer group">
+                <ul>
+                    <li><a href="/LDS-Jewelry/bestsellers/c/5">Bestsellers</a></li>
+                    <li><a href="/LDS-Jewelry/new/c/5">New Releases</a></li>
                 </ul>
-              <div style="clear:both;"></div>
             </div>
 
           </div>
-  
-      </li>        
-      <li class="dd">
-          <a href="/gift_cards">GIFT CARDS</a>
-  
-      </li>        
-      <li class="dd" onmouseover="set_dd_position(this);">
-          <a href="/store/more">MORE</a>
-          <div class="dd_cont" style="width:402px;">
 
-            <div class="mainlinks">
+          </li>        
+        <li class="dd">
+          <a href="/gift_cards" class="headerMenuNavLink">GIFT CARDS</a>
+
+          </li>        
+        <li class="dd" onmouseover="set_dd_position(this);">
+          <a href="/store/more" class="headerMenuNavLink">MORE</a>
+          <div class="dd_cont subnav group" style="width:402px;">
+
+            <div class="group">
                 <ul>
-                    <li><a href="http://deseretbook.com/LDS-Calendars/c/26">Calendars</a></li>
+                    <li><a href="/LDS-Calendars/c/26">Calendars</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Cards-Stationery/c/38">Cards &amp; Stationery</a></li>
+                    <li><a href="/LDS-Cards-Stationery/c/38">Cards &amp; Stationery</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Clothing/c/6">Clothing</a></li>
+                    <li><a href="/LDS-Clothing/c/6">Clothing</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Games-Puzzles/c/31">Games &amp; Puzzles</a></li>
+                    <li><a href="/LDS-Games-Puzzles/c/31">Games &amp; Puzzles</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Genealogy-Family-History/c/53">Genealogy &amp; Family History</a></li>
+                    <li><a href="/LDS-Genealogy-Family-History/c/53">Genealogy &amp; Family History</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Lion-House-Pantry/c/55">Lion House Pantry</a></li>
+                    <li><a href="/LDS-Lion-House-Pantry/c/55">Lion House Pantry</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Preparedness/c/32">Preparedness</a></li>
+                    <li><a href="/LDS-Preparedness/c/32">Preparedness</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Program-Covers-Bulletins/c/50">Program Covers &amp; Bulletins</a></li>
+                    <li><a href="/LDS-Program-Covers-Bulletins/c/50">Program Covers &amp; Bulletins</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Scrapbooking/c/27">Scrapbooking</a></li>
+                    <li><a href="/LDS-Scrapbooking/c/27">Scrapbooking</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Software/c/9">Software</a></li>
+                    <li><a href="/LDS-Software/c/9">Software</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Stickers/c/56">Stickers </a></li>
+                    <li><a href="/LDS-Stickers/c/56">Stickers </a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Teaching-Helps/c/29">Teaching Helps</a></li>
+                    <li><a href="/LDS-Sweets-Treats/c/64">Sweets &amp; Treats</a></li>
                     
-                    <li><a href="http://deseretbook.com/LDS-Toys/c/54">Toys</a></li>
+                    <li><a href="/LDS-Teaching-Helps/c/29">Teaching Helps</a></li>
                     </ul><ul>
+                    <li><a href="/LDS-Toys/c/54">Toys</a></li>
+                    
                 </ul>
                 <ul class="menu_links">
                     <li><a href="/Bestsellers/l/29">Bestsellers</a></li>
@@ -865,272 +601,346 @@
                 </ul>
             </div>
 
-            <div class="dd_footer_links">
-              <div style="clear:both;"></div>
+            <div class="subnav_footer group">
             </div>
 
           </div>
-  
-      </li>        
-  </ul>
-</div>
 
-
-<div class="main">
-  <div class="main_hulk">
-<div class="txt">
-      <p></p><h3>Deseret Book Company Privacy Policy</h3><p><br>&nbsp;<br>
-Last Modified: May 21, 2012. This Privacy Policy is effective as of May 21, 2012 (“Effective Date”).</p><br>
-<p>The Privacy Policy applies to personal information that may be collected when you interact (a) with Deseret Book, Inc. and its subsidiaries (“Deseret Book”), (b) Deseret Book’s websites, applications and devices listed below, operated by Deseret Book. Protecting the privacy and security of your personal information is a priority at Deseret Book, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses. As of the Effective Date this Privacy Policy covers the following: Deseret Book Bookstores, deseretbook.com, the Deseret Book Member Platinum program, and any applications distributed or sold by Deseret Book. </p><br>
-<p><b>By doing business with or interacting with Deseret Book in the manner described in this Privacy Policy at any time on or after the Effective Date, you are accepting the practices described in this Privacy Policy and you expressly consent to the application of this Privacy Policy to the collection, storage, use and disclosure of all your personal information as described.</b></p><br>
-<p></p><ol>Deseret Book reserves the right to modify or amend this Privacy Policy at any time, but you can be assured that, should it be necessary to do so, we will always do so in accordance with the Deseret Book Privacy Principles of Clarity, Security and Integrity. This Privacy Policy addresses the following questions:<br>
-<li>What is the personal information that we collect? <br>
-</li><li>Why do we collect personal information? <br>
-</li><li>How do we collect your personal information? <br>
-</li><li>With whom do we share personal information? <br>
-</li><li>How do we secure personal information? <br>
-</li><li>How do we respect your choices about your personal information? <br>
-</li><li>Whom do I contact if I have questions or concerns? </li></ol><p></p><br>
-<p><b>1. What is the personal information that we collect?</b><br>
-Personal information is your name, e-mail address, billing address, shipping address, phone number, and/or credit card information.</p><br>
-<p><b>2. Why do we collect personal information?</b><br>
-We collect your personal information in an effort to provide you with a superior customer experience and, as necessary, to administer our business. It allows us to provide you with easy access to our products and services, with a particular focus on the items and programs that may be of most interest to you. For more information as to why we collect personal information, please see the section below entitled: “How do we use your personal information?”</p><br>
-<p></p><ul><b>3. How do we collect your personal information? </b><br>
-<b>(a). Information that you provide to us</b><br>
-As a general matter, you can browse in our stores and on our websites without submitting your personal information to us. However, there are a number of circumstances in which you may need to provide us with your personal information. The most common of these circumstances include:<br>
-<li><b>Making a purchase or placing an order:</b> When you make a purchase or place an order in our stores or place an order online without an account, you may need to submit personal information to us.<br>
-</li><li><b>Creating an online account:</b> You can create a password-protected Deseretbook.com account to complete your online order, to purchase or download eBooks, other digital content (“Digital Content”) Deseret Book’s apps or to save items to an online Wish List, To create any of these accounts, we will ask you to provide us with personal information. If you use your online account to make a purchase or download, we will use the personal information stored in your account and/or require you to input additional personal information, such as credit card information, to complete your order or download.<br>
-</li><li><b>Enrolling in our Member loyalty program (Platinum):</b> When you enroll in our Member loyalty program (Platinum), we will ask you to submit personal information as part of your Member profile. The personal information you submit is held in a Member database. When you use your membership, the transaction information for your purchase, including personal information, is copied and stored in the Member database so that we can administer the Member program.<br>
-</li><li><b>Contacting Customer Service:</b> When you contact customer service, we may ask you to provide, or confirm, personal information so that we can better serve you.</li></ul><p></p><br>
-<p></p><ol><b>(b) Information automatically collected when you visit our websites</b><br>
-When you visit our websites, we automatically record information that your browser sends whenever you visit a website. For example, we may receive and collect: the name of the domain and host from which you access the Internet; the Internet Protocol (IP) address of the computer you are using; the date and time you access our websites; and the Internet address of the website from which you linked directly to our sites. We use this information to monitor the usage of our websites and as necessary for our business. This information does not include personal information.<br>
-<li><b>Information collected using cookies: </b>Like many online retailers, we use cookies to personalize and enhance your browsing and shopping experience. Cookies are small files that we place on your computer’s hard drive to collect information about your activities on our websites. Cookies help us to: (1) speed navigation, keep track of items in your shopping cart and provide you with content that is tailored to you; (2) remember information you gave us so that you don’t have to reenter it; (3) determine the effectiveness of some of our marketing efforts and communications; and (4) monitor the total number of visitors, pages viewed, and the total number of banners displayed. Browsers are typically set to create cookies automatically. You can choose to have your browser notify you when cookies are being written to your computer or accessed, or you can disable cookies entirely. If you disable cookies, however, you will not be able to place items in a Deseretbook.com shopping cart, and therefore you will not be able to place an order with us online. Also, by not using cookies, some Deseretbook.com website features and services may not function properly.<br>
-</li><li><b>Information collected using pixel tags or clear GIFs: </b>To help us understand the effectiveness of our communications and marketing efforts, we may use “message format” and “message open” sensing technologies that use pixel tags or clear GIFs (which are also called web beacons). These technologies allow us to know if your e-mail program is able to accept <span class="caps">HTML</span> e-mails and, if it is, to: (1) send you e-mails in that format; and (2) determine if you have opened our e-mail messages.<br>
-</li><li><b>Information collected from Deseret Book applications:</b> When you use a Deseret Book application, we automatically collect information that the app sends to Deseret Book when it is connected to the Internet. For example, we may receive and collect information concerning search queries, downloads, buying preferences etc.<br>
-</li><li><b>Information collected from visitors from outside the United States:</b> If you are visiting Deseret Book from outside the United States and provide us with personal information, please note that your personal information will be transferred, stored and processed within the United States. The data protection laws in the United States may not be as comprehensive as those in your country. By doing business or interacting with Deseret Book, you are consenting to the transfer of your personal information to facilities located in the United States and other facility locations selected by Deseret Book.</li></ol><p></p><br>
-<p><b>4. With whom do we share personal information?</b><br>
-Protecting the privacy and security of your personal information is a priority at Deseret Book. <b><span class="caps">DESERET</span> <span class="caps">BOOK</span> <span class="caps">DOES</span> <span class="caps">NOT</span> <span class="caps">SELL</span> OR <span class="caps">RENT</span> <span class="caps">YOUR</span> <span class="caps">PERSONAL</span> <span class="caps">INFORMATION</span> TO <span class="caps">THIRD</span> <span class="caps">PARTIES</span>.</b><br>
-</p><p></p><ul>Deseret Book may share your personal information with:<br>
-<li>Other entities owned by Deseret Book, Inc., including subsidiaries of Deseret Book, Inc. Many of our customers purchase items from us both online and in our stores. We share your personal information within the Deseret Book Company to help to ensure that you have a superior shopping or browsing experience no matter where you choose to shop or browse with us.<br>
-</li><li>Law enforcement officials and as required by law. Deseret Book may release personal information to third parties when we determine, in our judgment, that it is necessary to (a) comply with the law, regulation, legal process, or enforceable governmental request; (b) enforce or apply the terms of any of our policies or user agreements; or © protect the rights, property or safety of Deseret Book, our employees, our customers, users, or others.<br>
-</li><li>Other websites operated by Deseret Book. In some instances, we may operate a website on behalf of a third party. If you provide information in connection with a third party website operated by Deseret Book, that information may be shared between Deseret Book and the third party. Although Deseret Book’s treatment of the information is governed by this policy, the third party’s treatment of your information will be subject to the third party’s privacy policy.<br>
-</li><li>Sales, Mergers, and Acquisitions. If Deseret Book becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, personal information may be provided to the entities and advisors involved subject to a confidentiality agreement, and we will provide notice before any personal information is finally transferred and becomes subject to a different privacy policy.</li></ul><p></p><br>
-<p><b>5. How do we secure personal information?</b><br>
-We take significant and appropriate security measures, including physical, technological and procedural measures, to help to safeguard your personal information and to prevent unauthorized access and disclosure. In addition, we use industry-standard technology, such as firewalls and encryption in the transmission of certain sensitive personal information, designed to prevent unauthorized persons from gaining access to your personal information, and, as technology develops, we will take additional measures to improve security.</p><br>
-<p></p><ul><b>6. How do we respect your choices about your personal information?</b><br>
-When you interact with Deseret Book, in certain ways you may be eligible to receive certain marketing-related and promotional communications as well as special offers from Deseret Book. The most common of these circumstances include:<br>
-<li>Making a purchase or download or placing an order<br>
-</li><li>Creating an online account<br>
-</li><li>Enrolling in our Member program<br>
-</li><li>Entering a sweepstakes or a contest<br>
-If, at any time, you wish to no longer receive Promotional Communications from Deseret Book Booksellers, Deseretbook.com, the Deseret Book Member Platinum program, please follow the instructions below:<br>
-</li><li>For Deseret Book Booksellers: At any time, a customer may choose to opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions, or by e-mailing our Customer Service Department at service@deseretbook.com<br>
-</li><li>For Deseretbook.com: any account holder can opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions, or by e-mailing our Customer Service Department at service@deseretbook.com <br>
-</li><li>For Deseret Book Member Platinum program: Any Member can opt-out of the receipt of any Member program promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions, or by e-mailing our Customer Service Department at service@deseretbook.com<br>
-</li><li>Even if you opt-out of receiving Promotional Communications, you may continue to receive e-mails relating to order confirmations, back order notifications, membership information, and/or other business-related communications.</li></ul><p></p> <br>
-<p><b>7. Whom do I contact if I have questions or concerns?</b><br>
-If you have any questions about this Privacy Policy, please contact us service@deseretbook.com<br>
-or call customer service at 800-453-4532 or 801-534-1515</p><p></p></div></div>
-
-  	  <div class="sidenav_wrap">
-  <div class="sidenav_header ribbon_head">SHOPPING</div>
-	<div class="sidenav">
-		<ul class="sidenavul">
-		   <li class="sidenavli_top"><b><a href="http://deseretbook.com/Bestsellers/l/29">Bestsellers</a></b></li>
-		   <li class="sidenavli_top"><b><a href="http://deseretbook.com/Whats-New/l/30">New Arrivals</a></b></li>
-		   <li class="sidenavli_top"><b><a href="/gift_cards/purchase">Gift Cards</a></b></li>
-       <li class="sidenavli_top"><b><a href="/rewards/platinum">PLATINUM REWARDS (Points)</a></b></li>
-		</ul>
-		<hr>
-		<input type="hidden" id="open_category" value="0">
-		<ol class="sidenavol">
-		   	<li class="sidenavli" id="cat_8">
-            <a href="http://deseretbook.com/LDS-Art-Home/c/8">Art &amp; Home</a>
-        </li>
-		   	<li class="sidenavli" id="cat_4">
-            <a href="http://deseretbook.com/LDS-Audio/c/4">Audio </a>
-        </li>
-		   	<li class="sidenavli" id="cat_1">
-            <a href="http://deseretbook.com/LDS-Books/c/1">Books</a>
-        </li>
-		   	<li class="sidenavli" id="cat_26">
-            <a href="http://deseretbook.com/LDS-Calendars/c/26">Calendars</a>
-        </li>
-		   	<li class="sidenavli" id="cat_38">
-            <a href="http://deseretbook.com/LDS-Cards-Stationery/c/38">Cards &amp; Stationery</a>
-        </li>
-		   	<li class="sidenavli" id="cat_6">
-            <a href="http://deseretbook.com/LDS-Clothing/c/6">Clothing</a>
-        </li>
-		   	<li class="sidenavli" id="cat_61">
-            <a href="http://deseretbook.com/LDS-eBooks/c/61">eBooks</a>
-        </li>
-		   	<li class="sidenavli" id="cat_31">
-            <a href="http://deseretbook.com/LDS-Games-Puzzles/c/31">Games &amp; Puzzles</a>
-        </li>
-		   	<li class="sidenavli" id="cat_53">
-            <a href="http://deseretbook.com/LDS-Genealogy-Family-History/c/53">Genealogy &amp; Family History</a>
-        </li>
-		   	<li class="sidenavli" id="cat_5">
-            <a href="http://deseretbook.com/LDS-Jewelry/c/5">Jewelry</a>
-        </li>
-		   	<li class="sidenavli" id="cat_55">
-            <a href="http://deseretbook.com/LDS-Lion-House-Pantry/Lion-House-Pantry/s/231">Lion House Pantry</a> 
-        </li>
-		   	<li class="sidenavli" id="cat_3">
-            <a href="http://deseretbook.com/LDS-Movies/c/3">Movies</a>
-        </li>
-		   	<li class="sidenavli" id="cat_62">
-            <a href="http://deseretbook.com/LDS-MP3-Downloads/c/62">MP3 Downloads</a>
-        </li>
-		   	<li class="sidenavli" id="cat_2">
-            <a href="http://deseretbook.com/LDS-Music/c/2">Music</a>
-        </li>
-		   	<li class="sidenavli" id="cat_32">
-            <a href="http://deseretbook.com/LDS-Preparedness/c/32">Preparedness</a>
-        </li>
-		   	<li class="sidenavli" id="cat_50">
-            <a href="http://deseretbook.com/LDS-Program-Covers-Bulletins/Program-Covers/s/1127">Program Covers &amp; Bulletins</a> 
-        </li>
-		   	<li class="sidenavli" id="cat_27">
-            <a href="http://deseretbook.com/LDS-Scrapbooking/Scrapbooking-Supplies/s/176">Scrapbooking</a> 
-        </li>
-		   	<li class="sidenavli" id="cat_7">
-            <a href="http://deseretbook.com/LDS-Scriptures/c/7">Scriptures</a>
-        </li>
-		   	<li class="sidenavli" id="cat_9">
-            <a href="http://deseretbook.com/LDS-Software/Software/s/276">Software</a> 
-        </li>
-		   	<li class="sidenavli" id="cat_56">
-            <a href="http://deseretbook.com/LDS-Stickers/c/56">Stickers </a>
-        </li>
-		   	<li class="sidenavli" id="cat_29">
-            <a href="http://deseretbook.com/LDS-Teaching-Helps/c/29">Teaching Helps</a>
-        </li>
-		   	<li class="sidenavli" id="cat_28">
-            <a href="http://deseretbook.com/LDS-Totes/c/28">Totes</a>
-        </li>
-		   	<li class="sidenavli" id="cat_54">
-            <a href="http://deseretbook.com/LDS-Toys/c/54">Toys</a>
-        </li>
-		</ol>
-	</div>
-
-                                                    
-	<img alt="Bend_nav" src="http://cdn2.deseretbook.com/assets/homepage/bend_nav-3cd4e8ea09e12a86223e5f83fd72eaec.jpg" style="margin-bottom: 10px;"><br>
-
-		<div style="padding-left: 20px; margin-bottom: 5px;">
-			<a href="/catalog/Summer-Catalog-2012">Click to view Interactive Catalog</a>
-		</div>
-		<script type="text/javascript" src="http://viewer.zmags.com/js/tinyCatalog.js"></script>
-		<script type="text/javascript">
-		   var mag = new TinyCatalog(449361);
-		   mag.setBackgroundColor("#FFFFFF");
-		   mag.setSize(210, 137);
-		   // Change line below to link to an url
-		   mag.setLaunchURL("/catalog/Summer-Catalog-2012");
-		   mag.setTarget("_self");
-		   mag.draw();
-		</script>
-    <br>
-	
-	
-	<a href="/catalog"><img alt="Cat_banner" src="http://cdn2.deseretbook.com/assets/cat_banner-720a2690746ba3e93ea45371a67d6fee.gif"></a>
-	<br>
-
-	  <a href="/lists/wishlist_guest"><img alt="Wish_list" src="http://cdn1.deseretbook.com/assets/wish_list-c61d3b00c4642b2584379fd9f559cd9c.jpg"></a>
-		<img alt="Bend_nav" src="http://cdn2.deseretbook.com/assets/homepage/bend_nav-3cd4e8ea09e12a86223e5f83fd72eaec.jpg" style="margin-bottom:10px;"><br>
-
-</div>
-
-
-	<div style="float:left; width:210px; clear:left;"></div>
-	<div class="clearme"></div>
-</div>
-    <div class="footer">
-     <div class="col_one">
-      <div class="bubble_outer">
-       <div class="bubble_text">More</div>
-       <div class="bubble_arrow"></div>
-      </div>
-      <div class="clearme"></div>
-       <a href="http://gospelink.com">GospeLink.com</a><br>
-       <a href="http://mormontabernaclechoir.org">Mormon Tabernacle Choir</a><br>
-       <a href="/mormonhandicraft">Mormon Handicraft</a><br>
-	   <a href="http://deseretbook.com/leather">Leather Books</a><br>
-       <a href="http://deseretbook.com/tix">Tickets</a><br>
-       <a href="http://www.zionsmercantilehotel.com" target="_blank">Nauvoo Hotels</a><br>
-     </div>
-	 <div class="col_one plus">
-      <div class="bubble_outer">
-       <div class="bubble_text">Lifestyle</div>
-       <div class="bubble_arrow"></div>
-      </div>
-      <div class="clearme"></div>
-	   <a href="http://deseretbook.com/timeout">Time Out for Women</a><br>	   
-       <a href="http://mormonlife.com">Mormon Life</a><br>
-       <a href="/video">DBTV - Video Clips</a><br>
-       <!--<a href="/pages/screensavers">Screensavers and Wallpaper</a><br />-->
-       <a href="http://ldsliving.com">LDS Living Magazine</a><br>
-       <a href="/stores/events">Events</a><br>
-     </div>
-     <div class="col_two">
-      <div class="bubble_outer">
-       <div class="bubble_text">Customer Service</div>
-       <div class="bubble_arrow"></div>
-      </div>
-      <div class="clearme"></div>
-       <a href="/pages/chat">Live Chat</a><br>
-       <a href="/pages/faq">FAQ</a><br>
-       <a href="/pages/shipping">Shipping</a><br>
-      <a href="/stores/home">Store Locator</a><br>
-       <a href="/users/my_platinum">Rewards Club</a><br>
-      </div>
-	<div class="divider"></div>
-     <div class="staff_picks">
-      	<div class="bubble_outer">
-  <div class="bubble_text">Staff Picks</div>
-  <div class="bubble_arrow"></div>
-</div>
-  <p class="staff"><a href="http://deseretbook.com/Staff-Picks-List/l/208">Staff Picks List</a></p>
-  <div class="sp_product_outer">
-	  <div class="sp_product ">
-	    <div class="widgetimg"><a href="http://deseretbook.com/Edenbrooke-Julianne-Donaldson/i/5072085"><img alt="Edenbrooke_list" src="http://cdn2.deseretbook.com/images/product-images/44/82644/Edenbrooke_list.jpg"></a></div><br>
-        <a href="http://deseretbook.com/Edenbrooke-Julianne-Donaldson/i/5072085?s_iid=sp_1">Edenbrooke</a>
-	  </div>
-	  <div class="sp_product space1">
-	    <div class="widgetimg"><a href="http://deseretbook.com/Earth-Shall-Teach-Thee-Lifework-Amateur-Artist-Boyd-K-Packer/i/5078270"><img alt="The_earth_shall_teach_thee_list" src="http://cdn2.deseretbook.com/images/product-images/33/83033/The_Earth_Shall_Teach_Thee_list.jpg"></a></div><br>
-        <a href="http://deseretbook.com/Earth-Shall-Teach-Thee-Lifework-Amateur-Artist-Boyd-K-Packer/i/5078270?s_iid=sp_2">The Earth Shall Teach Thee: The Lifework of an Amateur Artist</a>
-	  </div>
-	  <div class="sp_product space2">
-	    <div class="widgetimg"><a href="http://deseretbook.com/Falling-Heaven-Surprising-Path-Happiness-James-L-Ferrell/i/5069947"><img alt="Falling_to_heaven_cover_list" src="http://cdn3.deseretbook.com/images/product-images/34/82643/Falling_to_Heaven_cover_list.jpg"></a></div><br>
-        <a href="http://deseretbook.com/Falling-Heaven-Surprising-Path-Happiness-James-L-Ferrell/i/5069947?s_iid=sp_3">Falling to Heaven: The Surprising Path to Happiness</a>
-	  </div>
-	  <div class="sp_product ">
-	    <div class="widgetimg"><a href="http://deseretbook.com/Look-My-Soul-Divine-Promise-Hope-Gerald-N-Lund/i/5076981"><img alt="Look_up_my_soul_list" src="http://cdn1.deseretbook.com/images/product-images/92/83029/Look_Up_My_Soul_list.jpg"></a></div><br>
-        <a href="http://deseretbook.com/Look-My-Soul-Divine-Promise-Hope-Gerald-N-Lund/i/5076981?s_iid=sp_4">Look Up, My Soul: The Divine Promise of Hope</a>
-	  </div>
-  </div>
-
-	 </div><div class="clearme"></div>
-     </div>
-	<div class="copyright">
-     <p class="copyright">© 1996-2012 Deseret Book Company. All Rights Reserved</p>
-     <p class="extra_links">
-      <a href="/pages/about">About</a> |
-      <a href="/pages/contact">Contact Us</a> |
-      <a href="http://deseretbook.com/wholesale/">Wholesale</a> |
-      <a href="/pages/author_guidelines">Guidelines for Authors</a> |
-      <a href="/pages/product_guidelines">Retail Product Submissions</a> |
-      <a href="/hr">Careers</a> |
-      <a href="/pages/privacy">Privacy</a></p>
-      <div class="clearme"></div>
+          </li>        
+      </ul>
     </div>
 </div>
-  <div class="btm_shadow"></div>
+
+
 </div>
 
 
+    <div id="main">
+      <div class="content_page_wrapper">
+  <p></p><h3>Deseret Book Company Privacy Policy</h3><br>&nbsp;
+Last Modified: May 21, 2012. This Privacy Policy is effective as of May 21, 2012 ("Effective Date").<p></p>
+<p>The Privacy Policy applies to personal information that may be collected when you interact (a) with Deseret Book, Inc. and its subsidiaries ("Deseret Book"), (b) Deseret Book's websites, applications and devices listed below, operated by Deseret Book. Protecting the privacy and security of your personal information is a priority at Deseret Book, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses. As of the Effective Date this Privacy Policy covers the following: Deseret Book Bookstores, deseretbook.com, the Deseret Book Member Platinum program, and any applications distributed or sold by Deseret Book. </p>
+<p><b>By doing business with or interacting with Deseret Book in the manner described in this Privacy Policy at any time on or after the Effective Date, you are accepting the practices described in this Privacy Policy and you expressly consent to the application of this Privacy Policy to the collection, storage, use and disclosure of all your personal information as described.</b></p>
+<p></p><ol>Deseret Book reserves the right to modify or amend this Privacy Policy at any time, but you can be assured that, should it be necessary to do so, we will always do so in accordance with the Deseret Book Privacy Principles of Clarity, Security and Integrity. This Privacy Policy addresses the following questions:
+<li>What is the personal information that we collect? 
+</li><li>Why do we collect personal information? 
+</li><li>How do we collect your personal information? 
+</li><li>With whom do we share personal information? 
+</li><li>How do we secure personal information? 
+</li><li>How do we respect your choices about your personal information? 
+</li><li>Whom do I contact if I have questions or concerns? </li></ol><p></p>
+<p><b>1. What is the personal information that we collect?</b><br>
+Personal information is your name, e-mail address, billing address, shipping address, phone number, and/or credit card information.</p>
+<p><b>2. Why do we collect personal information?</b><br>
+We collect your personal information in an effort to provide you with a superior customer experience and, as necessary, to administer our business. It allows us to provide you with easy access to our products and services, with a particular focus on the items and programs that may be of most interest to you. For more information as to why we collect personal information, please see the section below entitled: "How do we use your personal information?"</p>
+<p></p><ul><b>3. How do we collect your personal information? </b><br>
+<b>(a). Information that you provide to us</b><br>
+As a general matter, you can browse in our stores and on our websites without submitting your personal information to us. However, there are a number of circumstances in which you may need to provide us with your personal information. The most common of these circumstances include:
+<li><b>Making a purchase or placing an order:</b> When you make a purchase or place an order in our stores or place an order online without an account, you may need to submit personal information to us.
+</li><li><b>Creating an online account:</b> You can create a password-protected Deseretbook.com account to complete your online order, to purchase or download eBooks, other digital content ("Digital Content") Deseret Book's apps or to save items to an online Wish List, To create any of these accounts, we will ask you to provide us with personal information. If you use your online account to make a purchase or download, we will use the personal information stored in your account and/or require you to input additional personal information, such as credit card information, to complete your order or download.
+</li><li><b>Enrolling in our Member loyalty program (Platinum):</b> When you enroll in our Member loyalty program (Platinum), we will ask you to submit personal information as part of your Member profile. The personal information you submit is held in a Member database. When you use your membership, the transaction information for your purchase, including personal information, is copied and stored in the Member database so that we can administer the Member program.
+</li><li><b>Contacting Customer Service:</b> When you contact customer service, we may ask you to provide, or confirm, personal information so that we can better serve you.</li></ul><p></p>
+<p></p><ol><b>(b) Information automatically collected when you visit our websites</b><br>
+When you visit our websites, we automatically record information that your browser sends whenever you visit a website. For example, we may receive and collect: the name of the domain and host from which you access the Internet; the Internet Protocol (IP) address of the computer you are using; the date and time you access our websites; and the Internet address of the website from which you linked directly to our sites. We use this information to monitor the usage of our websites and as necessary for our business. This information does not include personal information.
+<li><b>Information collected using cookies: </b>Like many online retailers, we use cookies to personalize and enhance your browsing and shopping experience. Cookies are small files that we place on your computer's hard drive to collect information about your activities on our websites. Cookies help us to: (1) speed navigation, keep track of items in your shopping cart and provide you with content that is tailored to you; (2) remember information you gave us so that you don't have to reenter it; (3) determine the effectiveness of some of our marketing efforts and communications; and (4) monitor the total number of visitors, pages viewed, and the total number of banners displayed. Browsers are typically set to create cookies automatically. You can choose to have your browser notify you when cookies are being written to your computer or accessed, or you can disable cookies entirely. If you disable cookies, however, you will not be able to place items in a Deseretbook.com shopping cart, and therefore you will not be able to place an order with us online. Also, by not using cookies, some Deseretbook.com website features and services may not function properly.
+</li><li><b>Information collected using pixel tags or clear GIFs: </b>To help us understand the effectiveness of our communications and marketing efforts, we may use "message format" and "message open" sensing technologies that use pixel tags or clear GIFs (which are also called web beacons). These technologies allow us to know if your e-mail program is able to accept HTML e-mails and, if it is, to: (1) send you e-mails in that format; and (2) determine if you have opened our e-mail messages.
+</li><li><b>Information collected from Deseret Book applications:</b> When you use a Deseret Book application, we automatically collect information that the app sends to Deseret Book when it is connected to the Internet. For example, we may receive and collect information concerning search queries, downloads, buying preferences etc.
+</li><li><b>Information collected from visitors from outside the United States:</b> If you are visiting Deseret Book from outside the United States and provide us with personal information, please note that your personal information will be transferred, stored and processed within the United States. The data protection laws in the United States may not be as comprehensive as those in your country. By doing business or interacting with Deseret Book, you are consenting to the transfer of your personal information to facilities located in the United States and other facility locations selected by Deseret Book.</li></ol><p></p>
+<p><b>4. With whom do we share personal information?</b><br>
+Protecting the privacy and security of your personal information is a priority at Deseret Book. <b>DESERET BOOK DOES NOT SELL OR RENT YOUR PERSONAL INFORMATION TO THIRD PARTIES.</b>
+</p><p></p><ul>Deseret Book may share your personal information with:
+<li>Other entities owned by Deseret Book, Inc., including subsidiaries of Deseret Book, Inc. Many of our customers purchase items from us both online and in our stores. We share your personal information within the Deseret Book Company to help to ensure that you have a superior shopping or browsing experience no matter where you choose to shop or browse with us.
+</li><li>Law enforcement officials and as required by law. Deseret Book may release personal information to third parties when we determine, in our judgment, that it is necessary to (a) comply with the law, regulation, legal process, or enforceable governmental request; (b) enforce or apply the terms of any of our policies or user agreements; or (c) protect the rights, property or safety of Deseret Book, our employees, our customers, users, or others.
+</li><li>Other websites operated by Deseret Book. In some instances, we may operate a website on behalf of a third party. If you provide information in connection with a third party website operated by Deseret Book, that information may be shared between Deseret Book and the third party. Although Deseret Book's treatment of the information is governed by this policy, the third party's treatment of your information will be subject to the third party's privacy policy.
+</li><li>Sales, Mergers, and Acquisitions. If Deseret Book becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, personal information may be provided to the entities and advisors involved subject to a confidentiality agreement, and we will provide notice before any personal information is finally transferred and becomes subject to a different privacy policy.</li></ul><p></p>
+<p><b>5. How do we secure personal information?</b><br>
+We take significant and appropriate security measures, including physical, technological and procedural measures, to help to safeguard your personal information and to prevent unauthorized access and disclosure. In addition, we use industry-standard technology, such as firewalls and encryption in the transmission of certain sensitive personal information, designed to prevent unauthorized persons from gaining access to your personal information, and, as technology develops, we will take additional measures to improve security.</p>
+<p></p><ul><b>6. How do we respect your choices about your personal information?</b><br>
+When you interact with Deseret Book, in certain ways you may be eligible to receive certain marketing-related and promotional communications as well as special offers from Deseret Book. The most common of these circumstances include:
+<li>Making a purchase or download or placing an order
+</li><li>Creating an online account
+</li><li>Enrolling in our Member program
+</li><li>Entering a sweepstakes or a contest
+If, at any time, you wish to no longer receive Promotional Communications from Deseret Book Booksellers, Deseretbook.com, the Deseret Book Member Platinum program, please follow the instructions below:
+</li><li>For Deseret Book Booksellers: At any time, a customer may choose to opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions, or by e-mailing our Customer Service Department at service@deseretbook.com
+</li><li>For Deseretbook.com: any account holder can opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions, or by e-mailing our Customer Service Department at service@deseretbook.com 
+</li><li>For Deseret Book Member Platinum program: Any Member can opt-out of the receipt of any Member program promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions, or by e-mailing our Customer Service Department at service@deseretbook.com
+</li><li>Even if you opt-out of receiving Promotional Communications, you may continue to receive e-mails relating to order confirmations, back order notifications, membership information, and/or other business-related communications.</li></ul><p></p> 
+<p><b>7. Whom do I contact if I have questions or concerns?</b><br>
+If you have any questions about this Privacy Policy, please contact us service@deseretbook.com
+or call customer service at 800-453-4532 or 801-534-1515</p>
+
+</div>
+
+    </div>
+
+     <div id="footer">
+  <div id="footerWatermark"></div>
+  <div id="footerSiteMap">
+    <div class="footerSiteMapCat group">
+      <h4>CATEGORIES</h4>
+      <ul>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Art-Home/Art/g/79">Art</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Audio/c/4">Audio</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Books/bestsellers/c/1">Best Sellers</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Books/c/1">Books</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Calendars/c/26">Calendars</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Cards-Stationery/c/38">Cards &amp; Stationary</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-eBooks/c/61">eBooks</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Games-Puzzles/c/31">Games &amp; Puzzles</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Genealogy-Family-History/c/53">Genealogy &amp; Family History</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/gift_cards">Gift Cards</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Art-Home/Home-Decor/g/80">Home Decor</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Jewelry/c/5">Jewelry</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/leather">Leather Books</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Lion-House-Pantry/c/55">Lion House Pantry</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Movies/c/3">Movies</a>
+        </li>
+      </ul>
+    </div>
+    <div class="footerSiteMapCat group">
+      <ul class="footerSiteMapSubCat">
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-MP3-Downloads/c/62">MP3 Audio</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Music/c/2">Music</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Books/new/c/1">New Releases</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Preparedness/c/32">Preparedness</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Program-Covers-Bulletins/c/50">Programs Covers &amp; Bulletins</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Scrapbooking/c/27">Scrapbooking</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Scriptures/c/7">Scriptures</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Software/c/9">Software</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Art-Home/Statues/g/81">Statues</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Stickers/c/56">Stickers</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Teaching-Helps/c/29">Teaching Helps</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/tix">Tickets</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Totes/c/28">Totes</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-Toys/c/54">Toys</a>
+        </li>
+      </ul>
+    </div>
+    <div class="footerSiteMapCat group">
+      <h4>DESERET BOOKSHELF</h4>
+      <ul>
+        <li>
+          <a class="footerSiteMapCatLink" href="http://itunes.apple.com/us/app/deseret-bookshelf/id428709147">Download the App (iPhone)</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="https://market.android.com/details?id=com.deseretbook.bookshelf">Download the App (Android)</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/LDS-eBooks/c/61">Shop for LDS eBooks</a>
+        </li>
+      </ul>
+    </div>
+    <div class="footerSiteMapCat group">
+      <h4>PLATINUM REWARDS</h4>
+      <ul>
+        <li>
+          <a class="footerSiteMapCatLink" href="/Platinum-Rewards-Membership-Deseret-Book-Company/i/4749320">Learn More</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/rewards/faq">Platinum FAQ's</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/users/my_platinum">Points Balance</a>
+        </li>
+      </ul>
+    </div>
+    <div class="footerSiteMapCat group">
+      <h4>MY ACCOUNT</h4>
+      <ul>
+        <li>
+          <a href="/users/login" class="footerSiteMapCatLink">Log In/Out</a>
+        </li>
+        <li>
+          <a href="/cart?cartview=true" class="footerSiteMapCatLink">Shopping Cart</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/users/order_history">Order History</a>
+        </li>
+        <li>
+          <a class="footerSiteMapCatLink" href="/users/wish_list">Wish List</a>
+        </li>
+      </ul>
+    </div>
+    <div class="footerSiteMapCat group">
+      <h4>TOP 10 BEST SELLERS</h4>
+          <ul>
+            <li>
+              <a href="/LDS-Art-Home/bestsellers/c/8" class="footerSiteMapCatLink">Best Selling Art-Home</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="/LDS-Audio/bestsellers/c/4" class="footerSiteMapCatLink">Best Selling Audio</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="/LDS-Books/bestsellers/c/1" class="footerSiteMapCatLink">Best Selling Books</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="/LDS-eBooks/bestsellers/c/61" class="footerSiteMapCatLink">Best Selling eBooks</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="/LDS-Movies/bestsellers/c/3" class="footerSiteMapCatLink">Best Selling Movies</a>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="/LDS-Music/bestsellers/c/2" class="footerSiteMapCatLink">Best Selling Music</a>
+            </li>
+          </ul>
+    </div>
+    <div class="footerSiteMapCat group" style="margin-bottom:0px">
+        <h4>CUSTOMER SERVICE</h4>
+        <ul>
+          <li>
+            Call - 888-846-7302
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="mailto:service@deseretbook.com">Email</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="/pages/chat">Live Chat</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="/pages/contact">Contact Info</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="/pages/shipping">Shipping</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="/pages/faq#1">Returns</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="/pages/faq">FAQ's</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footerSiteMapCat group">
+        <h4>MORE LINKS</h4>
+        <ul>
+          <li>
+            <a class="footerSiteMapCatLink" href="http://gospelink.com" target="_blank">Gospelink.com</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="http://mormontabernaclechoir.org/" target="_blank">Mormon Tabernacle Choir</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="/timeout" target="_blank">Time Out for Women</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="http://ldsliving.com" target="_blank">LDS Living</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="http://mormonlife.com" target="_blank">Mormon Life</a>
+          </li>
+          <li>
+            <a class="footerSiteMapCatLink" href="http://www.zionsmercantilehotel.com/" target="_blank">Nauvoo Hotels</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footerSiteMapCat group">
+        <h4>SHOP OUR CATALOG</h4>
+        <ul>
+          <li><a class="footerSiteMapCatLink" href="/catalog/Bookshelf-Mini-Catalog-2012">Current Catalog</a></li>
+          <li><a class="footerSiteMapCatLink" href="/catalog/request_catalog">Request a Catalog</a></li>
+        </ul>
+      </div>
+      <div class="footerSiteMapCat group">
+        <h4>SHOP OUR STORES</h4>
+        <ul>
+          <li><a class="footerSiteMapCatLink" href="/stores/home">Store Locator</a></li>
+          <li><a class="footerSiteMapCatLink" href="/stores/home">Store Events</a></li>
+        </ul>
+      </div>
+      <div class="footerSiteMapCat group">
+        <h4>STAY CONNECTED</h4>
+        <ul>
+          <li><a class="footerSiteMapCatLink" href="/insider">Join Our Email List</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="footerMenu">
+      <div id="footerRibbon"></div>
+      <p id="footerCopyright">© 1996-2012 Deseret Book Company. All Rights Reserved.</p>
+        <div id="footerMenuNav">
+          <a href="/about/5013881" class="footerMenuNavLink">About</a> |
+          <a href="/contact/5013881" class="footerMenuNavLink">Contact Us</a> |
+          <a href="/wholesale" class="footerMenuNavLink">Wholesale</a> |
+          <a href="/pages/author_guidelines" class="footerMenuNavLink">Guidelines for Authors</a> |
+          <a href="/pages/product_guidelines" class="footerMenuNavLink">Retail Product Submissions</a> |
+          <a href="/hr" class="footerMenuNavLink">Careers</a> |
+          <a href="/privacy/5013881" class="footerMenuNavLink">Privacy</a>
+        </div>
+    </div>
+</div><!--footer-->
+
+
+  </div>
+  <img alt="since1866" src="http://cdn1.deseretbook.com/assets/since1866-9db626e432f33c39a765e30b87d9e066.png">
+  
+  
 <!-- SiteCatalyst code version: H.21.
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
@@ -1147,10 +957,10 @@ More info available at http://www.omniture.com -->
   s.state="";
   s.zip="";
 
-      s.prop10="2:00|fri|weekday";
+      s.prop10="7:00|mon|weekday";
 
 
-      s.eVar10="2:00|fri|weekday";
+      s.eVar10="7:00|mon|weekday";
 
 
     
@@ -1163,31 +973,28 @@ src="http://deseretdigitalmedia.112.2o7.net/b/ss/ddmdeseretbookdev/1/H.21--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.21. -->
 
-<script type="text/javascript">
+  <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1028489-1']);
-  _gaq.push(['_trackPageview']);
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1028489-1']);
+    _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 
-</script>
+  </script>
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js";
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","9b81b7d39e",463017,"IVgKTEpeCg1UEBtFVAVSFxdIQw8XUAFN",0,536,new Date().getTime(),"","","","",""])</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","9b81b7d39e",463017,"IVgKTEpeCg1UEBtFVAVSFxdIQw8XUAFN",0,28,new Date().getTime(),"","","","",""])</script>
 
-
-
-
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/39/eum/rum.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
