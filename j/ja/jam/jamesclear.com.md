@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531030419id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203153216id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
 
-# Earnings Disclaimer and Privacy Policy | James Clear
+# Earnings Disclaimer and Privacy Policy | The Art of Becoming Better
 
 **FTC EARNINGS DISCLAIMER**
 
 In the interest of being FTC compliant and interesting at the same time…
 
-You should assume that if you click on any link on JamesClear.com at any time, I will make tons of money. Probably millions of dollars, possibly more. At the very least, I’ll get a solid gold bar with my name engraved on it. And if I’m not making cold hard cash from the links and products mentioned on this site, then you should assume that I am getting other major benefits: free flights in private jets, vacations on tropical islands, 10–course meals with supermodels (sorry honey), a two–story chocolate fountain with a never–ending supply of strawberries (I love chocolate fountains and strawberries) … and other gifts that mere mortals can only dream about. And finally, if I mention any product or service of any type, just assume that I got a copy of said product or service for free and that this monetary relationship has completely altered everything that I have said about it.
+You should assume that if you click on any link on JamesClear.com at any time, I will make tons of money. Probably millions of dollars, possibly more. At the very least, I’ll get a solid gold bar with my name engraved on it. And if I’m not making cold hard cash from the links and products mentioned on this site, then you should assume that I am getting other major benefits: free flights in private jets, vacations on tropical islands, ten course meals with supermodels (sorry honey), a two–story chocolate fountain with a never–ending supply of strawberries, and other gifts that mere mortals can only dream about. And finally, if I mention any product or service of any type, just assume that I got a copy of said product or service for free and that this monetary relationship has completely altered everything that I have said about it.
 
 **PRIVACY POLICY**
 
-JamesClear.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.”
+JamesClear.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number, etc.) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.”
 
 **How we gather information from users**
 
