@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldrugbyshop.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628081028id_/http%3A//www.worldrugbyshop.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldrugbyshop.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203213855id_/http%3A//www.worldrugbyshop.com/security.html) for the most accurate reproduction.*
 
 # World Rugby Shop - Security
 
@@ -48,12 +48,18 @@ We send small files through your web browser to your hard drive. These "cookies"
 
 #### How can I access my information?
 
-You can access and update most of your personally identifiable information via telephone or by sending a written request to our [_corporate office_](https://web.archive.org/web/20120628081028id_/http%3A//www.worldrugbyshop.com/contact.html) at 365 Incorporated, 3027 6th Avenue South, Birmingham, AL 35233. For your protection, we take reasonable steps to verify your identity before allowing access to your information. 
+You can access and update most of your personally identifiable information via telephone or by sending a written request to our [_corporate office_](https://web.archive.org/web/20121203213855id_/http%3A//www.worldrugbyshop.com/contact.html) at 365 Incorporated, 3027 6th Avenue South, Birmingham, AL 35233. For your protection, we take reasonable steps to verify your identity before allowing access to your information. 
 
 » back to top
 
 #### Do you have a page where I can wade through complex legal jargon?
 
-No business is complete without one. Just take a look at our [ _terms and conditions_](https://web.archive.org/web/20120628081028id_/http%3A//www.worldrugbyshop.com/terms.html) for all the fine print you can handle. 
+No business is complete without one. Just take a look at our [ _terms and conditions_](https://web.archive.org/web/20121203213855id_/http%3A//www.worldrugbyshop.com/terms.html) for all the fine print you can handle. 
 
 » back to top
+
+##### [Back to Customer Service](https://web.archive.org/web/20121203213855id_/http%3A//www.worldrugbyshop.com/info.html)
+
+#####   
+Copyright 2012©   [365 Incorporated]. All rights reserved.  
+
