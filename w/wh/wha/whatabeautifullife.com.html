@@ -1,20 +1,27 @@
-<!--The following is the downloaded HTML source of the whatabeautifullife.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510053718id_/http%3A//www.whatabeautifullife.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whatabeautifullife.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203033844id_/http%3A//www.whatabeautifullife.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+
 <title>Privacy Policy</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="fb:page_id" content="201531709882116">
 <link rel="shortcut icon" href="https://www.whatabeautifullife.com/favicon.ico">
 <link rel="stylesheet" href="/catalog/view/theme/blissvita/stylesheet/global.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="/catalog/view/javascript/jquery/lightbox/lightbox.css">
 <link rel="stylesheet" type="text/css" href="/catalog/view/javascript/jquery/thickbox/thickbox.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/catalog/view/javascript/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/catalog/view/javascript/jquery/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/catalog/view/javascript/jquery/jquery.lazyload.js"></script>
 <script type="text/javascript" src="/catalog/view/javascript/jquery/thickbox/thickbox-compressed.js"></script>
+<script type="text/javascript" src="/catalog/view/javascript/header.js?250"></script>
+<!-- {{{ SlideLayer -->
+<script type="text/javascript" src="/catalog/view/javascript/wabl/SlideLayer.js?"></script>
+<!-- }}} -->
+
 <script type="text/javascript">
  function SwitchLanguage(thisId){
-	var config = {en:'http://www.whatabeautifullife.cn/',fr:'http://www.whatabeautifullife.cn/fr/'};
+	var config = {en:'http://www.whatabeautifullife.com/',fr:'http://www.whatabeautifullife.com/fr/'};
 	var val = $("#"+thisId).val();
 	if(config[val] != 'undefined'){
 		location.href=config[val];
@@ -22,33 +29,115 @@
  }  
 function SwitchSearch(o)
 {
-	if(o.value== 'Keywords'){
+	if(o.value== 'Evening Dresses'){
 		o.value='';
 	}
 }
+
+function moduleSearch() {	
+	//pathArray = location.pathname.split( '/' );
+	var url = '';
+	// url = location.protocol + "//" + location.host + "/";
+	url = 'http://www.whatabeautifullife.com/index.php?route=product/search';
+	var filter_keyword = $('#filter_keyword').attr('value');
+		filter_keyword = trimRight(filter_keyword);
+	if (filter_keyword) {
+		url += '&keyword=' + encodeURIComponent(filter_keyword);
+	}else{
+		return false;
+	}
+	var filter_category_id = $('#filter_category_id').attr('value');
+	if (filter_category_id) {
+		url += '&category_id=' + filter_category_id;		
+	}
+	location = url;
+}
+
+</script>
+<script type="text/javascript">
+	$(function(){
+		$("img").lazyload();
+		$("#flaginp").mousedown(function(){
+			$("#flagli").slideToggle();
+			
+			
+		});
+		$("#flagli").mousedown(function(){
+			$("#flagli").slideUp();
+		});
+		
+		
+	});
+	
+	function currency(curry)
+	{
+		$("#currency_code").attr('value',curry);
+		$("#post_form").submit();
+	}
 </script>
 </head>
 <body>
-<div id="global">
-	<div class="globalinner">
-			<ul class="switcher">
-				<li><a href="http://www.whatabeautifullife.com/">Home</a></li>
-				<li><a href="http://www.whatabeautifullife.com/">English</a></li>
-				<li><a href="http://www.whatabeautifullife.com/fr/">Français</a></li>
-				<li class="flag"><form action="http://www.whatabeautifullife.com/index.php?route=common/home" method="post" enctype="multipart/form-data" id="currency_form"><select id="currency_code" name="currency_code" onchange="$('#currency_form').submit();"><option value="AUD">Australian Dollar</option><option value="GBP">British Pound</option><option value="EUR">Euro</option><option value="USD" selected="">US Dollar</option></select><input type="hidden" name="redirect" value="http://www.whatabeautifullife.com/privacy-policy.html"></form></li>	
-			</ul>
-			<!--<span><select id="language_code" name="language_code" onchange="SwitchLanguage(this.id);"><option value="en" selected>English</option><option value="fr" >Français</option></select><input type="hidden" name="redirect" value="http://www.whatabeautifullife.com/privacy-policy.html" /></span>-->
-		<script type="text/javascript">if($("input[name=\"redirect\"]").val() == ''){$("input[name=\"redirect\"]").val(window.location.href)}</script>
-		<ul class="userpanel">
-			<li><a rel="nofollow" href="https://www.whatabeautifullife.com/index.php?route=account/login">Sign In</a> / <a rel="nofollow" href="/index.php?route=account/signup" class="signup">Sign Up for FREE!</a></li>
-			<li><a rel="nofollow" href="https://www.whatabeautifullife.com/index.php?route=account/account">My Account</a></li>
-			<li><a rel="nofollow" href="/index.php?route=account/wishlist">My Wishlist</a></li>
-			<li><a rel="nofollow" href="/help.html">Help</a></li>
-			<li><a rel="nofollow" id="comm100_TextLink" class="chat" href="https://chatserver.comm100.com/ChatWindow.aspx?siteId=75589&amp;planId=1989&amp;partnerId=-1&amp;visitType=1&amp;byHref=1" onclick="comm100_Chat();return false;" target="_blank">Live Chat</a></li>
-			<li class="flag"><a href="/reviews.html" title=""><img src="/catalog/view/theme/blissvita/images/reveiews.gif" alt=""></a></li>
+<div class="unav-wrap">
+	<div class="unav">
+		<ul class="left">
+			<li><a href="http://www.whatabeautifullife.com" title="Home" class="active">Home</a></li>
+			<!-- <li><a href="http://star.whatabeautifullife.com" title="star">star</a></li> -->
+			<li><a href="http://www.whatabeautifullife.com/fashion/" title="Fashion Deals">Fashion Deals</a></li>
+			<!-- <li><a href="http://blog.whatabeautifullife.com" title="blog">blog</a></li> -->
 		</ul>
+		<div class="right">
+			<ul class="sign_in_out">
+								<li><a href="https://www.whatabeautifullife.com/index.php?route=account/login" title="">Sign In</a> / <a href="/index.php?route=account/signup" title="Sign Up">Sign Up</a></li>
+								<li><a href="/help.html" title="Help">Help</a></li>
+				<li><a href="https://chatserver.comm100.com/ChatWindow.aspx?siteId=75589&amp;planId=1989&amp;partnerId=-1&amp;visitType=1&amp;byHref=1" onclick="comm100_Chat();return false;" target="_blank"><span>LIVE CHAT</span></a></li>			
+			</ul>
+			<div class="flag_r">
+				
+				<ul>
+					<li class="flag_bk" id="flaginp">
+							
+							<a href="#" title="USD" class="
+							flag us							">
+							US Dollar							</a>
+												
+
+						<em></em>
+					</li>
+				</ul>
+
+				<ul class="flag_list" id="flagli" style="display:none;">
+										<li><a href="javascript:currency('AUD')" name="" value="AUD" title="" class="
+					flag ad					">Australian Dollar</a></li>
+					
+										<li><a href="javascript:currency('GBP')" name="" value="GBP" title="" class="
+					flag bp					">British Pound</a></li>
+					
+										<li><a href="javascript:currency('EUR')" name="" value="EUR" title="" class="
+					flag eu					">Euro</a></li>
+					
+										<li><a href="javascript:currency('USD')" name="" value="USD" title="" class="
+					flag us					">US Dollar</a></li>
+					
+									
+					<!--<li><a href="#" name='' value='' title="" class="flag ad">Austrilian Dollar</a></li>
+						<li><a href="#" title="" class="flag bp">British Pound</a></li>
+						<li><a href="#" title="" class="flag eu">Euro</a></li>
+						<li><a href="#" title="" class="flag us">US Dollar</a></li>-->
+				</ul>
+				<form id="post_form" action="http://www.whatabeautifullife.com/index.php?route=common/home" method="post" enctype="multipart/form-data">
+				<input id="currency_code" type="hidden" name="currency_code" value="USD">
+				<input id="redirect" type="hidden" name="redirect" value="http://www.whatabeautifullife.com/privacy-policy.html">
+				</form>
+			</div>
+			<ul class="sign_in_out en_fr">
+				<li><a href="http://www.whatabeautifullife.com" title="English">English</a></li>
+				<li><a href="http://www.whatabeautifullife.com/fr/" title="Français">Français</a></li>
+			</ul>
+		</div>
 	</div>
 </div>
+
+
 
 <div id="wrap">
 <script type="text/javascript">
@@ -67,7 +156,7 @@ $("#child_1").hover(
 	<div id="header">
 		<div class="clear head">
 			<h1><a href="http://www.whatabeautifullife.com/" title="What a Beautiful Life – We Love Everywhere">Privacy Policy</a></h1>
-			<div class="purebydavid"><a href="/pure/" title="Pure by David Ubl"><img src="/catalog/view/theme/blissvita/images/images/pure_03.jpg" alt="Pure by David Ubl"></a></div>
+			<div class="purebydavid"><a href="/pure/" title="Pure by David Ubl"><img src="/catalog/view/theme/blissvita/images/images/pure_03.jpg" alt="Pure by David Ubl" original="/catalog/view/theme/blissvita/images/images/pure_03.jpg"></a></div>
 			<!--<p>We Love Everywhere.</p>-->
 			
 			<!--<ul class="topnav">
@@ -77,14 +166,14 @@ $("#child_1").hover(
 			</ul>-->
 			<div class="fl research-box" id="search">
 				<ul class="clear">
-					<li class="fl key-input"><input type="text" id="filter_keyword" onclick="SwitchSearch(this);" value="Keywords"></li>
+					<li class="fl key-input"><input type="text" id="filter_keyword" onclick="SwitchSearch(this);" value="Evening Dresses"></li>
 					<li class="fr submit-btn" onclick="moduleSearch();"><input type="submit" class="submit" value="" title="search" onclick=""></li>				
 				</ul>
 			</div>
 			<div class="clear courier-cart">
 				<ul>
 					<li class="courier"><a href="/shipping-location.html" title="Worldwide Shipping">Worldwide Shipping</a></li>
-					<li class="cart"><span><a href="http://www.whatabeautifullife.com/index.php?route=checkout/cart"><strong>0</strong>&nbsp;Item(s)</a></span></li>
+					<li class="cart"><span><a href="https://www.whatabeautifullife.com/index.php?route=checkout/cart"><strong>0</strong>&nbsp;Item(s)</a></span></li>
 				</ul>
 			</div>
 		</div>
@@ -92,181 +181,214 @@ $("#child_1").hover(
 		<ul id="nav-1">
 			<li class="nav-1" id="nav1"><a href="http://www.whatabeautifullife.com/Wedding-Apparel-A" title="Wedding Apparel">Wedding Apparel</a>
 				<ul class="nav-2">
-																					<li class="navcur"><a href="http://www.whatabeautifullife.com/Wedding-Dresses-A01" title="&nbsp;Wedding Dresses">&nbsp;Wedding Dresses <span>»</span></a>
+																<li><a href="http://www.whatabeautifullife.com/New-Arrival-1" title="New Arrival">New Arrival </a>
+															</li>
+																							<li class="navcur"><a href="http://www.whatabeautifullife.com/Wedding-Dresses-A01?inrefer=header_nav" title="&nbsp;Wedding Dresses">&nbsp;Wedding Dresses <span>»</span></a>
 																<ul class="nav-3">
-																													<li><a href="http://www.whatabeautifullife.com/a-line-wedding-dresses-A08" title="&nbsp;A-line Wedding Dresses">&nbsp;A-line Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/ball-gown-wedding-dresses-A09" title="&nbsp;Ball Gown Wedding Dresses">&nbsp;Ball Gown Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/beach-wedding-dresses-A10" title="&nbsp;Beach Wedding Dresses">&nbsp;Beach Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/empire-wedding-dresses-A11" title="&nbsp;Empire Wedding Dresses">&nbsp;Empire Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/maternity-wedding-dresses-A12" title="&nbsp;Maternity Wedding Dresses">&nbsp;Maternity Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/mermaid-wedding-dresses-A13" title="&nbsp;Mermaid Wedding Dresses">&nbsp;Mermaid Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/mini-wedding-dresses-A14" title="&nbsp;Mini Wedding Dresses">&nbsp;Mini Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/plus-size-wedding-dresses-A16" title="&nbsp;Plus Size Wedding Dresses">&nbsp;Plus Size Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/sheath-column-wedding-dresses-A17" title="&nbsp;Sheath/Column Wedding Dresses">&nbsp;Sheath/Column Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/strapless-wedding-dresses-A18" title="&nbsp;Strapless Wedding Dresses">&nbsp;Strapless Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/sweetheart-wedding-dresses-A19" title="&nbsp;SweetHeart Wedding Dresses">&nbsp;SweetHeart Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/v-neck-column-wedding-dresses-A20" title="&nbsp;V-neck Wedding Dresses">&nbsp;V-neck Wedding Dresses</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/other-wedding-dresses-A15" title="&nbsp;Lace Wedding Dresses">&nbsp;Lace Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/a-line-wedding-dresses-A08?inrefer=header_nav" title="&nbsp;A-line Wedding Dresses">&nbsp;A-line Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/ball-gown-wedding-dresses-A09?inrefer=header_nav" title="&nbsp;Ball Gown Wedding Dresses">&nbsp;Ball Gown Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/beach-wedding-dresses-A10?inrefer=header_nav" title="&nbsp;Beach Wedding Dresses">&nbsp;Beach Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/empire-wedding-dresses-A11?inrefer=header_nav" title="&nbsp;Empire Wedding Dresses">&nbsp;Empire Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/maternity-wedding-dresses-A12?inrefer=header_nav" title="&nbsp;Maternity Wedding Dresses">&nbsp;Maternity Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/mermaid-wedding-dresses-A13?inrefer=header_nav" title="&nbsp;Mermaid Wedding Dresses">&nbsp;Mermaid Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/mini-wedding-dresses-A14?inrefer=header_nav" title="&nbsp;Mini Wedding Dresses">&nbsp;Mini Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/plus-size-wedding-dresses-A16?inrefer=header_nav" title="&nbsp;Plus Size Wedding Dresses">&nbsp;Plus Size Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/sheath-column-wedding-dresses-A17?inrefer=header_nav" title="&nbsp;Sheath/Column Wedding Dresses">&nbsp;Sheath/Column Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/strapless-wedding-dresses-A18?inrefer=header_nav" title="&nbsp;Strapless Wedding Dresses">&nbsp;Strapless Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/sweetheart-wedding-dresses-A19?inrefer=header_nav" title="&nbsp;SweetHeart Wedding Dresses">&nbsp;SweetHeart Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/v-neck-column-wedding-dresses-A20?inrefer=header_nav" title="&nbsp;V-neck Wedding Dresses">&nbsp;V-neck Wedding Dresses</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/other-wedding-dresses-A15?inrefer=header_nav" title="&nbsp;Lace Wedding Dresses">&nbsp;Lace Wedding Dresses</a></li>
 																	</ul>
 															</li>
-																		<li><a href="http://www.whatabeautifullife.com/Bridesmaid-Dresses-A02" title="&nbsp;Bridesmaid Dresses">&nbsp;Bridesmaid Dresses </a>
+																		<li><a href="http://www.whatabeautifullife.com/Bridesmaid-Dresses-A02?inrefer=header_nav" title="&nbsp;Bridesmaid Dresses">&nbsp;Bridesmaid Dresses </a>
 															</li>
-																		<li><a href="http://www.whatabeautifullife.com/Junior-Bridesmaid-Dresses-A03" title="&nbsp;Junior Bridesmaid Dresses">&nbsp;Junior Bridesmaid Dresses </a>
+																		<li><a href="http://www.whatabeautifullife.com/Junior-Bridesmaid-Dresses-A03?inrefer=header_nav" title="&nbsp;Junior Bridesmaid Dresses">&nbsp;Junior Bridesmaid Dresses </a>
 															</li>
-																		<li><a href="http://www.whatabeautifullife.com/Mother-of-the-Bride-Dresses-A04" title="&nbsp;Mother of the Bride Dresses">&nbsp;Mother of the Bride Dresses </a>
+																		<li><a href="http://www.whatabeautifullife.com/Mother-of-the-Bride-Dresses-A04?inrefer=header_nav" title="&nbsp;Mother of the Bride Dresses">&nbsp;Mother of the Bride Dresses </a>
 															</li>
-																		<li class="navcur"><a href="http://www.whatabeautifullife.com/Wedding-Accessories-A06" title="&nbsp;Wedding Accessories">&nbsp;Wedding Accessories <span>»</span></a>
+																		<li class="navcur"><a href="http://www.whatabeautifullife.com/Wedding-Accessories-A06?inrefer=header_nav" title="&nbsp;Wedding Accessories">&nbsp;Wedding Accessories <span>»</span></a>
 																<ul class="nav-3">
-																													<li><a href="http://www.whatabeautifullife.com/Wedding-Tiaras-A24" title="&nbsp;Wedding Tiaras">&nbsp;Wedding Tiaras</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/wedding-headpieces-A21" title="&nbsp;Wedding Headpieces">&nbsp;Wedding Headpieces</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/wedding-jewelry-A21" title="&nbsp;Wedding Jewelry">&nbsp;Wedding Jewelry</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/wedding-veils-A21" title="&nbsp;Wedding Veils">&nbsp;Wedding Veils</a></li>
-																													<li><a href="http://www.whatabeautifullife.com/Wedding-Gloves-A25" title="&nbsp;Wedding Gloves">&nbsp;Wedding Gloves</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/Wedding-Tiaras-A24?inrefer=header_nav" title="&nbsp;Wedding Tiaras">&nbsp;Wedding Tiaras</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/wedding-headpieces-A21?inrefer=header_nav" title="&nbsp;Wedding Headpieces">&nbsp;Wedding Headpieces</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/wedding-jewelry-A21?inrefer=header_nav" title="&nbsp;Wedding Jewelry">&nbsp;Wedding Jewelry</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/wedding-veils-A21?inrefer=header_nav" title="&nbsp;Wedding Veils">&nbsp;Wedding Veils</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/Wedding-Gloves-A25?inrefer=header_nav" title="&nbsp;Wedding Gloves">&nbsp;Wedding Gloves</a></li>
 																	</ul>
 															</li>
-																		<li><a href="http://www.whatabeautifullife.com/Flower-Girl-Dresses-A07" title="&nbsp;Flower Girl Dresses">&nbsp;Flower Girl Dresses </a>
+																		<li><a href="http://www.whatabeautifullife.com/Flower-Girl-Dresses-A07?inrefer=header_nav" title="&nbsp;Flower Girl Dresses">&nbsp;Flower Girl Dresses </a>
 															</li>
-																		<li><a href="http://www.whatabeautifullife.com/Wedding-Shoes-A05" title="&nbsp;Wedding Shoes">&nbsp;Wedding Shoes </a>
+																		<li><a href="http://www.whatabeautifullife.com/Wedding-Shoes-A05?inrefer=header_nav" title="&nbsp;Wedding Shoes">&nbsp;Wedding Shoes </a>
 															</li>
 														
 				</ul>
 			</li>
 			
 			<li class="nav-1"><a href="http://www.whatabeautifullife.com/Lolita-Clothing-D" title="Lolita Clothing">Lolita Clothing</a>
-				<ul class="nav-2">									<li><a href="http://www.whatabeautifullife.com/Lolita-Dresses-D01" title="&nbsp;Lolita Dresses">&nbsp;Lolita Dresses</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Lolita-Skirts-D02" title="&nbsp;Lolita Skirts">&nbsp;Lolita Skirts</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Lolita-Outfits-D03" title="&nbsp;Lolita Outfits">&nbsp;Lolita Outfits</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Lolita-Blouses-D04" title="&nbsp;Lolita Blouses">&nbsp;Lolita Blouses</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Lolita-Bloomers-D05" title="&nbsp;Lolita Bloomers">&nbsp;Lolita Bloomers</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Coats-Jackets-D06" title="&nbsp;Lolita Coats &amp; Jackets">&nbsp;Lolita Coats &amp; Jackets</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Lolita-Footwear-D07" title="&nbsp;Lolita Footwear">&nbsp;Lolita Footwear</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Kids-Lolita-Clothes-D08" title="&nbsp;Kids' Lolita Clothes">&nbsp;Kids' Lolita Clothes</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Lolita-Accessories-D09" title="&nbsp;Lolita Accessories">&nbsp;Lolita Accessories</a></li>
+				<ul class="nav-2">									<li class="navcur"><a href="http://www.whatabeautifullife.com/Lolita-Dresses-D01?inrefer=header_nav" title="&nbsp;Lolita Dresses">&nbsp;Lolita Dresses <span>»</span></a>
+													<ul class="nav-3">
+																												<li><a href="http://www.whatabeautifullife.com/Classic-Lolita-Dresses-D10?inrefer=header_nav" title="&nbsp;Classic Lolita Dresses">&nbsp;Classic Lolita Dresses</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Cosplay-Lolita-Dresses-D11?inrefer=header_nav" title="&nbsp;Cosplay Lolita Dresses">&nbsp;Cosplay Lolita Dresses</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Gothic-Lolita-Dresses-D13?inrefer=header_nav" title="&nbsp;Gothic Lolita Dresses">&nbsp;Gothic Lolita Dresses</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Punk-Lolita-Dresses-D15?inrefer=header_nav" title="&nbsp;Punk Lolita Dresses">&nbsp;Punk Lolita Dresses</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/School-Lolita-Dresses-D14?inrefer=header_nav" title="&nbsp;School Lolita Dresses">&nbsp;School Lolita Dresses</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Sweet-Lolita-Dresses-D12?inrefer=header_nav" title="&nbsp;Sweet Lolita Dresses">&nbsp;Sweet Lolita Dresses</a></li>
+																	</ul>
+													</li>
+														<li><a href="http://www.whatabeautifullife.com/Lolita-Skirts-D02?inrefer=header_nav" title="&nbsp;Lolita Skirts">&nbsp;Lolita Skirts </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Lolita-Outfits-D03?inrefer=header_nav" title="&nbsp;Lolita Outfits">&nbsp;Lolita Outfits </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Lolita-Blouses-D04?inrefer=header_nav" title="&nbsp;Lolita Blouses">&nbsp;Lolita Blouses </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Lolita-Bloomers-D05?inrefer=header_nav" title="&nbsp;Lolita Bloomers">&nbsp;Lolita Bloomers </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Coats-Jackets-D06?inrefer=header_nav" title="&nbsp;Lolita Coats &amp; Jackets">&nbsp;Lolita Coats &amp; Jackets </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Lolita-Footwear-D07?inrefer=header_nav" title="&nbsp;Lolita Footwear">&nbsp;Lolita Footwear </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Kids-Lolita-Clothes-D08?inrefer=header_nav" title="&nbsp;Kids' Lolita Clothes">&nbsp;Kids' Lolita Clothes </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Lolita-Accessories-D09?inrefer=header_nav" title="&nbsp;Lolita Accessories">&nbsp;Lolita Accessories </a>
+										</li>
 									</ul>
 			</li>
 			<li class="nav-1"><a href="http://www.whatabeautifullife.com/Special-Occasion-Dresses-E" title="Special Occasion Dresses">Special Occasion Dresses</a>
 				<ul class="nav-2">
-															<li><a href="http://www.whatabeautifullife.com/Evening-Dresses-E01" title="&nbsp;Evening Dresses">&nbsp;Evening Dresses </a>
+															<li><a href="http://www.whatabeautifullife.com/All-Dresses-E00?inrefer=header_nav" title="&nbsp;All Dresses">&nbsp;All Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Prom-Dresses-E02" title="&nbsp;Prom Dresses">&nbsp;Prom Dresses </a>
+																	<li><a href="http://www.whatabeautifullife.com/Evening-Dresses-E01?inrefer=header_nav" title="&nbsp;Evening Dresses">&nbsp;Evening Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Cocktail-Dresses-E03" title="&nbsp;Cocktail Dresses">&nbsp;Cocktail Dresses </a>
+																	<li><a href="http://www.whatabeautifullife.com/Prom-Dresses-E02?inrefer=header_nav" title="&nbsp;Prom Dresses">&nbsp;Prom Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Homecoming-Dresses-E04" title="&nbsp;Homecoming Dresses">&nbsp;Homecoming Dresses </a>
+																	<li><a href="http://www.whatabeautifullife.com/Cocktail-Dresses-E03?inrefer=header_nav" title="&nbsp;Cocktail Dresses">&nbsp;Cocktail Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Little-Black-Dresses-E05" title="&nbsp;Little Black Dresses">&nbsp;Little Black Dresses </a>
+																	<li><a href="http://www.whatabeautifullife.com/Homecoming-Dresses-E04?inrefer=header_nav" title="&nbsp;Homecoming Dresses">&nbsp;Homecoming Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Celebrity-Dresses-E06" title="&nbsp;Celebrity Dresses">&nbsp;Celebrity Dresses </a>
+																	<li><a href="http://www.whatabeautifullife.com/Little-Black-Dresses-E05?inrefer=header_nav" title="&nbsp;Little Black Dresses">&nbsp;Little Black Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Ball-Gowns-E09" title="&nbsp;Ball Gowns">&nbsp;Ball Gowns </a>
+																	<li><a href="http://www.whatabeautifullife.com/Celebrity-Dresses-E06?inrefer=header_nav" title="&nbsp;Celebrity Dresses">&nbsp;Celebrity Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/First-Communion-Dresses-E10" title="&nbsp;First Communion Dresses">&nbsp;First Communion Dresses </a>
+																	<li><a href="http://www.whatabeautifullife.com/Ball-Gowns-E09?inrefer=header_nav" title="&nbsp;Ball Gowns">&nbsp;Ball Gowns </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Graduation-Dresses-E11" title="&nbsp;Graduation Dresses">&nbsp;Graduation Dresses </a>
+																	<li><a href="http://www.whatabeautifullife.com/First-Communion-Dresses-E10?inrefer=header_nav" title="&nbsp;First Communion Dresses">&nbsp;First Communion Dresses </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Special-Occasion-Accessories-E12" title="&nbsp;Special Occasion Accessories">&nbsp;Special Occasion Accessories </a>
+																	<li><a href="http://www.whatabeautifullife.com/Graduation-Dresses-E11?inrefer=header_nav" title="&nbsp;Graduation Dresses">&nbsp;Graduation Dresses </a>
+															</li>
+																	<li><a href="http://www.whatabeautifullife.com/Special-Occasion-Accessories-E12?inrefer=header_nav" title="&nbsp;Special Occasion Accessories">&nbsp;Special Occasion Accessories </a>
 															</li>
 								
 				</ul>
 			</li>
 			<li class="nav-1"><a href="http://www.whatabeautifullife.com/Catsuits-Zentai-B" title="Catsuits &amp; Zentai">Catsuits &amp; Zentai</a>
-				<ul class="nav-2">									<li><a href="http://www.whatabeautifullife.com/Lycra-Spandex-Zentai-Suits-B01" title="&nbsp;Lycra Spandex Zentai Suits">&nbsp;Lycra Spandex Zentai Suits </a>
+				<!-- <ul class="nav-2">									<li  ><a href="http://www.whatabeautifullife.com/Lycra-Spandex-Zentai-Suits-B01?inrefer=header_nav" title="&nbsp;Lycra Spandex Zentai Suits">&nbsp;Lycra Spandex Zentai Suits </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Shiny-Metallic-Zentai-Suits-B02" title="&nbsp;Shiny Metallic Zentai Suits">&nbsp;Shiny Metallic Zentai Suits </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Shiny-Metallic-Zentai-Suits-B02?inrefer=header_nav" title="&nbsp;Shiny Metallic Zentai Suits">&nbsp;Shiny Metallic Zentai Suits </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Silk-Velours-Zentai-Suits-B03" title="&nbsp;Silk &amp; Velours Zentai Suits">&nbsp;Silk &amp; Velours Zentai Suits </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Silk-Velours-Zentai-Suits-B03?inrefer=header_nav" title="&nbsp;Silk &amp; Velours Zentai Suits">&nbsp;Silk &amp; Velours Zentai Suits </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Animal-Zentai-Suits-B04" title="&nbsp;Animal Zentai Suits">&nbsp;Animal Zentai Suits </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Animal-Zentai-Suits-B04?inrefer=header_nav" title="&nbsp;Animal Zentai Suits">&nbsp;Animal Zentai Suits </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Lycra-Spandex-Catsuits-B07" title="&nbsp;Lycra Spandex Catsuits">&nbsp;Lycra Spandex Catsuits </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Lycra-Spandex-Catsuits-B07?inrefer=header_nav" title="&nbsp;Lycra Spandex Catsuits">&nbsp;Lycra Spandex Catsuits </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Shiny-Metallic-Clothes-B08" title="&nbsp;Shiny Metallic Clothes">&nbsp;Shiny Metallic Clothes </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Shiny-Metallic-Clothes-B08?inrefer=header_nav" title="&nbsp;Shiny Metallic Clothes">&nbsp;Shiny Metallic Clothes </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/PVC-Clothes-B09" title="&nbsp;PVC Clothes">&nbsp;PVC Clothes </a>
+														<li  ><a href="http://www.whatabeautifullife.com/PVC-Clothes-B09?inrefer=header_nav" title="&nbsp;PVC Clothes">&nbsp;PVC Clothes </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Latex-Clothes-B10" title="&nbsp;Latex Clothes">&nbsp;Latex Clothes </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Latex-Clothes-B10?inrefer=header_nav" title="&nbsp;Latex Clothes">&nbsp;Latex Clothes </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Leotards-B11" title="&nbsp;Leotards">&nbsp;Leotards </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Leotards-B11?inrefer=header_nav" title="&nbsp;Leotards">&nbsp;Leotards </a>
 															</li>
-														<li><a href="http://www.whatabeautifullife.com/Catsuits-Zentai-Accessories-B12" title="&nbsp;Catsuits &amp; Zentai Accessories">&nbsp;Catsuits &amp; Zentai Accessories </a>
+														<li  ><a href="http://www.whatabeautifullife.com/Catsuits-Zentai-Accessories-B12?inrefer=header_nav" title="&nbsp;Catsuits &amp; Zentai Accessories">&nbsp;Catsuits &amp; Zentai Accessories </a>
 															</li>
-									</ul>
+									</ul> -->
 			</li>
 			<li class="nav-1"><a href="http://www.whatabeautifullife.com/Costumes-C" title="Costumes">Costumes</a>
-				<ul class="nav-2">									<li><a href="http://www.whatabeautifullife.com/Kid-s-costumes-C30" title="&nbsp;Kid's Costumes">&nbsp;Kid's Costumes</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Cosplay-Costumes-C01" title="&nbsp;Cosplay Costumes">&nbsp;Cosplay Costumes</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Mascot-Costumes-C02" title="&nbsp;Mascot Costumes">&nbsp;Mascot Costumes</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Movie-TV-Costumes-C03" title="&nbsp;Movie &amp; TV Costumes">&nbsp;Movie &amp; TV Costumes</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Kigurumi-Costumes-C04" title="&nbsp;Kigurumi Costumes">&nbsp;Kigurumi Costumes</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Cosplay-Wigs-C05" title="&nbsp;Cosplay Wigs">&nbsp;Cosplay Wigs</a></li>
-														<li><a href="http://www.whatabeautifullife.com/cosplay-shoes-C06" title="&nbsp;Cosplay Shoes">&nbsp;Cosplay Shoes</a></li>
+				<ul class="nav-2">									<li><a href="http://www.whatabeautifullife.com/Kid-s-costumes-C30?inrefer=header_nav" title="&nbsp;Children's Costumes">&nbsp;Children's Costumes </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Cosplay-Costumes-C01?inrefer=header_nav" title="&nbsp;Cosplay Costumes">&nbsp;Cosplay Costumes </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Mascot-Costumes-C02?inrefer=header_nav" title="&nbsp;Mascot Costumes">&nbsp;Mascot Costumes </a>
+										</li>
+														<li class="navcur"><a href="http://www.whatabeautifullife.com/Movie-TV-Costumes-C03?inrefer=header_nav" title="&nbsp;Movie &amp; TV Costumes">&nbsp;Movie &amp; TV Costumes <span>»</span></a>
+													<ul class="nav-3">
+																													<li><a href="http://www.whatabeautifullife.com/Spiderman-Costumes-B05?inrefer=header_nav" title="&nbsp;Spiderman Costumes">&nbsp;Spiderman Costumes</a></li>
+																													<li><a href="http://www.whatabeautifullife.com/Superhero-Costumes-B06?inrefer=header_nav" title="&nbsp;Superhero Costumes">&nbsp;Superhero Costumes</a></li>
+																	</ul>
+													</li>
+														<li><a href="http://www.whatabeautifullife.com/Kigurumi-Costumes-C04?inrefer=header_nav" title="&nbsp;Kigurumi Costumes">&nbsp;Kigurumi Costumes </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/Cosplay-Wigs-C05?inrefer=header_nav" title="&nbsp;Cosplay Wigs">&nbsp;Cosplay Wigs </a>
+										</li>
+														<li><a href="http://www.whatabeautifullife.com/cosplay-shoes-C06?inrefer=header_nav" title="&nbsp;Cosplay Shoes">&nbsp;Cosplay Shoes </a>
+										</li>
 									</ul>
 			</li>
 			<li class="nav-1"><a href="http://www.whatabeautifullife.com/Intimates-F" title="Intimates">Intimates</a>
-				<ul class="nav-2">									<li class="navcur"><a href="http://www.whatabeautifullife.com/Sexy-Lingerie-F01" title="&nbsp;Sexy Lingerie">&nbsp;Sexy Lingerie <span>»</span></a>
+				<ul class="nav-2">									<li><a href="http://www.whatabeautifullife.com/Bras-F03?inrefer=header_nav" title="&nbsp;Bras">&nbsp;Bras </a>
+															</li>
+														<li class="navcur"><a href="http://www.whatabeautifullife.com/Sexy-Lingerie-F01?inrefer=header_nav" title="&nbsp;Sexy Lingerie">&nbsp;Sexy Lingerie <span>»</span></a>
 																<ul class="nav-3">
-																												<li><a href="http://www.whatabeautifullife.com/BabyDoll-F04" title="&nbsp;BabyDoll">&nbsp;BabyDoll</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Bikini-F13" title="&nbsp;Bikini">&nbsp;Bikini</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Bra-Set-F05" title="&nbsp;Bra Set">&nbsp;Bra Set</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Cami-F06" title="&nbsp;Camisole">&nbsp;Camisole</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Chemise-F07" title="&nbsp;Chemise">&nbsp;Chemise</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Kimono-F09" title="&nbsp;Kimono">&nbsp;Kimono</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Metallic-F15" title="&nbsp;Leather Lingerie">&nbsp;Leather Lingerie</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Men-s-Wear-F16" title="&nbsp;Men's Wear">&nbsp;Men's Wear</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Panties-Thong-F11" title="&nbsp;Panties Thong">&nbsp;Panties Thong</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Pantyhose--Stockings-F12" title="&nbsp;Pantyhose &amp; Stockings">&nbsp;Pantyhose &amp; Stockings</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Robe-Coat-F08" title="&nbsp;Robe &amp; Coat">&nbsp;Robe &amp; Coat</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Role-Playing-F10" title="&nbsp;Sexy Costume">&nbsp;Sexy Costume</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Teddy-F14" title="&nbsp;Teddy">&nbsp;Teddy</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/BabyDoll-F04?inrefer=header_nav" title="&nbsp;BabyDoll">&nbsp;BabyDoll</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Bikini-F13?inrefer=header_nav" title="&nbsp;Bikini">&nbsp;Bikini</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Bra-Set-F05?inrefer=header_nav" title="&nbsp;Bra Set">&nbsp;Bra Set</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Cami-F06?inrefer=header_nav" title="&nbsp;Camisole">&nbsp;Camisole</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Chemise-F07?inrefer=header_nav" title="&nbsp;Chemise">&nbsp;Chemise</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Kimono-F09?inrefer=header_nav" title="&nbsp;Kimono">&nbsp;Kimono</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Metallic-F15?inrefer=header_nav" title="&nbsp;Leather Lingerie">&nbsp;Leather Lingerie</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Men-s-Wear-F16?inrefer=header_nav" title="&nbsp;Men's Wear">&nbsp;Men's Wear</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Panties-Thong-F11?inrefer=header_nav" title="&nbsp;Panties Thong">&nbsp;Panties Thong</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Pantyhose--Stockings-F12?inrefer=header_nav" title="&nbsp;Pantyhose &amp; Stockings">&nbsp;Pantyhose &amp; Stockings</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Robe-Coat-F08?inrefer=header_nav" title="&nbsp;Robe &amp; Coat">&nbsp;Robe &amp; Coat</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Role-Playing-F10?inrefer=header_nav" title="&nbsp;Sexy Costume">&nbsp;Sexy Costume</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Teddy-F14?inrefer=header_nav" title="&nbsp;Teddy">&nbsp;Teddy</a></li>
 																	</ul>
 															</li>
-														<li class="navcur"><a href="http://www.whatabeautifullife.com/corset-F02" title="&nbsp;Sexy Corsets">&nbsp;Sexy Corsets <span>»</span></a>
+														<li class="navcur"><a href="http://www.whatabeautifullife.com/corset-F02?inrefer=header_nav" title="&nbsp;Sexy Corsets">&nbsp;Sexy Corsets <span>»</span></a>
 																<ul class="nav-3">
-																												<li><a href="http://www.whatabeautifullife.com/Lace-Corset-F33" title="&nbsp;Lace Corset">&nbsp;Lace Corset</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Noble-Corset-F30" title="&nbsp;Noble Corset">&nbsp;Noble Corset</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Satin-Corset-F34" title="&nbsp;Satin Corset">&nbsp;Satin Corset</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Sexy-Corset-F31" title="&nbsp;Sexy Corset">&nbsp;Sexy Corset</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Silk-Corset-F35" title="&nbsp;Silk Corset">&nbsp;Silk Corset</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Sweetheart-Corset-F32" title="&nbsp;Sweetheart Corset">&nbsp;Sweetheart Corset</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Lace-Corset-F33?inrefer=header_nav" title="&nbsp;Lace Corset">&nbsp;Lace Corset</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Noble-Corset-F30?inrefer=header_nav" title="&nbsp;Noble Corset">&nbsp;Noble Corset</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Satin-Corset-F34?inrefer=header_nav" title="&nbsp;Satin Corset">&nbsp;Satin Corset</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Sexy-Corset-F31?inrefer=header_nav" title="&nbsp;Sexy Corset">&nbsp;Sexy Corset</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Silk-Corset-F35?inrefer=header_nav" title="&nbsp;Silk Corset">&nbsp;Silk Corset</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Sweetheart-Corset-F32?inrefer=header_nav" title="&nbsp;Sweetheart Corset">&nbsp;Sweetheart Corset</a></li>
 																	</ul>
 															</li>
 									</ul>
 			</li>
 			<li class="nav-1" id="accessories"><a href="http://www.whatabeautifullife.com/Accessories-H" title="Accessories">Accessories</a>
 				<ul class="nav-2">
-															<li class="navcur"><a href="http://www.whatabeautifullife.com/jewelry-I" title="&nbsp;Fashion Jewelry">&nbsp;Fashion Jewelry <span>»</span></a>
+															<li class="navcur"><a href="http://www.whatabeautifullife.com/jewelry-I?inrefer=header_nav" title="&nbsp;Fashion Jewelry">&nbsp;Fashion Jewelry <span>»</span></a>
 																<ul class="nav-3">
-																												<li><a href="http://www.whatabeautifullife.com/Earring-I08" title="&nbsp;Earrings">&nbsp;Earrings</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Necklace-I09" title="&nbsp;Necklaces">&nbsp;Necklaces</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Ring-I10" title="&nbsp;Rings">&nbsp;Rings</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Bracelet-I06" title="&nbsp;Bracelets">&nbsp;Bracelets</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Others-I11" title="&nbsp;Brooch Pins">&nbsp;Brooch Pins</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Earring-I08?inrefer=header_nav" title="&nbsp;Earrings">&nbsp;Earrings</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Necklace-I09?inrefer=header_nav" title="&nbsp;Necklaces">&nbsp;Necklaces</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Ring-I10?inrefer=header_nav" title="&nbsp;Rings">&nbsp;Rings</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Bracelet-I06?inrefer=header_nav" title="&nbsp;Bracelets">&nbsp;Bracelets</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Others-I11?inrefer=header_nav" title="&nbsp;Brooch Pins">&nbsp;Brooch Pins</a></li>
 																	</ul>
 															</li>
-																	<li class="navcur"><a href="http://www.whatabeautifullife.com/Hair-Accessories-H19" title="&nbsp;Hair Accessories">&nbsp;Hair Accessories <span>»</span></a>
+																	<li class="navcur"><a href="http://www.whatabeautifullife.com/Hair-Accessories-H19?inrefer=header_nav" title="&nbsp;Hair Accessories">&nbsp;Hair Accessories <span>»</span></a>
 																<ul class="nav-3">
-																												<li><a href="http://www.whatabeautifullife.com/Hair-Barrette-H13" title="&nbsp;Hair Barrettes">&nbsp;Hair Barrettes</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Hair-Claws-H15" title="&nbsp;Hair Claws">&nbsp;Hair Claws</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Hair-Clips-H14" title="&nbsp;Hair Clips">&nbsp;Hair Clips</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Bobby-Pins-H12" title="&nbsp;Bobby Pins">&nbsp;Bobby Pins</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Banana-Hair-Clips-H11" title="&nbsp;Banana Hair Clips">&nbsp;Banana Hair Clips</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Ponytail-Holders-H18" title="&nbsp;Ponytail Holders">&nbsp;Ponytail Holders</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Headbands-H17" title="&nbsp;Hair Bands">&nbsp;Hair Bands</a></li>
-																												<li><a href="http://www.whatabeautifullife.com/Hairpins-H16" title="&nbsp;Hairpins">&nbsp;Hairpins</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Hair-Barrette-H13?inrefer=header_nav" title="&nbsp;Hair Barrettes">&nbsp;Hair Barrettes</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Hair-Claws-H15?inrefer=header_nav" title="&nbsp;Hair Claws">&nbsp;Hair Claws</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Hair-Clips-H14?inrefer=header_nav" title="&nbsp;Hair Clips">&nbsp;Hair Clips</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Bobby-Pins-H12?inrefer=header_nav" title="&nbsp;Bobby Pins">&nbsp;Bobby Pins</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Banana-Hair-Clips-H11?inrefer=header_nav" title="&nbsp;Banana Hair Clips">&nbsp;Banana Hair Clips</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Ponytail-Holders-H18?inrefer=header_nav" title="&nbsp;Ponytail Holders">&nbsp;Ponytail Holders</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Headbands-H17?inrefer=header_nav" title="&nbsp;Hair Bands">&nbsp;Hair Bands</a></li>
+																												<li><a href="http://www.whatabeautifullife.com/Hairpins-H16?inrefer=header_nav" title="&nbsp;Hairpins">&nbsp;Hairpins</a></li>
 																	</ul>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Fashion-Wigs-H01" title="&nbsp;Fashion Wigs">&nbsp;Fashion Wigs </a>
+																	<li><a href="http://www.whatabeautifullife.com/Fashion-Wigs-H01?inrefer=header_nav" title="&nbsp;Fashion Wigs">&nbsp;Fashion Wigs </a>
 															</li>
-																	<li><a href="http://www.whatabeautifullife.com/Pop-Socks--H10" title="&nbsp;Pop Socks ">&nbsp;Pop Socks  </a>
+																	<li><a href="http://www.whatabeautifullife.com/Pop-Socks--H10?inrefer=header_nav" title="&nbsp;Pop Socks ">&nbsp;Pop Socks  </a>
 															</li>
-																						
+																		
 				</ul>
 			</li>
-			<li class="nav-1" id="newarrival"><a href="javascript:void(0);" title="New Arrival" class="newarrival">New Arrival</a>
-				<ul class="nav-2">
-					<li><a href="/gift-card.html" title="Gift Cart">&nbsp;Gift Card</a></li>
+			<li class="nav-1" id="newarrival"><a href="/fashion/" title="Fashion Deals" class="newarrival">Fashion Deals</a>
+				<!--<ul class="nav-2" >					
 					<li><a href="/Pop-Socks--H10" title="Pop Socks">&nbsp;Pop Socks </a></li>
-					<!--<li class="navcur"><a href="/cashmere-J" title="Cashmere">&nbsp;Cashmere <span>&raquo;</span></a>
+					<li class="navcur"><a href="/cashmere-J" title="Cashmere">&nbsp;Cashmere <span>&raquo;</span></a>
 						<ul class="nav-3">
 							<li><a href="/Cashmere-Scarves-J02" title="Cashmere scarves">Cashmere scarves</a></li>	
 							<li><a href="/Cashmere-Clothes-J01" title="Cashmere Sweaters">Cashmere Sweaters</a></li>
@@ -283,7 +405,7 @@ $("#child_1").hover(
 							<li><a title="&nbsp;Fashion Handbags" href="/Handbags-H07">&nbsp;Fashion Handbags</a></li>
 						</ul>
 					</li> -->
-					<li class="navcur"><a href="/jewelry-I" title="Fashion Jewelry">&nbsp;Fashion Jewelry <span>»</span></a>
+					<!--<li class="navcur"><a href="/jewelry-I" title="Fashion Jewelry">&nbsp;Fashion Jewelry <span>&raquo;</span></a>
 						<ul class="nav-3">
 							<li><a href="/Earring-I08" title="Earring">Earring</a></li>
 							<li><a href="/Necklace-I09" title="Necklace">Necklace</a></li>
@@ -292,30 +414,31 @@ $("#child_1").hover(
 							<li><a href="/Others-I11" title="Brooch Pins">Brooch Pins</a></li>
 						</ul>
 					</li>
-					<!-- <li><a href="/leather-K" title="Leather Jackets">&nbsp;Leather Jackets</a></li>
-					<li><a href="/bedding-home-L" title="Home &amp; Bedding">&nbsp;Home &amp; Bedding</a></li> -->
-				</ul>
+					<li><a href="/leather-K" title="Leather Jackets">&nbsp;Leather Jackets</a></li>
+					<li><a href="/bedding-home-L" title="Home &amp; Bedding">&nbsp;Home &amp; Bedding</a></li> 
+				</ul>-->
 			</li>
-			<li class="nav-1" id="showall"><a href="#" title="">All Categories</a>
-				<ul class="nav-2">									<li><a href="http://www.whatabeautifullife.com/Clearance-c179" title="Clearance">Clearance</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Wedding-Apparel-A" title="Wedding Apparel">Wedding Apparel</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Lolita-Clothing-D" title="Lolita Clothing">Lolita Clothing</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Special-Occasion-Dresses-E" title="Special Occasion Dresses">Special Occasion Dresses</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Catsuits-Zentai-B" title="Catsuits &amp; Zentai">Catsuits &amp; Zentai</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Costumes-C" title="Costumes">Costumes</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Intimates-F" title="Intimates">Intimates</a></li>
-														<li><a href="http://www.whatabeautifullife.com/Accessories-H" title="Accessories">Accessories</a></li>
-																					</ul>
+			<li class="nav-1" id="showall"><a title="All Categories">All Categories</a>
+				<ul class="nav-2">										<li><a href="http://www.whatabeautifullife.com/Clearance-c179" title="Clearance">Clearance</a></li>
+															<li><a href="http://www.whatabeautifullife.com/Wedding-Apparel-A" title="Wedding Apparel">Wedding Apparel</a></li>
+															<li><a href="http://www.whatabeautifullife.com/Lolita-Clothing-D" title="Lolita Clothing">Lolita Clothing</a></li>
+															<li><a href="http://www.whatabeautifullife.com/Special-Occasion-Dresses-E" title="Special Occasion Dresses">Special Occasion Dresses</a></li>
+															<li><a href="http://www.whatabeautifullife.com/Catsuits-Zentai-B" title="Catsuits &amp; Zentai">Catsuits &amp; Zentai</a></li>
+															<li><a href="http://www.whatabeautifullife.com/Costumes-C" title="Costumes">Costumes</a></li>
+															<li><a href="http://www.whatabeautifullife.com/Intimates-F" title="Intimates">Intimates</a></li>
+															<li><a href="http://www.whatabeautifullife.com/Accessories-H" title="Accessories">Accessories</a></li>
+																									<li><a href="/gift-card.html" title="Gift Cart">Gift Card</a></li>
+				</ul>
 			</li>
 		</ul>
 	</div>
 	</div>
 	<div class="countdown" id="indexbanner-pic">
-		<a href="/promo/v1/mothersday.shtml?inrefer=banner" title="Mother's Day Sale 2012"><img src="/catalog/view/theme/blissvita/images/mothersday-banner.jpg?641" width="1000" height="70"></a>
+		<a href="http://www.whatabeautifullife.com/Wedding-Dresses-A01?inrefer=header_nav" title="Christmas Shopping Season Sale!"><img src="http://www.whatabeautifullife.com/image/data/index_scroll/20121127/201211271532_Lv2-cuxiao-en.jpg?923" width="1000" height="70" original="http://www.whatabeautifullife.com/image/data/index_scroll/20121127/201211271532_Lv2-cuxiao-en.jpg?923"></a>
 		<!--<img src="http://www.whatabeautifullife.com/image/data/promotion_image/201110311201_cashmere_1-en.jpg" width="374" height="62" alt="Cashmere Sale: 20%OFF + FREESHIPPING over $50 purchase" title="Cashmere Sale: 20%OFF + FREESHIPPING over $50 purchase"/>-->
-		<div class="timelist tc">
+		<!-- <div class="timelist tc">
 			<p class="time" id="freeshipping_times"></p>
-		</div>
+		</div> -->
 		<!--<div class="freedetail">FREESHIPP</div>-->
 	</div>
 <script type="text/javascript">
@@ -333,9 +456,10 @@ function SetRemainTime() {
 		window.clearInterval(InterValObj);
 	}
 }
-SysSecond = 80570;       //the end seconds
+SysSecond = -4664323;       //the end seconds
 InterValObj = window.setInterval(SetRemainTime, 1000);    
 </script>
+<!-- header end -->
 	
 	<div id="container">
 		<div class="helpcon">
@@ -356,7 +480,7 @@ InterValObj = window.setInterval(SetRemainTime, 1000);
 					<li>
 						<h3>Payments &amp; Shipping</h3>
 						<a rel="nofollow" href="http://www.whatabeautifullife.com/payment-methods.html" title="Payment Methods">Payment Methods </a>
-					<a rel="nofollow" href="http://www.whatabeautifullife.com/shipping-guide.html" title="Shipping Guide">Shipping Guide </a>
+					<!-- <a rel="nofollow" href="http://www.whatabeautifullife.com/shipping-guide.html" title="Shipping Guide">Shipping Guide </a> -->
 					<a rel="nofollow" href="http://www.whatabeautifullife.com/shipping-location.html" title="Shipping Location">Shipping Location </a>
 					</li>
 					<li>
@@ -404,103 +528,127 @@ InterValObj = window.setInterval(SetRemainTime, 1000);
 			</div>
 		</div>
 	</div>
-	<div class="outcata">
-		<ul class="stay clear">
-			<li><strong class="fl">Follow Us</strong></li>
-			<li class="bookf"><a href="http://blog.whatabeautifullife.com/" target="_blank" title="blogspot"><s></s><span>blog</span></a></li>
-			<li class="bookt"><a href="http://www.facebook.com/whatabeautifullife.en" target="_blank" title="facebook"><s></s><span>facebook</span></a></li>
-			<li class="booktr"><a href="http://twitter.com/#!/wabl2011" target="_blank" title="twitter"><s></s><span>twitter</span></a></li>
-			<li class="bookfo"><a href="http://www.flickr.com/photos/65098728@N07/" target="_blank" title="flickr"><s></s><span>flickr</span></a></li>
-			<li class="bookfi"><a href="http://www.youtube.com/user/wabl2011" target="_blank" title="youtube"><s></s><span>youtube</span></a></li>
-			<li class="subsripehv">
-				<strong>Newsletter</strong>
-				<input type="text" id="Email" name="Email" value="Your E-mail Address" onclick="this.value='';" class="email">
-				<input type="submit" value="" class="subsripe" onclick="email_subscribe();">
-			</li>
+<!--home bottom-->
+<div class="homebottom">
+	<div class="follow-search">		
+		<ul class="bottomfollowus">
+			<li class="fllowtitle">Follow us</li>			
+			<li><a href="http://blog.whatabeautifullife.com/" target="_blank" title="blogspot"><span class="icon-bg"></span><span>blog</span></a></li>
+			<li><a href="http://www.facebook.com/whatabeautifullife.en" target="_blank" title="facebook"><span class="icon-fb"></span><span>facebook</span></a></li>
+			<li><a href="http://twitter.com/#%21/wabl2011" target="_blank" title="twitter"><span class="icon-tw"></span><span>twitter</span></a></li>
+			<li><a href="http://www.flickr.com/photos/65098728@N07/" target="_blank" title="flickr"><span class="icon-fl"></span><span>flickr</span></a></li>
+			<li><a href="http://www.youtube.com/user/wabl2011" target="_blank" title="youtube"><span class="icon-yt"></span><span>youtube</span></a></li>
+		</ul>
+		<div class="bottomnewsletter">
+			<h2 class="newstitle">Newsletter</h2> <input id="Email" name="Email" value="Your E-mail Address" onclick="this.value='';" class="emaildress" type="text"><input value="" onclick="email_subscribe();" class="subscribe" type="submit">
+		</div>
+	</div>
+	<div class="bottominformation">
+		<ul class="infor">
+			<!-- <li class="infortitle">Company Info</li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/about-us.html" title="About us">About us </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/location.html" title="Location">Location </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/secure-guarantee.html" title="Secure Guarantee">Secure Guarantee </a></li> -->
+			<li class="infortitle">Company Info</li>
+			<li><a rel="nofollow" href="/about-us.html" title="About us">About us </a></li>
+			<li><a rel="nofollow" href="/location.html" title="Location">Location </a></li>
+			<li><a rel="nofollow" href="/secure-guarantee.html" title="Secure Guarantee">Secure Guarantee </a></li>
+		</ul>
+		<ul class="service">
+			<!-- <li class="infortitle">Customer Service</li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/contact-us.html" title="Contact Us">Contact Us </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/help.html" title="Help Page">Help Page </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/estimated-delivery-time.html" title="Estimated Delivery Time">Estimated Delivery Time </a></li> -->
+			<li class="infortitle">Customer Service</li>
+			<li><a rel="nofollow" href="/contact-us.html" title="Contact Us">Contact Us </a></li>
+			<li><a rel="nofollow" href="/help.html" title="Help Page">Help Page </a></li>
+			<li><a rel="nofollow" href="/estimated-delivery-time.html" title="Estimated Delivery Time">Estimated Delivery Time </a></li>
+		</ul>
+		<ul class="payments">
+			<!-- <li class="infortitle">Payments & Shipping</li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/payment-methods.html" title="Payment Methods">Payment Methods </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/shipping-guide.html" title="Shipping Guide">Shipping Guide </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/shipping-location.html" title="Shipping Location">Shipping Location </a></li> -->
+			<li class="infortitle">Payments &amp; Shipping</li>
+			<li><a rel="nofollow" href="/payment-methods.html" title="Payment Methods">Payment Methods </a></li>
+			<!-- <li><a rel="nofollow" href="/shipping-guide.html" title="Shipping Guide">Shipping Guide </a></li> -->
+			<li><a rel="nofollow" href="/shipping-location.html" title="Shipping Location">Shipping Location </a></li>
+		</ul>
+		<ul class="policies">
+			<!-- <li class="infortitle">Company Policies</li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/return-policy.html" title="Return Policy">Return Policy </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/privacy-policy.html" title="Privacy Policy">Privacy Policy </a></li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/terms-conditions.html" title="Terms & Conditions">Terms & Conditions </a></li> -->
+			<li class="infortitle">Company Policies</li>
+			<li><a rel="nofollow" href="/return-policy.html" title="Return Policy">Return Policy </a></li>
+			<li><a rel="nofollow" href="/privacy-policy.html" title="Privacy Policy">Privacy Policy </a></li>
+			<li><a rel="nofollow" href="/terms-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions </a></li>
+		</ul>
+		<ul class="others">
+			<!-- <li class="infortitle">Other Business</li>
+			<li><a rel="nofollow" href="http://www.whatabeautifullife.com/affiliate-program.html" title="Affiliate Program">Affiliate Program </a></li>
+			<li><a href="http://www.whatabeautifullife.com/sitemap.html" title="Site Map">Site Map </a></li>
+			<li><a href="/reward_points.html" title="Reward Points">Reward Points</a></li> -->
+			<li class="infortitle">Other Business</li>
+			<li><a rel="nofollow" href="/affiliate-program.html" title="Affiliate Program">Affiliate Program </a></li>
+			<li><a href="/sitemap.html" title="Site Map">Site Map </a></li>
+			<li><a rel="nofollow" href="/reward_points.html" title="Reward Points">Reward Points</a></li>
+			<li><a rel="nofollow" href="/blog-contest-recruiting.html" title="Blogger Recruiting">Blogger Recruiting</a></li>
 		</ul>
 	</div>
-	<div id="footer">
-		<div class="subfooter clear">
-			<div class="info">
-				<h3>Company Info</h3>
-				<ul>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/about-us.html" title="About us">About us </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/location.html" title="Location">Location </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/secure-guarantee.html" title="Secure Guarantee">Secure Guarantee </a></li>
-				</ul>
-			</div>
-			<div class="service">
-				<h3>Customer Service</h3>
-				<ul>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/contact-us.html" title="Contact Us">Contact Us </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/help.html" title="Help Page">Help Page </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/estimated-delivery-time.html" title="Estimated Delivery Time">Estimated Delivery Time </a></li>
-				</ul>
-			</div>
-			<div class="payment">
-				<h3>Payments &amp; Shipping</h3>
-				<ul>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/payment-methods.html" title="Payment Methods">Payment Methods </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/shipping-guide.html" title="Shipping Guide">Shipping Guide </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/shipping-location.html" title="Shipping Location">Shipping Location </a></li>
-				</ul>
-			</div>
-			<div class="company">
-				<h3>Company Policies</h3>
-				<ul>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/return-policy.html" title="Return Policy">Return Policy </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/privacy-policy.html" title="Privacy Policy">Privacy Policy </a></li>
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/terms-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions </a></li>
-				</ul>
-			</div>
-			<div class="business">
-				<h3>Other Business</h3>
-				<ul>
-					<!--<li><a rel="nofollow" href="http://www.whatabeautifullife.com/terms-of-use.html" title="Terms of Use">Terms of Use </a></li>-->
-					<li><a rel="nofollow" href="http://www.whatabeautifullife.com/affiliate-program.html" title="Affiliate Program">Affiliate Program </a></li>
-					<li><a href="http://www.whatabeautifullife.com/sitemap.html" title="Site Map">Site Map </a></li>
-					<li><a href="/reward_points.html" title="Reward Points">Reward Points</a></li>
-				</ul>
-			</div>
+	<div class="bottomabout">
+		<div class="aboutcompany">
+			<h4>About Whatabeautifullife</h4>
+			<p>Whatabeautifullife is where fashion life starts! A platform for online shopping of stylish fashion, Evening &amp; Party Dresses and club wear. Find the wedding apparel, cosplay, Lolita Clothing and  Catsuits &amp;Zentai which are featuring the latest styles and trends here for a beautiful life.</p>
+			<p><a href="/hot-searches.html" title="Hot Searches">Hot Searches</a></p>
 		</div>
-		<div class="hotlist clear">
-			<div class="hotpro fl">
-				<h3>About Whatabeautifullife</h3>
-				<p>Whatabeautifullife is where fashion life starts! A platform for online shopping of stylish fashion, Evening &amp; Party Dresses and club wear. Find the wedding apparel, cosplay, Lolita Clothing and  Catsuits &amp;Zentai which are featuring the latest styles and trends here for a beautiful life.</p>
-				<h4><a href="/hot-searches.html" title="Hot Searches">Hot Searches</a></h4>
-			</div>
-			<div class="fr hotproducts">
-				<h3>Hot Products:</h3>
-					<p><a href="http://www.whatabeautifullife.com/Wedding-Dresses-A01" title="Wedding Dresses">Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Mascot-Costumes-C02" title="Mascot Costumes">Mascot Costumes</a> , <a href="http://www.whatabeautifullife.com/Evening-Dresses-E01" title="Evening Dresses">Evening Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Dresses-D01" title="Lolita Dresses">Lolita Dresses</a> , <a href="http://www.whatabeautifullife.com/Prom-Dresses-E02" title="Prom Dresses">Prom Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Footwear-D07" title="Lolita Footwear">Lolita Footwear</a> , <a href="http://www.whatabeautifullife.com/Cashmere-Clothes-J01" title="Cashmere Sweaters">Cashmere Sweaters</a> , <a href="http://www.whatabeautifullife.com/Cashmere-Scarves-J02" title="Cashmere Scarves">Cashmere Scarves</a> , <a href="http://www.whatabeautifullife.com/Lycra-Spandex-Zentai-Suits-B01" title="Lycra Spandex Zentai Suits">Lycra Spandex Zentai Suits</a> , <a href="http://www.whatabeautifullife.com/other-wedding-dresses-A15" title="Lace Wedding Dresses">Lace Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/plus-size-wedding-dresses-A16" title="Plus Size Wedding Dresses">Plus Size Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/ball-gown-wedding-dresses-A09" title="Ball Gown Wedding Dresses">Ball Gown Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Homecoming-Dresses-E04" title="Homecoming Dresses">Homecoming Dresses</a> , <a href="http://www.whatabeautifullife.com/Latex-Clothes-B10" title="Latex Clothes">Latex Clothes</a> , <a href="http://www.whatabeautifullife.com/Cocktail-Dresses-E03" title="Cocktail Dresses">Cocktail Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Skirts-D02" title="Lolita Skirts">Lolita Skirts</a> , <a href="http://www.whatabeautifullife.com/mermaid-wedding-dresses-A13" title="Mermaid Wedding Dresses">Mermaid Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Coats-Jackets-D06" title="Lolita Coats &amp; Jackets">Lolita Coats &amp; Jackets</a> , <a href="http://www.whatabeautifullife.com/a-line-wedding-dresses-A08" title="A-line Wedding Dresses">A-line Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Outfits-D03" title="Lolita Outfits">Lolita Outfits</a>					</p>
-					<!--<div class="proselect"><a href="#" class="underline">Holiday Shopping Guide</a>-->
-					<!--<div class="proselect"><a href="#" class="underline">Guide Shopping de Vacance</a></div>-->
-			</div>
+		<div class="hotproducts">
+			<h4>Hot Products:</h4>
+			<p><a href="http://www.whatabeautifullife.com/Wedding-Dresses-A01?inrefer=footer_hot_products" title="Wedding Dresses">Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Mascot-Costumes-C02?inrefer=footer_hot_products" title="Mascot Costumes">Mascot Costumes</a> , <a href="http://www.whatabeautifullife.com/Evening-Dresses-E01?inrefer=footer_hot_products" title="Evening Dresses">Evening Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Dresses-D01?inrefer=footer_hot_products" title="Lolita Dresses">Lolita Dresses</a> , <a href="http://www.whatabeautifullife.com/Prom-Dresses-E02?inrefer=footer_hot_products" title="Prom Dresses">Prom Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Footwear-D07?inrefer=footer_hot_products" title="Lolita Footwear">Lolita Footwear</a> , <a href="http://www.whatabeautifullife.com/Cashmere-Clothes-J01?inrefer=footer_hot_products" title="Cashmere Sweaters">Cashmere Sweaters</a> , <a href="http://www.whatabeautifullife.com/Cashmere-Scarves-J02?inrefer=footer_hot_products" title="Cashmere Scarves">Cashmere Scarves</a> , <a href="http://www.whatabeautifullife.com/Lycra-Spandex-Zentai-Suits-B01?inrefer=footer_hot_products" title="Lycra Spandex Zentai Suits">Lycra Spandex Zentai Suits</a> , <a href="http://www.whatabeautifullife.com/other-wedding-dresses-A15?inrefer=footer_hot_products" title="Lace Wedding Dresses">Lace Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/plus-size-wedding-dresses-A16?inrefer=footer_hot_products" title="Plus Size Wedding Dresses">Plus Size Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/ball-gown-wedding-dresses-A09?inrefer=footer_hot_products" title="Ball Gown Wedding Dresses">Ball Gown Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Homecoming-Dresses-E04?inrefer=footer_hot_products" title="Homecoming Dresses">Homecoming Dresses</a> , <a href="http://www.whatabeautifullife.com/Latex-Clothes-B10?inrefer=footer_hot_products" title="Latex Clothes">Latex Clothes</a> , <a href="http://www.whatabeautifullife.com/Cocktail-Dresses-E03?inrefer=footer_hot_products" title="Cocktail Dresses">Cocktail Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Skirts-D02?inrefer=footer_hot_products" title="Lolita Skirts">Lolita Skirts</a> , <a href="http://www.whatabeautifullife.com/mermaid-wedding-dresses-A13?inrefer=footer_hot_products" title="Mermaid Wedding Dresses">Mermaid Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Coats-Jackets-D06?inrefer=footer_hot_products" title="Lolita Coats &amp; Jackets">Lolita Coats &amp; Jackets</a> , <a href="http://www.whatabeautifullife.com/a-line-wedding-dresses-A08?inrefer=footer_hot_products" title="A-line Wedding Dresses">A-line Wedding Dresses</a> , <a href="http://www.whatabeautifullife.com/Lolita-Outfits-D03?inrefer=footer_hot_products" title="Lolita Outfits">Lolita Outfits</a>			</p>
 		</div>
-		
-		<!--<div class="letter">
-			<h3>Newsletter</h3>
-			<ul>
-				<li class="content">Avantages & nouveaut��s en avant-premi��re ! Inscrivez-vous a la newsletter</li>
-				<li class="subsripehv">
-					<input type="text" id="Email" name="Email" value="Votre Adresse E-mail" onclick="this.value='';" />
-					<input type="submit" value = "Subscribe" class="subsripe" onclick="email_subscribe();"/>
-				</li>
-				<li class="book clear"><a href="http://wabl2011.blogspot.com/" target="_blank" class="bookf" title="blogspot"></a><a href="http://www.facebook.com/whatabeautifullife.en" target="_blank" class="bookt" title="facebook"></a><a href="http://twitter.com/#!/wabl2011" target="_blank" class="booktr" title="twitter"></a><a href="http://www.flickr.com/photos/wabl2011/" target="_blank" class="bookfo" title="flickr"></a><a href="http://www.youtube.com/user/wabl2011" target="_blank" class="bookfi" title="youtube"></a></li>
-			</ul>
-		</div>-->
-	<div class="joinlogo">
-		<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.whatabeautifullife.com" title="McAfee" class="flinkei"></a>
-		<a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.whatabeautifullife.com&amp;lang=en" target="_blank" class="flinksi" title="verisign"></a> 
-		<!--<a href="https://www.paypal.com/"  target="_blank" class="flinko" title="paypal"></a> <a href="http://www.visa.com/"  target="_blank"  class="flinkt" title="visa"></a> <a href="http://www.mastercard.com/" target="_blank"  class="flinktr" title="mastercard"></a> <a href="http://www.discovercard.com/" target="_blank"  class="flinkfo" title="discovercard"></a> <a href="http://www.westernunion.com/"  target="_blank"  class="flinkfi" title="westernunion"></a> 
-		<a href="http://www.ems.com.cn/" target="_blank"  class="flinkn" title="ems"></a> <a href="http://www.dhl.com/" target="_blank" class="flinkte" title="dhl"></a> <a href="http://www.tnt.com/"  target="_blank" class="flinkel" title="tnt"></a>
-		<a href="http://www.ups.com/"  target="_blank" class="flinktw" title="ups"></a> <a href="http://www.techbargains.com/laptopcomputernotebookreview.cfm"  target="_blank" class="ftb" title="Cheap Laptops at TechBargains"></a>--></div>
 	</div>
-	<div class="copy">Copyright © 2012 Whatabeautifullife.com Ltd. All Rights Reserved.</div>
+	<div class="clearboth alphabetical">
+		<span>Alphabetical Product Index:</span>
+		 .#<a href="http://a.whatabeautifullife.com/tags/A/0.shtml">.A</a>
+			<a href="http://b.whatabeautifullife.com/tags/B/0.shtml">.B</a>
+			<a href="http://c.whatabeautifullife.com/tags/C/0.shtml">.C</a>
+			<a href="http://d.whatabeautifullife.com/tags/D/0.shtml">.D</a>
+			<a href="http://e.whatabeautifullife.com/tags/E/0.shtml">.E</a>
+			<a href="http://f.whatabeautifullife.com/tags/F/0.shtml">.F</a>
+			<a href="http://g.whatabeautifullife.com/tags/G/0.shtml">.G</a>
+			<a href="http://h.whatabeautifullife.com/tags/H/0.shtml">.H</a>
+			<a href="http://i.whatabeautifullife.com/tags/I/0.shtml">.I</a>
+			<a href="http://j.whatabeautifullife.com/tags/J/0.shtml">.J</a>
+			<a href="http://k.whatabeautifullife.com/tags/K/0.shtml">.K</a>
+			<a href="http://l.whatabeautifullife.com/tags/L/0.shtml">.L</a>
+			<a href="http://m.whatabeautifullife.com/tags/M/0.shtml">.M</a>
+			<a href="http://n.whatabeautifullife.com/tags/N/0.shtml">.N</a>
+			<a href="http://o.whatabeautifullife.com/tags/O/0.shtml">.O</a>
+			<a href="http://p.whatabeautifullife.com/tags/P/0.shtml">.P</a>
+			<a href="http://q.whatabeautifullife.com/tags/Q/0.shtml">.Q</a>
+			<a href="http://r.whatabeautifullife.com/tags/R/0.shtml">.R</a>
+			<a href="http://s.whatabeautifullife.com/tags/S/0.shtml">.S</a>
+			<a href="http://t.whatabeautifullife.com/tags/T/0.shtml">.T</a>
+			<a href="http://u.whatabeautifullife.com/tags/U/0.shtml">.U</a>
+			<a href="http://v.whatabeautifullife.com/tags/V/0.shtml">.V</a>
+			<a href="http://w.whatabeautifullife.com/tags/W/0.shtml">.W</a>
+			<a href="http://x.whatabeautifullife.com/tags/X/0.shtml">.X</a>
+			<a href="http://y.whatabeautifullife.com/tags/Y/0.shtml">.Y</a>
+			<a href="http://z.whatabeautifullife.com/tags/Z/0.shtml">.Z</a>
+			<a href="http://0.whatabeautifullife.com/tags/0/0.shtml">0 - 9</a>
+	</div>
+</div><div class="joinlogo">
+	<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.whatabeautifullife.com" title="McAfee" class="flinkei"></a>
+	<a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.whatabeautifullife.com&amp;lang=en" target="_blank" class="flinksi" title="verisign"></a>
 </div>
-<script type="text/javascript" src="/catalog/view/javascript/control.js"></script>
-<script type="text/javascript">function email_subscribe(){$.ajax({type: 'post',url: 'http://www.whatabeautifullife.com/index.php?route=module/newslettersubscribe/subscribe',dataType: 'html',data:'subscribe_email='+$("#Email").val(),success: function (html) {eval(html);}});}</script>
-<script type="text/javascript">var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-12142160-4']);  _gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']); (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
-<div id="comm100_FloatImageButton"><div><div id="comm100_LiveChatDiv"></div><a href="https://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Help"><img id="comm100_ButtonImage" src="https://chatserver.comm100.com/BBS.aspx?siteId=75589&amp;planId=1989&amp;partnerId=-1" style="border:0px" alt="Live Chat by comm100"></a><script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=75589&amp;planId=1989&amp;partnerId=-1" type="text/javascript"></script></div></div>
+<script>
+$(function(){
+	Filter.init('img');
+})
+</script>
+<div class="copy">Copyright © 2012 Whatabeautifullife.com Ltd. All Rights Reserved.</div>
+<script type="text/javascript">function email_subscribe(){$.ajax({type: 'post',url: 'index.php?route=module/newslettersubscribe/subscribe',dataType: 'html',data:'subscribe_email='+$("#Email").val(),success: function (html) {eval(html);}});}</script>
 
 
-</body></html>
+
+</div></body></html>
