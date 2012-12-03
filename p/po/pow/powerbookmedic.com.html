@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604190109id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203204246id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy
@@ -10,7 +10,7 @@
 <meta name="robots" content="index, follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<script type="text/javascript" async="" src="https://cn.clickable.net/js/cct.js"></script><script type="text/javascript">
+<script type="text/javascript">
 <!--
 var number_format_dec = '.';
 var number_format_th = '';
@@ -28,9 +28,9 @@ var current_area = 'C';
 <link rel="stylesheet" href="/xcart1/skin1/css/powerbookmedic-static.css">
 <link rel="icon" href="/favicon.gif" type="image/gif"> 
 <link type="text/css" media="screen" rel="stylesheet" href="/xcart1/skin1/css/colorbox.css">
-<link type="text/css" media="screen" rel="stylesheet" href="/xcart1/skin1/css/jquery-ui-1.8.13.custom.css">
-<script type="text/javascript" src="/xcart1/skin1/javascript/jquery-1.5.1.min.js"></script>
-<script type="text/javascript" src="/xcart1/skin1/javascript/jquery-ui-1.8.13.custom.min.js"></script>
+<link type="text/css" media="screen" rel="stylesheet" href="/xcart1/skin1/css/jquery-ui-1.9.0.custom.min.css">
+<script type="text/javascript" src="/xcart1/skin1/javascript/jquery-1.8.2.js"></script>
+<script type="text/javascript" src="/xcart1/skin1/javascript/jquery-ui-1.9.0.custom.min.js"></script>
 <script type="text/javascript" src="/xcart1/skin1/javascript/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/xcart1/skin1/javascript/swfobjectv2.js"></script>
 <script type="text/javascript" src="/xcart1/ajax.js"></script> 
@@ -133,7 +133,6 @@ document.write("<style type='text/css'>.hidden{display:none;}<\/style>");
 $(document).ready(function(){
 
 	//Examples of how to assign the ColorBox event to elements.
-	//$("a[rel='gallery']:not(.colorbox-off)").colorbox({slideshow:true,slideshowAuto:true,transition:"elastic", contentCurrent:"{current} / {total}"});
 	$("a.gallery-image").live("click",function(event) {
 		event.preventDefault();
 		$.colorbox.remove();
@@ -142,6 +141,7 @@ $(document).ready(function(){
 			transition:"elastic",
 			contentCurrent:"{current} / {total}"
 		});
+			
 	});
 	$("a[rel='gallery1']").colorbox({transition:"elastic", contentCurrent:"{current} / {total}"});
 	$("a.colorbox-off").click(function(event) {
@@ -190,6 +190,7 @@ $(document).ready(function(){
 	});
 	
 	$write = $("#po200,#po256,#po356,#po99,#po54,#po83,#po136,#po180,#po53,#po55,#po411");
+	$write.addClass("keyselector");
 	$quantity_index = 0;
 	
 	$('#keyboard li .functionkeys,.arrows,.btmrow,.eject,.symbol,.letter,.tab,.capslock,.space,.left-shift,.right-shift,.delete,.return').click(function(){
@@ -266,7 +267,7 @@ $(document).ready(function(){
 		serial = jQuery.trim(serial);
 		
 		if (serial.length > 12) {
-			$('#decoding').show('fast');
+			$('#decoding').css('display','inline-block');
 			$('#decoding').html("<img src='http://www.powerbookmedic.com/images/loading.gif' style='width: 16px;'>&nbsp;&nbsp;Invalid Number.");
 		}
 		else if (serial.length == 11 || serial.length == 12 || serial.length == 5) {
@@ -279,12 +280,12 @@ $(document).ready(function(){
 						$("#serialdiv").show();
 					}
 					else {
-						$('#decoding').show('fast');
+						$('#decoding').css('display','inline-block');
 					}
 				});
 		}
 		else if (serial.length > 0)
-			$('#decoding').show('fast');
+			$('#decoding').css('display','inline-block');
 		else {
 			$("#serialdiv").hide('fast');
 			$("#serialdata").html("");
@@ -388,12 +389,12 @@ $(document).ready(function(){
 		else {
 			var model_number = $(".quickselect_model_number").val();
 		}
-		if($(this).val() || $(".quickselect_model_number").val()) {
-			$.post("/xcart1/skin1/quickselect.php",{ model_name: $(this).val() },function(html) {
-				if(html) {
-					var models = html.split(",");
+		if($(this).val() || model_number) {
+			$.post("/xcart1/skin1/quickselect.php",{ model_name: $(this).val() },function(text) {
+				if(text) {
+					var models = text.split(",");
 					$(".quickselect_model_number option").each(function() {
-						$(this).attr("disabled","").show();
+						//$(this).attr("disabled","").show();
 						if(jQuery.inArray($(this).val(),models) < 0 && $(this).val()) {
 							$(this).remove();
 						}
@@ -418,12 +419,12 @@ $(document).ready(function(){
 		else {
 			var model_name = $(".quickselect_model_name").val();
 		}
-		if($(this).val() || $(".quickselect_model_name").val()) {
+		if($(this).val() || model_number) {
 			$.post("/xcart1/skin1/quickselect.php",{ model: $(this).val() },function(html) {
 				if(html) {
 					var models = html.split(",");
 					$(".quickselect_model_name option").each(function() {
-						$(this).attr("disabled","").show();
+						//$(this).attr("disabled","").show();
 						if(jQuery.inArray($(this).val(),models) < 0 && $(this).val()) {
 							$(this).remove();
 						}
@@ -454,7 +455,13 @@ $(document).ready(function(){
 			$(".product_option_show").hide();
 			$(".add_cart_disabled").removeClass("add_cart_disabled");
 			$("#add_to_cart_div_disabled").remove();
-			$("#add_to_cart_div").fadeIn('slow');
+			$("#add_to_cart_div").fadeIn('slow',function() {		
+				if($(".keyselector").length > 0) {
+					var keycount = $(".keyselector").first().val().split(",");
+					console.log(keycount.length + " chosen keys detected");
+					$("#product_avail option:eq("+(keycount.length-1)+")").attr("selected","selected");
+				}
+			});
 		}
 	});
 	$("#add_to_cart_div_disabled").click(function() {
@@ -467,6 +474,249 @@ $(document).ready(function(){
 		$("#add_to_cart_div_disabled").remove();
 		$("#add_to_cart_div").fadeIn('slow');
 	}
+	$("#homepartsearchselect").click(function() {
+		$("#homepartbrowsebox").slideUp();
+		$("#homepartbrowseselect").val(0);
+	});
+	$("#homepartsearchselect").change(function() {
+		$("#homeq").val("");
+		$("#homepartbrowsebox").slideUp();
+		$("#homepartbrowseselect").val(0);
+		$("#homesearchsubmit").slideDown();
+		$("#homesearchbox").slideDown();
+		if($(this).val() == "name") {
+			$("#homeq").attr("placeholder","Type in the part name or number...");
+		}
+		else {
+			$("#homeq").attr("placeholder","Type in your serial number...");
+		}
+	});
+	
+	$('#homeq').keyup(function(event) {
+		var type = $("#homepartsearchselect").val();
+		$("#homesearchbuttons").html("");
+		if($(this).val()) {
+			$("#homepartbrowsebox").slideUp();
+		}
+		if(type == "name") {
+		
+		}
+		else {
+			if((event.keyCode >= 48 && event.keyCode <= 90) || event.keyCode == 8) {
+				var serial = $(this).val();
+				serial = jQuery.trim(serial).toUpperCase().replace(" ","");
+				$(this).val(serial.toUpperCase());
+				
+				if (serial.length > 16) {
+					$("#serialstatus").fadeIn('fast');
+					$("#serialstatus").html("<p><span class=\"ui-icon ui-icon-alert\" style=\"float: left; margin-right: .3em;\"></span><strong>Alert:</strong>Your serial number is too long!");
+					$("#serialstatus").removeClass("ui-state-highlight").addClass("ui-state-error");
+					$('#decoding').css('display','inline-block');
+					$('#decoding').html("<img src='http://www.powerbookmedic.com/images/loading.gif' style='width: 16px;'>&nbsp;&nbsp;Invalid Number.");
+				}
+				else if (serial.length == 16 && (serial.charAt(0) == 'B' || serial.charAt(0) == 'D')) {
+					$("#add_device_form").trigger('submit');
+					$("#serialdiv").hide();
+					$.post("/xcart1/skin1/homeserial.php", { serial:serial },function(json) {
+						if(json) {
+							var data = jQuery.parseJSON(json);
+							if(data) {
+								$("#homesearchbuttons").html("");
+								$("#homesearchbuttons").prepend("<div id='homesearchbuttonscontent' style='margin-left:auto;margin-right:auto;margin-top:10px;text-align:center;'></div>");
+								$.each(data,function(index,value) {
+									$("#homesearchbuttonscontent").append("<div class='homebutton' title='"+value.title+"' style='display:none;margin:5px;box-shadow:2px 2px 4px #888;' onclick=\"window.location='"+value.link+"'\">"+value.name+"</div>");
+								});
+								$(".homebutton").button().fadeIn('slow');								
+								$(".homebutton").tooltip({
+									position: {
+										my: "center bottom-20",
+										at: "center top",
+										using: function( position, feedback ) {
+											$( this ).css( position );
+											$( "<div>" )
+												.addClass( "arrow" )
+												.addClass( feedback.vertical )
+												.addClass( feedback.horizontal )
+												.appendTo( this );
+										}
+									}
+								});
+							}
+							$("#serialstatus").fadeOut('fast');
+							$("#serialdata").html(data);
+							$('#decoding').hide();
+						}
+						else {
+							$("#serialstatus").html("<p><span class=\"ui-icon ui-icon-alert\" style=\"float: left; margin-right: .3em;\"></span><strong>Alert:</strong>Your serial number does not exist in our database!");
+							$("#serialstatus").removeClass("ui-state-highlight").addClass("ui-state-error");
+							$("#serialstatus").fadeIn('fast');
+							$('#decoding').css('display','inline-block');
+						}
+					});
+				}
+				else if ((serial.length == 11 && serial.charAt(0) != 'C' && serial.charAt(0) != 'D') || (serial.length == 12 && (serial.charAt(0) == 'C' || serial.charAt(0) == 'D')) || (serial.length == 5 && (serial.charAt(0) == 'A' || serial.charAt(0) == 'M'))) {
+					$("#add_device_form").trigger('submit');
+					$("#serialdiv").hide();
+					$.post("/xcart1/skin1/homeserial.php", { serial:serial },function(json) {
+						if(json) {
+							var data = jQuery.parseJSON(json);
+							if(data) {
+								$("#homesearchbuttons").html("");
+								$("#homesearchbuttons").prepend("<div id='homesearchbuttonscontent' style='margin-left:auto;margin-right:auto;margin-top:10px;text-align:center;'></div>");
+								$.each(data,function(index,value) {
+									$("#homesearchbuttonscontent").append("<div class='homebutton' title='"+value.title+"' style='display:none;margin:5px;box-shadow:2px 2px 4px #888;' onclick=\"window.location='"+value.link+"'\">"+value.name+"</div>");
+								});
+								$(".homebutton").button().fadeIn('slow');								
+								$(".homebutton").tooltip({
+									position: {
+										my: "center bottom-20",
+										at: "center top",
+										using: function( position, feedback ) {
+											$( this ).css( position );
+											$( "<div>" )
+												.addClass( "arrow" )
+												.addClass( feedback.vertical )
+												.addClass( feedback.horizontal )
+												.appendTo( this );
+										}
+									}
+								});
+							}
+							$("#serialstatus").fadeOut('fast');
+							$("#serialdata").html(data);
+							$('#decoding').hide();
+						}
+						else {
+							$("#serialstatus").html("<p><span class=\"ui-icon ui-icon-alert\" style=\"float: left; margin-right: .3em;\"></span><strong>Alert:</strong>Your serial number does not exist in our database!");
+							$("#serialstatus").removeClass("ui-state-highlight").addClass("ui-state-error");
+							$("#serialstatus").fadeIn('fast');
+							$('#decoding').css('display','inline-block');
+						}
+					});
+				}
+				else if (serial.length == 12) {
+					$("#serialdiv").hide();
+					$("#serialstatus").html("<p><span class=\"ui-icon ui-icon-alert\" style=\"float: left; margin-right: .3em;\"></span><strong>Alert:</strong>You have entered an invalid serial number!  Check it again!");
+					$("#serialstatus").removeClass("ui-state-highlight").addClass("ui-state-error");
+					$("#serialstatus").fadeIn('fast');
+				}
+				else if (serial.length > 0) {
+					$('#decoding').css('display','inline-block');
+					$('#response').html('');
+					$("#serialstatus").fadeIn('fast');
+					$("#serialstatus").html("<p><span class=\"ui-icon ui-icon-info\" style=\"float: left; margin-right: .3em;\"></span><strong>Keep typing!</strong>");
+					$("#serialstatus").removeClass("ui-state-error").addClass("ui-state-highlight");
+				}
+				else {
+					$("#serialstatus").fadeOut('fast');
+					$("#serialdiv").hide('fast');
+					$("#serialdata").html("");
+					$('#decoding').hide();
+					$('#decoding').html("<img src='http://www.powerbookmedic.com/images/loading.gif' style='width: 16px;'>");
+					$('#response').html('');
+				}
+			}
+		}
+	});
+	$("#homesearchform").submit(function() {
+		if($("#homepartsearchselect").val() == "name" && $("#homeq").val()) {
+			window.location = "http://www.powerbookmedic.com/xcart1/_search.php?q="+$("#homeq").val()+"&mode=search";
+		}
+		else if($("#homepartsearchselect").val() == "locator" && $("#homeq").val()) {
+			$.post("/xcart1/skin1/homeserial.php", { locator: $("#homeq").val() },function(html) {
+				if(html) {
+					window.location = "http://www.powerbookmedic.com/PartLocator/index.php?serial="+$("#homeq").val();
+				}
+				else {
+					$("#dialog-error").html("We were not able to find an exploded view for your model.  Would you like to browse our other exploded views?");
+					$("#dialog-error").dialog({
+						modal: true,
+						buttons: {
+							"Ok": function() {
+								window.location = "http://www.powerbookmedic.com/PartLocator/";
+							},
+							"Cancel": function() {
+								$(this).dialog("close");
+							}
+						}
+					});
+				}
+			});
+		}
+		else if($("#homepartsearchselect").val() == "serial" && $("#homeq").val()) {
+			$.post("/xcart1/skin1/homeserial.php", { byserial: $("#homeq").val() },function(html) {
+				if(html) {
+					$.get("/identify-mac-serial.php",{ add_device: html },function(data) {
+						window.location = "http://www.powerbookmedic.com/identify-mac-serial.php?show="+$("#homeq").val();
+					});
+				}
+				else {
+					$("#dialog-error").html("We were not able to find any information for your model.  Please browse through our categories or search for the part you need by name.");
+					$("#dialog-error").dialog({
+						modal: true,
+						buttons: {
+							"Ok": function() {
+								$(this).dialog("close");
+							}
+						}
+					});
+				}
+			});
+		}
+		else {
+			return false;
+		}
+	});
+	$("#homepartbrowseselect").change(function() {
+		if($(this).val()) {
+			$("#homepartbrowsemodelname").html("");
+			$("#homepartbrowsemodel").html("");
+			$("#homeq").val('');
+			$("#decoding").hide();
+			$("#homesearchbuttons").hide();
+			$("#serialstatus").hide();
+			$("#homesearchsubmit").slideUp();
+			$("#homesearchbox").slideUp();
+			$.post("/xcart1/skin1/homeserial.php",{ browseByType: $(this).val() },function(html) {
+				if(html) {
+					$("#homepartbrowsemodelname").html(html);
+					$("#homepartbrowsebox").fadeIn('slow');
+				}
+			});
+		}
+		else {
+			$("#homepartbrowsebox").hide();
+			$("#homesearchsubmit").slideDown();
+			$("#homesearchbox").slideDown();
+		}
+	});
+	$("#homepartbrowsemodelnameselect").live("change",function() {
+		if($(this).val()) {
+			$.post("/xcart1/skin1/homeserial.php",{ browseByModel: $(this).val() },function(html) {
+				if(html) {
+					$("#homepartbrowsemodel").html(html);
+				}
+			});
+		}
+		else {
+			$("#homepartbrowsemodel").html("");
+		}
+	});
+	$("#homepartbrowsemodelselect").live("change",function() {
+		if(!isNaN($(this).val())) {
+			$("#partloading").css("display","inline-block");
+			window.location = "http://www.powerbookmedic.com/model.php?id="+$(this).val();
+		}
+	});
+	$("#homepartsearchsection").click(function() {
+		$("#homepartbrowsebox").slideUp();
+		$("#homepartbrowseselect").val(0);
+		$("#homesearchsubmit").slideDown();
+		$("#homesearchbox").slideDown();
+	});
+	$("#homepartbrowseselect").val(0);
+	$("#homepartsearchselect").val(0);
+	$("#homepartbrowsemodelnameselect").val(0);
 });
 </script><style type="text/css">.hidden{display:none;}</style>
 <style>
@@ -565,7 +815,7 @@ __fts_params += "title=" + encode64(__fts_title) + "&";
 __fts_params += "url=" + encode64(__fts_url) + "&";
 __fts_params += "referrer=" + encode64(__fts_referrer);
 document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
-</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTIwNjA0MTkwMTA5aWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
+</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTIxMjAzMjA0MjQ2aWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
 <script src="/xcart1/skin1/modules/XAuth/popup_open.js" type="text/javascript"></script>
 <script src="/xcart1/skin1/modules/XAuth/controller.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/xcart1/skin1/modules/XAuth/main.css">
@@ -647,7 +897,8 @@ else
 <li><a href="http://www.powerbookmedic.com/mac-service.php">Send-In Mac Repair</a>
 <ul>
 <li><a href="http://www.powerbookmedic.com/mac-service.php">Mac Repair</a></li>
-<li><a href="http://www.powerbookmedic.com/Macbook-Pro-and-Macbook-Logic-Board-Repair-p-67.html">Logic Board Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/Macbook-Pro-and-Macbook-Logic-Board-Repair-p-67.html">Mac Logic Board Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/iphone-logic-board-repair.php">iPhone Logic Board Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/MacBook-Air-LCD-Repair-p-70.html">Macbook Air Display LCD Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/iphone/">iPhone Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/ipod/">iPod Repair</a></li>
@@ -657,9 +908,38 @@ else
 <li><a href="/xcart1/schedule.php">Schedule a Repair</a></li>
 </ul>
 </li>
-<li><a href="#">Parts by Category</a>
+<li><a href="http://www.powerbookmedic.com/identify-mac-serial.php">Parts by Serial</a>
+</li>
+<li><a href="http://www.powerbookmedic.com/Find-Replacement-Parts-By-Model-Type-p-71.html">Parts by Model</a>
 <ul>
-<li><a href="http://www.powerbookmedic.com/Refurbished-Units-p-1-c-580.html">Used and Refurb Macs</a></li>
+<li><a href="http://www.powerbookmedic.com/MacBook--Macbook-Pro-Parts-and-Repair-p-1-c-446.html">Macbook &amp; Macbook Pro</a></li>
+<li><a href="http://www.powerbookmedic.com/iPod-Parts--iPod-Repair-p-1-c-373.html">iPod &amp; iPhone Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/iMac-p-1-c-571.html">iMac</a></li>
+<li><a href="http://www.powerbookmedic.com/Mac-Mini-p-1-c-436.html">Mac Mini</a></li>           
+<li><a href="http://www.powerbookmedic.com/Mac-Pro-Upgrade-Parts-and-Service-p-1-c-599.html">Mac Pro</a></li>
+<li><a href="http://www.powerbookmedic.com/PowerMac-G5-p-1-c-602.html">PowerMac G5</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Aluminum-p-1-c-376.html">Powerbook G4 Aluminum</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Titanium-p-1-c-250.html">Powerbook G4 Titanium</a></li>
+<li><a href="http://www.powerbookmedic.com/White-iBook-G4-p-1-c-419.html">iBook G4</a></li>
+<li><a href="http://www.powerbookmedic.com/White-iBook-G3-Dual-USB-p-1-c-369.html">iBook G3</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-G3----Pismo---Lombard---Wallstreet-p-1-c-252.html">Powerbook G3</a></li>
+<li><a href="" https:="" www.powerbookmedic.com="" xcart1=""></a></li>
+<li><a href="/Amazon-Kindle-Parts-for-Repair-p-1-c-641.html">Amazon Kindle Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Blackberry-Service-Parts-for-Blackberry-Repair-p-1-c-633.html">Blackberry Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Gateway-Parts-p-1-c-644.html">Gateway Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Google-Nexus-Parts-p-1-c-710.html">Google Nexus Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/HP-Parts-p-1-c-642.html">HP Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/HTC-Parts-p-1-c-649.html">HTC Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Nintento-Parts-for-Repair-p-1-c-695.html">Nintendo Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Nook-Parts-p-1-c-711.html">Nook Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Sony-Playstation-Parts-for-Repair-p-1-c-701.html">Sony Playstation Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Sony-PSP-Parts-for-Repair-p-1-c-634.html">Sony PSP Parts</a></li>
+</ul>
+</li>
+<li><a href="" https:="" www.powerbookmedic.com="" xcart1="">Parts by Category</a>
+<ul>
+<li><a href="/Refurbished-Units-p-1-c-580.html">Used and Refurb Macs</a></li>
 <li><a href="http://www.powerbookmedic.com/Accessories-p-1-c-650.html">Accessories</a></li>
 <li><a href="http://www.powerbookmedic.com/Powerbook-iBook-Macbook-Hard-Drive-Upgrades-Pro-p-1-c-256.html">Hard Drive Upgrades</a></li>
 <li><a href="http://www.powerbookmedic.com/Ram-Upgrades-p-1-c-257.html">Ram Memory Upgrades</a></li>
@@ -667,6 +947,7 @@ else
 <li><a href="http://www.powerbookmedic.com/Optical-Drive-Upgrades-p-1-c-441.html">Superdrive / Combo Drives</a></li>
 <li><a href="http://www.powerbookmedic.com/Keyboards--Keys-p-1-c-440.html">Keyboards &amp; Keys</a></li>
 <li><a href="http://www.powerbookmedic.com/LCD-Display-Replacements-p-1-c-503.html">LCD Display Replacements</a></li>
+<li><a href="http://www.powerbookmedic.com/MacBook/Fans/">Macbook Fans</a></li>
 <li><a href="http://www.powerbookmedic.com/Power-Adapters-Cords-p-1-c-531.html">Power Adapters</a></li>
 <li><a href="http://www.powerbookmedic.com/Wireless--Airport-p-1-c-351.html">Wireless &amp; Airport</a></li>
 <li><a href="http://www.powerbookmedic.com/Software--Disk-Utilities-p-1-c-353.html">System Software</a></li>
@@ -675,32 +956,6 @@ else
 <li><a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad Parts</a></li>
 <li><a href="http://www.powerbookmedic.com/parts/">Apple Parts List</a></li>
 </ul>
-</li>
-<li><a href="#">Parts by Model</a>
-<ul>
-<li><a href="http://www.powerbookmedic.com/MacBook--Macbook-Pro-Parts-and-Repair-p-1-c-446.html">Macbook &amp; Macbook Pro</a></li>
-<li><a href="http://www.powerbookmedic.com/iPod-Parts--iPod-Repair-p-1-c-373.html">iPod &amp; iPhone Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad Parts (All Models)</a></li>
-<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Aluminum-p-1-c-376.html">Powerbook G4 Aluminum</a></li>
-<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Titanium-p-1-c-250.html">Powerbook G4 Titanium</a></li>
-<li><a href="http://www.powerbookmedic.com/White-iBook-G4-p-1-c-419.html">iBook G4</a></li>
-<li><a href="http://www.powerbookmedic.com/White-iBook-G3-Dual-USB-p-1-c-369.html">iBook G3</a></li>
-<li><a href="http://www.powerbookmedic.com/Powerbook-G3----Pismo---Lombard---Wallstreet-p-1-c-252.html">Powerbook G3</a></li>
-<li><a href="http://www.powerbookmedic.com/Mac-Mini-p-1-c-436.html">Mac Mini</a></li>
-<li><a href="http://www.powerbookmedic.com/iMac-p-1-c-571.html">iMac</a></li>
-<li><a href="http://www.powerbookmedic.com/Mac-Pro-Upgrade-Parts-and-Service-p-1-c-599.html">Mac Pro</a></li>
-<li><a href="http://www.powerbookmedic.com/PowerMac-G5-p-1-c-602.html">PowerMac G5</a></li>
-<li><a href="http://www.powerbookmedic.com/Amazon-Kindle-Parts-for-Repair-p-1-c-641.html">Amazon Kindle Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/HTC-Google-Nexus-One-Parts-p-1-c-648.html">Google Nexus One Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/Blackberry-Service-Parts-for-Blackberry-Repair-p-1-c-633.html">Blackberry Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/Sony-PSP-Parts-for-Repair-p-1-c-634.html">Sony PSP Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/Nintento-Parts-for-Repair-p-1-c-695.html">Nintendo Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/HTC-Parts-p-1-c-649.html">HTC Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/HP-Parts-p-1-c-642.html">HP Parts</a></li>
-<li><a href="http://www.powerbookmedic.com/Gateway-Parts-p-1-c-644.html">Gateway Parts</a></li>
-</ul>
-</li>
-<li><a href="http://www.powerbookmedic.com/identify-mac-serial.php">Parts by Serial</a>
 </li>
 <li><a href="http://www.powerbookmedic.com/sell.php">Sell It</a>
 </li>
@@ -1033,15 +1288,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-522905-1");
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript"> 
-var _cctq = _cctq || []; 
-_cctq.push(['cct_log', '0820-6Paa1g7ebVci4e2w1c75493fac0f6886ae55f669']); 
-(function() { 
-var cctjs = document.createElement('script'); cctjs.type = 'text/javascript'; cctjs.async = true; 
-cctjs.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cn.clickable.net/js/cct.js'; 
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cctjs, s); 
-})(); 
-</script> 
+<div id="dialog-error" style="display:none;" title="Uh Oh"></div>
 <script type="text/javascript" src="http://static.rpxnow.com/js/lib/rpx.js"></script>
 <script type="text/javascript">
 <!--
@@ -1063,11 +1310,11 @@ var xauth_catalogs_customer = "http://www.powerbookmedic.com/xcart1";
 var xauth_current_host = "www.powerbookmedic.com";
 -->
 </script>
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-orderstatus-form" style="display: none; z-index: 1000; outline: 0px; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-orderstatus-form">Check Order Status</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="orderstatus-form" style="" class="ui-dialog-content ui-widget-content">
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable ui-dialog-buttons" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="display: none; outline: 0px; z-index: 1000; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">Check Order Status</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="orderstatus-form" style="" class="ui-dialog-content ui-widget-content">
 <p class="validateTips">All form fields are required.</p>
 <div id="orderstatus-radio" class="ui-buttonset">
-<input type="radio" id="orderstatus-type1" name="orderstatus-type" checked="checked" class="ui-helper-hidden-accessible"><label for="orderstatus-type1" class="ui-state-active ui-button ui-widget ui-state-default ui-button-text-only ui-corner-left" aria-pressed="true" role="button" aria-disabled="false"><span class="ui-button-text">Parts Order</span></label>
-<input type="radio" id="orderstatus-type2" name="orderstatus-type" class="ui-helper-hidden-accessible"><label for="orderstatus-type2" aria-pressed="false" class="ui-button ui-widget ui-state-default ui-button-text-only ui-corner-right" role="button" aria-disabled="false"><span class="ui-button-text">Repair Order</span></label>
+<input type="radio" id="orderstatus-type1" name="orderstatus-type" checked="checked" class="ui-helper-hidden-accessible"><label for="orderstatus-type1" class="ui-state-active ui-button ui-widget ui-state-default ui-button-text-only ui-corner-left" role="button" aria-disabled="false"><span class="ui-button-text">Parts Order</span></label>
+<input type="radio" id="orderstatus-type2" name="orderstatus-type" class="ui-helper-hidden-accessible"><label for="orderstatus-type2" class="ui-button ui-widget ui-state-default ui-button-text-only ui-corner-right" role="button" aria-disabled="false"><span class="ui-button-text">Repair Order</span></label>
 </div>
 <div id="orderstatus-parts">
 <form method="POST" target="_top" action="/order_status.php"><input type="hidden" name="is_hc" value="Y">
@@ -1091,4 +1338,4 @@ var xauth_current_host = "www.powerbookmedic.com";
 </fieldset>
 </form>
 </div>
-</div><div class="ui-resizable-handle ui-resizable-n"></div><div class="ui-resizable-handle ui-resizable-e"></div><div class="ui-resizable-handle ui-resizable-s"></div><div class="ui-resizable-handle ui-resizable-w"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1004;"></div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Check your order status</span></button><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Cancel</span></button></div></div></div></body></html>
+</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Check your order status</span></button><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Cancel</span></button></div></div></div></body></html>
