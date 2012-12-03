@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604170200id_/http%3A//www.furnituretoday.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203200342id_/http%3A//www.furnituretoday.com/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Furniture Today
 
