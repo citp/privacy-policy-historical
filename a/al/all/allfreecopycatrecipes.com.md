@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630140931id_/http%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203200240id_/http%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCopycatRecipes.com
 
 | 
 
-Privacy Policy / Your California Privacy Rights   
-Active Date: September 15, 2008
+Privacy Policy / Your California Privacy Rights  
+Revised and posted as of August 8, 2012  
+(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the [previous version of the Privacy and Security Policy](http://www.allfreecopycatrecipes.com/index.php/hct/privacy_policy2008).)
 
 Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -27,7 +28,7 @@ Company websites are not intended for use by individuals under the age of 18 or 
   
 Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.
 
-**How do we collect information and hwat information do we collect?**
+**How do we collect information and what information do we collect?**
 
 We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.
 
@@ -72,7 +73,7 @@ We may use the collected PII and Non-PII for any legally permissible purpose in 
 **Ad Serving**  
 We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.
 
-We also use third party advertising companies, such as Advertising.com, to serve advertisements when you visit our websites. These companies may use and optimize information (not including your name, mailing address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Advertising.com please visit http://www.advertising.com/privacy_policy_details.php.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 **Pre-select/Pre-fill Offers**  
 Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.
@@ -138,10 +139,10 @@ Should the Company choose to sell or transfer business assets, it is possible th
 **Company Customer Choices**
 
 **Marketing Communications and Unsubscribe Information**  
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.allfreeknitting.com/index.php/hct/contact_us_page) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.allfreecopycatrecipes.com/section/subctr/) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
 
 **Request for More Information**  
-As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 340, Northbrook, IL  60062.
+As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL  60062.
 
 **What happends if I  hit a link to another site from a Company website?**
 
