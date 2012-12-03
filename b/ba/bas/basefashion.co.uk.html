@@ -1,973 +1,841 @@
-<!--The following is the downloaded HTML source of the basefashion.co.uk privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217174301id_/http%3A//www.basefashion.co.uk/shop/information/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the basefashion.co.uk privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203223332id_/http%3A//www.basefashion.co.uk/privacy-policy-i11) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>
-Privacy Policy - Boys Base</title>
-<meta name="keywords" content="Privacy, Policy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/tcl">
+<title>Privacy Policy</title>
 
-<meta name="description" content="Privacy Policy">
+    <link rel="stylesheet" type="text/css" href="http://www.basefashion.co.uk/media/css/styles_layout,styles_basket,styles,styles_menu,styles_zoom,jquery-lightbox.css">
+ <link rel="stylesheet" type="text/css" href="http://www.basefashion.co.uk/media/css/styles_print.css" media="print">
 
-<meta name="robots" content="index,follow,noodp">
+ 		      <link rel="stylesheet" type="text/css" href="http://www.basefashion.co.uk/media/css/mens.css">
+      
 
-<link rel="stylesheet" type="text/css" href="/universal/css/ishop.css" title="style">
-<!-- global.css_link ============================================================BEGIN -->
-<link rel="stylesheet" type="text/css" href="/css/ishop.css" title="style">
-<!-- global.css_link ==========================================END -->
+  <link rel="stylesheet" type="text/css" href="http://www.basefashion.co.uk/media/css/styles_thickbox,product_preview.css">
 
+  
+<meta name="vs_status_checker_version" content="1">
+<meta name="vs_status_checker" content="1">
 
-
-
-<link rel="shortcut icon" href="http://www.basefashion.co.uk/favicon.ico" type="image/x-icon">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.basefashion.co.uk/media/js/jquery,jquery-zoom,jquery-cookie,jquery-carousel,jquery-bgiframe,common,product_thumbs,jquery-scrollto,jquery-slider,vs_slider,jplayer.js"></script>
+<script type="text/javascript" src="http://www.basefashion.co.uk/media/js/jquery-lightbox.js"></script>
+<script type="text/javascript" src="http://www.basefashion.co.uk/media/js/filters,jquery-history.js"></script>
+<script type="text/javascript" src="http://www.basefashion.co.uk/media/js/jquery-modal.js"></script>
+<script type="text/javascript" src="http://www.basefashion.co.uk/media/js/jquery-modal.js"></script>
+<script type="text/javascript" src="http://www.basefashion.co.uk/media/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://www.basefashion.co.uk/media/js/autocomplete.js"></script>
+        <link rel="stylesheet" type="text/css" href="http://www.basefashion.co.uk/media/css/autocomplete,autocomplete_detailed.css">
+        <script type="text/javascript">
+    <!--
+    $(document).ready(function(){
+      objAutoComplete.init(
+        'query',
+        '',
+        '3'
+      );
+    });
+    -->
+    </script>
+        <script type="text/javascript" src="http://www.basefashion.co.uk/media/js/jquery-bgiframe,jquery-superfish.js"></script>
+    <script type="text/javascript">
+    //<!--
+      // initialise plugins
+      jQuery(function(){
+        $("ul.menu").superfish().find('div.menu-dropdown').bgIframe({ opacity: true });
+      });
+    //-->
+    </script>
+    <script type="text/javascript">
 <!--
-// miniline.html - search bar javascript - start
-
-name = "mainwindow";
-
-function openSearchMain(){
-        newWin=window.open('', 'mainsearch','scrollbars=yes,width=450,height=480');
+var addthis_config = {
+  data_use_flash: false
 }
-
-// miniline.html - search bar javascript - end
-
-
-// ===========
-// JAVASCRIPT
-// ===========
-
-
-
-// global.javascript_inline ===============================BEGIN 
-
-function nav_top_sub_menu(state,menu_id,no_menus){
-	//first, make sure all menus are closed, regardless of state
-	for(i=0; i<=no_menus; i++){
-		document.getElementById('nav_block_subs_'+i).style.display = 'none';
-	}
-	//if we are to open an menu, open it
-	if(state == 'open'){
-		document.getElementById(menu_id).style.display = 'block';
-	}
-}
-
-// global.javascript_inline ===============================END 
-
-
-
-	
-
-// ishop/common/standard.js ===============================BEGIN 
-
-function ltrim(oldstring)
-{
-        while (""+oldstring.charAt(0)==" ")
-        {
-                oldstring = oldstring.substring(1,oldstring.length);
-        }
-return oldstring;
-}
-
-function rtrim(oldstring)
-{
-  while(""+oldstring.charAt(oldstring.length-1)==" ")
-  {
-     oldstring=oldstring.substring(0,oldstring.length-1);
-  }
-  return(oldstring);
-}
-
-
-function check_product(thisform)
-{
-
-// Carries out standard onSubmit checks for product order forms
-// To use include    onSubmit="check_product(this)"
-// in your form tag
-
-var message = "";
-
-with (thisform)
-{
-
-// Make sure we have selected a product 
-
-try {
-	if (order_prod_id.value <= 0)
-	{
-		message = message + "\n\t"+"Please select a product";
-	}
-} catch (e) { 
-	message = message + "\n\t"+"Please select a product";
-}
-
-if (message != "")
-{
-	alert("ERROR:\n"+message);
-	return false;
-} else {
-	alert("Please note:\nYour selection has been added to your shopping basket.\n");
-	return true;
-}
-}
-}
-
-function ishop_change_location(url)
-{
-	if (window.event){window.event.cancelBubble=true;}
-	window.location.href = url;
-	return false;
-}
-
-function clPredictorText(predictor_text)
-{
-	document.searchbox.search_string.value = predictor_text;
-	try {document.searchbox.submit.click();}catch (e) {document.searchbox.submit();}
-}
-
-function kdsearch_string(event,search_field)
-{
-	event = event || window.event;
-	var pt = null;
-	var i = 0;
-	var wasset = false;
-	if (event.keyCode == 40)
-	{
-// Down arrow
-		if (document.getElementById('predictor_text0'))
-		{
-			while (pt = document.getElementById('predictor_text'+i))
-			{
-				if (pt.className=="selected")
-				{
-					pt.className="";
-					wasset = true;
-					if (pt = document.getElementById('predictor_text'+(1+i)))
-					{
-						pt.className="selected";
-						++i;
-					} 
-				}
-				++i;
-			}
-			if (!wasset)
-			{
-				pt = document.getElementById('predictor_text0');
-				pt.className= "selected";		
-			}
-		} 
-		return false;
-	}
-	
-	if (event.keyCode == 38)
-	{
-// Up arrow
-		if (document.getElementById('predictor_text0'))
-		{
-			while (pt = document.getElementById('predictor_text'+i))
-			{
-				if (pt.className=="selected")
-				{
-					pt.className="";
-					wasset = true;
-					if (pt = document.getElementById('predictor_text'+(i-1)))
-					{
-						pt.className="selected";
-					} 
-				}
-				++i;
-			}
-			if (!wasset)
-			{
-				pt = document.getElementById('predictor_text'+(i-1));
-				pt.className="selected";			
-			}
-		}
-		return false;
-	}
-
-	if (event.keyCode == 13 || event.keyCode == 9)
-	{
-// Enter/Tab Key
-		i = 0;
-		if (document.getElementById('predictor_text0'))
-		{
-			while (pt = document.getElementById('predictor_text'+i))
-			{
-				if (pt.className=="selected")
-				{
-					document.searchbox.search_string.value = pt.innerHTML.replace(/(<([^>]+)>)/ig,"");
-try { document.searchbox.submit();} catch(e) { document.searchbox.submit.click();}
-					return false;
-				}
-				++i;
-			}
-		}
-	}
-}
-
-
-var xmlhttp;
-
-function kusearch_string(event,search_field)
-{
-
-	event = event || window.event;
-	var pt = null;
-	var i = 0;
-	var wasset = false;
-	if (event.keyCode == 40 || event.keyCode == 38 || event.keyCode == 13)
-	{
-		return false;
-	}
-	
-	if (ltrim(rtrim(search_field.value)) == '')
-	{
-		document.getElementById('searchbox_predictor').innerHTML = '';
-		return false;
-	}
-	
-xmlhttp=null;
-var url = '/universal/shop_search_predictor.php?shop_id=1152&predictor_text='+search_field.value;
-
-if (window.XMLHttpRequest)
-  {// code for Firefox, Opera, IE7, etc.
-  xmlhttp=new XMLHttpRequest();
-  }
-else if (window.ActiveXObject)
-  {// code for IE6, IE5
-  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }
-if (xmlhttp!=null)
-  {
-  xmlhttp.onreadystatechange= kusearch_string_state_change;
-  xmlhttp.open("GET",url,true);
-  xmlhttp.send(null);
-  }
-else
-  {
-  alert("Your browser does not support XMLHTTP.");
-  }
-}
-
-function kusearch_string_state_change()
-{
-if (xmlhttp.readyState==4)
-  {// 4 = "loaded"
-  if (xmlhttp.status==200)
-    {// 200 = "OK"
-    document.getElementById('searchbox_predictor').innerHTML=xmlhttp.responseText;
-    if (xmlhttp.responseText != '')
-    {
-	document.getElementById('searchbox_predictor').style.display = 'block';
-    } else {
-	document.getElementById('searchbox_predictor').style.display = 'none';
-    }
-  } else {
-//    alert("Problem retrieving data:" + ":" + xmlhttp.statusText);
-    }
-  }
-}
-
-// ishop/common/standard.js ===============================END 
-
-
-
-// -->
+-->
 </script>
-<style type="text/css">
-<!--
+  <meta name="keywords" content="kids designer clothing, boys designer clothing, mens designer clothing, kids designer clothes, mens designer clothes, boys designer clothes, designer clothing for kids, designer clothing for boys, designer clothing for men">
+  
+  <meta name="description" content="Check out Base Fashion and their range of superb designer clothing. We bring you a variety of kids designer clothing, boys designer clothing and mens designer clothing here at Base Fashion.">
+  
+    <script type="text/javascript" src="http://www.basefashion.co.uk/media/js/product_preview.js"></script>
 
-
-/* global.css_include /var/www/ishop/css/1152/ishop_xmas09.css ====BEGIN */
-
-/*BANNER / NAV*/
-#banner{
-position: relative;
-background-image: url('/images/common/banner_bg_xmas_default.jpg');
-}
-.xmas_flash{
-position: absolute;
-top: 0;
-left: 0;
-}
-
-/* global.css_include /var/www/ishop/css/1152/ishop_xmas09.css ====END */
-
-
-
-
-
-//-->
-</style>
-<meta name="revisit-after" content="30 Days">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" href="http://www.basefashion.co.uk/favicon.png">
+           <meta name="norton-safeweb-site-verification" content="i0aw9terr-djza-iwtkzf-v04to-kt-4kbcea92ljv3oi71wo38gf632q5gasobzgxr142hd9ryyhv4kxsvtrxj3pl-cxww93o00yr0rbqfyrgszbax0h55u3nkghoyk">
+  <meta name="norton-safeweb-site-verification" content="xo8h76uq3frkx-voi33peu7e2pao04e-1rzl0zb317ajf76wg1v2lmgr20z9nggcke4q4tinlz8s0zdgfpumim7kiexw28dftf5b429-i5dxnai1qkjvo7o7-elhwkbg">
 </head>
 
-<body>
+<body id="body_pages" class="section_8">
 
-<!-- Tracking - Google Analytics - 2008 - start -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost+ "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6032488-1");
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker("true");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-<!-- Tracking - Google Analytics - 2008 - end -->
-
-
-<!-- Tracking - Google Analytics - start -->
-<!-- Tracking - Google Analytics - end -->
-
-
-<!-- 1152/navigation/navigation_3column.html ================BEGIN -->
-
-<div class="body_table">
-<!-- nav banner begin -->
-
-<!-- 1152/common/banner.html ======================BEGIN -->
-
-<div id="banner">
-<a class="banner_logo" href="/shop/home.html" title="Boys Fashion, Girls Fashion - Basefashion.co.uk"></a>
-
-<!-- global.banner_inline - begin -->
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=3821136; 
-var sc_invisible=1; 
-var sc_partition=34; 
-var sc_click_stat=1; 
-var sc_security="48c393ec"; 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6032488-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 </script>
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div
-class="statcounter"><a href="http://www.statcounter.com/" target="_blank"><img
-class="statcounter" src="http://c.statcounter.com/3821136/0/48c393ec/1/"
-alt="counter create hit" ></a></div></noscript>
-<!-- End of StatCounter Code --><!-- global.banner_inline - end -->
+
+<div id="parent_container">
+  <div id="header_container">
+    <div id="header_top_container">
+      <div id="header_top_logo"><p><a href="/" title="Base Fashion"><img src="/images/img_logo.gif" alt="Base Fashion"></a></p></div>
 
 
+      <div id="header_top_promo_1">
+       
+			</div>
 
 
-<!-- cascaded_content - begin -->
-<div id="cascaded_content">
-<div class="xmas_flash">
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="984" height="135" id="banner_xmas" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="movie" value="/flash/banner_xmas_default.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="/flash/banner_xmas_default.swf" quality="high" bgcolor="#ffffff" width="984" height="135" name="banner_xmas" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object>
+			<div id="header_top_basket">
+  <div id="header_top_basket_contents">
+  	<ul>
+  		<li>
+  		<div id="header_top_basket_currency"><ul id="currency_options">
+    <li id="currency_GBP">
+  <a href="/currency/GBP/privacy-policy-i11" name="Y" id="link_currency_GBP" rel="nofollow" title="Display our prices in British Sterling (GBP)" class="active"><img src="/images/img_pounds_on.gif" id="img_currency_active_GBP" alt="£" title=""><img src="/images/img_pounds_off.gif" id="img_currency_inactive_GBP" alt="£" style="display:none" title=""></a></li>
+    <li id="currency_USD">
+  <a href="/currency/USD/privacy-policy-i11" name="N" id="link_currency_USD" rel="nofollow" title="Display our prices in US Dollars (USD)"><img src="/images/img_dollars_on.gif" id="img_currency_active_USD" alt="$" title="" style="display:none"><img src="/images/img_dollars_off.gif" id="img_currency_inactive_USD" alt="$" title=""></a></li>
+    <li id="currency_EUR">
+  <a href="/currency/EUR/privacy-policy-i11" name="Y" id="link_currency_EUR" rel="nofollow" title="Display our prices in Euros (EUR)"><img src="/images/img_euros_on.gif" id="img_currency_active_EUR" alt="€" title="" style="display:none"><img src="/images/img_euros_off.gif" id="img_currency_inactive_EUR" alt="€" title=""></a></li>
+  </ul>
+</div></li>
+	  		<li id="header_top_basket_my_account">
+		  		<a rel="nofollow" name="standard" href="/register/" title="My Account">
+		  			<span>
+			  			Register | Sign in		  			</span>
+		  		</a>
+	  		</li>
+		</ul>
+		<ul>
+      <li class="top_basket_table_li">
+        <table cellpadding="0" cellspacing="0" summary="basket contents" border="0">
+          <tbody><tr>
+            <td valign="top" class="top_basket_total" align="right"><span id="mini_basket_total"><span class="price">
+<span class="inc">
+<span class="GBP">£0.00</span>
+<span class="USD" style="display:none;">$0.00</span>
+<span class="EUR" style="display:none;">0.00&nbsp;€</span>
+</span>
+<span class="ex" style="display:none;">
+<span class="GBP">£0.00</span>
+<span class="USD" style="display:none;">$0.00</span>
+<span class="EUR" style="display:none;">0.00&nbsp;€</span>
+</span>
+</span>
+</span></td>
+            <td valign="top" class="top_basket_items" align="right">(<span id="mini_basket_num_items">0</span>)</td>
+          </tr>
+        </tbody></table>
+      </li>
+      <li>
+	      <a id="header_top_basket_view" href="/basket/" title="View your shopping bag"><img src="/images/view_basket_new.gif" height="29" width="96" alt="View your shopping bag"></a>
+      </li>
+    </ul>
+  </div>
+</div>    </div>
+    <div id="header_menu_container">
+      <div id="header_menu">
+  <ul class="menu">
+              <li class="header_menu_li_1">
+            <a class="header_menu_link header_menu_1" href="/baby-designer-clothing-department-c203" title="Baby&nbsp;Designer&nbsp;Clothing&nbsp;Department"><span>Baby&nbsp;Designer&nbsp;Clothing&nbsp;Department</span></a>
+                          <div class="menu-dropdown menu_drop_bg_1" style="width:auto;" onmouseover="$('.header_menu_1').addClass('hoverOver');" onmouseout="$('.header_menu_1').removeClass('hoverOver');">
+                <table cellpadding="0" cellspacing="0" class="menu-content">
+                  <tbody><tr>
+                    <td><p class="menu_titles">Shop By Product</p></td>
+                    <td><p class="menu_titles">Shop By Brand</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                      <ul class="menu-items">
+                        		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_1"><span class="category_navigation_group">Featured</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/baby-designer-clothing-department-c203/new-in-c208" title="New In"><span>New In</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/baby-designer-clothing-department-c203/accessories-and-gifts-c207" title="Accessories and Gifts"><span>Accessories and Gifts</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_2"><span class="category_navigation_group">Clothing</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/baby-designer-clothing-department-c203/baby-boys-0-24-months-c204" title="Baby Boys (0-24 months)"><span>Baby Boys (0-24 months)</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/baby-designer-clothing-department-c203/baby-girls-0-24-months-c205" title="Baby Girls (0-24 months)"><span>Baby Girls (0-24 months)</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_3"><span class="category_navigation_group">Footwear</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/baby-designer-clothing-department-c203/baby-booties-and-shoes-c206" title="Baby Booties and Shoes"><span>Baby Booties and Shoes</span></a></li>                      </ul>
+                    </td>
+                    <td valign="top">
+                      <table cellpadding="0" cellspacing="0" class="menu-content" border="0">
+                        <tbody><tr>
+                                                      <td valign="top">
+                              <ul class="menu-items menu-items-brands">
+                                <li> <a href="/baby-designer-clothing-department-c203/levi-s-m82"><span>Levi's</span></a></li><li> <a href="/baby-designer-clothing-department-c203/ralph-lauren-m13"><span>Ralph Lauren</span></a></li><li> <a href="/baby-designer-clothing-department-c203/armani-junior-m76"><span>Armani Junior</span></a></li><li> <a href="/baby-designer-clothing-department-c203/boss-m41"><span>BOSS</span></a></li><li> <a href="/baby-designer-clothing-department-c203/bambam-m388"><span>BamBam</span></a></li><li> <a href="/baby-designer-clothing-department-c203/syot-m372"><span>syoT</span></a></li><li> <a href="/baby-designer-clothing-department-c203/gant-m334"><span>Gant</span></a></li><li> <a href="/baby-designer-clothing-department-c203/timberland-m80"><span>Timberland</span></a></li><li> <a href="/baby-designer-clothing-department-c203/paul-smith-junior-m197"><span>Paul Smith Junior</span></a></li><li> <a href="/baby-designer-clothing-department-c203/baby-graziella-m186"><span>Baby Graziella</span></a></li><li> <a href="/baby-designer-clothing-department-c203/converse-m1"><span>Converse</span></a></li><li> <a href="/baby-designer-clothing-department-c203/rachel-riley-m354"><span>Rachel Riley</span></a></li><li> <a href="/baby-designer-clothing-department-c203/sun-san-sandals-m360"><span>Sun San Sandals</span></a></li><li> <a href="/baby-designer-clothing-department-c203/mayoral-m314"><span>Mayoral</span></a></li><li> <a href="/baby-designer-clothing-department-c203/dolce-gabbana-m78"><span>Dolce &amp; Gabbana</span></a></li>                                <li> <a href="/brands/baby-designer-clothing-department-c203"><span style="color:#FFFFFF;"><strong>View All Brands...</strong></span></a></li>
+                              </ul>
+                            </td>
+                                                    </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+                        </li>
+                    <li class="header_menu_li_2">
+            <a class="header_menu_link header_menu_2" href="/girls-designer-clothing-department-c7" title="Girls&nbsp;Designer&nbsp;Clothing&nbsp;Department"><span>Girls&nbsp;Designer&nbsp;Clothing&nbsp;Department</span></a>
+                          <div class="menu-dropdown menu_drop_bg_2" style="width:auto;" onmouseover="$('.header_menu_2').addClass('hoverOver');" onmouseout="$('.header_menu_2').removeClass('hoverOver');">
+                <table cellpadding="0" cellspacing="0" class="menu-content">
+                  <tbody><tr>
+                    <td><p class="menu_titles">Shop By Product</p></td>
+                    <td><p class="menu_titles">Shop By Brand</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                      <ul class="menu-items">
+                        		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_1"><span class="category_navigation_group">Christmas Shop</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/it-s-party-time-c217" title="It's Party Time!"><span>It's Party Time!</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/gift-shop-c216" title="Gift Shop"><span>Gift Shop</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/toy-shop-c215" title="Toy Shop"><span>Toy Shop</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_2"><span class="category_navigation_group">Featured</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/exclusive-to-girls-base-c213" title="Exclusive to Girls Base"><span>Exclusive to Girls Base</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_3"><span class="category_navigation_group">Clothing</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/jumpers-cardigans-c149" title="Jumpers &amp; Cardigans"><span>Jumpers &amp; Cardigans</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/jackets-coats-c119" title="Jackets &amp; Coats"><span>Jackets &amp; Coats</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/blouses-shirts-c151" title="Blouses &amp; Shirts"><span>Blouses &amp; Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/dresses-skirts-c12" title="Dresses &amp; Skirts"><span>Dresses &amp; Skirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/outfits-sets-c143" title="Outfits &amp; Sets"><span>Outfits &amp; Sets</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/jeans-trousers-c114" title="Jeans &amp; Trousers"><span>Jeans &amp; Trousers</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/t-shirts-tops-c14" title="T-Shirts &amp; Tops"><span>T-Shirts &amp; Tops</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/accessories-c209" title="Accessories"><span>Accessories</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_4"><span class="category_navigation_group">Footwear</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/girls-designer-clothing-department-c7/shoes-boots-c125" title="Shoes &amp; Boots"><span>Shoes &amp; Boots</span></a></li>                      </ul>
+                    </td>
+                    <td valign="top">
+                      <table cellpadding="0" cellspacing="0" class="menu-content" border="0">
+                        <tbody><tr>
+                                                      <td valign="top">
+                              <ul class="menu-items menu-items-brands">
+                                <li> <a href="/girls-designer-clothing-department-c7/voi-m11"><span>Voi</span></a></li><li> <a href="/girls-designer-clothing-department-c7/levi-s-m82"><span>Levi's</span></a></li><li> <a href="/girls-designer-clothing-department-c7/ralph-lauren-m13"><span>Ralph Lauren</span></a></li><li> <a href="/girls-designer-clothing-department-c7/ucla-m17"><span>UCLA</span></a></li><li> <a href="/girls-designer-clothing-department-c7/vans-m67"><span>Vans</span></a></li><li> <a href="/girls-designer-clothing-department-c7/guess-m310"><span>Guess</span></a></li><li> <a href="/girls-designer-clothing-department-c7/syot-m372"><span>syoT</span></a></li><li> <a href="/girls-designer-clothing-department-c7/happy-hopperz-m386"><span>Happy Hopperz</span></a></li><li> <a href="/girls-designer-clothing-department-c7/timberland-m80"><span>Timberland</span></a></li><li> <a href="/girls-designer-clothing-department-c7/converse-m1"><span>Converse</span></a></li><li> <a href="/girls-designer-clothing-department-c7/kickers-m96"><span>Kickers</span></a></li><li> <a href="/girls-designer-clothing-department-c7/flossy-m355"><span>Flossy</span></a></li><li> <a href="/girls-designer-clothing-department-c7/rachel-riley-m354"><span>Rachel Riley</span></a></li><li> <a href="/girls-designer-clothing-department-c7/dr-martens-m370"><span>Dr. Martens</span></a></li><li> <a href="/girls-designer-clothing-department-c7/mayoral-m314"><span>Mayoral</span></a></li><li> <a href="/girls-designer-clothing-department-c7/lelli-kelly-m315"><span>Lelli Kelly</span></a></li><li> <a href="/girls-designer-clothing-department-c7/supertrash-m350"><span>Supertrash</span></a></li><li> <a href="/girls-designer-clothing-department-c7/fuzzy-nation-m391"><span>Fuzzy Nation</span></a></li><li> <a href="/girls-designer-clothing-department-c7/dkny-m81"><span>DKNY</span></a></li><li> <a href="/girls-designer-clothing-department-c7/juicy-couture-m311"><span>Juicy Couture</span></a></li>                                <li> <a href="/brands/girls-designer-clothing-department-c7"><span style="color:#FFFFFF;"><strong>View All Brands...</strong></span></a></li>
+                              </ul>
+                            </td>
+                                                    </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+                        </li>
+                    <li class="header_menu_li_3">
+            <a class="header_menu_link header_menu_3" href="/kids-designer-clothes-department-c158" title="Kids&nbsp;Designer&nbsp;Clothes&nbsp;Department"><span>Kids&nbsp;Designer&nbsp;Clothes&nbsp;Department</span></a>
+                          <div class="menu-dropdown menu_drop_bg_3" style="width:auto;" onmouseover="$('.header_menu_3').addClass('hoverOver');" onmouseout="$('.header_menu_3').removeClass('hoverOver');">
+                <table cellpadding="0" cellspacing="0" class="menu-content">
+                  <tbody><tr>
+                    <td><p class="menu_titles">Shop By Product</p></td>
+                    <td><p class="menu_titles">Shop By Brand</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                      <ul class="menu-items">
+                        		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_1"><span class="category_navigation_group">Christmas Shop</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/it-s-party-time-c184" title="It's Party Time!"><span>It's Party Time!</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/gift-shop-c187" title="Gift Shop"><span>Gift Shop</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/toy-shop-c214" title="Toy Shop"><span>Toy Shop</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_2"><span class="category_navigation_group">Clothing</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/jumpers-and-cardigans-c167" title="Jumpers and Cardigans"><span>Jumpers and Cardigans</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/hoodies-and-sweatshirts-c164" title="Hoodies and Sweatshirts"><span>Hoodies and Sweatshirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/jackets-coats-c166" title="Jackets &amp; Coats"><span>Jackets &amp; Coats</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/jeans-c165" title="Jeans"><span>Jeans</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/chinos-c202" title="Chinos"><span>Chinos</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/shirts-c169" title="Shirts"><span>Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/t-shirts-c172" title="T Shirts"><span>T Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/polo-shirts-c168" title="Polo Shirts"><span>Polo Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/track-suits-tops-bottoms-c171" title="Track Suits - Tops &amp; Bottoms"><span>Track Suits - Tops &amp; Bottoms</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/underwear-c173" title="Underwear"><span>Underwear</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/accessories-c161" title="Accessories"><span>Accessories</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/shorts-and-swimwear-c170" title="Shorts and Swimwear"><span>Shorts and Swimwear</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_3"><span class="category_navigation_group">Footwear</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/shoes-and-boots-c162" title="Shoes and Boots"><span>Shoes and Boots</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/kids-designer-clothes-department-c158/casual-shoes-c163" title="Casual Shoes"><span>Casual Shoes</span></a></li>                      </ul>
+                    </td>
+                    <td valign="top">
+                      <table cellpadding="0" cellspacing="0" class="menu-content" border="0">
+                        <tbody><tr>
+                                                      <td valign="top">
+                              <ul class="menu-items menu-items-brands">
+                                <li> <a href="/kids-designer-clothes-department-c158/voi-m11"><span>Voi</span></a></li><li> <a href="/kids-designer-clothes-department-c158/levi-s-m82"><span>Levi's</span></a></li><li> <a href="/kids-designer-clothes-department-c158/ralph-lauren-m13"><span>Ralph Lauren</span></a></li><li> <a href="/kids-designer-clothes-department-c158/armani-junior-m76"><span>Armani Junior</span></a></li><li> <a href="/kids-designer-clothes-department-c158/vans-m67"><span>Vans</span></a></li><li> <a href="/kids-designer-clothes-department-c158/boss-m41"><span>BOSS</span></a></li><li> <a href="/kids-designer-clothes-department-c158/syot-m372"><span>syoT</span></a></li><li> <a href="/kids-designer-clothes-department-c158/happy-hopperz-m386"><span>Happy Hopperz</span></a></li><li> <a href="/kids-designer-clothes-department-c158/gant-m334"><span>Gant</span></a></li><li> <a href="/kids-designer-clothes-department-c158/calvin-klein-m50"><span>Calvin Klein</span></a></li><li> <a href="/kids-designer-clothes-department-c158/tommy-hilfiger-m9"><span>Tommy Hilfiger</span></a></li><li> <a href="/kids-designer-clothes-department-c158/diesel-m14"><span>Diesel</span></a></li><li> <a href="/kids-designer-clothes-department-c158/timberland-m80"><span>Timberland</span></a></li><li> <a href="/kids-designer-clothes-department-c158/fred-perry-m196"><span>Fred Perry</span></a></li><li> <a href="/kids-designer-clothes-department-c158/scotch-shrunk-m346"><span>Scotch Shrunk</span></a></li><li> <a href="/kids-designer-clothes-department-c158/stone-island-junior-m22"><span>Stone Island Junior</span></a></li><li> <a href="/kids-designer-clothes-department-c158/paul-smith-junior-m197"><span>Paul Smith Junior</span></a></li><li> <a href="/kids-designer-clothes-department-c158/baby-graziella-m186"><span>Baby Graziella</span></a></li><li> <a href="/kids-designer-clothes-department-c158/scream-m381"><span>Scream</span></a></li><li> <a href="/kids-designer-clothes-department-c158/converse-m1"><span>Converse</span></a></li>                                <li> <a href="/brands/kids-designer-clothes-department-c158"><span style="color:#FFFFFF;"><strong>View All Brands...</strong></span></a></li>
+                              </ul>
+                            </td>
+                                                    </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+                        </li>
+                    <li class="header_menu_li_4">
+            <a class="header_menu_link header_menu_4" href="/boys-designer-clothing-department-c6" title="Boys&nbsp;Designer&nbsp;Clothing&nbsp;Department"><span>Boys&nbsp;Designer&nbsp;Clothing&nbsp;Department</span></a>
+                          <div class="menu-dropdown menu_drop_bg_4" style="width:auto;" onmouseover="$('.header_menu_4').addClass('hoverOver');" onmouseout="$('.header_menu_4').removeClass('hoverOver');">
+                <table cellpadding="0" cellspacing="0" class="menu-content">
+                  <tbody><tr>
+                    <td><p class="menu_titles">Shop By Product</p></td>
+                    <td><p class="menu_titles">Shop By Brand</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                      <ul class="menu-items">
+                        		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_1"><span class="category_navigation_group">Christmas Shop</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/it-s-party-time-c183" title="It's Party Time!"><span>It's Party Time!</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/gift-shop-c186" title="Gift Shop"><span>Gift Shop</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/formalwear-c198" title="Formalwear"><span>Formalwear</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_2"><span class="category_navigation_group">Clothing</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/exclusive-to-boys-base-c155" title="Exclusive to Boys Base"><span>Exclusive to Boys Base</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/jumpers-cardigans-c38" title="Jumpers &amp; Cardigans"><span>Jumpers &amp; Cardigans</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/hoodies-sweatshirts-c85" title="Hoodies &amp; Sweatshirts"><span>Hoodies &amp; Sweatshirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/jackets-and-coats-c10" title="Jackets and Coats"><span>Jackets and Coats</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/jeans-c19" title="Jeans"><span>Jeans</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/chinos-c201" title="Chinos"><span>Chinos</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/shirts-c39" title="Shirts"><span>Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/t-shirts-c34" title="T Shirts"><span>T Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/polo-shirts-c37" title="Polo Shirts"><span>Polo Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/track-suits-tops-bottoms-c150" title="Track Suits: Tops &amp; Bottoms"><span>Track Suits: Tops &amp; Bottoms</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/underwear-c70" title="Underwear"><span>Underwear</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/accessories-c144" title="Accessories"><span>Accessories</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/shorts-and-swimwear-c33" title="Shorts and Swimwear"><span>Shorts and Swimwear</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_3"><span class="category_navigation_group">Footwear</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/shoes-boots-c11" title="Shoes &amp; Boots"><span>Shoes &amp; Boots</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/boys-designer-clothing-department-c6/casual-shoes-c174" title="Casual Shoes"><span>Casual Shoes</span></a></li>                      </ul>
+                    </td>
+                    <td valign="top">
+                      <table cellpadding="0" cellspacing="0" class="menu-content" border="0">
+                        <tbody><tr>
+                                                      <td valign="top">
+                              <ul class="menu-items menu-items-brands">
+                                <li> <a href="/boys-designer-clothing-department-c6/voi-m11"><span>Voi</span></a></li><li> <a href="/boys-designer-clothing-department-c6/levi-s-m82"><span>Levi's</span></a></li><li> <a href="/boys-designer-clothing-department-c6/ralph-lauren-m13"><span>Ralph Lauren</span></a></li><li> <a href="/boys-designer-clothing-department-c6/criminal-damage-m226"><span>Criminal Damage</span></a></li><li> <a href="/boys-designer-clothing-department-c6/ucla-m17"><span>UCLA</span></a></li><li> <a href="/boys-designer-clothing-department-c6/armani-junior-m76"><span>Armani Junior</span></a></li><li> <a href="/boys-designer-clothing-department-c6/base-fashion-m327"><span>Base Fashion</span></a></li><li> <a href="/boys-designer-clothing-department-c6/vans-m67"><span>Vans</span></a></li><li> <a href="/boys-designer-clothing-department-c6/boss-m41"><span>BOSS</span></a></li><li> <a href="/boys-designer-clothing-department-c6/gant-m334"><span>Gant</span></a></li><li> <a href="/boys-designer-clothing-department-c6/calvin-klein-m50"><span>Calvin Klein</span></a></li><li> <a href="/boys-designer-clothing-department-c6/tommy-hilfiger-m9"><span>Tommy Hilfiger</span></a></li><li> <a href="/boys-designer-clothing-department-c6/diesel-m14"><span>Diesel</span></a></li><li> <a href="/boys-designer-clothing-department-c6/timberland-m80"><span>Timberland</span></a></li><li> <a href="/boys-designer-clothing-department-c6/north-face-m377"><span>North Face</span></a></li><li> <a href="/boys-designer-clothing-department-c6/scotch-shrunk-m346"><span>Scotch Shrunk</span></a></li><li> <a href="/boys-designer-clothing-department-c6/stone-island-junior-m22"><span>Stone Island Junior</span></a></li><li> <a href="/boys-designer-clothing-department-c6/paul-smith-junior-m197"><span>Paul Smith Junior</span></a></li><li> <a href="/boys-designer-clothing-department-c6/delta-tribe-m368"><span>Delta Tribe</span></a></li><li> <a href="/boys-designer-clothing-department-c6/scream-m381"><span>Scream</span></a></li>                                <li> <a href="/brands/boys-designer-clothing-department-c6"><span style="color:#FFFFFF;"><strong>View All Brands...</strong></span></a></li>
+                              </ul>
+                            </td>
+                                                    </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+                        </li>
+                    <li class="header_menu_li_5">
+            <a class="header_menu_link header_menu_5" href="/mens-departments-at-base-fashion-c8" title="Mens&nbsp;Departments&nbsp;at&nbsp;Base&nbsp;Fashion"><span>Mens&nbsp;Departments&nbsp;at&nbsp;Base&nbsp;Fashion</span></a>
+                          <div class="menu-dropdown menu_drop_bg_5" style="width:auto;" onmouseover="$('.header_menu_5').addClass('hoverOver');" onmouseout="$('.header_menu_5').removeClass('hoverOver');">
+                <table cellpadding="0" cellspacing="0" class="menu-content">
+                  <tbody><tr>
+                    <td><p class="menu_titles">Shop By Product</p></td>
+                    <td><p class="menu_titles">Shop By Brand</p></td>
+                  </tr>
+                  <tr>
+                    <td valign="top">
+                      <ul class="menu-items">
+                        		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_1"><span class="category_navigation_group">Christmas Shop</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/ready-to-party-c181" title="Ready To Party"><span>Ready To Party</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/gift-shop-c185" title="Gift Shop"><span>Gift Shop</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_2"><span class="category_navigation_group">Clothing</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/jumpers-cardigans-c51" title="Jumpers &amp; Cardigans"><span>Jumpers &amp; Cardigans</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/hoodies-sweatshirts-c90" title="Hoodies &amp; Sweatshirts"><span>Hoodies &amp; Sweatshirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/jackets-coats-c17" title="Jackets &amp; Coats"><span>Jackets &amp; Coats</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/jeans-c20" title="Jeans"><span>Jeans</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/chinos-c200" title="Chinos"><span>Chinos</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/trousers-c193" title="Trousers"><span>Trousers</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/t-shirts-c32" title="T Shirts"><span>T Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/polo-shirts-c66" title="Polo Shirts"><span>Polo Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/shirts-c64" title="Shirts"><span>Shirts</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/tracksuits-and-onesies-c194" title="Tracksuits and Onesies"><span>Tracksuits and Onesies</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/jogging-bottoms-c105" title="Jogging Bottoms"><span>Jogging Bottoms</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/underwear-c62" title="Underwear"><span>Underwear</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/shorts-and-swimwear-c67" title="Shorts and Swimwear"><span>Shorts and Swimwear</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/accessories-c147" title="Accessories"><span>Accessories</span></a></li>		
+	                        		<li class="category_navigation_group_li category_navigation_group_li_3"><span class="category_navigation_group">Footwear</span></li>                     		                        		
+                        	         	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/shoes-boots-c30" title="Shoes &amp; Boots"><span>Shoes &amp; Boots</span></a></li>      	
+                           <li class="menu_categories">
+                           <a href="/mens-departments-at-base-fashion-c8/casual-shoes-c192" title="Casual Shoes"><span>Casual Shoes</span></a></li>                      </ul>
+                    </td>
+                    <td valign="top">
+                      <table cellpadding="0" cellspacing="0" class="menu-content" border="0">
+                        <tbody><tr>
+                                                      <td valign="top">
+                              <ul class="menu-items menu-items-brands">
+                                <li> <a href="/mens-departments-at-base-fashion-c8/voi-m11"><span>Voi</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/criminal-damage-m226"><span>Criminal Damage</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/jack-jones-m60"><span>Jack &amp; Jones</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/ucla-m17"><span>UCLA</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/base-fashion-m327"><span>Base Fashion</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/vans-m67"><span>Vans</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/calvin-klein-m50"><span>Calvin Klein</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/tommy-hilfiger-m9"><span>Tommy Hilfiger</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/timberland-m80"><span>Timberland</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/delta-tribe-m368"><span>Delta Tribe</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/selected-homme-m343"><span>Selected Homme</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/peter-werth-m117"><span>Peter Werth</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/bellfield-m374"><span>Bellfield</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/twoangle-m376"><span>TwoAngle</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/worn-by-m362"><span>Worn By</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/mustard-m392"><span>Mustard.</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/nike-m106"><span>Nike</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/two-stoned-m341"><span>Two Stoned</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/converse-m1"><span>Converse</span></a></li><li> <a href="/mens-departments-at-base-fashion-c8/the-spitalfields-co-m153"><span>The Spitalfields Co.</span></a></li>                                <li> <a href="/brands/mens-departments-at-base-fashion-c8"><span style="color:#FFFFFF;"><strong>View All Brands...</strong></span></a></li>
+                              </ul>
+                            </td>
+                                                    </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+                        </li>
+              <li class="header_menu_li_6"><a title="Sale" href="/sale" class="header_menu_link header_menu_6"><span>Sale</span></a></li>
+  </ul>
 </div>
+    </div>
+    <div id="header_second_menu_container_new">
+      <div id="breadcrumb_container"><div id="breadcrumb">
+<p>
+<a href="http://www.basefashion.co.uk/" title="Home">Home</a> › <a href="http://www.basefashion.co.uk/privacy-policy-i11" title="Privacy Policy">Privacy Policy</a></p>
+</div></div>
+      <div id="header_second_menu_new"><ul>
+	<!-- <li><a href="/blog" title="Blog" class="header_second_menu_0"><span>Blog</span></a></li> -->
+	<!-- <li><a href="/loyalty-scheme-i46" title="Loyalty Scheme" class="header_second_menu_1"><span>Loyalty Scheme</span></a></li> -->
+  <li><a href="/competitions" title="Competitions" class="header_second_menu_4"><span>Competitions</span></a></li>
+  <li><a href="/wishlist" title="Wishlist" class="header_second_menu_1"><span>Wishlist</span></a></li>
+  <li><a href="/gift_vouchers" title="Gift Vouchers" class="header_second_menu_2"><span>Gift Vouchers</span></a></li>
+  <li><a href="/contact-us-i3" title="Customer Service" class="header_second_menu_3"><span>Customer Service</span></a></li>
+  <!-- <li><a name="standard" class="header_second_menu_4" href="/register/" title="My Account"><span>My Account</span></a></li> -->
+  <li><a href="/map" title="Out Stores" class="header_second_menu_5"><span>Our Stores</span></a></li>
+</ul>
 </div>
-<!-- cascaded_content - end -->
+    </div>
+    <div id="header_search_home">
+      <form method="get" action="/search/">
+        <table cellpadding="0" cellspacing="0" summary="Search">
+          <tbody><tr>
+            <td valign="top">
+              <label for="query">Search</label><span><input id="query" name="query" type="text" class="search_textbox" value="Enter search here..." onclick="if(this.value == 'Enter search here...') { this.value='';}"></span>
+                          </td>
+            <td valign="top"><input type="image" src="/images/button_search_new.gif" alt="Find" class="search_btn" onclick="if(document.getElementById('query').value == 'Enter search here...') { document.getElementById('query').value='';}"></td>
+          </tr>
+        </tbody></table>
+      </form>
+    </div>
 
-</div>
-<!-- 1152/common/banner.html ======================END -->
-
-<!-- nav banner begin -->
-</div>
-<table id="body_table_contain" width="990" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td class="body_table" valign="top">
-
-<div id="banner_line">
-
-<!-- 1152/common/crumbtrail.html ==================BEGIN -->
-
-<div style="margin-left:5px;">
-<div id="crumbtrail" class="">
-<a href="/" class="crumbtrail_first">
-Where Was I?</a>  
--&nbsp;<a href="http://www.basefashion.co.uk/shop/information.html" class="crumbtrail_rest">Information</a> 
--&nbsp;<a href="http://www.basefashion.co.uk/shop/information/privacy-policy.html" class="crumbtrail_rest">Privacy Policy</a>
-</div>
-</div>
-
-<!-- 1152/common/crumbtrail.html ==================END -->
-
-
-
-<!-- ishop/common/searchbox.html ==================BEGIN -->
-
-<div id="searchbox">
-  <div class="searchbox_top"><span>Search</span></div>
-  <div class="searchbox_middle">
-  
-	<form name="searchbox" action="/shop/attributesearch" method="post">
-<input type="text" value="Search" onfocus="if (this.value=='Search'){this.value='';};" name="search_string" size="14" class="searchbox_string" onkeyup="return kusearch_string(event,this);" onkeydown="return kdsearch_string(event,this);" autocomplete="off">
-        <input type="submit" name="submit" value="Go" class="searchbox_submit">
-
-<div style="clear: both; position: relative;">
-<div id="searchbox_predictor"></div>
-</div>
-	</form>
 
   </div>
-  <div class="searchbox_bottom"></div>
+  <div id="body_container">
+    <div id="header_promos">
+  <div id="promo_unit_header_promo">
+			
+
+
+
+  
+        <span class="promo_unit_header_promo">
+                          <a href="https://www.basefashion.co.uk/christmas-i95" title="Christmas Exchange Policy" class="" name="standard">
+                  <img id="promo_unit_header_promo_0" src="/images/modules/promo_units/1352208441Christmas_sitewide.jpg" class="promo_unit" width="330" height="29" alt="Christmas Exchange Policy">
+        </a>
+              
+  
+              </span>
+    	
+  
+        <span class="promo_unit_header_promo">
+                          <a href="https://www.basefashion.co.uk/delivery-i17" title="Christmas Free delivery" class="" name="standard">
+                  <img id="promo_unit_header_promo_1" src="/images/modules/promo_units/1352208361Christmas_sitewide2.jpg" class="promo_unit" width="330" height="29" alt="Christmas Free delivery">
+        </a>
+              
+  
+              </span>
+    	
+  
+        <span class="promo_unit_header_promo">
+                          <a href="/syot-m372" title="Christmas Gift Shop" class="" name="standard">
+                  <img id="promo_unit_header_promo_2" src="/images/modules/promo_units/1352208377Christmas_sitewide3.jpg" class="promo_unit" width="330" height="29" alt="Christmas Gift Shop">
+        </a>
+              
+  
+              </span>
+    	
+
+  
+  </div>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+<div class="clear"></div>
 </div>
-
-<!-- ishop/common/searchbox.html ==================END -->
-
-
-<!-- ishop/common/basketbox.html ==================BEGIN -->
-
-<div id="basketbox">
-<div class="basketbox_top"><span>Basket</span></div>
-<div class="basketbox_middle">
-<span class="basketbox_items">Items: 0</span><span class="basketbox_value">Value: £0.00</span><span class="basketbox_checkout">Checkout</span></div>
-<div class="basketbox_bottom"></div>
-</div>
-
-<!-- ishop/common/basketbox.html ==================END -->
-
-
-</div>
-
-
-<!-- 1152/common/nav_top.html =====================BEGIN -->
-
-<div id="nav_top">
-<div class="nav_block nav_block_nav_top_boys_2_8 nav_block_first" onmouseover="nav_top_sub_menu('open','nav_block_subs_0','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_0','3');">
-<a class="nav_top_lvl1  first  nav_top_boys_2_8" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years.html">
-<span>Boys 2-8</span>
-</a>
-
-
-
-<div id="nav_block_subs_0" class="nav_block_subs">
-<a class="nav_top_lvl2  first  " href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/boys-2-to-8-sale.html">
-<span>Mid-Season Sale</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/jackets.html">
-<span>Jackets</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/jeans.html">
-<span>Jeans</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shoes.html">
-<span>Shoes</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shirts.html">
-<span>Shirts</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/t-shirts.html">
-<span>T-Shirts</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/sweaters-jumpers.html">
-<span>Tops</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/underwear.html">
-<span>Underwear</span>
-</a>
-<a class="nav_top_lvl2  first  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/accessories.html">
-<span>Accessories</span>
-</a>
-</div>
-
-
-</div>
-<div class="nav_block nav_block_nav_top_boys_10_16 " onmouseover="nav_top_sub_menu('open','nav_block_subs_1','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_1','3');">
-<a class="nav_top_lvl1    nav_top_boys_10_16" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years.html">
-<span>Boys 10-16</span>
-</a>
-
-
-
-<div id="nav_block_subs_1" class="nav_block_subs">
-<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/boys-summer-sale.html">
-<span>Mid-Season Sale</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jackets.html">
-<span>Jackets</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jeans.html">
-<span>Jeans</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shirts.html">
-<span>Shirts</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shoes.html">
-<span>Shoes</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/t-shirts.html">
-<span>T-Shirts</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/sweaters-jumpers.html">
-<span>Tops</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/underwear.html">
-<span>Underwear</span>
-</a>
-<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/accessories.html">
-<span>Accessories</span>
-</a>
-</div>
-
-
-</div>
-<div class="nav_block nav_block_nav_top_girls " onmouseover="nav_top_sub_menu('open','nav_block_subs_2','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_2','3');">
-<a class="nav_top_lvl1    nav_top_girls" href="http://www.basefashion.co.uk/shop/girls.html">
-<span>Girls</span>
-</a>
-
-
-
-<div id="nav_block_subs_2" class="nav_block_subs">
-</div>
-
-
-</div>
-<div class="nav_block nav_block_nav_top_mens " onmouseover="nav_top_sub_menu('open','nav_block_subs_3','3');" onmouseout="nav_top_sub_menu('close','nav_block_subs_3','3');">
-<a class="nav_top_lvl1   last nav_top_mens" href="http://www.basefashion.co.uk/shop/mens.html">
-<span>Mens</span>
-</a>
-
-
-
-<div id="nav_block_subs_3" class="nav_block_subs">
-<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/mens/summer-sale.html">
-<span>Mid-Season Sale</span>
-</a>
-<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/mens/accessories.html">
-<span>Accessories</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/jackets.html">
-<span>Jackets</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/jeans.html">
-<span>Jeans</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/shirts.html">
-<span>Shirts</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/shoes.html">
-<span>Shoes</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/t-shirts.html">
-<span>T-Shirts</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/sweaters-jumpers.html">
-<span>Tops</span>
-</a>
-<a class="nav_top_lvl2    hidden" href="http://www.basefashion.co.uk/shop/mens/underwear.html">
-<span>Underwear</span>
-</a>
-<a class="nav_top_lvl2    " href="http://www.basefashion.co.uk/shop/mens/watches.html">
-<span>Watches</span>
-</a>
-</div>
-
-
-</div>
-</div>
-<!-- 1152/common/nav_top.html =====================END -->
-
-
-</td>
-</tr>
-
-<tr>
-<td class="body_table" valign="top">
-<div class="columns">
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-<td class="empty"></td>
-<td class="page" rowspan="2" valign="top" width="100%">
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-<td class="body_table" valign="top">
-<!-- nav banner begin -->
-
-<!-- 1152/common/nav_banner.html ==================BEGIN -->
-
-
-<!-- 1152/common/nav_banner.html ==================END -->
-
-<div class="spacer"></div>
-<!-- nav banner begin -->
-</td>
-</tr>
-
-<!-- header section - begin -->
-<tr>
-<td class="sectionheader">
-
-
-<h1>Privacy Policy</h1>
-</td>
-</tr>
-<!-- header section - end -->
-
-<!-- promotions - begin -->
-<tr>
-<td class="promotions">
-
-<!-- ishop/navigation/promotions_default.html =====BEGIN -->
-
-<div id="promotions_default">
-<a href="http://www.basefashion.co.uk/shop/information/delivery-information?id=2.html" class="">
-<img src="/images/page/xmas_calling_last_orders.jpg" border="0" height="129" width="579" alt="XMAS : Calling Last Orders">
-</a>
-</div>
-<!-- ishop/navigation/promotions_default.html =====END -->
-
-</td>
-</tr>
-<!-- promotions - end -->
-
-<!-- page.upper_content - begin -->
-<tr>
-<td class="uppercontent">
-
-<p class="content_title">We Respect Your Privacy</p>
-
-<p>It is important to us at BASE that we protect your privacy when you shop
-online with us. The following information lets you know what data we collect and
-hold, and how we use it. If you have any questions relating to your privacy on
-this site you will find our contact details below.</p>
-
-<p class="content_title"></p><p class="content_title">HOW WE USE YOUR INFORMATION</p>
-<p>If you have any questions, please feel free to call or email us</p>
-
-<p>Customers are able to access our website without supplying any personal
-information, however if you would like to place an order with BASE online we need
-to collect information such as name, address, and credit card details so we can
-fulfil your request.</p>
-
-<ul>
-<li>We also request this information for newsletter sign ups and other
-promotional activities so we can let you know of any special offers, competitions
-and information which may be of interest to you. If you do not wish to receive
-these deals please unsubscribe from the emails or contact <a href="mailto:customerservice@basefashion.co.uk" class="content_email">Customer services</a> and write UNSUBSCRIBE in the subject
-title.</li>
-<li>To help improve our customers shopping experience we may obtain information
-about your use of our website.</li>
-<li>By submitting your personal details you are consenting to the use that has been
-outlined in this policy.</li>
-<li>Unless required by law to do so, we will not share your information with any
-third party without your consent.</li>
-
-<p class="content_title">SECURITY
-
-</p><li>Our site is compliant with the terms laid down by the UK Data Protection Act,
-which makes sure that your personal information is kept secure and processed
-lawfully.</li>
-<li>When you pay for your order by credit card our payment processing gateway has an
-active fraud prevention system in place to ensure that abnormal card transactions are
-picked up and can be dealt with. The information you provide may have to be used to
-check against the fraud prevention system and is only acted upon when your card
-safety is in question, and we will contact you if this is required.</li>
-<li>We have other security measures in place to protect the information you provide,
-and retain it for as long as is necessary to best serve our customers.</li>
-<li>You are entitled to see the information we hold about you, and are able to
-request that we make any changes to keep your information accurate and up to date. If
-you wish to do this please contact us. We would like to make you aware that we are
-entitled by law to charge a fee to make these changes.</li>
-<li>In some instances we will be required to share the information that you provide
-with other companies (for example credit card payments). When you initially sign up
-you are consenting to this action and any subsequent sharing of information that we
-need to execute your fulfil your requirements.</li>
-</ul>
-
-<br>
-<p>For any further information you require please contact us at: <a href="mailto:customerservice@basefashion.co.uk" class="content_email">Customer services</a></p>
-
-<p>
-<br>Or call us on:
-<br>(020) 8551 4455  ext 201
-<br> Fax us on:
-<br> (020) 8551 3344</p>
+  
+        
+  <div id="left_column" class="left_column_cms_menu">
+  
  
-<p>
-Unit 2 Woodford Trading Estate
-<br>Southend Rd
-<br>Woodford Green 
-<br>Essex
-<br>IG8 8HF
-</p>
+  
+  
+    <div id="catalog_navigation_wrapper" class="catalog_navigation">
+	  <div id="catalog_navigation" class="catalog_navigation ">
+                    <div id="default_navigation" class="default_navigation">
+  
+                                    <div class="default_catalog_navigation default_catalog_navigation_cms_pages default_catalog_navigation_div_3">
+            <ul>
+              <li class="default_catalog_navigation_title default_catalog_navigation_cms_pages_title default_catalog_navigation_cms_pages_title_3"><span>Browse New Template CMS Pages</span></li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_95"><a href="http://www.basefashion.co.uk/christmas-i95" title="Christmas" id="default_catalog_navigation_cms_pages_href_95"><span class="level1">Christmas</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_3"><a href="http://www.basefashion.co.uk/contact-us-i3" title="Contact Us" id="default_catalog_navigation_cms_pages_href_3"><span class="level1">Contact Us</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_17"><a href="http://www.basefashion.co.uk/delivery-i17" title="Delivery" id="default_catalog_navigation_cms_pages_href_17"><span class="level1">Delivery</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_52"><a href="http://www.basefashion.co.uk/returns-i52" title="Returns" id="default_catalog_navigation_cms_pages_href_52"><span class="level1">Returns</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_85"><a href="http://www.basefashion.co.uk/loyalty-scheme-i85" title="Loyalty Scheme" id="default_catalog_navigation_cms_pages_href_85"><span class="level1">Loyalty Scheme</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_83"><a href="http://www.basefashion.co.uk/about-us-i83" title="About Us" id="default_catalog_navigation_cms_pages_href_83"><span class="level1">About Us</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_90"><a href="http://www.basefashion.co.uk/faq-s-i90" title="FAQ's" id="default_catalog_navigation_cms_pages_href_90"><span class="level1">FAQ's</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_92"><a href="http://www.basefashion.co.uk/cookies-i92" title="Cookies" id="default_catalog_navigation_cms_pages_href_92"><span class="level1">Cookies</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_7"><a href="http://www.basefashion.co.uk/terms-conditions-i7" title="Terms &amp; Conditions" id="default_catalog_navigation_cms_pages_href_7"><span class="level1">Terms &amp; Conditions</span></a>                
+                  
+                  
+
+                                </li>
+                              <li class="default_catalog_navigation_link default_catalog_navigation_cms_pages_link " id="default_catalog_navigation_cms_pages_link_11"><a href="http://www.basefashion.co.uk/privacy-policy-i11" title="Privacy Policy" id="default_catalog_navigation_cms_pages_href_11"><span class="level1">Privacy Policy</span></a>                
+                  
+                  
+
+                                </li>
+                          </ul>
+          </div>
+              
+          
+  </div>
+
+  </div>
+</div>    
+      <div id="promo_unit_cms_left_menu_promo">
+	
 
 
 
+  
+        <span class="promo_unit_cms_left_menu_promo">
+                          <img id="promo_unit_cms_left_menu_promo_0" src="/images/modules/promo_units/1345027988need_help_promo.jpg" class="promo_unit" width="159" height="65" alt="Need Help - Customer care - 0208 551 3453">
+              
+  
+              </span>
+    	
 
+  
+  </div>
 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 
-</td>
-</tr>
-<!-- page.upper_content - end -->
-
-<!-- subsection thumbs - begin -->
-<!-- subsection thumbs - end -->
-
-<!-- product thumbs - begin -->
-<!-- product thumbs - end -->
-
-<!-- page.lower_content - begin -->
-<!-- page.lower_content - end -->
-
-<!-- product strip - begin -->
-<tr>
-<td>
-</td>
-</tr>
-<!-- product strip - end -->
-
-</tbody></table>
-
-</td>
-<td class="empty"></td>
-</tr>
-<tr>
-<td class="column_left" valign="top">
-
-<!-- 1152/common/column_left.html =================BEGIN -->
-
-<div id="column_left">
-
-
-<!-- 1152/common/nav_left.html ==========BEGIN -->
-
-<div id="nav_left_test">
-<div class="nav_left_test_top"><span>BROWSE our stock!</span></div>
-<div class="nav_left_test_middle">
-
- 
- 
- 
- 
-</div>
-<div class="nav_left_test_bottom"></div>
-</div>
-<!-- 1152/common/nav_left.html ==========END -->
-
-
-<div class="spacer"></div>
-
-
-<!-- 1152/common/nav_extra.html =========BEGIN -->
-
-
-<!-- 1152/common/nav_extra.html =========END -->
-
-
-</div>
-<!-- 1152/common/column_left.html =================END -->
-
-</td>
-<td class="column_right" valign="top">
-
-<!-- 1152/common/column_right.html ================BEGIN -->
-
-<div id="column_right">
-
-<div class="spacer"></div>
-
-
-<div class="spacer"></div>
-
-
-
-</div>
-
-<!-- 1152/common/column_right.html ================END -->
-
-</td>
-</tr>
-</tbody></table>
-</div>
-</td>
-</tr>
-<tr>
-<td class="body_table" valign="top">
-
-<!-- 1152/common/footer.html ======================BEGIN -->
-
-<div id="nav_footer">
- 
-<div class="row">
-<a class="nav_footer_lvl1  nav_top_boys_2_8" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years.html">
-<span>
-Boys 2-8</span>
-</a>
-
-<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/boys-2-to-8-sale.html">
-<span>
-Mid-Season Sale</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/jackets.html">
-<span>
-Jackets</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/jeans.html">
-<span>
-Jeans</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shoes.html">
-<span>
-Shoes</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/shirts.html">
-<span>
-Shirts</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/t-shirts.html">
-<span>
-T-Shirts</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/sweaters-jumpers.html">
-<span>
-Tops</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/underwear.html">
-<span>
-Underwear</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/kids-clothing-2-8-years/accessories.html">
-<span>
-Accessories</span>
-</a>
-</div>
- 
-<div class="row">
-<a class="nav_footer_lvl1  nav_top_boys_10_16" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years.html">
-<span>
-Boys 10-16</span>
-</a>
-
-<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/boys-summer-sale.html">
-<span>
-Mid-Season Sale</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jackets.html">
-<span>
-Jackets</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/jeans.html">
-<span>
-Jeans</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shirts.html">
-<span>
-Shirts</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/shoes.html">
-<span>
-Shoes</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/t-shirts.html">
-<span>
-T-Shirts</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/sweaters-jumpers.html">
-<span>
-Tops</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/underwear.html">
-<span>
-Underwear</span>
-</a>
-<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/boys-clothing-10-16-years/accessories.html">
-<span>
-Accessories</span>
-</a>
-</div>
- 
-<div class="row">
-<a class="nav_footer_lvl1  nav_top_girls" href="http://www.basefashion.co.uk/shop/girls.html">
-<span>
-Girls</span>
-</a>
-
-</div>
- 
-<div class="row">
-<a class="nav_footer_lvl1  nav_top_mens" href="http://www.basefashion.co.uk/shop/mens.html">
-<span>
-Mens</span>
-</a>
-
-<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/mens/summer-sale.html">
-<span>
-Mid-Season Sale</span>
-</a>
-<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/mens/accessories.html">
-<span>
-Accessories</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/jackets.html">
-<span>
-Jackets</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/jeans.html">
-<span>
-Jeans</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/shirts.html">
-<span>
-Shirts</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/shoes.html">
-<span>
-Shoes</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/t-shirts.html">
-<span>
-T-Shirts</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/sweaters-jumpers.html">
-<span>
-Tops</span>
-</a>
-<a class="nav_footer_lvl2  hidden" href="http://www.basefashion.co.uk/shop/mens/underwear.html">
-<span>
-Underwear</span>
-</a>
-<a class="nav_footer_lvl2  " href="http://www.basefashion.co.uk/shop/mens/watches.html">
-<span>
-Watches</span>
-</a>
+    
+    
+                                          </div>
+    <div id="middle_column_wide" class="middle_column_cms_menu">
+    <div id="header_promos">
 </div>
 
+<div class="site_box_header site_box_header_11"></div>
+<div id="privacy-policy" class="site_box cms_page">
+  <div class="site_box_content site_box_content_11 cms_padding" style="background:transparent url(/images/cms/1351526263Right-side-image.jpg) no-repeat scroll right top;">
+
+    <div class="site_box_content_extra_div">
+
+    
+    <script>
+    	$(document).ready(function() {
+    	$('#default_catalog_navigation_cms_pages_link_11').addClass('active')
+    	} );
+    </script>
+     <div id="new_cms_right">
+	     <div class="cms_page_header"><h1>Privacy Policy</h1></div>
+	     <div class="cms_page_text"><h2><span style="text-decoration: underline;">Privacy Policy</span></h2>
+<h2><span style="text-decoration: underline;">How We Use Your Information</span></h2>
+<p><span style="font-size: small;">It is important to us at BaseFashion.co.uk that we protect your privacy when you shop online with us. The following information lets you know what data we collect and hold, and how we use it. If you have any questions relating to your privacy on this site you will find our contact details below.<br><br>Customers are able to access our website without supplying any personal information, however if you would like to place an order with BASE online we need to collect information such as name, address, and credit card details so we can fulfil your request.<br><br>&nbsp;We also request this information for newsletter sign ups and other promotional activities so we can let you know of any special offers, competitions and information which may be of interest to you. </span></p>
+<p><span style="font-size: small;">If you do not wish to receive these deals please unsubscribe from the emails or contact Customer services and write UNSUBSCRIBE in the subject title.<br></span></p>
+<p><span style="font-size: small;">To help improve our customers shopping experience we may obtain information about your use of our website.<br><br>By submitting your personal details you are consenting to the use that has been outlined in this policy.<br><br>Unless required by law to do so, we will not share your information with any third party without your consent.<br><br><br></span></p>
+<h2><span style="text-decoration: underline;">Security</span></h2>
+<p><span style="font-size: small;">Our site is compliant with the terms laid down by the UK Data Protection Act, which makes sure that your personal information is kept secure and processed lawfully.<br><br>When you pay for your order by credit card our payment processing gateway has an active fraud prevention system in place to ensure that abnormal card transactions are picked up and can be dealt with. </span></p>
+<p><span style="font-size: small;">The information you provide may have to be used to check against the fraud prevention system and is only acted upon when your card safety is in question, and we will contact you if this is required.<br></span></p>
+<p><span style="font-size: small;">We have other security measures in place to protect the information you provide, and retain it for as long as is necessary to best serve our customers.<br><br>You are entitled to see the information we hold about you, and are able to request that we make any changes to keep your information accurate and up to date. If you wish to do this please contact us. We would like to make you aware that we are entitled by law to charge a fee to make these changes.<br><br>In some instances we will be required to share the information that you provide with other companies (for example credit card payments). When you initially sign up you are consenting to this action and any subsequent sharing of information that we need to execute your fulfil your requirements.<br></span></p>
+<p><span style="font-size: small;"><br>For futher information, please <a href="http://www.basefashion.co.uk/contact-us-i3">click here </a>to Contact Us.<br></span></p></div>
+    </div>
+    <div class="clear"></div>
+
+    
+      
+
+
+                        <div class="cms_continue_links"><br><p><strong>Continue Browsing</strong><br>Visit our <a href="/" title="homepage">homepage</a>.</p></div>
+              
+          </div>
+  </div>
 </div>
+<div class="site_box_footer"></div>  </div>
+  
+<div id="social_news_container">
+  <div id="footer_container_social_bottom">
+  <ul>
+  <li><a rel="me nofollow" href="http://www.facebook.com/pages/Base-Fashion/121314684607279" title="Facebook"><img src="/images/facebook_icon.gif" height="14" width="14" alt="Facebook"></a></li>
+  <li><a rel="me nofollow" href="http://www.twitter.com/basefashion" title="Twitter"><img src="/images/twitter_icon.gif" height="14" width="14" alt="Twitter"></a></li>
+  </ul>
+  </div>
+  <div id="footer_container_newsletter">
+  <form action="/newsletter/index" method="get" id="newsletter_signup">
+    <table cellpadding="0" cellspacing="0" summary="Search">
+      <tbody><tr>
+        <td valign="top"><label for="mailing_box">email</label><span><input id="mailing_box" name="email_address" type="text" class="footer_textbox" value="Enter your e-mail address..." onfocus="if(this.value=='Enter your e-mail address...') {this.value='';}"></span></td>
+        <td valign="top"><input name="subscribe" value="Subscribe" type="image" src="/images/button_join.gif" alt="Join" class="search_btn"></td>
+      </tr>
+    </tbody></table>
+  </form>
+</div></div>
 
 
+        <div class="clear"></div>
+              </div>
+      <div id="footer_container_spacer" class="div_spacer"></div>
+      
 
 
-
-
-
-
-
-
-
-<div id="footer">
-
-<!-- global.footer_inline - begin -->
-<a href="/shop/information/contact-us.html"> Contact Us - </a>
-<a href="/shop/information/about-us.html"> About Us - </a>
-<a href="/shop/information/returns-refunds.html"> Returns Policy - </a>
-<a href="/shop/information/delivery-information.html"> Delivery Info - </a>
-<a href="/shop/information/privacy-policy.html"> Privacy Policy - </a>
-<a href="/shop/information/terms-conditions.html"> Terms &amp; Conditions - </a>
-<a href="/shop/stores.html" class="footer_last">Stores</a><!-- global.footer_inline - end -->
+          <div id="footer_container_bottom_new">
+                        <div id="footer_txt">
+            Base Fashion men’s clothing collection includes brands from leading clothes labels including <a title="Voi Jeans" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/voi-m11" target="_blank">Voi</a>, <a title="UCLA Mens Clothing" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/ucla-m17" target="_blank">UCLA</a>, <a title="Tommy Hilfiger Denim Jeans" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/tommy-hilfiger-m9">Hilfiger jeans</a>, Peter Werth, <a title="Criminal Damage Mens Clothes" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/criminal-damage-m226" target="_blank">Criminal Damage</a>, Innercity, <a title="Jack and Jones Mens Clothing" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/jack-jones-m60" target="_blank">Jack and Jones</a> and many others. If you want something casual or something for a night out, Base is the place to shop online for all your menswear needs. Take a look at our collections of <a title="Mens Denim Jeans and Casual Trousers" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/jeans-trousers-c20" target="_blank">jeans</a>, <a title="Mens Crew and V-Neck Long Sleeve and Short SleeveT Shirts" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/t-shirts-tops-c32" target="_blank">t-shirts</a>, <a title="Mens Jumpers and Cardigans" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/jumpers-cardigans-c51" target="_blank">jumpers</a>, <a title="Mens Footwear - Sheos - Boots - Plimsoles" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/shoes-boots-c30">shoes </a>or <a title="Mens Hoodies - Hooded Tops and Sweatshirts" href="http://www.basefashion.co.uk/mens-at-base-fashion-c8/hoodies-sweatshirts-c90" target="_blank">Hoodies</a>.                          </div>
+            <div id="footer_page_links">
+              <h2>Quick Links</h2>
+              <div id="footer_container_links">
+  <div id="footer_container_links_1">
+    <div id="footer_cms_links">
+  <ul>
+              <li id="footer_cms_link_95"><a href="http://www.basefashion.co.uk/christmas-i95" title="Christmas">Christmas</a></li>
+                <li id="footer_cms_link_3"><a href="http://www.basefashion.co.uk/contact-us-i3" title="Contact Us">Contact Us</a></li>
+                <li id="footer_cms_link_17"><a href="http://www.basefashion.co.uk/delivery-i17" title="Delivery">Delivery</a></li>
+                <li id="footer_cms_link_52"><a href="http://www.basefashion.co.uk/returns-i52" title="Returns">Returns</a></li>
+                <li id="footer_cms_link_83"><a href="http://www.basefashion.co.uk/about-us-i83" title="About Us">About Us</a></li>
+                <li id="footer_cms_link_90"><a href="http://www.basefashion.co.uk/faq-s-i90" title="FAQ's">FAQ's</a></li>
+                <li id="footer_cms_link_92"><a href="http://www.basefashion.co.uk/cookies-i92" title="Cookies">Cookies</a></li>
+                <li id="footer_cms_link_7"><a href="http://www.basefashion.co.uk/terms-conditions-i7" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+              <li><a href="/sitemap/" title="Site Map">Site Map</a></li>
+  </ul>
+  </div>
+  </div>
 </div>
+            </div>
+            <div id="footer_right_new">
+              <div id="footer_trust">
+              <div id="trustpilot_logo"><a rel="nofollow" href="/testimonials" title="TrustPilot"></a></div>
+              <div id="trustpilot_star_rating">
+              <a rel="nofollow" href="http://www.trustpilot.com/review/www.basefashion.co.uk" title="Base Fashion on TrustPilot">
+              <div class="green"></div>
+              </a>
+              </div>
+                            <div class="tpc_widget" id="tp_widget">
+              <div class="tpc_bg"></div>
+              <div class="tpc_gradient"></div>
+              <div class="tpc_top">
+              <div class="tpc_top_left"></div>
+              <div class="tpc_top_center"><div class="tpc_top_img"></div></div>
+              <div class="tpc_top_right"></div>
+              </div>
+              <div class="tpc_rating">
+              <div class="tpc_rating_speaker"></div>
+              <div class="tpc_rating_bubble">
+              <div class="tpc_rating_startext"></div>
+              <div class="tpc_rating_star"></div>
+              <div class="tpc_rating_rating"></div>
+              </div>
+              <div class="tpc_rating_count"></div>
+              <div class="tpc_rating_counttext"></div>
+              <div class="tpc_rating_countlink">| <a rel="nofollow" href="http://www.trustpilot.com/review/www.basefashion.co.uk" title="Base Fashion on TrustPilot" onclick="this.target='_blank'">Review Now</a></div>
+              </div>
+              <ul class="tpc_review" id="tp_review">
+              <li class="tpc_review_review" id="tp_review_id">
+              </li>
+              </ul>
+              <div class="tpc_bottom">
+              <div class="tpc_bottom_hr"></div>
+              <div class="tpc_bottom_img"></div>
+              </div>
+              </div>
+                            <script type="text/javascript">
+              //<![CDATA[
+              (function($){$(document).ready(function()
+              {
+              var strURL = (('https:' == document.location.protocol) ? 'https://ssl' : 'http://trustbox') + '.trustpilot.com/w/basefashion.co.uk.js';
+              $.getScript(strURL, function ()
+              {
+              $('#tp_widget').show();
+              var iRating = $('.tpc_rating_rating').text().split('/')[0] * 10;
+              if (typeof iRating == 'number')
+              {
+              $('#trustpilot_logo, #trustpilot_star_rating').css({ display: 'inline-block' });
+              $('#trustpilot_star_rating .green').css('width', parseInt($('#trustpilot_star_rating .green').css('width')) * (iRating / 100));
+              $('#trustpilot_star_rating a').attr('title', $('#trustpilot_star_rating a').attr('title') + ' - ' + iRating + '% positive');
+              }
+              });
+              });}(jQuery))
+              //]]>
+              </script>
+              </div>
+            </div>
 
-<!-- 1152/common/footer.html ======================END -->
+            <div id="social_block">
+              <ul>
+                <li class="footer_block_facebook"><a rel="me nofollow" href="http://www.facebook.com/basefashion/app_441952072500830" title="Join us on Facebook" onclick="this.target='_blank'"><img src="/images/fb_icon_new.gif" alt="" height="37" width="87"></a></li>
+                <li class="footer_block_blog"><a href="/blog/" title="Blog" onclick="this.target='_blank'"><img src="/images/blog_icon_new.gif" alt="" height="37" width="87"></a></li>
+                <li class="footer_block_twitter"><a rel="me nofollow" href="http://twitter.com/basefashion" title="Follow us on Twitter" onclick="this.target='_blank'"><img src="/images/twitter_icon_new.gif" alt="" height="37" width="87"></a></li>
+                <li class="footer_block_rss"><a href="/rss/latest_products/en/" title="RSS Feeds"><img src="/images/rss_icon_new.gif" alt="" height="37" width="87"></a></li>
+              </ul>
+            </div>
+            <div class="clear"></div>
+            
+                        <div id="footer_btm">
+              <div class="sub_footer_links">
+              <ul>
+                <li>© Copyright 2012 Base Fashion</li>
+              </ul>
+              </div>
+              <div id="visualsoft"><p><a href="http://www.visualsoft.co.uk" title="e-Commerce">e-Commerce</a> by <img src="/images/ecommerce_visualsoft.gif" alt="e-Commerce by Visualsoft" title="e-Commerce by Visualsoft"></p></div>
+            </div>
+          </div>
 
-</td>
-</tr>
-</tbody></table>
 
-<a href="http://www.ishop-solutions.co.uk" class="copyright">Designed &amp; Powered by Ishop ltd</a>
-<!-- 1152/navigation/navigation_3column.html ================END -->
+
+       
 
 
 
-<!--
 
-10.228.102.226        0ts        0ts end
---></body></html>
+
+                      </div>
+
+    
+
+    
+    <script type="text/javascript">
+    <!--
+        initCurrency("GBP");
+        initVat();
+    -->
+    </script>
+
+<!-- Google Code for Visitor Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 978953455;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "LZ1LCOHMswMQ78nm0gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/978953455/?label=LZ1LCOHMswMQ78nm0gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+    <!--Loaded in 0.4134 seconds, using 9.48MB of memory. Generated by vsCommerce v3.3.11-->
+    <!-- vs_status_checker: 1 -->
+    <div id="preview_div"></div>
+  
+
+</body></html>
