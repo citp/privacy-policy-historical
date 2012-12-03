@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyjobs.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508135340id_/http%3A//moneyjobs.com/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyjobs.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203160457id_/http%3A//www.moneyjobs.com/en-us/s/privacy) for the most accurate reproduction.*
 
-# MoneyJobs.com
+# MoneyJobs - the #1 site for finance and accounting jobs.
 
 CareerBuilder, LLC and its subsidiaries and divisions (collectively, “CareerBuilder”, “We” or “Our”) has drafted its Privacy Policy to ensure that you can use CareerBuilder’s sites on your own terms and completely anonymously if you so desire. CareerBuilder continues to strive to provide the safest possible environment for you to search for and apply to jobs.
 
