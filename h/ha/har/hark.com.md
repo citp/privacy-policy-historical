@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the hark.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204003047id_/http%3A//www.hark.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy - Hark
+
+You care about your privacy. We care about your privacy. In fact, we care so much that we have this Privacy Policy to prove it. And we didn't just create this policy and stop there. We're also complying with it. We're also looking at suggestions from other users for how we might improve this policy - but we're keeping those suggestions private.
+
+## Personal Information
+
+**Non-Account Activity.** You can listen to sounds on Hark without having a Hark Account. (You can start right now.) You can also contact us about a particular soundclip without having a Hark Account. You can send us e-mail, flowers or iPods without a Hark account.
+
+**Account-Related Activity.** Certain other activities on Hark-like uploading soundclips, posting comments, flagging soundclips, or watching certain soundclips - require you to have a Hark Account. Doing all of this stuff is still free of charge so we still think it's a good deal. We ask for some personal information when you create a Hark Account, including your email address and a password, which is used to protect your account from unauthorized access. 
+
+**Usage Information.** We may record information about your usage, such as when you use Hark and favorites you subscribe to, the contacts you communicate with, the soundclips you lilsten to, and the frequency and size of data transfers, as well as information you display or click on in Hark (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. 
+
+**Content Uploaded to Site.** Any personal information or audio content that you voluntarily disclose on our site (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
+
+## Uses
+
+If you submit personally identifiable information to us on Hark, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of Hark, and to process any flagging activity or correspondence you send to us.
+
+Your account name (but not your e-mail address or pictures from your last vacation) is displayed to other Users when you upload soundclips or send messages through Hark. Any soundclips that you submit to the Hark Sites may be redistributed through the Internet (yes, we have learned how to distribute sound through the Internet) and other media channels, and may be viewed by the general public (including, quite possibly, by your own mother). 
+
+We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for our own non-marketing or administrative purposes (such as notifying you of major Hark Site changes or for customer service purposes).
+
+We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Hark Sites and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications. (Do you think every great idea for how to improve the site came from the people on our "About Us" page? You wouldn't think that if you met them all.)
+
+We use cookies and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Hark Sites (we're very conscious of the many demands on your time); (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+
+## Third-party Advertisers, Links to Other Sites
+
+Hark allows other companies, called third-party ad servers or ad networks, to serve advertisements on Hark. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Hark. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+
+## More Information
+
+For more information about our privacy practices, please e-mail us at [support@hark.com.](mailto:support@hark.com)
