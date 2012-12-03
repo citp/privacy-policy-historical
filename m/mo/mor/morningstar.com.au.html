@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625150705id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203060926id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Privacy - Morningstar.com.au</title>
-
+        
         <!-- START default adzones -->    
         <script type="text/javascript">
             var OA_zones = {
@@ -44,6 +44,7 @@
             <meta name="googlebot" content="NOODP">
             <meta name="description" content="Morningstar provides investment research for stocks, funds, ETF's, hybrids, and LIC's as well as financial data, news, and investing articles and videos.">
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <meta name="viewport" content="width=device-width">
         <!-- END Meta tags -->
 
         <!-- START Link tags -->
@@ -51,8 +52,8 @@
                     <link rel="stylesheet" type="text/css" href="/Content/css/master.css">
             
                 <link rel="SHORTCUT ICON" href="/Content/images/favicon.ico">
-                <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-screen.css" type="text/css" media="screen">
-                <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-print.css" type="text/css" media="print">
+                <!-- <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-screen.css" type="text/css" media="screen" />
+                <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-print.css" type="text/css"  media="print" /> -->
                 <link rel="stylesheet" type="text/css" href="/Content/css/jtip.css">
         <!-- END Link tags -->    
         
@@ -65,7 +66,7 @@
             <script type="text/javascript" src="/Content/scripts/jQuery/jquery.js"></script>
             <script type="text/javascript" src="http://ads.morningstar.com.au/www/delivery/spcjs.php"></script>
             <script type="text/javascript" src="/Content/scripts/highcharts/js/highcharts.js"></script>
-            <script type="text/javascript" src="/Content/scripts/sifr/sifr.js"></script>
+            <!-- <script type="text/javascript" src="/Content/scripts/sifr/sifr.js"></script> -->
         <!-- END Script tags -->
         
         <!-- START style tags -->
@@ -83,13 +84,19 @@
           
     </head>
 
-    <body onload="setFocus()">
+    <body>
         <div id="wrapper">
             
+        <script type="text/javascript" language="javascript">
+            function setFocus() {
+                document.getElementById("ASXCode").focus();
+            }
+        </script>
+
                     <div id="header">
                         <div id="logo">
                             <a href="http://www.morningstar.com.au/">
-                            <img src="http://www.morningstar.com.au/Content/images/top_logo.jpg" alt="Morningstar"></a>
+                            <img onload="setFocus()" src="http://www.morningstar.com.au/Content/images/top_logo.jpg" alt="Morningstar"></a>
                         </div>
                         <div class="Quotes_Search">
                             <form id="CodeSearch" action="/Search/Quote" method="post" class="forminput">
@@ -126,7 +133,7 @@
                     </div>
             
         
-        <!-- Hide/Show ad zones -->        
+        <!--  Hide/Show ad zones  -->        
         <script type="text/javascript">
             $(document).ready(function() { 
                 if ($('#BannerAd').children().size() > 3) {
@@ -141,7 +148,6 @@
                 }
             });
         </script>         
-        
         
 
 
@@ -171,6 +177,24 @@
                 </noscript>
             </div>
         </div>
+        
+        <!-- Hide/Show ad zones -->        
+        <script type="text/javascript">
+            if ($('#BannerAd').children().size() > 3) 
+            {
+                $('#adholder').removeClass("show");
+                $('#adholder').addClass("hide");
+                $('#adcontainsm').removeClass("hide");
+                $('#adcontainsm').addClass("show");
+            }
+            else 
+            {
+                $('#adholder').removeClass("show");
+                $('#adholder').addClass("hide");
+            }
+        </script>         
+
+        
 
             
 
@@ -276,7 +300,7 @@
         
                     <a class="leftNavItemFree" href="/Stocks/Huntleys">Introducing YMW</a>                  
         
-                    <a class="leftNavItemPremium" href="/Stocks/YMW">YMW Issue 23</a>                  
+                    <a class="leftNavItemPremium" href="/Stocks/YMW">YMW Issue 46</a>                  
         
                     <a class="leftNavItemFreeRegisteredVisible" href="/Stocks/YMW/Archive">Newsletter Archive</a>                  
         
@@ -349,7 +373,7 @@
         
                     <a class="leftNavItemFreeRegistered" href="/Funds/MorningstarRatings">Star Ratings Limitations</a>                  
         
-                    <a class="leftNavItemPremium" href="/funds/article/fund-times/4890">Fund Times</a>                  
+                    <a class="leftNavItemPremium" href="/funds/article/fund-times/5167">Fund Times</a>                  
         
                     <a class="leftNavItemPremium" href="/Funds/TimesArchive">Fund Archive</a>                  
         
@@ -468,7 +492,7 @@
         
                     <a class="leftNavItemFree" href="/About/Help">Help</a>                  
         
-                    <a class="leftNavItemFree" href="/About/Privacy">Privacy Policy</a>                  
+                        <a style="color: White;" class="leftNavItemFree highlight" href="/About/Privacy">Privacy Policy</a>
         
                     <a class="leftNavItemFree" href="/About/Terms">Terms and Conditions</a>                  
         
@@ -478,6 +502,8 @@
     $(document).ready(function() {
         $('a[href$=CurrentRecommendations]').removeClass("leftNavItemPremium");
         $('a[href$=CurrentRecommendations]').addClass("leftNavItemNewPremium");
+        $('a:contains(Latest Research Report)').removeClass("leftStockReportsNavselectPrem");
+        $('a:contains(Latest Research Report)').addClass("leftStockReportsNavselectPremNew");
     });
 </script>
 
@@ -544,7 +570,7 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
  
 </div>
         <div class="GenericPrintFooter">
-            For print version please click print icon&nbsp;|&nbsp;<a target="_blank" href="http://www.morningstar.com.au/about.mvc/privacy/Print"><img style="vertical-align: bottom; cursor:hand;" src="/Content/images/Icon_Printer_3.gif"></a>
+            For print version please click print icon&nbsp;|&nbsp;<a target="_blank" href="http://www.morningstar.com.au/About.mvc/Privacy/Print"><img style="vertical-align: bottom; cursor:hand;" src="/Content/images/Icon_Printer_3.gif"></a>
         </div>
     </div>
 
@@ -605,19 +631,15 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
 
         
 
-        <!--START Page wide javascript goes here -->
+        <!-- START Page wide javascript goes here  -->
         <script src="/Content/scripts/AutoPriceAjax.js" type="text/javascript"></script>
         <script src="/Content/scripts/TickerComplete.js" type="text/javascript"></script>
         
-        <script type="text/javascript" language="javascript">
-            function setFocus() {
-                document.getElementById("ASXCode").focus();
-            }
-        </script>
         <script type="text/javascript">
             //for TickerComplete.js
             var SiteRoot = "/NewPort";
             var Morningstar1 = {src: '/Content/scripts/sifr/Morningstar1.swf'};
+            //var Morningstar1 = "";
             sIFR.activate(Morningstar1);
             sIFR.replace(Morningstar1, {selector: 'h2.cpost-title',css: ['.sIFR-root { font-size: 18px; font-weight: bold; color: #000000; }'],wmode: 'transparent'});
         </script>
@@ -813,7 +835,7 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
         
         
         <!-- Morningstar Build -->
-        <!-- MORNINGSTARAUWEBSITE-QA-942 (Revision: ${custom.svn.revision.number}) -->
+        <!-- MORNINGSTARAUWEBSITE-QA-1023 (Revision: ${custom.svn.revision.number}) -->
         
         
     
