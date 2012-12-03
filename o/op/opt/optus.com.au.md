@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optus.com.au privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019094103id_/https%3A//www.optus.com.au/portal/site/aboutoptus/menuitem.813c6f701cee5a14f0419f108c8ac7a0/%3Fvgnextoid%3D0aaba47491954010VgnVCM10000029a67c0aRCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optus.com.au privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203202445id_/http%3A//www.optus.com.au/portal/site/aboutoptus/menuitem.813c6f701cee5a14f0419f108c8ac7a0/%3Fvgnextoid%3D0aaba47491954010VgnVCM10000029a67c0aRCRD) for the most accurate reproduction.*
 
 # Optus - About Optus - Privacy Policy
 
@@ -57,8 +57,9 @@ iv) if the individual Opts Out of all Direct Marketing the Opt Out will be respe
 3.4 Optus will take reasonable steps to ensure that its contracts with third parties include requirements for third parties to comply with the Use and Disclosure requirements of the Privacy Act.  
 3.5 Optus may Disclose Personal Information to law enforcement agencies, government agencies, courts or external advisers where permitted or required by law.  
 3.6 Optus may Disclose Personal Information to avoid an imminent threat to a person's life or to public safety.  
-3.7 If a Disclosure is not for a Primary Purpose; is not for a related Secondary Purpose; or upfront consent has not been obtained, Optus will not Disclose Personal Information otherwise than in accordance with the exceptions set out at 3.1 to 3.6 above.  
-3.8 Optus does not generally sell or share its customer lists on a commercial basis with third parties but if it did, it would only do so if we had the appropriate consent of the individual involved. If the consent provided is conditional, Optus will take steps to ensure (by contract) that the use of its customer list by third parties does not exceed the scope of the consent.
+3.7 Optus may Disclose Personal Information to third parties involved in the sale or transfer of assets of the business including unpaid debts.  
+3.8 If a Disclosure is not for a Primary Purpose; is not for a related Secondary Purpose; or upfront consent has not been obtained, Optus will not Disclose Personal Information otherwise than in accordance with the exceptions set out at 3.1 to 3.6 above.  
+3.9 Optus does not generally sell or share its customer lists on a commercial basis with third parties but if it did, it would only do so if we had the appropriate consent of the individual involved. If the consent provided is conditional, Optus will take steps to ensure (by contract) that the use of its customer list by third parties does not exceed the scope of the consent.
 
 **4\. Information quality**
 
@@ -149,7 +150,7 @@ Use means the handling of Personal Information within Optus.
 
 If you require further information regarding Optus' Privacy Policy, you can contact Optus Customer Service Centre on:
 
-Telephone: **133 345**  
+Telephone: **1800 780 219**  
 TTY: **1800 500 002**  
 TTY (mobile): **1800 123 124  
 **  
