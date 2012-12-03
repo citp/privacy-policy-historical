@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyfailed.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603193307id_/http%3A//www.theyfailed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyfailed.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203143250id_/http%3A//www.theyfailed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheyFailed.com – The Ultimate FAIL / WIN website
 
@@ -40,6 +40,12 @@ We implement a variety of security measures to maintain the safety of your perso
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the advertising opt-out page.
+
+
 
 **Do we disclose any information to outside parties?**
 
