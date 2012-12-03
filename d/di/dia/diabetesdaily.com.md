@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620161628id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203093538id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Diabetes Daily
+# Privacy Policy
 
 DiabetesDaily.com is committed to protecting your private information. Here are our policies in plain English.  
   
