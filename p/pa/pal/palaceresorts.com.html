@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the palaceresorts.com privacy policy that was archived on 2012-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613172018id_/http%3A//www.palaceresorts.com/privacypolicy-en.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the palaceresorts.com privacy policy that was archived on 2012-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121203031049id_/http%3A//www.palaceresorts.com/privacypolicy-en.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy | Palace Resorts | Mexico</title>
 	<meta name="description" content="Privacy Policy for Palace Resorts in Mexico &amp; Dominican Republic.">
 	<meta name="copyright" content="">
 	<meta name="publisher" content="">
-	
+
+	<meta name="viewport" content="width=device-width, initial-scale=0.75, target-densityDpi=device-dpi">
+
 	<meta http-equiv="Content-Style-Type" content="text/css">
 	<meta http-equiv="Content-Script-Type" content="text/javascript">
 
@@ -45,7 +47,8 @@
 	<!--<![endif]-->
 
 	<!-- BEGIN: ADDED HEADER CONTENT -->
-	<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.palaceresorts.com/condor/js/essentials.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.palaceresorts.com/condor/modules/contentApproval/style.contentApproval.css">
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.palaceresorts.com/condor/js/essentials.js"></script>
 	<script type="text/javascript">
 	//<![CDATA[
 		condor.siteBaseHREF 	= 'http://www.palaceresorts.com/';
@@ -53,6 +56,7 @@
 		condor.condorBaseHREF 	= 'http://www.palaceresorts.com/condor/';
 		condor.currentLanguage  = 'en';
 		condor.dataSection      = 'palaceresorts';
+		condor.canApprove = false;
 	//]]>
 	</script>
 <link rel="stylesheet" type="text/css" href="http://www.palaceresorts.com/templates/group/css/global.defaults.css">
@@ -63,16 +67,16 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://www.palaceresorts.com/templates/group/libs/jquery/jquery.easing-1.3.pack.js"></script>
 <script type="text/javascript" src="http://www.palaceresorts.com/templates/group/libs/jquery/cycle/jquery.cycle.all.min.js?mergeFile=_none"></script>
-<script type="text/javascript" src="http://www.palaceresorts.com/templates/group/libs/jquery/jquery-ui-1.8.14.custom.min.js"></script>
+<script type="text/javascript" src="http://www.palaceresorts.com/templates/group/libs/jquery/jquery-ui-1.8.21.custom.min.js"></script>
 <script type="text/javascript" src="http://www.palaceresorts.com/templates/group/libs/jquery/jcarousellite_1.0.1.min.js?mergeFile=_none"></script>
-<link rel="stylesheet" type="text/css" href="http://www.palaceresorts.com/templates/group/libs/jquery/jquery-datepicker/jquery-ui-1.8.14.custom.css?mergeFile=global">
-<script type="text/javascript" src="http://www.palaceresorts.com/templates/group/libs/jquery/jquery-datepicker/lang/jquery.ui.datepicker-en-GB.js?mergeFile=_none"></script>
+<script type="text/javascript" src="http://www.palaceresorts.com/condor/modules/imageSwitch/javascript.imageSwitch.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.palaceresorts.com/condor/modules/imageSwitch/style.imageSwitch.css">
 <script type="text/javascript" src="http://www.palaceresorts.com/condor//modules/googleAnalytics/javascript.googleAnalytics.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.palaceresorts.com/condor/modules/contentBlocks/themes/default/template.blockCollection.css?mergeFile=_page">
 
 
 	<!-- END: ADDED HEADER CONTENT -->
-	
+
 	
 <script type="text/javascript">
 //<![CDATA[
@@ -89,14 +93,17 @@
 		if(jQuery().datepicker){
 			jQuery(".date-format-helpers").remove();
 		}
-		
+
+		var fifTeen = new Date(); 
+		fifTeen.setDate( fifTeen.getDate() + 15 );
+
 		var dates = jQuery('#date-in, #date-out').datepicker({
 			dateFormat: "mm/dd/yy",
 			showOn: "both",
 			buttonImage: "http://www.palaceresorts.com/templates/group/images/calendar.gif",
 			buttonImageOnly: true,
 			buttonText:"Choose date",
-			minDate:new Date(),
+			minDate:fifTeen,
 			onSelect: function( selectedDate ) {
 				var option = this.id == "date-in" ? "minDate" : "maxDate",
 					instance = $( this ).data( "datepicker" ),
@@ -302,7 +309,6 @@
 			}); 
 			/* End - Socialmedia links hover effect */
 			
-						
 			/* Start Open a new window */
 				jQuery("#main-menu ul li:first.has-submenu ul li a, .shortcuts li a.popup").click(function(){
 					this.setAttribute('target','_blank');
@@ -316,10 +322,22 @@
 //]]>
 </script>
 	<script type="text/javascript">
-//<![CDATA[
+	//<![CDATA[
 	var _gaq = _gaq || [];
-	_gaq.push(['default._setAccount', 'UA-1321278-2'], ['default._setDomainName', '.palaceresorts.com'], ['default._setAllowLinker', true], ['default._setAllowHash', false], ['default._trackPageview', '/privacypolicy-en.html']);
-
+	_gaq.push(['default._setAccount', 'UA-1321278-2'], ['default._setDomainName', '.palaceresorts.com'], ['default._setAllowLinker', true], ['default._setAllowHash', false], ['default._setCustomVar', 5, 'tc', 'ih_______-cms_1206-cty_XXXXX-ctr_Mexico-typ_XXXXX-cat_XXXXX', 3], ['default._trackPageview', '/privacypolicy-en.html']);
+	
+	if(!window._masterAnalytics){
+			_gaq.push(
+			['master._setAccount', 'UA-32962968-1'],
+			['master._setDomainName', 'none'],
+			['master._setAllowLinker', true],
+			['master._setAllowHash', false],
+			['master._setCustomVar', 5, 'tc', 'ih_______-cms_1206-cty_XXXXX-ctr_Mexico-typ_XXXXX-cat_XXXXX', 3],
+			['master._trackPageview']
+		);
+			window._masterAnalytics = true;
+	}
+	
 	(function() {
 		if (!window._gaScriptLoaded) {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -328,7 +346,7 @@
 			window._gaScriptLoaded = true;
 		}
 	})();
-//]]>
+	//]]>
 </script>
 
 		<!-- Omniture Tracking -->
@@ -353,9 +371,9 @@ s.t();
 	<script>
 	  DD_belatedPNG.fix('.sidemenu ul li.selected, div#availability-checker, div#availability-checker button, div#offers, div#newsletter form input.go, div#search .siteSearchBtn, div#hotel-list, div.blockCollection .accordionTitle, div.blockCollection .expanded .accordionTitle, div#ui-datepicker-div, div#main-visual .rotating-panel .wedding-rotator ul li .readmore a, div#main-visual .rotating-panel .wedding-rotator .offers-pager a, div#main-visual .rotating-panel .wedding-rotator .offers-pager a.activeSlide, div#resorts, div.resort-wrapper, #palacelogo img#logo-footer, .video-content img#video-arrow');
 	</script>
-	<![endif]-->	
-	
-	
+	<![endif]-->
+
+
 	<!-- ANTI-MSIE FEATURES -->
 	<meta name="MSSmartTagsPreventParsing" content="true">
 	<meta http-equiv="imagetoolbar" content="no"></head>
@@ -377,7 +395,7 @@ s.t();
 	<div id="languages">
 		<h2></h2>
 		<ul dir="ltr">
-			<li class="item2 last active"><a href="http://www.palaceresorts.com/privacypolicy-es.html" title="Español">Español</a></li>
+			<li class="item2 last active"><a href="http://www.palaceresorts.com/privacypolicy-es.html" title="español">español</a></li>
 </ul>
 	</div>
 
@@ -409,7 +427,7 @@ s.t();
 					<ul class="hotelcontent cancun">
 			<li class="hotelcontentlist">
 				<h3>cancun, mexico</h3>			<ul class="">
-						<li class="beachpalace "><a href="&#9;&#9; http://www.palaceresorts.com/beachpalace/default-en.html" target="_blank">Beach Palace</a></li>				<li class="cancunpalace "><a href="&#9;&#9; http://www.palaceresorts.com/cancunpalace/default-en.html" target="_blank">Cancun Palace</a></li>				<li class="moonpalace "><a href="&#9;&#9; http://www.palaceresorts.com/moonpalace/default-en.html" target="_blank">Moon Palace Golf and Spa Resort</a></li>				<li class="sunpalace "><a href="&#9;&#9; http://www.palaceresorts.com/sunpalace/default-en.html" target="_blank">Sun Palace</a></li>				<li><a href="http://leblancsparesort.com">Le Blanc Spa Resort<br></a></li>
+						<li class="moonpalace "><a href="&#9;&#9; http://www.palaceresorts.com/moonpalace/default-en.html" target="_blank">Moon Palace</a></li>				<li class="beachpalace "><a href="&#9;&#9; http://www.palaceresorts.com/beachpalace/default-en.html" target="_blank">Beach Palace</a></li>				<li class="sunpalace "><a href="&#9;&#9; http://www.palaceresorts.com/sunpalace/default-en.html" target="_blank">Sun Palace</a></li>				<li><a href="http://leblancsparesort.com">Le Blanc Spa Resort<br></a></li>
 			</ul>
 		</li>
 		</ul>				<ul class="hotelcontent cozumel">
@@ -418,22 +436,10 @@ s.t();
 						<li class="cozumelpalace "><a href="&#9;&#9; http://www.palaceresorts.com/cozumelpalace/default-en.html" target="_blank">Cozumel Palace</a></li>				<li><a href=""></a></li>
 			</ul>
 		</li>
-		</ul>				<ul class="hotelcontent rivieramaya">
+		</ul>				<ul class="hotelcontent playacar">
 			<li class="hotelcontentlist">
-				<h3>riviera maya , mexico</h3>			<ul class="">
-						<li class="aventuracove "><a href="&#9;&#9; http://www.palaceresorts.com/aventuracove/default-en.html" target="_blank">Aventura Cove Palace</a></li>				<li class="aventuraspa "><a href="&#9;&#9; http://www.palaceresorts.com/aventuraspa/default-en.html" target="_blank">Aventura Spa Palace</a></li>				<li class="playacarpalace "><a href="&#9;&#9; http://www.palaceresorts.com/playacarpalace/default-en.html" target="_blank">Playacar Palace playa del Carmen</a></li>				<li><a href=""></a></li>
-			</ul>
-		</li>
-		</ul>				<ul class="hotelcontent rivieranayarit">
-			<li class="hotelcontentlist">
-				<h3>riviera nayarit, mexico</h3>			<ul class="">
-						<li class="vallartapalace "><a href="&#9;&#9; http://www.palaceresorts.com/vallartapalace/default-en.html" target="_blank">Vallarta Palace Puerto Vallarta</a></li>				<li><a href="http://www.palaceresorts.com/playacarpalace/"></a></li>
-			</ul>
-		</li>
-		</ul>				<ul class="hotelcontent puntacana">
-			<li class="hotelcontentlist">
-				<h3></h3>			<ul class="">
-						<li><a href="http://www.palaceresorts.com/vallartapalace/"></a></li>
+				<h3>Playa del Carmen</h3>			<ul class="">
+						<li class="playacarpalace "><a href="&#9;&#9; http://www.palaceresorts.com/playacarpalace/default-en.html" target="_blank">Playacar Palace</a></li>				<li><a href=""></a></li>
 			</ul>
 		</li>
 		</ul>				<ul class="hotelcontent islamujeres">
@@ -448,7 +454,7 @@ s.t();
 	<!--[if IE]><div class="ie-wrapper"><![endif]-->
 	<div id="main-menu" class="menu">
 		<h2></h2>
-		<ul class="shortcuts"><li class="shortcut1 item1 itemr10 level1 default"><a href="http://www.palaceresorts.com/default-en.html">Tours</a></li><li class="shortcut2 item2 itemr9 level1 resorts"><a>resorts &amp; <br>destinations</a></li><li class="shortcut3 item3 itemr8 level1 spa_golf has-submenu"><a href="http://www.palaceresorts.com/spa-en.html">Spa &amp; Golf</a><ul class="menuLevel2"><li class="shortcut3-1 item1 itemr2 level2 spa"><a href="http://www.palaceresorts.com/spa-en.html">Spa</a></li><li class="shortcut3-2 item2 itemr1 level2 golf last"><a href="http://www.palaceresorts.com/golf-en.html">Golf</a></li></ul></li><li class="shortcut4 item4 itemr7 level1 pamperingincluded"><a href="http://www.palaceresorts.com/pamperingincluded-en.html">what's<br>included</a></li><li class="shortcut5 item5 itemr6 level1 findresorts"><a href="http://www.palaceresorts.com/findresorts-en.html">find the best<br>resort</a></li><li class="shortcut6 item6 itemr5 level1 activities"><a href="http://www.palaceresorts.com/activities-en.html">family<br>connection</a></li><li class="shortcut7 item7 itemr4 level1 wedding has-submenu"><a href="http://www.palaceresorts.com/wedding-en.html">weddings &amp;<br>honeymoons</a><ul class="menuLevel2"><li class="shortcut7-1 item1 itemr2 level2 weddings"><a href="http://weddings.palaceresorts.com/" class="popup">Weddings</a></li><li class="shortcut7-2 item2 itemr1 level2 honeymoons last"><a href="http://www.palaceresorts.com/honeymoons-en.html">Honeymoons</a></li></ul></li><li class="shortcut8 item8 itemr3 level1 meeting"><a href="http://meetings.palaceresorts.com">meetings &amp; <br>events</a></li><li class="shortcut9 item9 itemr2 level1 promotion"><a href="http://www.palaceresorts.com/promotion-en.html">promotions</a></li><li class="shortcut10 item10 itemr1 level1 eventcalendar last"><a href="http://www.palaceresorts.com/eventcalendar-en.html">calendar of<br>events</a></li></ul>
+		<ul class="shortcuts"><li class="shortcut1 item1 itemr12 level1 default"><a href="http://www.palaceresorts.com/default-en.html">Tours</a></li><li class="shortcut2 item2 itemr11 level1 resorts"><a>resorts &amp; <br>destinations</a></li><li class="shortcut3 item3 itemr10 level1 promotion"><a href="http://www.palaceresorts.com/promotion-en.html">promotions</a></li><li class="shortcut4 item4 itemr9 level1 spa_golf has-submenu"><a href="http://www.palaceresorts.com/spa-en.html">Spa <br>&amp; Golf</a><ul class="menuLevel2"><li class="shortcut4-1 item1 itemr2 level2 spa"><a href="http://www.palaceresorts.com/spa-en.html">Spa</a></li><li class="shortcut4-2 item2 itemr1 level2 golf last"><a href="http://www.palaceresorts.com/golf-en.html">Golf</a></li></ul></li><li class="shortcut5 item5 itemr8 level1 pamperingincluded"><a href="http://www.palaceresorts.com/pamperingincluded-en.html">what's<br>included</a></li><li class="shortcut6 item6 itemr7 level1 findresorts"><a href="http://www.palaceresorts.com/findresorts-en.html">find the <br>best resort</a></li><li class="shortcut7 item7 itemr6 level1 activities"><a href="http://www.palaceresorts.com/activities-en.html">family<br>connection</a></li><li class="shortcut8 item8 itemr5 level1 wedding has-submenu"><a href="http://www.palaceresorts.com/wedding-en.html">weddings &amp;<br>honeymoons</a><ul class="menuLevel2"><li class="shortcut8-1 item1 itemr2 level2 weddings"><a href="http://www.palaceresorts.com/weddings/default-en.html" class="popup">Weddings</a></li><li class="shortcut8-2 item2 itemr1 level2 honeymoons last"><a href="http://www.palaceresorts.com/honeymoons-en.html">Honeymoons</a></li></ul></li><li class="shortcut9 item9 itemr4 level1 meeting"><a href="http://www.palacedifference.com" class="popup">meetings<br>&amp; events</a></li><li class="shortcut10 item10 itemr3 level1 gallery"><a href="http://www.palaceresorts.com/gallery-en.html">Photo<br>&amp; Video</a></li><li class="shortcut11 item11 itemr2 level1 eventcalendar"><a href="http://www.palaceresorts.com/eventcalendar-en.html">news <br>&amp; events</a></li><li class="shortcut12 item12 itemr1 level1 news last"><a href="http://www.palaceresorts.com/news-en.html"></a></li></ul>
 		<script type="text/javascript">
 		//<![CDATA[
 			condor.updatePageMenus = condor.updatePageMenus || function() {
@@ -468,9 +474,8 @@ s.t();
 		<h3>Cancun, Mexico</h3>
 		<ul class="cityHotels cancunHotels">
 			<li class="hotels"><a href="/moonpalace">Moon Palace Golf &amp; Spa Resort</a></li>
-			<li class="hotels"><a href="/cancunpalace">Cancun Palace</a></li>
-			<li class="hotels"><a href="/sunpalace">Sun Palace</a></li>
 			<li class="hotels"><a href="/beachpalace">Beach Palace</a></li>
+			<li class="hotels"><a href="/sunpalace">Sun Palace</a></li>
 			<li class="hotels"><a href="http://leblancsparesort.com">Le Blanc Spa Resort</a></li>
 		</ul>	
 	</li>
@@ -480,52 +485,43 @@ s.t();
 			<li class="hotels"><a href="/cozumelpalace">Cozumel Palace</a></li>
 		</ul>	
 	</li>
+	<li class="city playacar">
+		<h3>Playa del Carmen</h3>
+		<ul class="cityHotels playacarHotels">
+			<li class="hotels"><a href="/playacarpalace">Playacar Palace</a></li>
+		</ul>	
+	</li>
+</ul>
+<ul class="hotel-menu right">
 	<li class="city islamujeres">
 		<h3>Isla Mujeres, Mexico</h3>
 		<ul class="cityHotels islamujeresHotels">
 			<li class="hotels"><a href="/islamujerespalace">Isla Mujeres Palace</a></li>
 		</ul>	
 	</li>
-</ul>
-<ul class="hotel-menu right">
-	<li class="city rivieramaya">
-		<h3>Riviera Maya, Mexico</h3>
-		<ul class="cityHotels rivieramayaHotels">
-			<li class="hotels"><a href="/aventuraspa">Aventura Spa Palace</a></li>
-			<li class="hotels"><a href="/aventuracove">Aventura Cove Palace</a></li>
-			<li class="hotels"><a href="/playacarpalace">Playacar Palace</a></li>
-		</ul>	
-	</li>
-	<li class="city rivieranayarit">
-		<h3>Riviera Nayarit, Mexico</h3>
-		<ul class="cityHotels rivieranayaritHotels">
-			<li class="hotels"><a href="/vallartapalace">Vallarta Palace</a></li>
-		</ul>	
-	</li>
+
 	<li class="city puntacana">
 		<h3></h3>
 		<ul class="cityHotels puntacanaHotels">
 			<li class="hotels"><a href="http://www.palaceresorts.com/vallartapalace/"></a></li>
 		</ul>	
 	</li>
-</ul>		</div>
+</ul>
+
+
+
+		</div>
 	</div>
 	<!--[if IE]></div><![endif]-->
 	<!--[if IE]><div class="ie-wrapper"><![endif]-->
-	<div id="availability-checker" class="availability-checker-palaceresorts">
+
+		<div id="availability-checker" class="availability-checker-palaceresorts">
 		<h2>Check availability</h2>
 		<div id="form-wrapper">
-			<form id="booking-form" name="bookingform" action="" method="get" onsubmit="return bookingOnSubmit(this);">
-
-	<!--input type="hidden" name="Id" value="" /-->
-	<input type="hidden" id="ID" name="ID" value="">
-	<input type="hidden" id="Destino" name="Destino" value="">
-	<input name="language" type="hidden" value="en">
-	<input type="hidden" name="IsPackage" value="true">
-	<input type="hidden" name="air" value="false">
-	<input type="hidden" name="CodeAirport" value="">
-	<input type="hidden" name="Leavingfrom" value="">
+			<form id="booking-form" name="bookingform" target="_blank" action="http://www.palaceresorts.com/redirect.php" method="post" onsubmit="return bookingOnSubmit();">
 	
+	
+	<input name="language" type="hidden" value="en">
 
 <script type="text/javascript">
 //<![CDATA[
@@ -584,127 +580,50 @@ s.t();
 
 	function bookingOnSubmit(formEl) {
 	
-		var hotel = document.getElementById("hotel");
+		var hotel = document.bookingform.elements["hotel"];
 		var hotelSelected = hotel.options[hotel.selectedIndex].value;
 		
-		var country = document.getElementById("country");
-		var countrySelected = country.options[country.selectedIndex].value;
-		
-		var facilitySelected = "";
-
-		for( i = 0; i < document.bookingform.facility.length; i++ )
-		{
-			if( document.bookingform.facility[i].checked == true )
-			facilitySelected = document.bookingform.facility[i].value;
-		}
-		
-		if(facilitySelected == "resort_only" && (countrySelected == "US" || countrySelected == "Canada" || countrySelected == "Other")){
-		
-			document.bookingform.action = "http://www.palaceresorts.com/redirect-en.html";
-
-		} else {
-		
-			document.bookingform.method = "post";	
-			
-            if(facilitySelected == "with_air"){
-				document.bookingform.elements["air"].value="true";
-			}else{
-				document.bookingform.elements["air"].value="false";
-			}
-			
-			switch(hotelSelected){
-				case 'aventuracove':
-					document.bookingform.elements["ID"].value = '1940';
-					document.bookingform.elements["Destino"].value = '13';
-				break;
-				
-				case 'aventuraspa':
-					document.bookingform.elements["ID"].value = '324';
-					document.bookingform.elements["Destino"].value = '13';
-				break;
-				
-				case 'beachpalace':
-					document.bookingform.elements["ID"].value = '325';
-					document.bookingform.elements["Destino"].value = '2';
-				break;
-				
-				case 'cancunpalace':
-					document.bookingform.elements["ID"].value = '326';
-					document.bookingform.elements["Destino"].value = '2';
-				break;			
-				
-				case 'cozumelpalace':
-					document.bookingform.elements["ID"].value = '6';
-					document.bookingform.elements["Destino"].value = '4';
-				break;
-				
-				case 'islamujerespalace':
-					document.bookingform.elements["ID"].value = '1462';
-					document.bookingform.elements["Destino"].value = '6';
-				break;
-				
-				case 'moonpalace':
-					document.bookingform.elements["ID"].value = '327';
-					document.bookingform.elements["Destino"].value = '2';
-				break;
-				
-				case 'playacarpalace':
-					document.bookingform.elements["ID"].value = '2';
-					document.bookingform.elements["Destino"].value = '16';
-				break;
-				
-				case 'sunpalace':
-					document.bookingform.elements["ID"].value = '329';
-					document.bookingform.elements["Destino"].value = '2';
-				break;
-				
-				case 'vallartapalace':
-					document.bookingform.elements["ID"].value = '466';
-					document.bookingform.elements["Destino"].value = '112';
-				break;
-			}
-			
-			document.bookingform.action = "http://www.palaceresorts.com/"+"redirect.php";
-	
-		}
-			
-				
-		if((hotel.selectedIndex == 0) && (country.selectedIndex == 0)){
+		var country = document.bookingform.elements["country"];
+		var countrySelected = country.options[country.selectedIndex].value;		
+						
+		if((document.bookingform.hotel.selectedIndex == 0) && (document.bookingform.country.selectedIndex == 0)){
 			alert("You haven\'t selected following filds" + '\n' + "Destination, Country of Origin");
 			return false;
-		}else if(hotel.selectedIndex == 0){
+		}else if(document.bookingform.hotel.selectedIndex == 0){
 			alert("Please Select the Destination");
 			return false;
-		}else if(country.selectedIndex == 0){
+		}else if(document.bookingform.country.selectedIndex == 0){
 			alert("Please Select the Country of Origin");
 			return false;
-		}/* else if(adultSelected == ""){
-			alert("Please Select the Number of Adults");
-			return false;
-		} */else{
+		}else{
 			return true;
 		}
 	}
 	
 //]]>
 </script>
-			<div class="hotellist">
+			<div class="hotellist field">
 				<label for="selecthotel"></label>
 				<select id="hotel" name="hotel">
 					<option selected="" value="">choose a resort</option>
-												<option value="aventuracove" class="aventuracove">Aventura Cove Palace</option>
-												<option value="aventuraspa" class="aventuraspa">Aventura Spa Palace</option>
-												<option value="beachpalace" class="beachpalace">Beach Palace</option>
-												<option value="cancunpalace" class="cancunpalace">Cancun Palace</option>
-												<option value="islamujerespalace" class="islamujerespalace">Isla Mujeres Palace</option>
-												<option value="moonpalace" class="moonpalace">Moon Palace Golf and Spa Resort</option>
-												<option value="playacarpalace" class="playacarpalace">Playacar Palace playa del Carmen</option>
-												<option value="vallartapalace" class="vallartapalace">Vallarta Palace Puerto Vallarta</option>
-												<option value="sunpalace" class="sunpalace">Sun Palace</option>
-												<option value="cozumelpalace" class="cozumelpalace">Cozumel Palace</option>
-									</select>
+  						<optgroup label="Cancun">
+							<option value="moonpalace" class="moonpalace">Moon Palace Golf and Spa Resort</option>
+							<option value="beachpalace" class="beachpalace">Beach Palace</option>
+							<option value="sunpalace" class="sunpalace">Sun Palace</option>
+							<option value="leblanc" class="leblanc"> Le Blanc Spa Resort</option>
+  						</optgroup>
+  						<optgroup label="Cozumel">
+							<option value="cozumelpalace" class="cozumelpalace">Cozumel Palace</option>
+  						</optgroup>
+  						<optgroup label="Playa del Carmen">
+							<option value="playacarpalace" class="playacarpalace">Playacar Palace playa del Carmen</option>
+  						</optgroup>
+  						<optgroup label="Isla Mujeres">
+							<option value="islamujerespalace" class="islamujerespalace">Isla Mujeres Palace</option>
+  						</optgroup>
+				</select>
 			</div>
-			<div class="options choose">
+			<div class="options choose field">
 				<div class="optOne radio">
 					<input type="radio" name="facility" value="resort_only" checked="">
 					<label id="resortonlylbl" for="guests">resort</label>
@@ -715,7 +634,7 @@ s.t();
 				</div>
 			</div>
 			
-			<div class="country choose">
+			<div class="country choose field">
 				<select id="country" name="country">
 					<option selected="" value="">Country of Origin</option>
 					<option value="US">United States</option>
@@ -724,17 +643,17 @@ s.t();
 					<option value="Argentina">Argentina</option>
 					<option value="Brazil">Brazil</option>
 					<option value="SA">Rest of South America</option>
-					<option value="Other">Other</option>
+					<option value="US">Other</option>
 				</select>
 			</div>
 				
-			<div class="date check-in">
-				<input type="text" id="date-in" name="CheckIn" onchange="nightsChanged();" value="06/13/2012">
+			<div class="date check-in field">
+				<input type="text" id="date-in" name="CheckIn" onchange="nightsChanged();" value="12/18/2012">
 				<label id="date-format-helper" class="date-format-helpers" for="date-in">mm/dd/yy</label>
 			</div>	
 			
-			<div class="date check-out">
-				<input type="text" id="date-out" name="CheckOut" value="06/14/2012">
+			<div class="date check-out field">
+				<input type="text" id="date-out" name="CheckOut" value="12/25/2012">
 				<label id="date-format-helperD" class="date-format-helpers" for="date-out">mm/dd/yy</label>
 			</div>
 
@@ -760,12 +679,12 @@ s.t();
 				</select>
 			</div>-->
 			
-			<button type="submit" class="go booking-link tracking-link" value="" title="Check availability">Book My Stay</button>
+			<button type="submit" class="go booking-link tracking-link field" value="" title="Check availability">Book My Stay</button>
 
 		</form>
 		</div>
-	</div>	
-	<!--[if IE]></div><![endif]-->
+	</div>
+		<!--[if IE]></div><![endif]-->
 	<!--[if IE]><div class="ie-wrapper"><![endif]-->
 	<div id="newsletter" class="extra-content">
 		<h2></h2>
@@ -784,15 +703,15 @@ s.t();
 	</a>
 </div>	
 
-	<div id="search">
+	<!-- <div id="search">
 		<form id="cse-search-box" action="http://www.google.com/cse" class="siteSearchForm">
-			<input type="hidden" value="013054793523127459436:tczbwonr3fg" name="cx">
-			<input type="hidden" value="UTF-8" name="ie">
+			<input type="hidden" value="013054793523127459436:tczbwonr3fg" name="cx" />
+			<input type="hidden" value="UTF-8" name="ie" />
 			<label class="search-label" for="searchLabel">search</label>
-			<input type="text" class="siteSearchInput" value="" size="40" name="q">
-			<input type="submit" class="siteSearchBtn" value="" name="sa">
+			<input type="text" class="siteSearchInput" value="" size="40" name="q" />
+			<input type="submit" class="siteSearchBtn" value="" name="sa" />
 		</form>
-	</div>
+	</div> -->
 	<div id="social-media">
 					<a href="https://www.facebook.com/palaceresorts" target="_blank">
 			<img class="fb default-icon" src="http://www.palaceresorts.com/templates/group/images/fb.jpg" width="26" height="26" alt="">
@@ -810,8 +729,9 @@ s.t();
 			</a>
 			
 			</div>	
+
 	<div id="misc-links">
-		<ul class="shortcuts"><li class="shortcut1 item1 itemr3 level1 palaceResorts"><a href="http://www.palaceresorts.com/default-en.html" class="popup"></a></li><li class="shortcut2 item2 itemr2 level1 travelAgents"><a href="http://www.allinagents.com" class="popup">travel Agents</a></li><li class="shortcut3 item3 itemr1 level1 login last"><a href="http://palacepremier.com/login" class="popup">member login</a></li></ul>
+		<ul class="shortcuts"><li class="shortcut1 item1 itemr3 level1 palaceResorts"><a href="http://www.palaceresorts.com/default-en.html"></a></li><li class="shortcut2 item2 itemr2 level1 travelAgents has-submenu"><a>Travel Agents</a><ul class="menuLevel2"><li class="shortcut2-1 item1 itemr5 level2 travelAgent1"><a href="http://www.palaceresortsagents.com" class="popup">USA/Canada</a></li><li class="shortcut2-2 item2 itemr4 level2 travelAgent2"><a href="http://www3.palaceresorts.com/bcm/mx/" class="popup">Mexico</a></li><li class="shortcut2-3 item3 itemr3 level2 travelAgent3"><a href="http://www3.palaceresorts.com/bcm/pt/" class="popup">LATAM Portuguese</a></li><li class="shortcut2-4 item4 itemr2 level2 travelAgent4"><a href="http://www3.palaceresorts.com/bcm/es/" class="popup">LATAM Spanish</a></li><li class="shortcut2-5 item5 itemr1 level2 travelAgent5 last"><a href="http://www3.palaceresorts.com/bcm/gb/" class="popup">Great Britain</a></li></ul></li><li class="shortcut3 item3 itemr1 level1 login last"><a href="http://palacepremier.com/login" class="popup">member login</a></li></ul>
 		<script type="text/javascript">
 		//<![CDATA[
 			condor.updatePageMenus = condor.updatePageMenus || function() {
@@ -881,7 +801,7 @@ s.t();
 	</div>	
 	
 	<div id="palacelogo">
-							<a href="http://www.palacefoundation.org" target="_blank"><img src="http://www.palaceresorts.com/d/palaceresorts/images/palacefundation-main-en.jpg?4fd8cbd1ec4df" width="55" height="33" class="home-image" alt=""></a>
+							<a href="http://www.palacefoundation.org" target="_blank"><img src="http://www.palaceresorts.com/d/palaceresorts/images/palacefundation-main-en.jpg?50bc1838e1dcf" width="55" height="33" class="home-image" alt=""></a>
 								  </div>	
 	
 	
@@ -891,13 +811,13 @@ s.t();
 <!--[if IE]><div class="ie-wrapper"><![endif]-->
 <div id="main-visual">
 		<div id="mainvisual-wrapper">
-				<div id="slideshow4fd8cbd2022c9" class="slideshow">
-			        <img class="slide" src="http://www.palaceresorts.com/d/palaceresorts/media/Vallarta/__thumbs_1450_312_crop/C__WebServ_Webs_Fundacion_folletos_download_252705834_VP_Exterior_VP_pool_0001.jpg?4fd8cbd210947" alt="">
+				<div id="slideshow50bc18392718e" class="slideshow">
+			        <img class="slide" src="http://www.palaceresorts.com/d/palaceresorts/media/Playacar/__thumbs_1450_312_crop/C__WebServ_Webs_Fundacion_folletos_download_298941524_PlP_Exterior_pl_ply_mr_0056a.jpg?50bc183943e83" alt="">
 			<script type="text/javascript">
 			//<![CDATA[
 				jQuery(document).ready(function(){
-					var slidesHtml = "<img class=\"slide\" src=\"http:\/\/www.palaceresorts.com\/d\/palaceresorts\/media\/Vallarta\/__thumbs_1450_312_crop\/C__WebServ_Webs_Fundacion_folletos_download_252705834_VP_Exterior_VP_pool_0001.jpg?4fd8cbd2070e9\" alt=\"\" \/>        <img class=\"slide\" src=\"http:\/\/www.palaceresorts.com\/d\/palaceresorts\/media\/Playacar\/__thumbs_1450_312_crop\/C__WebServ_Webs_Fundacion_folletos_download_298941524_PlP_Exterior_pl_ply_mr_0056a.jpg?4fd8cbd207ca1\" alt=\"\" \/>        <img class=\"slide\" src=\"http:\/\/www.palaceresorts.com\/d\/palaceresorts\/media\/Playacar\/__thumbs_1450_312_crop\/C__WebServ_Webs_Fundacion_folletos_download_298941524_PlP_Restaurante_PP39_HiRes.jpg?4fd8cbd208c42\" alt=\"\" \/>        <img class=\"slide\" src=\"http:\/\/www.palaceresorts.com\/d\/palaceresorts\/media\/Isla_Mujeres\/__thumbs_1450_312_crop\/C__WebServ_Webs_Fundacion_folletos_download_952152224_IMP_Rooms__U4W3559.jpg?4fd8cbd2097fa\" alt=\"\" \/>";
-					jQuery('#slideshow4fd8cbd2022c9').html(slidesHtml).cycle(jQuery.extend({}, {timeout:9000}));				});
+					var slidesHtml = "<img class=\"slide\" src=\"http:\/\/www.palaceresorts.com\/d\/palaceresorts\/media\/Playacar\/__thumbs_1450_312_crop\/C__WebServ_Webs_Fundacion_folletos_download_298941524_PlP_Exterior_pl_ply_mr_0056a.jpg?50bc18392ee94\" alt=\"\" \/>        <img class=\"slide\" src=\"http:\/\/www.palaceresorts.com\/d\/palaceresorts\/media\/Playacar\/__thumbs_1450_312_crop\/C__WebServ_Webs_Fundacion_folletos_download_298941524_PlP_Restaurante_PP39_HiRes.jpg?50bc1839330f7\" alt=\"\" \/>        <img class=\"slide\" src=\"http:\/\/www.palaceresorts.com\/d\/palaceresorts\/media\/Isla_Mujeres\/__thumbs_1450_312_crop\/C__WebServ_Webs_Fundacion_folletos_download_952152224_IMP_Rooms__U4W3559.jpg?50bc183937362\" alt=\"\" \/>";
+					jQuery('#slideshow50bc18392718e').html(slidesHtml).cycle(jQuery.extend({}, {timeout:9000}));				});
 			//]]>
 			</script>
 		</div>	
@@ -934,4 +854,4 @@ s.t();
 
 
 
-<!--74 Queries - 0.38747000694275 seconds --></body></html>
+<!--101 Queries - 0.87008595466614 seconds --></body></html>
