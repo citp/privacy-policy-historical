@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracialmovievault.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607040239id_/http%3A//ww2.interracialmovievault.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialmovievault.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203063525id_/http%3A//track.interracialmovievault.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
