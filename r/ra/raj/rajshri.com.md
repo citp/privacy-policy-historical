@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601050157id_/http%3A//www.rajshri.com/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204002910id_/http%3A//rajshri.com/Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
