@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511053920id_/http%3A//www.0800-horoscope.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203141256id_/http%3A//www.0800-horoscope.com/privacy.php) for the most accurate reproduction.*
 
 # 0800-horoscope.com - Privacy Policy
 
