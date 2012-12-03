@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the jpayplans.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603130421id_/http%3A//www.jpayplans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpayplans.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203024542id_/http%3A//www.jpayplans.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Provide security by RBSL
 
 ## Privacy Statements
 
-RBSL gathers Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
+Ready Bytes Software Labs gathers Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
   * **Electronic Newsletters**  
-We will offer a free electronic newsletter to users.Ready Bytes Software Labs gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
+We will offer a free electronic newsletter to users. Ready Bytes Software Labs secures the email addresses of users who voluntarily subscribe. Users can remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
   * **Surveys**  
-Ready Bytes Software Labs may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
+Ready Bytes Software Labs may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
 
 
 
