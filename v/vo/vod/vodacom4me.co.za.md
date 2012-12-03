@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodacom4me.co.za privacy policy that was archived on 2012-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120410192008id_/http%3A//www.vodacom.com/ats_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodacom4me.co.za privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203084825id_/http%3A//www.vodacom.com/ats_privacy.php) for the most accurate reproduction.*
 
 # Vodacom - Privacy Policy
 
@@ -43,4 +43,4 @@ Vodacom reserves the right to amend or modify this Security and Privacy statemen
 Whilst your name and e-mail address which is supplied to us when registering for the Services will not automatically be made available to the recipient of your SMS, we nevertheless are able to trace the source of an SMS, and such information will be made available to the authorities if required by law.
 
   
-Monitoring or recording of your calls, e-mails or SMS's may take place for business purposes to the extent permitted by law, such as for example quality control and training for the purposes of marketing and improving the Services. However, in these situations, we will not disclose information that could be used to personally identify you.
+Monitoring or recording of your calls, e-mails or SMS's may take place for business purposes to the extent permitted by law, such as for example quality control, detecting fraud and training for the purposes of marketing and improving the Services. However, in these situations, we will not disclose information that could be used to personally identify you.
